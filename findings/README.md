@@ -1,6 +1,6 @@
 # Research Findings
 
-App-idea validation research output. Standardized layout produced by the `validate-app-idea` skill and the four primitive research skills.
+App-opportunity discovery output. Standardized layout produced by the `app-radar` skill and the four primitive research skills.
 
 ## Layout
 

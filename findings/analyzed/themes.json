@@ -1,0 +1,2433 @@
+{
+  "TR/astrology": {
+    "counts": {
+      "pricing_billing": 10,
+      "too_many_ads": 1,
+      "inaccurate": 1,
+      "crashes_bugs": 1,
+      "language_gap": 5,
+      "support_unresponsive": 1
+    },
+    "top_quotes": {
+      "pricing_billing": [
+        {
+          "score": 2,
+          "thumbs": 4,
+          "text": "İlk sorunun ücretsiz olduğunu söylediler fakat bende böyle birşey olmadı. Deneme için kullanamıyorum bile."
+        },
+        {
+          "score": 1,
+          "thumbs": 4,
+          "text": "Ücretli soru sordum fakat 24 saat geçti soruma geri dönüş yapılmadı. Arkadaşlar ücretli baktırırken dikkatli olun!"
+        },
+        {
+          "score": 1,
+          "thumbs": 2,
+          "text": "Soru sordum anlamadıklarını söylediler tekrar ücretsiz hakkım olduğunu söylediler tekrar sordum geri dönülmedi bende uygulamayı kaldırdım"
+        },
+        {
+          "score": 1,
+          "thumbs": 2,
+          "text": "Ücretsiz nerede veriyor pardon ? Hemen tıkla satın al çıktı soru yazdigimda"
+        },
+        {
+          "score": 1,
+          "thumbs": 1,
+          "text": "ilk yorum paralı olmamalı belki yorumu beğenmeyecegiz önce güven sağlamalı ilk yorum ücretsiz olmalı."
+        },
+        {
+          "score": 1,
+          "thumbs": 1,
+          "text": "Ücretsizmi ne ücretsizi ilk soru ücretsiz falan değil sordum ilk soruyu mesaj gönderilmedi"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "Bir kez olsun ücretsiz soru soramadım"
+        },
+        {
+          "score": 2,
+          "thumbs": 0,
+          "text": "Güzele benziyor ama denemek için ilk soruyu ücretsiz yapsaladı"
+        },
+        {
+          "score": 2,
+          "thumbs": 0,
+          "text": "Neden ücretsiz tek bir soru hakkımız yok?"
+        },
+        {
+          "score": 2,
+          "thumbs": 0,
+          "text": "Doğum günümde hediye edilen ücretsiz soru hakkını doğum günümden sonra geri aldılar saçmalık"
+        }
+      ],
+      "too_many_ads": [
+        {
+          "score": 1,
+          "thumbs": 1,
+          "text": "Ne kadar iyi bir uygulama olsa da doğum tarihi , ad soyad istenen yerde ben yokum üzgünüm....."
+        }
+      ],
+      "inaccurate": [
+        {
+          "score": 2,
+          "thumbs": 0,
+          "text": "Doğum haritam tamamen yanlış yengeç burcuyum ikizler çıktı yükselenim yay akrep yazıyor. Ve ayrıca tek bir soru hakkımız olması kötü."
+        }
+      ],
+      "crashes_bugs": [
+        {
+          "score": 2,
+          "thumbs": 0,
+          "text": "Bedava soru hakkı çalışmıyor"
+        }
+      ],
+      "language_gap": [
+        {
+          "score": 1,
+          "thumbs": 1,
+          "text": "Türkçe çeviri var mı"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "Türkçe olmadığı için anlayamıyorum üzgünüm"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "Türkçe özelliği yok indirdim ama kullanamıyorum"
+        },
+        {
+          "score": 2,
+          "thumbs": 0,
+          "text": "beğenmedim yazdığı cümleler çok karışık ne anlatmak istediği belli değil keşke türkçe dil desteği olsaydı 👎👎"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "Türkçesi niye yok ki"
+        }
+      ],
+      "support_unresponsive": [
+        {
+          "score": 1,
+          "thumbs": 4,
+          "text": "Para tuzağı. Tek bir soruma cevap vermedi asistanı yönlendiriyor.39 lira para istiyor😡 Buraya güzel yorum yapanları 2 soruma cevap verdi diyenleri anlamıyorum. 5 para etmez"
+        }
+      ]
+    }
+  },
+  "ID/selfcare": {
+    "counts": {
+      "pricing_billing": 4
+    },
+    "top_quotes": {
+      "pricing_billing": [
+        {
+          "score": 2,
+          "thumbs": 30,
+          "text": "Akses fitur pada akun free sangat terbatas, harus berlangganan agar bisa full akses semua fiturnya...."
+        },
+        {
+          "score": 2,
+          "thumbs": 30,
+          "text": "Akses fitur pada akun free sangat terbatas, harus berlangganan agar bisa full akses semua fiturnya...."
+        },
+        {
+          "score": 1,
+          "thumbs": 13,
+          "text": "Sangat bagus.. Hanya saja biaya berlangganan terlalu mahal 600 rb (termasuk pajak) dan tidak ada pilihan bayar per bulan"
+        },
+        {
+          "score": 1,
+          "thumbs": 13,
+          "text": "Sangat bagus.. Hanya saja biaya berlangganan terlalu mahal 600 rb (termasuk pajak) dan tidak ada pilihan bayar per bulan"
+        }
+      ]
+    }
+  },
+  "BR/selfcare": {
+    "counts": {
+      "language_gap": 21,
+      "pricing_billing": 3,
+      "too_many_ads": 2,
+      "ai_complaint": 2,
+      "paywall_locked": 1
+    },
+    "top_quotes": {
+      "language_gap": [
+        {
+          "score": 1,
+          "thumbs": 20,
+          "text": "O Aplicativo parece ótimo, porém não tem em outros idiomas o que detona a experiência do usuário"
+        },
+        {
+          "score": 1,
+          "thumbs": 14,
+          "text": "Não presta porque não tem em português."
+        },
+        {
+          "score": 1,
+          "thumbs": 12,
+          "text": "Faltou tradução para o português"
+        },
+        {
+          "score": 1,
+          "thumbs": 8,
+          "text": "Não tem em português brasil"
+        },
+        {
+          "score": 2,
+          "thumbs": 6,
+          "text": "Infelizmente não consigo usar igual aos demais apps semelhantes porque esse não está em Português do Brasil e não tem a opção de escolher o idioma do país... só tem em um idioma, só no idioma Inglês. Fica a sugestão para melhorias nesse aspecto, para que possam atender melhor a m"
+        },
+        {
+          "score": 2,
+          "thumbs": 6,
+          "text": "Infelizmente não consigo usar igual aos demais apps semelhantes porque esse não está em Português do Brasil e não tem a opção de escolher o idioma do país... só tem em um idioma, só no idioma Inglês. Fica a sugestão para melhorias nesse aspecto, para que possam atender melhor a m"
+        },
+        {
+          "score": 2,
+          "thumbs": 4,
+          "text": "O app é sensacional, a ideia é sensacional, porém, para a realidade do brasileiro, o valor é extremamente caro. Gostaria de ajudar os desenvolvedores, porém, muito caro! Gostaria de indicar o app para algumas pessoas, porém, não tem o português, infelizmente nem todos entendem o "
+        },
+        {
+          "score": 2,
+          "thumbs": 4,
+          "text": "Parece ótimo, mas sem a tradução em português pra mim não dá... tive que desinstalar"
+        },
+        {
+          "score": 1,
+          "thumbs": 3,
+          "text": "não tem no idioma em português"
+        },
+        {
+          "score": 1,
+          "thumbs": 3,
+          "text": "poderia ter em português 😞"
+        },
+        {
+          "score": 2,
+          "thumbs": 3,
+          "text": "Português por favor! Muito obrigado."
+        },
+        {
+          "score": 1,
+          "thumbs": 2,
+          "text": "É todo em inglês, e não tem como mudar o idioma."
+        },
+        {
+          "score": 1,
+          "thumbs": 2,
+          "text": "PLEASE TRANSLATE TO BRAZILIAN PORTUGUESE, THIS APP IS SO GOOD TO BE ONLY AVAILABLE IN ENGLISH"
+        },
+        {
+          "score": 1,
+          "thumbs": 2,
+          "text": "Não tem modificação de idioma?"
+        },
+        {
+          "score": 1,
+          "thumbs": 2,
+          "text": "É todo em inglês, e não tem como mudar o idioma."
+        },
+        {
+          "score": 1,
+          "thumbs": 1,
+          "text": "Envio e-mail a empresa solicitando uma possível versão em português e, depois de meses, nenhuma resposta. O app é maralhoso, mas infelizmente só ele mesmo. Decepção. Infelizmente, desinstalando..."
+        },
+        {
+          "score": 2,
+          "thumbs": 1,
+          "text": "I wanted to recommend it to my friends at school and church, but the Portuguese language is missing."
+        },
+        {
+          "score": 2,
+          "thumbs": 1,
+          "text": "Não é em português brasileiro"
+        },
+        {
+          "score": 1,
+          "thumbs": 1,
+          "text": "Envio e-mail a empresa solicitando uma possível versão em português e, depois de meses, nenhuma resposta. O app é maralhoso, mas infelizmente só ele mesmo. Decepção. Infelizmente, desinstalando..."
+        },
+        {
+          "score": 2,
+          "thumbs": 0,
+          "text": "Queria que tivesse tradução pra português"
+        },
+        {
+          "score": 2,
+          "thumbs": 0,
+          "text": "Queria que tivesse tradução pra português"
+        }
+      ],
+      "pricing_billing": [
+        {
+          "score": 1,
+          "thumbs": 5,
+          "text": "Eu apoiava o app e usei por 11 meses até descobrir que Finch usa IA generativa para fazer seus anúncios e parte da programação (que resulta no péssimo funcionamento do app em muitos dispositivos como o meu). Além do mais, a empresa usa as ideias de possíveis funcionários antes da"
+        },
+        {
+          "score": 1,
+          "thumbs": 5,
+          "text": "Eu apoiava o app e usei por 11 meses até descobrir que Finch usa IA generativa para fazer seus anúncios e parte da programação (que resulta no péssimo funcionamento do app em muitos dispositivos como o meu). Além do mais, a empresa usa as ideias de possíveis funcionários antes da"
+        },
+        {
+          "score": 2,
+          "thumbs": 4,
+          "text": "O app é sensacional, a ideia é sensacional, porém, para a realidade do brasileiro, o valor é extremamente caro. Gostaria de ajudar os desenvolvedores, porém, muito caro! Gostaria de indicar o app para algumas pessoas, porém, não tem o português, infelizmente nem todos entendem o "
+        }
+      ],
+      "too_many_ads": [
+        {
+          "score": 1,
+          "thumbs": 5,
+          "text": "Eu apoiava o app e usei por 11 meses até descobrir que Finch usa IA generativa para fazer seus anúncios e parte da programação (que resulta no péssimo funcionamento do app em muitos dispositivos como o meu). Além do mais, a empresa usa as ideias de possíveis funcionários antes da"
+        },
+        {
+          "score": 1,
+          "thumbs": 5,
+          "text": "Eu apoiava o app e usei por 11 meses até descobrir que Finch usa IA generativa para fazer seus anúncios e parte da programação (que resulta no péssimo funcionamento do app em muitos dispositivos como o meu). Além do mais, a empresa usa as ideias de possíveis funcionários antes da"
+        }
+      ],
+      "ai_complaint": [
+        {
+          "score": 1,
+          "thumbs": 5,
+          "text": "Eu apoiava o app e usei por 11 meses até descobrir que Finch usa IA generativa para fazer seus anúncios e parte da programação (que resulta no péssimo funcionamento do app em muitos dispositivos como o meu). Além do mais, a empresa usa as ideias de possíveis funcionários antes da"
+        },
+        {
+          "score": 1,
+          "thumbs": 5,
+          "text": "Eu apoiava o app e usei por 11 meses até descobrir que Finch usa IA generativa para fazer seus anúncios e parte da programação (que resulta no péssimo funcionamento do app em muitos dispositivos como o meu). Além do mais, a empresa usa as ideias de possíveis funcionários antes da"
+        }
+      ],
+      "paywall_locked": [
+        {
+          "score": 1,
+          "thumbs": 1,
+          "text": "Behaved weirdly in my phone without my consent. Opened by itself then tried to buy a premium plan with my credit card without my consent..."
+        }
+      ]
+    }
+  },
+  "BR/astrology": {
+    "counts": {
+      "pricing_billing": 14,
+      "too_many_ads": 4,
+      "crashes_bugs": 19,
+      "ai_complaint": 1,
+      "refund_denied": 5,
+      "paywall_locked": 8,
+      "inaccurate": 1
+    },
+    "top_quotes": {
+      "pricing_billing": [
+        {
+          "score": 1,
+          "thumbs": 9,
+          "text": "Paguei a promoção de 9,90, e pediu para eu pagar novamente para desbloquear, paguei 2 vezes e deu o preço normal, ou seja, promoção nao tem nada, é só pra fazer de otaria mesmo. Alem de que simplesmente o premium não desbloqueia por NADA, ja tentei de tudo e não sei como pedir re"
+        },
+        {
+          "score": 1,
+          "thumbs": 3,
+          "text": "Estou decepcionada. Eu paguei o recurso Premium, conferi no meu cartão e foi registrada a compra mas eu fui acessar o recurso Premium não consegui, ficou como se eu não tivesse pago nada. Mas no meu cartão eu tenho o registro da compra 😠"
+        },
+        {
+          "score": 1,
+          "thumbs": 2,
+          "text": "me roubaram seus fdp, fiz uma instalação paguei e não fiz assinatura para vcs me cobrarem. Depois do segundo mês que eu descobrir essa cobrança já cancelei meu cartão e vou procurar meus direitos. Só fiz uma consulta, não fiz assinatura."
+        },
+        {
+          "score": 1,
+          "thumbs": 1,
+          "text": "péssimo um anúncio falso diazi cobrar 1 leal pelo retrato de alma me cobraram mais de 5 reais e detalhe um retrato que nunca recebi"
+        },
+        {
+          "score": 1,
+          "thumbs": 1,
+          "text": "Fiz tudo,paguei,mas não recebi,fiquei até com medo de ser golpe."
+        },
+        {
+          "score": 1,
+          "thumbs": 1,
+          "text": "Paguei 19,90 e nao recebi nada demais. So mensagens prontas que dariam certo pra toda população. Decepcionada."
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "ao menos, colocavam publicidade super caro e tudo bloqueado"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "Estava tudo bem até eu pedir o reembolso após cancelar. E ai fraude no reembolso"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "paguei por uma leitura de mão e depois tiraram quase 160 reais fo meu cartão, era para ser no máximo 5, e nem fiz nada no app. lixo"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "decepção. Paguei e não liberaram o acesso aos recursos do app."
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "cobram sem ter feito assinatura, um lixo! golpe!"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "quero ser reembolsado pós vcs continuam cobrando sem eu usar"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "Gente sempre paguei é liberava na hora fui pagar ontem eles não me liberou é não tem ninguém pra ajudar a gente essa situação cuidado"
+        },
+        {
+          "score": 2,
+          "thumbs": 0,
+          "text": "Era muito bom e completo, mas tudo tem que pagar para saber completamente e o preço é muito caro."
+        }
+      ],
+      "too_many_ads": [
+        {
+          "score": 1,
+          "thumbs": 1,
+          "text": "péssimo um anúncio falso diazi cobrar 1 leal pelo retrato de alma me cobraram mais de 5 reais e detalhe um retrato que nunca recebi"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "ao menos, colocavam publicidade super caro e tudo bloqueado"
+        },
+        {
+          "score": 2,
+          "thumbs": 0,
+          "text": "tem anúncio para as coisas boas, é a mesma coisa do que pegar no Google só que no Google as respostas vem mais rápido e com mais informação do que esse app, muito ruim não recomendo"
+        },
+        {
+          "score": 2,
+          "thumbs": 0,
+          "text": "adquiri a versão paga com liberação dos recursos e não foi bem isso . considero uma propaganda enganosa. não aparece uma opção de cancelar no app"
+        }
+      ],
+      "crashes_bugs": [
+        {
+          "score": 2,
+          "thumbs": 19,
+          "text": "Tem umas funcionalidades interessantes, há potencial, mas o serviço é amador. Ñ consigo confiar na informação. Reportei um erro grave da IA, q ñ consegue ler a informação disponível. Ou seja, ñ é apenas falha de interpretação, um bug de aprendizado. Isso é algo básico. Deram-me u"
+        },
+        {
+          "score": 1,
+          "thumbs": 6,
+          "text": "aplicativo tá horrível desde a atualização, travamentos, bugs, horrível, consigo nem entrar que fica em tela branca"
+        },
+        {
+          "score": 1,
+          "thumbs": 5,
+          "text": "Não funciona, criei uma conta e só aparece uma imagem roxa com um sol, não dá pra fazer nada, não aparece nada"
+        },
+        {
+          "score": 1,
+          "thumbs": 1,
+          "text": "trava direto, péssima performance."
+        },
+        {
+          "score": 1,
+          "thumbs": 1,
+          "text": "app há 2 semanas com bug, não abre por nada."
+        },
+        {
+          "score": 1,
+          "thumbs": 1,
+          "text": "aplicativo e site super bugado."
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "péssimo, mto travado, não funciona nada."
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "horrível, não funciona, vc abre ele e só fica em tela branca"
+        },
+        {
+          "score": 2,
+          "thumbs": 0,
+          "text": "trava demais"
+        },
+        {
+          "score": 2,
+          "thumbs": 0,
+          "text": "Gosto do app, mas o atendimento é bem ruim, sobretudo quando precisa dar uma pausa na assinatura, você não tem atenção mínima pra resolver um problema no funcionamento do app. Lamentável."
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "muito ruim trava toda hora e não deixaram eu criar meu mapa astral"
+        },
+        {
+          "score": 2,
+          "thumbs": 0,
+          "text": "muito lento demora muito a carregar sendo que o wifi tá bom"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "aparece que um erro inesperado aconteceu e não abre."
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "o app é bom mais o problema é que ele é cheio de bug quando eu vou entrar na conta só aparece uma imagem carregando e não entra"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "o app bugou e não voltou a funcionar mais desde abril de 2025"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "da bug"
+        },
+        {
+          "score": 2,
+          "thumbs": 0,
+          "text": "O app anda travando, já desinstalei e reinstalei o app voltou a funcionar e em poucos meses voltou a travar.Quando funciona fica tudo certo!"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "O app está apresentando problemas quando vc clika para (ler mais) sobre o dia atual. Ele mostra erro. Porém se vc clika em reportar erro ele sai. Por favor verificar pq nao consigo acessar as informacoes."
+        },
+        {
+          "score": 2,
+          "thumbs": 0,
+          "text": "Aplicativo da erro, abre quando quer, eu so consigo mesmo usar via site. Precisam urgente corrigir isso"
+        }
+      ],
+      "ai_complaint": [
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "Estava tudo bem até eu pedir o reembolso após cancelar. E ai fraude no reembolso"
+        }
+      ],
+      "refund_denied": [
+        {
+          "score": 1,
+          "thumbs": 9,
+          "text": "Paguei a promoção de 9,90, e pediu para eu pagar novamente para desbloquear, paguei 2 vezes e deu o preço normal, ou seja, promoção nao tem nada, é só pra fazer de otaria mesmo. Alem de que simplesmente o premium não desbloqueia por NADA, ja tentei de tudo e não sei como pedir re"
+        },
+        {
+          "score": 1,
+          "thumbs": 2,
+          "text": "me roubaram seus fdp, fiz uma instalação paguei e não fiz assinatura para vcs me cobrarem. Depois do segundo mês que eu descobrir essa cobrança já cancelei meu cartão e vou procurar meus direitos. Só fiz uma consulta, não fiz assinatura."
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "Estava tudo bem até eu pedir o reembolso após cancelar. E ai fraude no reembolso"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "Não adquiram a assinatura tô tentando cancelar faz 1 mês"
+        },
+        {
+          "score": 2,
+          "thumbs": 0,
+          "text": "adquiri a versão paga com liberação dos recursos e não foi bem isso . considero uma propaganda enganosa. não aparece uma opção de cancelar no app"
+        }
+      ],
+      "paywall_locked": [
+        {
+          "score": 1,
+          "thumbs": 9,
+          "text": "Paguei a promoção de 9,90, e pediu para eu pagar novamente para desbloquear, paguei 2 vezes e deu o preço normal, ou seja, promoção nao tem nada, é só pra fazer de otaria mesmo. Alem de que simplesmente o premium não desbloqueia por NADA, ja tentei de tudo e não sei como pedir re"
+        },
+        {
+          "score": 1,
+          "thumbs": 4,
+          "text": "Já foi bom. Hoje tudo é pago, a experiência do usuário ficou em segundo plano e o foco parece ser apenas o ganho financeiro. Recomendo procurar outros aplicativos."
+        },
+        {
+          "score": 1,
+          "thumbs": 3,
+          "text": "Estou decepcionada. Eu paguei o recurso Premium, conferi no meu cartão e foi registrada a compra mas eu fui acessar o recurso Premium não consegui, ficou como se eu não tivesse pago nada. Mas no meu cartão eu tenho o registro da compra 😠"
+        },
+        {
+          "score": 2,
+          "thumbs": 1,
+          "text": "Uso a versão Premium, mas não consigo abrir o ciclo Lunar na hora que eu quero, já é a terceira vez que tenho que desinstalar e Reinstalar o App pra poder ter acesso ao Ciclo Lunar. melhorem isso que melhoro as notas. dei duas estrelas pra chamar atenção dos desenvolvedores e ele"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "Tenho assinatura mensal ativa, mas o app ainda pede pra eu desbloquear. Não estou conseguindo usar."
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "Desde que parou a entrada diretamente com o login do Facebook, não consigo mais ter os benefícios de Premium. Fiz uma conta com o mesmo email, mas o Premium sumiu... Como associar uma conta a outra? O meu pagamento ativo vai ate maio (assinatura semestral). Como resolver?"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "Gente sempre paguei é liberava na hora fui pagar ontem eles não me liberou é não tem ninguém pra ajudar a gente essa situação cuidado"
+        },
+        {
+          "score": 2,
+          "thumbs": 0,
+          "text": "Era muito bom e completo, mas tudo tem que pagar para saber completamente e o preço é muito caro."
+        }
+      ],
+      "inaccurate": [
+        {
+          "score": 1,
+          "thumbs": 1,
+          "text": "péssimo um anúncio falso diazi cobrar 1 leal pelo retrato de alma me cobraram mais de 5 reais e detalhe um retrato que nunca recebi"
+        }
+      ]
+    }
+  },
+  "TR/tarot": {
+    "counts": {
+      "language_gap": 8
+    },
+    "top_quotes": {
+      "language_gap": [
+        {
+          "score": 1,
+          "thumbs": 91,
+          "text": "Uygulama çok güzel ama türkçe olmadığı için sürekli çeviri yapmakta zorlanıyorum lütfen türkçe dil seçeneği gelsin"
+        },
+        {
+          "score": 1,
+          "thumbs": 91,
+          "text": "Uygulama çok güzel ama türkçe olmadığı için sürekli çeviri yapmakta zorlanıyorum lütfen türkçe dil seçeneği gelsin"
+        },
+        {
+          "score": 1,
+          "thumbs": 4,
+          "text": "Türkçe çevrimi yok"
+        },
+        {
+          "score": 1,
+          "thumbs": 4,
+          "text": "Türkçe çevrimi yok"
+        },
+        {
+          "score": 1,
+          "thumbs": 3,
+          "text": "Uygulama türkçe seceneği yok"
+        },
+        {
+          "score": 1,
+          "thumbs": 3,
+          "text": "Uygulama türkçe seceneği yok"
+        },
+        {
+          "score": 1,
+          "thumbs": 2,
+          "text": "Uygulamayi indirdim fakat kullanamıyorum çünkü dili Türkçe değil, malesef silmek zorunda kaldım. İNDİRMEK İSTEYEN ONA GÖRE İNDİRSİN"
+        },
+        {
+          "score": 1,
+          "thumbs": 2,
+          "text": "Uygulamayi indirdim fakat kullanamıyorum çünkü dili Türkçe değil, malesef silmek zorunda kaldım. İNDİRMEK İSTEYEN ONA GÖRE İNDİRSİN"
+        }
+      ]
+    }
+  },
+  "TR/couple": {
+    "counts": {
+      "crashes_bugs": 12,
+      "paywall_locked": 26,
+      "pricing_billing": 22,
+      "too_many_ads": 3,
+      "inaccurate": 21,
+      "location_tracking": 52,
+      "refund_denied": 4,
+      "support_unresponsive": 1,
+      "language_gap": 3
+    },
+    "top_quotes": {
+      "crashes_bugs": [
+        {
+          "score": 1,
+          "thumbs": 15,
+          "text": "aylardır kullanıyorduk bir sıkıntı olmuyordu bugün tekrar yükledik uygulama kendi kendine hem erkek arkadaşımı hem beni attı ve silip tekrar yüklemeye vrya Google hesabını degistirmeye ragmen uygulama eror veriyor acilen buna bir çözümle geri dönüş bekliyorum"
+        },
+        {
+          "score": 1,
+          "thumbs": 7,
+          "text": "Konum çoğu zaman çalışmıyor, hareket etsem de gözükmüyor bir anda çalışmayı bırakıyor sorunun düzeltilmesini istiyorum!!"
+        },
+        {
+          "score": 2,
+          "thumbs": 5,
+          "text": "konum eskisi gibi çalışmıyor, konum güncellemesini düzgün yapamıyor."
+        },
+        {
+          "score": 1,
+          "thumbs": 3,
+          "text": "vasat in bir tık üstü kız arkadaşım ile ayrılma derecesine geldik bugün en son silmeye karar verdik. Görüntülü konuşuyoruz uygulmadan bildirim.geldi kız arkadaşım alakasız konumlarda gösteriyor yerini evde kendi evinde olduğu halde evinden yaklaşık 1 kilometre uzaklıkta gösteriyo"
+        },
+        {
+          "score": 1,
+          "thumbs": 2,
+          "text": "Uygulamayı bi kaç gündür kulanıyodum ama bugün bi baktım sürekli durduruluyor diyo ne bu ya"
+        },
+        {
+          "score": 1,
+          "thumbs": 1,
+          "text": "Yaklaşık 9 aydır kullanıyoruz bugün uygulama durup dururken bizi atıyor giriş yapamıyoruz yaptığımızda ise 2 saniye sonra atıyor"
+        },
+        {
+          "score": 1,
+          "thumbs": 1,
+          "text": "donuyor sürekli telefonumun markası not 14 pro ama cok sacma bi sekilde donuyor eski mesajları göremiyorum"
+        },
+        {
+          "score": 1,
+          "thumbs": 1,
+          "text": "Konum düzgün bir şekilde çalışmıyor yan yanayken arada km lerce yok gösteriyor en son güncellendi yerde kalıyor konum"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "Rezalet hiçbir premium özelliği çalışmıyor boşa para tuzağı"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "yaklaşık 1 yıldır sevgilimle kullanıyoruz çok bir sorun yoktu ama bugün sevgilimin telefonundan izni ve bilgisi dışında 1 yıllık premium üyeliği yapıldı geri dönüş yapmanızı rica ediyorum"
+        },
+        {
+          "score": 2,
+          "thumbs": 0,
+          "text": "konumu yanlış gösteriyor hareker halindeyken bilgi vermiyor göstermiyor da gereksiz fiyatı yüksek ve düzgün şekilde çalışmıyor bile"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "Rezalet hiçbir premium özelliği çalışmıyor boşa para tuzağı"
+        }
+      ],
+      "paywall_locked": [
+        {
+          "score": 1,
+          "thumbs": 28,
+          "text": "premium abone olarak kullanıyorum beni gece 6 dk dışarı çıktı olarak gösteriyor 6 dk da gidip gelemeyeceğim konuma götürüp geliyor bildiğim kadarıyla sevgiliminde bir jeti yok 580km hızla evin 10dk ilerisine gittiğini gösteriyor canı sıkılırsa eve girdi çıktı bildirimi geliyor ba"
+        },
+        {
+          "score": 2,
+          "thumbs": 8,
+          "text": "premium üyesi olmamıza rağmen erkek arkadaşımın konumu sürekli yanlış bazen çevrimdışı gözüküyo 1 gun boyunca düzelmiyor yada 10 11 saattir telefona bakmıyormuş gibi gözüküyor evdeyken görüntülü konuşuyoruz ama uygulama da konumu bambaşka yerlerde"
+        },
+        {
+          "score": 2,
+          "thumbs": 8,
+          "text": "premium üyesi olmamıza rağmen erkek arkadaşımın konumu sürekli yanlış bazen çevrimdışı gözüküyo 1 gun boyunca düzelmiyor yada 10 11 saattir telefona bakmıyormuş gibi gözüküyor evdeyken görüntülü konuşuyoruz ama uygulama da konumu bambaşka yerlerde"
+        },
+        {
+          "score": 1,
+          "thumbs": 6,
+          "text": "Premium satın alıyorsun, ne seyahati doğru düzgün gösteriyor ne konumu. Uyku takibi ise dakika başı uyandı diye bildirim gönderiyor falan."
+        },
+        {
+          "score": 2,
+          "thumbs": 5,
+          "text": "Eşimin konumu her zaman aktif beni hep aynı yerde gösteriyor. Heryerden yazdım uygulama asla ilgilenmiyor ve asla yanıt vermiyor. Premium aldık yine aynı. Düzelmezse sileceğiz."
+        },
+        {
+          "score": 1,
+          "thumbs": 5,
+          "text": "haftalık olarak premium alıyordum bu hafta kartıma para yatirdigim zaman haftalık ücreti aldı fakat premium özellikler açılmadı bildiğiniz dolandırıcılık bu premium abonelik var diyor ama özellikleri kullanamiyorum"
+        },
+        {
+          "score": 1,
+          "thumbs": 4,
+          "text": "paramızla rezil oluyoruz resmen premium aldık sevgilimin konumu doğru ama ben sürekli farklı farklı yerlerde gözüküyorum bu resmen iftira zan altında bırakmak dava mı açılmasını istiyosunuz düzeltin bi an önce bu sorunu iyi ki bi indirdik"
+        },
+        {
+          "score": 1,
+          "thumbs": 4,
+          "text": "premium olmasına rağmen ne telefon aktifliğini gösteriyor ne konumu doğru gösteriyor hatta telefon aktifliğini hiç göstermediği zamanlar oluyor"
+        },
+        {
+          "score": 1,
+          "thumbs": 3,
+          "text": "çok fazla premium almamiz için baskı var. Anladık paralı özellikleriniz daha fazla."
+        },
+        {
+          "score": 1,
+          "thumbs": 2,
+          "text": "uygulama güzel fakat belirli bir süreden sonra giriş çıkışı göstermiyor telefon durumunu göstermiyor premium üyesiyim yani hiçbir şey anlamıyorum"
+        },
+        {
+          "score": 1,
+          "thumbs": 2,
+          "text": "uygulama güzel fakat belirli bir süreden sonra giriş çıkışı göstermiyor telefon durumunu göstermiyor premium üyesiyim yani hiçbir şey anlamıyorum"
+        },
+        {
+          "score": 1,
+          "thumbs": 1,
+          "text": "uygulama konumu yanlış gösteriyor hep premium boşuna almayın yani yanlış veri veriyor gece uyurken telefonda aktif gösteriyor hemen hemen her gece konum yalis çoğunlukla şarj bilgisi geç geliyor oda yanlış ilgilenen kimse yok iletişim merkezi ilgilenmiyor bu yorumada burdan ileti"
+        },
+        {
+          "score": 2,
+          "thumbs": 1,
+          "text": "premium aldık sokak görünümü için bile para ister oldunuz ileri bir zamanda premium almak için premium alma paketi aldırırsınız siz"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "Rezalet hiçbir premium özelliği çalışmıyor boşa para tuzağı"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "Uygulamadaki her ozellik premium ile calismakta para yatirilmadigi surece ise yaramaz."
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "herşey premium abartı şekilde ne konumu doğru gosteriyo son güncellemeden sonra daha kötü oldu uygulama iyice uygulama berbat oldu"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "uygulama berbart hale geldi premium almama rağmen kullanmıyorum hiç bir yetkiliye ulaşamıyorum"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "ben hiçbir yapamıyorum:(( premium özelliğini deneyemiyorum olmuyor bende neden?"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "bence bu uygulamanın yakın arkadaşlar için olanını çıkartasanız daha güzel olur ve nerdeyse her şey premiumdu ben reklamda izledığimde herşey ücretsizdi ricam yakın arkadaşlar için olanını çikartmanız"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "yaklaşık 1 yıldır sevgilimle kullanıyoruz çok bir sorun yoktu ama bugün sevgilimin telefonundan izni ve bilgisi dışında 1 yıllık premium üyeliği yapıldı geri dönüş yapmanızı rica ediyorum"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "cihaz biraz kullanılmadığında program yok kendini sonlandırıyor arka plan çalışması felan zayıf uydurmazson. sanki sadece primeum hesabı satmak amacınız . keşke birazda müşteri memnuyetiniz olsa. unutmadan arkadaslar şirket yabancı ve kimseye düzgün bir dönüş olmamış yüklemeden ö"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "Premium olduğu halde konumu doğru göstermiyor ve sabitken hareket halinde gösteriyor"
+        },
+        {
+          "score": 2,
+          "thumbs": 0,
+          "text": "Premium gerekiyor çoğu şey için ve gereksiz maliyetli ücretler"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "Rezalet hiçbir premium özelliği çalışmıyor boşa para tuzağı"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "Uygulamadaki her ozellik premium ile calismakta para yatirilmadigi surece ise yaramaz."
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "herşey premium abartı şekilde ne konumu doğru gosteriyo son güncellemeden sonra daha kötü oldu uygulama iyice uygulama berbat oldu"
+        }
+      ],
+      "pricing_billing": [
+        {
+          "score": 1,
+          "thumbs": 10,
+          "text": "Ücret ödeyip de günlük sokak görünümünün 3 defa yapabilmemiz çok saçma"
+        },
+        {
+          "score": 2,
+          "thumbs": 8,
+          "text": "premium üyesi olmamıza rağmen erkek arkadaşımın konumu sürekli yanlış bazen çevrimdışı gözüküyo 1 gun boyunca düzelmiyor yada 10 11 saattir telefona bakmıyormuş gibi gözüküyor evdeyken görüntülü konuşuyoruz ama uygulama da konumu bambaşka yerlerde"
+        },
+        {
+          "score": 2,
+          "thumbs": 8,
+          "text": "premium üyesi olmamıza rağmen erkek arkadaşımın konumu sürekli yanlış bazen çevrimdışı gözüküyo 1 gun boyunca düzelmiyor yada 10 11 saattir telefona bakmıyormuş gibi gözüküyor evdeyken görüntülü konuşuyoruz ama uygulama da konumu bambaşka yerlerde"
+        },
+        {
+          "score": 1,
+          "thumbs": 6,
+          "text": "Üyelik almama rağmen konumu geç gösteriyor ve telefonda aktif diye gösteriyor aktif olmamasına rağmen Hatalar düzelesiye kadar puanım 1"
+        },
+        {
+          "score": 1,
+          "thumbs": 5,
+          "text": "haftalık olarak premium alıyordum bu hafta kartıma para yatirdigim zaman haftalık ücreti aldı fakat premium özellikler açılmadı bildiğiniz dolandırıcılık bu premium abonelik var diyor ama özellikleri kullanamiyorum"
+        },
+        {
+          "score": 2,
+          "thumbs": 4,
+          "text": "uygulama tatlı güzel ama bir çok şey ücretli ben böyle şeylere para vermeyi sevmiyorum gerek yok parayı boşa vericem belkide iki gün sonra silecem bu kadar para verem bunu konuşma dışında hiç bir şey yapilmiuo iki puan bile hak etmiyo ama arkadaşım sevdiği için verdim"
+        },
+        {
+          "score": 2,
+          "thumbs": 4,
+          "text": "konumu çok geç güncelliyor, telefon durumu vs geç günceliyor hareket halindeyken sabit gösteriyor lütfen yardımcı olur musunuz düzelirse ücretliye geçmek istiyorum"
+        },
+        {
+          "score": 2,
+          "thumbs": 3,
+          "text": "Kolay gelsin hayırlı çalışmalar, biz 2025 yılı mart ayından Love8 adlı uygulanızdan 1 yıllık üyelik almış bulunmaktayız. Başlarda çok fazla memnunduk ama daha sonrasından konum bilgilerimiz hatalı ve bildirimler yanlış gelmeye başladı ve bizde bu sebeplerden kız arkadaşımla tartı"
+        },
+        {
+          "score": 1,
+          "thumbs": 2,
+          "text": "uygulama güzel fakat belirli bir süreden sonra giriş çıkışı göstermiyor telefon durumunu göstermiyor premium üyesiyim yani hiçbir şey anlamıyorum"
+        },
+        {
+          "score": 1,
+          "thumbs": 2,
+          "text": "uygulama güzel fakat belirli bir süreden sonra giriş çıkışı göstermiyor telefon durumunu göstermiyor premium üyesiyim yani hiçbir şey anlamıyorum"
+        },
+        {
+          "score": 1,
+          "thumbs": 1,
+          "text": "uygulamada herşey iyi ama maalesefki konum yanlış bide mesela tek bende oluyor 10 dk 1165 km/h ile bide yani bide şeye gitmişim hani Karadenize bide karadenizde orda durmuşum biraz denizin ortasında bide salak saçma bi yerde gösteriyo yayla mı ne konumdan baktım gidişi 1 saatlik "
+        },
+        {
+          "score": 1,
+          "thumbs": 1,
+          "text": "Sevgilim İstanbulda aq ilk defa bağlandık bana Ankarada gösteriyor birde utanmadan ücretli üyelik al diyorlar daha konumu doğru göstermiyor"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "Evet konumumuzu filan görebiliyoruz ama uygulamada her şey paralı. Bazen konumu yanlış gösteriyor, geriye kalan her şey için üyelik istiyor. Üstelik bazen ödüller için reklam izlediğimizde reklamlar sayılmıyor. Bir kere izlememiz gereken reklamı sevgilim de ben de şakasız beş ker"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "her şey ücretli"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "üyeliği istediğimiz zaman iptal edebileceğimiz yazıyordu nasıl iptal edebiliriz,geri dönüş yaparsanız sevinirim."
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "bence bu uygulamanın yakın arkadaşlar için olanını çıkartasanız daha güzel olur ve nerdeyse her şey premiumdu ben reklamda izledığimde herşey ücretsizdi ricam yakın arkadaşlar için olanını çikartmanız"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "biz arkadaşımla denedik ama bazı şeyler gereksiz ücretli ve bence yarısına ücretli yazmalıydınız biz beğenmedik"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "Ücretsiz versiyon ile hiçbir şey yapamıyorsunuz berbat"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "yaklaşık 1 yıldır sevgilimle kullanıyoruz çok bir sorun yoktu ama bugün sevgilimin telefonundan izni ve bilgisi dışında 1 yıllık premium üyeliği yapıldı geri dönüş yapmanızı rica ediyorum"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "berbat ücretli"
+        },
+        {
+          "score": 2,
+          "thumbs": 0,
+          "text": "Premium gerekiyor çoğu şey için ve gereksiz maliyetli ücretler"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "Evet konumumuzu filan görebiliyoruz ama uygulamada her şey paralı. Bazen konumu yanlış gösteriyor, geriye kalan her şey için üyelik istiyor. Üstelik bazen ödüller için reklam izlediğimizde reklamlar sayılmıyor. Bir kere izlememiz gereken reklamı sevgilim de ben de şakasız beş ker"
+        }
+      ],
+      "too_many_ads": [
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "Evet konumumuzu filan görebiliyoruz ama uygulamada her şey paralı. Bazen konumu yanlış gösteriyor, geriye kalan her şey için üyelik istiyor. Üstelik bazen ödüller için reklam izlediğimizde reklamlar sayılmıyor. Bir kere izlememiz gereken reklamı sevgilim de ben de şakasız beş ker"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "bence bu uygulamanın yakın arkadaşlar için olanını çıkartasanız daha güzel olur ve nerdeyse her şey premiumdu ben reklamda izledığimde herşey ücretsizdi ricam yakın arkadaşlar için olanını çikartmanız"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "Evet konumumuzu filan görebiliyoruz ama uygulamada her şey paralı. Bazen konumu yanlış gösteriyor, geriye kalan her şey için üyelik istiyor. Üstelik bazen ödüller için reklam izlediğimizde reklamlar sayılmıyor. Bir kere izlememiz gereken reklamı sevgilim de ben de şakasız beş ker"
+        }
+      ],
+      "inaccurate": [
+        {
+          "score": 1,
+          "thumbs": 34,
+          "text": "Son güncelleme ile konum hataları ortaya çıktı. iPhone kullanan eşimin konumu sürekli bir yerlere ışınlanıyor, mesafeleri yanlış gösteriyor."
+        },
+        {
+          "score": 1,
+          "thumbs": 18,
+          "text": "Konum yanlış gösteriyorr telefonda aktif olmadığı zamanlarda çok alakasız yerlere gidip geliyor"
+        },
+        {
+          "score": 2,
+          "thumbs": 8,
+          "text": "premium üyesi olmamıza rağmen erkek arkadaşımın konumu sürekli yanlış bazen çevrimdışı gözüküyo 1 gun boyunca düzelmiyor yada 10 11 saattir telefona bakmıyormuş gibi gözüküyor evdeyken görüntülü konuşuyoruz ama uygulama da konumu bambaşka yerlerde"
+        },
+        {
+          "score": 2,
+          "thumbs": 8,
+          "text": "premium üyesi olmamıza rağmen erkek arkadaşımın konumu sürekli yanlış bazen çevrimdışı gözüküyo 1 gun boyunca düzelmiyor yada 10 11 saattir telefona bakmıyormuş gibi gözüküyor evdeyken görüntülü konuşuyoruz ama uygulama da konumu bambaşka yerlerde"
+        },
+        {
+          "score": 2,
+          "thumbs": 7,
+          "text": "ilk zamanlarda düzenli olarak görebiliyordum tüm hareketlerini vs fakat zamanla düzensiz ve yanlış şekillerde göstermeye başladı dünden beride çarşı içinde yolda gözüküyor ama evde kendisi lütfen bu sorunu düzeltin."
+        },
+        {
+          "score": 1,
+          "thumbs": 7,
+          "text": "Uygulamanın konum tabiki iyi diye indirdim fakat şu anda karşı taraftakinin konumunu yanlış gösteriyor şehir degistirmesine rağmen konum hala eski yerde duruyor üstüne üstlük abartılı derecede gereksiz yere pahalı beğenmedim aktiviteler yok derece az tavsiye etmem"
+        },
+        {
+          "score": 1,
+          "thumbs": 6,
+          "text": "herşey paralı olmuş işin ilginç yanı parayla alsan bile özellikleri doğru göstermiyor konumu yanlış veriyor aktif değilken aktif gösteriyor yanisi deymez boşuna satın almayın"
+        },
+        {
+          "score": 1,
+          "thumbs": 4,
+          "text": "Oe uygulama konumu yanlış gösterdi sevgilimle kavga ettik"
+        },
+        {
+          "score": 2,
+          "thumbs": 4,
+          "text": "Gayet güzel bı uygulama ama Türkçe dil desteği gelmeli ve yumurtadan çıkan hayvan ile oyunlar oynayabilsek . Konum bilgilerini yanlış gösteriyor görmediğimiz bir yeri gitmişiz olarak gösteriyor sinir bozucu"
+        },
+        {
+          "score": 2,
+          "thumbs": 3,
+          "text": "Kolay gelsin hayırlı çalışmalar, biz 2025 yılı mart ayından Love8 adlı uygulanızdan 1 yıllık üyelik almış bulunmaktayız. Başlarda çok fazla memnunduk ama daha sonrasından konum bilgilerimiz hatalı ve bildirimler yanlış gelmeye başladı ve bizde bu sebeplerden kız arkadaşımla tartı"
+        },
+        {
+          "score": 1,
+          "thumbs": 2,
+          "text": "program çok yanlış bir şekilde çalılıyor,benım hatun ewde ve konumu kapalı,bana bildirim gelior diğer kullamıcı nın konumunj başka bir yerde gösteriyor,bu praograma inanınpta kimsemin kalbini kırmayın gerek yok"
+        },
+        {
+          "score": 1,
+          "thumbs": 1,
+          "text": "konumu sürekli yanlış gosteriyo evdeyken bile eve geldi bildirimi atiyo surekli sacma sapan konum paylasimi icin indiriyosaniz indirmeyin lanet bi uygulama içindeki salak bi pet var onun içinse indirmeye degmez"
+        },
+        {
+          "score": 1,
+          "thumbs": 1,
+          "text": "uygulama konumu yanlış gösteriyor hep premium boşuna almayın yani yanlış veri veriyor gece uyurken telefonda aktif gösteriyor hemen hemen her gece konum yalis çoğunlukla şarj bilgisi geç geliyor oda yanlış ilgilenen kimse yok iletişim merkezi ilgilenmiyor bu yorumada burdan ileti"
+        },
+        {
+          "score": 1,
+          "thumbs": 1,
+          "text": "uygulamada herşey iyi ama maalesefki konum yanlış bide mesela tek bende oluyor 10 dk 1165 km/h ile bide yani bide şeye gitmişim hani Karadenize bide karadenizde orda durmuşum biraz denizin ortasında bide salak saçma bi yerde gösteriyo yayla mı ne konumdan baktım gidişi 1 saatlik "
+        },
+        {
+          "score": 1,
+          "thumbs": 1,
+          "text": "Partnerimin konumunu yanlış gösterdiği oluyor bunun sebebi nedir. Konumu başka yerde gösteriyor sonra o uygulamaya girince uygulama güncelleniyor ve onun evini gösteriyor. Yardımcı olabilir misiniz bunun tam olarak sebebi nedir? Açıklaması varsa 5 yıldızlık bir uygulama."
+        },
+        {
+          "score": 1,
+          "thumbs": 1,
+          "text": "konumu sürekli yanlış gosteriyo evdeyken bile eve geldi bildirimi atiyo surekli sacma sapan konum paylasimi icin indiriyosaniz indirmeyin lanet bi uygulama içindeki salak bi pet var onun içinse indirmeye degmez"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "Evet konumumuzu filan görebiliyoruz ama uygulamada her şey paralı. Bazen konumu yanlış gösteriyor, geriye kalan her şey için üyelik istiyor. Üstelik bazen ödüller için reklam izlediğimizde reklamlar sayılmıyor. Bir kere izlememiz gereken reklamı sevgilim de ben de şakasız beş ker"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "hele şu uygulamaya bişey yapın bazen yanlış yerde gösteriyor bakıyorum bi evde aldatıyor saniyom amk Allah'tan kıza güveniyom"
+        },
+        {
+          "score": 2,
+          "thumbs": 0,
+          "text": "konumu yanlış gösteriyor hareker halindeyken bilgi vermiyor göstermiyor da gereksiz fiyatı yüksek ve düzgün şekilde çalışmıyor bile"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "Evet konumumuzu filan görebiliyoruz ama uygulamada her şey paralı. Bazen konumu yanlış gösteriyor, geriye kalan her şey için üyelik istiyor. Üstelik bazen ödüller için reklam izlediğimizde reklamlar sayılmıyor. Bir kere izlememiz gereken reklamı sevgilim de ben de şakasız beş ker"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "hele şu uygulamaya bişey yapın bazen yanlış yerde gösteriyor bakıyorum bi evde aldatıyor saniyom amk Allah'tan kıza güveniyom"
+        }
+      ],
+      "location_tracking": [
+        {
+          "score": 1,
+          "thumbs": 52,
+          "text": "mrblar ilk başlarda uygulamanın herşeyi doğru bi şekilde gösterilmesinden çok memnundum daha sonra 3. günden beri kullanmaktan sonra haftalık abonelik aldım ama konum bilgileri şarj bilgileri ve telefonun açılıp kapanış durumu iyice bozuldu neyse dedim uygulama düzeldi yıllık abo"
+        },
+        {
+          "score": 1,
+          "thumbs": 34,
+          "text": "Son güncelleme ile konum hataları ortaya çıktı. iPhone kullanan eşimin konumu sürekli bir yerlere ışınlanıyor, mesafeleri yanlış gösteriyor."
+        },
+        {
+          "score": 1,
+          "thumbs": 28,
+          "text": "premium abone olarak kullanıyorum beni gece 6 dk dışarı çıktı olarak gösteriyor 6 dk da gidip gelemeyeceğim konuma götürüp geliyor bildiğim kadarıyla sevgiliminde bir jeti yok 580km hızla evin 10dk ilerisine gittiğini gösteriyor canı sıkılırsa eve girdi çıktı bildirimi geliyor ba"
+        },
+        {
+          "score": 1,
+          "thumbs": 18,
+          "text": "Konum yanlış gösteriyorr telefonda aktif olmadığı zamanlarda çok alakasız yerlere gidip geliyor"
+        },
+        {
+          "score": 1,
+          "thumbs": 14,
+          "text": "hareket halinde değilken hareket halinde gösteriyor . konum iki saat sonra güncelleniyor . görmediğim yerlere gitmişim gibi gösteriyor konum geçmişinde . kafasına göre takılıyor"
+        },
+        {
+          "score": 2,
+          "thumbs": 8,
+          "text": "premium üyesi olmamıza rağmen erkek arkadaşımın konumu sürekli yanlış bazen çevrimdışı gözüküyo 1 gun boyunca düzelmiyor yada 10 11 saattir telefona bakmıyormuş gibi gözüküyor evdeyken görüntülü konuşuyoruz ama uygulama da konumu bambaşka yerlerde"
+        },
+        {
+          "score": 2,
+          "thumbs": 8,
+          "text": "premium üyesi olmamıza rağmen erkek arkadaşımın konumu sürekli yanlış bazen çevrimdışı gözüküyo 1 gun boyunca düzelmiyor yada 10 11 saattir telefona bakmıyormuş gibi gözüküyor evdeyken görüntülü konuşuyoruz ama uygulama da konumu bambaşka yerlerde"
+        },
+        {
+          "score": 1,
+          "thumbs": 7,
+          "text": "Konum çoğu zaman çalışmıyor, hareket etsem de gözükmüyor bir anda çalışmayı bırakıyor sorunun düzeltilmesini istiyorum!!"
+        },
+        {
+          "score": 1,
+          "thumbs": 7,
+          "text": "Uygulamanın konum tabiki iyi diye indirdim fakat şu anda karşı taraftakinin konumunu yanlış gösteriyor şehir degistirmesine rağmen konum hala eski yerde duruyor üstüne üstlük abartılı derecede gereksiz yere pahalı beğenmedim aktiviteler yok derece az tavsiye etmem"
+        },
+        {
+          "score": 1,
+          "thumbs": 6,
+          "text": "herşey paralı olmuş işin ilginç yanı parayla alsan bile özellikleri doğru göstermiyor konumu yanlış veriyor aktif değilken aktif gösteriyor yanisi deymez boşuna satın almayın"
+        },
+        {
+          "score": 1,
+          "thumbs": 6,
+          "text": "Premium satın alıyorsun, ne seyahati doğru düzgün gösteriyor ne konumu. Uyku takibi ise dakika başı uyandı diye bildirim gönderiyor falan."
+        },
+        {
+          "score": 1,
+          "thumbs": 6,
+          "text": "Üyelik almama rağmen konumu geç gösteriyor ve telefonda aktif diye gösteriyor aktif olmamasına rağmen Hatalar düzelesiye kadar puanım 1"
+        },
+        {
+          "score": 2,
+          "thumbs": 5,
+          "text": "güzel ama bazen konumu doğru yerde göstermiyor haraket edilmese dahi kendi kendine haraket edildiğini gösterebiliyor bu güzel degil"
+        },
+        {
+          "score": 2,
+          "thumbs": 5,
+          "text": "urune O kadar para vererek kullaniyoruz ne dogru duzgun konumu gosteriyosunuz nede baska bisey sozde sevgili uygulamasi ama resmen aramizin bozulmasi icin yapilan bi uygulamadan baska bisey degil evdeyken nasil konum sanki Ben disari cikmisim gibi gosterebiliyor iliskilerdeki guv"
+        },
+        {
+          "score": 2,
+          "thumbs": 5,
+          "text": "Eşimin konumu her zaman aktif beni hep aynı yerde gösteriyor. Heryerden yazdım uygulama asla ilgilenmiyor ve asla yanıt vermiyor. Premium aldık yine aynı. Düzelmezse sileceğiz."
+        },
+        {
+          "score": 2,
+          "thumbs": 5,
+          "text": "konum eskisi gibi çalışmıyor, konum güncellemesini düzgün yapamıyor."
+        },
+        {
+          "score": 2,
+          "thumbs": 4,
+          "text": "konumu çok geç güncelliyor, telefon durumu vs geç günceliyor hareket halindeyken sabit gösteriyor lütfen yardımcı olur musunuz düzelirse ücretliye geçmek istiyorum"
+        },
+        {
+          "score": 1,
+          "thumbs": 4,
+          "text": "paramızla rezil oluyoruz resmen premium aldık sevgilimin konumu doğru ama ben sürekli farklı farklı yerlerde gözüküyorum bu resmen iftira zan altında bırakmak dava mı açılmasını istiyosunuz düzeltin bi an önce bu sorunu iyi ki bi indirdik"
+        },
+        {
+          "score": 1,
+          "thumbs": 4,
+          "text": "premium olmasına rağmen ne telefon aktifliğini gösteriyor ne konumu doğru gösteriyor hatta telefon aktifliğini hiç göstermediği zamanlar oluyor"
+        },
+        {
+          "score": 1,
+          "thumbs": 4,
+          "text": "Oe uygulama konumu yanlış gösterdi sevgilimle kavga ettik"
+        },
+        {
+          "score": 2,
+          "thumbs": 4,
+          "text": "Gayet güzel bı uygulama ama Türkçe dil desteği gelmeli ve yumurtadan çıkan hayvan ile oyunlar oynayabilsek . Konum bilgilerini yanlış gösteriyor görmediğimiz bir yeri gitmişiz olarak gösteriyor sinir bozucu"
+        },
+        {
+          "score": 1,
+          "thumbs": 3,
+          "text": "vasat in bir tık üstü kız arkadaşım ile ayrılma derecesine geldik bugün en son silmeye karar verdik. Görüntülü konuşuyoruz uygulmadan bildirim.geldi kız arkadaşım alakasız konumlarda gösteriyor yerini evde kendi evinde olduğu halde evinden yaklaşık 1 kilometre uzaklıkta gösteriyo"
+        },
+        {
+          "score": 2,
+          "thumbs": 3,
+          "text": "Kolay gelsin hayırlı çalışmalar, biz 2025 yılı mart ayından Love8 adlı uygulanızdan 1 yıllık üyelik almış bulunmaktayız. Başlarda çok fazla memnunduk ama daha sonrasından konum bilgilerimiz hatalı ve bildirimler yanlış gelmeye başladı ve bizde bu sebeplerden kız arkadaşımla tartı"
+        },
+        {
+          "score": 1,
+          "thumbs": 3,
+          "text": "Karşı taraf uygulamayı sildiği zaman konum görünür mü ya da eski konumu mu görünür"
+        },
+        {
+          "score": 1,
+          "thumbs": 2,
+          "text": "program çok yanlış bir şekilde çalılıyor,benım hatun ewde ve konumu kapalı,bana bildirim gelior diğer kullamıcı nın konumunj başka bir yerde gösteriyor,bu praograma inanınpta kimsemin kalbini kırmayın gerek yok"
+        },
+        {
+          "score": 2,
+          "thumbs": 2,
+          "text": "Uygulamayı sevmedim sevgilimin nerde olduğunu göstermiyor bide sürekli istek atıyor onun için uygulamayı beğenmedim bide hayvan bakımı falan yok öyle Bom boş bakıyon bide partnerinizle konum paylaşın diyor yapıyorum hayla gösteriyor bunun için iki yıldız veriyorum uygulama degişs"
+        },
+        {
+          "score": 1,
+          "thumbs": 2,
+          "text": "konum hatalı lütfen düzeltirsin"
+        },
+        {
+          "score": 1,
+          "thumbs": 1,
+          "text": "konumu sürekli yanlış gosteriyo evdeyken bile eve geldi bildirimi atiyo surekli sacma sapan konum paylasimi icin indiriyosaniz indirmeyin lanet bi uygulama içindeki salak bi pet var onun içinse indirmeye degmez"
+        },
+        {
+          "score": 1,
+          "thumbs": 1,
+          "text": "uygulama konumu yanlış gösteriyor hep premium boşuna almayın yani yanlış veri veriyor gece uyurken telefonda aktif gösteriyor hemen hemen her gece konum yalis çoğunlukla şarj bilgisi geç geliyor oda yanlış ilgilenen kimse yok iletişim merkezi ilgilenmiyor bu yorumada burdan ileti"
+        },
+        {
+          "score": 1,
+          "thumbs": 1,
+          "text": "uygulamada herşey iyi ama maalesefki konum yanlış bide mesela tek bende oluyor 10 dk 1165 km/h ile bide yani bide şeye gitmişim hani Karadenize bide karadenizde orda durmuşum biraz denizin ortasında bide salak saçma bi yerde gösteriyo yayla mı ne konumdan baktım gidişi 1 saatlik "
+        },
+        {
+          "score": 1,
+          "thumbs": 1,
+          "text": "Sevgilim İstanbulda aq ilk defa bağlandık bana Ankarada gösteriyor birde utanmadan ücretli üyelik al diyorlar daha konumu doğru göstermiyor"
+        },
+        {
+          "score": 1,
+          "thumbs": 1,
+          "text": "Konum düzgün bir şekilde çalışmıyor yan yanayken arada km lerce yok gösteriyor en son güncellendi yerde kalıyor konum"
+        },
+        {
+          "score": 1,
+          "thumbs": 1,
+          "text": "Partnerimin konumunu yanlış gösterdiği oluyor bunun sebebi nedir. Konumu başka yerde gösteriyor sonra o uygulamaya girince uygulama güncelleniyor ve onun evini gösteriyor. Yardımcı olabilir misiniz bunun tam olarak sebebi nedir? Açıklaması varsa 5 yıldızlık bir uygulama."
+        },
+        {
+          "score": 1,
+          "thumbs": 1,
+          "text": "konumu sürekli yanlış gosteriyo evdeyken bile eve geldi bildirimi atiyo surekli sacma sapan konum paylasimi icin indiriyosaniz indirmeyin lanet bi uygulama içindeki salak bi pet var onun içinse indirmeye degmez"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "Evet konumumuzu filan görebiliyoruz ama uygulamada her şey paralı. Bazen konumu yanlış gösteriyor, geriye kalan her şey için üyelik istiyor. Üstelik bazen ödüller için reklam izlediğimizde reklamlar sayılmıyor. Bir kere izlememiz gereken reklamı sevgilim de ben de şakasız beş ker"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "herşey premium abartı şekilde ne konumu doğru gosteriyo son güncellemeden sonra daha kötü oldu uygulama iyice uygulama berbat oldu"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "konum bambaşka gözüküyor eskiden böyle değildi gittikçe kötü oluyor"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "ilk hafta iyidi ikinci haftada kendi kendine bildirim vermeler tam konum vermemek zamanında güncellenmeyen akış ve daha nicesi"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "son zamanlarda olup olmadık yerde konum hataları evdeyken evden çıktı ve eve geri döndü diye bildirim atması özellikle gecenin bir saatinde güven kırıcı . uygulama içerisinde bir çok hata var hareket hızı ,telefon duruöunu görüntüleyememe vede enn son ve en büyül problem konum ha"
+        },
+        {
+          "score": 2,
+          "thumbs": 0,
+          "text": "güzel bir uygulama sevgilimle bayadir kullanıyoruz ve minnak çocuklar çok tatlis biz baya büyüttük üç çocuk var 23 yaşlarında ayy yerim onlari. //) yorumumu değiştiriyorum uygulama sevgilimi sürekli evde gosteriyo dışarı çıksın işe gitsin evde gösteriyor konumu aç kapa yapıyo bir"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "arkadaşlar konumu yanlis gosterip gosterip sevgilimle kavga etmeme sebep oldu indirmeyin hayal kirikligina ugrarsiniz zaten her sey abonelikle oluyo"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "konum doğru güncellemiyor çok doğru göstermiyor"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "Sevgilim benimkini görüyor ben onun konumunu göremiyorum harita kısmı açılmıyor çok saçma ve gereksiz"
+        },
+        {
+          "score": 2,
+          "thumbs": 0,
+          "text": "konumu yanlış gösteriyor hareker halindeyken bilgi vermiyor göstermiyor da gereksiz fiyatı yüksek ve düzgün şekilde çalışmıyor bile"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "Premium olduğu halde konumu doğru göstermiyor ve sabitken hareket halinde gösteriyor"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "Kiz arkadasimin nerde oldunu an ve an goremiyorum reklarındaki soyledikleri hep yalan dolan açık olmasi gereken ayarların hepside açık halbuksi burdan takip edeceyime snep den takip ederin an ve an konumunu guncelliyor tavsiye tmem bu uygulamayi bosuna paraniz gitmesin"
+        },
+        {
+          "score": 2,
+          "thumbs": 0,
+          "text": "Konumu doğru göstermiyor"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "Konumu anlık olarak göstermiyor."
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "It was great when I first installed it. My boyfriend and I used it with pleasure. But after the latest update, neither my boyfriend nor I can see each other's location. It is not updated. We have opened everything that needs to be opened, but it is not working. While the biggest "
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "Evet konumumuzu filan görebiliyoruz ama uygulamada her şey paralı. Bazen konumu yanlış gösteriyor, geriye kalan her şey için üyelik istiyor. Üstelik bazen ödüller için reklam izlediğimizde reklamlar sayılmıyor. Bir kere izlememiz gereken reklamı sevgilim de ben de şakasız beş ker"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "herşey premium abartı şekilde ne konumu doğru gosteriyo son güncellemeden sonra daha kötü oldu uygulama iyice uygulama berbat oldu"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "konum bambaşka gözüküyor eskiden böyle değildi gittikçe kötü oluyor"
+        }
+      ],
+      "refund_denied": [
+        {
+          "score": 1,
+          "thumbs": 12,
+          "text": "çok severek ve beğenerek kullanıyordum. 1 hafta içinde uygulama içinde gelen gğncellemeylebütün mutluluğum gitti. o kadar para ödüyoruz. yapmayın. Son güncellemeden sonra doğru düzgün çalışmamaya başladı ve aldığımız abonelği iptal edeceğiz. mail atmama ve düzelteceğiz denmesine "
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "üyeliği istediğimiz zaman iptal edebileceğimiz yazıyordu nasıl iptal edebiliriz,geri dönüş yaparsanız sevinirim."
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "aboneliğimi iptal ettirmek istiyorum benle irtibata geçebilir misiniz"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "saçma bi uygulama indirdiğime pişman oldum abonelik iptal ettim ve hala kartımdan para çekiyo ne bi iletişim numarası var mail atıyorum cevap yok canlı destekte mesajlara bakmıyosunuz"
+        }
+      ],
+      "support_unresponsive": [
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "saçma bi uygulama indirdiğime pişman oldum abonelik iptal ettim ve hala kartımdan para çekiyo ne bi iletişim numarası var mail atıyorum cevap yok canlı destekte mesajlara bakmıyosunuz"
+        }
+      ],
+      "language_gap": [
+        {
+          "score": 2,
+          "thumbs": 4,
+          "text": "Gayet güzel bı uygulama ama Türkçe dil desteği gelmeli ve yumurtadan çıkan hayvan ile oyunlar oynayabilsek . Konum bilgilerini yanlış gösteriyor görmediğimiz bir yeri gitmişiz olarak gösteriyor sinir bozucu"
+        },
+        {
+          "score": 2,
+          "thumbs": 2,
+          "text": "Uygulamayı sevmedim sevgilimin nerde olduğunu göstermiyor bide sürekli istek atıyor onun için uygulamayı beğenmedim bide hayvan bakımı falan yok öyle Bom boş bakıyon bide partnerinizle konum paylaşın diyor yapıyorum hayla gösteriyor bunun için iki yıldız veriyorum uygulama degişs"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "Arkadaşlar uygulamada🐺 turkce dili yok çok koyu bir uygulama"
+        }
+      ]
+    }
+  },
+  "BR/manifestation": {
+    "counts": {
+      "crashes_bugs": 4,
+      "too_many_ads": 6
+    },
+    "top_quotes": {
+      "crashes_bugs": [
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "trava demais"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "era bom. agora não abre nunca só travando. triste."
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "trava demais"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "era bom. agora não abre nunca só travando. triste."
+        }
+      ],
+      "too_many_ads": [
+        {
+          "score": 1,
+          "thumbs": 5,
+          "text": "Instalei e desinstalei no mesmo instante. De início disse que os anúncios são para ajudar a manter o app, até aí tudo bem! No entanto, quando comecei a usar, mau iniciei a frase, já veio um monte de anúncio de minutos, e saiu automaticamente do app, voltei e quando abri o anúncio"
+        },
+        {
+          "score": 1,
+          "thumbs": 5,
+          "text": "Instalei e desinstalei no mesmo instante. De início disse que os anúncios são para ajudar a manter o app, até aí tudo bem! No entanto, quando comecei a usar, mau iniciei a frase, já veio um monte de anúncio de minutos, e saiu automaticamente do app, voltei e quando abri o anúncio"
+        },
+        {
+          "score": 1,
+          "thumbs": 1,
+          "text": "não consigo abrir o app de jeito nenhum diz que está com falha na internet mas eu consigo fazer tudo com minha internet e as propagandas não me deixa nem clicar na opção."
+        },
+        {
+          "score": 1,
+          "thumbs": 1,
+          "text": "não consigo abrir o app de jeito nenhum diz que está com falha na internet mas eu consigo fazer tudo com minha internet e as propagandas não me deixa nem clicar na opção."
+        },
+        {
+          "score": 2,
+          "thumbs": 0,
+          "text": "muita propaganda"
+        },
+        {
+          "score": 2,
+          "thumbs": 0,
+          "text": "muita propaganda"
+        }
+      ]
+    }
+  },
+  "BR/couple": {
+    "counts": {
+      "crashes_bugs": 14,
+      "too_many_ads": 5,
+      "paywall_locked": 28,
+      "location_tracking": 28,
+      "refund_denied": 4,
+      "ai_complaint": 2,
+      "inaccurate": 4,
+      "pricing_billing": 7,
+      "support_unresponsive": 2,
+      "language_gap": 1
+    },
+    "top_quotes": {
+      "crashes_bugs": [
+        {
+          "score": 1,
+          "thumbs": 51,
+          "text": "muito ruim tem que pagar tudo e os preços sao bem caros se fosse pelo menos marcasse se a pessoa está online ou offline eu daria uma nota bem melhor só que nao funciona a localização ela sempre trava e da a localização bem longe eu vou dar esse nota se não eu dava pior e se vcs q"
+        },
+        {
+          "score": 1,
+          "thumbs": 26,
+          "text": "App não abre mais, fica dando erro sempre que precisa abrir"
+        },
+        {
+          "score": 1,
+          "thumbs": 14,
+          "text": "Recentemente com essa atualização tiraram os status do pet, ou seja, não dá pra identificar quando ele está com fome, com sono ou sujo, além de que muitas da frases que ele solta bugam ou travam, aparecem números aleatórios e letras sem sentido. além de tiraram possibilidade de a"
+        },
+        {
+          "score": 1,
+          "thumbs": 13,
+          "text": "O app não funciona na localização em tempo real mesmo pagando o Premium por isso. É necessário colocar manualmente, cancelei a tempo, tentei o reembolso e eles negaram."
+        },
+        {
+          "score": 1,
+          "thumbs": 5,
+          "text": "app bom, mas ele nunca mostra a localização certa, e sempre esta bugando. O pet, pra qm paga o app eu não sei, mas pra qm n paga, ele é fútil e atrapalha a ver a tela do app com suas mensagens fúteis tbm."
+        },
+        {
+          "score": 1,
+          "thumbs": 4,
+          "text": "gasta muita bateria e não funciona corretamente, melhorem por favor."
+        },
+        {
+          "score": 1,
+          "thumbs": 4,
+          "text": "Esta atualização piorou a app inteira, fica absolutamente lento e o telemóvel crasha por causa da app."
+        },
+        {
+          "score": 1,
+          "thumbs": 2,
+          "text": "Em maio faz 1 ano que uso, e recentemente tem dado mais problemas que o normal. Porque, sim, ele dá muitos erros. Infelizmente, não continuarei com o aplicativo, apesar da proposta ser ótima. Não cumpre o que promete."
+        },
+        {
+          "score": 1,
+          "thumbs": 2,
+          "text": "Trava muito e diz que as tarefas não foram feitas (mas foram), para além dos anúncios que agora fazem parte das tarefas."
+        },
+        {
+          "score": 1,
+          "thumbs": 2,
+          "text": "Em maio faz 1 ano que uso, e recentemente tem dado mais problemas que o normal. Porque, sim, ele dá muitos erros. Infelizmente, não continuarei com o aplicativo, apesar da proposta ser ótima. Não cumpre o que promete."
+        },
+        {
+          "score": 1,
+          "thumbs": 1,
+          "text": "muito ruim meu namorado mora perto e ele tava ala na Brasília o mapa tava bugado"
+        },
+        {
+          "score": 1,
+          "thumbs": 1,
+          "text": "muito ruim meu namorado mora perto e ele tava ala na Brasília o mapa tava bugado"
+        },
+        {
+          "score": 2,
+          "thumbs": 0,
+          "text": "legal porém disfuncional, você assiste aos anúncios pra receber ou pular as coisas e não funciona, você simplesmente perde tempo e não recebe nada"
+        },
+        {
+          "score": 2,
+          "thumbs": 0,
+          "text": "legal porém disfuncional, você assiste aos anúncios pra receber ou pular as coisas e não funciona, você simplesmente perde tempo e não recebe nada"
+        }
+      ],
+      "too_many_ads": [
+        {
+          "score": 1,
+          "thumbs": 7,
+          "text": "maioria das funções pagas atrapalhando quem não tem dinheiro em usar o app, poderia pelo menos ter a função com propaganda pra usar o app por tanto tempo por ver um anúncio."
+        },
+        {
+          "score": 1,
+          "thumbs": 2,
+          "text": "Trava muito e diz que as tarefas não foram feitas (mas foram), para além dos anúncios que agora fazem parte das tarefas."
+        },
+        {
+          "score": 2,
+          "thumbs": 0,
+          "text": "legal porém disfuncional, você assiste aos anúncios pra receber ou pular as coisas e não funciona, você simplesmente perde tempo e não recebe nada"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "A interface do aplicativo contém uma série de propagandas e é muito poluída, além disso a maioria das funcionalidades do aplicativo é paga, então não tem muita graça utilizar."
+        },
+        {
+          "score": 2,
+          "thumbs": 0,
+          "text": "legal porém disfuncional, você assiste aos anúncios pra receber ou pular as coisas e não funciona, você simplesmente perde tempo e não recebe nada"
+        }
+      ],
+      "paywall_locked": [
+        {
+          "score": 1,
+          "thumbs": 51,
+          "text": "muito ruim tem que pagar tudo e os preços sao bem caros se fosse pelo menos marcasse se a pessoa está online ou offline eu daria uma nota bem melhor só que nao funciona a localização ela sempre trava e da a localização bem longe eu vou dar esse nota se não eu dava pior e se vcs q"
+        },
+        {
+          "score": 1,
+          "thumbs": 13,
+          "text": "O app não funciona na localização em tempo real mesmo pagando o Premium por isso. É necessário colocar manualmente, cancelei a tempo, tentei o reembolso e eles negaram."
+        },
+        {
+          "score": 1,
+          "thumbs": 13,
+          "text": "Achei a ideia muito divertida, mas me decepcionei baixando o app. Sem pagar, o app é péssimo."
+        },
+        {
+          "score": 2,
+          "thumbs": 8,
+          "text": "parece ser algo útil mas acaba por ser tudo pago(quase tudo) somente sei a distância e a localização,e depois na altura do pet não tem assim grande coisas a maioria das coisas é pago ,quase que mais valia fazer a aplicação logo paga"
+        },
+        {
+          "score": 1,
+          "thumbs": 7,
+          "text": "Você paga o plano Premium e o app não tem localização exata. A pessoa está em movimento e mostra parada no mesmo lugar por horas e/ou dias. A pessoa está no trabalho e mostra que está em casa. Vc quem tem que colocar manualmente a localização da pessoa, nada funciona em tempo rea"
+        },
+        {
+          "score": 1,
+          "thumbs": 7,
+          "text": "tão passando fome fila das p, até pra ver as % tem que pagar"
+        },
+        {
+          "score": 1,
+          "thumbs": 7,
+          "text": "Não gostei e ruim o aplicativo tem q pagar tudo e ainda e inglês ruim d +🤮"
+        },
+        {
+          "score": 1,
+          "thumbs": 7,
+          "text": "Aplicativo HORRÍVEL, péssimo, se vc quiser qualquer tipo de informação por exemplo a localização no mapa c tem q pagar 50e tanto por ano,"
+        },
+        {
+          "score": 1,
+          "thumbs": 7,
+          "text": "Você paga o plano Premium e o app não tem localização exata. A pessoa está em movimento e mostra parada no mesmo lugar por horas e/ou dias. A pessoa está no trabalho e mostra que está em casa. Vc quem tem que colocar manualmente a localização da pessoa, nada funciona em tempo rea"
+        },
+        {
+          "score": 1,
+          "thumbs": 4,
+          "text": "Muito sem graça, tudo para fazer de interessante no app é pago. Se vocês vê algum vídeo na net sobre esse app não caia nessa"
+        },
+        {
+          "score": 1,
+          "thumbs": 4,
+          "text": "Tudo pago nesabosta kkkkkk"
+        },
+        {
+          "score": 1,
+          "thumbs": 3,
+          "text": "inicialmente eu gostei bastante, por isso assinei o Premium, paguei o de 1 ano, tive um problema com o meu celular e perdi o email, não consegui recuperar o Premium, mesmo estando com o plano assinado ainda, entrei até com a conta onde foi assinado o plano, mas realmente perdi, f"
+        },
+        {
+          "score": 2,
+          "thumbs": 3,
+          "text": "A ideia da aplicação é interessante e tem conceitos criativos para casais, como partilha de localização e estado da bateria do parceiro. No entanto, a otimização é muito fraca. A app manteve-se ativa em segundo plano durante vários dias e acabou por consumir mais de 100% de bater"
+        },
+        {
+          "score": 1,
+          "thumbs": 3,
+          "text": "horrível, o app é mercenário ao máximo, a maioria das coisas é tudo pago."
+        },
+        {
+          "score": 1,
+          "thumbs": 3,
+          "text": "não consigo clicar para comprar o premium."
+        },
+        {
+          "score": 2,
+          "thumbs": 3,
+          "text": "A localização no widget não mostra o mapa, não é tão útil assim. Volto assinar o premium somente quando tiver essa funcionalidade. Mostra somente se está em um local de alerta, pois o mapa é de outras ruas"
+        },
+        {
+          "score": 1,
+          "thumbs": 3,
+          "text": "inicialmente eu gostei bastante, por isso assinei o Premium, paguei o de 1 ano, tive um problema com o meu celular e perdi o email, não consegui recuperar o Premium, mesmo estando com o plano assinado ainda, entrei até com a conta onde foi assinado o plano, mas realmente perdi, f"
+        },
+        {
+          "score": 1,
+          "thumbs": 2,
+          "text": "o aplicativo finge ser gratuito mas é completamente pago."
+        },
+        {
+          "score": 2,
+          "thumbs": 2,
+          "text": "O aplicativo é muito bom, mas a maioria das coisas são Premium e tem que pagar isso me deixa frustada"
+        },
+        {
+          "score": 1,
+          "thumbs": 2,
+          "text": "e tudo pago não dá para fazer nada"
+        },
+        {
+          "score": 1,
+          "thumbs": 2,
+          "text": "Confuso, fica incomodando com localização e é pago as funções."
+        },
+        {
+          "score": 2,
+          "thumbs": 1,
+          "text": "no começo tava ate bom, mais ai ficou ruim O app não está mostrando a localização em tempo real,nem porcentagem da bateria,dentre outros. mostra que a pessoa está parada sendo que a pessoa está em movimento,ta bem complicado desse jeito, é pq estou pagando o Premium."
+        },
+        {
+          "score": 2,
+          "thumbs": 1,
+          "text": "o aplicativo seria maravilhoso se não fosse a cada clique ter que pagar. No app tudo tem que pagar, a única coisa que tinha era acompanhar pela localização, porém agora já não consigo mais."
+        },
+        {
+          "score": 2,
+          "thumbs": 1,
+          "text": "no começo tava ate bom, mais ai ficou ruim O app não está mostrando a localização em tempo real,nem porcentagem da bateria,dentre outros. mostra que a pessoa está parada sendo que a pessoa está em movimento,ta bem complicado desse jeito, é pq estou pagando o Premium."
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "o aplicativo ta me roubando, eu decidi pagar o plano anual do segundo dia de app, pq a localização do meu marido tava desatualizada, sobre depois q ele ja tinha saido do app nesse momento e nao fui notificada. desistalei o app logo em seguida e solicitei o cancelamento mas nao qu"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "É pago"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "o aplicativo ta me roubando, eu decidi pagar o plano anual do segundo dia de app, pq a localização do meu marido tava desatualizada, sobre depois q ele ja tinha saido do app nesse momento e nao fui notificada. desistalei o app logo em seguida e solicitei o cancelamento mas nao qu"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "É pago"
+        }
+      ],
+      "location_tracking": [
+        {
+          "score": 1,
+          "thumbs": 51,
+          "text": "muito ruim tem que pagar tudo e os preços sao bem caros se fosse pelo menos marcasse se a pessoa está online ou offline eu daria uma nota bem melhor só que nao funciona a localização ela sempre trava e da a localização bem longe eu vou dar esse nota se não eu dava pior e se vcs q"
+        },
+        {
+          "score": 1,
+          "thumbs": 39,
+          "text": "Funcionou bem por uns dias, e do nada começou a mostrar localização errada, como se a pessoa estivesse em um lugar que não está, saindo de casa quando não saiu, etc. Aplicativo da discórdia, parece coisa do encardido kkkkkkkkkkkkk"
+        },
+        {
+          "score": 1,
+          "thumbs": 13,
+          "text": "O app não funciona na localização em tempo real mesmo pagando o Premium por isso. É necessário colocar manualmente, cancelei a tempo, tentei o reembolso e eles negaram."
+        },
+        {
+          "score": 2,
+          "thumbs": 8,
+          "text": "parece ser algo útil mas acaba por ser tudo pago(quase tudo) somente sei a distância e a localização,e depois na altura do pet não tem assim grande coisas a maioria das coisas é pago ,quase que mais valia fazer a aplicação logo paga"
+        },
+        {
+          "score": 1,
+          "thumbs": 7,
+          "text": "Você paga o plano Premium e o app não tem localização exata. A pessoa está em movimento e mostra parada no mesmo lugar por horas e/ou dias. A pessoa está no trabalho e mostra que está em casa. Vc quem tem que colocar manualmente a localização da pessoa, nada funciona em tempo rea"
+        },
+        {
+          "score": 1,
+          "thumbs": 7,
+          "text": "Aplicativo HORRÍVEL, péssimo, se vc quiser qualquer tipo de informação por exemplo a localização no mapa c tem q pagar 50e tanto por ano,"
+        },
+        {
+          "score": 1,
+          "thumbs": 7,
+          "text": "Você paga o plano Premium e o app não tem localização exata. A pessoa está em movimento e mostra parada no mesmo lugar por horas e/ou dias. A pessoa está no trabalho e mostra que está em casa. Vc quem tem que colocar manualmente a localização da pessoa, nada funciona em tempo rea"
+        },
+        {
+          "score": 1,
+          "thumbs": 5,
+          "text": "app bom, mas ele nunca mostra a localização certa, e sempre esta bugando. O pet, pra qm paga o app eu não sei, mas pra qm n paga, ele é fútil e atrapalha a ver a tela do app com suas mensagens fúteis tbm."
+        },
+        {
+          "score": 1,
+          "thumbs": 4,
+          "text": "Eu odiei, fui cobrada duas vezes sendo que não assinei! Péssimo, nem mostra com exatidão no GPS!"
+        },
+        {
+          "score": 1,
+          "thumbs": 3,
+          "text": "mostra a localização, mas pensa em um aplicativo com poluição visual. não deixa nada agradável o uso. e uma vez o gps colocou que eu estava em outro lugar totalmente errado, causando confusão. entao não recomendo."
+        },
+        {
+          "score": 2,
+          "thumbs": 3,
+          "text": "A ideia da aplicação é interessante e tem conceitos criativos para casais, como partilha de localização e estado da bateria do parceiro. No entanto, a otimização é muito fraca. A app manteve-se ativa em segundo plano durante vários dias e acabou por consumir mais de 100% de bater"
+        },
+        {
+          "score": 1,
+          "thumbs": 3,
+          "text": "HORRÍVEL, tudo de bom tem que pegar, e a localização é ruim também"
+        },
+        {
+          "score": 1,
+          "thumbs": 3,
+          "text": "se eu pudesse dava 0 estrela, aplicativo não mostra a localização correta,mostra que você faz caminhos que são impossível de fazer,mostra que sai de madrugada mesmo estando em casa,um lixo de app."
+        },
+        {
+          "score": 2,
+          "thumbs": 3,
+          "text": "A localização no widget não mostra o mapa, não é tão útil assim. Volto assinar o premium somente quando tiver essa funcionalidade. Mostra somente se está em um local de alerta, pois o mapa é de outras ruas"
+        },
+        {
+          "score": 1,
+          "thumbs": 3,
+          "text": "mostra a localização, mas pensa em um aplicativo com poluição visual. não deixa nada agradável o uso. e uma vez o gps colocou que eu estava em outro lugar totalmente errado, causando confusão. entao não recomendo."
+        },
+        {
+          "score": 1,
+          "thumbs": 2,
+          "text": "esse aplicativo é uma mentira ele só vai ver a localização do seu parceiro ou parceira se a pessoa confirmar"
+        },
+        {
+          "score": 1,
+          "thumbs": 2,
+          "text": "Confuso, fica incomodando com localização e é pago as funções."
+        },
+        {
+          "score": 2,
+          "thumbs": 1,
+          "text": "no começo tava ate bom, mais ai ficou ruim O app não está mostrando a localização em tempo real,nem porcentagem da bateria,dentre outros. mostra que a pessoa está parada sendo que a pessoa está em movimento,ta bem complicado desse jeito, é pq estou pagando o Premium."
+        },
+        {
+          "score": 2,
+          "thumbs": 1,
+          "text": "ele é bem ruimzinho pra localização e também a ideia dos bichinhos que é a mais legal tem muita coisa paga"
+        },
+        {
+          "score": 1,
+          "thumbs": 1,
+          "text": "aplicativo horrível nao atualiza a localização alem de tudo quando tentei contato nao obtive resposta"
+        },
+        {
+          "score": 2,
+          "thumbs": 1,
+          "text": "o aplicativo seria maravilhoso se não fosse a cada clique ter que pagar. No app tudo tem que pagar, a única coisa que tinha era acompanhar pela localização, porém agora já não consigo mais."
+        },
+        {
+          "score": 2,
+          "thumbs": 1,
+          "text": "Not showing the correct location distance on pop-up."
+        },
+        {
+          "score": 2,
+          "thumbs": 1,
+          "text": "The app does a great job with its main function of location sharing between couples, but the additional feature of taking care of a PET is disappointing. While it's a fun idea, the penalty for not frequently checking in to care for the PET is unnecessary and frustrating. The PET "
+        },
+        {
+          "score": 2,
+          "thumbs": 1,
+          "text": "no começo tava ate bom, mais ai ficou ruim O app não está mostrando a localização em tempo real,nem porcentagem da bateria,dentre outros. mostra que a pessoa está parada sendo que a pessoa está em movimento,ta bem complicado desse jeito, é pq estou pagando o Premium."
+        },
+        {
+          "score": 2,
+          "thumbs": 1,
+          "text": "ele é bem ruimzinho pra localização e também a ideia dos bichinhos que é a mais legal tem muita coisa paga"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "o aplicativo ta me roubando, eu decidi pagar o plano anual do segundo dia de app, pq a localização do meu marido tava desatualizada, sobre depois q ele ja tinha saido do app nesse momento e nao fui notificada. desistalei o app logo em seguida e solicitei o cancelamento mas nao qu"
+        },
+        {
+          "score": 2,
+          "thumbs": 0,
+          "text": "at first everything went well and everything was great, but now the app has done nothing with anything, the location gets terrible and even the net and everything else"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "o aplicativo ta me roubando, eu decidi pagar o plano anual do segundo dia de app, pq a localização do meu marido tava desatualizada, sobre depois q ele ja tinha saido do app nesse momento e nao fui notificada. desistalei o app logo em seguida e solicitei o cancelamento mas nao qu"
+        }
+      ],
+      "refund_denied": [
+        {
+          "score": 1,
+          "thumbs": 13,
+          "text": "O app não funciona na localização em tempo real mesmo pagando o Premium por isso. É necessário colocar manualmente, cancelei a tempo, tentei o reembolso e eles negaram."
+        },
+        {
+          "score": 1,
+          "thumbs": 2,
+          "text": "sem opção de cancelar assinatura."
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "o aplicativo ta me roubando, eu decidi pagar o plano anual do segundo dia de app, pq a localização do meu marido tava desatualizada, sobre depois q ele ja tinha saido do app nesse momento e nao fui notificada. desistalei o app logo em seguida e solicitei o cancelamento mas nao qu"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "o aplicativo ta me roubando, eu decidi pagar o plano anual do segundo dia de app, pq a localização do meu marido tava desatualizada, sobre depois q ele ja tinha saido do app nesse momento e nao fui notificada. desistalei o app logo em seguida e solicitei o cancelamento mas nao qu"
+        }
+      ],
+      "ai_complaint": [
+        {
+          "score": 2,
+          "thumbs": 1,
+          "text": "no começo tava ate bom, mais ai ficou ruim O app não está mostrando a localização em tempo real,nem porcentagem da bateria,dentre outros. mostra que a pessoa está parada sendo que a pessoa está em movimento,ta bem complicado desse jeito, é pq estou pagando o Premium."
+        },
+        {
+          "score": 2,
+          "thumbs": 1,
+          "text": "no começo tava ate bom, mais ai ficou ruim O app não está mostrando a localização em tempo real,nem porcentagem da bateria,dentre outros. mostra que a pessoa está parada sendo que a pessoa está em movimento,ta bem complicado desse jeito, é pq estou pagando o Premium."
+        }
+      ],
+      "inaccurate": [
+        {
+          "score": 1,
+          "thumbs": 9,
+          "text": "APLICATIVO SUPER FALSO! disse que dá pra desenhar na tela inicial e não dá"
+        },
+        {
+          "score": 1,
+          "thumbs": 3,
+          "text": "mostra a localização, mas pensa em um aplicativo com poluição visual. não deixa nada agradável o uso. e uma vez o gps colocou que eu estava em outro lugar totalmente errado, causando confusão. entao não recomendo."
+        },
+        {
+          "score": 1,
+          "thumbs": 3,
+          "text": "mostra a localização, mas pensa em um aplicativo com poluição visual. não deixa nada agradável o uso. e uma vez o gps colocou que eu estava em outro lugar totalmente errado, causando confusão. entao não recomendo."
+        },
+        {
+          "score": 1,
+          "thumbs": 2,
+          "text": "esse aplicativo é uma mentira ele só vai ver a localização do seu parceiro ou parceira se a pessoa confirmar"
+        }
+      ],
+      "pricing_billing": [
+        {
+          "score": 1,
+          "thumbs": 51,
+          "text": "muito ruim tem que pagar tudo e os preços sao bem caros se fosse pelo menos marcasse se a pessoa está online ou offline eu daria uma nota bem melhor só que nao funciona a localização ela sempre trava e da a localização bem longe eu vou dar esse nota se não eu dava pior e se vcs q"
+        },
+        {
+          "score": 1,
+          "thumbs": 13,
+          "text": "O app não funciona na localização em tempo real mesmo pagando o Premium por isso. É necessário colocar manualmente, cancelei a tempo, tentei o reembolso e eles negaram."
+        },
+        {
+          "score": 1,
+          "thumbs": 4,
+          "text": "Eu odiei, fui cobrada duas vezes sendo que não assinei! Péssimo, nem mostra com exatidão no GPS!"
+        },
+        {
+          "score": 1,
+          "thumbs": 3,
+          "text": "inicialmente eu gostei bastante, por isso assinei o Premium, paguei o de 1 ano, tive um problema com o meu celular e perdi o email, não consegui recuperar o Premium, mesmo estando com o plano assinado ainda, entrei até com a conta onde foi assinado o plano, mas realmente perdi, f"
+        },
+        {
+          "score": 1,
+          "thumbs": 3,
+          "text": "inicialmente eu gostei bastante, por isso assinei o Premium, paguei o de 1 ano, tive um problema com o meu celular e perdi o email, não consegui recuperar o Premium, mesmo estando com o plano assinado ainda, entrei até com a conta onde foi assinado o plano, mas realmente perdi, f"
+        },
+        {
+          "score": 1,
+          "thumbs": 1,
+          "text": "bando de mercenário, 80 dolares por essa besteira que se fosse de graça ja era caro."
+        },
+        {
+          "score": 1,
+          "thumbs": 1,
+          "text": "eu apaguei esse app e ele ta tirando meu dinheiro. ja troquei a senha do cartão mas não adiantou"
+        }
+      ],
+      "support_unresponsive": [
+        {
+          "score": 1,
+          "thumbs": 7,
+          "text": "NAO BAIXEM,baixei o aplicativo, assinei o premiun e ele simplesmente excluiu minha conta depôs de alguns dias de uso ,o suporte não me dá retorno, NAO PRECOMENDO,DINHEIRO GASTO ATOA"
+        },
+        {
+          "score": 1,
+          "thumbs": 3,
+          "text": "inicialmente eu gostei bastante, por isso assinei o Premium, paguei o de 1 ano, tive um problema com o meu celular e perdi o email, não consegui recuperar o Premium, mesmo estando com o plano assinado ainda, entrei até com a conta onde foi assinado o plano, mas realmente perdi, f"
+        }
+      ],
+      "language_gap": [
+        {
+          "score": 1,
+          "thumbs": 7,
+          "text": "Não gostei e ruim o aplicativo tem q pagar tudo e ainda e inglês ruim d +🤮"
+        }
+      ]
+    }
+  },
+  "MX/couple": {
+    "counts": {
+      "too_many_ads": 7,
+      "paywall_locked": 20,
+      "pricing_billing": 4,
+      "crashes_bugs": 9,
+      "support_unresponsive": 3,
+      "ai_complaint": 1
+    },
+    "top_quotes": {
+      "too_many_ads": [
+        {
+          "score": 1,
+          "thumbs": 6,
+          "text": "El apartado de misiones por dados y de ver anuncios para multiplicar los dados esta bugeado, hago una tarea y me la cambian por otra o no me la cuentan, arreglen eso, asi no da gusto jugar sus eventos"
+        },
+        {
+          "score": 2,
+          "thumbs": 0,
+          "text": "La verdad es buena la app para ver a que distancia estamos cuidadar la mascota pero no me gusta que se deba pagar para las mejores funciones y la publicidad que mandan en videos dicen lo buena que es y no dicen que se debe pagar para esas funciones asi que no me gusta tanto la ve"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "horrible , en la publicidad ofrece características que no tiene al momento de usarla con mi pareja"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "la instalé por un anuncio y no cumple lo que promete, nunca pude poner el coso para dibujar en la pantalla de bloqueo, 0/10"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "publicidad engañosa y la app hostiga de tantas cosas"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "horrible , en la publicidad ofrece características que no tiene al momento de usarla con mi pareja"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "la instalé por un anuncio y no cumple lo que promete, nunca pude poner el coso para dibujar en la pantalla de bloqueo, 0/10"
+        }
+      ],
+      "paywall_locked": [
+        {
+          "score": 1,
+          "thumbs": 30,
+          "text": "Estoy dando de más aún poniéndoles 1 estrella, la ubicación muchísimas veces es imprecisa, notifica q llega o salio de algún lugar cuando no es verdad o también sale q esta en tal sitio cuando realmente esta en otro y eso ocurre a pesar de que la ubicación está activa siempre, la"
+        },
+        {
+          "score": 1,
+          "thumbs": 24,
+          "text": "la app al principio parecía increíble, hasta compramos el premium porque valía mucho la pena, pero ahora que han pasado meses de que la tenemos da muchísimos fallos, aunque la tengas abierta y con la ubicación puesta da errores y casi siempre sale como inactivo, los horarios de d"
+        },
+        {
+          "score": 1,
+          "thumbs": 21,
+          "text": "la he tenido instalada como un mes, realmente no sirve para mucho. -una mascota que todo el rato está molestando. - por todo hay que pagar - la ubicación no es 100% real, te envía mensaje de entro o salió de algún sitio cuando no es verdad. a la otra persona le manda que fuiste t"
+        },
+        {
+          "score": 1,
+          "thumbs": 18,
+          "text": "Desintalé otra app por esta y lo que no me gusta es que para ver su recorrido, su batería y su wi fi se tiene que pagar, deberían tener al menos esas opciones gratis. También la ubicación se llega a mover mucho cuando la persona no se ha ido del lugar."
+        },
+        {
+          "score": 2,
+          "thumbs": 8,
+          "text": "en todo hay que pagar y eso se vuelve aburrido"
+        },
+        {
+          "score": 1,
+          "thumbs": 3,
+          "text": "es malisima la app todo toca pagar, el juego es suoer malo y aburrida, la ubicación no la da bien, no t deja ver si esta caminando o en carro como en otras apps, son muy malas, de vd no la instalen"
+        },
+        {
+          "score": 1,
+          "thumbs": 3,
+          "text": "Pésima aplicación, no me gusta nada, ya me eh comunicado con ellos pero nunca responden, y me parece absurdo pagar por separado el premiun 🙄"
+        },
+        {
+          "score": 1,
+          "thumbs": 1,
+          "text": "ultimamente tiene muchos bugs, no me sale los recorridos de mi pareja y tengo premium"
+        },
+        {
+          "score": 1,
+          "thumbs": 1,
+          "text": "pésima Page el premium y solo me robaron el dinero no actualizaron la app a premium pero si débito mi dinero"
+        },
+        {
+          "score": 2,
+          "thumbs": 1,
+          "text": "es bonita la app. pero debería de haber cosas gratis"
+        },
+        {
+          "score": 1,
+          "thumbs": 1,
+          "text": "ultimamente tiene muchos bugs, no me sale los recorridos de mi pareja y tengo premium"
+        },
+        {
+          "score": 2,
+          "thumbs": 0,
+          "text": "La verdad es buena la app para ver a que distancia estamos cuidadar la mascota pero no me gusta que se deba pagar para las mejores funciones y la publicidad que mandan en videos dicen lo buena que es y no dicen que se debe pagar para esas funciones asi que no me gusta tanto la ve"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "fatal !!! usándose premium no se actualizaba las ubicaciones lo cual causo mucho conflicto en mi relación"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "Yo tengo una queja, pague premium de 1 año, apenas en enero y por accidente desinstale la app y ya no me sale que tengo premium. Me pueden ayudar?"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "no es buena tienes q pagar para tener todo disponible"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "NADA es gratis, y hay que pagar todo, pésima aplicación"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "es pago y no te lo dicen hasta instalarla 😑"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "no es muy buena porque uno tiene que pagar 😔"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "porque se tiene que pagar no me gusto por qué ay que pagar"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "Pésima app, jamás muestra mi ubicación donde debería, me muestra casi 500km lejos de donde estoy, lo reporte demaciadas veces y aun así no responden, contrate el pase premium y no se corrige, estoy apunto de desisntalar y probar otras app"
+        }
+      ],
+      "pricing_billing": [
+        {
+          "score": 1,
+          "thumbs": 4,
+          "text": "Estoy muy molesta... Todos los finales de mes se cuelga y ahora no deja completar tareas... La verdad q decepción... Esta incluso pagado el año y no sirve 🤨 aparte d eso me quitaron todas mis monedas..."
+        },
+        {
+          "score": 2,
+          "thumbs": 0,
+          "text": "ni pagando la suscripción sirve bien, muchos fallos de ubicación, muchos errores, me Arrepiento de haber pagado sinceramente."
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "es una estafa pide dinero hasta creo que para entrar y casi le mete virus a mi celular."
+        },
+        {
+          "score": 2,
+          "thumbs": 0,
+          "text": "ni pagando la suscripción sirve bien, muchos fallos de ubicación, muchos errores, me Arrepiento de haber pagado sinceramente."
+        }
+      ],
+      "crashes_bugs": [
+        {
+          "score": 1,
+          "thumbs": 24,
+          "text": "la app al principio parecía increíble, hasta compramos el premium porque valía mucho la pena, pero ahora que han pasado meses de que la tenemos da muchísimos fallos, aunque la tengas abierta y con la ubicación puesta da errores y casi siempre sale como inactivo, los horarios de d"
+        },
+        {
+          "score": 1,
+          "thumbs": 6,
+          "text": "El apartado de misiones por dados y de ver anuncios para multiplicar los dados esta bugeado, hago una tarea y me la cambian por otra o no me la cuentan, arreglen eso, asi no da gusto jugar sus eventos"
+        },
+        {
+          "score": 1,
+          "thumbs": 1,
+          "text": "ultimamente tiene muchos bugs, no me sale los recorridos de mi pareja y tengo premium"
+        },
+        {
+          "score": 1,
+          "thumbs": 1,
+          "text": "ultimamente tiene muchos bugs, no me sale los recorridos de mi pareja y tengo premium"
+        },
+        {
+          "score": 2,
+          "thumbs": 0,
+          "text": "ni pagando la suscripción sirve bien, muchos fallos de ubicación, muchos errores, me Arrepiento de haber pagado sinceramente."
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "No funciona el 50% del tiempo, hay mucho mejores apps no pierdan su tiempo"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "el evento de san Valentín no funciona bien haces la misión y no te da los dados es una pésima experiencia"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "q asco de app es muy lento no te da ubicación exacta aparte pasa más 4 horas y nada no te da nada y probé con liff , liff es mejor"
+        },
+        {
+          "score": 2,
+          "thumbs": 0,
+          "text": "ni pagando la suscripción sirve bien, muchos fallos de ubicación, muchos errores, me Arrepiento de haber pagado sinceramente."
+        }
+      ],
+      "support_unresponsive": [
+        {
+          "score": 2,
+          "thumbs": 18,
+          "text": "la aplicación está bastante bien pero la ubicación no es del todo precisa, a veces marca distancias muy erróneas, no sé por que falla así si tenía buena conexion y la ubicación siempre activada, espero que arreglen eso y ajusten las funciones para que sea más cómodo, pague el año"
+        },
+        {
+          "score": 2,
+          "thumbs": 6,
+          "text": "al principio funciona bien pero ya voy 2 semanas con la aplicación y la ubicación no se actualiza, el soporte a cliente no responde y no da solución al problema"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "Pésima app, jamás muestra mi ubicación donde debería, me muestra casi 500km lejos de donde estoy, lo reporte demaciadas veces y aun así no responden, contrate el pase premium y no se corrige, estoy apunto de desisntalar y probar otras app"
+        }
+      ],
+      "ai_complaint": [
+        {
+          "score": 1,
+          "thumbs": 24,
+          "text": "la app al principio parecía increíble, hasta compramos el premium porque valía mucho la pena, pero ahora que han pasado meses de que la tenemos da muchísimos fallos, aunque la tengas abierta y con la ubicación puesta da errores y casi siempre sale como inactivo, los horarios de d"
+        }
+      ]
+    }
+  },
+  "BR/tarot": {
+    "counts": {
+      "language_gap": 1,
+      "refund_denied": 1,
+      "crashes_bugs": 1,
+      "support_unresponsive": 1
+    },
+    "top_quotes": {
+      "language_gap": [
+        {
+          "score": 2,
+          "thumbs": 0,
+          "text": "Estou tentando usar o aplicativo porém, não estou encontrando a opção de idioma, português."
+        }
+      ],
+      "refund_denied": [
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "The app charged me an absurd annual fee that I did not approve. I demand an urgent refund. I have already sent an email. There is no guidance about this on the website, and nothing appears on my phone — only on my bank statement. The app is malfunctioning — it does not show that "
+        }
+      ],
+      "crashes_bugs": [
+        {
+          "score": 2,
+          "thumbs": 7,
+          "text": "O aplicativo é bom mas, não assinem e nem comprem créditos porque não vão receber. Comprei créditos já faz um mês e não recebi, o suporte não funciona."
+        }
+      ],
+      "support_unresponsive": [
+        {
+          "score": 2,
+          "thumbs": 7,
+          "text": "O aplicativo é bom mas, não assinem e nem comprem créditos porque não vão receber. Comprei créditos já faz um mês e não recebi, o suporte não funciona."
+        }
+      ]
+    }
+  },
+  "MX/manifestation": {
+    "counts": {
+      "crashes_bugs": 2
+    },
+    "top_quotes": {
+      "crashes_bugs": [
+        {
+          "score": 2,
+          "thumbs": 1,
+          "text": "La app no funciona bien, se cierra inesperadamente al abrir la sección de \"el poder secreto\"."
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "no me deja usarlo todo el tiempo me dice error de conexión"
+        }
+      ]
+    }
+  },
+  "MX/tarot": {
+    "counts": {
+      "inaccurate": 1,
+      "pricing_billing": 1,
+      "paywall_locked": 2,
+      "refund_denied": 1
+    },
+    "top_quotes": {
+      "inaccurate": [
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "malísima es una mentira"
+        }
+      ],
+      "pricing_billing": [
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "No compren el premium! es horriblemente caro y no vale la pena!! Y ni siquiera hacen reembolso😤"
+        }
+      ],
+      "paywall_locked": [
+        {
+          "score": 2,
+          "thumbs": 3,
+          "text": "Me gusta el diseño de la app y que permite llevar un registro de las cartas que sacas, así que compré el Premium. Las dos estrellas son porque mi cuenta sigue apareciendo como si nunca lo hubiera comprado, pero al intentar hacer la compra de nuevo, dice que ya estoy suscrita. Me "
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "No compren el premium! es horriblemente caro y no vale la pena!! Y ni siquiera hacen reembolso😤"
+        }
+      ],
+      "refund_denied": [
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "No compren el premium! es horriblemente caro y no vale la pena!! Y ni siquiera hacen reembolso😤"
+        }
+      ]
+    }
+  },
+  "MX/selfcare": {
+    "counts": {},
+    "top_quotes": {}
+  },
+  "MX/astrology": {
+    "counts": {
+      "crashes_bugs": 2,
+      "paywall_locked": 4,
+      "pricing_billing": 2,
+      "inaccurate": 1
+    },
+    "top_quotes": {
+      "crashes_bugs": [
+        {
+          "score": 1,
+          "thumbs": 5,
+          "text": "Varios botones en la pantalla de inicio no funcionan. No me muestra la carta natal. Intento ir ajustes y no me obedece ninguna de las opciones por más que toque 10 veces. El horóscopo aun funciona pero le falta aspectos de la luna y otros activos entre planetas transpersonales. M"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "muchos, muchos errores, datos base son premium, error en las corrdenadas, no la recomiendo, de echo es la que menos recomiendo"
+        }
+      ],
+      "paywall_locked": [
+        {
+          "score": 1,
+          "thumbs": 5,
+          "text": "Varios botones en la pantalla de inicio no funcionan. No me muestra la carta natal. Intento ir ajustes y no me obedece ninguna de las opciones por más que toque 10 veces. El horóscopo aun funciona pero le falta aspectos de la luna y otros activos entre planetas transpersonales. M"
+        },
+        {
+          "score": 1,
+          "thumbs": 3,
+          "text": "Me desafilié del plan Premium, el cual vence el 28/01/26. Según lo que se ofrece, debería poder seguir usando los beneficios —como las cartas extras— hasta esa fecha. Sin embargo, no me permiten agregar más cartas extras. He reinstalado la aplicación y el problema continúa. Consi"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "muchos, muchos errores, datos base son premium, error en las corrdenadas, no la recomiendo, de echo es la que menos recomiendo"
+        },
+        {
+          "score": 2,
+          "thumbs": 0,
+          "text": "Ya hice mi suscripción y me aparece como si no me hubiera suscrito como si no hubiera hecho el pago"
+        }
+      ],
+      "pricing_billing": [
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "estafas y mentiras engaños"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "Todo quieren cobrarte"
+        }
+      ],
+      "inaccurate": [
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "estafas y mentiras engaños"
+        }
+      ]
+    }
+  },
+  "TR/manifestation": {
+    "counts": {},
+    "top_quotes": {}
+  },
+  "TR/selfcare": {
+    "counts": {},
+    "top_quotes": {}
+  },
+  "ID/manifestation": {
+    "counts": {},
+    "top_quotes": {}
+  },
+  "ID/tarot": {
+    "counts": {},
+    "top_quotes": {}
+  },
+  "ID/couple": {
+    "counts": {
+      "inaccurate": 1
+    },
+    "top_quotes": {
+      "inaccurate": [
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "ga jelas, gabisa daftar, ribet banget, mana harus berbayar lagi, ga masalah bayarnya, ribet nya create new account nya itu loh, nungguin call nya sampe sejaman,"
+        }
+      ]
+    }
+  },
+  "ID/astrology": {
+    "counts": {
+      "paywall_locked": 1
+    },
+    "top_quotes": {
+      "paywall_locked": [
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "most of them are premium"
+        }
+      ]
+    }
+  }
+}

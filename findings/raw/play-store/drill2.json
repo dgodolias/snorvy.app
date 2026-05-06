@@ -1,0 +1,2348 @@
+{
+  "TR_tarot_labyrinthos": {
+    "appId": "com.labyrinthos.app",
+    "country": "tr",
+    "lang": "tr-TR",
+    "title": "Labyrinthos Tarot Cards",
+    "score": 4.69,
+    "ratings": 42408,
+    "installs": "1.000.000+",
+    "histogram": {
+      "1": 1539,
+      "2": 342,
+      "3": 684,
+      "4": 3249,
+      "5": 35910
+    },
+    "offersIAP": true,
+    "IAPRange": "Öğe başına ₺22,99-₺3.449,99",
+    "adSupported": false,
+    "total_reviews_pulled": 42,
+    "low_reviews_count": 5,
+    "low_reviews_pct": 11.9,
+    "low_reviews": [
+      {
+        "date": "2025-05-15",
+        "score": 1,
+        "thumbs": 91,
+        "user": "Elif Ece Dülger",
+        "text": "Uygulama çok güzel ama türkçe olmadığı için sürekli çeviri yapmakta zorlanıyorum lütfen türkçe dil seçeneği gelsin",
+        "replyText": "Merhaba! Öneriniz için teşekkür ederiz, fikrinizi geri bildirim panomuza eklemekten ve oy vermekten çekinmeyin, dikkate alacağız. https://feedback.labyrinthos.co/b/kvj5dqme/feature-ideas"
+      },
+      {
+        "date": "2025-03-25",
+        "score": 1,
+        "thumbs": 2,
+        "user": "İlknur Karadan",
+        "text": "Uygulamayi indirdim fakat kullanamıyorum çünkü dili Türkçe değil, malesef silmek zorunda kaldım. İNDİRMEK İSTEYEN ONA GÖRE İNDİRSİN",
+        "replyText": "Merhaba! Türkçe'nin şu anda uygulamada yer alan dillerden biri olmamasından dolayı üzgünüz. Lütfen geri bildirim panomuzda fikrinizi eklemekten ve oy vermekten çekinmeyin, dikkate alacağız. https://fe"
+      },
+      {
+        "date": "2022-12-08",
+        "score": 1,
+        "thumbs": 0,
+        "user": "Nilay Venus",
+        "text": "Kartlarin resimleri cok alakasiz ne oldugu anlasilmiyor"
+      },
+      {
+        "date": "2020-12-27",
+        "score": 1,
+        "thumbs": 4,
+        "user": "Sibel Miteva",
+        "text": "Türkçe çevrimi yok"
+      },
+      {
+        "date": "2020-11-15",
+        "score": 1,
+        "thumbs": 3,
+        "user": "Ozan Sünter",
+        "text": "Uygulama türkçe seceneği yok"
+      }
+    ]
+  },
+  "TR_couple_love8": {
+    "appId": "ltd.love8.couples.relationship",
+    "country": "tr",
+    "lang": "tr-TR",
+    "title": "Love8 - Çiftler için uygulama",
+    "score": 3.8431373,
+    "ratings": 36013,
+    "installs": "5.000.000+",
+    "histogram": {
+      "1": 7516,
+      "2": 1404,
+      "3": 2341,
+      "4": 2575,
+      "5": 22104
+    },
+    "offersIAP": true,
+    "IAPRange": "Öğe başına ₺40,99-₺3.949,99",
+    "adSupported": true,
+    "total_reviews_pulled": 418,
+    "low_reviews_count": 137,
+    "low_reviews_pct": 32.8,
+    "low_reviews": [
+      {
+        "date": "2026-05-03",
+        "score": 1,
+        "thumbs": 0,
+        "user": "İrem Tezcan",
+        "text": "Rezalet hiçbir premium özelliği çalışmıyor boşa para tuzağı"
+      },
+      {
+        "date": "2026-05-02",
+        "score": 1,
+        "thumbs": 0,
+        "user": "Cansın İstanbul Talay",
+        "text": "Evet konumumuzu filan görebiliyoruz ama uygulamada her şey paralı. Bazen konumu yanlış gösteriyor, geriye kalan her şey için üyelik istiyor. Üstelik bazen ödüller için reklam izlediğimizde reklamlar sayılmıyor. Bir kere izlememiz gereken reklamı sevgilim de ben de şakasız beş kere izliyoruz. Saçmalık gerçekten."
+      },
+      {
+        "date": "2026-04-11",
+        "score": 1,
+        "thumbs": 0,
+        "user": "Emre Yılmaz",
+        "text": "uygulama içi partnrrimin şar durumu 64 olduğu halde sürekli 0 gösteriyor yer durumu hatalı acilen çözüm bulunması gerek",
+        "replyText": "Merhaba, partnerinizin şarj durumuyla ilgili yaşadığınız sorunu anlıyoruz ve bu durumun sizi rahatsız ettiğini biliyoruz. Sorunu daha detaylı inceleyebilmemiz için lütfen developer@love8app.com adresi"
+      },
+      {
+        "date": "2026-04-08",
+        "score": 1,
+        "thumbs": 0,
+        "user": "Deniz Yaylagül",
+        "text": "hele şu uygulamaya bişey yapın bazen yanlış yerde gösteriyor bakıyorum bi evde aldatıyor saniyom amk Allah'tan kıza güveniyom",
+        "replyText": "Merhaba, konumunuzun yanlış gösterilmesi durumunu anlıyoruz ve bu durumun sizi rahatsız ettiğini biliyoruz. Bu tür teknik sorunları çözmek için bizimle developer@love8app.com adresinden iletişime geçe"
+      },
+      {
+        "date": "2026-04-02",
+        "score": 1,
+        "thumbs": 0,
+        "user": "Esdeath Jk",
+        "text": "Uygulamadaki her ozellik premium ile calismakta para yatirilmadigi surece ise yaramaz.",
+        "replyText": "Merhaba, uygulamanın ücretsiz sürümünde de keyifli bir deneyim sunmayı hedefliyoruz. Premium üyelik, bazı ek özelliklerin kilidini açar. Ancak ücretsiz kullanımda da değerli anlar paylaşabileceğinizi "
+      },
+      {
+        "date": "2026-03-30",
+        "score": 1,
+        "thumbs": 2,
+        "user": "Emre Kesicioglu",
+        "text": "uygulama güzel fakat belirli bir süreden sonra giriş çıkışı göstermiyor telefon durumunu göstermiyor premium üyesiyim yani hiçbir şey anlamıyorum",
+        "replyText": "Merhaba, bu durumu anlıyorum ve özellikle Premium üyemiz olduğunuz için yaşadığınız sorunu ciddiye alıyoruz. Giriş/çıkış ve telefon durumu gibi bilgilerin gösterilmemesi can sıkıcı olabilir. Lütfen bu"
+      },
+      {
+        "date": "2026-03-29",
+        "score": 1,
+        "thumbs": 0,
+        "user": "Ecrin",
+        "text": "herşey premium abartı şekilde ne konumu doğru gosteriyo son güncellemeden sonra daha kötü oldu uygulama iyice uygulama berbat oldu",
+        "replyText": "Merhaba, anladığım kadarıyla konum güncellemesi ve Premium özelliklerle ilgili hayal kırıklığı yaşamışsın. Geri bildirimin için teşekkür ederiz. Uygulamanın deneyimini iyileştirmek için sürekli çalışı"
+      },
+      {
+        "date": "2026-03-12",
+        "score": 1,
+        "thumbs": 1,
+        "user": "Zeynep",
+        "text": "konumu sürekli yanlış gosteriyo evdeyken bile eve geldi bildirimi atiyo surekli sacma sapan konum paylasimi icin indiriyosaniz indirmeyin lanet bi uygulama içindeki salak bi pet var onun içinse indirmeye degmez"
+      },
+      {
+        "date": "2026-02-28",
+        "score": 1,
+        "thumbs": 0,
+        "user": "Harun Doğru",
+        "text": "sizi devamlı darlayan ve aşırı kıskanç sevgiliniz varsa asla kullanmayın."
+      },
+      {
+        "date": "2026-02-27",
+        "score": 1,
+        "thumbs": 0,
+        "user": "Tuğba Kesimoğlu",
+        "text": "konum bambaşka gözüküyor eskiden böyle değildi gittikçe kötü oluyor"
+      },
+      {
+        "date": "2026-02-22",
+        "score": 2,
+        "thumbs": 8,
+        "user": "selo",
+        "text": "premium üyesi olmamıza rağmen erkek arkadaşımın konumu sürekli yanlış bazen çevrimdışı gözüküyo 1 gun boyunca düzelmiyor yada 10 11 saattir telefona bakmıyormuş gibi gözüküyor evdeyken görüntülü konuşuyoruz ama uygulama da konumu bambaşka yerlerde"
+      },
+      {
+        "date": "2026-02-19",
+        "score": 1,
+        "thumbs": 0,
+        "user": "Alp Ens",
+        "text": "ödüllerimi vermiyo😡"
+      },
+      {
+        "date": "2026-02-16",
+        "score": 2,
+        "thumbs": 8,
+        "user": "Hidayet Emin",
+        "text": "olm adamı delirtmeyin para verdik ettik uygulamaya iyi hoş kullanıyoruz telefon durumu bozuldu düzeltin şunu bekliyoruz kaç oldu bu güncelleme geldi düzelir dedik düzelmedi yine"
+      },
+      {
+        "date": "2026-02-16",
+        "score": 1,
+        "thumbs": 0,
+        "user": "Efe Akkaya",
+        "text": "her şey ücretli"
+      },
+      {
+        "date": "2026-02-15",
+        "score": 1,
+        "thumbs": 34,
+        "user": "Görkem Gök",
+        "text": "Son güncelleme ile konum hataları ortaya çıktı. iPhone kullanan eşimin konumu sürekli bir yerlere ışınlanıyor, mesafeleri yanlış gösteriyor."
+      },
+      {
+        "date": "2026-02-11",
+        "score": 1,
+        "thumbs": 1,
+        "user": "Serkan Can Açar",
+        "text": "Ana ekrana widdet ekledim ancak yanlıs gosterıyo"
+      },
+      {
+        "date": "2026-02-11",
+        "score": 1,
+        "thumbs": 6,
+        "user": "Kadir Gkbr",
+        "text": "herşey paralı olmuş işin ilginç yanı parayla alsan bile özellikleri doğru göstermiyor konumu yanlış veriyor aktif değilken aktif gösteriyor yanisi deymez boşuna satın almayın"
+      },
+      {
+        "date": "2026-02-10",
+        "score": 1,
+        "thumbs": 0,
+        "user": "Beyza nur Yıldız",
+        "text": "üyeliği istediğimiz zaman iptal edebileceğimiz yazıyordu nasıl iptal edebiliriz,geri dönüş yaparsanız sevinirim."
+      },
+      {
+        "date": "2026-01-24",
+        "score": 1,
+        "thumbs": 1,
+        "user": "Blartex",
+        "text": "uygulama konumu yanlış gösteriyor hep premium boşuna almayın yani yanlış veri veriyor gece uyurken telefonda aktif gösteriyor hemen hemen her gece konum yalis çoğunlukla şarj bilgisi geç geliyor oda yanlış ilgilenen kimse yok iletişim merkezi ilgilenmiyor bu yorumada burdan iletisime geçin yardımcı olacağız derler yalan inanmayın paranızı boşuna vermeyin iletişime geçtik yardımcı da olmuyorlar hatta yanıt bile vermiyorlar uygulama çiftleri birbirine düşürmeye daha çok yarıyor bence"
+      },
+      {
+        "date": "2026-01-23",
+        "score": 1,
+        "thumbs": 0,
+        "user": "Zafer Uğur",
+        "text": "ilk hafta iyidi ikinci haftada kendi kendine bildirim vermeler tam konum vermemek zamanında güncellenmeyen akış ve daha nicesi"
+      },
+      {
+        "date": "2026-01-06",
+        "score": 2,
+        "thumbs": 4,
+        "user": "Beyz Afs",
+        "text": "uygulama tatlı güzel ama bir çok şey ücretli ben böyle şeylere para vermeyi sevmiyorum gerek yok parayı boşa vericem belkide iki gün sonra silecem bu kadar para verem bunu konuşma dışında hiç bir şey yapilmiuo iki puan bile hak etmiyo ama arkadaşım sevdiği için verdim"
+      },
+      {
+        "date": "2026-01-06",
+        "score": 1,
+        "thumbs": 52,
+        "user": "Diyar Bozkurt",
+        "text": "mrblar ilk başlarda uygulamanın herşeyi doğru bi şekilde gösterilmesinden çok memnundum daha sonra 3. günden beri kullanmaktan sonra haftalık abonelik aldım ama konum bilgileri şarj bilgileri ve telefonun açılıp kapanış durumu iyice bozuldu neyse dedim uygulama düzeldi yıllık abone aldım halen sorun devam ediyor partnerimin uyumasina rağmen telefon durumu açık Olarak gösterdi bu sorunun çözülmesini arz ediyorum kullanıcı 7630199 dönüşünüzu uygulamayi en kısa sürede çözmenizi arz ederiz"
+      },
+      {
+        "date": "2025-12-31",
+        "score": 1,
+        "thumbs": 3,
+        "user": "Güney Subaşi",
+        "text": "Yılbaşı etkinliğinde 25 gün boyunca belirli görevler yapıp puan topluyorsunuz ve çekiliş ile abonelik, cash, evcil hayvan jetonu veya set kazanibiliyorsunuz. 30 kere çevirdim ama evcil hayvan jetonundan başka birşey çıkmadı. İnsanları kandırmak için çekiliş çatısı altında kandırmanıza gerek yok."
+      },
+      {
+        "date": "2025-12-29",
+        "score": 1,
+        "thumbs": 0,
+        "user": "Pınar",
+        "text": "500 tl verdim bütün bilgiler hatalı!!"
+      },
+      {
+        "date": "2025-12-28",
+        "score": 1,
+        "thumbs": 1,
+        "user": "Tuana",
+        "text": "Uygulamanin bazi yerleri paralı hiç güzel değil tavsiye etmiyorum"
+      },
+      {
+        "date": "2025-12-22",
+        "score": 1,
+        "thumbs": 0,
+        "user": "Lale Myradowa",
+        "text": "uygulamayi daha almadım ama cokkkkk güzel uygulama diyorlar (⁠*⁠_⁠*⁠)"
+      },
+      {
+        "date": "2025-12-21",
+        "score": 1,
+        "thumbs": 0,
+        "user": "Azra Turk",
+        "text": "ayrildigimiz icin 1 veriyorum yoksa guzel yanj"
+      },
+      {
+        "date": "2025-12-21",
+        "score": 1,
+        "thumbs": 3,
+        "user": "Ufuk Çiftçioğlu",
+        "text": "vasat in bir tık üstü kız arkadaşım ile ayrılma derecesine geldik bugün en son silmeye karar verdik. Görüntülü konuşuyoruz uygulmadan bildirim.geldi kız arkadaşım alakasız konumlarda gösteriyor yerini evde kendi evinde olduğu halde evinden yaklaşık 1 kilometre uzaklıkta gösteriyor WhatsApp da konuştuğumuz halde görüntülü uygulama yüzünden neredeyse tartışacaktik hadi o an kız arkadaşım uyuyor olsaydı veya ben öyle biliyor olsaydım bunu bana nasıl açıklayacakti !!!"
+      },
+      {
+        "date": "2025-12-07",
+        "score": 1,
+        "thumbs": 0,
+        "user": "İzzettin Babayiğit",
+        "text": "saçma bir uygulama"
+      },
+      {
+        "date": "2025-12-02",
+        "score": 1,
+        "thumbs": 10,
+        "user": "Elif Çinleten",
+        "text": "Ücret ödeyip de günlük sokak görünümünün 3 defa yapabilmemiz çok saçma"
+      },
+      {
+        "date": "2025-12-02",
+        "score": 1,
+        "thumbs": 0,
+        "user": "Nida yılmaz",
+        "text": "yeterli degil bence"
+      },
+      {
+        "date": "2025-12-02",
+        "score": 2,
+        "thumbs": 5,
+        "user": "Yeliz Şahan",
+        "text": "güzel ama bazen konumu doğru yerde göstermiyor haraket edilmese dahi kendi kendine haraket edildiğini gösterebiliyor bu güzel degil"
+      },
+      {
+        "date": "2025-11-30",
+        "score": 1,
+        "thumbs": 0,
+        "user": "Elif Işık",
+        "text": "herşey paralı hiçbir şey yapamıyoruz"
+      },
+      {
+        "date": "2025-11-27",
+        "score": 2,
+        "thumbs": 7,
+        "user": "Berfin",
+        "text": "ilk zamanlarda düzenli olarak görebiliyordum tüm hareketlerini vs fakat zamanla düzensiz ve yanlış şekillerde göstermeye başladı dünden beride çarşı içinde yolda gözüküyor ama evde kendisi lütfen bu sorunu düzeltin."
+      },
+      {
+        "date": "2025-11-25",
+        "score": 1,
+        "thumbs": 0,
+        "user": "fadimana acar",
+        "text": "uygulama berbart hale geldi premium almama rağmen kullanmıyorum hiç bir yetkiliye ulaşamıyorum"
+      },
+      {
+        "date": "2025-11-23",
+        "score": 1,
+        "thumbs": 18,
+        "user": "YILMAZ",
+        "text": "Konum yanlış gösteriyorr telefonda aktif olmadığı zamanlarda çok alakasız yerlere gidip geliyor"
+      },
+      {
+        "date": "2025-11-20",
+        "score": 2,
+        "thumbs": 3,
+        "user": "Erdoğan Erdoğan (Ahmet Oğlu)",
+        "text": "Kolay gelsin hayırlı çalışmalar, biz 2025 yılı mart ayından Love8 adlı uygulanızdan 1 yıllık üyelik almış bulunmaktayız. Başlarda çok fazla memnunduk ama daha sonrasından konum bilgilerimiz hatalı ve bildirimler yanlış gelmeye başladı ve bizde bu sebeplerden kız arkadaşımla tartışmalar yaşamaya başladık uygulama üzerinden müşteri hizmetlerinize de hiçbir şekilde ulaşamıyoruz."
+      },
+      {
+        "date": "2025-11-19",
+        "score": 2,
+        "thumbs": 2,
+        "user": "Büşra Kazdal",
+        "text": "uygulama güzel ama kodu girdiğimizde teknik aksaklık yaşanıyor kısa bir süre içinde düzeltilmesini isteriz",
+        "replyText": "Dear user, please contact me at developer@love8app.com . I will help you resolve any issue."
+      },
+      {
+        "date": "2025-11-08",
+        "score": 1,
+        "thumbs": 0,
+        "user": "Ecem Naz Ecet",
+        "text": "herşey preumlu çok saçma",
+        "replyText": "Değerli kullanıcı, lütfen benimle developer@love8app.com\nadresinden iletişime geçin. Tüm sorunlarınızı çözmenize yardımcı olacağım."
+      },
+      {
+        "date": "2025-10-30",
+        "score": 1,
+        "thumbs": 1,
+        "user": "gece",
+        "text": "uygulamada herşey iyi ama maalesefki konum yanlış bide mesela tek bende oluyor 10 dk 1165 km/h ile bide yani bide şeye gitmişim hani Karadenize bide karadenizde orda durmuşum biraz denizin ortasında bide salak saçma bi yerde gösteriyo yayla mı ne konumdan baktım gidişi 1 saatlik yolu bana 10 dk gitmişim diye gösteriyo yürüyerek bu sorunu çozun çozmezseniz silicem uygulamayı sevgilimle beraber",
+        "replyText": "Bana developer@love8app.com\nadresinden ulaşabilirsiniz. Herhangi bir sorunuzu çözmenize yardımcı olabilirim ve size ücretsiz deneme sürümü sağlayabilirim."
+      },
+      {
+        "date": "2025-10-24",
+        "score": 1,
+        "thumbs": 0,
+        "user": "Nurbanu Mohammad",
+        "text": "ben hiçbir yapamıyorum:(( premium özelliğini deneyemiyorum olmuyor bende neden?",
+        "replyText": "Bana developer@love8app.com\nüzerinden ulaşabilirsiniz. Herhangi bir sorununuzu çözebilir ve kullanmanız için ücretsiz bir deneme sürümü sağlayabilirim."
+      },
+      {
+        "date": "2025-10-23",
+        "score": 1,
+        "thumbs": 0,
+        "user": "Nazlıcan Dindar",
+        "text": "aboneliğimi iptal ettirmek istiyorum benle irtibata geçebilir misiniz",
+        "replyText": "Bana developer@love8app.com\nüzerinden ulaşabilirsiniz. Herhangi bir sorununuzu çözebilir ve kullanmanız için ücretsiz bir deneme sürümü sağlayabilirim."
+      },
+      {
+        "date": "2025-10-21",
+        "score": 1,
+        "thumbs": 0,
+        "user": "tuğçe",
+        "text": "son zamanlarda olup olmadık yerde konum hataları evdeyken evden çıktı ve eve geri döndü diye bildirim atması özellikle gecenin bir saatinde güven kırıcı . uygulama içerisinde bir çok hata var hareket hızı ,telefon duruöunu görüntüleyememe vede enn son ve en büyül problem konum hataları acilen bi çözüm bulmanız gerekiyor...",
+        "replyText": "Bana developer@love8app.com\nüzerinden ulaşabilirsiniz. Herhangi bir sorununuzu çözebilir ve kullanmanız için ücretsiz bir deneme sürümü sağlayabilirim."
+      },
+      {
+        "date": "2025-10-20",
+        "score": 2,
+        "thumbs": 0,
+        "user": "Cansu TUNA",
+        "text": "güzel bir uygulama sevgilimle bayadir kullanıyoruz ve minnak çocuklar çok tatlis biz baya büyüttük üç çocuk var 23 yaşlarında ayy yerim onlari. //) yorumumu değiştiriyorum uygulama sevgilimi sürekli evde gosteriyo dışarı çıksın işe gitsin evde gösteriyor konumu aç kapa yapıyo bir oyle duzeliyordu şimdi hiç düzelmeye başladı uygulamayı silmeye karar verdim şahsen düşünüyorum acaba sevgilim uygulamanın bagını mı bulduda bu konum hep evde gosteriyo a.k",
+        "replyText": "Bana developer@love8app.com\nadresinden ulaşabilirsiniz. Herhangi bir sorunuzu çözebilirim ve size ücretsiz bir deneme sürümü sunabilirim."
+      },
+      {
+        "date": "2025-10-19",
+        "score": 1,
+        "thumbs": 0,
+        "user": "Tuana Şahingöz",
+        "text": "paralı kısımları parasız yapın o zaman daha çok insan uygulamayı yükler",
+        "replyText": "Bana developer@love8app.com\nüzerinden ulaşabilirsiniz. Herhangi bir sorununuzu çözebilir ve size ücretsiz bir deneme sürümü sağlayabilirim."
+      },
+      {
+        "date": "2025-10-06",
+        "score": 2,
+        "thumbs": 0,
+        "user": "ESLEM_SOFT",
+        "text": "keşke preimyum olmasa"
+      },
+      {
+        "date": "2025-10-05",
+        "score": 1,
+        "thumbs": 6,
+        "user": "Yasemin",
+        "text": "korkunç bir uygulama bu uygulama yuzunden paronayak olmaya başladım ilişkim çok sağlıksız devam etti hiçkimseye tavsiye etmem insanların kavga etmesine sebep oluyor bence.. paronayaklıklarım çok fazlalaşınca 1 yıllık ilişkim bitmiş bulundu :)"
+      },
+      {
+        "date": "2025-09-21",
+        "score": 1,
+        "thumbs": 0,
+        "user": "Zekeriya Özdemir",
+        "text": "1'ri bile haketmiyor boş yere attı erorr verdi hereşeyimiz gitti"
+      },
+      {
+        "date": "2025-09-21",
+        "score": 1,
+        "thumbs": 1,
+        "user": "Hasret",
+        "text": "Yaklaşık 9 aydır kullanıyoruz bugün uygulama durup dururken bizi atıyor giriş yapamıyoruz yaptığımızda ise 2 saniye sonra atıyor",
+        "replyText": "Sevgili kullanıcı, lütfen bana şu e-posta adresinden ulaşın: developer@love8app.com\n. Sorununuzu çözmek için bir mühendisi görevlendireceğim."
+      },
+      {
+        "date": "2025-09-21",
+        "score": 1,
+        "thumbs": 0,
+        "user": "Bünyamin",
+        "text": "uygulama hata veriyor hesaptan atıyor?",
+        "replyText": "Sevgili kullanıcı, lütfen bana şu e-posta adresinden ulaşın: developer@love8app.com\n. Sorununuzu çözmek için bir mühendisi görevlendireceğim."
+      },
+      {
+        "date": "2025-09-21",
+        "score": 1,
+        "thumbs": 0,
+        "user": "Şevval burcu Çetin",
+        "text": "uygulama bizi attı giriş yapamıyoruz",
+        "replyText": "Sevgili kullanıcı, lütfen bana şu e-posta adresinden ulaşın: developer@love8app.com\n. Sorununuzu çözmek için bir mühendisi görevlendireceğim."
+      },
+      {
+        "date": "2025-09-21",
+        "score": 1,
+        "thumbs": 15,
+        "user": "Tuğçe Göçer",
+        "text": "aylardır kullanıyorduk bir sıkıntı olmuyordu bugün tekrar yükledik uygulama kendi kendine hem erkek arkadaşımı hem beni attı ve silip tekrar yüklemeye vrya Google hesabını degistirmeye ragmen uygulama eror veriyor acilen buna bir çözümle geri dönüş bekliyorum",
+        "replyText": "Sevgili kullanıcı, lütfen bana şu e-posta adresinden ulaşın: developer@love8app.com. Sorununuzu çözmek için bir mühendisi görevlendireceğim."
+      },
+      {
+        "date": "2025-09-18",
+        "score": 1,
+        "thumbs": 27,
+        "user": "beyza çetinkaya",
+        "text": "ilk zaman çok güzeldi ama artık eve geldiği ve çıktığı saatleri hemen bildirmiyor yolda giderken göstermiyor sanırım teknik bir sorun var ilgilenirseniz mutlu oluruz o kadar para verdik bu uygulamaya karşılık bekliyoruz",
+        "replyText": "Sevgili kullanıcı, lütfen bana şu e-posta adresinden ulaşın: developer@love8app.com. Sorununuzu çözmek için bir mühendisi görevlendireceğim."
+      },
+      {
+        "date": "2025-09-18",
+        "score": 1,
+        "thumbs": 0,
+        "user": "KÜRŞAT ATICI",
+        "text": "saçma bi uygulama indirdiğime pişman oldum abonelik iptal ettim ve hala kartımdan para çekiyo ne bi iletişim numarası var mail atıyorum cevap yok canlı destekte mesajlara bakmıyosunuz",
+        "replyText": "Sevgili kullanıcı, lütfen bana şu e-posta adresinden ulaşın: developer@love8app.com.Sorununuzu çözmek için bir mühendisi görevlendireceğim."
+      },
+      {
+        "date": "2025-09-15",
+        "score": 1,
+        "thumbs": 0,
+        "user": "Aslı Yalçınkaya",
+        "text": "uygulama kendi kendine karttan ödeme cekiyo kartım uygulama yüzünden kapandı",
+        "replyText": "Değerli kullanıcı, lütfen benimle şu e-posta adresinden iletişime geçin: developer@love8app.com. Mühendisimizin sorununuzu çözmesi için gerekli düzenlemeleri yapacağım."
+      },
+      {
+        "date": "2025-09-14",
+        "score": 2,
+        "thumbs": 5,
+        "user": "Ece Liya Kızılkaya",
+        "text": "urune O kadar para vererek kullaniyoruz ne dogru duzgun konumu gosteriyosunuz nede baska bisey sozde sevgili uygulamasi ama resmen aramizin bozulmasi icin yapilan bi uygulamadan baska bisey degil evdeyken nasil konum sanki Ben disari cikmisim gibi gosterebiliyor iliskilerdeki guveni zedeliyorsunuz gmail attim acilen sorunu duzeltin yoksa uygulamayi silicez.",
+        "replyText": "Değerli kullanıcı, lütfen benimle şu e-posta adresinden iletişime geçin: developer@love8app.com. Mühendisimizin sorununuzu çözmesi için gerekli düzenlemeleri yapacağım."
+      },
+      {
+        "date": "2025-09-13",
+        "score": 1,
+        "thumbs": 0,
+        "user": "Zehra Nur Çakmak",
+        "text": "hiç güzel değildi herşey para ile ne yapsam para ne zaman etsem para buna yıldız bile verilmez hiç iyi değildi iğrençdi",
+        "replyText": "Değerli kullanıcı, lütfen benimle şu e-posta adresinden iletişime geçin: developer@love8app.com.Mühendisimizin sorununuzu çözmesi için gerekli düzenlemeleri yapacağım."
+      },
+      {
+        "date": "2025-09-11",
+        "score": 1,
+        "thumbs": 1,
+        "user": "Kayra Yağız KURT",
+        "text": "Sevgilim İstanbulda aq ilk defa bağlandık bana Ankarada gösteriyor birde utanmadan ücretli üyelik al diyorlar daha konumu doğru göstermiyor",
+        "replyText": "Değerli kullanıcı, lütfen benimle şu e-posta adresinden iletişime geçin: developer@love8app.com. Mühendisimizin sorununuzu çözmesi için gerekli düzenlemeleri yapacağım."
+      },
+      {
+        "date": "2025-09-10",
+        "score": 1,
+        "thumbs": 0,
+        "user": "Tuncay Güler",
+        "text": "YAPACAGİNİZ UYGULAMANİN EJDEBİLİYATİNİN ANASİNA PAZARDA MUZLA SALDİRİM",
+        "replyText": "Değerli kullanıcı, lütfen benimle şu e-posta adresinden iletişime geçin: developer@love8app.com. Mühendisimizin sorununuzu çözmesi için gerekli düzenlemeleri yapacağım."
+      },
+      {
+        "date": "2025-09-08",
+        "score": 1,
+        "thumbs": 28,
+        "user": "Dilara Akkaz",
+        "text": "premium abone olarak kullanıyorum beni gece 6 dk dışarı çıktı olarak gösteriyor 6 dk da gidip gelemeyeceğim konuma götürüp geliyor bildiğim kadarıyla sevgiliminde bir jeti yok 580km hızla evin 10dk ilerisine gittiğini gösteriyor canı sıkılırsa eve girdi çıktı bildirimi geliyor bazende gelmiyor telefonu elinde oyun oynuyor ama uygulama en son 1.5saat önce telefonu kullandı gösteriyor para verip abone olana kadar böyle şeyler yaşamıyoduk para verdik uygulama hata vermeye başladı paramıza yazık",
+        "replyText": "Sevgili kullanıcı, benimle şu e-posta adresinden iletişime geçebilirsiniz: developer@love8app.com\n. Ekibimizin sorununuzu çözmesini sağlayacağım."
+      },
+      {
+        "date": "2025-09-03",
+        "score": 1,
+        "thumbs": 0,
+        "user": "Mina Derin",
+        "text": "bence bu uygulamanın yakın arkadaşlar için olanını çıkartasanız daha güzel olur ve nerdeyse her şey premiumdu ben reklamda izledığimde herşey ücretsizdi ricam yakın arkadaşlar için olanını çikartmanız"
+      },
+      {
+        "date": "2025-08-31",
+        "score": 1,
+        "thumbs": 0,
+        "user": "Miray Yıldız",
+        "text": "biz arkadaşımla denedik ama bazı şeyler gereksiz ücretli ve bence yarısına ücretli yazmalıydınız biz beğenmedik",
+        "replyText": "Sevgili kullanıcı, benimle şu e-posta adresinden iletişime geçebilirsiniz: developer@love8app.com\n. Ekibimizin sorununuzu çözmesini sağlayacağım."
+      },
+      {
+        "date": "2025-08-31",
+        "score": 1,
+        "thumbs": 0,
+        "user": "Yaren",
+        "text": "Teyzemin kızı sanırım satın almış ama satın almadık buna eminiz her ay bizden para almaya çalışıyorlar ama bakiye olmadığı için para alamıyorlar. İptal nasıl edeceğiz? Normal aboneliklerde de göstermiyor. Sorunu çözerseniz seviniriz.",
+        "replyText": "Sevgili kullanıcı, benimle şu e-posta adresinden iletişime geçebilirsiniz: developer@love8app.com . Ekibimizin sorununuzu çözmesini sağlayacağım."
+      },
+      {
+        "date": "2025-08-29",
+        "score": 1,
+        "thumbs": 0,
+        "user": "A",
+        "text": "İNTERNET BAĞLANTISI YOK DİYOR DÜZELTİN ŞUNU LÜTFEN",
+        "replyText": "Sevgili kullanıcı, benimle şu e-posta adresinden iletişime geçebilirsiniz: developer@love8app.com\n. Ekibimizin sorununuzu çözmesini sağlayacağım."
+      },
+      {
+        "date": "2025-08-25",
+        "score": 1,
+        "thumbs": 0,
+        "user": "Yasinarda Tuncel",
+        "text": "REZİL BERBAT HÜSRANA UĞRADIM",
+        "replyText": "Sevgili kullanıcı, benimle şu e-posta adresinden iletişime geçebilirsiniz: developer@love8app.com\n. Ekibimizin sorununuzu çözmesini sağlayacağım."
+      },
+      {
+        "date": "2025-08-22",
+        "score": 1,
+        "thumbs": 0,
+        "user": "Gülşah Alakırık",
+        "text": "çok kotu",
+        "replyText": "Sevgili kullanıcı, benimle şu e-posta adresinden iletişime geçebilirsiniz: developer@love8app.com. Ekibimizin sorununuzu çözmesini sağlayacağım."
+      },
+      {
+        "date": "2025-08-21",
+        "score": 1,
+        "thumbs": 0,
+        "user": "Berşan Kılıçgedik",
+        "text": "Ücretsiz versiyon ile hiçbir şey yapamıyorsunuz berbat"
+      },
+      {
+        "date": "2025-08-17",
+        "score": 1,
+        "thumbs": 0,
+        "user": "Burak Kapucu",
+        "text": "sürekli uygulamadan atıyor neden",
+        "replyText": "Sevgili kullanıcı, lütfen developer@love8app.com\nadresinden benimle iletişime geçin, sorununuzu çözmesi için bir teknik mühendis ayarlayacağım."
+      },
+      {
+        "date": "2025-08-12",
+        "score": 2,
+        "thumbs": 0,
+        "user": "Barış Aydoğdu",
+        "text": "para ödeniyor mu? uygulama içinde"
+      },
+      {
+        "date": "2025-08-08",
+        "score": 1,
+        "thumbs": 0,
+        "user": "İlayda Avcı",
+        "text": "uygulamayı şakasız 1 saattir indirmeye çalışıyorum fakat uygulama inmiyo erkek arkadaşımda indiremiyo geri bildirim gönderdik kaç kere değişen bişey olmadı yardımcı olurmusunuz lütfen"
+      },
+      {
+        "date": "2025-08-05",
+        "score": 1,
+        "thumbs": 0,
+        "user": "Kalivia",
+        "text": "arkadaşlar konumu yanlis gosterip gosterip sevgilimle kavga etmeme sebep oldu indirmeyin hayal kirikligina ugrarsiniz zaten her sey abonelikle oluyo"
+      },
+      {
+        "date": "2025-07-30",
+        "score": 1,
+        "thumbs": 0,
+        "user": "Ayjan Atabayewa",
+        "text": "parayla olmasa güzeldi"
+      },
+      {
+        "date": "2025-07-25",
+        "score": 1,
+        "thumbs": 0,
+        "user": "dury",
+        "text": "yaklaşık 1 yıldır sevgilimle kullanıyoruz çok bir sorun yoktu ama bugün sevgilimin telefonundan izni ve bilgisi dışında 1 yıllık premium üyeliği yapıldı geri dönüş yapmanızı rica ediyorum"
+      },
+      {
+        "date": "2025-07-19",
+        "score": 1,
+        "thumbs": 0,
+        "user": "KEREM CAN AYTAÇ",
+        "text": "konum doğru güncellemiyor çok doğru göstermiyor"
+      },
+      {
+        "date": "2025-07-18",
+        "score": 2,
+        "thumbs": 5,
+        "user": "Gizem Alkan",
+        "text": "Eşimin konumu her zaman aktif beni hep aynı yerde gösteriyor. Heryerden yazdım uygulama asla ilgilenmiyor ve asla yanıt vermiyor. Premium aldık yine aynı. Düzelmezse sileceğiz."
+      },
+      {
+        "date": "2025-06-20",
+        "score": 2,
+        "thumbs": 1,
+        "user": "Oruchan Geçit",
+        "text": "premium aldık sokak görünümü için bile para ister oldunuz ileri bir zamanda premium almak için premium alma paketi aldırırsınız siz"
+      },
+      {
+        "date": "2025-06-17",
+        "score": 1,
+        "thumbs": 0,
+        "user": "Caglar Ozcelik",
+        "text": "berbat ücretli"
+      },
+      {
+        "date": "2025-06-07",
+        "score": 1,
+        "thumbs": 14,
+        "user": "yasemin dağ",
+        "text": "hareket halinde değilken hareket halinde gösteriyor . konum iki saat sonra güncelleniyor . görmediğim yerlere gitmişim gibi gösteriyor konum geçmişinde . kafasına göre takılıyor",
+        "replyText": "Değerli kullanıcı, lütfen benimle şu e-posta adresinden iletişime geçin: developer@love8app.com. Sorununuzu çözebilirim."
+      },
+      {
+        "date": "2025-06-05",
+        "score": 1,
+        "thumbs": 0,
+        "user": "Beyza Nur",
+        "text": "Facebooktan veya emailden hesap açmıyor googledan açmak içinde baya uğraştım sonunda açıldı ama ne kendi kodumu oluşturabilyorum ne de sevgilimi koduyla ekleyebiliyorum app komple bozuk hata veriyor sürekli. sevgilimin telefonu ios onda açıldı benimki android açılmadı androidlere bir düzeltme getirirsiniz umarım"
+      },
+      {
+        "date": "2025-06-05",
+        "score": 1,
+        "thumbs": 0,
+        "user": "Lura X",
+        "text": "Sevgilim benimkini görüyor ben onun konumunu göremiyorum harita kısmı açılmıyor çok saçma ve gereksiz"
+      },
+      {
+        "date": "2025-05-31",
+        "score": 1,
+        "thumbs": 1,
+        "user": "DeathAngel",
+        "text": "donuyor sürekli telefonumun markası not 14 pro ama cok sacma bi sekilde donuyor eski mesajları göremiyorum"
+      },
+      {
+        "date": "2025-05-29",
+        "score": 1,
+        "thumbs": 1,
+        "user": "Gamze Yakisir",
+        "text": "çok beğendim sayılmaz. bence daha iyi güzel aktiviteler konulmalı"
+      },
+      {
+        "date": "2025-05-16",
+        "score": 1,
+        "thumbs": 0,
+        "user": "zehros",
+        "text": "aldatılmasaydım güzel uygulamaydı tercih edilir"
+      },
+      {
+        "date": "2025-05-13",
+        "score": 1,
+        "thumbs": 6,
+        "user": "Sultan Badem",
+        "text": "herşey paralı",
+        "replyText": "Lütfen developer@love8app.com adresinden benimle iletişime geçin. Sorununuzu incelemesi için bir teknik mühendisi görevlendireceğim ve sizi memnun edecek bir çözüm sunacağız."
+      },
+      {
+        "date": "2025-05-12",
+        "score": 2,
+        "thumbs": 4,
+        "user": "Melis Altıntaş",
+        "text": "konumu çok geç güncelliyor, telefon durumu vs geç günceliyor hareket halindeyken sabit gösteriyor lütfen yardımcı olur musunuz düzelirse ücretliye geçmek istiyorum",
+        "replyText": "Lütfen developer@love8app.com adresinden benimle iletişime geçin. Sorununuzu incelemesi için bir teknik mühendisi görevlendireceğim ve sizi memnun edecek bir çözüm sunacağız."
+      },
+      {
+        "date": "2025-05-08",
+        "score": 1,
+        "thumbs": 0,
+        "user": "M F C",
+        "text": "Uygulamayı yükledim açtım, bil bakalım ne eksik 😊🙈",
+        "replyText": "Lütfen developer@love8app.com adresinden benimle iletişime geçin. Sorununuzu incelemesi için bir teknik mühendisi görevlendireceğim ve sizi memnun edecek bir çözüm sunacağım."
+      },
+      {
+        "date": "2025-05-07",
+        "score": 1,
+        "thumbs": 2,
+        "user": "Tair Vejdi",
+        "text": "program çok yanlış bir şekilde çalılıyor,benım hatun ewde ve konumu kapalı,bana bildirim gelior diğer kullamıcı nın konumunj başka bir yerde gösteriyor,bu praograma inanınpta kimsemin kalbini kırmayın gerek yok",
+        "replyText": "Lütfen developer@love8app.com adresinden e-posta ile iletişime geçin. Sorununuzu incelemesi için bir teknik mühendisi görevlendireceğim ve sizi memnun edecek bir çözüm sunacağız."
+      },
+      {
+        "date": "2025-05-05",
+        "score": 1,
+        "thumbs": 0,
+        "user": "abdurrahman demirel",
+        "text": "çok geç güncelliyor, öyle böyle değil",
+        "replyText": "Değerli kullanıcı, benimle developer@love8app.com adresinden iletişime geçebilirsiniz. Ne olduğunu anlamak ve sorununuzu çözerek sizi memnun edecek bir hizmet sunmak istiyorum."
+      },
+      {
+        "date": "2025-04-29",
+        "score": 2,
+        "thumbs": 0,
+        "user": "Gamze Yavuzoğuz",
+        "text": "konumu yanlış gösteriyor hareker halindeyken bilgi vermiyor göstermiyor da gereksiz fiyatı yüksek ve düzgün şekilde çalışmıyor bile",
+        "replyText": "Değerli kullanıcı, benimle developer@love8app.com adresinden iletişime geçebilirsiniz. Ne olduğunu anlamak ve size memnun kalacağınız bir hizmet sunarak sorununuzu çözmek istiyorum."
+      },
+      {
+        "date": "2025-04-24",
+        "score": 1,
+        "thumbs": 5,
+        "user": "Burak Yavuz",
+        "text": "haftalık olarak premium alıyordum bu hafta kartıma para yatirdigim zaman haftalık ücreti aldı fakat premium özellikler açılmadı bildiğiniz dolandırıcılık bu premium abonelik var diyor ama özellikleri kullanamiyorum",
+        "replyText": "Değerli kullanıcı, benimle developer@love8app.com adresinden iletişime geçebilirsiniz. Ne olduğunu anlamak ve size memnun kalacağınız bir hizmet sunarak sorununuzu çözmek istiyorum."
+      },
+      {
+        "date": "2025-04-11",
+        "score": 1,
+        "thumbs": 0,
+        "user": "Murat Eminoğlu",
+        "text": "cihaz biraz kullanılmadığında program yok kendini sonlandırıyor arka plan çalışması felan zayıf uydurmazson. sanki sadece primeum hesabı satmak amacınız . keşke birazda müşteri memnuyetiniz olsa. unutmadan arkadaslar şirket yabancı ve kimseye düzgün bir dönüş olmamış yüklemeden önce düşünün derim",
+        "replyText": "Sevgili kullanıcı, lütfen developer@love8app.com adresinden benimle iletişime geçin. Tüm sorunlarınızı çözeceğim ve memnuniyetinizi sağlayacağım."
+      },
+      {
+        "date": "2025-04-10",
+        "score": 1,
+        "thumbs": 5,
+        "user": "Münevver Elif Orhan",
+        "text": "partnerim sürekli olarak çevrimdışı gözüküyor aktif olmasına rağmen ne yapsak yine aynısı oluyor o kadar para verdik böyle birşeyle karşılaşmak gerçekten üzücü",
+        "replyText": "Sevgili kullanıcı, lütfen developer@love8app.com adresinden benimle iletişime geçin. Tüm sorunlarınızı çözeceğim ve memnuniyetinizi sağlayacağım."
+      },
+      {
+        "date": "2025-04-08",
+        "score": 1,
+        "thumbs": 0,
+        "user": "deniz karahan",
+        "text": "telefonlarımız donuyo vede aşırı ısınıyor",
+        "replyText": "Sevgili kullanıcı, lütfen developer@love8app.com adresinden benimle iletişime geçin. Tüm sorunlarınızı çözeceğim ve memnuniyetinizi sağlayacağım."
+      },
+      {
+        "date": "2025-04-06",
+        "score": 1,
+        "thumbs": 0,
+        "user": "Semih Tuylu",
+        "text": "Premium olduğu halde konumu doğru göstermiyor ve sabitken hareket halinde gösteriyor",
+        "replyText": "E-posta adresimle iletişime geçebilirsiniz: developer@love8app.com. Sorunlarınızı çözmek için personelimi görevlendireceğim."
+      },
+      {
+        "date": "2025-04-04",
+        "score": 1,
+        "thumbs": 3,
+        "user": "Fatih Günaydın",
+        "text": "çok fazla premium almamiz için baskı var. Anladık paralı özellikleriniz daha fazla.",
+        "replyText": "คุณสามารถติดต่ออีเมลของฉัน: developer@love8app.com. ฉันจะจัดการให้เจ้าหน้าที่แก้ไขปัญหาทั้งหมดของคุณ"
+      },
+      {
+        "date": "2025-04-02",
+        "score": 1,
+        "thumbs": 1,
+        "user": "Tuba Nur Gültekin",
+        "text": "uygulamadan çıkınca en son ne zaman aktif görebiliyorduk yeni güncelleme çok kötü düzeltilmesini istiyorum.",
+        "replyText": "E-posta adresimle iletişime geçebilirsiniz: developer@love8app.com. Tüm sorunlarınızı çözmek için ekibimizi görevlendireceğim."
+      },
+      {
+        "date": "2025-03-28",
+        "score": 1,
+        "thumbs": 4,
+        "user": "Gaye",
+        "text": "paramızla rezil oluyoruz resmen premium aldık sevgilimin konumu doğru ama ben sürekli farklı farklı yerlerde gözüküyorum bu resmen iftira zan altında bırakmak dava mı açılmasını istiyosunuz düzeltin bi an önce bu sorunu iyi ki bi indirdik",
+        "replyText": "คุณสามารถติดต่อทางอีเมลของฉัน: developer@love8app.com. ฉันจะจัดการให้เจ้าหน้าที่ของเราช่วยแก้ไขปัญหาของคุณทั้งหมด"
+      },
+      {
+        "date": "2025-03-25",
+        "score": 2,
+        "thumbs": 0,
+        "user": "Buse",
+        "text": "Herşeyi paralı çok az kullanılabilir şeyi var",
+        "replyText": "E-posta adresimle iletişime geçebilirsiniz: developer@love8app.com. Tüm sorunlarınızı çözmek için personelimizi görevlendireceğim."
+      },
+      {
+        "date": "2025-03-25",
+        "score": 1,
+        "thumbs": 4,
+        "user": "Mehmet Arıkan",
+        "text": "premium olmasına rağmen ne telefon aktifliğini gösteriyor ne konumu doğru gösteriyor hatta telefon aktifliğini hiç göstermediği zamanlar oluyor",
+        "replyText": "E-posta adresimle iletişime geçebilirsiniz: developer@love8app.com. Tüm sorunlarınızı çözmek için personelimizi görevlendireceğim."
+      },
+      {
+        "date": "2025-03-07",
+        "score": 1,
+        "thumbs": 0,
+        "user": "Hayat Tanem",
+        "text": "sadece takıntılı iseniz kullanın.",
+        "replyText": "Sevgili kullanıcı, bana şu e-posta adresinden ulaşabilirsiniz: developer@love8app.com. Sorununuzu çözmek ve size tatmin edici bir çözüm sunmak için profesyonel bir ekibi görevlendireceğim."
+      },
+      {
+        "date": "2025-03-02",
+        "score": 1,
+        "thumbs": 0,
+        "user": "İbrahim",
+        "text": "Abi uygulamayı düzeltin verdiğimiz paraya yazık adam gibi iş yapın",
+        "replyText": "\"Sevgili kullanıcı, bana şu e-posta adresinden ulaşabilirsiniz: developer@love8app.com, sorununuzu çözmek için bir teknik mühendis ayarlayabilirim.\""
+      },
+      {
+        "date": "2025-02-23",
+        "score": 2,
+        "thumbs": 0,
+        "user": "Ayşe Adıgüzel",
+        "text": "Premium gerekiyor çoğu şey için ve gereksiz maliyetli ücretler",
+        "replyText": "\"Sevgili kullanıcı, bana şu e-posta adresinden ulaşabilirsiniz: developer@love8app.com, sorununuzu çözmek için bir teknik mühendis ayarlayabilirim.\""
+      },
+      {
+        "date": "2025-02-20",
+        "score": 1,
+        "thumbs": 0,
+        "user": "Hüseyin mert",
+        "text": "Uygulama güzel ama tek başına sarmıyor keşke birde yanında kız arkadaş verseniz",
+        "replyText": "\"Sevgili kullanıcı, bana şu e-posta adresinden ulaşabilirsiniz: developer@love8app.com, sorununuzu çözmek için bir teknik mühendis ayarlayabilirim.\""
+      },
+      {
+        "date": "2025-02-20",
+        "score": 1,
+        "thumbs": 0,
+        "user": "Emirhan Arıdaş",
+        "text": "Kiz arkadasimin nerde oldunu an ve an goremiyorum reklarındaki soyledikleri hep yalan dolan açık olmasi gereken ayarların hepside açık halbuksi burdan takip edeceyime snep den takip ederin an ve an konumunu guncelliyor tavsiye tmem bu uygulamayi bosuna paraniz gitmesin",
+        "replyText": "\"Sevgili kullanıcı, bana şu e-posta adresinden ulaşabilirsiniz: developer@love8app.com, sorununuzu çözmek için bir teknik mühendis ayarlayabilirim.\""
+      },
+      {
+        "date": "2025-02-16",
+        "score": 1,
+        "thumbs": 0,
+        "user": "Eda ALTINDAŞ",
+        "text": "indirmeyin indirtmeyin",
+        "replyText": "\"Sevgili kullanıcı, benim e-posta adresimle iletişime geçebilirsiniz: developer@love8app.com, ve sorununuzu çözmek için bir teknik mühendis ayarlayabilirim.\""
+      },
+      {
+        "date": "2025-02-14",
+        "score": 2,
+        "thumbs": 0,
+        "user": "Lalenur Demir doven",
+        "text": "Güvenli bir uygulama çok iyi ♥️♥️♥️♥️",
+        "replyText": "\"Sevgili kullanıcı, benim e-posta adresimle iletişime geçebilirsiniz: developer@love8app.com, ve sorununuzu çözmek için bir teknik mühendis ayarlayabilirim.\""
+      },
+      {
+        "date": "2025-02-09",
+        "score": 2,
+        "thumbs": 0,
+        "user": "Sevilay Bahadır",
+        "text": "Konumu doğru göstermiyor",
+        "replyText": "Değerli kullanıcı, lütfen e-posta adresimle iletişime geçin: developer@love8app.com. Bu sorunu çözmenize yardımcı olabilirim ve sizi tatmin edecek bir çözüm sunabilirim."
+      },
+      {
+        "date": "2025-02-09",
+        "score": 1,
+        "thumbs": 7,
+        "user": "Sevde Kürkçü",
+        "text": "Konum çoğu zaman çalışmıyor, hareket etsem de gözükmüyor bir anda çalışmayı bırakıyor sorunun düzeltilmesini istiyorum!!",
+        "replyText": "Değerli kullanıcı, lütfen e-posta adresimle iletişime geçin: developer@love8app.com. Bu sorunu çözmenize yardımcı olabilirim ve sizi tatmin edecek bir çözüm sunabilirim."
+      },
+      {
+        "date": "2025-02-02",
+        "score": 1,
+        "thumbs": 1,
+        "user": "Hasan Doğan",
+        "text": "Konum düzgün bir şekilde çalışmıyor yan yanayken arada km lerce yok gösteriyor en son güncellendi yerde kalıyor konum",
+        "replyText": "Değerli kullanıcı, lütfen e-posta adresimle iletişime geçin: developer@love8app.com. Bu sorunu çözmenize yardımcı olabilirim ve sizi tatmin edecek bir çözüm sunabilirim."
+      },
+      {
+        "date": "2025-02-02",
+        "score": 1,
+        "thumbs": 7,
+        "user": "Emine",
+        "text": "Uygulamanın konum tabiki iyi diye indirdim fakat şu anda karşı taraftakinin konumunu yanlış gösteriyor şehir degistirmesine rağmen konum hala eski yerde duruyor üstüne üstlük abartılı derecede gereksiz yere pahalı beğenmedim aktiviteler yok derece az tavsiye etmem",
+        "replyText": "Değerli kullanıcı, lütfen e-posta adresimle iletişime geçin: developer@love8app.com. Bu sorunu çözmenize yardımcı olabilirim ve sizi tatmin edecek bir çözüm sunabilirim."
+      },
+      {
+        "date": "2025-01-30",
+        "score": 1,
+        "thumbs": 6,
+        "user": "Kadircan Kıyak",
+        "text": "Premium satın alıyorsun, ne seyahati doğru düzgün gösteriyor ne konumu. Uyku takibi ise dakika başı uyandı diye bildirim gönderiyor falan.",
+        "replyText": "Değerli kullanıcı, lütfen e-posta adresimle iletişime geçin: developer@love8app.com. Bu sorunu çözmenize yardımcı olabilirim ve sizi tatmin edecek bir çözüm sunabilirim."
+      },
+      {
+        "date": "2025-01-30",
+        "score": 1,
+        "thumbs": 0,
+        "user": "Ahmet Zülkarneyn Çınaroğlu",
+        "text": "Her şey paralı ve çok pahalı hiç bir şey yapamıyorsunuz, fotoğraf bile yollanmıyor",
+        "replyText": "Değerli kullanıcı, lütfen e-posta adresimle iletişime geçin: developer@love8app.com. Bu sorunu çözmenize yardımcı olabilirim ve sizi tatmin edecek bir çözüm sunabilirim."
+      },
+      {
+        "date": "2025-01-28",
+        "score": 1,
+        "thumbs": 0,
+        "user": "Ayşegül KILINÇ",
+        "text": "İlk başta bende beğenmiştim severek kullanıyordum 2 saat sonra uygulama bozuldu WhatsApptan gelen mesajları göremiyorum çok sinirimi bozdu bu olay eğer düzeltilmezse bu sorun silicem uygulamayı ayrıca güzel yorumları başa koyuyorsunuz millet beğenicek indiricek tabi size tavsiyem kötü yorumlara da bakın",
+        "replyText": "Değerli kullanıcı, lütfen e-posta adresimle iletişime geçin: developer@love8app.com. Bu sorunu çözmenize yardımcı olabilirim ve sizi tatmin edecek bir çözüm sunabilirim."
+      },
+      {
+        "date": "2025-01-27",
+        "score": 2,
+        "thumbs": 0,
+        "user": "Beyzanur Alkan",
+        "text": "The application has been lagging a lot for the last month. I cannot see my pet. Please fix this problem.",
+        "replyText": "Dear user, please contact my email: developer@love8app.com. I can help you solve this issue and provide a solution that will satisfy you."
+      },
+      {
+        "date": "2025-01-27",
+        "score": 1,
+        "thumbs": 2,
+        "user": "Burak Çaka",
+        "text": "Evcil hayvan açılmıyor uygulamadan atıyor",
+        "replyText": "Değerli kullanıcı, lütfen e-posta adresimle iletişime geçin: developer@love8app.com. Bu sorunu çözmenize yardımcı olabilirim ve sizi tatmin edecek bir çözüm sunabilirim."
+      },
+      {
+        "date": "2025-01-24",
+        "score": 1,
+        "thumbs": 0,
+        "user": "Merve Tuncel",
+        "text": "sevgilimyok",
+        "replyText": "Değerli kullanıcı, lütfen e-posta adresimle iletişime geçin: developer@love8app.com. Bu sorunu çözmenize yardımcı olabilirim ve sizi tatmin edecek bir çözüm sunabilirim."
+      },
+      {
+        "date": "2025-01-20",
+        "score": 2,
+        "thumbs": 5,
+        "user": "Eyup zafer Unal",
+        "text": "konum eskisi gibi çalışmıyor, konum güncellemesini düzgün yapamıyor.",
+        "replyText": "Sevgili Kullanıcı,\nÇok özür dileriz. Bana developer@love8app.com adresinden ulaşabilirsiniz. Sorununuzu çözmek için teknik ekibimizi yönlendireceğim ve bu konuyla ilgili bir tazminat sağlayacağız."
+      },
+      {
+        "date": "2025-01-19",
+        "score": 1,
+        "thumbs": 0,
+        "user": "Emrre Eser",
+        "text": "Konumu anlık olarak göstermiyor.",
+        "replyText": "Değerli kullanıcı, bu sorun için çok özür dileriz. Bana developer@love8app.com e-posta adresinden ulaşabilirsiniz. Sorununuzu çözmesi için bir teknik mühendis yönlendireceğim ve bu konuda bir tazminat"
+      },
+      {
+        "date": "2025-01-14",
+        "score": 1,
+        "thumbs": 0,
+        "user": "Hamza Uzuntass",
+        "text": "Uygulama sorunlu karimla aramada 3500 km var ama kendisi yanımda gosteriyor",
+        "replyText": "Dear user, we sincerely apologize for the inconvenience. You can contact me at developer@love8app.com, and I will arrange for our technical engineers to fix your issue. We will also provide compensati"
+      },
+      {
+        "date": "2025-01-13",
+        "score": 1,
+        "thumbs": 6,
+        "user": "ilhan Solak",
+        "text": "Üyelik almama rağmen konumu geç gösteriyor ve telefonda aktif diye gösteriyor aktif olmamasına rağmen Hatalar düzelesiye kadar puanım 1",
+        "replyText": "Değerli kullanıcı, çok özür dileriz. Bana developer@love8app.com adresinden ulaşabilirsiniz, teknik mühendislerimizin sorununuzu çözmesi için düzenleme yapacağım. Ayrıca bu durum için tazminat sağlaya"
+      },
+      {
+        "date": "2025-01-12",
+        "score": 2,
+        "thumbs": 2,
+        "user": "Gülce Aksoy",
+        "text": "Uygulamayı sevmedim sevgilimin nerde olduğunu göstermiyor bide sürekli istek atıyor onun için uygulamayı beğenmedim bide hayvan bakımı falan yok öyle Bom boş bakıyon bide partnerinizle konum paylaşın diyor yapıyorum hayla gösteriyor bunun için iki yıldız veriyorum uygulama degişse iyi olucak belki iyi olabilir bide benim konumumu gösteriyor sevgilim nasıl görücek ben onun olduğu yeri görmüyorum ne yaptıni ne etini görmüyorum keşke görsem ama göstermiyor bide kabul etmedi isteği dili Türkçe yptım",
+        "replyText": "Değerli kullanıcı, çok özür dileriz. Bana developer@love8app.com adresinden ulaşabilirsiniz, teknik mühendislerimizin sorununuzu çözmesi için düzenleme yapacağım. Ayrıca bu durum için tazminat sağlaya"
+      },
+      {
+        "date": "2025-01-12",
+        "score": 2,
+        "thumbs": 6,
+        "user": "Zehra",
+        "text": "primum almadan daha fazla imkan sağlanmalı",
+        "replyText": "Değerli kullanıcı, çok özür dileriz. Bana developer@love8app.com adresinden ulaşabilirsiniz, teknik mühendislerimizin sorununuzu çözmesi için düzenleme yapacağım. Ayrıca bu durum için tazminat sağlaya"
+      },
+      {
+        "date": "2024-12-16",
+        "score": 2,
+        "thumbs": 0,
+        "user": "Yurdanur Aytepe",
+        "text": "Uygulamanın fiyatı nedir",
+        "replyText": "Değerli kullanıcı, içtenlikle özür dileriz. Bana developer@love8app.com e-posta adresinden ulaşabilirsiniz. Sorununuzu çözmek için bir teknik mühendis ayarlayacağım ve uygun bir tazminat sağlayacağım."
+      },
+      {
+        "date": "2024-12-06",
+        "score": 1,
+        "thumbs": 3,
+        "user": "Aliye",
+        "text": "Karşı taraf uygulamayı sildiği zaman konum görünür mü ya da eski konumu mu görünür",
+        "replyText": "Bana feedback@love8app.com adresinden e-posta ile ulaşabilirsiniz. Sorununuzu çözeceğim ve tazminat sağlayacağım."
+      },
+      {
+        "date": "2024-12-03",
+        "score": 1,
+        "thumbs": 4,
+        "user": "Seriously !",
+        "text": "Oe uygulama konumu yanlış gösterdi sevgilimle kavga ettik",
+        "replyText": "Sorununuzu çözmek ve tazminat sağlamak için feedback@love8app.com adresimden benimle iletişime geçebilirsiniz."
+      },
+      {
+        "date": "2024-11-09",
+        "score": 2,
+        "thumbs": 3,
+        "user": "Yaren KILINÇ",
+        "text": "Uygulamada ki evcil hayvanıma giremiyorum açılmıyor bu sorunu giderebilir misiniz lütfen sevgilim girip evcil hayvana bakıyor ama ben kendi telefonumda girip bakamıyorum",
+        "replyText": "Dear user, please contact me at my email address feedback@love8app.com, and I will arrange for a technical engineer to investigate your issue."
+      },
+      {
+        "date": "2024-11-08",
+        "score": 1,
+        "thumbs": 3,
+        "user": "Elf -",
+        "text": "Uygulama açılıyor ama evcil hayvan arayüzü açılmıyor!!!",
+        "replyText": "Dear user, please contact me at my email address feedback@love8app.com, and I will arrange for a technical engineer to investigate your issue."
+      },
+      {
+        "date": "2024-10-18",
+        "score": 1,
+        "thumbs": 2,
+        "user": "Davut Karagöz",
+        "text": "konum hatalı lütfen düzeltirsin",
+        "replyText": "Dear user, please contact my email feedback@love8app.com , and I will arrange for a technical engineer to resolve your issue. I will also provide you with a satisfactory compensation plan."
+      },
+      {
+        "date": "2024-10-14",
+        "score": 1,
+        "thumbs": 0,
+        "user": "merve ozdemir",
+        "text": "Arkadaşlar uygulamada🐺 turkce dili yok çok koyu bir uygulama",
+        "replyText": "Dear user, please contact my email feedback@love8app.com , and I will arrange for a technical engineer to resolve your issue. I will also provide you with a satisfactory compensation plan."
+      },
+      {
+        "date": "2024-09-02",
+        "score": 1,
+        "thumbs": 0,
+        "user": "Dilara ÇETİN",
+        "text": "It was great when I first installed it. My boyfriend and I used it with pleasure. But after the latest update, neither my boyfriend nor I can see each other's location. It is not updated. We have opened everything that needs to be opened, but it is not working. While the biggest feature of this application is that it shows the location, what is the point of the application if I cannot use it???? I sent an email but still no response. Disgrace...",
+        "replyText": "Dear user, please contact my email: feedback@love8app.com , I will arrange for a technical engineer to solve your problem and compensate you for this issue."
+      },
+      {
+        "date": "2024-07-31",
+        "score": 1,
+        "thumbs": 1,
+        "user": "Coni Peperoni",
+        "text": "Partnerimin konumunu yanlış gösterdiği oluyor bunun sebebi nedir. Konumu başka yerde gösteriyor sonra o uygulamaya girince uygulama güncelleniyor ve onun evini gösteriyor. Yardımcı olabilir misiniz bunun tam olarak sebebi nedir? Açıklaması varsa 5 yıldızlık bir uygulama.",
+        "replyText": "Dear user, I sincerely apologize for the inconvenience. Please contact me via email at feedback@love8app.com. I will address your concerns and provide a satisfactory solution for you."
+      },
+      {
+        "date": "2024-07-14",
+        "score": 2,
+        "thumbs": 4,
+        "user": "Esmanur",
+        "text": "Gayet güzel bı uygulama ama Türkçe dil desteği gelmeli ve yumurtadan çıkan hayvan ile oyunlar oynayabilsek . Konum bilgilerini yanlış gösteriyor görmediğimiz bir yeri gitmişiz olarak gösteriyor sinir bozucu",
+        "replyText": "\"You can contact me at feedback@love8app.com, and I can help resolve your issue and provide a satisfactory solution.\""
+      },
+      {
+        "date": "2024-07-11",
+        "score": 1,
+        "thumbs": 0,
+        "user": "Nazire Doğan",
+        "text": "Uygulama açılmıyor bayadir kullanıyordum hiç böyle olmamıştı desteğe ihtiyacım var",
+        "replyText": "\"Contact me at dabaitu2023@gmail.com and describe the issue you are experiencing in detail. I can help you resolve the problem.\""
+      },
+      {
+        "date": "2024-07-03",
+        "score": 1,
+        "thumbs": 2,
+        "user": "Gamze Ak",
+        "text": "Uygulamayı bi kaç gündür kulanıyodum ama bugün bi baktım sürekli durduruluyor diyo ne bu ya",
+        "replyText": "\"Çok özür dileriz, bu hatayı düzelttik ve en son sürümü inceleme için uygulama mağazasına gönderdik. Lütfen en son sürüm v2.22.1 güncellemesini sabırla bekleyin veya bana e-posta adresimden ulaşabilir"
+      },
+      {
+        "date": "2024-07-01",
+        "score": 2,
+        "thumbs": 0,
+        "user": "Duru",
+        "text": "iPhonelarda olsa daha iyi olcak"
+      },
+      {
+        "date": "2024-06-15",
+        "score": 1,
+        "thumbs": 3,
+        "user": "Ela elq",
+        "text": "Uygulamaya 40 saat giremiyorum tıklıyorum sadece beyaz ekran sinir bozucu",
+        "replyText": "Contact me at dabaitu2023@gmail.com, and I can resolve the issue for you and provide appropriate compensation."
+      },
+      {
+        "date": "2024-06-05",
+        "score": 1,
+        "thumbs": 12,
+        "user": "Ayano Chan",
+        "text": "çok severek ve beğenerek kullanıyordum. 1 hafta içinde uygulama içinde gelen gğncellemeylebütün mutluluğum gitti. o kadar para ödüyoruz. yapmayın. Son güncellemeden sonra doğru düzgün çalışmamaya başladı ve aldığımız abonelği iptal edeceğiz. mail atmama ve düzelteceğiz denmesine rağmen herhangi bir değişme olmadı. siliyorum.",
+        "replyText": "Contact me at dabaitu2023@gmail.com and describe the issue you are experiencing in detail. I can help you resolve the problem."
+      }
+    ]
+  },
+  "BR_manifestation_lei": {
+    "appId": "com.manifest.lawofattraction",
+    "country": "br",
+    "lang": "pt-BR",
+    "title": "Lei da Atração - Manifestar",
+    "score": 4.72,
+    "ratings": 2643,
+    "installs": "100.000+",
+    "histogram": {
+      "1": 130,
+      "2": 0,
+      "3": 50,
+      "4": 105,
+      "5": 2351
+    },
+    "offersIAP": true,
+    "IAPRange": "R$ 8,99 – R$ 85,99 por item",
+    "adSupported": true,
+    "total_reviews_pulled": 320,
+    "low_reviews_count": 11,
+    "low_reviews_pct": 3.4,
+    "low_reviews": [
+      {
+        "date": "2026-03-02",
+        "score": 1,
+        "thumbs": 0,
+        "user": "Benga Boy",
+        "text": "isso não está funcionar",
+        "replyText": "Olá, lamento muito o transtorno. O servidor ficou fora do ar quase 4 dias e trabalhamos muito duro para que voltasse a operar o quanto antes. Já estamos de volta! Se já estiver funcionando bem, eu agr"
+      },
+      {
+        "date": "2026-02-28",
+        "score": 1,
+        "thumbs": 0,
+        "user": "Leonardo Costa",
+        "text": "trava demais",
+        "replyText": "Olá, lamento muito o transtorno. O servidor ficou fora do ar quase 4 dias e trabalhamos muito duro para que voltasse a operar o quanto antes. Já estamos de volta! Se já estiver funcionando bem, eu agr"
+      },
+      {
+        "date": "2026-02-23",
+        "score": 1,
+        "thumbs": 0,
+        "user": "lizfonseca",
+        "text": "eu amei tudo tádando certo pra mim"
+      },
+      {
+        "date": "2026-02-06",
+        "score": 1,
+        "thumbs": 0,
+        "user": "Michelle Teles",
+        "text": "era bom. agora não abre nunca só travando. triste."
+      },
+      {
+        "date": "2026-01-23",
+        "score": 1,
+        "thumbs": 1,
+        "user": "Kamila Teixeira",
+        "text": "não consigo abrir o app de jeito nenhum diz que está com falha na internet mas eu consigo fazer tudo com minha internet e as propagandas não me deixa nem clicar na opção."
+      },
+      {
+        "date": "2025-10-18",
+        "score": 2,
+        "thumbs": 0,
+        "user": "sandra maria",
+        "text": "muita propaganda"
+      },
+      {
+        "date": "2025-08-26",
+        "score": 1,
+        "thumbs": 5,
+        "user": "Cida Dias",
+        "text": "Instalei e desinstalei no mesmo instante. De início disse que os anúncios são para ajudar a manter o app, até aí tudo bem! No entanto, quando comecei a usar, mau iniciei a frase, já veio um monte de anúncio de minutos, e saiu automaticamente do app, voltei e quando abri o anúncio ainda estava lá com mais de um minuto. Melhor vender do que fazer a pessoa de palhaço! Só dei uma estrela porque não tem como não dar nenhuma. Não recomendo, pois durante a meditação, do nada aparece anúncio de jogo!"
+      },
+      {
+        "date": "2025-07-07",
+        "score": 1,
+        "thumbs": 0,
+        "user": "Cris Pereira",
+        "text": "a parte das afirmações esta dificil de fazer pois no desafio diário nao passa para a nova fase"
+      },
+      {
+        "date": "2025-01-21",
+        "score": 1,
+        "thumbs": 3,
+        "user": "Cristina Cambaxirra",
+        "text": "Uma droga de app. Minha Internet é bem alta e diz o tempo todo,para verificar a conexão. Esta à 3 dias assim. Cansei dessa palhaçada. NÃO RECOMENDO PARA NINGUÉM. DESINSTALANDO"
+      },
+      {
+        "date": "2024-12-06",
+        "score": 1,
+        "thumbs": 1,
+        "user": "carlos alberto octaviano",
+        "text": "Não 👎 serve pra nada como todos do mesmo segmento ainda mais sendo APLICATIVOS"
+      },
+      {
+        "date": "2024-11-10",
+        "score": 1,
+        "thumbs": 2,
+        "user": "Adão Joaquim Bombo",
+        "text": "Não gostei do livro porque parece um livro de muitos mistérios tantos símbolos santanicos."
+      }
+    ]
+  },
+  "BR_couple_love8": {
+    "appId": "ltd.love8.couples.relationship",
+    "country": "br",
+    "lang": "pt-BR",
+    "title": "Love8 - App para casais",
+    "score": 4.4892087,
+    "ratings": 36013,
+    "installs": "5.000.000+",
+    "histogram": {
+      "1": 2566,
+      "2": 1011,
+      "3": 1270,
+      "4": 2307,
+      "5": 28753
+    },
+    "offersIAP": true,
+    "IAPRange": "R$ 4,90 – R$ 434,99 por item",
+    "adSupported": true,
+    "total_reviews_pulled": 406,
+    "low_reviews_count": 76,
+    "low_reviews_pct": 18.7,
+    "low_reviews": [
+      {
+        "date": "2026-05-02",
+        "score": 1,
+        "thumbs": 0,
+        "user": "Felipe Henrique dos Santos",
+        "text": "ninguém na minha área"
+      },
+      {
+        "date": "2026-04-22",
+        "score": 2,
+        "thumbs": 0,
+        "user": "Iago Silvestre de Lima de Jesus",
+        "text": "legal porém disfuncional, você assiste aos anúncios pra receber ou pular as coisas e não funciona, você simplesmente perde tempo e não recebe nada",
+        "replyText": "Entendemos sua frustração com os anúncios não funcionando como esperado. Lamentamos pelo transtorno e levamos seu feedback a sério. Para que possamos investigar melhor essa questão, pedimos que entre "
+      },
+      {
+        "date": "2026-04-21",
+        "score": 1,
+        "thumbs": 0,
+        "user": "TAYNÁ VIEIRA",
+        "text": "o aplicativo ta me roubando, eu decidi pagar o plano anual do segundo dia de app, pq a localização do meu marido tava desatualizada, sobre depois q ele ja tinha saido do app nesse momento e nao fui notificada. desistalei o app logo em seguida e solicitei o cancelamento mas nao querem me devolver o dinheiro",
+        "replyText": "Lamentamos muito pela sua experiência e entendemos sua frustração. Valorizamos o seu feedback e levamos essas questões a sério. Por favor, entre em contato conosco pelo e-mail developer@love8app.com p"
+      },
+      {
+        "date": "2026-04-20",
+        "score": 2,
+        "thumbs": 1,
+        "user": "Vitoria CLEM",
+        "text": "no começo tava ate bom, mais ai ficou ruim O app não está mostrando a localização em tempo real,nem porcentagem da bateria,dentre outros. mostra que a pessoa está parada sendo que a pessoa está em movimento,ta bem complicado desse jeito, é pq estou pagando o Premium.",
+        "replyText": "Olá! Obrigado pelo seu feedback. Entendo sua frustração com a localização em tempo real e a bateria. Com as permissões corretas, a localização atualiza automaticamente. Pode nos enviar um email para d"
+      },
+      {
+        "date": "2026-04-16",
+        "score": 1,
+        "thumbs": 1,
+        "user": "Meno Toddy",
+        "text": "muito ruim meu namorado mora perto e ele tava ala na Brasília o mapa tava bugado",
+        "replyText": "Olá! Entendemos sua frustração com o problema de localização no mapa. Isso não deve acontecer. Para que possamos investigar melhor e te ajudar, por favor, entre em contato conosco pelo e-mail develope"
+      },
+      {
+        "date": "2026-04-15",
+        "score": 1,
+        "thumbs": 0,
+        "user": "M A R ! A N A",
+        "text": "É pago"
+      },
+      {
+        "date": "2026-04-12",
+        "score": 1,
+        "thumbs": 2,
+        "user": "Geovana De Jesus Santos",
+        "text": "Em maio faz 1 ano que uso, e recentemente tem dado mais problemas que o normal. Porque, sim, ele dá muitos erros. Infelizmente, não continuarei com o aplicativo, apesar da proposta ser ótima. Não cumpre o que promete."
+      },
+      {
+        "date": "2026-04-06",
+        "score": 2,
+        "thumbs": 1,
+        "user": "Marcela A.",
+        "text": "ele é bem ruimzinho pra localização e também a ideia dos bichinhos que é a mais legal tem muita coisa paga",
+        "replyText": "Oi! Entendemos que a localização e as funcionalidades dos pets podem ser pontos importantes para você. Alguns recursos dos pets fazem parte da assinatura, mas a versão gratuita também oferece uma expe"
+      },
+      {
+        "date": "2026-03-25",
+        "score": 1,
+        "thumbs": 3,
+        "user": "Nícolas Ferreira",
+        "text": "mostra a localização, mas pensa em um aplicativo com poluição visual. não deixa nada agradável o uso. e uma vez o gps colocou que eu estava em outro lugar totalmente errado, causando confusão. entao não recomendo."
+      },
+      {
+        "date": "2026-03-24",
+        "score": 1,
+        "thumbs": 3,
+        "user": "Mik Ellay",
+        "text": "inicialmente eu gostei bastante, por isso assinei o Premium, paguei o de 1 ano, tive um problema com o meu celular e perdi o email, não consegui recuperar o Premium, mesmo estando com o plano assinado ainda, entrei até com a conta onde foi assinado o plano, mas realmente perdi, fiquei muito chateada, faltou suporte, paguei algo atoa.",
+        "replyText": "Olá, entendemos sua frustração com a situação da conta e da assinatura. Para que possamos ajudá-la a recuperar o acesso ao Premium, entre em contato conosco diretamente pelo e-mail developer@love8app."
+      },
+      {
+        "date": "2026-03-22",
+        "score": 1,
+        "thumbs": 0,
+        "user": "Hossana João",
+        "text": "aplicação estranha"
+      },
+      {
+        "date": "2026-03-19",
+        "score": 1,
+        "thumbs": 7,
+        "user": "Francyane Ramos",
+        "text": "Você paga o plano Premium e o app não tem localização exata. A pessoa está em movimento e mostra parada no mesmo lugar por horas e/ou dias. A pessoa está no trabalho e mostra que está em casa. Vc quem tem que colocar manualmente a localização da pessoa, nada funciona em tempo real, então pra que serve o app e pagar por ele ? Não recomendo, muito ruim. Vou esperar vencer e vou trocar."
+      },
+      {
+        "date": "2026-03-18",
+        "score": 1,
+        "thumbs": 0,
+        "user": "couple mess",
+        "text": "fora dos Padrões um absurdo os preços"
+      },
+      {
+        "date": "2026-03-16",
+        "score": 1,
+        "thumbs": 0,
+        "user": "Valentina Alves",
+        "text": "muito boa"
+      },
+      {
+        "date": "2026-03-13",
+        "score": 1,
+        "thumbs": 4,
+        "user": "Ronald",
+        "text": "gasta muita bateria e não funciona corretamente, melhorem por favor."
+      },
+      {
+        "date": "2026-03-11",
+        "score": 1,
+        "thumbs": 2,
+        "user": "Irina Dogot",
+        "text": "Trava muito e diz que as tarefas não foram feitas (mas foram), para além dos anúncios que agora fazem parte das tarefas."
+      },
+      {
+        "date": "2026-03-06",
+        "score": 1,
+        "thumbs": 4,
+        "user": "Darlene Reis",
+        "text": "Eu odiei, fui cobrada duas vezes sendo que não assinei! Péssimo, nem mostra com exatidão no GPS!"
+      },
+      {
+        "date": "2026-03-05",
+        "score": 2,
+        "thumbs": 3,
+        "user": "Rúben Costa",
+        "text": "A ideia da aplicação é interessante e tem conceitos criativos para casais, como partilha de localização e estado da bateria do parceiro. No entanto, a otimização é muito fraca. A app manteve-se ativa em segundo plano durante vários dias e acabou por consumir mais de 100% de bateria, algo completamente exagerado para uma aplicação deste tipo. Além disso, mesmo após pagar a subscrição anual, muitos itens dentro da app têm preços bastante elevados."
+      },
+      {
+        "date": "2026-02-26",
+        "score": 1,
+        "thumbs": 0,
+        "user": "Sandy Lima",
+        "text": "A interface do aplicativo contém uma série de propagandas e é muito poluída, além disso a maioria das funcionalidades do aplicativo é paga, então não tem muita graça utilizar."
+      },
+      {
+        "date": "2026-02-18",
+        "score": 1,
+        "thumbs": 1,
+        "user": "Adriana Costa",
+        "text": "aplicativo horrível nao atualiza a localização alem de tudo quando tentei contato nao obtive resposta"
+      },
+      {
+        "date": "2026-01-28",
+        "score": 1,
+        "thumbs": 2,
+        "user": "Nei Junior Espelocin",
+        "text": "sem opção de cancelar assinatura."
+      },
+      {
+        "date": "2026-01-15",
+        "score": 1,
+        "thumbs": 9,
+        "user": "Kyo Ayato",
+        "text": "APLICATIVO SUPER FALSO! disse que dá pra desenhar na tela inicial e não dá"
+      },
+      {
+        "date": "2026-01-11",
+        "score": 1,
+        "thumbs": 2,
+        "user": "Fernanda Alves da Silva",
+        "text": "a gente paga e ele não atualiza"
+      },
+      {
+        "date": "2026-01-01",
+        "score": 1,
+        "thumbs": 1,
+        "user": "Marcello Zanatta",
+        "text": "bando de mercenário, 80 dolares por essa besteira que se fosse de graça ja era caro."
+      },
+      {
+        "date": "2025-12-26",
+        "score": 1,
+        "thumbs": 1,
+        "user": "YASMIN GONÇALVES DA SILVA",
+        "text": "esse app é mt ruim"
+      },
+      {
+        "date": "2025-12-24",
+        "score": 1,
+        "thumbs": 1,
+        "user": "Maldosa Gostosa",
+        "text": "horrível"
+      },
+      {
+        "date": "2025-12-22",
+        "score": 2,
+        "thumbs": 1,
+        "user": "Nany Osamu",
+        "text": "o aplicativo seria maravilhoso se não fosse a cada clique ter que pagar. No app tudo tem que pagar, a única coisa que tinha era acompanhar pela localização, porém agora já não consigo mais."
+      },
+      {
+        "date": "2025-12-20",
+        "score": 2,
+        "thumbs": 5,
+        "user": "Camilly Victória",
+        "text": "faz semanas que tô tentando problema com atualização de tudo status pegadas diárias e já mandei vários feedback falando isso e cm print e continua a mesma coisa e o pior é que o pagamento está em dias"
+      },
+      {
+        "date": "2025-12-11",
+        "score": 1,
+        "thumbs": 1,
+        "user": "Kallita Carneiro Martins",
+        "text": "eu apaguei esse app e ele ta tirando meu dinheiro. ja troquei a senha do cartão mas não adiantou"
+      },
+      {
+        "date": "2025-12-07",
+        "score": 1,
+        "thumbs": 51,
+        "user": "Eduardo Dias magalhaes",
+        "text": "muito ruim tem que pagar tudo e os preços sao bem caros se fosse pelo menos marcasse se a pessoa está online ou offline eu daria uma nota bem melhor só que nao funciona a localização ela sempre trava e da a localização bem longe eu vou dar esse nota se não eu dava pior e se vcs querem melhorar o aplicativo tentam deixar ver as pessoas que usam o aplicativo pra que elas vêem se a pessoa está online ou offline"
+      },
+      {
+        "date": "2025-11-08",
+        "score": 1,
+        "thumbs": 2,
+        "user": "Damylle Esyter",
+        "text": "eu acho muito ruim n ter para uma pessoa só poxa eu queria muito cuidar do bichinho 🙄🥺🥺☹️",
+        "replyText": "Caro usuário, entre em contato pelo e-mail developer@love8app.com\n. Resolvorei qualquer problema que você tiver."
+      },
+      {
+        "date": "2025-11-05",
+        "score": 1,
+        "thumbs": 2,
+        "user": "Jovani Almeida de Souza",
+        "text": "tela.muito poluida",
+        "replyText": "Caro usuário, entre em contato comigo pelo e-mail developer@love8app.com\n. Eu vou resolver qualquer problema para você."
+      },
+      {
+        "date": "2025-11-03",
+        "score": 1,
+        "thumbs": 3,
+        "user": "gabz",
+        "text": "horrível, o app é mercenário ao máximo, a maioria das coisas é tudo pago.",
+        "replyText": "Você pode entrar em contato comigo pelo e-mail: [developer@love8app.com](mailto:developer@love8app.com). Posso fornecer uma versão de teste para você usar gratuitamente.\n\n"
+      },
+      {
+        "date": "2025-10-28",
+        "score": 1,
+        "thumbs": 3,
+        "user": "brayann",
+        "text": "HORRÍVEL, tudo de bom tem que pegar, e a localização é ruim também",
+        "replyText": "Você pode entrar em contato comigo pelo e-mail developer@love8app.com\n. Posso ajudá-lo com qualquer problema e fornecer uma versão de teste gratuita para você usar."
+      },
+      {
+        "date": "2025-10-15",
+        "score": 1,
+        "thumbs": 2,
+        "user": "sabrina silva",
+        "text": "esse aplicativo é uma mentira ele só vai ver a localização do seu parceiro ou parceira se a pessoa confirmar",
+        "replyText": "Você pode entrar em contato comigo pelo e-mail developer@love8app.com\n. Posso ajudá-lo com qualquer problema e fornecer uma versão de teste gratuita para você."
+      },
+      {
+        "date": "2025-10-03",
+        "score": 1,
+        "thumbs": 2,
+        "user": "Lana Dos Anjos",
+        "text": "estou ainda com o problema , já enviei email e tô reenviando de novo ."
+      },
+      {
+        "date": "2025-09-30",
+        "score": 1,
+        "thumbs": 2,
+        "user": "kksteal",
+        "text": "o aplicativo finge ser gratuito mas é completamente pago."
+      },
+      {
+        "date": "2025-09-30",
+        "score": 1,
+        "thumbs": 39,
+        "user": "Giselle Amaral",
+        "text": "Funcionou bem por uns dias, e do nada começou a mostrar localização errada, como se a pessoa estivesse em um lugar que não está, saindo de casa quando não saiu, etc. Aplicativo da discórdia, parece coisa do encardido kkkkkkkkkkkkk"
+      },
+      {
+        "date": "2025-09-27",
+        "score": 1,
+        "thumbs": 3,
+        "user": "Emely Sitoe",
+        "text": "Horrível"
+      },
+      {
+        "date": "2025-09-25",
+        "score": 1,
+        "thumbs": 4,
+        "user": "Gustavo",
+        "text": "app psicopata. não gostei"
+      },
+      {
+        "date": "2025-09-22",
+        "score": 1,
+        "thumbs": 2,
+        "user": "Simoni Gomes",
+        "text": "bom"
+      },
+      {
+        "date": "2025-09-21",
+        "score": 1,
+        "thumbs": 7,
+        "user": "Brunna Cavalli",
+        "text": "NAO BAIXEM,baixei o aplicativo, assinei o premiun e ele simplesmente excluiu minha conta depôs de alguns dias de uso ,o suporte não me dá retorno, NAO PRECOMENDO,DINHEIRO GASTO ATOA",
+        "replyText": "Prezado usuário, entre em contato comigo pelo e-mail: developer@love8app.com. Vou providenciar um engenheiro para resolver o seu problema."
+      },
+      {
+        "date": "2025-09-21",
+        "score": 1,
+        "thumbs": 6,
+        "user": "João Víctor",
+        "text": "o aplicativo parou de funcionar, desconectou a minha conta e da minha namorada agorinha, e não conseguimos conectar denovo",
+        "replyText": "Prezado usuário, entre em contato comigo pelo e-mail: developer@love8app.com\n. Vou providenciar um engenheiro para resolver o seu problema."
+      },
+      {
+        "date": "2025-09-20",
+        "score": 1,
+        "thumbs": 7,
+        "user": "Kaio Coelho",
+        "text": "tão passando fome fila das p, até pra ver as % tem que pagar",
+        "replyText": "Prezado usuário, entre em contato comigo pelo e-mail: developer@love8app.com.Vou providenciar um engenheiro para resolver o seu problema."
+      },
+      {
+        "date": "2025-09-20",
+        "score": 1,
+        "thumbs": 3,
+        "user": "Junior Gouveia",
+        "text": "não consigo clicar para comprar o premium.",
+        "replyText": "Prezado usuário, entre em contato comigo pelo e-mail: developer@love8app.com.Vou providenciar um engenheiro para resolver o seu problema."
+      },
+      {
+        "date": "2025-09-16",
+        "score": 2,
+        "thumbs": 3,
+        "user": "Luy Design",
+        "text": "eu amoo o aplicativo mas eu nn pss ser Prime dnv pq eles nn estão mais permitindo Pix no aplicativo, e isso dificulta já q a maneira mais usada é Pix enquanto uns nn tem cartão etc, poderia mudar pfvr preciso das funções Prime dnv",
+        "replyText": "Prezado usuário, entre em contato comigo pelo e-mail: developer@love8app.com. Vou providenciar um engenheiro para resolver o seu problema."
+      },
+      {
+        "date": "2025-09-15",
+        "score": 1,
+        "thumbs": 3,
+        "user": "Gomes",
+        "text": "se eu pudesse dava 0 estrela, aplicativo não mostra a localização correta,mostra que você faz caminhos que são impossível de fazer,mostra que sai de madrugada mesmo estando em casa,um lixo de app.",
+        "replyText": "Prezado usuário, entre em contato comigo pelo e-mail: developer@love8app.com. Vou providenciar um engenheiro para resolver o seu problema."
+      },
+      {
+        "date": "2025-08-24",
+        "score": 2,
+        "thumbs": 1,
+        "user": "Tyler Eric",
+        "text": "Not showing the correct location distance on pop-up.",
+        "replyText": "Dear user, you can contact me at: developer@love8app.com\n. I will arrange our staff to solve your problem."
+      },
+      {
+        "date": "2025-08-16",
+        "score": 1,
+        "thumbs": 5,
+        "user": "cibeli",
+        "text": "app bom, mas ele nunca mostra a localização certa, e sempre esta bugando. O pet, pra qm paga o app eu não sei, mas pra qm n paga, ele é fútil e atrapalha a ver a tela do app com suas mensagens fúteis tbm.",
+        "replyText": "Caro usuário, você pode entrar em contato comigo pelo e-mail: developer@love8app.com. Vou providenciar para que nossa equipe resolva seu problema."
+      },
+      {
+        "date": "2025-08-05",
+        "score": 1,
+        "thumbs": 3,
+        "user": "Kaliel",
+        "text": "plicativo horrível gente não recomendo, quase terminei minha namorada"
+      },
+      {
+        "date": "2025-08-02",
+        "score": 1,
+        "thumbs": 2,
+        "user": "Ana Clara ferreira",
+        "text": "horrível"
+      },
+      {
+        "date": "2025-07-21",
+        "score": 2,
+        "thumbs": 0,
+        "user": "Delcia Miguel",
+        "text": "Tem coisas que deveriam ser grátis"
+      },
+      {
+        "date": "2025-07-20",
+        "score": 2,
+        "thumbs": 8,
+        "user": "Daniel Coelho",
+        "text": "parece ser algo útil mas acaba por ser tudo pago(quase tudo) somente sei a distância e a localização,e depois na altura do pet não tem assim grande coisas a maioria das coisas é pago ,quase que mais valia fazer a aplicação logo paga"
+      },
+      {
+        "date": "2025-07-15",
+        "score": 1,
+        "thumbs": 2,
+        "user": "Diego rayan Silva Oliveira",
+        "text": "horrível meu cartão está no app e já faz 3 meses que ele me rouba faz o pagamento rouba de mim e não fica vipe"
+      },
+      {
+        "date": "2025-06-25",
+        "score": 1,
+        "thumbs": 2,
+        "user": "Isabella Vitoria",
+        "text": "excesso de dinheiro pedido"
+      },
+      {
+        "date": "2025-06-19",
+        "score": 1,
+        "thumbs": 13,
+        "user": "Ana Clara Rodrigues",
+        "text": "O app não funciona na localização em tempo real mesmo pagando o Premium por isso. É necessário colocar manualmente, cancelei a tempo, tentei o reembolso e eles negaram."
+      },
+      {
+        "date": "2025-06-08",
+        "score": 1,
+        "thumbs": 14,
+        "user": "Six6od0",
+        "text": "Recentemente com essa atualização tiraram os status do pet, ou seja, não dá pra identificar quando ele está com fome, com sono ou sujo, além de que muitas da frases que ele solta bugam ou travam, aparecem números aleatórios e letras sem sentido. além de tiraram possibilidade de adicionar 3 itens na mala, possibilitando apenas 1 item por vez, tiraram os prêmio diário de itens por poucas moedas, aumentaram o preço dos alimentos e está IMPOSSÍVEL de subir de nível por tudo dar muito pouco XP.",
+        "replyText": "Caro usuário, por favor entre em contato comigo pelo e-mail developer@love8app.com. Posso ajudar a resolver o seu problema."
+      },
+      {
+        "date": "2025-06-05",
+        "score": 1,
+        "thumbs": 4,
+        "user": "Vitor Noob",
+        "text": "Muito sem graça, tudo para fazer de interessante no app é pago. Se vocês vê algum vídeo na net sobre esse app não caia nessa"
+      },
+      {
+        "date": "2025-06-04",
+        "score": 1,
+        "thumbs": 7,
+        "user": "DJGames DJExclusivos",
+        "text": "maioria das funções pagas atrapalhando quem não tem dinheiro em usar o app, poderia pelo menos ter a função com propaganda pra usar o app por tanto tempo por ver um anúncio."
+      },
+      {
+        "date": "2025-05-04",
+        "score": 1,
+        "thumbs": 4,
+        "user": "Afonso Soares",
+        "text": "Esta atualização piorou a app inteira, fica absolutamente lento e o telemóvel crasha por causa da app.",
+        "replyText": "Caro usuário, você pode me contatar pelo e-mail: developer@love8app.com. Vou verificar o que aconteceu e quero resolver seu problema oferecendo um serviço que o satisfaça."
+      },
+      {
+        "date": "2025-04-27",
+        "score": 2,
+        "thumbs": 7,
+        "user": "The 1",
+        "text": "App incrível, ainda não testei a versão paga, o sistema de pet é ótimo mas essa última atualização destruiu com a mecânica de gerenciamento, antes eu podia levar o pet pra comer por exemplo enquanto esperava pra dormir, mesmo ele com muito sono, agora sou obrigado a fazer a tarefa que está com menos primeiro, mesmo que eu não tenha oq é nescessário e que vá demorar, sou obrigado a comprar e quando as moedas acabaram é só tristeza, arrumem isso logo, quero dar banho no meu pet antes de dormir!!!!",
+        "replyText": "Caro usuário, você pode entrar em contato comigo pelo e-mail developer@love8app.com. Quero entender o que aconteceu e resolver seu problema oferecendo um serviço satisfatório."
+      },
+      {
+        "date": "2025-03-23",
+        "score": 2,
+        "thumbs": 2,
+        "user": "Mariana Pro",
+        "text": "O aplicativo é muito bom, mas a maioria das coisas são Premium e tem que pagar isso me deixa frustada"
+      },
+      {
+        "date": "2025-03-22",
+        "score": 1,
+        "thumbs": 2,
+        "user": "Evelyn Lindsey",
+        "text": "e tudo pago não dá para fazer nada",
+        "replyText": "You can contact my email: developer@love8app.com. I will arrange for our staff to solve all your issues."
+      },
+      {
+        "date": "2025-02-22",
+        "score": 2,
+        "thumbs": 0,
+        "user": "Lara Aiveca",
+        "text": "at first everything went well and everything was great, but now the app has done nothing with anything, the location gets terrible and even the net and everything else",
+        "replyText": "\"Dear user, you can contact my email: developer@love8app.com, and I can arrange for a technical engineer to resolve your issue.\""
+      },
+      {
+        "date": "2025-01-20",
+        "score": 1,
+        "thumbs": 2,
+        "user": "kaique silva Batista ff",
+        "text": "aplicativo ruim só serve pra conversar e mal muito ruimmm",
+        "replyText": "Prezado usuário,\nPedimos desculpas pelo ocorrido. Você pode entrar em contato comigo pelo e-mail: developer@love8app.com. Farei os arranjos para que um engenheiro técnico solucione o seu problema, alé"
+      },
+      {
+        "date": "2025-01-20",
+        "score": 1,
+        "thumbs": 7,
+        "user": "Luara Goncalves",
+        "text": "Não gostei e ruim o aplicativo tem q pagar tudo e ainda e inglês ruim d +🤮",
+        "replyText": "Prezado usuário,\nPedimos desculpas pelo ocorrido. Você pode entrar em contato comigo pelo e-mail: developer@love8app.com. Farei os arranjos para que um engenheiro técnico solucione o seu problema, alé"
+      },
+      {
+        "date": "2025-01-14",
+        "score": 1,
+        "thumbs": 2,
+        "user": "Fabio ࿐",
+        "text": "Estou sendo obrigado a usar/ roteador horrível",
+        "replyText": "Prezado usuário, pedimos desculpas pelo inconveniente. Você pode me contatar por e-mail em developer@love8app.com, e irei organizar para que nossos engenheiros técnicos resolvam o seu problema. Também"
+      },
+      {
+        "date": "2024-12-17",
+        "score": 1,
+        "thumbs": 2,
+        "user": "Mariana Schaurin",
+        "text": "Confuso, fica incomodando com localização e é pago as funções.",
+        "replyText": "Caro usuário, pedimos sinceras desculpas. Você pode entrar em contato com meu e-mail em: developer@love8app.com. Vou providenciar um engenheiro técnico para resolver seu problema e oferecer uma compen"
+      },
+      {
+        "date": "2024-10-06",
+        "score": 1,
+        "thumbs": 3,
+        "user": "Kaiane Silva",
+        "text": "Serve p nada é ruim 👎🏼",
+        "replyText": "Dear user, please contact my email feedback@love8app.com , and I will arrange for a technical engineer to resolve your issue. I will also provide you with a satisfactory compensation plan."
+      },
+      {
+        "date": "2024-09-30",
+        "score": 1,
+        "thumbs": 4,
+        "user": "Alexandre da Silva Marchioli",
+        "text": "Tudo pago nesabosta kkkkkk",
+        "replyText": "Dear user, please contact my email feedback@love8app.com , and I will arrange for a technical engineer to resolve your issue. I will also provide you with a satisfactory compensation plan."
+      },
+      {
+        "date": "2024-08-21",
+        "score": 2,
+        "thumbs": 1,
+        "user": "Arthur Simas",
+        "text": "The app does a great job with its main function of location sharing between couples, but the additional feature of taking care of a PET is disappointing. While it's a fun idea, the penalty for not frequently checking in to care for the PET is unnecessary and frustrating. The PET should be an optional bonus without negatively impacting the user experience. I hope the developers consider adjusting this mechanic to make the app more enjoyable and less punitive.",
+        "replyText": "Dear user, please contact me at my email address: feedback@love8app.com. I will resolve your issue and provide a solution that satisfies you."
+      },
+      {
+        "date": "2024-07-13",
+        "score": 2,
+        "thumbs": 3,
+        "user": "tarcisio mazur",
+        "text": "A localização no widget não mostra o mapa, não é tão útil assim. Volto assinar o premium somente quando tiver essa funcionalidade. Mostra somente se está em um local de alerta, pois o mapa é de outras ruas",
+        "replyText": "Contact me at dabaitu2023@gmail.com and describe the issue you are experiencing in detail. I can help you resolve the problem."
+      },
+      {
+        "date": "2024-07-12",
+        "score": 1,
+        "thumbs": 26,
+        "user": "CharlesFth Prado",
+        "text": "App não abre mais, fica dando erro sempre que precisa abrir",
+        "replyText": "\"Contact me at dabaitu2023@gmail.com and describe the issue you are experiencing in detail. I can help you resolve the problem.\""
+      },
+      {
+        "date": "2024-07-11",
+        "score": 1,
+        "thumbs": 2,
+        "user": "arthue2233 22e dGF AG",
+        "text": "Eu não consigo mais abrir o aplicativo",
+        "replyText": "\"Contact me at dabaitu2023@gmail.com and describe the issue you are experiencing in detail. I can help you resolve the problem.\""
+      },
+      {
+        "date": "2024-06-17",
+        "score": 1,
+        "thumbs": 13,
+        "user": "Kari",
+        "text": "Achei a ideia muito divertida, mas me decepcionei baixando o app. Sem pagar, o app é péssimo.",
+        "replyText": "\"Contacte o meu email: dabaitu2023@gmail.com, posso oferecer-lhe a versão premium gratuitamente.\""
+      },
+      {
+        "date": "2024-05-27",
+        "score": 1,
+        "thumbs": 7,
+        "user": "Pedrão Emijo",
+        "text": "Aplicativo HORRÍVEL, péssimo, se vc quiser qualquer tipo de informação por exemplo a localização no mapa c tem q pagar 50e tanto por ano,",
+        "replyText": "Contact me at dabaitu2023@gmail.com and describe the issue you are experiencing in detail. I can help you resolve the problem."
+      }
+    ]
+  },
+  "MX_couple_love8": {
+    "appId": "ltd.love8.couples.relationship",
+    "country": "mx",
+    "lang": "es-MX",
+    "title": "Love8 - App para parejas",
+    "score": 4.375,
+    "ratings": 36013,
+    "installs": "5,000,000+",
+    "histogram": {
+      "1": 2986,
+      "2": 874,
+      "3": 2684,
+      "4": 2382,
+      "5": 26994
+    },
+    "offersIAP": true,
+    "IAPRange": "$19.00-$1,749.00 por elemento",
+    "adSupported": true,
+    "total_reviews_pulled": 500,
+    "low_reviews_count": 69,
+    "low_reviews_pct": 13.8,
+    "low_reviews": [
+      {
+        "date": "2026-05-05",
+        "score": 2,
+        "thumbs": 0,
+        "user": "Mariana Magallanes",
+        "text": "La verdad es buena la app para ver a que distancia estamos cuidadar la mascota pero no me gusta que se deba pagar para las mejores funciones y la publicidad que mandan en videos dicen lo buena que es y no dicen que se debe pagar para esas funciones asi que no me gusta tanto la verdad ."
+      },
+      {
+        "date": "2026-05-05",
+        "score": 1,
+        "thumbs": 0,
+        "user": "edgard saavedra",
+        "text": "horrible , en la publicidad ofrece características que no tiene al momento de usarla con mi pareja"
+      },
+      {
+        "date": "2026-05-03",
+        "score": 2,
+        "thumbs": 0,
+        "user": "Jefferson Mancipe",
+        "text": "ni pagando la suscripción sirve bien, muchos fallos de ubicación, muchos errores, me Arrepiento de haber pagado sinceramente."
+      },
+      {
+        "date": "2026-05-03",
+        "score": 2,
+        "thumbs": 0,
+        "user": "Alondra Cc",
+        "text": "se puede arreglar que la ubicación de mi pareja pase de un lugar a otro como loco ya ni siquiera se cual es su ubicación."
+      },
+      {
+        "date": "2026-05-01",
+        "score": 1,
+        "thumbs": 0,
+        "user": "Rubí UwU",
+        "text": "la instalé por un anuncio y no cumple lo que promete, nunca pude poner el coso para dibujar en la pantalla de bloqueo, 0/10"
+      },
+      {
+        "date": "2026-04-29",
+        "score": 1,
+        "thumbs": 0,
+        "user": "Gerardo Estrada",
+        "text": "Me consumió todo mi saldo en 1 dia por tener la ubicación permitida jaja desinstalada."
+      },
+      {
+        "date": "2026-04-29",
+        "score": 1,
+        "thumbs": 1,
+        "user": "Yoselin ᬊᬁ",
+        "text": "ultimamente tiene muchos bugs, no me sale los recorridos de mi pareja y tengo premium",
+        "replyText": "Lamento mucho los inconvenientes que has tenido con los bugs y los recorridos. Tomamos muy en serio tu comentario y lo estamos revisando para mejorar la experiencia. Para ayudarte de manera más direct"
+      },
+      {
+        "date": "2026-04-29",
+        "score": 1,
+        "thumbs": 0,
+        "user": "Francisco Abrigo",
+        "text": "no anda esto estoy cn mi novia al lado y aparece q esta en autonomía de bs as",
+        "replyText": "Hola, gracias por contarnos esto. Lamento mucho la confusión con la ubicación de tu novia. La ubicación se actualiza automáticamente cuando los permisos están activados, no es posible cambiarla manual"
+      },
+      {
+        "date": "2026-04-28",
+        "score": 2,
+        "thumbs": 0,
+        "user": "patricio bedoya",
+        "text": "no da algunas funciones bien",
+        "replyText": "Gracias por tu comentario. Entendemos que algunas funciones no están funcionando como esperas y lo sentimos mucho. Nos tomamos muy en serio tu opinión para seguir mejorando. Si tienes algún detalle es"
+      },
+      {
+        "date": "2026-04-27",
+        "score": 1,
+        "thumbs": 0,
+        "user": "Melinda Guerrero González",
+        "text": "Horrible, aburrida, ni yo la entendí",
+        "replyText": "Lamento mucho que tu experiencia no haya sido la esperada. Tomamos muy en serio tus comentarios y trabajamos para mejorar. Si tienes algún detalle que quieras compartir, escríbenos a developer@love8ap"
+      },
+      {
+        "date": "2026-04-27",
+        "score": 1,
+        "thumbs": 0,
+        "user": "camilo morales zuleta",
+        "text": "El widget jamás me aparecio en la pantalla de bloqueo. El widget de texto se actualiza por uno predeterminado al realizar cualquier acción en el celular",
+        "replyText": "Entiendo la situación con el widget. Lamento que no haya aparecido en la pantalla de bloqueo y que el texto se actualice por uno predeterminado. Tomamos nota de tu feedback para mejorar la experiencia"
+      },
+      {
+        "date": "2026-04-22",
+        "score": 1,
+        "thumbs": 0,
+        "user": "Jop",
+        "text": "Hace Falta la Novia",
+        "replyText": "Entiendo tu frustración. Si estás teniendo problemas para usar la app con tu pareja, por favor escríbenos a developer@love8app.com para que podamos revisar tu caso y ayudarte mejor. ¡Gracias por tu fe"
+      },
+      {
+        "date": "2026-04-14",
+        "score": 1,
+        "thumbs": 2,
+        "user": "Manuel Maciel",
+        "text": "re app para tóxicos inseguros"
+      },
+      {
+        "date": "2026-04-12",
+        "score": 1,
+        "thumbs": 0,
+        "user": "Valeri Marquez laya",
+        "text": "le acabo de instalar y no me deja entrar y la otra es qué le doy le doy y no me quiere dar porque es que falta el internet no es el internet está bien reiniciar teléfono de Minecraft eliminé todo y es mi primera descargando la aplicación entonces para eso hago un video te digo que no sirve para nada entonces yo digo que me acomoden esa vaina bueno por favor de todo corazón porque yo quiero saber qué es lo que está haciendo mi novio",
+        "replyText": "Hola, lamento mucho que estés teniendo problemas para usar la aplicación desde el principio. Entendemos lo frustrante que puede ser. Para que podamos ayudarte a solucionar esto lo más rápido posible y"
+      },
+      {
+        "date": "2026-04-10",
+        "score": 1,
+        "thumbs": 0,
+        "user": "Lizbeth Jovana Munguia Alaniz",
+        "text": "fatal !!! usándose premium no se actualizaba las ubicaciones lo cual causo mucho conflicto en mi relación",
+        "replyText": "Hola, entendemos tu frustración y lamento que hayas tenido esta experiencia con la actualización de ubicaciones. Nos tomamos muy en serio los problemas que afectan la experiencia de la app. Para que p"
+      },
+      {
+        "date": "2026-03-30",
+        "score": 1,
+        "thumbs": 0,
+        "user": "Jesus Torres",
+        "text": "todo se paga terrible no no",
+        "replyText": "Hola, entendemos tu frustración. Algunas funciones son parte de la suscripción Premium, pero también hay contenido gratuito que puedes disfrutar. Si tienes algún problema específico, puedes escribirno"
+      },
+      {
+        "date": "2026-03-17",
+        "score": 1,
+        "thumbs": 0,
+        "user": "Kleber R.S",
+        "text": "Es malo porque la Pareja desconfía de uno"
+      },
+      {
+        "date": "2026-03-07",
+        "score": 1,
+        "thumbs": 0,
+        "user": "Lauro Palomares",
+        "text": "No funciona el 50% del tiempo, hay mucho mejores apps no pierdan su tiempo"
+      },
+      {
+        "date": "2026-03-07",
+        "score": 1,
+        "thumbs": 0,
+        "user": "Novelo Perez Jessica",
+        "text": "Yo tengo una queja, pague premium de 1 año, apenas en enero y por accidente desinstale la app y ya no me sale que tengo premium. Me pueden ayudar?"
+      },
+      {
+        "date": "2026-03-06",
+        "score": 1,
+        "thumbs": 2,
+        "user": "Keyla Santamaria",
+        "text": "𝘮𝘶𝘺 𝘮𝘢𝘭 𝘭𝘭𝘭"
+      },
+      {
+        "date": "2026-03-05",
+        "score": 1,
+        "thumbs": 6,
+        "user": "Alejandra Yurena Rodríguez Domínguez",
+        "text": "Estoy teniendo problemas con la aplicación,a la hora de co- dormír está fallando ,no nos sale la información del sueño... los tres primeros días si pero después empezó a fallar."
+      },
+      {
+        "date": "2026-02-26",
+        "score": 1,
+        "thumbs": 0,
+        "user": "Esther Campos Tuesta",
+        "text": "No se porque se puso a botarme de la app y no entra, el mata no da la dirección correcta no se que pasa."
+      },
+      {
+        "date": "2026-02-26",
+        "score": 1,
+        "thumbs": 0,
+        "user": "Stiven Guerrero",
+        "text": "puse una estrella por que en genero aparece ( no binario ) osea de verdad son imbeciles ? a la gente le cuesta creer que solo existe ( hombre ) y ( mujer ) hasta cuando normalizar las enfermedades mentales de la gente ?"
+      },
+      {
+        "date": "2026-02-25",
+        "score": 1,
+        "thumbs": 0,
+        "user": "Juan Chaparro",
+        "text": "nunca da el informe del sueño 🙄"
+      },
+      {
+        "date": "2026-02-23",
+        "score": 1,
+        "thumbs": 18,
+        "user": "Mariana Rojas",
+        "text": "Desintalé otra app por esta y lo que no me gusta es que para ver su recorrido, su batería y su wi fi se tiene que pagar, deberían tener al menos esas opciones gratis. También la ubicación se llega a mover mucho cuando la persona no se ha ido del lugar."
+      },
+      {
+        "date": "2026-02-19",
+        "score": 1,
+        "thumbs": 6,
+        "user": "Ricardo Sandoval",
+        "text": "El apartado de misiones por dados y de ver anuncios para multiplicar los dados esta bugeado, hago una tarea y me la cambian por otra o no me la cuentan, arreglen eso, asi no da gusto jugar sus eventos"
+      },
+      {
+        "date": "2026-02-16",
+        "score": 1,
+        "thumbs": 0,
+        "user": "Nayeli Huerta",
+        "text": "el evento de san Valentín no funciona bien haces la misión y no te da los dados es una pésima experiencia"
+      },
+      {
+        "date": "2026-02-14",
+        "score": 2,
+        "thumbs": 12,
+        "user": "Stephanie Guadalupe Rodriguez Preciado",
+        "text": "al inicio que empece a usar la app me pareció excelente se actualizaba todo al momento , la ubicacion , la velocidad , el estado del celular todo , recien hace una semana ha empezado a fallar ya no actualiza la ubicacion , ni el estado del celular , nada"
+      },
+      {
+        "date": "2026-02-04",
+        "score": 1,
+        "thumbs": 0,
+        "user": "Ohanna Miranda Gonzalez",
+        "text": "no es buena tienes q pagar para tener todo disponible"
+      },
+      {
+        "date": "2026-02-03",
+        "score": 1,
+        "thumbs": 0,
+        "user": "Victoria Mendez",
+        "text": "NADA es gratis, y hay que pagar todo, pésima aplicación"
+      },
+      {
+        "date": "2026-01-27",
+        "score": 1,
+        "thumbs": 1,
+        "user": "Melany Silva",
+        "text": "pésima Page el premium y solo me robaron el dinero no actualizaron la app a premium pero si débito mi dinero"
+      },
+      {
+        "date": "2026-01-25",
+        "score": 1,
+        "thumbs": 0,
+        "user": "Arturo Quiroz",
+        "text": "No vincula con mi pareja"
+      },
+      {
+        "date": "2026-01-19",
+        "score": 2,
+        "thumbs": 17,
+        "user": "Misao Mei",
+        "text": "La app tiene dos grandes problemas, la ubicación es muy desactualizada y consume mucha batería. Lo que más me depciona es que no está cumpliendo actualmente con el objetivo principal por el cual la descargué que es ver la ubicación en tiempo real, tener la certeza de que realmente es la ubicación actual, lo demás es soportable. Por favor arreglen lo de la ubicación y permitan que se quede un registro de todas las zonas que se visitó en un dia, la app en vez de ayudar termina siendo estresante."
+      },
+      {
+        "date": "2026-01-19",
+        "score": 1,
+        "thumbs": 0,
+        "user": "Cándida Rodríguez",
+        "text": "es pésima la app la odio literal mente"
+      },
+      {
+        "date": "2026-01-18",
+        "score": 1,
+        "thumbs": 0,
+        "user": "Alma Acosta",
+        "text": "es pago y no te lo dicen hasta instalarla 😑"
+      },
+      {
+        "date": "2026-01-16",
+        "score": 1,
+        "thumbs": 0,
+        "user": "Mary Molina",
+        "text": "la aplicación hace que el celular se descargue rápido y no da ubicación precisa, la mascota es tan insistente que llega al punto de ser fastidiosa. es algo lenta y da falsas notificaciones"
+      },
+      {
+        "date": "2026-01-14",
+        "score": 1,
+        "thumbs": 0,
+        "user": "Federico Canepa (Fede)",
+        "text": "publicidad engañosa y la app hostiga de tantas cosas"
+      },
+      {
+        "date": "2026-01-14",
+        "score": 2,
+        "thumbs": 0,
+        "user": "Ino Rivas",
+        "text": "es muy buena"
+      },
+      {
+        "date": "2026-01-10",
+        "score": 1,
+        "thumbs": 0,
+        "user": "Samantha Lahuatte",
+        "text": "muy buenooo"
+      },
+      {
+        "date": "2026-01-07",
+        "score": 2,
+        "thumbs": 6,
+        "user": "Jackelin Guillén Gómez",
+        "text": "al principio funciona bien pero ya voy 2 semanas con la aplicación y la ubicación no se actualiza, el soporte a cliente no responde y no da solución al problema"
+      },
+      {
+        "date": "2026-01-07",
+        "score": 1,
+        "thumbs": 0,
+        "user": "Hola Hola",
+        "text": "se gasta muy rápido la pila 🙄😒"
+      },
+      {
+        "date": "2026-01-07",
+        "score": 1,
+        "thumbs": 30,
+        "user": "Mary Lizbeth Abad Chuquihuanca",
+        "text": "Estoy dando de más aún poniéndoles 1 estrella, la ubicación muchísimas veces es imprecisa, notifica q llega o salio de algún lugar cuando no es verdad o también sale q esta en tal sitio cuando realmente esta en otro y eso ocurre a pesar de que la ubicación está activa siempre, la mascota es tierna pero demasiado dependiente, es peor q pou de exigente, y para todo hay q pagar, si quieres ver la batería, ruta, colocar otro fondo o lo q sea, le tenia otras expectativas a la app 🥲"
+      },
+      {
+        "date": "2026-01-02",
+        "score": 1,
+        "thumbs": 0,
+        "user": "PASKAL Gonzales",
+        "text": "quisiera que agan uno de amigas plis lo po drian aser por mi"
+      },
+      {
+        "date": "2025-12-30",
+        "score": 1,
+        "thumbs": 0,
+        "user": "Marya Ximena Montiel Quirarte",
+        "text": "no me gusta"
+      },
+      {
+        "date": "2025-12-29",
+        "score": 1,
+        "thumbs": 0,
+        "user": "Zamir Tunti saya",
+        "text": "no puedo abrir las cartas q me envió mi novia checa eso xf"
+      },
+      {
+        "date": "2025-12-28",
+        "score": 1,
+        "thumbs": 0,
+        "user": "Cristian Iván Bueno Figueroa",
+        "text": "está aplicación me iso terminar con mi novio según la mapa de la aplicación yo salí pero nunca salí 😭😭😭😭😭😭💔💔💔💔💔💔me arrepiento de haberla descargado"
+      },
+      {
+        "date": "2025-12-25",
+        "score": 1,
+        "thumbs": 0,
+        "user": "Frank Yhordan",
+        "text": "pésima App."
+      },
+      {
+        "date": "2025-12-24",
+        "score": 1,
+        "thumbs": 0,
+        "user": "Cris Ancco",
+        "text": "es una estafa pide dinero hasta creo que para entrar y casi le mete virus a mi celular."
+      },
+      {
+        "date": "2025-12-23",
+        "score": 2,
+        "thumbs": 0,
+        "user": "Hilary Diaz",
+        "text": "muy buena pero me terminó por esta aplicación"
+      },
+      {
+        "date": "2025-12-22",
+        "score": 1,
+        "thumbs": 0,
+        "user": "Kakashi Sensi",
+        "text": "q asco de app es muy lento no te da ubicación exacta aparte pasa más 4 horas y nada no te da nada y probé con liff , liff es mejor"
+      },
+      {
+        "date": "2025-12-21",
+        "score": 1,
+        "thumbs": 4,
+        "user": "Karina Verduga",
+        "text": "Estoy muy molesta... Todos los finales de mes se cuelga y ahora no deja completar tareas... La verdad q decepción... Esta incluso pagado el año y no sirve 🤨 aparte d eso me quitaron todas mis monedas..."
+      },
+      {
+        "date": "2025-12-18",
+        "score": 1,
+        "thumbs": 0,
+        "user": "Nela Marbel Almanza Hurtado",
+        "text": "no es muy buena porque uno tiene que pagar 😔"
+      },
+      {
+        "date": "2025-12-15",
+        "score": 2,
+        "thumbs": 8,
+        "user": "Salome Moreno",
+        "text": "en todo hay que pagar y eso se vuelve aburrido"
+      },
+      {
+        "date": "2025-12-11",
+        "score": 2,
+        "thumbs": 1,
+        "user": "Geraldine Diaz",
+        "text": "es bonita la app. pero debería de haber cosas gratis"
+      },
+      {
+        "date": "2025-12-09",
+        "score": 1,
+        "thumbs": 0,
+        "user": "Dereck Sanchez",
+        "text": "Se han de estar muriendo de hambre wey xd mejor ponle un airtag"
+      },
+      {
+        "date": "2025-12-08",
+        "score": 2,
+        "thumbs": 18,
+        "user": "Sofii",
+        "text": "la aplicación está bastante bien pero la ubicación no es del todo precisa, a veces marca distancias muy erróneas, no sé por que falla así si tenía buena conexion y la ubicación siempre activada, espero que arreglen eso y ajusten las funciones para que sea más cómodo, pague el año entero así que espero que valga la pena. Actualizo mi opinión: en el evento de navidad gire la ruleta y me toco un set de mascota pero no me lo dieron, envié dos correos a soporte y NO RESPONDEN NUNCA."
+      },
+      {
+        "date": "2025-12-01",
+        "score": 1,
+        "thumbs": 0,
+        "user": "AnGeLBrAvO PLAY",
+        "text": "AYUDAAAA!!! mi pareja si se actualizo a la versión de navidad pero a mí no me aparece esa actualización"
+      },
+      {
+        "date": "2025-12-01",
+        "score": 1,
+        "thumbs": 0,
+        "user": "Misa",
+        "text": "básicamente, paga para disfrutar, si no lo haces te llena la pantalla de cuadros de promociones y opciones de para, notificaciones excesivas, traducción pésima. Básicamente, no recomendada, hay opciones mucho mejores que esto, que si pudiera darle menos calificación realmente lo haría."
+      },
+      {
+        "date": "2025-11-28",
+        "score": 1,
+        "thumbs": 0,
+        "user": "Gustavo Navarro G.",
+        "text": "porque se tiene que pagar no me gusto por qué ay que pagar"
+      },
+      {
+        "date": "2025-11-25",
+        "score": 1,
+        "thumbs": 0,
+        "user": "im bell",
+        "text": "mala"
+      },
+      {
+        "date": "2025-11-23",
+        "score": 1,
+        "thumbs": 24,
+        "user": "Isa E.C.",
+        "text": "la app al principio parecía increíble, hasta compramos el premium porque valía mucho la pena, pero ahora que han pasado meses de que la tenemos da muchísimos fallos, aunque la tengas abierta y con la ubicación puesta da errores y casi siempre sale como inactivo, los horarios de dormir no los calcula y literalmente pone que no dormimos, las notificaciones van cuando les da la gana y la atención al cliente es inteligencia artificial"
+      },
+      {
+        "date": "2025-11-22",
+        "score": 2,
+        "thumbs": 1,
+        "user": "Nayli Bellido Ivana",
+        "text": "no aparece la ubicación correcta"
+      },
+      {
+        "date": "2025-11-22",
+        "score": 1,
+        "thumbs": 0,
+        "user": "Antoni Rivera",
+        "text": "es feo no me gusta"
+      },
+      {
+        "date": "2025-11-10",
+        "score": 1,
+        "thumbs": 3,
+        "user": "Paula Aristizabal",
+        "text": "es malisima la app todo toca pagar, el juego es suoer malo y aburrida, la ubicación no la da bien, no t deja ver si esta caminando o en carro como en otras apps, son muy malas, de vd no la instalen",
+        "replyText": "Estimado usuario, por favor contácteme en developer@love8app.com\n. Resolveré cualquier problema que tenga."
+      },
+      {
+        "date": "2025-11-05",
+        "score": 1,
+        "thumbs": 0,
+        "user": "Cristobal Bravo",
+        "text": "app kl mala, no dice la ubicación bien la dice 3 horas tarde, se actualiza poco, si te suscribiste y te desuscribiste no se te reembolsa nada la wea penca de app, no la recomendaría",
+        "replyText": "Estimado usuario, por favor comuníquese conmigo a través de developer@love8app.com\n. Resolveré cualquier problema que tenga."
+      },
+      {
+        "date": "2025-11-01",
+        "score": 1,
+        "thumbs": 0,
+        "user": "Pedro Vel",
+        "text": "Pésima app, jamás muestra mi ubicación donde debería, me muestra casi 500km lejos de donde estoy, lo reporte demaciadas veces y aun así no responden, contrate el pase premium y no se corrige, estoy apunto de desisntalar y probar otras app",
+        "replyText": "Puedes contactarme en developer@love8app.com\n. Puedo ayudarte con cualquier problema y ofrecerte una versión de prueba gratuita para usar."
+      },
+      {
+        "date": "2025-10-29",
+        "score": 1,
+        "thumbs": 0,
+        "user": "Javiera Salinas",
+        "text": "no es exacta la ubicación, y hay qué esperar horas para que se actualice, no la recomiendo.",
+        "replyText": "Puedes contactarme en developer@love8app.com\n. Puedo ayudarte con cualquier problema y ofrecerte una versión de prueba gratuita para usar."
+      },
+      {
+        "date": "2025-10-26",
+        "score": 1,
+        "thumbs": 3,
+        "user": "Liz :3",
+        "text": "Pésima aplicación, no me gusta nada, ya me eh comunicado con ellos pero nunca responden, y me parece absurdo pagar por separado el premiun 🙄",
+        "replyText": "Puedes contactarme en developer@love8app.com\n. Puedo ayudarte con cualquier problema y proporcionarte una versión de prueba gratuita para usar."
+      },
+      {
+        "date": "2025-10-26",
+        "score": 1,
+        "thumbs": 21,
+        "user": "Maria Lebron",
+        "text": "la he tenido instalada como un mes, realmente no sirve para mucho. -una mascota que todo el rato está molestando. - por todo hay que pagar - la ubicación no es 100% real, te envía mensaje de entro o salió de algún sitio cuando no es verdad. a la otra persona le manda que fuiste tú la que saliste o entraste y a ti al revés. que fue el el que entró o salió. - hasta para mirar recorrido hay que pagar todo en esta aplicación es pagar y pagar",
+        "replyText": "Puedes contactarme en developer@love8app.com\n. Puedo ayudarte con cualquier problema y proporcionarte una versión de prueba gratuita para usar."
+      }
+    ]
+  }
+}

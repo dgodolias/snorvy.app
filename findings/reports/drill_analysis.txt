@@ -1,0 +1,102 @@
+====================================================================================================
+DRILL RESULTS: 500 reviews per app, theme-clustered
+====================================================================================================
+
+--- TR_tarot_labyrinthos ERROR: App not found (404)
+
+--- TR_couple_love8 ERROR: App not found (404)
+
+=== TR_astrology_yodha | Yodha Astrolojim ve Burcum (1.000.000+) ===
+  ⭐4.62 (161,832 ratings) | histogram: {'1': 10434, '2': 1280, '3': 3264, '4': 9154, '5': 137570}
+  Pulled 500 recent reviews → 44 low (8.8%)
+  IAP: True Öğe başına ₺7,39-₺5.000,00 | adSupported: False
+
+  Theme distribution (out of 44 low reviews):
+    pricing/billing            10  (23%)
+    language                    5  (11%)
+    ads                         2  (5%)
+    privacy/permissions         1  (2%)
+    inaccurate/wrong            1  (2%)
+    crashes/bugs                1  (2%)
+
+  Top complaints by theme (most upvoted):
+    [pricing/billing] [2★ 👍4] İlk sorunun ücretsiz olduğunu söylediler fakat bende böyle birşey olmadı. Deneme için kullanamıyorum bile.
+    [pricing/billing] [1★ 👍4] Ücretli soru sordum fakat 24 saat geçti soruma geri dönüş yapılmadı. Arkadaşlar ücretli baktırırken dikkatli olun!
+    [language] [1★ 👍1] Türkçe çeviri var mı
+    [language] [1★ 👍0] Türkçe olmadığı için anlayamıyorum üzgünüm
+    [ads] [1★ 👍1] Ne kadar iyi bir uygulama olsa da doğum tarihi , ad soyad istenen yerde ben yokum üzgünüm.....
+    [ads] [1★ 👍0] Not recommend. They not read the question you asked. They are speaking randomly. I asked him something else, he reply me with another question. I used another app before was great. This one fake.
+    [privacy/permissions] [1★ 👍1] Lütfen bunun gibi şeylere inanmayin sizin, cagilliginizi kullaniyorlar. Bir uygulama veya buna benzer hiç birşey dogru degildir!
+
+--- BR_manifestation_lei ERROR: App not found (404)
+
+--- BR_couple_love8 ERROR: App not found (404)
+
+=== ID_selfcare_remente | Remente: Self Care, Wellbeing (1.000.000+) ===
+  ⭐4.44 (12,221 ratings) | histogram: {'1': 359, '2': 359, '3': 1317, '4': 1557, '5': 8506}
+  Pulled 22 recent reviews → 2 low (9.1%)
+  IAP: True Rp 26.000 - Rp 3.819.721 per item | adSupported: False
+
+  Theme distribution (out of 2 low reviews):
+    pricing/billing             2  (100%)
+
+  Top complaints by theme (most upvoted):
+    [pricing/billing] [2★ 👍30] Akses fitur pada akun free sangat terbatas, harus berlangganan agar bisa full akses semua fiturnya....
+    [pricing/billing] [1★ 👍13] Sangat bagus.. Hanya saja biaya berlangganan terlalu mahal 600 rb (termasuk pajak) dan tidak ada pilihan bayar per bulan
+
+=== BR_selfcare_finch | Finch: Self-Care Pet (10.000.000+) ===
+  ⭐4.91 (568,388 ratings) | histogram: {'1': 3764, '2': 2227, '3': 6068, '4': 16823, '5': 539196}
+  Pulled 500 recent reviews → 24 low (4.8%)
+  IAP: True R$ 9,99 – R$ 1.299,99 por item | adSupported: False
+
+  Theme distribution (out of 24 low reviews):
+    language                   17  (71%)
+    AI complaint                8  (33%)
+    pricing/billing             2  (8%)
+    privacy/permissions         1  (4%)
+    ads                         1  (4%)
+    IAP/locked features         1  (4%)
+
+  Top complaints by theme (most upvoted):
+    [language] [1★ 👍20] O Aplicativo parece ótimo, porém não tem em outros idiomas o que detona a experiência do usuário
+    [language] [1★ 👍14] Não presta porque não tem em português.
+    [AI complaint] [1★ 👍20] O Aplicativo parece ótimo, porém não tem em outros idiomas o que detona a experiência do usuário
+    [AI complaint] [1★ 👍5] Eu apoiava o app e usei por 11 meses até descobrir que Finch usa IA generativa para fazer seus anúncios e parte da programação (que resulta no péssimo funcionamento do app em muitos dispositivos como o meu). Além do mais, a empresa usa as i
+    [pricing/billing] [1★ 👍5] Eu apoiava o app e usei por 11 meses até descobrir que Finch usa IA generativa para fazer seus anúncios e parte da programação (que resulta no péssimo funcionamento do app em muitos dispositivos como o meu). Além do mais, a empresa usa as i
+    [pricing/billing] [2★ 👍4] O app é sensacional, a ideia é sensacional, porém, para a realidade do brasileiro, o valor é extremamente caro. Gostaria de ajudar os desenvolvedores, porém, muito caro! Gostaria de indicar o app para algumas pessoas, porém, não tem o portu
+    [privacy/permissions] [1★ 👍0] pet data corrupted
+
+=== BR_astrology_astrolink | Astrolink - Mapa Astral (1.000.000+) ===
+  ⭐4.54 (20,227 ratings) | histogram: {'1': 1547, '2': 317, '3': 557, '4': 1068, '5': 16730}
+  Pulled 500 recent reviews → 76 low (15.2%)
+  IAP: True R$ 10,99 – R$ 309,99 por item | adSupported: False
+
+  Theme distribution (out of 76 low reviews):
+    crashes/bugs               19  (25%)
+    pricing/billing            14  (18%)
+    AI complaint               12  (16%)
+    IAP/locked features         8  (11%)
+    support/refund              5  (7%)
+    ads                         4  (5%)
+    inaccurate/wrong            1  (1%)
+
+  Top complaints by theme (most upvoted):
+    [crashes/bugs] [2★ 👍19] Tem umas funcionalidades interessantes, há potencial, mas o serviço é amador. Ñ consigo confiar na informação. Reportei um erro grave da IA, q ñ consegue ler a informação disponível. Ou seja, ñ é apenas falha de interpretação, um bug de apr
+    [crashes/bugs] [1★ 👍6] aplicativo tá horrível desde a atualização, travamentos, bugs, horrível, consigo nem entrar que fica em tela branca
+    [pricing/billing] [1★ 👍9] Paguei a promoção de 9,90, e pediu para eu pagar novamente para desbloquear, paguei 2 vezes e deu o preço normal, ou seja, promoção nao tem nada, é só pra fazer de otaria mesmo. Alem de que simplesmente o premium não desbloqueia por NADA, j
+    [pricing/billing] [1★ 👍3] Estou decepcionada. Eu paguei o recurso Premium, conferi no meu cartão e foi registrada a compra mas eu fui acessar o recurso Premium não consegui, ficou como se eu não tivesse pago nada. Mas no meu cartão eu tenho o registro da compra 😠
+    [AI complaint] [1★ 👍9] Paguei a promoção de 9,90, e pediu para eu pagar novamente para desbloquear, paguei 2 vezes e deu o preço normal, ou seja, promoção nao tem nada, é só pra fazer de otaria mesmo. Alem de que simplesmente o premium não desbloqueia por NADA, j
+    [AI complaint] [1★ 👍5] Não gostei pq a maioria das funções são pagas; não compensa.
+    [IAP/locked features] [1★ 👍9] Paguei a promoção de 9,90, e pediu para eu pagar novamente para desbloquear, paguei 2 vezes e deu o preço normal, ou seja, promoção nao tem nada, é só pra fazer de otaria mesmo. Alem de que simplesmente o premium não desbloqueia por NADA, j
+    [IAP/locked features] [1★ 👍4] Já foi bom. Hoje tudo é pago, a experiência do usuário ficou em segundo plano e o foco parece ser apenas o ganho financeiro. Recomendo procurar outros aplicativos.
+
+====================================================================================================
+VERDICT TABLE
+====================================================================================================
+
+cell                                   installs     ★    1★%  low_pct        IAP
+----------------------------------------------------------------------------------------------------
+TR_astrology_yodha                   1.000.000+  4.62    6.4      8.8 Öğe başına ₺7,39-₺5.000,00
+ID_selfcare_remente                  1.000.000+  4.44    2.9      9.1 Rp 26.000 - Rp 3.819.721 per i
+BR_selfcare_finch                   10.000.000+  4.91    0.7      4.8 R$ 9,99 – R$ 1.299,99 por item
+BR_astrology_astrolink               1.000.000+  4.54    7.6     15.2 R$ 10,99 – R$ 309,99 por item

@@ -819,6 +819,16 @@ Specific wins:
 ### Outcome
 - _to be filled at 30/90 days_
 
+### Run completion summary (final)
+
+**Total dispatches**: 16 substantive subagents over single run
+**Total commits + pushes**: 9 (per user instruction "commit+push after each direction")
+**Limits at completion**: session 15%, weekly 25% (started 21% — burned 4pp for entire run, well under 35% cap)
+**v9 deliverable**: 6 directions, ~880 lines, all quoted proof, all confidence ratings, full launch readiness for Direction 1
+**v9 ranking change vs v8**: Direction 1 stays #1 (wedge repositioned to "no account + offline-first"), Direction 2 promoted #2 (Solopreneur 61.4% recent low confirmed), Direction 4 expanded to multi-country DE+PL+NL with PL KSeF Apr 2026 catalyst, Direction 5 merged into Direction 2 receipt module, Direction 6 NEW (Flame games per user request)
+
+**v9 is COMPLETE and ready for user direction selection.**
+
 ---
 
 ## Open hypotheses register (carry forward)

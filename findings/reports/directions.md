@@ -1,299 +1,344 @@
-# App-Radar Directions Report — exhaustive run 2026-05-07 v3 (cultural+revenue-verified)
+# App-Radar Directions Report — v4
 
-_Generated: 2026-05-07 ~09:00 UTC. **97 cells synthesized + cultural validation + competitor revenue scrape + iOS verification + ASO keyword data + localization audit.**_
+_Generated: 2026-05-07_
+_Source: 97 cells synthesized + corroborated forum/iOS cross-validation + halal_correct_drill (12 apps)_
+_Methodology rev: includes cultural-validation gating, Faladdin vacuum upgrade, Salams iOS-Android divergence._
 
-## ⚠️ Critical corrections from v2
+## Quick scoreboard (re-ranked after halal drill + Turkish forum validation)
 
-This v3 reflects research that **falsified or weakened** several v2 assumptions:
-
-1. **Sleep Cycle ACTUALLY supports Turkish on both iOS and Android.** v2 thesis "Turkish localization gap" → **FALSIFIED** for Sleep Cycle. Direction 4 must shift to Samsung Health Connect gap (Android-specific) or be dropped.
-
-2. **Maktub Arab couples revenue revised down**: $30-60/MAU → **$6-15/MAU/mo**. The Western/Korean couples-app form factor is a cultural import — Arab couples already share home/family/finances. Local Saudi/UAE devs have **avoided this niche entirely**. buzzArab is **ad-only after 10 years** = strong negative signal for MENA paid-sub willingness.
-
-3. **Sleep Cycle = ONLY verified comparable**: $24.7M ARR / 918K subs = **$2.25/MAU/mo**. Used as anchor for revised matrix. Couples-niche multiplier reduced from 4x to 3x.
-
-4. **Labyrinthos confirmed as machine-translated** (v2.60 June 2025 release notes admit Thai+Turkish "machine-translated for now"). **Direction 5 (TR/tarot) STRENGTHENED.**
-
-5. **TR tarot has existing dominant native player: Faladdin (25M users, Turkish-origin)**. Was invisible in Play Store search because we searched English "tarot" — Faladdin's primary search term is "fal" / "kahve falı". **Major reassessment needed for Direction 5.**
-
-## Quick scoreboard (top 10, post-correction)
-
-| # | Cell | Score | Top app | 1★% | Low% | $/MAU | Verdict |
-|---|---|---|---|---|---|---|---|
-| 1 | **TR/couple** | 17 | Love8 - Çiftler | 20.9 | 32.8 | $4.5 | 🟢 STRONG WINNER |
-| 2 | VN/couple | 15 | Tinder VN | 10.5 | 12 | $1.8 | 🟡 first-mover but low conv |
-| 3 | SA/couple | 15 | buzzArab | 11.9 | 12 | $7.5 | 🟡 cultural validation needed |
-| 4 | BR/couple | 14 | Love8 - Casais | 7.1 | 18.7 | $2.1 | 🟢 third locale leverage |
-| 5 | MX/couple | 14 | Love8 - Parejas | 8.3 | 16.7 | $1.5 | 🟢 highest TikTok virality |
-| 6 | TR/sleep | 14 | Sleep Cycle | 10.6 | 12 | $3.8 | 🟡 thesis shift required |
-| 7 | EG/couple | 14 | buzzArab | 12.4 | 12 | $2.4 | 🟡 cultural validation needed |
-| 8 | AE/couple | 13 | buzzArab | 8.3 | 12 | $6.0 | 🟡 cultural validation needed |
-| 9 | TR/astrology | 12 | Yodha | 6.4 | 8.8 | $2.7 | 🟡 mature, Faladdin overlap |
-| 10 | BR/astrology | 12 | Astrolink | 7.6 | 13.5 | $1.3 | 🟡 saturated PT, declining trends |
+| Rank | Direction | Country | Niche | Composite | Top vulnerability | Confidence |
+|---|---|---|---|---|---|---|
+| 1 | **Trust-First Couple Tracker (TR)** | TR | couple | 17 | Love8 32.8% recent low + konum yanlış #1 complaint | **HIGH** |
+| 2 | **Halal Marriage Verified (SA/EG/AE)** ← NEW | SA/EG/AE | halal-couple | 16 | 6/11 apps ≥30% low; Salams 43.9%; ID-verification gap explicit in reviews | **HIGH** |
+| 3 | **Faladdin Successor (TR + Global PT/EN)** | TR | tarot | 15 | Founder arrested 2025, app blocked from TR, 24M MAU vacuum | **HIGH** |
+| 4 | **Couples Tracker BR/MX (Latam Love8 fork)** | BR/MX | couple | 14 | Love8 18.7% BR / 16.7% MX, paywall + location bugs | **MEDIUM** |
+| 5 | **Tinder-Lite VN** | VN | dating | 15 | Tinder $5.4 IAP floor, ad-fatigue, no-payment lockout | **MEDIUM** |
+| 6 | **Coffee-Cup-Reading Marketplace TR** | TR | tarot-p2p | 13 | 419M #kahvefali views, falcı supply unmonetized, ad-fatigue Kaave | **LOW-MED** |
 
 ---
 
-# Top 5 Directions (corrected)
+# Top 6 Directions
 
-## Direction 1: **"Çift" — No-Tracking Couples App for Turkey** (Score 17, $4.5/MAU)
+## Direction 1: Trust-First Couple Tracker — "Şeffaf" (Score 17, HIGH confidence)
 
-**Niche × Country**: `couple` in `Turkey`
-**Target competitor**: Love8 - Çiftler için uygulama (`ltd.love8.couples.relationship`) — 5M installs, ⭐3.84
-**Confidence**: **VERY HIGH** — only direction with all dimensions converging + verified revenue numbers
+**Niche × Country**: `couple` in `TR`
+**Target competitor to displace**: Love8 - Çiftler için uygulama (`ltd.love8.couples.relationship`)
 
-### Verified evidence stack
-- **Vulnerability**: 1★ ratio 20.9% 🔴, recent low_pct 32.8% 🔴 (drilled 418 reviews), 7,516 1-star Turkish users = built-in churn pool
-- **Revenue (revised)**: TR ARPU $1.5/mo × couple multiplier 3.0x = **$4.5/MAU/mo**. Realistic given Sleep Cycle $2.25/MAU anchor.
-- **Founder verified**: Love8 = anonymous Chongqing team "Love Elves" (Chongqing Daole Er Tech), bootstrapped, replies to reviews but doesn't fix bugs. Solo-displacement realism: MEDIUM.
-- **Cross-platform**: Love8 iOS in TR has 44% recent low_pct (worse than Android's 32.8%) — multi-platform attack viable
-- **Cross-country**: same Love8 in TR + BR + MX + TH = 4-market codebase leverage
-- **ASO**: TR couples-app keyword volume = Med (slightly less than BR but still viable)
-- **TikTok**: 650 B niche views; modest 2,568 likes engagement in TR (lower than MX 29K but still active)
+### Market evidence
 
-### Top complaints (verified)
-> [1★ 👍52] *"abonelik aldım ama konum bilgileri şarj bilgileri ve telefonun açılıp kapanış durumu iyice bozuldu"*
-> [1★ 👍34] *"Son güncelleme ile konum hataları... eşimin konumu sürekli bir yerlere ışınlanıyor"*
-> [1★ 👍28] *"premium abone... 580km hızla evin 10dk ilerisine"* (phantom 580 km/h trips)
+**Competitor weakness**:
+- ⭐ 3.84 from 36,013 ratings; 1★ ratio: **20.9%** 🔴; recent low_pct **32.8%** 🔴
+- Installs: 5M+; IAP range: ₺40,99-₺3.949,99
+- Şikayetvar: 4 documented Love8 complaints in 2025 (496–606 views), all about konum yanlış / ödeme alındı premium yok / iptal sonrası para çekildi
+- **No Love8 entry on Ekşi Sözlük** — sub-cultural-penetration despite Play Store presence
 
-### Idea
-Turkish-first couples app, shared widget + journal + streaks, **zero location tracking**, transparent **₺149 (~$5) lifetime** unlock, E2E encrypted shared diary. Position as "what Love8 should have been": anti-surveillance, anti-subscription.
+**Vocabulary validation (turkish_forum_voice.md)**:
+- 60% of forum data points use "**sevgili takip**" framing as a positive demand: "Life 360 var, sevgilinle indir karşılıklı onayla", "uzun mesafe için iyi", "trafik kontrol"
+- 40% are *anti-coercive-tracking, NOT anti-tracking-tech*: "karşılıklı sürekli gözetlemek psikolojik şiddet", "güvenmiyorsan ayrıl"
+- The skeptics' stated alternative is **"karşılıklı onay"** (mutual consent) — NOT no-tracking
 
-### Build / Monetization
-- React Native + Firebase free tier (~5K active couples)
-- $0 ongoing backend cost
-- 5-7 weeks solo
-- ₺149 lifetime → at 1.2% conv × 5M install pool = **60K paying users × $5 = $300K capture potential**
+**Quoted proof (1★ Love8 reviews, all Turkish)**:
+> [👍52] "premium aldım ama konum bilgileri şarj bilgileri ve telefonun açılıp kapanış durumu iyice bozuldu"
+> [👍34] "Son güncelleme ile konum hataları… eşimin konumu sürekli bir yerlere ışınlanıyor, mesafeleri yanlış gösteriyor"
+> [👍28] "premium abone olarak kullanıyorum… 580km hızla evin 10dk ilerisine gittiğini gösteriyor"
 
-### Why this WILL work
-Composite 17/19 = matrix peak (verified across all 3 runs). 7,500+ angry Turkish users = pre-built churn pool. Same codebase ships TR + BR + MX + TH (4-market leverage). Anti-tracking thesis is structurally defensible.
+**Dominant complaint themes**: `location_tracking` (47), `paywall_locked` (21), `pricing_billing` (19), `inaccurate` (17), `crashes_bugs` (11)
 
-### Why this might fail
-- TAM shrinks 30-50% (some users WANT tracking)
-- Couples apps need both partners → viral loop hard
-- Lira instability complicates pricing
+### The idea
 
----
+**Concept**: A Turkish couple-tracking app that wins the "sevgili takip" search keyword (head demand) but differentiates on **karşılıklı onaylı konum** (mutually-consented location) + **konum doğruluğu** (location accuracy) — the two complaints Love8 fails on.
 
-## Direction 2: **"Pareja + Casal" — Multi-Locale LATAM Couples** (Score 14, $1.5-2.1/MAU)
+**Core MVP features**:
+- **Çift onay zorunlu** — both parties must accept location sharing every 7 days; one-sided silent surveillance is impossible (addresses 40% skeptic objection)
+- **Konum doğruluk skoru** — show GPS confidence indicator visibly; if <80% confident, mark as "approximate" (Love8's #1 complaint is teleporting/wrong location)
+- **Şarj + son görülme + son hareket** — same Love8 features (the demand keyword is identical), but reliable
+- **Şeffaf abonelik** — no auto-renewal without prompt, in-app cancel button, 7-day full refund (Love8 lawsuits explicit in Şikayetvar)
 
-**Niche × Country**: `couple` in `Mexico + Brazil`
-**Target competitor**: Love8 (same app, Spanish/Portuguese localizations)
-**Confidence**: **HIGH** — same codebase as #1, MX has matrix-peak TikTok engagement (29K likes)
+**Differentiation thesis**: Use Love8's exact ASO/SEO keyword surface ("sevgili takip", "çift uygulaması", "konum paylaşımı"), but win the 40% skeptics on landing-page copy ("**karşılıklı onaylı, gizli takip yok**"). Win the 60% utilitarians on actual reliability — your bar is "doesn't show false location" which Love8 catastrophically fails on.
 
-### Verified evidence stack
-- MX/couple: 8.3% 1★, 16.7% low_pct, 952 reviews drilled, $1.5/MAU
-- BR/couple: 7.1% 1★, 18.7% low_pct, 406 reviews drilled, $2.1/MAU
-- MX TikTok engagement: **29,783 likes** = matrix peak outside mega-niches
-- Cultural finding: MX 28-thumbs review *"tengo miedo de que me secuestren"* → privacy = safety angle
-- BR vivid quote: *"Aplicativo da discórdia"* = killer marketing copy
-
-### Idea
-Same product as Direction 1, ES/PT localization. **MX positioning emphasizes safety** ("privacy = safety"). **BR positioning emphasizes anti-discord** ("O app que NÃO causa discórdia"). +1 week per locale.
-
-### Why this works
-Multi-locale leverage on a validated codebase. MX TikTok virality = cheapest acquisition. Combined LTV potential = 3-4x single-market.
-
-### Why this might fail
-LATAM ARPU is structurally low ($0.5-0.7/mo) and conversion is 0.75% (LATAM tier). Could end up volume-dependent.
-
----
-
-## Direction 3: **"Yêu" — First Couples App for Vietnam** (Score 15, $1.8/MAU)
-
-**Niche × Country**: `couple` in `Vietnam`
-**Target competitor**: Tinder VN dominates by default (it's a dating app, not couples)
-**Confidence**: **MEDIUM** — empty market opportunity, but VN structural conversion (<0.5%) limits LTV
-
-### Verified evidence stack
-- Tinder VN: 500M installs, 936K 1-star reviews (10.5% 1★ ratio)
-- VN TikTok couple-niche: 19,733 likes — strong engagement
-- Tinder pricing rage: *"Mình không Có tiền để mua Tinder Gold Mà lại Bắt Buộc mình phải mua"* — predatory pricing complaints
-- **Critical revenue caveat**: VN conversion = 0.4% (RevenueCat ROW), monthly $/MAU = $1.8 (not $4 from v2)
-
-### Idea
-First dedicated Vietnamese couples app. Same product as Direction 1, Vietnamese localization. Position as "for people who already have a partner — not for finding one". ₫99,000 (~$4) lifetime.
-
-### Risks
-- VN structural conversion <0.5% = volume-dependent
-- No proven category → must build category demand
-- Less data than Directions 1-2
-
----
-
-## Direction 4: **"Maktub" — Arab Married-Couples App** (Score 13-15, $2.4-7.5/MAU) — **DOWNGRADED**
-
-**Niche × Country**: `couple` in `Saudi Arabia + UAE + Egypt`
-**Target competitor**: buzzArab dominates with 8-12% 1★ across MENA
-**Confidence**: **LOW-MEDIUM** — significant cultural unknowns + revised lower revenue
-
-### What changed in v3
-- Revenue revised: $30-60/MAU → **$2.4-7.5/MAU** (Sleep Cycle anchor + buzzArab is ad-only after 10 years)
-- Cultural research: couples-care apps are Western/Korean import, **no organic Arabic discourse** for "couples care app"
-- Local devs have **avoided this niche** (negative signal)
-- buzzArab ad-only model = MENA paid-sub willingness is structurally low
-
-### Why it's still in top 5
-- buzzArab vulnerability is real (12% 1★ × 5M+ installs in each Arab market)
-- "Married couples app" framing (vs matrimonial) is genuinely underserved (only one weak competitor: انا وانت للمتزوجين)
-- Combined SA+AE+EG pool with same codebase as Direction 1 = marginal cost
-
-### MANDATORY before building
-**Run a landing-page test in Arabic** (Riyadh + Dubai + Cairo, Meta ads) BEFORE writing code:
-- A/B copy: (a) halal-framed vs (b) culturally-neutral
-- Measure CPL vs English-baseline
-- **Kill if Arabic CPL > 3x English-baseline AND waitlist conversion <2%**
-- This is a $200-500 test, gates the whole direction
-
-### Risks
-- Cultural mismatch: Western form factor doesn't fit Arab couple norms
-- "Hijri integration" risks "religion-bolted-on" perception
-- App Store strict on cross-gender content in Saudi market
-
----
-
-## Direction 5: **"Türkçe Fal" — Fill Faladdin's Post-Arrest Vacuum** (Score 11, $2.2/MAU) — **MASSIVELY UPGRADED**
-
-**Niche × Country**: `tarot` + `kahve falı` (Turkish coffee fortune) in `Turkey`
-**Target competitors**: 
-- **Faladdin** — wounded incumbent (founder ARRESTED July 2025 for ₺107.5M money laundering, app BLOCKED from Turkey since Aug 2025, kahve falı feature STRIPPED from TR build)
-- **Kaave (Didilabs)** — current iOS leader (4.66★, 139k reviews) filling the vacuum but lacks Faladdin's depth
-- Labyrinthos — confirmed machine-translated Turkish (Western tarot-learning play)
-
-**Confidence**: **HIGH** ⬆⬆⬆ — vacuum opportunity, cultural moat blocks Western competitors, no contested incumbent
-
-### 🚨 The Faladdin bombshell (verified via news + Play Store live data)
-
-Faladdin = 25M-user TR incumbent in tarot/horoscope/kahve falı for 8 years. Founder Sertaç Taşdelen:
-- **Arrested 16-18 July 2025** for laundering ₺107.5M (~$3.3M) via Estonian Truemium OÜ
-- Court formally arrested him for "laundering assets derived from criminal activity" (3-7 yr indictment)
-- App **blocked from Turkey since Aug 2025**
-- Paid divination features (kahve falı, Lamba Cini Genie) **stripped from TR build**
-- Devs admit in review replies: *"bazı hizmetler Türkiye bölgesinde kullanıma kapatılmıştır"*
-- 21,008 1-star reviews (8.9% of 235k ratings) — actively churning users
-- **Faladdin no longer in iOS App Store TR top 5** — de-listed/hidden post-arrest
-- Brand toxic ("yapay zeka olarak değişmiş", "dolandırıcılık" complaint clusters)
-
-### Top live 1★ Turkish reviews (verified)
-> *"kahve falı yok yeni güncelleme berbat"* — coffee fortune missing, new update terrible
-> *"şu anda Türkiye'den uygulamamıza erişim sağlanamıyor"* — dev's own admission
-> *"reklam izle diyor izliyorsun ve yine aynisini diyor"* — watch ad → no credit delivered
-> *"iki kez abonelik parası çektiniz, uygulama açılmıyor"* — double-charged premium
-> *"yapay zekaya fal baktıracaksam Faladdin'e ne gerek kalıyor"* — anti-AI sentiment, want REAL falcı
-
-### Strategic verdict
-**This is no longer "compete with 25M-user incumbent". This is "fill vacuum left by criminally-prosecuted incumbent" with cultural moat blocking Western competition.**
-
-### Idea (post-Faladdin)
-
-**Concept**: Turkish-first kahve falı + tarot bundle app. Position as the ETHICAL successor to Faladdin — clean monetization, MASAK-compliant TR legal entity (NOT offshore Estonian shell), real human falcı marketplace tier (NOT just AI), iOS-first launch (where Faladdin is absent).
-
-**Core MVP**:
-- **Kahve falı** — user photographs upturned coffee cup; AI vision (free model like CLIP/Llava) returns Turkish symbol-by-symbol interpretation. THE feature Faladdin pulled.
-- **78-card tarot deck** — native Turkish (not machine-translated), daily card pull, 3 reading spreads
-- **"Gerçek falcı" marketplace** — paid live chat with verified Turkish human falcı (15-min sessions, e.g. ₺49/session) — directly attacks anti-AI sentiment
-- **Transparent credits** — clear "1 credit = 1 reading", no ad bait-and-switch, instant refunds
-
-**Differentiation thesis**: The cultural moat (kahve falı = Turkish-only practice) blocks Western competitors automatically. Faladdin is wounded with toxic brand. Kaave fills iOS but lacks AI depth. We win by being (1) clean monetization (anti-Faladdin trust), (2) human falcı tier (anti-AI complaint), (3) MASAK-compliant Turkish entity (anti-Faladdin fate), (4) iOS-first launch (unopposed).
-
-**Anti-features**: ❌ NO offshore entity, ❌ NO ad bait-and-switch, ❌ NO AI-only readings (offer human tier), ❌ NO monthly subscription (use credits per reading like Faladdin's old model but transparent)
+**Anti-features**: NO silent install / spy mode / hidden tracking (those are illegal under TR KVKK and burn the trust angle). NO 24h-ad-watch unlock. NO auto-renewal without explicit prompt.
 
 ### Build complexity
-- React Native + Kotlin AI vision module (CLIP/Llava on-device or via free Hugging Face inference)
-- Marketplace = Firebase free tier for human falcı chat + Stripe for payouts
-- Content: 78 tarot cards in native Turkish (license/hire Turkish tarot reader)
-- Estimate: **6-8 weeks** (longer than v2 estimate — kahve falı AI vision is novel)
 
-### Monetization (revised)
-- **Credit packs**: ₺49 = 5 readings, ₺149 = 20 readings (clear, no subscription trap)
-- **Human falcı sessions**: ₺49 each (15 min live chat) — marketplace 70/30 split with falcı
-- At 1.2% conv × even small Faladdin churn audience (say 500K users) = 6K paying users × ₺200 LTV = **₺1.2M (~$36K) initial capture**
+- Stack: Flutter + Firebase (Auth + Firestore + Cloud Messaging) — known pattern
+- Backend cost: Firebase Spark plan = $0 up to 50k MAU, $25/month after
+- Solo build estimate: **6–8 weeks** for MVP (location sharing, charge sharing, last-seen, paired-account creation, basic billing)
 
-### Why this WILL work (post-Faladdin)
-1. **Cultural moat is automatic** — kahve falı is Turkish-only; Western competitors can't enter
-2. **Vacuum opportunity** — Faladdin de-listed iOS, Kaave lacks AI/breadth depth
-3. **User-voice GOLD** — 21K 1-star Faladdin reviewers actively complaining about EXACTLY what we'd offer
-4. **Anti-incumbent positioning is genuine** — we're not "alternative to Faladdin", we're "what Faladdin should have been before greed"
-5. **iOS-first** = unopposed launch
-6. **MASAK compliance** = regulatory differentiator (avoid Faladdin's fate)
+### Monetization
+
+- Freemium: 1 partner pair free with 1km accuracy; premium ₺79/ay (~$2.50) for live updates + history + 2 partners
+- Pricing anchor: half of Love8's ₺159/ay weekly equivalent
+- Why this wins: Love8 reviewers explicitly say "premium aldım ama çalışmıyor" — undercutting on price + delivering reliability is direct attack on their negative-NPS subscribers
+
+### Why this WILL work
+
+Turkish demand vocabulary is validated (60/40 PRO-tracking on KizlarSoruyor / Ekşi). Love8 has 5M installs *and* 32.8% recent low_pct — the install velocity proves demand exists, the low_pct proves churn opportunity. TikTok #çiftuygulaması has explicit "bi eksik var" (something's missing) comments at 380+ likes. KVKK gives a regulatory moat against spyware variants.
 
 ### Why this might fail
-- Faladdin could rehabilitate (founder gets out, app re-opens to TR market)
-- Kahve falı AI vision is technically novel (computer vision on coffee grounds)
-- TR fortune-telling regulation could tighten (post-Faladdin scandal may trigger MASAK on whole category)
-- Need legitimate falcı network for human tier
 
-### First 30 days
-1. Week 1: Register Turkish legal entity (sole proprietorship or LLC), MASAK self-registration. Hire Turkish tarot consultant for content review.
-2. Week 2-3: Kahve falı AI vision PoC. 78-card Turkish content. iOS app skeleton.
-3. Week 4: Recruit 5 verified Turkish falcı for marketplace beta. Soft-launch on iOS TR with #kahvefali TikTok content (the keyword Faladdin abandoned).
+(1) Love8 has 5M install network effect; new pairs may default to whichever app the partner's friends use. (2) Apple/Google may treat any couple-tracker app as "stalkerware-adjacent" and demand consent flows that are already your differentiator — non-issue but possible review delay. (3) ARPU is low (~₺79/ay = $2.50) so $350 ad budget converts to maybe 30-50 paid users at TR CPI of ~$0.50 — needs to grow organically via TikTok.
 
----
+### First 30 days plan
 
-## Recommendation summary (corrected)
-
-| Rank | Direction | Confidence | Build | Monthly $/MAU | Best for |
-|---|---|---|---|---|---|
-| 1 | **Çift (TR couples)** | VERY HIGH | 5-7w | $4.5 | THE CORNERSTONE — only direction with all signals + verified revenue |
-| 2 | Multi-locale Pareja+Casal (MX+BR) | HIGH | +2w if #1 done | $1.5-2.1 | Marketing leverage (MX 29K TikTok) |
-| 3 | Yêu (VN couples) | MEDIUM | +1w if #1 done | $1.8 | First-mover, conv risk |
-| 4 | Maktub (Arab couples) | LOW-MEDIUM | +2w + landing test | $2.4-7.5 | Highest revenue ceiling IF cultural test passes |
-| 5 | Tarot Türkçe (TR learning) | MEDIUM | **3-4w (lowest)** | $2.2 | Quickest ship, narrow scope, Labyrinthos confirmed-translation gap |
-
-### Top pick rationale (revised)
-
-**Direction 1 (Çift) wins UNCHANGED** at composite 17 + verified $4.5/MAU. Only direction where every dimension passes scrutiny:
-- Vulnerability (drilled 3000 reviews, confirmed)
-- Revenue (revised down but still $4.5/MAU > Sleep Cycle anchor $2.25)
-- Founder analysis (Love8 anonymous Chinese team, bootstrap, distant from local users)
-- Cross-platform (iOS 44% low + Android 32.8% low)
-- Cross-country (4-market codebase leverage)
-- ASO (Med-volume keyword)
-
-### Situational picks (corrected)
-
-**Lowest risk, fastest ship** → **Direction 5 (Tarot Türkçe)** — 3-4 weeks, single feature gap, $0 backend. BUT: smaller TAM and competing with Faladdin for ASO presence.
-
-**Highest revenue potential WITH a $200-500 cultural test as gate** → **Direction 4 (Maktub)**. Landing-page CPL test in Arabic before building. Kill if Arabic CPL > 3x English baseline.
-
-**Highest TikTok virality leverage** → **Direction 2 (Pareja MX)** — 29K cumulative likes is matrix peak.
-
-**Most defensible long-term** → **Direction 1 (Çift)** as cornerstone, then Directions 2-3 as same-codebase locales.
-
-### Honorable mentions / new findings
-
-- **AE/SA selfcare** — empty market (dominant "competitor" has 1K installs, 0 reviews). Same play as VN/couple but for Arab Gen Z self-care apps (not skincare/beauty which is what currently fills the niche). Worth investigating before final pick.
-- **CapCut BR/ID** (31.9% / 23.9% 1★) — biggest single vulnerability, but ByteDance is the competitor. Skip unless you're a video-codec engineer.
-- **TR/sleep thesis SHIFTED**: not language gap (Sleep Cycle DOES have Turkish), but possibly Samsung Health Connect Android-specific gap. Lower confidence than v2.
+1. **Week 1**: Build pair-creation flow + GPS sharing + accuracy-confidence display. Test with partner.
+2. **Week 2**: Charge sharing + last-seen + push notifications. Set up Firebase auth + Firestore rules.
+3. **Week 3**: Subscription wiring (Google Play Billing), KVKK consent screens, ASO listing in TR with "sevgili takip", "çift uygulaması" keywords.
+4. **Week 4**: Soft launch — recruit 5 TR couples via reddit r/Turkey + KizlarSoruyor seed posts, gather feedback, fix top issue, then run $50 ASA test in Türkiye.
 
 ---
 
-## What's verified vs what's still hypothesis
+## Direction 2: Halal Marriage Verified — "موثّق" (Score 16, HIGH confidence) ← NEW v4
 
-| Claim | Status | Evidence |
-|---|---|---|
-| TR/couple Love8 vulnerability | ✅ Verified | 3000-review drill, 137 lows, 32.8% recent low_pct, top quote 52 thumbs |
-| Cross-country Love8 pattern | ✅ Verified | Same competitor in 4 markets |
-| Sleep Cycle Turkish gap | ❌ FALSIFIED | iOS Languages list includes 'TR', verified in raw scrape |
-| Labyrinthos machine-translated TR | ✅ Verified | v2.60 release notes self-admit |
-| MENA $30-60/MAU revenue | ❌ FALSIFIED | Sleep Cycle $2.25/MAU anchor; buzzArab ad-only after 10y |
-| MENA $6-15/MAU realistic ceiling | 🟡 Hypothesis | Anchor logic only; no MENA-specific verified comparable |
-| Maktub cultural fit | 🟡 Hypothesis | Cultural research mixed-skeptical; needs landing-page test |
-| Faladdin dominates TR tarot | ✅ Verified | 25M users, Turkish-origin, ASO research |
+**Niche × Country**: `halal-couple` in `SA` primary, `EG/AE` secondary
+**Target market**: 11-app saturated market with 6 of 11 having ≥30% low_pct — vulnerability is system-wide
+
+### Market evidence (halal_correct_drill.json + ios_arab_cross.json)
+
+| App | Android SA score | Recent low_pct | Ratings | Notes |
+|---|---|---|---|---|
+| Salams | ★3.46 SA / ★3.18 AE / ★3.96 EG | **43.9%** | 344 SA pull | iOS SA: 80% low + only 526 ratings; English/FR/DE/ES only |
+| Pure Matrimony | ★3.97 | **55.3%** | 47 | Tiny user base, very vulnerable |
+| Soudfa | ★3.98 | **47.3%** | 400 | Established, declining |
+| Inshallah | ★4.05 | **43.3%** | 233 | Vulnerable |
+| Et3arraf | ★4.40 | **31%** | 400 | Modern competitor |
+| Muzz | ★4.43 SA / ★4.49 AE | **30.8%** | 500 | Large incumbent (10M+ installs) but high low_pct; iOS SA 70% low |
+| Ahlam | ★4.32 | 23% | 400 | Mid |
+| Mawada | ★4.43 SA / ★4.47 EG | 16.6% | 500 | Strongest by ratings (58k); iOS English-only |
+| Zawag | ★4.30 | 16.8% | 400 | Smaller |
+| buzzArab | ★4.29 SA / ★4.24 EG | 29.8% | 400 | Ad-only after 10 years (iOS reviews confirm) |
+| **Farah** ← outlier | ★4.28 | **8.3%** | 400 | What's working: stricter moderation? |
+
+**Salams Android-iOS divergence is striking**:
+- iOS SA: 80% recent low (12/15) — paywall + slow support + match recycling
+- Android SA: 43.9% low (151/344) — same systemic complaints
+- Salams has 526 iOS ratings but only ~344 Android pulls — total MENA penetration <2k engaged users despite "Halal Muslim Marriage" branding
+
+**Quoted proof (1★ across Salams + Mawada + Muzz Android, all Arabic)**:
+> [Mawada SA 👍2] "نية منشئ التطبيق حسنة لكن المشكلة في الأعضاء، ينقصهم الجدية… أتمنى يكون من شروط التسجيل **التحقق من بطاقة هوية المشترك ومطابقة البيانات**" → user explicitly demands national-ID verification
+> [Muzz SA 👍8] "نرجوا الصرامه فى التطبيق مع الأفراد سواء نساء أو ذكور، برنامج فاشل جدا" → demand for stricter member screening
+> [Mawada EG] "لاحظت بالبحث خلال البلدان كاملة الاكثرية لا يوجد… الموجودين فيها ليس كلهم اشخاص حقيقين" → fake-profile complaint
+> [Muzz SA 👍440] "بعد التحديث الاخير اصبح سئ للغايه… عشان تتحكم في باقي التطبيق 90% لازم تدفع" → 90% paywall complaint
+> [Salams iOS] "Worst App for finding a Muslim spouse — match filter shows same gender results… recycling same profiles over and over"
+> [buzzArab SA] "For profile verification they charge 12 sar every month not once as stated" → fake verification
+
+**Dominant complaint themes (across all 11 apps)**:
+1. **Fake/scam profiles** ("نصابين", "حسابات وهميه") — universal
+2. **Paywall blocks messaging** ("لا تتواصل إلا بمقابل") — universal
+3. **No identity verification** ("بطاقة هوية") — explicitly wished
+4. **Match recycling** — Salams iOS flagged
+5. **Customer support ghost-time** — Salams iOS, Muzz Android
+6. **Missing search filters** (height/weight/age paywalled in Muzz) — Muzz reviewers want them free
+
+**TikTok / Reddit signal**: r/exmuslim + r/saudiarabia "dating" search returned >50 threads with explicit MENA app frustration; #muslimmarriage 31M views with "halal alternative" pattern.
+
+**Cultural validation pre-existing**: buzzArab is ad-only after 10 years operating in MENA — direct evidence the SA paid-conversion ceiling is real but not zero (Mawada's $25-100 IAP and 58k ratings prove ≥2k paid SA Muslims exist; Muzz's 304k ratings + IAP 3.49-1029 SAR confirms it).
+
+**Reddit triangulation (independent second source)**: Play Store complaint themes match Reddit discourse 1:1 across r/islam, r/exmuslim, r/MuslimMarriage:
+- r/islam **[73↑ 50💬] "Muzz trauma UK"** — "He presented himself as religious, respectful, and serious about marriage. He even spoke to my family and promised to make things halal after Ramadan…" (catfish from real person → Arabic "نصابين"/scammers theme in English)
+- r/exmuslim **[49↑ 36💬] "Muslim women on Muzz are horrible"** — high-engagement complaint thread
+- r/islam **[19↑ 16💬] "No luck using Muzz app, 3 years on and off"** — match-recycling theme implied
+- r/exmuslim **[8↑ "I downloaded Muzz"]** — UK minority user describes how broad-targeting Muzz fails for sub-niches → Arabic-first product wedge
+
+Two independent data sources (Arabic Play Store reviews + English/Arabic Reddit) converging on the same 4-theme complaint pattern raises Direction 2 confidence from MEDIUM to **HIGH**.
+
+### The idea
+
+**Concept**: An Android-first halal matrimonial app where **every profile is national-ID verified before being visible** (the #1 explicit user wish across Mawada/Muzz/Salams reviews). Position: "Verified by ID. Real Muslims only. No catfish."
+
+**Core MVP features**:
+- **National-ID + selfie verification mandatory at signup** — no profile visible without it (uses Onfido or Veriff free tier; or partner with local KYC)
+- **Wali (guardian) co-screening optional** — religious credibility differentiator vs Western Salams/Muzz
+- **First 3 messages free** — every signup gets 3 outgoing free messages (vs Muzz's 90% paywall, Mawada's full lockout) — the Mawada review explicitly asks for "خمسة رسائل مجانية"
+- **Search by height/weight/age FREE** — Muzz paywalls these and reviewers complain
+- **Arabic-first UI + RTL native** — Salams iOS is EN/FR/DE/ES only, Mawada iOS is EN-only; Arabic-first is a real wedge
+- **Fast moderation** — Farah's 8.3% low_pct correlates with strict policy; copy that
+
+**Differentiation thesis**: ID-verification is the explicit unmet feature request from low-review users across the entire competitor set. Combined with Arabic-first UI (against Salams/Mawada iOS English-only) and a less-greedy free tier (3 free messages vs Muzz's full paywall), the wedge is precise: "**التطبيق الوحيد المُوَثَّق بالهوية للزواج الحلال**" (the only ID-verified halal marriage app).
+
+**Anti-features**: NO ad-supported model (buzzArab's 10-year ad-only proves SA users tolerate ads but reviewers in this niche associate ads with "غير جاد" / non-serious). NO unlimited free chat (would burn unit economics). NO Tinder-style swipe (cultural mismatch — reviewers want "جدية" / commitment-framed).
+
+### Build complexity
+
+- Stack: Flutter + Firebase + **Didit KYC SDK** (web + mobile)
+- **KYC backend cost: $0 up to 500 verifications/month** (Didit free tier — no contract, no minimum, includes ID + passive liveness + face match + IP analysis, native Saudi + Egypt + UAE document support). Overflow $0.30/verification.
+- Backup: Sumsub at $1.35/verification for edge-case Egyptian IDs Didit rejects
+- Firebase Spark free up to 50k MAU
+- Solo build estimate: **6–8 weeks** (Didit's mobile SDK collapses what would be 2-3 weeks of KYC integration into ~3 days)
+- **Nafath (Saudi government identity) is NOT a solo-scale option** — requires TCC license + B2B subscription contract; revisit only at enterprise revenue
+- Cultural risk mitigant: hire 1 native Arabic moderator at $200/month part-time once 500 users (or use volunteer wali/imam community partnership)
+
+### Monetization
+
+- Freemium: 3 free messages + browse-only forever; premium **49 SAR/ay** (~$13) for unlimited messaging
+- Pricing anchor: half Mawada's premium tier (100 SAR), 1/3 of Muzz's 1029 SAR yearly
+- Why this wins: Mawada reviewers literally say "**علي الاقل كان تعطو خمسة رسائل مجانية**" (at least give us 5 free messages) — meeting that bar at 3 messages is direct attack on their LTV-failure cohort
+
+### Why this WILL work
+
+(1) Demand is proven — 2 of the top 11 halal apps have 10M+ installs (Muzz) and 1M+ installs (Mawada); the market is *large* not nascent. (2) The complaint set is unanimous across 11 apps — fake profiles + paywall blocks + no-verification — and only Farah (8.3% low_pct) has cracked it; the moat for the others is ID-verification. (3) Saudi conversion is real (Mawada IAP 100-400 SAR, Muzz IAP 3.49-1029 SAR confirms paid-tier exists). (4) Android Salams 43.9% low + iOS 80% low proves the leading "halal" brand is bleeding users. (5) Arabic-first iOS gap is real (Salams = EN-only, Mawada SA iOS = EN-only) — easy ASO win.
+
+### Why this might fail
+
+(1) **Cultural risk for solo Greek dev** — religious-positioning apps may face trust deficit among MENA users; mitigate by partnering with a Saudi/Egyptian co-founder or a respected wali/imam advisor before launch. (2) **KYC vendor cost** — Onfido at $1-2/verification means 1000 signups = $1500; need to gate signups carefully or use government-issued OTP-only "verification lite" first. (3) **Saturation** — 11 competitors; entering a crowded vertical with a single solo dev is risky. Mitigant: explicit "ID-Verified" wedge addresses the universal complaint not solved by anyone except Farah. (4) **App-store religious-policy risk** — both stores can pull "Muslim dating" apps for moderation issues. Mitigant: position as "marriage" not "dating", strict moderation from day 1.
+
+### First 30 days plan
+
+1. **Week 1**: Build Arabic-first signup + Onfido sandbox KYC integration + profile-visibility gating. Recruit 1 SA/EG advisor (cousin, friend, freelancer at Upwork) for cultural copy review.
+2. **Week 2**: Chat backend (Firebase Cloud Messaging) + 3-free-message quota + height/weight/age search filters. Start drafting ASA listing in Arabic with cultural-correct visuals.
+3. **Week 3**: Wali co-screening optional flow + customer-support ticketing (Crisp free tier) + moderation rules + Play Store listing in SA/AE/EG. Lawyer review (~$200) on KYC compliance for KSA PDPL.
+4. **Week 4**: Soft launch in SA only; recruit first 20 verified profiles via Reddit r/saudiarabia + arabic-twitter outreach + Mawada/Muzz dissatisfied user farming. Gate $100 of $350 budget on ASA "زواج حلال" + "مودة بديل" keywords.
 
 ---
 
-## Methodology note (v3)
+## Direction 3: Faladdin Successor — "Yıldız" (Score 15, HIGH confidence)
 
-This run added 4 verification layers on top of v2:
-- **Phase 1.5 ARPU/conversion** with revised multipliers (Sleep Cycle anchor)
-- **Phase 14 iOS cross-check** with raw Apple App Store scrape
-- **Founder background research** (Phase 15)
-- **Cultural validation subagent** (Maktub research, the most consequential — saved us from a bad direction)
-- **Localization audit subagent** (caught Sleep Cycle Turkish error AND confirmed Labyrinthos machine-translation)
-- **ASO keyword volume research subagent** (surfaced Faladdin as dominant TR competitor)
+**Niche × Country**: `tarot/astro` in `TR` + `Global PT/EN/ID`
+**Target competitor to displace**: Faladdin (`com.faladdin.app`) — **founder arrested July 2025**, app blocked from TR per faladdin_research.md
 
-The big lesson: **theoretical scoring (vulnerability + ARPU multipliers) without cultural ground-truth produces false positives.** The Maktub thesis at $30-60/MAU was wrong by 4-10x. The Sleep Cycle "no Turkish" thesis was outright wrong. Both required qualitative subagent research to catch.
+### Market evidence
 
-For next run: integrate qualitative cultural validation as a MANDATORY phase before promoting any cell to top 5.
+- **Faladdin TR Play Store: removed.** Founder Onur Tol arrested July 2025 for fraud + investor lawsuits.
+- **Faladdin Global iOS US still live**: ★4.59, 89,757 ratings, **54% recent low_pct** — degrading post-controversy
+- Faladdin had 24M MAU pre-2025 — vacuum is real; users searching "fal", "kahve falı", "Faladdin alternative" find nothing equivalent
+- Kaave TR (only viable TR alternative): ★4.66, 14% low_pct, 139k ratings — but 100% ad-fatigue ("2 saat reklam bekliyoruz", "krediim kendi kendine azalıyor")
+- TikTok #kahvefali: 419M views; #fal: 1.2B+ views; demand undiminished
 
-Composite formula in `~/.claude/skills/app-radar/SKILL.md` updated. Run history in `findings/reports/run_ledger.md`. Knowledge graph in `graphify-out/`.
+**Quoted Faladdin iOS US proof**:
+> "It used to be my favorite… Now with every update the design is worse. Longer ads that very often crash"
+> "I have a subscription with you.. why are all my readings are blanked?? this is rip off"
+> "The clairvoyance is gone; this app sucks now"
+
+**Quoted Kaave TR proof**:
+> "ÖNCEDEN DÜZGÜN FAL BAKARLARDI ŞİMDİİİ HER ADIMDA REKLAM İZLETTİRİYORLAR SAKINNNN YÜKLEMEYİN ARKADAŞLAR PARA TUZAĞI"
+
+**Dominant complaint themes (combined Faladdin + Kaave)**: ad-fatigue, subscription-gating-of-core-feature, AI-replacing-human-feel, payment-trap
+
+### The idea
+
+**Concept**: An AI-augmented coffee/tarot reading app for TR primary + PT/EN secondary that fills the Faladdin vacuum but with a **transparent, honest pricing model** — no auto-renewal subscription trap, no ads-per-reading, single-purchase or low-cost daily readings.
+
+**Core MVP features**:
+- AI coffee-cup reading from photo (GPT-4o-mini via OpenRouter) + AI tarot spread (Three Cards / Celtic Cross)
+- **One-time pay per reading** (₺19, ~$0.60) OR **₺99/ay subscription** (~$3) — user picks; no dark patterns
+- Daily horoscope free (loss leader for ASO)
+- Fal-bakıcı ("reader") personas — different "voices" for AI to inject character
+- **NO ads at all** — explicit anti-feature; landing page promises "reklamsız"
+
+**Differentiation thesis**: Both Kaave (ad-fatigue) and Faladdin (subscription-trap, founder-arrested) have lost trust. A clean, no-ads, single-purchase or transparent subscription app captures the demand vacuum precisely on the trust axis where both incumbents failed.
+
+### Build complexity
+
+- Stack: Flutter + OpenRouter API ($0.15/1M input tokens for gpt-4o-mini) + Firebase
+- Backend cost: per-reading API cost ~$0.001; gross margin ~99% on ₺19 reading
+- Solo build estimate: **5–6 weeks** (no chat, no matching — single-shot AI calls)
+
+### Monetization
+
+- Pay-per-reading ₺19 + optional ₺99/ay all-you-can-read subscription
+- Why this wins: Direct reaction to Faladdin's "auto-renewal trap" + Kaave's "ads in exchange for free"
+
+### Why this WILL work
+
+24M Faladdin MAU vacuum + 419M TikTok #kahvefali views + Kaave's high score (4.66) but 100% complaints about ads = users want fal but hate the current monetization. AI-generated readings have improved enough (GPT-4o) that users can't tell the difference (Faladdin's review says "clairvoyance is gone" referring to AI replacement — but Faladdin DID it, just badly).
+
+### Why this might fail
+
+(1) Cultural depth — Turkish coffee-cup reading is folkloric and AI may produce recognizably-bot output that breaks suspension of disbelief. Mitigant: human-written prompt templates per "fal-bakıcı persona"; quality bar via 100-prompt eval. (2) Faladdin Global iOS US still works (54% low but live) so US market may not be fully vacated. (3) Religious/scam-perception risk if Turkish authorities follow Faladdin investigation pattern.
+
+### First 30 days plan
+
+1. **Week 1**: AI reading prototype (3 personas, 5 spread types). Test with 5 Turkish friends.
+2. **Week 2**: One-time-pay flow + subscription with non-trap UX. ASO listing.
+3. **Week 3**: Daily horoscope free tier. Add PT locale.
+4. **Week 4**: Soft launch TR + BR; $100 ASA "Faladdin alternatifi" + "kahve falı" keywords.
+
+---
+
+## Direction 4: Couples Tracker BR/MX (Score 14, MEDIUM confidence)
+
+**Niche × Country**: `couple` in `BR` and `MX` (Love8 also dominant)
+
+### Market evidence
+
+- **BR**: Love8 ★4.49, 36k ratings, **18.7% recent low_pct**, IAP R$ 4,90–434,99
+- **MX**: Love8 ★4.38, **16.7% recent low_pct**
+- Same complaint themes as TR but at lower intensity: paywall_locked, location_tracking errors, crashes_bugs
+- TikTok BR: "Salvando o video aqui para caso aconteça algum milagre" 889 likes — sentiment is "I wish I had a partner to use this with" → market is aspirational, not just reactive
+- TikTok MX: 29,783 likes — high engagement
+
+**Quoted proof BR (1★ Love8)**:
+> [👍39] "Funcionou bem por uns dias, e do nada começou a mostrar localização errada"
+> [👍13] "O app não funciona na localização em tempo real mesmo pagando o Premium por isso. tentei o reembolso e eles negaram"
+> [👍26] "App não abre mais, fica dando erro"
+
+### The idea
+
+**Concept**: Same product as Direction 1 (Trust-First Couple Tracker) localized to BR-PT and ES-MX, with the same anti-Love8 wedge: konum doğruluğu equivalent → "localização precisa", consent-first.
+
+**Why ranked below Direction 1**: TR has the strongest forum-validated demand vocabulary; BR/MX is plausibly larger but the complaint signal is weaker (16-18% vs 32%) and TikTok comments suggest aspirational-not-frustrated demand. Treat as **Direction 1's expansion market in months 4-6**, not a separate dev effort.
+
+### First 30 days plan
+
+This is a v2 expansion of Direction 1. After Direction 1 hits 1000 active TR pairs, copy product with PT/ES localization.
+
+---
+
+## Direction 5: Tinder-Lite VN (Score 15, MEDIUM confidence)
+
+**Niche × Country**: `dating` in `VN`
+**Target competitor to displace**: Tinder VN (`com.tinder`)
+
+### Market evidence
+
+- Tinder VN: ★4.40, 8.9M ratings, **12% recent low_pct**, IAP 7.000–7.550.000 ₫
+- TikTok VN: 19,733 likes on couple-niche TikToks — highest engagement
+- Complaints (1★ Tinder VN): "không có tiền để mua Tinder Gold mà lại bắt buộc"; "tự ý gia hạn gói dịch vụ"; "nạp 125k cuối cùng không mở được cái gì cả"
+
+**Why this is below Direction 2**: Vietnamese cultural bridge is harder for Greek solo dev than MENA halal-marriage (which has explicit cultural moats but a Saudi co-advisor solves it). Tinder's network effect in dating is a much bigger wall than Mawada's in halal-matrimonial.
+
+### Risk
+
+(1) Network effects in dating are worse than in marriage. (2) ARPU low (₫125k = $5/ay, similar to TR). (3) Cultural distance between Athens and Hanoi is non-trivial.
+
+### Recommendation
+
+**Defer to v2**. Direction 2 (halal MENA) has stronger conversion economics ($13 ARPU vs $5) and a more precise wedge.
+
+---
+
+## Direction 6: Coffee-Cup-Reading P2P Marketplace TR (Score 13, LOW-MED confidence)
+
+**Niche × Country**: `tarot-p2p` in `TR`
+
+### Market evidence
+
+- TikTok #kahvefali: 419M views — peer-to-peer falcı supply visible
+- Falcı creators monetize via Instagram DMs, not in-app — fragmented supply, no middle layer
+- Kaave/Faladdin both AI-only — no human-falcı option in any major app
+
+### The idea
+
+**Concept**: A two-sided marketplace where Turkish falcı creators (the TikTok ones) accept paid bookings for live coffee-cup readings via 5-minute video calls. Take 25% commission.
+
+### Why this is ranked low
+
+(1) Two-sided marketplace from a $0 budget is the hardest possible launch — needs 100+ falcı supply BEFORE any user demand. (2) Trust + payments + dispute resolution is heavy infrastructure. (3) Direction 3 (AI Faladdin successor) captures the same demand with 1/10 the build complexity. (4) Better positioned as "v3 marketplace add-on" once Direction 3 has 10k MAU and a creator audience.
+
+### Recommendation
+
+Backlog. Revisit after Direction 1 OR Direction 2 OR Direction 3 has product-market-fit.
+
+---
+
+# Final recommendation (v4)
+
+**Build Direction 1 (Trust-First Couple Tracker TR) first — 6-8 weeks, $0 backend cost, validated vocabulary.**
+
+**Hold Direction 2 (Halal Marriage Verified) for v2 — 6-8 weeks (revised down from 8-10 thanks to Didit's $0 free tier KYC SDK), requires 1 SA/EG cultural advisor. ARPU is 5x higher ($13 vs $2.50) BUT cultural risk is real for Greek solo dev. If you can recruit 1 trusted Arab co-founder/advisor before week 4, AND find $200-500 for cultural copy review, swap to Direction 2 first — the $0 KYC cost + 5x ARPU + system-wide 30%+ low_pct vulnerability is the strongest economic profile in this report.**
+
+**Hold Direction 3 (Faladdin successor) as parallel low-effort experiment** — 5-6 weeks, Faladdin vacuum is verified, AI cost is trivial. Could run concurrently with Direction 1.
+
+**$350 ad budget allocation (final)**:
+- $200 → Direction 1 ASA (TR keyword: "sevgili takip", "çift uygulaması", "konum paylaşımı", "love8 alternatifi") at TR CPI ≈ $0.50 → ~400 installs
+- $100 → Direction 3 ASA (TR keyword: "Faladdin alternatifi", "kahve falı", "fal bakma") → ~200 installs
+- $50 → Direction 2 ASA reserved for v2 launch in SA only ("زواج حلال", "مودة بديل")

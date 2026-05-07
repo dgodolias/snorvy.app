@@ -1,0 +1,897 @@
+{
+  "TR_kaave": {
+    "appId": "com.didilabs.kaavefali",
+    "country": "tr",
+    "niche": "tarot",
+    "title": "Kaave - Falcı Bacı",
+    "score": 4.578581,
+    "ratings": 1272744,
+    "installs": "10.000.000+",
+    "histogram": {
+      "1": 72064,
+      "2": 19577,
+      "3": 43845,
+      "4": 101666,
+      "5": 1035585
+    },
+    "offersIAP": true,
+    "IAPRange": "Öğe başına ₺9,99-₺3.080,00",
+    "adSupported": true,
+    "developer": "Didilabs BV",
+    "total_reviews_pulled": 500,
+    "low_reviews_count": 83,
+    "low_reviews_pct": 16.6,
+    "low_reviews": [
+      {
+        "date": "2026-05-04",
+        "score": 1,
+        "thumbs": 0,
+        "text": "Merhabalar ben yanlışlıkla uygulamadan abonelik aldım ve iptal ettirmiştim ona rağmen hesabımdan benim bilgim ve iznim dışında para çekilmiş yardımcı olursanız sevinirim"
+      },
+      {
+        "date": "2026-05-03",
+        "score": 1,
+        "thumbs": 0,
+        "text": "Yokkkk cik"
+      },
+      {
+        "date": "2026-05-03",
+        "score": 1,
+        "thumbs": 0,
+        "text": "istediği şekilde fotoğrafları atmama ragmen sürekli, resimler uygun degil deyip yorumlamiyor bile boş iş, kac kere denedim hep aynı, ilk kez kullanıyorum, reklam izlettiriyor her seferinde de, madem uygun değil baştan söyle ve kredimi yeme"
+      },
+      {
+        "date": "2026-05-02",
+        "score": 1,
+        "thumbs": 0,
+        "text": "eskisi kadar gerçekçi yorum yapmıyor sun"
+      },
+      {
+        "date": "2026-05-02",
+        "score": 1,
+        "thumbs": 0,
+        "text": "falıma bakmakta zorlanıyorum en başa atıyor hediyen seni bekliyor video izle diyor video ya giriyorum asla ama asla video açılmıyor"
+      },
+      {
+        "date": "2026-05-02",
+        "score": 1,
+        "thumbs": 0,
+        "text": "hiç önermiyorum bı süre sonra salaklasiyor uygulama"
+      },
+      {
+        "date": "2026-05-01",
+        "score": 1,
+        "thumbs": 0,
+        "text": "hıc güzel falcı değil hep atıyo aynın yorum sıkııldı aynın şeylerde"
+      },
+      {
+        "date": "2026-05-01",
+        "score": 1,
+        "thumbs": 0,
+        "text": "kahve falı batırıyorum yorumlanmıyor neden"
+      },
+      {
+        "date": "2026-04-30",
+        "score": 1,
+        "thumbs": 0,
+        "text": "berbat"
+      },
+      {
+        "date": "2026-04-30",
+        "score": 1,
+        "thumbs": 0,
+        "text": "video izle ile bir hak veriliyor.önceden izledikçe verirdi."
+      },
+      {
+        "date": "2026-04-30",
+        "score": 1,
+        "thumbs": 0,
+        "text": "resim açmak için habire video izletiyor ama resmi açıp yorum yapmıyor çok gıcık bir uygulama"
+      },
+      {
+        "date": "2026-04-29",
+        "score": 1,
+        "thumbs": 0,
+        "text": "yalan yanlış uygulama kahve falı bile bakmıyor daha bakmadan kahve falı hakkını kaybettin diyor zaten 10 milyon indirme de bot"
+      },
+      {
+        "date": "2026-04-29",
+        "score": 1,
+        "thumbs": 0,
+        "text": "ilişki durumuna karmaşık seçeneği eklemelisiniz hiçbiri bana uymuyor"
+      },
+      {
+        "date": "2026-04-28",
+        "score": 1,
+        "thumbs": 0,
+        "text": "rezil etmişler uygulamayı hayatınız reklam izlemekle geçiyor dolandırıcılar size tavsiyem gemini uygulamasına yükleyin zaten bu da yapay zeka hiç fark etmiyor boşuna rezillik çekmeyin"
+      },
+      {
+        "date": "2026-04-26",
+        "score": 1,
+        "thumbs": 0,
+        "text": "çok fazla reklam çıkıyor çıkan reklamlardan yorumu okuma şansın olmuyor."
+      },
+      {
+        "date": "2026-04-26",
+        "score": 1,
+        "thumbs": 1,
+        "text": "Devamlı reklam çıkıyor. Uzun süredir kullanmıyorum ve hesabımı kapatmaya calısıyorum. Yaklaşık bir haftadır hesabımı sil kısmında kod gönderiliyor tıklıyorum kaç kez denedim hiç bir şekilde hesabı silmek için kod gelmiyor. Kullanmadığım bir uygulamayı telefonum da tutmak istemiyo"
+      },
+      {
+        "date": "2026-04-25",
+        "score": 1,
+        "thumbs": 0,
+        "text": "saçma sapan yorumlar"
+      },
+      {
+        "date": "2026-04-23",
+        "score": 1,
+        "thumbs": 0,
+        "text": "sürekli bir sevgili buluyor bana ..yaşımı başımı almışım..rahatsız oluyorum bu durumda"
+      },
+      {
+        "date": "2026-04-22",
+        "score": 2,
+        "thumbs": 1,
+        "text": "Boş yere indirmeyin, uygulama hata verip duruyor. vaktinize yazık"
+      },
+      {
+        "date": "2026-04-21",
+        "score": 2,
+        "thumbs": 0,
+        "text": "Kahvemi İçtim 3 adet De Resim Attım Ama Hala Yorum Alamadım.Önceden En fazla 2_3 Dk İçinde Yorum Gelirdi Şimdi Saatlerce bekledim Yorum Yok ha Birde Çok Uzun Reklamlar Çıkıyor Buda Kötü Yani Eski Falcı Bacı Gibü Değil Sanırum Abanolik İstiyorlar.Ücretsiz Bakmıyor.Anladım."
+      },
+      {
+        "date": "2026-04-18",
+        "score": 2,
+        "thumbs": 0,
+        "text": "içinde bulunduğumuz durumdan yaşamdan bağımsız farklı farklı oluyor"
+      },
+      {
+        "date": "2026-04-14",
+        "score": 2,
+        "thumbs": 0,
+        "text": "çok fazla reklam var"
+      },
+      {
+        "date": "2026-04-12",
+        "score": 2,
+        "thumbs": 0,
+        "text": "hep ayni yorum"
+      },
+      {
+        "date": "2026-04-12",
+        "score": 1,
+        "thumbs": 0,
+        "text": "ucretsiz değil sevmedim çok kotu"
+      },
+      {
+        "date": "2026-04-11",
+        "score": 2,
+        "thumbs": 0,
+        "text": "kahve fincanımı çekip gönderiyorum yorumlanamıyor gerekçesiyle bakmıyorlar şaşkınım"
+      },
+      {
+        "date": "2026-04-07",
+        "score": 2,
+        "thumbs": 0,
+        "text": "gereğinden fazla reklam var sürekli reklam veriyor"
+      },
+      {
+        "date": "2026-04-05",
+        "score": 1,
+        "thumbs": 0,
+        "text": "yorumları beyenmiyorum"
+      },
+      {
+        "date": "2026-04-05",
+        "score": 2,
+        "thumbs": 1,
+        "text": "uygulamanız güzel yalnız son zamanlarda reklam yükselmesi uzun sürüyo yüklenene kadar ekran sürem dolup kapanıyo bazen de bir türlü yüklenemiyoda falımı okuyayım..kaldırsam mı diye de bir düşündüm..güncelleme yap demeyin zaten güncelledim."
+      },
+      {
+        "date": "2026-04-02",
+        "score": 1,
+        "thumbs": 0,
+        "text": "çok reklam"
+      },
+      {
+        "date": "2026-04-02",
+        "score": 1,
+        "thumbs": 0,
+        "text": "çok kötü falı çok kısa yorumluyor sürekli reklam çıkartıyor hiç beyenmedim"
+      }
+    ]
+  },
+  "SA_buzzarab": {
+    "appId": "com.buzzarab.buzzarab",
+    "country": "sa",
+    "niche": "couple",
+    "title": "buzzArab - زواج وتعارف ودردشة",
+    "score": 4.290809,
+    "ratings": 111844,
+    "installs": "+5,000,000",
+    "histogram": {
+      "1": 13341,
+      "2": 2452,
+      "3": 5673,
+      "4": 7210,
+      "5": 83151
+    },
+    "offersIAP": false,
+    "adSupported": true,
+    "developer": "BUZZMEDIA INC.",
+    "total_reviews_pulled": 500,
+    "low_reviews_count": 146,
+    "low_reviews_pct": 29.2,
+    "low_reviews": [
+      {
+        "date": "2026-05-06",
+        "score": 1,
+        "thumbs": 0,
+        "text": "شباب بلغو عن التطبيق التطبيق وهمي تفي عليهم"
+      },
+      {
+        "date": "2026-05-02",
+        "score": 1,
+        "thumbs": 0,
+        "text": "نزل التطبيق وبعد ما. ينزل التطبيق كل فيشار وأستنانه بعد اسبوع لينتحقق من اعصابك خاااااااا تفوووووه"
+      },
+      {
+        "date": "2026-04-28",
+        "score": 1,
+        "thumbs": 0,
+        "text": "يغلق ويوقف الدردشه ف أمور ضروريه احنا ليست ضغار"
+      },
+      {
+        "date": "2026-04-27",
+        "score": 1,
+        "thumbs": 0,
+        "text": "بقالي 3سنين مادخلتش البرنامج كل ما حاول ادخل يقولي انت متزوج الدنيا بتتغير ليه البرنامج ده كده ايه التعالي ده"
+      },
+      {
+        "date": "2026-04-17",
+        "score": 1,
+        "thumbs": 0,
+        "text": "فاشل كلو لعب"
+      },
+      {
+        "date": "2026-04-17",
+        "score": 1,
+        "thumbs": 0,
+        "text": "لا أحد يرد"
+      },
+      {
+        "date": "2026-04-17",
+        "score": 1,
+        "thumbs": 3,
+        "text": "لا أعلم ما به عندما اريد ان اتطلع على الرسائل يتوقف لا يعمل بشكل جيد اتمنى التعديل"
+      },
+      {
+        "date": "2026-04-15",
+        "score": 1,
+        "thumbs": 0,
+        "text": "سيء"
+      },
+      {
+        "date": "2026-04-10",
+        "score": 1,
+        "thumbs": 0,
+        "text": "غير جيد و كذابين"
+      },
+      {
+        "date": "2026-04-09",
+        "score": 1,
+        "thumbs": 0,
+        "text": "تطبيق زفت في اعلانات كثير وفي ناس أصنام مايحكو معاك"
+      },
+      {
+        "date": "2026-04-09",
+        "score": 1,
+        "thumbs": 0,
+        "text": "برنامج رائع شكرا لكم لكن فيه رجال كذابين واستغلاليين لا يريدون الزواج بل يريدون الكذب"
+      },
+      {
+        "date": "2026-04-08",
+        "score": 1,
+        "thumbs": 0,
+        "text": "نصيحة لااحد ينزله كذب كذب وتافه أكثر مما تتخيل لون"
+      },
+      {
+        "date": "2026-04-08",
+        "score": 2,
+        "thumbs": 0,
+        "text": "برنامج حظرني وعاوزه اسجل دخولي في من الاول"
+      },
+      {
+        "date": "2026-04-04",
+        "score": 1,
+        "thumbs": 0,
+        "text": "برنامج زباله لا انصح بالتنزيل برنامج زباله كل شويه يقولوا لك تعليق دائم ومن غير ما تسوي اي شيء بصراحه ما يستاهلش ولا نجمه وخساره فيه تنزيل تطبيق فاشل حاولت انزله كذا مره بس كل مره يكون فاشل برده اكتر من اللي قبلها خساره فيه ولا نجمه انا عن نفسي ما كنتش عاوز اعطيه اي نجمه بس هم خل"
+      },
+      {
+        "date": "2026-04-03",
+        "score": 1,
+        "thumbs": 11,
+        "text": "للاسف تطبيق سيء وتم تقييمه بنجمه واحده لهذه الاسباب : 1/ اداره التطبيق متسلطه وتمارس الاستعلاء عند ادنى غلط بسيط يتم حذف للحساب ودون اشعار مسبق ، وهي بهذا تخسر 2/ ةرسائل كثير منها لا يصل للطرف الاخر حيث تبقى علامه ✅✅ المكرره بلون اسود وليس بلون ازرق رغم انه متصل الان او فيه تراسل"
+      },
+      {
+        "date": "2026-03-31",
+        "score": 1,
+        "thumbs": 0,
+        "text": "ليش مايقبل تسجيل الدخول اتمنى الرد"
+      },
+      {
+        "date": "2026-03-30",
+        "score": 1,
+        "thumbs": 3,
+        "text": "طبيق جدا جدا جدا معفن وسي وسخيف على اتفه الاسبب يقفلو الحساب"
+      },
+      {
+        "date": "2026-03-27",
+        "score": 2,
+        "thumbs": 0,
+        "text": "اسوأ شئ في البرنامج ده الإعلانات حاجه مزعجه"
+      },
+      {
+        "date": "2026-03-25",
+        "score": 1,
+        "thumbs": 0,
+        "text": "نصاب كبير"
+      },
+      {
+        "date": "2026-03-21",
+        "score": 2,
+        "thumbs": 4,
+        "text": "انه تطبيق جيد وانا احترم الكل ولكن لمدا تم غلق حسابي في بوز اغاب هدا غير معقول زلو انا عملت مراجعة للاسف المرجو منكم أن تسترجع لي حسابي وشكرا"
+      },
+      {
+        "date": "2026-03-10",
+        "score": 1,
+        "thumbs": 12,
+        "text": "برنامج فاشل لا يستحق اي نجمه لقد أعطيته نجمه فقط لأنه يحمي الخصوصيه التقييم السلبي حدف الحساب من دون أي أندار أو تحدير علما اني ملتزم بالقوانين الاعلانات كثيره وطويله التأخر بالموافقه على اضهار الصورة على الملف الشخصي"
+      },
+      {
+        "date": "2026-03-03",
+        "score": 1,
+        "thumbs": 5,
+        "text": "لا احد يستجيب على الرسائل ونفس الاعضاء برنامج سيء جدا انصح بعدم تحميله"
+      },
+      {
+        "date": "2026-02-28",
+        "score": 1,
+        "thumbs": 3,
+        "text": "تم حذف حسابي بشكل دائم ونهائي للابد بسبب ذكري كلمة معينة لشخص اهاني بنفس الكلمة وعندما قدمت التماس اعتذار رفضو الالتماس ورفضو ايضا انشاء لي اي حساب اخر وارسال اي التماس اخر كان هناك رد الي على الاتماسات تطبيق لا يحترم المستخدمين الرجال ويقبل باهانة الاعضاء على حساب مصلحة التطبيق "
+      },
+      {
+        "date": "2026-02-25",
+        "score": 1,
+        "thumbs": 0,
+        "text": "لماذا لا يتم قبول المتزوجين ربما كانوا متزوجين والحين غير"
+      },
+      {
+        "date": "2026-02-25",
+        "score": 1,
+        "thumbs": 0,
+        "text": "ايش فيه ادخل اسجل كل بيانةتي ويصورني ومدري ايش وبالاخير مااقدر اسوي شيء يقول لي انتظر التاكيد ... انتظر وبعد يوم يقل لي تم اغلاق ملفك الشخصي بشكل دائم يابوي انا لسا مااستخدمتو اصلا كيف كذا ارجوو حل هذه المشكلة"
+      },
+      {
+        "date": "2026-02-17",
+        "score": 1,
+        "thumbs": 4,
+        "text": "للأسف لا يحترم الأعضاء الرجال كلمة مسيار ذكرتها اثناء الحديث حظرني من الموقع قدمت خمس طلبات التماس مافي رد كان يقدر يكتفو بتحذير او تنبيه بس حظر على طول ليه ان شاءالله بعدين المسيار لا حرام ولا عيب شرع الله ما جبت شي من عندي بس عيب عليكم هذا الاسلوب"
+      },
+      {
+        "date": "2026-02-14",
+        "score": 1,
+        "thumbs": 0,
+        "text": "حلو"
+      },
+      {
+        "date": "2026-02-10",
+        "score": 2,
+        "thumbs": 0,
+        "text": "اني كتبته شي خطاا ونحضر حسابي اتمنه ينفتح"
+      },
+      {
+        "date": "2026-02-03",
+        "score": 1,
+        "thumbs": 0,
+        "text": "برنامج غريب جدا مش عارف ادخل عليه خالص"
+      },
+      {
+        "date": "2026-02-02",
+        "score": 1,
+        "thumbs": 0,
+        "text": "تطبيق سئ يخليك تجمع اصدقاء كثير وبعدين يحظرك وتخسر جميع اصدقائك"
+      }
+    ]
+  },
+  "AE_buzzarab": {
+    "appId": "com.buzzarab.buzzarab",
+    "country": "ae",
+    "niche": "couple",
+    "title": "buzzArab - زواج وتعارف ودردشة",
+    "score": 4.4259257,
+    "ratings": 111844,
+    "installs": "+5,000,000",
+    "histogram": {
+      "1": 9262,
+      "2": 3054,
+      "3": 5124,
+      "4": 7193,
+      "5": 86913
+    },
+    "offersIAP": false,
+    "adSupported": true,
+    "developer": "BUZZMEDIA INC.",
+    "total_reviews_pulled": 500,
+    "low_reviews_count": 146,
+    "low_reviews_pct": 29.2,
+    "low_reviews": [
+      {
+        "date": "2026-05-06",
+        "score": 1,
+        "thumbs": 0,
+        "text": "شباب بلغو عن التطبيق التطبيق وهمي تفي عليهم"
+      },
+      {
+        "date": "2026-05-02",
+        "score": 1,
+        "thumbs": 0,
+        "text": "نزل التطبيق وبعد ما. ينزل التطبيق كل فيشار وأستنانه بعد اسبوع لينتحقق من اعصابك خاااااااا تفوووووه"
+      },
+      {
+        "date": "2026-04-28",
+        "score": 1,
+        "thumbs": 0,
+        "text": "يغلق ويوقف الدردشه ف أمور ضروريه احنا ليست ضغار"
+      },
+      {
+        "date": "2026-04-27",
+        "score": 1,
+        "thumbs": 0,
+        "text": "بقالي 3سنين مادخلتش البرنامج كل ما حاول ادخل يقولي انت متزوج الدنيا بتتغير ليه البرنامج ده كده ايه التعالي ده"
+      },
+      {
+        "date": "2026-04-17",
+        "score": 1,
+        "thumbs": 0,
+        "text": "فاشل كلو لعب"
+      },
+      {
+        "date": "2026-04-17",
+        "score": 1,
+        "thumbs": 0,
+        "text": "لا أحد يرد"
+      },
+      {
+        "date": "2026-04-17",
+        "score": 1,
+        "thumbs": 3,
+        "text": "لا أعلم ما به عندما اريد ان اتطلع على الرسائل يتوقف لا يعمل بشكل جيد اتمنى التعديل"
+      },
+      {
+        "date": "2026-04-15",
+        "score": 1,
+        "thumbs": 0,
+        "text": "سيء"
+      },
+      {
+        "date": "2026-04-10",
+        "score": 1,
+        "thumbs": 0,
+        "text": "غير جيد و كذابين"
+      },
+      {
+        "date": "2026-04-09",
+        "score": 1,
+        "thumbs": 0,
+        "text": "تطبيق زفت في اعلانات كثير وفي ناس أصنام مايحكو معاك"
+      },
+      {
+        "date": "2026-04-09",
+        "score": 1,
+        "thumbs": 0,
+        "text": "برنامج رائع شكرا لكم لكن فيه رجال كذابين واستغلاليين لا يريدون الزواج بل يريدون الكذب"
+      },
+      {
+        "date": "2026-04-08",
+        "score": 1,
+        "thumbs": 0,
+        "text": "نصيحة لااحد ينزله كذب كذب وتافه أكثر مما تتخيل لون"
+      },
+      {
+        "date": "2026-04-08",
+        "score": 2,
+        "thumbs": 0,
+        "text": "برنامج حظرني وعاوزه اسجل دخولي في من الاول"
+      },
+      {
+        "date": "2026-04-04",
+        "score": 1,
+        "thumbs": 0,
+        "text": "برنامج زباله لا انصح بالتنزيل برنامج زباله كل شويه يقولوا لك تعليق دائم ومن غير ما تسوي اي شيء بصراحه ما يستاهلش ولا نجمه وخساره فيه تنزيل تطبيق فاشل حاولت انزله كذا مره بس كل مره يكون فاشل برده اكتر من اللي قبلها خساره فيه ولا نجمه انا عن نفسي ما كنتش عاوز اعطيه اي نجمه بس هم خل"
+      },
+      {
+        "date": "2026-04-03",
+        "score": 1,
+        "thumbs": 11,
+        "text": "للاسف تطبيق سيء وتم تقييمه بنجمه واحده لهذه الاسباب : 1/ اداره التطبيق متسلطه وتمارس الاستعلاء عند ادنى غلط بسيط يتم حذف للحساب ودون اشعار مسبق ، وهي بهذا تخسر 2/ ةرسائل كثير منها لا يصل للطرف الاخر حيث تبقى علامه ✅✅ المكرره بلون اسود وليس بلون ازرق رغم انه متصل الان او فيه تراسل"
+      },
+      {
+        "date": "2026-03-31",
+        "score": 1,
+        "thumbs": 0,
+        "text": "ليش مايقبل تسجيل الدخول اتمنى الرد"
+      },
+      {
+        "date": "2026-03-30",
+        "score": 1,
+        "thumbs": 3,
+        "text": "طبيق جدا جدا جدا معفن وسي وسخيف على اتفه الاسبب يقفلو الحساب"
+      },
+      {
+        "date": "2026-03-27",
+        "score": 2,
+        "thumbs": 0,
+        "text": "اسوأ شئ في البرنامج ده الإعلانات حاجه مزعجه"
+      },
+      {
+        "date": "2026-03-25",
+        "score": 1,
+        "thumbs": 0,
+        "text": "نصاب كبير"
+      },
+      {
+        "date": "2026-03-21",
+        "score": 2,
+        "thumbs": 4,
+        "text": "انه تطبيق جيد وانا احترم الكل ولكن لمدا تم غلق حسابي في بوز اغاب هدا غير معقول زلو انا عملت مراجعة للاسف المرجو منكم أن تسترجع لي حسابي وشكرا"
+      },
+      {
+        "date": "2026-03-10",
+        "score": 1,
+        "thumbs": 12,
+        "text": "برنامج فاشل لا يستحق اي نجمه لقد أعطيته نجمه فقط لأنه يحمي الخصوصيه التقييم السلبي حدف الحساب من دون أي أندار أو تحدير علما اني ملتزم بالقوانين الاعلانات كثيره وطويله التأخر بالموافقه على اضهار الصورة على الملف الشخصي"
+      },
+      {
+        "date": "2026-03-03",
+        "score": 1,
+        "thumbs": 5,
+        "text": "لا احد يستجيب على الرسائل ونفس الاعضاء برنامج سيء جدا انصح بعدم تحميله"
+      },
+      {
+        "date": "2026-02-28",
+        "score": 1,
+        "thumbs": 3,
+        "text": "تم حذف حسابي بشكل دائم ونهائي للابد بسبب ذكري كلمة معينة لشخص اهاني بنفس الكلمة وعندما قدمت التماس اعتذار رفضو الالتماس ورفضو ايضا انشاء لي اي حساب اخر وارسال اي التماس اخر كان هناك رد الي على الاتماسات تطبيق لا يحترم المستخدمين الرجال ويقبل باهانة الاعضاء على حساب مصلحة التطبيق "
+      },
+      {
+        "date": "2026-02-25",
+        "score": 1,
+        "thumbs": 0,
+        "text": "لماذا لا يتم قبول المتزوجين ربما كانوا متزوجين والحين غير"
+      },
+      {
+        "date": "2026-02-25",
+        "score": 1,
+        "thumbs": 0,
+        "text": "ايش فيه ادخل اسجل كل بيانةتي ويصورني ومدري ايش وبالاخير مااقدر اسوي شيء يقول لي انتظر التاكيد ... انتظر وبعد يوم يقل لي تم اغلاق ملفك الشخصي بشكل دائم يابوي انا لسا مااستخدمتو اصلا كيف كذا ارجوو حل هذه المشكلة"
+      },
+      {
+        "date": "2026-02-17",
+        "score": 1,
+        "thumbs": 4,
+        "text": "للأسف لا يحترم الأعضاء الرجال كلمة مسيار ذكرتها اثناء الحديث حظرني من الموقع قدمت خمس طلبات التماس مافي رد كان يقدر يكتفو بتحذير او تنبيه بس حظر على طول ليه ان شاءالله بعدين المسيار لا حرام ولا عيب شرع الله ما جبت شي من عندي بس عيب عليكم هذا الاسلوب"
+      },
+      {
+        "date": "2026-02-14",
+        "score": 1,
+        "thumbs": 0,
+        "text": "حلو"
+      },
+      {
+        "date": "2026-02-10",
+        "score": 2,
+        "thumbs": 0,
+        "text": "اني كتبته شي خطاا ونحضر حسابي اتمنه ينفتح"
+      },
+      {
+        "date": "2026-02-03",
+        "score": 1,
+        "thumbs": 0,
+        "text": "برنامج غريب جدا مش عارف ادخل عليه خالص"
+      },
+      {
+        "date": "2026-02-02",
+        "score": 1,
+        "thumbs": 0,
+        "text": "تطبيق سئ يخليك تجمع اصدقاء كثير وبعدين يحظرك وتخسر جميع اصدقائك"
+      }
+    ]
+  },
+  "EG_buzzarab": {
+    "appId": "com.buzzarab.buzzarab",
+    "country": "eg",
+    "niche": "couple",
+    "title": "buzzArab - زواج وتعارف ودردشة",
+    "score": 4.2411013,
+    "ratings": 111844,
+    "installs": "+5,000,000",
+    "histogram": {
+      "1": 13892,
+      "2": 3377,
+      "3": 6006,
+      "4": 7129,
+      "5": 81415
+    },
+    "offersIAP": false,
+    "adSupported": true,
+    "developer": "BUZZMEDIA INC.",
+    "total_reviews_pulled": 500,
+    "low_reviews_count": 146,
+    "low_reviews_pct": 29.2,
+    "low_reviews": [
+      {
+        "date": "2026-05-06",
+        "score": 1,
+        "thumbs": 0,
+        "text": "شباب بلغو عن التطبيق التطبيق وهمي تفي عليهم"
+      },
+      {
+        "date": "2026-05-02",
+        "score": 1,
+        "thumbs": 0,
+        "text": "نزل التطبيق وبعد ما. ينزل التطبيق كل فيشار وأستنانه بعد اسبوع لينتحقق من اعصابك خاااااااا تفوووووه"
+      },
+      {
+        "date": "2026-04-28",
+        "score": 1,
+        "thumbs": 0,
+        "text": "يغلق ويوقف الدردشه ف أمور ضروريه احنا ليست ضغار"
+      },
+      {
+        "date": "2026-04-27",
+        "score": 1,
+        "thumbs": 0,
+        "text": "بقالي 3سنين مادخلتش البرنامج كل ما حاول ادخل يقولي انت متزوج الدنيا بتتغير ليه البرنامج ده كده ايه التعالي ده"
+      },
+      {
+        "date": "2026-04-17",
+        "score": 1,
+        "thumbs": 0,
+        "text": "فاشل كلو لعب"
+      },
+      {
+        "date": "2026-04-17",
+        "score": 1,
+        "thumbs": 0,
+        "text": "لا أحد يرد"
+      },
+      {
+        "date": "2026-04-17",
+        "score": 1,
+        "thumbs": 3,
+        "text": "لا أعلم ما به عندما اريد ان اتطلع على الرسائل يتوقف لا يعمل بشكل جيد اتمنى التعديل"
+      },
+      {
+        "date": "2026-04-15",
+        "score": 1,
+        "thumbs": 0,
+        "text": "سيء"
+      },
+      {
+        "date": "2026-04-10",
+        "score": 1,
+        "thumbs": 0,
+        "text": "غير جيد و كذابين"
+      },
+      {
+        "date": "2026-04-09",
+        "score": 1,
+        "thumbs": 0,
+        "text": "تطبيق زفت في اعلانات كثير وفي ناس أصنام مايحكو معاك"
+      },
+      {
+        "date": "2026-04-09",
+        "score": 1,
+        "thumbs": 0,
+        "text": "برنامج رائع شكرا لكم لكن فيه رجال كذابين واستغلاليين لا يريدون الزواج بل يريدون الكذب"
+      },
+      {
+        "date": "2026-04-08",
+        "score": 1,
+        "thumbs": 0,
+        "text": "نصيحة لااحد ينزله كذب كذب وتافه أكثر مما تتخيل لون"
+      },
+      {
+        "date": "2026-04-08",
+        "score": 2,
+        "thumbs": 0,
+        "text": "برنامج حظرني وعاوزه اسجل دخولي في من الاول"
+      },
+      {
+        "date": "2026-04-04",
+        "score": 1,
+        "thumbs": 0,
+        "text": "برنامج زباله لا انصح بالتنزيل برنامج زباله كل شويه يقولوا لك تعليق دائم ومن غير ما تسوي اي شيء بصراحه ما يستاهلش ولا نجمه وخساره فيه تنزيل تطبيق فاشل حاولت انزله كذا مره بس كل مره يكون فاشل برده اكتر من اللي قبلها خساره فيه ولا نجمه انا عن نفسي ما كنتش عاوز اعطيه اي نجمه بس هم خل"
+      },
+      {
+        "date": "2026-04-03",
+        "score": 1,
+        "thumbs": 11,
+        "text": "للاسف تطبيق سيء وتم تقييمه بنجمه واحده لهذه الاسباب : 1/ اداره التطبيق متسلطه وتمارس الاستعلاء عند ادنى غلط بسيط يتم حذف للحساب ودون اشعار مسبق ، وهي بهذا تخسر 2/ ةرسائل كثير منها لا يصل للطرف الاخر حيث تبقى علامه ✅✅ المكرره بلون اسود وليس بلون ازرق رغم انه متصل الان او فيه تراسل"
+      },
+      {
+        "date": "2026-03-31",
+        "score": 1,
+        "thumbs": 0,
+        "text": "ليش مايقبل تسجيل الدخول اتمنى الرد"
+      },
+      {
+        "date": "2026-03-30",
+        "score": 1,
+        "thumbs": 3,
+        "text": "طبيق جدا جدا جدا معفن وسي وسخيف على اتفه الاسبب يقفلو الحساب"
+      },
+      {
+        "date": "2026-03-27",
+        "score": 2,
+        "thumbs": 0,
+        "text": "اسوأ شئ في البرنامج ده الإعلانات حاجه مزعجه"
+      },
+      {
+        "date": "2026-03-25",
+        "score": 1,
+        "thumbs": 0,
+        "text": "نصاب كبير"
+      },
+      {
+        "date": "2026-03-21",
+        "score": 2,
+        "thumbs": 4,
+        "text": "انه تطبيق جيد وانا احترم الكل ولكن لمدا تم غلق حسابي في بوز اغاب هدا غير معقول زلو انا عملت مراجعة للاسف المرجو منكم أن تسترجع لي حسابي وشكرا"
+      },
+      {
+        "date": "2026-03-10",
+        "score": 1,
+        "thumbs": 12,
+        "text": "برنامج فاشل لا يستحق اي نجمه لقد أعطيته نجمه فقط لأنه يحمي الخصوصيه التقييم السلبي حدف الحساب من دون أي أندار أو تحدير علما اني ملتزم بالقوانين الاعلانات كثيره وطويله التأخر بالموافقه على اضهار الصورة على الملف الشخصي"
+      },
+      {
+        "date": "2026-03-03",
+        "score": 1,
+        "thumbs": 5,
+        "text": "لا احد يستجيب على الرسائل ونفس الاعضاء برنامج سيء جدا انصح بعدم تحميله"
+      },
+      {
+        "date": "2026-02-28",
+        "score": 1,
+        "thumbs": 3,
+        "text": "تم حذف حسابي بشكل دائم ونهائي للابد بسبب ذكري كلمة معينة لشخص اهاني بنفس الكلمة وعندما قدمت التماس اعتذار رفضو الالتماس ورفضو ايضا انشاء لي اي حساب اخر وارسال اي التماس اخر كان هناك رد الي على الاتماسات تطبيق لا يحترم المستخدمين الرجال ويقبل باهانة الاعضاء على حساب مصلحة التطبيق "
+      },
+      {
+        "date": "2026-02-25",
+        "score": 1,
+        "thumbs": 0,
+        "text": "لماذا لا يتم قبول المتزوجين ربما كانوا متزوجين والحين غير"
+      },
+      {
+        "date": "2026-02-25",
+        "score": 1,
+        "thumbs": 0,
+        "text": "ايش فيه ادخل اسجل كل بيانةتي ويصورني ومدري ايش وبالاخير مااقدر اسوي شيء يقول لي انتظر التاكيد ... انتظر وبعد يوم يقل لي تم اغلاق ملفك الشخصي بشكل دائم يابوي انا لسا مااستخدمتو اصلا كيف كذا ارجوو حل هذه المشكلة"
+      },
+      {
+        "date": "2026-02-17",
+        "score": 1,
+        "thumbs": 4,
+        "text": "للأسف لا يحترم الأعضاء الرجال كلمة مسيار ذكرتها اثناء الحديث حظرني من الموقع قدمت خمس طلبات التماس مافي رد كان يقدر يكتفو بتحذير او تنبيه بس حظر على طول ليه ان شاءالله بعدين المسيار لا حرام ولا عيب شرع الله ما جبت شي من عندي بس عيب عليكم هذا الاسلوب"
+      },
+      {
+        "date": "2026-02-14",
+        "score": 1,
+        "thumbs": 0,
+        "text": "حلو"
+      },
+      {
+        "date": "2026-02-10",
+        "score": 2,
+        "thumbs": 0,
+        "text": "اني كتبته شي خطاا ونحضر حسابي اتمنه ينفتح"
+      },
+      {
+        "date": "2026-02-03",
+        "score": 1,
+        "thumbs": 0,
+        "text": "برنامج غريب جدا مش عارف ادخل عليه خالص"
+      },
+      {
+        "date": "2026-02-02",
+        "score": 1,
+        "thumbs": 0,
+        "text": "تطبيق سئ يخليك تجمع اصدقاء كثير وبعدين يحظرك وتخسر جميع اصدقائك"
+      }
+    ]
+  },
+  "ID_astroscope": {
+    "appId": "com.feelweel.astro",
+    "country": "id",
+    "niche": "astrology",
+    "title": "Astroscope: Panduan Astrologi",
+    "score": 4.8,
+    "ratings": 4824,
+    "installs": "500.000+",
+    "histogram": {
+      "1": 118,
+      "2": 0,
+      "3": 39,
+      "4": 276,
+      "5": 4309
+    },
+    "offersIAP": true,
+    "IAPRange": "Rp 34.000 - Rp 349.000 per item",
+    "adSupported": false,
+    "developer": "Astroscope App",
+    "total_reviews_pulled": 18,
+    "low_reviews_count": 3,
+    "low_reviews_pct": 16.7,
+    "low_reviews": [
+      {
+        "date": "2024-11-24",
+        "score": 1,
+        "thumbs": 0,
+        "text": "most of them are premium"
+      },
+      {
+        "date": "2023-02-15",
+        "score": 1,
+        "thumbs": 0,
+        "text": "Don't have the city i born from"
+      },
+      {
+        "date": "2023-01-18",
+        "score": 1,
+        "thumbs": 3,
+        "text": "sucks, you guys really ain't know nothing about astrology 👎"
+      }
+    ]
+  },
+  "TR_faladdin": {
+    "error": "App not found (404)",
+    "appId": "com.faladdin.app"
+  },
+  "TR_fortunica": {
+    "appId": "com.questico.fortunica.german",
+    "country": "tr",
+    "niche": "tarot",
+    "title": "fortunica - Psychic & Tarot",
+    "score": 4.1764708,
+    "ratings": 14576,
+    "installs": "1.000.000+",
+    "histogram": {
+      "1": 1714,
+      "2": 1714,
+      "3": 0,
+      "4": 0,
+      "5": 11146
+    },
+    "offersIAP": true,
+    "IAPRange": "Öğe başına ₺13,99-₺44,99",
+    "adSupported": false,
+    "developer": "adviqo GmbH",
+    "total_reviews_pulled": 8,
+    "low_reviews_count": 1,
+    "low_reviews_pct": 12.5,
+    "low_reviews": [
+      {
+        "date": "2017-12-14",
+        "score": 1,
+        "thumbs": 17,
+        "text": "Türkçe ayarı neden yok"
+      }
+    ]
+  }
+}

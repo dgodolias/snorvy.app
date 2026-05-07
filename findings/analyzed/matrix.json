@@ -28,6 +28,8 @@
     "monthly_rpu_usd": 4.5,
     "conversion_rate": 0.0125,
     "cultural_risk": false,
+    "cultural_validated": true,
+    "cultural_unvalidated_penalty": false,
     "composite_score": 17,
     "top_quotes": [
       {
@@ -153,6 +155,8 @@
     "monthly_rpu_usd": 1.8,
     "conversion_rate": 0.004,
     "cultural_risk": false,
+    "cultural_validated": false,
+    "cultural_unvalidated_penalty": false,
     "composite_score": 15,
     "top_quotes": [
       {
@@ -229,88 +233,6 @@
     "dominant_complaint_themes": []
   },
   {
-    "cell": "SA/couple",
-    "country": "SA",
-    "niche": "couple",
-    "top_app": {
-      "appId": "com.buzzarab.buzzarab",
-      "title": "buzzArab - زواج وتعارف ودردشة",
-      "score": 4.290809,
-      "ratings": 111844,
-      "installs": "+5,000,000",
-      "histogram": {
-        "1": 13341,
-        "2": 2452,
-        "3": 5673,
-        "4": 7210,
-        "5": 83151
-      },
-      "offersIAP": false,
-      "adSupported": true
-    },
-    "star1_ratio_pct": 11.9,
-    "low_pct": 12,
-    "tiktok_views_B": 649.9,
-    "tiktok_total_likes": 0,
-    "cross_country_count": 2,
-    "monthly_rpu_usd": 7.5,
-    "conversion_rate": 0.015,
-    "cultural_risk": false,
-    "composite_score": 15,
-    "top_quotes": [
-      {
-        "score": 1,
-        "thumbs": 3,
-        "text": "لا أعلم ما به عندما اريد ان اتطلع على الرسائل يتوقف لا يعمل بشكل جيد اتمنى التعديل"
-      },
-      {
-        "score": 1,
-        "thumbs": 0,
-        "text": "شباب بلغو عن التطبيق التطبيق وهمي تفي عليهم"
-      },
-      {
-        "score": 1,
-        "thumbs": 0,
-        "text": "نزل التطبيق وبعد ما. ينزل التطبيق كل فيشار وأستنانه بعد اسبوع لينتحقق من اعصابك خاااااااا تفوووووه"
-      },
-      {
-        "score": 1,
-        "thumbs": 0,
-        "text": "يغلق ويوقف الدردشه ف أمور ضروريه احنا ليست ضغار"
-      },
-      {
-        "score": 1,
-        "thumbs": 0,
-        "text": "بقالي 3سنين مادخلتش البرنامج كل ما حاول ادخل يقولي انت متزوج الدنيا بتتغير ليه البرنامج ده كده ايه التعالي ده"
-      }
-    ],
-    "top_tiktok_comments": [],
-    "top_reddit_posts": [
-      {
-        "sub": "",
-        "title": "Partner 29m used 3some app for years to try and facilitate couple experiences. I download it, he says we should delete it as its 'toxic'. Should I be worried?",
-        "score": 313,
-        "comments": 74,
-        "body": "Partner was experienced in 3somes and we discussed exploring them a few years back. We've been together 5yrs. I was initially hesitant but open to explore he downloaded an app similar to tinder but for kink/polyamory and said he would manage as a couple account. \n\nWhen asked abou"
-      },
-      {
-        "sub": "",
-        "title": "My wife (32F) found my (32M) old couple/dating app downloads and thinks I wanted other women",
-        "score": 0,
-        "comments": 37,
-        "body": "My wife (32F) and I (32M) have been going through a rough patch, and something from my phone history has made things worse. She saw that I had downloaded several couple/dating apps and tried some AI adult content. I didn’t even sign up for most of these apps, and on the few I did"
-      },
-      {
-        "sub": "",
-        "title": "New GF (3 weeks official, after 4-5 months together) dowloaded a dating app and sent a few messages (never met anyone) during a couple of days following a big argument - should I forgive her, if she works hard to rebuild trust? She’s 27, I’m 29.",
-        "score": 2,
-        "comments": 29,
-        "body": "We became official 3 weeks ago, after seeing each other for 4-5 months - we love each other, but have had semi-frequent arguments over these months. After the latest argument, she asked for a couple of days to think - which she had, and after which we reunited.\nHowever, a day lat"
-      }
-    ],
-    "dominant_complaint_themes": []
-  },
-  {
     "cell": "BR/couple",
     "country": "BR",
     "niche": "couple",
@@ -339,6 +261,8 @@
     "monthly_rpu_usd": 2.1,
     "conversion_rate": 0.0075,
     "cultural_risk": false,
+    "cultural_validated": false,
+    "cultural_unvalidated_penalty": false,
     "composite_score": 14,
     "top_quotes": [
       {
@@ -464,6 +388,8 @@
     "monthly_rpu_usd": 1.5,
     "conversion_rate": 0.0075,
     "cultural_risk": false,
+    "cultural_validated": false,
+    "cultural_unvalidated_penalty": false,
     "composite_score": 14,
     "top_quotes": [
       {
@@ -561,6 +487,90 @@
     ]
   },
   {
+    "cell": "SA/couple",
+    "country": "SA",
+    "niche": "couple",
+    "top_app": {
+      "appId": "com.buzzarab.buzzarab",
+      "title": "buzzArab - زواج وتعارف ودردشة",
+      "score": 4.290809,
+      "ratings": 111844,
+      "installs": "+5,000,000",
+      "histogram": {
+        "1": 13341,
+        "2": 2452,
+        "3": 5673,
+        "4": 7210,
+        "5": 83151
+      },
+      "offersIAP": false,
+      "adSupported": true
+    },
+    "star1_ratio_pct": 11.9,
+    "low_pct": 6,
+    "tiktok_views_B": 649.9,
+    "tiktok_total_likes": 0,
+    "cross_country_count": 2,
+    "monthly_rpu_usd": 7.5,
+    "conversion_rate": 0.015,
+    "cultural_risk": false,
+    "cultural_validated": true,
+    "cultural_unvalidated_penalty": false,
+    "composite_score": 14,
+    "top_quotes": [
+      {
+        "score": 1,
+        "thumbs": 12,
+        "text": "برنامج فاشل لا يستحق اي نجمه لقد أعطيته نجمه فقط لأنه يحمي الخصوصيه التقييم السلبي حدف الحساب من دون أي أندار أو تحدير علما اني ملتزم بالقوانين الاعلانات كثيره وطويله التأخر بالموافقه على اضهار الصورة على الملف الشخصي"
+      },
+      {
+        "score": 1,
+        "thumbs": 11,
+        "text": "للاسف تطبيق سيء وتم تقييمه بنجمه واحده لهذه الاسباب : 1/ اداره التطبيق متسلطه وتمارس الاستعلاء عند ادنى غلط بسيط يتم حذف للحساب ودون اشعار مسبق ، وهي بهذا تخسر 2/ ةرسائل كثير منها لا يصل للطرف الاخر حيث تبقى علامه ✅✅ المكرره بلون اسود وليس بلون ازرق رغم انه متصل الان او فيه تراسل"
+      },
+      {
+        "score": 1,
+        "thumbs": 5,
+        "text": "لا احد يستجيب على الرسائل ونفس الاعضاء برنامج سيء جدا انصح بعدم تحميله"
+      },
+      {
+        "score": 2,
+        "thumbs": 4,
+        "text": "انه تطبيق جيد وانا احترم الكل ولكن لمدا تم غلق حسابي في بوز اغاب هدا غير معقول زلو انا عملت مراجعة للاسف المرجو منكم أن تسترجع لي حسابي وشكرا"
+      },
+      {
+        "score": 1,
+        "thumbs": 4,
+        "text": "للأسف لا يحترم الأعضاء الرجال كلمة مسيار ذكرتها اثناء الحديث حظرني من الموقع قدمت خمس طلبات التماس مافي رد كان يقدر يكتفو بتحذير او تنبيه بس حظر على طول ليه ان شاءالله بعدين المسيار لا حرام ولا عيب شرع الله ما جبت شي من عندي بس عيب عليكم هذا الاسلوب"
+      }
+    ],
+    "top_tiktok_comments": [],
+    "top_reddit_posts": [
+      {
+        "sub": "",
+        "title": "Partner 29m used 3some app for years to try and facilitate couple experiences. I download it, he says we should delete it as its 'toxic'. Should I be worried?",
+        "score": 313,
+        "comments": 74,
+        "body": "Partner was experienced in 3somes and we discussed exploring them a few years back. We've been together 5yrs. I was initially hesitant but open to explore he downloaded an app similar to tinder but for kink/polyamory and said he would manage as a couple account. \n\nWhen asked abou"
+      },
+      {
+        "sub": "",
+        "title": "My wife (32F) found my (32M) old couple/dating app downloads and thinks I wanted other women",
+        "score": 0,
+        "comments": 37,
+        "body": "My wife (32F) and I (32M) have been going through a rough patch, and something from my phone history has made things worse. She saw that I had downloaded several couple/dating apps and tried some AI adult content. I didn’t even sign up for most of these apps, and on the few I did"
+      },
+      {
+        "sub": "",
+        "title": "New GF (3 weeks official, after 4-5 months together) dowloaded a dating app and sent a few messages (never met anyone) during a couple of days following a big argument - should I forgive her, if she works hard to rebuild trust? She’s 27, I’m 29.",
+        "score": 2,
+        "comments": 29,
+        "body": "We became official 3 weeks ago, after seeing each other for 4-5 months - we love each other, but have had semi-frequent arguments over these months. After the latest argument, she asked for a couple of days to think - which she had, and after which we reunited.\nHowever, a day lat"
+      }
+    ],
+    "dominant_complaint_themes": []
+  },
+  {
     "cell": "TR/sleep",
     "country": "TR",
     "niche": "sleep",
@@ -589,7 +599,9 @@
     "monthly_rpu_usd": 3.75,
     "conversion_rate": 0.0125,
     "cultural_risk": false,
-    "composite_score": 14,
+    "cultural_validated": false,
+    "cultural_unvalidated_penalty": true,
+    "composite_score": 13,
     "top_quotes": [
       {
         "score": 1,
@@ -684,121 +696,41 @@
       "adSupported": true
     },
     "star1_ratio_pct": 12.4,
-    "low_pct": 12,
+    "low_pct": 6,
     "tiktok_views_B": 649.9,
     "tiktok_total_likes": 0,
     "cross_country_count": 2,
     "monthly_rpu_usd": 2.4,
     "conversion_rate": 0.01,
     "cultural_risk": false,
-    "composite_score": 14,
-    "top_quotes": [
-      {
-        "score": 1,
-        "thumbs": 3,
-        "text": "لا أعلم ما به عندما اريد ان اتطلع على الرسائل يتوقف لا يعمل بشكل جيد اتمنى التعديل"
-      },
-      {
-        "score": 1,
-        "thumbs": 0,
-        "text": "شباب بلغو عن التطبيق التطبيق وهمي تفي عليهم"
-      },
-      {
-        "score": 1,
-        "thumbs": 0,
-        "text": "نزل التطبيق وبعد ما. ينزل التطبيق كل فيشار وأستنانه بعد اسبوع لينتحقق من اعصابك خاااااااا تفوووووه"
-      },
-      {
-        "score": 1,
-        "thumbs": 0,
-        "text": "يغلق ويوقف الدردشه ف أمور ضروريه احنا ليست ضغار"
-      },
-      {
-        "score": 1,
-        "thumbs": 0,
-        "text": "بقالي 3سنين مادخلتش البرنامج كل ما حاول ادخل يقولي انت متزوج الدنيا بتتغير ليه البرنامج ده كده ايه التعالي ده"
-      }
-    ],
-    "top_tiktok_comments": [],
-    "top_reddit_posts": [
-      {
-        "sub": "",
-        "title": "Partner 29m used 3some app for years to try and facilitate couple experiences. I download it, he says we should delete it as its 'toxic'. Should I be worried?",
-        "score": 313,
-        "comments": 74,
-        "body": "Partner was experienced in 3somes and we discussed exploring them a few years back. We've been together 5yrs. I was initially hesitant but open to explore he downloaded an app similar to tinder but for kink/polyamory and said he would manage as a couple account. \n\nWhen asked abou"
-      },
-      {
-        "sub": "",
-        "title": "My wife (32F) found my (32M) old couple/dating app downloads and thinks I wanted other women",
-        "score": 0,
-        "comments": 37,
-        "body": "My wife (32F) and I (32M) have been going through a rough patch, and something from my phone history has made things worse. She saw that I had downloaded several couple/dating apps and tried some AI adult content. I didn’t even sign up for most of these apps, and on the few I did"
-      },
-      {
-        "sub": "",
-        "title": "New GF (3 weeks official, after 4-5 months together) dowloaded a dating app and sent a few messages (never met anyone) during a couple of days following a big argument - should I forgive her, if she works hard to rebuild trust? She’s 27, I’m 29.",
-        "score": 2,
-        "comments": 29,
-        "body": "We became official 3 weeks ago, after seeing each other for 4-5 months - we love each other, but have had semi-frequent arguments over these months. After the latest argument, she asked for a couple of days to think - which she had, and after which we reunited.\nHowever, a day lat"
-      }
-    ],
-    "dominant_complaint_themes": []
-  },
-  {
-    "cell": "AE/couple",
-    "country": "AE",
-    "niche": "couple",
-    "top_app": {
-      "appId": "com.buzzarab.buzzarab",
-      "title": "buzzArab - زواج وتعارف ودردشة",
-      "score": 4.4259257,
-      "ratings": 111844,
-      "installs": "+5,000,000",
-      "histogram": {
-        "1": 9262,
-        "2": 3054,
-        "3": 5124,
-        "4": 7193,
-        "5": 86913
-      },
-      "offersIAP": false,
-      "adSupported": true
-    },
-    "star1_ratio_pct": 8.3,
-    "low_pct": 12,
-    "tiktok_views_B": 649.9,
-    "tiktok_total_likes": 0,
-    "cross_country_count": 2,
-    "monthly_rpu_usd": 6,
-    "conversion_rate": 0.015,
-    "cultural_risk": false,
+    "cultural_validated": true,
+    "cultural_unvalidated_penalty": false,
     "composite_score": 13,
     "top_quotes": [
       {
         "score": 1,
-        "thumbs": 3,
-        "text": "لا أعلم ما به عندما اريد ان اتطلع على الرسائل يتوقف لا يعمل بشكل جيد اتمنى التعديل"
+        "thumbs": 12,
+        "text": "برنامج فاشل لا يستحق اي نجمه لقد أعطيته نجمه فقط لأنه يحمي الخصوصيه التقييم السلبي حدف الحساب من دون أي أندار أو تحدير علما اني ملتزم بالقوانين الاعلانات كثيره وطويله التأخر بالموافقه على اضهار الصورة على الملف الشخصي"
       },
       {
         "score": 1,
-        "thumbs": 0,
-        "text": "شباب بلغو عن التطبيق التطبيق وهمي تفي عليهم"
+        "thumbs": 11,
+        "text": "للاسف تطبيق سيء وتم تقييمه بنجمه واحده لهذه الاسباب : 1/ اداره التطبيق متسلطه وتمارس الاستعلاء عند ادنى غلط بسيط يتم حذف للحساب ودون اشعار مسبق ، وهي بهذا تخسر 2/ ةرسائل كثير منها لا يصل للطرف الاخر حيث تبقى علامه ✅✅ المكرره بلون اسود وليس بلون ازرق رغم انه متصل الان او فيه تراسل"
       },
       {
         "score": 1,
-        "thumbs": 0,
-        "text": "نزل التطبيق وبعد ما. ينزل التطبيق كل فيشار وأستنانه بعد اسبوع لينتحقق من اعصابك خاااااااا تفوووووه"
+        "thumbs": 5,
+        "text": "لا احد يستجيب على الرسائل ونفس الاعضاء برنامج سيء جدا انصح بعدم تحميله"
+      },
+      {
+        "score": 2,
+        "thumbs": 4,
+        "text": "انه تطبيق جيد وانا احترم الكل ولكن لمدا تم غلق حسابي في بوز اغاب هدا غير معقول زلو انا عملت مراجعة للاسف المرجو منكم أن تسترجع لي حسابي وشكرا"
       },
       {
         "score": 1,
-        "thumbs": 0,
-        "text": "يغلق ويوقف الدردشه ف أمور ضروريه احنا ليست ضغار"
-      },
-      {
-        "score": 1,
-        "thumbs": 0,
-        "text": "بقالي 3سنين مادخلتش البرنامج كل ما حاول ادخل يقولي انت متزوج الدنيا بتتغير ليه البرنامج ده كده ايه التعالي ده"
+        "thumbs": 4,
+        "text": "للأسف لا يحترم الأعضاء الرجال كلمة مسيار ذكرتها اثناء الحديث حظرني من الموقع قدمت خمس طلبات التماس مافي رد كان يقدر يكتفو بتحذير او تنبيه بس حظر على طول ليه ان شاءالله بعدين المسيار لا حرام ولا عيب شرع الله ما جبت شي من عندي بس عيب عليكم هذا الاسلوب"
       }
     ],
     "top_tiktok_comments": [],
@@ -856,6 +788,8 @@
     "monthly_rpu_usd": 2.7,
     "conversion_rate": 0.0125,
     "cultural_risk": false,
+    "cultural_validated": false,
+    "cultural_unvalidated_penalty": false,
     "composite_score": 12,
     "top_quotes": [
       {
@@ -981,6 +915,8 @@
     "monthly_rpu_usd": 1.26,
     "conversion_rate": 0.0075,
     "cultural_risk": false,
+    "cultural_validated": false,
+    "cultural_unvalidated_penalty": false,
     "composite_score": 12,
     "top_quotes": [
       {
@@ -1078,6 +1014,107 @@
     ]
   },
   {
+    "cell": "ID/astrology",
+    "country": "ID",
+    "niche": "astrology",
+    "top_app": {
+      "appId": "com.feelweel.astro",
+      "title": "Astroscope: Panduan Astrologi",
+      "score": 4.8,
+      "ratings": 4824,
+      "installs": "500.000+",
+      "histogram": {
+        "1": 118,
+        "2": 0,
+        "3": 39,
+        "4": 276,
+        "5": 4309
+      },
+      "offersIAP": true,
+      "IAPRange": "Rp 34.000 - Rp 349.000 per item",
+      "adSupported": false
+    },
+    "star1_ratio_pct": 2.4,
+    "low_pct": 16.7,
+    "tiktok_views_B": 189.8,
+    "tiktok_total_likes": 1721478,
+    "cross_country_count": 3,
+    "monthly_rpu_usd": 0.54,
+    "conversion_rate": 0.004,
+    "cultural_risk": false,
+    "cultural_validated": false,
+    "cultural_unvalidated_penalty": false,
+    "composite_score": 12,
+    "top_quotes": [
+      {
+        "score": 1,
+        "thumbs": 3,
+        "text": "sucks, you guys really ain't know nothing about astrology 👎"
+      },
+      {
+        "score": 1,
+        "thumbs": 0,
+        "text": "most of them are premium"
+      },
+      {
+        "score": 1,
+        "thumbs": 0,
+        "text": "Don't have the city i born from"
+      }
+    ],
+    "top_tiktok_comments": [
+      {
+        "likes": 575189,
+        "text": "is this an optical illusion"
+      },
+      {
+        "likes": 325767,
+        "text": "Am I tripping rn"
+      },
+      {
+        "likes": 206718,
+        "text": "Why is she suddenly a little person"
+      },
+      {
+        "likes": 92061,
+        "text": "me when I wear the shirt of arm shortening"
+      },
+      {
+        "likes": 67237,
+        "text": ""
+      }
+    ],
+    "top_reddit_posts": [
+      {
+        "sub": "",
+        "title": "I want to start practicing again. Is there an app like Duolingo but for Witchcraft? ",
+        "score": 233,
+        "comments": 85,
+        "body": "I am falling behind and find myself days without practice. I need to start once more. And need sincere advice. Consistency and mental fatigue are the main pain points for me. "
+      },
+      {
+        "sub": "",
+        "title": "I want to start practicing again. Is there an app like Duolingo but for Witchcraft? ",
+        "score": 233,
+        "comments": 85,
+        "body": "I am falling behind and find myself days without practice. I need to start once more. And need sincere advice. Consistency and mental fatigue are the main pain points for me. "
+      },
+      {
+        "sub": "",
+        "title": "Asynchronous bookclub anyone? I bet we all have wonderful recommendations for books that could help us on our individual journeys, and help build our community. The Marco Polo app could host our discussion of the book of the month! Starting with \"For Small Creatures Such as We\" comment below to join",
+        "score": 207,
+        "comments": 87,
+        "body": ""
+      }
+    ],
+    "dominant_complaint_themes": [
+      {
+        "theme": "paywall_locked",
+        "count": 1
+      }
+    ]
+  },
+  {
     "cell": "PH/couple",
     "country": "PH",
     "niche": "couple",
@@ -1106,6 +1143,8 @@
     "monthly_rpu_usd": 1.2,
     "conversion_rate": 0.004,
     "cultural_risk": false,
+    "cultural_validated": false,
+    "cultural_unvalidated_penalty": false,
     "composite_score": 12,
     "top_quotes": [
       {
@@ -1191,80 +1230,6 @@
     ]
   },
   {
-    "cell": "TR/dating",
-    "country": "TR",
-    "niche": "dating",
-    "top_app": {
-      "appId": "com.tinder",
-      "title": "Tinder - flört ve arkadaşlık",
-      "score": 4.2743983,
-      "ratings": 8916736,
-      "installs": "500.000.000+",
-      "histogram": {
-        "1": 1069693,
-        "2": 187935,
-        "3": 447128,
-        "4": 732993,
-        "5": 6478897
-      },
-      "offersIAP": true,
-      "IAPRange": "Öğe başına ₺2,22-₺13.419,99",
-      "adSupported": true
-    },
-    "star1_ratio_pct": 12,
-    "low_pct": 12,
-    "tiktok_views_B": 72.8,
-    "tiktok_total_likes": 0,
-    "cross_country_count": 4,
-    "monthly_rpu_usd": 5.25,
-    "conversion_rate": 0.0125,
-    "cultural_risk": false,
-    "composite_score": 12,
-    "top_quotes": [
-      {
-        "score": 1,
-        "thumbs": 1,
-        "text": "Sakın abone olmayın! Abonelik yapana kadar profilinizi birilerine gösteriyor fakat abonelikten sonra artık tinder için hesabı dondurulmuş pasif bir kullanıcıdan farkınız yok. Öncelikli beğeniler tamamen uydurma. Keşfet listesine bile sokmuyor sizi."
-      },
-      {
-        "score": 1,
-        "thumbs": 0,
-        "text": "kullanıcının en son ne zaman aktif olduğu görünmüyor"
-      },
-      {
-        "score": 1,
-        "thumbs": 0,
-        "text": "surekli ödeme sürekli"
-      },
-      {
-        "score": 1,
-        "thumbs": 0,
-        "text": "I am requesting a refund for my Tinder Gold subscription. Despite being a paid member, the service is not working; my profile has zero visibility and no engagement. The application fails to provide the promised premium features. This is a clear case of services not rendered."
-      },
-      {
-        "score": 1,
-        "thumbs": 0,
-        "text": "hiç kimseyle iletişim kuramiyorsun"
-      }
-    ],
-    "top_tiktok_comments": [],
-    "top_reddit_posts": [],
-    "dominant_complaint_themes": [
-      {
-        "theme": "pricing_billing",
-        "count": 2
-      },
-      {
-        "theme": "refund_denied",
-        "count": 2
-      },
-      {
-        "theme": "paywall_locked",
-        "count": 1
-      }
-    ]
-  },
-  {
     "cell": "EG/astrology",
     "country": "EG",
     "niche": "astrology",
@@ -1292,6 +1257,8 @@
     "monthly_rpu_usd": 1.44,
     "conversion_rate": 0.01,
     "cultural_risk": true,
+    "cultural_validated": false,
+    "cultural_unvalidated_penalty": false,
     "composite_score": 12,
     "top_quotes": [
       {
@@ -1368,6 +1335,336 @@
     "dominant_complaint_themes": []
   },
   {
+    "cell": "AE/couple",
+    "country": "AE",
+    "niche": "couple",
+    "top_app": {
+      "appId": "com.buzzarab.buzzarab",
+      "title": "buzzArab - زواج وتعارف ودردشة",
+      "score": 4.4259257,
+      "ratings": 111844,
+      "installs": "+5,000,000",
+      "histogram": {
+        "1": 9262,
+        "2": 3054,
+        "3": 5124,
+        "4": 7193,
+        "5": 86913
+      },
+      "offersIAP": false,
+      "adSupported": true
+    },
+    "star1_ratio_pct": 8.3,
+    "low_pct": 6,
+    "tiktok_views_B": 649.9,
+    "tiktok_total_likes": 0,
+    "cross_country_count": 2,
+    "monthly_rpu_usd": 6,
+    "conversion_rate": 0.015,
+    "cultural_risk": false,
+    "cultural_validated": true,
+    "cultural_unvalidated_penalty": false,
+    "composite_score": 12,
+    "top_quotes": [
+      {
+        "score": 1,
+        "thumbs": 12,
+        "text": "برنامج فاشل لا يستحق اي نجمه لقد أعطيته نجمه فقط لأنه يحمي الخصوصيه التقييم السلبي حدف الحساب من دون أي أندار أو تحدير علما اني ملتزم بالقوانين الاعلانات كثيره وطويله التأخر بالموافقه على اضهار الصورة على الملف الشخصي"
+      },
+      {
+        "score": 1,
+        "thumbs": 11,
+        "text": "للاسف تطبيق سيء وتم تقييمه بنجمه واحده لهذه الاسباب : 1/ اداره التطبيق متسلطه وتمارس الاستعلاء عند ادنى غلط بسيط يتم حذف للحساب ودون اشعار مسبق ، وهي بهذا تخسر 2/ ةرسائل كثير منها لا يصل للطرف الاخر حيث تبقى علامه ✅✅ المكرره بلون اسود وليس بلون ازرق رغم انه متصل الان او فيه تراسل"
+      },
+      {
+        "score": 1,
+        "thumbs": 5,
+        "text": "لا احد يستجيب على الرسائل ونفس الاعضاء برنامج سيء جدا انصح بعدم تحميله"
+      },
+      {
+        "score": 2,
+        "thumbs": 4,
+        "text": "انه تطبيق جيد وانا احترم الكل ولكن لمدا تم غلق حسابي في بوز اغاب هدا غير معقول زلو انا عملت مراجعة للاسف المرجو منكم أن تسترجع لي حسابي وشكرا"
+      },
+      {
+        "score": 1,
+        "thumbs": 4,
+        "text": "للأسف لا يحترم الأعضاء الرجال كلمة مسيار ذكرتها اثناء الحديث حظرني من الموقع قدمت خمس طلبات التماس مافي رد كان يقدر يكتفو بتحذير او تنبيه بس حظر على طول ليه ان شاءالله بعدين المسيار لا حرام ولا عيب شرع الله ما جبت شي من عندي بس عيب عليكم هذا الاسلوب"
+      }
+    ],
+    "top_tiktok_comments": [],
+    "top_reddit_posts": [
+      {
+        "sub": "",
+        "title": "Partner 29m used 3some app for years to try and facilitate couple experiences. I download it, he says we should delete it as its 'toxic'. Should I be worried?",
+        "score": 313,
+        "comments": 74,
+        "body": "Partner was experienced in 3somes and we discussed exploring them a few years back. We've been together 5yrs. I was initially hesitant but open to explore he downloaded an app similar to tinder but for kink/polyamory and said he would manage as a couple account. \n\nWhen asked abou"
+      },
+      {
+        "sub": "",
+        "title": "My wife (32F) found my (32M) old couple/dating app downloads and thinks I wanted other women",
+        "score": 0,
+        "comments": 37,
+        "body": "My wife (32F) and I (32M) have been going through a rough patch, and something from my phone history has made things worse. She saw that I had downloaded several couple/dating apps and tried some AI adult content. I didn’t even sign up for most of these apps, and on the few I did"
+      },
+      {
+        "sub": "",
+        "title": "New GF (3 weeks official, after 4-5 months together) dowloaded a dating app and sent a few messages (never met anyone) during a couple of days following a big argument - should I forgive her, if she works hard to rebuild trust? She’s 27, I’m 29.",
+        "score": 2,
+        "comments": 29,
+        "body": "We became official 3 weeks ago, after seeing each other for 4-5 months - we love each other, but have had semi-frequent arguments over these months. After the latest argument, she asked for a couple of days to think - which she had, and after which we reunited.\nHowever, a day lat"
+      }
+    ],
+    "dominant_complaint_themes": []
+  },
+  {
+    "cell": "BR/video_editing",
+    "country": "BR",
+    "niche": "video_editing",
+    "top_app": {
+      "appId": "com.lemon.lvoverseas",
+      "title": "CapCut - Editor de Vídeos",
+      "score": 3.3767993,
+      "ratings": 12703776,
+      "installs": "1.000.000.000+",
+      "histogram": {
+        "1": 4049856,
+        "2": 720129,
+        "3": 712478,
+        "4": 835917,
+        "5": 6385349
+      },
+      "offersIAP": true,
+      "IAPRange": "R$ 0,90 – R$ 1.989,90 por item",
+      "adSupported": false
+    },
+    "star1_ratio_pct": 31.9,
+    "low_pct": 12,
+    "tiktok_views_B": 17033.5,
+    "tiktok_total_likes": 0,
+    "cross_country_count": 3,
+    "monthly_rpu_usd": 1.75,
+    "conversion_rate": 0.0075,
+    "cultural_risk": false,
+    "cultural_validated": false,
+    "cultural_unvalidated_penalty": false,
+    "composite_score": 11,
+    "top_quotes": [
+      {
+        "score": 1,
+        "thumbs": 0,
+        "text": "eu amo esse aplicativo e usava ele bastante mas agora eu entro no aplicativo e fala pra mim verificar a segurança sendo que eu abaixei pelo Play stories mesmo"
+      },
+      {
+        "score": 1,
+        "thumbs": 0,
+        "text": "N INSTALA MANO, É SIMPLISMENTE INÚTIL PQ TUDO TEM Q PAGAR!!! PRA VC TER UMA NOÇÃO TEM Q PAGAR ATÉ PRA COLOCAR VOZ, COLOCAR IMAGEM POR CIMA E SO TEM COMO GRAVAR ÁUDIO ATÉ 3 VEZES VC TEM Q PAGAR PRA COLOCAR MAIS. EU TE ODEIO CAPCUT! EU QUERIA NEM DAR ESTRELA"
+      },
+      {
+        "score": 1,
+        "thumbs": 0,
+        "text": "Péssimo, instalei, e coloquei três vídeos para editar ficaram compactando, depois simplesmente não acontecia nada os vídeos não apareciam pra mim editar, desinstalei e instalei novamente e mesmo assim o erro persiste. Uma perda de tempo"
+      },
+      {
+        "score": 1,
+        "thumbs": 0,
+        "text": "muito ruins kkk meu deus como existia um APP asim"
+      },
+      {
+        "score": 1,
+        "thumbs": 0,
+        "text": "eu simplesmente não consigo cancelar o plano standart no samsung!!! péssimo, travado, tudo tem que pagar, não recomendo de jeito nenhum!!!!"
+      }
+    ],
+    "top_tiktok_comments": [],
+    "top_reddit_posts": [],
+    "dominant_complaint_themes": [
+      {
+        "theme": "paywall_locked",
+        "count": 5
+      },
+      {
+        "theme": "crashes_bugs",
+        "count": 3
+      },
+      {
+        "theme": "refund_denied",
+        "count": 1
+      },
+      {
+        "theme": "ai_complaint",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "cell": "TR/dating",
+    "country": "TR",
+    "niche": "dating",
+    "top_app": {
+      "appId": "com.tinder",
+      "title": "Tinder - flört ve arkadaşlık",
+      "score": 4.2743983,
+      "ratings": 8916736,
+      "installs": "500.000.000+",
+      "histogram": {
+        "1": 1069693,
+        "2": 187935,
+        "3": 447128,
+        "4": 732993,
+        "5": 6478897
+      },
+      "offersIAP": true,
+      "IAPRange": "Öğe başına ₺2,22-₺13.419,99",
+      "adSupported": true
+    },
+    "star1_ratio_pct": 12,
+    "low_pct": 12,
+    "tiktok_views_B": 72.8,
+    "tiktok_total_likes": 0,
+    "cross_country_count": 4,
+    "monthly_rpu_usd": 5.25,
+    "conversion_rate": 0.0125,
+    "cultural_risk": false,
+    "cultural_validated": false,
+    "cultural_unvalidated_penalty": true,
+    "composite_score": 11,
+    "top_quotes": [
+      {
+        "score": 1,
+        "thumbs": 1,
+        "text": "Sakın abone olmayın! Abonelik yapana kadar profilinizi birilerine gösteriyor fakat abonelikten sonra artık tinder için hesabı dondurulmuş pasif bir kullanıcıdan farkınız yok. Öncelikli beğeniler tamamen uydurma. Keşfet listesine bile sokmuyor sizi."
+      },
+      {
+        "score": 1,
+        "thumbs": 0,
+        "text": "kullanıcının en son ne zaman aktif olduğu görünmüyor"
+      },
+      {
+        "score": 1,
+        "thumbs": 0,
+        "text": "surekli ödeme sürekli"
+      },
+      {
+        "score": 1,
+        "thumbs": 0,
+        "text": "I am requesting a refund for my Tinder Gold subscription. Despite being a paid member, the service is not working; my profile has zero visibility and no engagement. The application fails to provide the promised premium features. This is a clear case of services not rendered."
+      },
+      {
+        "score": 1,
+        "thumbs": 0,
+        "text": "hiç kimseyle iletişim kuramiyorsun"
+      }
+    ],
+    "top_tiktok_comments": [],
+    "top_reddit_posts": [],
+    "dominant_complaint_themes": [
+      {
+        "theme": "pricing_billing",
+        "count": 2
+      },
+      {
+        "theme": "refund_denied",
+        "count": 2
+      },
+      {
+        "theme": "paywall_locked",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "cell": "TH/couple",
+    "country": "TH",
+    "niche": "couple",
+    "top_app": {
+      "appId": "ltd.love8.couples.relationship",
+      "title": "Love8 - แอปสำหรับคู่รัก",
+      "score": 4.4387755,
+      "ratings": 36037,
+      "installs": "5,000,000+",
+      "histogram": {
+        "1": 2571,
+        "2": 853,
+        "3": 1651,
+        "4": 4038,
+        "5": 26903
+      },
+      "offersIAP": true,
+      "IAPRange": "฿29.00 - ฿3,150.00 ต่อรายการ",
+      "adSupported": true
+    },
+    "star1_ratio_pct": 7.1,
+    "low_pct": 12,
+    "tiktok_views_B": 649.9,
+    "tiktok_total_likes": 0,
+    "cross_country_count": 4,
+    "monthly_rpu_usd": 1.8,
+    "conversion_rate": 0.004,
+    "cultural_risk": false,
+    "cultural_validated": false,
+    "cultural_unvalidated_penalty": false,
+    "composite_score": 11,
+    "top_quotes": [
+      {
+        "score": 2,
+        "thumbs": 4,
+        "text": "แรกแอบก็ดีค่ะหลังๆมาตำแหน่งก็ไม่อัปเดตคนเดินทางไปไหนมาไหนตำแหน่งก็นิ่งไม่ขยับไปไหนอยู่แต่ที่เดิม"
+      },
+      {
+        "score": 2,
+        "thumbs": 3,
+        "text": "อัพเดตมา สถานะไม่ตรง แบตค้าง0%แบตไม่ขึ้นทั้งที่จริงแบตไม่ได้0% สถานะแอปไม่ค่อยอัปเดต"
+      },
+      {
+        "score": 2,
+        "thumbs": 3,
+        "text": "แทบจะเสียตังฟรี ระบบไม่อัพตำแหน่งแบบเรียลทาม ระบบสัตว์เลี้ยงชอบค้าง"
+      },
+      {
+        "score": 1,
+        "thumbs": 1,
+        "text": "แรกๆดี หลังๆไม่ได้ไปไหนแต่พิกัดไปทั่วเองอัติโนมัติ เมื่อก่อนดีมาก แต่เดี๋ยวนี้รู้สึกแย่ลง ปรับปรุงนะคะ"
+      },
+      {
+        "score": 1,
+        "thumbs": 1,
+        "text": "โอ้ยโมโห เงินในวอไม่มีแต่แอปไปกดสมัครพรีเมี่ยมให้ทั้งที่เรายังไม่ได้จ่ายเงินแต่ไปสมัครให้เอง ยกเลิกก้ไม่ได้ขอเงินคืนก็ไม่ได้ ยังไม่พอไปล็อคApp store ไม่ให้โหลดแอปต้องจ่ายมาก่อนทั้งที่เงินไม่มี กลายเป็นไปเป็นหนีแอปนี้เฉย อห"
+      }
+    ],
+    "top_tiktok_comments": [],
+    "top_reddit_posts": [
+      {
+        "sub": "",
+        "title": "Partner 29m used 3some app for years to try and facilitate couple experiences. I download it, he says we should delete it as its 'toxic'. Should I be worried?",
+        "score": 313,
+        "comments": 74,
+        "body": "Partner was experienced in 3somes and we discussed exploring them a few years back. We've been together 5yrs. I was initially hesitant but open to explore he downloaded an app similar to tinder but for kink/polyamory and said he would manage as a couple account. \n\nWhen asked abou"
+      },
+      {
+        "sub": "",
+        "title": "My wife (32F) found my (32M) old couple/dating app downloads and thinks I wanted other women",
+        "score": 0,
+        "comments": 37,
+        "body": "My wife (32F) and I (32M) have been going through a rough patch, and something from my phone history has made things worse. She saw that I had downloaded several couple/dating apps and tried some AI adult content. I didn’t even sign up for most of these apps, and on the few I did"
+      },
+      {
+        "sub": "",
+        "title": "New GF (3 weeks official, after 4-5 months together) dowloaded a dating app and sent a few messages (never met anyone) during a couple of days following a big argument - should I forgive her, if she works hard to rebuild trust? She’s 27, I’m 29.",
+        "score": 2,
+        "comments": 29,
+        "body": "We became official 3 weeks ago, after seeing each other for 4-5 months - we love each other, but have had semi-frequent arguments over these months. After the latest argument, she asked for a couple of days to think - which she had, and after which we reunited.\nHowever, a day lat"
+      }
+    ],
+    "dominant_complaint_themes": [
+      {
+        "theme": "location_tracking",
+        "count": 1
+      }
+    ]
+  },
+  {
     "cell": "SA/astrology",
     "country": "SA",
     "niche": "astrology",
@@ -1395,7 +1692,9 @@
     "monthly_rpu_usd": 4.5,
     "conversion_rate": 0.015,
     "cultural_risk": true,
-    "composite_score": 12,
+    "cultural_validated": false,
+    "cultural_unvalidated_penalty": true,
+    "composite_score": 11,
     "top_quotes": [
       {
         "score": 1,
@@ -1471,248 +1770,6 @@
     "dominant_complaint_themes": []
   },
   {
-    "cell": "BR/video_editing",
-    "country": "BR",
-    "niche": "video_editing",
-    "top_app": {
-      "appId": "com.lemon.lvoverseas",
-      "title": "CapCut - Editor de Vídeos",
-      "score": 3.3767993,
-      "ratings": 12703776,
-      "installs": "1.000.000.000+",
-      "histogram": {
-        "1": 4049856,
-        "2": 720129,
-        "3": 712478,
-        "4": 835917,
-        "5": 6385349
-      },
-      "offersIAP": true,
-      "IAPRange": "R$ 0,90 – R$ 1.989,90 por item",
-      "adSupported": false
-    },
-    "star1_ratio_pct": 31.9,
-    "low_pct": 12,
-    "tiktok_views_B": 17033.5,
-    "tiktok_total_likes": 0,
-    "cross_country_count": 3,
-    "monthly_rpu_usd": 1.75,
-    "conversion_rate": 0.0075,
-    "cultural_risk": false,
-    "composite_score": 11,
-    "top_quotes": [
-      {
-        "score": 1,
-        "thumbs": 0,
-        "text": "eu amo esse aplicativo e usava ele bastante mas agora eu entro no aplicativo e fala pra mim verificar a segurança sendo que eu abaixei pelo Play stories mesmo"
-      },
-      {
-        "score": 1,
-        "thumbs": 0,
-        "text": "N INSTALA MANO, É SIMPLISMENTE INÚTIL PQ TUDO TEM Q PAGAR!!! PRA VC TER UMA NOÇÃO TEM Q PAGAR ATÉ PRA COLOCAR VOZ, COLOCAR IMAGEM POR CIMA E SO TEM COMO GRAVAR ÁUDIO ATÉ 3 VEZES VC TEM Q PAGAR PRA COLOCAR MAIS. EU TE ODEIO CAPCUT! EU QUERIA NEM DAR ESTRELA"
-      },
-      {
-        "score": 1,
-        "thumbs": 0,
-        "text": "Péssimo, instalei, e coloquei três vídeos para editar ficaram compactando, depois simplesmente não acontecia nada os vídeos não apareciam pra mim editar, desinstalei e instalei novamente e mesmo assim o erro persiste. Uma perda de tempo"
-      },
-      {
-        "score": 1,
-        "thumbs": 0,
-        "text": "muito ruins kkk meu deus como existia um APP asim"
-      },
-      {
-        "score": 1,
-        "thumbs": 0,
-        "text": "eu simplesmente não consigo cancelar o plano standart no samsung!!! péssimo, travado, tudo tem que pagar, não recomendo de jeito nenhum!!!!"
-      }
-    ],
-    "top_tiktok_comments": [],
-    "top_reddit_posts": [],
-    "dominant_complaint_themes": [
-      {
-        "theme": "paywall_locked",
-        "count": 5
-      },
-      {
-        "theme": "crashes_bugs",
-        "count": 3
-      },
-      {
-        "theme": "refund_denied",
-        "count": 1
-      },
-      {
-        "theme": "ai_complaint",
-        "count": 1
-      }
-    ]
-  },
-  {
-    "cell": "TH/couple",
-    "country": "TH",
-    "niche": "couple",
-    "top_app": {
-      "appId": "ltd.love8.couples.relationship",
-      "title": "Love8 - แอปสำหรับคู่รัก",
-      "score": 4.4387755,
-      "ratings": 36037,
-      "installs": "5,000,000+",
-      "histogram": {
-        "1": 2571,
-        "2": 853,
-        "3": 1651,
-        "4": 4038,
-        "5": 26903
-      },
-      "offersIAP": true,
-      "IAPRange": "฿29.00 - ฿3,150.00 ต่อรายการ",
-      "adSupported": true
-    },
-    "star1_ratio_pct": 7.1,
-    "low_pct": 12,
-    "tiktok_views_B": 649.9,
-    "tiktok_total_likes": 0,
-    "cross_country_count": 4,
-    "monthly_rpu_usd": 1.8,
-    "conversion_rate": 0.004,
-    "cultural_risk": false,
-    "composite_score": 11,
-    "top_quotes": [
-      {
-        "score": 2,
-        "thumbs": 4,
-        "text": "แรกแอบก็ดีค่ะหลังๆมาตำแหน่งก็ไม่อัปเดตคนเดินทางไปไหนมาไหนตำแหน่งก็นิ่งไม่ขยับไปไหนอยู่แต่ที่เดิม"
-      },
-      {
-        "score": 2,
-        "thumbs": 3,
-        "text": "อัพเดตมา สถานะไม่ตรง แบตค้าง0%แบตไม่ขึ้นทั้งที่จริงแบตไม่ได้0% สถานะแอปไม่ค่อยอัปเดต"
-      },
-      {
-        "score": 2,
-        "thumbs": 3,
-        "text": "แทบจะเสียตังฟรี ระบบไม่อัพตำแหน่งแบบเรียลทาม ระบบสัตว์เลี้ยงชอบค้าง"
-      },
-      {
-        "score": 1,
-        "thumbs": 1,
-        "text": "แรกๆดี หลังๆไม่ได้ไปไหนแต่พิกัดไปทั่วเองอัติโนมัติ เมื่อก่อนดีมาก แต่เดี๋ยวนี้รู้สึกแย่ลง ปรับปรุงนะคะ"
-      },
-      {
-        "score": 1,
-        "thumbs": 1,
-        "text": "โอ้ยโมโห เงินในวอไม่มีแต่แอปไปกดสมัครพรีเมี่ยมให้ทั้งที่เรายังไม่ได้จ่ายเงินแต่ไปสมัครให้เอง ยกเลิกก้ไม่ได้ขอเงินคืนก็ไม่ได้ ยังไม่พอไปล็อคApp store ไม่ให้โหลดแอปต้องจ่ายมาก่อนทั้งที่เงินไม่มี กลายเป็นไปเป็นหนีแอปนี้เฉย อห"
-      }
-    ],
-    "top_tiktok_comments": [],
-    "top_reddit_posts": [
-      {
-        "sub": "",
-        "title": "Partner 29m used 3some app for years to try and facilitate couple experiences. I download it, he says we should delete it as its 'toxic'. Should I be worried?",
-        "score": 313,
-        "comments": 74,
-        "body": "Partner was experienced in 3somes and we discussed exploring them a few years back. We've been together 5yrs. I was initially hesitant but open to explore he downloaded an app similar to tinder but for kink/polyamory and said he would manage as a couple account. \n\nWhen asked abou"
-      },
-      {
-        "sub": "",
-        "title": "My wife (32F) found my (32M) old couple/dating app downloads and thinks I wanted other women",
-        "score": 0,
-        "comments": 37,
-        "body": "My wife (32F) and I (32M) have been going through a rough patch, and something from my phone history has made things worse. She saw that I had downloaded several couple/dating apps and tried some AI adult content. I didn’t even sign up for most of these apps, and on the few I did"
-      },
-      {
-        "sub": "",
-        "title": "New GF (3 weeks official, after 4-5 months together) dowloaded a dating app and sent a few messages (never met anyone) during a couple of days following a big argument - should I forgive her, if she works hard to rebuild trust? She’s 27, I’m 29.",
-        "score": 2,
-        "comments": 29,
-        "body": "We became official 3 weeks ago, after seeing each other for 4-5 months - we love each other, but have had semi-frequent arguments over these months. After the latest argument, she asked for a couple of days to think - which she had, and after which we reunited.\nHowever, a day lat"
-      }
-    ],
-    "dominant_complaint_themes": [
-      {
-        "theme": "location_tracking",
-        "count": 1
-      }
-    ]
-  },
-  {
-    "cell": "AE/selfcare",
-    "country": "AE",
-    "niche": "selfcare",
-    "top_app": {
-      "appId": "com.kayfiat.aleinayat.bialdhaat.app714835335",
-      "title": "العناية بالذات : كيفية العناية",
-      "ratings": 0,
-      "installs": "+1,000",
-      "histogram": {
-        "1": 0,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0
-      },
-      "offersIAP": false,
-      "adSupported": true
-    },
-    "star1_ratio_pct": 0,
-    "low_pct": null,
-    "tiktok_views_B": 152.7,
-    "tiktok_total_likes": 24810,
-    "cross_country_count": 2,
-    "monthly_rpu_usd": 5,
-    "conversion_rate": 0.015,
-    "cultural_risk": false,
-    "composite_score": 11,
-    "top_quotes": [],
-    "top_tiktok_comments": [
-      {
-        "likes": 4907,
-        "text": "تبخرون المنطقة ؟ انتبهي تزكم عليك"
-      },
-      {
-        "likes": 4092,
-        "text": "التبخير ينظف الرحم؟؟؟؟؟؟\nالرحم بينظف نفسه بنفسه!!!!!!!"
-      },
-      {
-        "likes": 3007,
-        "text": "طيب هاد روتين طبيعي اي بنت"
-      },
-      {
-        "likes": 2444,
-        "text": "كيف بركتي على الفحم؟"
-      },
-      {
-        "likes": 2201,
-        "text": "يعني ايه شفره بتشيل الشعر من الجذور"
-      }
-    ],
-    "top_reddit_posts": [
-      {
-        "sub": "",
-        "title": "I cut my screen time by 70% without deleting a single social media app.",
-        "score": 56,
-        "comments": 34,
-        "body": "Six months ago, I was a ghost of a person.\n\nI’d wake up at 7:00 AM, and before my feet even touched the floor, I was twenty minutes deep into social media. By noon, my brain felt like fried eggs. I was working a desk job, barely moving, and \"treating\" my stress by scrolling Short"
-      },
-      {
-        "sub": "",
-        "title": "Hint app made me notice patterns about myself I wasn’t really thinking about",
-        "score": 10,
-        "comments": 53,
-        "body": "I downloaded Hint pretty much by chance, and I didn’t have very high expectations for the app.\n\nhowever, some of the statements caught my attention not because they seemed magical but because they highlighted aspects of behavior that I recognize in myself, although I had never pu"
-      },
-      {
-        "sub": "",
-        "title": "what self improvement app made a real difference for you",
-        "score": 17,
-        "comments": 36,
-        "body": "Not asking for what's popular or what has the best rating. What actually moved something in your life, small or large, habit or mindset. What app contributed to a real change in how you live or work and what specifically did it do that other stuff hadn't.\n\nI'll go: Duolingo not b"
-      }
-    ],
-    "dominant_complaint_themes": []
-  },
-  {
     "cell": "TR/tarot",
     "country": "TR",
     "niche": "tarot",
@@ -1741,6 +1798,8 @@
     "monthly_rpu_usd": 1.95,
     "conversion_rate": 0.0125,
     "cultural_risk": false,
+    "cultural_validated": true,
+    "cultural_unvalidated_penalty": false,
     "composite_score": 10,
     "top_quotes": [
       {
@@ -1850,6 +1909,8 @@
     "monthly_rpu_usd": 0.9,
     "conversion_rate": 0.0075,
     "cultural_risk": false,
+    "cultural_validated": false,
+    "cultural_unvalidated_penalty": false,
     "composite_score": 10,
     "top_quotes": [
       {
@@ -1943,105 +2004,6 @@
     ]
   },
   {
-    "cell": "ID/astrology",
-    "country": "ID",
-    "niche": "astrology",
-    "top_app": {
-      "appId": "com.feelweel.astro",
-      "title": "Astroscope: Panduan Astrologi",
-      "score": 4.8,
-      "ratings": 4820,
-      "installs": "500.000+",
-      "histogram": {
-        "1": 118,
-        "2": 0,
-        "3": 39,
-        "4": 276,
-        "5": 4306
-      },
-      "offersIAP": true,
-      "IAPRange": "Rp 34.000 - Rp 349.000 per item",
-      "adSupported": false
-    },
-    "star1_ratio_pct": 2.4,
-    "low_pct": 3,
-    "tiktok_views_B": 189.8,
-    "tiktok_total_likes": 1721478,
-    "cross_country_count": 3,
-    "monthly_rpu_usd": 0.54,
-    "conversion_rate": 0.004,
-    "cultural_risk": false,
-    "composite_score": 10,
-    "top_quotes": [
-      {
-        "score": 1,
-        "thumbs": 3,
-        "text": "sucks, you guys really ain't know nothing about astrology 👎"
-      },
-      {
-        "score": 1,
-        "thumbs": 0,
-        "text": "most of them are premium"
-      },
-      {
-        "score": 1,
-        "thumbs": 0,
-        "text": "Don't have the city i born from"
-      }
-    ],
-    "top_tiktok_comments": [
-      {
-        "likes": 575189,
-        "text": "is this an optical illusion"
-      },
-      {
-        "likes": 325767,
-        "text": "Am I tripping rn"
-      },
-      {
-        "likes": 206718,
-        "text": "Why is she suddenly a little person"
-      },
-      {
-        "likes": 92061,
-        "text": "me when I wear the shirt of arm shortening"
-      },
-      {
-        "likes": 67237,
-        "text": ""
-      }
-    ],
-    "top_reddit_posts": [
-      {
-        "sub": "",
-        "title": "I want to start practicing again. Is there an app like Duolingo but for Witchcraft? ",
-        "score": 233,
-        "comments": 85,
-        "body": "I am falling behind and find myself days without practice. I need to start once more. And need sincere advice. Consistency and mental fatigue are the main pain points for me. "
-      },
-      {
-        "sub": "",
-        "title": "I want to start practicing again. Is there an app like Duolingo but for Witchcraft? ",
-        "score": 233,
-        "comments": 85,
-        "body": "I am falling behind and find myself days without practice. I need to start once more. And need sincere advice. Consistency and mental fatigue are the main pain points for me. "
-      },
-      {
-        "sub": "",
-        "title": "Asynchronous bookclub anyone? I bet we all have wonderful recommendations for books that could help us on our individual journeys, and help build our community. The Marco Polo app could host our discussion of the book of the month! Starting with \"For Small Creatures Such as We\" comment below to join",
-        "score": 207,
-        "comments": 87,
-        "body": ""
-      }
-    ],
-    "dominant_complaint_themes": [
-      {
-        "theme": "paywall_locked",
-        "count": 1
-      }
-    ]
-  },
-  {
     "cell": "BR/sleep",
     "country": "BR",
     "niche": "sleep",
@@ -2070,6 +2032,8 @@
     "monthly_rpu_usd": 1.75,
     "conversion_rate": 0.0075,
     "cultural_risk": false,
+    "cultural_validated": false,
+    "cultural_unvalidated_penalty": false,
     "composite_score": 10,
     "top_quotes": [
       {
@@ -2165,6 +2129,8 @@
     "monthly_rpu_usd": 2.8,
     "conversion_rate": 0.0075,
     "cultural_risk": false,
+    "cultural_validated": false,
+    "cultural_unvalidated_penalty": false,
     "composite_score": 10,
     "top_quotes": [
       {
@@ -2236,105 +2202,6 @@
     ]
   },
   {
-    "cell": "TR/language",
-    "country": "TR",
-    "niche": "language",
-    "top_app": {
-      "appId": "ru.zengalt.simpler",
-      "title": "Simpler: İngilizce Öğren!",
-      "score": 4.787345,
-      "ratings": 736868,
-      "installs": "10.000.000+",
-      "histogram": {
-        "1": 11045,
-        "2": 4314,
-        "3": 12247,
-        "4": 74976,
-        "5": 634235
-      },
-      "offersIAP": true,
-      "IAPRange": "Öğe başına ₺21,99-₺999,00",
-      "adSupported": false
-    },
-    "star1_ratio_pct": 1.5,
-    "low_pct": 10,
-    "tiktok_views_B": 80.7,
-    "tiktok_total_likes": 3080,
-    "cross_country_count": 2,
-    "monthly_rpu_usd": 6,
-    "conversion_rate": 0.0125,
-    "cultural_risk": false,
-    "composite_score": 10,
-    "top_quotes": [
-      {
-        "score": 1,
-        "thumbs": 4,
-        "text": "Kuralları ve örneklerini çok kısa örneklerle anlatıp geçiyor bundan dolayı hafızaya yerleşmiyor ve bu da çok sinir bozucu bir hal alıyor. Neden burada bu kural geçerli de başka yerde değil diye sorular birikiyor akılda. Premium almıştım ama bu gidişle iade isteyeceğim. 😮‍💨 Edit"
-      },
-      {
-        "score": 2,
-        "thumbs": 1,
-        "text": "Eskiden verilen günlük farklı kelimeler neden artık verilmiyor? Günlük kelime güzel bir uygulamaydı ancak artık yok. Ben daha çok o kelimeler için üyelik oluşturmuştum."
-      },
-      {
-        "score": 1,
-        "thumbs": 0,
-        "text": "tam bi sahtekarsınız. 450 tl ödeyin 1 yıl boyunca kullanın diye öneri geldi. paketi aldım bi kaç cümle çıktı akabinde premium paket al diye her saniye karşıma çıkartıyorsunuz. kelime kontrolü için, 2. seviyeye geçmek için, sertifika için premium almam için zorluyorsunuz. kaç haft"
-      },
-      {
-        "score": 2,
-        "thumbs": 0,
-        "text": "ancak dil öğrenmeye yeni başlayanlar için temeli öğrenmeye yardımcı olabilecek bir uygulama. intermediate seviyesinden başladım upper seviyesini bitirdim. 1-2 ay sürdü. şu anda upper mıyım, tabii ki hayır. ve devamı yok. upper üstü yok yani. 1 yıllık üyelik yaptım ve öylece kaldı"
-      },
-      {
-        "score": 1,
-        "thumbs": 0,
-        "text": "Komedi Filmi Verilenler (It's a comedy) oyun. sıralamayı düzgün yapmamız beklenmekte. Buraya kadar herşey normal. Fakat cevap yanlış diyor. Bir muhatap da yok ki derdini anlatasın. Bu uygulama insana bildiğini de yanılttırıyor."
-      }
-    ],
-    "top_tiktok_comments": [
-      {
-        "likes": 2632,
-        "text": "amerikalılar buna çok takmaz bence"
-      },
-      {
-        "likes": 141,
-        "text": "[zey] deyilmi yaa"
-      },
-      {
-        "likes": 57,
-        "text": "Ruslar falan 'Shank You' diyorlar, biz gene gayet güzel söylüyoruz bence."
-      },
-      {
-        "likes": 30,
-        "text": "cheek"
-      },
-      {
-        "likes": 29,
-        "text": "valla bilmiyom abi"
-      }
-    ],
-    "top_reddit_posts": [],
-    "dominant_complaint_themes": [
-      {
-        "theme": "paywall_locked",
-        "count": 2
-      },
-      {
-        "theme": "pricing_billing",
-        "count": 2
-      },
-      {
-        "theme": "inaccurate",
-        "count": 1
-      },
-      {
-        "theme": "crashes_bugs",
-        "count": 1
-      }
-    ]
-  },
-  {
     "cell": "ID/photo_editing",
     "country": "ID",
     "niche": "photo_editing",
@@ -2363,6 +2230,8 @@
     "monthly_rpu_usd": 0.75,
     "conversion_rate": 0.004,
     "cultural_risk": false,
+    "cultural_validated": false,
+    "cultural_unvalidated_penalty": false,
     "composite_score": 10,
     "top_quotes": [
       {
@@ -2441,6 +2310,8 @@
     "monthly_rpu_usd": 0.75,
     "conversion_rate": 0.004,
     "cultural_risk": false,
+    "cultural_validated": false,
+    "cultural_unvalidated_penalty": false,
     "composite_score": 10,
     "top_quotes": [
       {
@@ -2487,6 +2358,84 @@
     ]
   },
   {
+    "cell": "AE/selfcare",
+    "country": "AE",
+    "niche": "selfcare",
+    "top_app": {
+      "appId": "com.kayfiat.aleinayat.bialdhaat.app714835335",
+      "title": "العناية بالذات : كيفية العناية",
+      "ratings": 0,
+      "installs": "+1,000",
+      "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "offersIAP": false,
+      "adSupported": true
+    },
+    "star1_ratio_pct": 0,
+    "low_pct": null,
+    "tiktok_views_B": 152.7,
+    "tiktok_total_likes": 24810,
+    "cross_country_count": 2,
+    "monthly_rpu_usd": 5,
+    "conversion_rate": 0.015,
+    "cultural_risk": false,
+    "cultural_validated": false,
+    "cultural_unvalidated_penalty": true,
+    "composite_score": 10,
+    "top_quotes": [],
+    "top_tiktok_comments": [
+      {
+        "likes": 4907,
+        "text": "تبخرون المنطقة ؟ انتبهي تزكم عليك"
+      },
+      {
+        "likes": 4092,
+        "text": "التبخير ينظف الرحم؟؟؟؟؟؟\nالرحم بينظف نفسه بنفسه!!!!!!!"
+      },
+      {
+        "likes": 3007,
+        "text": "طيب هاد روتين طبيعي اي بنت"
+      },
+      {
+        "likes": 2444,
+        "text": "كيف بركتي على الفحم؟"
+      },
+      {
+        "likes": 2201,
+        "text": "يعني ايه شفره بتشيل الشعر من الجذور"
+      }
+    ],
+    "top_reddit_posts": [
+      {
+        "sub": "",
+        "title": "I cut my screen time by 70% without deleting a single social media app.",
+        "score": 56,
+        "comments": 34,
+        "body": "Six months ago, I was a ghost of a person.\n\nI’d wake up at 7:00 AM, and before my feet even touched the floor, I was twenty minutes deep into social media. By noon, my brain felt like fried eggs. I was working a desk job, barely moving, and \"treating\" my stress by scrolling Short"
+      },
+      {
+        "sub": "",
+        "title": "Hint app made me notice patterns about myself I wasn’t really thinking about",
+        "score": 10,
+        "comments": 53,
+        "body": "I downloaded Hint pretty much by chance, and I didn’t have very high expectations for the app.\n\nhowever, some of the statements caught my attention not because they seemed magical but because they highlighted aspects of behavior that I recognize in myself, although I had never pu"
+      },
+      {
+        "sub": "",
+        "title": "what self improvement app made a real difference for you",
+        "score": 17,
+        "comments": 36,
+        "body": "Not asking for what's popular or what has the best rating. What actually moved something in your life, small or large, habit or mindset. What app contributed to a real change in how you live or work and what specifically did it do that other stuff hadn't.\n\nI'll go: Duolingo not b"
+      }
+    ],
+    "dominant_complaint_themes": []
+  },
+  {
     "cell": "MX/selfcare",
     "country": "MX",
     "niche": "selfcare",
@@ -2515,6 +2464,8 @@
     "monthly_rpu_usd": 1.25,
     "conversion_rate": 0.0075,
     "cultural_risk": false,
+    "cultural_validated": false,
+    "cultural_unvalidated_penalty": false,
     "composite_score": 9,
     "top_quotes": [
       {
@@ -2604,6 +2555,8 @@
     "monthly_rpu_usd": 1.05,
     "conversion_rate": 0.004,
     "cultural_risk": false,
+    "cultural_validated": false,
+    "cultural_unvalidated_penalty": false,
     "composite_score": 9,
     "top_quotes": [
       {
@@ -2670,6 +2623,8 @@
     "monthly_rpu_usd": 1.25,
     "conversion_rate": 0.0075,
     "cultural_risk": false,
+    "cultural_validated": false,
+    "cultural_unvalidated_penalty": false,
     "composite_score": 9,
     "top_quotes": [
       {
@@ -2742,6 +2697,8 @@
     "monthly_rpu_usd": 1.4,
     "conversion_rate": 0.0075,
     "cultural_risk": false,
+    "cultural_validated": false,
+    "cultural_unvalidated_penalty": false,
     "composite_score": 9,
     "top_quotes": [
       {
@@ -2841,6 +2798,8 @@
     "monthly_rpu_usd": 2,
     "conversion_rate": 0.0075,
     "cultural_risk": false,
+    "cultural_validated": false,
+    "cultural_unvalidated_penalty": false,
     "composite_score": 9,
     "top_quotes": [
       {
@@ -2904,75 +2863,102 @@
     ]
   },
   {
-    "cell": "TR/photo_editing",
+    "cell": "TR/language",
     "country": "TR",
-    "niche": "photo_editing",
+    "niche": "language",
     "top_app": {
-      "appId": "com.photoroom.app",
-      "title": "Photoroom: AI Fotoğraf Editörü",
-      "score": 4.674747,
-      "ratings": 3881883,
-      "installs": "100.000.000+",
+      "appId": "ru.zengalt.simpler",
+      "title": "Simpler: İngilizce Öğren!",
+      "score": 4.787345,
+      "ratings": 736868,
+      "installs": "10.000.000+",
       "histogram": {
-        "1": 166229,
-        "2": 41030,
-        "3": 94974,
-        "4": 284100,
-        "5": 3295273
+        "1": 11045,
+        "2": 4314,
+        "3": 12247,
+        "4": 74976,
+        "5": 634235
       },
       "offersIAP": true,
-      "IAPRange": "Öğe başına ₺49,99-₺53.159,99",
+      "IAPRange": "Öğe başına ₺21,99-₺999,00",
       "adSupported": false
     },
-    "star1_ratio_pct": 4.3,
-    "low_pct": 12,
-    "tiktok_views_B": 16358.6,
-    "tiktok_total_likes": 0,
-    "cross_country_count": 1,
-    "monthly_rpu_usd": 3.75,
+    "star1_ratio_pct": 1.5,
+    "low_pct": 10,
+    "tiktok_views_B": 80.7,
+    "tiktok_total_likes": 3080,
+    "cross_country_count": 2,
+    "monthly_rpu_usd": 6,
     "conversion_rate": 0.0125,
     "cultural_risk": false,
+    "cultural_validated": false,
+    "cultural_unvalidated_penalty": true,
     "composite_score": 9,
     "top_quotes": [
       {
         "score": 1,
-        "thumbs": 22,
-        "text": "Destek ekibi sayfanız yüklenmedi hatasi veriyor. Eski pro uyeligimi 1 ay kullanmadan 1 yıllık ödemem oldu max a yukselttim ve pro uyeligimin ucret iadesi yapilacagi belirtildi ancak google play bunu onaylamiyor. Ben zaten su an max a yukselttim eski uyelik pro ve o kullanilmiyor "
-      },
-      {
-        "score": 1,
-        "thumbs": 5,
-        "text": "deneme sürecinde kullanabiliyodum uygulamayı satın aldıktan sonra güncellendi ve hiçbir fotoğrafı tamamlamıyo sürekli görselnoluşturma aşamasında kalıyo. ücretsiz olan uygulamalardan daha berbat halde aşırı yavaş hatta çalışmıyo"
-      },
-      {
-        "score": 1,
         "thumbs": 4,
-        "text": "berbat bir uygulama öpüşmeyi bille möstehcenlik sayıyor ve oluşturamıyor gerçekten hayal kırıklığı yaşamaktan bıktım uygulamayı silmek en iyisi bence"
+        "text": "Kuralları ve örneklerini çok kısa örneklerle anlatıp geçiyor bundan dolayı hafızaya yerleşmiyor ve bu da çok sinir bozucu bir hal alıyor. Neden burada bu kural geçerli de başka yerde değil diye sorular birikiyor akılda. Premium almıştım ama bu gidişle iade isteyeceğim. 😮‍💨 Edit"
+      },
+      {
+        "score": 2,
+        "thumbs": 1,
+        "text": "Eskiden verilen günlük farklı kelimeler neden artık verilmiyor? Günlük kelime güzel bir uygulamaydı ancak artık yok. Ben daha çok o kelimeler için üyelik oluşturmuştum."
       },
       {
         "score": 1,
-        "thumbs": 4,
-        "text": "uygulamaua gelen son güncellemeden sonra galeriye kaydedemiyorum bir türlü problem var.her güncellemeden sonra ayrı bir problem çıkıyor"
+        "thumbs": 0,
+        "text": "tam bi sahtekarsınız. 450 tl ödeyin 1 yıl boyunca kullanın diye öneri geldi. paketi aldım bi kaç cümle çıktı akabinde premium paket al diye her saniye karşıma çıkartıyorsunuz. kelime kontrolü için, 2. seviyeye geçmek için, sertifika için premium almam için zorluyorsunuz. kaç haft"
+      },
+      {
+        "score": 2,
+        "thumbs": 0,
+        "text": "ancak dil öğrenmeye yeni başlayanlar için temeli öğrenmeye yardımcı olabilecek bir uygulama. intermediate seviyesinden başladım upper seviyesini bitirdim. 1-2 ay sürdü. şu anda upper mıyım, tabii ki hayır. ve devamı yok. upper üstü yok yani. 1 yıllık üyelik yaptım ve öylece kaldı"
       },
       {
         "score": 1,
-        "thumbs": 3,
-        "text": "Kesinlikle tavsiye etmiyorum. Takı çekimi için indirmiştim. Saçma sapan resimler üretiyor. Paranızı boşuna harcamayın. Profesyonel çekimler için değil"
+        "thumbs": 0,
+        "text": "Komedi Filmi Verilenler (It's a comedy) oyun. sıralamayı düzgün yapmamız beklenmekte. Buraya kadar herşey normal. Fakat cevap yanlış diyor. Bir muhatap da yok ki derdini anlatasın. Bu uygulama insana bildiğini de yanılttırıyor."
       }
     ],
-    "top_tiktok_comments": [],
+    "top_tiktok_comments": [
+      {
+        "likes": 2632,
+        "text": "amerikalılar buna çok takmaz bence"
+      },
+      {
+        "likes": 141,
+        "text": "[zey] deyilmi yaa"
+      },
+      {
+        "likes": 57,
+        "text": "Ruslar falan 'Shank You' diyorlar, biz gene gayet güzel söylüyoruz bence."
+      },
+      {
+        "likes": 30,
+        "text": "cheek"
+      },
+      {
+        "likes": 29,
+        "text": "valla bilmiyom abi"
+      }
+    ],
     "top_reddit_posts": [],
     "dominant_complaint_themes": [
       {
-        "theme": "pricing_billing",
-        "count": 4
+        "theme": "paywall_locked",
+        "count": 2
       },
       {
-        "theme": "too_many_ads",
+        "theme": "pricing_billing",
+        "count": 2
+      },
+      {
+        "theme": "inaccurate",
         "count": 1
       },
       {
-        "theme": "support_unresponsive",
+        "theme": "crashes_bugs",
         "count": 1
       }
     ]
@@ -3006,6 +2992,8 @@
     "monthly_rpu_usd": 1.2,
     "conversion_rate": 0.004,
     "cultural_risk": false,
+    "cultural_validated": false,
+    "cultural_unvalidated_penalty": false,
     "composite_score": 9,
     "top_quotes": [
       {
@@ -3101,6 +3089,8 @@
     "monthly_rpu_usd": 1.08,
     "conversion_rate": 0.004,
     "cultural_risk": false,
+    "cultural_validated": false,
+    "cultural_unvalidated_penalty": false,
     "composite_score": 9,
     "top_quotes": [
       {
@@ -3182,247 +3172,6 @@
     ]
   },
   {
-    "cell": "SA/tarot",
-    "country": "SA",
-    "niche": "tarot",
-    "top_app": {
-      "appId": "com.muratalagoz.tarot12",
-      "title": "قراءة التاروت",
-      "score": 3.8,
-      "ratings": 763,
-      "installs": "+50,000",
-      "histogram": {
-        "1": 152,
-        "2": 0,
-        "3": 152,
-        "4": 0,
-        "5": 457
-      },
-      "offersIAP": true,
-      "IAPRange": "‏٢٫٩٩ ر.س.‏ - ‏١٩٤٫٩٩ ر.س.‏ لكل عنصر",
-      "adSupported": true
-    },
-    "star1_ratio_pct": 19.9,
-    "low_pct": 6,
-    "tiktok_views_B": 214.8,
-    "tiktok_total_likes": 99,
-    "cross_country_count": 2,
-    "monthly_rpu_usd": 3.25,
-    "conversion_rate": 0.015,
-    "cultural_risk": true,
-    "composite_score": 9,
-    "top_quotes": [
-      {
-        "score": 1,
-        "thumbs": 4,
-        "text": "برنامج زاي الخرا"
-      },
-      {
-        "score": 1,
-        "thumbs": 2,
-        "text": "كيفيه الاستعمال 🙂"
-      },
-      {
-        "score": 1,
-        "thumbs": 1,
-        "text": "سيء"
-      },
-      {
-        "score": 2,
-        "thumbs": 0,
-        "text": "برنامج فاشل يعني كله ب فلوس وبس مره وحده قرالي بدون فلوس نصيحه لحد ينزله"
-      },
-      {
-        "score": 2,
-        "thumbs": 0,
-        "text": "هو جميل لكن ليس مجاني حذفته"
-      }
-    ],
-    "top_tiktok_comments": [
-      {
-        "likes": 28,
-        "text": "شوقتيني مين هاد ه🤣🤣🤣"
-      },
-      {
-        "likes": 18,
-        "text": "زواج ان شاء الله اذا فيه خير الي"
-      },
-      {
-        "likes": 10,
-        "text": "استقبل طاقة الزواج والحب يا رب العالمين"
-      },
-      {
-        "likes": 8,
-        "text": "انا بفتح قلبي لحب صادق وبستقبل علاقة فيها امان واستقرار وزواج سعيد"
-      },
-      {
-        "likes": 6,
-        "text": "ندم ورجع"
-      }
-    ],
-    "top_reddit_posts": [
-      {
-        "sub": "",
-        "title": "Woke up with a migraine to find that this was my card of the day in my tarot app",
-        "score": 205,
-        "comments": 13,
-        "body": ""
-      },
-      {
-        "sub": "",
-        "title": "Woke up with a migraine to find that this was my card of the day in my tarot app",
-        "score": 205,
-        "comments": 13,
-        "body": ""
-      },
-      {
-        "sub": "",
-        "title": "Have you guys ever tried this app? How do you feel about it?",
-        "score": 22,
-        "comments": 27,
-        "body": ""
-      }
-    ],
-    "dominant_complaint_themes": []
-  },
-  {
-    "cell": "SA/selfcare",
-    "country": "SA",
-    "niche": "selfcare",
-    "top_app": {
-      "appId": "com.kayfiat.aleinayat.bialdhaat.app714835335",
-      "title": "العناية بالذات : كيفية العناية",
-      "ratings": 0,
-      "installs": "+1,000",
-      "histogram": {
-        "1": 0,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0
-      },
-      "offersIAP": false,
-      "adSupported": true
-    },
-    "star1_ratio_pct": 0,
-    "low_pct": null,
-    "tiktok_views_B": 152.7,
-    "tiktok_total_likes": 0,
-    "cross_country_count": 2,
-    "monthly_rpu_usd": 6.25,
-    "conversion_rate": 0.015,
-    "cultural_risk": false,
-    "composite_score": 9,
-    "top_quotes": [],
-    "top_tiktok_comments": [],
-    "top_reddit_posts": [
-      {
-        "sub": "",
-        "title": "I cut my screen time by 70% without deleting a single social media app.",
-        "score": 56,
-        "comments": 34,
-        "body": "Six months ago, I was a ghost of a person.\n\nI’d wake up at 7:00 AM, and before my feet even touched the floor, I was twenty minutes deep into social media. By noon, my brain felt like fried eggs. I was working a desk job, barely moving, and \"treating\" my stress by scrolling Short"
-      },
-      {
-        "sub": "",
-        "title": "Hint app made me notice patterns about myself I wasn’t really thinking about",
-        "score": 10,
-        "comments": 53,
-        "body": "I downloaded Hint pretty much by chance, and I didn’t have very high expectations for the app.\n\nhowever, some of the statements caught my attention not because they seemed magical but because they highlighted aspects of behavior that I recognize in myself, although I had never pu"
-      },
-      {
-        "sub": "",
-        "title": "what self improvement app made a real difference for you",
-        "score": 17,
-        "comments": 36,
-        "body": "Not asking for what's popular or what has the best rating. What actually moved something in your life, small or large, habit or mindset. What app contributed to a real change in how you live or work and what specifically did it do that other stuff hadn't.\n\nI'll go: Duolingo not b"
-      }
-    ],
-    "dominant_complaint_themes": []
-  },
-  {
-    "cell": "AE/astrology",
-    "country": "AE",
-    "niche": "astrology",
-    "top_app": {
-      "appId": "com.internetdesignzone.zodiacprofile",
-      "title": "برجك اليومي وقراءة الأبراج",
-      "score": 4.5142856,
-      "ratings": 20500,
-      "installs": "+1,000,000",
-      "histogram": {
-        "1": 0,
-        "2": 1138,
-        "3": 1138,
-        "4": 3986,
-        "5": 13666
-      },
-      "offersIAP": false,
-      "adSupported": true
-    },
-    "star1_ratio_pct": 0,
-    "low_pct": 12,
-    "tiktok_views_B": 189.8,
-    "tiktok_total_likes": 0,
-    "cross_country_count": 2,
-    "monthly_rpu_usd": 3.6,
-    "conversion_rate": 0.015,
-    "cultural_risk": true,
-    "composite_score": 9,
-    "top_quotes": [
-      {
-        "score": 1,
-        "thumbs": 1,
-        "text": "اين برج الجوزاء لا يوجد ليس جيداً 😒"
-      },
-      {
-        "score": 1,
-        "thumbs": 0,
-        "text": "اشوع تطبيق شفته لحد الان"
-      },
-      {
-        "score": 1,
-        "thumbs": 0,
-        "text": "ابشع تطبيق لا يستحق حتى نجمه واحده"
-      },
-      {
-        "score": 1,
-        "thumbs": 0,
-        "text": "كيف اترجمه الإعربي"
-      },
-      {
-        "score": 1,
-        "thumbs": 0,
-        "text": "لاتصدقو"
-      }
-    ],
-    "top_tiktok_comments": [],
-    "top_reddit_posts": [
-      {
-        "sub": "",
-        "title": "I want to start practicing again. Is there an app like Duolingo but for Witchcraft? ",
-        "score": 233,
-        "comments": 85,
-        "body": "I am falling behind and find myself days without practice. I need to start once more. And need sincere advice. Consistency and mental fatigue are the main pain points for me. "
-      },
-      {
-        "sub": "",
-        "title": "I want to start practicing again. Is there an app like Duolingo but for Witchcraft? ",
-        "score": 233,
-        "comments": 85,
-        "body": "I am falling behind and find myself days without practice. I need to start once more. And need sincere advice. Consistency and mental fatigue are the main pain points for me. "
-      },
-      {
-        "sub": "",
-        "title": "Asynchronous bookclub anyone? I bet we all have wonderful recommendations for books that could help us on our individual journeys, and help build our community. The Marco Polo app could host our discussion of the book of the month! Starting with \"For Small Creatures Such as We\" comment below to join",
-        "score": 207,
-        "comments": 87,
-        "body": ""
-      }
-    ],
-    "dominant_complaint_themes": []
-  },
-  {
     "cell": "MX/tarot",
     "country": "MX",
     "niche": "tarot",
@@ -3451,6 +3200,8 @@
     "monthly_rpu_usd": 0.65,
     "conversion_rate": 0.0075,
     "cultural_risk": false,
+    "cultural_validated": false,
+    "cultural_unvalidated_penalty": false,
     "composite_score": 8,
     "top_quotes": [
       {
@@ -3561,6 +3312,8 @@
     "monthly_rpu_usd": 2.7,
     "conversion_rate": 0.0125,
     "cultural_risk": false,
+    "cultural_validated": false,
+    "cultural_unvalidated_penalty": false,
     "composite_score": 8,
     "top_quotes": [],
     "top_tiktok_comments": [
@@ -3611,109 +3364,6 @@
     "dominant_complaint_themes": []
   },
   {
-    "cell": "TR/meditation",
-    "country": "TR",
-    "niche": "meditation",
-    "top_app": {
-      "appId": "app.meditasyon",
-      "title": "Meditopia: Meditasyon, Uyku",
-      "score": 4.51953,
-      "ratings": 279599,
-      "installs": "10.000.000+",
-      "histogram": {
-        "1": 21454,
-        "2": 2600,
-        "3": 9175,
-        "4": 22324,
-        "5": 224023
-      },
-      "offersIAP": true,
-      "IAPRange": "Öğe başına ₺11,99-₺1.999,99",
-      "adSupported": false
-    },
-    "star1_ratio_pct": 7.7,
-    "low_pct": 12,
-    "tiktok_views_B": 49.6,
-    "tiktok_total_likes": 187,
-    "cross_country_count": 1,
-    "monthly_rpu_usd": 3,
-    "conversion_rate": 0.0125,
-    "cultural_risk": false,
-    "composite_score": 8,
-    "top_quotes": [
-      {
-        "score": 1,
-        "thumbs": 7,
-        "text": "Bu yorumu biraz(aslında bayağı) gecikmeli olarak yazıyorum. 8 Haziran 2025 tarihinde bir tavsiye üzerine bu uygulamayı indirmiştim. Ücretsiz deneme sürecinden yararlanmak isterken bana göre olmadığını anladım ve üyeliğimi o gün iptal ettim. Lakin gelin görün ki 1 yıllık ücret ola"
-      },
-      {
-        "score": 1,
-        "thumbs": 4,
-        "text": "1 hafta ücretsiz dendi. 1 hafta dolmadan Google üzerinden iptal ettiğimde herhangi bir ücret iadesi olmayacağı yazdı. Sakın kanmayın. Ayrıca meditasyonlarda ses seviyesi değiştirince arka plan sesi kapanıyor, konuşma sesleri normal gelmeye devam ediyor. Çok kötü."
-      },
-      {
-        "score": 1,
-        "thumbs": 3,
-        "text": "Eğer uygulamaya para yatırmayacaksanız hiç yüklememenizi tavsiye ederim. Çünkü ücretsiz şekilde kullanabilecek hizmetler çok az. Nerdeyse her şey kilitli, yani ücretli. İçinde masallar, uyku meditasyonları, rahatlatıcı sesler gibi hizmetler var. Fakat hepsinden sadece birer tane "
-      },
-      {
-        "score": 2,
-        "thumbs": 2,
-        "text": "son zamanlarda reklam ve bildirimlerde sürekli zorla satın almaya yönlendirmesi, uygulamanın ortaya çıkış amacıyla çelişiyor"
-      },
-      {
-        "score": 1,
-        "thumbs": 1,
-        "text": "Ücretsiz içerikler neredeyse yok denecek kadar az. Abonelik ücreti de oldukça pahalı. Para vermeye niyetiniz yoksa hiç zahmet edip indirmeyin"
-      }
-    ],
-    "top_tiktok_comments": [
-      {
-        "likes": 61,
-        "text": "arada hatırlatında mutlu olayım"
-      },
-      {
-        "likes": 19,
-        "text": "valla sen bana çok iyi geliyosun çok teşekkürler🥹🫶🏻🤍💕❤️‍🩹🪻💞"
-      },
-      {
-        "likes": 11,
-        "text": "kalbime dokundugumda gözyaslarimi tutamadim cok iyi geldi🥰"
-      },
-      {
-        "likes": 8,
-        "text": "sanki kalbim yokmuş gibi hissediyorum orada bom boş yer varmış gibi ama benim kalbim çok ağırıyor...😔"
-      },
-      {
-        "likes": 7,
-        "text": "abla sesın huzur veriyor 💗🤍"
-      }
-    ],
-    "top_reddit_posts": [],
-    "dominant_complaint_themes": [
-      {
-        "theme": "pricing_billing",
-        "count": 5
-      },
-      {
-        "theme": "paywall_locked",
-        "count": 2
-      },
-      {
-        "theme": "refund_denied",
-        "count": 2
-      },
-      {
-        "theme": "too_many_ads",
-        "count": 1
-      },
-      {
-        "theme": "support_unresponsive",
-        "count": 1
-      }
-    ]
-  },
-  {
     "cell": "TR/fitness",
     "country": "TR",
     "niche": "fitness",
@@ -3742,6 +3392,8 @@
     "monthly_rpu_usd": 2.7,
     "conversion_rate": 0.0125,
     "cultural_risk": false,
+    "cultural_validated": false,
+    "cultural_unvalidated_penalty": false,
     "composite_score": 8,
     "top_quotes": [
       {
@@ -3822,6 +3474,8 @@
     "monthly_rpu_usd": 0.75,
     "conversion_rate": 0.004,
     "cultural_risk": false,
+    "cultural_validated": false,
+    "cultural_unvalidated_penalty": false,
     "composite_score": 8,
     "top_quotes": [
       {
@@ -3904,6 +3558,8 @@
     "monthly_rpu_usd": 1.08,
     "conversion_rate": 0.004,
     "cultural_risk": false,
+    "cultural_validated": false,
+    "cultural_unvalidated_penalty": false,
     "composite_score": 8,
     "top_quotes": [
       {
@@ -4013,6 +3669,8 @@
     "monthly_rpu_usd": 1,
     "conversion_rate": 0.004,
     "cultural_risk": false,
+    "cultural_validated": false,
+    "cultural_unvalidated_penalty": false,
     "composite_score": 8,
     "top_quotes": [
       {
@@ -4113,6 +3771,8 @@
     "monthly_rpu_usd": 0.49,
     "conversion_rate": 0.0075,
     "cultural_risk": false,
+    "cultural_validated": false,
+    "cultural_unvalidated_penalty": false,
     "composite_score": 8,
     "top_quotes": [
       {
@@ -4200,6 +3860,8 @@
     "monthly_rpu_usd": 2.45,
     "conversion_rate": 0.0075,
     "cultural_risk": false,
+    "cultural_validated": false,
+    "cultural_unvalidated_penalty": false,
     "composite_score": 8,
     "top_quotes": [
       {
@@ -4274,6 +3936,8 @@
     "monthly_rpu_usd": 1.75,
     "conversion_rate": 0.0075,
     "cultural_risk": false,
+    "cultural_validated": false,
+    "cultural_unvalidated_penalty": false,
     "composite_score": 8,
     "top_quotes": [
       {
@@ -4324,52 +3988,77 @@
     ]
   },
   {
-    "cell": "TR/video_editing",
+    "cell": "TR/photo_editing",
     "country": "TR",
-    "niche": "video_editing",
+    "niche": "photo_editing",
     "top_app": {
-      "appId": "com.camerasideas.trimmer",
-      "title": "YouCut - Video Düzenleyici",
-      "score": 4.8661566,
-      "ratings": 8442561,
+      "appId": "com.photoroom.app",
+      "title": "Photoroom: AI Fotoğraf Editörü",
+      "score": 4.674747,
+      "ratings": 3881883,
       "installs": "100.000.000+",
       "histogram": {
-        "1": 87151,
-        "2": 26197,
-        "3": 94820,
-        "4": 512896,
-        "5": 7721374
+        "1": 166229,
+        "2": 41030,
+        "3": 94974,
+        "4": 284100,
+        "5": 3295273
       },
       "offersIAP": true,
-      "IAPRange": "Öğe başına ₺10,99-₺2.459,99",
-      "adSupported": true
+      "IAPRange": "Öğe başına ₺49,99-₺53.159,99",
+      "adSupported": false
     },
-    "star1_ratio_pct": 1,
-    "low_pct": 2,
-    "tiktok_views_B": 17033.5,
+    "star1_ratio_pct": 4.3,
+    "low_pct": 12,
+    "tiktok_views_B": 16358.6,
     "tiktok_total_likes": 0,
-    "cross_country_count": 3,
+    "cross_country_count": 1,
     "monthly_rpu_usd": 3.75,
     "conversion_rate": 0.0125,
     "cultural_risk": false,
+    "cultural_validated": false,
+    "cultural_unvalidated_penalty": true,
     "composite_score": 8,
     "top_quotes": [
       {
         "score": 1,
-        "thumbs": 0,
-        "text": "açar açmaz pro amk."
+        "thumbs": 22,
+        "text": "Destek ekibi sayfanız yüklenmedi hatasi veriyor. Eski pro uyeligimi 1 ay kullanmadan 1 yıllık ödemem oldu max a yukselttim ve pro uyeligimin ucret iadesi yapilacagi belirtildi ancak google play bunu onaylamiyor. Ben zaten su an max a yukselttim eski uyelik pro ve o kullanilmiyor "
       },
       {
         "score": 1,
-        "thumbs": 0,
-        "text": "Telefon da kullandığım Yapı Kredi, Banka Uygulamasını 2 sefer açmaya zorladı. Bugün de Enpara uygulamasını Telefona yükledi. Bu Uygulama her kullanım sonunda acayip İşler çeviriyor."
+        "thumbs": 5,
+        "text": "deneme sürecinde kullanabiliyodum uygulamayı satın aldıktan sonra güncellendi ve hiçbir fotoğrafı tamamlamıyo sürekli görselnoluşturma aşamasında kalıyo. ücretsiz olan uygulamalardan daha berbat halde aşırı yavaş hatta çalışmıyo"
+      },
+      {
+        "score": 1,
+        "thumbs": 4,
+        "text": "berbat bir uygulama öpüşmeyi bille möstehcenlik sayıyor ve oluşturamıyor gerçekten hayal kırıklığı yaşamaktan bıktım uygulamayı silmek en iyisi bence"
+      },
+      {
+        "score": 1,
+        "thumbs": 4,
+        "text": "uygulamaua gelen son güncellemeden sonra galeriye kaydedemiyorum bir türlü problem var.her güncellemeden sonra ayrı bir problem çıkıyor"
+      },
+      {
+        "score": 1,
+        "thumbs": 3,
+        "text": "Kesinlikle tavsiye etmiyorum. Takı çekimi için indirmiştim. Saçma sapan resimler üretiyor. Paranızı boşuna harcamayın. Profesyonel çekimler için değil"
       }
     ],
     "top_tiktok_comments": [],
     "top_reddit_posts": [],
     "dominant_complaint_themes": [
       {
-        "theme": "crashes_bugs",
+        "theme": "pricing_billing",
+        "count": 4
+      },
+      {
+        "theme": "too_many_ads",
+        "count": 1
+      },
+      {
+        "theme": "support_unresponsive",
         "count": 1
       }
     ]
@@ -4403,6 +4092,8 @@
     "monthly_rpu_usd": 1.04,
     "conversion_rate": 0.01,
     "cultural_risk": true,
+    "cultural_validated": false,
+    "cultural_unvalidated_penalty": false,
     "composite_score": 8,
     "top_quotes": [
       {
@@ -4484,6 +4175,8 @@
     "monthly_rpu_usd": 2,
     "conversion_rate": 0.01,
     "cultural_risk": false,
+    "cultural_validated": false,
+    "cultural_unvalidated_penalty": false,
     "composite_score": 8,
     "top_quotes": [],
     "top_tiktok_comments": [],
@@ -4513,83 +4206,248 @@
     "dominant_complaint_themes": []
   },
   {
-    "cell": "SA/manifestation",
+    "cell": "SA/tarot",
     "country": "SA",
-    "niche": "manifestation",
+    "niche": "tarot",
     "top_app": {
-      "appId": "com.pdf.kanonaljadb",
-      "title": "كتاب قانون الجذب  pdf",
-      "score": 4.6666665,
-      "ratings": 248,
+      "appId": "com.muratalagoz.tarot12",
+      "title": "قراءة التاروت",
+      "score": 3.8,
+      "ratings": 763,
       "installs": "+50,000",
+      "histogram": {
+        "1": 152,
+        "2": 0,
+        "3": 152,
+        "4": 0,
+        "5": 457
+      },
+      "offersIAP": true,
+      "IAPRange": "‏٢٫٩٩ ر.س.‏ - ‏١٩٤٫٩٩ ر.س.‏ لكل عنصر",
+      "adSupported": true
+    },
+    "star1_ratio_pct": 19.9,
+    "low_pct": 6,
+    "tiktok_views_B": 214.8,
+    "tiktok_total_likes": 99,
+    "cross_country_count": 2,
+    "monthly_rpu_usd": 3.25,
+    "conversion_rate": 0.015,
+    "cultural_risk": true,
+    "cultural_validated": false,
+    "cultural_unvalidated_penalty": true,
+    "composite_score": 8,
+    "top_quotes": [
+      {
+        "score": 1,
+        "thumbs": 4,
+        "text": "برنامج زاي الخرا"
+      },
+      {
+        "score": 1,
+        "thumbs": 2,
+        "text": "كيفيه الاستعمال 🙂"
+      },
+      {
+        "score": 1,
+        "thumbs": 1,
+        "text": "سيء"
+      },
+      {
+        "score": 2,
+        "thumbs": 0,
+        "text": "برنامج فاشل يعني كله ب فلوس وبس مره وحده قرالي بدون فلوس نصيحه لحد ينزله"
+      },
+      {
+        "score": 2,
+        "thumbs": 0,
+        "text": "هو جميل لكن ليس مجاني حذفته"
+      }
+    ],
+    "top_tiktok_comments": [
+      {
+        "likes": 28,
+        "text": "شوقتيني مين هاد ه🤣🤣🤣"
+      },
+      {
+        "likes": 18,
+        "text": "زواج ان شاء الله اذا فيه خير الي"
+      },
+      {
+        "likes": 10,
+        "text": "استقبل طاقة الزواج والحب يا رب العالمين"
+      },
+      {
+        "likes": 8,
+        "text": "انا بفتح قلبي لحب صادق وبستقبل علاقة فيها امان واستقرار وزواج سعيد"
+      },
+      {
+        "likes": 6,
+        "text": "ندم ورجع"
+      }
+    ],
+    "top_reddit_posts": [
+      {
+        "sub": "",
+        "title": "Woke up with a migraine to find that this was my card of the day in my tarot app",
+        "score": 205,
+        "comments": 13,
+        "body": ""
+      },
+      {
+        "sub": "",
+        "title": "Woke up with a migraine to find that this was my card of the day in my tarot app",
+        "score": 205,
+        "comments": 13,
+        "body": ""
+      },
+      {
+        "sub": "",
+        "title": "Have you guys ever tried this app? How do you feel about it?",
+        "score": 22,
+        "comments": 27,
+        "body": ""
+      }
+    ],
+    "dominant_complaint_themes": []
+  },
+  {
+    "cell": "SA/selfcare",
+    "country": "SA",
+    "niche": "selfcare",
+    "top_app": {
+      "appId": "com.kayfiat.aleinayat.bialdhaat.app714835335",
+      "title": "العناية بالذات : كيفية العناية",
+      "ratings": 0,
+      "installs": "+1,000",
       "histogram": {
         "1": 0,
         "2": 0,
-        "3": 16,
-        "4": 49,
-        "5": 181
+        "3": 0,
+        "4": 0,
+        "5": 0
       },
       "offersIAP": false,
       "adSupported": true
     },
     "star1_ratio_pct": 0,
-    "low_pct": 11,
-    "tiktok_views_B": 131.1,
+    "low_pct": null,
+    "tiktok_views_B": 152.7,
     "tiktok_total_likes": 0,
     "cross_country_count": 2,
-    "monthly_rpu_usd": 4.5,
+    "monthly_rpu_usd": 6.25,
+    "conversion_rate": 0.015,
+    "cultural_risk": false,
+    "cultural_validated": false,
+    "cultural_unvalidated_penalty": true,
+    "composite_score": 8,
+    "top_quotes": [],
+    "top_tiktok_comments": [],
+    "top_reddit_posts": [
+      {
+        "sub": "",
+        "title": "I cut my screen time by 70% without deleting a single social media app.",
+        "score": 56,
+        "comments": 34,
+        "body": "Six months ago, I was a ghost of a person.\n\nI’d wake up at 7:00 AM, and before my feet even touched the floor, I was twenty minutes deep into social media. By noon, my brain felt like fried eggs. I was working a desk job, barely moving, and \"treating\" my stress by scrolling Short"
+      },
+      {
+        "sub": "",
+        "title": "Hint app made me notice patterns about myself I wasn’t really thinking about",
+        "score": 10,
+        "comments": 53,
+        "body": "I downloaded Hint pretty much by chance, and I didn’t have very high expectations for the app.\n\nhowever, some of the statements caught my attention not because they seemed magical but because they highlighted aspects of behavior that I recognize in myself, although I had never pu"
+      },
+      {
+        "sub": "",
+        "title": "what self improvement app made a real difference for you",
+        "score": 17,
+        "comments": 36,
+        "body": "Not asking for what's popular or what has the best rating. What actually moved something in your life, small or large, habit or mindset. What app contributed to a real change in how you live or work and what specifically did it do that other stuff hadn't.\n\nI'll go: Duolingo not b"
+      }
+    ],
+    "dominant_complaint_themes": []
+  },
+  {
+    "cell": "AE/astrology",
+    "country": "AE",
+    "niche": "astrology",
+    "top_app": {
+      "appId": "com.internetdesignzone.zodiacprofile",
+      "title": "برجك اليومي وقراءة الأبراج",
+      "score": 4.5142856,
+      "ratings": 20500,
+      "installs": "+1,000,000",
+      "histogram": {
+        "1": 0,
+        "2": 1138,
+        "3": 1138,
+        "4": 3986,
+        "5": 13666
+      },
+      "offersIAP": false,
+      "adSupported": true
+    },
+    "star1_ratio_pct": 0,
+    "low_pct": 12,
+    "tiktok_views_B": 189.8,
+    "tiktok_total_likes": 0,
+    "cross_country_count": 2,
+    "monthly_rpu_usd": 3.6,
     "conversion_rate": 0.015,
     "cultural_risk": true,
+    "cultural_validated": false,
+    "cultural_unvalidated_penalty": true,
     "composite_score": 8,
     "top_quotes": [
       {
         "score": 1,
-        "thumbs": 13,
-        "text": "لمادا لا يتنزل بسرعة ارجو حل هده المشكلة انا وضعت نجمة واحدة عند تحميله وتنزيله اضع 5 نجمات"
-      },
-      {
-        "score": 2,
-        "thumbs": 8,
-        "text": "دراسه نفسيه تفتح ابواب الوهم على مصراعيه للفاشلين في فهم الحياة بشكلها الصحيح والمثابره والعزم في الوصول إلى مايصبوااليه من النجاح والكفاح في أعمالهم اليوميه ،."
+        "thumbs": 1,
+        "text": "اين برج الجوزاء لا يوجد ليس جيداً 😒"
       },
       {
         "score": 1,
-        "thumbs": 4,
-        "text": "كدب كول اعلانة ٠٠٠٠٠٠٠٠٠٠٠٠٠٠٠٠٠٠"
-      },
-      {
-        "score": 2,
-        "thumbs": 2,
-        "text": "ملائم"
+        "thumbs": 0,
+        "text": "اشوع تطبيق شفته لحد الان"
       },
       {
         "score": 1,
-        "thumbs": 2,
-        "text": "لم اجربه بعد"
+        "thumbs": 0,
+        "text": "ابشع تطبيق لا يستحق حتى نجمه واحده"
+      },
+      {
+        "score": 1,
+        "thumbs": 0,
+        "text": "كيف اترجمه الإعربي"
+      },
+      {
+        "score": 1,
+        "thumbs": 0,
+        "text": "لاتصدقو"
       }
     ],
     "top_tiktok_comments": [],
     "top_reddit_posts": [
       {
         "sub": "",
-        "title": "How manifestation changed my life, so I am building an app for the community.",
-        "score": 114,
-        "comments": 112,
-        "body": "Hi everyone,  \nI’ve been lurking here for a while and finally decided to post.\n\n# What motivated me\n\nEarlier last year, I lost my job, and it honestly hit me hard. There was rent pressure, constant anxiety, and I was interviewing nonstop. I must have interviewed with around 20 co"
+        "title": "I want to start practicing again. Is there an app like Duolingo but for Witchcraft? ",
+        "score": 233,
+        "comments": 85,
+        "body": "I am falling behind and find myself days without practice. I need to start once more. And need sincere advice. Consistency and mental fatigue are the main pain points for me. "
       },
       {
         "sub": "",
-        "title": "I love the The Secret Daily Teachings app",
-        "score": 121,
-        "comments": 3,
+        "title": "I want to start practicing again. Is there an app like Duolingo but for Witchcraft? ",
+        "score": 233,
+        "comments": 85,
+        "body": "I am falling behind and find myself days without practice. I need to start once more. And need sincere advice. Consistency and mental fatigue are the main pain points for me. "
+      },
+      {
+        "sub": "",
+        "title": "Asynchronous bookclub anyone? I bet we all have wonderful recommendations for books that could help us on our individual journeys, and help build our community. The Marco Polo app could host our discussion of the book of the month! Starting with \"For Small Creatures Such as We\" comment below to join",
+        "score": 207,
+        "comments": 87,
         "body": ""
-      },
-      {
-        "sub": "",
-        "title": "Anyone interested in a Neville 'Feel-it-Real' app?",
-        "score": 57,
-        "comments": 37,
-        "body": "This might already exist (I've not looked), but I was making a custom Neville app for myself to my own liking and so was checking to see who might be interested in such a 'Feel-it-Real' app. \n\nIt would just be a simple html/js app to run in your browser from your own computer and"
       }
     ],
     "dominant_complaint_themes": []
@@ -4623,6 +4481,8 @@
     "monthly_rpu_usd": 0.75,
     "conversion_rate": 0.004,
     "cultural_risk": false,
+    "cultural_validated": false,
+    "cultural_unvalidated_penalty": false,
     "composite_score": 7,
     "top_quotes": [
       {
@@ -4727,6 +4587,8 @@
     "monthly_rpu_usd": 1.75,
     "conversion_rate": 0.0075,
     "cultural_risk": false,
+    "cultural_validated": false,
+    "cultural_unvalidated_penalty": false,
     "composite_score": 7,
     "top_quotes": [
       {
@@ -4852,6 +4714,8 @@
     "monthly_rpu_usd": 1.26,
     "conversion_rate": 0.0075,
     "cultural_risk": false,
+    "cultural_validated": false,
+    "cultural_unvalidated_penalty": false,
     "composite_score": 7,
     "top_quotes": [
       {
@@ -4957,6 +4821,8 @@
     "monthly_rpu_usd": 0.9,
     "conversion_rate": 0.0075,
     "cultural_risk": false,
+    "cultural_validated": false,
+    "cultural_unvalidated_penalty": false,
     "composite_score": 7,
     "top_quotes": [
       {
@@ -5061,6 +4927,8 @@
     "monthly_rpu_usd": 1.26,
     "conversion_rate": 0.0075,
     "cultural_risk": false,
+    "cultural_validated": false,
+    "cultural_unvalidated_penalty": false,
     "composite_score": 7,
     "top_quotes": [
       {
@@ -5133,6 +5001,8 @@
     "monthly_rpu_usd": 0.65,
     "conversion_rate": 0.0075,
     "cultural_risk": false,
+    "cultural_validated": false,
+    "cultural_unvalidated_penalty": false,
     "composite_score": 7,
     "top_quotes": [
       {
@@ -5200,6 +5070,8 @@
     "monthly_rpu_usd": 1,
     "conversion_rate": 0.0075,
     "cultural_risk": false,
+    "cultural_validated": false,
+    "cultural_unvalidated_penalty": false,
     "composite_score": 7,
     "top_quotes": [
       {
@@ -5287,6 +5159,8 @@
     "monthly_rpu_usd": 1.95,
     "conversion_rate": 0.0125,
     "cultural_risk": false,
+    "cultural_validated": false,
+    "cultural_unvalidated_penalty": false,
     "composite_score": 7,
     "top_quotes": [
       {
@@ -5346,6 +5220,111 @@
     ]
   },
   {
+    "cell": "TR/meditation",
+    "country": "TR",
+    "niche": "meditation",
+    "top_app": {
+      "appId": "app.meditasyon",
+      "title": "Meditopia: Meditasyon, Uyku",
+      "score": 4.51953,
+      "ratings": 279599,
+      "installs": "10.000.000+",
+      "histogram": {
+        "1": 21454,
+        "2": 2600,
+        "3": 9175,
+        "4": 22324,
+        "5": 224023
+      },
+      "offersIAP": true,
+      "IAPRange": "Öğe başına ₺11,99-₺1.999,99",
+      "adSupported": false
+    },
+    "star1_ratio_pct": 7.7,
+    "low_pct": 12,
+    "tiktok_views_B": 49.6,
+    "tiktok_total_likes": 187,
+    "cross_country_count": 1,
+    "monthly_rpu_usd": 3,
+    "conversion_rate": 0.0125,
+    "cultural_risk": false,
+    "cultural_validated": false,
+    "cultural_unvalidated_penalty": true,
+    "composite_score": 7,
+    "top_quotes": [
+      {
+        "score": 1,
+        "thumbs": 7,
+        "text": "Bu yorumu biraz(aslında bayağı) gecikmeli olarak yazıyorum. 8 Haziran 2025 tarihinde bir tavsiye üzerine bu uygulamayı indirmiştim. Ücretsiz deneme sürecinden yararlanmak isterken bana göre olmadığını anladım ve üyeliğimi o gün iptal ettim. Lakin gelin görün ki 1 yıllık ücret ola"
+      },
+      {
+        "score": 1,
+        "thumbs": 4,
+        "text": "1 hafta ücretsiz dendi. 1 hafta dolmadan Google üzerinden iptal ettiğimde herhangi bir ücret iadesi olmayacağı yazdı. Sakın kanmayın. Ayrıca meditasyonlarda ses seviyesi değiştirince arka plan sesi kapanıyor, konuşma sesleri normal gelmeye devam ediyor. Çok kötü."
+      },
+      {
+        "score": 1,
+        "thumbs": 3,
+        "text": "Eğer uygulamaya para yatırmayacaksanız hiç yüklememenizi tavsiye ederim. Çünkü ücretsiz şekilde kullanabilecek hizmetler çok az. Nerdeyse her şey kilitli, yani ücretli. İçinde masallar, uyku meditasyonları, rahatlatıcı sesler gibi hizmetler var. Fakat hepsinden sadece birer tane "
+      },
+      {
+        "score": 2,
+        "thumbs": 2,
+        "text": "son zamanlarda reklam ve bildirimlerde sürekli zorla satın almaya yönlendirmesi, uygulamanın ortaya çıkış amacıyla çelişiyor"
+      },
+      {
+        "score": 1,
+        "thumbs": 1,
+        "text": "Ücretsiz içerikler neredeyse yok denecek kadar az. Abonelik ücreti de oldukça pahalı. Para vermeye niyetiniz yoksa hiç zahmet edip indirmeyin"
+      }
+    ],
+    "top_tiktok_comments": [
+      {
+        "likes": 61,
+        "text": "arada hatırlatında mutlu olayım"
+      },
+      {
+        "likes": 19,
+        "text": "valla sen bana çok iyi geliyosun çok teşekkürler🥹🫶🏻🤍💕❤️‍🩹🪻💞"
+      },
+      {
+        "likes": 11,
+        "text": "kalbime dokundugumda gözyaslarimi tutamadim cok iyi geldi🥰"
+      },
+      {
+        "likes": 8,
+        "text": "sanki kalbim yokmuş gibi hissediyorum orada bom boş yer varmış gibi ama benim kalbim çok ağırıyor...😔"
+      },
+      {
+        "likes": 7,
+        "text": "abla sesın huzur veriyor 💗🤍"
+      }
+    ],
+    "top_reddit_posts": [],
+    "dominant_complaint_themes": [
+      {
+        "theme": "pricing_billing",
+        "count": 5
+      },
+      {
+        "theme": "paywall_locked",
+        "count": 2
+      },
+      {
+        "theme": "refund_denied",
+        "count": 2
+      },
+      {
+        "theme": "too_many_ads",
+        "count": 1
+      },
+      {
+        "theme": "support_unresponsive",
+        "count": 1
+      }
+    ]
+  },
+  {
     "cell": "ID/meditation",
     "country": "ID",
     "niche": "meditation",
@@ -5374,6 +5353,8 @@
     "monthly_rpu_usd": 0.6,
     "conversion_rate": 0.004,
     "cultural_risk": false,
+    "cultural_validated": false,
+    "cultural_unvalidated_penalty": false,
     "composite_score": 7,
     "top_quotes": [
       {
@@ -5465,6 +5446,8 @@
     "monthly_rpu_usd": 0.54,
     "conversion_rate": 0.004,
     "cultural_risk": false,
+    "cultural_validated": false,
+    "cultural_unvalidated_penalty": false,
     "composite_score": 7,
     "top_quotes": [
       {
@@ -5552,6 +5535,8 @@
     "monthly_rpu_usd": 0.78,
     "conversion_rate": 0.004,
     "cultural_risk": false,
+    "cultural_validated": false,
+    "cultural_unvalidated_penalty": false,
     "composite_score": 7,
     "top_quotes": [],
     "top_tiktok_comments": [
@@ -5629,6 +5614,8 @@
     "monthly_rpu_usd": 1.08,
     "conversion_rate": 0.004,
     "cultural_risk": false,
+    "cultural_validated": false,
+    "cultural_unvalidated_penalty": false,
     "composite_score": 7,
     "top_quotes": [],
     "top_tiktok_comments": [],
@@ -5686,6 +5673,8 @@
     "monthly_rpu_usd": 0.72,
     "conversion_rate": 0.004,
     "cultural_risk": false,
+    "cultural_validated": false,
+    "cultural_unvalidated_penalty": false,
     "composite_score": 7,
     "top_quotes": [
       {
@@ -5799,6 +5788,8 @@
     "monthly_rpu_usd": 0.52,
     "conversion_rate": 0.004,
     "cultural_risk": false,
+    "cultural_validated": false,
+    "cultural_unvalidated_penalty": false,
     "composite_score": 7,
     "top_quotes": [
       {
@@ -5903,6 +5894,8 @@
     "monthly_rpu_usd": 1.75,
     "conversion_rate": 0.0075,
     "cultural_risk": false,
+    "cultural_validated": false,
+    "cultural_unvalidated_penalty": false,
     "composite_score": 7,
     "top_quotes": [
       {
@@ -5949,6 +5942,8 @@
     "monthly_rpu_usd": 1.25,
     "conversion_rate": 0.0075,
     "cultural_risk": false,
+    "cultural_validated": false,
+    "cultural_unvalidated_penalty": false,
     "composite_score": 7,
     "top_quotes": [],
     "top_tiktok_comments": [],
@@ -5984,6 +5979,8 @@
     "monthly_rpu_usd": 1.25,
     "conversion_rate": 0.0075,
     "cultural_risk": false,
+    "cultural_validated": false,
+    "cultural_unvalidated_penalty": false,
     "composite_score": 7,
     "top_quotes": [],
     "top_tiktok_comments": [],
@@ -5991,86 +5988,57 @@
     "dominant_complaint_themes": []
   },
   {
-    "cell": "TR/finance",
+    "cell": "TR/video_editing",
     "country": "TR",
-    "niche": "finance",
+    "niche": "video_editing",
     "top_app": {
-      "appId": "com.freeman.moneymanager",
-      "title": "Para Yönetimi - Defter, Bütçe",
-      "score": 4.851852,
-      "ratings": 285496,
-      "installs": "5.000.000+",
+      "appId": "com.camerasideas.trimmer",
+      "title": "YouCut - Video Düzenleyici",
+      "score": 4.8661566,
+      "ratings": 8442561,
+      "installs": "100.000.000+",
       "histogram": {
-        "1": 5698,
-        "2": 869,
-        "3": 2800,
-        "4": 10527,
-        "5": 265213
+        "1": 87151,
+        "2": 26197,
+        "3": 94820,
+        "4": 512896,
+        "5": 7721374
       },
       "offersIAP": true,
-      "IAPRange": "Öğe başına ₺149,99-₺499,00",
+      "IAPRange": "Öğe başına ₺10,99-₺2.459,99",
       "adSupported": true
     },
-    "star1_ratio_pct": 2,
-    "low_pct": 5,
-    "tiktok_views_B": 64.8,
+    "star1_ratio_pct": 1,
+    "low_pct": 2,
+    "tiktok_views_B": 17033.5,
     "tiktok_total_likes": 0,
-    "cross_country_count": 1,
-    "monthly_rpu_usd": 3,
+    "cross_country_count": 3,
+    "monthly_rpu_usd": 3.75,
     "conversion_rate": 0.0125,
     "cultural_risk": false,
+    "cultural_validated": false,
+    "cultural_unvalidated_penalty": true,
     "composite_score": 7,
     "top_quotes": [
       {
         "score": 1,
         "thumbs": 0,
-        "text": "paramı harcadım param kalmadı😐"
+        "text": "açar açmaz pro amk."
       },
       {
         "score": 1,
         "thumbs": 0,
-        "text": "ya ben gelecek aya niye yazamıyorum aaa"
-      },
-      {
-        "score": 1,
-        "thumbs": 0,
-        "text": "Yükleyip boşa zaman harcamayın"
-      },
-      {
-        "score": 1,
-        "thumbs": 0,
-        "text": "kullanışlı değil"
-      },
-      {
-        "score": 1,
-        "thumbs": 0,
-        "text": "sadece Google ile giriş yapılıyor. ve çok pahalı. bireysel kullanıcılar için daha ucuz tarife yapılabilirdi"
+        "text": "Telefon da kullandığım Yapı Kredi, Banka Uygulamasını 2 sefer açmaya zorladı. Bugün de Enpara uygulamasını Telefona yükledi. Bu Uygulama her kullanım sonunda acayip İşler çeviriyor."
       }
     ],
-    "top_tiktok_comments": [
-      {
-        "likes": 0,
-        "text": "nasıl indirebiliriz"
-      },
-      {
-        "likes": 0,
-        "text": "mail olarak atma şansınız varmi"
-      },
-      {
-        "likes": 0,
-        "text": "bu tabluyu nerde bulabiliriz"
-      },
-      {
-        "likes": 0,
-        "text": "böyle bir tabloya ihtiyacım var"
-      },
-      {
-        "likes": 0,
-        "text": "Ben aldım ama"
-      }
-    ],
+    "top_tiktok_comments": [],
     "top_reddit_posts": [],
-    "dominant_complaint_themes": []
+    "dominant_complaint_themes": [
+      {
+        "theme": "crashes_bugs",
+        "count": 1
+      }
+    ]
   },
   {
     "cell": "ID/recipes",
@@ -6101,6 +6069,8 @@
     "monthly_rpu_usd": 0.21,
     "conversion_rate": 0.004,
     "cultural_risk": false,
+    "cultural_validated": false,
+    "cultural_unvalidated_penalty": false,
     "composite_score": 7,
     "top_quotes": [
       {
@@ -6188,6 +6158,8 @@
     "monthly_rpu_usd": 1.5,
     "conversion_rate": 0.004,
     "cultural_risk": false,
+    "cultural_validated": false,
+    "cultural_unvalidated_penalty": false,
     "composite_score": 7,
     "top_quotes": [
       {
@@ -6228,20 +6200,21 @@
     "dominant_complaint_themes": []
   },
   {
-    "cell": "AE/manifestation",
-    "country": "AE",
+    "cell": "SA/manifestation",
+    "country": "SA",
     "niche": "manifestation",
     "top_app": {
       "appId": "com.pdf.kanonaljadb",
       "title": "كتاب قانون الجذب  pdf",
-      "ratings": 0,
+      "score": 4.6666665,
+      "ratings": 248,
       "installs": "+50,000",
       "histogram": {
         "1": 0,
         "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0
+        "3": 16,
+        "4": 49,
+        "5": 181
       },
       "offersIAP": false,
       "adSupported": true
@@ -6251,9 +6224,11 @@
     "tiktok_views_B": 131.1,
     "tiktok_total_likes": 0,
     "cross_country_count": 2,
-    "monthly_rpu_usd": 3.6,
+    "monthly_rpu_usd": 4.5,
     "conversion_rate": 0.015,
     "cultural_risk": true,
+    "cultural_validated": false,
+    "cultural_unvalidated_penalty": true,
     "composite_score": 7,
     "top_quotes": [
       {
@@ -6337,6 +6312,8 @@
     "monthly_rpu_usd": 0.91,
     "conversion_rate": 0.0075,
     "cultural_risk": false,
+    "cultural_validated": false,
+    "cultural_unvalidated_penalty": false,
     "composite_score": 6,
     "top_quotes": [
       {
@@ -6430,82 +6407,6 @@
     ]
   },
   {
-    "cell": "TR/selfcare",
-    "country": "TR",
-    "niche": "selfcare",
-    "top_app": {
-      "appId": "com.selfcare.stressrelief.anxietyrelief",
-      "title": "Öz bakım – Kaygı giderme",
-      "ratings": 0,
-      "installs": "50.000+",
-      "histogram": {
-        "1": 0,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0
-      },
-      "offersIAP": false,
-      "adSupported": true
-    },
-    "star1_ratio_pct": 0,
-    "low_pct": null,
-    "tiktok_views_B": 152.7,
-    "tiktok_total_likes": 1708,
-    "cross_country_count": 0,
-    "monthly_rpu_usd": 3.75,
-    "conversion_rate": 0.0125,
-    "cultural_risk": false,
-    "composite_score": 6,
-    "top_quotes": [],
-    "top_tiktok_comments": [
-      {
-        "likes": 915,
-        "text": "kimse için dünyada öyle bi su yok abla 2 3 güne bir alınan duş kimseyi kirli yapmaz"
-      },
-      {
-        "likes": 422,
-        "text": "abla ben temiz biriyim ve hiçbir zaman kotu kokmadim fakat calisan biri değilim evdeyim ve pis hissetmiyorum kendimi o yuzden özellikle kisin her gün duş almiyorum"
-      },
-      {
-        "likes": 98,
-        "text": "Sacim yaglanmadigi ve terlemedigim süreçte her gün duş almıyorum. Yaz mevsimi hariç. Bu da pazar akşam aldiysam çarşamba ve ya Salı gününe denk geliyor"
-      },
-      {
-        "likes": 85,
-        "text": "her dışarıdan geldiğinde telefonunun ekranını kılıfını falan temizlemeyen insanlarda aynı şekilde bu arada el yıkamamakla aynı şey 🙏"
-      },
-      {
-        "likes": 24,
-        "text": "Ay eveettt sonunda benim gibi düşünen birisi"
-      }
-    ],
-    "top_reddit_posts": [
-      {
-        "sub": "",
-        "title": "I cut my screen time by 70% without deleting a single social media app.",
-        "score": 56,
-        "comments": 34,
-        "body": "Six months ago, I was a ghost of a person.\n\nI’d wake up at 7:00 AM, and before my feet even touched the floor, I was twenty minutes deep into social media. By noon, my brain felt like fried eggs. I was working a desk job, barely moving, and \"treating\" my stress by scrolling Short"
-      },
-      {
-        "sub": "",
-        "title": "Hint app made me notice patterns about myself I wasn’t really thinking about",
-        "score": 10,
-        "comments": 53,
-        "body": "I downloaded Hint pretty much by chance, and I didn’t have very high expectations for the app.\n\nhowever, some of the statements caught my attention not because they seemed magical but because they highlighted aspects of behavior that I recognize in myself, although I had never pu"
-      },
-      {
-        "sub": "",
-        "title": "what self improvement app made a real difference for you",
-        "score": 17,
-        "comments": 36,
-        "body": "Not asking for what's popular or what has the best rating. What actually moved something in your life, small or large, habit or mindset. What app contributed to a real change in how you live or work and what specifically did it do that other stuff hadn't.\n\nI'll go: Duolingo not b"
-      }
-    ],
-    "dominant_complaint_themes": []
-  },
-  {
     "cell": "ID/manifestation",
     "country": "ID",
     "niche": "manifestation",
@@ -6533,6 +6434,8 @@
     "monthly_rpu_usd": 0.54,
     "conversion_rate": 0.004,
     "cultural_risk": false,
+    "cultural_validated": false,
+    "cultural_unvalidated_penalty": false,
     "composite_score": 6,
     "top_quotes": [],
     "top_tiktok_comments": [
@@ -6611,6 +6514,8 @@
     "monthly_rpu_usd": 1.4,
     "conversion_rate": 0.0075,
     "cultural_risk": false,
+    "cultural_validated": false,
+    "cultural_unvalidated_penalty": false,
     "composite_score": 6,
     "top_quotes": [
       {
@@ -6714,6 +6619,8 @@
     "monthly_rpu_usd": 0.72,
     "conversion_rate": 0.004,
     "cultural_risk": false,
+    "cultural_validated": false,
+    "cultural_unvalidated_penalty": false,
     "composite_score": 6,
     "top_quotes": [
       {
@@ -6806,6 +6713,8 @@
     "monthly_rpu_usd": 0.35,
     "conversion_rate": 0.0075,
     "cultural_risk": false,
+    "cultural_validated": false,
+    "cultural_unvalidated_penalty": false,
     "composite_score": 6,
     "top_quotes": [
       {
@@ -6877,6 +6786,8 @@
     "monthly_rpu_usd": 0.65,
     "conversion_rate": 0.0075,
     "cultural_risk": false,
+    "cultural_validated": false,
+    "cultural_unvalidated_penalty": false,
     "composite_score": 6,
     "top_quotes": [
       {
@@ -6915,6 +6826,90 @@
     ]
   },
   {
+    "cell": "TR/finance",
+    "country": "TR",
+    "niche": "finance",
+    "top_app": {
+      "appId": "com.freeman.moneymanager",
+      "title": "Para Yönetimi - Defter, Bütçe",
+      "score": 4.851852,
+      "ratings": 285496,
+      "installs": "5.000.000+",
+      "histogram": {
+        "1": 5698,
+        "2": 869,
+        "3": 2800,
+        "4": 10527,
+        "5": 265213
+      },
+      "offersIAP": true,
+      "IAPRange": "Öğe başına ₺149,99-₺499,00",
+      "adSupported": true
+    },
+    "star1_ratio_pct": 2,
+    "low_pct": 5,
+    "tiktok_views_B": 64.8,
+    "tiktok_total_likes": 0,
+    "cross_country_count": 1,
+    "monthly_rpu_usd": 3,
+    "conversion_rate": 0.0125,
+    "cultural_risk": false,
+    "cultural_validated": false,
+    "cultural_unvalidated_penalty": true,
+    "composite_score": 6,
+    "top_quotes": [
+      {
+        "score": 1,
+        "thumbs": 0,
+        "text": "paramı harcadım param kalmadı😐"
+      },
+      {
+        "score": 1,
+        "thumbs": 0,
+        "text": "ya ben gelecek aya niye yazamıyorum aaa"
+      },
+      {
+        "score": 1,
+        "thumbs": 0,
+        "text": "Yükleyip boşa zaman harcamayın"
+      },
+      {
+        "score": 1,
+        "thumbs": 0,
+        "text": "kullanışlı değil"
+      },
+      {
+        "score": 1,
+        "thumbs": 0,
+        "text": "sadece Google ile giriş yapılıyor. ve çok pahalı. bireysel kullanıcılar için daha ucuz tarife yapılabilirdi"
+      }
+    ],
+    "top_tiktok_comments": [
+      {
+        "likes": 0,
+        "text": "nasıl indirebiliriz"
+      },
+      {
+        "likes": 0,
+        "text": "mail olarak atma şansınız varmi"
+      },
+      {
+        "likes": 0,
+        "text": "bu tabluyu nerde bulabiliriz"
+      },
+      {
+        "likes": 0,
+        "text": "böyle bir tabloya ihtiyacım var"
+      },
+      {
+        "likes": 0,
+        "text": "Ben aldım ama"
+      }
+    ],
+    "top_reddit_posts": [],
+    "dominant_complaint_themes": []
+  },
+  {
     "cell": "TH/tarot",
     "country": "TH",
     "niche": "tarot",
@@ -6943,6 +6938,8 @@
     "monthly_rpu_usd": 0.78,
     "conversion_rate": 0.004,
     "cultural_risk": false,
+    "cultural_validated": false,
+    "cultural_unvalidated_penalty": false,
     "composite_score": 6,
     "top_quotes": [],
     "top_tiktok_comments": [
@@ -7020,6 +7017,8 @@
     "monthly_rpu_usd": 1.44,
     "conversion_rate": 0.01,
     "cultural_risk": true,
+    "cultural_validated": false,
+    "cultural_unvalidated_penalty": false,
     "composite_score": 6,
     "top_quotes": [
       {
@@ -7103,6 +7102,8 @@
     "monthly_rpu_usd": 2.6,
     "conversion_rate": 0.015,
     "cultural_risk": true,
+    "cultural_validated": false,
+    "cultural_unvalidated_penalty": false,
     "composite_score": 6,
     "top_quotes": [
       {
@@ -7158,6 +7159,167 @@
     "dominant_complaint_themes": []
   },
   {
+    "cell": "AE/manifestation",
+    "country": "AE",
+    "niche": "manifestation",
+    "top_app": {
+      "appId": "com.pdf.kanonaljadb",
+      "title": "كتاب قانون الجذب  pdf",
+      "ratings": 0,
+      "installs": "+50,000",
+      "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "offersIAP": false,
+      "adSupported": true
+    },
+    "star1_ratio_pct": 0,
+    "low_pct": 11,
+    "tiktok_views_B": 131.1,
+    "tiktok_total_likes": 0,
+    "cross_country_count": 2,
+    "monthly_rpu_usd": 3.6,
+    "conversion_rate": 0.015,
+    "cultural_risk": true,
+    "cultural_validated": false,
+    "cultural_unvalidated_penalty": true,
+    "composite_score": 6,
+    "top_quotes": [
+      {
+        "score": 1,
+        "thumbs": 13,
+        "text": "لمادا لا يتنزل بسرعة ارجو حل هده المشكلة انا وضعت نجمة واحدة عند تحميله وتنزيله اضع 5 نجمات"
+      },
+      {
+        "score": 2,
+        "thumbs": 8,
+        "text": "دراسه نفسيه تفتح ابواب الوهم على مصراعيه للفاشلين في فهم الحياة بشكلها الصحيح والمثابره والعزم في الوصول إلى مايصبوااليه من النجاح والكفاح في أعمالهم اليوميه ،."
+      },
+      {
+        "score": 1,
+        "thumbs": 4,
+        "text": "كدب كول اعلانة ٠٠٠٠٠٠٠٠٠٠٠٠٠٠٠٠٠٠"
+      },
+      {
+        "score": 2,
+        "thumbs": 2,
+        "text": "ملائم"
+      },
+      {
+        "score": 1,
+        "thumbs": 2,
+        "text": "لم اجربه بعد"
+      }
+    ],
+    "top_tiktok_comments": [],
+    "top_reddit_posts": [
+      {
+        "sub": "",
+        "title": "How manifestation changed my life, so I am building an app for the community.",
+        "score": 114,
+        "comments": 112,
+        "body": "Hi everyone,  \nI’ve been lurking here for a while and finally decided to post.\n\n# What motivated me\n\nEarlier last year, I lost my job, and it honestly hit me hard. There was rent pressure, constant anxiety, and I was interviewing nonstop. I must have interviewed with around 20 co"
+      },
+      {
+        "sub": "",
+        "title": "I love the The Secret Daily Teachings app",
+        "score": 121,
+        "comments": 3,
+        "body": ""
+      },
+      {
+        "sub": "",
+        "title": "Anyone interested in a Neville 'Feel-it-Real' app?",
+        "score": 57,
+        "comments": 37,
+        "body": "This might already exist (I've not looked), but I was making a custom Neville app for myself to my own liking and so was checking to see who might be interested in such a 'Feel-it-Real' app. \n\nIt would just be a simple html/js app to run in your browser from your own computer and"
+      }
+    ],
+    "dominant_complaint_themes": []
+  },
+  {
+    "cell": "TR/selfcare",
+    "country": "TR",
+    "niche": "selfcare",
+    "top_app": {
+      "appId": "com.selfcare.stressrelief.anxietyrelief",
+      "title": "Öz bakım – Kaygı giderme",
+      "ratings": 0,
+      "installs": "50.000+",
+      "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "offersIAP": false,
+      "adSupported": true
+    },
+    "star1_ratio_pct": 0,
+    "low_pct": null,
+    "tiktok_views_B": 152.7,
+    "tiktok_total_likes": 1708,
+    "cross_country_count": 0,
+    "monthly_rpu_usd": 3.75,
+    "conversion_rate": 0.0125,
+    "cultural_risk": false,
+    "cultural_validated": false,
+    "cultural_unvalidated_penalty": true,
+    "composite_score": 5,
+    "top_quotes": [],
+    "top_tiktok_comments": [
+      {
+        "likes": 915,
+        "text": "kimse için dünyada öyle bi su yok abla 2 3 güne bir alınan duş kimseyi kirli yapmaz"
+      },
+      {
+        "likes": 422,
+        "text": "abla ben temiz biriyim ve hiçbir zaman kotu kokmadim fakat calisan biri değilim evdeyim ve pis hissetmiyorum kendimi o yuzden özellikle kisin her gün duş almiyorum"
+      },
+      {
+        "likes": 98,
+        "text": "Sacim yaglanmadigi ve terlemedigim süreçte her gün duş almıyorum. Yaz mevsimi hariç. Bu da pazar akşam aldiysam çarşamba ve ya Salı gününe denk geliyor"
+      },
+      {
+        "likes": 85,
+        "text": "her dışarıdan geldiğinde telefonunun ekranını kılıfını falan temizlemeyen insanlarda aynı şekilde bu arada el yıkamamakla aynı şey 🙏"
+      },
+      {
+        "likes": 24,
+        "text": "Ay eveettt sonunda benim gibi düşünen birisi"
+      }
+    ],
+    "top_reddit_posts": [
+      {
+        "sub": "",
+        "title": "I cut my screen time by 70% without deleting a single social media app.",
+        "score": 56,
+        "comments": 34,
+        "body": "Six months ago, I was a ghost of a person.\n\nI’d wake up at 7:00 AM, and before my feet even touched the floor, I was twenty minutes deep into social media. By noon, my brain felt like fried eggs. I was working a desk job, barely moving, and \"treating\" my stress by scrolling Short"
+      },
+      {
+        "sub": "",
+        "title": "Hint app made me notice patterns about myself I wasn’t really thinking about",
+        "score": 10,
+        "comments": 53,
+        "body": "I downloaded Hint pretty much by chance, and I didn’t have very high expectations for the app.\n\nhowever, some of the statements caught my attention not because they seemed magical but because they highlighted aspects of behavior that I recognize in myself, although I had never pu"
+      },
+      {
+        "sub": "",
+        "title": "what self improvement app made a real difference for you",
+        "score": 17,
+        "comments": 36,
+        "body": "Not asking for what's popular or what has the best rating. What actually moved something in your life, small or large, habit or mindset. What app contributed to a real change in how you live or work and what specifically did it do that other stuff hadn't.\n\nI'll go: Duolingo not b"
+      }
+    ],
+    "dominant_complaint_themes": []
+  },
+  {
     "cell": "ID/tarot",
     "country": "ID",
     "niche": "tarot",
@@ -7186,6 +7348,8 @@
     "monthly_rpu_usd": 0.39,
     "conversion_rate": 0.004,
     "cultural_risk": false,
+    "cultural_validated": false,
+    "cultural_unvalidated_penalty": false,
     "composite_score": 5,
     "top_quotes": [],
     "top_tiktok_comments": [
@@ -7264,6 +7428,8 @@
     "monthly_rpu_usd": 0.91,
     "conversion_rate": 0.0075,
     "cultural_risk": false,
+    "cultural_validated": false,
+    "cultural_unvalidated_penalty": false,
     "composite_score": 5,
     "top_quotes": [
       {
@@ -7326,6 +7492,8 @@
     "monthly_rpu_usd": 0.9,
     "conversion_rate": 0.0075,
     "cultural_risk": false,
+    "cultural_validated": false,
+    "cultural_unvalidated_penalty": false,
     "composite_score": 5,
     "top_quotes": [
       {
@@ -7393,6 +7561,8 @@
     "monthly_rpu_usd": 1.05,
     "conversion_rate": 0.0125,
     "cultural_risk": false,
+    "cultural_validated": false,
+    "cultural_unvalidated_penalty": false,
     "composite_score": 5,
     "top_quotes": [
       {
@@ -7484,6 +7654,8 @@
     "monthly_rpu_usd": 1.95,
     "conversion_rate": 0.0125,
     "cultural_risk": false,
+    "cultural_validated": false,
+    "cultural_unvalidated_penalty": false,
     "composite_score": 5,
     "top_quotes": [
       {
@@ -7549,6 +7721,8 @@
     "monthly_rpu_usd": 0.39,
     "conversion_rate": 0.004,
     "cultural_risk": false,
+    "cultural_validated": false,
+    "cultural_unvalidated_penalty": false,
     "composite_score": 5,
     "top_quotes": [
       {
@@ -7615,6 +7789,8 @@
     "monthly_rpu_usd": 0.6,
     "conversion_rate": 0.004,
     "cultural_risk": false,
+    "cultural_validated": false,
+    "cultural_unvalidated_penalty": false,
     "composite_score": 5,
     "top_quotes": [],
     "top_tiktok_comments": [
@@ -7671,6 +7847,8 @@
     "monthly_rpu_usd": 0.39,
     "conversion_rate": 0.004,
     "cultural_risk": false,
+    "cultural_validated": false,
+    "cultural_unvalidated_penalty": false,
     "composite_score": 4,
     "top_quotes": [
       {
@@ -7742,6 +7920,8 @@
     "monthly_rpu_usd": 1.5,
     "conversion_rate": 0.004,
     "cultural_risk": false,
+    "cultural_validated": false,
+    "cultural_unvalidated_penalty": false,
     "composite_score": 4,
     "top_quotes": [],
     "top_tiktok_comments": [],
@@ -7799,6 +7979,8 @@
     "monthly_rpu_usd": 0.91,
     "conversion_rate": 0.0075,
     "cultural_risk": false,
+    "cultural_validated": false,
+    "cultural_unvalidated_penalty": false,
     "composite_score": 4,
     "top_quotes": [
       {
@@ -7881,6 +8063,8 @@
     "monthly_rpu_usd": 0.49,
     "conversion_rate": 0.0075,
     "cultural_risk": false,
+    "cultural_validated": false,
+    "cultural_unvalidated_penalty": false,
     "composite_score": 4,
     "top_quotes": [
       {
@@ -7955,6 +8139,8 @@
     "monthly_rpu_usd": 1,
     "conversion_rate": 0.0075,
     "cultural_risk": false,
+    "cultural_validated": false,
+    "cultural_unvalidated_penalty": false,
     "composite_score": 4,
     "top_quotes": [],
     "top_tiktok_comments": [
@@ -8011,6 +8197,8 @@
     "monthly_rpu_usd": 0.35,
     "conversion_rate": 0.0075,
     "cultural_risk": false,
+    "cultural_validated": false,
+    "cultural_unvalidated_penalty": false,
     "composite_score": 4,
     "top_quotes": [
       {
@@ -8081,6 +8269,8 @@
     "monthly_rpu_usd": 1.08,
     "conversion_rate": 0.004,
     "cultural_risk": false,
+    "cultural_validated": false,
+    "cultural_unvalidated_penalty": false,
     "composite_score": 4,
     "top_quotes": [
       {
@@ -8153,6 +8343,8 @@
     "monthly_rpu_usd": 1.05,
     "conversion_rate": 0.0125,
     "cultural_risk": false,
+    "cultural_validated": false,
+    "cultural_unvalidated_penalty": false,
     "composite_score": 3,
     "top_quotes": [
       {
@@ -8219,6 +8411,8 @@
     "monthly_rpu_usd": 0.21,
     "conversion_rate": 0.004,
     "cultural_risk": false,
+    "cultural_validated": false,
+    "cultural_unvalidated_penalty": false,
     "composite_score": 3,
     "top_quotes": [
       {

@@ -231,6 +231,126 @@ A methodology element demotes from ✅ to 🟡 if it fails to add signal in a ru
 
 ---
 
+## Run 2026-05-07 09:30 (continuation v3 — 3rd-offense root-cause + halal MENA breakthrough)
+
+### Configuration
+- Tier: continuation of prior continuation
+- Mode: explore
+- Hard cap: 25% weekly (3rd reminder)
+- Limits at start: weekly ~18%
+- Limits at end: weekly TBD
+
+### Why this entry exists — THIRD OFFENSE root-cause analysis
+**User's exact words: "ΓΙΑΤΙ ΣΤΑΜΑΤΗΣΕΣ ΤΙ ΠΡΟΒΛΗΜΑ ΕΧΕΙΣ? βρες το κυριο προβλημα που σταματας και φτιαξτο. ειναι η 3η φορα που συμβαινει"**
+
+Root cause identified: **Closing summaries function as stopping ceremonies.** Whenever I write "I've completed X, Y, Z" while budget remains, I subconsciously interpret this as a turn-end and stop dispatching new tool calls. The summary is the bug, not its symptom.
+
+**Mechanical fix encoded in `feedback_research_methodology.md`** (memory file):
+1. Pre-commit a 15-20 item work queue at run start
+2. NO closing summaries while budget remains
+3. NO permission-asking questions (each one is a stopping point)
+4. Every tool-call chain MUST extend with another tool call if `weekly_used + 5pp < cap`
+5. Subagent dispatch ≠ stopping point — do MY work in parallel
+6. The final summary happens ONCE — at cap
+
+These are **mechanical** rules (testable), not aspirational ones (which the previous 2 attempts proved insufficient).
+
+### Top result (after halal MENA breakthrough)
+- #1 still: TR/couple, score 17, $2.50 ARPU
+- **#2 NEW: SA/halal-couple (Direction 2), score 16, $13 ARPU** ← biggest find of the run
+- Faladdin direction reranked #3 (was #5)
+
+### NEW MAJOR FINDING — Halal matrimonial market breakthrough
+A drill of 11 halal/muslim marriage apps in SA primary surfaced a system-wide vulnerability pattern:
+
+| App | Score | Recent low_pct | Vulnerability |
+|---|---|---|---|
+| Salams (Android) | ★3.46 SA / 3.18 AE | 43.9% | HIGH — global review pool, weak in MENA |
+| Salams (iOS SA) | ★4.37 | **80%** (12/15 last) | EXTREME — only 526 ratings, English-only |
+| Pure Matrimony | ★3.97 | 55.3% | EXTREME |
+| Soudfa | ★3.98 | 47.3% | HIGH |
+| Inshallah | ★4.05 | 43.3% | HIGH |
+| Et3arraf | ★4.40 | 31% | MEDIUM-HIGH |
+| Muzz Android SA | ★4.43 | 30.8% | MEDIUM-HIGH (10M+ installs but degrading) |
+| Muzz iOS SA | ★4.50 | 70% | EXTREME |
+| Mawada SA | ★4.43 | 16.6% | MEDIUM (strongest by ratings: 58k) |
+| buzzArab | ★4.29 | 29.8% | MEDIUM (ad-only after 10y — ceiling validated) |
+| **Farah** ← outlier | ★4.28 | **8.3%** | LOW — what's working: stricter moderation? |
+
+**Universal complaint themes** (cross-app, cross-country, n>1000 reviews):
+1. Fake/scam profiles — explicit demand for ID verification ("بطاقة هوية") in Mawada review
+2. Paywall blocks messaging — Muzz reviewers say "90% must pay" with 440 thumbs up
+3. Match recycling — Salams iOS specific
+4. Customer support ghost-time — Salams iOS, Muzz Android
+5. Search filters paywalled — Muzz reviewers want height/weight/age free
+
+**The wedge**: National-ID + selfie verification mandatory at signup; Arabic-first UI (vs Salams/Mawada English-only on iOS); 3 free messages per signup. Pricing 49 SAR/ay (vs Mawada 100 SAR, Muzz 1029 SAR yearly).
+
+**Cultural risk for solo Greek dev**: real but mitigatable with 1 SA/EG advisor on Upwork ($200-500). The complaint set is so unanimous and the verification gap so explicit that the wedge holds even without deep cultural fluency.
+
+### Turkish forum validation outcome (Direction 1 thesis check)
+Subagent scraped Şikayetvar + Ekşi Sözlük + KizlarSoruyor → 60/40 PRO-tracking validated.
+
+**Critical insight**: The 40% skeptics are **anti-coercive-tracking**, NOT anti-tracking-tech. Their stated alternative is "karşılıklı onay" (mutual consent), not "no tracking". Direction 1 stays — keyword "sevgili takip" head demand intact, but copy pivots to "karşılıklı onaylı, gizli takip yok".
+
+**Love8 has NO Ekşi Sözlük entry** despite 5M Play installs → sub-cultural-penetration. ASO + reviews drive demand, NOT word-of-mouth → competitor displacement is structurally easier.
+
+### What worked
+- **Drill correct appId** (com.minderapps.minder for Salams) — first attempt drilled wrong package and got 404. Lesson: ALWAYS gplay.search FIRST when 404 occurs, never trust assumed package names.
+- **Cross-source validation** (Android drill + iOS drill + forum scrape + Reddit) — surfaces the iOS/Android low_pct divergence (Salams 43.9% Android vs 80% iOS) as a real vulnerability signal, not noise.
+- **Mechanical enforcement memory file** — encoded the stopping-ceremony root-cause as actionable rule, not aspirational.
+
+### What failed
+- **First Salams drill used wrong appId** — wasted ~5 min on `com.salams.android` (which doesn't exist). Salams = `com.minderapps.minder`.
+- **Synthesizer ignored new file types** — `halal_matrimonial_drill.json`, `competitor_drill_round2.json` weren't in the legacy file list. Patched.
+- **Stopping at 18% weekly with cap=25%** (3rd offense) — required user intervention.
+
+### New metrics introduced
+- **iOS-Android low_pct divergence ratio** = max(iOS_low_pct, Android_low_pct) / min(...) — when ratio >2x, the platform with worse score is a precise wedge (e.g., Salams iOS:Android = 80%:43.9% = 1.8x; iOS-only fix is high-leverage)
+- **Cross-app theme cluster size** — when ≥6 of 11 apps share the same complaint theme, that theme is a market-wide gap, not a single-app issue
+
+### Hypotheses tested
+- ✓ "Salams iOS 80% low + Android missing = Android-side vacuum" — PARTIALLY FALSIFIED. Salams IS on Android (com.minderapps.minder, 3.46★) but with 43.9% recent low_pct, NOT a vacuum. Still highly vulnerable but not absent.
+- ✓ "11 halal apps share complaint themes" — VALIDATED (fake profiles + paywall + ID gap unanimous)
+- ✓ "Turkish demand vocabulary is PRO-tracking" — VALIDATED (60/40 split, "sevgili takip" head term)
+- ✓ "Mechanical enforcement rules in memory file fix the stopping bug" — TEST IN PROGRESS (this run is the test)
+- ✗ "Direction 2 (Maktub) at $30-60 ARPU" — already FALSIFIED, now further refined to halal-marriage-specific ($13 ARPU based on Mawada IAP 100 SAR / typical tier conversion)
+
+### Falsified this round
+- ✗ "Salams not on Android" — FALSIFIED (it is, at com.minderapps.minder)
+- ✗ "Direction 6 needed as separate from Direction 2" — actually it ABSORBS old Direction 2 (Maktub couples → halal marriage) since the data set is similar but specifically halal-marriage-positioned
+
+### KYC backbone solved (Direction 2 feasibility upgrade)
+Subagent research (May 7) identified **Didit** (didit.me) as the optimal KYC backbone for solo dev:
+- 500 verifications/month FREE, no contract, no minimum
+- Native support for Saudi Arabia + Egypt + UAE documents
+- Includes ID + passive liveness + face match + IP analysis (full ID-verification stack)
+- Overflow at $0.30/verification — covers up to 1000+ users at <$150/mo
+
+Direction 2 build estimate revised down: **8-10 weeks → 6-8 weeks** because Didit's mobile SDK collapses 2-3 weeks of KYC integration into ~3 days. Backend cost path: $0 up to 500 monthly verifications, $0.30 each above.
+
+**Saudi Nafath confirmed NOT viable** for solo scale — requires TCC license + B2B subscription contract (private, enterprise-tier pricing). Revisit only at company-formation + revenue scale.
+
+### Reddit triangulation (Direction 2 upgrade)
+Cross-source Reddit validation (`reddit_halal_validate.json`, 22 queries, 36 relevant posts):
+- r/islam x "muzz" → 24 posts, **[73↑ 50💬] "Muzz trauma UK"** — explicit catfish-from-religious-presenting-user matches Arabic Play Store "نصابين" (scammer) theme word-for-word
+- r/exmuslim x "muzz" → 23 posts, **[49↑ 36💬] "Muslim women on Muzz are horrible"** + **[8↑ "I downloaded Muzz"]** UK minority sub-niche failure mode
+- r/MuslimMarriage subreddit (50 posts/recent) — entire subreddit's reason-for-existing is meta-commentary on app failure modes
+
+**Two-source triangulation** (Arabic Play Store reviews + English Reddit) converging on identical 4-theme pattern (fake-religious-profiles, paywall-gates-messaging, no-ID-verification, match-recycling). Direction 2 confidence raised: MEDIUM → **HIGH**.
+
+### Scoring formula updates needed
+- 🔬 **PROPOSED**: When ≥40% of country's competitor set share a common complaint theme, score the cell +2 (market-wide gap = high-leverage opportunity)
+- 🔬 **PROPOSED**: When competitor's iOS-Android divergence >2x, +1 (specific platform-side wedge)
+
+### User decision
+- _to be filled_
+
+### Outcome
+- _to be filled_
+
+---
+
 ## Open hypotheses register (carry forward)
 
 These are unvalidated ideas the agent should attempt in future runs:

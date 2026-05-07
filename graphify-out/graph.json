@@ -156,6 +156,276 @@
   },
   "nodes": [
     {
+      "label": "reddit_new_niches.py",
+      "file_type": "code",
+      "source_file": "reddit_new_niches.py",
+      "source_location": "L1",
+      "id": "c_users_demosgod_desktop_projects_playstore_app_reddit_new_niches_py",
+      "community": 17,
+      "norm_label": "reddit_new_niches.py"
+    },
+    {
+      "label": "reddit_top_trees.py",
+      "file_type": "code",
+      "source_file": "reddit_top_trees.py",
+      "source_location": "L1",
+      "id": "c_users_demosgod_desktop_projects_playstore_app_reddit_top_trees_py",
+      "community": 13,
+      "norm_label": "reddit_top_trees.py"
+    },
+    {
+      "label": "safe_load()",
+      "file_type": "code",
+      "source_file": "reddit_top_trees.py",
+      "source_location": "L10",
+      "id": "reddit_top_trees_safe_load",
+      "community": 13,
+      "norm_label": "safe_load()"
+    },
+    {
+      "label": "reddit_xpand.py",
+      "file_type": "code",
+      "source_file": "reddit_xpand.py",
+      "source_location": "L1",
+      "id": "c_users_demosgod_desktop_projects_playstore_app_reddit_xpand_py",
+      "community": 18,
+      "norm_label": "reddit_xpand.py"
+    },
+    {
+      "label": "reddit_xpand2.py",
+      "file_type": "code",
+      "source_file": "reddit_xpand2.py",
+      "source_location": "L1",
+      "id": "c_users_demosgod_desktop_projects_playstore_app_reddit_xpand2_py",
+      "community": 19,
+      "norm_label": "reddit_xpand2.py"
+    },
+    {
+      "label": "tiktok_phase15.py",
+      "file_type": "code",
+      "source_file": "tiktok_phase15.py",
+      "source_location": "L1",
+      "id": "c_users_demosgod_desktop_projects_playstore_app_tiktok_phase15_py",
+      "community": 14,
+      "norm_label": "tiktok_phase15.py"
+    },
+    {
+      "label": "fetch_json()",
+      "file_type": "code",
+      "source_file": "tiktok_phase15.py",
+      "source_location": "L19",
+      "id": "tiktok_phase15_fetch_json",
+      "community": 14,
+      "norm_label": "fetch_json()"
+    },
+    {
+      "label": "tiktok_xpand.py",
+      "file_type": "code",
+      "source_file": "tiktok_xpand.py",
+      "source_location": "L1",
+      "id": "c_users_demosgod_desktop_projects_playstore_app_tiktok_xpand_py",
+      "community": 15,
+      "norm_label": "tiktok_xpand.py"
+    },
+    {
+      "label": "fetch_json()",
+      "file_type": "code",
+      "source_file": "tiktok_xpand.py",
+      "source_location": "L27",
+      "id": "tiktok_xpand_fetch_json",
+      "community": 15,
+      "norm_label": "fetch_json()"
+    },
+    {
+      "label": "analyze_drill.py",
+      "file_type": "code",
+      "source_file": "scripts\\analyze_drill.py",
+      "source_location": "L1",
+      "id": "c_users_demosgod_desktop_projects_playstore_app_scripts_analyze_drill_py",
+      "community": 16,
+      "norm_label": "analyze_drill.py"
+    },
+    {
+      "label": "classify()",
+      "file_type": "code",
+      "source_file": "scripts\\analyze_drill.py",
+      "source_location": "L26",
+      "id": "analyze_drill_classify",
+      "community": 16,
+      "norm_label": "classify()"
+    },
+    {
+      "label": "analyze_tiktok.py",
+      "file_type": "code",
+      "source_file": "scripts\\analyze_tiktok.py",
+      "source_location": "L1",
+      "id": "c_users_demosgod_desktop_projects_playstore_app_scripts_analyze_tiktok_py",
+      "community": 20,
+      "norm_label": "analyze_tiktok.py"
+    },
+    {
+      "label": "final_synthesis.py",
+      "file_type": "code",
+      "source_file": "scripts\\final_synthesis.py",
+      "source_location": "L1",
+      "id": "c_users_demosgod_desktop_projects_playstore_app_scripts_final_synthesis_py",
+      "community": 9,
+      "norm_label": "final_synthesis.py"
+    },
+    {
+      "label": "safe_load()",
+      "file_type": "code",
+      "source_file": "scripts\\final_synthesis.py",
+      "source_location": "L8",
+      "id": "final_synthesis_safe_load",
+      "community": 9,
+      "norm_label": "safe_load()"
+    },
+    {
+      "label": "tiktok_score_for()",
+      "file_type": "code",
+      "source_file": "scripts\\final_synthesis.py",
+      "source_location": "L33",
+      "id": "final_synthesis_tiktok_score_for",
+      "community": 9,
+      "norm_label": "tiktok_score_for()"
+    },
+    {
+      "label": "tiktok_engagement()",
+      "file_type": "code",
+      "source_file": "scripts\\final_synthesis.py",
+      "source_location": "L38",
+      "id": "final_synthesis_tiktok_engagement",
+      "community": 9,
+      "norm_label": "tiktok_engagement()"
+    },
+    {
+      "label": "reddit_deep.py",
+      "file_type": "code",
+      "source_file": "scripts\\reddit_deep.py",
+      "source_location": "L1",
+      "id": "c_users_demosgod_desktop_projects_playstore_app_scripts_reddit_deep_py",
+      "community": 11,
+      "norm_label": "reddit_deep.py"
+    },
+    {
+      "label": "fetch_posts()",
+      "file_type": "code",
+      "source_file": "scripts\\reddit_deep.py",
+      "source_location": "L31",
+      "id": "reddit_deep_fetch_posts",
+      "community": 11,
+      "norm_label": "fetch_posts()"
+    },
+    {
+      "label": "filter_posts()",
+      "file_type": "code",
+      "source_file": "scripts\\reddit_deep.py",
+      "source_location": "L43",
+      "id": "reddit_deep_filter_posts",
+      "community": 11,
+      "norm_label": "filter_posts()"
+    },
+    {
+      "label": "reddit_extra.py",
+      "file_type": "code",
+      "source_file": "scripts\\reddit_extra.py",
+      "source_location": "L1",
+      "id": "c_users_demosgod_desktop_projects_playstore_app_scripts_reddit_extra_py",
+      "community": 21,
+      "norm_label": "reddit_extra.py"
+    },
+    {
+      "label": "scan-trends.mjs",
+      "file_type": "code",
+      "source_file": "scripts\\scan-trends.mjs",
+      "source_location": "L1",
+      "id": "c_users_demosgod_desktop_projects_playstore_app_scripts_scan_trends_mjs",
+      "community": 2,
+      "norm_label": "scan-trends.mjs"
+    },
+    {
+      "label": "sleep()",
+      "file_type": "code",
+      "source_file": "scripts\\scan-trends.mjs",
+      "source_location": "L6",
+      "id": "scan_trends_sleep",
+      "community": 2,
+      "norm_label": "sleep()"
+    },
+    {
+      "label": "fetchSummary()",
+      "file_type": "code",
+      "source_file": "scripts\\scan-trends.mjs",
+      "source_location": "L39",
+      "id": "scan_trends_fetchsummary",
+      "community": 2,
+      "norm_label": "fetchsummary()"
+    },
+    {
+      "label": "synthesize.py",
+      "file_type": "code",
+      "source_file": "scripts\\synthesize.py",
+      "source_location": "L1",
+      "id": "c_users_demosgod_desktop_projects_playstore_app_scripts_synthesize_py",
+      "community": 12,
+      "norm_label": "synthesize.py"
+    },
+    {
+      "label": "safe_load()",
+      "file_type": "code",
+      "source_file": "scripts\\synthesize.py",
+      "source_location": "L9",
+      "id": "synthesize_safe_load",
+      "community": 12,
+      "norm_label": "safe_load()"
+    },
+    {
+      "label": "tiktok_volume_for()",
+      "file_type": "code",
+      "source_file": "scripts\\synthesize.py",
+      "source_location": "L28",
+      "id": "synthesize_tiktok_volume_for",
+      "community": 12,
+      "norm_label": "tiktok_volume_for()"
+    },
+    {
+      "label": "tiktok_deep.py",
+      "file_type": "code",
+      "source_file": "scripts\\tiktok_deep.py",
+      "source_location": "L1",
+      "id": "c_users_demosgod_desktop_projects_playstore_app_scripts_tiktok_deep_py",
+      "community": 10,
+      "norm_label": "tiktok_deep.py"
+    },
+    {
+      "label": "fetch_json()",
+      "file_type": "code",
+      "source_file": "scripts\\tiktok_deep.py",
+      "source_location": "L32",
+      "id": "tiktok_deep_fetch_json",
+      "community": 10,
+      "norm_label": "fetch_json()"
+    },
+    {
+      "label": "search_videos()",
+      "file_type": "code",
+      "source_file": "scripts\\tiktok_deep.py",
+      "source_location": "L37",
+      "id": "tiktok_deep_search_videos",
+      "community": 10,
+      "norm_label": "search_videos()"
+    },
+    {
+      "label": "fetch_comments()",
+      "file_type": "code",
+      "source_file": "scripts\\tiktok_deep.py",
+      "source_location": "L41",
+      "id": "tiktok_deep_fetch_comments",
+      "community": 10,
+      "norm_label": "fetch_comments()"
+    },
+    {
       "label": "Findings README",
       "file_type": "document",
       "source_file": "findings/README.md",
@@ -164,9 +434,9 @@
       "captured_at": "2026-05-06",
       "author": null,
       "contributor": null,
-      "id": "findings_readme",
-      "community": 7,
-      "norm_label": "findings readme"
+      "community": 1,
+      "norm_label": "findings readme",
+      "id": "findings_readme"
     },
     {
       "label": "Market Economics: Country x Niche Revenue",
@@ -177,9 +447,9 @@
       "captured_at": "2026-05",
       "author": null,
       "contributor": null,
-      "id": "market_economics_doc",
       "community": 8,
-      "norm_label": "market economics: country x niche revenue"
+      "norm_label": "market economics: country x niche revenue",
+      "id": "market_economics_doc"
     },
     {
       "label": "Competitor Revenue Scrape",
@@ -190,9 +460,9 @@
       "captured_at": "2026-05-07",
       "author": null,
       "contributor": null,
-      "id": "competitor_revenues_doc",
-      "community": 4,
-      "norm_label": "competitor revenue scrape"
+      "community": 6,
+      "norm_label": "competitor revenue scrape",
+      "id": "competitor_revenues_doc"
     },
     {
       "label": "Localization Quality Audit Top 5",
@@ -203,9 +473,9 @@
       "captured_at": "2026-05-07",
       "author": null,
       "contributor": null,
-      "id": "localization_audit_doc",
-      "community": 4,
-      "norm_label": "localization quality audit top 5"
+      "community": 3,
+      "norm_label": "localization quality audit top 5",
+      "id": "localization_audit_doc"
     },
     {
       "label": "Maktub Cultural Validation",
@@ -216,9 +486,9 @@
       "captured_at": "2026-05-07",
       "author": null,
       "contributor": null,
-      "id": "maktub_cultural_doc",
-      "community": 6,
-      "norm_label": "maktub cultural validation"
+      "community": 4,
+      "norm_label": "maktub cultural validation",
+      "id": "maktub_cultural_doc"
     },
     {
       "label": "ASO Keyword Volume Research",
@@ -229,9 +499,9 @@
       "captured_at": "2026-05-07",
       "author": null,
       "contributor": null,
-      "id": "aso_keyword_doc",
-      "community": 2,
-      "norm_label": "aso keyword volume research"
+      "community": 3,
+      "norm_label": "aso keyword volume research",
+      "id": "aso_keyword_doc"
     },
     {
       "label": "Competitor Backgrounds Founder Research",
@@ -242,9 +512,9 @@
       "captured_at": "2026-05-07",
       "author": null,
       "contributor": null,
-      "id": "competitor_backgrounds_doc",
-      "community": 4,
-      "norm_label": "competitor backgrounds founder research"
+      "community": 6,
+      "norm_label": "competitor backgrounds founder research",
+      "id": "competitor_backgrounds_doc"
     },
     {
       "label": "App-Radar Directions Report v3",
@@ -255,9 +525,9 @@
       "captured_at": "2026-05-07",
       "author": null,
       "contributor": null,
-      "id": "directions_v3_doc",
-      "community": 0,
-      "norm_label": "app-radar directions report v3"
+      "community": 5,
+      "norm_label": "app-radar directions report v3",
+      "id": "directions_v3_doc"
     },
     {
       "label": "Drill Analysis Results",
@@ -268,9 +538,9 @@
       "captured_at": "2026-05-07",
       "author": null,
       "contributor": null,
-      "id": "drill_analysis_doc",
-      "community": 7,
-      "norm_label": "drill analysis results"
+      "community": 3,
+      "norm_label": "drill analysis results",
+      "id": "drill_analysis_doc"
     },
     {
       "label": "Final Verdict Matrix",
@@ -281,9 +551,9 @@
       "captured_at": "2026-05-06",
       "author": null,
       "contributor": null,
-      "id": "final_verdict_doc",
-      "community": 7,
-      "norm_label": "final verdict matrix"
+      "community": 1,
+      "norm_label": "final verdict matrix",
+      "id": "final_verdict_doc"
     },
     {
       "label": "Methodology 2026-05-07",
@@ -294,9 +564,9 @@
       "captured_at": "2026-05-07",
       "author": null,
       "contributor": null,
-      "id": "methodology_doc",
-      "community": 0,
-      "norm_label": "methodology 2026-05-07"
+      "community": 2,
+      "norm_label": "methodology 2026-05-07",
+      "id": "methodology_doc"
     },
     {
       "label": "Morning Briefing v2",
@@ -307,9 +577,9 @@
       "captured_at": "2026-05-07",
       "author": null,
       "contributor": null,
-      "id": "morning_briefing_doc",
-      "community": 0,
-      "norm_label": "morning briefing v2"
+      "community": 2,
+      "norm_label": "morning briefing v2",
+      "id": "morning_briefing_doc"
     },
     {
       "label": "Run Ledger - Evolution Log",
@@ -320,9 +590,9 @@
       "captured_at": "2026-05-07",
       "author": null,
       "contributor": null,
-      "id": "run_ledger_doc",
-      "community": 0,
-      "norm_label": "run ledger - evolution log"
+      "community": 2,
+      "norm_label": "run ledger - evolution log",
+      "id": "run_ledger_doc"
     },
     {
       "label": "Love8 - App for Couples",
@@ -333,9 +603,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "love8_app",
-      "community": 1,
-      "norm_label": "love8 - app for couples"
+      "community": 0,
+      "norm_label": "love8 - app for couples",
+      "id": "love8_app"
     },
     {
       "label": "Chongqing Daole Er Technology Co Ltd",
@@ -346,9 +616,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "chongqing_daole_er",
-      "community": 1,
-      "norm_label": "chongqing daole er technology co ltd"
+      "community": 0,
+      "norm_label": "chongqing daole er technology co ltd",
+      "id": "chongqing_daole_er"
     },
     {
       "label": "Love8 Team / Love Elves",
@@ -359,9 +629,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "love8_team_brand",
-      "community": 1,
-      "norm_label": "love8 team / love elves"
+      "community": 0,
+      "norm_label": "love8 team / love elves",
+      "id": "love8_team_brand"
     },
     {
       "label": "buzzArab MENA Dating",
@@ -372,9 +642,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "buzzarab_app",
-      "community": 5,
-      "norm_label": "buzzarab mena dating"
+      "community": 7,
+      "norm_label": "buzzarab mena dating",
+      "id": "buzzarab_app"
     },
     {
       "label": "Sherif Omar (buzzArab founder)",
@@ -385,9 +655,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "sherif_omar",
-      "community": 5,
-      "norm_label": "sherif omar (buzzarab founder)"
+      "community": 7,
+      "norm_label": "sherif omar (buzzarab founder)",
+      "id": "sherif_omar"
     },
     {
       "label": "Astrolink Brazilian Astrology",
@@ -398,9 +668,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "astrolink_app",
-      "community": 7,
-      "norm_label": "astrolink brazilian astrology"
+      "community": 3,
+      "norm_label": "astrolink brazilian astrology",
+      "id": "astrolink_app"
     },
     {
       "label": "ORBE VENTURES LTDA (CNPJ 53.277.567/0001-76)",
@@ -411,9 +681,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "orbe_ventures_ltda",
-      "community": 7,
-      "norm_label": "orbe ventures ltda (cnpj 53.277.567/0001-76)"
+      "community": 3,
+      "norm_label": "orbe ventures ltda (cnpj 53.277.567/0001-76)",
+      "id": "orbe_ventures_ltda"
     },
     {
       "label": "Fabio Principe (Astrolink operator)",
@@ -424,9 +694,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "fabio_principe",
-      "community": 7,
-      "norm_label": "fabio principe (astrolink operator)"
+      "community": 3,
+      "norm_label": "fabio principe (astrolink operator)",
+      "id": "fabio_principe"
     },
     {
       "label": "Sleep Cycle AB (Nasdaq SLEEP)",
@@ -437,9 +707,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "sleep_cycle_ab",
-      "community": 4,
-      "norm_label": "sleep cycle ab (nasdaq sleep)"
+      "community": 6,
+      "norm_label": "sleep cycle ab (nasdaq sleep)",
+      "id": "sleep_cycle_ab"
     },
     {
       "label": "Maciej Drejak (Sleep Cycle founder)",
@@ -450,9 +720,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "maciej_drejak",
-      "community": 4,
-      "norm_label": "maciej drejak (sleep cycle founder)"
+      "community": 6,
+      "norm_label": "maciej drejak (sleep cycle founder)",
+      "id": "maciej_drejak"
     },
     {
       "label": "Northcube AB",
@@ -463,9 +733,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "northcube_ab",
-      "community": 4,
-      "norm_label": "northcube ab"
+      "community": 6,
+      "norm_label": "northcube ab",
+      "id": "northcube_ab"
     },
     {
       "label": "Labyrinthos Tarot Cards",
@@ -476,9 +746,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "labyrinthos_app",
-      "community": 2,
-      "norm_label": "labyrinthos tarot cards"
+      "community": 5,
+      "norm_label": "labyrinthos tarot cards",
+      "id": "labyrinthos_app"
     },
     {
       "label": "Tina Gong (Labyrinthos founder)",
@@ -489,9 +759,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "tina_gong",
-      "community": 2,
-      "norm_label": "tina gong (labyrinthos founder)"
+      "community": 5,
+      "norm_label": "tina gong (labyrinthos founder)",
+      "id": "tina_gong"
     },
     {
       "label": "Labyrinthos LLC / Labyrinthos Academy",
@@ -502,9 +772,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "labyrinthos_llc",
-      "community": 2,
-      "norm_label": "labyrinthos llc / labyrinthos academy"
+      "community": 5,
+      "norm_label": "labyrinthos llc / labyrinthos academy",
+      "id": "labyrinthos_llc"
     },
     {
       "label": "Tinder",
@@ -515,9 +785,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "tinder_app",
-      "community": 4,
-      "norm_label": "tinder"
+      "community": 6,
+      "norm_label": "tinder",
+      "id": "tinder_app"
     },
     {
       "label": "Match Group Inc (NASDAQ MTCH)",
@@ -528,9 +798,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "match_group",
-      "community": 4,
-      "norm_label": "match group inc (nasdaq mtch)"
+      "community": 6,
+      "norm_label": "match group inc (nasdaq mtch)",
+      "id": "match_group"
     },
     {
       "label": "Faladdin (TR tarot/horoscope, 25M users)",
@@ -541,9 +811,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "faladdin_app",
-      "community": 2,
-      "norm_label": "faladdin (tr tarot/horoscope, 25m users)"
+      "community": 3,
+      "norm_label": "faladdin (tr tarot/horoscope, 25m users)",
+      "id": "faladdin_app"
     },
     {
       "label": "Yodha Astrolojim ve Burcum",
@@ -554,9 +824,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "yodha_app",
-      "community": 7,
-      "norm_label": "yodha astrolojim ve burcum"
+      "community": 3,
+      "norm_label": "yodha astrolojim ve burcum",
+      "id": "yodha_app"
     },
     {
       "label": "Finch Self-Care Pet",
@@ -567,9 +837,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "finch_app",
-      "community": 7,
-      "norm_label": "finch self-care pet"
+      "community": 3,
+      "norm_label": "finch self-care pet",
+      "id": "finch_app"
     },
     {
       "label": "Remente Self Care Wellbeing",
@@ -580,9 +850,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "remente_app",
-      "community": 7,
-      "norm_label": "remente self care wellbeing"
+      "community": 3,
+      "norm_label": "remente self care wellbeing",
+      "id": "remente_app"
     },
     {
       "label": "Mawada Halal Matrimonial",
@@ -593,9 +863,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "mawada_app",
-      "community": 6,
-      "norm_label": "mawada halal matrimonial"
+      "community": 4,
+      "norm_label": "mawada halal matrimonial",
+      "id": "mawada_app"
     },
     {
       "label": "Muzz (ex-Muzmatch)",
@@ -606,9 +876,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "muzz_app",
-      "community": 6,
-      "norm_label": "muzz (ex-muzmatch)"
+      "community": 4,
+      "norm_label": "muzz (ex-muzmatch)",
+      "id": "muzz_app"
     },
     {
       "label": "Salams Halal Matrimonial",
@@ -619,9 +889,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "salams_app",
-      "community": 6,
-      "norm_label": "salams halal matrimonial"
+      "community": 4,
+      "norm_label": "salams halal matrimonial",
+      "id": "salams_app"
     },
     {
       "label": "AlKhattaba (\u0627\u0644\u062e\u0637\u0627\u0628\u0629) Egyptian Matrimonial",
@@ -632,9 +902,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "alkhattaba_app",
-      "community": 6,
-      "norm_label": "alkhattaba (\u0627\u0644\u062e\u0637\u0627\u0628\u0629) egyptian matrimonial"
+      "community": 4,
+      "norm_label": "alkhattaba (\u0627\u0644\u062e\u0637\u0627\u0628\u0629) egyptian matrimonial",
+      "id": "alkhattaba_app"
     },
     {
       "label": "ana wa anta - You and I for Married Couples",
@@ -645,9 +915,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "ana_wa_anta_app",
-      "community": 1,
-      "norm_label": "ana wa anta - you and i for married couples"
+      "community": 0,
+      "norm_label": "ana wa anta - you and i for married couples",
+      "id": "ana_wa_anta_app"
     },
     {
       "label": "Muslim Pro",
@@ -658,9 +928,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "muslim_pro_app",
-      "community": 6,
-      "norm_label": "muslim pro"
+      "community": 4,
+      "norm_label": "muslim pro",
+      "id": "muslim_pro_app"
     },
     {
       "label": "Duolingo",
@@ -671,9 +941,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "duolingo_app",
       "community": 8,
-      "norm_label": "duolingo"
+      "norm_label": "duolingo",
+      "id": "duolingo_app"
     },
     {
       "label": "Co-Star Astrology",
@@ -684,9 +954,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "co_star_app",
       "community": 8,
-      "norm_label": "co-star astrology"
+      "norm_label": "co-star astrology",
+      "id": "co_star_app"
     },
     {
       "label": "The Pattern",
@@ -697,9 +967,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "the_pattern_app",
       "community": 8,
-      "norm_label": "the pattern"
+      "norm_label": "the pattern",
+      "id": "the_pattern_app"
     },
     {
       "label": "Photoroom AI Editor",
@@ -710,9 +980,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "photoroom_app",
       "community": 8,
-      "norm_label": "photoroom ai editor"
+      "norm_label": "photoroom ai editor",
+      "id": "photoroom_app"
     },
     {
       "label": "VSCO",
@@ -723,9 +993,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "vsco_app",
       "community": 8,
-      "norm_label": "vsco"
+      "norm_label": "vsco",
+      "id": "vsco_app"
     },
     {
       "label": "DramaBox / ReelShort short drama",
@@ -736,9 +1006,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "dramabox_app",
       "community": 8,
-      "norm_label": "dramabox / reelshort short drama"
+      "norm_label": "dramabox / reelshort short drama",
+      "id": "dramabox_app"
     },
     {
       "label": "CapCut (ByteDance)",
@@ -749,9 +1019,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "capcut_app",
-      "community": 0,
-      "norm_label": "capcut (bytedance)"
+      "community": 2,
+      "norm_label": "capcut (bytedance)",
+      "id": "capcut_app"
     },
     {
       "label": "Brazil (BR)",
@@ -762,9 +1032,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "country_br",
-      "community": 1,
-      "norm_label": "brazil (br)"
+      "community": 0,
+      "norm_label": "brazil (br)",
+      "id": "country_br"
     },
     {
       "label": "Mexico (MX)",
@@ -775,9 +1045,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "country_mx",
-      "community": 1,
-      "norm_label": "mexico (mx)"
+      "community": 0,
+      "norm_label": "mexico (mx)",
+      "id": "country_mx"
     },
     {
       "label": "Turkey (TR)",
@@ -788,9 +1058,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "country_tr",
-      "community": 2,
-      "norm_label": "turkey (tr)"
+      "community": 5,
+      "norm_label": "turkey (tr)",
+      "id": "country_tr"
     },
     {
       "label": "Indonesia (ID)",
@@ -801,9 +1071,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "country_id",
-      "community": 3,
-      "norm_label": "indonesia (id)"
+      "community": 1,
+      "norm_label": "indonesia (id)",
+      "id": "country_id"
     },
     {
       "label": "Vietnam (VN)",
@@ -814,9 +1084,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "country_vn",
-      "community": 3,
-      "norm_label": "vietnam (vn)"
+      "community": 1,
+      "norm_label": "vietnam (vn)",
+      "id": "country_vn"
     },
     {
       "label": "Philippines (PH)",
@@ -827,9 +1097,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "country_ph",
-      "community": 3,
-      "norm_label": "philippines (ph)"
+      "community": 1,
+      "norm_label": "philippines (ph)",
+      "id": "country_ph"
     },
     {
       "label": "Thailand (TH)",
@@ -840,9 +1110,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "country_th",
-      "community": 3,
-      "norm_label": "thailand (th)"
+      "community": 1,
+      "norm_label": "thailand (th)",
+      "id": "country_th"
     },
     {
       "label": "Egypt (EG)",
@@ -853,9 +1123,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "country_eg",
-      "community": 5,
-      "norm_label": "egypt (eg)"
+      "community": 7,
+      "norm_label": "egypt (eg)",
+      "id": "country_eg"
     },
     {
       "label": "Saudi Arabia (SA)",
@@ -866,9 +1136,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "country_sa",
-      "community": 5,
-      "norm_label": "saudi arabia (sa)"
+      "community": 7,
+      "norm_label": "saudi arabia (sa)",
+      "id": "country_sa"
     },
     {
       "label": "United Arab Emirates (AE)",
@@ -879,9 +1149,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "country_ae",
-      "community": 5,
-      "norm_label": "united arab emirates (ae)"
+      "community": 7,
+      "norm_label": "united arab emirates (ae)",
+      "id": "country_ae"
     },
     {
       "label": "Couple / Couples-Care Apps",
@@ -892,9 +1162,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "niche_couple",
-      "community": 1,
-      "norm_label": "couple / couples-care apps"
+      "community": 0,
+      "norm_label": "couple / couples-care apps",
+      "id": "niche_couple"
     },
     {
       "label": "Dating Apps",
@@ -905,9 +1175,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "niche_dating",
-      "community": 4,
-      "norm_label": "dating apps"
+      "community": 6,
+      "norm_label": "dating apps",
+      "id": "niche_dating"
     },
     {
       "label": "Astrology",
@@ -918,9 +1188,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "niche_astrology",
-      "community": 7,
-      "norm_label": "astrology"
+      "community": 3,
+      "norm_label": "astrology",
+      "id": "niche_astrology"
     },
     {
       "label": "Tarot",
@@ -931,9 +1201,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "niche_tarot",
-      "community": 2,
-      "norm_label": "tarot"
+      "community": 3,
+      "norm_label": "tarot",
+      "id": "niche_tarot"
     },
     {
       "label": "Sleep Tracking",
@@ -944,9 +1214,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "niche_sleep",
-      "community": 4,
-      "norm_label": "sleep tracking"
+      "community": 6,
+      "norm_label": "sleep tracking",
+      "id": "niche_sleep"
     },
     {
       "label": "Self-Care / Habit",
@@ -957,9 +1227,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "niche_selfcare",
-      "community": 7,
-      "norm_label": "self-care / habit"
+      "community": 3,
+      "norm_label": "self-care / habit",
+      "id": "niche_selfcare"
     },
     {
       "label": "Manifestation",
@@ -970,9 +1240,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "niche_manifestation",
-      "community": 7,
-      "norm_label": "manifestation"
+      "community": 3,
+      "norm_label": "manifestation",
+      "id": "niche_manifestation"
     },
     {
       "label": "Halal Matrimonial",
@@ -983,9 +1253,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "niche_matrimonial",
-      "community": 6,
-      "norm_label": "halal matrimonial"
+      "community": 4,
+      "norm_label": "halal matrimonial",
+      "id": "niche_matrimonial"
     },
     {
       "label": "TR/couple cell (score 17)",
@@ -996,9 +1266,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "cell_tr_couple",
-      "community": 1,
-      "norm_label": "tr/couple cell (score 17)"
+      "community": 0,
+      "norm_label": "tr/couple cell (score 17)",
+      "id": "cell_tr_couple"
     },
     {
       "label": "MX/couple cell",
@@ -1009,9 +1279,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "cell_mx_couple",
-      "community": 1,
-      "norm_label": "mx/couple cell"
+      "community": 0,
+      "norm_label": "mx/couple cell",
+      "id": "cell_mx_couple"
     },
     {
       "label": "BR/couple cell",
@@ -1022,9 +1292,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "cell_br_couple",
-      "community": 1,
-      "norm_label": "br/couple cell"
+      "community": 0,
+      "norm_label": "br/couple cell",
+      "id": "cell_br_couple"
     },
     {
       "label": "VN/couple cell",
@@ -1035,9 +1305,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "cell_vn_couple",
-      "community": 3,
-      "norm_label": "vn/couple cell"
+      "community": 1,
+      "norm_label": "vn/couple cell",
+      "id": "cell_vn_couple"
     },
     {
       "label": "TH/couple cell",
@@ -1048,9 +1318,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "cell_th_couple",
-      "community": 3,
-      "norm_label": "th/couple cell"
+      "community": 1,
+      "norm_label": "th/couple cell",
+      "id": "cell_th_couple"
     },
     {
       "label": "SA/couple cell",
@@ -1061,9 +1331,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "cell_sa_couple",
-      "community": 5,
-      "norm_label": "sa/couple cell"
+      "community": 7,
+      "norm_label": "sa/couple cell",
+      "id": "cell_sa_couple"
     },
     {
       "label": "AE/couple cell",
@@ -1074,9 +1344,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "cell_ae_couple",
-      "community": 5,
-      "norm_label": "ae/couple cell"
+      "community": 7,
+      "norm_label": "ae/couple cell",
+      "id": "cell_ae_couple"
     },
     {
       "label": "EG/couple cell",
@@ -1087,9 +1357,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "cell_eg_couple",
-      "community": 5,
-      "norm_label": "eg/couple cell"
+      "community": 7,
+      "norm_label": "eg/couple cell",
+      "id": "cell_eg_couple"
     },
     {
       "label": "TR/tarot cell",
@@ -1100,9 +1370,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "cell_tr_tarot",
-      "community": 2,
-      "norm_label": "tr/tarot cell"
+      "community": 5,
+      "norm_label": "tr/tarot cell",
+      "id": "cell_tr_tarot"
     },
     {
       "label": "TR/sleep cell",
@@ -1113,9 +1383,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "cell_tr_sleep",
-      "community": 2,
-      "norm_label": "tr/sleep cell"
+      "community": 5,
+      "norm_label": "tr/sleep cell",
+      "id": "cell_tr_sleep"
     },
     {
       "label": "BR/astrology cell",
@@ -1126,9 +1396,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "cell_br_astrology",
-      "community": 1,
-      "norm_label": "br/astrology cell"
+      "community": 0,
+      "norm_label": "br/astrology cell",
+      "id": "cell_br_astrology"
     },
     {
       "label": "ID/couple cell",
@@ -1139,9 +1409,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "cell_id_couple",
-      "community": 3,
-      "norm_label": "id/couple cell"
+      "community": 1,
+      "norm_label": "id/couple cell",
+      "id": "cell_id_couple"
     },
     {
       "label": "Direction 1: \u00c7ift - TR Couples Anti-Tracking",
@@ -1152,9 +1422,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "direction_1_cift",
-      "community": 1,
-      "norm_label": "direction 1: cift - tr couples anti-tracking"
+      "community": 0,
+      "norm_label": "direction 1: cift - tr couples anti-tracking",
+      "id": "direction_1_cift"
     },
     {
       "label": "Direction 2: Pareja+Casal Multi-Locale LATAM",
@@ -1165,9 +1435,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "direction_2_pareja_casal",
-      "community": 1,
-      "norm_label": "direction 2: pareja+casal multi-locale latam"
+      "community": 0,
+      "norm_label": "direction 2: pareja+casal multi-locale latam",
+      "id": "direction_2_pareja_casal"
     },
     {
       "label": "Direction 3: Y\u00eau - Vietnam First Couples",
@@ -1178,9 +1448,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "direction_3_yeu",
-      "community": 3,
-      "norm_label": "direction 3: yeu - vietnam first couples"
+      "community": 1,
+      "norm_label": "direction 3: yeu - vietnam first couples",
+      "id": "direction_3_yeu"
     },
     {
       "label": "Direction 4: Maktub - Arab Married Couples (DOWNGRADED)",
@@ -1191,9 +1461,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "direction_4_maktub",
-      "community": 5,
-      "norm_label": "direction 4: maktub - arab married couples (downgraded)"
+      "community": 7,
+      "norm_label": "direction 4: maktub - arab married couples (downgraded)",
+      "id": "direction_4_maktub"
     },
     {
       "label": "Direction 5: Tarot T\u00fcrk\u00e7e - Native TR Tarot",
@@ -1204,9 +1474,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "direction_5_tarot_turkce",
-      "community": 2,
-      "norm_label": "direction 5: tarot turkce - native tr tarot"
+      "community": 5,
+      "norm_label": "direction 5: tarot turkce - native tr tarot",
+      "id": "direction_5_tarot_turkce"
     },
     {
       "label": "HYP: Sleep Cycle TR no Turkish (FALSIFIED)",
@@ -1217,9 +1487,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "hyp_sleep_cycle_no_tr",
-      "community": 2,
-      "norm_label": "hyp: sleep cycle tr no turkish (falsified)"
+      "community": 5,
+      "norm_label": "hyp: sleep cycle tr no turkish (falsified)",
+      "id": "hyp_sleep_cycle_no_tr"
     },
     {
       "label": "HYP: MENA $30-60/MAU (FALSIFIED, revised $6-15)",
@@ -1230,9 +1500,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "hyp_mena_30_60_mau",
-      "community": 5,
-      "norm_label": "hyp: mena $30-60/mau (falsified, revised $6-15)"
+      "community": 7,
+      "norm_label": "hyp: mena $30-60/mau (falsified, revised $6-15)",
+      "id": "hyp_mena_30_60_mau"
     },
     {
       "label": "HYP: Labyrinthos machine-translated TR (VALIDATED)",
@@ -1243,9 +1513,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "hyp_labyrinthos_machine_tr",
-      "community": 2,
-      "norm_label": "hyp: labyrinthos machine-translated tr (validated)"
+      "community": 5,
+      "norm_label": "hyp: labyrinthos machine-translated tr (validated)",
+      "id": "hyp_labyrinthos_machine_tr"
     },
     {
       "label": "HYP: Cross-country Love8 displacement (VALIDATED)",
@@ -1256,9 +1526,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "hyp_cross_country_love8",
-      "community": 0,
-      "norm_label": "hyp: cross-country love8 displacement (validated)"
+      "community": 2,
+      "norm_label": "hyp: cross-country love8 displacement (validated)",
+      "id": "hyp_cross_country_love8"
     },
     {
       "label": "HYP: Sleep Cycle $2.25/MAU revenue anchor (VALIDATED)",
@@ -1269,9 +1539,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "hyp_sleep_cycle_anchor",
-      "community": 4,
-      "norm_label": "hyp: sleep cycle $2.25/mau revenue anchor (validated)"
+      "community": 6,
+      "norm_label": "hyp: sleep cycle $2.25/mau revenue anchor (validated)",
+      "id": "hyp_sleep_cycle_anchor"
     },
     {
       "label": "HYP: Trends momentum signal (FAILED 2/2)",
@@ -1282,9 +1552,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "hyp_trends_momentum",
-      "community": 0,
-      "norm_label": "hyp: trends momentum signal (failed 2/2)"
+      "community": 2,
+      "norm_label": "hyp: trends momentum signal (failed 2/2)",
+      "id": "hyp_trends_momentum"
     },
     {
       "label": "HYP: Revenue dimension critical (VALIDATED)",
@@ -1295,9 +1565,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "hyp_revenue_dim_critical",
-      "community": 3,
-      "norm_label": "hyp: revenue dimension critical (validated)"
+      "community": 1,
+      "norm_label": "hyp: revenue dimension critical (validated)",
+      "id": "hyp_revenue_dim_critical"
     },
     {
       "label": "HYP: Cultural risk MENA \u00d7 astrology penalty (VALIDATED)",
@@ -1308,9 +1578,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "hyp_cultural_risk_filter",
-      "community": 6,
-      "norm_label": "hyp: cultural risk mena \u00d7 astrology penalty (validated)"
+      "community": 4,
+      "norm_label": "hyp: cultural risk mena \u00d7 astrology penalty (validated)",
+      "id": "hyp_cultural_risk_filter"
     },
     {
       "label": "HYP: ID/astrology TikTok 1.7M = strong (FALSIFIED)",
@@ -1321,9 +1591,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "hyp_id_astrology_strong",
-      "community": 3,
-      "norm_label": "hyp: id/astrology tiktok 1.7m = strong (falsified)"
+      "community": 1,
+      "norm_label": "hyp: id/astrology tiktok 1.7m = strong (falsified)",
+      "id": "hyp_id_astrology_strong"
     },
     {
       "label": "HYP: Subjective deliverable-complete stop (PROHIBITED)",
@@ -1334,9 +1604,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "hyp_subjective_complete_stop",
-      "community": 0,
-      "norm_label": "hyp: subjective deliverable-complete stop (prohibited)"
+      "community": 4,
+      "norm_label": "hyp: subjective deliverable-complete stop (prohibited)",
+      "id": "hyp_subjective_complete_stop"
     },
     {
       "label": "Phase 0: Read Run Ledger",
@@ -1347,9 +1617,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "phase_0_read_ledger",
-      "community": 0,
-      "norm_label": "phase 0: read run ledger"
+      "community": 2,
+      "norm_label": "phase 0: read run ledger",
+      "id": "phase_0_read_ledger"
     },
     {
       "label": "Phase 1.5: ARPU + Conversion Research",
@@ -1360,9 +1630,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "phase_1_5_arpu",
-      "community": 3,
-      "norm_label": "phase 1.5: arpu + conversion research"
+      "community": 1,
+      "norm_label": "phase 1.5: arpu + conversion research",
+      "id": "phase_1_5_arpu"
     },
     {
       "label": "Phase 10: Niche Expansion",
@@ -1373,9 +1643,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "phase_10_niche_expand",
-      "community": 9,
-      "norm_label": "phase 10: niche expansion"
+      "community": 22,
+      "norm_label": "phase 10: niche expansion",
+      "id": "phase_10_niche_expand"
     },
     {
       "label": "Phase 11: Country Expansion / Reflection",
@@ -1386,9 +1656,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "phase_11_country_expand",
-      "community": 0,
-      "norm_label": "phase 11: country expansion / reflection"
+      "community": 2,
+      "norm_label": "phase 11: country expansion / reflection",
+      "id": "phase_11_country_expand"
     },
     {
       "label": "Phase 12: Validate / Self-Improvement",
@@ -1399,9 +1669,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "phase_12_validate",
-      "community": 0,
-      "norm_label": "phase 12: validate / self-improvement"
+      "community": 2,
+      "norm_label": "phase 12: validate / self-improvement",
+      "id": "phase_12_validate"
     },
     {
       "label": "Phase 14: iOS Cross-Check",
@@ -1412,9 +1682,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "phase_14_ios",
-      "community": 2,
-      "norm_label": "phase 14: ios cross-check"
+      "community": 5,
+      "norm_label": "phase 14: ios cross-check",
+      "id": "phase_14_ios"
     },
     {
       "label": "Phase 15: Founder Background Research",
@@ -1425,9 +1695,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "phase_15_founder",
-      "community": 4,
-      "norm_label": "phase 15: founder background research"
+      "community": 6,
+      "norm_label": "phase 15: founder background research",
+      "id": "phase_15_founder"
     },
     {
       "label": "Cultural Validation Subagent (Maktub)",
@@ -1438,9 +1708,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "subagent_cultural_validation",
-      "community": 6,
-      "norm_label": "cultural validation subagent (maktub)"
+      "community": 4,
+      "norm_label": "cultural validation subagent (maktub)",
+      "id": "subagent_cultural_validation"
     },
     {
       "label": "Localization Audit Subagent",
@@ -1451,9 +1721,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "subagent_localization_audit",
-      "community": 4,
-      "norm_label": "localization audit subagent"
+      "community": 3,
+      "norm_label": "localization audit subagent",
+      "id": "subagent_localization_audit"
     },
     {
       "label": "ASO Keyword Volume Subagent",
@@ -1464,9 +1734,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "subagent_aso_keyword",
-      "community": 2,
-      "norm_label": "aso keyword volume subagent"
+      "community": 3,
+      "norm_label": "aso keyword volume subagent",
+      "id": "subagent_aso_keyword"
     },
     {
       "label": "Country ARPU (per user / yr)",
@@ -1477,9 +1747,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "metric_arpu",
-      "community": 3,
-      "norm_label": "country arpu (per user / yr)"
+      "community": 1,
+      "norm_label": "country arpu (per user / yr)",
+      "id": "metric_arpu"
     },
     {
       "label": "Free->Paid Conversion Rate",
@@ -1490,9 +1760,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "metric_conversion_rate",
-      "community": 3,
-      "norm_label": "free->paid conversion rate"
+      "community": 1,
+      "norm_label": "free->paid conversion rate",
+      "id": "metric_conversion_rate"
     },
     {
       "label": "Niche ARPU Multiplier",
@@ -1503,9 +1773,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "metric_niche_multiplier",
-      "community": 3,
-      "norm_label": "niche arpu multiplier"
+      "community": 1,
+      "norm_label": "niche arpu multiplier",
+      "id": "metric_niche_multiplier"
     },
     {
       "label": "$/MAU/month",
@@ -1516,9 +1786,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "metric_dollar_per_mau",
-      "community": 3,
-      "norm_label": "$/mau/month"
+      "community": 1,
+      "norm_label": "$/mau/month",
+      "id": "metric_dollar_per_mau"
     },
     {
       "label": "1-star Ratio",
@@ -1529,9 +1799,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "metric_one_star_pct",
-      "community": 3,
-      "norm_label": "1-star ratio"
+      "community": 1,
+      "norm_label": "1-star ratio",
+      "id": "metric_one_star_pct"
     },
     {
       "label": "Recent Low_pct",
@@ -1542,9 +1812,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "metric_low_pct",
-      "community": 3,
-      "norm_label": "recent low_pct"
+      "community": 1,
+      "norm_label": "recent low_pct",
+      "id": "metric_low_pct"
     },
     {
       "label": "Composite Score",
@@ -1555,9 +1825,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "metric_composite_score",
-      "community": 3,
-      "norm_label": "composite score"
+      "community": 1,
+      "norm_label": "composite score",
+      "id": "metric_composite_score"
     },
     {
       "label": "TikTok Engagement Likes",
@@ -1568,9 +1838,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "metric_tiktok_likes",
-      "community": 3,
-      "norm_label": "tiktok engagement likes"
+      "community": 1,
+      "norm_label": "tiktok engagement likes",
+      "id": "metric_tiktok_likes"
     },
     {
       "label": "Cultural Validation Status",
@@ -1581,9 +1851,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "metric_cultural_validation",
-      "community": 6,
-      "norm_label": "cultural validation status"
+      "community": 4,
+      "norm_label": "cultural validation status",
+      "id": "metric_cultural_validation"
     },
     {
       "label": "Cross-Country Count",
@@ -1594,9 +1864,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "metric_cross_country_count",
-      "community": 0,
-      "norm_label": "cross-country count"
+      "community": 2,
+      "norm_label": "cross-country count",
+      "id": "metric_cross_country_count"
     },
     {
       "label": "Founder Responsiveness Score",
@@ -1607,9 +1877,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "metric_founder_responsiveness",
-      "community": 1,
-      "norm_label": "founder responsiveness score"
+      "community": 0,
+      "norm_label": "founder responsiveness score",
+      "id": "metric_founder_responsiveness"
     },
     {
       "label": "Sleep Cycle FY2024 $24.7M ARR / 918K subs",
@@ -1620,9 +1890,9 @@
       "captured_at": "2024",
       "author": null,
       "contributor": null,
-      "id": "fact_sleep_cycle_24_7m_arr",
-      "community": 4,
-      "norm_label": "sleep cycle fy2024 $24.7m arr / 918k subs"
+      "community": 6,
+      "norm_label": "sleep cycle fy2024 $24.7m arr / 918k subs",
+      "id": "fact_sleep_cycle_24_7m_arr"
     },
     {
       "label": "Sleep Cycle $2.25/MAU/mo anchor",
@@ -1633,9 +1903,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "fact_sleep_cycle_2_25_mau",
-      "community": 4,
-      "norm_label": "sleep cycle $2.25/mau/mo anchor"
+      "community": 6,
+      "norm_label": "sleep cycle $2.25/mau/mo anchor",
+      "id": "fact_sleep_cycle_2_25_mau"
     },
     {
       "label": "buzzArab ad-only after 10 years (negative paid-sub signal)",
@@ -1646,9 +1916,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "fact_buzzarab_ad_only",
-      "community": 5,
-      "norm_label": "buzzarab ad-only after 10 years (negative paid-sub signal)"
+      "community": 7,
+      "norm_label": "buzzarab ad-only after 10 years (negative paid-sub signal)",
+      "id": "fact_buzzarab_ad_only"
     },
     {
       "label": "Love8 7M downloads, no public MRR",
@@ -1659,9 +1929,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "fact_love8_7m_downloads",
-      "community": 1,
-      "norm_label": "love8 7m downloads, no public mrr"
+      "community": 0,
+      "norm_label": "love8 7m downloads, no public mrr",
+      "id": "fact_love8_7m_downloads"
     },
     {
       "label": "Faladdin 25M users TR-anchored",
@@ -1672,9 +1942,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "fact_faladdin_25m_users",
-      "community": 2,
-      "norm_label": "faladdin 25m users tr-anchored"
+      "community": 3,
+      "norm_label": "faladdin 25m users tr-anchored",
+      "id": "fact_faladdin_25m_users"
     },
     {
       "label": "Labyrinthos v2.60 (Jun 2025) admits machine-translated TR/TH",
@@ -1685,9 +1955,9 @@
       "captured_at": "2025-06",
       "author": null,
       "contributor": null,
-      "id": "fact_labyrinthos_v260_machine_tr",
-      "community": 2,
-      "norm_label": "labyrinthos v2.60 (jun 2025) admits machine-translated tr/th"
+      "community": 5,
+      "norm_label": "labyrinthos v2.60 (jun 2025) admits machine-translated tr/th",
+      "id": "fact_labyrinthos_v260_machine_tr"
     },
     {
       "label": "buzzArab MSA-only (no dialect)",
@@ -1698,9 +1968,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "fact_buzzarab_msa_only",
-      "community": 5,
-      "norm_label": "buzzarab msa-only (no dialect)"
+      "community": 7,
+      "norm_label": "buzzarab msa-only (no dialect)",
+      "id": "fact_buzzarab_msa_only"
     },
     {
       "label": "Sleep Cycle DOES support Turkish iOS+Android",
@@ -1711,9 +1981,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "fact_sleep_cycle_has_tr",
-      "community": 2,
-      "norm_label": "sleep cycle does support turkish ios+android"
+      "community": 5,
+      "norm_label": "sleep cycle does support turkish ios+android",
+      "id": "fact_sleep_cycle_has_tr"
     },
     {
       "label": "Saudi $393 gaming ARPU (highest MENA)",
@@ -1724,9 +1994,9 @@
       "captured_at": "2024",
       "author": null,
       "contributor": null,
-      "id": "fact_sa_393_arpu",
-      "community": 5,
-      "norm_label": "saudi $393 gaming arpu (highest mena)"
+      "community": 7,
+      "norm_label": "saudi $393 gaming arpu (highest mena)",
+      "id": "fact_sa_393_arpu"
     },
     {
       "label": "Love8 TR 20.9% 1-star, 7516 1-star reviews",
@@ -1737,9 +2007,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "fact_tr_couple_20_9_one_star",
-      "community": 2,
-      "norm_label": "love8 tr 20.9% 1-star, 7516 1-star reviews"
+      "community": 5,
+      "norm_label": "love8 tr 20.9% 1-star, 7516 1-star reviews",
+      "id": "fact_tr_couple_20_9_one_star"
     },
     {
       "label": "Quote: 580km/h phantom trip premium complaint",
@@ -1750,9 +2020,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "fact_love8_580kmh_quote",
-      "community": 1,
-      "norm_label": "quote: 580km/h phantom trip premium complaint"
+      "community": 0,
+      "norm_label": "quote: 580km/h phantom trip premium complaint",
+      "id": "fact_love8_580kmh_quote"
     },
     {
       "label": "Quote: Aplicativo da disc\u00f3rdia (BR Love8)",
@@ -1763,9 +2033,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "fact_aplicativo_discordia",
-      "community": 1,
-      "norm_label": "quote: aplicativo da discordia (br love8)"
+      "community": 0,
+      "norm_label": "quote: aplicativo da discordia (br love8)",
+      "id": "fact_aplicativo_discordia"
     },
     {
       "label": "Quote: tengo miedo de que me secuestren (MX safety)",
@@ -1776,9 +2046,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "fact_mx_secuestren_quote",
-      "community": 1,
-      "norm_label": "quote: tengo miedo de que me secuestren (mx safety)"
+      "community": 0,
+      "norm_label": "quote: tengo miedo de que me secuestren (mx safety)",
+      "id": "fact_mx_secuestren_quote"
     },
     {
       "label": "MX/couple TikTok 29,783 likes (matrix peak)",
@@ -1789,9 +2059,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "fact_mx_29k_tiktok",
-      "community": 1,
-      "norm_label": "mx/couple tiktok 29,783 likes (matrix peak)"
+      "community": 0,
+      "norm_label": "mx/couple tiktok 29,783 likes (matrix peak)",
+      "id": "fact_mx_29k_tiktok"
     },
     {
       "label": "Couples app form factor is Korean-American import",
@@ -1802,9 +2072,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "fact_couples_form_factor_western",
-      "community": 6,
-      "norm_label": "couples app form factor is korean-american import"
+      "community": 4,
+      "norm_label": "couples app form factor is korean-american import",
+      "id": "fact_couples_form_factor_western"
     },
     {
       "label": "No organic Arabic discourse for couples-care app",
@@ -1815,9 +2085,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "fact_no_organic_arabic_couples_app",
-      "community": 6,
-      "norm_label": "no organic arabic discourse for couples-care app"
+      "community": 4,
+      "norm_label": "no organic arabic discourse for couples-care app",
+      "id": "fact_no_organic_arabic_couples_app"
     },
     {
       "label": "No Saudi/UAE dev shipped post-marriage couples app",
@@ -1828,9 +2098,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "fact_local_devs_avoided_niche",
-      "community": 6,
-      "norm_label": "no saudi/uae dev shipped post-marriage couples app"
+      "community": 4,
+      "norm_label": "no saudi/uae dev shipped post-marriage couples app",
+      "id": "fact_local_devs_avoided_niche"
     },
     {
       "label": "RevenueCat global avg DL->paid 30d = 1.7%",
@@ -1841,9 +2111,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "fact_revenuecat_1_7_pct",
       "community": 8,
-      "norm_label": "revenuecat global avg dl->paid 30d = 1.7%"
+      "norm_label": "revenuecat global avg dl->paid 30d = 1.7%",
+      "id": "fact_revenuecat_1_7_pct"
     },
     {
       "label": "Couples multiplier revised 4x -> 3x",
@@ -1854,9 +2124,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "fact_couples_multiplier_revision",
-      "community": 4,
-      "norm_label": "couples multiplier revised 4x -> 3x"
+      "community": 6,
+      "norm_label": "couples multiplier revised 4x -> 3x",
+      "id": "fact_couples_multiplier_revision"
     },
     {
       "label": "TR tarot ASO volume Very High (matrix peak)",
@@ -1867,9 +2137,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "fact_tr_tarot_volume_very_high",
-      "community": 2,
-      "norm_label": "tr tarot aso volume very high (matrix peak)"
+      "community": 3,
+      "norm_label": "tr tarot aso volume very high (matrix peak)",
+      "id": "fact_tr_tarot_volume_very_high"
     },
     {
       "label": "BR mapa astral Very High volume (#4 globally)",
@@ -1880,9 +2150,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "fact_br_mapa_astral_very_high",
-      "community": 2,
-      "norm_label": "br mapa astral very high volume (#4 globally)"
+      "community": 3,
+      "norm_label": "br mapa astral very high volume (#4 globally)",
+      "id": "fact_br_mapa_astral_very_high"
     },
     {
       "label": "Anti-Tracking / Anti-Surveillance Thesis",
@@ -1893,9 +2163,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "thesis_anti_tracking",
-      "community": 1,
-      "norm_label": "anti-tracking / anti-surveillance thesis"
+      "community": 0,
+      "norm_label": "anti-tracking / anti-surveillance thesis",
+      "id": "thesis_anti_tracking"
     },
     {
       "label": "Lifetime Unlock (\u20ba149 / R$/peso) Pricing",
@@ -1906,9 +2176,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "thesis_lifetime_unlock",
-      "community": 1,
-      "norm_label": "lifetime unlock (\u20ba149 / r$/peso) pricing"
+      "community": 0,
+      "norm_label": "lifetime unlock (\u20ba149 / r$/peso) pricing",
+      "id": "thesis_lifetime_unlock"
     },
     {
       "label": "Language Localization Gap Thesis",
@@ -1919,9 +2189,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "thesis_language_gap",
-      "community": 2,
-      "norm_label": "language localization gap thesis"
+      "community": 5,
+      "norm_label": "language localization gap thesis",
+      "id": "thesis_language_gap"
     },
     {
       "label": "Dialect-Native Arabic UX Thesis",
@@ -1932,9 +2202,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "thesis_dialect_native_arabic",
-      "community": 5,
-      "norm_label": "dialect-native arabic ux thesis"
+      "community": 7,
+      "norm_label": "dialect-native arabic ux thesis",
+      "id": "thesis_dialect_native_arabic"
     },
     {
       "label": "Landing-Page Cultural Pretest (Meta ads)",
@@ -1945,9 +2215,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "thesis_landing_page_test",
-      "community": 5,
-      "norm_label": "landing-page cultural pretest (meta ads)"
+      "community": 7,
+      "norm_label": "landing-page cultural pretest (meta ads)",
+      "id": "thesis_landing_page_test"
     },
     {
       "label": "Self-Evolving Methodology",
@@ -1958,9 +2228,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "thesis_self_evolving_methodology",
-      "community": 0,
-      "norm_label": "self-evolving methodology"
+      "community": 2,
+      "norm_label": "self-evolving methodology",
+      "id": "thesis_self_evolving_methodology"
     },
     {
       "label": "Revenue \u00d7 Vulnerability Matrix",
@@ -1971,9 +2241,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "thesis_revenue_x_vulnerability",
-      "community": 3,
-      "norm_label": "revenue \u00d7 vulnerability matrix"
+      "community": 1,
+      "norm_label": "revenue \u00d7 vulnerability matrix",
+      "id": "thesis_revenue_x_vulnerability"
     },
     {
       "label": "Whale Market SA/AE Hypothesis (revised)",
@@ -1984,9 +2254,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "thesis_whale_market_sa_ae",
-      "community": 5,
-      "norm_label": "whale market sa/ae hypothesis (revised)"
+      "community": 7,
+      "norm_label": "whale market sa/ae hypothesis (revised)",
+      "id": "thesis_whale_market_sa_ae"
     },
     {
       "label": "Tarot LEARNING vs Reading Niche Pivot",
@@ -1997,9 +2267,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "thesis_tarot_learning_vs_reading",
-      "community": 2,
-      "norm_label": "tarot learning vs reading niche pivot"
+      "community": 5,
+      "norm_label": "tarot learning vs reading niche pivot",
+      "id": "thesis_tarot_learning_vs_reading"
     },
     {
       "label": "Run 2026-05-06 23:00 (initial scan)",
@@ -2010,9 +2280,9 @@
       "captured_at": "2026-05-06",
       "author": null,
       "contributor": null,
-      "id": "run_2026_05_06",
-      "community": 0,
-      "norm_label": "run 2026-05-06 23:00 (initial scan)"
+      "community": 2,
+      "norm_label": "run 2026-05-06 23:00 (initial scan)",
+      "id": "run_2026_05_06"
     },
     {
       "label": "Run 2026-05-07 07:50 (revenue dim)",
@@ -2023,9 +2293,9 @@
       "captured_at": "2026-05-07",
       "author": null,
       "contributor": null,
-      "id": "run_2026_05_07_morning",
-      "community": 3,
-      "norm_label": "run 2026-05-07 07:50 (revenue dim)"
+      "community": 1,
+      "norm_label": "run 2026-05-07 07:50 (revenue dim)",
+      "id": "run_2026_05_07_morning"
     },
     {
       "label": "Run 2026-05-07 08:30 (cultural correction)",
@@ -2036,9 +2306,9 @@
       "captured_at": "2026-05-07",
       "author": null,
       "contributor": null,
-      "id": "run_2026_05_07_continuation",
-      "community": 0,
-      "norm_label": "run 2026-05-07 08:30 (cultural correction)"
+      "community": 4,
+      "norm_label": "run 2026-05-07 08:30 (cultural correction)",
+      "id": "run_2026_05_07_continuation"
     },
     {
       "label": "Project Memory System (~/.claude/projects/.../memory)",
@@ -2049,9 +2319,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "memory_system",
-      "community": 0,
-      "norm_label": "project memory system (~/.claude/projects/.../memory)"
+      "community": 2,
+      "norm_label": "project memory system (~/.claude/projects/.../memory)",
+      "id": "memory_system"
     },
     {
       "label": "feedback_research_methodology.md",
@@ -2062,9 +2332,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "feedback_methodology_md",
-      "community": 0,
-      "norm_label": "feedback_research_methodology.md"
+      "community": 2,
+      "norm_label": "feedback_research_methodology.md",
+      "id": "feedback_methodology_md"
     },
     {
       "label": "Graphify Knowledge Graph Layer",
@@ -2075,9 +2345,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "graphify_layer",
-      "community": 0,
-      "norm_label": "graphify knowledge graph layer"
+      "community": 5,
+      "norm_label": "graphify knowledge graph layer",
+      "id": "graphify_layer"
     },
     {
       "label": "google-play-scraper Library",
@@ -2088,9 +2358,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "google_play_scraper",
-      "community": 0,
-      "norm_label": "google-play-scraper library"
+      "community": 2,
+      "norm_label": "google-play-scraper library",
+      "id": "google_play_scraper"
     },
     {
       "label": "Arctic Shift Reddit Mirror",
@@ -2101,9 +2371,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "arctic_shift",
-      "community": 0,
-      "norm_label": "arctic shift reddit mirror"
+      "community": 2,
+      "norm_label": "arctic shift reddit mirror",
+      "id": "arctic_shift"
     },
     {
       "label": "Google Trends API (rate-limited)",
@@ -2114,9 +2384,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "google_trends_api",
-      "community": 0,
-      "norm_label": "google trends api (rate-limited)"
+      "community": 2,
+      "norm_label": "google trends api (rate-limited)",
+      "id": "google_trends_api"
     },
     {
       "label": "Tikwm TikTok Mirror",
@@ -2127,9 +2397,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "tikwm_tiktok_mirror",
-      "community": 0,
-      "norm_label": "tikwm tiktok mirror"
+      "community": 2,
+      "norm_label": "tikwm tiktok mirror",
+      "id": "tikwm_tiktok_mirror"
     },
     {
       "label": "RevenueCat State of Subscription Apps 2025",
@@ -2140,9 +2410,9 @@
       "captured_at": "2025",
       "author": null,
       "contributor": null,
-      "id": "revenuecat_sosa",
       "community": 8,
-      "norm_label": "revenuecat state of subscription apps 2025"
+      "norm_label": "revenuecat state of subscription apps 2025",
+      "id": "revenuecat_sosa"
     },
     {
       "label": "Sensor Tower 2025 State of Mobile Consumers",
@@ -2153,9 +2423,9 @@
       "captured_at": "2025",
       "author": null,
       "contributor": null,
-      "id": "sensor_tower_2025",
       "community": 8,
-      "norm_label": "sensor tower 2025 state of mobile consumers"
+      "norm_label": "sensor tower 2025 state of mobile consumers",
+      "id": "sensor_tower_2025"
     },
     {
       "label": "Campaign Middle East Saudi Gen Z Playbook",
@@ -2166,9 +2436,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "campaign_middle_east",
-      "community": 6,
-      "norm_label": "campaign middle east saudi gen z playbook"
+      "community": 4,
+      "norm_label": "campaign middle east saudi gen z playbook",
+      "id": "campaign_middle_east"
     },
     {
       "label": "AppsFlyer Global ARPU averages",
@@ -2179,9 +2449,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "appsflyer_global",
       "community": 8,
-      "norm_label": "appsflyer global arpu averages"
+      "norm_label": "appsflyer global arpu averages",
+      "id": "appsflyer_global"
     },
     {
       "label": "Love8 team ~10-30 people",
@@ -2192,9 +2462,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "team_size_chongqing",
-      "community": 1,
-      "norm_label": "love8 team ~10-30 people"
+      "community": 0,
+      "norm_label": "love8 team ~10-30 people",
+      "id": "team_size_chongqing"
     },
     {
       "label": "Solo-Displacement Realism MEDIUM (Love8)",
@@ -2205,9 +2475,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "displacement_medium_love8",
-      "community": 1,
-      "norm_label": "solo-displacement realism medium (love8)"
+      "community": 0,
+      "norm_label": "solo-displacement realism medium (love8)",
+      "id": "displacement_medium_love8"
     },
     {
       "label": "Solo-Displacement ZERO (Tinder)",
@@ -2218,9 +2488,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "displacement_zero_tinder",
-      "community": 4,
-      "norm_label": "solo-displacement zero (tinder)"
+      "community": 6,
+      "norm_label": "solo-displacement zero (tinder)",
+      "id": "displacement_zero_tinder"
     },
     {
       "label": "Solo-Displacement LOW-MED (Astrolink)",
@@ -2231,9 +2501,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "displacement_low_astrolink",
-      "community": 7,
-      "norm_label": "solo-displacement low-med (astrolink)"
+      "community": 3,
+      "norm_label": "solo-displacement low-med (astrolink)",
+      "id": "displacement_low_astrolink"
     },
     {
       "label": "Solo-Displacement VERY LOW (Sleep Cycle / Labyrinthos)",
@@ -2244,9 +2514,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "displacement_very_low_sleep",
-      "community": 4,
-      "norm_label": "solo-displacement very low (sleep cycle / labyrinthos)"
+      "community": 6,
+      "norm_label": "solo-displacement very low (sleep cycle / labyrinthos)",
+      "id": "displacement_very_low_sleep"
     },
     {
       "label": "Enforcement Rule: Subjective deliverable-complete stop forbidden",
@@ -2257,9 +2527,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "rule_no_subjective_stop",
-      "community": 0,
-      "norm_label": "enforcement rule: subjective deliverable-complete stop forbidden"
+      "community": 4,
+      "norm_label": "enforcement rule: subjective deliverable-complete stop forbidden",
+      "id": "rule_no_subjective_stop"
     },
     {
       "label": "Rule: Hours = TARGET not ceiling",
@@ -2270,9 +2540,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "rule_hours_target",
-      "community": 0,
-      "norm_label": "rule: hours = target not ceiling"
+      "community": 2,
+      "norm_label": "rule: hours = target not ceiling",
+      "id": "rule_hours_target"
     },
     {
       "label": "Rule: Cultural validation mandatory before top-5 promotion",
@@ -2283,12 +2553,252 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "rule_cultural_mandatory",
-      "community": 6,
-      "norm_label": "rule: cultural validation mandatory before top-5 promotion"
+      "community": 4,
+      "norm_label": "rule: cultural validation mandatory before top-5 promotion",
+      "id": "rule_cultural_mandatory"
     }
   ],
   "links": [
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "reddit_top_trees.py",
+      "source_location": "L10",
+      "weight": 1.0,
+      "_src": "c_users_demosgod_desktop_projects_playstore_app_reddit_top_trees_py",
+      "_tgt": "reddit_top_trees_safe_load",
+      "source": "c_users_demosgod_desktop_projects_playstore_app_reddit_top_trees_py",
+      "target": "reddit_top_trees_safe_load",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tiktok_phase15.py",
+      "source_location": "L19",
+      "weight": 1.0,
+      "_src": "c_users_demosgod_desktop_projects_playstore_app_tiktok_phase15_py",
+      "_tgt": "tiktok_phase15_fetch_json",
+      "source": "c_users_demosgod_desktop_projects_playstore_app_tiktok_phase15_py",
+      "target": "tiktok_phase15_fetch_json",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tiktok_xpand.py",
+      "source_location": "L27",
+      "weight": 1.0,
+      "_src": "c_users_demosgod_desktop_projects_playstore_app_tiktok_xpand_py",
+      "_tgt": "tiktok_xpand_fetch_json",
+      "source": "c_users_demosgod_desktop_projects_playstore_app_tiktok_xpand_py",
+      "target": "tiktok_xpand_fetch_json",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts\\analyze_drill.py",
+      "source_location": "L26",
+      "weight": 1.0,
+      "_src": "c_users_demosgod_desktop_projects_playstore_app_scripts_analyze_drill_py",
+      "_tgt": "analyze_drill_classify",
+      "source": "c_users_demosgod_desktop_projects_playstore_app_scripts_analyze_drill_py",
+      "target": "analyze_drill_classify",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts\\final_synthesis.py",
+      "source_location": "L8",
+      "weight": 1.0,
+      "_src": "c_users_demosgod_desktop_projects_playstore_app_scripts_final_synthesis_py",
+      "_tgt": "final_synthesis_safe_load",
+      "source": "c_users_demosgod_desktop_projects_playstore_app_scripts_final_synthesis_py",
+      "target": "final_synthesis_safe_load",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts\\final_synthesis.py",
+      "source_location": "L33",
+      "weight": 1.0,
+      "_src": "c_users_demosgod_desktop_projects_playstore_app_scripts_final_synthesis_py",
+      "_tgt": "final_synthesis_tiktok_score_for",
+      "source": "c_users_demosgod_desktop_projects_playstore_app_scripts_final_synthesis_py",
+      "target": "final_synthesis_tiktok_score_for",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts\\final_synthesis.py",
+      "source_location": "L38",
+      "weight": 1.0,
+      "_src": "c_users_demosgod_desktop_projects_playstore_app_scripts_final_synthesis_py",
+      "_tgt": "final_synthesis_tiktok_engagement",
+      "source": "c_users_demosgod_desktop_projects_playstore_app_scripts_final_synthesis_py",
+      "target": "final_synthesis_tiktok_engagement",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts\\reddit_deep.py",
+      "source_location": "L31",
+      "weight": 1.0,
+      "_src": "c_users_demosgod_desktop_projects_playstore_app_scripts_reddit_deep_py",
+      "_tgt": "reddit_deep_fetch_posts",
+      "source": "c_users_demosgod_desktop_projects_playstore_app_scripts_reddit_deep_py",
+      "target": "reddit_deep_fetch_posts",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts\\reddit_deep.py",
+      "source_location": "L43",
+      "weight": 1.0,
+      "_src": "c_users_demosgod_desktop_projects_playstore_app_scripts_reddit_deep_py",
+      "_tgt": "reddit_deep_filter_posts",
+      "source": "c_users_demosgod_desktop_projects_playstore_app_scripts_reddit_deep_py",
+      "target": "reddit_deep_filter_posts",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts\\scan-trends.mjs",
+      "source_location": "L3",
+      "weight": 1.0,
+      "_src": "c_users_demosgod_desktop_projects_playstore_app_scripts_scan_trends_mjs",
+      "_tgt": "google_trends_api",
+      "source": "c_users_demosgod_desktop_projects_playstore_app_scripts_scan_trends_mjs",
+      "target": "google_trends_api",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts\\scan-trends.mjs",
+      "source_location": "L6",
+      "weight": 1.0,
+      "_src": "c_users_demosgod_desktop_projects_playstore_app_scripts_scan_trends_mjs",
+      "_tgt": "scan_trends_sleep",
+      "source": "c_users_demosgod_desktop_projects_playstore_app_scripts_scan_trends_mjs",
+      "target": "scan_trends_sleep",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts\\scan-trends.mjs",
+      "source_location": "L39",
+      "weight": 1.0,
+      "_src": "c_users_demosgod_desktop_projects_playstore_app_scripts_scan_trends_mjs",
+      "_tgt": "scan_trends_fetchsummary",
+      "source": "c_users_demosgod_desktop_projects_playstore_app_scripts_scan_trends_mjs",
+      "target": "scan_trends_fetchsummary",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts\\scan-trends.mjs",
+      "source_location": "L59",
+      "weight": 1.0,
+      "_src": "scan_trends_fetchsummary",
+      "_tgt": "scan_trends_sleep",
+      "source": "scan_trends_sleep",
+      "target": "scan_trends_fetchsummary",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts\\synthesize.py",
+      "source_location": "L9",
+      "weight": 1.0,
+      "_src": "c_users_demosgod_desktop_projects_playstore_app_scripts_synthesize_py",
+      "_tgt": "synthesize_safe_load",
+      "source": "c_users_demosgod_desktop_projects_playstore_app_scripts_synthesize_py",
+      "target": "synthesize_safe_load",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts\\synthesize.py",
+      "source_location": "L28",
+      "weight": 1.0,
+      "_src": "c_users_demosgod_desktop_projects_playstore_app_scripts_synthesize_py",
+      "_tgt": "synthesize_tiktok_volume_for",
+      "source": "c_users_demosgod_desktop_projects_playstore_app_scripts_synthesize_py",
+      "target": "synthesize_tiktok_volume_for",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts\\tiktok_deep.py",
+      "source_location": "L32",
+      "weight": 1.0,
+      "_src": "c_users_demosgod_desktop_projects_playstore_app_scripts_tiktok_deep_py",
+      "_tgt": "tiktok_deep_fetch_json",
+      "source": "c_users_demosgod_desktop_projects_playstore_app_scripts_tiktok_deep_py",
+      "target": "tiktok_deep_fetch_json",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts\\tiktok_deep.py",
+      "source_location": "L37",
+      "weight": 1.0,
+      "_src": "c_users_demosgod_desktop_projects_playstore_app_scripts_tiktok_deep_py",
+      "_tgt": "tiktok_deep_search_videos",
+      "source": "c_users_demosgod_desktop_projects_playstore_app_scripts_tiktok_deep_py",
+      "target": "tiktok_deep_search_videos",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts\\tiktok_deep.py",
+      "source_location": "L41",
+      "weight": 1.0,
+      "_src": "c_users_demosgod_desktop_projects_playstore_app_scripts_tiktok_deep_py",
+      "_tgt": "tiktok_deep_fetch_comments",
+      "source": "c_users_demosgod_desktop_projects_playstore_app_scripts_tiktok_deep_py",
+      "target": "tiktok_deep_fetch_comments",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts\\tiktok_deep.py",
+      "source_location": "L39",
+      "weight": 1.0,
+      "_src": "tiktok_deep_search_videos",
+      "_tgt": "tiktok_deep_fetch_json",
+      "source": "tiktok_deep_fetch_json",
+      "target": "tiktok_deep_search_videos",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts\\tiktok_deep.py",
+      "source_location": "L44",
+      "weight": 1.0,
+      "_src": "tiktok_deep_fetch_comments",
+      "_tgt": "tiktok_deep_fetch_json",
+      "source": "tiktok_deep_fetch_json",
+      "target": "tiktok_deep_fetch_comments",
+      "confidence_score": 1.0
+    },
     {
       "relation": "references",
       "confidence": "EXTRACTED",
@@ -2296,6 +2806,8 @@
       "source_file": "findings/README.md",
       "source_location": null,
       "weight": 1.0,
+      "_src": "findings_readme",
+      "_tgt": "final_verdict_doc",
       "source": "findings_readme",
       "target": "final_verdict_doc"
     },
@@ -2306,8 +2818,10 @@
       "source_file": "findings/reports/directions.md",
       "source_location": null,
       "weight": 1.0,
-      "source": "phase_1_5_arpu",
-      "target": "market_economics_doc"
+      "_src": "phase_1_5_arpu",
+      "_tgt": "market_economics_doc",
+      "source": "market_economics_doc",
+      "target": "phase_1_5_arpu"
     },
     {
       "relation": "references",
@@ -2316,6 +2830,8 @@
       "source_file": "findings/raw/market_economics.md",
       "source_location": null,
       "weight": 1.0,
+      "_src": "market_economics_doc",
+      "_tgt": "revenuecat_sosa",
       "source": "market_economics_doc",
       "target": "revenuecat_sosa"
     },
@@ -2326,6 +2842,8 @@
       "source_file": "findings/raw/market_economics.md",
       "source_location": null,
       "weight": 1.0,
+      "_src": "market_economics_doc",
+      "_tgt": "sensor_tower_2025",
       "source": "market_economics_doc",
       "target": "sensor_tower_2025"
     },
@@ -2336,6 +2854,8 @@
       "source_file": "findings/raw/market_economics.md",
       "source_location": null,
       "weight": 1.0,
+      "_src": "market_economics_doc",
+      "_tgt": "appsflyer_global",
       "source": "market_economics_doc",
       "target": "appsflyer_global"
     },
@@ -2346,6 +2866,8 @@
       "source_file": "findings/raw/market_economics.md",
       "source_location": null,
       "weight": 1.0,
+      "_src": "market_economics_doc",
+      "_tgt": "co_star_app",
       "source": "market_economics_doc",
       "target": "co_star_app"
     },
@@ -2356,6 +2878,8 @@
       "source_file": "findings/raw/market_economics.md",
       "source_location": null,
       "weight": 1.0,
+      "_src": "market_economics_doc",
+      "_tgt": "the_pattern_app",
       "source": "market_economics_doc",
       "target": "the_pattern_app"
     },
@@ -2366,6 +2890,8 @@
       "source_file": "findings/raw/market_economics.md",
       "source_location": null,
       "weight": 1.0,
+      "_src": "market_economics_doc",
+      "_tgt": "duolingo_app",
       "source": "market_economics_doc",
       "target": "duolingo_app"
     },
@@ -2376,6 +2902,8 @@
       "source_file": "findings/raw/market_economics.md",
       "source_location": null,
       "weight": 1.0,
+      "_src": "market_economics_doc",
+      "_tgt": "photoroom_app",
       "source": "market_economics_doc",
       "target": "photoroom_app"
     },
@@ -2386,6 +2914,8 @@
       "source_file": "findings/raw/market_economics.md",
       "source_location": null,
       "weight": 1.0,
+      "_src": "market_economics_doc",
+      "_tgt": "vsco_app",
       "source": "market_economics_doc",
       "target": "vsco_app"
     },
@@ -2396,6 +2926,8 @@
       "source_file": "findings/raw/market_economics.md",
       "source_location": null,
       "weight": 1.0,
+      "_src": "market_economics_doc",
+      "_tgt": "dramabox_app",
       "source": "market_economics_doc",
       "target": "dramabox_app"
     },
@@ -2406,8 +2938,10 @@
       "source_file": "findings/raw/competitor_revenues.md",
       "source_location": null,
       "weight": 1.0,
-      "source": "fact_couples_multiplier_revision",
-      "target": "competitor_revenues_doc"
+      "_src": "fact_couples_multiplier_revision",
+      "_tgt": "competitor_revenues_doc",
+      "source": "competitor_revenues_doc",
+      "target": "fact_couples_multiplier_revision"
     },
     {
       "relation": "references",
@@ -2416,6 +2950,8 @@
       "source_file": "findings/raw/competitor_revenues.md",
       "source_location": null,
       "weight": 1.0,
+      "_src": "competitor_revenues_doc",
+      "_tgt": "love8_app",
       "source": "competitor_revenues_doc",
       "target": "love8_app"
     },
@@ -2426,6 +2962,8 @@
       "source_file": "findings/raw/competitor_revenues.md",
       "source_location": null,
       "weight": 1.0,
+      "_src": "competitor_revenues_doc",
+      "_tgt": "buzzarab_app",
       "source": "competitor_revenues_doc",
       "target": "buzzarab_app"
     },
@@ -2436,6 +2974,8 @@
       "source_file": "findings/raw/competitor_revenues.md",
       "source_location": null,
       "weight": 1.0,
+      "_src": "competitor_revenues_doc",
+      "_tgt": "astrolink_app",
       "source": "competitor_revenues_doc",
       "target": "astrolink_app"
     },
@@ -2446,6 +2986,8 @@
       "source_file": "findings/raw/competitor_revenues.md",
       "source_location": null,
       "weight": 1.0,
+      "_src": "competitor_revenues_doc",
+      "_tgt": "sleep_cycle_ab",
       "source": "competitor_revenues_doc",
       "target": "sleep_cycle_ab"
     },
@@ -2456,6 +2998,8 @@
       "source_file": "findings/raw/competitor_revenues.md",
       "source_location": null,
       "weight": 1.0,
+      "_src": "competitor_revenues_doc",
+      "_tgt": "tinder_app",
       "source": "competitor_revenues_doc",
       "target": "tinder_app"
     },
@@ -2466,6 +3010,8 @@
       "source_file": "findings/raw/competitor_revenues.md",
       "source_location": null,
       "weight": 1.0,
+      "_src": "competitor_revenues_doc",
+      "_tgt": "fact_sleep_cycle_2_25_mau",
       "source": "competitor_revenues_doc",
       "target": "fact_sleep_cycle_2_25_mau"
     },
@@ -2476,8 +3022,10 @@
       "source_file": "findings/reports/directions.md",
       "source_location": null,
       "weight": 1.0,
-      "source": "subagent_localization_audit",
-      "target": "localization_audit_doc"
+      "_src": "subagent_localization_audit",
+      "_tgt": "localization_audit_doc",
+      "source": "localization_audit_doc",
+      "target": "subagent_localization_audit"
     },
     {
       "relation": "references",
@@ -2486,6 +3034,8 @@
       "source_file": "findings/raw/localization_audit.md",
       "source_location": null,
       "weight": 1.0,
+      "_src": "localization_audit_doc",
+      "_tgt": "love8_app",
       "source": "localization_audit_doc",
       "target": "love8_app"
     },
@@ -2496,6 +3046,8 @@
       "source_file": "findings/raw/localization_audit.md",
       "source_location": null,
       "weight": 1.0,
+      "_src": "localization_audit_doc",
+      "_tgt": "labyrinthos_app",
       "source": "localization_audit_doc",
       "target": "labyrinthos_app"
     },
@@ -2506,6 +3058,8 @@
       "source_file": "findings/raw/localization_audit.md",
       "source_location": null,
       "weight": 1.0,
+      "_src": "localization_audit_doc",
+      "_tgt": "buzzarab_app",
       "source": "localization_audit_doc",
       "target": "buzzarab_app"
     },
@@ -2516,6 +3070,8 @@
       "source_file": "findings/raw/localization_audit.md",
       "source_location": null,
       "weight": 1.0,
+      "_src": "localization_audit_doc",
+      "_tgt": "sleep_cycle_ab",
       "source": "localization_audit_doc",
       "target": "sleep_cycle_ab"
     },
@@ -2526,6 +3082,8 @@
       "source_file": "findings/raw/localization_audit.md",
       "source_location": null,
       "weight": 1.0,
+      "_src": "localization_audit_doc",
+      "_tgt": "astrolink_app",
       "source": "localization_audit_doc",
       "target": "astrolink_app"
     },
@@ -2536,8 +3094,10 @@
       "source_file": "findings/reports/directions.md",
       "source_location": null,
       "weight": 1.0,
-      "source": "direction_4_maktub",
-      "target": "maktub_cultural_doc"
+      "_src": "direction_4_maktub",
+      "_tgt": "maktub_cultural_doc",
+      "source": "maktub_cultural_doc",
+      "target": "direction_4_maktub"
     },
     {
       "relation": "references",
@@ -2546,8 +3106,10 @@
       "source_file": "findings/reports/directions.md",
       "source_location": null,
       "weight": 1.0,
-      "source": "subagent_cultural_validation",
-      "target": "maktub_cultural_doc"
+      "_src": "subagent_cultural_validation",
+      "_tgt": "maktub_cultural_doc",
+      "source": "maktub_cultural_doc",
+      "target": "subagent_cultural_validation"
     },
     {
       "relation": "references",
@@ -2556,8 +3118,10 @@
       "source_file": "findings/raw/maktub_cultural_validation.md",
       "source_location": null,
       "weight": 1.0,
-      "source": "fact_couples_form_factor_western",
-      "target": "maktub_cultural_doc"
+      "_src": "fact_couples_form_factor_western",
+      "_tgt": "maktub_cultural_doc",
+      "source": "maktub_cultural_doc",
+      "target": "fact_couples_form_factor_western"
     },
     {
       "relation": "references",
@@ -2566,8 +3130,10 @@
       "source_file": "findings/raw/maktub_cultural_validation.md",
       "source_location": null,
       "weight": 1.0,
-      "source": "fact_no_organic_arabic_couples_app",
-      "target": "maktub_cultural_doc"
+      "_src": "fact_no_organic_arabic_couples_app",
+      "_tgt": "maktub_cultural_doc",
+      "source": "maktub_cultural_doc",
+      "target": "fact_no_organic_arabic_couples_app"
     },
     {
       "relation": "references",
@@ -2576,8 +3142,10 @@
       "source_file": "findings/raw/maktub_cultural_validation.md",
       "source_location": null,
       "weight": 1.0,
-      "source": "fact_local_devs_avoided_niche",
-      "target": "maktub_cultural_doc"
+      "_src": "fact_local_devs_avoided_niche",
+      "_tgt": "maktub_cultural_doc",
+      "source": "maktub_cultural_doc",
+      "target": "fact_local_devs_avoided_niche"
     },
     {
       "relation": "references",
@@ -2586,6 +3154,8 @@
       "source_file": "findings/raw/maktub_cultural_validation.md",
       "source_location": null,
       "weight": 1.0,
+      "_src": "maktub_cultural_doc",
+      "_tgt": "mawada_app",
       "source": "maktub_cultural_doc",
       "target": "mawada_app"
     },
@@ -2596,6 +3166,8 @@
       "source_file": "findings/raw/maktub_cultural_validation.md",
       "source_location": null,
       "weight": 1.0,
+      "_src": "maktub_cultural_doc",
+      "_tgt": "muzz_app",
       "source": "maktub_cultural_doc",
       "target": "muzz_app"
     },
@@ -2606,6 +3178,8 @@
       "source_file": "findings/raw/maktub_cultural_validation.md",
       "source_location": null,
       "weight": 1.0,
+      "_src": "maktub_cultural_doc",
+      "_tgt": "salams_app",
       "source": "maktub_cultural_doc",
       "target": "salams_app"
     },
@@ -2616,6 +3190,8 @@
       "source_file": "findings/raw/maktub_cultural_validation.md",
       "source_location": null,
       "weight": 1.0,
+      "_src": "maktub_cultural_doc",
+      "_tgt": "ana_wa_anta_app",
       "source": "maktub_cultural_doc",
       "target": "ana_wa_anta_app"
     },
@@ -2626,6 +3202,8 @@
       "source_file": "findings/raw/maktub_cultural_validation.md",
       "source_location": null,
       "weight": 1.0,
+      "_src": "maktub_cultural_doc",
+      "_tgt": "muslim_pro_app",
       "source": "maktub_cultural_doc",
       "target": "muslim_pro_app"
     },
@@ -2636,6 +3214,8 @@
       "source_file": "findings/raw/maktub_cultural_validation.md",
       "source_location": null,
       "weight": 1.0,
+      "_src": "maktub_cultural_doc",
+      "_tgt": "campaign_middle_east",
       "source": "maktub_cultural_doc",
       "target": "campaign_middle_east"
     },
@@ -2646,8 +3226,10 @@
       "source_file": "findings/reports/directions.md",
       "source_location": null,
       "weight": 1.0,
-      "source": "subagent_aso_keyword",
-      "target": "aso_keyword_doc"
+      "_src": "subagent_aso_keyword",
+      "_tgt": "aso_keyword_doc",
+      "source": "aso_keyword_doc",
+      "target": "subagent_aso_keyword"
     },
     {
       "relation": "references",
@@ -2656,6 +3238,8 @@
       "source_file": "findings/raw/aso_keyword_volumes.md",
       "source_location": null,
       "weight": 1.0,
+      "_src": "aso_keyword_doc",
+      "_tgt": "faladdin_app",
       "source": "aso_keyword_doc",
       "target": "faladdin_app"
     },
@@ -2666,6 +3250,8 @@
       "source_file": "findings/raw/aso_keyword_volumes.md",
       "source_location": null,
       "weight": 1.0,
+      "_src": "aso_keyword_doc",
+      "_tgt": "fact_tr_tarot_volume_very_high",
       "source": "aso_keyword_doc",
       "target": "fact_tr_tarot_volume_very_high"
     },
@@ -2676,6 +3262,8 @@
       "source_file": "findings/raw/aso_keyword_volumes.md",
       "source_location": null,
       "weight": 1.0,
+      "_src": "aso_keyword_doc",
+      "_tgt": "fact_br_mapa_astral_very_high",
       "source": "aso_keyword_doc",
       "target": "fact_br_mapa_astral_very_high"
     },
@@ -2686,8 +3274,10 @@
       "source_file": "findings/reports/directions.md",
       "source_location": null,
       "weight": 1.0,
-      "source": "phase_15_founder",
-      "target": "competitor_backgrounds_doc"
+      "_src": "phase_15_founder",
+      "_tgt": "competitor_backgrounds_doc",
+      "source": "competitor_backgrounds_doc",
+      "target": "phase_15_founder"
     },
     {
       "relation": "references",
@@ -2696,6 +3286,8 @@
       "source_file": "findings/raw/play-store/competitor_backgrounds.md",
       "source_location": null,
       "weight": 1.0,
+      "_src": "competitor_backgrounds_doc",
+      "_tgt": "love8_app",
       "source": "competitor_backgrounds_doc",
       "target": "love8_app"
     },
@@ -2706,6 +3298,8 @@
       "source_file": "findings/raw/play-store/competitor_backgrounds.md",
       "source_location": null,
       "weight": 1.0,
+      "_src": "competitor_backgrounds_doc",
+      "_tgt": "astrolink_app",
       "source": "competitor_backgrounds_doc",
       "target": "astrolink_app"
     },
@@ -2716,6 +3310,8 @@
       "source_file": "findings/raw/play-store/competitor_backgrounds.md",
       "source_location": null,
       "weight": 1.0,
+      "_src": "competitor_backgrounds_doc",
+      "_tgt": "sleep_cycle_ab",
       "source": "competitor_backgrounds_doc",
       "target": "sleep_cycle_ab"
     },
@@ -2726,6 +3322,8 @@
       "source_file": "findings/raw/play-store/competitor_backgrounds.md",
       "source_location": null,
       "weight": 1.0,
+      "_src": "competitor_backgrounds_doc",
+      "_tgt": "labyrinthos_app",
       "source": "competitor_backgrounds_doc",
       "target": "labyrinthos_app"
     },
@@ -2736,6 +3334,8 @@
       "source_file": "findings/raw/play-store/competitor_backgrounds.md",
       "source_location": null,
       "weight": 1.0,
+      "_src": "competitor_backgrounds_doc",
+      "_tgt": "tinder_app",
       "source": "competitor_backgrounds_doc",
       "target": "tinder_app"
     },
@@ -2746,6 +3346,8 @@
       "source_file": "findings/reports/directions.md",
       "source_location": null,
       "weight": 1.0,
+      "_src": "directions_v3_doc",
+      "_tgt": "run_ledger_doc",
       "source": "directions_v3_doc",
       "target": "run_ledger_doc"
     },
@@ -2756,6 +3358,8 @@
       "source_file": "findings/reports/directions.md",
       "source_location": null,
       "weight": 1.0,
+      "_src": "directions_v3_doc",
+      "_tgt": "graphify_layer",
       "source": "directions_v3_doc",
       "target": "graphify_layer"
     },
@@ -2766,8 +3370,10 @@
       "source_file": "findings/reports/morning-briefing.md",
       "source_location": null,
       "weight": 1.0,
-      "source": "morning_briefing_doc",
-      "target": "directions_v3_doc"
+      "_src": "morning_briefing_doc",
+      "_tgt": "directions_v3_doc",
+      "source": "directions_v3_doc",
+      "target": "morning_briefing_doc"
     },
     {
       "relation": "references",
@@ -2776,6 +3382,8 @@
       "source_file": "findings/reports/directions.md",
       "source_location": null,
       "weight": 1.0,
+      "_src": "directions_v3_doc",
+      "_tgt": "direction_1_cift",
       "source": "directions_v3_doc",
       "target": "direction_1_cift"
     },
@@ -2786,6 +3394,8 @@
       "source_file": "findings/reports/directions.md",
       "source_location": null,
       "weight": 1.0,
+      "_src": "directions_v3_doc",
+      "_tgt": "direction_2_pareja_casal",
       "source": "directions_v3_doc",
       "target": "direction_2_pareja_casal"
     },
@@ -2796,6 +3406,8 @@
       "source_file": "findings/reports/directions.md",
       "source_location": null,
       "weight": 1.0,
+      "_src": "directions_v3_doc",
+      "_tgt": "direction_3_yeu",
       "source": "directions_v3_doc",
       "target": "direction_3_yeu"
     },
@@ -2806,6 +3418,8 @@
       "source_file": "findings/reports/directions.md",
       "source_location": null,
       "weight": 1.0,
+      "_src": "directions_v3_doc",
+      "_tgt": "direction_4_maktub",
       "source": "directions_v3_doc",
       "target": "direction_4_maktub"
     },
@@ -2816,6 +3430,8 @@
       "source_file": "findings/reports/directions.md",
       "source_location": null,
       "weight": 1.0,
+      "_src": "directions_v3_doc",
+      "_tgt": "direction_5_tarot_turkce",
       "source": "directions_v3_doc",
       "target": "direction_5_tarot_turkce"
     },
@@ -2826,6 +3442,8 @@
       "source_file": "findings/reports/directions.md",
       "source_location": null,
       "weight": 1.0,
+      "_src": "directions_v3_doc",
+      "_tgt": "hyp_sleep_cycle_no_tr",
       "source": "directions_v3_doc",
       "target": "hyp_sleep_cycle_no_tr"
     },
@@ -2836,6 +3454,8 @@
       "source_file": "findings/reports/directions.md",
       "source_location": null,
       "weight": 1.0,
+      "_src": "directions_v3_doc",
+      "_tgt": "hyp_mena_30_60_mau",
       "source": "directions_v3_doc",
       "target": "hyp_mena_30_60_mau"
     },
@@ -2846,6 +3466,8 @@
       "source_file": "findings/reports/directions.md",
       "source_location": null,
       "weight": 1.0,
+      "_src": "directions_v3_doc",
+      "_tgt": "hyp_labyrinthos_machine_tr",
       "source": "directions_v3_doc",
       "target": "hyp_labyrinthos_machine_tr"
     },
@@ -2856,6 +3478,8 @@
       "source_file": "findings/reports/directions.md",
       "source_location": null,
       "weight": 1.0,
+      "_src": "directions_v3_doc",
+      "_tgt": "hyp_sleep_cycle_anchor",
       "source": "directions_v3_doc",
       "target": "hyp_sleep_cycle_anchor"
     },
@@ -2866,6 +3490,8 @@
       "source_file": "findings/reports/drill_analysis.txt",
       "source_location": null,
       "weight": 1.0,
+      "_src": "drill_analysis_doc",
+      "_tgt": "yodha_app",
       "source": "drill_analysis_doc",
       "target": "yodha_app"
     },
@@ -2876,6 +3502,8 @@
       "source_file": "findings/reports/drill_analysis.txt",
       "source_location": null,
       "weight": 1.0,
+      "_src": "drill_analysis_doc",
+      "_tgt": "finch_app",
       "source": "drill_analysis_doc",
       "target": "finch_app"
     },
@@ -2886,6 +3514,8 @@
       "source_file": "findings/reports/drill_analysis.txt",
       "source_location": null,
       "weight": 1.0,
+      "_src": "drill_analysis_doc",
+      "_tgt": "remente_app",
       "source": "drill_analysis_doc",
       "target": "remente_app"
     },
@@ -2896,6 +3526,8 @@
       "source_file": "findings/reports/drill_analysis.txt",
       "source_location": null,
       "weight": 1.0,
+      "_src": "drill_analysis_doc",
+      "_tgt": "astrolink_app",
       "source": "drill_analysis_doc",
       "target": "astrolink_app"
     },
@@ -2906,6 +3538,8 @@
       "source_file": "findings/reports/FINAL_VERDICT.txt",
       "source_location": null,
       "weight": 1.0,
+      "_src": "final_verdict_doc",
+      "_tgt": "love8_app",
       "source": "final_verdict_doc",
       "target": "love8_app"
     },
@@ -2916,6 +3550,8 @@
       "source_file": "findings/reports/FINAL_VERDICT.txt",
       "source_location": null,
       "weight": 1.0,
+      "_src": "final_verdict_doc",
+      "_tgt": "labyrinthos_app",
       "source": "final_verdict_doc",
       "target": "labyrinthos_app"
     },
@@ -2926,6 +3562,8 @@
       "source_file": "findings/reports/FINAL_VERDICT.txt",
       "source_location": null,
       "weight": 1.0,
+      "_src": "final_verdict_doc",
+      "_tgt": "astrolink_app",
       "source": "final_verdict_doc",
       "target": "astrolink_app"
     },
@@ -2936,6 +3574,8 @@
       "source_file": "findings/reports/FINAL_VERDICT.txt",
       "source_location": null,
       "weight": 1.0,
+      "_src": "final_verdict_doc",
+      "_tgt": "metric_composite_score",
       "source": "final_verdict_doc",
       "target": "metric_composite_score"
     },
@@ -2946,6 +3586,8 @@
       "source_file": "findings/reports/methodology.md",
       "source_location": null,
       "weight": 0.85,
+      "_src": "methodology_doc",
+      "_tgt": "run_ledger_doc",
       "source": "methodology_doc",
       "target": "run_ledger_doc"
     },
@@ -2956,6 +3598,8 @@
       "source_file": "findings/reports/methodology.md",
       "source_location": null,
       "weight": 0.6,
+      "_src": "methodology_doc",
+      "_tgt": "google_play_scraper",
       "source": "methodology_doc",
       "target": "google_play_scraper"
     },
@@ -2966,6 +3610,8 @@
       "source_file": "findings/reports/methodology.md",
       "source_location": null,
       "weight": 0.9,
+      "_src": "methodology_doc",
+      "_tgt": "google_trends_api",
       "source": "methodology_doc",
       "target": "google_trends_api"
     },
@@ -2976,6 +3622,8 @@
       "source_file": "findings/reports/morning-briefing.md",
       "source_location": null,
       "weight": 1.0,
+      "_src": "morning_briefing_doc",
+      "_tgt": "run_ledger_doc",
       "source": "morning_briefing_doc",
       "target": "run_ledger_doc"
     },
@@ -2986,6 +3634,8 @@
       "source_file": "findings/reports/morning-briefing.md",
       "source_location": null,
       "weight": 1.0,
+      "_src": "morning_briefing_doc",
+      "_tgt": "graphify_layer",
       "source": "morning_briefing_doc",
       "target": "graphify_layer"
     },
@@ -2996,6 +3646,8 @@
       "source_file": "findings/reports/morning-briefing.md",
       "source_location": null,
       "weight": 1.0,
+      "_src": "morning_briefing_doc",
+      "_tgt": "memory_system",
       "source": "morning_briefing_doc",
       "target": "memory_system"
     },
@@ -3006,8 +3658,10 @@
       "source_file": "findings/reports/morning-briefing.md",
       "source_location": null,
       "weight": 0.6,
-      "source": "duolingo_app",
-      "target": "morning_briefing_doc"
+      "_src": "duolingo_app",
+      "_tgt": "morning_briefing_doc",
+      "source": "morning_briefing_doc",
+      "target": "duolingo_app"
     },
     {
       "relation": "references",
@@ -3016,6 +3670,8 @@
       "source_file": "findings/reports/morning-briefing.md",
       "source_location": null,
       "weight": 1.0,
+      "_src": "morning_briefing_doc",
+      "_tgt": "thesis_whale_market_sa_ae",
       "source": "morning_briefing_doc",
       "target": "thesis_whale_market_sa_ae"
     },
@@ -3026,6 +3682,8 @@
       "source_file": "findings/reports/morning-briefing.md",
       "source_location": null,
       "weight": 0.9,
+      "_src": "morning_briefing_doc",
+      "_tgt": "capcut_app",
       "source": "morning_briefing_doc",
       "target": "capcut_app"
     },
@@ -3036,6 +3694,8 @@
       "source_file": "findings/reports/morning-briefing.md",
       "source_location": null,
       "weight": 1.0,
+      "_src": "morning_briefing_doc",
+      "_tgt": "phase_0_read_ledger",
       "source": "morning_briefing_doc",
       "target": "phase_0_read_ledger"
     },
@@ -3046,6 +3706,8 @@
       "source_file": "findings/reports/morning-briefing.md",
       "source_location": null,
       "weight": 1.0,
+      "_src": "morning_briefing_doc",
+      "_tgt": "phase_11_country_expand",
       "source": "morning_briefing_doc",
       "target": "phase_11_country_expand"
     },
@@ -3056,6 +3718,8 @@
       "source_file": "findings/reports/morning-briefing.md",
       "source_location": null,
       "weight": 1.0,
+      "_src": "morning_briefing_doc",
+      "_tgt": "phase_12_validate",
       "source": "morning_briefing_doc",
       "target": "phase_12_validate"
     },
@@ -3066,8 +3730,10 @@
       "source_file": "findings/reports/run_ledger.md",
       "source_location": null,
       "weight": 1.0,
-      "source": "phase_0_read_ledger",
-      "target": "run_ledger_doc"
+      "_src": "phase_0_read_ledger",
+      "_tgt": "run_ledger_doc",
+      "source": "run_ledger_doc",
+      "target": "phase_0_read_ledger"
     },
     {
       "relation": "references",
@@ -3076,8 +3742,10 @@
       "source_file": "findings/reports/run_ledger.md",
       "source_location": null,
       "weight": 1.0,
-      "source": "thesis_self_evolving_methodology",
-      "target": "run_ledger_doc"
+      "_src": "thesis_self_evolving_methodology",
+      "_tgt": "run_ledger_doc",
+      "source": "run_ledger_doc",
+      "target": "thesis_self_evolving_methodology"
     },
     {
       "relation": "references",
@@ -3086,8 +3754,10 @@
       "source_file": "findings/reports/run_ledger.md",
       "source_location": null,
       "weight": 1.0,
-      "source": "run_2026_05_06",
-      "target": "run_ledger_doc"
+      "_src": "run_2026_05_06",
+      "_tgt": "run_ledger_doc",
+      "source": "run_ledger_doc",
+      "target": "run_2026_05_06"
     },
     {
       "relation": "references",
@@ -3096,8 +3766,10 @@
       "source_file": "findings/reports/run_ledger.md",
       "source_location": null,
       "weight": 1.0,
-      "source": "run_2026_05_07_morning",
-      "target": "run_ledger_doc"
+      "_src": "run_2026_05_07_morning",
+      "_tgt": "run_ledger_doc",
+      "source": "run_ledger_doc",
+      "target": "run_2026_05_07_morning"
     },
     {
       "relation": "references",
@@ -3106,8 +3778,10 @@
       "source_file": "findings/reports/run_ledger.md",
       "source_location": null,
       "weight": 1.0,
-      "source": "run_2026_05_07_continuation",
-      "target": "run_ledger_doc"
+      "_src": "run_2026_05_07_continuation",
+      "_tgt": "run_ledger_doc",
+      "source": "run_ledger_doc",
+      "target": "run_2026_05_07_continuation"
     },
     {
       "relation": "references",
@@ -3116,6 +3790,8 @@
       "source_file": "findings/reports/run_ledger.md",
       "source_location": null,
       "weight": 0.6,
+      "_src": "run_ledger_doc",
+      "_tgt": "tikwm_tiktok_mirror",
       "source": "run_ledger_doc",
       "target": "tikwm_tiktok_mirror"
     },
@@ -3126,6 +3802,8 @@
       "source_file": "findings/reports/run_ledger.md",
       "source_location": null,
       "weight": 1.0,
+      "_src": "run_ledger_doc",
+      "_tgt": "arctic_shift",
       "source": "run_ledger_doc",
       "target": "arctic_shift"
     },
@@ -3136,6 +3814,8 @@
       "source_file": "findings/reports/run_ledger.md",
       "source_location": null,
       "weight": 1.0,
+      "_src": "run_ledger_doc",
+      "_tgt": "google_play_scraper",
       "source": "run_ledger_doc",
       "target": "google_play_scraper"
     },
@@ -3146,6 +3826,8 @@
       "source_file": "findings/reports/run_ledger.md",
       "source_location": null,
       "weight": 1.0,
+      "_src": "run_ledger_doc",
+      "_tgt": "google_trends_api",
       "source": "run_ledger_doc",
       "target": "google_trends_api"
     },
@@ -3156,6 +3838,8 @@
       "source_file": "findings/raw/play-store/competitor_backgrounds.md",
       "source_location": null,
       "weight": 1.0,
+      "_src": "love8_app",
+      "_tgt": "chongqing_daole_er",
       "source": "love8_app",
       "target": "chongqing_daole_er"
     },
@@ -3166,6 +3850,8 @@
       "source_file": "findings/raw/competitor_revenues.md",
       "source_location": null,
       "weight": 1.0,
+      "_src": "love8_app",
+      "_tgt": "niche_couple",
       "source": "love8_app",
       "target": "niche_couple"
     },
@@ -3176,8 +3862,10 @@
       "source_file": "findings/reports/directions.md",
       "source_location": null,
       "weight": 1.0,
-      "source": "cell_tr_couple",
-      "target": "love8_app"
+      "_src": "cell_tr_couple",
+      "_tgt": "love8_app",
+      "source": "love8_app",
+      "target": "cell_tr_couple"
     },
     {
       "relation": "references",
@@ -3186,8 +3874,10 @@
       "source_file": "findings/reports/directions.md",
       "source_location": null,
       "weight": 1.0,
-      "source": "cell_mx_couple",
-      "target": "love8_app"
+      "_src": "cell_mx_couple",
+      "_tgt": "love8_app",
+      "source": "love8_app",
+      "target": "cell_mx_couple"
     },
     {
       "relation": "references",
@@ -3196,8 +3886,10 @@
       "source_file": "findings/reports/directions.md",
       "source_location": null,
       "weight": 1.0,
-      "source": "cell_br_couple",
-      "target": "love8_app"
+      "_src": "cell_br_couple",
+      "_tgt": "love8_app",
+      "source": "love8_app",
+      "target": "cell_br_couple"
     },
     {
       "relation": "references",
@@ -3206,8 +3898,10 @@
       "source_file": "findings/reports/directions.md",
       "source_location": null,
       "weight": 1.0,
-      "source": "cell_th_couple",
-      "target": "love8_app"
+      "_src": "cell_th_couple",
+      "_tgt": "love8_app",
+      "source": "love8_app",
+      "target": "cell_th_couple"
     },
     {
       "relation": "references",
@@ -3216,8 +3910,10 @@
       "source_file": "findings/reports/run_ledger.md",
       "source_location": null,
       "weight": 1.0,
-      "source": "hyp_cross_country_love8",
-      "target": "love8_app"
+      "_src": "hyp_cross_country_love8",
+      "_tgt": "love8_app",
+      "source": "love8_app",
+      "target": "hyp_cross_country_love8"
     },
     {
       "relation": "references",
@@ -3226,8 +3922,10 @@
       "source_file": "findings/raw/competitor_revenues.md",
       "source_location": null,
       "weight": 1.0,
-      "source": "fact_love8_7m_downloads",
-      "target": "love8_app"
+      "_src": "fact_love8_7m_downloads",
+      "_tgt": "love8_app",
+      "source": "love8_app",
+      "target": "fact_love8_7m_downloads"
     },
     {
       "relation": "references",
@@ -3236,8 +3934,10 @@
       "source_file": "findings/reports/FINAL_VERDICT.txt",
       "source_location": null,
       "weight": 1.0,
-      "source": "fact_tr_couple_20_9_one_star",
-      "target": "love8_app"
+      "_src": "fact_tr_couple_20_9_one_star",
+      "_tgt": "love8_app",
+      "source": "love8_app",
+      "target": "fact_tr_couple_20_9_one_star"
     },
     {
       "relation": "references",
@@ -3246,8 +3946,10 @@
       "source_file": "findings/reports/FINAL_VERDICT.txt",
       "source_location": null,
       "weight": 1.0,
-      "source": "fact_love8_580kmh_quote",
-      "target": "love8_app"
+      "_src": "fact_love8_580kmh_quote",
+      "_tgt": "love8_app",
+      "source": "love8_app",
+      "target": "fact_love8_580kmh_quote"
     },
     {
       "relation": "references",
@@ -3256,8 +3958,10 @@
       "source_file": "findings/reports/FINAL_VERDICT.txt",
       "source_location": null,
       "weight": 1.0,
-      "source": "fact_aplicativo_discordia",
-      "target": "love8_app"
+      "_src": "fact_aplicativo_discordia",
+      "_tgt": "love8_app",
+      "source": "love8_app",
+      "target": "fact_aplicativo_discordia"
     },
     {
       "relation": "references",
@@ -3266,6 +3970,8 @@
       "source_file": "findings/raw/play-store/competitor_backgrounds.md",
       "source_location": null,
       "weight": 1.0,
+      "_src": "love8_app",
+      "_tgt": "displacement_medium_love8",
       "source": "love8_app",
       "target": "displacement_medium_love8"
     },
@@ -3276,6 +3982,8 @@
       "source_file": "findings/raw/play-store/competitor_backgrounds.md",
       "source_location": null,
       "weight": 0.9,
+      "_src": "love8_app",
+      "_tgt": "team_size_chongqing",
       "source": "love8_app",
       "target": "team_size_chongqing"
     },
@@ -3286,6 +3994,8 @@
       "source_file": "findings/raw/play-store/competitor_backgrounds.md",
       "source_location": null,
       "weight": 1.0,
+      "_src": "chongqing_daole_er",
+      "_tgt": "love8_team_brand",
       "source": "chongqing_daole_er",
       "target": "love8_team_brand"
     },
@@ -3296,6 +4006,8 @@
       "source_file": "findings/raw/competitor_revenues.md",
       "source_location": null,
       "weight": 1.0,
+      "_src": "buzzarab_app",
+      "_tgt": "sherif_omar",
       "source": "buzzarab_app",
       "target": "sherif_omar"
     },
@@ -3306,6 +4018,8 @@
       "source_file": "findings/raw/competitor_revenues.md",
       "source_location": null,
       "weight": 1.0,
+      "_src": "buzzarab_app",
+      "_tgt": "niche_dating",
       "source": "buzzarab_app",
       "target": "niche_dating"
     },
@@ -3316,8 +4030,10 @@
       "source_file": "findings/reports/directions.md",
       "source_location": null,
       "weight": 1.0,
-      "source": "cell_sa_couple",
-      "target": "buzzarab_app"
+      "_src": "cell_sa_couple",
+      "_tgt": "buzzarab_app",
+      "source": "buzzarab_app",
+      "target": "cell_sa_couple"
     },
     {
       "relation": "references",
@@ -3326,8 +4042,10 @@
       "source_file": "findings/reports/directions.md",
       "source_location": null,
       "weight": 1.0,
-      "source": "cell_ae_couple",
-      "target": "buzzarab_app"
+      "_src": "cell_ae_couple",
+      "_tgt": "buzzarab_app",
+      "source": "buzzarab_app",
+      "target": "cell_ae_couple"
     },
     {
       "relation": "references",
@@ -3336,8 +4054,10 @@
       "source_file": "findings/reports/directions.md",
       "source_location": null,
       "weight": 1.0,
-      "source": "cell_eg_couple",
-      "target": "buzzarab_app"
+      "_src": "cell_eg_couple",
+      "_tgt": "buzzarab_app",
+      "source": "buzzarab_app",
+      "target": "cell_eg_couple"
     },
     {
       "relation": "references",
@@ -3346,8 +4066,10 @@
       "source_file": "findings/raw/competitor_revenues.md",
       "source_location": null,
       "weight": 1.0,
-      "source": "fact_buzzarab_ad_only",
-      "target": "buzzarab_app"
+      "_src": "fact_buzzarab_ad_only",
+      "_tgt": "buzzarab_app",
+      "source": "buzzarab_app",
+      "target": "fact_buzzarab_ad_only"
     },
     {
       "relation": "references",
@@ -3356,8 +4078,10 @@
       "source_file": "findings/raw/localization_audit.md",
       "source_location": null,
       "weight": 1.0,
-      "source": "fact_buzzarab_msa_only",
-      "target": "buzzarab_app"
+      "_src": "fact_buzzarab_msa_only",
+      "_tgt": "buzzarab_app",
+      "source": "buzzarab_app",
+      "target": "fact_buzzarab_msa_only"
     },
     {
       "relation": "references",
@@ -3366,8 +4090,10 @@
       "source_file": "findings/raw/localization_audit.md",
       "source_location": null,
       "weight": 1.0,
-      "source": "thesis_dialect_native_arabic",
-      "target": "buzzarab_app"
+      "_src": "thesis_dialect_native_arabic",
+      "_tgt": "buzzarab_app",
+      "source": "buzzarab_app",
+      "target": "thesis_dialect_native_arabic"
     },
     {
       "relation": "references",
@@ -3376,6 +4102,8 @@
       "source_file": "findings/raw/competitor_revenues.md",
       "source_location": null,
       "weight": 1.0,
+      "_src": "astrolink_app",
+      "_tgt": "orbe_ventures_ltda",
       "source": "astrolink_app",
       "target": "orbe_ventures_ltda"
     },
@@ -3386,6 +4114,8 @@
       "source_file": "findings/raw/play-store/competitor_backgrounds.md",
       "source_location": null,
       "weight": 0.9,
+      "_src": "astrolink_app",
+      "_tgt": "fabio_principe",
       "source": "astrolink_app",
       "target": "fabio_principe"
     },
@@ -3396,6 +4126,8 @@
       "source_file": "findings/raw/competitor_revenues.md",
       "source_location": null,
       "weight": 1.0,
+      "_src": "astrolink_app",
+      "_tgt": "niche_astrology",
       "source": "astrolink_app",
       "target": "niche_astrology"
     },
@@ -3406,8 +4138,10 @@
       "source_file": "findings/reports/directions.md",
       "source_location": null,
       "weight": 1.0,
-      "source": "cell_br_astrology",
-      "target": "astrolink_app"
+      "_src": "cell_br_astrology",
+      "_tgt": "astrolink_app",
+      "source": "astrolink_app",
+      "target": "cell_br_astrology"
     },
     {
       "relation": "references",
@@ -3416,6 +4150,8 @@
       "source_file": "findings/raw/play-store/competitor_backgrounds.md",
       "source_location": null,
       "weight": 1.0,
+      "_src": "astrolink_app",
+      "_tgt": "displacement_low_astrolink",
       "source": "astrolink_app",
       "target": "displacement_low_astrolink"
     },
@@ -3426,6 +4162,8 @@
       "source_file": "findings/raw/play-store/competitor_backgrounds.md",
       "source_location": null,
       "weight": 1.0,
+      "_src": "sleep_cycle_ab",
+      "_tgt": "maciej_drejak",
       "source": "sleep_cycle_ab",
       "target": "maciej_drejak"
     },
@@ -3436,6 +4174,8 @@
       "source_file": "findings/raw/play-store/competitor_backgrounds.md",
       "source_location": null,
       "weight": 1.0,
+      "_src": "sleep_cycle_ab",
+      "_tgt": "northcube_ab",
       "source": "sleep_cycle_ab",
       "target": "northcube_ab"
     },
@@ -3446,6 +4186,8 @@
       "source_file": "findings/raw/competitor_revenues.md",
       "source_location": null,
       "weight": 1.0,
+      "_src": "sleep_cycle_ab",
+      "_tgt": "niche_sleep",
       "source": "sleep_cycle_ab",
       "target": "niche_sleep"
     },
@@ -3456,8 +4198,10 @@
       "source_file": "findings/reports/directions.md",
       "source_location": null,
       "weight": 1.0,
-      "source": "cell_tr_sleep",
-      "target": "sleep_cycle_ab"
+      "_src": "cell_tr_sleep",
+      "_tgt": "sleep_cycle_ab",
+      "source": "sleep_cycle_ab",
+      "target": "cell_tr_sleep"
     },
     {
       "relation": "references",
@@ -3466,8 +4210,10 @@
       "source_file": "findings/raw/competitor_revenues.md",
       "source_location": null,
       "weight": 1.0,
-      "source": "fact_sleep_cycle_24_7m_arr",
-      "target": "sleep_cycle_ab"
+      "_src": "fact_sleep_cycle_24_7m_arr",
+      "_tgt": "sleep_cycle_ab",
+      "source": "sleep_cycle_ab",
+      "target": "fact_sleep_cycle_24_7m_arr"
     },
     {
       "relation": "references",
@@ -3476,8 +4222,10 @@
       "source_file": "findings/raw/competitor_revenues.md",
       "source_location": null,
       "weight": 1.0,
-      "source": "fact_sleep_cycle_2_25_mau",
-      "target": "sleep_cycle_ab"
+      "_src": "fact_sleep_cycle_2_25_mau",
+      "_tgt": "sleep_cycle_ab",
+      "source": "sleep_cycle_ab",
+      "target": "fact_sleep_cycle_2_25_mau"
     },
     {
       "relation": "references",
@@ -3486,8 +4234,10 @@
       "source_file": "findings/raw/localization_audit.md",
       "source_location": null,
       "weight": 1.0,
-      "source": "fact_sleep_cycle_has_tr",
-      "target": "sleep_cycle_ab"
+      "_src": "fact_sleep_cycle_has_tr",
+      "_tgt": "sleep_cycle_ab",
+      "source": "sleep_cycle_ab",
+      "target": "fact_sleep_cycle_has_tr"
     },
     {
       "relation": "references",
@@ -3496,6 +4246,8 @@
       "source_file": "findings/raw/play-store/competitor_backgrounds.md",
       "source_location": null,
       "weight": 1.0,
+      "_src": "sleep_cycle_ab",
+      "_tgt": "displacement_very_low_sleep",
       "source": "sleep_cycle_ab",
       "target": "displacement_very_low_sleep"
     },
@@ -3506,6 +4258,8 @@
       "source_file": "findings/raw/play-store/competitor_backgrounds.md",
       "source_location": null,
       "weight": 1.0,
+      "_src": "labyrinthos_app",
+      "_tgt": "tina_gong",
       "source": "labyrinthos_app",
       "target": "tina_gong"
     },
@@ -3516,6 +4270,8 @@
       "source_file": "findings/raw/play-store/competitor_backgrounds.md",
       "source_location": null,
       "weight": 1.0,
+      "_src": "labyrinthos_app",
+      "_tgt": "labyrinthos_llc",
       "source": "labyrinthos_app",
       "target": "labyrinthos_llc"
     },
@@ -3526,6 +4282,8 @@
       "source_file": "findings/raw/localization_audit.md",
       "source_location": null,
       "weight": 1.0,
+      "_src": "labyrinthos_app",
+      "_tgt": "niche_tarot",
       "source": "labyrinthos_app",
       "target": "niche_tarot"
     },
@@ -3536,8 +4294,10 @@
       "source_file": "findings/reports/directions.md",
       "source_location": null,
       "weight": 1.0,
-      "source": "cell_tr_tarot",
-      "target": "labyrinthos_app"
+      "_src": "cell_tr_tarot",
+      "_tgt": "labyrinthos_app",
+      "source": "labyrinthos_app",
+      "target": "cell_tr_tarot"
     },
     {
       "relation": "references",
@@ -3546,8 +4306,10 @@
       "source_file": "findings/raw/localization_audit.md",
       "source_location": null,
       "weight": 1.0,
-      "source": "hyp_labyrinthos_machine_tr",
-      "target": "labyrinthos_app"
+      "_src": "hyp_labyrinthos_machine_tr",
+      "_tgt": "labyrinthos_app",
+      "source": "labyrinthos_app",
+      "target": "hyp_labyrinthos_machine_tr"
     },
     {
       "relation": "references",
@@ -3556,8 +4318,10 @@
       "source_file": "findings/raw/localization_audit.md",
       "source_location": null,
       "weight": 1.0,
-      "source": "fact_labyrinthos_v260_machine_tr",
-      "target": "labyrinthos_app"
+      "_src": "fact_labyrinthos_v260_machine_tr",
+      "_tgt": "labyrinthos_app",
+      "source": "labyrinthos_app",
+      "target": "fact_labyrinthos_v260_machine_tr"
     },
     {
       "relation": "conceptually_related_to",
@@ -3566,8 +4330,10 @@
       "source_file": "findings/reports/directions.md",
       "source_location": null,
       "weight": 1.0,
-      "source": "thesis_tarot_learning_vs_reading",
-      "target": "labyrinthos_app"
+      "_src": "thesis_tarot_learning_vs_reading",
+      "_tgt": "labyrinthos_app",
+      "source": "labyrinthos_app",
+      "target": "thesis_tarot_learning_vs_reading"
     },
     {
       "relation": "references",
@@ -3576,6 +4342,8 @@
       "source_file": "findings/raw/play-store/competitor_backgrounds.md",
       "source_location": null,
       "weight": 0.85,
+      "_src": "labyrinthos_app",
+      "_tgt": "displacement_very_low_sleep",
       "source": "labyrinthos_app",
       "target": "displacement_very_low_sleep"
     },
@@ -3586,6 +4354,8 @@
       "source_file": "findings/raw/play-store/competitor_backgrounds.md",
       "source_location": null,
       "weight": 1.0,
+      "_src": "tinder_app",
+      "_tgt": "match_group",
       "source": "tinder_app",
       "target": "match_group"
     },
@@ -3596,6 +4366,8 @@
       "source_file": "findings/raw/competitor_revenues.md",
       "source_location": null,
       "weight": 1.0,
+      "_src": "tinder_app",
+      "_tgt": "niche_dating",
       "source": "tinder_app",
       "target": "niche_dating"
     },
@@ -3606,8 +4378,10 @@
       "source_file": "findings/reports/directions.md",
       "source_location": null,
       "weight": 1.0,
-      "source": "cell_vn_couple",
-      "target": "tinder_app"
+      "_src": "cell_vn_couple",
+      "_tgt": "tinder_app",
+      "source": "tinder_app",
+      "target": "cell_vn_couple"
     },
     {
       "relation": "references",
@@ -3616,6 +4390,8 @@
       "source_file": "findings/raw/play-store/competitor_backgrounds.md",
       "source_location": null,
       "weight": 1.0,
+      "_src": "tinder_app",
+      "_tgt": "displacement_zero_tinder",
       "source": "tinder_app",
       "target": "displacement_zero_tinder"
     },
@@ -3626,6 +4402,8 @@
       "source_file": "findings/raw/aso_keyword_volumes.md",
       "source_location": null,
       "weight": 1.0,
+      "_src": "faladdin_app",
+      "_tgt": "niche_tarot",
       "source": "faladdin_app",
       "target": "niche_tarot"
     },
@@ -3636,6 +4414,8 @@
       "source_file": "findings/raw/aso_keyword_volumes.md",
       "source_location": null,
       "weight": 0.9,
+      "_src": "faladdin_app",
+      "_tgt": "niche_astrology",
       "source": "faladdin_app",
       "target": "niche_astrology"
     },
@@ -3646,8 +4426,10 @@
       "source_file": "findings/reports/directions.md",
       "source_location": null,
       "weight": 1.0,
-      "source": "cell_tr_tarot",
-      "target": "faladdin_app"
+      "_src": "cell_tr_tarot",
+      "_tgt": "faladdin_app",
+      "source": "faladdin_app",
+      "target": "cell_tr_tarot"
     },
     {
       "relation": "references",
@@ -3656,8 +4438,10 @@
       "source_file": "findings/raw/aso_keyword_volumes.md",
       "source_location": null,
       "weight": 1.0,
-      "source": "fact_faladdin_25m_users",
-      "target": "faladdin_app"
+      "_src": "fact_faladdin_25m_users",
+      "_tgt": "faladdin_app",
+      "source": "faladdin_app",
+      "target": "fact_faladdin_25m_users"
     },
     {
       "relation": "conceptually_related_to",
@@ -3666,8 +4450,10 @@
       "source_file": "findings/reports/directions.md",
       "source_location": null,
       "weight": 1.0,
-      "source": "thesis_tarot_learning_vs_reading",
-      "target": "faladdin_app"
+      "_src": "thesis_tarot_learning_vs_reading",
+      "_tgt": "faladdin_app",
+      "source": "faladdin_app",
+      "target": "thesis_tarot_learning_vs_reading"
     },
     {
       "relation": "references",
@@ -3676,6 +4462,8 @@
       "source_file": "findings/reports/drill_analysis.txt",
       "source_location": null,
       "weight": 1.0,
+      "_src": "yodha_app",
+      "_tgt": "niche_astrology",
       "source": "yodha_app",
       "target": "niche_astrology"
     },
@@ -3686,6 +4474,8 @@
       "source_file": "findings/reports/drill_analysis.txt",
       "source_location": null,
       "weight": 1.0,
+      "_src": "finch_app",
+      "_tgt": "niche_selfcare",
       "source": "finch_app",
       "target": "niche_selfcare"
     },
@@ -3696,6 +4486,8 @@
       "source_file": "findings/reports/drill_analysis.txt",
       "source_location": null,
       "weight": 1.0,
+      "_src": "remente_app",
+      "_tgt": "niche_selfcare",
       "source": "remente_app",
       "target": "niche_selfcare"
     },
@@ -3706,6 +4498,8 @@
       "source_file": "findings/raw/maktub_cultural_validation.md",
       "source_location": null,
       "weight": 1.0,
+      "_src": "mawada_app",
+      "_tgt": "niche_matrimonial",
       "source": "mawada_app",
       "target": "niche_matrimonial"
     },
@@ -3716,6 +4510,8 @@
       "source_file": "findings/raw/maktub_cultural_validation.md",
       "source_location": null,
       "weight": 1.0,
+      "_src": "muzz_app",
+      "_tgt": "niche_matrimonial",
       "source": "muzz_app",
       "target": "niche_matrimonial"
     },
@@ -3726,6 +4522,8 @@
       "source_file": "findings/raw/maktub_cultural_validation.md",
       "source_location": null,
       "weight": 1.0,
+      "_src": "salams_app",
+      "_tgt": "niche_matrimonial",
       "source": "salams_app",
       "target": "niche_matrimonial"
     },
@@ -3736,6 +4534,8 @@
       "source_file": "findings/raw/maktub_cultural_validation.md",
       "source_location": null,
       "weight": 1.0,
+      "_src": "alkhattaba_app",
+      "_tgt": "niche_matrimonial",
       "source": "alkhattaba_app",
       "target": "niche_matrimonial"
     },
@@ -3746,6 +4546,8 @@
       "source_file": "findings/raw/maktub_cultural_validation.md",
       "source_location": null,
       "weight": 1.0,
+      "_src": "ana_wa_anta_app",
+      "_tgt": "niche_couple",
       "source": "ana_wa_anta_app",
       "target": "niche_couple"
     },
@@ -3756,8 +4558,10 @@
       "source_file": "findings/reports/directions.md",
       "source_location": null,
       "weight": 1.0,
-      "source": "cell_br_couple",
-      "target": "country_br"
+      "_src": "cell_br_couple",
+      "_tgt": "country_br",
+      "source": "country_br",
+      "target": "cell_br_couple"
     },
     {
       "relation": "references",
@@ -3766,8 +4570,10 @@
       "source_file": "findings/reports/directions.md",
       "source_location": null,
       "weight": 1.0,
-      "source": "cell_br_astrology",
-      "target": "country_br"
+      "_src": "cell_br_astrology",
+      "_tgt": "country_br",
+      "source": "country_br",
+      "target": "cell_br_astrology"
     },
     {
       "relation": "references",
@@ -3776,8 +4582,10 @@
       "source_file": "findings/reports/FINAL_VERDICT.txt",
       "source_location": null,
       "weight": 1.0,
-      "source": "fact_aplicativo_discordia",
-      "target": "country_br"
+      "_src": "fact_aplicativo_discordia",
+      "_tgt": "country_br",
+      "source": "country_br",
+      "target": "fact_aplicativo_discordia"
     },
     {
       "relation": "references",
@@ -3786,8 +4594,10 @@
       "source_file": "findings/raw/aso_keyword_volumes.md",
       "source_location": null,
       "weight": 1.0,
-      "source": "fact_br_mapa_astral_very_high",
-      "target": "country_br"
+      "_src": "fact_br_mapa_astral_very_high",
+      "_tgt": "country_br",
+      "source": "country_br",
+      "target": "fact_br_mapa_astral_very_high"
     },
     {
       "relation": "shares_data_with",
@@ -3796,6 +4606,8 @@
       "source_file": "findings/raw/market_economics.md",
       "source_location": null,
       "weight": 1.0,
+      "_src": "country_br",
+      "_tgt": "metric_arpu",
       "source": "country_br",
       "target": "metric_arpu"
     },
@@ -3806,6 +4618,8 @@
       "source_file": "findings/raw/market_economics.md",
       "source_location": null,
       "weight": 0.85,
+      "_src": "country_br",
+      "_tgt": "country_mx",
       "source": "country_br",
       "target": "country_mx"
     },
@@ -3816,8 +4630,10 @@
       "source_file": "findings/reports/directions.md",
       "source_location": null,
       "weight": 1.0,
-      "source": "cell_mx_couple",
-      "target": "country_mx"
+      "_src": "cell_mx_couple",
+      "_tgt": "country_mx",
+      "source": "country_mx",
+      "target": "cell_mx_couple"
     },
     {
       "relation": "references",
@@ -3826,8 +4642,10 @@
       "source_file": "findings/reports/directions.md",
       "source_location": null,
       "weight": 1.0,
-      "source": "fact_mx_secuestren_quote",
-      "target": "country_mx"
+      "_src": "fact_mx_secuestren_quote",
+      "_tgt": "country_mx",
+      "source": "country_mx",
+      "target": "fact_mx_secuestren_quote"
     },
     {
       "relation": "shares_data_with",
@@ -3836,6 +4654,8 @@
       "source_file": "findings/raw/market_economics.md",
       "source_location": null,
       "weight": 1.0,
+      "_src": "country_mx",
+      "_tgt": "metric_arpu",
       "source": "country_mx",
       "target": "metric_arpu"
     },
@@ -3846,8 +4666,10 @@
       "source_file": "findings/reports/directions.md",
       "source_location": null,
       "weight": 1.0,
-      "source": "cell_tr_couple",
-      "target": "country_tr"
+      "_src": "cell_tr_couple",
+      "_tgt": "country_tr",
+      "source": "country_tr",
+      "target": "cell_tr_couple"
     },
     {
       "relation": "references",
@@ -3856,8 +4678,10 @@
       "source_file": "findings/reports/directions.md",
       "source_location": null,
       "weight": 1.0,
-      "source": "cell_tr_tarot",
-      "target": "country_tr"
+      "_src": "cell_tr_tarot",
+      "_tgt": "country_tr",
+      "source": "country_tr",
+      "target": "cell_tr_tarot"
     },
     {
       "relation": "references",
@@ -3866,8 +4690,10 @@
       "source_file": "findings/reports/directions.md",
       "source_location": null,
       "weight": 1.0,
-      "source": "cell_tr_sleep",
-      "target": "country_tr"
+      "_src": "cell_tr_sleep",
+      "_tgt": "country_tr",
+      "source": "country_tr",
+      "target": "cell_tr_sleep"
     },
     {
       "relation": "references",
@@ -3876,8 +4702,10 @@
       "source_file": "findings/reports/FINAL_VERDICT.txt",
       "source_location": null,
       "weight": 1.0,
-      "source": "fact_tr_couple_20_9_one_star",
-      "target": "country_tr"
+      "_src": "fact_tr_couple_20_9_one_star",
+      "_tgt": "country_tr",
+      "source": "country_tr",
+      "target": "fact_tr_couple_20_9_one_star"
     },
     {
       "relation": "references",
@@ -3886,8 +4714,10 @@
       "source_file": "findings/raw/aso_keyword_volumes.md",
       "source_location": null,
       "weight": 1.0,
-      "source": "fact_tr_tarot_volume_very_high",
-      "target": "country_tr"
+      "_src": "fact_tr_tarot_volume_very_high",
+      "_tgt": "country_tr",
+      "source": "country_tr",
+      "target": "fact_tr_tarot_volume_very_high"
     },
     {
       "relation": "shares_data_with",
@@ -3896,6 +4726,8 @@
       "source_file": "findings/raw/market_economics.md",
       "source_location": null,
       "weight": 1.0,
+      "_src": "country_tr",
+      "_tgt": "metric_arpu",
       "source": "country_tr",
       "target": "metric_arpu"
     },
@@ -3906,8 +4738,10 @@
       "source_file": "findings/reports/FINAL_VERDICT.txt",
       "source_location": null,
       "weight": 1.0,
-      "source": "cell_id_couple",
-      "target": "country_id"
+      "_src": "cell_id_couple",
+      "_tgt": "country_id",
+      "source": "country_id",
+      "target": "cell_id_couple"
     },
     {
       "relation": "references",
@@ -3916,8 +4750,10 @@
       "source_file": "findings/reports/run_ledger.md",
       "source_location": null,
       "weight": 1.0,
-      "source": "hyp_id_astrology_strong",
-      "target": "country_id"
+      "_src": "hyp_id_astrology_strong",
+      "_tgt": "country_id",
+      "source": "country_id",
+      "target": "hyp_id_astrology_strong"
     },
     {
       "relation": "shares_data_with",
@@ -3926,6 +4762,8 @@
       "source_file": "findings/raw/market_economics.md",
       "source_location": null,
       "weight": 1.0,
+      "_src": "country_id",
+      "_tgt": "metric_arpu",
       "source": "country_id",
       "target": "metric_arpu"
     },
@@ -3936,6 +4774,8 @@
       "source_file": "findings/raw/market_economics.md",
       "source_location": null,
       "weight": 0.8,
+      "_src": "country_id",
+      "_tgt": "country_vn",
       "source": "country_id",
       "target": "country_vn"
     },
@@ -3946,8 +4786,10 @@
       "source_file": "findings/reports/directions.md",
       "source_location": null,
       "weight": 1.0,
-      "source": "cell_vn_couple",
-      "target": "country_vn"
+      "_src": "cell_vn_couple",
+      "_tgt": "country_vn",
+      "source": "country_vn",
+      "target": "cell_vn_couple"
     },
     {
       "relation": "shares_data_with",
@@ -3956,6 +4798,8 @@
       "source_file": "findings/raw/market_economics.md",
       "source_location": null,
       "weight": 1.0,
+      "_src": "country_vn",
+      "_tgt": "metric_arpu",
       "source": "country_vn",
       "target": "metric_arpu"
     },
@@ -3966,6 +4810,8 @@
       "source_file": "findings/raw/market_economics.md",
       "source_location": null,
       "weight": 0.8,
+      "_src": "country_vn",
+      "_tgt": "country_th",
       "source": "country_vn",
       "target": "country_th"
     },
@@ -3976,6 +4822,8 @@
       "source_file": "findings/raw/market_economics.md",
       "source_location": null,
       "weight": 1.0,
+      "_src": "country_ph",
+      "_tgt": "metric_arpu",
       "source": "country_ph",
       "target": "metric_arpu"
     },
@@ -3986,8 +4834,10 @@
       "source_file": "findings/reports/directions.md",
       "source_location": null,
       "weight": 1.0,
-      "source": "cell_th_couple",
-      "target": "country_th"
+      "_src": "cell_th_couple",
+      "_tgt": "country_th",
+      "source": "country_th",
+      "target": "cell_th_couple"
     },
     {
       "relation": "shares_data_with",
@@ -3996,6 +4846,8 @@
       "source_file": "findings/raw/market_economics.md",
       "source_location": null,
       "weight": 1.0,
+      "_src": "country_th",
+      "_tgt": "metric_arpu",
       "source": "country_th",
       "target": "metric_arpu"
     },
@@ -4006,8 +4858,10 @@
       "source_file": "findings/reports/directions.md",
       "source_location": null,
       "weight": 1.0,
-      "source": "cell_eg_couple",
-      "target": "country_eg"
+      "_src": "cell_eg_couple",
+      "_tgt": "country_eg",
+      "source": "country_eg",
+      "target": "cell_eg_couple"
     },
     {
       "relation": "shares_data_with",
@@ -4016,6 +4870,8 @@
       "source_file": "findings/raw/market_economics.md",
       "source_location": null,
       "weight": 1.0,
+      "_src": "country_eg",
+      "_tgt": "metric_arpu",
       "source": "country_eg",
       "target": "metric_arpu"
     },
@@ -4026,6 +4882,8 @@
       "source_file": "findings/raw/market_economics.md",
       "source_location": null,
       "weight": 0.85,
+      "_src": "country_eg",
+      "_tgt": "country_sa",
       "source": "country_eg",
       "target": "country_sa"
     },
@@ -4036,8 +4894,10 @@
       "source_file": "findings/reports/directions.md",
       "source_location": null,
       "weight": 1.0,
-      "source": "cell_sa_couple",
-      "target": "country_sa"
+      "_src": "cell_sa_couple",
+      "_tgt": "country_sa",
+      "source": "country_sa",
+      "target": "cell_sa_couple"
     },
     {
       "relation": "references",
@@ -4046,8 +4906,10 @@
       "source_file": "findings/raw/market_economics.md",
       "source_location": null,
       "weight": 1.0,
-      "source": "fact_sa_393_arpu",
-      "target": "country_sa"
+      "_src": "fact_sa_393_arpu",
+      "_tgt": "country_sa",
+      "source": "country_sa",
+      "target": "fact_sa_393_arpu"
     },
     {
       "relation": "shares_data_with",
@@ -4056,6 +4918,8 @@
       "source_file": "findings/raw/market_economics.md",
       "source_location": null,
       "weight": 1.0,
+      "_src": "country_sa",
+      "_tgt": "metric_arpu",
       "source": "country_sa",
       "target": "metric_arpu"
     },
@@ -4066,6 +4930,8 @@
       "source_file": "findings/raw/market_economics.md",
       "source_location": null,
       "weight": 0.85,
+      "_src": "country_sa",
+      "_tgt": "country_ae",
       "source": "country_sa",
       "target": "country_ae"
     },
@@ -4076,8 +4942,10 @@
       "source_file": "findings/reports/directions.md",
       "source_location": null,
       "weight": 1.0,
-      "source": "cell_ae_couple",
-      "target": "country_ae"
+      "_src": "cell_ae_couple",
+      "_tgt": "country_ae",
+      "source": "country_ae",
+      "target": "cell_ae_couple"
     },
     {
       "relation": "shares_data_with",
@@ -4086,6 +4954,8 @@
       "source_file": "findings/raw/market_economics.md",
       "source_location": null,
       "weight": 1.0,
+      "_src": "country_ae",
+      "_tgt": "metric_arpu",
       "source": "country_ae",
       "target": "metric_arpu"
     },
@@ -4096,8 +4966,10 @@
       "source_file": "findings/reports/directions.md",
       "source_location": null,
       "weight": 1.0,
-      "source": "cell_tr_couple",
-      "target": "niche_couple"
+      "_src": "cell_tr_couple",
+      "_tgt": "niche_couple",
+      "source": "niche_couple",
+      "target": "cell_tr_couple"
     },
     {
       "relation": "references",
@@ -4106,8 +4978,10 @@
       "source_file": "findings/reports/directions.md",
       "source_location": null,
       "weight": 1.0,
-      "source": "cell_mx_couple",
-      "target": "niche_couple"
+      "_src": "cell_mx_couple",
+      "_tgt": "niche_couple",
+      "source": "niche_couple",
+      "target": "cell_mx_couple"
     },
     {
       "relation": "references",
@@ -4116,8 +4990,10 @@
       "source_file": "findings/reports/directions.md",
       "source_location": null,
       "weight": 1.0,
-      "source": "cell_br_couple",
-      "target": "niche_couple"
+      "_src": "cell_br_couple",
+      "_tgt": "niche_couple",
+      "source": "niche_couple",
+      "target": "cell_br_couple"
     },
     {
       "relation": "semantically_similar_to",
@@ -4126,6 +5002,8 @@
       "source_file": "findings/raw/market_economics.md",
       "source_location": null,
       "weight": 0.7,
+      "_src": "niche_couple",
+      "_tgt": "niche_dating",
       "source": "niche_couple",
       "target": "niche_dating"
     },
@@ -4136,8 +5014,10 @@
       "source_file": "findings/raw/maktub_cultural_validation.md",
       "source_location": null,
       "weight": 1.0,
-      "source": "niche_matrimonial",
-      "target": "niche_couple"
+      "_src": "niche_matrimonial",
+      "_tgt": "niche_couple",
+      "source": "niche_couple",
+      "target": "niche_matrimonial"
     },
     {
       "relation": "semantically_similar_to",
@@ -4146,8 +5026,10 @@
       "source_file": "findings/raw/maktub_cultural_validation.md",
       "source_location": null,
       "weight": 0.75,
-      "source": "niche_matrimonial",
-      "target": "niche_dating"
+      "_src": "niche_matrimonial",
+      "_tgt": "niche_dating",
+      "source": "niche_dating",
+      "target": "niche_matrimonial"
     },
     {
       "relation": "references",
@@ -4156,8 +5038,10 @@
       "source_file": "findings/raw/aso_keyword_volumes.md",
       "source_location": null,
       "weight": 1.0,
-      "source": "fact_br_mapa_astral_very_high",
-      "target": "niche_astrology"
+      "_src": "fact_br_mapa_astral_very_high",
+      "_tgt": "niche_astrology",
+      "source": "niche_astrology",
+      "target": "fact_br_mapa_astral_very_high"
     },
     {
       "relation": "semantically_similar_to",
@@ -4166,6 +5050,8 @@
       "source_file": "findings/raw/market_economics.md",
       "source_location": null,
       "weight": 0.85,
+      "_src": "niche_astrology",
+      "_tgt": "niche_tarot",
       "source": "niche_astrology",
       "target": "niche_tarot"
     },
@@ -4176,6 +5062,8 @@
       "source_file": "findings/raw/market_economics.md",
       "source_location": null,
       "weight": 0.8,
+      "_src": "niche_astrology",
+      "_tgt": "niche_manifestation",
       "source": "niche_astrology",
       "target": "niche_manifestation"
     },
@@ -4186,8 +5074,10 @@
       "source_file": "findings/raw/aso_keyword_volumes.md",
       "source_location": null,
       "weight": 1.0,
-      "source": "fact_tr_tarot_volume_very_high",
-      "target": "niche_tarot"
+      "_src": "fact_tr_tarot_volume_very_high",
+      "_tgt": "niche_tarot",
+      "source": "niche_tarot",
+      "target": "fact_tr_tarot_volume_very_high"
     },
     {
       "relation": "rationale_for",
@@ -4196,8 +5086,10 @@
       "source_file": "findings/reports/directions.md",
       "source_location": null,
       "weight": 1.0,
-      "source": "direction_1_cift",
-      "target": "cell_tr_couple"
+      "_src": "direction_1_cift",
+      "_tgt": "cell_tr_couple",
+      "source": "cell_tr_couple",
+      "target": "direction_1_cift"
     },
     {
       "relation": "rationale_for",
@@ -4206,8 +5098,10 @@
       "source_file": "findings/reports/directions.md",
       "source_location": null,
       "weight": 1.0,
-      "source": "direction_2_pareja_casal",
-      "target": "cell_mx_couple"
+      "_src": "direction_2_pareja_casal",
+      "_tgt": "cell_mx_couple",
+      "source": "cell_mx_couple",
+      "target": "direction_2_pareja_casal"
     },
     {
       "relation": "references",
@@ -4216,8 +5110,10 @@
       "source_file": "findings/reports/FINAL_VERDICT.txt",
       "source_location": null,
       "weight": 1.0,
-      "source": "fact_mx_29k_tiktok",
-      "target": "cell_mx_couple"
+      "_src": "fact_mx_29k_tiktok",
+      "_tgt": "cell_mx_couple",
+      "source": "cell_mx_couple",
+      "target": "fact_mx_29k_tiktok"
     },
     {
       "relation": "rationale_for",
@@ -4226,8 +5122,10 @@
       "source_file": "findings/reports/directions.md",
       "source_location": null,
       "weight": 1.0,
-      "source": "direction_2_pareja_casal",
-      "target": "cell_br_couple"
+      "_src": "direction_2_pareja_casal",
+      "_tgt": "cell_br_couple",
+      "source": "cell_br_couple",
+      "target": "direction_2_pareja_casal"
     },
     {
       "relation": "rationale_for",
@@ -4236,8 +5134,10 @@
       "source_file": "findings/reports/directions.md",
       "source_location": null,
       "weight": 1.0,
-      "source": "direction_3_yeu",
-      "target": "cell_vn_couple"
+      "_src": "direction_3_yeu",
+      "_tgt": "cell_vn_couple",
+      "source": "cell_vn_couple",
+      "target": "direction_3_yeu"
     },
     {
       "relation": "rationale_for",
@@ -4246,8 +5146,10 @@
       "source_file": "findings/reports/directions.md",
       "source_location": null,
       "weight": 1.0,
-      "source": "direction_4_maktub",
-      "target": "cell_sa_couple"
+      "_src": "direction_4_maktub",
+      "_tgt": "cell_sa_couple",
+      "source": "cell_sa_couple",
+      "target": "direction_4_maktub"
     },
     {
       "relation": "rationale_for",
@@ -4256,8 +5158,10 @@
       "source_file": "findings/reports/directions.md",
       "source_location": null,
       "weight": 1.0,
-      "source": "direction_4_maktub",
-      "target": "cell_ae_couple"
+      "_src": "direction_4_maktub",
+      "_tgt": "cell_ae_couple",
+      "source": "cell_ae_couple",
+      "target": "direction_4_maktub"
     },
     {
       "relation": "rationale_for",
@@ -4266,8 +5170,10 @@
       "source_file": "findings/reports/directions.md",
       "source_location": null,
       "weight": 1.0,
-      "source": "direction_4_maktub",
-      "target": "cell_eg_couple"
+      "_src": "direction_4_maktub",
+      "_tgt": "cell_eg_couple",
+      "source": "cell_eg_couple",
+      "target": "direction_4_maktub"
     },
     {
       "relation": "rationale_for",
@@ -4276,8 +5182,10 @@
       "source_file": "findings/reports/directions.md",
       "source_location": null,
       "weight": 1.0,
-      "source": "direction_5_tarot_turkce",
-      "target": "cell_tr_tarot"
+      "_src": "direction_5_tarot_turkce",
+      "_tgt": "cell_tr_tarot",
+      "source": "cell_tr_tarot",
+      "target": "direction_5_tarot_turkce"
     },
     {
       "relation": "references",
@@ -4286,8 +5194,10 @@
       "source_file": "findings/reports/directions.md",
       "source_location": null,
       "weight": 1.0,
-      "source": "hyp_sleep_cycle_no_tr",
-      "target": "cell_tr_sleep"
+      "_src": "hyp_sleep_cycle_no_tr",
+      "_tgt": "cell_tr_sleep",
+      "source": "cell_tr_sleep",
+      "target": "hyp_sleep_cycle_no_tr"
     },
     {
       "relation": "rationale_for",
@@ -4296,6 +5206,8 @@
       "source_file": "findings/reports/directions.md",
       "source_location": null,
       "weight": 1.0,
+      "_src": "direction_1_cift",
+      "_tgt": "thesis_anti_tracking",
       "source": "direction_1_cift",
       "target": "thesis_anti_tracking"
     },
@@ -4306,6 +5218,8 @@
       "source_file": "findings/reports/directions.md",
       "source_location": null,
       "weight": 1.0,
+      "_src": "direction_1_cift",
+      "_tgt": "thesis_lifetime_unlock",
       "source": "direction_1_cift",
       "target": "thesis_lifetime_unlock"
     },
@@ -4316,8 +5230,10 @@
       "source_file": "findings/raw/maktub_cultural_validation.md",
       "source_location": null,
       "weight": 1.0,
-      "source": "thesis_landing_page_test",
-      "target": "direction_4_maktub"
+      "_src": "thesis_landing_page_test",
+      "_tgt": "direction_4_maktub",
+      "source": "direction_4_maktub",
+      "target": "thesis_landing_page_test"
     },
     {
       "relation": "rationale_for",
@@ -4326,8 +5242,10 @@
       "source_file": "findings/reports/directions.md",
       "source_location": null,
       "weight": 1.0,
-      "source": "hyp_mena_30_60_mau",
-      "target": "direction_4_maktub"
+      "_src": "hyp_mena_30_60_mau",
+      "_tgt": "direction_4_maktub",
+      "source": "direction_4_maktub",
+      "target": "hyp_mena_30_60_mau"
     },
     {
       "relation": "rationale_for",
@@ -4336,6 +5254,8 @@
       "source_file": "findings/reports/directions.md",
       "source_location": null,
       "weight": 1.0,
+      "_src": "direction_5_tarot_turkce",
+      "_tgt": "thesis_tarot_learning_vs_reading",
       "source": "direction_5_tarot_turkce",
       "target": "thesis_tarot_learning_vs_reading"
     },
@@ -4346,6 +5266,8 @@
       "source_file": "findings/reports/directions.md",
       "source_location": null,
       "weight": 1.0,
+      "_src": "direction_5_tarot_turkce",
+      "_tgt": "thesis_language_gap",
       "source": "direction_5_tarot_turkce",
       "target": "thesis_language_gap"
     },
@@ -4356,8 +5278,10 @@
       "source_file": "findings/reports/directions.md",
       "source_location": null,
       "weight": 1.0,
-      "source": "hyp_labyrinthos_machine_tr",
-      "target": "direction_5_tarot_turkce"
+      "_src": "hyp_labyrinthos_machine_tr",
+      "_tgt": "direction_5_tarot_turkce",
+      "source": "direction_5_tarot_turkce",
+      "target": "hyp_labyrinthos_machine_tr"
     },
     {
       "relation": "conceptually_related_to",
@@ -4366,6 +5290,8 @@
       "source_file": "findings/raw/localization_audit.md",
       "source_location": null,
       "weight": 1.0,
+      "_src": "hyp_sleep_cycle_no_tr",
+      "_tgt": "fact_sleep_cycle_has_tr",
       "source": "hyp_sleep_cycle_no_tr",
       "target": "fact_sleep_cycle_has_tr"
     },
@@ -4376,6 +5302,8 @@
       "source_file": "findings/raw/competitor_revenues.md",
       "source_location": null,
       "weight": 1.0,
+      "_src": "hyp_mena_30_60_mau",
+      "_tgt": "fact_buzzarab_ad_only",
       "source": "hyp_mena_30_60_mau",
       "target": "fact_buzzarab_ad_only"
     },
@@ -4386,6 +5314,8 @@
       "source_file": "findings/raw/competitor_revenues.md",
       "source_location": null,
       "weight": 1.0,
+      "_src": "hyp_mena_30_60_mau",
+      "_tgt": "fact_sleep_cycle_2_25_mau",
       "source": "hyp_mena_30_60_mau",
       "target": "fact_sleep_cycle_2_25_mau"
     },
@@ -4396,8 +5326,10 @@
       "source_file": "findings/reports/morning-briefing.md",
       "source_location": null,
       "weight": 1.0,
-      "source": "thesis_whale_market_sa_ae",
-      "target": "hyp_mena_30_60_mau"
+      "_src": "thesis_whale_market_sa_ae",
+      "_tgt": "hyp_mena_30_60_mau",
+      "source": "hyp_mena_30_60_mau",
+      "target": "thesis_whale_market_sa_ae"
     },
     {
       "relation": "conceptually_related_to",
@@ -4406,8 +5338,10 @@
       "source_file": "findings/reports/run_ledger.md",
       "source_location": null,
       "weight": 1.0,
-      "source": "run_2026_05_07_continuation",
-      "target": "hyp_mena_30_60_mau"
+      "_src": "run_2026_05_07_continuation",
+      "_tgt": "hyp_mena_30_60_mau",
+      "source": "hyp_mena_30_60_mau",
+      "target": "run_2026_05_07_continuation"
     },
     {
       "relation": "shares_data_with",
@@ -4416,6 +5350,8 @@
       "source_file": "findings/raw/localization_audit.md",
       "source_location": null,
       "weight": 1.0,
+      "_src": "hyp_labyrinthos_machine_tr",
+      "_tgt": "fact_labyrinthos_v260_machine_tr",
       "source": "hyp_labyrinthos_machine_tr",
       "target": "fact_labyrinthos_v260_machine_tr"
     },
@@ -4426,6 +5362,8 @@
       "source_file": "findings/reports/run_ledger.md",
       "source_location": null,
       "weight": 1.0,
+      "_src": "hyp_cross_country_love8",
+      "_tgt": "metric_cross_country_count",
       "source": "hyp_cross_country_love8",
       "target": "metric_cross_country_count"
     },
@@ -4436,8 +5374,10 @@
       "source_file": "findings/reports/run_ledger.md",
       "source_location": null,
       "weight": 1.0,
-      "source": "run_2026_05_06",
-      "target": "hyp_cross_country_love8"
+      "_src": "run_2026_05_06",
+      "_tgt": "hyp_cross_country_love8",
+      "source": "hyp_cross_country_love8",
+      "target": "run_2026_05_06"
     },
     {
       "relation": "shares_data_with",
@@ -4446,6 +5386,8 @@
       "source_file": "findings/raw/competitor_revenues.md",
       "source_location": null,
       "weight": 1.0,
+      "_src": "hyp_sleep_cycle_anchor",
+      "_tgt": "fact_sleep_cycle_24_7m_arr",
       "source": "hyp_sleep_cycle_anchor",
       "target": "fact_sleep_cycle_24_7m_arr"
     },
@@ -4456,6 +5398,8 @@
       "source_file": "findings/raw/competitor_revenues.md",
       "source_location": null,
       "weight": 1.0,
+      "_src": "hyp_sleep_cycle_anchor",
+      "_tgt": "fact_sleep_cycle_2_25_mau",
       "source": "hyp_sleep_cycle_anchor",
       "target": "fact_sleep_cycle_2_25_mau"
     },
@@ -4466,6 +5410,8 @@
       "source_file": "findings/reports/directions.md",
       "source_location": null,
       "weight": 1.0,
+      "_src": "hyp_sleep_cycle_anchor",
+      "_tgt": "fact_couples_multiplier_revision",
       "source": "hyp_sleep_cycle_anchor",
       "target": "fact_couples_multiplier_revision"
     },
@@ -4476,6 +5422,8 @@
       "source_file": "findings/reports/run_ledger.md",
       "source_location": null,
       "weight": 1.0,
+      "_src": "hyp_trends_momentum",
+      "_tgt": "google_trends_api",
       "source": "hyp_trends_momentum",
       "target": "google_trends_api"
     },
@@ -4486,8 +5434,10 @@
       "source_file": "findings/reports/run_ledger.md",
       "source_location": null,
       "weight": 1.0,
-      "source": "run_2026_05_06",
-      "target": "hyp_trends_momentum"
+      "_src": "run_2026_05_06",
+      "_tgt": "hyp_trends_momentum",
+      "source": "hyp_trends_momentum",
+      "target": "run_2026_05_06"
     },
     {
       "relation": "rationale_for",
@@ -4496,6 +5446,8 @@
       "source_file": "findings/reports/run_ledger.md",
       "source_location": null,
       "weight": 1.0,
+      "_src": "hyp_revenue_dim_critical",
+      "_tgt": "phase_1_5_arpu",
       "source": "hyp_revenue_dim_critical",
       "target": "phase_1_5_arpu"
     },
@@ -4506,8 +5458,10 @@
       "source_file": "findings/reports/run_ledger.md",
       "source_location": null,
       "weight": 1.0,
-      "source": "run_2026_05_07_morning",
-      "target": "hyp_revenue_dim_critical"
+      "_src": "run_2026_05_07_morning",
+      "_tgt": "hyp_revenue_dim_critical",
+      "source": "hyp_revenue_dim_critical",
+      "target": "run_2026_05_07_morning"
     },
     {
       "relation": "rationale_for",
@@ -4516,6 +5470,8 @@
       "source_file": "findings/reports/run_ledger.md",
       "source_location": null,
       "weight": 1.0,
+      "_src": "hyp_cultural_risk_filter",
+      "_tgt": "metric_cultural_validation",
       "source": "hyp_cultural_risk_filter",
       "target": "metric_cultural_validation"
     },
@@ -4526,8 +5482,10 @@
       "source_file": "findings/reports/run_ledger.md",
       "source_location": null,
       "weight": 1.0,
-      "source": "run_2026_05_07_morning",
-      "target": "hyp_id_astrology_strong"
+      "_src": "run_2026_05_07_morning",
+      "_tgt": "hyp_id_astrology_strong",
+      "source": "hyp_id_astrology_strong",
+      "target": "run_2026_05_07_morning"
     },
     {
       "relation": "rationale_for",
@@ -4536,6 +5494,8 @@
       "source_file": "findings/reports/run_ledger.md",
       "source_location": null,
       "weight": 1.0,
+      "_src": "hyp_subjective_complete_stop",
+      "_tgt": "rule_no_subjective_stop",
       "source": "hyp_subjective_complete_stop",
       "target": "rule_no_subjective_stop"
     },
@@ -4546,8 +5506,10 @@
       "source_file": "findings/reports/run_ledger.md",
       "source_location": null,
       "weight": 1.0,
-      "source": "thesis_self_evolving_methodology",
-      "target": "phase_0_read_ledger"
+      "_src": "thesis_self_evolving_methodology",
+      "_tgt": "phase_0_read_ledger",
+      "source": "phase_0_read_ledger",
+      "target": "thesis_self_evolving_methodology"
     },
     {
       "relation": "references",
@@ -4556,6 +5518,8 @@
       "source_file": "findings/reports/directions.md",
       "source_location": null,
       "weight": 1.0,
+      "_src": "phase_1_5_arpu",
+      "_tgt": "metric_arpu",
       "source": "phase_1_5_arpu",
       "target": "metric_arpu"
     },
@@ -4566,6 +5530,8 @@
       "source_file": "findings/reports/directions.md",
       "source_location": null,
       "weight": 1.0,
+      "_src": "phase_1_5_arpu",
+      "_tgt": "metric_conversion_rate",
       "source": "phase_1_5_arpu",
       "target": "metric_conversion_rate"
     },
@@ -4576,6 +5542,8 @@
       "source_file": "findings/reports/directions.md",
       "source_location": null,
       "weight": 1.0,
+      "_src": "phase_1_5_arpu",
+      "_tgt": "metric_niche_multiplier",
       "source": "phase_1_5_arpu",
       "target": "metric_niche_multiplier"
     },
@@ -4586,8 +5554,10 @@
       "source_file": "findings/reports/run_ledger.md",
       "source_location": null,
       "weight": 1.0,
-      "source": "run_2026_05_07_morning",
-      "target": "phase_1_5_arpu"
+      "_src": "run_2026_05_07_morning",
+      "_tgt": "phase_1_5_arpu",
+      "source": "phase_1_5_arpu",
+      "target": "run_2026_05_07_morning"
     },
     {
       "relation": "references",
@@ -4596,8 +5566,10 @@
       "source_file": "findings/reports/run_ledger.md",
       "source_location": null,
       "weight": 0.9,
-      "source": "thesis_self_evolving_methodology",
-      "target": "phase_11_country_expand"
+      "_src": "thesis_self_evolving_methodology",
+      "_tgt": "phase_11_country_expand",
+      "source": "phase_11_country_expand",
+      "target": "thesis_self_evolving_methodology"
     },
     {
       "relation": "references",
@@ -4606,8 +5578,10 @@
       "source_file": "findings/reports/morning-briefing.md",
       "source_location": null,
       "weight": 0.9,
-      "source": "thesis_self_evolving_methodology",
-      "target": "phase_12_validate"
+      "_src": "thesis_self_evolving_methodology",
+      "_tgt": "phase_12_validate",
+      "source": "phase_12_validate",
+      "target": "thesis_self_evolving_methodology"
     },
     {
       "relation": "shares_data_with",
@@ -4616,6 +5590,8 @@
       "source_file": "findings/reports/directions.md",
       "source_location": null,
       "weight": 1.0,
+      "_src": "phase_14_ios",
+      "_tgt": "fact_sleep_cycle_has_tr",
       "source": "phase_14_ios",
       "target": "fact_sleep_cycle_has_tr"
     },
@@ -4626,8 +5602,10 @@
       "source_file": "findings/reports/run_ledger.md",
       "source_location": null,
       "weight": 1.0,
-      "source": "run_2026_05_07_morning",
-      "target": "phase_14_ios"
+      "_src": "run_2026_05_07_morning",
+      "_tgt": "phase_14_ios",
+      "source": "phase_14_ios",
+      "target": "run_2026_05_07_morning"
     },
     {
       "relation": "rationale_for",
@@ -4636,8 +5614,10 @@
       "source_file": "findings/reports/run_ledger.md",
       "source_location": null,
       "weight": 1.0,
-      "source": "run_2026_05_07_morning",
-      "target": "phase_15_founder"
+      "_src": "run_2026_05_07_morning",
+      "_tgt": "phase_15_founder",
+      "source": "phase_15_founder",
+      "target": "run_2026_05_07_morning"
     },
     {
       "relation": "rationale_for",
@@ -4646,8 +5626,10 @@
       "source_file": "findings/reports/run_ledger.md",
       "source_location": null,
       "weight": 1.0,
-      "source": "run_2026_05_07_continuation",
-      "target": "subagent_cultural_validation"
+      "_src": "run_2026_05_07_continuation",
+      "_tgt": "subagent_cultural_validation",
+      "source": "subagent_cultural_validation",
+      "target": "run_2026_05_07_continuation"
     },
     {
       "relation": "rationale_for",
@@ -4656,8 +5638,10 @@
       "source_file": "findings/reports/directions.md",
       "source_location": null,
       "weight": 1.0,
-      "source": "rule_cultural_mandatory",
-      "target": "subagent_cultural_validation"
+      "_src": "rule_cultural_mandatory",
+      "_tgt": "subagent_cultural_validation",
+      "source": "subagent_cultural_validation",
+      "target": "rule_cultural_mandatory"
     },
     {
       "relation": "shares_data_with",
@@ -4666,6 +5650,8 @@
       "source_file": "findings/raw/aso_keyword_volumes.md",
       "source_location": null,
       "weight": 1.0,
+      "_src": "subagent_aso_keyword",
+      "_tgt": "fact_faladdin_25m_users",
       "source": "subagent_aso_keyword",
       "target": "fact_faladdin_25m_users"
     },
@@ -4676,8 +5662,10 @@
       "source_file": "findings/raw/market_economics.md",
       "source_location": null,
       "weight": 1.0,
-      "source": "metric_dollar_per_mau",
-      "target": "metric_arpu"
+      "_src": "metric_dollar_per_mau",
+      "_tgt": "metric_arpu",
+      "source": "metric_arpu",
+      "target": "metric_dollar_per_mau"
     },
     {
       "relation": "shares_data_with",
@@ -4686,8 +5674,10 @@
       "source_file": "findings/raw/market_economics.md",
       "source_location": null,
       "weight": 1.0,
-      "source": "metric_dollar_per_mau",
-      "target": "metric_conversion_rate"
+      "_src": "metric_dollar_per_mau",
+      "_tgt": "metric_conversion_rate",
+      "source": "metric_conversion_rate",
+      "target": "metric_dollar_per_mau"
     },
     {
       "relation": "shares_data_with",
@@ -4696,8 +5686,10 @@
       "source_file": "findings/raw/market_economics.md",
       "source_location": null,
       "weight": 1.0,
-      "source": "metric_dollar_per_mau",
-      "target": "metric_niche_multiplier"
+      "_src": "metric_dollar_per_mau",
+      "_tgt": "metric_niche_multiplier",
+      "source": "metric_niche_multiplier",
+      "target": "metric_dollar_per_mau"
     },
     {
       "relation": "shares_data_with",
@@ -4706,8 +5698,10 @@
       "source_file": "findings/reports/directions.md",
       "source_location": null,
       "weight": 1.0,
-      "source": "metric_composite_score",
-      "target": "metric_dollar_per_mau"
+      "_src": "metric_composite_score",
+      "_tgt": "metric_dollar_per_mau",
+      "source": "metric_dollar_per_mau",
+      "target": "metric_composite_score"
     },
     {
       "relation": "shares_data_with",
@@ -4716,8 +5710,10 @@
       "source_file": "findings/reports/morning-briefing.md",
       "source_location": null,
       "weight": 1.0,
-      "source": "thesis_revenue_x_vulnerability",
-      "target": "metric_dollar_per_mau"
+      "_src": "thesis_revenue_x_vulnerability",
+      "_tgt": "metric_dollar_per_mau",
+      "source": "metric_dollar_per_mau",
+      "target": "thesis_revenue_x_vulnerability"
     },
     {
       "relation": "conceptually_related_to",
@@ -4726,8 +5722,10 @@
       "source_file": "findings/reports/directions.md",
       "source_location": null,
       "weight": 0.8,
-      "source": "thesis_lifetime_unlock",
-      "target": "metric_dollar_per_mau"
+      "_src": "thesis_lifetime_unlock",
+      "_tgt": "metric_dollar_per_mau",
+      "source": "metric_dollar_per_mau",
+      "target": "thesis_lifetime_unlock"
     },
     {
       "relation": "shares_data_with",
@@ -4736,8 +5734,10 @@
       "source_file": "findings/reports/FINAL_VERDICT.txt",
       "source_location": null,
       "weight": 1.0,
-      "source": "metric_composite_score",
-      "target": "metric_one_star_pct"
+      "_src": "metric_composite_score",
+      "_tgt": "metric_one_star_pct",
+      "source": "metric_one_star_pct",
+      "target": "metric_composite_score"
     },
     {
       "relation": "shares_data_with",
@@ -4746,8 +5746,10 @@
       "source_file": "findings/reports/FINAL_VERDICT.txt",
       "source_location": null,
       "weight": 1.0,
-      "source": "metric_composite_score",
-      "target": "metric_low_pct"
+      "_src": "metric_composite_score",
+      "_tgt": "metric_low_pct",
+      "source": "metric_low_pct",
+      "target": "metric_composite_score"
     },
     {
       "relation": "shares_data_with",
@@ -4756,6 +5758,8 @@
       "source_file": "findings/reports/FINAL_VERDICT.txt",
       "source_location": null,
       "weight": 1.0,
+      "_src": "metric_composite_score",
+      "_tgt": "metric_tiktok_likes",
       "source": "metric_composite_score",
       "target": "metric_tiktok_likes"
     },
@@ -4766,8 +5770,10 @@
       "source_file": "findings/reports/morning-briefing.md",
       "source_location": null,
       "weight": 1.0,
-      "source": "thesis_revenue_x_vulnerability",
-      "target": "metric_composite_score"
+      "_src": "thesis_revenue_x_vulnerability",
+      "_tgt": "metric_composite_score",
+      "source": "metric_composite_score",
+      "target": "thesis_revenue_x_vulnerability"
     },
     {
       "relation": "rationale_for",
@@ -4776,8 +5782,10 @@
       "source_file": "findings/reports/directions.md",
       "source_location": null,
       "weight": 1.0,
-      "source": "rule_cultural_mandatory",
-      "target": "metric_cultural_validation"
+      "_src": "rule_cultural_mandatory",
+      "_tgt": "metric_cultural_validation",
+      "source": "metric_cultural_validation",
+      "target": "rule_cultural_mandatory"
     },
     {
       "relation": "shares_data_with",
@@ -4786,8 +5794,10 @@
       "source_file": "findings/raw/play-store/competitor_backgrounds.md",
       "source_location": null,
       "weight": 0.85,
-      "source": "displacement_medium_love8",
-      "target": "metric_founder_responsiveness"
+      "_src": "displacement_medium_love8",
+      "_tgt": "metric_founder_responsiveness",
+      "source": "metric_founder_responsiveness",
+      "target": "displacement_medium_love8"
     },
     {
       "relation": "rationale_for",
@@ -4796,8 +5806,10 @@
       "source_file": "findings/raw/localization_audit.md",
       "source_location": null,
       "weight": 1.0,
-      "source": "thesis_language_gap",
-      "target": "fact_labyrinthos_v260_machine_tr"
+      "_src": "thesis_language_gap",
+      "_tgt": "fact_labyrinthos_v260_machine_tr",
+      "source": "fact_labyrinthos_v260_machine_tr",
+      "target": "thesis_language_gap"
     },
     {
       "relation": "rationale_for",
@@ -4806,6 +5818,8 @@
       "source_file": "findings/raw/localization_audit.md",
       "source_location": null,
       "weight": 1.0,
+      "_src": "fact_buzzarab_msa_only",
+      "_tgt": "thesis_dialect_native_arabic",
       "source": "fact_buzzarab_msa_only",
       "target": "thesis_dialect_native_arabic"
     },
@@ -4816,8 +5830,10 @@
       "source_file": "findings/raw/localization_audit.md",
       "source_location": null,
       "weight": 1.0,
-      "source": "thesis_language_gap",
-      "target": "fact_buzzarab_msa_only"
+      "_src": "thesis_language_gap",
+      "_tgt": "fact_buzzarab_msa_only",
+      "source": "fact_buzzarab_msa_only",
+      "target": "thesis_language_gap"
     },
     {
       "relation": "conceptually_related_to",
@@ -4826,8 +5842,10 @@
       "source_file": "findings/raw/localization_audit.md",
       "source_location": null,
       "weight": 1.0,
-      "source": "thesis_language_gap",
-      "target": "fact_sleep_cycle_has_tr"
+      "_src": "thesis_language_gap",
+      "_tgt": "fact_sleep_cycle_has_tr",
+      "source": "fact_sleep_cycle_has_tr",
+      "target": "thesis_language_gap"
     },
     {
       "relation": "rationale_for",
@@ -4836,8 +5854,10 @@
       "source_file": "findings/reports/morning-briefing.md",
       "source_location": null,
       "weight": 1.0,
-      "source": "thesis_whale_market_sa_ae",
-      "target": "fact_sa_393_arpu"
+      "_src": "thesis_whale_market_sa_ae",
+      "_tgt": "fact_sa_393_arpu",
+      "source": "fact_sa_393_arpu",
+      "target": "thesis_whale_market_sa_ae"
     },
     {
       "relation": "rationale_for",
@@ -4846,8 +5866,10 @@
       "source_file": "findings/reports/directions.md",
       "source_location": null,
       "weight": 1.0,
-      "source": "thesis_anti_tracking",
-      "target": "fact_love8_580kmh_quote"
+      "_src": "thesis_anti_tracking",
+      "_tgt": "fact_love8_580kmh_quote",
+      "source": "fact_love8_580kmh_quote",
+      "target": "thesis_anti_tracking"
     },
     {
       "relation": "rationale_for",
@@ -4856,8 +5878,10 @@
       "source_file": "findings/reports/directions.md",
       "source_location": null,
       "weight": 0.9,
-      "source": "thesis_anti_tracking",
-      "target": "fact_aplicativo_discordia"
+      "_src": "thesis_anti_tracking",
+      "_tgt": "fact_aplicativo_discordia",
+      "source": "fact_aplicativo_discordia",
+      "target": "thesis_anti_tracking"
     },
     {
       "relation": "references",
@@ -4866,6 +5890,8 @@
       "source_file": "findings/raw/market_economics.md",
       "source_location": null,
       "weight": 1.0,
+      "_src": "fact_revenuecat_1_7_pct",
+      "_tgt": "revenuecat_sosa",
       "source": "fact_revenuecat_1_7_pct",
       "target": "revenuecat_sosa"
     },
@@ -4876,6 +5902,8 @@
       "source_file": "findings/reports/morning-briefing.md",
       "source_location": null,
       "weight": 1.0,
+      "_src": "thesis_self_evolving_methodology",
+      "_tgt": "memory_system",
       "source": "thesis_self_evolving_methodology",
       "target": "memory_system"
     },
@@ -4886,8 +5914,10 @@
       "source_file": "findings/reports/run_ledger.md",
       "source_location": null,
       "weight": 1.0,
-      "source": "rule_no_subjective_stop",
-      "target": "run_2026_05_07_continuation"
+      "_src": "rule_no_subjective_stop",
+      "_tgt": "run_2026_05_07_continuation",
+      "source": "run_2026_05_07_continuation",
+      "target": "rule_no_subjective_stop"
     },
     {
       "relation": "references",
@@ -4896,6 +5926,8 @@
       "source_file": "findings/reports/morning-briefing.md",
       "source_location": null,
       "weight": 1.0,
+      "_src": "memory_system",
+      "_tgt": "feedback_methodology_md",
       "source": "memory_system",
       "target": "feedback_methodology_md"
     },
@@ -4906,6 +5938,8 @@
       "source_file": "findings/reports/morning-briefing.md",
       "source_location": null,
       "weight": 1.0,
+      "_src": "memory_system",
+      "_tgt": "rule_hours_target",
       "source": "memory_system",
       "target": "rule_hours_target"
     },
@@ -4916,6 +5950,8 @@
       "source_file": "findings/reports/run_ledger.md",
       "source_location": null,
       "weight": 1.0,
+      "_src": "memory_system",
+      "_tgt": "rule_no_subjective_stop",
       "source": "memory_system",
       "target": "rule_no_subjective_stop"
     }
@@ -5070,6 +6106,5 @@
       "confidence_score": 0.92,
       "source_file": "findings/reports/morning-briefing.md"
     }
-  ],
-  "built_at_commit": "3ce3f5e1ee1d9247291ef1624f5d55311518a583"
+  ]
 }

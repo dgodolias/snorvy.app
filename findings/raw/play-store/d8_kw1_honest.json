@@ -1,0 +1,318 @@
+[
+  {
+    "appId": "com.northcube.sleepcycle",
+    "title": "Sleep Cycle: Sleep Tracker",
+    "developer": "Sleep Cycle AB",
+    "score": 4.2145014,
+    "scoreText": "4.2",
+    "free": false,
+    "price": null,
+    "summary": "Smart alarm clock &amp; sleep recorder. Sleep sounds &amp; white noise for better sleep",
+    "icon": "https://play-lh.googleusercontent.com/dar3zPlTbJYfHtH0hG4WOOK28ujJTj5kz51SwDuZc-HrmSgjZyavEDY_k4jmiJ9QwFo"
+  },
+  {
+    "appId": "sleeptrakcer.sleeprecorder.sleepapp.sleep",
+    "title": "Sleep Tracker & Recorder: Yawn",
+    "developer": "Leap Fitness Group",
+    "score": 4.3814044,
+    "scoreText": "4.4",
+    "free": false,
+    "price": null,
+    "summary": "Track sleep cycle &amp; snoring, relaxing sounds for better sleep, wake up refreshed",
+    "icon": "https://play-lh.googleusercontent.com/Y8jDxpjJfJLc25dGc9UC41hJ8Eq9NIwRUND9uDfLnHCSt2KMMiwdULdtxBSDiTKt1Rl6b1KASn4GFgklHjSXag"
+  },
+  {
+    "appId": "health.sleep.sounds.tracker.alarm.calm",
+    "title": "ShutEye®: Sleep Tracker",
+    "developer": "ENERJOY PTE. LTD.",
+    "score": 4.31,
+    "scoreText": "4.3",
+    "free": false,
+    "price": null,
+    "summary": "Sleep tracker : Snoring monitor for better sleep.",
+    "icon": "https://play-lh.googleusercontent.com/sx7LQO3-1xJFDBnck8F37xZxdAKxv5aUFElDVolkSjkSu53VxlWJ4gwGpSkKa2fLOCc"
+  },
+  {
+    "appId": "com.sleepmonitor.aio",
+    "title": "Sleep Monitor - Schlaftracker",
+    "developer": "Fasting APP Group",
+    "score": 4.6144757,
+    "scoreText": "4.6",
+    "free": false,
+    "price": null,
+    "summary": "Verfolgen, aufzeichnen und analysieren Sie den Schlaf.",
+    "icon": "https://play-lh.googleusercontent.com/g_OmW4dmCPQTfAf-oFd4G5-pVRisZSZ0-4l80IiQ5y_sTWVN_GEnbxD2yCNsAp0PCA"
+  },
+  {
+    "appId": "com.apirox.sleeprecorder",
+    "title": "Sleep Tracker & Sleep Recorder",
+    "developer": "Apirox, s.r.o.",
+    "score": 4.6633663,
+    "scoreText": "4.7",
+    "free": false,
+    "price": null,
+    "summary": "Analyze snoring, talking, sounds, and more. Track your night like never before!",
+    "icon": "https://play-lh.googleusercontent.com/Gtf08jg0xSwPo-E1Xr1k4Hm0y6WOz-DLz93o7FpCt8U8CSJiS6b0UNdcA67JLm2guDw"
+  },
+  {
+    "appId": "ipnossoft.rma.free",
+    "title": "BetterSleep: Sleep tracker",
+    "developer": "BetterSleep Health",
+    "score": 3.9388146,
+    "scoreText": "3.9",
+    "free": false,
+    "price": null,
+    "summary": "Relax to calm sounds, white noise, music, guided meditation and bedtime stories",
+    "icon": "https://play-lh.googleusercontent.com/snWb0KyG-EkpMR77wqSTqDAXMlNlKDBV6MAOhuqnkDqrSwYboa39qSruxk3UdozXN6s"
+  },
+  {
+    "appId": "com.risesci.nyx",
+    "title": "RISE: Sleep Tracker",
+    "developer": "Rise Science",
+    "score": 3.45,
+    "scoreText": "3.5",
+    "free": false,
+    "price": null,
+    "summary": "Track your sleep cycle, reduce sleep debt, and boost your energy with RISE",
+    "icon": "https://play-lh.googleusercontent.com/u0HYhfJR83Aau1qWAlkE1yYgf-9fjfdkTLd0KcmyJDReeBmd3Q2MvuB4NIcBs_WjWg"
+  },
+  {
+    "appId": "com.visionwizard.sleeptrack",
+    "title": "Sleep Tracker & Sound by Remly",
+    "developer": "Deep Flow Apps",
+    "score": 4.0873785,
+    "scoreText": "4.1",
+    "free": false,
+    "price": null,
+    "summary": "Track Your Sleep &amp; Record your Snore. Meditate, Relax &amp; Sleep with White Noise!",
+    "icon": "https://play-lh.googleusercontent.com/PpumVAU_ITJE09Kai-yurzYiVNo0g-ajnBYc3I37I9lsojxRGBOKJrMEnQYlt_eZ-g"
+  },
+  {
+    "appId": "io.bodymatter.sleepwatch.android",
+    "title": "Sleep Watch - Sleep Tracker",
+    "developer": "Bodymatter",
+    "free": false,
+    "price": null,
+    "summary": "The ultimate way to understand and improve your sleep.",
+    "icon": "https://play-lh.googleusercontent.com/kNDtGoLne7jZRhFVjsWVt8tVvb3JYHIFBGSX0dVyNOeHxpFKFRB1aW8JEPr0DHfAQg"
+  },
+  {
+    "appId": "easy.sleep.tracker2",
+    "title": "Sleep Tracker - Sleep Cycle",
+    "developer": "AllThatMsg",
+    "score": 0,
+    "scoreText": "0.0",
+    "free": false,
+    "price": null,
+    "summary": "Sleep Tracker is a sleep cycle monitor and provides snoring recording function.",
+    "icon": "https://play-lh.googleusercontent.com/plaYk1sm2Lv7RxiKQKV0UdHzg2A6UClMe0bIzL2tuMytLLz2wgXt5R9vYk21yegqx7I"
+  },
+  {
+    "appId": "com.urbandroid.sleep",
+    "title": "Sleep as Android: Smart alarm",
+    "developer": "Petr Nálevka (Urbandroid)",
+    "score": 4.4910264,
+    "scoreText": "4.5",
+    "free": false,
+    "price": null,
+    "summary": "Track your sleep cycle and wake up gently with nature sounds in optimal phase",
+    "icon": "https://play-lh.googleusercontent.com/8T390CJk1L29Cq3POAzSCHhxYg7AqUCKam8xSHc-sEtIL5RQNVv77ZzKFbMU3pXFFA4"
+  },
+  {
+    "appId": "com.sleep.sleeptracker.sleepsounds.sleepcycle",
+    "title": "Sleep Tracker & Alarm - Moonap",
+    "developer": "CodeSculptors",
+    "score": 4.375,
+    "scoreText": "4.4",
+    "free": false,
+    "price": null,
+    "summary": "Sleep &amp; snore recorder: sleep sounds machine with white noise, sleep cycle alarm",
+    "icon": "https://play-lh.googleusercontent.com/0ZUrdoNBJMxhXUqiM-ttbMxNYoWafGqVP4AzenyddKWxSazFAFbE2swTWjnyrlkpXyns"
+  },
+  {
+    "appId": "com.dream.sleep",
+    "title": "Sleep Pilot - Sleep Tracker",
+    "developer": "Sleep Pilot Technology Co., Ltd.",
+    "score": 3.952381,
+    "scoreText": "4.0",
+    "free": false,
+    "price": null,
+    "summary": "Sleep Recorder, Talk &amp; Cycle",
+    "icon": "https://play-lh.googleusercontent.com/LP0S_T4zjRFEa3T_DgWb1k3hU88T0ZXUwDV1W1t14L2DiYyb_7CaR6hA7YoXxMxLg5o"
+  },
+  {
+    "appId": "com.sleep.snore.insomnia",
+    "title": "Sleep Tracker: Sleep Cycle",
+    "developer": "Fasting APP Group",
+    "score": 3.63,
+    "scoreText": "3.6",
+    "free": false,
+    "price": null,
+    "summary": "Track and analyze your sleep pattern for better sleep.",
+    "icon": "https://play-lh.googleusercontent.com/mJHsC4tSq-_cqVaGVXjQnCW2RcAwnBiatjodCQfba_DfOlu3NmUFc1gWfKxM_OTJgQ"
+  },
+  {
+    "appId": "com.sleepmonitoring.sleep.tracker.alarm",
+    "title": "Sleep Tracker: Relaxing Sounds",
+    "developer": "MUNO.VN",
+    "free": false,
+    "price": null,
+    "summary": "Complete snore tracker &amp; sleep monitor - a sounds machine for sleep music",
+    "icon": "https://play-lh.googleusercontent.com/G0Ww5IyI81EizBZhm8cEfNFl9Tkdj5CYk8dOrQ5eQUOziYTA4LI7flz0KPk3PMfK9aEUHek5OuXLJBbib3qD"
+  },
+  {
+    "appId": "com.sleepscore.drive",
+    "title": "SleepScore™",
+    "developer": "SleepScore Labs",
+    "score": 3.7857144,
+    "scoreText": "3.8",
+    "free": false,
+    "price": null,
+    "summary": "SleepScore is the world’s most advanced sleep improvement platform.",
+    "icon": "https://play-lh.googleusercontent.com/AEGN6kFqRL64rWtj7Tw5efBYI41onTpGKFmalrkOswbn2VnHQNjoRQgNXCptdk__a6s"
+  },
+  {
+    "appId": "com.app.sleepmonitor.sleepingsound",
+    "title": "Sleep Tracker : Sleep Sounds",
+    "developer": "Quantam Leaps",
+    "free": false,
+    "price": null,
+    "summary": "Sleep Tracker: Sleep Sounds let you Fall Asleep Faster, Wake Up Refreshed",
+    "icon": "https://play-lh.googleusercontent.com/J3UGjJqsWvJCYRZupb6qhy-OLrCaLJikQ_pZWM-eeLU0LjX-owrPOw2_fZyDmmKvWXrnKU134_YqdmH8_gGN"
+  },
+  {
+    "appId": "com.sleep.sleeptracker.sleeprecorder.sleepcycle",
+    "title": "Sleep Tracker and Sleep Cycle",
+    "developer": "Fit Health Inc.",
+    "score": 4,
+    "scoreText": "4.0",
+    "free": false,
+    "price": null,
+    "summary": "Sleep tracker, snore recorder, sleep cycle and relax melodies to fall sleep fast",
+    "icon": "https://play-lh.googleusercontent.com/TNUujFPmXJlvCyZvSt0rocvS-69JRMpuT0yUhX74V_9_Z28kz8ML3SbELF4rZxxoyX3a"
+  },
+  {
+    "appId": "com.sleep.monitoring.sleepcycle.sleepmonito",
+    "title": "Sleep Cycle - Sleep Tracker",
+    "developer": "Heathcare Daily",
+    "score": 2.5,
+    "scoreText": "2.5",
+    "free": false,
+    "price": null,
+    "summary": "Improve sleep quality with white noise, soothing sleep sounds and sleep monitor",
+    "icon": "https://play-lh.googleusercontent.com/DFqaI_XwA7zZGlRUp6Z3bZxoClrNeQiH8yQl1pXXjdwLG0C4IIPCFjKabcSUhhowckQ"
+  },
+  {
+    "appId": "com.mattressfirm.sleepapp",
+    "title": "Sleep.com: Sleep Cycle Tracker",
+    "developer": "Mattress Firm",
+    "free": false,
+    "price": null,
+    "summary": "Sleep Sounds, Sleep Stages, Sleep Cycle Analysis, Sleep Help, Alarm Clock &amp; More",
+    "icon": "https://play-lh.googleusercontent.com/MoCbiDyH-VcIx5t0MHUcQS7sG5hOAWaymVwyfy6RJLGzYrE9vogUAHtM60rn9k4x0w"
+  },
+  {
+    "appId": "com.sleepkey.android",
+    "title": "Sleep Key - Tracker, Sound",
+    "developer": "WAQTO LLC",
+    "free": false,
+    "price": null,
+    "summary": "Stop waking up tired. Sleep Key is the intelligent sleep tracker.",
+    "icon": "https://play-lh.googleusercontent.com/Qw8gYIBNGGsqkb4354ykKINWgGFX82ZlhAF72ZallaxVLqPxIr2VCxIusTtySnOknyairD0LCwGpV5J_g_FrrTI"
+  },
+  {
+    "appId": "com.meiyinet.sleeptracker",
+    "title": "Sleep tracking A sleep aid",
+    "developer": "ShenZhen Meiyinet Technology Co.,Ltd",
+    "free": false,
+    "price": null,
+    "summary": "Autosleep: Sleep Tracker is a powerful sleep monitoring app",
+    "icon": "https://play-lh.googleusercontent.com/_v-2FF2xid13QjqTi_snE3dA3gnsT9ddXY2OizcrcRHFR9sA3P3K7R6uYtcBtQqbKstzijATN_jTiRYcD_AWHHY"
+  },
+  {
+    "appId": "com.bestsleeptrack.clockapp",
+    "title": "BestSleep:Snore Tracker App",
+    "developer": "lJX.Studio",
+    "score": 0,
+    "scoreText": "0.0",
+    "free": false,
+    "price": null,
+    "summary": "Sleep Tracker: Snore Monitor, Sleep Talk Recorder, Relax with Music &amp; Meditation",
+    "icon": "https://play-lh.googleusercontent.com/jebvCwJrKpTHwJPp1X4JwB62iKJm8NimwnAZUnhVBAfaaXaBHmu9gQtN2UOimmHlX5M"
+  },
+  {
+    "appId": "com.getsomeheadspace.android",
+    "title": "Headspace Meditate Sleep Relax",
+    "developer": "Headspace for Meditation, Mindfulness and Sleep",
+    "score": 4.070784,
+    "scoreText": "4.1",
+    "free": false,
+    "price": null,
+    "summary": "Meditation and mindfulness for sleep, anxiety relief, stress and relaxation",
+    "icon": "https://play-lh.googleusercontent.com/uAZcbs5DzG8xKGHt6bTPXtnvtc9zlwr-JbB53Um7cD8LKRTA8Ek1sO6EiUoHLpWNWw"
+  },
+  {
+    "appId": "com.appstronautstudios.sleeptracker",
+    "title": "Sleep Tracker - Log & Analyze",
+    "developer": "Appstronaut Studios",
+    "score": 0,
+    "scoreText": "0.0",
+    "free": false,
+    "price": null,
+    "summary": "Easily track and analyze your sleep cycle, sleep quality, and insomnia symptoms.",
+    "icon": "https://play-lh.googleusercontent.com/eFasLDseF-sIowvwNH_hpPHLkSGXfLRmrLHpWpmuny4QAmWuwRwmvkho-QM0WIuk3xnaQLoCNLMne-qiqU3idw"
+  },
+  {
+    "appId": "jp.pokemon.pokemonsleep",
+    "title": "Pokémon Sleep",
+    "developer": "The Pokémon Company",
+    "score": 4.10989,
+    "scoreText": "4.1",
+    "free": false,
+    "price": null,
+    "summary": "Track your sleep with a smart device to discover adorable Pokémon sleep styles!",
+    "icon": "https://play-lh.googleusercontent.com/rryvrQRLNdQAsypjB4_wHlwu_GY5C_TRIT6mMPOJ70b4gTiaA2sgCIHCMfDj9gDqyg"
+  },
+  {
+    "appId": "com.appsci.sleep",
+    "title": "Avrora Sleep Sounds & Stories",
+    "developer": "SLOLIFE",
+    "score": 2.5643563,
+    "scoreText": "2.6",
+    "free": false,
+    "price": null,
+    "summary": "Track snoring, mindfulness music, sounds, white noise &amp; stories, better shut eye",
+    "icon": "https://play-lh.googleusercontent.com/IDvj8WbJBVeiCGtT_lZb6EEH8dDDxVGBUCdOLkWBT_5pzXQB4nSPrSlizut8VRzxun4"
+  },
+  {
+    "appId": "fm.slumber.sleep.meditation.stories",
+    "title": "Slumber: Fall Asleep, Insomnia",
+    "developer": "Slumber Studios",
+    "score": 3.7727273,
+    "scoreText": "3.8",
+    "free": false,
+    "price": null,
+    "summary": "Unwind to bedtime stories, sleep meditations, white noise &amp; sleep sounds",
+    "icon": "https://play-lh.googleusercontent.com/RJAIQBIYLlgMtTPYa3vUK-5Q7RM4XzOSdIq4_gTYpKMPOyT6KQn9KNoW--Rp22JxzBFfsdLwrqm-BOJscDyH9KM"
+  },
+  {
+    "appId": "com.calm.android",
+    "title": "Calm - Sleep, Meditate, Relax",
+    "developer": "Calm.com, Inc.",
+    "score": 4.0698004,
+    "scoreText": "4.1",
+    "free": false,
+    "price": null,
+    "summary": "Tackle everyday stress and anxiety. Self-care and sound sleep through meditation",
+    "icon": "https://play-lh.googleusercontent.com/S76GphUu2pZa249td2Bb4XAhLcPRrFdL1zp_5qU1ouukvRq9r0-8jJ-CruaTtdT6g84"
+  },
+  {
+    "appId": "sleep.dream.meditation",
+    "title": "Sleep Tracker & Cycle : Dirim",
+    "developer": "CINAR",
+    "free": false,
+    "price": null,
+    "summary": "Sleep recorder, lucid dream guide, and relaxing meditation for insomnia.",
+    "icon": "https://play-lh.googleusercontent.com/YI-eqWuSGjdrbDuzIyZ7XpXRxEVOQjxtumzH3u9FXxhMlpmiGr6kfkiMkaAU9ylAe3h7JyGYTaqtwzO8LM--"
+  }
+]

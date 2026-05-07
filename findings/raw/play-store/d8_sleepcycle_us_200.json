@@ -1,0 +1,2008 @@
+{
+  "app": "com.northcube.sleepcycle",
+  "country": "us",
+  "total_pulled": 200,
+  "total_after_filter": 200,
+  "reviews": [
+    {
+      "date": "2026-05-06T04:37:13.308Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Demian Gaxiola",
+      "text": "la experiencia gratuita es demasiado limitada",
+      "reply": "Hi there! Our free version works perfectly if you want to track your sleep in a more simple manner! You can read more about all the free features here! https://support.sleepcycle.com/hc/en-us/articles/206704909-Sleep-Cycle-Freemium-vs-Premium-Features",
+      "replyDate": "2026-05-07T13:02:01.601Z",
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=741a382b-c462-4a90-89e7-49d2ee8b1a34"
+    },
+    {
+      "date": "2026-04-26T21:24:11.853Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Bibi G.",
+      "text": "First night I was impressed. Caught my sleep talking and snoring. But then, It stopped recording. There is no audio available for the last two nights.",
+      "reply": "Hi there! It sounds like there might be something disturbing the tracking here! If you contact us at Support@sleepcycle.com we can help you take a closer look at what might be causing this!",
+      "replyDate": "2026-04-29T08:24:13.453Z",
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=4d02293d-9134-466e-8354-d08b6ba198bd"
+    },
+    {
+      "date": "2026-04-19T21:09:43.368Z",
+      "score": 4,
+      "thumbsUp": 1,
+      "user": "Annie Deng",
+      "text": "The sleep journals and Smart Wake-up features are very useful. However, it would be great to have the option to manually adjust the final 'get-up' time. Currently, if I turn off the alarm but stay in bed for a while, the data doesn't reflect when I actually started my day. Adding a 'Get Up Time' field to the journal would be an excellent indicator for better accuracy.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=8c16e230-ac05-4abf-bcc2-5e75fdf35bc0"
+    },
+    {
+      "date": "2026-04-18T17:41:27.427Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Demon",
+      "text": "google.. login",
+      "reply": "Hi there! We understand that not everyone wants to commit to an account and we respect that. The reason we ask for this is if we don’t know who you are, we can’t give you our best support and assistance if something’s not working. When you sign up, you secure your data, use of the product and you also allow us to provide you with better help.",
+      "replyDate": "2026-04-29T08:31:21.781Z",
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=ee46fb3e-b185-40f1-bd0d-a2b1b85cffdd"
+    },
+    {
+      "date": "2026-04-17T11:17:48.770Z",
+      "score": 3,
+      "thumbsUp": 1,
+      "user": "Edvards L",
+      "text": "after an update the app doesn't record everything. ive had the situation when it miss the obvious sleeping disruption noises and never record and saved them.",
+      "reply": "Hi there! Please reach out to us at Support@sleepcycle.com so we can take a closer look at this!",
+      "replyDate": "2026-04-29T08:32:16.465Z",
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=95fd56da-3ac9-46a8-8f3f-0ab8901a32d3"
+    },
+    {
+      "date": "2026-04-17T02:20:48.255Z",
+      "score": 2,
+      "thumbsUp": 1,
+      "user": "Eli Houk",
+      "text": "all fun features require $33 annually. absurd.",
+      "reply": "Hi there! Our free version works perfectly if you want to track your sleep in a more simple manner! You can read more about all the free features here! https://support.sleepcycle.com/hc/en-us/articles/206704909-Sleep-Cycle-Freemium-vs-Premium-Features",
+      "replyDate": "2026-04-29T08:31:40.287Z",
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=130b3446-f893-4ebd-8c10-90a51a248ac4"
+    },
+    {
+      "date": "2026-04-14T16:56:07.386Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Adam Wood",
+      "text": "Didn't provide any information of value, then charged my account.",
+      "reply": "Hi there! If you forgot to cancel your trial here is some information on how to request a refund! https://support.sleepcycle.com/hc/en-us/articles/360008140193-How-do-I-claim-a-refund-",
+      "replyDate": "2026-04-29T08:25:38.184Z",
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=3515034d-4d15-40a9-87c2-f5d6ed9b2599"
+    },
+    {
+      "date": "2026-04-13T23:58:25.761Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Brittanie Blake",
+      "text": "I canceled my trial, and was still charged for a yearly premium subscription. would not recommend.",
+      "reply": "Hi there! If you forgot to cancel your trial here is some information on how to request a refund! https://support.sleepcycle.com/hc/en-us/articles/360008140193-How-do-I-claim-a-refund-",
+      "replyDate": "2026-04-29T08:24:30.976Z",
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=b542ce4a-7753-4435-ac34-e8051217b0f1"
+    },
+    {
+      "date": "2026-04-08T12:45:34.637Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "TheProblemChild",
+      "text": "A+",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=eaf25cbb-0526-429a-a494-a1ef63293496"
+    },
+    {
+      "date": "2026-04-08T03:41:24.496Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "amira Ahmed",
+      "text": "♥️🤝🏻",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=47eaf1d8-5dce-4f29-83a5-17e9c786b058"
+    },
+    {
+      "date": "2026-04-06T04:51:22.978Z",
+      "score": 3,
+      "thumbsUp": 17,
+      "user": "Varun Sharma",
+      "text": "I used to love this app but when I clicked the restore purchase button to get access to premium it doesn't recognize it. they won't restoree my purchase. I paid back in 2015 and loved it but now it doesn't recognize that I ever purchased anything. kind of shitry way to treat early adopters and believers.",
+      "reply": "Hi there! Please reach out to us at Support@sleepcycle.com so we can take a closer look at this!",
+      "replyDate": "2026-04-15T11:58:05.558Z",
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=a20d6641-6a20-42b0-b7ab-a94d000d33e9"
+    },
+    {
+      "date": "2026-04-05T22:30:32.495Z",
+      "score": 5,
+      "thumbsUp": 8,
+      "user": "Matthew Schwartz",
+      "text": "this app WAS fine for years until you whackjobs decided that smart alarm would now be a premium feature, but that I could keep it for free if I logged in. So I did, and it turns out it's not free! It's still locked behind a paywall. Did I just hand some random company my health data on false promises? EDIT: it's back to how it was originally. Thank you Sleep Cycle for listening. 5 stars for now.",
+      "reply": "Hi there! We're delighted to hear that our app is meeting your expectations! Thanks for the positive review!",
+      "replyDate": "2026-04-15T11:57:43.662Z",
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=51f3ccc3-a30b-4a0c-a557-495c3d55506f"
+    },
+    {
+      "date": "2026-04-05T21:50:13.768Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Ishit",
+      "text": "Best app i ever discovered.... It not only presents me with statistics but also manages the wake up alarm through its Light sleep detection.. Just a chef's kiss ..",
+      "reply": "Hi there! We're delighted to hear that our app is meeting your expectations! Thanks for the positive review!",
+      "replyDate": "2026-04-15T11:56:29.437Z",
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=58406536-1b12-47fd-a558-53073a02fd6a"
+    },
+    {
+      "date": "2026-04-05T19:55:44.388Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "DazednConfused",
+      "text": "Completely disappointed after purchasing this app. It shows me constantly sleeping throughout the night, even though I know I was awake to use the bathroom and let the dog out. my watch tracks me being awake during those periods, but this app shows no movement or noise. Yes I have the permission on for microphone and have turned on the sensors in the watch app. So disappointed with this purchase.",
+      "reply": "Hi there! If your graph shows a straight line there is something disturbing the tracking! If you contact us at Support@sleepcycle.com we can help you take a closer look!",
+      "replyDate": "2026-04-15T11:55:59.320Z",
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=f1dc0624-77fb-45f5-88fd-052199347fa8"
+    },
+    {
+      "date": "2026-04-04T20:00:32.652Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Adil Mushtaq",
+      "text": "it doesn't work when the fan or ac is on, in middle east and asia we have long summer hence ac and fans at night are common so it should work accordingly. i want refund",
+      "reply": "Hi there! Please reach out to us at Support@sleepcycle.com so we can take a closer look at this!",
+      "replyDate": "2026-04-15T11:55:37.460Z",
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=bf5cdc29-3b08-4094-b3ea-1dbf8b9d7a1c"
+    },
+    {
+      "date": "2026-03-31T06:26:09.687Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Aya Aitaini",
+      "text": "😾",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=12f80b52-134e-4b0b-b9ee-bdd63def244e"
+    },
+    {
+      "date": "2026-03-30T22:08:00.230Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Zach",
+      "text": "no way to turn off the notification ads for premium. i did not sign up for my alarm clock to buzz me with ads. this app was so handy. too bad though, uninstalled. not coming back.",
+      "reply": "Hi there! Thank you so much for your feedback, we really appreciate it!\n",
+      "replyDate": "2026-03-31T11:39:03.167Z",
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=2e58ca76-e067-4e9a-a3c7-debd57df0065"
+    },
+    {
+      "date": "2026-03-30T08:42:33.100Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Joe Swanson",
+      "text": "do I look like I want to watch an unskippable intro? NO!",
+      "reply": "Hi there! Thank you so much for your feedback, we really appreciate it!",
+      "replyDate": "2026-03-31T11:40:50.152Z",
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=a831b1c5-f63d-4c74-b47f-69784be29adb"
+    },
+    {
+      "date": "2026-03-29T17:40:00.500Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "Denio Perez",
+      "text": "App is good for most measurements of sleep, though sometimes it does not recognize when I wake up in the middle of the night. It shows as if I slept through the whole night incorrectly. Other than that, I like the app.",
+      "reply": "Hi there! If your graph shows a straight line there is something disturbing the tracking! If you contact us at Support@sleepcycle.com we can help you take a closer look!",
+      "replyDate": "2026-03-31T11:43:40.564Z",
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=ee8d92df-5351-4d4f-b439-6f2e1465816f"
+    },
+    {
+      "date": "2026-03-28T19:36:07.299Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "victoria zee",
+      "text": "very good sleep tracking. no experiences with rogue ads popping up.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=f7614de6-5b3f-4d51-9dc1-93b2074cd7f7"
+    },
+    {
+      "date": "2026-03-27T01:04:09.858Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Rory MacDonell",
+      "text": "- i find i sleep better without it. - it misjudges time taken to fall asleep at least twice per week. if it gets that wrong, what reason is there to be confident that it really knows when youre in deep sleep? i asked for a refund but did not get one.",
+      "reply": "Hi there! Please reach out to us at Support@sleepcycle.com so we can take a closer look at this!",
+      "replyDate": "2026-03-25T13:23:57.710Z",
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=5265ff64-f38b-48ff-bfef-7fa437de489d"
+    },
+    {
+      "date": "2026-03-27T01:04:09.421Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Haitham mohamed",
+      "text": "all features became paid !",
+      "reply": "Hi there! Our free version works perfectly if you want to track your sleep in a more simple manner! You can read more about all the free features here! https://support.sleepcycle.com/hc/en-us/articles/206704909-Sleep-Cycle-Freemium-vs-Premium-Features",
+      "replyDate": "2026-03-31T11:24:50.986Z",
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=880dee6a-b5ea-4a5d-a0ba-3bed281e7425"
+    },
+    {
+      "date": "2026-03-26T22:06:21.312Z",
+      "score": 2,
+      "thumbsUp": 1,
+      "user": "David Rustin",
+      "text": "I've been using this app for years without issue. Almost a decade. However, I just received a notification to prompt me to get the premium version. I've been using this app all this time because it hasn't pestered me to do so.",
+      "reply": "Hi there! Thank you so much for your feedback!",
+      "replyDate": "2026-03-31T11:42:25.487Z",
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=1a3f7bdf-9074-421f-853b-6d2ed6f94aa5"
+    },
+    {
+      "date": "2026-03-25T23:30:51.278Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Raj Sutaria",
+      "text": "not kidding but app really works to wake you up in amazing manner that you do nit feel asleep after wake up. because of their patent technology it worked for me. i was strugguling to wake up very early in morning but not able to wake up, tried many apps but none worked perfectly . watched sleep cycle app on youtube recommendetion and give it a try and it worked very very 100% perfectly. hats off to developers and engineers of this app. loved this app so much. thanks !!",
+      "reply": "Hi there! It's fantastic to hear that you're satisfied with our app! Thank you for your support!",
+      "replyDate": "2026-03-31T11:45:09.638Z",
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=c6b30b35-4e64-4e76-b91e-d301b31da543"
+    },
+    {
+      "date": "2026-03-25T15:12:01.203Z",
+      "score": 5,
+      "thumbsUp": 5,
+      "user": "Vanja Solemdal",
+      "text": "I used to be able to use the \"wake up easy\" alarm clock function for free, and it was incredibly handy. All of a sudden it becomes locked behind a paywall and I can't use it anymore. This is really scummy done, in my opinion.",
+      "reply": "Hi there! We have a fix for this issue on the way. In the meantime, we’ve found that it’s related to being logged out. Please make sure you’re logged into your account, this should resolve the issue and make the feature available again!",
+      "replyDate": "2026-03-26T14:11:59.795Z",
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=b0a68610-18b7-4e1e-a31d-4518381cf004"
+    },
+    {
+      "date": "2026-03-24T18:18:59.907Z",
+      "score": 3,
+      "thumbsUp": 1,
+      "user": "Jakub Cafourek",
+      "text": "good app but almost everything is locked behind subscription",
+      "reply": "Hi there! Our free version works perfectly if you want to track your sleep in a more simple manner! You can read more about all the free features here! https://support.sleepcycle.com/hc/en-us/articles/206704909-Sleep-Cycle-Freemium-vs-Premium-Features",
+      "replyDate": "2026-03-25T13:48:33.326Z",
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=f894cba5-274c-450b-bb52-fe696dd0bf46"
+    },
+    {
+      "date": "2026-03-24T16:11:19.138Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Q Maulidiar",
+      "text": "I use it mainly for the smart alarm, while the sleep tracker is neat and all but I don't really care about that. What made me decide to give this a one stat is because they decided it was smart to make a core feature locked behind paywall.",
+      "reply": "Hi there! We have a fix for this issue on the way. In the meantime, we’ve found that it’s related to being logged out. Please make sure you’re logged into your account, this should resolve the issue and make the feature available again!",
+      "replyDate": "2026-03-26T14:08:53.860Z",
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=eb6139a9-229c-4d84-a885-2ef003dd73db"
+    },
+    {
+      "date": "2026-03-23T12:49:07.585Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Nitro",
+      "text": "R419 ??? really?? keep it!",
+      "reply": "Hi there! Our free version works perfectly if you want to track your sleep in a more simple manner! You can read more about all the free features here! https://support.sleepcycle.com/hc/en-us/articles/206704909-Sleep-Cycle-Freemium-vs-Premium-Features",
+      "replyDate": "2026-03-25T13:48:02.589Z",
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=a8aba205-f87d-4331-94b1-9c49db376474"
+    },
+    {
+      "date": "2026-03-20T22:22:43.338Z",
+      "score": 1,
+      "thumbsUp": 2,
+      "user": "medhansh",
+      "text": "uninstalled because the main selling point of the app is a premium feature now terrible decision",
+      "reply": "Hi there! We have a fix for this issue on the way. In the meantime, we’ve found that it’s related to being logged out. Please make sure you’re logged into your account, this should resolve the issue and make the feature available again!",
+      "replyDate": "2026-03-26T14:06:40.543Z",
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=5e0bacb7-b9bf-4c20-9a95-c9bce52f121c"
+    },
+    {
+      "date": "2026-03-19T22:34:25.954Z",
+      "score": 3,
+      "thumbsUp": 2,
+      "user": "E L",
+      "text": "don't bother downloading for the smart alarm sleep cycle alarm setting unless you are willing to pay for premium. App stopped the free sleep cycle alarm function without warning. now just normal alarm unless you pay.",
+      "reply": "Hi there! We have a fix for this issue on the way. In the meantime, we’ve found that it’s related to being logged out. Please make sure you’re logged into your account, this should resolve the issue and make the feature available again!",
+      "replyDate": "2026-03-26T14:10:34.329Z",
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=0132d700-f57e-4c8f-ac13-b4dad7ae1386"
+    },
+    {
+      "date": "2026-03-19T06:52:53.136Z",
+      "score": 1,
+      "thumbsUp": 2,
+      "user": "Kirfy",
+      "text": "made smart alarm paid only when it was free for like 10 years",
+      "reply": "Hi there! We have a fix for this issue on the way. In the meantime, we’ve found that it’s related to being logged out. Please make sure you’re logged into your account, this should resolve the issue and make the feature available again!",
+      "replyDate": "2026-03-26T14:06:26.120Z",
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=3f762b46-bea0-4677-bf32-a2ed8bd8fa86"
+    },
+    {
+      "date": "2026-03-19T00:32:18.611Z",
+      "score": 1,
+      "thumbsUp": 3,
+      "user": "James Gabbitus",
+      "text": "I was using this as an alarm for years and the smart alarm was a nice feature. The only free thing it gave you. Suddenly tonight I went to set the smart alarm like I do every night and discovered they now made it a paid feature... Disappointing. They need to fix their sales model. They don't even offer a free trial. Maybe if I actually tried out the paid features first I would have started paying. They only have an annual billing option too.",
+      "reply": "Hi there! We have a fix for this issue on the way. In the meantime, we’ve found that it’s related to being logged out. Please make sure you’re logged into your account, this should resolve the issue and make the feature available again!",
+      "replyDate": "2026-03-26T14:04:17.820Z",
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=cd048125-79a1-40bd-836f-112a04748692"
+    },
+    {
+      "date": "2026-03-18T08:59:09.433Z",
+      "score": 1,
+      "thumbsUp": 2,
+      "user": "BCSPrequelPrequelWhen",
+      "text": "the only feature that made the app worth using in the first place is now paid. uninstalled",
+      "reply": "Hi there! We have a fix for this issue on the way. In the meantime, we’ve found that it’s related to being logged out. Please make sure you’re logged into your account, this should resolve the issue and make the feature available again!",
+      "replyDate": "2026-03-26T14:06:56.714Z",
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=96af155f-9b97-41e9-89c0-2c7cedd52ca0"
+    },
+    {
+      "date": "2026-03-18T06:19:30.510Z",
+      "score": 1,
+      "thumbsUp": 2,
+      "user": "David Roden",
+      "text": "...and under the guise of \"bug fixes and updates\" the wake-up-easy function is not available to free accounts anymore. Enshittification successful, app uninstalled.",
+      "reply": "Hi there! We have a fix for this issue on the way. In the meantime, we’ve found that it’s related to being logged out. Please make sure you’re logged into your account, this should resolve the issue and make the feature available again!",
+      "replyDate": "2026-03-26T14:05:15.759Z",
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=6eec2838-9e6b-4edf-ab62-524527641c10"
+    },
+    {
+      "date": "2026-03-18T04:24:45.566Z",
+      "score": 1,
+      "thumbsUp": 2,
+      "user": "Samer Saffarini",
+      "text": "Turned the smart alarm into a premium feature after years of offering it for free. Uninstalled.",
+      "reply": "Hi there! We have a fix for this issue on the way. In the meantime, we’ve found that it’s related to being logged out. Please make sure you’re logged into your account, this should resolve the issue and make the feature available again!",
+      "replyDate": "2026-03-26T14:06:08.200Z",
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=681e75c4-9391-4063-8bdf-c8f2ad3f142c"
+    },
+    {
+      "date": "2026-03-18T02:45:33.830Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "I am not supposed To tell you thiss (No Nickname)",
+      "text": "little bit confusing....",
+      "reply": "Hi there! We would love to help you clear anything up about the app that you find confusing, please reach out to su Support@sleepcycle.com!",
+      "replyDate": "2026-03-25T13:20:06.283Z",
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=2ce2b44d-9024-4c0e-a4d1-426e421f9471"
+    },
+    {
+      "date": "2026-03-18T00:46:12.974Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Silas Forster",
+      "text": "they've just paywalled the smart wake up feature which was the whole point of the app.",
+      "reply": "Hi there! We have a fix for this issue on the way. In the meantime, we’ve found that it’s related to being logged out. Please make sure you’re logged into your account, this should resolve the issue and make the feature available again!",
+      "replyDate": "2026-03-26T14:06:47.336Z",
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=a671b78a-6ea6-498c-8653-c3cbeb9523f0"
+    },
+    {
+      "date": "2026-03-17T23:50:12.682Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "ashleigh plunkett",
+      "text": "Rubbish",
+      "reply": "Hi there! We would love to hear more about what you didn't enjoy about the app, please reach out to us at Support@sleepcycle.com and let us know!",
+      "replyDate": "2026-03-25T13:21:03.680Z",
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=23a6f86e-14a0-4588-ba65-38c8c8d292f9"
+    },
+    {
+      "date": "2026-03-17T22:05:13.581Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Piotr Wesołowski",
+      "text": "You've made smart alarm paid! Greedy bastards!",
+      "reply": "Hi there! We have a fix for this issue on the way. In the meantime, we’ve found that it’s related to being logged out. Please make sure you’re logged into your account, this should resolve the issue and make the feature available again!",
+      "replyDate": "2026-03-26T14:06:13.679Z",
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=9bcbd148-9b43-4bee-919e-15e5d4e9c83b"
+    },
+    {
+      "date": "2026-03-17T20:53:27.915Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Tijana Gvozdenović",
+      "text": "Bedtime reminder not working.",
+      "reply": "Hi there! Please reach out to us at Support@sleepcycle.com so we can take a closer look at this!",
+      "replyDate": "2026-03-25T13:21:39.474Z",
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=838208e0-3c32-43fa-a7de-cdd6b43ec28e"
+    },
+    {
+      "date": "2026-03-17T16:27:00.603Z",
+      "score": 2,
+      "thumbsUp": 3,
+      "user": "J Fabian",
+      "text": "They are slowly removing features and putting them behind a pay wall. I used to pay for this app, but had to temporarily cancel my subscription until i can afford to budget it. They removed the ability to have a \"wake-up window\" in the free version, so I guess I will be deleting the whole thing and not paying again in the future. I have recommended it to many people and it is disappointing to see them cutting corners wherever they have to squeeze people into paying. Otherwise it works fine.",
+      "reply": "Hi there! We have a fix for this issue on the way. In the meantime, we’ve found that it’s related to being logged out. Please make sure you’re logged into your account, this should resolve the issue and make the feature available again!",
+      "replyDate": "2026-03-26T14:09:00.424Z",
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=d5167c3d-c65c-4747-bdfc-06f333b200ad"
+    },
+    {
+      "date": "2026-03-17T14:55:46.602Z",
+      "score": 1,
+      "thumbsUp": 2,
+      "user": "Michael Chen",
+      "text": "latest update 17/03/2026 now this smart alarm is only for premium user. might as well uninstall and just use normal alarm getting more inaccurate after so much updates. Alarm once I turn off, it still sounds until I go back to the main page where you can set the alarm",
+      "reply": "Hi there! We have a fix for this issue on the way. In the meantime, we’ve found that it’s related to being logged out. Please make sure you’re logged into your account, this should resolve the issue and make the feature available again!",
+      "replyDate": "2026-03-26T14:04:54.296Z",
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=1e9b37e8-e727-46cc-bc0e-03c31f1c02fa"
+    },
+    {
+      "date": "2026-03-17T06:39:15.505Z",
+      "score": 1,
+      "thumbsUp": 2,
+      "user": "Tristan Napper",
+      "text": "They just subscription pay-walled the Smart Alarm, one of the primary and most popular functions of the app, which costs them nothing. Thankfully \"Sleep as Android: Smart Alarm\" also has this feature so I've switched and not looking back. Beware of these developers, they'll remove features in attempt for more profit.",
+      "reply": "Hi there! We have a fix for this issue on the way. In the meantime, we’ve found that it’s related to being logged out. Please make sure you’re logged into your account, this should resolve the issue and make the feature available again!",
+      "replyDate": "2026-03-26T14:05:55.184Z",
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=9e2e710c-0975-4e57-ab5c-b58e659e0bb0"
+    },
+    {
+      "date": "2026-03-17T05:07:27.538Z",
+      "score": 1,
+      "thumbsUp": 2,
+      "user": "Peter Prygocki",
+      "text": "I have used this app for over 10 years. The most recent update is the final straw. After a decade, you lock the smart alarm behind the premium subscription??? It's the literal first and only feature I started using this app for because it's the ALARM that TRACKS your SLEEP CYCLE. What a shame to see an app reduced to pure garbage!",
+      "reply": "Hi there! We have a fix for this issue on the way. In the meantime, we’ve found that it’s related to being logged out. Please make sure you’re logged into your account, this should resolve the issue and make the feature available again!",
+      "replyDate": "2026-03-26T14:04:39.412Z",
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=54a78770-1c95-422b-8076-c0c8dffb6e07"
+    },
+    {
+      "date": "2026-03-08T14:00:49.931Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Jacob S",
+      "text": "would be nice to have access to your records outside of premium",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=2c37bbfa-cd7f-4000-a532-87908dc14299"
+    },
+    {
+      "date": "2026-03-08T13:12:57.332Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Dennis Lykov",
+      "text": "Great app",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=e47a5c7c-6951-4163-92f2-1d4c6ef2cfa6"
+    },
+    {
+      "date": "2026-03-07T05:00:25.230Z",
+      "score": 2,
+      "thumbsUp": 1,
+      "user": "Leanne Dupont",
+      "text": "I don't like keeping my phone next to me so I charge it across the room (so I stay off of it). It says this is available for a Tablet, however, when I try to download it on my tablet, I can't find it in Google Play. I already signed up for the free trial so I'm going to try it on my phone for at least tonight, but I REALLY want to use it on my Tablet. If I can't, I won't be purchasing.",
+      "reply": "Hi there! Unfortunately, the app isn't available on all tablets, so if you can't find it, it's unfortunately not available.",
+      "replyDate": "2026-03-25T13:27:17.294Z",
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=7c72ea0b-8916-4760-954a-3afeccdfc69d"
+    },
+    {
+      "date": "2026-03-06T22:57:56.946Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Martina Dsouza",
+      "text": "vgood",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=18b9e1fe-ba17-41c8-ab42-f4d7c415088f"
+    },
+    {
+      "date": "2026-03-06T01:33:48.937Z",
+      "score": 2,
+      "thumbsUp": 1,
+      "user": "Lisa O'Neill",
+      "text": "I was not given a chance or warning before the year subscription kicked in. I wanted to test the app for longer than a month, especially over daylight savings, before I purchased. Today I, with no warning, had a charge for the next year.",
+      "reply": "Hi there! If you forgot to cancel your trial here is some information on how to request a refund! https://support.sleepcycle.com/hc/en-us/articles/360008140193-How-do-I-claim-a-refund-",
+      "replyDate": "2026-03-25T13:27:45.911Z",
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=42cf95a8-ab53-4d1e-a219-86f2163cef05"
+    },
+    {
+      "date": "2026-03-05T09:28:00.973Z",
+      "score": 2,
+      "thumbsUp": 2,
+      "user": "Dmitrii R",
+      "text": "They store all your health data encrypted (they can read it at any time) on their servers, and they may use it for legal requests (e.g. from police or government). They store your health data up to one year after you delete the app. You CAN'T simply request to delete your data, you need to be eligible to do it. Considering it's made in Sweden, this app is a privacy nightmare. Wake up.",
+      "reply": "Hi there! If you want to delete your data, we will delete it all directly, just reach out to us at Support@sleepcycle.com and we'll delete it!",
+      "replyDate": "2026-03-25T13:28:58.470Z",
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=f25be949-67a5-4885-b40e-6800b52b2a6d"
+    },
+    {
+      "date": "2026-03-04T06:38:33.348Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Micah plays games",
+      "text": "honestly has helped me a shitload",
+      "reply": "Hi there! We're delighted to hear that our app is meeting your expectations! Thanks for the positive review!",
+      "replyDate": "2026-04-15T11:47:31.730Z",
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=4451f954-2412-4aae-9f6c-ad0d1b271014"
+    },
+    {
+      "date": "2026-03-02T00:39:57.172Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Basil mnc",
+      "text": "referal program that was promised upon purchase is nowhere to be found + the app only allows for 1y payments",
+      "reply": "Hi there! Please reach out to us at Support@sleepcycle.com so we can take a closer look at this!",
+      "replyDate": "2026-03-25T13:46:13.542Z",
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=e7c1886d-0a31-43ad-a3c2-d9936f550ae7"
+    },
+    {
+      "date": "2026-03-01T02:50:18.506Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Daniel Davalos",
+      "text": "It was an amazing app, I have the premium plan however on my new phone Galaxy S26 Ultra it has a huge bug, doesnt work. Hope soon this bug can be fixed.",
+      "reply": "Hi there! It sounds like there might be something disturbing the tracking here! If you contact us at Support@sleepcycle.com we can help you take a closer look at what might be causing this!",
+      "replyDate": "2026-03-25T13:47:22.355Z",
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=acb79f7e-2a8b-4b27-abb3-93b6dd638ba4"
+    },
+    {
+      "date": "2026-02-28T13:02:32.896Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Carla Radke",
+      "text": "I don't want to pay year and I think it's a bit ridiculous.I don't have the option to pay monthly.",
+      "reply": "Hi there! You can pay monthly through our website!",
+      "replyDate": "2026-04-15T11:40:44.202Z",
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=7f554db5-e045-4c36-aafa-3287b58de5ec"
+    },
+    {
+      "date": "2026-02-27T03:38:42.871Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Kimberly Hawkins",
+      "text": "Really good app. I highly recommend this app.",
+      "reply": "Hi there! We're delighted to hear that our app is meeting your expectations! Thanks for the positive review!",
+      "replyDate": "2026-04-15T11:46:18.648Z",
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=16514b17-bb1b-4072-b119-323dd1408d7d"
+    },
+    {
+      "date": "2026-02-26T08:50:33.513Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Erica Lloyd",
+      "text": "Totally ineffective. 1) recorded me as sleeping when I was cleaning the fridge and taking my tesco delivery in while chatting with my parents. 2) phone then decided to delete that and record sleep, but inverted the times: woke up at 6, that was when it recorded my deepest sleep. 3) App refuses to download to watch, no issue with any others.",
+      "reply": "Hi there! Please reach out to us at Support@sleepcycle.com so we can take a closer look at this!",
+      "replyDate": "2026-03-04T09:20:54.830Z",
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=46037805-b95a-460e-be31-7d72bf6dbcf5"
+    },
+    {
+      "date": "2026-02-26T07:13:50.700Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Aditya Jadhav",
+      "text": "Great idea to wake up during light sleep 💡 😁, would be even better if it allowed custom songs at free ✅",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=ba4fe9dd-5be8-47fb-99ae-918dc023ab6e"
+    },
+    {
+      "date": "2026-02-26T06:52:26.269Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "Naomi Scale",
+      "text": "I don't believe is it accurately tracking what is happening. I was up from 4am, on my phone, and it has me as deep sleep throughout.",
+      "reply": "Hi there! It sounds like there might be something disturbing the tracking here! If you contact us at Support@sleepcycle.com we can help you take a closer look at what might be causing this!",
+      "replyDate": "2026-04-15T11:42:38.230Z",
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=054b84fb-fb91-4d40-b6f3-2da0181d7319"
+    },
+    {
+      "date": "2026-02-25T15:43:14.720Z",
+      "score": 2,
+      "thumbsUp": 1,
+      "user": "Lee Knapp",
+      "text": "Wildly inaccurate. I was just about to pay for the premium but thought I'd put it to the test. I video recorded my sleep and used the app at the same time. The app said I was I a deep sleep for 4 hours when I can see myself clearly not sleeping. I was a premium user for a year and had my doubts then my subscription ran out. Glad I followed my instincts. You should too",
+      "reply": "Hi there! If your graph shows a straight line there is something disturbing the tracking! If you contact us at Support@sleepcycle.com we can help you take a closer look!",
+      "replyDate": "2026-04-15T11:41:57.624Z",
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=0c4136d7-dcf9-4945-8439-0465f075dc7e"
+    },
+    {
+      "date": "2026-02-25T15:21:03.103Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "Tami Caviness",
+      "text": "Does not track consistently",
+      "reply": "Hi there! Please reach out to us at Support@sleepcycle.com so we can take a closer look at this!",
+      "replyDate": "2026-04-15T11:43:37.200Z",
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=f07aab9d-1d54-4375-bed7-5fdfbbfc1a3c"
+    },
+    {
+      "date": "2026-02-25T08:33:27.560Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "Patryk Patrykowski",
+      "text": "Not able to track your sleep correctly, it missed that I woke up during the night and went to toilet, the app registered this as me being asleep. The smart alarm is the only good feature in this app. You get it for free so don't bother buying the annual subscription.",
+      "reply": "Hi there! It sounds like there might be something disturbing the tracking here! If you contact us at Support@sleepcycle.com we can help you take a closer look at what might be causing this!",
+      "replyDate": "2026-04-15T11:42:30.581Z",
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=b4655a80-46f0-49b1-87bb-2e282083797a"
+    },
+    {
+      "date": "2026-02-25T06:37:34.476Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "James Martin",
+      "text": "Recent update has made this app unusable. It freezes when opened and is non-functional. Been using it for years and now it's defunct.",
+      "reply": "Hi there! Please reach out to us at Support@sleepcycle.com so we can take a closer look at this!",
+      "replyDate": "2026-04-15T11:40:19.500Z",
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=88def554-6d97-44c4-aa1a-dbb3630e87c5"
+    },
+    {
+      "date": "2026-02-24T02:05:49.260Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "Jason",
+      "text": "not very accurate",
+      "reply": "Hi there! Please reach out to us at Support@sleepcycle.com so we can take a closer look at this!",
+      "replyDate": "2026-04-15T11:43:43.300Z",
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=b1f1ee77-43b6-4e42-91e4-eba7edf7aee8"
+    },
+    {
+      "date": "2026-02-23T04:18:39.927Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "Megan Ann",
+      "text": "doesnt detect noises it should detect. picks up other random noises despite adjusting settings. the support directed me to google play for a refund, but google play directed me back to sleepcycle. so disappointed with this app.",
+      "reply": "Hi there! Please reach out to us at Support@sleepcycle.com so we can take a closer look at this!",
+      "replyDate": "2026-04-15T11:42:56.373Z",
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=b83fbb22-4cc6-46b3-982c-51907dc4cebd"
+    },
+    {
+      "date": "2026-02-23T03:08:56.513Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Rafael",
+      "text": "I've been using this app since like 2023 or something... And as of right now? I got Revolut Premium to buy it for me, but I'm like... I'm having nightmares, from just the song alone. I'm trying to wake up, but I was like: \"I KNOW YOU CAN HEAR ME. PLEASE JUST LISTEN, AND STOP WAKING ME UP AT THESE TIMES! PLEASE!\" but of course it was a dream, so it wasn't audible.",
+      "reply": "Hi there! I'm not sure I understand what you are referring to here, please reach out to us at Support@sleepcycle.com so we can take a closer look!\n",
+      "replyDate": "2026-02-25T15:00:27.684Z",
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=ae71b6a2-ff54-4d45-976f-9acb0510d2c2"
+    },
+    {
+      "date": "2026-02-22T23:58:22.393Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Maria Quintanilla",
+      "text": "has help me tremendously and is easy to use",
+      "reply": "Hi there! We're delighted to hear that our app is meeting your expectations! Thanks for the positive review!",
+      "replyDate": "2026-04-15T11:46:28.414Z",
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=1ad0fbee-0395-4a94-97e7-4ed634f3a1d8"
+    },
+    {
+      "date": "2026-02-22T07:45:02.107Z",
+      "score": 5,
+      "thumbsUp": 3,
+      "user": "Jason Pierrotti",
+      "text": "long term user. I mainly track breathing and snoring along with SPO2 on my Garmin. Sleep Cycle has been reliable, easy to use and the recordings are helpful.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=7ec194d5-fd1f-4a40-b583-cacaf7996689"
+    },
+    {
+      "date": "2026-02-21T11:01:57.470Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "Katie Vakarian",
+      "text": "I used to love this app, but it scared me so bad I had a panic attack. my phone had low battery, so I plugged it in. this app KEPT going off about the low battery over and over even though it was plugged in. I finally had to turn it off because it was freaking me out so bad. now I can't sleep. I cancelled my premium because I can't have a sleep app that scares me. if it dies in the middle of the night, so be it. or maybe alerting just once is sufficient??",
+      "reply": "Hi there! This is an option you need to turn off yourself in settings! Go to profile > more > battery warning! This is a default precaution so that the phone does not die and therefore might cause you to oversleep but you can easily turn it off!",
+      "replyDate": "2026-03-02T09:01:27.626Z",
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=03225a0b-bc12-4b61-b1e6-569dde111fad"
+    },
+    {
+      "date": "2026-02-21T09:34:27.183Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "E",
+      "text": "zero functionality without subscription",
+      "reply": "Hi there! Our free version works perfectly if you want to track your sleep in a more simple manner! You can read more about all the free features here! https://support.sleepcycle.com/hc/en-us/articles/206704909-Sleep-Cycle-Freemium-vs-Premium-Features",
+      "replyDate": "2026-02-25T14:58:33.340Z",
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=52b84dd2-c787-46bd-a9e7-500bf974b6d5"
+    },
+    {
+      "date": "2026-02-21T03:20:44.510Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Basant Kareem",
+      "text": "the best app i have ever seen 🫡👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍💘",
+      "reply": "Hi there! Your positive review means a lot to us! We're constantly working to make our app even better!",
+      "replyDate": "2026-03-02T09:00:07.858Z",
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=9c2412fa-8e5f-4516-b44d-ac07a07679eb"
+    },
+    {
+      "date": "2026-02-21T00:40:50.497Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Snigdham Majumder",
+      "text": "super useful app. Helps to ensure sleep schedule is good.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=8f5de35b-b0be-4998-ae9c-69b61a88c17f"
+    },
+    {
+      "date": "2026-02-20T21:10:58.800Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "Eduardo Moreira",
+      "text": "You can't even test the app without paying for an yearly subscription. I'm uninstalling it.",
+      "reply": "Hi there! Please reach out to us at Support@sleepcycle.com so we can take a closer look at this!",
+      "replyDate": "2026-03-02T09:00:57.570Z",
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=0547d048-ca76-46aa-a73a-1c8d4078ad3d"
+    },
+    {
+      "date": "2026-02-18T04:01:06.370Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Jibi J",
+      "text": "They will not cancel my membership and refund my $50 I am not satisfied with this app",
+      "reply": "Hi there! If you forgot to cancel your trial here is some information on how to request a refund! https://support.sleepcycle.com/hc/en-us/articles/360008140193-How-do-I-claim-a-refund-",
+      "replyDate": "2026-02-25T14:56:32.567Z",
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=d489063e-eb05-4f93-bb5e-3440f29a92e2"
+    },
+    {
+      "date": "2026-02-16T19:51:12.509Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Kv Aditya",
+      "text": "pretty good and accurate",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=fdfca632-61a7-4165-8692-dc8254bfdcd3"
+    },
+    {
+      "date": "2026-02-16T07:41:17.690Z",
+      "score": 2,
+      "thumbsUp": 2,
+      "user": "Ian Millar",
+      "text": "Have tried to use for a week now and only successfully managed to record sounds for one night, have tried all the recommended ways to get this to work but seems not to be optimised for Android (Samsung Galaxy 25 Ultra) and Samsung watch 8 classic.",
+      "reply": "Hi there! Please reach out to us at Support@sleepcycle.com so we can take a closer look at this!",
+      "replyDate": "2026-03-02T09:01:06.548Z",
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=352f96a1-d931-4f23-87e0-6f10c99b0abd"
+    },
+    {
+      "date": "2026-02-15T20:15:04.903Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Pete Noirel",
+      "text": "seems pretty good",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=8ade6942-4428-4b66-99ac-07077cba0c4d"
+    },
+    {
+      "date": "2026-02-14T14:24:19.349Z",
+      "score": 2,
+      "thumbsUp": 2,
+      "user": "Max Deike",
+      "text": "​The gentle alarm and sleep aids are great, but the tracker is ineffective. It cannot truly distinguish sleep from wakefulness, relying on guesses from the accelerometer and microphone. In my tests, it recorded me as \"asleep\" while I was awake or even out of bed, and failed to capture speech. The cycle tracking feels like a simple timer rather than analysis of actual sleep data. If you need a real tracker, look elsewhere; I encourage users to test the app for themselves and see the flaws.",
+      "reply": "Hi there! Please reach out to us at Support@sleepcycle.com so we can take a closer look at this!",
+      "replyDate": "2026-03-02T08:56:47.880Z",
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=adbe31d7-666c-4d22-bcab-89bd71a50dae"
+    },
+    {
+      "date": "2026-02-14T09:15:32.707Z",
+      "score": 5,
+      "thumbsUp": 4,
+      "user": "Dean Fraser-Phillips",
+      "text": "As a Chronic Insomniac of 30 years this app is a godsend. It provides something I've wanted all this time. Data. Whilst it won't help my insomnia it allows me to analyse and change my patterns to help.",
+      "reply": "Hi there! Your positive review means a lot to us! We're constantly working to make our app even better!",
+      "replyDate": "2026-03-02T08:57:55.848Z",
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=bdf648dd-f233-4cfc-b13b-0a689223f89d"
+    },
+    {
+      "date": "2026-02-14T05:34:45.737Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Crissi Avila",
+      "text": "it's not that informative",
+      "reply": "Hi there! We would love to hear more about what features you belive the app is missing, please reach out to us at Support@sleepcycle.com and let us know!",
+      "replyDate": "2026-02-25T14:58:23.805Z",
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=3f458353-d7b6-4fd7-9e75-aaec50f10137"
+    },
+    {
+      "date": "2026-02-12T21:12:34.294Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Barbara Lindbergs",
+      "text": "Doesn't answer emails I cancelled my subscription within the 14 days and I reached out several times via email and have not received a response. App was ok but was limited when sharing a room.",
+      "reply": "Hi there! If you forgot to cancel your trial here is some information on how to request a refund! https://support.sleepcycle.com/hc/en-us/articles/360008140193-How-do-I-claim-a-refund-",
+      "replyDate": "2026-02-25T14:56:40.469Z",
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=b166e235-d3fb-455a-aff7-941af16d755d"
+    },
+    {
+      "date": "2026-02-12T00:27:19.999Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "taran bhatia",
+      "text": "It does not count sleep at all",
+      "reply": "Hi there! Please reach out to us at Support@sleepcycle.com so we can take a closer look at this!",
+      "replyDate": "2026-02-25T14:58:46.100Z",
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=31bcdd04-b287-43d9-bf00-71d32e85258c"
+    },
+    {
+      "date": "2026-02-11T23:18:13.983Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Brynn Berk",
+      "text": "helpful and easy to use but I wish the programs wernt so expensive",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=7d4b4a96-4f87-4071-843d-1b16cf00bc5a"
+    },
+    {
+      "date": "2026-02-10T03:54:37.220Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "Reha Esen",
+      "text": "In my experience, it does not capture awake times accurately, instead it assumes I was sleeping the whole time.",
+      "reply": "Hi there! Please reach out to us at Support@sleepcycle.com so we can take a closer look at this!",
+      "replyDate": "2026-03-02T08:56:56.250Z",
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=0b0f002a-f254-4f33-bfa7-be0a20aa291c"
+    },
+    {
+      "date": "2026-02-08T17:17:40.839Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Naveen B",
+      "text": "Good app, but a little inconsistent with picking up the sounds during sleep. Sometimes with zero ambient noise, the recording has noise. But, overall a very useful app for overall Sleep analysis and health",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=246947b5-1af2-450f-948d-2b2afa966ba5"
+    },
+    {
+      "date": "2026-02-08T15:07:27.400Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Ancheta Alger",
+      "text": "I followed there rules for cancelation and refunds however I've been ignored and not given my refund 10 out of 10 would not recommend",
+      "reply": "Hi there! If you forgot to cancel your trial here is some information on how to request a refund! https://support.sleepcycle.com/hc/en-us/articles/360008140193-How-do-I-claim-a-refund-",
+      "replyDate": "2026-02-25T14:56:25.650Z",
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=b12d8296-a43e-4d07-92b5-06ed104967a1"
+    },
+    {
+      "date": "2026-02-07T10:12:52.423Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Craig Johnson",
+      "text": "Doesn't use any biometric data from your watch. 😂 Just \"listens\" using your phone's mic? Hehe. What an absolute complete waste of everyone's time. UNINSTALLED",
+      "reply": "Hi there! Unfortunately, on Android devices, the watch works more as a remote to start the tracking on your phone rather than doing any tracking on its own. But thank you for your feedback!",
+      "replyDate": "2026-02-25T14:57:35.919Z",
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=f28dea17-418a-4d80-959a-69c2db8f7daf"
+    },
+    {
+      "date": "2026-02-06T23:28:34.142Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "Amy Bennett",
+      "text": "Lots of good things, but always says I'm asleep when awake! Hi app team, my app always thinks I've fallen asleep when I'm actually still awake which is throwing off my data. Anyway to retrain /override that?",
+      "reply": "Hi there! Please reach out to us at Support@sleepcycle.com so we can take a closer look at this!",
+      "replyDate": "2026-03-02T08:40:49.514Z",
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=3b3acf1a-64c9-4ac0-adc6-0e27b43b330d"
+    },
+    {
+      "date": "2026-02-05T20:36:11.453Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Noah Griffin",
+      "text": "amazing! the sleep tracking is spot on and the fact I can use my pixel watch to get more accurate tracking is amazing. one thing though, maybe make the app be able to connect to \"health connect\"?",
+      "reply": "Hi there! Thank you for your feedback and suggestions, we really appreciate it!\n\n",
+      "replyDate": "2026-03-02T08:44:37.687Z",
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=d384ba52-0bba-42a3-90c4-ccd55a02e4da"
+    },
+    {
+      "date": "2026-02-04T13:22:57.540Z",
+      "score": 2,
+      "thumbsUp": 2,
+      "user": "Emily Iris Baird",
+      "text": "I've slept very poorly recently & I downloaded this app to see if it might help. Unfortunately the tracker is just bad. I woke up many times last night, but the only one the app caught was when I fully gave up being in bed, grabbed my phone and went to the other room. Even though I tossed & turned while awake, or even tapped my phone screen to check the time, etc. No log of it. It's like this every night. Also their help docs are underdeveloped and the AI generated pics on their site are creepy.",
+      "reply": "Hi there! Please reach out to us at Support@sleepcycle.com so we can take a closer look at this!",
+      "replyDate": "2026-03-02T08:40:35.823Z",
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=45851613-34f8-4165-ab11-71b7923e6bb1"
+    },
+    {
+      "date": "2026-02-03T04:56:46.663Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Blake Moore",
+      "text": "glad I got it",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=4479e3c1-b4f9-4740-8b75-86cd0094b62a"
+    },
+    {
+      "date": "2026-02-02T15:10:37.134Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Nsimba Levy",
+      "text": "amazing",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=f210a0c1-f35c-4f47-b565-58ce081d23bb"
+    },
+    {
+      "date": "2026-02-02T01:44:58.376Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "JShiels5",
+      "text": "Very inaccurate. Says I haven't slept when I've been out for hours. Definitely not worth the sub I got a couple of days ago.",
+      "reply": "Hi there! Please reach out to us at Support@sleepcycle.com so we can take a closer look at this!",
+      "replyDate": "2026-02-25T14:56:01.707Z",
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=d174dfe6-ad8a-4732-b65f-15878c3351dd"
+    },
+    {
+      "date": "2026-02-02T00:52:23.131Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "Lawdie",
+      "text": "\"you have been logged out, login\" i neve logged in, in the first place and have no need to make an account stop nagging me every night",
+      "reply": "Hi there! Please reach out to us at Support@sleepcycle.com so we can take a closer look at this!",
+      "replyDate": "2026-03-02T08:40:56.423Z",
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=69ef966b-6819-452f-8b14-2ca4e86f59fe"
+    },
+    {
+      "date": "2026-02-01T18:56:39.489Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Verissimo Bravo da Rosa",
+      "text": "Nice app",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=f33b0118-d693-4bfd-bb60-335daea39ba4"
+    },
+    {
+      "date": "2026-02-01T16:47:27.310Z",
+      "score": 5,
+      "thumbsUp": 12,
+      "user": "Dale Gribble",
+      "text": "This is a great sleep tracking app if you want to use your phone. There are alot of options to suite your needs. They even have assements all in the free version. It sync with Google fit (needs to be updated to health connect). I have found the apps very effective at predicting if I'll feel tried or refreshed. If you want deep analysis of your sleep they have a paid premium version. And they offer 7 days free trail. To see if you want to pay or not. Free version will get you the basics though.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=d88db03a-5f28-48db-86f8-9712e2dd919c"
+    },
+    {
+      "date": "2026-01-31T06:42:59.145Z",
+      "score": 1,
+      "thumbsUp": 7,
+      "user": "Shaul Barkan",
+      "text": "tl;dr you are paying for randomly generated plots This app CANNOT reliably detect whether or not I'm asleep. Twice already I woke up in the middle of the night and used the phone to play an audiobook. Both times the app registered it as sleep talking. Regardless, NEVER buy a 1 year subscription to anything! I can't believe I made this mistake.",
+      "reply": "Hi there! We do not recommend using other apps or features that require the audio chip during an active Sleep Cycle session, such as podcasts, YouTube, or other media playback. These may interfere with tracking and can cause flatline data, incomplete analysis, or crashes. For best results, avoid other audio apps during your sleep session.",
+      "replyDate": "2026-02-25T14:43:22.958Z",
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=bac9411e-4b81-4adc-b2c3-e1a2254a0231"
+    },
+    {
+      "date": "2026-01-30T17:12:57.280Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Ali Lalji",
+      "text": "its a really nice app very useful for America quality and tracking, works live if there was a nap feature",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=5444b0e6-0540-4a73-8cad-c0f0f23f5f3a"
+    },
+    {
+      "date": "2026-01-30T05:06:42.526Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Angelo Fiore",
+      "text": "Actually impossible to cancel this God damn subscription. Can't do it in play store (simply doesn't appear). Can't do it on the website because it says to go to play store. Great feedback loop of insanity.",
+      "reply": "Hi there! To cancel the subscription, follow this link and the instructions; https://support.sleepcycle.com/hc/en-us/articles/207392945-How-do-I-cancel-my-Premium-subscription-",
+      "replyDate": "2026-02-25T14:44:13.380Z",
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=ff5aee5a-da20-435b-8fde-544c8004c988"
+    },
+    {
+      "date": "2026-01-29T12:18:47.664Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Mohammad Ahangar",
+      "text": "great 😃👍",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=5cdd9f92-e9eb-469f-84ea-9fbd9fbd82ab"
+    },
+    {
+      "date": "2026-01-29T08:39:06.667Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Cathy Nichol",
+      "text": "highly recommend",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=deb2dfc5-1c0d-4f21-a3b7-20aa613ef0c6"
+    },
+    {
+      "date": "2026-01-29T05:08:21.505Z",
+      "score": 1,
+      "thumbsUp": 4,
+      "user": "R D",
+      "text": "[1 less star since a YEAR later there's still no Health Connect which would take 30m tops to add with Codex/Claude Code] This app has a great UI/feature-set but is fatally flawed. I use a Galaxy Watch 7 for sleep measurement, but Sleep Cycle *ONLY* uses phone sensor data despite having a WearOS version. This would be fine if it supported Samsung Health Connect, yet the only API is Google Fit, which has been deprecated since 2022 and is shutting down entirely in 2025. 👎",
+      "reply": "Hi there! When Google Fit is disconnected, we will move over to Health Connect, we have however not done this switch yet, but we will in the upcoming months!",
+      "replyDate": "2025-02-17T14:11:02.134Z",
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=027e8efa-e409-4075-8ecb-045e0f0907b7"
+    },
+    {
+      "date": "2026-01-28T02:26:58.273Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Dato",
+      "text": "i love this app so much, it finally proved that when my sisters said that i was talking in my sleep true!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=86b301ce-7ffc-427a-833f-d486b087a3da"
+    },
+    {
+      "date": "2026-01-26T15:16:18.219Z",
+      "score": 2,
+      "thumbsUp": 3,
+      "user": "Cj Shackleford II",
+      "text": "stick to regular sleep tracking devices. very easy to start, but tracking isn't the greatest, if you sleep with a fan good luck on the snoring. my watch tracks all this and much much more. Finally got it to link to my Samsung watch and it's not even close. And after I went to cancel, it's hidden in the app, whereas all others are canceled from the play store. 1000% not worth the annual charge. Maybe 30 bucks a year and I'd keep it, maybe.",
+      "reply": "Hi there! To cancel the subscription, follow this link and the instructions; https://support.sleepcycle.com/hc/en-us/articles/207392945-How-do-I-cancel-my-Premium-subscription-",
+      "replyDate": "2026-02-25T14:46:39.359Z",
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=060ebc47-3e98-4729-b6df-bd44faafa021"
+    },
+    {
+      "date": "2026-01-26T09:05:50.844Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Shoshke-Rayzl Yuni",
+      "text": "Very disappointed that it won't track sleep stages (like REM) on Android (only does that on iOS). Otherwise, I like it.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=9b20f525-80e2-468a-a960-28c8d51d4694"
+    },
+    {
+      "date": "2026-01-26T08:34:24.361Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Samantha H",
+      "text": "why the price. it's a sleep app not a goldmine bloody hell",
+      "reply": "Hi there! Our free version works perfectly if you want to track your sleep in a more simple manner! You can read more about all the free features here! https://support.sleepcycle.com/hc/en-us/articles/206704909-Sleep-Cycle-Freemium-vs-Premium-Features",
+      "replyDate": "2026-02-25T14:45:22.000Z",
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=64be7ee4-a192-449a-b014-7a848c5507e6"
+    },
+    {
+      "date": "2026-01-25T13:28:42.602Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Dark Wraith",
+      "text": "I like it and I know how to keep track my sleep for My doctors see my sleep",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=9f33c9cd-bd23-4d66-b2ef-08c0183af2a0"
+    },
+    {
+      "date": "2026-01-25T05:30:37.192Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Hamid ABDELHAMID",
+      "text": "I want snoring db rate , to know how loud I snore",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=4cfbc754-ccb0-4606-b775-f5712cfe9b65"
+    },
+    {
+      "date": "2026-01-22T04:55:42.326Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "christopher cooper 2020",
+      "text": "that app is so good it helps me sleep",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=65e2f5ad-babb-472f-a45d-7cfd96de6e72"
+    },
+    {
+      "date": "2026-01-21T20:50:04.760Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Read & Run !",
+      "text": "Unfortunately the app does not record sounds anymore and the alarm does not go off anymore. Deinstalled, reinstalled, settings are correct but still doesn't work anymore. Any advise? Premium user",
+      "reply": "Hi there! Please reach out to us at Support@sleepcycle.com so we can take a closer look at this!",
+      "replyDate": "2026-02-25T14:49:59.860Z",
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=ef9f6222-139b-4f5c-a6ce-65d14b908ab1"
+    },
+    {
+      "date": "2026-01-21T05:51:50.242Z",
+      "score": 1,
+      "thumbsUp": 75,
+      "user": "Bethan",
+      "text": "January 2026 App has given up tracking my sleep at all. reads as 0 movement through the night, smart alarm no longer works. I am now only using the app for the gentle alarm tone.",
+      "reply": "Hi there! It sounds like there might be something disturbing the tracking here! If you contact us at Support@sleepcycle.com we can help you take a closer look at what might be causing this!",
+      "replyDate": "2026-01-21T14:08:26.647Z",
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=53c78bbf-29bb-4975-9028-d629cc1234cb"
+    },
+    {
+      "date": "2026-01-20T10:31:35.838Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Cakes",
+      "text": "you have to pay for everything its so annoying",
+      "reply": "Hi there! Our free version works perfectly if you want to track your sleep in a more simple manner! You can read more about all the free features here! https://support.sleepcycle.com/hc/en-us/articles/206704909-Sleep-Cycle-Freemium-vs-Premium-Features",
+      "replyDate": "2026-01-21T14:09:00.398Z",
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=6ef7cfe9-2112-4faf-a7c3-b95752386c36"
+    },
+    {
+      "date": "2026-01-19T11:36:52.988Z",
+      "score": 2,
+      "thumbsUp": 1,
+      "user": "Loughborough Paul",
+      "text": "Doesn't handle multiple periods of sleep well. Doesn't agree with Samsung Health Sleep",
+      "reply": "Hi there! Please reach out to us at Support@sleepcycle.com so we can take a closer look at this!",
+      "replyDate": "2026-01-21T14:11:19.647Z",
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=18422bb6-7514-4f0f-a88f-5839ecf44b7d"
+    },
+    {
+      "date": "2026-01-18T23:55:51.802Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Noah Uniacke",
+      "text": "amazing",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=81feb01f-b63a-4947-8311-34ec4cea23a7"
+    },
+    {
+      "date": "2026-01-18T00:27:55.348Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Daniel Ioffe",
+      "text": "like it",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=ba41da68-5c34-4514-bf1d-3fd727eccafd"
+    },
+    {
+      "date": "2026-01-17T06:43:50.168Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "YOUNESS LALAMI",
+      "text": "the app won't log in to my account giving me both network error and incorrect password error",
+      "reply": "Hi there! Please reach out to us at Support@sleepcycle.com so we can take a closer look at this!",
+      "replyDate": "2026-01-21T14:11:29.819Z",
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=312fca79-171a-44e1-b55a-bd78cc800034"
+    },
+    {
+      "date": "2026-01-16T12:11:14.787Z",
+      "score": 2,
+      "thumbsUp": 1,
+      "user": "Emily Smith",
+      "text": "I like the smart alarm, but I don't find the sleep tracking to be at all accurate. Many nights I've woken up and even gone to the toilet, and it thinks I've slept the whole way through. Uninstalling.",
+      "reply": "Hi there! Please reach out to us at Support@sleepcycle.com so we can take a closer look at this!",
+      "replyDate": "2026-01-21T14:12:56.800Z",
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=b3028e01-b40a-4344-ac4a-2d5a75a01d83"
+    },
+    {
+      "date": "2026-01-12T13:44:39.213Z",
+      "score": 5,
+      "thumbsUp": 11,
+      "user": "Sofia Mae Laurio",
+      "text": "I love the application, it is very helpful but could you make the subscription monthly instead of annually? I really want to avail the premium but I prefer to pay in smaller amounts. Thank you...",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=c1c78097-57f5-4784-affa-4181f42b0458"
+    },
+    {
+      "date": "2026-01-12T09:48:29.190Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "Nigel Tolley",
+      "text": "Absolutely desperately needs a way to edit the sleep session if you forget to hit \"stop\" when you wake up. A night where you \"slept\" for ~23 hours ruins all the stats, and only option is to delete entirely.",
+      "reply": "Hi there! Thank you for your feedback and suggestion!",
+      "replyDate": "2026-02-25T14:48:09.231Z",
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=72e4dec6-784f-417e-8322-3b6cce498be2"
+    },
+    {
+      "date": "2026-01-10T06:30:30.182Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Billy Joe Manjimella",
+      "text": "Amazing",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=ea3146ac-a978-4fe9-9157-c437fd3d81cd"
+    },
+    {
+      "date": "2026-01-09T17:27:01.974Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Sri Ram",
+      "text": "very nice 👍",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=933d1ea3-785a-463a-9051-180f5f65686e"
+    },
+    {
+      "date": "2026-01-09T09:48:32.954Z",
+      "score": 3,
+      "thumbsUp": 1,
+      "user": "Jamie C",
+      "text": "There are so many things missing, I have no idea how this has such a high rating. There is no way to edit your sleep if the record is inaccurate, it doesn't recognize noises from pets, and there's no way to use both the microphone and accelerometer to track sleep. So it didn't notice when my cat came in screaming and woke me up. It also says I woke up for a few minutes when I was wide awake and playing on my phone for nearly an hour in the middle of the night. But I can't change the record.",
+      "reply": "Hi there! Thank you for your feedback!",
+      "replyDate": "2026-01-21T14:13:24.260Z",
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=18816f7d-6270-42ce-ae4e-ae486728f4cc"
+    },
+    {
+      "date": "2026-01-09T07:56:14.710Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Amalija Ramljak",
+      "text": "The alarm might be okay, but sleep tracking itself really doesnt work well enough (or scoring doesnt). im waking up multiple times but it doesnt detect, or even if it does cause i check the time on the phone, it gave me a sleep score of 92? And it keeps doing that the entire week while im sleeping horribly lol",
+      "reply": "Hi there! Please reach out to us at Support@sleepcycle.com so we can take a closer look at this!",
+      "replyDate": "2026-01-21T14:05:31.438Z",
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=d74b6818-bd3f-4401-8295-3b4222e80c73"
+    },
+    {
+      "date": "2026-01-08T11:33:06.810Z",
+      "score": 1,
+      "thumbsUp": 2,
+      "user": "Christopher Bauerschmidt II",
+      "text": "garbage app. obsessed with money. copy paste of all the others. pay before it does anything",
+      "reply": "Hi there! Our free version works perfectly if you want to track your sleep in a more simple manner! You can read more about all the free features here! https://support.sleepcycle.com/hc/en-us/articles/206704909-Sleep-Cycle-Freemium-vs-Premium-Features",
+      "replyDate": "2026-01-21T14:06:47.196Z",
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=30054f52-636a-434c-b7bd-6de2ec98a720"
+    },
+    {
+      "date": "2026-01-06T05:41:18.714Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "Dan San",
+      "text": "it works but doesn't account for long sleepers (2% of the population) not very useful for those people since their cycles are longer and they may want to lengthen the wake up phase from 30 minutes to 1 hr.",
+      "reply": "Hi there! Thank you for your feedback and suggestion!",
+      "replyDate": "2026-02-25T14:48:16.351Z",
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=a453751d-891c-4595-b572-628ea3294389"
+    },
+    {
+      "date": "2026-01-03T21:17:51.854Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Jack",
+      "text": "Asking me to want to pay for something or even as a trial before I've even used it? No free option? Instant uninstall.",
+      "reply": "Hi there! Our free version works perfectly if you want to track your sleep in a more simple manner! You can read more about all the free features here! https://support.sleepcycle.com/hc/en-us/articles/206704909-Sleep-Cycle-Freemium-vs-Premium-Features",
+      "replyDate": "2026-01-21T14:05:49.494Z",
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=91c56a2c-bdfb-4a4d-a7aa-af7c11b3fe81"
+    },
+    {
+      "date": "2026-01-03T07:04:55.428Z",
+      "score": 2,
+      "thumbsUp": 5,
+      "user": "Sofia Creasey",
+      "text": "This used to be pretty accurate but just lately it's so completely wrong it's like it's a night behind. Last night's sleep for instance, I went to sleep pretty quickly & didn't wake up much through the night, the night before I struggled to go to sleep & woke up regularly, according to this app I took an hour & a half to get to sleep last night but the night before I apparently nodded off after only 15 minutes! It's so different to the results on my phone's health app, so back to the default app",
+      "reply": "Hi there! Please reach out to us at Support@sleepcycle.com so we can take a closer look at this!",
+      "replyDate": "2026-01-21T14:10:45.100Z",
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=4bb757a6-a02b-4c2b-b7f4-0edcda742045"
+    },
+    {
+      "date": "2026-01-02T00:44:55.928Z",
+      "score": 1,
+      "thumbsUp": 2,
+      "user": "Peeyush Kumar",
+      "text": "Loser app ! They would have told earlier that they need money for things to perform. Guys no need to install this useless app. For what you're installing, it doesn't even work for that they need money just after installation.",
+      "reply": "Hi there! Our free version works perfectly if you want to track your sleep in a more simple manner! You can read more about all the free features here! https://support.sleepcycle.com/hc/en-us/articles/206704909-Sleep-Cycle-Freemium-vs-Premium-Features",
+      "replyDate": "2026-01-21T14:04:40.200Z",
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=f008e0c0-80ab-4ee2-8f4c-5cb241c70291"
+    },
+    {
+      "date": "2026-01-01T21:48:45.578Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Funs",
+      "text": "perfect",
+      "reply": "Hi there! It's fantastic to hear that you're satisfied with our app! Thank you for your support!",
+      "replyDate": "2026-02-25T14:51:47.441Z",
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=7ac93584-a3a0-45ac-baeb-06f2d9198408"
+    },
+    {
+      "date": "2026-01-01T09:12:39.180Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "5un",
+      "text": "3rd app to try and you can only listen to one audio. Rest you have to pay for a monthly sub.",
+      "reply": "Hi there! Our free version works perfectly if you want to track your sleep in a more simple manner! You can read more about all the free features here! https://support.sleepcycle.com/hc/en-us/articles/206704909-Sleep-Cycle-Freemium-vs-Premium-Features",
+      "replyDate": "2026-01-21T14:05:09.930Z",
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=5fde2002-f77a-4793-bde8-a7c0a0677469"
+    },
+    {
+      "date": "2025-12-31T12:20:32.215Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Lauren Ayers",
+      "text": "awesome app",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=4d7e06e3-33e8-4af8-b333-4cdec578984c"
+    },
+    {
+      "date": "2025-12-31T11:21:17.938Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Trevor Brelje",
+      "text": "Used to love this app but now every feature is behind a paywall. Honestly app was decent but not worth any money.",
+      "reply": "Hi there! Our free version works perfectly if you want to track your sleep in a more simple manner! You can read more about all the free features here! https://support.sleepcycle.com/hc/en-us/articles/206704909-Sleep-Cycle-Freemium-vs-Premium-Features",
+      "replyDate": "2026-01-21T12:07:48.117Z",
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=e311ee58-50aa-4419-885c-293eda7c7dad"
+    },
+    {
+      "date": "2025-12-31T08:25:25.377Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Bloo Seth Freeman",
+      "text": "the whole app is largely an ad for their premium membership so dont bother if you want any of the actually interesting features, probably better off just using a stopwatch.",
+      "reply": "Hi there! Our free version works perfectly if you want to track your sleep in a more simple manner! You can read more about all the free features here! https://support.sleepcycle.com/hc/en-us/articles/206704909-Sleep-Cycle-Freemium-vs-Premium-Features",
+      "replyDate": "2026-01-21T12:08:42.740Z",
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=f0cf511f-6827-495f-a4b4-51132d058cd0"
+    },
+    {
+      "date": "2025-12-30T11:40:00.598Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Marlo Howe",
+      "text": "they should add more sounds for free eg. the longer you sleep you unlock sounds from that night for free or you can bank them to get points and just maybe get premium",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=4c582af4-4ff2-4735-8d6a-32361e35c0f7"
+    },
+    {
+      "date": "2025-12-30T00:11:33.145Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Yassin Ouhaddou",
+      "text": "The best app I've downloaded on my phone! I wake up every day without feeling tired or exhausted ❤️🎉",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=f260983b-c1bc-47b4-94ba-7a02ac0ace4a"
+    },
+    {
+      "date": "2025-12-29T22:58:15.480Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Lazri mouhand Arezki",
+      "text": "best app",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=ffd25155-700f-433a-a449-b1a04698fd0d"
+    },
+    {
+      "date": "2025-12-29T12:24:39.755Z",
+      "score": 1,
+      "thumbsUp": 3,
+      "user": "Marek Svanda",
+      "text": "It didn't really track anything during the free trial week. I have cancelled subscription on day two. They still tried to charge me for a yearly subscription. Luckily it was on my specific card exactly for these \"free trials\". So no money gone and future transactions blocked. You are not getting my money, even though you sure tried.",
+      "reply": "Hi there! If you forgot to cancel your trial here is some information on how to request a refund! https://support.sleepcycle.com/hc/en-us/articles/360008140193-How-do-I-claim-a-refund-",
+      "replyDate": "2026-01-21T12:08:14.280Z",
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=6273997f-fd96-4b84-b22e-8f924ebb8c3a"
+    },
+    {
+      "date": "2025-12-29T10:14:14.824Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Hamze Ghazban",
+      "text": "very good app but please add language persian for app",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=97c82010-004e-4277-87ba-9b467a59e9c6"
+    },
+    {
+      "date": "2025-12-29T09:42:53.987Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "No name fits here",
+      "text": "Now possible to cancel the subscription through the app - there is no such option. What a shame. Had to use Google support to cancel it.",
+      "reply": "Hi there! To cancel the subscription, follow this link and the instructions; https://support.sleepcycle.com/hc/en-us/articles/207392945-How-do-I-cancel-my-Premium-subscription-",
+      "replyDate": "2026-01-21T12:07:13.510Z",
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=c24f26da-85ff-4b46-bbbc-e69aadd6b0b6"
+    },
+    {
+      "date": "2025-12-27T13:11:44.550Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Pi vot",
+      "text": "Way too expensive. Make it free it's for the good",
+      "reply": "Hi there! Our free version works perfectly if you want to track your sleep in a more simple manner! You can read more about all the free features here! https://support.sleepcycle.com/hc/en-us/articles/206704909-Sleep-Cycle-Freemium-vs-Premium-Features",
+      "replyDate": "2026-01-21T12:08:25.515Z",
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=014808c9-b08d-4f2f-8cfe-4390ae3f6a38"
+    },
+    {
+      "date": "2025-12-27T13:03:24.800Z",
+      "score": 3,
+      "thumbsUp": 11,
+      "user": "David Diez",
+      "text": "I love the non-premium as a simple alarm. It has such calming alarms to wake up to. However, occasionally it doesn't work. I use the fixed time wakeup, and this morning I looked at my phone and it was 4 minutes after the alarm was set for but it hadn't gone off. I tapped on the app and then the alarm went off. This is a recurring issue, and I always set a backup alarm for days it is important for me to wake on time. This issue is random but a severe issue for an alarm. Never trust this alarm.",
+      "reply": "Hi there! Please reach out to us at Support@sleepcycle.com so we can take a closer look at this!",
+      "replyDate": "2026-01-21T12:24:38.715Z",
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=a32c4e84-e2fb-48db-9522-9db8d36ad834"
+    },
+    {
+      "date": "2025-12-26T04:12:36.472Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "A S.B",
+      "text": "make some more features free otherwise 5 stars",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=91f1a63e-2ecb-42ee-a8a5-f821b432dbfd"
+    },
+    {
+      "date": "2025-12-24T13:57:46.349Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "Demian Khan",
+      "text": "great app for long term data. Should expand to a wearable device.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=5c3ba20f-73a7-4b39-a06f-da03b5ee7b01"
+    },
+    {
+      "date": "2025-12-24T09:57:44.703Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Ali Ghorbani",
+      "text": "Practical",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=bed1cdfc-0924-4f19-8381-7da5f8839816"
+    },
+    {
+      "date": "2025-12-23T20:44:08.935Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "amir taghavi",
+      "text": "good but if free is better",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=c643e690-8f1a-4e94-95b0-ac89bf426b83"
+    },
+    {
+      "date": "2025-12-22T12:22:59.939Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "sam sami",
+      "text": "عالی",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=9294ea18-e013-4d24-990b-1b01bbd597ee"
+    },
+    {
+      "date": "2025-12-22T06:25:11.950Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "J",
+      "text": "app now includes \"limited offers\" which are just ads for other products. this app has quickly gone downhill and it looks like it's time to switch with this advertising update",
+      "reply": "Hi there! Thank you for your feedback, we really appreciate it!",
+      "replyDate": "2026-01-21T12:06:56.830Z",
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=cc4b7003-a7f3-4cd8-af18-182758ff3d63"
+    },
+    {
+      "date": "2025-12-21T14:30:26.274Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Akash G",
+      "text": "not 🚭",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=671932cb-ae48-4ef4-b8d7-38f9c001efaf"
+    },
+    {
+      "date": "2025-12-21T02:35:34.136Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Shanna Kavanagh",
+      "text": "I have used this app every night for years and had intended to continue doing so, however, I have just switched to a new phone and went to open the app, but it will not allow me use it at all (even the free parts) without making an account. I was pretty sure I don't have one, but double checked the original one on my old phone and there is definitely no account logged in on it and never has been. I have now downloaded a different app that I can use without having to create an account and login.",
+      "reply": "Hi there! We understand that not everyone wants to commit to an account and we respect that. The reason we ask for this is if we don’t know who you are, we can’t give you our best support and assistance if something’s not working. When you sign up, you secure your data, use of the product and you also allow us to provide you with better help.",
+      "replyDate": "2026-01-21T12:05:26.750Z",
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=4a47474d-a813-4533-88d6-37402269fb3f"
+    },
+    {
+      "date": "2025-12-19T17:45:21.780Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Angelo Ranque",
+      "text": "you need to pay",
+      "reply": "Hi there! Our free version works perfectly if you want to track your sleep in a more simple manner! You can read more about all the free features here! https://support.sleepcycle.com/hc/en-us/articles/206704909-Sleep-Cycle-Freemium-vs-Premium-Features",
+      "replyDate": "2026-01-21T12:09:48.148Z",
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=6d43015d-404c-4595-9e00-dc6868f6fcee"
+    },
+    {
+      "date": "2025-12-18T17:52:34.230Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Alireza Black",
+      "text": "good 👍",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=e5982cda-cdcb-41cc-b6e6-81273fece722"
+    },
+    {
+      "date": "2025-12-18T16:15:23.652Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Greg Motter",
+      "text": "Initial impression is it is atrocious at detecting actual sleep.",
+      "reply": "Hi there! Please reach out to us at Support@sleepcycle.com so we can take a closer look at this!",
+      "replyDate": "2026-01-21T12:08:34.956Z",
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=bf16f21c-34b8-4877-b138-5b4a8c3743df"
+    },
+    {
+      "date": "2025-12-15T19:55:36.432Z",
+      "score": 3,
+      "thumbsUp": 11,
+      "user": "Jack Dobbins",
+      "text": "Pay for most of the features at a ridiculous price...the way everything is expensive now I think it's ridiculous to not have an option at the very least to just buy the app permanently...instead you have just a continuous yearly subscription, not worth it! Plus, the app opens up in the background of my phone...if I don't open the app, the app should not be open!",
+      "reply": "Hi there! Our free version works perfectly if you want to track your sleep in a more simple manner! You can read more about all the free features here! https://support.sleepcycle.com/hc/en-us/articles/206704909-Sleep-Cycle-Freemium-vs-Premium-Features",
+      "replyDate": "2026-01-21T12:24:22.995Z",
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=6049e8d8-a642-4698-9c35-466afd2c4269"
+    },
+    {
+      "date": "2025-12-15T18:27:00.616Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Leo Smith",
+      "text": "good overall app. paid subscription gives you all access. worst experience when running on low battery mid night as it will WAKE YOU UP no matter what with a very loud alarm in the middle of your sleep.",
+      "reply": "Hi there! This is an option you need to turn off yourself in settings! Go to profile > more > battery warning! This is a default precaution so that the phone does not die and therefore might cause you to oversleep but you can easily turn it off!",
+      "replyDate": "2026-01-21T12:06:35.287Z",
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=448752f2-03a6-4a6d-845f-54418d387845"
+    },
+    {
+      "date": "2025-12-15T07:03:14.221Z",
+      "score": 3,
+      "thumbsUp": 2,
+      "user": "David McNamara",
+      "text": "Having over 3000 nights recorded, it's a great app, and I have the Founders Premium on Apple. Unfortunately, I can't share my premium across to Android, and the subscription fees are ridiculous.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=d317a003-01b5-4912-a926-18d55e2e2ff0"
+    },
+    {
+      "date": "2025-12-13T20:56:11.365Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Tom Roelofs",
+      "text": "have been using this app successfully for over 2 yrs, happy user",
+      "reply": "Hi there! It's fantastic to hear that you're satisfied with our app! Thank you for your support!",
+      "replyDate": "2026-01-21T14:03:18.815Z",
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=351cbef8-acd7-4c5e-90dd-875e5737e6d1"
+    },
+    {
+      "date": "2025-12-13T05:09:35.470Z",
+      "score": 2,
+      "thumbsUp": 1,
+      "user": "Muhammed Hussain Karimi",
+      "text": "I love the idea, But sleep data is absolutely wrong compared to my Amazfit watch, it would be great if it can get integrated with the Zepp app and use sleep data from there or get installed in my watch and use sleep data from there directly",
+      "reply": "Hi there! Thank you so much for your feedback, we really appreciate it!",
+      "replyDate": "2026-01-21T12:23:52.943Z",
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=9da99217-95d6-4eac-9e80-6335e7f84fe7"
+    },
+    {
+      "date": "2025-12-10T09:24:49.450Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "Josh Forner",
+      "text": "Nice app and all. Just think you guys are missing a trick. Most legacy sleep tracking on wearables is a bit inaccurate... You should develop the app for Android Wear. I mainly have unsubscribed because I don't wish to leave my phone on throughout the night. If the full app experience was available on watches, I'd keep using it.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=814fb888-30ea-459e-b8ec-09dc8af858b0"
+    },
+    {
+      "date": "2025-12-09T08:52:51.364Z",
+      "score": 1,
+      "thumbsUp": 3,
+      "user": "The Silk Road",
+      "text": "I don't do rip-off subscriptions. I am more than willing to purchase the app once, but not over and over again.",
+      "reply": "Hi there! Our free version works perfectly if you want to track your sleep in a more simple manner! You can read more about all the free features here! https://support.sleepcycle.com/hc/en-us/articles/206704909-Sleep-Cycle-Freemium-vs-Premium-Features",
+      "replyDate": "2026-01-21T12:09:00.850Z",
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=30965d8a-fd4b-46c0-8bad-2ce72fcfeba1"
+    },
+    {
+      "date": "2025-12-09T03:12:10.816Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Nazi Badsar",
+      "text": "very good,thanks",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=9bead3be-0cf0-4f9f-99b1-fd90015292db"
+    },
+    {
+      "date": "2025-12-08T12:48:27.700Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Derek",
+      "text": "Shares your sleeping information with third parties for advertising purposes, even when they tell you they don't. The privacy controls don't do anything.",
+      "reply": "Hi there! To change any privacy settings, go to profile > more > consent and privacy and change here!",
+      "replyDate": "2025-11-18T10:38:33.492Z",
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=f0a2e420-26b7-47dd-b0fe-edb3bae3be9e"
+    },
+    {
+      "date": "2025-12-08T07:09:13.987Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "габи!¡",
+      "text": "очень хорошое приложение! хорошо отследует сон но у меня есть вопрос, если я ночью вдруг просыпаюсь и включаю телефон то у меня это защитывает что я проснулась? просто я утром лежу в кровати потом",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=f5a2a1e3-e29e-417d-9a77-851c3e65bf77"
+    },
+    {
+      "date": "2025-12-07T05:28:17.794Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "Michael Salois",
+      "text": "interesting to find my sleep.cycles, and I like the easy wakeup in the morning.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=12b4f9a0-ca5b-449c-9d53-19d3a4561ec3"
+    },
+    {
+      "date": "2025-12-07T05:22:49.496Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Hasti Esmaili",
+      "text": "amazing.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=429dd5c9-0a09-45e9-85fd-c045723b2493"
+    },
+    {
+      "date": "2025-12-05T21:38:09.743Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Laurie Kerp",
+      "text": "Suggested by my sleep company as a way to order supplies. Naturally they did not mention the cost of $39.99 annually. I uninstalled the app!",
+      "reply": "Hi there! Our free version works perfectly if you want to track your sleep in a more simple manner! You can read more about all the free features here! https://support.sleepcycle.com/hc/en-us/articles/206704909-Sleep-Cycle-Freemium-vs-Premium-Features",
+      "replyDate": "2025-12-09T10:04:54.910Z",
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=5ab91374-84dd-4fd9-8957-7a960b0f223c"
+    },
+    {
+      "date": "2025-12-05T02:22:37.380Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Rushant Sharma",
+      "text": "Best",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=ca9514a6-d7aa-40c1-8461-a705e83b3277"
+    },
+    {
+      "date": "2025-12-04T11:07:17.344Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Adrienne Arnold",
+      "text": "Please upgrade the app. it doesn't keep track of my sleeping and the wake easy option is malfunctioning. It just goes off like a regular alarm. thank you ❤️",
+      "reply": "Hi there! Please reach out to us at Support@sleepcycle.com so we can take a closer look at this!",
+      "replyDate": "2025-11-18T10:54:56.786Z",
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=6d385c26-91ee-4de4-adf2-5dfd38e33889"
+    },
+    {
+      "date": "2025-12-02T09:25:18.798Z",
+      "score": 5,
+      "thumbsUp": 6,
+      "user": "Queen Ruby",
+      "text": "this app has really truly helped AND done so much more then I thought it would. I can honestly say I'm highly impressed 😎 BUT be aware some of yall might hear some creepy s**** on there if you're dealing with any spirits because I went through it and this app benefited me to f9gure out what was going on along with ALOT of sleep talking background noise 😂",
+      "reply": "Hi there! We're delighted to hear that our app is meeting your expectations! Thanks for the positive review!",
+      "replyDate": "2025-12-03T12:05:46.218Z",
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=98b7c9fd-fde5-4e97-9076-3f200d1d7942"
+    },
+    {
+      "date": "2025-12-01T18:20:16.670Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "naz shir",
+      "text": "Perfect",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=0d1dc336-8928-4dbe-a8f1-0450bde8e286"
+    },
+    {
+      "date": "2025-12-01T07:32:16.682Z",
+      "score": 1,
+      "thumbsUp": 2,
+      "user": "XironRules",
+      "text": "This app does not work at all. I was awake for 2,5 hours just thinking and thinking and i could not sleep, but this app shows that as deep sleep somehow LMAO. I'm glad i had this rough night because i believed this app before this rough night lol, i can't believe how many people are getting tricked by this app LMAO. And if you don't want to believe it, try to Google it and see how inaccurate this actually is, it's ultra inaccurate.",
+      "reply": "Hi there! It sounds like there might be something disturbing the tracking here! If you contact us at Support@sleepcycle.com we can help you take a closer look at what might be causing this!",
+      "replyDate": "2025-12-03T10:26:15.798Z",
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=38d274bd-58dd-4024-856c-0baecd61e68f"
+    },
+    {
+      "date": "2025-11-30T12:44:17.629Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Farang Ding Dong",
+      "text": "You need to create an account before first use.",
+      "reply": "Hi there! We understand that not everyone wants to commit to an account and we respect that. The reason we ask for this is if we don’t know who you are, we can’t give you our best support and assistance if something’s not working. When you sign up, you secure your data, use of the product and you also allow us to provide you with better help.",
+      "replyDate": "2025-12-03T10:23:43.589Z",
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=ce34aa8e-9161-4cf2-96ec-e9c9e01e9a03"
+    },
+    {
+      "date": "2025-11-30T02:02:08.953Z",
+      "score": 3,
+      "thumbsUp": 1,
+      "user": "Jimmy Dee",
+      "text": "It's more stable than sleepscore. But holy heck it is NAGGY. Constantly clicking away from the nag pop-up as I am exploring the interface. Turned me off so much, I feel very motivated to just delete it. The snoring and coughing monitoring is good, but coughing is paid. Also, no REM monitor. So I will likely stop using it, just because of the nag annoyance.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=6a3ac95a-fdeb-4452-97e5-efbfdb013a00"
+    },
+    {
+      "date": "2025-11-28T18:25:47.485Z",
+      "score": 3,
+      "thumbsUp": 1,
+      "user": "Robert Katuna",
+      "text": "needs some work. often keeps showing that I'm still sleeping a few hours after I woke up, and drove an hour to work, and walked around the office for awhile. all this despite Samsung Health showing my current times asleep and awake. not sure what the disconnect is here with the app if I have them linked. this gives me hesitation in trusting that the other app features are accurate readings either if it can't sense that I'm awake and activelywalking around. would be nice if you could edit times",
+      "reply": "Hi there! This can unfortunately happen when using automatic start, since we go off the watch's settings, and start tracking when the watch tells us you are asleep, and you also need to stop the session yourself. So if this is a regular issue, I recommend starting the session manually instead.",
+      "replyDate": "2025-12-03T12:00:22.228Z",
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=bb75651e-47a8-441b-8d80-fe7d0180e3e8"
+    },
+    {
+      "date": "2025-11-27T13:01:13.371Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Anieska Alcaide",
+      "text": "great",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=acd4d4ff-cefc-485e-bf67-a6d009703506"
+    },
+    {
+      "date": "2025-11-27T07:40:36.870Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "D L",
+      "text": "rubbish demands Internet and hijacking of Gmail, never mind the excessive useless animations that refuses to end, uninstalling this garbage.",
+      "reply": "Hi there! Thank you so much for your feedback, we really appreciate it!",
+      "replyDate": "2025-12-03T10:22:34.532Z",
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=51d213b0-37d8-4a07-a191-17685b431435"
+    },
+    {
+      "date": "2025-11-26T22:57:30.523Z",
+      "score": 2,
+      "thumbsUp": 1,
+      "user": "Ian Horner",
+      "text": "Useless unless you pay for a subscription",
+      "reply": "Hi there! Our free version works perfectly if you want to track your sleep in a more simple manner! You can read more about all the free features here! https://support.sleepcycle.com/hc/en-us/articles/206704909-Sleep-Cycle-Freemium-vs-Premium-Features",
+      "replyDate": "2025-12-03T11:54:45.800Z",
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=a54ce7dd-e9a7-41ef-9a6d-0c2492c59f55"
+    },
+    {
+      "date": "2025-11-25T22:08:35.215Z",
+      "score": 2,
+      "thumbsUp": 1,
+      "user": "Simon Hart",
+      "text": "is expensive for what it is. Not particularly accurate either, despite my phone going in the same place every night, it picks and chooses when it wants to record anything at all! then, when it does, the recordings are fragmented and not particularly helpful. Will not be renewing.",
+      "reply": "Hi there! It sounds like there might be something disturbing the tracking here! If you contact us at Support@sleepcycle.com we can help you take a closer look at what might be causing this!",
+      "replyDate": "2025-12-03T10:26:57.862Z",
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=f65372db-b719-48a3-94b6-4c8421bf85c7"
+    },
+    {
+      "date": "2025-11-25T14:51:49.572Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Chevis Brown",
+      "text": "I don't believe the recorder is capturing the sounds that wake me up at night! But I keep trying!!",
+      "reply": "Hi there! Please reach out to us at Support@sleepcycle.com so we can take a closer look at this!",
+      "replyDate": "2025-12-03T10:14:47.861Z",
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=97bcdb43-3fea-46ba-b077-bcd0aca0dc3d"
+    },
+    {
+      "date": "2025-11-25T07:41:13.100Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "foxxegov",
+      "text": "The app is completely stupid: there are nights when I can't fall asleep, and I know for sure that I'm awake from, say, 1 a.m. to 4 a.m. But the app detects this as \"deep sleep\" or somewhere in the middle of sleep. Even if the phone is next to my pillow and I'm constantly tossing and turning, the app still shows that I slept well: 90-98%. I can walk around the room with the phone or drop it, and the app will still detect it as sleep. And this is definitely not a bug.",
+      "reply": "Hi there! It sounds like there might be something disturbing the tracking here! If you contact us at Support@sleepcycle.com we can help you take a closer look at what might be causing this!",
+      "replyDate": "2025-12-03T10:14:33.770Z",
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=e43dec8e-c20c-4236-ba99-df34c0c82233"
+    },
+    {
+      "date": "2025-11-24T17:31:40.805Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "Brad Smith",
+      "text": "too expensive.",
+      "reply": "Hi there! Thank you so much for your feedback, we really appreciate it!",
+      "replyDate": "2025-12-03T11:55:59.782Z",
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=946390cc-f633-4105-bade-71cab8062e6c"
+    },
+    {
+      "date": "2025-11-24T02:14:35.720Z",
+      "score": 2,
+      "thumbsUp": 1,
+      "user": "Jacob Siegel",
+      "text": "the new updates and ridiculous animations make the app super clunky and slow to use",
+      "reply": "Hi there! Please reach out to us at Support@sleepcycle.com so we can take a closer look at this!",
+      "replyDate": "2025-12-03T10:27:26.711Z",
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=281403c7-3503-4d60-b22d-bbf7a2bdef4a"
+    },
+    {
+      "date": "2025-11-23T01:30:49.545Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "V-Racing (Vince)",
+      "text": "The app is great and really helps see where you can make improvement. one thing that bugs me is that it randomly starts up. some times you open the app and it starts the sleep monitor. some times I will be using my phone and the app opens and starts a sleep monitor.",
+      "reply": "Hi there! This can happen when using automatic start on the watch, since we start the tracking when your watch detects you as being asleep, so if this is a regular issue, I would recommend starting the session manually instead.",
+      "replyDate": "2025-12-03T12:03:05.257Z",
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=b50fc222-b513-4372-bd26-995773856af8"
+    },
+    {
+      "date": "2025-11-22T21:32:25.163Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Werner Needham",
+      "text": "it's not free, it's 7 days free IF you give your banking details 🤣🤣 nice try.",
+      "reply": "Hi there! Please reach out to us at Support@sleepcycle.com so we can take a closer look at this!",
+      "replyDate": "2025-12-03T10:24:04.561Z",
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=d2486c01-c59e-4ac4-a778-ab8af779019a"
+    },
+    {
+      "date": "2025-11-22T09:24:33.910Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Rafael Jordan",
+      "text": "I love the wakeup window function!",
+      "reply": "Hi there! We're delighted to hear that our app is meeting your expectations! Thanks for the positive review!",
+      "replyDate": "2025-12-03T12:05:25.466Z",
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=8a49b35c-1d67-4721-9e5b-d61890b89cc3"
+    },
+    {
+      "date": "2025-11-22T03:56:50.944Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Ryan Chin",
+      "text": "it works great",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=f92de8e9-c80b-44de-ae69-c9a8b6542eab"
+    },
+    {
+      "date": "2025-11-21T07:18:00.284Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "علی پناهی",
+      "text": "فقط بخاطر یه سری عدم دسترسی هاش ۴ ستاره دادم. در مجموع برنامه خوب و کاربردی هست.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=9d3e3bf8-3bae-4756-819c-3d94d9764150"
+    },
+    {
+      "date": "2025-11-18T04:33:25.720Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Ja",
+      "text": "premium subscription for you to make a little graph? hell nah",
+      "reply": "Hi there! Our free version works perfectly if you want to track your sleep in a more simple manner! You can read more about all the free features here! https://support.sleepcycle.com/hc/en-us/articles/206704909-Sleep-Cycle-Freemium-vs-Premium-Features",
+      "replyDate": "2025-11-18T10:44:35.562Z",
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=7de426c1-b603-4ec4-ad21-8bbae88eeb33"
+    },
+    {
+      "date": "2025-11-18T02:22:39.424Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Angel",
+      "text": "the sleep tracker app has been my go-to for years I have no idea why I haven't rated it until now",
+      "reply": "Hi there! It's fantastic to hear that you're satisfied with our app! Thank you for your support!",
+      "replyDate": "2025-11-18T10:57:50.845Z",
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=9d764e91-19d9-4289-b38c-449a79b17fe1"
+    },
+    {
+      "date": "2025-11-17T06:38:29.567Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "karam simmonds",
+      "text": "doesn't seem to work after last phone update.. doesn't auto start or sync with watch.",
+      "reply": "Hi there! Please reach out to us at Support@sleepcycle.com so we can take a closer look at this!",
+      "replyDate": "2025-11-18T10:50:50.673Z",
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=d0bf6a3a-3c8d-4af4-a942-e093df0ce205"
+    },
+    {
+      "date": "2025-11-15T19:56:17.453Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "bagher hajghani",
+      "text": "best in the world",
+      "reply": "Hi there! We're delighted to hear that our app is meeting your expectations! Thanks for the positive review!\n",
+      "replyDate": "2025-12-03T12:05:37.763Z",
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=552ed762-f2c1-48da-8419-9829941be711"
+    },
+    {
+      "date": "2025-11-15T03:46:47.275Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "Wesley Stevenson",
+      "text": "No way to delete some nights... otherwise it's a good app. I took off 2 stars because deleting some sleep is a must for when I forgot about it or didn't sleep correctly etc.",
+      "reply": "Hi there! We do not have the option to manually edit or add any sleep data in the app right now.\nIf you want to delete a whole day from the journal/your statistics, you can do that by going to the specific day you want to delete in the journal, scrolling down to the bottom, and clicking on the option \"Delete this day.\"",
+      "replyDate": "2025-11-18T10:54:41.624Z",
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=f3f76a9d-510e-4822-80c1-3546e4007633"
+    },
+    {
+      "date": "2025-11-14T14:20:57.806Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Cheryl Mitchell",
+      "text": "I feel so much better knowing that my sleep cycle is being monitored. Now I am able to make adjustments to my daily routines",
+      "reply": "Hi there! It's fantastic to hear that you're satisfied with our app! Thank you for your support!",
+      "replyDate": "2025-11-18T10:56:49.560Z",
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=cf5fda5a-5073-4185-a4d1-e782c27cb4d5"
+    },
+    {
+      "date": "2025-11-14T12:05:22.637Z",
+      "score": 4,
+      "thumbsUp": 49,
+      "user": "Natalie Bielejeski",
+      "text": "Overall the app is pretty great, even on the free version. I especially like that I can just tap my phone to snooze the alarm. The reason for four stars is sometimes the alarm doesn't sound at all. On those nights, it appears to not really track sleep either as the chart shows only a straight line across the bottom of the sleep graph. Not sure what's going on there. I always have a backup alarm set anyway but it's still frustrating.",
+      "reply": "Hi there! If your graph shows a straight line there is something disturbing the tracking! If you contact us at Support@sleepcycle.com we can help you take a closer look!",
+      "replyDate": "2025-11-18T10:55:16.752Z",
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=3a4862b0-c270-42d7-bf8f-399849f1e6d9"
+    },
+    {
+      "date": "2025-11-12T21:24:59.591Z",
+      "score": 2,
+      "thumbsUp": 1,
+      "user": "Lawrence Beck",
+      "text": "after having a one year subscription I decided not to renew. I now get a better analysis of my sleep patterns than when I was paying for the service!!! Don't be conned into paying for this.",
+      "reply": "Hi there! Please reach out to us at Support@sleepcycle.com so we can take a closer look at this!",
+      "replyDate": "2025-11-18T10:45:23.679Z",
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=17092ae0-2f14-4ebc-9c9a-cc7d1d10c0e3"
+    },
+    {
+      "date": "2025-11-12T06:23:54.775Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Daisy Olivera",
+      "text": "said free and is no free",
+      "reply": "Hi there! Our free version works perfectly if you want to track your sleep in a more simple manner! You can read more about all the free features here! https://support.sleepcycle.com/hc/en-us/articles/206704909-Sleep-Cycle-Freemium-vs-Premium-Features",
+      "replyDate": "2025-11-18T10:40:31.341Z",
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=c0fc21b6-7a90-4d47-b2f3-0b2c322b040c"
+    },
+    {
+      "date": "2025-11-11T22:12:43.466Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Aaron Toderash",
+      "text": "Sleep tracking was not accurate at all. I have a sleep disorder, so irregular sleep patterns, and this app is not able to handle this.",
+      "reply": "Hi there! Please reach out to us at Support@sleepcycle.com so we can take a closer look at this!",
+      "replyDate": "2025-11-18T10:35:14.936Z",
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=e0b9094c-1169-463c-b78b-6b1b3a5eb154"
+    },
+    {
+      "date": "2025-11-11T21:26:23.311Z",
+      "score": 1,
+      "thumbsUp": 2,
+      "user": "Marian Nistor",
+      "text": "too expensive, 35£ a year for this is too much. not even an option for a trial or to pay monthly. Uninstalled and went for another app.",
+      "reply": "Hi there! The free trial is a one-time, limited offer that’s only available when first downloading the app. Unfortunately, if it was skipped, it can’t be activated later. We appreciate your understanding and hope you’ll still enjoy exploring the app’s features!",
+      "replyDate": "2025-11-18T10:36:37.169Z",
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=281bcc71-b59b-4643-8c05-8f12ab322a6e"
+    },
+    {
+      "date": "2025-11-10T04:57:48.946Z",
+      "score": 1,
+      "thumbsUp": 2,
+      "user": "Anisha Kafle",
+      "text": "need to provide card details for the \"free trial\"",
+      "reply": "Hi there! Yes, unfortunately, this is how most free trial works, but thank you for your feedback!",
+      "replyDate": "2025-11-18T10:39:45.535Z",
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=a35b510a-db37-4c73-b87d-a90c6e67eb5e"
+    },
+    {
+      "date": "2025-11-09T18:21:03.642Z",
+      "score": 5,
+      "thumbsUp": 3,
+      "user": "Maryam Roshani",
+      "text": "This app is wonderful, but I have a problem, when I want to buy a premium account,my account can't connect to Google play and send me an alarm with this message: **unable to connect to Google play. Pls check your internet connection** i have a strong and stable internet connection and i don't know what's the main problem.",
+      "reply": "Hi there! Please reach out to us at Support@sleepcycle.com so we can take a closer look at this!",
+      "replyDate": "2025-11-18T10:56:18.475Z",
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=26f49fb9-bb22-4d3a-9391-d025f48ca2de"
+    },
+    {
+      "date": "2025-11-09T02:06:18.929Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Lucas “Luke” Landerman",
+      "text": "awesome",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=7852eb39-8bb5-41c5-99b3-53181f2e9027"
+    },
+    {
+      "date": "2025-11-08T19:38:03.109Z",
+      "score": 5,
+      "thumbsUp": 18,
+      "user": "Derek Boyd",
+      "text": "Super useful 👌 No ads as far as I can tell. I use it regularly. Only thing that is missing is that it doesn't connect directly to Samsung Health or Galaxy Watches. You'd have to connect imperfectly through Google.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&reviewId=d5b2c3c0-672c-4fae-8b74-3008f39e351f"
+    }
+  ]
+}

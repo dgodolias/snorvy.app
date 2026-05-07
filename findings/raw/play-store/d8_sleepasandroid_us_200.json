@@ -1,0 +1,2008 @@
+{
+  "app": "com.urbandroid.sleep",
+  "country": "us",
+  "total_pulled": 200,
+  "total_after_filter": 200,
+  "reviews": [
+    {
+      "date": "2026-05-06T11:22:06.606Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Ada",
+      "text": "больше 10 лет пользуюсь только этим приложением",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=0372735a-bfb1-47ec-9132-c6c13b3d936e"
+    },
+    {
+      "date": "2026-05-05T21:39:15.126Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "Patrick",
+      "text": "Been using Sleep by Urban Droid since it launched. When it works, it works. It often flatlines even though I set my phone to never interrupt it's activity.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=cc0de4a2-705d-4c5c-9766-e4b39cca6d3e"
+    },
+    {
+      "date": "2026-05-05T08:43:20.150Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "kumar sanjeev",
+      "text": "yes the best and the best app",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=887d09a8-5316-4edd-bbd4-687f56098715"
+    },
+    {
+      "date": "2026-05-04T22:49:01.554Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "shaun",
+      "text": "I couldn't figure out how to use the app. I wanted to track my snoring. super frustrating.",
+      "reply": "Hello, to track snoring, you need to enable sound analysis and sound recording in Settings → Sleep noise analysis. To start tracking, tap the \"Start sleep tracking\" button on the main screen. What would make this configuration easier to set up, or easier to find? Our contact is support@urbandroid.org. We can help you with settings. Thank you.",
+      "replyDate": "2026-05-05T06:34:11.767Z",
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=fe706865-1cef-43e0-b8a0-55b9f37c1317"
+    },
+    {
+      "date": "2026-05-04T18:36:57.135Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Kenton Young",
+      "text": "The headphone alarm is very helpful for getting up early without waking up the whole house.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=13ee268a-1482-4e39-ac24-8f83af660ee3"
+    },
+    {
+      "date": "2026-05-04T18:12:08.536Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Joey The Green",
+      "text": "More JUNK, they want you to give them money so they can track your activities NOT",
+      "reply": "Hello Joey, the app uses the actigraphy method, which tracks your movement and estimates the sleep phases from the movement data. So yes, a sleep tracking app tracks your activities - is that a bad thing? Was that not expected? The app does not share any data; all your data stays locally saved on your device. support@urbandroid.org",
+      "replyDate": "2026-05-05T06:32:16.700Z",
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=f556c798-b822-4daf-a30c-0e9e533ee725"
+    },
+    {
+      "date": "2026-05-04T15:46:14.318Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "A Google user",
+      "text": "I use this app to keep my life on track. I have used it for many years and it is one of the first things I install on a new phone.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=b82ae026-e683-4dd3-832a-34c6d7b5b537"
+    },
+    {
+      "date": "2026-05-04T04:48:37.715Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Sperry Schafer",
+      "text": "Amazing sleep app, some bugs but overall one of the best sleep apps out there!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=137d13dc-e7c1-4406-9adc-c753d088721a"
+    },
+    {
+      "date": "2026-05-04T04:13:41.125Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Keith Sponsler",
+      "text": "had it for years, it gets better all the time",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=74cde26c-e5b2-4de3-9984-8c779cc9b045"
+    },
+    {
+      "date": "2026-05-03T20:52:34.638Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Mihail Cristian Dumitru",
+      "text": "Got a Garmin watch because it's listed as officially supported by Sleep as Android. But the Sleep app for Garmin is completely broken and unusable. Therefore money wasted on both a watch and premium subscription for the app.",
+      "reply": "Hello Mihail, make sure you have the Watch starter installed, and all the involved apps (Sleep, Connect app, Watch starter and Bluetooth) are excluded from the system optimizations to prevent the addon on the watch from getting stuck. If you start the tracking on the phone and then on the watch, do you see the tracking screen on both devices?",
+      "replyDate": "2026-04-16T14:09:19.519Z",
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=2f6d23a8-05bf-4fa3-be3e-219d5854ec96"
+    },
+    {
+      "date": "2026-05-03T10:35:31.116Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Daniel Reid",
+      "text": "good alarms. like that it can vibrate my watch first.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=3d3efe32-fefe-44a5-841a-a6d399b8f1f3"
+    },
+    {
+      "date": "2026-05-03T01:30:40.554Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Diogo Cassimiro",
+      "text": "it's so good, that it annoys me, because indeed it wakes me up",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=c0de70b1-fbc1-4e1e-8384-1a000609b79b"
+    },
+    {
+      "date": "2026-05-03T01:14:13.400Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "- Atlas",
+      "text": "I've used this app across multiple phones for the better part of a decade and it only gets better with time. Cheers.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=5cfb4470-b512-4806-899a-b10b0239dd7d"
+    },
+    {
+      "date": "2026-05-02T15:08:53.377Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Vincent",
+      "text": "longest running app I've ever had, multiple phones but just as reliable as ever.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=fa8a34f8-3ec8-4b4c-b0aa-87f6c448bd02"
+    },
+    {
+      "date": "2026-05-02T11:00:24.787Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "Cássio Contursi",
+      "text": "I like the app, used it for years. Unfortunately, alarm function has completely stopped working on my Poco X6. Uninstalled.",
+      "reply": "Hello, if your alarms don't go off, please make sure the app is whitelisted from all non-standard background process limitations for processes running in the background.\nPlease, follow our guide: https://dontkillmyapp.com/\nAnd you can also contact us at support@urbandroid.org. Thank you.",
+      "replyDate": "2026-05-04T08:37:30.768Z",
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=510fb267-97a6-496b-ab30-335746a612ed"
+    },
+    {
+      "date": "2026-05-01T14:05:26.847Z",
+      "score": 4,
+      "thumbsUp": 1,
+      "user": "Nico Arcenas",
+      "text": "I really have to suggest better usability of the Android app. There's a lot of smart stuff but a lot of things not smart also: the ease of configuring the \"tiles\" is not there, I want to move them around and set them. also I have preferred settings on setting alarms, but I can't make them permanent like don't stop tracking after alarm. How to set it? maybe the setting is there but it's not easy to find at all.",
+      "reply": "Hello Nico, some features are only available in the per-alarm settings. To manage the tiles on the main screen, you can either use the Hide/Show button, or swipe them away. The long-press on the card will pin it to the top. Which settings are hard to find? Our contact is support@urbandroid.org. Thank you.",
+      "replyDate": "2026-05-04T08:39:06.780Z",
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=c4a70381-e75b-4a06-8c30-dfc6b705c7da"
+    },
+    {
+      "date": "2026-05-01T13:06:07.325Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "Tami K",
+      "text": "Seems comprehensive, if the phases of skeep are indeed accurate - there's little way to know if it is, but it accurately identified me waking up both at 0200 and in the morning. However, running two apps simultaneously to compare, this one doesn't register snoring as well as other apps. (SnoreLab seems the best but expensive). I've just increased detection sensitivity and we'll see if that works better. If it does, this may be the one to keep.",
+      "reply": "Hello Tami, only one app can access the mic, so if you run both apps on the same phone, only one of them will have snoring data. If you have troubles with the snoring detection, please use the Left ≡ menu → Support → Report a bug, and send us your application logs with the screenshot of the Noise graph. Thank you.",
+      "replyDate": "2026-05-02T07:06:01.379Z",
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=cfad9c41-3381-4d51-bc2d-0dc61d070bb1"
+    },
+    {
+      "date": "2026-05-01T12:42:22.345Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Jamie Wright",
+      "text": "I like all the features I can tell if I've had good sleep or not very helpful",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=d53a0225-6cf1-4f61-a801-fa5df09b9a0b"
+    },
+    {
+      "date": "2026-05-01T07:08:32.137Z",
+      "score": 4,
+      "thumbsUp": 1,
+      "user": "John L. Stanley",
+      "text": "Could you please add a feature that would temporarily switch the loud volume off when the phone is being moved? So if I pick up the phone to check something late at night, and and an in-app video ad starts up, it's not going to wake the whole house.",
+      "reply": "Hello John, you can use the DND (mutes all notifications and media sounds, depending on your settings), or \"Turn off when sleeping\" - this is meant for lullabies, but will work on any sounds using the media sound stream. For more details, please contact support@urbandroid.org. Thank you.",
+      "replyDate": "2026-05-01T08:08:48.324Z",
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=2fbc65fe-9ee4-4cbd-bd68-69defe5eb92a"
+    },
+    {
+      "date": "2026-04-30T22:40:20.100Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Caspar",
+      "text": "pretty good app, but am accumulating infinite sleep debt (while sleeping on average 7h and 37 minutes per day). shouldnt that stuff expire sometime?",
+      "reply": "Hello Caspar, you can change your daily sleep goal in settings to better fit your needs (Settings → Personalize → Stats). The Score card works with the last 14 days, the Chart works with the period selected. So the \"all-time\" data show the whole debt accumulated over time. For more details, please contact support@urbandroid.org. Thank you.",
+      "replyDate": "2026-04-17T17:17:54.595Z",
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=c27bb3ee-93fa-4ed0-9d99-efed7b9baaf9"
+    },
+    {
+      "date": "2026-04-30T21:46:58.754Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Paul R",
+      "text": "Android wear?",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=7c0e7ed3-e60f-4e48-9867-805b5f7a98d2"
+    },
+    {
+      "date": "2026-04-30T16:04:56.620Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Edward Ryder",
+      "text": "\"You are dreaming\" if you can't find a useful feature of Sleep as Android. I tried it for free at first for the smart alarm wake up in the morning. Now, I have tons of settings to help guide me thru a full and restful sleep.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=62d72340-aaa2-4cf5-95a3-d244b53fe2b4"
+    },
+    {
+      "date": "2026-04-30T12:38:39.100Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Caleb Ardern",
+      "text": "love it ! integrates with everything. great sleep tracking and support. you can see the devs want to do more as they expand their product line to include more apps. great work team !",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=1ffaf76d-8119-4192-9ebb-92033fe7d808"
+    },
+    {
+      "date": "2026-04-30T04:33:27.830Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Brandon Cupp",
+      "text": "fantastic program! i have used it for over 5 years now. If you sleep through alarms, not anymore with the captcha function.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=ee976b28-6464-4ca3-8fae-cbfd93675359"
+    },
+    {
+      "date": "2026-04-30T03:17:02.725Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Aswathy A.S",
+      "text": "I have been dying to find a good sleep app and I believe this is the best alarm I could find",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=f7886f9d-63f5-40e2-8c12-b759aa512784"
+    },
+    {
+      "date": "2026-04-29T23:32:33.932Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Karthi Vootukuri",
+      "text": "This app allows you to use very customisable alarms for free. There are features which allow you to use a playlist of alarm sounds or set various tasks before the alarm turns off. I make good use of the QR / barcode task myself. It doesn't have invasive ads. The mechanisms in the app have, in my experience, been very robust.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=83284601-9cb0-46eb-96b7-7ddf095015b9"
+    },
+    {
+      "date": "2026-04-29T19:50:38.818Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Avi Assayag",
+      "text": "none of the special features work. its a low scam",
+      "reply": "Hello, the app is free to use, you get complete functionality in the free version with just a few limitations, you get complete sleep tracking every second day, and basically unlimited time to test it, before you decide to purchase the premium - full version. All non-tracking features are free without limitations. support@urbandroid.org",
+      "replyDate": "2026-04-30T06:01:15.926Z",
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=2749cdfb-db36-4cb2-a2aa-70f42804785a"
+    },
+    {
+      "date": "2026-04-29T10:08:11.304Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Mike Gibson",
+      "text": "Completely unreliable. I've been using this app for 8 days as of today. so far, on 2 occasions, it has failed to launch Spotify (I have the alarm set to use Spotify) and so it has remained quiet. today, it failed to go off at all, and when I checked the app, it had: erased my Tuesday/Wednesday alarm, altered my Monday/Thursday/Friday alarm to only go off on Thursday. So, I absolutely would not suggest trusting it. luckily I never trust anything so I had set some backup alarms.",
+      "reply": "Hello Mike, could you please use the Left ≡ menu → Support → Report a bug, and send us your logs? We do not have any other user whose alarms are randomly erased or changed, so we need to check what has happened in your logs. If the Spotify app fails to launch, make sure it is not \"optimized\" by your system. More details at support@urbandroid.org.",
+      "replyDate": "2026-04-29T16:59:42.767Z",
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=51a15937-d45a-4c76-b6a4-4aa556d62a3c"
+    },
+    {
+      "date": "2026-04-29T09:54:41.339Z",
+      "score": 2,
+      "thumbsUp": 1,
+      "user": "CrocOsnake",
+      "text": "Generally enjoyable, but the captias sometimes break & refuse to work as intended, & at times has replaced my alarm with a different significantly more irritating one. according to others, the alarm is absurdly loud & can be heard from outside the building no matter how low I set the volume.",
+      "reply": "Hello, the full volume alarm with basic ringtone is a fallback alarm, that is triggered, if you do not react to your regular alarm for more than 20 minutes. What issue with the CAPTCHA do you have? Which CAPTCHA tasks are you using? Are they working in the preview? Our contact is support@urbandroid.org. Thank you.",
+      "replyDate": "2026-04-29T16:58:05.673Z",
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=8efb9b9d-47ba-4b96-bafd-cb4472efe28e"
+    },
+    {
+      "date": "2026-04-29T06:28:31.403Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Benjamin Treur",
+      "text": "This app has brought me through many mornings in the train. Due to the alarm-on-headphones-only functionality, I could take a nap in public transport while ensuring I wouldn't miss my station.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=be988d05-2fe0-4264-9be4-da916fcbcc0c"
+    },
+    {
+      "date": "2026-04-28T02:22:42.700Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "A Google user",
+      "text": "I've been using this app for more than 10 years, every single day. It's fantastic.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=1917a1f1-850e-4d7a-8d53-79e0969bee43"
+    },
+    {
+      "date": "2026-04-27T10:50:19.654Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "Virginia Pitts",
+      "text": "I LOVE this app. It's been my alarm app for years, always very reliable. Love the customization options, love how postponing my alarm for one day (or making it earlier) is so easy. I'm updating my review now with something even better: their support is amazing. I noticed a minor bug. Sent an email literally saying \"you don't have to respond to this email.\" Got a response within 40 minutes and the bug was fixed within a day! And it's literally the only issue I've ever had. 100% recommend",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=d0d8251b-0263-4dd3-812b-4a01d498956a"
+    },
+    {
+      "date": "2026-04-27T06:05:33.900Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Mohammad Al Duhun",
+      "text": "Helped me a lot, and I like how their alarm system works.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=be620990-da65-40f6-91fa-cb5551fe1c94"
+    },
+    {
+      "date": "2026-04-27T03:23:14.996Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "AlmuJaini (‫هلال المجيني‬‎)",
+      "text": "سعر رمزي بس مفيد جدا يحددلك حودة نومك باستخدام حساسات متنوعة للحصول على أفضل جودة بالاضافة يعطيك تفاصيل الشخير من أول النوم حتى تصحى مع ميزة تشغيل تنبيه عشان يساعدك توقف شخير",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=60e2fa9a-37da-448e-91d5-f9ceed7efab7"
+    },
+    {
+      "date": "2026-04-27T03:04:16.752Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Julie Warnke",
+      "text": "great app",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=13dab075-bbdf-4401-9da5-c7319bf89ec9"
+    },
+    {
+      "date": "2026-04-26T21:03:09.744Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Lance Flatman",
+      "text": "A great sleep app that covers every aspect of sleep and continually builds upon their existing structure.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=e3f3db35-14a2-4095-b4f2-15d49ee6cb6f"
+    },
+    {
+      "date": "2026-04-26T17:37:48.782Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Benjamin Nash",
+      "text": "Supremely stupid app. Thinks I'm asleep while using phone and moving around, and thinks I'm awake when I don't touch my phone. Having a smart watch doesn't even help.",
+      "reply": "Hello, please have a look here https://sleep.urbandroid.org/docs/sleep/awake_detection.html - this describes how our awake detection works and how you can increase sensitivity if in your environment the app has troubles detecting all your sleep phases. For details please contact support@urbandroid.org. Thank you.",
+      "replyDate": "2026-04-27T06:10:41.581Z",
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=11098223-ce1a-4c3e-a145-32776ab915e6"
+    },
+    {
+      "date": "2026-04-26T09:59:41.749Z",
+      "score": 5,
+      "thumbsUp": 3,
+      "user": "Greg Matthews",
+      "text": "I haven't used my bedside alarm clock in years, not even as a backup. The program is reliable and wakes me gently in the morning. I had to disable the vibrate on alarm function (optional), as the onset of the vibrations would immediately wake me. The gradual audible alarm is much better without it. Well worth the purchase.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=1710ea55-6132-44cb-95a7-4b3b8118d3c3"
+    },
+    {
+      "date": "2026-04-26T05:16:26.673Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Samuel Boehlke",
+      "text": "best sleep app in the world",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=f7b2ecda-310e-447f-8b4f-9a05ad567045"
+    },
+    {
+      "date": "2026-04-25T21:12:32.452Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Elton Wong",
+      "text": "Good app to use",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=70c11268-a2cb-463f-a62f-3ec564b13faa"
+    },
+    {
+      "date": "2026-04-25T15:49:12.945Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Ayaan Mamgain",
+      "text": "If you really need a app that can really wake you up , then this is the only best choice.... It has so many options for waking that you can't escape from it . It has a barcode scanner, if you don't scan any barcode the alarm won't stop AND MUCH MORE......",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=0201799d-7270-41e7-92ac-f72bf0281cf4"
+    },
+    {
+      "date": "2026-04-25T08:14:05.377Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Mercy Bawa",
+      "text": "Love this app, it's just so good, I've used other apps but I love how this one can be customized and it's tracking is accurate to an extent.",
+      "reply": "Hello, is there anything we can do in the app to improve your rating and your experience with the app? If you have any questions about the app or something that is not working as expected, please contact support@urbandroid.org. Thank you for your feedback, much appreciated!",
+      "replyDate": "2026-04-27T08:45:24.470Z",
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=8f56edc6-0261-4ebe-9689-89f6adffd3d5"
+    },
+    {
+      "date": "2026-04-25T04:25:05.995Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "David Ordoñez",
+      "text": "re buena",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=4cf197b4-7c02-4f81-bc13-202d0e971265"
+    },
+    {
+      "date": "2026-04-24T23:27:33.770Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Cristoffer Westerström",
+      "text": "Been using it for nearly 12 years now almost daily and still love it. A really good and smart alarm app with lots of useful features, which helps you to follow your sleep statistics. Two thumbs up!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=f4136bed-7622-47fa-8417-166fde51cce6"
+    },
+    {
+      "date": "2026-04-24T15:52:39.816Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "George Love",
+      "text": "sucks",
+      "reply": "Hello George, we are very sorry for the troubles.\nCould you please contact us at support@urbandroid.org or, even better, directly from the app using the Left ≡ menu → (?) Support → Report a bug and give us more details about your issue?\nWe are unfortunately unable to solve this directly on the Play Store. Thank you.",
+      "replyDate": "2026-04-24T16:54:13.574Z",
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=a23187c7-632e-4576-bf37-1f511cfed5d4"
+    },
+    {
+      "date": "2026-04-24T14:17:47.814Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "Monica Flores-Nelson",
+      "text": "WHY is it that when I accidentally wipe out the alarm, I can't find a way to shut it off? Can we please fix this? Downgrade ⭐⬇️",
+      "reply": "Hello Monica, make sure you have the Full screen alarm option enabled in your settings, so the app can launch the alarm screen. If you accidentally leave the alarm screen, you can control the app from the notification (with snooze/dismiss buttons), or open the app to allow re-launching of the alarm screen.",
+      "replyDate": "2026-04-24T14:25:04.538Z",
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=0fdb2cf7-931b-4857-a4be-b09eca072408"
+    },
+    {
+      "date": "2026-04-24T12:02:47.578Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Akber Butt",
+      "text": "A wonderful app that does what it says on the tin. it's constantly evolving to provide better feedback.",
+      "reply": "Hello Akber, is there anything we can do in the app to improve your rating and your experience with the app? If you have any questions about the app or something that is not working as expected, please contact support@urbandroid.org. Thank you for your feedback, much appreciated!",
+      "replyDate": "2026-04-24T13:29:06.749Z",
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=9a4a997b-a9f9-4859-853e-642dac52ffc7"
+    },
+    {
+      "date": "2026-04-24T07:15:26.553Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Logan Place",
+      "text": "been using it for years, never once had an issue",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=ab58a2f5-7c87-4544-87fe-aeeb865872cd"
+    },
+    {
+      "date": "2026-04-24T06:07:34.810Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Jez Swanson",
+      "text": "I sort of stumbled across this app because of its alarm features. I've been using it for many years now to track my sleeping and I don't think I'll ever stop!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=b8204f54-58e6-4478-bace-89d7e3d3437d"
+    },
+    {
+      "date": "2026-04-24T04:36:56.320Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "AJ Zanger",
+      "text": "I love the alarm screen!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=e08959b0-6d99-4903-ad14-fc7dad644a85"
+    },
+    {
+      "date": "2026-04-24T03:14:44.899Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Stephen Petitt",
+      "text": "I've been using this app for years. Very pleased with it, it has helped me better understand and manage my sleep through some difficult times.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=9d6392fa-5f93-4ab3-8e0a-168b3515eeb2"
+    },
+    {
+      "date": "2026-04-23T13:09:33.462Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "Alex Stanin",
+      "text": "UI needs some improvement",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=3bb488c4-e706-4d41-ac26-95b102b84479"
+    },
+    {
+      "date": "2026-04-23T12:31:35.490Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Sridhar Dhanapalan",
+      "text": "I've been using this every night for well over 10 years, and I don't think it's ever let me down.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=cd177e4c-04df-429f-89d5-3e90d91ab81d"
+    },
+    {
+      "date": "2026-04-23T10:04:19.866Z",
+      "score": 5,
+      "thumbsUp": 31,
+      "user": "Bobby Bennett",
+      "text": "It works well, and the features are as described. Doing math to turn off the alarm is a feature I'll rely on for the rest of my professional life.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=9cdd9809-7a46-4643-8a17-b50e2917d9d1"
+    },
+    {
+      "date": "2026-04-23T09:40:59.202Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "MatthewLovesYou",
+      "text": "Really good sleep tracking app, good free and paid features",
+      "reply": "Hello Matthew, is there anything we can do in the app to improve your rating and your experience with the app? If you have any questions about the app or something that is not working as expected, please contact support@urbandroid.org. Thank you for your feedback, much appreciated!",
+      "replyDate": "2026-04-23T11:23:01.652Z",
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=c3b9e7bf-1af2-4728-af8d-649c01fe7b3c"
+    },
+    {
+      "date": "2026-04-23T06:31:15.503Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Eli Olmos",
+      "text": "I was just very impressed with whoever created all of these apps, I honestly wouldn't care if they harvested every piece of my phone the ui is super intuitive and the functions are through the roof. and I don't just mean this app, I love twilight and power line.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=79588a92-28b0-4434-847e-21939f07b763"
+    },
+    {
+      "date": "2026-04-23T03:32:26.447Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "daniel johnson",
+      "text": "About the only app I can find that wakes me up",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=908e96ff-fa6c-470e-9595-628f50f6fb50"
+    },
+    {
+      "date": "2026-04-23T02:51:04.271Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Linda D",
+      "text": "I really like this app. It's so much better than the other app I used prior to this one. This was recommended by Google. I love how this app is not obnoxious and doesn't bombard you with ads that you can't close. It's a well-built application. there's many features to it and the app I used before this one was not accurate. It had many flaws. This app better reflects and is consistent with how I feel when I wake up. thank you to the development team!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=ebd8fe3c-8935-4589-9065-a268887e6ba2"
+    },
+    {
+      "date": "2026-04-23T01:23:12.910Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Christian Sutton",
+      "text": "it works. it gives me further PTSD about math",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=460deed1-badc-431d-aa7e-f8344c4403da"
+    },
+    {
+      "date": "2026-04-22T20:11:53.613Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "A Google user",
+      "text": "10+ years daily user, love it",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=26064b50-74f9-4160-ad5c-2e1ce6c40bac"
+    },
+    {
+      "date": "2026-04-22T15:21:37.761Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Yuna Jeong",
+      "text": "Gooooooooood",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=920e5da5-bb61-43f6-9bf6-324ed1576444"
+    },
+    {
+      "date": "2026-04-22T13:55:24.965Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "luna love",
+      "text": "I love to see how well I sleep and how it tracks my sleep as well.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=0c5cc813-8f65-4309-bef3-12a65bd10be7"
+    },
+    {
+      "date": "2026-04-22T12:55:50.214Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Robert Anderson",
+      "text": "Great app. it does everything I need and more.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=6c79ab66-f38d-48ba-8341-4e2a321eda78"
+    },
+    {
+      "date": "2026-04-22T11:38:51.425Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Boi Bo",
+      "text": "5 stars straight. No down side",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=fc9a6d06-0375-4b2e-91ba-43d6121dba30"
+    },
+    {
+      "date": "2026-04-22T09:17:13.953Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "Wout Mertens",
+      "text": "Lately the devs have been on fire, the app gets better and better. They recently added support for Android Wear and together with the LG G R it works marvelously. Low battery use, good tracking, no bt connection loss etc. Wonderful! edit 2026: still using it after more than a decade with sleep logs for all that time. It's great!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=75e535c6-76a3-42dc-a825-dc76ba483349"
+    },
+    {
+      "date": "2026-04-22T06:23:02.790Z",
+      "score": 5,
+      "thumbsUp": 5,
+      "user": "A Google user",
+      "text": "App Does what it says on the tin! Wakes me early when possible. Plenty of options, never crashes or force closes. When I start the sleep tracking I turn my screen off with the button on top of my phone, so no issues with over heating or battery drain. HTC Desire HD and HTC One X. 13 years later... And I'm still using thus app!!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=2cb9d973-f7a5-4e89-bffc-7de08d990d30"
+    },
+    {
+      "date": "2026-04-22T05:07:21.557Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Erick de Faria Inacio",
+      "text": "excelente app para despertador e monitoramento de sono, recomendo!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=0510d729-d265-413a-9765-5a9ffff049fa"
+    },
+    {
+      "date": "2026-04-22T03:50:02.310Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Peter Watson",
+      "text": "This is the only alarm app that I use now. Amazing features including integration with Tasker!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=618deb3c-6bcf-4de6-b612-d1a089c4b81a"
+    },
+    {
+      "date": "2026-04-22T02:53:08.622Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Martín Cometti",
+      "text": "Great and reliable. I've been using it for years.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=fe638e3f-dc3d-4aae-b6f5-95ffc3530076"
+    },
+    {
+      "date": "2026-04-21T21:21:56.428Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Tino",
+      "text": "Started showing ads that blare sound on full volume when trying to set your alarm... Very bad experience.",
+      "reply": "Hello, we only show interstitial ads after a long time without any purchase, but as per your report and a new policy, we won't be showing them if the app is in Alarm ONLY mode. Would that address the issue for you? Please let us know at support@urbandroid.org",
+      "replyDate": "2026-04-22T06:17:50.846Z",
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=57c2a4c4-92f3-4348-a41c-860debee88e7"
+    },
+    {
+      "date": "2026-04-21T21:11:33.595Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Greg Winter",
+      "text": "been using this app for like 10 years, have down the best and easiest alarm app. highly recommend.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=924968de-2e98-4680-b7f8-046683858972"
+    },
+    {
+      "date": "2026-04-21T18:53:29.241Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Vitaliy K",
+      "text": "UPD: Found the settings, definitely 5 star! ⭐⭐⭐⭐⭐ Thank you! Really like an app. I have 2 feature requests: 1. Biweekly alarms (e.g. 1st week wake up at 6am, 2nd week wake up at 7am); 2. Enable Watch alarm first (vibrate) and then phone, if alarm was not dismissed or watches are not connected. If I have to get up earlier this will wake up only me.",
+      "reply": "Hello Vitaliy, biweekly alarms are already available - in the per-alarm settings, tap the button beneath alarm time, and choose either \"odd\" or \"even\" for each of the alarms. The wearable alarm can be configured in the settings, please follow https://bit.ly/4kYU9co, or contact support@urbandroid.org. Thank you.",
+      "replyDate": "2026-04-17T05:37:59.465Z",
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=379743c3-c225-43e4-96c7-d22ddc6829db"
+    },
+    {
+      "date": "2026-04-21T13:04:40.572Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Corey",
+      "text": "Useful for the captchas alone. The first and only app I've purchased premium for.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=120601dd-0d83-4370-837a-cb289b3ac8ab"
+    },
+    {
+      "date": "2026-04-21T11:19:35.256Z",
+      "score": 4,
+      "thumbsUp": 1,
+      "user": "Tracy",
+      "text": "I've been using this app for a long time and generally like it a lot.",
+      "reply": "Hello Tracy, sorry for the issues, this should be fixed in the available release, Please, check Play Store for updates.You either need the updated version 20250606, the next version 20250620. Thank you and sorry for the troubles.",
+      "replyDate": "2025-06-23T05:45:12.945Z",
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=1c8c4809-2229-4ee3-89d9-9473a2e2ea37"
+    },
+    {
+      "date": "2026-04-21T10:20:55.791Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Simon Zientek",
+      "text": "been using it for years",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=79a91e93-6428-4f69-9f8d-b9a616799d07"
+    },
+    {
+      "date": "2026-04-21T10:07:26.550Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Guy Smith",
+      "text": "This has helped me immensely and has given me a much better sleep!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=500767c8-2ec3-4418-bf41-ac1a6ef9e66c"
+    },
+    {
+      "date": "2026-04-21T08:52:58.853Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "Aaron Piercefield",
+      "text": "needs to fix local storage access on Pixel devices for lullabys feature",
+      "reply": "Hello Aaron, could you please give us more details? With which lullaby track do you have troubles? Our contact is support@urbandroid.org. Thank you.",
+      "replyDate": "2026-04-21T09:18:07.904Z",
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=aaa37d91-1a90-4b19-9144-5ff4f59bbb1f"
+    },
+    {
+      "date": "2026-04-21T06:58:09.570Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "J Marques",
+      "text": "Have used the app daily for a long time and can attest that it works well for me.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=54d95a21-09c4-4297-a321-fc60e1d66fe7"
+    },
+    {
+      "date": "2026-04-21T06:09:43.704Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "birli birloke",
+      "text": "Best alarm app. So many options.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=1aa35096-577d-424e-881d-ecd609afd104"
+    },
+    {
+      "date": "2026-04-21T05:35:21.260Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Phil Keyzman",
+      "text": "best sleep app",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=b9df3031-4f49-47f8-a5a9-333a59ca3167"
+    },
+    {
+      "date": "2026-04-21T03:27:11.477Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Gabriel Fernandez",
+      "text": "I only use this app in the free mode with the alarms for math problems on my s24 U, and it works great. I dont know if there are more complicated math problems (not sure I want them...like division, squares and roots), but it works well enough. I dont use the sleep tracking features or anything else, but for what I use it for it does well. Good App and dependable for that morning work alarm",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=cc8a0b09-237b-45ca-b2dd-3410e8dcb282"
+    },
+    {
+      "date": "2026-04-20T22:57:12.492Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Neil Stone",
+      "text": "I've used this app for years, the only issue I have experienced is when the app updates the alarm doesn't work till you manually restart it... solution is to ensure the app is running before I go to sleep.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=e5475e47-5052-471e-9c14-851577634913"
+    },
+    {
+      "date": "2026-04-20T21:08:35.368Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Noa del Busto Cañamares",
+      "text": "es genial",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=e775a720-c1d0-4f1d-8f29-55337f6562dc"
+    },
+    {
+      "date": "2026-04-20T18:27:01.380Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Sundaram Kumar Singh",
+      "text": "good",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=b94223e0-beb5-4958-9bdd-503817d616f3"
+    },
+    {
+      "date": "2026-04-20T16:40:09.878Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Harshavardhan Bhosale",
+      "text": "Best app of all I have ever used for sleep. It helped me get up early in the morning from last more than 6 months daily",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=93bcfe7a-b360-413b-96df-0e81f0ff1acd"
+    },
+    {
+      "date": "2026-04-20T06:29:07.947Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Matt McMillan",
+      "text": "I've used this app for, I believe, nearly fifteen years. I don't think I need to say anything more, really.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=34b07cfa-48d6-471a-a8d1-6eb2cd33ce09"
+    },
+    {
+      "date": "2026-04-20T05:41:08.135Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "鈴屋什造",
+      "text": "very awful. open the app on watch but just a sleep tracking icon. can't set anything on watch, just start tracking on phone without alarm so i have to add alarm on phone not on watch by myself. to me, the app on watch just a tool to turn off alarm. it can't even track and record my movement with watch and dynamically wake me up according to my sleep cycle",
+      "reply": "Hello, we keep the wearables addon as simple as possible to avoid tech limitations and troubles. It also allows us to keep all wearable integrations free. If you set your regular alarm and automatic tracking start, it will record your movement with the watch and dynamically wake you up according to your sleep cycle, with no action needed.",
+      "replyDate": "2026-04-20T06:06:20.359Z",
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=7fc097f3-2001-4bbc-9abb-0d7658437d1a"
+    },
+    {
+      "date": "2026-04-20T03:20:08.752Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Sebastián Guevara Burgos",
+      "text": "good",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=7b9346a0-4552-401c-8f4f-b9cbbdf30762"
+    },
+    {
+      "date": "2026-04-20T03:13:51.502Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "Alex B.",
+      "text": "It is 2026 and I am still using it. Works for me and I am surprised how well the app worksw, thank you. Update after almost 4 years, I am still using it and it's still great. I use a Fitness Tracker with the App, so I don't need to have the phone under my pillow. One of the first things I set up on any new phone is Sleep as Android. 2026 and I am still using it.",
+      "reply": "Hello Alex, big thanks for your feedback. Very much appreciated.. Please let us know shoudl you need any help with the app. For details please contact support@urbandroid.org. Petr Nalevka CEO @ Urbandroid",
+      "replyDate": "2020-11-24T11:57:39.309Z",
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=0236c903-e798-4dfd-8377-27d7037a24b9"
+    },
+    {
+      "date": "2026-04-20T01:28:15.756Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "BABY BLUES",
+      "text": "Good app but drains my phone quickly. I'm still using it. I really wish tech would work on this part of the app. With my crazy schedule it helps me get the most sleep I can get. With the improvements the drain is much better. Still using the app years later. I do really have to brag on it and the tech team.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=ddcb5cbe-1a5b-4521-9772-cb961b48e896"
+    },
+    {
+      "date": "2026-04-20T00:01:58.684Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Christie",
+      "text": "love! I have only been late to work a few times and that was my fault. I also found out how much I talk in my sleep and the weird noises my house makes at night. It even picks up my stomach growling! lol!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=1a49f2af-c13f-4af4-9695-a08906933713"
+    },
+    {
+      "date": "2026-04-19T21:35:26.942Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Yurakh",
+      "text": "Amazing app. Been using it for over 4 years and still love it",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=ea98eea2-7186-4fcb-a470-cbc36cd9c7ac"
+    },
+    {
+      "date": "2026-04-19T18:43:29.237Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Paul Nebeling",
+      "text": "Been using this app since 2017. It's the best sleep tracker out there.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=9ffa4319-8242-4ed0-a7e2-de1f72a109ca"
+    },
+    {
+      "date": "2026-04-19T18:33:05.664Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Dorian Ovalle",
+      "text": "I've used this app for year and have found it easy to use and full of useful options for track and understanding you sleep patterns.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=6af9e90b-04e1-4ec9-bd8f-569e3d0f71b7"
+    },
+    {
+      "date": "2026-04-19T16:54:26.977Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Rebecca Mertil",
+      "text": "I love this it helps me wake me up on time ⏲️ and I can do this easier so ya I love it 😀 💖",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=416080da-d64b-4b56-a73f-ebf52c7769e2"
+    },
+    {
+      "date": "2026-04-19T15:00:46.919Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Bobby Newkirk",
+      "text": "Best alarm app I've found.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=d3c39db9-33c3-4367-8bd6-a53dafcacf23"
+    },
+    {
+      "date": "2026-04-19T13:52:01.598Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Shernjr Me",
+      "text": "Hands down best sleep tracker. So many stats and integrations to help improve sleep. 100% worth the premium. edit 2026: many years later: still stand by my original review!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=89476453-7a1d-42d1-8139-679004f1ec11"
+    },
+    {
+      "date": "2026-04-19T13:12:30.123Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Nancy Fritsch",
+      "text": "very good for sleep analysis... better than my smart watch. I especially like the 'go to aleep' rem8nder based on my alarm time.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=53aa96b3-9173-439c-95d0-e740a4a435d4"
+    },
+    {
+      "date": "2026-04-19T11:20:29.465Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Jonathan West",
+      "text": "good",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=a7eb2097-acc8-4a15-bac6-467985ff91d1"
+    },
+    {
+      "date": "2026-04-19T09:48:39.652Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Tengudemon",
+      "text": "Great app, used it for years.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=009e7ddb-20e9-4bb0-802e-dc82f0870228"
+    },
+    {
+      "date": "2026-04-19T07:57:02.501Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Robert McIntosh",
+      "text": "Nice clean up app. Thanks",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=e0374f44-9c88-4bc7-9e70-f99e541e0c08"
+    },
+    {
+      "date": "2026-04-19T07:20:08.560Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Richard Appleyard",
+      "text": "only app I could find that plays the alarm through headphones as well as the speakers",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=a0e5ebb7-b34d-4b96-96ca-be43bb4446ef"
+    },
+    {
+      "date": "2026-04-19T07:15:02.549Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Vladimír Michálek",
+      "text": "it still works!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=5513a471-f702-411b-be18-656adc16833a"
+    },
+    {
+      "date": "2026-04-19T06:32:22.587Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "The21stKam",
+      "text": "so many great features. really helps the start of the day. can't figure out linking my watch yet though.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=083a2498-ba5e-4f45-bf2c-09ab4a74336c"
+    },
+    {
+      "date": "2026-04-19T05:09:38.825Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Andras Zentai",
+      "text": "Best sleep app ever",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=88d01044-0f78-4164-a76e-10b0f8113969"
+    },
+    {
+      "date": "2026-04-19T05:04:45.347Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Rob Davelaar",
+      "text": "works nicely for me. knowledge starts with measure",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=53459309-3ea2-44a1-a8c5-d735d4946e6b"
+    },
+    {
+      "date": "2026-04-19T00:09:16.101Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Andrii",
+      "text": "Works great, has a variety of captchas/challenges to help you really wake up, as well as other really used features like checking if you really woke up, bedtime reminders and a host of other useful settings and features. Reliable and consistently updated.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=b0ba373f-62b8-422f-8fa2-cf374e32c884"
+    },
+    {
+      "date": "2026-04-18T23:07:00.459Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Mohamed Najib Ben Adou",
+      "text": "the best sleeping Android",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=464ddce0-21fd-4d2e-95a5-ece2da550310"
+    },
+    {
+      "date": "2026-04-18T22:59:33.383Z",
+      "score": 5,
+      "thumbsUp": 2,
+      "user": "Zen Balancer (Gaia's)",
+      "text": "Comprehensive and keeps improving! Happy user since 2015.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=02cb49ab-c16d-4c58-98e1-22660b7e5981"
+    },
+    {
+      "date": "2026-04-18T21:14:26.527Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Mark Hewitt",
+      "text": "still great",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=99b09593-a5ab-4ba1-97af-17baf4199d09"
+    },
+    {
+      "date": "2026-04-18T11:27:47.172Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Spencer Ballou",
+      "text": "I've used this app daily for years and I love it. Hat else can I say?",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=17f8fbbd-b7af-4e51-bce1-9055f854e972"
+    },
+    {
+      "date": "2026-04-18T10:41:36.846Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Kai Johnson",
+      "text": "Excellent app! The motion sensing portion is by far the greatest way to wake up in the morning.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=3b9c5c80-eb75-4b23-b89e-0e2998dcf493"
+    },
+    {
+      "date": "2026-04-18T06:27:17.902Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "A Google user",
+      "text": "Best sleep app on all platforms, it's a major reason I've never moved to iOS.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=eb8beba5-81fe-4678-9175-18de5681a0c6"
+    },
+    {
+      "date": "2026-04-18T05:35:21.561Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Norbi V",
+      "text": "I use this app since 10 years. It has very accurate and unique statistics. It was a pioneer on it's field and big phone companies' embedded sleep tracking apps borrowed many basic features. App is constantly developed and is better-and-better year-by-year.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=eea04ba0-a5a8-444e-a7cc-315b65d504f5"
+    },
+    {
+      "date": "2026-04-18T05:17:11.165Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "MandaLynn",
+      "text": "Been using this app for many years. Every night. Keeps getting better. I appreciate it!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=d1d63493-fd5c-4a86-bdb6-f411fccbbf6b"
+    },
+    {
+      "date": "2026-04-18T05:03:34.195Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Matt Lang",
+      "text": "great app, if I could control the intensity of the vibration it would be perfect!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=d9fb1b52-1841-43ce-b5ff-c8d80faa9d8a"
+    },
+    {
+      "date": "2026-04-18T03:26:19.392Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Arshad Hosein",
+      "text": "This app allowed me to graduate college and hold down a full time job. It really is life changing.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=c47f1023-67d5-41db-8156-a8d42010af50"
+    },
+    {
+      "date": "2026-04-18T01:27:05.557Z",
+      "score": 5,
+      "thumbsUp": 2,
+      "user": "William Groesch",
+      "text": "I've been using this app for years. Great app for tracking sleep. Lots of stats and numbers too if you're into numbers like I am. -----Original review----- Has lots of options and settings. Was intimidated at first but once I started to use it to track my sleep daily I was pumped to see what all it can do. Love this app.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=a2a3cf8f-ec1c-4d58-8348-e67a5114c9f1"
+    },
+    {
+      "date": "2026-04-17T22:09:43.444Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "the Sammo",
+      "text": "Have been using it for years without any issues. Early wakeup and captcha options make this my go-to alarm. Would definitely recommend!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=10a4143d-65e0-481f-b7d7-7ead4e3f70c0"
+    },
+    {
+      "date": "2026-04-17T21:38:18.220Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Youssef Samir",
+      "text": "جيد",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=1da35204-d4a8-4889-83e8-1d9ef8b2c1ce"
+    },
+    {
+      "date": "2026-04-17T15:09:10.667Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Josh F",
+      "text": "Great app. They add features regularly, and it integrates well into anything I would want it to.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=c4a8ef59-c6e3-442d-ad7d-b5cd4e369a7c"
+    },
+    {
+      "date": "2026-04-17T14:09:33.895Z",
+      "score": 5,
+      "thumbsUp": 2,
+      "user": "Chris Skorka",
+      "text": "It keeps beeping instead of using the selected song, but not always, really annoying and disappointing",
+      "reply": "Many thanks for your valuable feedback. We are unfortunately unable to react to all of the reviews on Google Play Store. If you encounter any issues with the app, it is best to contact us on our support email: support@urbandroid.org or to give us more details, use menu-report a bug. Many thanks. Jiri from Urbandroid Team.",
+      "replyDate": "2018-01-01T22:55:02.740Z",
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=638865e6-53d6-4e48-9928-01828fd092c8"
+    },
+    {
+      "date": "2026-04-17T11:15:56.271Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Amy Gelinas",
+      "text": "I've been using Sleep as Android for more than a decade. It's reliable and helps me to understand how well I'm sleeping. Healthy sleep is a important as healthy nutrition.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=83e1155f-494f-4aeb-a5cc-d5e544a7253a"
+    },
+    {
+      "date": "2026-04-17T10:15:55.771Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "netez",
+      "text": "it wakes me up",
+      "reply": "Hello, is there anything we can do in the app to improve your rating and your experience with the app? If you have any questions about the app or something that is not working as expected, please contact support@urbandroid.org. Thank you for your feedback, much appreciated!",
+      "replyDate": "2026-04-17T17:19:59.708Z",
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=c83606d0-67c4-4084-8c00-b9fcb2312532"
+    },
+    {
+      "date": "2026-04-17T08:49:25.659Z",
+      "score": 1,
+      "thumbsUp": 34,
+      "user": "TJ09",
+      "text": "got in my way *during bedtime* to ask if I liked the app. just let me sleep",
+      "reply": "Hello, we are sorry the rating dialogue was triggered unexpectedly during inappropriete time. Could you please send us the logs (Left ≡ menu → Support → Report a bug)? We will investigate why it was triggered during the bedtime. Thank you and sorry for the issue.",
+      "replyDate": "2026-04-17T18:13:42.963Z",
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=c0e6cde8-67c0-4ec1-ad07-da6c178af223"
+    },
+    {
+      "date": "2026-04-17T08:01:02.474Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Eric Crim (Shad0wSmurf)",
+      "text": "Been using this app for over 4 years. Never understood why I always was having such a terrible night's sleep. After trying different methods, lullaby, meditation, nothing made a dent. I went to a sleep doctor explaining my situation and the ability to show him my over 3 years of graphs, suggested a sleep study with a nap study. I ended up being diagnosed with narcolepsy with cataplexy and was falling asleep within 1.5 minutes into rem which takes a normal person almost 90min. Then coming directl",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=33ddcb33-a45e-4944-b1c6-4814a08f7eea"
+    },
+    {
+      "date": "2026-04-17T04:22:31.740Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "Frank Jan",
+      "text": "Easy to use and many functionalities",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=c24b9e2e-1ce0-4abe-939f-cdf251640ab8"
+    },
+    {
+      "date": "2026-04-16T21:08:44.526Z",
+      "score": 2,
+      "thumbsUp": 1,
+      "user": "The White Raven 22",
+      "text": "Smart wake-up feature no longer seems to work, the alarm always goes off at the end of the time, despite nothing changing about my phone or my sleeping situation. Possibly something Android has changed in a system update? Still fabulous for making me actually get out of bed to turn the alarm off.",
+      "reply": "Hello, we are very sorry for the troubles.\nCould you please, contact us at support@urbandroid.org or even better directly from the app using the Left ≡ menu → (?) Support → Report a bug and give us more details about your issue?\nWe are unfortunately unable to solve this directly on Play Store, thank you.",
+      "replyDate": "2026-04-17T05:35:06.582Z",
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=70bd416d-4b7a-4b0f-9f0a-9b543da32a2b"
+    },
+    {
+      "date": "2026-04-16T19:56:46.270Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Wireball MacCarter",
+      "text": "Rather great sleep tracking and alarm app. Works well on a Pixel 7 Pro on Android 16.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=ed6e66d1-5a89-4986-91c9-2fd87fab5cf8"
+    },
+    {
+      "date": "2026-04-16T16:42:05.604Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Nicole",
+      "text": "quite reliable and the advice feature is insightful",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=0a6cbed8-91d3-4f9f-a41a-5af39d76fd53"
+    },
+    {
+      "date": "2026-04-16T12:45:07.200Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Connie Huang",
+      "text": "the mascot is cute, and the captcha for turning the alarm off helps a lot",
+      "reply": "Hello, is there anything we can do in the app to improve your rating and your experience with the app? If you have any questions about the app or something that is not working as expected, please contact support@urbandroid.org. We are glad you like our Droid :) Thank you for your feedback, much appreciated!",
+      "replyDate": "2026-04-16T14:09:52.193Z",
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=6c1f58f6-e712-438d-b2a7-e0180fa54256"
+    },
+    {
+      "date": "2026-04-16T12:24:00.669Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Tyler Studanski",
+      "text": "a great app for both tracking your sleep as well as giving you advice on how to improve your sleep.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=10f1387e-9993-468d-98e2-d5dc16b6490d"
+    },
+    {
+      "date": "2026-04-16T05:56:03.589Z",
+      "score": 5,
+      "thumbsUp": 6,
+      "user": "A Google user",
+      "text": "11/3/2023 I love this app! I am impossible to wake up and keep awake. This gets me up, and (thanks to the keep awake features) keeps me awake! Plus, it helps me feel more rested when I get up by getting me up at the right time! Must have app, one of the first things I install on a new phone! 4/16/2026 I still use and love!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=231ab989-fb09-4049-a1ba-2eaca6069cfa"
+    },
+    {
+      "date": "2026-04-16T04:33:19.162Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "David",
+      "text": "The best sleep app",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=b6c9158a-aec7-41de-847c-174c96114138"
+    },
+    {
+      "date": "2026-04-16T03:33:59.276Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Paul Yaletchko",
+      "text": "I really enjoy that I have the alarm sound in my headphones only. I can also select the ringtone to be a Spotify playlist which is a nice touch.",
+      "reply": "Hello Paul, is there anything we can do in the app to improve your rating and your experience with the app? If you have any questions about the app or something that is not working as expected, please contact support@urbandroid.org. Thank you for your feedback, much appreciated!",
+      "replyDate": "2026-04-16T06:09:51.760Z",
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=2c863cb0-d088-4764-84b9-4f4210230d00"
+    },
+    {
+      "date": "2026-04-16T00:41:02.630Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Teresa Lawson",
+      "text": "This app is absolutely fantastic! It allows me to track my sleep progress and address the issues I'm having. I use it daily and the results have been great. It's simple to use and easy to follow. Great App!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=25db5e27-9c5f-46f5-8bf9-02fbf42f2997"
+    },
+    {
+      "date": "2026-04-15T18:09:24.363Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Debanil Ritam Borgohain",
+      "text": "best sleep tracking and alarm app ever , nothing can beat this",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=617f105e-2bef-4b04-832a-83e8a41e5791"
+    },
+    {
+      "date": "2026-04-15T13:33:18.130Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "A Google user",
+      "text": "I've been using this app for 14 years. It works well! Tracks my sleep, rates sleep quality, wakes me up, reminds me to go to bed, and is easy to use.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=cac2a0aa-6c20-4107-a6dc-de762fe7777f"
+    },
+    {
+      "date": "2026-04-15T09:07:20.808Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Bettina Baker",
+      "text": "Great easy to use app",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=abce6e40-f164-48b2-b0d3-c81d8f226b99"
+    },
+    {
+      "date": "2026-04-15T08:53:47.193Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Alexia Nelson",
+      "text": "Something has changed with this app. it no longer sounds an alarm at the appointed time. it just stopped working and now I'm late for work. womp.",
+      "reply": "Hello Alexia, if you set a test alarm now, does it go off? If the alarms work in test, but not in the morning, disable all the system \"optimizations\" , that can block the app from launching in the morning. You can find all the details at https://dontkillmyapp.com/. You can also contact support@urbandroid.org. Thank you.",
+      "replyDate": "2026-04-15T09:08:18.426Z",
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=88566f26-3d5d-442f-bf86-26f72c9b8455"
+    },
+    {
+      "date": "2026-04-15T07:31:47.496Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Musa Nak",
+      "text": "Loved the app since like 2015 , changed so much but really a great app, ui is snappy, love the features to just makin sure youre awake so you don't miss work or whatever you gotta get up for. lullabies to music or just radio noise helps too, . Redundancy makes you punctual. Thanks for many years of getting up, my sleep is my bodies issue tho but it helps alot!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=b3f25d10-a4f5-464b-90be-2b52398067bf"
+    },
+    {
+      "date": "2026-04-15T06:49:37.289Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Tracy Sprenger",
+      "text": "helps me keep up with my sleep tendencies so I can look back and do better than guess when my Drs ask how I have been doing ❤",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=b364cac3-8785-4eed-a139-12d0b8469e52"
+    },
+    {
+      "date": "2026-04-15T06:22:59.188Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Vance Taylor",
+      "text": "Been using it for at least a decade and love it",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=d9a3ef50-d374-48b1-b988-bef3381c31e9"
+    },
+    {
+      "date": "2026-04-14T21:07:47.296Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Yoas Ayalew",
+      "text": "good app it works download it now",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=030b6672-0333-4f3b-9774-7d4b553a16d1"
+    },
+    {
+      "date": "2026-04-14T19:49:25.828Z",
+      "score": 5,
+      "thumbsUp": 7,
+      "user": "Pascal Franke",
+      "text": "This app is amazing. I have some trouble getting out of bed in time. The captchas are helping me a lot. The UI looks great, the performance is good and the statistics give you a great overview of your sleep quality. I am using the pro version because I really want to support the devs behind the app. But the experience you get in the free version is really all you need. But if you like the app, please consider supporting the devs. Its worth it. UPDATE 2026: Still a happy user and a great app!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=b5744e3c-e410-4065-8808-90db6b6bc7b9"
+    },
+    {
+      "date": "2026-04-14T19:29:09.777Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "Michael Sayson",
+      "text": "make dis/enabling multiple consecutively in a row easier. you can't tap multiple check boxes in a row without opening one alarm. or give commands for \"enable all alarms\" \"disable all alarms\" or \"enable all alarms after XYZ\" etc",
+      "reply": "Hello Michael, we currently do not support group edits of alarms (when tested, this led to too many misconfigurations). Could you please contact support@urbandroid.org and give us more details about your alarm setup? How many alarms do you use?",
+      "replyDate": "2026-04-15T06:40:41.369Z",
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=85069c87-c0bc-4023-a936-80c8b8f693a8"
+    },
+    {
+      "date": "2026-04-14T16:25:28.784Z",
+      "score": 1,
+      "thumbsUp": 2,
+      "user": "Eduardo Olivas",
+      "text": "En ocasiones suena, en ocasiones no. Ya entré a todas las configuraciones para ver que podría estar mal, reinicié, desinstale y volví a instalar, pero sigue igual, no siempre suena. No puedo confiar en esta app, no se cuando va a querer funcionar y cuando no.",
+      "reply": "Hello, we are very sorry for the troubles.\nCould you please, contact us at support@urbandroid.org or even better, directly from the app using the Left ≡ menu → (?) Support → Report a bug and give us more details about your issue? Which feature does not work - alarms, tracking? Is the app allowed to run in the background?",
+      "replyDate": "2026-04-20T07:46:01.362Z",
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=79b2d29c-b1ef-4abe-a0d2-b4860679c7eb"
+    },
+    {
+      "date": "2026-04-14T13:18:18.773Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Bart Copermans",
+      "text": "very cool",
+      "reply": "Hello Bart, is there anything we can do in the app to improve your rating and your experience with the app? If you have any questions about the app or something that is not working as expected, please contact support@urbandroid.org. Thank you for your feedback, much appreciated!",
+      "replyDate": "2026-04-14T13:30:17.565Z",
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=676be7d5-0cdf-49cc-9642-d45e06b71f7a"
+    },
+    {
+      "date": "2026-04-14T11:01:09.621Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "Matt M",
+      "text": "Alarm rings about an hour late. I set it for 6am with 530-6am smart wakeup and it rings at 647 or 656 (2 nights in a row). can't trust it",
+      "reply": "Hello Matt, the power nap smart period goes off 59 minutes after the set alarm time. It is a special case of a smart period, the only one that applies after the alarm time. Which smart period are you using for your alarms? Please, contact support@urbandroid.org. Thank you.",
+      "replyDate": "2026-04-14T13:07:55.493Z",
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=a295cbd8-6264-4d72-b4be-6096e9102f2f"
+    },
+    {
+      "date": "2026-04-14T10:05:17.608Z",
+      "score": 1,
+      "thumbsUp": 2,
+      "user": "STAYHIGH993",
+      "text": "alarm going off after disarming and with no more alarms set.alarm sound keeps playing while trying to disarm.so much worse than alarmy.",
+      "reply": "Hello, make sure you did not enable wake-up check for your alarm. This feature requires confirmation of the wake-up check notification. If not confirmed, the alarm goes off again after dismissal. More details at support@urbandroid.org. Thank you.",
+      "replyDate": "2026-04-14T13:05:05.417Z",
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=27190b83-40cb-45af-b50b-a8ed812306a1"
+    },
+    {
+      "date": "2026-04-14T07:06:54.847Z",
+      "score": 5,
+      "thumbsUp": 2,
+      "user": "Kiran Kumar",
+      "text": "Please reduce lifetime pricing for India. it's quite expensive.",
+      "reply": "Hello Kiran, thank you for the suggestion. The app pricing follows the Big Mac Index to reflect purchasing power in each country. On top of that, the price in India is further reduced to match the prices. What would be an acceptable price for you, reflecting the lifetime status of the app' s purchase? Our contact is support@urbandroid.org. Thanks.",
+      "replyDate": "2026-03-25T06:50:00.936Z",
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=6f16e529-0e63-4118-8f72-5e5e8f47faa0"
+    },
+    {
+      "date": "2026-04-14T01:20:40.294Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Robert Ginlund",
+      "text": "It's incredible that they haven't fixed smart light timing after all these years... To clarify. It's still not possible to start the light before the alarm time or to set the sound independently of the light. A few more year and still the same problem. And tons of bloat.",
+      "reply": "Hello Robert, you can set the alarm sound to start with a delay, so the light and sound will start independently. Which features do you feel are bloat and should be removed from the app? Our contact is support@urbandroid.org. Thank you.",
+      "replyDate": "2026-04-14T06:19:51.243Z",
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=7d55d397-da9f-4a0f-84dc-cb095968a38b"
+    },
+    {
+      "date": "2026-04-13T23:58:32.968Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Juanita",
+      "text": "It takes a bit to work the app but it's good",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=cbe7e777-2ede-4f6f-9bfc-6b154a94119c"
+    },
+    {
+      "date": "2026-04-12T08:14:24.818Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Zaidy Melissa",
+      "text": "Still learning everything this offers. So far so good though.",
+      "reply": "Hello Zaidy, thank you for your feedback. If you need any additional information or help, please contact support@urbandroid.org or use the (?) button (top right corner on most settings screens) → Documentation to access the extensive documentation with explanations, guides, FAQs, and technical details. Thank you.",
+      "replyDate": "2026-04-12T12:40:33.177Z",
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=b5af1210-da4b-4c57-b883-6d6d6f001b8c"
+    },
+    {
+      "date": "2026-04-11T17:35:58.332Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Joe Sprouse",
+      "text": "Buggy trash",
+      "reply": "Hello Joe, we are very sorry for the troubles.\nCould you please, contact us at support@urbandroid.org or even better directly from the app using the Left ≡ menu → (?) Support → Report a bug and give us more details about your issue?\nWe are unfortunately unable to solve this directly on Play Store, thank you.",
+      "replyDate": "2026-04-12T12:32:27.840Z",
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=bd0477ab-fe9f-4bb2-b1ef-1b2ebc6d4626"
+    },
+    {
+      "date": "2026-04-11T16:12:31.599Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Vikki Belliveau",
+      "text": "I have Stiff person syndrome and regular alarms are too sudden, setting off and episode, but this app is perfect for a gentle wakeup.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=7edf3935-1a76-4f96-9ce9-40594ab1a88c"
+    },
+    {
+      "date": "2026-04-09T20:01:30.461Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "K B",
+      "text": "Beware, this app also includes Facebook Ads and location tracking, both enabled by default. why does a sleep app need GPS tracking?? I found these settings buried in privacy settings. For me, this is a turnoff... health data and Facebook advertising dont work for me",
+      "reply": "Hello, the app needs fine location only for enabling BT for watch tracking (BT cannot be used without fine location permission on Android). The coarse location (± 5 km) is used for Not-at-home CAPTCHA and for geotagging the graphs. All three are optional and will only be active if you grant the permission. Ads are only in the free version.",
+      "replyDate": "2026-04-10T06:05:33.735Z",
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=a1345da6-ea53-4dff-a2ec-364487d034e4"
+    },
+    {
+      "date": "2026-04-09T18:25:24.607Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Faheem Gk",
+      "text": "great for sleep tracking and waking up without cheating",
+      "reply": "Hello Faheem, is there anything we can do in the app to improve your rating and your experience with the app? If you have any questions about the app or something that is not working as expected, please contact support@urbandroid.org. Thank you for your feedback, much appreciated!",
+      "replyDate": "2026-04-10T06:03:33.302Z",
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=74422967-100c-40ee-8823-bb992c23fe76"
+    },
+    {
+      "date": "2026-04-09T10:33:00.823Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Dave Squires (Dave's Hollywood)",
+      "text": "Should not have to pay since it's a stock app forced on your phone . Please No auto response!",
+      "reply": "Hello Dave, this app is not a stock, default app. This app is created by a small team of independent developers and is not pre-installed on phones. Did your phone come with this app pre-installed? We can assure you we do not have this type of auto-reply, this is the first time we hear about the app being pre-installed. support@urbandroid.org",
+      "replyDate": "2026-04-09T11:20:25.893Z",
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=e9937169-b2ab-4fa0-9b92-f731fad69895"
+    },
+    {
+      "date": "2026-04-09T06:08:18.706Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "Bridget “BD” Williams",
+      "text": "Greatest sleep monitoring, logging sleep details app, and honestly there's just so many features that I can't pick just three to highlight. I also want to point out that you can make this app simple as a sleep app as you want to. I'm a bit of a tech minded person with health issues, so I use a lot of the features that allow me granular control over logging my sleep as it ties into my overall health picture. I do think it's an amazing app and very customizable. 15/10 Get it.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=78be0780-ddc8-44e4-8f40-bc7f6170d99e"
+    },
+    {
+      "date": "2026-04-09T04:47:52.261Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Heather Bailey",
+      "text": "great use every night",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=88db8db3-0ff2-44a4-8ea6-ac61c4246270"
+    },
+    {
+      "date": "2026-04-09T04:32:50.418Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Roger Harris",
+      "text": "Another case of the hampster is dead but the wheel is still turning. Two hours trying to link to the phone. Avoid.",
+      "reply": "Hello Roger, which device are you trying to link to the phone? Could you please give us more details? Our app is compatible with plenty of watches and several smart home systems. Our contact is support@urbandroid.org. Thank you.",
+      "replyDate": "2026-04-09T06:51:08.850Z",
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=83dedb90-1f55-4b74-a740-903ee6887720"
+    },
+    {
+      "date": "2026-04-08T21:53:18.459Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Isaac Drake",
+      "text": "Love this app for measuring my sleep, I only one that works for my phone with the sonar.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=ee5f32c0-ccd8-4b2c-95dc-dd6da78bc8d7"
+    },
+    {
+      "date": "2026-04-08T11:31:26.858Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Emil Knedlik",
+      "text": "Great app 👍👍👍",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=77752393-abf3-457b-b332-2ba479d4170c"
+    },
+    {
+      "date": "2026-04-07T23:19:31.628Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Nicolle Libanio",
+      "text": "muito bom!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=f70cab87-67c9-4a4d-8c19-eb504b616e99"
+    },
+    {
+      "date": "2026-04-07T18:45:45.390Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "Dara",
+      "text": "I really appreciate the alarms that I can set that are more persistent (scan QR code or solve math problem) to make sure I complete my task. I have ADHD and this app has single-handedly helped me rectify a lot of executive dysfunction. 🖤✨🌱 Thank you kindly to the developers and designers.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=58c5ef96-baca-446c-acf7-d9e46e475a2f"
+    },
+    {
+      "date": "2026-04-07T12:40:21.398Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "Tony H",
+      "text": "edit: had to uninstall the app when alarm Captcha fails to detect that I am NOT home. must scan the barcode to dismiss it but it is AT HOME. Then smart watch starts buzzing too and I had to force stop that one as well. :( I guess the easier fix is to replicate the barcode or QR code. Location permission was on. Had the setting on captcha to be activated only at home.",
+      "reply": "Hello Tony, do you have enough location data? Is the new location far from the home (at least 5 km)? Please use the Left ≡ menu → Support → Report a bug and send us your logs. The QR CAPTCHA also has a fallback task (the sleeping sheep) under the life buoy icon in the top right corner. For more details, please contact support@urbandroid.org",
+      "replyDate": "2026-04-07T14:01:18.270Z",
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=1fbf1417-c3d3-4b1a-af61-e1437089f7e2"
+    },
+    {
+      "date": "2026-04-07T08:45:25.626Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Joey Jackson",
+      "text": "says in multiple places it supports Tizen based Galaxy watches, but theres no way to install the required add on. If you cant install the add on, then you cant use it with the watch, and therefore you DON'T support it. before replying to tell me to email support, I did. they just kept pointing me to broken links or telling me to search the galaxy store. the app does not exist in the store.",
+      "reply": "Hello, the Tizen platform is no longer supported because Samsung took down the content of the Store. We removed all mentions of Tizen. Could you please let us know where the link to the Tizen is still hanging? We will remove it. Could you please also let us know, when you last contacted us? We are sorry if the support provided incorrect information",
+      "replyDate": "2026-04-07T11:50:06.907Z",
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=a3bfa38f-5a55-481f-9509-34d90fe730c6"
+    },
+    {
+      "date": "2026-04-07T05:37:07.909Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Nick Seigal",
+      "text": "Love the recording feature!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=a08c7d73-af52-45d6-ad37-33b5794b3e6b"
+    },
+    {
+      "date": "2026-04-06T15:03:06.831Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Robert Rehak",
+      "text": "Not collecting all data on watch 🫩",
+      "reply": "Hello Robert, which wearable do you have, and which data are missing? Some vendors block SpO2 real-time data for 3rd party apps. If the connection with the watch keeps dropping, make sure all involved apps (including BT) are excluded from Samsung \"optimizations\" (details at https://dontkillmyapp.com/ or support@urbandroid.org). Thank you.",
+      "replyDate": "2026-04-07T05:57:42.981Z",
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=27a37542-eeb0-442a-9eb3-3a798488a9e7"
+    },
+    {
+      "date": "2026-04-06T13:06:23.937Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Timothy Ozimec",
+      "text": "I've been using the free version for a few years now, and decided to buy the full version. However, what I love about this app is the free version is still a great alarm app. It doesn't force you to use the dashboard view showing all the features you have to pay to use, you can just set it to show your alarms and that's basically it. It's as simple or as complicated as you want it to be, and you don't have to open your wallet to eliminate any reminders of features you don't want or need.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=eddfdd5e-7a47-4053-aca4-76ec5948ed30"
+    },
+    {
+      "date": "2026-04-06T07:19:15.979Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Lizzifer",
+      "text": "the only sleep tracker out of the 5 that I have tried, that actually tracks my light sleep and awake phases accurately. I was so impressed that I paid the one off subscription fee (you read that right folks, just once!) Other apps I could PICK UP MY PHONE AND USE IT and they would still log me asleep. Definitely recommend!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=99cec2d0-aec2-4cd2-8dd7-11becc749f25"
+    },
+    {
+      "date": "2026-04-05T19:58:30.850Z",
+      "score": 5,
+      "thumbsUp": 2,
+      "user": "Zergberger De Lemón",
+      "text": "unironically my favorite app of all time. no bs, no subscription, just a good app. advanced sleep tracking features, best alarm app. I've been using it every day since 2010, so much so that this app made me a wizard at mental math. been forcing myself to solve math problems to turn off my alarm so long I literally solve them in my sleep. 10/10 no notes, a genuine breath of fresh air in this hellscape.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=ac8c6edc-3a12-4070-bac7-01d686a3cf86"
+    },
+    {
+      "date": "2026-04-04T23:51:38.590Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Andrew Munday",
+      "text": "I purchased the full version a few years ago and I absolutely love the app. Would it be possible to put a password on alarms so my girlfriend could prevent me from turning them off?",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=fa85ef96-c4e7-498a-9199-e43a58c647dc"
+    },
+    {
+      "date": "2026-04-04T14:54:33.973Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Richard Allen",
+      "text": "incredibly difficult to install the way you want it. You do what they say not what you want. insulation just stalled I could go further. of course they make you pay before the installation end this thing does not work because I could not complete it. absolutely terrible do not even think of it.",
+      "reply": "Hello Richard, could you please share more details with us about the requirement to pay before installation? This app is free to use even after the trial ends, and payment is optional. If you tap on the \"Install\" button on the Play Store, what exactly does happen? Our contact is support@urbandroid.org. Thank you.",
+      "replyDate": "2026-04-05T06:43:37.120Z",
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=a9f0991f-391c-4f04-bcf4-12837ad418a4"
+    },
+    {
+      "date": "2026-04-03T21:38:17.311Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Lydia Mkoji",
+      "text": "Ver y useful especially when it categorises deep sleep,REM sleep and light sleep plus it's completly free",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=43d74be2-5dea-44d7-88af-8236b4971626"
+    },
+    {
+      "date": "2026-04-03T02:57:03.340Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Anthony P.",
+      "text": "I absolutely love this app. I just wish it was a one time purchase and not a subscription. I would gladly support a one time purchase. just the subscription fatigue in 2026 is so bad. I will likely buy a couple months just to support the dev, this app is truly a life saver for me.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=5d016954-169a-4016-afdc-3bdb14ea1eb1"
+    },
+    {
+      "date": "2026-04-02T18:19:34.433Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "Paul Ryan Alemanza",
+      "text": "It used to be good, been out for like 4 years when I tried using it now, the UI sucks. It looked good before now it`s like built for kids.",
+      "reply": "Hello Paul, we’re sorry the app UI sucks. Was there a specific design element you disliked? Which screen or setting felt the most childish? Please let us know at support@urbandroid.org so we can focus our next update on the right areas. Thank you.",
+      "replyDate": "2026-04-03T05:55:51.841Z",
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=9919fbe6-2d26-41d2-8aa3-777e9989a3d4"
+    },
+    {
+      "date": "2026-04-02T12:08:14.769Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Tyler Hallock",
+      "text": "it works as an alarm, but its quiet and then you get a popup ad",
+      "reply": "Hello, we only show interstitial ads after a long time without any purchase, but as per your report and a new policy, we won't be showing them if the app is in Alarm ONLY mode. Would that address the issue for you? Please let us know at support@urbandroid.org",
+      "replyDate": "2026-04-02T14:24:46.960Z",
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=fbcffbfd-ae41-406b-b767-a79d8f988db1"
+    },
+    {
+      "date": "2026-04-02T04:07:32.304Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Mandala man",
+      "text": "Great app especially to see if you snore and how much",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=5e7db046-e005-43a6-9a38-995e871dd11d"
+    },
+    {
+      "date": "2026-04-01T23:23:28.495Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Chandrabhan Nareti",
+      "text": "This is a very good app. When I used to set alarms on other apps, their volume was so low that I couldn’t even hear them, but with this app, I wake up early.⏰🕰️⌛⌚",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=584808a6-640b-40e5-b176-05828ae9f48f"
+    },
+    {
+      "date": "2026-04-01T05:01:03.604Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Phil Speed",
+      "text": "For anyone who struggles to get out of bed in the morning, those who turn the alarm off and roll back over this is the way. Using the NFC captcha is a game changer. highly recommend",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=7bbb9589-1dd1-4a8d-b386-dfe86fe70cf1"
+    },
+    {
+      "date": "2026-04-01T02:42:34.840Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Belinda Mitchell",
+      "text": "It is the only alarm clock that can wake me up. I sleep like a log thanks to sleeping pills....",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=42d42f43-440e-4fe0-815a-44a6ff071d35"
+    },
+    {
+      "date": "2026-04-01T01:44:49.842Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Petra C",
+      "text": "Very happy with the app! But! the \"halve the snooze\" function should be able to set on induvidual alarms, not over every alarm there is.",
+      "reply": "Hello Petra, if you need to limit snoozing only on some alarms, you can set a time limit or a count limit in the per-alarm settings. For more details, please contact support@urbandroid.org. Thank you.",
+      "replyDate": "2026-04-01T05:53:09.839Z",
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=f6ba0208-dd95-4eb4-813d-262ccc84ddb8"
+    },
+    {
+      "date": "2026-03-31T21:29:51.842Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Craig Delves",
+      "text": "love the app, however for some reason it interferes with the volume of HeadSpace and lowers it to zero over say 20 minutes. Highly annoying.",
+      "reply": "Hello Craig, if you listen to an audio during sleep tracking, make sure the \"Turn off when sleeping\" is either disabled or set to a period long enough (in Settings → Sleep tracking → Lullabies). For more details or help, please contact us at support@urbandroid.org. Thank you.",
+      "replyDate": "2026-04-01T05:56:59.655Z",
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=f4ce7580-180f-4900-8ba9-faa4dc753e85"
+    },
+    {
+      "date": "2026-03-31T19:59:59.582Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "jackie graham",
+      "text": "fantastic app.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=f653a843-837c-4e58-8c9e-437c9b5e9d47"
+    },
+    {
+      "date": "2026-03-31T16:14:28.312Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "GP HUY",
+      "text": "10 out of 10, no complaints",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=b9afe63e-f390-4e9f-80cd-af9d921307b9"
+    },
+    {
+      "date": "2026-03-31T11:54:25.930Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Tin Vo",
+      "text": "Functions well, but the UI could be better and the lifetime price increased a lot through the years",
+      "reply": "Hello, we’re sorry the UI is not perfect. We're looking to improve things! Was there a specific feature you found hard to navigate? Which screen or setting felt the most confusing? Any design elements we should polish? Please let us know at support@urbandroid.org so we can focus our next update on the right areas. Thank you.",
+      "replyDate": "2026-03-31T11:50:31.699Z",
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=4c2be1bc-e021-4a77-990d-bbe3ec02ec1c"
+    },
+    {
+      "date": "2026-03-31T09:39:29.446Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "Patrick Burns",
+      "text": "Used to work great, but lately alarms are going off on my phone instead of my watch. My watch shows it is still running the app, but it seems to disconnect in the middle of the night.",
+      "reply": "Hello Patrick, which wearable exactly are you using? Are all involved apps excluded from the system \"optimizations\"? Do you use the Bedtime mode? Have you been having troubles with the wearable connection since the last update of the companion app on the watch? Our contact is support@urbandroid.org. Thank you.",
+      "replyDate": "2026-03-31T09:49:40.442Z",
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=0de9a246-4c56-4ed8-9ab5-20bf40dca8de"
+    },
+    {
+      "date": "2026-03-31T05:42:01.616Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "Noelle Saunders",
+      "text": "It's everything, sleep hygiene and health. It picks up snoring, breathing, HR, it gets data from my watch/phone. Provides detailed reports of my sleep then it offers advice and lullabies (any kind of sleep noise), meditation, all the cool tricks. The best part is normally the worst. The alarm has a ton of customization options and includes quick tests like math, movement, proof of alertness, before the alarm can be silenced. I made it so i cant shut my phone off. You’re welcome future me.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=fb6a48a4-4540-4bd1-a83c-173eaf560b9c"
+    },
+    {
+      "date": "2026-03-31T04:44:16.946Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Adam Favre",
+      "text": "many options of what it can do with a multitude of devices.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=774bf434-8a56-470a-bd8d-74f8d9c4f3ea"
+    },
+    {
+      "date": "2026-03-31T02:45:59.629Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Basil Badham",
+      "text": "great app, most good features are free. I haven't had any bugs so far.",
+      "reply": "Hello Basil, is there anything we can do in the app to improve your rating and your experience with the app? If you have any questions about the app or something that is not working as expected, please contact support@urbandroid.org. Thank you for your feedback, much appreciated!",
+      "replyDate": "2026-04-06T07:54:30.779Z",
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=b29686eb-a766-48a8-89a7-811348bcbb49"
+    },
+    {
+      "date": "2026-03-30T22:50:15.577Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Drake",
+      "text": "The QR code scanning is the only thing getting me out of bed",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=22ac4916-731d-4415-9ae4-3614df8ed95a"
+    },
+    {
+      "date": "2026-03-30T21:26:25.410Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Izyan Tarafder",
+      "text": "This app has helped me sleep so well and here's reasons why, First off, it has a sleep tracker so I can see how I've been sleeping, what noises I make during sleeping and how much I slept with the quality of how I slept. Secondly, there's an alarm to wake you up and it's much more effective than the usual alarm on my device. When I get up, it puts me to the test to see if I am not half-asleep or slacking/being lazy. Last but not least, the Improving section, it tells me what I can improve on.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=4cacd4dc-db20-43c0-8b0e-e444f7d5b74e"
+    },
+    {
+      "date": "2026-03-30T21:15:32.747Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "Moira Keenan",
+      "text": "My sleep has been okay, for the second night after installation. Getting it started has been difficult on both nights. *Sunday night: I played music in addition to the app, and that's all the app recorded. *Monday night: I played the same music through the app as a lullaby. The volume constantly went up high, even after I turned it down. I turned the music off due the disruption. I'd set up meditation to play with the music, but it didn't play. This caused no relaxation. I hope it improves.",
+      "reply": "Hello Moira, what sensor do you use for sleep tracking? Could you please give us more details at support@urbandroid.org? Was the meditation played from within the app, or via a 3rd party app player? Our contact is support@urbandroid.org. Thank you.",
+      "replyDate": "2026-03-31T09:44:33.208Z",
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=acc726ac-fb68-4a37-91b0-ae6ddd4d74f2"
+    },
+    {
+      "date": "2026-03-30T20:55:17.337Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Fruit Saladin",
+      "text": "I recently changed to GrapheneOS, this app is now perfect. it does what I want, not what the \"true owners\" of my phone decide I'm allowed to do.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=88e3b860-476c-422a-9625-0b16c3b7b444"
+    },
+    {
+      "date": "2026-03-30T15:56:00.897Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Malte Schoss",
+      "text": "Ultra fast Developer Response - well done! 👍",
+      "reply": "Hello Malte, for automatic sleep tracking, please enable Sleep tracking → Automatic sleep tracking → Start sleep tracking → After fall asleep. Was there a specific feature you found hard to navigate? Which screen or setting felt the most confusing? Please let us know at support@urbandroid.org. Thank you.",
+      "replyDate": "2026-03-30T15:47:23.459Z",
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=6e473f10-b1a8-4b1d-a6c9-c4dc7272d4b3"
+    },
+    {
+      "date": "2026-03-30T15:52:28.479Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "Tuan Anh Pham",
+      "text": "BEST sleeping app i have ever used! Edit: Absolutely Windscribe-level generously",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=ee27b283-fdb6-483a-a377-6f9c5e6e599e"
+    },
+    {
+      "date": "2026-03-30T13:18:19.991Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "D.L. Wilkes",
+      "text": "BEST sleep app ever!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=2dab71bf-3b96-4652-9cc6-79be8bb143fd"
+    },
+    {
+      "date": "2026-03-30T00:12:34.619Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "João",
+      "text": "It was very good, very good. I have it for more than 10 years, more or less. But it is very vulnerable to hackers. For instance, mine is hacked and doesn't have warranty, security. The numbers are not the real ones. Please solve it, because I paid $1,00 in the starting years ago to help the business and today it doesn't work with true numbers and percentages.",
+      "reply": "Hello João, why do you think the app is vulnerable to hackers? If you have trouble with the results, please use the Left ≡ menu → Support → Report a bug, and send us the application logs. Have you been having any troubles during the past 10 years, or this is the first issue? Our contact is support@urbandroid.org. Thank you.",
+      "replyDate": "2026-03-31T15:58:09.445Z",
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&reviewId=e3f6fe2b-cb46-408e-bc45-f701d457ca80"
+    }
+  ]
+}

@@ -386,7 +386,41 @@ The Direction 3 wedge becomes: **build the Schedule C estimator + mileage tool a
 
 ---
 
-## Direction 4: DE Kleinunternehmer §19 Invoice — "RechnungEinfach" / "ParaFair DE" (Score 17, MEDIUM-HIGH confidence) — **NEW v9**
+## Direction 4: EU Solo-Freelancer Invoice — DE/PL/NL shared codebase — "RechnungEinfach" / "FakturaFair" (Score 19, MEDIUM-HIGH confidence) — **NEW v9 — REFRAMED as multi-country**
+
+**MAJOR v9 update from Agent 9 (PL/CZ/NL/SE expansion scan)**: Direction 4 is now a **SHARED CODEBASE** covering DE → PL → NL → CZ with country-specific compliance modules. **Poland is added as Direction 4b sub-priority** because of an active Apr 1 2026 KSeF mandatory e-invoicing transition.
+
+### Multi-country opportunity matrix
+
+| Country | Top vulnerable app | Recent low% | Regulatory hook | TAM | Priority |
+|---|---|---|---|---|---|
+| **PL** 🥇 | Invoice Simple (5M+) | 18% | **KSeF mandatory Apr 1 2026** (JDG actively migrating NOW) + Jan 1 2027 micro-entrepreneurs + VAT exemption rises to 240k zł in 2026 | ~3M JDG | **CRITICAL** — active panic |
+| **DE** 🥈 | sevDesk (100k+) | 78.7% | §19 UStG permanent exempt (3.5M Kleinunternehmer cohort) + GoBD-compliant local archive (no certification needed) | 3.5M Kleinunternehmer | HIGH — durable wedge |
+| **NL** 🥉 | Labhouse Invoice Fly (1M+) | **50%** + Invoice2Go 23% | KOR (€20k threshold) + explicit anti-foreign sentiment in reviews ("dit is een bedrijf uit de VS. dus niet meer doen") | ~1.5M ZZP | MEDIUM — local-app preference |
+| CZ | Invoice Simple (5M+) | 9% | OSVČ exempt up to CZK 2M | ~1M | LOW — saturated, no catalyst |
+| SE | n/a (POS apps dominate) | n/a | n/a | n/a | REJECTED |
+
+### Direction 4b: Poland KSeF-native JDG invoice (sub-direction, Score 21)
+
+**The case for Poland-first**:
+- **Apr 1 2026 KSeF deadline = TODAY's active panic**. Every Polish JDG must switch invoicing systems by April. Migration window is 11 months from now.
+- **Tofu app launched Dec 2023, scaled to 1M+ installs in <2 years** — proves market share is winnable, fast.
+- **Invoice Simple has 5M+ installs in PL with 18% recent low_pct** — large displacement target.
+- VAT exemption rises to 240k zł in 2026 = larger Kleinunternehmer-equivalent cohort.
+- Polish freelancer Quora/Reddit forums actively discussing KSeF migration tools.
+
+**The PL-specific MVP** (4-6 weeks beyond Direction 1 codebase):
+1. KSeF API integration (Polish e-invoicing system) — primary feature
+2. Native Polish UI + zł/€ multi-currency
+3. JDG-specific invoice fields (NIP, regon)
+4. PIT-2 tax bracket calc (Polish income tax)
+5. Migration tool: import from Invoice Simple / Excel / CSV
+
+**Polish JDG cultural fit**: Polish solo-freelancers prefer local apps (similar to Dutch ZZP per Agent 9 finding); Greek dev positioned as European fellow-citizen rather than American foreign vendor — culturally closer than US competitors.
+
+**Confidence on Direction 4b: HIGH** (regulatory accelerant + proven market share winnability via Tofu precedent + 5M-install vulnerable incumbent + similar EU regulatory familiarity for Greek dev).
+
+### Direction 4a: DE Kleinunternehmer §19 (originally drafted v9 — UNCHANGED)
 
 **Niche × Country**: `kleinunternehmer-invoice` × `DE`
 
@@ -481,6 +515,25 @@ Cross-source legal validation (Agent 4) revealed:
 - 1 German advisor cannot fully de-risk localization quality (real Greek ↔ German cultural distance)
 - Lexware free tier might intrude into Kleinunternehmer territory in 2026-2027
 - Direction 1 (Invoice Simple displacement) ALSO covers DE if simply translated — risk of "build same product twice"
+
+### Direction 4 sequencing strategy (REVISED v9 with PL data)
+
+**Recommended sequencing** (12-month roadmap for Direction 4):
+
+1. **Month 1-3**: Build Direction 4a base (DE Kleinunternehmer §19 features) on Direction 1's Flutter+SQLite codebase
+2. **Month 3**: Deploy DE → measure traction
+3. **Month 4-5**: Add Direction 4b Poland module (KSeF API integration + Polish UI + PIT-2 calc) — **timed for Apr 1 2026 KSeF panic peak**
+4. **Month 6**: Deploy PL → measure traction
+5. **Month 7-8**: Add NL module (KOR threshold + Dutch UI) — capture anti-foreign-sentiment market
+6. **Month 9-12**: Either iterate top performer OR add CZ as opportunistic 4th country
+
+**Why this sequencing**:
+- DE first because §19 wedge is **permanent** (legal durability) — solid foundation
+- PL second because of **Apr 2026 deadline** — riding the KSeF migration wave at peak panic
+- NL third because of anti-foreign sentiment = local apps win — "I am Greek, not American" matters in NL
+- CZ last because no regulatory catalyst, smallest TAM
+
+**Combined Direction 4 (a+b+NL) expected Y1 ARR**: €30-50k (vs €16k for DE alone).
 
 ---
 

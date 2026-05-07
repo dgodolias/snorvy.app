@@ -20,9 +20,17 @@ loop_state:
     - founder_responsiveness_top3_games
     - reddit_idleclicker_comment_tree
     - launch_readiness_d6
-  exhausted_directions: [1, 2, 3, 4, 6]   # ALL 5 actionable directions exhausted (D5 was merged into D2)
-  loop_status: COMPLETE
-  loop_completed_at: 2026-05-07T16:55:00+03:00
+  exhausted_directions: [1, 2, 3, 4, 6]   # All 5 actionable directions exhausted
+  loop_status: EXPLORATION_MODE   # CORRECTION: SKILL says when all directions exhausted, enter exploration mode (new niches/countries/genres) until cap reached
+  exploration_started_at: 2026-05-07T17:00:00+03:00
+  exploration_dimensions:
+    - new_country_TR_invoice_market   # Greek dev native country, untouched in v9
+    - new_niche_voice_recorder_or_dictation
+    - new_niche_sleep_tracker_or_alarm
+    - new_country_BR_invoice_or_freelance
+    - cross_validation_d1_competitor_legal_filings_landing_page
+    - new_niche_meditation_anti_subscription
+    - new_niche_focus_pomodoro_apps
   pivot_history:
     - {from: null, to: 1, at_tick: 0, reason: "loop start, D1 was top scoreboard"}
     - {from: 1, to: 2, at_tick: 0, reason: "D1 already exhausted in main run pre-loop: 11/11 applicable dimensions done"}

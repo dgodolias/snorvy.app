@@ -1,0 +1,74 @@
+{
+  "source": "tick32_dig_d10",
+  "country": "my",
+  "pulled_utc": "2026-05-07",
+  "method": "google-play-scraper reviews + search; ratings filter ≤2 = low",
+  "competitors": [
+    {
+      "appId": "my.gov.hasil.myinvois",
+      "title": "MyInvois",
+      "developer": "Aplikasi Mobile HASiL (LHDN govt)",
+      "n_reviews_pulled": 26,
+      "low_pct_lifetime": 0.846,
+      "low_pct_recent_6mo": 1.0,
+      "low_pct_recent_12mo": 1.0,
+      "dev_reply_rate": 0.0,
+      "verdict": "MANDATED, BROKEN, ABANDONED — primary wedge target",
+      "raw_file": "findings/raw/play-store/d10_govt_myinvois_500.json"
+    },
+    {
+      "appId": "com.nukleus.bukku",
+      "title": "Bukku MiniPOS",
+      "developer": "Bukku",
+      "n_reviews_pulled": 5,
+      "low_pct_lifetime": 0.20,
+      "low_pct_recent_6mo": 0.0,
+      "verdict": "Niche POS only; web-first vendor; not mobile-native e-Invois threat",
+      "raw_file": "findings/raw/play-store/d10_bukku_minipos_200.json"
+    },
+    {
+      "appId": "com.financio.payroll",
+      "title": "Financio Payroll",
+      "developer": "ASIAN BUSINESS SOFTWARE SOLUTIONS SDN. BHD.",
+      "n_reviews_pulled": 4,
+      "low_pct_lifetime": 0.50,
+      "verdict": "Payroll niche, not e-Invois; stale",
+      "raw_file": "findings/raw/play-store/d10_financio_payroll_200.json"
+    },
+    {
+      "appId": "com.abssasia.connect",
+      "title": "ABSS / Financio CONNECT",
+      "developer": "ASIAN BUSINESS SOFTWARE SOLUTIONS SDN. BHD.",
+      "n_reviews_pulled": 22,
+      "low_pct_lifetime": 0.182,
+      "low_pct_recent_6mo": null,
+      "verdict": "Mostly 2020–2023 reviews; pre-mandate; not addressing e-Invois mandate UX",
+      "raw_file": "findings/raw/play-store/d10_abss_connect_200.json"
+    },
+    {
+      "appId": "my.jomeinvoice.consumer",
+      "title": "Jomeinvoice",
+      "developer": "Jom eInvoice Sdn Bhd",
+      "n_reviews_pulled": 0,
+      "verdict": "Top-3 named middleware in press, ZERO mobile traction → slot open"
+    },
+    {
+      "appId": "my.jomeinvoice.app",
+      "title": "JomeInvoiceMerchant",
+      "developer": "Jom eInvoice Sdn Bhd",
+      "n_reviews_pulled": 0,
+      "verdict": "Same as consumer — zero mobile traction"
+    }
+  ],
+  "asa_composite_target": "MyInvois alternatif (composite 18.0)",
+  "wedge_features_validated": [
+    "PDF export of any e-Invois (govt only outputs JSON)",
+    "Reliable QR scanner (black-screen on Vivo/Xiaomi/Pixel)",
+    "MyDigital ID login (govt missing — user-requested)",
+    ">=12-month record retention (govt only 10 days viewable)",
+    "Bahasa-first form labels and accounting glossary",
+    "Offline draft mode for poor rural connectivity",
+    "Auto-fill address/phone (govt save-loop bug)",
+    "Push reminder when invoice >RM10K (post-Jan-2026 individual rule)"
+  ]
+}

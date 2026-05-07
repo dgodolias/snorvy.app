@@ -1,0 +1,228 @@
+{
+  "app": "com.abssasia.connect",
+  "country": "my",
+  "total_pulled": 22,
+  "total_after_filter": 22,
+  "reviews": [
+    {
+      "date": "2024-03-15T11:09:54.214Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "Aswindran Ghanaseharan",
+      "text": "Unable to login via mobile app. Error indicates that Failed to access the account. Also, it will great if the account is kept logged in rather that everytime has to sign in. This is not very convenient.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.abssasia.connect&reviewId=151100cb-c0c6-4ba6-92ad-0a095a114382"
+    },
+    {
+      "date": "2023-09-05T07:55:28.522Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Sanjay Jegatheesan",
+      "text": "App is broken. Customer details is all correct in the contact list, but when creating invoice, address doesn't get added, and can't download the invoice cos missing address.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.abssasia.connect&reviewId=41fc9ae0-896d-4066-b8ac-de02aa60811b"
+    },
+    {
+      "date": "2023-07-25T20:03:24.699Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Jeff Khoo",
+      "text": "Unable to log in. Keeps showing invalid credentials!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.abssasia.connect&reviewId=0da5561f-5b89-4c24-82f8-d4d01ba6ff69"
+    },
+    {
+      "date": "2023-05-08T10:05:44.390Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "Luqman Ahmad",
+      "text": "Simple and easy to use, just need to introduce more features like Financio web app.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.abssasia.connect&reviewId=0a41bb2d-6f11-4b73-b8f5-13ad61312acb"
+    },
+    {
+      "date": "2022-10-19T05:12:22.185Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Elise Rachel",
+      "text": "Is good to have apps as I need to issue invoice on the go. APPRECIATE if more feature is enhanced and also if Posible Connect Apps can be use as POS system",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.abssasia.connect&reviewId=ea260e31-2e4d-4f10-92f4-37944df7b5c5"
+    },
+    {
+      "date": "2022-08-09T07:34:25.900Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Chip Loon",
+      "text": "Works smoothly on my HTC phone. One will need to use regularly to get used to the mobile interface. as it is different from the web interface.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.abssasia.connect&reviewId=8fc1cbfa-850a-47de-94cf-82a7bfc441ed"
+    },
+    {
+      "date": "2022-08-09T07:03:07.601Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Thivakaran Murugiah",
+      "text": "Very convenient that you can do all your tasks on the go.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.abssasia.connect&reviewId=a18025f9-348d-4922-88c7-58fc105b78a2"
+    },
+    {
+      "date": "2021-03-12T06:53:57.855Z",
+      "score": 5,
+      "thumbsUp": 2,
+      "user": "Mohamad Afiq",
+      "text": "Very friendly user apps. 👍🏼👍🏼",
+      "reply": "Hi Mohamad Afiq, thank you very much for your feedback!",
+      "replyDate": "2021-03-22T01:52:59.505Z",
+      "url": "https://play.google.com/store/apps/details?id=com.abssasia.connect&reviewId=8cf185ac-d7ff-4aa4-8210-635219be7b07"
+    },
+    {
+      "date": "2021-01-17T09:03:11.296Z",
+      "score": 3,
+      "thumbsUp": 2,
+      "user": "Shirley K",
+      "text": "Suggest to improve following ASAP for better usage: 1. Include the Reference No in the apps for PO ref for invoice 2. Include the feature to select shipping address for customer with multiple branches and delivery address (otherwise it has to go to Web page and the apps become redundant) 3. Include the feature of doing receipt application via mobile Connect 4. For CN function, for system migrate customer, we are unable to create CN for return unit due to no matching unit",
+      "reply": "Thank you for providing your valuable feedback. Your feedback is greatly appreciated. Please reach out to us at support@financio.co, we would like to get in touch with you.",
+      "replyDate": "2021-01-18T03:45:34.816Z",
+      "url": "https://play.google.com/store/apps/details?id=com.abssasia.connect&reviewId=614e3490-97fc-43a9-9bd9-5e7b4d0652b7"
+    },
+    {
+      "date": "2020-12-22T03:49:08.409Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Wei Wen Low",
+      "text": "Simple and easy to us.",
+      "reply": "Thank you very much for your 5-star review!",
+      "replyDate": "2020-12-24T02:35:00.357Z",
+      "url": "https://play.google.com/store/apps/details?id=com.abssasia.connect&reviewId=46b43b83-afa9-4ed5-a18d-a32549ece5f7"
+    },
+    {
+      "date": "2020-12-21T13:27:15.442Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Tim Asquith",
+      "text": "Great user interface, very intuitive to use, definitely the future of cloud accounting",
+      "reply": "Thank you very much for your 5-star review! Please recommend our app to your friends, and don’t hesitate to shoot us a note at support@financio.co if you have any questions.",
+      "replyDate": "2020-12-22T05:54:16.669Z",
+      "url": "https://play.google.com/store/apps/details?id=com.abssasia.connect&reviewId=b9fb4c57-7047-4f37-ae13-722deecc1379"
+    },
+    {
+      "date": "2020-12-21T12:38:08.919Z",
+      "score": 4,
+      "thumbsUp": 1,
+      "user": "Sunny Lim",
+      "text": "A little hiccup during set up.",
+      "reply": "Hi, thank you for your review! We are sorry that you're having issues with the setup. Kindly write to us at support@financio.co if you need further assistance.",
+      "replyDate": "2020-12-22T03:50:38.810Z",
+      "url": "https://play.google.com/store/apps/details?id=com.abssasia.connect&reviewId=d04121b5-e9b0-45f6-ac04-b0b682d0f669"
+    },
+    {
+      "date": "2020-12-21T09:37:31.116Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "Venturemore Malaysia",
+      "text": "Easy to use. Easily accesible compared to using the software on the laptop or desktops. Love the fact that the app can connect the users to contact our customers all from the app itself. Highly recommended to Financio users to use the app.",
+      "reply": "Hi, thank you so much for taking the time to leave us this amazing review! We are continuously working on adding more features to our app to make your experience better.",
+      "replyDate": "2020-12-22T03:51:29.658Z",
+      "url": "https://play.google.com/store/apps/details?id=com.abssasia.connect&reviewId=44c02f4d-8f38-45b3-9234-564c8afadd8e"
+    },
+    {
+      "date": "2020-12-17T01:00:06.635Z",
+      "score": 5,
+      "thumbsUp": 2,
+      "user": "Eunice Fong",
+      "text": "I would say Financio is the best accounting software which I know so far. Their recent launch CONNECT mobile app is very much welcomed. It help me who is on-the-go person and multitasking. I can just send out invoice, bill and quote at my fingertips. Another encouraging things about the app, I can get all the contacts that have been save in the app and the best things I can directly call my clients and get direction to their locations just a click away. This app also enable me to do accounting work even when I'm outstation and don't have my laptop with me. Plus, I can also provide a quick report to my boss from the summary given in the dashboard.",
+      "reply": "Hi Eunice, thank you for your encouraging words. We're really glad you enjoyed our CONNECT mobile app. Your review means a lot to us and lets us know we’re on the right track! We’re very grateful for customers like you and hope you stick with us for years to come!",
+      "replyDate": "2020-12-18T01:51:56.547Z",
+      "url": "https://play.google.com/store/apps/details?id=com.abssasia.connect&reviewId=be5c210c-edb7-4fde-8ac3-e852ba18622c"
+    },
+    {
+      "date": "2020-12-16T02:50:09.650Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Eddie Chan",
+      "text": "Easy and convenient invoicing on the go...very handy and useful to access customer's sales info while away from office. Recommended for all sales personnel who works away from office. App is easy to use and is customizable. Most important is app is steady and doesn't lag and have secure log in. Would love to have features to search customers sales records and current sales statements. Hope to see future improvement to make this app great",
+      "reply": "Hi Eddie, thanks for taking the time to write this awesome feedback. We will continue to work on adding more features to our app.",
+      "replyDate": "2020-12-16T09:37:03.863Z",
+      "url": "https://play.google.com/store/apps/details?id=com.abssasia.connect&reviewId=79442e1c-0d84-4b55-95f4-fda1ed615b1a"
+    },
+    {
+      "date": "2020-11-29T23:12:01.539Z",
+      "score": 1,
+      "thumbsUp": 4,
+      "user": "Melissa S. Clarke",
+      "text": "UI is nice. But your app is extremely buggy and unusable. Sync doesn't work well. Payment keyed in on Web is not synced on the app. Dashboard shows 2 open invoices but when you click on it, there are actually 3 open invoices. Sending invoice via the app is not available (in Msia). I mainly take Progress Payments - this is setup on Web but on the app, the term doesn't exist in the selection. When I go to Invoices, select \"ALL\" and scroll down, it's an endless loop of \"loading more data\". Pls fix.",
+      "reply": "Sorry to hear that! Could you write to us at support@financio.co with more details of your issue? We'd love to contact you directly regarding this matter.",
+      "replyDate": "2020-12-02T05:58:45.665Z",
+      "url": "https://play.google.com/store/apps/details?id=com.abssasia.connect&reviewId=426b8e84-117e-47b1-884c-0560632ae5c1"
+    },
+    {
+      "date": "2020-10-25T03:58:48.770Z",
+      "score": 5,
+      "thumbsUp": 3,
+      "user": "Anne Antah",
+      "text": "Great Apps. Makes my business monitoring easier. I hope this apps will be available on ios soon. Financio is the best.",
+      "reply": "Hi, thank you for using our app. Stay tuned for more updates on the iOS version!",
+      "replyDate": "2020-10-26T01:38:53.404Z",
+      "url": "https://play.google.com/store/apps/details?id=com.abssasia.connect&reviewId=4c88b447-11b7-42af-bb98-f968b01fefad"
+    },
+    {
+      "date": "2020-10-23T12:44:16.806Z",
+      "score": 5,
+      "thumbsUp": 2,
+      "user": "Kin Yau Tan",
+      "text": "Some minor bugs.. But everything is good",
+      "reply": "Thank you for downloading our app. Please write to us at support@financio.co. We would love to hear your feedback.",
+      "replyDate": "2020-10-24T09:31:25.675Z",
+      "url": "https://play.google.com/store/apps/details?id=com.abssasia.connect&reviewId=d5544dd7-272d-4c4f-9221-ec8bbb43c239"
+    },
+    {
+      "date": "2020-10-21T00:38:25.418Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "Muhammad Zakwan",
+      "text": "Good software.. easy to use",
+      "reply": "Thank you very much. Keep using our app :)",
+      "replyDate": "2020-10-21T05:49:44.553Z",
+      "url": "https://play.google.com/store/apps/details?id=com.abssasia.connect&reviewId=8f88d3fe-34bc-4553-934a-3397cd5ea127"
+    },
+    {
+      "date": "2020-10-17T08:54:13.633Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "Kelvin Chua",
+      "text": "I can't log in using my email. Say failed credentials contact app admin etc.",
+      "reply": "Hi, kindly complete the role setting in your Financio account before login to the CONNECT mobile app. If you still failed to log in after completing the role setting, please send us your account details along with the screenshot to support@financio.co. Our specialist will assist you with this. Thank you.",
+      "replyDate": "2020-10-17T17:32:37.240Z",
+      "url": "https://play.google.com/store/apps/details?id=com.abssasia.connect&reviewId=7f02e770-1269-457e-b15a-7c9f2235f952"
+    },
+    {
+      "date": "2020-10-15T06:03:42.333Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "farah habibah",
+      "text": "Very good apps to accounting.. Easy to use",
+      "reply": "Hi Farah, thank you so much for your feedback.",
+      "replyDate": "2020-10-15T06:45:16.354Z",
+      "url": "https://play.google.com/store/apps/details?id=com.abssasia.connect&reviewId=2c97798d-862e-4838-8c83-b922bd16ea1a"
+    },
+    {
+      "date": "2020-10-14T12:48:15.402Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "Syafrie Shafie",
+      "text": "Very good app, easy to use and user friendly.. Really help me to control my business anytime and anywhere. Love this app so much.",
+      "reply": "Hi Syafrie, thank you very much for your feedback.",
+      "replyDate": "2020-10-15T06:45:10.660Z",
+      "url": "https://play.google.com/store/apps/details?id=com.abssasia.connect&reviewId=e1b0add0-751e-434f-9f5b-dc8daddd5dd6"
+    }
+  ]
+}

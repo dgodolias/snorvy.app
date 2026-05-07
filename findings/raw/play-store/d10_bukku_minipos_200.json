@@ -1,0 +1,58 @@
+{
+  "app": "com.nukleus.bukku",
+  "country": "my",
+  "total_pulled": 5,
+  "total_after_filter": 5,
+  "reviews": [
+    {
+      "date": "2026-03-25T03:52:05.253Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "SY Kong",
+      "text": "simple and free POS system app to print receipt to my customer. 👍🏻",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.nukleus.bukku&reviewId=a6bb73b7-028d-40ae-bcb5-43bf8611ff8a"
+    },
+    {
+      "date": "2025-08-25T09:44:07.280Z",
+      "score": 1,
+      "thumbsUp": 2,
+      "user": "Beh Hun Yong",
+      "text": "can not sign up",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.nukleus.bukku&reviewId=59e8a248-2f9a-4504-a054-1630666eb2f9"
+    },
+    {
+      "date": "2025-07-23T00:27:53.397Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Angelica Leong",
+      "text": "easy and convenient to use which it auto link to bukku account system",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.nukleus.bukku&reviewId=5ec8cf62-ec99-4c12-8bf0-b6419b259796"
+    },
+    {
+      "date": "2025-03-27T06:31:08.865Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Jianwen Lin",
+      "text": "quite convenient especially when it comes to validating e-invoice",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.nukleus.bukku&reviewId=53b95b88-a900-4090-aa44-a939e1299971"
+    },
+    {
+      "date": "2025-03-11T01:38:07.952Z",
+      "score": 3,
+      "thumbsUp": 1,
+      "user": "Mi Ninja",
+      "text": "Hi, all previous transaction no show on MiniPos? I try to created a new invoice in MiniPos, but no show on my web view bukku system.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.nukleus.bukku&reviewId=a9ddc7eb-e6e1-40fa-a164-f0a3ce6bc2f6"
+    }
+  ]
+}

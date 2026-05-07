@@ -1,0 +1,48 @@
+{
+  "app": "com.financio.payroll",
+  "country": "my",
+  "total_pulled": 4,
+  "total_after_filter": 4,
+  "reviews": [
+    {
+      "date": "2026-02-10T01:59:33.829Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "Herne Helan",
+      "text": "Have to login every time I use it. Waste of time trying to login. Please include auto login feature. Apple user doesnt have thumb print option 🥲",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.financio.payroll&reviewId=0ddd1cce-1557-4305-9377-4bc029d3deec"
+    },
+    {
+      "date": "2025-07-10T02:55:58.871Z",
+      "score": 1,
+      "thumbsUp": 2,
+      "user": "Putri Azreen",
+      "text": "I change to new phone, my previous phone have no issue. The new phone I am unable to clock in. Trying to click the clock in/out button many times but still on the same page.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.financio.payroll&reviewId=560c032d-c6f3-40f7-a735-10363f00f5bb"
+    },
+    {
+      "date": "2024-10-22T15:43:20.310Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Meth Killer",
+      "text": "Terbaik",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.financio.payroll&reviewId=0f5da99b-c3ac-432e-be57-6feca51da2db"
+    },
+    {
+      "date": "2024-08-03T16:49:20.464Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "Iron First",
+      "text": "Terbaik",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.financio.payroll&reviewId=e08c5573-74c3-4708-a8f4-ef602413c4bc"
+    }
+  ]
+}

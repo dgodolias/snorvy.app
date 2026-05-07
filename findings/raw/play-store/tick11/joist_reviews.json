@@ -1,0 +1,2008 @@
+{
+  "app": "com.joistapp.android.joist",
+  "country": "us",
+  "total_pulled": 200,
+  "total_after_filter": 200,
+  "reviews": [
+    {
+      "date": "2026-05-06T02:59:19.147Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Rocky M Elsenpeter",
+      "text": "App would be ok but glitches. There is a pop up that says, \"name already exists\". What does this mean? Maybe explain it because we have tried changing the name on the invoice...nothing works. There are better apps.",
+      "reply": "Hi there, I'm sorry you are experiencing a technical issue. Please try to refresh your Joist account, and that should resolve it. If you're still experiencing the issue after trying that, please reach out to our support team at hello@joist.com for further help.",
+      "replyDate": "2026-05-06T17:20:33.200Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=fe657ff1-3a9e-48ae-a637-3b8b50b3fdd7"
+    },
+    {
+      "date": "2026-05-02T14:08:43.458Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Shean Ledbetter",
+      "text": "greatest estimate app ever",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=aab45a8d-bc7c-4be1-8c56-39ce0561b516"
+    },
+    {
+      "date": "2026-05-02T12:59:09.926Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Ashley Friesen",
+      "text": "New to using this app still .. but so far I love it! So easy to make up the invoices after each clients cleaning. Would recommend!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=271563df-f7c4-43f4-b639-1e7733ebb167"
+    },
+    {
+      "date": "2026-04-22T19:00:11.900Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Chris Dittman",
+      "text": "the app told me I had 5 estimates left for the month. I've given one estimate and cant even get back to send out the invoice that follows the estimate.",
+      "reply": "Hi Chris, it looks like you're having issues with your subscription. Please reach out at hello@joist.com or through our in-app chat so that we can look into this for you. Looking forward to hearing from you.",
+      "replyDate": "2026-05-01T13:58:32.357Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=0680f63d-d749-4586-b5d9-19596b5779f7"
+    },
+    {
+      "date": "2026-04-19T23:10:34.407Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "Maddy Pulling",
+      "text": "Where can I access an invoice for my monthly subscription fee? Ive looked everywhere.",
+      "reply": "Hi Maddy, it sounds like you're having trouble locating your invoice for the monthly subscription fee. You can generally find your invoices in your email, as they are sent every month for monthly subscriptions. If you need further assistance, feel free to reach out. We're here to help you navigate this!",
+      "replyDate": "2026-04-20T12:24:01.256Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=5535a075-f525-4dd8-ada2-ed5a5eb76b02"
+    },
+    {
+      "date": "2026-04-17T18:23:51.721Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Mr. Giesbrecht",
+      "text": "so far this app is very easy to setup and use. I would recommend",
+      "reply": "We’re so glad to hear you found the app easy to set up and use! Your recommendation means a lot to us.",
+      "replyDate": "2026-05-01T14:01:34.511Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=719fab2f-dd8f-4571-a358-261341b72c64"
+    },
+    {
+      "date": "2026-04-16T19:12:32.902Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "B",
+      "text": "this app used to be perfect now it's paid only! not sure why they have to be so greedy! there used to be options for paid and free , now it's paid only.. time to move onto another app..",
+      "reply": "Hi there, thanks for reaching out. We appreciate your feedback. To continue building and maintaining the experience you rely on, and to support the ongoing growth of both your business and ours, we’re making the necessary update to our pricing.",
+      "replyDate": "2026-05-01T14:00:02.684Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=c8ef30ef-0674-4f63-ac5d-e8ca5d9a659e"
+    },
+    {
+      "date": "2026-04-16T14:46:56.561Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Rob Lenderman",
+      "text": "fix your app. Google account and login broken",
+      "reply": "Thank you for letting us know you are having login issues with Google. Please reach out to our support team through the app chat box or email at hello@joist.com, and let us know you are having Google login issues. Our support team will be happy to look into this for you.",
+      "replyDate": "2026-04-16T15:41:03.677Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=a202d390-6125-4f36-880d-aae05c803dd2"
+    },
+    {
+      "date": "2026-04-13T04:17:49.826Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Amador Zamora",
+      "text": "I'll be using it forever. the best tool for a builders. warranty.",
+      "reply": "Thank you for your fantastic feedback and for being a long-term user! Your support means a lot, and we’re here to ensure you have the best tools for your projects.",
+      "replyDate": "2026-04-15T18:52:06.580Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=75f2b4b8-f516-4f53-935f-b8feb2935be7"
+    },
+    {
+      "date": "2026-04-06T13:01:06.172Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Coop and Hall",
+      "text": "Awesome, love it woul suggest to all Contractors",
+      "reply": "Your amazing feedback really energizes us! We appreciate your recommendation to fellow contractors; it truly helps us reach more users! We're excited to continue providing a great experience for everyone.",
+      "replyDate": "2026-04-09T16:13:54.447Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=6fcaf9ce-cec9-41e6-aa98-0a27108e77ad"
+    },
+    {
+      "date": "2026-04-06T04:35:32.302Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Bryan Benham",
+      "text": "i have been using this app for multiple years! easy to use",
+      "reply": "It's fantastic to hear you've enjoyed using the app for so long! Your loyalty truly means a lot to us, and we’re thrilled that you find it easy to use. We appreciate your support and look forward to bringing you even more great features!",
+      "replyDate": "2026-04-09T16:14:24.490Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=a99fbb14-e91c-47d4-9bc0-80620ed40506"
+    },
+    {
+      "date": "2026-04-05T03:12:32.374Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Christopher Daggett",
+      "text": "Create Account feature does not work. Both via email and Google leads to errors. There is no way around it. No way to create an account.",
+      "reply": "Hi Christopher, sorry to hear about the technical issue! We want to help, so please contact us through email at hello@joist.com and request to speak directly to an agent on our technical support team. We'll be glad to troubleshoot this issue with you as soon as we hear from you -- please make sure to include the error message when you contact us.",
+      "replyDate": "2026-04-06T13:05:50.992Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=ba4ca4dd-81f8-4ba2-b244-b2cb75f16ec0"
+    },
+    {
+      "date": "2026-04-04T21:48:00.976Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Troy Murch",
+      "text": "always an amazing app",
+      "reply": "We're so happy to hear you think the app is amazing! Your support means a lot to us.",
+      "replyDate": "2026-04-09T16:14:55.122Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=7be3aca3-b33d-4b0c-91c8-56df184d58cc"
+    },
+    {
+      "date": "2026-04-03T16:39:33.250Z",
+      "score": 4,
+      "thumbsUp": 2,
+      "user": "James Simmons",
+      "text": "good app for most things but I wish you could add pictures to an invoice after is has been completed and signed. I always include starting pictures but can't add finished pictures without creating a new invoice.",
+      "reply": "We're glad you find the app helpful! Your insight about adding pictures to completed invoices is valuable. We understand how including finished pictures can enhance your invoices. We appreciate your suggestion and will consider it for future updates. Thank you for sharing your thoughts!",
+      "replyDate": "2026-04-06T13:14:58.680Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=83d7ceb1-9fa5-49bd-9cb1-a6eeea7ae44a"
+    },
+    {
+      "date": "2026-04-01T18:53:20.586Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Jerod Penner",
+      "text": "Looking for an overpriced basic invoice service? look no further. The Joist basic (bend you over) plan is exactly what you need! Drop your pants and get out your credit card! Money grubbing. I started out with the free version, up to 5 free quotes or invoices per month. Then you forced all of your current free users to pay a minimum $10/month for the same basic and very limited service. For my $110+ cost to date, I have not gained access to any features that are remotely beneficial to me. SMH",
+      "reply": "Thank you for your feedback. For further assistance, please contact our support team in the app. We hope to improve your experience in the future.",
+      "replyDate": "2026-04-02T16:03:35.590Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=e6526107-ffdb-481f-ae00-eb8950666907"
+    },
+    {
+      "date": "2026-04-01T00:01:36.572Z",
+      "score": 2,
+      "thumbsUp": 1,
+      "user": "M C",
+      "text": "The price was already high I just received an email saying they were raising the price again the app wasn't even worth the current price",
+      "reply": "We appreciate your feedback on the price increase and understand its impact. We aim to provide value that meets your expectations. If you have more thoughts, please contact our support team in the app.",
+      "replyDate": "2026-04-09T16:15:47.219Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=7cf8aca9-dab1-4b59-8bb1-34fd6656dd77"
+    },
+    {
+      "date": "2026-03-30T03:15:37.340Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Matthew Manor",
+      "text": "works nice",
+      "reply": "We're so glad to hear you're enjoying the app! Your support means a lot to us. If you have any suggestions or feedback, feel free to share!",
+      "replyDate": "2026-03-30T13:34:16.640Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=445e9872-c743-4293-beef-b897020268bf"
+    },
+    {
+      "date": "2026-03-28T09:01:03.610Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "James natalizio",
+      "text": "been on here for years now I have to pay and now I can't access all my invoices that would help me sell more jobs or warranty work",
+      "reply": "We appreciate your loyalty and are here to help with your invoice access issue. Please reach out to our support team in the app for assistance. Thank you for sharing your experience; we're committed to getting you back on track!",
+      "replyDate": "2026-03-30T13:31:51.574Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=bb7129b4-a81d-4887-8f05-ca794aff9ebc"
+    },
+    {
+      "date": "2026-03-25T19:49:23.685Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Eric Reynolds",
+      "text": "ive used this app for years 10 out 10 would recommend...",
+      "reply": "It's fantastic to hear that you've been a long-time user! Your recommendation really makes our day. We appreciate your support and hope you continue to enjoy the app for years to come!",
+      "replyDate": "2026-03-30T13:34:59.485Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=64ef21ee-59d0-4b1b-8194-a4b1eebd4bc5"
+    },
+    {
+      "date": "2026-03-25T17:42:17.600Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Secondtime Around",
+      "text": "this app sucks complete butt nuggets. I worked with them for years. than I switch phones and all my data is lost. Of course I'm f'd bc its tax time. Now they want to pay for basic, which I even showed an email and showing I was grandfathered in.",
+      "reply": "I'm sorry about the frustrating experience. It seems like you are having issues because you are logged into the wrong account. Please contact our support team through our in-app chat option, and we can try to help resolve this for you. Thanks!",
+      "replyDate": "2026-03-25T18:52:56.690Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=c62e678c-fc4e-4249-8550-66ca9097471f"
+    },
+    {
+      "date": "2026-03-25T15:27:13.126Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Randy Sweitzer",
+      "text": "customer signature needs to be original.",
+      "reply": "Thanks for sharing your thoughts on customer signatures! We value your input and will definitely consider it as we work on enhancing the experience. Your feedback is important to us, and we're excited about the potential improvements ahead!",
+      "replyDate": "2026-03-30T13:35:02.100Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=49b16f44-ffba-4ed5-b276-ca0438445252"
+    },
+    {
+      "date": "2026-03-25T00:21:13.138Z",
+      "score": 5,
+      "thumbsUp": 12,
+      "user": "Jose Calas",
+      "text": "Joist has been great for making on the go estimates and invoices. I do think it should be cheaper and it should have an option to allow you to show the quantity of each item to your customers should you choose to. I also don't agree with being limited to how many estimates you can make per month depending on how much you pay, you should have unlimited amounts since you are already not getting all the perks unless you upgrade your plan.",
+      "reply": "We're glad Joist has been helpful for your estimates and invoices! Your insights on pricing and monthly estimate limits are invaluable. We’re committed to improving, and your feedback guides us. If you still need help with your quantity display, please reach out to our support team, and they will be able to help you with those settings.",
+      "replyDate": "2026-03-25T11:52:22.163Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=a7cf000f-a4a3-4160-997a-b37354f4e710"
+    },
+    {
+      "date": "2026-03-22T19:49:51.139Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Mario Madrigal",
+      "text": "I am highly recommend this program",
+      "reply": "It's awesome to see your recommendation! Your support means a lot to us.",
+      "replyDate": "2026-03-25T11:52:34.929Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=61fcfc83-1933-4c65-adb4-507b0e907b91"
+    },
+    {
+      "date": "2026-03-22T15:39:42.851Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Joshua B",
+      "text": "Ease of use. Professional estimates and invoices. Been using it for years. Best value for what you get.",
+      "reply": "We appreciate your long-standing support and are so glad to hear that you find the app easy to use and valuable for professional estimates and invoices. It’s wonderful to know that our efforts are making a positive impact for you! Your feedback truly motivates us to keep improving. Thank you for being a part of our community!",
+      "replyDate": "2026-03-25T11:52:51.908Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=9c68d127-4426-4bda-8636-bccd7295fe21"
+    },
+    {
+      "date": "2026-03-21T23:50:06.302Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Kings Legendary",
+      "text": "joist is amazing",
+      "reply": "We truly appreciate your amazing feedback! Your support means a lot to us.",
+      "replyDate": "2026-03-25T11:53:02.512Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=c2b5d462-efa6-4b46-bdce-97c3dde9c950"
+    },
+    {
+      "date": "2026-03-20T12:37:13.611Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "thomas diver",
+      "text": "Ihave been using joist for a couple years now and at first I used the free edition once Ilearned my way around it I upgraded. best decision I could have made so many more options and very user-friendly. THANK YOU JOIST",
+      "reply": "Thank you for highlighting the benefits of upgrading! We're thrilled you find the app user-friendly and feature-rich. Your feedback is invaluable, and we look forward to enhancing your experience with Joist!",
+      "replyDate": "2026-03-25T11:54:03.953Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=bc5ea821-a042-418f-af21-e1cf2b6a672f"
+    },
+    {
+      "date": "2026-03-20T02:08:03.460Z",
+      "score": 1,
+      "thumbsUp": 3,
+      "user": "Corbeck Snellenberg",
+      "text": "IF YOU DO NOT HAVE A PAID SUBSCRIPTION, YOU CANT ACCESS ANY OF YOUR OWN DATA WITHOUT PAYING. Wow, this app is so disappointing, I would never recommend this app to anyone and I use to be a huge promoter. Now if you don't pay at least $8 a month I can't even sign in. smh, incredible how years they have a free option. Now they have a theoretical gun at your head holding YOUR DATA HOSTAGE..🤢🤢🤮🤮😡 Greed ruins so many good companies, I guess when you get big enough who needs the small time biz",
+      "reply": "Hi Corbeck, we appreciate your feedback about accessing your data and the subscription model. Your perspective is valuable, and we encourage you to reach out to our support team in the app with any specific concerns and to see if we can help you out with this. Your insights can help us improve and better serve you. Thank you!",
+      "replyDate": "2026-03-23T21:34:54.182Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=4f280226-cc2c-48f9-9cec-ea1727f715d5"
+    },
+    {
+      "date": "2026-03-18T15:42:32.738Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "dillon lakose",
+      "text": "works great to organize, bill out, and store your client information.",
+      "reply": "It's fantastic to hear that the app helps you organize, bill, and store client information so effectively! Your feedback truly brightens our day. We appreciate your support and are here to help if you need anything else!",
+      "replyDate": "2026-03-25T11:54:45.861Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=de627cd6-218d-48eb-bbba-f8a225be8942"
+    },
+    {
+      "date": "2026-03-17T18:20:14.546Z",
+      "score": 5,
+      "thumbsUp": 2,
+      "user": "STEVE",
+      "text": "Great app..let's me give estimates, proposals and invoices in real time with notes and pictures. Saves info for future use and is really user friendly ! Now if it would just pick up my mess !! Thanks .",
+      "reply": "It's fantastic to hear how much you enjoy the app's features for real-time estimates, proposals, and invoices! We're glad it's user-friendly and helps you save information for future use. If only it could help tidy up too! Your positive experience means a lot to us, and we hope you continue to find value in the app!",
+      "replyDate": "2026-03-25T11:55:47.629Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=2f7b69a7-1871-4503-a5ac-5074e62ec029"
+    },
+    {
+      "date": "2026-03-16T14:16:06.283Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Pablo H",
+      "text": "this platform is terrible. they nickel and dime you for features that should be or used to be free. furthermore, their payment system does not offer you any sort of guarantee when chargebacks occur. you have to handle your chargebacks via PayPal directly whose policy states they don't cover chargebacks when the payment is made through a third party and Joyce wipes their hands of the situation and says you have to deal with PayPal direct.",
+      "reply": "Thank you for your feedback. I completely understand the frustruation you're experiencing. Since Joist Payments with PayPal is processed through PayPal, you should have the option to get Chargeback Protection through PayPal. You can learn more about that here: https://www.paypal.com/us/cshelp/article/what-is-chargeback-protection-help608.",
+      "replyDate": "2026-03-16T19:42:38.382Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=d320b686-8f01-4244-a1f2-9e770f44dabd"
+    },
+    {
+      "date": "2026-03-12T09:29:35.656Z",
+      "score": 1,
+      "thumbsUp": 6,
+      "user": "Dave M",
+      "text": "They started charging you for what used to be free. You get very limited access for the minimum amount you can pay. 5 estimates/invoices a month!? I do that in a week. Update! they now force you to upgrade to the $31 a month package for your reports on invoices. I guess its time for me to move on. I appreciate the years of service, but now its not worth it for me. I have the pro package. Im forced to buy elite now, so I can see progress and yearly reports. Your response makes no sense",
+      "reply": "Hi Dave, thanks for your feedback. The Reports feature was launched as an Elite plan feature, but I understand why you would prefer access to it with Pro. The Pro plan gives you other features: custom logos, notifications, line item markups, Joist Edge, and Joist Expense + more. If you need further assistance, please reach out to our support team.",
+      "replyDate": "2026-03-12T15:31:56.888Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=d44c6145-af27-47a0-83aa-53b72bbb7277"
+    },
+    {
+      "date": "2026-03-10T20:33:04.473Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Joseph Burkoff",
+      "text": "simple to use.",
+      "reply": "We appreciate your feedback and are so glad to hear you find the app easy to use!",
+      "replyDate": "2026-03-16T13:22:06.780Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=81a3d4a4-3769-457d-bfe6-bd7618a6d219"
+    },
+    {
+      "date": "2026-03-10T15:41:10.638Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Tyson Donneaud",
+      "text": "Definitely not free as advertised. If you started as a free user they will hold your data hostage.",
+      "reply": "Hi Tyson, thank you for your feedback. Joist offers a 14-day free trial period for new users, but all our plans are paid plans, with the cheapest being $8/month. If you still need access to your account, please reach out to our support team in-app or at hello@joist.com so they can help you out.",
+      "replyDate": "2026-03-10T19:26:35.458Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=f4192bd4-a122-4eb0-839b-c2addcf146d0"
+    },
+    {
+      "date": "2026-03-10T15:30:41.830Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "mosoworks",
+      "text": "been using this app for the passed few years when it was free. the annual fees is still affordable for my small business. great estimate to invoice. modify as needed.",
+      "reply": "It's wonderful to know the app has been a valuable tool for your small business! We appreciate your support and are glad you find the pricing affordable and enjoy the estimating features. Your feedback is important to us, and we look forward to continuing to support your business journey! Thank you for sharing!",
+      "replyDate": "2026-03-16T13:22:25.940Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=ba608980-0756-4005-8ff3-978e174d2e96"
+    },
+    {
+      "date": "2026-03-10T03:14:15.170Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Ben Smith",
+      "text": "Great software, easy setup.",
+      "reply": "It's fantastic to hear you find the software great and easy to set up! Your feedback means a lot to us, and we're so glad you had a positive experience. Thank you for taking the time to share!",
+      "replyDate": "2026-03-16T13:22:37.850Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=3157b6da-2a0f-47b5-9ab0-9d5ce59d770d"
+    },
+    {
+      "date": "2026-03-08T23:04:31.466Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Matt Woods",
+      "text": "great app",
+      "reply": "We appreciate your kind words and support!",
+      "replyDate": "2026-03-09T13:39:43.621Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=548828ff-1c53-4bc3-bb49-ea38e309b2a6"
+    },
+    {
+      "date": "2026-03-07T13:52:38.178Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Colton Taylor",
+      "text": "User friendly with a professional look! Customers compliment the easy payment process! Would recommend to any business thats on the go!",
+      "reply": "It's fantastic to hear that you and your customers appreciate the app's user-friendly design and professional look! Your recommendation to other businesses is truly valued, and we’re grateful for your support. We’re excited to continue helping you streamline your payment process!",
+      "replyDate": "2026-03-09T13:40:28.993Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=40a22dc6-c9ee-4938-8a70-4994c7b4f08d"
+    },
+    {
+      "date": "2026-03-07T06:34:47.348Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "Denny Maze",
+      "text": "Price goes up to frequently otherwise i like the platform",
+      "reply": "We're glad to hear you enjoy the platform! Thank you for sharing your thoughts on the pricing changes. Your insights are valuable as we strive to enhance the experience for everyone. If you have more suggestions, please reach out to our support team in the app. We appreciate your input and look forward to improving together!",
+      "replyDate": "2026-03-09T13:41:52.575Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=9b1a4ff6-4cb0-4459-8feb-549c2caf671a"
+    },
+    {
+      "date": "2026-03-07T05:14:35.787Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "John Rodocker (Johnny)",
+      "text": "I've been with Joyce since 2019 reports were great until you changed the format you said it would make it easier well it's not easy for me the old report you sent we're so simple to follow how many estimates I wrote and what I made from those estimates now it's filter this do that do this do that I'm not into that please change it back to the old reports or I will get a different application I've been with you for years if I have to scratch my head to figure out the reports I will be gone",
+      "reply": "Thank you for your loyalty since 2019 and for sharing your feedback. We see that the new format isn't fitting your needs. If you didn't know, there was a new update to Reports that was released last week. If you are still unhappy with the new update, please reach out to our support team in the app for help with this concern.",
+      "replyDate": "2026-03-09T13:47:11.477Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=34447736-7746-4cde-8015-d2a8d3ee5024"
+    },
+    {
+      "date": "2026-03-07T00:27:18.753Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "Farris Smith",
+      "text": "at first was free now they charge me to use reports and it starting to nickle and dime me",
+      "reply": "Thank you for sharing your thoughts on the pricing changes. It's understandable to have concerns about costs, and your feedback is important as we strive to improve. If you have specific insights or suggestions, please reach out via in-app support. We value your perspective and look forward to enhancing your experience!",
+      "replyDate": "2026-03-09T13:50:29.286Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=5b4d3629-5852-4ba8-82dc-01b9a846e911"
+    },
+    {
+      "date": "2026-03-03T22:37:56.144Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Jalin Roseboro",
+      "text": "I wouldn't use it. Can't access any of your data if you decide to cancel.",
+      "reply": "Thank you for your feedback. We acknowledge your concern about accessing your data after cancellation. Please reach out via in-app support so that we can further assist you with this matter.",
+      "replyDate": "2026-03-04T19:40:04.222Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=537e6117-cbf8-4ca6-911a-78326ecd3177"
+    },
+    {
+      "date": "2026-03-02T18:47:58.882Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Nima Parandian",
+      "text": "⭐⭐⭐⭐⭐",
+      "reply": "We appreciate your positive feedback and are so happy to hear you're enjoying the app! Your support means a lot to us, and we’re here to keep making your experience even better. Thank you for being a part of our community!",
+      "replyDate": "2026-03-09T13:47:27.560Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=1637a6c1-1ac8-44ef-a69d-6624b28c4a0c"
+    },
+    {
+      "date": "2026-03-02T03:30:01.900Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Alejandro Delgrande",
+      "text": "excellent",
+      "reply": "Thank you for your fantastic feedback! It’s great to hear that you’re enjoying the app! We appreciate your support and are here to keep making your experience even better!",
+      "replyDate": "2026-03-09T13:47:37.414Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=4d307619-fa27-46d2-92d6-852d13c22e34"
+    },
+    {
+      "date": "2026-03-02T02:26:45.588Z",
+      "score": 5,
+      "thumbsUp": 3,
+      "user": "John “Matt” Rasse",
+      "text": "Great product! Very quick and professional! I've been using this software for 4 years and will never change. Joist helps me keep everything running smoothly, from bidding to invoicing after the job's complete. I recommend Joist for any contractors. I'm a Master Electrician, but my friend who's a carpenter told me to try it. It only took one invoice to sell itself. Give Joist a try, you won't regret it!!! -Matt Rasse",
+      "reply": "We're delighted to know our app has been a valuable tool for you! Your recommendation means so much, and we're proud to support your contracting journey.",
+      "replyDate": "2026-03-03T15:54:12.980Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=22f7ca8b-be0a-4d78-b371-56fca4207a39"
+    },
+    {
+      "date": "2026-02-27T23:31:03.276Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Hulk Huggett",
+      "text": "I love it. Best system I've used so far. I've recommended it to other friends of mine. It was recommended to me.",
+      "reply": "It's fantastic to know you love our system and that you've shared it with your friends! We truly appreciate your support and trust in us.",
+      "replyDate": "2026-03-03T15:53:36.218Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=902a216a-183f-4bb8-9aed-7f3102768428"
+    },
+    {
+      "date": "2026-02-25T21:24:25.284Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Pauline Ndifon",
+      "text": "getting clearer and more better",
+      "reply": "We’re glad to hear you’re noticing improvements! Thank you for the feedback!",
+      "replyDate": "2026-03-03T15:53:16.688Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=70672322-96d0-4bef-afe0-d3fb4a93a44d"
+    },
+    {
+      "date": "2026-02-25T16:17:44.284Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Andrew K",
+      "text": "Once your subscription ends, you no longer have access to any of your data. I refuse to pay more money just to access information that should be freely available.",
+      "reply": "We appreciate your feedback about data access after your subscription ends. Your concerns are important to us, and we hope you find a suitable solution. Please contact our support team in the app for further assistance.",
+      "replyDate": "2026-02-26T17:54:41.113Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=3dab3c29-4c0d-49f8-91dc-e10423b3b971"
+    },
+    {
+      "date": "2026-02-25T16:00:23.846Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Brandon Daniels",
+      "text": "Very useful, makes business move faster and easy to do estimates and invoicing!",
+      "reply": "It's fantastic to hear that the app is helping your business run smoother! Your feedback means a lot to us, and we truly appreciate your support. Keep enjoying those easy estimates and invoicing!",
+      "replyDate": "2026-03-09T13:47:48.860Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=c00acc90-36d4-4ed5-9a7b-9eea6af5d7ec"
+    },
+    {
+      "date": "2026-02-25T04:10:19.823Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Random Duck",
+      "text": "Joist is very easy to use and has all of the features I need for my painting business.",
+      "reply": "It's fantastic to hear that Joist is making your painting business easier! Your positive feedback means a lot to us, and we're grateful for your support. Keep up the great work!",
+      "replyDate": "2026-03-09T13:49:42.497Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=f8d0240f-5d13-458b-9b85-da1226abe566"
+    },
+    {
+      "date": "2026-02-23T22:53:08.861Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "Mauro De La Gaza",
+      "text": "it's great and easy to use",
+      "reply": "We're grateful for your feedback! It's fantastic to hear that you find the app user-friendly and easy to navigate. We hope you continue to enjoy your experience!",
+      "replyDate": "2026-03-09T13:49:37.980Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=db760c77-6562-4fe9-909f-764e9048ce55"
+    },
+    {
+      "date": "2026-02-23T18:46:06.240Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Derrick Thomas",
+      "text": "Good app but for the price you can pay $5 more a month and get Quickbooks",
+      "reply": "Thank you for sharing your thoughts! We appreciate your feedback and are glad to hear you're finding value in the app. We hope you continue to enjoy your experience with us. Please reach out to our support team if you need further assistance making the most out of your Joist account and your business.",
+      "replyDate": "2026-03-09T13:49:27.613Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=358f1318-d0d3-4068-b1a2-ae545e499939"
+    },
+    {
+      "date": "2026-02-23T17:15:20.384Z",
+      "score": 1,
+      "thumbsUp": 7,
+      "user": "Scott Sizemore",
+      "text": "The app is great ! The main issue I have is that when I have a problem you cannot get help ..Once every couple of years ,my payment has an issue ..It is like pulling teeth to get help to fix something..When I message the help desk or AI ,Noone can help ..The app is not showing up on subscriptions...",
+      "reply": "Hi Scott, I apologize for your experience with subscriptions and our AI support. It looks like it's resolved now, and the payment went through. If you have any concerns in the future, please don't hesitate to reach out in-app and ask for an agent to help you out.",
+      "replyDate": "2026-02-24T21:17:39.140Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=8f2eed1c-5f79-4664-bb57-cc37ab939463"
+    },
+    {
+      "date": "2026-02-21T15:38:39.159Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Eric Russo",
+      "text": "this is a great program been using it for several years and have helped increase my profitability and professionalism",
+      "reply": "It’s wonderful to hear that our app has contributed to your profitability and professionalism over the years! Thank you for your positive feedback and continued support.",
+      "replyDate": "2026-02-23T17:28:57.605Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=ce291ae7-4900-4696-9494-c6387f185d65"
+    },
+    {
+      "date": "2026-02-21T06:56:34.350Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Franklyn Williams",
+      "text": "I have experience using joist invoice application to create, send and manage invoices efficiently. The best app",
+      "reply": "We appreciate your kind words about using the app for your invoicing needs; it's great to know it's helping you manage everything efficiently!",
+      "replyDate": "2026-02-23T17:29:07.875Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=317d3d09-1fb5-4fcb-ad7d-827ee4a3bc24"
+    },
+    {
+      "date": "2026-02-19T20:05:44.450Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Noah Shepherd",
+      "text": "Used to be free, and now I'm locked out and they refuse to let me get back vital customer data unless I Pay!!! Crooks!",
+      "reply": "Thank you for your feedback. We know accessing your customer data is important. For further assistance, please contact our support team in the app. We look forward to resolving this for you soon.",
+      "replyDate": "2026-02-20T15:21:22.989Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=42b1fc27-75f0-4559-b062-71efa0a3aad3"
+    },
+    {
+      "date": "2026-02-17T16:35:11.219Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Wendie",
+      "text": "says free but you have to pay to use service. tired of the lies they use to get you to sign up",
+      "reply": "Thanks for sharing your feedback. To confirm, Joist is a paid platform; however, we do offer a 14-day free trial for new users. Please reach out through the support options in the app or through email at hello@joist.com, and let us know where you are seeing that information so that we can investigate this concern for you.",
+      "replyDate": "2026-02-17T16:56:45.920Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=0e1bfc45-f49f-4985-be50-3fb03a0fb378"
+    },
+    {
+      "date": "2026-02-17T02:14:54.843Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "Preston Strait",
+      "text": "As the owner of Direct Tree Service, I have utilized various leading invoice and estimate applications. I can confidently state that Joist stands out as the superior choice. This application offers comprehensive functionality, encompassing features such as attaching job-related photographs, meticulously tracking expenses, and facilitating credit card payments, including tap-to-pay options. I wholeheartedly endorse this application, as its capabilities extend far beyond these examples.",
+      "reply": "We’re excited to hear how much you appreciate the app’s comprehensive functionality! Your endorsement motivates us to continue delivering valuable tools for contractors like you. Thank you for taking the time to share your experience!",
+      "replyDate": "2026-02-20T15:22:39.910Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=59899bf2-66ec-4622-8320-0291c3517c3b"
+    },
+    {
+      "date": "2026-02-13T16:49:51.623Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Joshua Hayner",
+      "text": "don't use this app! if your trying to start a business these idiots are going to sink you! I'll let you know since they won't but if you take a payment through them then you get your money in 10-14 business days! Pretty sure they just sunk me",
+      "reply": "Hi Joshua, we apologize for the experience you are having with this hold. It happens to new accounts for security reasons, but only on the first payment. However, we completely understand your dissatisfaction. Timely job payments are for very important for business. We are working to make this experience easier and transparent for our users.",
+      "replyDate": "2026-02-13T19:06:50.560Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=1ca4fb91-1cfe-4ea4-87cd-3ea2fe9d58a3"
+    },
+    {
+      "date": "2026-02-12T00:26:35.250Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Collins Phillips III",
+      "text": "responding - You are right about what you said with the clients. I love they get funding through my invoice. It does help!! when clients get approved for funding but DONT use the funding for the job. If the client applies for money from fund box through joist from the contractor that gave the client the invoice to see the option to apply.... those funds should be dedicated to the job the invoice is attached too. Everytime this happens i feel like im working for fund box with no reward.",
+      "reply": "That's understandable! However, keep in mind the benefit of this setup; There's zero risk to you as the contractor. We set up Joist's Homeowner financing, with Acorn Finance as our partner, so that you don't have to worry about the client repaying the loan. Your client gets the loan money, they pay you, zero risk to you if they default on the loan.",
+      "replyDate": "2026-02-12T10:45:23.209Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=c95cddfe-1177-4498-b80b-6b48712ead5d"
+    },
+    {
+      "date": "2026-02-11T19:01:08.474Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Anthony Wayne Baker",
+      "text": "awesome app AAA!!!",
+      "reply": "We're excited to hear you're enjoying it! Your support inspires us.",
+      "replyDate": "2026-02-12T14:59:37.891Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=b1b6809e-b88e-4e5f-97b8-947803407aff"
+    },
+    {
+      "date": "2026-02-10T05:54:12.383Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "Scott Robinson",
+      "text": "the app works great, that is until you add a bank account. Several times daily I get notified that my account has been accessed, why access my account unless I'm accepting a payment?",
+      "reply": "Hi Scott, we want to know more about this! This shouldn't be happening, so please book a time for a call with me using my booking page: https://calendly.com/brendan-joist/outbound-call-h126 -- look forward to talking to you soon.",
+      "replyDate": "2026-02-10T21:45:13.491Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=ddfca3f5-e2ad-4643-8824-d408b2cb0c31"
+    },
+    {
+      "date": "2026-02-04T11:03:43.821Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "Jason DeCasas",
+      "text": "Easy to use for estimates, invoices, workorders and such.",
+      "reply": "We appreciate your feedback and are glad you find the app user-friendly for managing estimates, invoices, and work orders!",
+      "replyDate": "2026-02-05T16:01:40.527Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=9122d523-effa-4d3f-a8e4-35bc7a71d4ae"
+    },
+    {
+      "date": "2026-01-29T22:35:23.987Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Donnie Brasco",
+      "text": "the new update is absolutely terrible. what did you do with the monthly information. I have to search and deal with the app crashing so I can see individual months and i can't see them all together. 300$ for being able to see all this a year. it was worth it when it came to taxes before. not now. Definitely have to get a new app",
+      "reply": "Hi Donnie, it seems the recent update has impacted your experience, especially with monthly info and app crashes. We are sorry to hear that. Please reach out to our support team in the app for assistance with this issue. Looking forward to hearing from you!",
+      "replyDate": "2026-02-02T19:20:50.485Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=d2820e8b-c8b6-42ec-979c-5e65c17388a9"
+    },
+    {
+      "date": "2026-01-29T19:29:06.219Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Josh B",
+      "text": "I've had this app since it was in betta. I have zero complaints and only positive things to say about it.",
+      "reply": "It's wonderful to hear you've had such a positive experience with us since the beta phase! Your feedback means a lot to us.",
+      "replyDate": "2026-02-02T19:12:55.800Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=2cf9fd14-6096-4588-bf51-b9ade11c2b0f"
+    },
+    {
+      "date": "2026-01-28T18:49:37.351Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "Stephen Campbell",
+      "text": "prices keep going up and it no longer shows me who is viewing estimate or invoices. find a different program to use instead of this one. it showed who viewed it up until this month. I paid to see it and havent renewed anything to change my plan. this company changed my plan mid contract after I already paid for it. if this is the answer then 100 percent go somewhere else.",
+      "reply": "Hi Stephen, your Joist notifications concern should now be resolved with the new App update. Please reach out through the in-app support option if you have any more questions, we're happy to help!",
+      "replyDate": "2026-02-02T19:11:52.844Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=0be30e75-a0bf-468c-8846-266c0f0bb2ed"
+    },
+    {
+      "date": "2026-01-27T13:41:02.656Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Emily onpawz",
+      "text": "I love this app",
+      "reply": "We're glad to hear you love it! Your support means a lot to us.",
+      "replyDate": "2026-01-28T18:22:26.856Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=5124ba6a-484c-4983-84b1-4496fd94b7c3"
+    },
+    {
+      "date": "2026-01-23T22:21:31.654Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Jeremy Tyree",
+      "text": "So your telling me that sinxe it started it went from $15. per month to whatever it is now and thats how muchit cost g you to let us use it huh? I'll stick with the new App I've been using cause you guys priced yourself out of existence soon because the service aint that great. smh CUSTOMERS For a good app that does quotes and involving check out zoho involving. guess what it's easy to use has all the same features and it's free. 100% your welcome",
+      "reply": "Thank you for your feedback. We’ve updated our pricing to reflect the increased costs of improving the app and delivering better features for our customers. Your concerns matter to us, and we have reached out via email to help with your account access issue. We're dedicated to enhancing your experience and look forward to regaining your trust!",
+      "replyDate": "2026-01-23T20:14:33.407Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=4b012641-9d4c-4a79-89ec-f4c2b39a6334"
+    },
+    {
+      "date": "2026-01-22T22:28:25.536Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "derek paplauskas",
+      "text": "won't get past the continue with Google page",
+      "reply": "It seems you're encountering a hurdle at the Google login page, which can be quite inconvenient. We appreciate you sharing this with us. Our support team has reached out to you via email, and we hope to get this resolved for you as soon as possible!",
+      "replyDate": "2026-01-23T20:17:59.678Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=3df3ae07-6c1d-4387-8a35-821d578c69e2"
+    },
+    {
+      "date": "2026-01-22T19:45:40.331Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Jason Hurd",
+      "text": "Great system. Keeps track of all my stuff!",
+      "reply": "Fantastic to hear you’re finding it helpful in managing your tasks!",
+      "replyDate": "2026-01-23T20:18:10.380Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=02d3d9b7-8eb3-4715-9f54-1e17b080d7eb"
+    },
+    {
+      "date": "2026-01-22T12:32:38.310Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "victor sumba",
+      "text": "Great app I loved I'm using for almost 6 years and is the best option for running my business 😀 🙌",
+      "reply": "It's wonderful to know that you’ve enjoyed using the app for so long! Your enthusiasm truly brightens our day.",
+      "replyDate": "2026-01-23T20:18:31.245Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=1d09652a-377a-45cc-99ac-4c838e224eed"
+    },
+    {
+      "date": "2026-01-19T20:23:54.877Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Chien Cheng",
+      "text": "installed without my permission deleted, it is back.",
+      "reply": "It sounds like you experienced an unexpected issue with the app installation. If you have any details about how this happened, please consider reaching out to us at hello@joist.com, and we would be happy to assist.",
+      "replyDate": "2026-01-20T13:45:58.323Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=bcb6826f-4f8a-4e2a-9bf7-c84780ad223a"
+    },
+    {
+      "date": "2026-01-18T23:20:37.304Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "T Blanchard Homes",
+      "text": "Very efficient invoicing app. I can create invoices on the go and right on the spot! it syncs with Quick books and accepts credit cards.",
+      "reply": "It's fantastic to hear that you find the invoicing process efficient and convenient! We're glad you appreciate the syncing with QuickBooks and credit card acceptance, ensuring your invoicing needs are met on the go. Thank you for sharing your positive experience!",
+      "replyDate": "2026-01-20T13:39:21.658Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=ff737526-88c5-463d-a046-23f01cfa5687"
+    },
+    {
+      "date": "2026-01-16T19:07:50.259Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Peter",
+      "text": "terrible product and support. they have people from the Philippines answering your question and those people don't even know the app. water my time. I spend money over the years I was one of their first customers and they used me to work the app make it better I submitted suggestions tried to help and they turned out to be a big mistake I made. I'm looking to switch for 100%",
+      "reply": "Thank you for your feedback. We acknowledge your disappointment with the app and support experience. We don't ever want to make you feel like you are not valued. If you need further assistance, please contact our support team in the app.",
+      "replyDate": "2026-01-20T13:43:52.882Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=c6a23b0c-b95f-43c1-a873-44a3d30ce650"
+    },
+    {
+      "date": "2026-01-16T09:02:52.504Z",
+      "score": 5,
+      "thumbsUp": 4,
+      "user": "jason boyette",
+      "text": "Amazing for invoicing, contracts, keeping documentation, collecting payments, giving your clients options for financing, super customizable so you can list your own terms and conditions, notes thanking the clients for the opportunity, etc which you can save to be on every single contract automatically, also are able to do the same for estimates and have that language of services differ from that of the contract! Has made my life as a small business owner extremely less complicated and stressful!",
+      "reply": "We're thrilled to hear how much the app simplifies your work, making invoicing and contracts easier to manage while allowing for customization! Your feedback highlights the features that truly make a difference for small business owners. Thank you for sharing your experience with us!",
+      "replyDate": "2026-01-20T13:39:51.797Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=e53ba956-e8a9-414b-aa86-26e4bc29f7d0"
+    },
+    {
+      "date": "2026-01-15T15:00:59.942Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Misael Rodriguez",
+      "text": "Makes estimates easy and efficient",
+      "reply": "It’s great to know that you find estimating straightforward and effective! Thank you for sharing your positive experience!",
+      "replyDate": "2026-01-20T13:39:43.626Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=4f9db51c-7e7d-42d4-a782-227b50d0992a"
+    },
+    {
+      "date": "2026-01-14T06:11:43.700Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Rosalia Dominguez",
+      "text": "bad",
+      "reply": "Your feedback is very important to us. Please use the in-app support or reach out at hello@joist.com to tell us more about how we can help you. We look forward to making your experience even better in the future. Thank you!",
+      "replyDate": "2026-01-14T14:07:17.822Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=13f41626-d72b-4b41-8000-099b769f9fb1"
+    },
+    {
+      "date": "2026-01-14T04:33:50.371Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "Aaron Douthard",
+      "text": "I had a friend suggest this app and within the first 5 minutes I knew it was going to be a game changer! It is simple to use and keeps things organized. Great way to start 2026",
+      "reply": "We're delighted that you found the app beneficial so quickly! It's wonderful to hear that it helps you stay organized and simplifies your invoicing. Thank you for your enthusiastic feedback!",
+      "replyDate": "2026-01-20T13:39:33.102Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=911bdb72-1c1a-4d71-bc33-4962c8e8bda9"
+    },
+    {
+      "date": "2026-01-10T16:34:24.688Z",
+      "score": 3,
+      "thumbsUp": 5,
+      "user": "Cole Siemens",
+      "text": "Been using this app for years. Recently they decided to take their great reports system and simplify it to complete uselessness. All the graphs, charts, and information reduced to 3 useless numbers that can't be accurately adjusted. Very disappointing. Otherwise it functions well and as expected. The invoices are professional and clean. I would like the option to save more emails to a clients information. Sometimes they need to be sent to multiple people in an organization.",
+      "reply": "We're sorry to hear the recent changes to Reports haven't met your expectations. We truly value your long-term support and your feedback. Please reach out to our support team so that we can help with your Reports concern. Your suggestion about saving multiple emails for clients is noted. Thank you for sharing some positive feedback as well!",
+      "replyDate": "2026-01-12T13:34:14.520Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=70d048c9-1931-40d3-b7a8-9a3755c75f7d"
+    },
+    {
+      "date": "2026-01-08T08:23:34.127Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Christopher James",
+      "text": "gratitude 🙏 of Everton 2 5 9 3",
+      "reply": "We appreciate your kind words and are glad you're enjoying the experience!",
+      "replyDate": "2026-01-12T13:34:24.190Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=ab27766d-83a5-485f-8de8-e97ff3c8e206"
+    },
+    {
+      "date": "2026-01-06T09:26:50.440Z",
+      "score": 3,
+      "thumbsUp": 7,
+      "user": "Thomas Mathis Iv",
+      "text": "I don't ever leave reviews, but this app has me very frustrated. i think i've been a customer 4 or 5 years now. pretty much always been subscribed to pro. now with the update all my important pro features like monthly income charts for taxes are not available unless I upgrade to the elite for $30 a month! update: the developer's answer is a joke. they only tell you the total of billings for the year. there's no way to check the invoices in each month.",
+      "reply": "Hi Thomas, we appreciate your loyalty and feedback. Pro Report includes Year-to-Date revenue. The information currently showing in your account will be for 2026. However, you can still export your estimate and invoice data from prior years for tax purposes. If you need further assistance, please don't hesistate to reach out to our support team.",
+      "replyDate": "2026-01-05T18:16:02.519Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=5175cd3a-2d3c-49c2-b0d1-40ccec82e0b7"
+    },
+    {
+      "date": "2026-01-02T16:40:33.842Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "James Martin",
+      "text": "Don't want or need this app but won't let me in to a Lowes app without registering for it!",
+      "reply": "Hi James, Joist and Lowe's are two separate apps, and you shouldn't need to register for Joist to use the Lowe's app. Please reach out to our support team at hello@joist.com and ask for an agent so we can investigate this for you. We look forward to hearing from you and assisting you with this matter.",
+      "replyDate": "2026-01-02T18:47:28.405Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=7c5e9aed-2542-4770-92f6-fb612532a93d"
+    },
+    {
+      "date": "2025-12-30T21:32:48.177Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "Alicia Cline",
+      "text": "easy app to use",
+      "reply": "We appreciate your feedback and are glad you find the app user-friendly!",
+      "replyDate": "2026-01-07T14:30:13.999Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=975544c7-2973-4df5-804d-83c6926d0221"
+    },
+    {
+      "date": "2025-12-30T19:44:46.252Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "John Schlagenhauf",
+      "text": "Very easy to organize everything for a low monthly price.",
+      "reply": "It's wonderful to hear that you're finding it easy to keep everything organized at such a great value!",
+      "replyDate": "2026-01-07T14:30:53.121Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=a0d005f9-dada-41b2-beee-10d759be0d49"
+    },
+    {
+      "date": "2025-12-29T09:52:55.668Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "chico rico",
+      "text": "love this app",
+      "reply": "We're delighted to hear you love it! Thank you for your support.",
+      "replyDate": "2025-12-30T16:50:05.364Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=9ba3f656-f134-4e0f-bc04-aecc0d246422"
+    },
+    {
+      "date": "2025-12-23T16:01:02.230Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Kay Lewis",
+      "text": "easy to use",
+      "reply": "We appreciate your feedback and are glad you find it user-friendly!",
+      "replyDate": "2025-12-29T16:43:41.466Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=e344eb0f-181a-457c-8053-acdfd91b5c25"
+    },
+    {
+      "date": "2025-12-18T19:21:33.465Z",
+      "score": 2,
+      "thumbsUp": 1,
+      "user": "Elyse Fowler",
+      "text": "Used to be great. Now there are several issues and customer service is absolutely useless. First large issue is that estimates and invoices going to Windstream email addresses are not being delivered--even when they are a previous customer and had received estimates/invoices from us in the past. The feedback from customer service is always to have the customers do something on their part (super inconsiderate and weird to ask of someone who is considering doing business with you) or to text them",
+      "reply": "Hi Elyse, thank you for your feedback. We are truly sorry about the service disruption you are experiencing, and that the suggestions provided by the customer support team did not meet your expectations. Please know your concerns are taken seriously, and we’re working towards a resolution. We hope to make your experience with Joist great again.",
+      "replyDate": "2025-12-22T19:00:02.170Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=98eb1e87-7a3f-4744-8c95-c18ea5ae5c80"
+    },
+    {
+      "date": "2025-12-18T02:52:46.958Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "Chris Plitouke",
+      "text": "it's very simple to use and allows for online payments, tap to pay and offers customers financial aid options",
+      "reply": "We're delighted to hear that you find the app easy to use and appreciate the services that we provide! Thank you for your positive feedback!",
+      "replyDate": "2025-12-24T18:32:19.155Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=77f8eac9-b023-41fc-b86f-a288c0a21402"
+    },
+    {
+      "date": "2025-12-17T23:57:13.151Z",
+      "score": 5,
+      "thumbsUp": 6,
+      "user": "A.HODGSON CONSTRUCTION",
+      "text": "Ive been using joist for over 7 years. It is by far the best invoicing and estimating app on the playstore. As a general contractor its kept me orgnised and looking professional to my clients it's all in one and keeps getting better. Hats off to the Developers and management over there their payment system is quick and easy my client's love having the option to pay online. This has been a Central Tool to the growth of my company. I have the Pro subscription and is worth every dollar",
+      "reply": "It’s fantastic to know that our app has played such a crucial role in your success over the years! We truly appreciate your kind words about our features, especially the invoicing system and the payment options. Your support and feedback inspire us to continue providing value for professionals like you. Thank you for being a loyal user!",
+      "replyDate": "2026-02-02T19:29:03.175Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=d1003c11-0114-4055-a10e-199dc1fcb79e"
+    },
+    {
+      "date": "2025-12-12T14:10:35.222Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "John Gaume",
+      "text": "excellent software makes my job so much easier!!!!",
+      "reply": "We're delighted to hear that the software is enhancing your work experience - that is what Joist is all about! Thank you for sharing your positive thoughts!",
+      "replyDate": "2025-12-22T18:42:46.514Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=2010f454-d2ae-4876-80a6-5aa2d00ec2c3"
+    },
+    {
+      "date": "2025-12-06T06:57:37.178Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "daren george",
+      "text": "Great App for years...this year ever increasingly invoices going to apam with clients",
+      "reply": "We appreciate your long-term support and are glad you find the app helpful! Your feedback about invoices is important, and we’re committed to ensuring a smooth experience. Please reach out to support if you need assistance with your client emails. We would be happy to help you with that.",
+      "replyDate": "2025-12-24T18:31:28.710Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=2a017cf5-c792-4211-8a14-1a39407b15ee"
+    },
+    {
+      "date": "2025-12-05T19:24:18.143Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Jr Zepeda",
+      "text": "easy way to do business.",
+      "reply": "Thanks for the review, we appreciate it!",
+      "replyDate": "2025-12-05T21:37:30.122Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=e2807077-4fd4-459b-91ea-3bb9ad7590b0"
+    },
+    {
+      "date": "2025-12-03T23:04:41.682Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Tomy Lugo",
+      "text": "simple, easy and straightforward.",
+      "reply": "Simple and easy to use is what Joist is all about! Thank you for the review!",
+      "replyDate": "2025-12-05T21:37:07.885Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=32976985-8455-4423-8ae0-dfdfae336042"
+    },
+    {
+      "date": "2025-12-01T14:05:49.136Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Nick Nick",
+      "text": "Simple and functional. Exactly what it has to be.",
+      "reply": "Thank you, that's exactly what we try to accomplish with Joist! Glad to hear we're hitting the mark for you!",
+      "replyDate": "2025-12-05T21:36:57.350Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=98498e56-0910-4649-827d-4df20f1dbe3f"
+    },
+    {
+      "date": "2025-12-01T12:53:11.232Z",
+      "score": 5,
+      "thumbsUp": 3,
+      "user": "Steven Teasdale",
+      "text": "superb has many features to enhance professionalism easy to use",
+      "reply": "Thank you for the review! We're glad to hear Joist is helping to enhance the professionalism of your business!",
+      "replyDate": "2025-12-05T21:35:54.590Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=dea7652c-788f-4372-b870-710109cf09e3"
+    },
+    {
+      "date": "2025-11-29T21:24:42.887Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Rob Duffell",
+      "text": "love the app but please bring back the option to see how many contracts you've done per month, its really helpful to compare to previous years etc.",
+      "reply": "Hi Rob, thanks for sharing your feedback, we appreciate it. We have restored the old style reports for now, while we continue to work on developing improvements to this feature. If you have any other feedback on how we could continue to improve the reports feature, please reach out to us anytime.",
+      "replyDate": "2025-12-01T11:17:23.429Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=a48bc5c0-6f64-46ce-9c9b-ba68b0971029"
+    },
+    {
+      "date": "2025-11-27T18:43:49.196Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Dale Collins",
+      "text": "Downloaded to diagnose problem with my LG dishwasher. I am NOT opening an account to invoice customers!",
+      "reply": "Sorry to hear about the difficulties with your dishwahser. Joist doesn't diagnose problems with dishwashers, but we hope you can find a plumber or technician online to assist with that. If you need any help removing Joist from your phone, please don't hesitate to get in touch with our team for assistance.",
+      "replyDate": "2025-11-28T23:14:44.985Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=82c4b7f8-7788-429f-89df-012726d4fd13"
+    },
+    {
+      "date": "2025-11-27T08:44:49.196Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Ronnie Ratliff",
+      "text": "Ronnie 👍 is a good",
+      "reply": "Thanks!",
+      "replyDate": "2025-11-28T23:05:30.246Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=bb6d440f-0e1f-4147-bad9-817c25d5b7d2"
+    },
+    {
+      "date": "2025-11-24T23:24:05.770Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Clay Canning",
+      "text": "did not want it",
+      "reply": "Sorry to hear that! We would love to know more about why the app wasn't a good fit for you. We may be able to help offer some suggestions on how to make the app work for your business, if you want to give Joist a 2nd look. Please reach out to us anytime at hello@joist.com and we'd be glad to talk to you!",
+      "replyDate": "2025-11-28T23:07:07.584Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=f11a03d6-cc94-465c-8d73-b8331e787a1c"
+    },
+    {
+      "date": "2025-11-24T16:56:42.168Z",
+      "score": 5,
+      "thumbsUp": 4,
+      "user": "Jake Johnson",
+      "text": "well designed app, easy to use. I have been using it for years and it is worth the money!",
+      "reply": "Thank you kindly for the review, Jake! We hope Joist will continue to serve your business well for many more years to come!",
+      "replyDate": "2025-11-28T23:07:53.100Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=65c03aae-8fa8-4725-bfd3-63043d42ae63"
+    },
+    {
+      "date": "2025-11-23T01:59:17.404Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Michelle Flores",
+      "text": "great app, helps to make your invoices and estimates quick!",
+      "reply": "Thanks for the review! We would love to know if there's anything we can improve and your feedback is always valued by our team as we continue to develop the app!",
+      "replyDate": "2025-11-28T23:09:07.308Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=c8b6ad65-9832-4ef5-a431-c9f16bf45865"
+    },
+    {
+      "date": "2025-11-21T19:23:19.551Z",
+      "score": 1,
+      "thumbsUp": 3,
+      "user": "Bradley Franklin",
+      "text": "joist used to be a great platform, then their business went to their head. Even paying for the basic service only gets you 5 estimates or invoices a month. what a ripoff! Will be using someone else after this month.",
+      "reply": "Hi Bradley, we hope you'll reconsider and stick with us this month. We have a discount for annual subscriptions that you may want to consider if you were on a monthly plan previously. We also have Joist Edge which allows you to earn cash back rewards to put toward your subscription fees. Please reach out with any questions and we'll help!",
+      "replyDate": "2025-12-05T21:48:49.633Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=8277c50d-bafc-4b12-bc2f-b90819fc05ed"
+    },
+    {
+      "date": "2025-11-21T00:54:18.815Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Grant Russell",
+      "text": "fantastic",
+      "reply": "Thanks very much!",
+      "replyDate": "2025-11-28T23:09:24.485Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=32f94c5b-5dba-41b2-8bf9-302f34d4a4f9"
+    },
+    {
+      "date": "2025-11-17T12:32:59.537Z",
+      "score": 1,
+      "thumbsUp": 3,
+      "user": "Sulieman Muhammad",
+      "text": "This joist template for estimates and invoices was very difficult to maneuver. And every time you try to use a certain product that's listed It continuously ask you to upgrade, so you can use it. I upgraded one time from the basic and still couldn't use what I was looking to use. Therefore I recommend and I plan to cancel this. I only open it 2 days ago.",
+      "reply": "Thank you for sharing your experience. We’re sorry the template was difficult to use and the upgrade didn’t provide the features you needed. Your feedback helps us identify frustrations and improve. We’ll work on clearer product access and upgrades, and hope to earn back your trust by making things easier and more transparent.",
+      "replyDate": "2025-11-17T20:43:35.243Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=f493611f-a3d8-4439-bc46-316d444a70ec"
+    },
+    {
+      "date": "2025-11-16T23:47:19.368Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Demetrius Morales",
+      "text": "Nice business Contracting App good For Money Iconic Principles For Common Purchase Of Products For Investment for Business Research of product Interest of Price of sale interest.",
+      "reply": "Thank you so much for sharing your thoughts! We're glad to hear that you find the app valuable for business. We'll continue working to make the app even more intuitive and powerful for business.",
+      "replyDate": "2025-11-17T20:40:01.720Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=7c8a2045-c413-4694-a7d5-a2571e413bde"
+    },
+    {
+      "date": "2025-11-16T14:16:15.145Z",
+      "score": 4,
+      "thumbsUp": 1,
+      "user": "Elias Garcia",
+      "text": "It's a good app. it's easy to use, but They only give you a few free documents with the free version you have to pay to keep using this app",
+      "reply": "Thank you for your honest feedback! We’re glad to hear you find the app easy to use and helpful.",
+      "replyDate": "2025-11-17T20:40:40.184Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=b0b33ab9-3eb1-4146-ae24-7a7bd1bc44a8"
+    },
+    {
+      "date": "2025-11-14T05:24:11.647Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "doug minton",
+      "text": "trying to pay my bill but it won't let me. I have a bid to send off but am unable to.",
+      "reply": "Hi Doug, our team reached out to you and it looks like this is all resolved now, but please don't hesitate to follow up with us by email at hello@joist.com or through the messenger in the app if you still need assistance. We want to make sure this is fully resolved for you.",
+      "replyDate": "2025-11-18T16:53:07.637Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=47433058-de43-4744-ab80-35515a37836f"
+    },
+    {
+      "date": "2025-11-13T19:07:20.430Z",
+      "score": 5,
+      "thumbsUp": 25,
+      "user": "Gary Clark",
+      "text": "This app has all the essentials, and the tiered subscription levels ensure you never pay to much, while also providing all the necessary tools to make your business most efficient! I am a home repair professional, and the features are perfect for me and are essential for me, AND my accountant with QuickBooks sync!! By far, Joist has been the most reliable and user-friendly business app ever! I have been a user for years! and have never been let down!",
+      "reply": "Thank you so much for sharing your experience! We’re thrilled to hear that Joist has been such a reliable and user-friendly tool for your business over the years. We truly appreciate your loyalty and look forward to supporting your business for many more years to come!",
+      "replyDate": "2025-11-14T19:15:22.521Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=99ee15b9-c7e9-4d1a-826e-0d93ef52d32b"
+    },
+    {
+      "date": "2025-11-12T23:09:24.556Z",
+      "score": 5,
+      "thumbsUp": 2,
+      "user": "Jeff Hawkins",
+      "text": "Great app for doing business on the go. Really easy to use with some good business tools.",
+      "reply": "Thank you for your kind words! It’s great to know the tools are helping streamline your work, and we’ll continue to focus on keeping things simple, reliable, and effective for professionals like you",
+      "replyDate": "2025-11-14T19:16:13.174Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=e0d3472f-3b90-4efe-85a6-ef072e512077"
+    },
+    {
+      "date": "2025-11-12T21:54:39.930Z",
+      "score": 4,
+      "thumbsUp": 2,
+      "user": "Joe Johnson",
+      "text": "I love the utility and ease of this app. The only thing I don't love is the ever rising price.",
+      "reply": "Thank you for sharing your experience with us! We’re delighted to hear that you find the app useful and easy to work with. We truly value your feedback about pricing and want you to know that we’re always working to ensure the features and tools we provide deliver the best possible value for your business.",
+      "replyDate": "2025-11-14T19:17:44.938Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=cdabb98a-1db9-430b-a486-7b7c819320d1"
+    },
+    {
+      "date": "2025-11-10T18:07:30.149Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "travis hicks",
+      "text": "been using for years , easy to use and can quickly provide invoices right at job site",
+      "reply": "Thank you for being a loyal user over the years! We’re so glad to hear the app makes it easy for you to create invoices right at the job site. Helping professionals save time and work more efficiently is exactly what we aim for, and it’s wonderful to know the app continues to support your business needs.",
+      "replyDate": "2025-11-14T19:18:25.750Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=d97f80bd-631c-47b1-b72e-52ebe97b95de"
+    },
+    {
+      "date": "2025-11-09T06:33:31.957Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Eduard Shust",
+      "text": "love this platform 👏",
+      "reply": "Thank you!",
+      "replyDate": "2025-11-10T15:31:29.844Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=5a65a9fb-04a5-4797-93d0-c9e9af571330"
+    },
+    {
+      "date": "2025-11-08T17:08:35.259Z",
+      "score": 2,
+      "thumbsUp": 1,
+      "user": "Lee Moroz",
+      "text": "Love it, been using it daily for years. ***update From $20/month to $40/month are you crazy not worth it anymore just to see reports.. I'll be finding a new invoice app.",
+      "reply": "Hi Lee, thanks for updating your review, we always appreciate your feedback. The Elite plan includes Reports as you mentioned, but it also comes with several other powerful features like Joist Reviews and Change Orders. You can find out more about all the Elite features here: https://support.joistapp.com/en/articles/9212723-what-is-joist-elite",
+      "replyDate": "2025-11-10T14:54:11.405Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=66b106d5-d30f-4051-8698-3ce002ac6a4c"
+    },
+    {
+      "date": "2025-11-07T14:26:04.509Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "shady elriche",
+      "text": "Brilliant software that creates a great platform for managing business and giving you data along the way to help you forecast cash flow. Highly recommended 👌",
+      "reply": "Thank you for the review and for recommending Joist! We know how important it is to be able to forecast your cashflow and we're glad the data in the app is helping you to do that. We're always looking for ways to help you understand your business better and ensure that it's always profitable.",
+      "replyDate": "2025-11-10T15:35:09.910Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=cbb3409b-be37-4269-ad17-f1535b997695"
+    },
+    {
+      "date": "2025-11-04T07:01:59.605Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Stromboli",
+      "text": "Great invoice app!!!!!!!!0",
+      "reply": "Thanks!",
+      "replyDate": "2025-11-10T15:31:29.887Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=7241e0dc-4134-43c5-88ec-2169d4b055f0"
+    },
+    {
+      "date": "2025-11-04T01:55:34.314Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Tony Guerra",
+      "text": "is easy to use and very convenient",
+      "reply": "Thanks! Glad to hear you find the app easy and convenient to use!",
+      "replyDate": "2025-11-10T15:35:41.908Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=efe80648-8ff5-44c8-9f1f-c17137c49894"
+    },
+    {
+      "date": "2025-11-03T22:34:30.989Z",
+      "score": 5,
+      "thumbsUp": 2,
+      "user": "John Moss",
+      "text": "early adopter, seen it grow and add features. was free but expected & encouraged them to charge something so development would continue. pricing is reasonable at this time 11/2025.",
+      "reply": "Thank you for being an early adopter of Joist! We appreciate your support over the years and we hope that Joist continues to serve you well for many more years to come!",
+      "replyDate": "2025-11-10T15:36:25.326Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=527482c6-ef10-4ff8-8469-4b872ffbb766"
+    },
+    {
+      "date": "2025-11-02T18:25:06.787Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Ryan Spafford",
+      "text": "The quickbooks sync feature we pay for as part of our Joist Pro subscription has been down since September 18th (it's now November 2nd). \"Help\"keeps stringing us along with canned statements about keeping us updated while they look for a solution, but we think we are being gatekeeped by an AI bot and our situation is not being reported to humans. Pretty sure no resolution is forthcoming and now they've lost our business to a competitor. Paying customers since 2019 but they don't care. Stay away!",
+      "reply": "We’re truly sorry for the frustration this has caused. We understand how important QuickBooks sync is for your business and regret the disruption. Please know your concerns are taken seriously, and we’re working toward a resolution. We value your loyalty and hope to regain your trust.",
+      "replyDate": "2025-11-14T19:21:59.782Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=793ef059-0556-4353-b8ec-75da8d5e1310"
+    },
+    {
+      "date": "2025-11-02T11:26:49.157Z",
+      "score": 4,
+      "thumbsUp": 2,
+      "user": "R Angus",
+      "text": "I’ve been using Joist for years - it’s a great app for sending quotes and invoices, keeps everything tidy and looks professional. Only thing that bugs me is you can’t change “Quote” to “Estimate.” Bit confusing for customers sometimes. Fix that and it’s an easy 5 stars.",
+      "reply": "Thanks for the review and the suggestion for improving the app. We hope we can win that fifth star from you eventually. Thank you for being with Joist over the years and we're glad to hear it's serving you well for sending your quotes and invoices.",
+      "replyDate": "2025-11-10T15:52:09.119Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=34be2b53-7009-460b-9b55-64e398c59f52"
+    },
+    {
+      "date": "2025-11-01T20:35:07.629Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Blade Deso",
+      "text": "Great app for self.employment and small business. I.love.it",
+      "reply": "Glad to hear you love the app! Thank you for the review!",
+      "replyDate": "2025-11-10T15:52:23.750Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=9a7e0128-06f1-4286-9627-1d949cc0a30a"
+    },
+    {
+      "date": "2025-10-31T07:43:18.350Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Adan Ibarra",
+      "text": "best affordable app for invoices and estimates",
+      "reply": "Thank you for the review!",
+      "replyDate": "2025-11-10T15:52:34.131Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=626794ec-07ad-4144-aa7e-9e6d6507f022"
+    },
+    {
+      "date": "2025-10-30T17:26:21.393Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Osniel Castroman",
+      "text": "Best app for invoices, payment. makes everything easier and fast.",
+      "reply": "Thanks very much! Glad to hear Joist is helping you to get paid and making it faster and easier!",
+      "replyDate": "2025-11-10T15:52:52.214Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=7a3ca28f-a9ad-47be-8cbd-490fb9966e7f"
+    },
+    {
+      "date": "2025-10-29T03:44:24.784Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Luis Munoz",
+      "text": "Easy to manage.. Love it!!",
+      "reply": "Thanks! Glad to hear you love the app!",
+      "replyDate": "2025-11-10T15:56:01.123Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=e37e4fac-dca3-4fe5-bb83-d75fe3c45ac0"
+    },
+    {
+      "date": "2025-10-27T04:10:49.462Z",
+      "score": 5,
+      "thumbsUp": 7,
+      "user": "Dan Carey",
+      "text": "I used Joist for 4 years for my exterior cleaning business. I loved it and I will miss it. They consistently improve the app and it's very reasonably priced. It has a lot of features and it lets you do a lot of really cool things. Thank you Joist team!",
+      "reply": "Thank you for being with us for 4 years! We wish you all the best in your future endeavors!",
+      "replyDate": "2025-11-10T15:53:39.100Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=736c43cd-8663-4d80-9f98-367244b550c8"
+    },
+    {
+      "date": "2025-10-26T22:19:38.216Z",
+      "score": 5,
+      "thumbsUp": 2,
+      "user": "Darby Hibbert",
+      "text": "Keeps things real simple, very clean and professional looking, and efficient. Loving it so far.",
+      "reply": "Glad to hear you're loving Joist so far! Simple and professional is what the app is all about! We do have some more advanced features too of course, so reach out to us anytime if you have questions. Our support team is always here to help you get the most out of the app.",
+      "replyDate": "2025-11-10T15:55:12.700Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=2488e9e5-1f2c-40ba-9461-a10576773d6f"
+    },
+    {
+      "date": "2025-10-24T05:34:28.438Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Garry Liesemer",
+      "text": "been using joist for 15yrs..",
+      "reply": "Thank you for being with us since the start! We greatly appreciate your support of the app!",
+      "replyDate": "2025-11-10T15:37:14.314Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=9f8400b2-dbe7-4daf-a2d4-a70762d795b3"
+    },
+    {
+      "date": "2025-10-22T21:11:38.964Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "Olutunde Omotoso",
+      "text": "I just joined i have not gotten my bearings",
+      "reply": "Hi Olutunde, thanks for sharing your experience with us. We hope you're starting to find your bearings with the app, but please don't hesitate to reach out to our support team if you have any questions. We're here to help!",
+      "replyDate": "2025-11-10T15:36:50.759Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=a89d10bf-a6c5-44a8-a0dd-78b367544c9d"
+    },
+    {
+      "date": "2025-10-19T21:10:52.629Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Martin Sudzina",
+      "text": "👌",
+      "reply": "Thanks!",
+      "replyDate": "2025-11-10T15:37:28.192Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=63dc6151-8748-4c6f-8490-97407899ba4c"
+    },
+    {
+      "date": "2025-10-19T07:03:17.480Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Rob Taylor",
+      "text": "great invoice and payment solutions!",
+      "reply": "Thank you! Good to know that Joist Payments is working well for you!",
+      "replyDate": "2025-11-10T15:37:48.745Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=4d4ddecd-b51a-4ddb-b890-2bbeed811bd3"
+    },
+    {
+      "date": "2025-10-18T07:30:13.142Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Oscar Ayala",
+      "text": "joist is the best invoicing app by far .",
+      "reply": "Thank you so much!",
+      "replyDate": "2025-11-10T15:38:04.564Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=0644fad7-3e89-4ff8-b1cf-6e44b5b1e0f6"
+    },
+    {
+      "date": "2025-10-18T03:04:49.588Z",
+      "score": 3,
+      "thumbsUp": 37,
+      "user": "Aaron Harrison",
+      "text": "After 8+ years, it may be time to look another program.. I've introduced joist to a lot of people..when it was a free app with options to upgrade to pro..it was perfect..better than QuickBooks imo..but it's getting to the point it's become a program for the bigger companies, and getting to the point it's as much as quick books.. For what format they're giving you, the price is pushing it..",
+      "reply": "Thanks very much for being with us for 8+ years. We're still committed to improving the app for everyone from sole proprietors all the way up to larger businesses with multiple employees. While we can't offer the app for free anymore, we try to strike the right balance with our pricing plans. We value your feedback and please reach out anytime.",
+      "replyDate": "2025-11-10T16:02:34.166Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=c07bc6fa-abc9-46d4-8b03-81aa8a43f846"
+    },
+    {
+      "date": "2025-10-14T19:49:20.170Z",
+      "score": 1,
+      "thumbsUp": 4,
+      "user": "Geordie Iselin",
+      "text": "Your customers should love this app because it loses data and costs you money. However their tech support is often really good if you get a person. Good thing because the app is so full of problems. That's in addition to all the duplicate work you have to do yourself, odd methods of delivering invoices and estimates that mostly piss the customer off, but also lose some data costing you time and money",
+      "reply": "Hi Geordie, thanks for sharing this with us. We're glad that we were able to help you locate the documents you needed when you reached out to our team. You also showed us a good opportunity to improve the app and make it easier to track the conversion of an estimate into an invoice. Reach out again anytime if you need help with anything!",
+      "replyDate": "2025-10-16T16:03:22.676Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=d23fde7b-2fc2-4258-b65e-b207b0017879"
+    },
+    {
+      "date": "2025-10-13T17:55:37.295Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Jonathan Derek Moseley",
+      "text": "I've used joist for years now and I have recommended many times absolutely",
+      "reply": "Thank you, Jonathan! We greatly appreciate your recommendations!",
+      "replyDate": "2025-10-16T16:12:55.719Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=f4d770cb-57f5-47ad-8e69-e7c06fd04512"
+    },
+    {
+      "date": "2025-10-13T16:08:28.503Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Billy Butler",
+      "text": "great!",
+      "reply": "Thank you!",
+      "replyDate": "2025-10-17T01:42:50.366Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=28495c7e-759f-45df-b131-658665123705"
+    },
+    {
+      "date": "2025-10-11T14:47:25.450Z",
+      "score": 4,
+      "thumbsUp": 102,
+      "user": "Joshua Garside",
+      "text": "The new update is less than great. Now when I email estimates to certain email providers, they bounce back. Joist Customer service told me to ask the customers to change their email settings.....why would I ask a customer (whom I probably just met) to jump through hoops so I can email them? I have contacted customer service regarding this 3 times. They haven't been much help at all, basically telling me to just deal with it. Other than that....I like this app. it's very easy to use.",
+      "reply": "Hi Joshua, thanks for this feedback. Jumping through hoops is the last thing we want for you or your clients. Our team works year round to maintain a high delivery rate, but due to the nature of email delivery there may be situations where our ability to assist is limited. I sincerely hope we will be able to make improvements for you in the future.",
+      "replyDate": "2025-10-17T02:45:11.487Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=f027974f-3f7d-43d4-ad8a-6c26508fa66d"
+    },
+    {
+      "date": "2025-10-09T14:49:53.366Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Wade Hicks",
+      "text": "Great app for running my business more quickly, efficiently, and professionally!",
+      "reply": "Thanks, Wade! Glad to hear Joist is helping you with running your business! Quick, efficient and professional is what we always strive for!",
+      "replyDate": "2025-10-17T02:48:57.332Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=5890e771-dc97-4925-9ce9-ccec70bdcb71"
+    },
+    {
+      "date": "2025-10-06T17:29:45.797Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "E.R. TANKLESS Plumbing",
+      "text": "great up .. our company uses it in the plumbing industry and it works great for us.",
+      "reply": "Thanks for the review! Glad to hear Joist is serving your company well in the plumbing industry!",
+      "replyDate": "2025-10-17T02:50:22.542Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=a4ace904-ea94-46dc-94a7-c0a954a99f80"
+    },
+    {
+      "date": "2025-10-05T11:23:58.662Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Donnell Naborz",
+      "text": "burnett Amanda Neal beneficiary owner pdf Ohio ID 542-452",
+      "reply": "Thanks for the review. If you need assistance with anything, please reach out anytime by email to hello@joist.com or through the messenger in the help section of the app.",
+      "replyDate": "2025-10-17T03:49:04.390Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=6eb66253-9de4-4a6b-8785-e372bebc24cd"
+    },
+    {
+      "date": "2025-10-01T14:50:09.775Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Thomas S. Whaley",
+      "text": "Great app!",
+      "reply": "Thank you, Thomas!",
+      "replyDate": "2025-10-17T03:49:14.415Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=f7e3522f-553d-4293-9bcd-bdbe7ed9dd4b"
+    },
+    {
+      "date": "2025-10-01T06:21:03.372Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "Mooncake",
+      "text": "guys, trying to sync to QuickBooks just takes me to a blank page and I can't find a workaround anywhere.",
+      "reply": "Hi there, sorry to hear about the difficulty syncing with Quickbooks. Please reach out to our team at hello@joist.com or through the messenger in the help section of the app and we would be glad to investigate this issue with you!",
+      "replyDate": "2025-10-17T03:54:51.440Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=3980d26d-0560-4f97-9306-17b12e61ff26"
+    },
+    {
+      "date": "2025-09-30T11:52:22.905Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "1234 1234",
+      "text": "about 9 years ago it was totally free now it's 14.99 per month for the budget plan are the invoice apps are cheaper than that by half",
+      "reply": "Hi there, thanks for sharing your thoughts with us. We also have a Basics plan for $8/month if the Pro plan at $15/month isn't the right fit for your needs. We'd be glad to help you find the plan that fits your needs if you reach out to us, or check out our pricing page for an overview of all our plans: https://www.joist.com/pricing/",
+      "replyDate": "2025-11-10T15:44:55.140Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=88551e5a-0a38-4338-8014-1ab3355354e0"
+    },
+    {
+      "date": "2025-09-30T08:43:13.268Z",
+      "score": 5,
+      "thumbsUp": 2,
+      "user": "khoudar g",
+      "text": "Great app and very easy to use. would definitely recommend.",
+      "reply": "Thanks so much for the review! We really appreciate you recommending Joist!",
+      "replyDate": "2025-10-17T03:56:16.814Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=419c0a6d-4149-4606-9c50-512a8590fd4b"
+    },
+    {
+      "date": "2025-09-26T02:13:21.755Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "michael iwasyszyn",
+      "text": "amazing",
+      "reply": "Thank you!",
+      "replyDate": "2025-10-17T04:00:04.216Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=1668eabd-f508-41d4-bc6a-dd88213342e1"
+    },
+    {
+      "date": "2025-09-26T00:59:15.595Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Pat Brown",
+      "text": "scam",
+      "reply": "Hi there, sorry to hear you've had a bad experience. Please don't hesitate to reach out to our team at hello@joist.com or through the messenger in the app if there's anything we can assist with.",
+      "replyDate": "2025-11-10T15:38:51.917Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=e6a597b8-4c98-44c6-8591-d949fd6c7c96"
+    },
+    {
+      "date": "2025-09-25T18:12:53.705Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Nestor Aquino Moran",
+      "text": "últimamente he tenido un poco de problemas en la app ya que hoy me cobra por todos los servicios a pesar que soy el que provee las licencias y antes mi servicio era diferente más cómodo y sin cobros",
+      "reply": "Hola Nestor, gracias por esta reseña y por compartir tus comentarios. Si tienes algún problema con la facturación de tu suscripción a Joist, escríbenos a hello@joist.com y nuestro equipo te ayudará. Podemos traducir del inglés al español si nos contactas por correo electrónico o a través del chat en vivo en la sección de ayuda de la aplicación.",
+      "replyDate": "2025-10-17T04:04:32.314Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=f63617f9-29dc-4518-9dfb-45a5948397ec"
+    },
+    {
+      "date": "2025-09-25T13:30:07.440Z",
+      "score": 1,
+      "thumbsUp": 8,
+      "user": "Ryan Knight",
+      "text": "The app is great when working. The app will not run reports to show estimates, revenue, or invoices. I get a blank screen when choosing either of the three reports. Paying a monthly subscription for an app that only half works. ***Updated 03/14/2025*** App still will not run reports and is only half functional. Currently paying a monthly subscription on features of the app that does not work. The only functions I have, are available in the free version. Unsure why I pay for this.",
+      "reply": "Hi again, Ryan. We just released some updates to the Reports feature and we think this may help with the issue you described. Please reach out to us at hello@joist.com or in the help section of the app so that we can check your account. Simply ask to talk to an agent when you reach out and we'll make sure your case gets routed to the team asap.",
+      "replyDate": "2025-12-05T21:40:30.176Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=f92dc518-8542-4e21-8da7-e3750e1a0398"
+    },
+    {
+      "date": "2025-09-23T22:27:26.991Z",
+      "score": 5,
+      "thumbsUp": 6,
+      "user": "Fadee Kharrubi",
+      "text": "my goto for all my invoicing needs",
+      "reply": "Thanks for the review, Fadee! We're honored that Joist is your goto app for invoicing!",
+      "replyDate": "2025-10-17T03:59:52.797Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=153437b1-b448-4098-9c99-c6167376d068"
+    },
+    {
+      "date": "2025-09-22T04:32:11.212Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Mario E Flores Angel",
+      "text": "love it",
+      "reply": "Thanks, Mario! Glad to hear you love the app!",
+      "replyDate": "2025-10-17T01:47:58.360Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=971458f7-e797-498d-8bfd-7f3b76816bf9"
+    },
+    {
+      "date": "2025-09-20T19:54:52.802Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Eduardo Arruda",
+      "text": "Great, and easy 👍🏽",
+      "reply": "Thanks, Eduardo! Fast and easy is always our aim!",
+      "replyDate": "2025-10-17T01:52:20.278Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=345ffe49-8bcf-4784-b5e8-52eb118b1c8c"
+    },
+    {
+      "date": "2025-09-19T22:14:54.946Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "Ryan Watts",
+      "text": "very easy to use except the stripe payment thing.",
+      "reply": "Thank you for the review, Ryan. We're glad to hear that you're finding the app easy to use, but also sorry to hear that you're having a less than ideal experience with payments. Please don't hesitate to reach out to our team at hello@joist.com or through the messenger in the help section of the app. We're here to help!",
+      "replyDate": "2025-10-17T01:52:48.614Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=06b06a8d-c4e5-4645-8098-d1e1610df0dc"
+    },
+    {
+      "date": "2025-09-19T13:26:32.752Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "X “Read Lift Skate Lady” & Co",
+      "text": "My husband unexpectedly passed away. I need to see an invoice to follow up on job that hasn't been paid in 8 weeks, nothing since my husband died. I cancelled our $150 membership due to financial issues, he was a sole proprietor. NOW I find I HAVE TO PAY TO SEE OLD INVOICES! AI Messenger says I'm out of luck to access what we payed to create!! How is that Legal??? How do I access our numbers for tax time? The construction industry is plagued with mental health issues. Stay Safe. You Matter. ;",
+      "reply": "Hi Sarah, please reach out to our team through the help section of the app and we can assist you with getting access to your account.",
+      "replyDate": "2025-09-22T15:59:37.299Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=fa861f65-19d1-451b-9183-df954db001ef"
+    },
+    {
+      "date": "2025-09-18T21:25:59.204Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Keye Hernandez",
+      "text": "as all products free in the beginning",
+      "reply": "Thank you for the review, Keye. We appreciate your continued support and hope the app continues to serve you well.",
+      "replyDate": "2025-10-17T01:57:56.640Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=fa991b0d-25fe-4792-8c71-84063ecb7f4b"
+    },
+    {
+      "date": "2025-09-17T16:10:43.979Z",
+      "score": 5,
+      "thumbsUp": 2,
+      "user": "Rick Dement",
+      "text": "Great for an independent small business. Professional looking quotes and invoices.",
+      "reply": "Thank you for the review, Rick! We're glad to hear that Joist is working well for your independent small business!",
+      "replyDate": "2025-09-18T13:53:21.158Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=184cd4af-e72b-460a-98f4-bb552d146d65"
+    },
+    {
+      "date": "2025-09-16T18:28:38.522Z",
+      "score": 5,
+      "thumbsUp": 2,
+      "user": "Iram Reyes",
+      "text": "User friendly, cuts your time in half, and getting paid or sending payment reminders it's so easy, I recommend it to everyone.",
+      "reply": "Thank you for recommending Joist, Iram!",
+      "replyDate": "2025-09-18T13:53:44.310Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=016b380b-c516-455b-8ae5-5fffeef907ed"
+    },
+    {
+      "date": "2025-09-15T13:25:54.923Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Melissa Quevedo",
+      "text": "very good estimate/invoice program, hel a lot",
+      "reply": "Thank you, Melissa!",
+      "replyDate": "2025-09-16T00:53:42.485Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=a51016ce-9ded-4ee8-bb4c-486c6461bc39"
+    },
+    {
+      "date": "2025-09-12T14:08:01.403Z",
+      "score": 2,
+      "thumbsUp": 2,
+      "user": "Istvan Varga",
+      "text": "Costly app and no human customer service.",
+      "reply": "Hi Istvan, thanks for letting us know how you feel. We have AI-powered support available for speedy 24/7 answers to your questions, but we also have a support team available through email and live chat in the app during extended business hours. Please reach out to and ask to talk to our team and we'll make sure to connect you with one of our agents",
+      "replyDate": "2025-09-16T00:55:09.574Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=794f66e6-3c2f-4e31-9e13-cc1853c60439"
+    },
+    {
+      "date": "2025-09-11T19:52:10.550Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Andrew Lovelace",
+      "text": "I am still learning, but Im impressed. You should let company's put there logo on invoices without chargeing full price. starting out most bussiness are broke.",
+      "reply": "Thanks for the review, Andrew! Glad to hear you're liking the app so far. Appreciate your feedback about the logo as well and we know it can be tough when you're just starting out as a small business. We'd recommend giving the Pro version of the app a try for a month and you may be surprised by how much it can help you to impress your clients.",
+      "replyDate": "2025-09-16T00:56:48.689Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=9e03f6dd-15dd-4779-8a7e-9c0c6eb08a17"
+    },
+    {
+      "date": "2025-09-11T01:45:04.198Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "allan dutton",
+      "text": "f*****g awesome I've been using it for at least 8 years even back in the day when it was in beta and really laggy still using it 💯",
+      "reply": "Thank you, Allan! We're still going strong and hope to make the app even more awesome in the future. Appreciate you being with us for 8+ years!",
+      "replyDate": "2025-09-16T00:58:13.403Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=bf5c9e4a-755f-4e16-ab1c-b6f18d1e399c"
+    },
+    {
+      "date": "2025-09-08T20:12:12.723Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Christopher N Hayes",
+      "text": "Love this app! I do pay for the upgraded version but it keeps all of my estimates and invoices even for past years. All customers and contacts are stored.",
+      "reply": "Thanks, Christopher! Glad to hear you love the app!",
+      "replyDate": "2025-09-16T00:58:23.952Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=716de80c-00da-4e6f-8f8d-2b4b51517eb9"
+    },
+    {
+      "date": "2025-09-06T19:16:01.510Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "Alex Martinez",
+      "text": "This is a great app for being self-employed. I've been using it for 2-3 years now and will continue to use add long as there prices do not increase by to much.",
+      "reply": "Thanks, Alex! Appreciate you taking the time to leave a review and we hope you'll be with us for many more years to come!",
+      "replyDate": "2025-09-16T00:59:31.107Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=70a77a13-c839-4cf3-a86a-5b3ac019c563"
+    },
+    {
+      "date": "2025-09-05T18:25:41.823Z",
+      "score": 1,
+      "thumbsUp": 5,
+      "user": "Justin Kyle",
+      "text": "Ap used to be good. Now they keep taking away things that it used to do, putting them in higher priced tiers. Prices seem to go up every 2-3 months. Really? Decide on a price and stick to it. Why am I paying more and getting less month after month? This is what happens when big corp buys out an otherwise decent product just to hike costs over and over until everyone finds better alternatives. Just look at any recent reviews. Everyone is in agreement. You're pricing yourself out of the market.",
+      "reply": "We appreciate your feedback on the pricing changes and understand your concerns about the recent adjustments. Your insights are valuable, and we’re committed to ensuring our app meets your expectations. Thank you for sharing your thoughts; they help us strive for improvement.",
+      "replyDate": "2025-09-16T01:09:44.159Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=08a3f1f2-2c20-4315-8042-a357c827d6e8"
+    },
+    {
+      "date": "2025-09-05T16:50:15.367Z",
+      "score": 1,
+      "thumbsUp": 2,
+      "user": "Abel",
+      "text": "This invoice app is getting too pricey for what I need and how I use it. Time to look for another app.",
+      "reply": "Thank you for sharing your thoughts on pricing. We truly value your perspective and want to ensure our users find value in our offerings. If there are specific features or needs you feel are lacking, please reach out to our support team in the app. Your insights can help us enhance the experience for everyone.",
+      "replyDate": "2025-09-16T01:24:11.831Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=afa0ee43-f7c6-4a14-8713-5eef9026ea65"
+    },
+    {
+      "date": "2025-09-03T22:16:01.116Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "Roni G",
+      "text": "They have a long way to go.",
+      "reply": "Thank you for your feedback. We recognize that there's always room for improvement, and your insights about the user experience are truly valuable. If you have more thoughts or suggestions, please reach out to our support team in the app. Your input helps us grow and serve you better.",
+      "replyDate": "2025-09-16T01:24:32.290Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=17848d65-e284-42ab-afc0-dedbb5e5e47d"
+    },
+    {
+      "date": "2025-09-03T17:59:46.649Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "G",
+      "text": "have to resend estimates on a regular basis. no customer support as far as I can tell besides an a.i. bot. maybe they'll use this latest price increase to debug their software or hire some customer service techs.",
+      "reply": "Thank you for sharing your experience regarding the challenges with resending estimates and support options. Your feedback is invaluable as we work to improve our services. If you have more thoughts or need assistance, please reach out to our support team in the app. We’re here to help.",
+      "replyDate": "2025-09-16T01:28:37.979Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=5c54dd84-a0f6-404d-b74f-e8e739f5a249"
+    },
+    {
+      "date": "2025-09-02T11:28:45.244Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Jose Ramirez",
+      "text": "invoices coming back as undeliverable",
+      "reply": "Hi Jose, sorry to hear about the difficulties sending your estimates. This could be caused by a simple issue like a typo in the email of your client, or there could be other issues. Please feel free to reach out to our support team so that we can look into this for you and offer our advice.",
+      "replyDate": "2025-09-16T01:30:21.969Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=ea0a6e0f-18e7-4161-98a5-e28a175d2278"
+    },
+    {
+      "date": "2025-08-30T21:14:30.629Z",
+      "score": 1,
+      "thumbsUp": 16,
+      "user": "Richard Booth",
+      "text": "I've been on this app for like, a decade, and it was awesome and free at first. Then they added a premium subscription, which I started paying for. Now, there's no free version, just different paid tiers. They keep jacking up the prices, too! It was $7.99 a month, then $13.99, and now it's gonna be $14.99 next month. Well I'm not sticking around any longer watching to see how much higher they decide to jack up the price, I'll find another invoice app before I pay another dime to these people.",
+      "reply": "Hi Richard, we appreciate you being with us for a decade and we're glad that you were able to get the most out of the free version of the app for several years, but as a business we can't offer the app for free forever. The $8/mo price tier is our Basic plan, and we also offer a Pro plan for $15/mo. We hope one of these plans will meet your needs.",
+      "replyDate": "2025-09-16T01:36:06.663Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=3e3d4a8b-1a79-4c4f-852d-77ef660b3f97"
+    },
+    {
+      "date": "2025-08-29T00:49:39.627Z",
+      "score": 2,
+      "thumbsUp": 1,
+      "user": "Fabiano K",
+      "text": "to have a real work experience you must have to paid. and if your membership expires they will make you paid to recover your client list. it's all about the money.",
+      "reply": "For assistance with exporting your data, please reach out to our customer support team in the app or at hello@joist.com. Your feedback is noted, and we are here to help you with any issues you may have.",
+      "replyDate": "2025-09-16T01:45:46.760Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=110cc5dc-6f96-43d2-9983-af0bae984119"
+    },
+    {
+      "date": "2025-08-28T04:04:45.579Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Us henrriquez IA Call jose equipment rental",
+      "text": "very good app",
+      "reply": "Thank you!",
+      "replyDate": "2025-09-16T00:59:43.676Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=86474ecb-ddf7-4a8f-962a-7690050c9b86"
+    },
+    {
+      "date": "2025-08-27T14:13:59.978Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Nikolay Tiginyanu",
+      "text": "Helpful add to make estimates and invoices.",
+      "reply": "Thank you for the review, Nikolay!",
+      "replyDate": "2025-09-16T00:59:54.197Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=14bfb212-a164-4498-90a9-bcf3ac9fef72"
+    },
+    {
+      "date": "2025-08-26T05:20:03.227Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "A & A Quality Construction LLC.",
+      "text": "A & A Quality Construction LLC. uses joist and believes it's a great tool to have to write up estimates and invoices for clients! Makes business look professional and presentable!",
+      "reply": "Thank you for the review! We're glad to hear that the app helps to make your business look professional and presentable!",
+      "replyDate": "2025-09-16T01:00:46.707Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=9b3d66a3-5c11-4791-a567-edd94707a569"
+    },
+    {
+      "date": "2025-08-25T17:14:59.589Z",
+      "score": 1,
+      "thumbsUp": 62,
+      "user": "Bretware 7",
+      "text": "This app turned into one of the worst, their game the whole time was to get a hold of your data and then monetize it against you. If you want to jump ship use Blue Streak on a PC to open this app and your new one then you can copy and paste your customers to your new app. It's going to be easier than you think and so worth it",
+      "reply": "Hi Bret, sorry to hear about your experience with the the app. We'd hate to see you leave, so please feel free to reach out to us at hello@joist.com if there's anything we might be able to help with.",
+      "replyDate": "2025-08-26T14:10:01.558Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=05561546-c4a3-4697-8d85-50a576b8c8e0"
+    },
+    {
+      "date": "2025-08-25T12:54:24.318Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Dmitriy Seitniazov",
+      "text": "Great Company App",
+      "reply": "Thank you for the review, Dmitriy!",
+      "replyDate": "2025-09-16T01:00:59.867Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=c069db28-fe82-4bc3-87ec-9428fa4b4369"
+    },
+    {
+      "date": "2025-08-24T06:42:15.847Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Brian Shankleton",
+      "text": "the best app",
+      "reply": "Thank you for saying so, Brian! Appreciate the review!",
+      "replyDate": "2025-09-16T01:01:18.897Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=bd23dc63-1731-4ae9-8657-b23fb095840d"
+    },
+    {
+      "date": "2025-08-23T11:08:27.557Z",
+      "score": 5,
+      "thumbsUp": 2,
+      "user": "Tim Smith",
+      "text": "great platform for small businesses and contractors super easy to use",
+      "reply": "Thank you, Tim! Making the app easy to use is always an important focus and we're glad to hear we're hitting the mark!",
+      "replyDate": "2025-09-16T01:02:16.170Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=f7a20fa7-b39a-45a6-bbb3-009c18869814"
+    },
+    {
+      "date": "2025-08-17T00:45:29.886Z",
+      "score": 5,
+      "thumbsUp": 2,
+      "user": "Alvaro Moran",
+      "text": "this is the best apps to make invoice and quote is very easy to use and the invoice look very professional 👍🏻 I recommend to anyone who looking for apps for invoice and more",
+      "reply": "Thanks very much for the review, Alvaro! And thank you for recommending Joist!",
+      "replyDate": "2025-09-16T01:02:41.220Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=62d84d44-c8fe-454c-9d00-339e25c3aece"
+    },
+    {
+      "date": "2025-08-16T21:26:38.536Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Joshua Smith",
+      "text": "don't use this, VERY limited support, they force you to register with them to be able to mark a invoice as paid, even thou it was through a check. suggest looking for a different software program",
+      "reply": "Hi Joshua, thanks for sharing this with us and I'm sorry to hear your experience was not ideal. The app generally requires a paid subscription to use any of the estimating and invoicing features. Online payments can be recorded for you automatically through Joist Payments, and you can also record offline payments manually, like cash, check, etc.",
+      "replyDate": "2025-09-03T20:28:15.236Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=ec3a960d-b9dd-4e07-b05b-993f39e521d1"
+    },
+    {
+      "date": "2025-08-15T14:28:51.139Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Doug M",
+      "text": "I've used this app for years, and now they want to charge me. Nope, there are other free apps that I can use instead",
+      "reply": "Thanks for sharing your feedback with us, Doug. We appreciate you being with the app for years and hope you'll reconsider. As a business we can't offer the app for free forever, and we understand if that means you need to look for an alternative. We're always here to help if you have questions or need assistance, so reach out anytime.",
+      "replyDate": "2025-09-16T01:50:23.556Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=c19032e7-1e3f-4ebf-9506-20e1b1309b24"
+    },
+    {
+      "date": "2025-08-15T09:49:42.414Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Jesse Kalinski",
+      "text": "Just what I needed!",
+      "reply": "Thanks, Jesse!",
+      "replyDate": "2025-09-16T01:02:46.671Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=d96ea814-7ba5-400e-ae23-977b44862f36"
+    },
+    {
+      "date": "2025-08-14T13:16:47.447Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Jason Miller",
+      "text": "Very effective services that help me generate my invoices and estimates easily and efficiently",
+      "reply": "Easy and efficient is what we always aim for! Thanks, Jason!",
+      "replyDate": "2025-09-16T01:03:12.602Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=c14e661e-e1b0-473c-8b8e-01f08d623708"
+    },
+    {
+      "date": "2025-08-13T22:12:28.997Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "William Solnikowski",
+      "text": "perfect for my business",
+      "reply": "Glad to hear it, William! Thank you for the review!",
+      "replyDate": "2025-09-16T01:03:23.351Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=3217d3cd-cc4a-4e3f-abc3-058f41bfbb50"
+    },
+    {
+      "date": "2025-08-11T18:29:52.535Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Mike Cinko",
+      "text": "everything i need in one app.",
+      "reply": "Thanks Mike! Glad to hear the app is checking all the boxes for you!",
+      "replyDate": "2025-09-16T01:03:38.971Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=6284728b-8526-4739-b0b1-937e92b4e00c"
+    },
+    {
+      "date": "2025-08-11T17:46:05.910Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Denis C",
+      "text": "wonderfull! works great",
+      "reply": "Thank you, Denis!",
+      "replyDate": "2025-09-16T01:03:49.484Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=2938b45e-ec72-4827-896f-39e090b6d0d2"
+    },
+    {
+      "date": "2025-08-11T17:16:32.374Z",
+      "score": 5,
+      "thumbsUp": 4,
+      "user": "Daniel Huffman",
+      "text": "We've been with Joist several years now, started out free- a simple invoicing platform; since then they've grown into a full service platform with all the tools Contractors require, without the need to download software. Wouldn't even consider going in any other direction.",
+      "reply": "That's so great to hear, Daniel! Thank you for being with us over the years and we hope Joist will continue to serve your business well for many years to come!",
+      "replyDate": "2025-09-16T01:04:25.936Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=e83fe49d-bfa2-44b6-af49-224a383a43b5"
+    },
+    {
+      "date": "2025-08-11T11:40:39.153Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Michael Forbes",
+      "text": "love the app .",
+      "reply": "Glad to hear you love the, app! Thank you, Michael!",
+      "replyDate": "2025-09-16T01:04:36.303Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=60d9a571-ed59-414d-bd6f-1f294573f089"
+    },
+    {
+      "date": "2025-08-10T22:44:20.879Z",
+      "score": 1,
+      "thumbsUp": 7,
+      "user": "Michael Jackson",
+      "text": "Was not worth the hundred I payed last year.Now yall wany 150 this year.Have yall bumped your dam head.Its a app..And not a great one at that..I will be deleting this year after the subscription runs out.Yall need to fire the loser that thought it would be a smart ideal to raise the prices.Im sure many will be also following me in this decision.Thats just ripping people off.",
+      "reply": "Hi Michael, thanks for sharing your thoughts with us. We try to always keep price increases small and as infrequent as possible. We've only raised prices by $1 most recently for monthly plans and a similar amount for yearly plans. We understand how even small price increases can feel like big increases however and we appreciate your feedback.",
+      "replyDate": "2025-09-16T01:52:03.130Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=a0c1cf8b-a410-42cd-a9eb-87b8ae7dbd29"
+    },
+    {
+      "date": "2025-08-09T02:30:06.430Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Endri Begolli",
+      "text": "beautiful",
+      "reply": "Thanks!",
+      "replyDate": "2025-09-16T01:04:41.553Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=72b0ba0f-2d96-48ab-ba01-15ee37120037"
+    },
+    {
+      "date": "2025-08-06T01:38:16.670Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Pancho Lozano",
+      "text": "good",
+      "reply": "Agreed! Thank you!",
+      "replyDate": "2025-09-16T01:04:57.175Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=7b71c6b9-b774-4746-b7ee-a7573d411dc7"
+    },
+    {
+      "date": "2025-08-05T20:40:13.534Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Joey Dunbar",
+      "text": "it has gotten quite expensive considering it used to be free",
+      "reply": "Thanks for letting us know your thoughts, Joey. It was certainly a big jump from free to paid and we appreciate you sticking with Joist. We're very mindful of the impact of price increases and we're always doing our best to ensure you get value for your money.",
+      "replyDate": "2025-09-16T01:05:49.612Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=54881aa7-0b04-4624-a688-d02a0f178aea"
+    },
+    {
+      "date": "2025-08-05T15:18:01.803Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "DAVID KNIGHT",
+      "text": "I had an issue and had to contact joist support. they were friendly and solved my problem quickly that's why I love joist",
+      "reply": "Thank you for the review, David! Glad we were able to help when you reached out to us and we all appreciate the kind words!",
+      "replyDate": "2025-09-16T01:07:02.359Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=b8de32d4-e46e-4e4c-9431-899fef99f6c1"
+    },
+    {
+      "date": "2025-08-05T12:20:09.976Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Chase Transier",
+      "text": "I've used joist for 15 years and the changes from then to now seem minimal. Originally I could add my logo and even photos to my estimates/invoices. Slowly all features disappeared then reappeared with a monthly subscription. I honestly care less about these features rather than the accessibility of the 15 years of clients and invoices I've accumulated on the platform. Not sure how removing a feature that was previously available then adding it back cost so much. Will be looking for new options.",
+      "reply": "Hi Chase, thanks for being with us since we launched Joist. Over the years we've made many changes, added new features and developed new improvements. We also started charging for the app as we can't offer it for free any longer. I appreciate how it feels like features may have been removed, but everything is still there with a paid subscription.",
+      "replyDate": "2025-08-05T17:55:17.421Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=3fa2fd13-3f3b-4330-929a-862136c17432"
+    },
+    {
+      "date": "2025-08-02T21:38:59.515Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Paul",
+      "text": "very good app for my business 👌",
+      "reply": "Thanks, Paul!",
+      "replyDate": "2025-09-16T01:07:12.759Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=86887a24-b9c6-4196-873c-8c7c266573d8"
+    },
+    {
+      "date": "2025-07-29T14:33:33.307Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Frank (ETF Construction Inc)",
+      "text": "great service",
+      "reply": "Thank you, Frank!",
+      "replyDate": "2025-09-16T01:07:23.505Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=330be75a-ec8b-4fce-98c3-34c8fa612867"
+    },
+    {
+      "date": "2025-07-29T02:17:49.248Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "Jonathan Hudgins",
+      "text": "Great tool to have in your tool belt. it is easy to use. Get invoices to your customers quickly.",
+      "reply": "We couldn't have said it any better! Thank you for the review, Jonathan!",
+      "replyDate": "2025-09-16T01:08:10.642Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=66d758a5-4889-4eb9-8105-5284373ce535"
+    },
+    {
+      "date": "2025-07-29T01:16:42.599Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Kim Simpson",
+      "text": "easy to use",
+      "reply": "Thanks, Kim! Ease of use is always a top priority for Joist!",
+      "replyDate": "2025-09-16T01:08:25.876Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=51b34e79-6c1e-419e-beca-88d908fee389"
+    },
+    {
+      "date": "2025-07-28T21:28:12.270Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Julio Adame",
+      "text": "Joist is the best app i've ever had in my twenty years of experience",
+      "reply": "Thanks so much, Julio! Really appreciate you saying so!",
+      "replyDate": "2025-09-16T01:08:46.741Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=0ded371a-53bf-4118-b89b-c45f73ef9ad6"
+    },
+    {
+      "date": "2025-07-23T14:24:10.118Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "YANETT ROMERO",
+      "text": "Love the app",
+      "reply": "Thank you, Yanett! Glad to hear you love the app!",
+      "replyDate": "2025-07-25T17:37:56.350Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=084bca19-e10b-4b39-a50e-df355a04bb4c"
+    },
+    {
+      "date": "2025-07-23T13:00:05.650Z",
+      "score": 1,
+      "thumbsUp": 10,
+      "user": "jason Brunbaugh",
+      "text": "It was great at first. It started for free, then they started charging, not a problem. But then they kept going up and up on the price and dropping things in the current package,to try and get you to spend more money to get what you had. Now it seems every few months it goes up and up. I'm currently looking for another system to use. I won't continue to use them because of their greed!!",
+      "reply": "Hi Jason, thanks for sharing with us. We understand every dollar counts for your business and we always try to avoid price increases, but over time the cost to run our business increases too. Offering the app free forever simply wasn't an option. We want to be here for the long run and to do that we aim to charge fees in line with our costs.",
+      "replyDate": "2025-07-25T17:47:55.485Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=9536da25-0d77-41f6-b963-5636ee6bbcd2"
+    },
+    {
+      "date": "2025-07-23T12:13:25.861Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Hector Leon-Lira",
+      "text": "super great",
+      "reply": "Thanks, Hector!",
+      "replyDate": "2025-07-25T17:48:15.954Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=b60b274c-04da-4e12-8eed-169dff6da086"
+    },
+    {
+      "date": "2025-07-23T04:34:11.131Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Jason Bowman",
+      "text": "The more I discover the better it gets. Growing a business in the age of technology is awesome",
+      "reply": "Thanks for the updated review, Jason! We're glad to hear that you're still discovering new things to like about Joist after all these years! We're committed to constantly improving the app and it has certainly come a long way since when you started with us years ago. We hope you'll like the new features and improvements planned even more!",
+      "replyDate": "2025-07-25T17:49:27.648Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=fba14c01-054a-40a6-8d0e-317f4357fdd6"
+    },
+    {
+      "date": "2025-07-22T17:44:27.670Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Romane Blake",
+      "text": "I like it, it gets the job done.",
+      "reply": "Thanks, Romane! We'd love to know if there's anything to make Joist a 5-star experience for you. Feel free to reach out to our team at hello@joist.com anytime if you have any ideas for improving the app or if there's anything we can help with!",
+      "replyDate": "2025-07-25T17:50:29.184Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=265c18e4-74af-4b7f-b4df-8448d31fe2e4"
+    },
+    {
+      "date": "2025-07-21T17:22:07.829Z",
+      "score": 4,
+      "thumbsUp": 15,
+      "user": "Crystal",
+      "text": "frequent price hikes. I started this app free, then switched to the paid version at $9.99. it was increase to 11.99, then another increase 13.99 and today email for increase to $14.99! I was trying to figure out when I installed the app but I think all these increases within 2 years. Otherwise is a great app! would give 5star rating if it weren't for the price hikes.",
+      "reply": "Hi Crystal, appreciate you sharing your thoughts and we hope we can earn a 5-star rating from you in the future. We're continuing to develop the app and we want to ensure we'll be here for the long run. We always try to avoid price increases for as long as we can and I hope the value we continue to add will make the recent increase more reasonable.",
+      "replyDate": "2025-07-25T18:25:44.910Z",
+      "url": "https://play.google.com/store/apps/details?id=com.joistapp.android.joist&reviewId=575cc6c8-3d67-4da5-a4ed-7834c6fbdcca"
+    }
+  ]
+}

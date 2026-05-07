@@ -1,0 +1,2008 @@
+{
+  "app": "com.northpark.drinkwater",
+  "country": "us",
+  "total_pulled": 200,
+  "total_after_filter": 200,
+  "reviews": [
+    {
+      "date": "2026-05-05T01:44:59.230Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Garikapati Bhagirath",
+      "text": "good on screen widgets and those reminders really help me stay hydrated",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=df4fda6d-3f93-4387-ac65-4b859603f867"
+    },
+    {
+      "date": "2026-05-04T14:08:28.370Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "Scott",
+      "text": "Almost perfect, but really needs a dark mode so it doesn't hurt your eyes to use overnight. People have been requesting a dark mode for years, it's a very basic feature, especially for an app that charges for a premium version.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=204462ef-f800-4c52-a3a3-d7297f0bb797"
+    },
+    {
+      "date": "2026-04-30T07:11:51.679Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Michael Bryan King",
+      "text": "very useful. totally helped me be reminded and drink properly on time. i do 5:30am to 7pm at 1.5hrs interval with 250ml of water each time. ❤️",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=4e7fd59a-90bc-4a53-85b5-bd7e58c2472a"
+    },
+    {
+      "date": "2026-04-29T17:37:07.826Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "Saptarsha Saha",
+      "text": "there is no ad free version",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=b67aea50-a84e-454f-8fde-80cfbc2dbef5"
+    },
+    {
+      "date": "2026-04-27T15:49:08.767Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Cesar Mansur",
+      "text": "This is the best water app I've tried, very easy to setup, you can customize your cup, you can customize your schedule and you can see your intra day progress compared to the scheduling, which is really good. Adds are very small and not annoying like other apps. I'm buying the pro version, it's worth.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=9ae59bf5-2e40-410e-96af-d57cb6b1037b"
+    },
+    {
+      "date": "2026-04-24T21:00:48.320Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Jason Bryan",
+      "text": "works well. helps keep me on track",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=fa9b3674-2143-4dc6-918d-41b41ec13d9e"
+    },
+    {
+      "date": "2026-04-24T00:14:22.673Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Syeda Hira",
+      "text": "best water reminder app...",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=eaa9ff1a-a9f9-443d-87b1-d30a41c7f824"
+    },
+    {
+      "date": "2026-04-21T20:20:34.800Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Prakash Kamath",
+      "text": "Great app to stay hydrated and achieve daily goals. The ability to customize cups and backup progress to cloud is heaven sent! Been using the app for quite a while and decided to get the ad-free version to support the developers.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=df38d127-af87-4289-8555-c51244f80388"
+    },
+    {
+      "date": "2026-04-21T16:38:46.257Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Praveen S.R",
+      "text": "very good",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=834bb802-1217-4a8c-af32-dacea6495d55"
+    },
+    {
+      "date": "2026-04-20T18:07:28.972Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Adem",
+      "text": "it gives notifications every 1 hour AND every one hour between drinks. no thanks I'm not a fan of unnecessary attention.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=db9f96de-acfa-4c4c-8100-6551ab6be585"
+    },
+    {
+      "date": "2026-04-20T12:40:35.931Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Rin The writer",
+      "text": "Perfect",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=4a934f7d-e4dc-4215-9cbc-0cdefbd7408b"
+    },
+    {
+      "date": "2026-04-20T06:21:43.700Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Sagar Das",
+      "text": "good application. good notification reminder.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=5e248848-668f-4d96-a7b3-6aef9b5e4c43"
+    },
+    {
+      "date": "2026-04-19T03:06:09.308Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Evelyn Kirkland",
+      "text": "awesome App",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=e1b999c6-0a08-474f-975d-41922a9c8a03"
+    },
+    {
+      "date": "2026-04-18T10:07:26.447Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Sameera Sk",
+      "text": "super app i love it 🫶🏻",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=a88f0726-7b39-45c4-92be-6b1c2d0a1f78"
+    },
+    {
+      "date": "2026-04-16T22:06:26.565Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Brianna Williams",
+      "text": "I love the alarm feature it stays on top of you",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=6cb3c9c7-ddb1-4cb5-812a-97351cff0bae"
+    },
+    {
+      "date": "2026-04-13T12:43:30.400Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Pritha Mandal",
+      "text": "Definitely try it. I love this app.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=5350fa25-1d0b-4e54-bd11-d1e122799154"
+    },
+    {
+      "date": "2026-04-12T14:39:55.838Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "Spencer Hicks",
+      "text": "at one point I just started to tune out of the notification",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=d5f0a7db-a7a4-4834-8319-6cea5add5037"
+    },
+    {
+      "date": "2026-04-11T05:23:56.677Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "bgbiradar biradar",
+      "text": "very useful in everyone's life",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=19ed38dd-ca75-4320-becc-21a3cd75203b"
+    },
+    {
+      "date": "2026-04-10T02:38:50.152Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "marleny rosal reyes",
+      "text": "It's just bad",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=7a9b2a20-4817-43bc-ab6d-1bfc9173e1a6"
+    },
+    {
+      "date": "2026-04-09T16:43:40.281Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Harsh Bhati",
+      "text": "good",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=b760e541-36a2-48ef-82dd-97d888825d7e"
+    },
+    {
+      "date": "2026-04-08T22:33:13.447Z",
+      "score": 4,
+      "thumbsUp": 2,
+      "user": "Holly Coleman",
+      "text": "Gave it 4 stars because I had to contact the developer about an issue with the pro version, as the extra features weren't showing up and ads persisted. They were quick to fix it after I sent my Google receipt! I really like this simple app that connects to my watch; it's perfect for reminding me to drink water without unnecessary frills. 💧⌚",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=ffd2fbac-2280-42bf-a524-caf889d5c210"
+    },
+    {
+      "date": "2026-04-02T21:08:44.450Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Shukri Abdulle",
+      "text": "Perfect. Can customize app sounds, alarms, timing. You can choose what you drank ex. water, milk, coffee. Can track weight and etc. Like it better than any other app.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=3f7472ef-1643-4c28-aaef-f3da929ff458"
+    },
+    {
+      "date": "2026-04-02T13:42:54.300Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Jim",
+      "text": "This app is essential for daily water reminder. Easy to use, easy to configure to time and sizes of your drinks, and offers pop up reminders at specified intervals. The free app includes pretty much all the features, and prices is very good to switch over from the annoying ads on the free version.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=1bc6f039-882c-489d-89e8-492752133198"
+    },
+    {
+      "date": "2026-03-28T12:32:51.129Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Zoya Ab",
+      "text": "excellent",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=19ddced2-f381-4c45-b735-c488cd454b1c"
+    },
+    {
+      "date": "2026-03-25T14:27:48.978Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Lin",
+      "text": "simple, easy configuration and to the point. does it's purpose nothing unnecessary.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=01784400-8fba-49bd-b2c5-0680b7331954"
+    },
+    {
+      "date": "2026-03-23T23:04:07.164Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Carmelita Tucker",
+      "text": "Perfect app! Easy to use",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=ef1155cf-8246-4a1b-875a-5060c72f1c3c"
+    },
+    {
+      "date": "2026-03-22T21:29:49.429Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Shy Shy",
+      "text": "Love this app!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=9250e2b1-7932-4567-b9f6-bc977d1f0bdc"
+    },
+    {
+      "date": "2026-03-18T12:42:09.988Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Nuniya Biznas",
+      "text": "it was great until they became greedy with ads, now they are not so great. Also the water calculator isn't right, do the math yourself and input your goal manually....if you still choose to use this (now crappy) app. Just so everyone knows....I had this rated 5 stars before. Also it is constantly trying to get you to turn on the reminder notification. I should only have to say no once, not every time I open the app.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=3b4e3265-b085-4618-99ee-988e86c3b471"
+    },
+    {
+      "date": "2026-03-18T05:46:45.461Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Gullu Good life",
+      "text": "wow app i will use this app on 2020 march",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=950c21bc-65f4-489e-954b-96ae8226f623"
+    },
+    {
+      "date": "2026-03-15T13:12:34.947Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "Stoian Valchev",
+      "text": "As a standalone app, not bad. There was a synch with Samsung Health that I can't find now.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=27ba1424-5aff-49b2-90bc-8a785848a689"
+    },
+    {
+      "date": "2026-03-12T11:00:51.128Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Kuldeep Singh Khadka",
+      "text": "Very nice and easy to use.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=68717129-7935-41c3-aa46-7b8c577c3ce3"
+    },
+    {
+      "date": "2026-03-11T12:51:40.906Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Welmica Bsr",
+      "text": "good",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=f9eb2c67-6172-4a69-959d-55ec904e52a0"
+    },
+    {
+      "date": "2026-03-09T11:22:52.529Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Емилиян Николов",
+      "text": "As others have written, there is a bug with the app giving reminders even when ahead of schedule although it's set not to.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=10078c5b-5e2f-4451-b58b-232eff4f6a22"
+    },
+    {
+      "date": "2026-03-09T02:30:36.566Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Liane Winters",
+      "text": "love this app just wish I used it better for accurate record of fluid intake as I often only have 500ml over a 60hr period. That's why I downloaded this app. I set notifications for regular reminders throughout the day but I either ignore them or I don't bother opening the app to log it down. maybe a modification to the widget which would allow a quick record of time and amount and then it could be edited later if you want when you open the app properly. 4.5stars if I could but rounded up to 5",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=ac6cdc42-b12a-47e0-a716-27833682f34a"
+    },
+    {
+      "date": "2026-03-08T23:01:27.745Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "C Quant",
+      "text": "Helpe me to remember that drinking water is healthy. Really great App I recommend it to everyone.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=2105a11b-3ff9-4a6d-ba78-31c447dda0f5"
+    },
+    {
+      "date": "2026-03-08T13:34:17.666Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "James Olds",
+      "text": "great",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=209a8e50-4873-47ba-a9fb-32fbde2aa20c"
+    },
+    {
+      "date": "2026-03-08T10:10:22.307Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Nishant Sinha",
+      "text": "I love this app. Whenever I observe my water intake is reduced, I install or activate this app. Timely reminder. clean design , custom measurements.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=d80e8de6-aff7-46ba-9885-b3b3c243b7a8"
+    },
+    {
+      "date": "2026-03-08T04:03:03.559Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Aanchal Rai",
+      "text": "best for anyone who deals with that forgetting habit!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=379b2d18-0659-4c00-b59b-8a7f12de334b"
+    },
+    {
+      "date": "2026-02-28T23:59:47.564Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "Kim Beattie",
+      "text": "Was great but too many ads now.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=e897511e-e289-4d4b-b432-f77af3dab2c3"
+    },
+    {
+      "date": "2026-02-28T07:32:16.503Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Ritik Mehta",
+      "text": "good app really like also the timely notifications like it",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=903ef441-ae6f-4e78-9d85-75bfad6a1840"
+    },
+    {
+      "date": "2026-02-25T23:44:32.852Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "Saroj Panda",
+      "text": "No health connect sync option",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=e2e1258c-1c47-4c22-b8ac-ec74b9c71bc9"
+    },
+    {
+      "date": "2026-02-23T23:46:26.676Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Martin Ameling",
+      "text": "It works.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=e086416f-4c63-4fac-bcbd-afb04c6a1d38"
+    },
+    {
+      "date": "2026-02-21T13:47:11.708Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "Sona Shivraj",
+      "text": "This app is very good 👍,it reminds me to drink water from time to time . I really liked it , this water reminder app is very good for keeping the body hydrated.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=d11297b5-0bbe-45d4-a6ca-295717c3d23b"
+    },
+    {
+      "date": "2026-02-20T10:30:30.641Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Chistina Angie",
+      "text": "very good app I'm used to drinking water now I was lazy buzy drinking tea now my body is good",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=11c02ba3-a407-48ea-b6d6-3914359f0f0c"
+    },
+    {
+      "date": "2026-02-17T10:25:11.478Z",
+      "score": 3,
+      "thumbsUp": 3,
+      "user": "John Pyzer",
+      "text": "Would give it a 5 if they added a simple key as to what each drink is! I drink a lot of tea nothing in the drink selection tells you what each drink is so I can only guess which I am adding is tea and not coffee etc. As of late 2024 app no longer syncs with Samsung health! edit now in 2026 still no fix to make this sync again with Google fit or Samsung health! shame as it was really good app until it stopped working with health connect considering other apps by same developer do work with it!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=c4b2d0be-8a7c-4293-9dc5-af8923bbdcc6"
+    },
+    {
+      "date": "2026-02-16T19:20:38.211Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Mehmet Fatih Aydınöz",
+      "text": "it's a perfect app for drinking remind",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=4cde21d4-e3e3-4dc2-a10b-a5eacd7ab026"
+    },
+    {
+      "date": "2026-02-13T13:08:55.240Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Rashidjun Sudaria",
+      "text": "Good",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=aa8540db-86fb-4d7b-b14b-a770b215405e"
+    },
+    {
+      "date": "2026-02-12T15:01:15.491Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Jennifer Horsmon",
+      "text": "I've been using this app for several days now, and it's perfect for what I've been looking for. I get reminders every hour and am able to log how much water I drank. Being able to log the amount gives the feeling of goal met and keeps me motivated.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=e056e2da-63f0-4c14-aad1-85c25bfc0b21"
+    },
+    {
+      "date": "2026-02-06T16:10:56.220Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "pamela felice hill",
+      "text": "It's a great app and it still helps me very much!!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=f6a257fb-c273-4be2-ab01-4c2d8c43e39c"
+    },
+    {
+      "date": "2026-02-05T11:04:09.298Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Emma",
+      "text": "Does exactly what you need it to. You can set up presets for your usual drinks so it's super quick to log. I like the setting where it only sends you reminders if you are not on track to drinking your goal amount so it's not annoying. Premium version is a small one off payment. Which is worth it to support the creator and about the ads.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=1d98aa70-5873-4b29-8a7f-2990a9affb82"
+    },
+    {
+      "date": "2026-02-03T01:10:52.456Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "Tarun Varshney",
+      "text": "Been using this app for a decade now. A must have app to track water intake, with customizations for sizes, reports, backups and watch support. 5🌟 indeed!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=3657cc7e-7ee8-4587-91f4-e349defe6b44"
+    },
+    {
+      "date": "2026-01-31T02:37:29.533Z",
+      "score": 1,
+      "thumbsUp": 8,
+      "user": "Ethan Dale",
+      "text": "Notifications break after you log water. I have it set to notify me every 30 minutes. But if I finish a bottle at 8:14, now it goes off on the 14 and the 30. It adds more and more notifications as I drink more water. By the end of the day, it goes off every 4 minutes. Super obnoxious bug, and it has been around for years.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=e2fcf74e-5e35-4ccc-b311-3efdb6f917ad"
+    },
+    {
+      "date": "2026-01-30T14:04:59.353Z",
+      "score": 1,
+      "thumbsUp": 2,
+      "user": "J",
+      "text": "still has a reminder every hour even when manually set and ahead of schedule",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=2f1263e3-a417-4753-a072-2a0b6169a9d3"
+    },
+    {
+      "date": "2026-01-30T02:08:01.975Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Sheeshpal Singh",
+      "text": "Best experience",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=5faaeedc-da86-4799-aaf4-757ffbd8f9f6"
+    },
+    {
+      "date": "2026-01-29T10:47:18.627Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Dani Fuenzalida",
+      "text": "grear app to keep your water intake! the ads don't bother me as they are not frequent at all!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=63732eed-8f6d-4a90-8654-f3f0ee760206"
+    },
+    {
+      "date": "2026-01-29T01:56:21.357Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Dr Anil Kumar C",
+      "text": "nice simply easy to use",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=c1a702fd-1924-4a37-b271-c685ec2082ff"
+    },
+    {
+      "date": "2026-01-28T21:23:07.399Z",
+      "score": 5,
+      "thumbsUp": 4,
+      "user": "Eileen Hartley",
+      "text": "I really need to be reminded and this app is great. I've been using it since 2016.",
+      "reply": "Thanks your feedback.  Synced with 2 devices will support in the later version, please stay tuned.",
+      "replyDate": "2016-08-27T09:46:08.694Z",
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=a395e094-502f-4826-909a-8fe02f2ee367"
+    },
+    {
+      "date": "2026-01-27T23:50:58.100Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Ringsha 9",
+      "text": "Good App. Simple to use.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=907bbe84-33e6-4329-909d-b56aa95ae945"
+    },
+    {
+      "date": "2026-01-23T06:06:38.290Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Tejasvini Choudhary",
+      "text": "good 👍😊",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=b3ba79df-9cfc-4a9b-96ea-5a862e5513c0"
+    },
+    {
+      "date": "2026-01-21T16:31:32.734Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Ashutosh Jha",
+      "text": "Not exact measurement",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=433d7b2f-5963-426b-88fc-6fe82901a0ad"
+    },
+    {
+      "date": "2026-01-20T12:33:45.542Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "rekha mali",
+      "text": "good apps",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=0d422308-d4c0-4a01-9232-de339dc002a7"
+    },
+    {
+      "date": "2026-01-20T11:53:40.201Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "rebecca schively",
+      "text": "works great",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=6546a1c6-118c-496a-9467-f1fb76c3b2d8"
+    },
+    {
+      "date": "2026-01-19T12:40:28.324Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "Dr. rishabhkrm",
+      "text": "no dark mode, not modern ui and paywalls if u want i can support but why a paywall in such a basic app",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=b28d667c-5b58-4d1f-b718-580faaf04a81"
+    },
+    {
+      "date": "2026-01-17T09:46:24.632Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Mridul Mukhopadhyay",
+      "text": "A very good app and recommend this app to use",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=9a662153-1620-4c15-82bf-aa1575747e09"
+    },
+    {
+      "date": "2026-01-15T22:54:50.205Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Keith Newby",
+      "text": "reminds me when to drink even if I'm not thirsty",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=76fd7334-991c-4f51-8509-cd105e978237"
+    },
+    {
+      "date": "2026-01-15T10:19:25.493Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Visionary Rhythms",
+      "text": "I love it❤️",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=37b81dde-3cca-430d-88e5-7ea233f09e8d"
+    },
+    {
+      "date": "2026-01-10T17:29:46.245Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "It'sNotJustice ItJustIs",
+      "text": "This is a great app to get on track with drinking water. I face a higher challenge than simply not drinking and with this, I may finally win the battle.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=f3677d91-d254-4f85-89ff-f34bfd5f2ef4"
+    },
+    {
+      "date": "2026-01-10T16:22:53.967Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Emre D",
+      "text": "This is a great app to balance your water intake.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=f0cd7bef-3c18-4938-ba5f-241caee0cf69"
+    },
+    {
+      "date": "2026-01-09T16:03:44.369Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "Moitreyee Bhattacharjee",
+      "text": "Very good, accurate, but few features is missing like automatic update on weight. Plz add that then u deserve #1",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=71f0110a-583c-4ba0-a745-33e343a9374f"
+    },
+    {
+      "date": "2026-01-08T18:12:34.554Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Paula Stearns",
+      "text": "this app helps me a lot and easy to use.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=47e008a6-43e1-4fb8-8651-99627e73c398"
+    },
+    {
+      "date": "2026-01-07T18:39:44.998Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Hanaa Vedat",
+      "text": "I love how simple & useful the app is👏 it's my favorite 😍 thanks to whoever made it",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=fc33d891-326b-4bf9-8544-df32e28b8330"
+    },
+    {
+      "date": "2026-01-07T08:57:25.804Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Philip Breytenbach",
+      "text": "Does not take any age or other personal information into account. No good.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=a37ba75e-79dd-4481-83fe-54946575b380"
+    },
+    {
+      "date": "2026-01-06T15:42:49.675Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "vchin kok",
+      "text": "App Version:(4.37.277) The \"Restore\" function has not working since 6 January 2026.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=4434c6b3-283c-4d3f-9c2a-0af6ebfa850c"
+    },
+    {
+      "date": "2026-01-06T04:42:46.510Z",
+      "score": 5,
+      "thumbsUp": 14,
+      "user": "Kathy Vincent",
+      "text": "So far, the best water tracking app Ive tried! Easy to set up, log, edit accidental logs or late entries, and very limited invasive ads! Just an ad always at the bottom of the page, but in 5 days of logging entries, I think Ive seen maybe ONE video ad! It also allows you to choose the water size, or even if it's coffee you're drinking.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=73150dbb-51e2-4a5c-a407-d2820721f107"
+    },
+    {
+      "date": "2026-01-05T22:13:13.324Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Joel S",
+      "text": "Why I need a reminder to drink water is a whole other issue, yet here we are. Anyway, of the half dozen or so apps I've tried, this is by far the best and the very modest outlay of two bucks or whatever it was to ditch the ads is totally worth it. Stay hydrated, kids.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=d0ce5389-f30c-46cd-88ca-3d8acf2d14ed"
+    },
+    {
+      "date": "2026-01-05T13:47:56.502Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Shyam Prasad",
+      "text": "Awesome application and help me to get notified whenever I forgot to drink water.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=379772aa-29e1-40ab-a68c-90a138666c1c"
+    },
+    {
+      "date": "2026-01-05T07:19:58.295Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "PPOOJA STHALEKAAR",
+      "text": "Thank-you This Apps is excellent Compare to other Apps I have started from 4th January 2026 enjoying using it",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=50ad9339-6771-45b8-a137-0c3aae3cb6c6"
+    },
+    {
+      "date": "2026-01-03T16:02:56.233Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Gullutisha rana",
+      "text": "Nice i am use at 2020 all time reminder . You want to schedule or automatic schedule .",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=708a844c-a4fc-4c8d-ae36-811af1e0c965"
+    },
+    {
+      "date": "2026-01-03T11:15:17.281Z",
+      "score": 5,
+      "thumbsUp": 29,
+      "user": "Glenn Rollins",
+      "text": "This is still a great app. Lots of options to set your liquid intake, not just water. There are settings for reminders you can adjust so that you're reminded enough for your preference - whether that be more often because you find it hard to break away from a task for a refill like me, or less often so you aren't annoyed/hassled by yet another task. Water intake is especially important for me and this app has helped make all the difference.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=7aa36376-32e5-4b9c-8194-b197f5262deb"
+    },
+    {
+      "date": "2025-12-31T00:08:41.764Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Renee Faison",
+      "text": "easy to use",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=957a6b88-475e-48c4-b649-c1cd56418404"
+    },
+    {
+      "date": "2025-12-30T16:32:44.910Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "Tomide Osuntokun",
+      "text": "Phenomenal. I use this app for water fasting. Simple, can be used for free, can be upgraded. But whichever way, it is worth it!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=a1b6d22b-a053-45b4-b834-2d5b18b4d25e"
+    },
+    {
+      "date": "2025-12-23T14:24:54.193Z",
+      "score": 5,
+      "thumbsUp": 21,
+      "user": "K C",
+      "text": "Love the reminders and the ease of setting them for whatever time you want them. The friendly reminder sound always makes my husband and I smile, while automatically reach for the water glass, water bottle on my part. 😀 I also appreciate the water logs and graphs that show how I've been doing over the course of the month(s) and year(s). So far, there hasn't been a lot of ads. which is also wonderful. Great app! Thank you!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=d4c223c7-608c-44d6-bc79-c8a4a3100210"
+    },
+    {
+      "date": "2025-12-22T18:30:42.141Z",
+      "score": 4,
+      "thumbsUp": 4,
+      "user": "Phil Baker",
+      "text": "This app has helped me stay hydrated. I like that I can use my watch to enter drinks taken. unfortunately, the watch only works when connected to the phone. It would be nice if it remembered the drinks, then told the phone once connected, similar to how glucose monitors work.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=ffefdaad-481c-401f-8b04-1b65e54b7442"
+    },
+    {
+      "date": "2025-12-16T07:16:35.599Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Timm Disney",
+      "text": "Great water reminder",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=832f7f18-d424-4279-a501-c50ac7b935dd"
+    },
+    {
+      "date": "2025-12-15T15:59:31.763Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Utkarsh Srivastawa",
+      "text": "good app and option to customize according to user is best n unique as others apps. helped a lot to stay me hidrated 👍👍",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=fa88ccce-2fd4-4b36-9c3e-6d5d4b2f4e3f"
+    },
+    {
+      "date": "2025-12-15T03:21:11.270Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Bhavesh Desai",
+      "text": "nice app",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=2b5ec459-5970-4ab7-a542-fc66f96ca742"
+    },
+    {
+      "date": "2025-12-12T23:58:27.477Z",
+      "score": 1,
+      "thumbsUp": 7,
+      "user": "April Colavito",
+      "text": "I like the app but the words at the top of the screen where it tells you your total water so far are all printed on top of each other so it's impossible to read. I mean, I can add it up somewhere else but then that defeats the purpose of the app.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=4e5a3f9c-7a0a-4e3d-9645-e524e5d35287"
+    },
+    {
+      "date": "2025-12-12T11:51:32.662Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "elvis ferns",
+      "text": "works better than other apps on playstore",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=28164a9c-a8d4-439d-812c-9266c9a20843"
+    },
+    {
+      "date": "2025-12-12T05:24:52.771Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "MY MASTERSTROKE’S of life!!!!",
+      "text": "great",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=b84d2a76-b6d1-47b6-9b76-cac3e5cbfe0b"
+    },
+    {
+      "date": "2025-12-09T23:53:38.555Z",
+      "score": 4,
+      "thumbsUp": 1,
+      "user": "John Kenneth",
+      "text": "• Great app for tracking hydration—love the simple interface and tips! But on my budget Android (myT6 DTV, Android Go), reminders often delay or miss due to battery optimization/Doze mode killing the background process. This is super common on low-RAM phones. • From now on, I will rate the app 4.5 out of 5 start. Fix this Issue First and I will rate the app the solid 5000000 stars. Thank you very much for creating this genuine app.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=e4916a99-2ec5-4c1f-81a7-8493e6a32c95"
+    },
+    {
+      "date": "2025-12-09T22:28:47.145Z",
+      "score": 5,
+      "thumbsUp": 3,
+      "user": "Patti Weldon",
+      "text": "Very helpful and thankfull",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=90475d7e-e5f3-42ca-a006-6e3787ec28fa"
+    },
+    {
+      "date": "2025-12-09T07:18:50.120Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Salman M",
+      "text": "Great app to remind you to stay Hydrated",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=7ae6eb99-d9f3-48d1-b30c-141e14937765"
+    },
+    {
+      "date": "2025-12-08T09:05:12.718Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "Carl Dean Catabay",
+      "text": "beautiful app, affordable option to remove ads but Zero integration with Health Connect or Samsung Health.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=71049c98-ad42-4293-b8c2-f3809c64e7b9"
+    },
+    {
+      "date": "2025-12-06T15:10:31.663Z",
+      "score": 1,
+      "thumbsUp": 3,
+      "user": "Tee V",
+      "text": "Inappropriate in app adverts! Just shown an advert with half naked women! It is an app to remind you to drink water. A kid could have this on their phone.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=63dfc7f6-faaa-4a33-8ac6-1da5c54483b8"
+    },
+    {
+      "date": "2025-12-02T13:04:50.262Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "sateesh kondapalli",
+      "text": "simple and worthy",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=1b948c68-1946-489e-8323-d14b57e15641"
+    },
+    {
+      "date": "2025-11-29T13:31:33.484Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Rajani Vemula",
+      "text": "super app for diet plan",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=9bf439e5-34a1-4d43-8c11-87d3a59989e6"
+    },
+    {
+      "date": "2025-11-28T04:27:59.132Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Linda Kiplangat",
+      "text": "very nice it help me drink water because i tend to forget so it a life saver",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=d2ac1299-1d7f-44fd-8a4d-19a58b2a1abc"
+    },
+    {
+      "date": "2025-11-21T05:40:51.610Z",
+      "score": 5,
+      "thumbsUp": 2,
+      "user": "Mohammed Hayath",
+      "text": "Really practical compared to all other water reminder apps. Maybe add a overall monthly water intake and performance rating to make users get an idea of their drinking patters over the months.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=dcdff6bb-0729-4b67-aac1-54bc96b0388a"
+    },
+    {
+      "date": "2025-11-20T22:08:34.659Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Peter Fox",
+      "text": "I love this app as it helps me keep hydrated during the day",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=2ea61820-1a6e-484f-87bf-9f7924c910b1"
+    },
+    {
+      "date": "2025-11-14T02:48:15.212Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Susan Gray",
+      "text": "Very good app , has a weight log as well",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=668bee5f-3b05-4a2e-b270-b72de9d7c03f"
+    },
+    {
+      "date": "2025-11-06T07:46:14.495Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Liz Barroga",
+      "text": "Does what it needs to",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=6c555e53-c7f9-411a-8638-4fb724679c4f"
+    },
+    {
+      "date": "2025-10-28T16:52:06.150Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Dee Brown",
+      "text": "keep me posted on the time when I am to have my drink of water.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=0b4a3fed-5570-4339-b861-9cba00882350"
+    },
+    {
+      "date": "2025-10-28T14:08:39.196Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Georgia Ogunyomi",
+      "text": "I love this app. It's easy to use and fuss free.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=6f489105-b09b-42de-8b3c-97103e955ae2"
+    },
+    {
+      "date": "2025-10-25T09:54:36.920Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Jarek Szczepański",
+      "text": "I have been using this app for over 6 years!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=84d1a87b-3dfe-4ce6-82aa-dd2d346a92a4"
+    },
+    {
+      "date": "2025-10-25T00:59:16.205Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "R Q",
+      "text": "I like this app it reminds me to drink water as my doctor wants me to drink 8 glass of water a day I can't manage 8 glass but when this app reminds me every 2 hours I just drink my it's a great app I highly recommend",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=b47db884-1aec-4da6-a4d8-6245a03b7a41"
+    },
+    {
+      "date": "2025-10-22T22:03:27.570Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "Jenna Noble",
+      "text": "The notifications don't always go off and 90% of the time when it did it was either several minutes early or late",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=293df640-ca04-4e22-9584-aff7745befc5"
+    },
+    {
+      "date": "2025-10-22T17:25:49.536Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Hassan Collins",
+      "text": "love this appreciate",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=a20e9878-c346-48a4-b05a-38a07baa4e3c"
+    },
+    {
+      "date": "2025-10-21T17:31:13.190Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Kenneth Cook",
+      "text": "everything I need, nothing extra",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=09d6ba4a-ca54-46e7-8d1d-e47aec768162"
+    },
+    {
+      "date": "2025-10-21T08:39:25.325Z",
+      "score": 3,
+      "thumbsUp": 2,
+      "user": "Zoltán Györkei-Kovács",
+      "text": "It would be great if a proper tile or complication would be available",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=d612b9f4-0bf5-471b-b3c0-728a826db90e"
+    },
+    {
+      "date": "2025-10-18T14:25:27.887Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Digga with Show Ready",
+      "text": "Simple and dependable. I use it every day and it helps me stay hydrated",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=89293e95-e10f-4abe-92fd-2de2f75739b5"
+    },
+    {
+      "date": "2025-10-18T08:22:41.580Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Mohamed Fekry",
+      "text": "useful",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=170344d6-838c-4bd3-b12a-ec3d4c210f5e"
+    },
+    {
+      "date": "2025-10-18T03:04:33.614Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "NOOR-UL-HUDA",
+      "text": "good a working great",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=0b9f08ef-9e31-43e6-b0e7-d26a147ccc74"
+    },
+    {
+      "date": "2025-10-15T11:05:21.397Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Fatter Cat",
+      "text": "intrusive ads",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=028a1d8a-3165-401c-a3a6-f18aede51063"
+    },
+    {
+      "date": "2025-10-15T01:01:45.340Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "Katie Palmer",
+      "text": "can't share the data with any health tracking apps",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=c663b54a-afd1-4026-bed4-0ad41e453b20"
+    },
+    {
+      "date": "2025-10-13T16:03:29.782Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Archana Dash",
+      "text": "nice",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=828b6c1c-6162-450b-93a0-b0ecbe1f9668"
+    },
+    {
+      "date": "2025-10-08T17:52:54.530Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Abdus Salaam",
+      "text": "very good and simple app, not so over complicated..",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=7dd7b406-20cf-47f0-a6f0-4a2047518811"
+    },
+    {
+      "date": "2025-10-06T16:56:31.390Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Beatriz Rivera",
+      "text": "It a great simple app that is easy to keep up with.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=22a5f5e8-dcda-4582-aa7d-da04b2c65232"
+    },
+    {
+      "date": "2025-10-06T03:12:57.906Z",
+      "score": 5,
+      "thumbsUp": 4,
+      "user": "Rene Rosenbaum",
+      "text": "This app is great for helping me keep track of my water drinking!! To show how important it is to drink water continuously. A while back, my doctor told me that my lab work showed that my kidneys were showing signs of shutting down. He wanted me to repeat the lab work in 2 weeks. For that whole time, I drank water following the schedule on this app. When I had the second lab work done, my doctor said my kidneys had improved!! So, DRINK WATER PEOPLE!!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=0f9bd559-0cda-4546-8127-77286e84f10f"
+    },
+    {
+      "date": "2025-10-04T10:25:07.378Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Kamal Kant",
+      "text": "error",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=f5eb7ad7-41ab-460e-a29c-95064123ad3b"
+    },
+    {
+      "date": "2025-10-03T06:30:34.852Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Čhîñägùñťâ Bàbū",
+      "text": "very good app",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=9228439d-abf9-451d-b8fa-646cd5147107"
+    },
+    {
+      "date": "2025-10-01T03:35:48.534Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Lisa Gyzen",
+      "text": "Great little app, it has helped me a lot. When I hear that sound I grab my waterbottle.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=fad5194f-3702-4fd4-a4d0-e644b4db2dda"
+    },
+    {
+      "date": "2025-09-30T07:55:02.188Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Lalit Chandel",
+      "text": "Superb App. 10/10. Would like to recommend it to everyone.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=7da492dc-f4bb-441e-9c02-83d01088232d"
+    },
+    {
+      "date": "2025-09-30T03:09:32.533Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Yolanda L Baker",
+      "text": "great app",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=2996f5f2-42c1-47f8-a25b-6081708896f6"
+    },
+    {
+      "date": "2025-09-28T23:57:20.534Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Alexis Garcia",
+      "text": "I love this app",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=282c7d31-e527-4f47-aad5-a5d8c4f2302c"
+    },
+    {
+      "date": "2025-09-26T04:57:02.982Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Ernest Gyamfi",
+      "text": "very good reminder. This app helps prevent kidney dehydration. Top",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=869fe373-f632-4265-921b-c85a720f79ae"
+    },
+    {
+      "date": "2025-09-23T00:33:16.608Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Jerry Adams",
+      "text": "Love this app used for years.👃",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=4a14257c-456a-40e7-8c72-2749320f6fd8"
+    },
+    {
+      "date": "2025-09-22T12:26:08.136Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Rayesha Khatoon",
+      "text": "Best app for water drink reminder",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=28eea1df-0829-4fb9-b27f-6b4bfe91dc5f"
+    },
+    {
+      "date": "2025-09-19T16:04:16.973Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "TP",
+      "text": "Very good",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=ec8d1e6e-508c-4cfc-9f5b-e696489ce41c"
+    },
+    {
+      "date": "2025-09-18T16:51:22.679Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Gil Metzuyanim",
+      "text": "love this app, thanks 👍🏼",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=672b9822-96fa-4a94-a46e-1df3f3a737e0"
+    },
+    {
+      "date": "2025-09-12T06:02:29.559Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Laurentiu Postolache",
+      "text": "great",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=0e0a0368-1477-4b86-9ea1-7b26733d5287"
+    },
+    {
+      "date": "2025-09-11T15:09:26.520Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Mohammad Taqieddin",
+      "text": "تطبيق مفيد جدا",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=d9b35447-686b-4a85-ae15-65ac7aae5c61"
+    },
+    {
+      "date": "2025-09-08T13:08:07.663Z",
+      "score": 5,
+      "thumbsUp": 2,
+      "user": "ayesha faizuddin",
+      "text": "I am the person...who do t drink much water in daily basis.. After downloading this app ..i feel fulfilled..I really recommend you to download it and enjoy water needs..",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=ebe50548-afc0-4089-aec2-ca886e103788"
+    },
+    {
+      "date": "2025-09-08T07:31:44.103Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Sehercraft Studio",
+      "text": "love it 😍",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=383c9774-89d8-44fd-a6b0-eb1080e376c2"
+    },
+    {
+      "date": "2025-09-06T02:39:15.337Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Peter Deckert",
+      "text": "Great App. I use it everyday to track my fluid intake.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=d1a5613c-4fc2-4a29-bd89-0393a7dfc97a"
+    },
+    {
+      "date": "2025-09-02T01:26:50.128Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "Deb M",
+      "text": "It really helps me remember. I have it remind me every hour, during my conscious hours. You can set it for as often or as little, during whatever hours you want. However, I wish they had a 36oz bottle. I have to change it every time. Ugh! Or, I wish there was a way that you could assign the increment ounces yourself.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=92886edb-d76c-479f-b08a-feed7441acbf"
+    },
+    {
+      "date": "2025-08-29T11:23:32.566Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Peggy Meadows",
+      "text": "Love it",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=8ad10f7c-b0be-4a2b-84e7-a290eb7c73ad"
+    },
+    {
+      "date": "2025-08-27T13:30:02.480Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Shruti Kamble",
+      "text": "best one",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=37e647f6-eaa9-4c95-88bf-372bab23d7f1"
+    },
+    {
+      "date": "2025-08-26T20:32:31.107Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Edward Play",
+      "text": "User Friendly, Flexible Inputs, Good Reminder!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=0e556183-1260-4404-aa44-e34de85022c3"
+    },
+    {
+      "date": "2025-08-24T14:12:26.638Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Metin Eren Çubukçu",
+      "text": "Bana hangi aralıklar ile su içmem gerektiğini söylemiyor. Zaman aralığını siz ayarlıyorsunuz. Gidip ben de 60dk aralıklar ile alarm kurmasını bilirim. Basit bi alarm uygulamasından farkı yok. Rezil uygulama",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=0fb0e410-556c-471f-a9dc-61dff1974d37"
+    },
+    {
+      "date": "2025-08-18T13:22:34.288Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Chungjung",
+      "text": "nice app for reminding daily water intakes",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=dc6a7629-ffb0-4c1c-9750-309c18ff4756"
+    },
+    {
+      "date": "2025-08-14T13:45:15.733Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Viviian Ayuk",
+      "text": "very good and efficient has helped me drinking water frequently",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=053e7799-f884-4327-acdb-6d3f32c815c4"
+    },
+    {
+      "date": "2025-08-13T17:26:48.670Z",
+      "score": 1,
+      "thumbsUp": 3,
+      "user": "Sai Sundar Naik",
+      "text": "ye App pagal ho gaya he. jitana Target he utna Pura nehi hone tak Baar baar bajraha he",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=07ebd5ea-6cd3-46c5-817f-014652728f3f"
+    },
+    {
+      "date": "2025-08-13T10:15:11.148Z",
+      "score": 4,
+      "thumbsUp": 2,
+      "user": "Niki Y",
+      "text": "love the simplicity and ease of use. would love to be able to export my data though, how do I do this? other than that, great app!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=2ee02bfc-7f5b-4ae9-864d-0e8ae21a6edb"
+    },
+    {
+      "date": "2025-08-11T19:37:29.259Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Samkelisiwe Nomagugu Nkwanyana",
+      "text": "easy to use, i like the reminder tone it's awesome",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=3aba4d30-278f-452f-b304-5765825f7501"
+    },
+    {
+      "date": "2025-08-11T09:24:32.734Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Naumaan Rauf",
+      "text": "love it",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=c9c04843-48c6-44f4-8808-b263078eb47a"
+    },
+    {
+      "date": "2025-08-05T18:58:32.364Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Oana Noia",
+      "text": "I love it. it really helps me keep track of my day to day hydration.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=4d051819-3842-4484-8eb8-1a073d250dc6"
+    },
+    {
+      "date": "2025-08-05T18:53:28.325Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Ita Rahmawati",
+      "text": "Free app and user friendly, just rid off the ads for free will be great.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=27e7fca7-77e4-4e50-bddb-6e8eed1d37e8"
+    },
+    {
+      "date": "2025-08-05T16:00:22.419Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Jonathan Rind",
+      "text": "reminder+ log . excellent",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=663930c9-285f-43c5-96cb-c8642e28e82c"
+    },
+    {
+      "date": "2025-08-01T08:01:17.193Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Claire Hurlow",
+      "text": "used to be 5 stars but sync with samsung health disappeared. An essential feature for me, this basically renders the app useless. I've been using the app for years and the feature was brilliant but now its just gone. I'll be looking for another app.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=63839731-2a7a-4f25-8c1f-433be0176f20"
+    },
+    {
+      "date": "2025-07-30T12:55:25.917Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "Kay Reeves",
+      "text": "much too complicated",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=6c04b091-0cf4-4c62-9ef6-4d21fcb5b032"
+    },
+    {
+      "date": "2025-07-23T13:11:53.305Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Lewis Gray",
+      "text": "good",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=ebe994c0-1c5a-4255-9afc-b34cddcf3719"
+    },
+    {
+      "date": "2025-07-21T02:14:45.340Z",
+      "score": 5,
+      "thumbsUp": 229,
+      "user": "Patrick Laprocina",
+      "text": "This app is very user friendly. It is very intuitive and has a short learning curve. Changing water sizes is very quick and easy and shows different shapes. I have added two new ones and removed others. You can check hot Weather or Sports to have the app increase the water target . The weight reporting is great for me, and shows a graph and an Average Weight line. You can also add or edit previous days. You can set vibrate and/or tones for reminders, or none at all.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=be3a0310-2908-414f-952c-bd50214fab4d"
+    },
+    {
+      "date": "2025-07-19T08:46:07.676Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "Vaibhavkumar Shah",
+      "text": "Respected App Developer Your App \"Water Drink Reminder\" is Good But I observed that, in Daily Routine Water Drink Time & Quantity 90 % Same So Can You Make Copy Yesterday's Data Paste To Next Day, Or Can App Automatically ad Sip of Water Drink on Pre-set with Editable Time Reminder Make Customisable Time Setting Due to in any Session, Anybody & Around the world in Takes Low Frequency in Morning @ 09 to 11:30 but after 12 to @ 05:30 Needs High Consumption of Water So It will Most Convenie",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=820a1042-e56b-4a4d-a6f6-debcab4482c9"
+    },
+    {
+      "date": "2025-07-17T12:34:37.919Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Chandrakant Pandey",
+      "text": "good app..it reminds you and works well",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=615d3e4d-f7de-4e13-8f1e-15e418331d95"
+    },
+    {
+      "date": "2025-07-15T13:16:19.180Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Diana Whitney",
+      "text": "keeps me on track",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=56cbb7b1-5fe9-409c-9247-b81f49de72d3"
+    },
+    {
+      "date": "2025-07-14T03:35:48.532Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "soban babu jayaraman",
+      "text": "useful app",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=792a35bd-4d07-4da5-8393-ec8b49b5e98c"
+    },
+    {
+      "date": "2025-07-14T03:34:54.640Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Khaled Husham",
+      "text": "amazing app kept me hydrated very well",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=cd21e4c2-fc29-4007-abcb-81ea8ce37616"
+    },
+    {
+      "date": "2025-07-13T04:42:06.590Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "SANJAY",
+      "text": "Good",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=8b859b98-3795-41f1-a3d7-aca209b0246d"
+    },
+    {
+      "date": "2025-07-11T08:19:26.455Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Ayesha Munir77",
+      "text": "excellent and super super app.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=10f80f67-744c-4470-93e3-7acb9cc8f856"
+    },
+    {
+      "date": "2025-07-09T19:20:19.583Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Priscila Marroquin",
+      "text": "excelente app!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=adb19cb2-5691-41f1-b331-b2e9205d1246"
+    },
+    {
+      "date": "2025-07-07T21:11:07.145Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Alexаnder",
+      "text": "157 cookie vendors and an AD at the bottom",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=abc11036-a515-4a04-8db3-dc04d85bc914"
+    },
+    {
+      "date": "2025-07-07T00:33:57.482Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Denise Toro",
+      "text": "Excelente",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=8fdd64bc-e073-4202-bebe-236e495e3b69"
+    },
+    {
+      "date": "2025-07-06T09:47:38.437Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Beck Barchi",
+      "text": "I like the drink charts, cloud backup, and reliable reminders.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=13e80226-36dc-4812-b52b-0024fc709d79"
+    },
+    {
+      "date": "2025-07-05T20:33:54.495Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Steve G",
+      "text": "BE AWARE - WILL CHARGE YOUR ACCOUNT EVEN IF YOU CANCEL AT END OF FREE TRIAL. Then remove your truthful bad review",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=82505a9b-c3dd-498a-b602-bce16435b128"
+    },
+    {
+      "date": "2025-07-04T13:57:34.167Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Priya Suthar",
+      "text": "Best part about this app is ...it doesn't give too much notifications . which is very annoying...it makes very easy to complete your daily water intake goal .. I will recommend this app to everyone",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=1c1362e6-6aff-4097-b161-0921e5a2999a"
+    },
+    {
+      "date": "2025-07-03T15:16:59.780Z",
+      "score": 2,
+      "thumbsUp": 1,
+      "user": "Casey Heck",
+      "text": "I like the look of it but it's reminders aren't working properly for me. I tried to use the \"don't remind me if I'm ahead\" and it still reminds me every hour. I tried the custom times and it was the same. Then I tried reporting it as a bug and that came back \"failed.\" I really wish someone could help me because I like the app. 😢",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=cb8fbd46-f382-4948-8522-ce0007228b92"
+    },
+    {
+      "date": "2025-07-02T04:20:16.121Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Shashank Dixit",
+      "text": "Best app for water reminder without add or requests of purchase something.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=0688b1a4-1d51-4dae-8e15-be4f181ff912"
+    },
+    {
+      "date": "2025-07-01T18:48:26.589Z",
+      "score": 5,
+      "thumbsUp": 7,
+      "user": "Liane Winters",
+      "text": "I'm so bad at drinking fluids, I happily and easily manage with a 500ml bottle of pop a day and often don't drink all that! This app reminds me to get a drink and by logging it I get competitive with myself and am motivated to drink more frequently. I feel better for it too. Easy to use, not overly or unnecessarily complicated. Not aggressively invasive but adequately reminds me to take the time to fulfil a simple task that helps me to take better care of myself. I like it. I recommend it.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=09361f2e-4a2c-44f9-82be-9d601e19d0be"
+    },
+    {
+      "date": "2025-07-01T12:40:34.729Z",
+      "score": 2,
+      "thumbsUp": 2,
+      "user": "Lynn Marie Gandy",
+      "text": "This app is great but if it can't sync to other apps, it's lost its purpose for me. Please incorporate sync features for Google's Health Connect.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=861a1820-bafc-4cdb-9ab8-7350c7ce8104"
+    },
+    {
+      "date": "2025-06-29T03:53:03.437Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Ron Beaver",
+      "text": "Soooo far, I really like my water reminder. I was referred by a friend, ChatGPT, who said that this app was at the top of the list. I'm glad that I followed his advice. I would highly recommend this app to anyone who is serious about avoiding dehydration. btw, more icons 😉",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=0515f7ba-9fb4-45ad-a812-b318cf9b1d04"
+    },
+    {
+      "date": "2025-06-24T16:26:35.320Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Vishal Trivedi",
+      "text": "Nice app to track your water intake. Keeps backup as well.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=41606fd5-fa61-4a99-93d4-a88a1676b1c8"
+    },
+    {
+      "date": "2025-06-21T15:44:15.503Z",
+      "score": 2,
+      "thumbsUp": 1,
+      "user": "David Lerman",
+      "text": "Why did you kill the feature to sync with Health Connect, Google Fit, and/or Samsung Health? Looks like the app hasn't received any updates since May 2024. Might have to move on...",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=a3877065-ec0b-491d-b0cc-ade2610314d9"
+    },
+    {
+      "date": "2025-06-20T11:46:28.944Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "Alex Viana",
+      "text": "Great app for controling your daily intake of water.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=20b69a15-3e43-432f-a443-50dc7f6c0793"
+    },
+    {
+      "date": "2025-06-18T16:27:36.910Z",
+      "score": 5,
+      "thumbsUp": 15,
+      "user": "Dan B",
+      "text": "This app is really cool. It keeps track of how much water you drink. I drink coffee so it estimates how much water is in that and subtracts from the oz. It is pretty easy to use and I decided to buy the full version to get rid of the ad at the bottom. I don't really use the widgets but I see these being helpful. It can keep progress through google integration or Dropbox or downloading data. Give it a go!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=c4bd71b6-9d99-4ed8-b449-5f6ef4348cad"
+    },
+    {
+      "date": "2025-06-18T15:11:41.973Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "L V.Prasad Reddy",
+      "text": "It reminds you to drink water and I really loved the app",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=37cf370a-c6e9-41da-b8fa-25a5bde7fe94"
+    },
+    {
+      "date": "2025-06-17T16:59:59.290Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Laura S",
+      "text": "It asks to accept cookies from a number of third parties before the user can use the app. There is no \"Reject all\" option. Uninstalled.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=c983314f-374f-4a0a-ab57-65ba4ee87249"
+    },
+    {
+      "date": "2025-06-16T14:50:04.699Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Janay Yancey",
+      "text": "I love this app! It helped me complete my 75 soft challenge by allowing me to set daily goals and notifications to keep me on track.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=ffc2471e-ac5a-40ca-8001-a1b4c5c7df03"
+    },
+    {
+      "date": "2025-06-16T00:37:03.978Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Jyothi",
+      "text": "it's very good",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=8a6798d8-a1e9-4ead-95ac-0da1ccb84f79"
+    },
+    {
+      "date": "2025-06-13T04:11:11.195Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Jacqueline Jones",
+      "text": "easy peasy",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=3d854ea9-6a0e-402e-90b5-6720e40bc48f"
+    },
+    {
+      "date": "2025-06-06T13:16:07.434Z",
+      "score": 5,
+      "thumbsUp": 3,
+      "user": "Ola Smaha 3",
+      "text": "Worth every penny. I love how you can modify the amount for each cup, and how easy and straightforward it is. I love the widgets. I also saw some features requested in other reviews and they added them! You can manually modify your desired total intake despite your weight, you can change the time you drank something if you missed tracking it at the time. It also syncs with my gw6c watch although my phone has to be connected, not the best watch app but still does the trick. Great app!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=a71c7711-6adc-4bbc-82df-286fed75071d"
+    },
+    {
+      "date": "2025-06-06T12:00:23.400Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Lorelai Lewis",
+      "text": "works ans simple to use",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=3b18fe01-2df2-4b81-a1dd-5f67f2e656fc"
+    },
+    {
+      "date": "2025-06-04T12:17:31.368Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Rebeca Torres-Rose",
+      "text": "easy to use and unobtrusive",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=6080626a-a0b5-430f-b83b-16fffebb2971"
+    },
+    {
+      "date": "2025-06-03T14:22:54.773Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Tatiana Munguia",
+      "text": "very good and helpful 👍",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=779e46b8-c0ef-4444-b672-0a15a6a7ca5d"
+    },
+    {
+      "date": "2025-06-03T08:14:07.997Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Aeram Ansari",
+      "text": "nice it is. my skin glows. I health had improve",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=0f0e09f1-c264-4003-bd83-203bb0fd28db"
+    },
+    {
+      "date": "2025-06-02T17:02:31.831Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Ranjeet Kalluzhathil",
+      "text": "Appreciate the app performance, completely satisfied",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=1d24593c-ad4c-444f-92d7-941ee8f86d9c"
+    },
+    {
+      "date": "2025-05-26T23:58:43.177Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "fljanders",
+      "text": "Ads! Ads! Everywhere ads! If you want a water reminder app without ads, grab aquadroid off F-Droid! Ad-free open source apps is the way to go folks!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=ba23d88c-ed20-4ce8-92a0-d1ca3c457df6"
+    },
+    {
+      "date": "2025-05-25T12:55:21.808Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Jennifer Baron",
+      "text": "I love this app. It's super easy to use. I appreciate the different size options to choose from and love the tracker to remind me where I should be by a specific time of time. Keeps me motivated to keep drinking water!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=494823be-dd87-421b-a2ff-2c86024b4387"
+    },
+    {
+      "date": "2025-05-19T11:56:14.467Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Joseph Kernan",
+      "text": "helpful",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=db2ff735-bc41-4233-9494-0bbf61efb326"
+    },
+    {
+      "date": "2025-05-15T14:36:37.585Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Akanksha Parab",
+      "text": "it's very helpful to me ☺️",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=2962b0c7-bf67-462a-b3a9-a92f101b0f7c"
+    },
+    {
+      "date": "2025-05-12T14:45:54.250Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "Kevin T",
+      "text": "I've been using this app for awhile, but I can't figure out how to sync it to Samsung Health (like the description says that it can). Works great except for that - but that's important to me.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=2c3b4f22-d4bf-463f-942d-26e9e8adefa4"
+    },
+    {
+      "date": "2025-05-12T08:37:25.829Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Manuella Lisboa",
+      "text": "I completely forget to drink water. This app helps me start a habit.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=5079ece2-209b-46b4-81e1-db904161ea66"
+    },
+    {
+      "date": "2025-05-09T08:22:36.204Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "A Google user",
+      "text": "I recently had major surgery, and I needed a timer to remind me to drink a glass of water. it's brilliant 👏",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=4226e59f-6ce2-4738-97d9-ada615be2b2d"
+    },
+    {
+      "date": "2025-05-08T12:30:21.841Z",
+      "score": 5,
+      "thumbsUp": 18,
+      "user": "Kathy L",
+      "text": "I really love this app. I installed and deleted a number of drink trackers because they did not work the way I needed them to. This app makes it easy to keep track of how much water I am drinking to help prevent kidney stones. It is easy to customize amounts and it gives me reminders every hour. I like that it tracks not only the amount but also shows me the time I drank, just what I wanted.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=cdce1fec-ff90-41d9-a953-62caae7d7401"
+    },
+    {
+      "date": "2025-05-05T17:59:36.588Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Qasim Bin Hashim",
+      "text": "it's an excellent app for keeping yourself hydrated",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=bb69027e-6185-4d85-9ba6-d533f95c5225"
+    },
+    {
+      "date": "2025-04-28T18:21:47.292Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "K T",
+      "text": "love the APP! .it helps me to remember to drink water.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=814f925d-8f64-4f9c-8b03-a4ab5c72ecd5"
+    },
+    {
+      "date": "2025-04-27T21:08:57.387Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Lark Mathis",
+      "text": "Very helpful as I am always dehydrated.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=68a2fd39-3e02-4d90-affc-116f8a083f9c"
+    },
+    {
+      "date": "2025-04-27T05:20:00.440Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Ali Raza",
+      "text": "App tub Use Full Ho Ge Jub ap Table par Pani Ka Glass Barh kay Rahky Gay 2 Hour Reminder laga kay rahky then Daily Kay 4,,6 Glass Pe Ho jaty Hn zayida Nai Peta then so so zayida ata Hn Jo Distraub karta Focus Ko (key Point Juharabad on Duty 1122)",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=65ed4307-792b-4211-ad2a-5f1b1070257e"
+    },
+    {
+      "date": "2025-04-26T22:25:56.137Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Kathy",
+      "text": "Life Saving. I have used this app since 2016. You can change the time, change the ounces, and use your own reminder and reorganize the order of the various drink icons. I have safely lost 40 pounds over the span of a year. All of this free!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=a994163d-daa6-41d8-b810-fb2c9abf8974"
+    },
+    {
+      "date": "2025-04-26T01:49:55.226Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Diksha singh",
+      "text": "very useful app",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=be5f518a-0d46-49f9-8954-ae8626603326"
+    },
+    {
+      "date": "2025-04-25T11:48:29.440Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Abhi kumar gaur",
+      "text": "good app for water reminder",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&reviewId=0fdca2fa-aacc-45f8-a944-efe79012e0c7"
+    }
+  ]
+}

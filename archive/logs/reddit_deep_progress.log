@@ -1,7 +1,0 @@
-[niche/manifestation] fetching app posts...
-Traceback (most recent call last):
-  File "<stdin>", line 22, in <module>
-  File "C:\Users\demosgod\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1253.py", line 19, in encode
-    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-UnicodeEncodeError: 'charmap' codec can't encode character '\U0001f331' in position 7661: character maps to <undefined>

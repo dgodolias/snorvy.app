@@ -4,6 +4,7 @@ import 'package:snorvy/src/features/history/history_screen.dart';
 import 'package:snorvy/src/features/settings/settings_screen.dart';
 import 'package:snorvy/src/features/tonight/tonight_screen.dart';
 import 'package:snorvy/src/features/unlock/unlock_sheet.dart';
+import 'package:snorvy/src/theme/snorvy_theme.dart';
 
 class SnorvyShell extends StatefulWidget {
   const SnorvyShell({required this.controller, super.key});
@@ -67,31 +68,70 @@ class _SnorvyShellState extends State<SnorvyShell> {
         ];
 
         return Scaffold(
-          body: SafeArea(
-            child: IndexedStack(index: _selectedIndex, children: screens),
+          extendBody: true,
+          body: DecoratedBox(
+            decoration: const BoxDecoration(
+              gradient: RadialGradient(
+                center: Alignment(0, -1.12),
+                radius: 1.05,
+                colors: [
+                  Color(0x3321D8C0),
+                  SnorvyTheme.midnight,
+                  SnorvyTheme.midnight,
+                ],
+                stops: [0, 0.48, 1],
+              ),
+            ),
+            child: SafeArea(
+              bottom: false,
+              child: IndexedStack(index: _selectedIndex, children: screens),
+            ),
           ),
-          bottomNavigationBar: NavigationBar(
-            selectedIndex: _selectedIndex,
-            onDestinationSelected: (index) {
-              setState(() => _selectedIndex = index);
-            },
-            destinations: const [
-              NavigationDestination(
-                icon: Icon(Icons.bedtime_outlined),
-                selectedIcon: Icon(Icons.bedtime),
-                label: 'Tonight',
+          bottomNavigationBar: SafeArea(
+            minimum: const EdgeInsets.fromLTRB(12, 0, 12, 12),
+            child: DecoratedBox(
+              decoration: BoxDecoration(
+                color: SnorvyTheme.midnight2.withValues(alpha: 0.94),
+                borderRadius: BorderRadius.circular(28),
+                border: Border.all(color: SnorvyTheme.midnightBorder),
+                boxShadow: const [
+                  BoxShadow(
+                    color: Color(0x66000000),
+                    blurRadius: 28,
+                    offset: Offset(0, 12),
+                  ),
+                ],
               ),
-              NavigationDestination(
-                icon: Icon(Icons.insights_outlined),
-                selectedIcon: Icon(Icons.insights),
-                label: 'History',
+              child: ClipRRect(
+                borderRadius: BorderRadius.circular(28),
+                child: NavigationBar(
+                  selectedIndex: _selectedIndex,
+                  onDestinationSelected: (index) {
+                    setState(() => _selectedIndex = index);
+                  },
+                  destinations: const [
+                    NavigationDestination(
+                      key: ValueKey('nav-tonight'),
+                      icon: Icon(Icons.bedtime_outlined),
+                      selectedIcon: Icon(Icons.bedtime),
+                      label: 'Tonight',
+                    ),
+                    NavigationDestination(
+                      key: ValueKey('nav-history'),
+                      icon: Icon(Icons.insights_outlined),
+                      selectedIcon: Icon(Icons.insights),
+                      label: 'History',
+                    ),
+                    NavigationDestination(
+                      key: ValueKey('nav-settings'),
+                      icon: Icon(Icons.tune_outlined),
+                      selectedIcon: Icon(Icons.tune),
+                      label: 'Settings',
+                    ),
+                  ],
+                ),
               ),
-              NavigationDestination(
-                icon: Icon(Icons.tune_outlined),
-                selectedIcon: Icon(Icons.tune),
-                label: 'Settings',
-              ),
-            ],
+            ),
           ),
         );
       },

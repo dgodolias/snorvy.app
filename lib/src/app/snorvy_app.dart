@@ -40,6 +40,7 @@ class _SnorvyAppState extends State<SnorvyApp> {
       debugShowCheckedModeBanner: false,
       theme: SnorvyTheme.light(),
       darkTheme: SnorvyTheme.dark(),
+      themeMode: ThemeMode.dark,
       home: SnorvyShell(controller: _controller),
     );
   }

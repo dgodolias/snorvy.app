@@ -31,22 +31,20 @@ class _SettingsScreenState extends State<SettingsScreen> {
   @override
   Widget build(BuildContext context) {
     return ListView(
-      padding: const EdgeInsets.fromLTRB(20, 18, 20, 28),
+      padding: const EdgeInsets.fromLTRB(20, 10, 20, 126),
       children: [
-        Text(
-          'Settings',
-          style: Theme.of(
-            context,
-          ).textTheme.headlineLarge?.copyWith(fontWeight: FontWeight.w900),
-        ),
-        const SizedBox(height: 4),
+        Text('PREFERENCES', style: SnorvyTheme.labelStyle(context)),
+        const SizedBox(height: 6),
+        Text('Settings.', style: SnorvyTheme.displayStyle(context)),
+        const SizedBox(height: 8),
         Text(
           'Privacy and purchase defaults are wired to the product promise.',
           style: Theme.of(context).textTheme.bodyMedium?.copyWith(
             color: Theme.of(context).colorScheme.onSurfaceVariant,
+            height: 1.35,
           ),
         ),
-        const SizedBox(height: 18),
+        const SizedBox(height: 22),
         Card(
           child: Column(
             children: [
@@ -72,7 +70,7 @@ class _SettingsScreenState extends State<SettingsScreen> {
               const Divider(height: 1),
               ListTile(
                 enabled: !widget.isBusy,
-                leading: const Icon(Icons.delete_outline),
+                leading: const Icon(Icons.delete_forever_outlined),
                 title: const Text('Delete local sleep data'),
                 subtitle: const Text(
                   'Remove history and recordings from this phone.',
@@ -102,9 +100,21 @@ class _SettingsScreenState extends State<SettingsScreen> {
           ),
         ),
         const SizedBox(height: 14),
-        Card(
+        DecoratedBox(
+          decoration: BoxDecoration(
+            borderRadius: BorderRadius.circular(22),
+            gradient: LinearGradient(
+              begin: Alignment.topLeft,
+              end: Alignment.bottomRight,
+              colors: [
+                SnorvyTheme.neuralMint.withValues(alpha: 0.16),
+                Theme.of(context).colorScheme.surfaceContainerLow,
+              ],
+            ),
+            border: Border.all(color: SnorvyTheme.midnightBorder),
+          ),
           child: Padding(
-            padding: const EdgeInsets.all(16),
+            padding: const EdgeInsets.all(20),
             child: Column(
               crossAxisAlignment: CrossAxisAlignment.start,
               children: [
@@ -114,12 +124,12 @@ class _SettingsScreenState extends State<SettingsScreen> {
                       width: 40,
                       height: 40,
                       decoration: BoxDecoration(
-                        color: SnorvyTheme.mint,
-                        borderRadius: BorderRadius.circular(8),
+                        color: SnorvyTheme.neuralMint,
+                        borderRadius: BorderRadius.circular(12),
                       ),
                       child: const Icon(
                         Icons.workspace_premium,
-                        color: SnorvyTheme.moss,
+                        color: SnorvyTheme.midnight,
                       ),
                     ),
                     const SizedBox(width: 12),
@@ -132,10 +142,16 @@ class _SettingsScreenState extends State<SettingsScreen> {
                                 ? 'Lifetime unlock active'
                                 : 'Free: ${widget.recordingsThisMonth}/7 nights used',
                             style: Theme.of(context).textTheme.titleMedium
-                                ?.copyWith(fontWeight: FontWeight.w800),
+                                ?.copyWith(fontWeight: FontWeight.w700),
                           ),
                           Text(
                             '${widget.unlockState.priceLabel} once unlocks everything.',
+                            style: Theme.of(context).textTheme.bodySmall
+                                ?.copyWith(
+                                  color: Theme.of(
+                                    context,
+                                  ).colorScheme.onSurfaceVariant,
+                                ),
                           ),
                         ],
                       ),
@@ -144,6 +160,11 @@ class _SettingsScreenState extends State<SettingsScreen> {
                 ),
                 const SizedBox(height: 14),
                 FilledButton.icon(
+                  style: FilledButton.styleFrom(
+                    minimumSize: const Size.fromHeight(52),
+                    backgroundColor: Theme.of(context).colorScheme.onSurface,
+                    foregroundColor: SnorvyTheme.midnight,
+                  ),
                   onPressed: widget.unlockState.isUnlocked
                       ? null
                       : widget.onUnlockTap,
@@ -160,6 +181,10 @@ class _SettingsScreenState extends State<SettingsScreen> {
         ),
         const SizedBox(height: 14),
         OutlinedButton.icon(
+          style: OutlinedButton.styleFrom(
+            minimumSize: const Size.fromHeight(52),
+            foregroundColor: SnorvyTheme.neuralMint,
+          ),
           onPressed: widget.isBusy ? null : () => _showManualLogSheet(context),
           icon: const Icon(Icons.edit_calendar),
           label: const Text('Add manual sleep log'),

@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:snorvy/src/services/unlock_repository.dart';
+import 'package:snorvy/src/theme/snorvy_theme.dart';
 
 void showSnorvyUnlockSheet(
   BuildContext context, {
@@ -10,6 +11,7 @@ void showSnorvyUnlockSheet(
   showModalBottomSheet<void>(
     context: context,
     showDragHandle: true,
+    backgroundColor: Theme.of(context).colorScheme.surface,
     builder: (context) =>
         _UnlockSheet(state: state, onUnlock: onUnlock, onRestore: onRestore),
   );
@@ -35,25 +37,23 @@ class _UnlockSheet extends StatelessWidget {
           mainAxisSize: MainAxisSize.min,
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
-            Text(
-              'Snorvy',
-              style: Theme.of(
-                context,
-              ).textTheme.headlineSmall?.copyWith(fontWeight: FontWeight.w900),
-            ),
-            const SizedBox(height: 10),
-            Text(
-              'Free: 7 nights/month',
-              style: Theme.of(context).textTheme.titleMedium,
-            ),
+            Text('LIFETIME', style: SnorvyTheme.labelStyle(context)),
+            const SizedBox(height: 6),
+            Text('Snorvy.', style: SnorvyTheme.displayStyle(context, size: 42)),
+            const SizedBox(height: 12),
             Text(
               '${state.priceLabel} once: everything forever',
               style: Theme.of(
                 context,
-              ).textTheme.titleMedium?.copyWith(fontWeight: FontWeight.w900),
+              ).textTheme.titleMedium?.copyWith(fontWeight: FontWeight.w700),
             ),
             const SizedBox(height: 18),
             FilledButton.icon(
+              style: FilledButton.styleFrom(
+                minimumSize: const Size.fromHeight(54),
+                backgroundColor: Theme.of(context).colorScheme.onSurface,
+                foregroundColor: SnorvyTheme.midnight,
+              ),
               onPressed: state.isUnlocked || state.isPending
                   ? null
                   : () async {

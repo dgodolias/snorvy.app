@@ -22,8 +22,8 @@ extension SleepEventKindPresentation on SleepEventKind {
 
   Color get accent {
     return switch (this) {
-      SleepEventKind.snore => SnorvyTheme.coral,
-      SleepEventKind.talk => SnorvyTheme.moss,
+      SleepEventKind.snore => SnorvyTheme.neuralMint,
+      SleepEventKind.talk => SnorvyTheme.talkAmber,
       SleepEventKind.noise => SnorvyTheme.amber,
     };
   }

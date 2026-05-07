@@ -134,7 +134,26 @@ def exercise_mobile_flow(
     screenshots.append(capture(page, viewport_dir, "02-recording-active", failures))
     page.wait_for_timeout(500)
 
-    page.touchscreen.tap(118, 216)
+    try:
+        stop_button = page.get_by_role(
+            "button",
+            name=re.compile("Stop recording", re.IGNORECASE),
+        )
+        stop_button.first.focus(timeout=1800)
+        page.keyboard.press("Enter")
+    except Exception:
+        click_text(page, "Stop recording")
+    page.wait_for_timeout(500)
+    for y in (300, 318, 282):
+        if text_visible(page, "Start local recording"):
+            break
+        page.mouse.click(viewport.width / 2, y)
+        page.wait_for_timeout(300)
+        if text_visible(page, "Start local recording"):
+            break
+        page.touchscreen.tap(viewport.width / 2, y)
+        page.wait_for_timeout(300)
+    wait_for_text(page, "Start local recording", timeout=10000)
     page.wait_for_timeout(1000)
     page.mouse.wheel(0, 320)
     page.wait_for_timeout(300)
@@ -197,6 +216,13 @@ def wait_for_text(page, text: str, timeout: int = 8000) -> None:
         )
     except Exception as exc:
         raise AssertionError(f'Expected visible text "{text}"') from exc
+
+
+def text_visible(page, text: str) -> bool:
+    try:
+        return page.get_by_text(text, exact=False).first.is_visible(timeout=500)
+    except Exception:
+        return False
 
 
 def click_label(page, label: str, timeout: int = 1200) -> bool:

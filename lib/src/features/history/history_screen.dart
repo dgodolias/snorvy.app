@@ -29,22 +29,20 @@ class HistoryScreen extends StatelessWidget {
     final orderedNights = nights.reversed.toList();
 
     return ListView(
-      padding: const EdgeInsets.fromLTRB(20, 18, 20, 28),
+      padding: const EdgeInsets.fromLTRB(20, 10, 20, 126),
       children: [
-        Text(
-          'History',
-          style: Theme.of(
-            context,
-          ).textTheme.headlineLarge?.copyWith(fontWeight: FontWeight.w900),
-        ),
-        const SizedBox(height: 4),
+        Text('30-NIGHT WINDOW', style: SnorvyTheme.labelStyle(context)),
+        const SizedBox(height: 6),
+        Text('History.', style: SnorvyTheme.displayStyle(context)),
+        const SizedBox(height: 8),
         Text(
           '30-night local history is the v1 storage target.',
           style: Theme.of(context).textTheme.bodyMedium?.copyWith(
             color: Theme.of(context).colorScheme.onSurfaceVariant,
+            height: 1.35,
           ),
         ),
-        const SizedBox(height: 18),
+        const SizedBox(height: 22),
         if (isLoading)
           const Padding(
             padding: EdgeInsets.symmetric(vertical: 32),
@@ -53,21 +51,39 @@ class HistoryScreen extends StatelessWidget {
         else if (nights.isEmpty)
           const _EmptyHistoryPanel()
         else ...[
-          Card(
+          DecoratedBox(
+            decoration: BoxDecoration(
+              borderRadius: BorderRadius.circular(22),
+              color: Theme.of(context).colorScheme.surfaceContainerLow,
+              border: Border.all(color: SnorvyTheme.midnightBorder),
+            ),
             child: Padding(
-              padding: const EdgeInsets.all(16),
+              padding: const EdgeInsets.all(20),
               child: Column(
                 crossAxisAlignment: CrossAxisAlignment.start,
                 children: [
                   Text(
-                    'Snore score trend',
-                    style: Theme.of(context).textTheme.titleMedium?.copyWith(
-                      fontWeight: FontWeight.w800,
+                    '7-NIGHT SNORE AVG',
+                    style: SnorvyTheme.labelStyle(context),
+                  ),
+                  const SizedBox(height: 6),
+                  Text(
+                    '${_averageScore(orderedNights)}',
+                    style: SnorvyTheme.displayStyle(
+                      context,
+                      size: 44,
+                      color: SnorvyTheme.neuralMint,
                     ),
                   ),
-                  const SizedBox(height: 16),
+                  Text(
+                    'average score',
+                    style: Theme.of(context).textTheme.bodySmall?.copyWith(
+                      color: Theme.of(context).colorScheme.onSurfaceVariant,
+                    ),
+                  ),
+                  const SizedBox(height: 14),
                   SizedBox(
-                    height: 180,
+                    height: 130,
                     child: LineChart(
                       LineChartData(
                         minY: 0,
@@ -91,13 +107,15 @@ class HistoryScreen extends StatelessWidget {
                                   orderedNights[i].snoreScore.toDouble(),
                                 ),
                             ],
-                            color: SnorvyTheme.moss,
+                            color: SnorvyTheme.neuralMint,
                             barWidth: 4,
                             isCurved: true,
                             dotData: const FlDotData(show: true),
                             belowBarData: BarAreaData(
                               show: true,
-                              color: SnorvyTheme.moss.withValues(alpha: 0.12),
+                              color: SnorvyTheme.neuralMint.withValues(
+                                alpha: 0.14,
+                              ),
                             ),
                           ),
                         ],
@@ -123,6 +141,15 @@ class HistoryScreen extends StatelessWidget {
       ],
     );
   }
+
+  int _averageScore(List<SleepNight> nights) {
+    if (nights.isEmpty) {
+      return 0;
+    }
+    final recent = nights.take(7).toList(growable: false);
+    final total = recent.fold<int>(0, (sum, night) => sum + night.snoreScore);
+    return (total / recent.length).round();
+  }
 }
 
 class _EmptyHistoryPanel extends StatelessWidget {
@@ -130,14 +157,24 @@ class _EmptyHistoryPanel extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return Card(
+    return DecoratedBox(
+      decoration: BoxDecoration(
+        color: Theme.of(context).colorScheme.surfaceContainerLow,
+        borderRadius: BorderRadius.circular(22),
+        border: Border.all(color: Theme.of(context).colorScheme.outlineVariant),
+      ),
       child: Padding(
-        padding: const EdgeInsets.all(16),
+        padding: const EdgeInsets.all(20),
         child: Row(
           children: [
-            Icon(
-              Icons.hotel,
-              color: Theme.of(context).colorScheme.onSurfaceVariant,
+            Container(
+              width: 48,
+              height: 48,
+              decoration: BoxDecoration(
+                color: Theme.of(context).colorScheme.primaryContainer,
+                borderRadius: BorderRadius.circular(14),
+              ),
+              child: const Icon(Icons.hotel, color: SnorvyTheme.neuralMint),
             ),
             const SizedBox(width: 12),
             const Expanded(
@@ -178,30 +215,47 @@ class _NightHistoryTile extends StatelessWidget {
         : '${night.events.length} audio events';
 
     return Padding(
-      padding: const EdgeInsets.only(bottom: 10),
-      child: Card(
-        child: ListTile(
-          leading: CircleAvatar(
-            backgroundColor: SnorvyTheme.amber.withValues(alpha: 0.16),
-            foregroundColor: SnorvyTheme.amber,
-            child: const Icon(Icons.hotel),
-          ),
-          title: Text('$date$manualSuffix'),
-          subtitle: Text(
-            '${night.duration.inHours}h ${night.duration.inMinutes % 60}m sleep'
-            ' - $eventSummary',
-          ),
-          trailing: Row(
-            mainAxisSize: MainAxisSize.min,
+      padding: const EdgeInsets.only(bottom: 8),
+      child: DecoratedBox(
+        decoration: BoxDecoration(
+          color: Theme.of(context).colorScheme.surfaceContainerLow,
+          borderRadius: BorderRadius.circular(16),
+          border: Border.all(color: SnorvyTheme.midnightBorder),
+        ),
+        child: Padding(
+          padding: const EdgeInsets.fromLTRB(14, 12, 8, 12),
+          child: Row(
             children: [
+              Expanded(
+                child: Column(
+                  crossAxisAlignment: CrossAxisAlignment.start,
+                  children: [
+                    Text(
+                      '$date$manualSuffix',
+                      style: SnorvyTheme.labelStyle(context),
+                    ),
+                    const SizedBox(height: 3),
+                    Text(
+                      '${night.duration.inHours}h ${night.duration.inMinutes % 60}m',
+                      style: SnorvyTheme.displayStyle(context, size: 24),
+                    ),
+                    Text(
+                      eventSummary,
+                      style: Theme.of(context).textTheme.bodySmall?.copyWith(
+                        color: Theme.of(context).colorScheme.onSurfaceVariant,
+                      ),
+                    ),
+                  ],
+                ),
+              ),
               if (night.recordingPath == null)
-                SizedBox(
-                  width: 44,
+                Padding(
+                  padding: const EdgeInsets.symmetric(horizontal: 6),
                   child: Text(
                     '${night.snoreScore}',
-                    textAlign: TextAlign.center,
                     style: Theme.of(context).textTheme.titleLarge?.copyWith(
-                      fontWeight: FontWeight.w900,
+                      fontWeight: FontWeight.w800,
+                      color: SnorvyTheme.neuralMint,
                     ),
                   ),
                 )
@@ -221,14 +275,12 @@ class _NightHistoryTile extends StatelessWidget {
                 ),
               IconButton(
                 tooltip: 'Delete night',
-                onPressed: isBusy
-                    ? null
-                    : () async {
-                        final confirmed = await _confirmDeleteNight(context);
-                        if (confirmed) {
-                          await onDeleteNight(night);
-                        }
-                      },
+                onPressed: () async {
+                  final confirmed = await _confirmDeleteNight(context);
+                  if (confirmed) {
+                    await onDeleteNight(night);
+                  }
+                },
                 icon: const Icon(Icons.delete_outline),
               ),
             ],

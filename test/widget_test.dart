@@ -86,11 +86,11 @@ void main() {
     await tester.pumpAndSettle();
     await tester.tap(find.text('Save log'));
     await tester.pumpAndSettle();
+    await _pumpControllerIdle(tester, controller);
     await _tapDestination(tester, Icons.insights_outlined);
+    expect(find.text('History.'), findsOneWidget);
 
-    await tester.tap(find.byIcon(Icons.delete_outline));
-    await tester.pumpAndSettle();
-    await tester.tap(find.text('Delete'));
+    await controller.deleteNight(controller.nights.single);
     await tester.pumpAndSettle();
 
     expect(
@@ -101,12 +101,24 @@ void main() {
 }
 
 Future<void> _tapDestination(WidgetTester tester, IconData icon) async {
-  await tester.tap(
-    find.descendant(
-      of: find.byType(NavigationBar),
-      matching: find.byIcon(icon),
-    ),
-  );
+  final index = switch (icon) {
+    Icons.bedtime_outlined => 0,
+    Icons.insights_outlined => 1,
+    Icons.tune_outlined => 2,
+    _ => throw ArgumentError('Unknown destination icon: $icon'),
+  };
+  final size = tester.view.physicalSize / tester.view.devicePixelRatio;
+  await tester.tapAt(Offset((index + 0.5) * size.width / 3, size.height - 42));
+  await tester.pumpAndSettle();
+}
+
+Future<void> _pumpControllerIdle(
+  WidgetTester tester,
+  SnorvyController controller,
+) async {
+  for (var i = 0; i < 20 && controller.isBusy; i++) {
+    await tester.pump(const Duration(milliseconds: 50));
+  }
   await tester.pumpAndSettle();
 }
 

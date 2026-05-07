@@ -783,12 +783,29 @@ Loop Phase D Tick 1 drilled 8 EU competitors at 500-review depth + iOS cross-che
 ### Direction 4 sequencing strategy (REVISED v9 LOOP — launch order swapped to NL→DE→PL)
 
 **Old order (pre-loop)**: DE → PL → NL → CZ
-**New order (post-loop Tick 1)**: **NL → DE → PL** (by vulnerability + opening)
+**New order (post-loop Tick 1)**: **DE → NL → PL** (DE-first per agent comprehensive analysis)
 
 Rationale:
-1. **NL FIRST**: Invoice Fly 0% reply + Bookipi NL English-only + anti-foreign quote = solo Greek dev positioned as European fellow-citizen wins easily. Smallest TAM (1.5M ZZP) but easiest entry.
-2. **DE SECOND**: sevDesk uniformly broken (iOS+Android) + active Abo-Falle price-hike rage + Lexware free tier doesn't cover Kleinunternehmer §19 cohort. 3.5M Kleinunternehmer TAM.
-3. **PL THIRD (delayed/repositioned)**: Fakturownia owns KSeF-native space; Faktura Proste vulnerable but pre-Apr 2026 window narrowing. Better to ENTER after Apr 2026 with "post-KSeF Tofu alternative" positioning vs trying to win the migration wave directly.
+1. **DE FIRST** (BIGGEST + most vulnerable):
+   - **3.5M Kleinunternehmer §19 TAM** (largest among EU options)
+   - **sevDesk dual-platform broken**: 78.6% Android + 78% iOS = uniform vulnerability
+   - **Lexware Office has NO in-app IAP** — entire €10-30/mo mid-market mobile IAP gap unfilled in DE
+   - Active 2025 Abo-Falle price-hike rage: *"kosten für Buchhaltung 2025 um 440 Euro gestiegen"*
+   - Permanent legal wedge (§19 + GoBD-compliant local archive, no certification needed)
+   - 1 German freelancer advisor on Upwork (€200-400) de-risks localization
+
+2. **NL SECOND** (easiest entry, smaller TAM):
+   - Invoice Fly NL **0% reply rate** (0/56) — fully abandoned support
+   - Anti-foreign sentiment quote validates "European dev wins" thesis
+   - Bookipi NL is template-only English (also exploitable)
+   - Smaller TAM (1.5M ZZP) but FASTEST organic traction
+   - KOR €20k threshold + specific text "factuur vrijgesteld van OB o.g.v. artikel 25 Wet OB"
+
+3. **PL THIRD** (delayed entry, KSeF reshuffle):
+   - **Fakturownia already KSeF-native** — defensive moat
+   - Faktura Proste vulnerable (26.8% reply, €430 ceiling) BUT KSeF Apr 2026 deadline window narrowing
+   - **Strategy pivot**: enter PL AFTER Apr 2026 with "post-KSeF Tofu alternative" positioning rather than trying to win the migration wave directly (Fakturownia owns that space)
+   - 3M JDG TAM still attractive but harder execution
 
 ### Direction 4 sequencing strategy (REVISED v9 with PL data)
 

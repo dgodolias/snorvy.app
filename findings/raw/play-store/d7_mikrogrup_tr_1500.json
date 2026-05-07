@@ -1,0 +1,28 @@
+{
+  "app": "com.earsivfatura.app",
+  "country": "tr",
+  "total_pulled": 2,
+  "total_after_filter": 2,
+  "reviews": [
+    {
+      "date": "2023-10-14T14:22:05.530Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Mehmet kara",
+      "text": "Mükemmel bir uygulama. Geliştirenlerin emeklerine sağlık.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=2f149a02-724f-4fcd-a7b2-f757c49c5d73"
+    },
+    {
+      "date": "2020-03-18T16:46:37.382Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "A Google user",
+      "text": "Gayet başarılı, emeğinize sağlık, mal veya hizmet kısmına eklenen kalemlerin, miktar ve fiyat bilgisini istemeden kaydetmesi gerekecek, çünkü aynı mal farklı müşteri ve farklı adetler olabilmeli, müşteri mail adresi kaydedilmeli,",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=048933f4-c99f-48ab-995b-dfcc74253349"
+    }
+  ]
+}

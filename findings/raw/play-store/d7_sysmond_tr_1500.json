@@ -1,0 +1,68 @@
+{
+  "app": "io.earsiv.sysmond",
+  "country": "tr",
+  "total_pulled": 6,
+  "total_after_filter": 6,
+  "reviews": [
+    {
+      "date": "2026-01-23T05:24:13.206Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "orkun Xan",
+      "text": "Bildirimlerde herhangi bir bildirime tıkladıktan sonra yüklüyor simgesi çıkıyor ve uygulama kitleniyor. kapat aç yapmadan düzelmiyor. hatayı bildirmek için yazıyorum.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.earsiv.sysmond&reviewId=5e7ba97d-d4e2-4183-b77b-15883f5c1625"
+    },
+    {
+      "date": "2024-09-21T13:30:19.561Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Nihat Köroğlu",
+      "text": "Sooo simple to use",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.earsiv.sysmond&reviewId=41c8b79d-d60b-41d3-aa09-595ac8ebd98e"
+    },
+    {
+      "date": "2024-03-14T18:23:54.684Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "ALİ KALEM",
+      "text": "uygulama reklam görmemek için satın alma ekranına geliyorum kredi kartı giriş ekranına gelice hata veriyor",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.earsiv.sysmond&reviewId=b3f42575-94a0-4613-b168-08fe19d26110"
+    },
+    {
+      "date": "2022-10-15T16:55:41.510Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "Muhammed Mercan",
+      "text": "Belli bir tarihten önceki faturaları önizleme yapamıyor. En azından bu belirtilse iyi olur. Anlayana göre bayağı uğraştım çünkü",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.earsiv.sysmond&reviewId=7a9d040b-b7f6-4f32-8734-1b62872df72d"
+    },
+    {
+      "date": "2022-08-16T11:39:14.900Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Kagan Minare",
+      "text": "Harika bir uygulama.",
+      "reply": "Tercihiniz ve yorumunuz için teşekkür ederiz",
+      "replyDate": "2022-08-16T12:17:13.194Z",
+      "url": "https://play.google.com/store/apps/details?id=io.earsiv.sysmond&reviewId=1cc64cd2-e8b0-4340-80c8-1e4a8d31ccf2"
+    },
+    {
+      "date": "2022-06-20T11:31:15.391Z",
+      "score": 1,
+      "thumbsUp": 2,
+      "user": "Muhammed SONER",
+      "text": "Böyle bir uygulamada uygunsuz reklamlara maruz kalmak gerçekten rahatsız edici...",
+      "reply": "Puanınızı tekrar değerlendirseniz çok seviniriz, iyi günler dileriz.",
+      "replyDate": "2022-09-13T10:47:39.683Z",
+      "url": "https://play.google.com/store/apps/details?id=io.earsiv.sysmond&reviewId=a06ee8a1-95ac-4c9d-a212-72b3edc3eab2"
+    }
+  ]
+}

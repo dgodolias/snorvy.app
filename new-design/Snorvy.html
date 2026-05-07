@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width,initial-scale=1"/>
+  <title>Snorvy</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Geist:wght@400;500;600;700&family=Geist+Mono:wght@400;500&family=Instrument+Serif:ital@0;1&display=swap" rel="stylesheet">
+  <style>
+    html, body { margin: 0; padding: 0; height: 100%; background: #0A0D17; }
+    body {
+      font-family: "Geist", -apple-system, system-ui, sans-serif;
+      -webkit-font-smoothing: antialiased;
+      -moz-osx-font-smoothing: grayscale;
+      display: flex; align-items: center; justify-content: center;
+      min-height: 100vh;
+    }
+    #root { width: 100%; min-height: 100vh; display: flex; align-items: center; justify-content: center; }
+    @keyframes snorvy-pulse {
+      0%, 100% { opacity: 1; transform: scale(1); }
+      50% { opacity: 0.6; transform: scale(1.4); }
+    }
+    /* hide scrollbars inside phone */
+    .no-scroll::-webkit-scrollbar { display: none; }
+  </style>
+  <script src="https://unpkg.com/react@18.3.1/umd/react.development.js" integrity="sha384-hD6/rw4ppMLGNu3tX5cjIb+uRZ7UkRJ6BPkLpg4hAu/6onKUg4lLsHAs9EBPT82L" crossorigin="anonymous"></script>
+  <script src="https://unpkg.com/react-dom@18.3.1/umd/react-dom.development.js" integrity="sha384-u6aeetuaXnQ38mYT8rp6sbXaQe3NL9t+IBXmnYxwkUI2Hw4bsp2Wvmx4yRQF1uAm" crossorigin="anonymous"></script>
+  <script src="https://unpkg.com/@babel/standalone@7.29.0/babel.min.js" integrity="sha384-m08KidiNqLdpJqLq95G/LEi8Qvjl/xUYll3QILypMoQ65QorJ9Lvtp2RXYGBFj1y" crossorigin="anonymous"></script>
+</head>
+<body style="font-family: -apple-system">
+  <div id="root"></div>
+
+  <script type="text/babel" src="ios-frame.jsx"></script>
+  <script type="text/babel" src="tweaks-panel.jsx"></script>
+  <script type="text/babel" src="snorvy-app.jsx"></script>
+  <script type="text/babel" src="snorvy-tweaks.jsx"></script>
+
+  <script type="text/babel">
+    const { useState } = React;
+
+    function Root() {
+      const [tweaks, setTweak] = useTweaks(SNORVY_DEFAULTS);
+      const T = (tweaks.theme === 'midnight');
+      const bg = T ? '#0A0D17' : '#F4F1EA';
+
+      // size: scale to viewport
+      const W = 402, H = 874;
+
+      return (
+        <div style={{
+          width: '100vw', minHeight: '100vh',
+          background: T
+            ? 'radial-gradient(ellipse at top, #131930, #07091A 60%)'
+            : 'radial-gradient(ellipse at top, #FAF6EC, #E8E2D2 70%)',
+          display: 'flex', alignItems: 'center', justifyContent: 'center',
+          padding: 24, boxSizing: 'border-box',
+        }}>
+          {tweaks.showFrame ? (
+            <IOSDevice width={W} height={H} dark={T}>
+              <SnorvyApp tweaks={tweaks}/>
+            </IOSDevice>
+          ) : (
+            <div style={{
+              width: W, height: H, borderRadius: 32, overflow: 'hidden',
+              boxShadow: '0 30px 60px rgba(0,0,0,0.25)',
+              background: bg,
+            }}>
+              <SnorvyApp tweaks={tweaks}/>
+            </div>
+          )}
+          <SnorvyTweaks tweaks={tweaks} setTweak={setTweak}/>
+        </div>
+      );
+    }
+
+    ReactDOM.createRoot(document.getElementById('root')).render(<Root/>);
+  </script>
+</body>
+</html>

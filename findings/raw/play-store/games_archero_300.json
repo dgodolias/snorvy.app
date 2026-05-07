@@ -1,0 +1,3008 @@
+{
+  "app": "com.habby.archero",
+  "country": "us",
+  "total_pulled": 300,
+  "total_after_filter": 300,
+  "reviews": [
+    {
+      "date": "2026-05-05T06:11:10.947Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Morgan",
+      "text": "really good game",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=5e745ac2-edc0-4793-90e9-2a7e0d14dbcd"
+    },
+    {
+      "date": "2026-05-03T21:28:00.665Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "L Og",
+      "text": "good",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=9ccc6dd2-e6b7-4776-8daa-23dc5ad0cb52"
+    },
+    {
+      "date": "2026-05-03T17:50:18.658Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "Adam Jaszczurowski",
+      "text": "Odd bugs in tbe game and when I report it, I need to send a video, cannot attach it to email (size) and when I upload it to a service and send the link...they dont know how to open it, and I quote: \"We apologize that we cannot open this link. Thank you for your understanding. Thank you for supporting Archero! Archero Support team\"",
+      "reply": "We apologize for the issues with video size and link access. To help us resolve this, please trim the video to the relevant bug footage or compress it before resending it to our email. We look forward to your update. Thank you for your patience and cooperation!",
+      "replyDate": "2026-05-05T09:06:01.830Z",
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=11b6fdd5-8052-4830-98a5-23f18418224c"
+    },
+    {
+      "date": "2026-05-03T01:55:08.753Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "Timothy",
+      "text": "good game overall a bit slow paced tho",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=e5f2f1a7-56b0-4d08-820e-3b338bb052c8"
+    },
+    {
+      "date": "2026-05-02T09:07:56.117Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "Mersh Gang",
+      "text": "this used to be a 5 star game but theres like 300 battle passes ive never seen a game become so pay to win theres literally way to much going spent like 30 minutes just going through everything you guys have so many battle passes and stuff it makes the home screen lag now yall killed an amazing game because yall got greedy 🤦‍♂️🤦‍♂️🤦‍♂️",
+      "reply": "Purchasing in the game is not the only way to strengthen yourself.\nYou can acquire resources by completing daily missions and activities, or by collecting chapter chests after your clearance.\nWe will also continuously improve the game, striving to enhance the Archer experience. Thank you very much for your opinions and suggestions",
+      "replyDate": "2026-05-03T10:03:50.200Z",
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=2d9de870-40a7-41d2-8bc2-c8df735269d8"
+    },
+    {
+      "date": "2026-05-01T16:05:48.310Z",
+      "score": 1,
+      "thumbsUp": 86,
+      "user": "Flávio Rodrigues",
+      "text": "O suporte é péssimo. Mudei a conta do Android para o iOS mas a conta fica desconectando e eles não fazem nada para ajudar",
+      "reply": "For assistance with transferring your game data between iOS to Android, please reach out to us through Archero@habby.fun.",
+      "replyDate": "2026-05-02T06:48:04.914Z",
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=20d13a17-be54-44a1-8bcd-ebdd16f2154e"
+    },
+    {
+      "date": "2026-05-01T02:26:58.638Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Harith Masri",
+      "text": "for the new user DONT TURN ON SUBSCRIPTION...at first it's free trial THEN FOR THE NEXT SECOND IT AUTO DEBIT FROM and take your money away...and if this continues I would report to the authority...for making me pay without knowledge....",
+      "reply": "We have indicated on the subscription page that the Value Sub trial lasts 3 days, after which it automatically renews. You can cancel for free before the trial ends. If you need further assistance, please contact us at archero@habby.fun.",
+      "replyDate": "2026-05-01T05:55:14.364Z",
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=60a8f4be-3b3b-4eaa-bee9-94788f58dd35"
+    },
+    {
+      "date": "2026-04-30T16:13:09.253Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "James Perkinson",
+      "text": "Challenging and fun to play",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=e6b45056-69f9-4dc9-8742-4ab8cac808e8"
+    },
+    {
+      "date": "2026-04-29T03:24:21.510Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "John George",
+      "text": "fun game I've been playing the Doom version and the tomb raider version which actually copies of this game. fun game",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=22ae1fee-ce70-43a9-9fc4-5dc12859c8a0"
+    },
+    {
+      "date": "2026-04-29T01:38:18.684Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Ja'Shard Thomas",
+      "text": "love it",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=32c7698e-b501-4602-a6a8-63e623f26648"
+    },
+    {
+      "date": "2026-04-27T02:25:58.671Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Balaji A N",
+      "text": "interesting game. High quality visuals",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=06947ea5-97cd-46ff-97c5-bdb6ebd1df09"
+    },
+    {
+      "date": "2026-04-26T16:19:35.139Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Pravin",
+      "text": "game mechanics is good and is simple to play. however the difficulty level has to be scaled properly as some levels need a ridiculus amount of grinding and the energy system is a joke. also i would suggest giving us the option to sell the gear which we r not using edit: have reduced a star cause the enemies also seem to scale up during the same play through as u get stronger. this would normally be fine but they seem to scale up in regards to how much of damage u can do edit:have deleted the gam",
+      "reply": "Our team is dedicated to enhancing your gaming experience by continually adding more challenges and features.\nDo consider enhancing the heroes, equipment, talents, runes, and more to make progressing through the current stage more manageable.\nWe appreciate your precious feedback and ongoing support in making our game more enjoyable.",
+      "replyDate": "2026-04-27T07:38:33.629Z",
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=4f614adc-77c2-465f-b901-a1220a142ceb"
+    },
+    {
+      "date": "2026-04-26T11:51:14.995Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Alex Chau",
+      "text": "very fun",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=0312dcf8-7501-4edd-946f-4ded61d5aae4"
+    },
+    {
+      "date": "2026-04-25T21:42:36.128Z",
+      "score": 4,
+      "thumbsUp": 1,
+      "user": "Paris",
+      "text": "Addictive...",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=4c74b3ba-d463-4812-bd33-d57a1711ed8c"
+    },
+    {
+      "date": "2026-04-25T13:43:57.600Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Adrien Curcio",
+      "text": "good time waster.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=9c60a39a-c8af-443f-9b98-e436c495a2c7"
+    },
+    {
+      "date": "2026-04-25T09:18:04.335Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Marwin Ivan Martinez Dioses",
+      "text": "i have lost all my purchase heroes after stop playing for years, how can I retrieve those lost data?",
+      "reply": "Your data may have been overwritten if you hadn't linked your game ID to your Google Play or Game Center account. Try signing out, clearing the cache, and restarting your phone. If progress was linked, switch back to the correct account and clear cache to restart. If not, please contact us at Archero@habby.fun for assistance.",
+      "replyDate": "2026-04-26T08:19:24.390Z",
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=2573c8d4-133b-4efe-b997-baf8e76cfd3f"
+    },
+    {
+      "date": "2026-04-23T21:26:41.986Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Crazy PandaG19",
+      "text": "good game so fat",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=1363f36d-add4-4da7-92b0-7eeb3bb9802a"
+    },
+    {
+      "date": "2026-04-23T19:47:36.992Z",
+      "score": 5,
+      "thumbsUp": 2,
+      "user": "Kiran “Babai” Mondal",
+      "text": "I still have one of the games I played as a child, when I was in my 10s. Now that I'm 18, I still have fun playing this game. It still has that same old-fashioned feel that I remember from the old days.Thanks for reminding me of the memories, to all the developers who have kept all the old stuff alive and haven't tried to remember any updates yet.There is still something to be said for holding on to those old memories, are the games still carrying the memories of the early days, thanks to us?",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=16237bff-8045-4c02-a166-d8c18143707a"
+    },
+    {
+      "date": "2026-04-23T12:54:23.358Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "miko shinichi",
+      "text": "what happened to my acct? all my heroes purchased have gone? pls fix my account. i can't play right now?",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=8cd56caf-4802-4019-8ef2-3ea7ec928551"
+    },
+    {
+      "date": "2026-04-22T15:03:04.582Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "sweekang teo",
+      "text": "Game is really fun. Have been playing since 2019. Dunno why game tells me if i use third party illegal apps my account will be suspended. I've been grinding with sweat and occasionally pay to buy gems. wdym if i use third party apps??!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=1e19460f-e433-41b5-951c-8b01c35e16e5"
+    },
+    {
+      "date": "2026-04-22T07:57:02.520Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Jason Kenneth Geronimo",
+      "text": "devs hear me out! I hope that in events, every redeemable item will have a \"remind me\" button to notify players when the conditions are met, so we won't get notifications for items we don't want to redeem. I hope this gets featured in the next update, and because of this, I want compensation! lol 😂",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=d4af0b42-0f87-467f-91aa-7ebec2ee55b6"
+    },
+    {
+      "date": "2026-04-22T06:26:39.996Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Neil Martin",
+      "text": "Progress has grinded to a halt after 7 years. I don't even think paying for everything will get you that far as the game decides when you get through a level or not, regardless of any weapons or stats etc you have. When the game let's you clear a stage you will know as the bosses are easier to kill, there are less of them or just 1 (when it doesn't want you to win it might place 3 of the hardest bosses in the room at once and you die in seconds, it's so obvious) Edit - 1star after their response",
+      "reply": "Thank you for providing us with your valuable feedback.\nWe understand that you believe that some aspects of the game should be further improved.\nPlease be assured that your valuable input will be carefully considered by our development team for future enhancements.\nThank you for contributing to the continued refinement of our gaming experience.",
+      "replyDate": "2026-04-24T08:08:12.678Z",
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=1b3ade42-e29c-4d52-8139-57c202cfbad1"
+    },
+    {
+      "date": "2026-04-22T00:51:18.464Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Alex",
+      "text": "great game and I love the game play",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=aa48130c-e6a1-4c20-b5d4-ce80a9e01be8"
+    },
+    {
+      "date": "2026-04-21T21:09:41.417Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Jonathan Haywood",
+      "text": "nice game and more characters",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=e1aec20d-8595-4de3-a3fb-c4459da04f5f"
+    },
+    {
+      "date": "2026-04-21T21:07:36.681Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Nicholas Gorham",
+      "text": "fun",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=fd463b6a-0b3d-4919-92b4-64744b841772"
+    },
+    {
+      "date": "2026-04-21T08:38:36.766Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "RYAN 64 Seaton",
+      "text": "a good game :3",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=1efe1e11-7c1c-4c27-a38e-a9577faccb26"
+    },
+    {
+      "date": "2026-04-18T14:39:35.860Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Kenneth Juneau",
+      "text": "super fun for a mobile game",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=cb0a8781-9689-4cf5-9734-c2f46f95a6e1"
+    },
+    {
+      "date": "2026-04-18T05:51:15.957Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Lola Era",
+      "text": "App deletes years of progress, its pay to win, and the game also has issues that the developer acknowledges but wont fix.",
+      "reply": "Your data may have been overwritten if you hadn't linked your game ID to your Google Play or Game Center account. Try signing out, clearing the cache, and restarting your phone. If progress was linked, switch back to the correct account and clear cache to restart. If not, please contact us at Archero@habby.fun for assistance.",
+      "replyDate": "2026-04-18T07:27:59.816Z",
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=f357f40a-eda7-4888-9488-6e20b00305e7"
+    },
+    {
+      "date": "2026-04-17T14:30:15.955Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Yzae Keaps",
+      "text": "wow",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=55200fb0-0df1-4558-a28f-a76f183f2a39"
+    },
+    {
+      "date": "2026-04-16T16:23:09.890Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Logan Grindeland",
+      "text": "original always knows best",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=7a0a40de-6fba-434e-a1ac-dfddb23148ba"
+    },
+    {
+      "date": "2026-04-15T12:21:35.419Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Juan Martinez",
+      "text": "honestly haven't had any problem with the game and I've been playing for more than years",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=a7e81df7-c02c-4324-b09f-6e2371b97e00"
+    },
+    {
+      "date": "2026-04-14T16:34:44.164Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Orendi Csaba",
+      "text": "it's sucks when struggle to gather gems and chest keys to buy ore get legendary equipment and when u open chest o get other legendary equipment instead of getting the ones u had to",
+      "reply": "We wish to clarify: the Prismastone Chest contains all S-grade equipment. During UP events, only certain series have increased drop rates; other S-series remain obtainable. Thus, acquiring non-UP S equipment is part of normal mechanics, not an anomaly. Thank you for your support.",
+      "replyDate": "2026-04-15T05:59:59.463Z",
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=391bb2ba-602b-49b3-b592-03b07ab82339"
+    },
+    {
+      "date": "2026-04-14T06:26:46.269Z",
+      "score": 3,
+      "thumbsUp": 1,
+      "user": "Niklas Schramm",
+      "text": "good",
+      "reply": "Thank you for your kind feedback, your input will be served as a motivation to our team to develop and improve on the game.\nThanks for your continuing support.",
+      "replyDate": "2026-04-14T07:09:51.587Z",
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=9ef64707-9d60-4a57-8712-3b5a6339a9a0"
+    },
+    {
+      "date": "2026-04-14T02:01:25.468Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Moon Tala",
+      "text": "I have been plating Archero since it was in beta. I recently got a new phone and put my main email in and not my game email now I've had to start over. Nothing I do will let me start with all the progress I've accomplished/accumulated on my old device. I still gave it a 5 because I love the game but I'm completely disappointed that it is not easier to transfer or whatever it's called to get my game progress on my new phone. I have noticed the difference in the game from when I started playing.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=b633452b-e3f7-4d75-8b92-fea810e15d86"
+    },
+    {
+      "date": "2026-04-13T16:56:33.362Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "Ga Ch",
+      "text": "It's a very interesting game in a spetcial way at one point it over stimulates u then it's getting boring again and repeditive but some how still a good game (would recomend not to play on hig settings my phone could cook an egg right now)",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=e327aa79-1c86-47ad-8d11-57dbb72ff53a"
+    },
+    {
+      "date": "2026-04-13T16:26:24.958Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Dvontaye Bailey",
+      "text": "I've downloaded this game twice, and it's still awesome and fun to play!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=134e6298-b9a8-4393-800a-383435e0d6f5"
+    },
+    {
+      "date": "2026-04-13T16:07:55.300Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Rocky",
+      "text": "I like the game so much and it brings back my childhood",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=2fa9539f-0d27-49da-b19e-5575dee3316f"
+    },
+    {
+      "date": "2026-04-12T23:36:29.368Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Kali",
+      "text": "I love Archero.",
+      "reply": "Hello. Thank you for playing our game. Can you take a photo for us? And explain it in detail for us? You can contact us by clicking Feedback in the game. Details will help the development team troubleshoot the issue. If issues are found, we will fix them as quickly as possible. Thank you very much for your support🥰\n",
+      "replyDate": "2022-11-27T20:12:10.860Z",
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=abfa1291-064a-4c16-8a8d-dc42c9476361"
+    },
+    {
+      "date": "2026-04-09T16:18:36.623Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Eslam Hassan",
+      "text": "I can't get my account back in the game, please solve the problem",
+      "reply": "Your data may have been overwritten if you hadn't linked your game ID to your Google Play account. Try signing out, clearing the cache, and restarting your phone. If progress was linked, switch back to the correct account and clear cache to restart. If not, please contact us at Archero@habby.fun for assistance.",
+      "replyDate": "2026-04-10T06:31:21.689Z",
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=3df8b81f-04a6-40ef-a34c-776d125ede2c"
+    },
+    {
+      "date": "2026-04-09T04:20:29.640Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "junald vincent echavez",
+      "text": "The only game I played so far that unlocking more abilities will make your hero weaker. So many trash abilities that you don't need decreasing your chance to get the useful ones. It's obviously telling you to spend money else you won't be able to have fun here 😅",
+      "reply": "We sorry for creating an impression that winning in the game relies heavily on in-app purchases. We are committed to providing a fair gaming environment and ensuring a satisfying experience for all players. Please look forward to our upcoming updates where we will improve the availability of in-game resources and adjust game balance.",
+      "replyDate": "2026-04-09T05:45:58.642Z",
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=81d6b887-220b-4003-ad15-4ecfc90aaf8e"
+    },
+    {
+      "date": "2026-04-08T16:04:43.239Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Kazorax le Kaz",
+      "text": "Archero and its owned company, Habby, are predatory. They only care about getting every dime they can out of you while you play their game and never releasing anything worthwhile for the time and money you've spent. Highly recommend finding a different game/company as their other games are horrible too.",
+      "reply": "We sorry for creating an impression that winning in the game relies heavily on in-app purchases. We are committed to providing a fair gaming environment and ensuring a satisfying experience for all players. Please look forward to our upcoming updates where we will improve the availability of in-game resources and adjust game balance.",
+      "replyDate": "2026-04-09T05:44:37.215Z",
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=a944a9c0-2b99-40be-9a1e-0232e5c56957"
+    },
+    {
+      "date": "2026-04-08T13:21:24.951Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Vlad Raul",
+      "text": "SUEPR awesome grate game",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=abe955bb-1b81-4aee-a607-079c2e3ba5f8"
+    },
+    {
+      "date": "2026-04-08T07:59:30.784Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Leo Jason",
+      "text": "thank you, really addictive game but it's wasting my life",
+      "reply": "We apologize that your game experience was not as expected. We are currently working to improve the game. If you have any questions or requests, please feel free to let us know.",
+      "replyDate": "2026-04-09T05:44:28.517Z",
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=7949f6d2-6e03-4d48-8668-c514cb1587ae"
+    },
+    {
+      "date": "2026-04-06T16:55:52.683Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Oli Fritz",
+      "text": "needs Internet..",
+      "reply": "Currently, offline mode allows players to enjoy the main storyline, but features such as purchasing items or saving progress are not available due to connectivity requirements. We appreciate your understanding and will consider improving offline functionality in the future. For further feedback, please contact us at Archero@habby.fun.",
+      "replyDate": "2026-04-07T06:37:44.338Z",
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=9da07f19-203e-4528-9f65-ceab0171ae42"
+    },
+    {
+      "date": "2026-04-05T18:01:35.477Z",
+      "score": 4,
+      "thumbsUp": 15,
+      "user": "Mohammad Ali",
+      "text": "The game is good, I am playing this from last 10 year's, but after every new update 😞 the game's lagging and having new bugs a lot and now a days it's stuck at one point please rectify it ASAP Thanks 👍",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=65b55a80-e8a5-4aa7-b637-750e9e5c7a25"
+    },
+    {
+      "date": "2026-04-05T17:29:34.888Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Crunchy Roll",
+      "text": "bought 2 stater packs and by lvl 2 area they were obsolete 🤣 fkn waste of time they just want you to buy everything",
+      "reply": "In regards to the issue, please kindly provide us with more information.\nDo include your user ID & attach the corresponding screenshots to Archero@habby.fun.\nUpon receipt of your response, we will promptly initiate an investigation.\nWe appreciate your cooperation in resolving this matter. Thank you.",
+      "replyDate": "2026-04-06T07:36:42.974Z",
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=6aa6f240-aae4-48ae-90d6-c1069b690b1f"
+    },
+    {
+      "date": "2026-04-05T08:44:30.210Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Ilyas Kokaji",
+      "text": "bien",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=69f5cc6b-d596-4815-80c3-924489aebe37"
+    },
+    {
+      "date": "2026-04-05T08:11:37.569Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Zakir Xudaverdiyev",
+      "text": "game is awesome",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=445a079a-5fe8-4762-bbf5-c974854f2dda"
+    },
+    {
+      "date": "2026-04-03T10:53:08.120Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "Robert dory",
+      "text": "Could use a 3 option section that renews every day and is bought using the gems or the money the game uses (in the store) especially if I see something that I need or I can work towards getting (keeps me interested) but other than that I have a bit of fun, Playing a game to relax.",
+      "reply": "Thank you for providing us with your valuable feedback.\nWe understand that you believe that some aspects of the game should be further improved.\nPlease be assured that your valuable input will be carefully considered by our development team for future enhancements.\nThank you for contributing to the continued refinement of our gaming experience.",
+      "replyDate": "2026-04-04T07:51:26.862Z",
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=7b5db5a5-4d09-490e-b116-d9a9a36a35ef"
+    },
+    {
+      "date": "2026-04-01T12:09:15.287Z",
+      "score": 1,
+      "thumbsUp": 5,
+      "user": "Mathew Miller",
+      "text": "I really enjoyed this app for years. didn't even mind the ads, but now most ads auto take you to the play store so habby makes an extra .000001 cents. they have become so greedy. you are responsible for the ads that play in your game. Just got kicked from the game as it left the game automatically when an ad played. do better, not spending money til this is fixed",
+      "reply": "Thank you for providing us with your valuable feedback.\nWe understand that you believe that some aspects of the game should be further improved.\nPlease be assured that your valuable input will be carefully considered by our development team for future enhancements.\nThank you for contributing to the continued refinement of our gaming experience.",
+      "replyDate": "2026-04-03T07:11:54.957Z",
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=b10e45c7-aeb0-48ba-9e3e-19e2c6eaf7c6"
+    },
+    {
+      "date": "2026-03-30T19:57:06.669Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Nancy Roman",
+      "text": "it's awesome 👍🏽😎👍🏽",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=2e9e0091-e68c-4ff2-bbfa-b5458e16211a"
+    },
+    {
+      "date": "2026-03-30T17:18:22.843Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "dominic madueke",
+      "text": "Amazing very competitive game and no lag unlike archero 2 NICE GAME U GOT",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=51457d5c-a24e-413a-9e2a-ce27f1645490"
+    },
+    {
+      "date": "2026-03-29T20:20:04.151Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Carlos Pereira",
+      "text": "I LOVE this game the fact that a devil appears after a boss fight(if you beat it flawlessly) is amazing and choosing upgrades for your bow is amazing the game's still fun until today! (I want more updates though)",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=67c87698-5cab-49df-acbe-16f588da035d"
+    },
+    {
+      "date": "2026-03-29T16:51:39.597Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "Ratm22222222",
+      "text": "cool, but the pay to play and always online bs ruin it",
+      "reply": "Purchasing in the game is not the only way to strengthen yourself. You can acquire resources by completing activities, or by collecting chapter chests after your clearance. Offline mode allows players to enjoy the main storyline, but features such as purchasing items or saving progress are not available due to connectivity requirements.",
+      "replyDate": "2026-03-30T06:52:57.809Z",
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=1e2e899a-3b58-43ba-971d-05271d1db911"
+    },
+    {
+      "date": "2026-03-28T05:39:41.618Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Roshd Sharaf",
+      "text": "Hi I love this game, I have been playing it for a long time. I just want to know how to transfer my data to another email?",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=b7a18c0f-9737-4649-858a-c6d45c56b1ff"
+    },
+    {
+      "date": "2026-03-27T05:18:49.156Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Karl Christian O. Villarin",
+      "text": "balance system not good.",
+      "reply": "Thank you for providing us with your valuable feedback.\nWe understand that you believe that some aspects of the game should be further improved.\nPlease be assured that your valuable input will be carefully considered by our development team for future enhancements.\nThank you for contributing to the continued refinement of our gaming experience.",
+      "replyDate": "2026-03-27T07:35:11.816Z",
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=161a8346-01f1-4bef-965e-9ee1bea6c526"
+    },
+    {
+      "date": "2026-03-22T22:45:53.879Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "Michelle Cruz",
+      "text": "Es un gran juego, siempre renovandolo, el gran problema que no reparan a pesar de los años, son los problemas de internet. es desastroso la cantidad de veces que puedes perder energía en una sala porque la red se cae, o los tirones de red, o perder recursos porque justo cuando compras da un tirón de red. El tiempo pasa y siguen sin reparar esto, lamentable",
+      "reply": "At times, Archers may encounter connection issues between their local network settings and the server. To troubleshoot, consider switching between 4G and Wi-Fi to determine if the problem persists.\nYour support is greatly appreciated.\nThank you for your understanding and cooperation.",
+      "replyDate": "2026-03-23T06:03:40.630Z",
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=d2acef97-7691-4285-84a8-1685db936617"
+    },
+    {
+      "date": "2026-03-22T08:37:49.656Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Tom Giles",
+      "text": "Game keeps saying something wrong with connection the problem still occurs my Internet is not the problem I had this game for years it also now keeps saying error code and then 98 or 78",
+      "reply": "Certain regions may experience network issues that affect game connectivity. We recommend checking your device's connection, switching networks, or restarting your device. If a VPN is needed for connection, this might be due to local network conditions. For further assistance, please contact us at Archero@habby.fun.",
+      "replyDate": "2026-03-22T08:27:33.200Z",
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=0bdbdc4b-d996-4246-be29-75ee0cab7cfc"
+    },
+    {
+      "date": "2026-03-22T05:32:22.693Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Aliika Bilal",
+      "text": "why you decrease the reward for chapter 105 ~149? is that trend or something?",
+      "reply": "Could you please provide more details about the issue? Kindly send your UID, a description of the problem, and any relevant screenshots to Archero@habby.fun. Once we receive your email, we will address it as soon as possible. Thank you for your cooperation!",
+      "replyDate": "2026-03-22T08:23:47.410Z",
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=651e6823-e6ed-4a0b-b188-dbd99c93e25b"
+    },
+    {
+      "date": "2026-03-21T16:40:04.456Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Syed Naqvi",
+      "text": "very good gsme",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=726383ca-9fd4-4a57-9d2d-2aa72da80003"
+    },
+    {
+      "date": "2026-03-21T05:10:29.278Z",
+      "score": 5,
+      "thumbsUp": 427,
+      "user": "Jeremiah Horton",
+      "text": "I've had this game since it was first released and the game only gets better and and better. It's not as polished as the second one, but this one is more fun and has more events with cool gear.",
+      "reply": "Thanks for playing our game. Can you please let us know more details of your problem?\n\n",
+      "replyDate": "2021-05-26T06:11:45.417Z",
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=5c91cc15-0f55-449b-a532-acaffc8a66bc"
+    },
+    {
+      "date": "2026-03-21T02:09:50.658Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "Sage West",
+      "text": "nostalgia",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=66a5e852-7eca-4faa-baba-692e8b25d579"
+    },
+    {
+      "date": "2026-03-19T22:40:40.130Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Elias Haddad",
+      "text": "It's a cool game, way too expensive though and updates keep making it worse",
+      "reply": "Purchasing in the game is not the only way to strengthen yourself.\nYou can acquire resources by completing daily missions and activities, or by collecting chapter chests after your clearance.\nWe will also continuously improve the game, striving to enhance the Archer experience. Thank you very much for your opinions and suggestions.",
+      "replyDate": "2024-03-29T09:23:40.103Z",
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=7cae8748-d8cb-4af5-bbcf-53896c4ba22d"
+    },
+    {
+      "date": "2026-03-19T18:51:14.299Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Aidan Madden",
+      "text": "love this game one of the best games I've ever played the only reason why I give it 4 stars is because older devices can't run it does not work, my device that was created about 4 years ago cannot run this app so that's why it's only four stars overall it's normally a five-star game.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=1b642679-3c49-4856-b639-8cad6a8fe680"
+    },
+    {
+      "date": "2026-03-19T08:53:06.730Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Joshua Vinculado",
+      "text": "Not offline game",
+      "reply": "Currently, offline mode allows players to enjoy the main storyline, but features such as purchasing items or saving progress are not available due to connectivity requirements. We appreciate your understanding and will consider improving offline functionality in the future. For further feedback, please contact us at Archero@habby.fun.",
+      "replyDate": "2026-03-20T08:47:35.435Z",
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=1116a86a-4af6-42b0-8eb2-97072551821a"
+    },
+    {
+      "date": "2026-03-17T16:48:08.743Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "שלומי חסון",
+      "text": "good",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=905e1a04-1c0a-47ef-9491-5d3e7b5611ef"
+    },
+    {
+      "date": "2026-03-17T16:31:07.547Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Ty Truax",
+      "text": "love the emersive experience that is Archero . it has so many options for growth and different ways to play. strongly suggested to play",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=c437135c-bf8d-4561-9bd1-b8a1fe24b0ee"
+    },
+    {
+      "date": "2026-03-16T22:27:18.797Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Dhanu Fathurahman",
+      "text": "This game will make you pay to get good skills",
+      "reply": "Purchasing in the game is not the only way to strengthen yourself.\nYou can acquire resources by completing daily missions and activities, or by collecting chapter chests after your clearance.\nWe will also continuously improve the game, striving to enhance the Archer experience. Thank you very much for your opinions and suggestions.",
+      "replyDate": "2026-03-17T07:24:05.227Z",
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=444d862c-e3cd-499e-9198-bb7ef50baddf"
+    },
+    {
+      "date": "2026-03-14T15:54:50.191Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Fei Andrei Alivio",
+      "text": "Part of if maybe my fault but sadly i can no longer recover an account that i had before.",
+      "reply": "Your data may have been overwritten if you hadn't linked your game ID to your Google Play account. Try signing out, clearing the cache, and restarting your phone. If progress was linked, switch back to the correct account and clear cache to restart. If not, please contact us at Archero@habby.fun for assistance.",
+      "replyDate": "2026-03-15T09:02:32.679Z",
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=336d1911-4cb5-45f5-b328-5e0a8a3edabc"
+    },
+    {
+      "date": "2026-03-12T08:51:40.900Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "karthik surya",
+      "text": "Heavily Pay to Win type of game. If you want a fair game which you can beat with skill, this is not it. it's completely based on luck and p2w it's just not fair",
+      "reply": "Purchasing in the game is not the only way to strengthen yourself.\nYou can acquire resources by completing daily missions and activities, or by collecting chapter chests after your clearance.\nWe will also continuously improve the game, striving to enhance the Archer experience. Thank you very much for your opinions and suggestions.",
+      "replyDate": "2026-03-13T07:31:00.642Z",
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=b46f401f-0267-43df-be50-a8e5023da8aa"
+    },
+    {
+      "date": "2026-03-10T15:08:24.822Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Carlos Favela",
+      "text": "love it 😀",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=f14216b9-efaa-441f-9dc1-62cd649417b1"
+    },
+    {
+      "date": "2026-03-09T21:25:54.361Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "Delia Gimenez",
+      "text": "Bring the old version back plss...",
+      "reply": "Could you please provide more details about the issue? Kindly send your UID, a description of the problem, and any relevant screenshots to Archero@habby.fun. Once we receive your email, we will address it as soon as possible. Thank you for your cooperation!",
+      "replyDate": "2026-03-10T06:40:16.799Z",
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=16a405de-9713-4d02-af4b-6b8fd924ead5"
+    },
+    {
+      "date": "2026-03-09T10:34:12.854Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Mr. Nobody",
+      "text": "is this server dead? game dead? I've bin in over 11 alliances over the past 8 months with over 40 members per alliance and no one's ever on. haven't logged in in weeks. events are only top server bot accounts not real players, fine if I end an event in top 20 ranking not ok if I lose to 19 bot accounts, equipment drop rate is broken, building upgrades broken, can't seam to get eggs to hatch anymore. game seams dead,hero duels a joke.",
+      "reply": "Thank you for sharing your concerns. We’re sorry to hear about your experience with player activity, events, and gameplay balance. Our team is working to address these issues and improve the overall experience for players.\n\nFor further assistance, feel free to contact us at Archero@habby.fun.",
+      "replyDate": "2026-03-10T06:42:02.797Z",
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=ea9877ec-08e8-4466-a660-1aea2fe72172"
+    },
+    {
+      "date": "2026-03-09T07:55:58.445Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "mr. Bubbles",
+      "text": "fun but I can't reset without contacting y'all not fun",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=2b1a8aa2-1234-4b7c-8614-e56902fd3435"
+    },
+    {
+      "date": "2026-03-08T22:48:46.923Z",
+      "score": 3,
+      "thumbsUp": 1,
+      "user": "D- True",
+      "text": "Moving is not fluid - got fixed but monster vists among other tokens spent viewing no egg houses waisting precious tokens (ads) you get daily, leading to nothing a day waisted trying to reach a goal u could have completed today. sp events have terrible rng giving the worst items or comming up short to buy a cheap item teasing to pay for another roll....unless you outright buy the item using cash... occasionally dailies don't regester causing daily xp loss bad during events. !fun game tho!",
+      "reply": "Thank you for your feedback. We're happy to hear you enjoy the game, but we apologize for the issues with any bug-related frustrations. We are committed to improving the gaming experience and appreciate your patience and understanding.\n\nIf you have any more concerns, please contact us at Archero@habby.fun.",
+      "replyDate": "2026-03-09T07:51:06.710Z",
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=e9e5d976-30d9-4642-92a7-9f7dfe5decb9"
+    },
+    {
+      "date": "2026-03-08T00:17:26.410Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "André Bernfield",
+      "text": "Good game over the years",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=9a905010-f54f-4533-b59e-34c83dcaceb7"
+    },
+    {
+      "date": "2026-03-07T12:00:19.866Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Hassan Taha",
+      "text": "i can't log in with my old account with gmail and no one is trying to help",
+      "reply": "Your data may have been overwritten if you hadn't linked your game ID to your Google Play account. Try signing out, clearing the cache, and restarting your phone. If progress was linked, switch back to the correct account and clear cache to restart. If not, please contact us at Archero@habby.fun for assistance.",
+      "replyDate": "2026-03-08T09:08:42.940Z",
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=c2c3c986-09b3-4a74-ba4e-1e3f56e05f89"
+    },
+    {
+      "date": "2026-03-07T00:06:35.157Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Adam Hannah",
+      "text": "fun game the ads are not overpowering",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=2999b362-94a5-44a2-84b2-7a637d897ad3"
+    },
+    {
+      "date": "2026-03-06T05:28:04.542Z",
+      "score": 1,
+      "thumbsUp": 5,
+      "user": "Rumstine bossmode",
+      "text": "The surprise special pack just reminds you how pay to win the game is. An event impossible to technically win because quests cut off too low so you need to buy tickets to get the grand prize, and then the challenge ending a day early, for no reason. Go play on duel and you get smashed by someone with 5 million hp. I have spent money on the game, but not much but more than other games. I don't know why I wasted that money. Sounds like Im just hating but Ive played this game for a few years now.",
+      "reply": "Thank you for sharing your experience and feedback. We sincerely appreciate your support over the years. We understand your concerns about event difficulty, matchmaking, and pay-to-win impressions. Your feedback is invaluable, and we’ll share it with our team to improve future updates.\nFeel free to contact us at Archero@habby.fun for assistance.",
+      "replyDate": "2026-03-06T07:32:45.518Z",
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=7ff945bb-4d7b-4fdb-8d1f-ecf4b31abd14"
+    },
+    {
+      "date": "2026-03-05T21:32:31.376Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "Philip Payne",
+      "text": "I have enjoyed this for a long while, now I have to go through a list of more than 100 vendors to carry on? Nah I'm good, shame really.",
+      "reply": "Could you please provide more details about the issue? Kindly send your UID, a description of the problem, and any relevant screenshots to Archero@habby.fun. Once we receive your email, we will address it as soon as possible. Thank you for your cooperation!",
+      "replyDate": "2026-03-06T07:29:59.944Z",
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=7d0679e3-588a-42bd-af77-a1aa9ec515bb"
+    },
+    {
+      "date": "2026-03-04T08:23:43.501Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Joseph Ng Wei Kong",
+      "text": "Enjoyable and nice game",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=992ba0d7-66f0-49d0-859f-72efb915aa99"
+    },
+    {
+      "date": "2026-03-02T11:32:38.432Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Xiao Lie",
+      "text": "trash game ever,all my data has been erased.. nice developer there..",
+      "reply": "Your data may have been overwritten if you hadn't linked your game ID to your Google Play or Game Center account. Try signing out, clearing the cache, and restarting your phone. If progress was linked, switch back to the correct account and clear cache to restart. If not, please contact us at Archero@habby.fun for assistance.",
+      "replyDate": "2026-03-03T08:09:15.384Z",
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=fc73975f-153a-48ca-855a-fabd3c794d67"
+    },
+    {
+      "date": "2026-03-01T16:21:14.666Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "Andrew Bailey",
+      "text": "it keeps.not giving me.rewards. I like the game but I feel cheated overtime I play and the video buttons never work consistently",
+      "reply": "Could you please provide more details about the issue? Kindly send your UID, a description of the problem, and any relevant screenshots to Archero@habby.fun. Once we receive your email, we will address it as soon as possible. Thank you for your cooperation!",
+      "replyDate": "2026-03-02T08:12:23.486Z",
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=00864fa3-6325-48da-80f0-dfab4c4e7b68"
+    },
+    {
+      "date": "2026-03-01T14:56:59.465Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Cadance Teo",
+      "text": "I miss the old version of Archero... 😓",
+      "reply": "Thank you for providing us with your valuable feedback.\nWe understand that you believe that some aspects of the game should be further improved.\nPlease be assured that your valuable input will be carefully considered by our development team for future enhancements.\nThank you for contributing to the continued refinement of our gaming experience.",
+      "replyDate": "2026-03-02T08:29:51.310Z",
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=cc024415-f1b2-4f8a-9d54-fb05c195b43f"
+    },
+    {
+      "date": "2026-03-01T06:41:54.157Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Flint Woo",
+      "text": "amazing",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=14598fa8-2cca-47f0-bca1-d54695605325"
+    },
+    {
+      "date": "2026-02-28T15:46:52.994Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Robert",
+      "text": "it's a decent time waster. it's not put of this world but it does it's job",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=2bafb777-f5ce-4809-9b73-2c0ea432b50c"
+    },
+    {
+      "date": "2026-02-28T13:33:51.836Z",
+      "score": 1,
+      "thumbsUp": 15,
+      "user": "YESHUA ISMYKING",
+      "text": "Pay to win trash game that gets worse with every update and event. Your hidden mechanics are not hidden wt all. We know you hate your players. We know you rig every event. You Devs are shameless. I am glad your game got stolen and recreated by other Devs as greedy as you. Why be like this? You are worse than AAA Devs that make garbage games. Stop being so greedy. I spent a lot of money on this game but you treat us all like trash. Maybe I will just sue your company for these practices.",
+      "reply": "Purchasing in the game is not the only way to strengthen yourself.\nYou can acquire resources by completing daily missions and activities, or by collecting chapter chests after your clearance.\nWe will also continuously improve the game, striving to enhance the Archer experience. Thank you very much for your opinions and suggestions.",
+      "replyDate": "2026-03-01T09:32:14.278Z",
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=e70474a1-b19d-4d7f-819a-6eb99329e1b8"
+    },
+    {
+      "date": "2026-02-28T02:45:45.753Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Morris Enterprises",
+      "text": "Sweet, easy to use, and fun. I certainly love the bit that shows the percentage of other players your ahead.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=23243002-6baa-4d4a-9990-c736e4803dab"
+    },
+    {
+      "date": "2026-02-27T16:50:17.307Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "ForrestRanger2055",
+      "text": "it's awesome, one of the first habby games I experienced but it does need some updates",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=b0657bfb-f901-456e-9394-394cdbfd66f8"
+    },
+    {
+      "date": "2026-02-26T22:30:56.995Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "lolo hamza",
+      "text": "too slowly update for warriors why ?",
+      "reply": "Could you please provide more details about the issue? Kindly send your UID, a description of the problem, and any relevant screenshots to Archero@habby.fun. Once we receive your email, we will address it as soon as possible. Thank you for your cooperation!",
+      "replyDate": "2026-02-27T09:10:23.165Z",
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=0861dd63-643c-4054-8500-fafb55420e81"
+    },
+    {
+      "date": "2026-02-25T16:05:02.213Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Fluorine",
+      "text": "근본이긴 함. 근데 후속작이 더 재밌는듯",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=2e15e375-6271-4650-ab4e-94e45eed1ec7"
+    },
+    {
+      "date": "2026-02-24T11:27:59.504Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Reynald Navarro",
+      "text": "really fun and cool game",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=c1fd88e8-d7b7-4cf4-84be-b9f26989266f"
+    },
+    {
+      "date": "2026-02-23T10:04:19.568Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Sarmad Jamal",
+      "text": "i can't access my old fb account in game. can you help me",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=d6a6648e-14f1-4275-bdcd-35ba6f862ca7"
+    },
+    {
+      "date": "2026-02-23T09:58:40.876Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "I'shiq Irsyaflie",
+      "text": "mantap says suke hehehehehe",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=17c0f52e-4958-4136-8242-753b08fdea94"
+    },
+    {
+      "date": "2026-02-23T05:40:52.451Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Ramon Ruiz",
+      "text": "every time I watch an ad on this game the whole thing stops and I don't even get the reward I play mobile games all the time this does not happen",
+      "reply": "\n\nWe appreciate your cooperation and understanding.\nCould you please provide screenshots of both your level progress and the crashed ad interface?\nYour assistance will help us investigate and address the issue more effectively.\n\nThank you for your continued support.",
+      "replyDate": "2026-02-23T06:30:30.830Z",
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=51c717a7-6278-4806-a91a-cbb2946e265f"
+    },
+    {
+      "date": "2026-02-22T17:01:59.831Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Joey Guinn",
+      "text": "I've been playing this app for the longest time. this platform my most favorite and time-consuming that I've ever played. thank you for this creation.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=a26d6f13-27d2-4389-9c8e-403fe2579d12"
+    },
+    {
+      "date": "2026-02-20T23:46:35.424Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Rambag999",
+      "text": "Entretenido rng",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=cb4806ed-81df-4120-8b5d-24fe1851d216"
+    },
+    {
+      "date": "2026-02-20T18:06:44.501Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Vivek Valla",
+      "text": "Good game",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=da1d8cc8-531e-4c1e-8627-afe95ec4be1c"
+    },
+    {
+      "date": "2026-02-20T15:23:36.260Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Freelancer",
+      "text": "Sublime player experience; there's 15 popups with 3 subcategories and you can spend anywhere from 0.99 to 99.9 on each subcategory. Weekly, daily, even hourly personalized \"offers\", it starts to get a little disgusting. Energy system can be viewed as a mandatory break timer or another money sink. This is a game that disrespects players unwilling to give the developers half their wage.",
+      "reply": "Thank you for sharing your thoughts. The aggressive monetization and constant offers can overwhelm and detract from the experience. Additionally, the energy system as a potential money sink is concerning. Your feedback is valuable and will be shared with the development team to reconsider the balance between monetization and user enjoyment.",
+      "replyDate": "2026-02-21T08:10:21.429Z",
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=c5a13638-69e8-4b49-ba52-835ce8c6ab9d"
+    },
+    {
+      "date": "2026-02-19T01:05:27.970Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "AMJAD DrawArt",
+      "text": "It's a Fun Game, but also does have some Bugs like when trying to login to Habby ID it didn't actually login or when I put a code it doesn't show all numbers or it keeps saying \"Network Error\" when my WiFi is good also other bugs i can barely mention 💀",
+      "reply": "Could you please provide more details about the issue? Kindly send your UID, a description of the problem, and any relevant screenshots to Archero@habby.fun. Once we receive your email, we will address it as soon as possible. Thank you for your cooperation!",
+      "replyDate": "2026-02-19T09:55:14.367Z",
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=3d5f6612-10ae-4b54-be28-4dd0691a157e"
+    },
+    {
+      "date": "2026-02-18T14:11:14.931Z",
+      "score": 4,
+      "thumbsUp": 9,
+      "user": "Tony Daniels",
+      "text": "Need to add wishlist for other chests as well. To increase chance of dropping of dragon chest, relic, worker, and jewel that you want like there is for other chests. Otherwise 5 stars game.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=fe20f61f-d7af-453c-bc9e-0dd741bf6562"
+    },
+    {
+      "date": "2026-02-18T06:16:16.372Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Kurt Clark",
+      "text": "awesome",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=75378deb-710f-4c5b-b33d-27fff0afee89"
+    },
+    {
+      "date": "2026-02-18T04:05:19.538Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "sadra Satari",
+      "text": "that's amazing, and I am glad to that person who worked on this beautiful game 🎮 ❤️",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=467a1747-bac8-4c57-8005-5d7857243d13"
+    },
+    {
+      "date": "2026-02-17T20:50:40.688Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Quincy Fitzgerald",
+      "text": "Awesome",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=4f537faa-0bf7-416b-906b-43287eef8e0c"
+    },
+    {
+      "date": "2026-02-17T02:56:01.646Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Naijel Judan",
+      "text": "I just like it",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=0b088d12-d4bc-47c2-88d5-1eb38a794426"
+    },
+    {
+      "date": "2026-02-16T21:56:41.255Z",
+      "score": 2,
+      "thumbsUp": 1,
+      "user": "Brady Milam",
+      "text": "this game is great in principle but the upgrade system sucks now. It used to have at least one good upgrade every time but now most of them suck and it makes it much harder to play.",
+      "reply": "We are very sorry to hear that you are dissatisfied with the game. We sincerely value your input and are committed to making improvements.\nWe would greatly appreciate your cooperation in helping us enhance our services. Should you have any questions or requests, please don't hesitate to contact us.",
+      "replyDate": "2026-02-17T07:01:24.591Z",
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=b0ac4b59-be4d-479e-b9a6-33bc9d5906db"
+    },
+    {
+      "date": "2026-02-16T20:47:53.890Z",
+      "score": 3,
+      "thumbsUp": 1,
+      "user": "Nenad Alempijevic",
+      "text": "basically every event i beat it will not give me rewards,it just stands there and I can't move to go through the final door,I thought it is only cherry blossom but it is all of the events... I don't know how to share pictures here in reviews,but i have screenshot",
+      "reply": "Could you please provide more details about the issue? Kindly send your UID, a description of the problem, and any relevant screenshots to Archero@habby.fun. Once we receive your email, we will address it as soon as possible. Thank you for your cooperation!",
+      "replyDate": "2026-02-18T07:51:55.640Z",
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=f1b2c921-504b-46fe-a4b4-2757e07dec64"
+    },
+    {
+      "date": "2026-02-15T05:25:09.712Z",
+      "score": 5,
+      "thumbsUp": 4,
+      "user": "Jason Rambo",
+      "text": "This game is pure perfection, I just redownloaded it, and even though the last time I'd played it was somewhere around 2 years ago, and it's still amazing.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=00f19dbc-2982-4432-bbaa-68a250a9083b"
+    },
+    {
+      "date": "2026-02-14T14:23:54.484Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Dina Di",
+      "text": "Wow",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=29f0fae5-e4f3-4976-b854-913c60829ecb"
+    },
+    {
+      "date": "2026-02-13T08:30:45.330Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Linzxy Linzxy the 3rd",
+      "text": "very fun game",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=943709db-0292-4e36-ba57-9db50f70b05b"
+    },
+    {
+      "date": "2026-02-12T20:50:18.665Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Deniz Scott",
+      "text": "great game it keeps you hooked for hours",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=b4a85143-52ba-4aeb-bb0b-48626c75b5d4"
+    },
+    {
+      "date": "2026-02-12T17:17:45.406Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "Haroun Sahli",
+      "text": "good game",
+      "reply": "Thank you for your kind feedback, your input will be served as a motivation to our team to develop and improve on the game.\nThanks for your continuing support.",
+      "replyDate": "2026-02-14T07:23:39.950Z",
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=b4efe563-bd89-46df-ba56-91075165abe8"
+    },
+    {
+      "date": "2026-02-11T19:45:01.513Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "kristian saunders",
+      "text": "could someone look into this bug please. when it says watch an ad for gems or extra energy. you can watch the ad but when it comes to the end of the ad video it restarts the game everytime. I can't take a screen shot as what am I meant to take a screen shot of. the start of the game?",
+      "reply": "Could you please provide more details about the issue? Kindly send your UID, a description of the problem, and any relevant screenshots to Archero@habby.fun. Once we receive your email, we will address it as soon as possible. Thank you for your cooperation!",
+      "replyDate": "2026-02-14T07:27:45.838Z",
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=95b5b271-89ed-49fb-a750-628cae9cd1ba"
+    },
+    {
+      "date": "2026-02-11T07:32:47.441Z",
+      "score": 2,
+      "thumbsUp": 1,
+      "user": "Bill He",
+      "text": "another pay to win. frustration leads to pay to win. fun game mechanics that is all",
+      "reply": "We sorry for creating an impression that winning in the game relies heavily on in-app purchases. We are committed to providing a fair gaming environment and ensuring a satisfying experience for all players. Please look forward to our upcoming updates where we will improve the availability of in-game resources and adjust game balance.",
+      "replyDate": "2026-02-12T06:38:54.589Z",
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=0f191e20-044f-4e4f-a567-ab85a6aa3104"
+    },
+    {
+      "date": "2026-02-10T10:54:24.434Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "ADEB gameplay",
+      "text": "one of best games I have ever played thanks",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=3d872535-d1f2-4a8a-88f5-e1abdd99be28"
+    },
+    {
+      "date": "2026-02-10T04:42:41.599Z",
+      "score": 5,
+      "thumbsUp": 13,
+      "user": "Ryan Leung",
+      "text": "just perfect. the only issue am having since a few months although i have internet, it kept saying network error and sometime this become really annoying and it do lag also not always but sometimes. Apart that beautiful game am addict to it since 2021 or 22 😆",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=e6f5d7de-9a6f-43b0-9435-d64eda894268"
+    },
+    {
+      "date": "2026-02-09T00:28:21.318Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Gary Oldman",
+      "text": "good game",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=aafc319b-a0e6-4507-8ddb-6c6bb7be032e"
+    },
+    {
+      "date": "2026-02-08T16:05:47.137Z",
+      "score": 1,
+      "thumbsUp": 2,
+      "user": "Dzanga M (Great)",
+      "text": "the game needs needs 5gb free space from your phone for a 120mb update 💀 I made a review complaining about the ads which went from good(initial), tolerable(more ads) and now bad(you play 1 ad, you get 5 stacked onto 1 slot taking over 2 minutes) some are gamebreaking. maybe people who can't afford the premium for no ads should leave this alone going forward habby are not responsible for ads(they say) but the ads are breaking and destroying the game can't even recommend it anymore",
+      "reply": "Thank you for providing us with your valuable feedback.\nWe understand that you believe that some aspects of the game should be further improved.\nPlease be assured that your valuable input will be carefully considered by our development team for future enhancements.\nThank you for contributing to the continued refinement of our gaming experience.",
+      "replyDate": "2026-02-09T07:58:25.904Z",
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=03eb3b01-164a-421a-a5fe-db464cae3400"
+    },
+    {
+      "date": "2026-02-08T03:29:24.257Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "M T",
+      "text": "Gotten quite grindy and pay to progress. Still a fine way to kill half an hour a day. Just don't expect to progress quickly after world 7 or so.",
+      "reply": "Purchasing in the game is not the only way to strengthen yourself.\nYou can acquire resources by completing daily missions and activities, or by collecting chapter chests after your clearance.\nWe will also continuously improve the game, striving to enhance the Archer experience. Thank you very much for your opinions and suggestions.",
+      "replyDate": "2026-02-08T08:42:26.653Z",
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=aca3813e-7e34-4482-8ca7-39806ff3b75a"
+    },
+    {
+      "date": "2026-02-07T18:31:09.677Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Michael Harris",
+      "text": "don't be rubbish",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=294d9a5c-ff77-4f85-a293-e149d3c8c49f"
+    },
+    {
+      "date": "2026-02-07T15:01:55.190Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "aki joestar",
+      "text": "👍🦅",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=58584574-a025-45da-ba3d-5fe84607a42b"
+    },
+    {
+      "date": "2026-02-07T03:16:57.657Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Ana Jay",
+      "text": "good",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=1bfdb675-29ff-43c8-a109-0b54b8d8135c"
+    },
+    {
+      "date": "2026-02-06T15:37:14.420Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "YTMrMtg",
+      "text": "very fun",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=e9dcf8ec-959e-414e-98ad-7caf6f43c872"
+    },
+    {
+      "date": "2026-02-06T05:24:41.188Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "Zachariah Krupa",
+      "text": "this game was goated, played it for a long time felt like it's one of the few you can actually feel progression without paying $$$",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=5f420999-0b35-495d-82b4-9548709577c7"
+    },
+    {
+      "date": "2026-02-04T23:56:38.769Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Derrion Cooper",
+      "text": "👍🏾",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=67180a17-ebb1-44e8-9ff1-e33b1ae044a7"
+    },
+    {
+      "date": "2026-02-03T18:27:47.213Z",
+      "score": 1,
+      "thumbsUp": 3,
+      "user": "Matthew",
+      "text": "🚩 Archero is corrupted by greed. Habby are the real evil enemy in this game. Since day 1 Archero has been Pay-to-Win. There is no fun to this game since habby rigged the game so bad you lose and die instantly often unless you spend lots of money. They 'claim' you can watch ads or other methods but that's a lie. No one lives long enough for how long those alternative methods will take. Archero is simply not fun. 🚫",
+      "reply": "We sorry for creating an impression that winning in the game relies heavily on in-app purchases. We are committed to providing a fair gaming environment and ensuring a satisfying experience for all players. Please look forward to our upcoming updates where we will improve the availability of in-game resources and adjust game balance.",
+      "replyDate": "2026-02-04T05:47:10.204Z",
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=59503744-1d94-4ae8-bd49-9a076b95a065"
+    },
+    {
+      "date": "2026-02-03T02:51:00.410Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Exotic JIM27",
+      "text": "Worst game ever",
+      "reply": "Thank you for supporting our game. Could you elaborate on the issue you are currently having? Additionally, we welcome any open suggestions for game improvements. We want you to know that our development team will carefully consider your valuable input for future enhancements. You may contact us at Archero@habby.fun.",
+      "replyDate": "2026-02-03T07:40:27.328Z",
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=a4e1e64b-0580-455a-a58a-150df6428efa"
+    },
+    {
+      "date": "2026-02-02T21:36:52.240Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Ezra boss",
+      "text": "the best game in the word love game ❤️❤️❤️",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=39ce74c5-1ea0-4ed6-8bc0-666a9b6214ef"
+    },
+    {
+      "date": "2026-02-02T14:17:20.649Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Idk Idk",
+      "text": "I really like it",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=38972c06-a86c-4a2e-b59d-38f7dd39f671"
+    },
+    {
+      "date": "2026-02-01T01:30:42.339Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Eric Rozz",
+      "text": "fantastic",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=9875fd40-27fc-4447-ac88-927a450efee3"
+    },
+    {
+      "date": "2026-01-31T12:53:24.492Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Abood",
+      "text": "I having fun playing this game its so awesome 👌",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=9e06786b-b688-4b3e-b8bd-0185cbbc21e2"
+    },
+    {
+      "date": "2026-01-30T09:28:38.183Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "Jack z",
+      "text": "I play a lot, but also lots of bugs, but what I hate most is developer retrospectly nerf equipment or feature that people have been working hard for, with no explanation or warning. for example, projectal resistance stats",
+      "reply": "Could you please provide more details about the issue? Kindly send your UID, a description of the problem, and any relevant screenshots to Archero@habby.fun. Once we receive your email, we will address it as soon as possible. Thank you for your cooperation!",
+      "replyDate": "2026-01-31T08:03:52.470Z",
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=237f20a7-1a50-421f-80b8-f340505a38c3"
+    },
+    {
+      "date": "2026-01-30T06:12:36.306Z",
+      "score": 5,
+      "thumbsUp": 7,
+      "user": "Myles Wickliffe",
+      "text": "love this game! idk if it's a good thing or not but I've been had this game for about 4yrs now. Across 3vohones! I love games where I can just PLAY! strategy and thinking can be fun. however that's for my PS5.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=2fc952c8-274e-4a74-8564-ca745d1024be"
+    },
+    {
+      "date": "2026-01-29T09:06:36.231Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Rey deswart martinez",
+      "text": "nice game",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=7008a88b-9118-443a-b16a-fa39078e30e0"
+    },
+    {
+      "date": "2026-01-29T02:03:12.920Z",
+      "score": 2,
+      "thumbsUp": 3,
+      "user": "Giim Drake",
+      "text": "🥲 . . .i just don't know what to say here ..haha.. coz' i have sent to you guys the email ..and im confuse with what is happening currently",
+      "reply": "Could you please provide more details about the issue? Kindly send your UID, a description of the problem, and any relevant screenshots to Archero@habby.fun. Once we receive your email, we will address it as soon as possible. Thank you for your cooperation!",
+      "replyDate": "2026-01-25T07:32:25.963Z",
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=14375434-10a9-4d4c-b943-3d799f133aed"
+    },
+    {
+      "date": "2026-01-28T18:42:35.743Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Shubham Agarwal",
+      "text": "nice game",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=dea17e66-906a-464d-8f20-b55ea7f52a40"
+    },
+    {
+      "date": "2026-01-27T15:12:02.300Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "shahrul nizam",
+      "text": "good game",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=6693f6a1-7fd7-401c-8155-11a78d41c13f"
+    },
+    {
+      "date": "2026-01-27T01:22:43.965Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Mrpancakez",
+      "text": "I play this bc mighty doom got shut done and it's amazing",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=c11c0e3e-2c5a-42cc-83be-7fc65523544c"
+    },
+    {
+      "date": "2026-01-26T22:13:54.911Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Brand Guy",
+      "text": "🔥",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=2f3b142b-2ef2-4c18-8dff-4a9555d60d71"
+    },
+    {
+      "date": "2026-01-26T20:59:15.590Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Aleksandar Stanković",
+      "text": "The only mobile game that kept me playing it for a long time. Its a fun rogue-like adventure with fun special events. even the grind is made interesting.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=6c41d94d-4760-4e25-8f5b-aa1f83f1f857"
+    },
+    {
+      "date": "2026-01-26T12:02:31.988Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "Azka Radhi",
+      "text": "I can’t play because Facebook login is not working. I’ve used Facebook login for a long time and now I’m completely locked out of my account with all my progress. I’ve tried reinstalling and checking my connection, but nothing works. Please provide support assistance or a way to recover and link my account to another login method. This issue needs to be fixed.",
+      "reply": "Your data may have been overwritten if you hadn't linked your game ID to your Google Play or Game Center account. Try signing out, clearing the cache, and restarting your phone. If progress was linked, switch back to the correct account and clear cache to restart. If not, please contact us at Archero@habby.fun for assistance.",
+      "replyDate": "2026-01-27T08:09:46.417Z",
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=b0b70c49-edef-41b6-bf11-236e43dc0090"
+    },
+    {
+      "date": "2026-01-26T08:12:00.482Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Chance Clark",
+      "text": "watched ad for 1 thing 5 times an glitchs out on second ad so i get screwed outta reward an froze on me when i tried combination for weapons to upgrade rarety an when i logged back in one of the weapons was gone so was unable to upgrade after that games fun but ads an glitchs suck games been out long enough this should not be happening.............",
+      "reply": "Could you please provide more details about the issue? Kindly send your UID, a description of the problem, and any relevant screenshots to Archero@habby.fun. Once we receive your email, we will address it as soon as possible. Thank you for your cooperation!",
+      "replyDate": "2026-01-27T08:10:21.863Z",
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=bf9543ab-09f0-4f3c-aa0e-513413cc3aee"
+    },
+    {
+      "date": "2026-01-26T07:38:54.885Z",
+      "score": 1,
+      "thumbsUp": 2,
+      "user": "Lui Define",
+      "text": "Do you think i haven't unistall the game before ?or install it several times ? I even have hard reset my phone . The problem is your update.",
+      "reply": "Thank you for reaching out to us. The error regarding the missing libmain.so file usually occurs when some necessary files are not correctly installed. We recommend reinstalling the game to ensure all files are properly downloaded. If the issue persists, please feel free to contact us at Archero@habby.fun for further assistance.",
+      "replyDate": "2026-01-26T06:58:54.136Z",
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=17afb884-7e4c-4276-b6d2-c14e98881d1f"
+    },
+    {
+      "date": "2026-01-25T21:02:26.392Z",
+      "score": 4,
+      "thumbsUp": 1,
+      "user": "Matthew Zarate",
+      "text": "good",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=d4b0d41e-d519-4ae1-8a91-372d101713a5"
+    },
+    {
+      "date": "2026-01-25T15:21:46.102Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "Michael Thompson",
+      "text": "too many ads and keeps promoting for a review even after giving one",
+      "reply": "By viewing the advertisements, you will be presented to opportunities to obtain coins, valuable items, gems, enhance skills, or attain revives within the game.\nIn the case where you do not want to view the ads, it remains entirely at your discretion.\nWe sincerely appreciate your support.",
+      "replyDate": "2026-01-26T07:00:52.710Z",
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=1a6117cd-5733-42c4-b235-3248acc27e42"
+    },
+    {
+      "date": "2026-01-24T23:56:21.907Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Monica Salvidar",
+      "text": "doesn't load the game, gives me a white box with text I can't understand",
+      "reply": "Could you please provide more details about the issue? Kindly send your UID, a description of the problem, and any relevant screenshots to Archero@habby.fun. Once we receive your email, we will address it as soon as possible. Thank you for your cooperation!",
+      "replyDate": "2026-01-25T07:28:02.210Z",
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=4e290d77-f225-4147-ae8c-85d0f9a675ab"
+    },
+    {
+      "date": "2026-01-23T10:25:46.334Z",
+      "score": 1,
+      "thumbsUp": 4,
+      "user": "John Red",
+      "text": "game is lagging badly. it started last days and is getting worse and worse..",
+      "reply": "Certain regions may experience network issues that affect game connectivity. We recommend checking your device's connection, switching networks, or restarting your device. If a VPN is needed for connection, this might be due to local network conditions. For further assistance, please contact us at Archero@habby.fun.",
+      "replyDate": "2026-01-24T08:08:20.414Z",
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=95429508-d6f7-46e8-a62b-303d4d6c4d2c"
+    },
+    {
+      "date": "2026-01-22T22:01:41.992Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Jackston",
+      "text": "great game",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=5fdf1ff7-e1ab-49e3-8a2b-3286a7cb42b5"
+    },
+    {
+      "date": "2026-01-22T03:43:28.847Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Fernando Arriaga",
+      "text": "fun",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=bc700773-fff7-4ce9-9360-55addde10476"
+    },
+    {
+      "date": "2026-01-20T19:15:14.361Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Michael Baugus",
+      "text": "game is really good for passing time. like that the forced adds are not bad. try it guys its pretty good.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=f29c326f-b82f-46da-9131-26d6e94a9ff8"
+    },
+    {
+      "date": "2026-01-20T13:40:54.620Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Brooklyn Makondora",
+      "text": "its really good, having best times playing it",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=abd4f870-ac05-4d6e-b651-600ecb9d8cd8"
+    },
+    {
+      "date": "2026-01-19T20:12:46.640Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Talika *",
+      "text": "grate game dungen 2 is difficult and its almost like the game doent want you to win but its very fun its abot skill and luck :)",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=ec91a482-923e-4b88-9255-2c0f1df2c6f1"
+    },
+    {
+      "date": "2026-01-18T22:02:02.310Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Paul Wailling",
+      "text": "very gripping",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=2e941a06-6abe-431e-924c-c65bfc1e136c"
+    },
+    {
+      "date": "2026-01-18T19:30:04.580Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Cade Martin",
+      "text": "fun game so far better than Archero 2.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=34d39722-6a01-4517-a802-b76473886fcc"
+    },
+    {
+      "date": "2026-01-18T17:50:13.234Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Robert Goff",
+      "text": "awesome game",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=cfdb41cc-b55e-4fd5-b293-1dc4f6a64ffb"
+    },
+    {
+      "date": "2026-01-18T17:26:38.870Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Gjorgji Cikarski",
+      "text": "the game became total nonsense!! you complete the week tasks but it didn't count them and it didn't register them as complete...!!",
+      "reply": "We sincerely apologize for any inconvenience caused. The issue has now been resolved. Please log in to the game again to check. If you experience any further problems, please don’t hesitate to contact us at Archero@habby.fun. Thank you for your understanding and support!",
+      "replyDate": "2026-01-19T08:15:36.000Z",
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=2f4b4148-b68e-4f1d-8c51-4c579ce555d3"
+    },
+    {
+      "date": "2026-01-17T09:03:26.102Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Marko",
+      "text": "why is it always network error after the update??",
+      "reply": "Certain regions may experience network issues that affect game connectivity. We recommend checking your device's connection, switching networks, or restarting your device. If a VPN is needed for connection, this might be due to local network conditions. For further assistance, please contact us at Archero@habby.fun.",
+      "replyDate": "2026-01-18T09:45:34.936Z",
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=077e605d-fc06-4d23-947e-fae4a70b3917"
+    },
+    {
+      "date": "2026-01-16T01:20:44.840Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Kevin Coater",
+      "text": "very fun games I've played it for years",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=695005ed-e285-479b-bbdc-4e5dc0f22df4"
+    },
+    {
+      "date": "2026-01-15T17:46:21.865Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "Jeffery Chism",
+      "text": "it's is a wonderful game to play I love it",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=b37f2cd2-bfbf-43ea-87c1-c37430280214"
+    },
+    {
+      "date": "2026-01-15T15:09:29.570Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Phillip Thomas",
+      "text": "Such a Scam and a money grab- was an idiot and bought a pack through this app and couldn't even use the shards that were in it. 0 help through customer support.",
+      "reply": "Could you please provide more details about the issue? Kindly send your UID, a description of the problem, and any relevant screenshots to Archero@habby.fun. Once we receive your email, we will address it as soon as possible. Thank you for your cooperation!",
+      "replyDate": "2026-01-16T08:21:55.935Z",
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=4b262f83-b293-4d9f-91dc-84267195f7cf"
+    },
+    {
+      "date": "2026-01-15T08:43:26.695Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Ricardo K.",
+      "text": "I paid for one pack. And didn't receive nothing solve that please",
+      "reply": "Thank you for supporting our game!\nIn order to assist you further, please send screenshots of your player ID found in the settings, along with your Google Play receipt to our support email ​Archero@habby.fun",
+      "replyDate": "2026-01-16T08:22:32.991Z",
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=441ae655-bd83-4651-a485-a34d56cbf4de"
+    },
+    {
+      "date": "2026-01-14T15:37:35.260Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "victor vasco",
+      "text": "This game used to be good, but now it's just a grind.",
+      "reply": "We apologize that your game experience was not as expected. We are currently working to improve the game. If you have any questions or requests, please feel free to let us know.",
+      "replyDate": "2026-01-15T06:11:19.491Z",
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=438c2c71-3f96-4ed5-99c2-8f38b49ad885"
+    },
+    {
+      "date": "2026-01-14T13:32:26.490Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Daniel",
+      "text": "I play this game 10 years",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=1b1836a2-9fa4-4cc9-acc4-157a2f82c127"
+    },
+    {
+      "date": "2026-01-12T19:29:24.640Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Dak Blit",
+      "text": "good game all except for the ads.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=1fcb2d65-ae95-4baa-ba63-e5c236a8321a"
+    },
+    {
+      "date": "2026-01-12T14:20:58.361Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "Rahul Kumar",
+      "text": "good game 🎯",
+      "reply": "Thank you for your kind feedback, your input will be served as a motivation to our team to develop and improve on the game.\nThanks for your continuing support.",
+      "replyDate": "2026-01-13T08:13:52.100Z",
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=38123c39-6c85-438d-8183-adef9b522a21"
+    },
+    {
+      "date": "2026-01-12T11:47:19.208Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Logan McCauley",
+      "text": "Big Update (?): Stats for Nerds Panel, Level Replay, Toggle Buttons for peripheral stats, AlSO, where'd the character outfit save button go?!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=f492ef93-3a4c-46a8-bc7a-a6e3b6c75a60"
+    },
+    {
+      "date": "2026-01-12T07:56:27.388Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Mahmut Kemal Alhan",
+      "text": "I like archery games. There are a bunch of upgrades in the game which satisfy you a lot. So I like it very much. Come and play it, improve your skills and enjoy your time!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=646288e9-1661-4e73-9033-4b69725f7dce"
+    },
+    {
+      "date": "2026-01-11T22:56:57.672Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Sage Collins",
+      "text": "good game just always says I got network issues",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=66468f22-ac5b-4dcc-8c8a-132d2892a0c1"
+    },
+    {
+      "date": "2026-01-11T15:16:24.701Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Djordje Mijailovic",
+      "text": "unplayable game with infinitive things to collect and spam ads and 100000 ad ons and things to upgrade bruh just because you can add 10000 features does not mean you have to.....and all that for a small phone screen....even for a desktop app it would be too much",
+      "reply": "Thank you for providing us with your valuable feedback.\nWe understand that you believe that some aspects of the game should be further improved.\nPlease be assured that your valuable input will be carefully considered by our development team for future enhancements.\nThank you for contributing to the continued refinement of our gaming experience.",
+      "replyDate": "2026-01-12T05:33:17.878Z",
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=a4bf7a04-1b98-4d31-bf85-83c61a2dfa6e"
+    },
+    {
+      "date": "2026-01-11T10:30:45.379Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "waris khan",
+      "text": "your game getting worse after each updated, why don't you optimize the game and make it stable so it runs smoother, crashes again and again, automatically closes, have tried everything but still it sucks, wish I could rate it in negative starts",
+      "reply": "Thank you for providing us with your valuable feedback.\nWe understand that you believe that some aspects of the game should be further improved.\nPlease be assured that your valuable input will be carefully considered by our development team for future enhancements.\nThank you for contributing to the continued refinement of our gaming experience.",
+      "replyDate": "2026-01-12T05:32:53.795Z",
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=b89dbcc4-d871-4dd3-a90c-0e43d78ba4a5"
+    },
+    {
+      "date": "2026-01-10T17:54:58.493Z",
+      "score": 2,
+      "thumbsUp": 7,
+      "user": "Richard Alatorre",
+      "text": "I was at 4 stars. now 2. came back after 3 years: TOO MANY THINGS ARE ADDED TO THE RNG ROLL SYSTEM. You used to be able to get at least ONE good thing each upgrade but now it's MAYBE one good thing every 5 and now I'm starting levels stuck in the corner with 5 enemies shooting thing at me and all I have is one weapon and look! I rolled.... the chance for monsters to explode when I kill them...?!? it's gotta stay fun while being challenging. this isn't fun anymore it's just aggravating.",
+      "reply": "Thank you for providing us with your valuable feedback.\nWe understand that you believe that some aspects of the game should be further improved.\nPlease be assured that your valuable input will be carefully considered by our development team for future enhancements.\nThank you for contributing to the continued refinement of our gaming experience.",
+      "replyDate": "2026-01-11T08:17:19.778Z",
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=273fdffa-3681-44a1-ba0a-527d85ca3b87"
+    },
+    {
+      "date": "2026-01-10T15:20:18.603Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "htayhtay maw",
+      "text": "good",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=1c19be52-58ae-4278-9fe2-e3dffdd4a767"
+    },
+    {
+      "date": "2026-01-10T04:31:33.209Z",
+      "score": 1,
+      "thumbsUp": 11,
+      "user": "Jason Trammell",
+      "text": "After the latest update, December 2025, get libmain.so error. Now Archero won't load. I can not go into game settings and click the repair button as Habby suggested as game won't even load. I uninstalled then reinstalled Archero (Android phone through the playstore), game still gives error and will not load, also cleared cache and data. Edit: I've contacted Habby several times, still no fix as of January 9th.",
+      "reply": "Thank you for providing us with your valuable feedback.\nWe understand that you believe that some aspects of the game should be further improved.\nPlease be assured that your valuable input will be carefully considered by our development team for future enhancements.\nThank you for contributing to the continued refinement of our gaming experience.",
+      "replyDate": "2026-01-12T05:33:54.260Z",
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=50543427-ad4b-4521-821a-a00db6d8a7cf"
+    },
+    {
+      "date": "2026-01-09T08:19:05.920Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "munirah halim",
+      "text": "Great game, and so easy to beat",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=c540ee53-8c8f-4d5d-8f49-7b5af2132c0d"
+    },
+    {
+      "date": "2026-01-09T00:41:01.822Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Dancehall Hits",
+      "text": "each time I go from online and play the game offline it requires me to apply every asset everytime thats stupid I hate that",
+      "reply": "Could you please provide more details about the issue? Kindly send your UID, a description of the problem, and any relevant screenshots to Archero@habby.fun. Once we receive your email, we will address it as soon as possible. Thank you for your cooperation!",
+      "replyDate": "2026-01-09T07:29:05.487Z",
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=110025f5-3a94-43eb-a485-781628847501"
+    },
+    {
+      "date": "2026-01-08T02:02:56.601Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Munirah Halim",
+      "text": "so GOOD 👍",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=0eec228a-73bd-4c9f-ac3b-714178b20b80"
+    },
+    {
+      "date": "2026-01-07T20:51:51.978Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "David Auernheimer",
+      "text": "spent $10 on the chapter 2 value pack and didn't receive the rewards. game is very fun, runs very smooth on my old phone most of the time. I would give a 5 star but the loss of money with nothing to show for it kills my review.",
+      "reply": "Thank you for supporting our game!\nIn order to assist you further, please send screenshots of your player ID found in the settings, along with your Google Play receipt to our support email ​Archero@habby.fun",
+      "replyDate": "2026-01-08T06:25:54.804Z",
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=a7c04848-e800-458e-ade7-72db784aac9e"
+    },
+    {
+      "date": "2026-01-06T19:40:34.680Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Ryan Silva",
+      "text": "anúncio de 2 minutos… é sério isso?",
+      "reply": "Obrigado pelo seu feedback.\nVocê pode nos fornecer mais informações sobre isso?\nPor favor, informe o nome do anúncio e onde você o encontrou.\nVocê pode entrar em contato conosco pelo e-mail archero@habby.fun.",
+      "replyDate": "2026-01-07T05:59:46.823Z",
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=bee31f1c-894c-40e2-bf08-f657f8e59e9a"
+    },
+    {
+      "date": "2026-01-06T19:19:58.580Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Abdul Tareen",
+      "text": "When will the new update come out?",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=288ca00f-5647-473a-9e5e-d15ab73aca0a"
+    },
+    {
+      "date": "2026-01-06T19:13:52.840Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Dominic Smith",
+      "text": "me and my dad love this game wall he loved it he's dead now but is is as great as i remember",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=fcffdbbb-0935-4b7f-be84-6dde4338600f"
+    },
+    {
+      "date": "2026-01-05T02:38:18.365Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "1tchy Balls",
+      "text": "this is so dopamine hitting",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=aa9ed73f-3a7c-469c-8031-ca0fba826835"
+    },
+    {
+      "date": "2026-01-04T14:20:45.351Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Hein htet soe",
+      "text": "Good",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=1efad411-1eb9-497f-9007-09f51ab87eaf"
+    },
+    {
+      "date": "2026-01-04T10:27:01.651Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Oguzhan Orhan",
+      "text": "heavy pay to win game. at my progress 230k damage you cannot compete with other players without extra pack or chests. those free chest mean nothing after 1 month playing. thats why l quit.",
+      "reply": "Purchasing in the game is not the only way to strengthen yourself.\nYou can acquire resources by completing daily missions and activities, or by collecting chapter chests after your clearance.\nWe will also continuously improve the game, striving to enhance the Archer experience. Thank you very much for your opinions and suggestions.",
+      "replyDate": "2026-01-05T08:30:58.719Z",
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=35eccc44-e96e-4bdb-b85c-dacf13d97db4"
+    },
+    {
+      "date": "2026-01-04T05:32:02.811Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Darius Hanuse",
+      "text": "Hell yeah",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=8c9fc61c-139c-4e48-a3d9-fa8d5dbb13b7"
+    },
+    {
+      "date": "2026-01-03T17:29:11.654Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Ayanna Stokes",
+      "text": "can't play this game since apparently the hardware doesn't support the app",
+      "reply": "Could you please provide more details about the issue? Kindly send your UID, a description of the problem, and any relevant screenshots to Archero@habby.fun. Once we receive your email, we will address it as soon as possible. Thank you for your cooperation!",
+      "replyDate": "2026-01-04T09:14:29.937Z",
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=890a50ec-9b0c-4ee9-8636-86e735443099"
+    },
+    {
+      "date": "2026-01-02T14:14:13.419Z",
+      "score": 1,
+      "thumbsUp": 7,
+      "user": "Adam White",
+      "text": "Enjoying it.Very good game.So frustrating.I have installed and uninstalled so many times.I sent you screenshots which details why it wont load or play like you asked.Telling me over and over to uninstall it and re install it is just insulting.Can you fix it or not? Please dont give me generic answers.Thanks.",
+      "reply": "Could you please provide more details about the issue? Kindly send your UID, a description of the problem, and any relevant screenshots to Archero@habby.fun. Once we receive your email, we will address it as soon as possible. Thank you for your cooperation!",
+      "replyDate": "2025-12-27T07:23:21.200Z",
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=b110c386-ac63-43e3-b7a9-dc7477549adc"
+    },
+    {
+      "date": "2026-01-02T07:54:57.560Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Balan",
+      "text": "this game is not what is used to be, not this one nor the other ones, gets broing after a few levels and really repetitive, also the game is money hungry. if you are free to play and dont put any money you are basically dead and have no chance",
+      "reply": "\nWe’re sorry to hear that you feel this way. We understand the game may feel repetitive or challenging for free players at times. Your feedback is invaluable, and we’ll share it with our team to improve the game experience. If you have further thoughts, please let us know at Archero@habby.fun. Thank you for playing!",
+      "replyDate": "2026-01-02T09:50:39.228Z",
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=0368da7f-d6bd-4516-9823-828e04c9f5b4"
+    },
+    {
+      "date": "2026-01-01T10:48:00.245Z",
+      "score": 1,
+      "thumbsUp": 61,
+      "user": "Stew Mc",
+      "text": "Well, had a email now saying that I need to install it on a different device and it won't work on my device. so what I need to buy a new phone?? if I would like to carry on playing, after literally playing 10 years...great",
+      "reply": "Could you please provide more details about the issue? Kindly send your UID, a description of the problem, and any relevant screenshots to Archero@habby.fun. Once we receive your email, we will address it as soon as possible. Thank you for your cooperation!",
+      "replyDate": "2026-01-02T09:48:27.204Z",
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=6826f04d-6cfa-48dc-a019-7978142233cd"
+    },
+    {
+      "date": "2026-01-01T10:34:46.631Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "A. Rangga",
+      "text": "Just great for casual action game.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=3ca63164-e1e3-4858-9b39-5593cf721588"
+    },
+    {
+      "date": "2025-12-31T03:40:25.246Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Bryant Paul",
+      "text": "love this game smooth well design",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=e72fb7e3-f0b4-4a84-a43a-6c684bfc3f31"
+    },
+    {
+      "date": "2025-12-31T01:39:07.989Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "chad conway",
+      "text": "very fun game takes awhile to get going",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=365143f8-8c56-4909-a01d-90451596e342"
+    },
+    {
+      "date": "2025-12-29T18:24:13.680Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Νινα-Μ Κεζ",
+      "text": "what a p2 win bs of a game. Not only are the important items dropped by luck which makes farming very hard but also you rig the drop rates so the player is forced to pay.Also spoiler alert you dont need 100 different currency in game! What an utterly disapppointment.",
+      "reply": "Purchasing in the game is not the only way to strengthen yourself.\nYou can acquire resources by completing daily missions and activities, or by collecting chapter chests after your clearance.\nWe will also continuously improve the game, striving to enhance the Archer experience. Thank you very much for your opinions and suggestions.",
+      "replyDate": "2025-12-30T08:58:48.938Z",
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=e53e013a-a93e-4340-b329-23259318ad33"
+    },
+    {
+      "date": "2025-12-29T09:45:35.711Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Amanda Wirgau",
+      "text": "I love this game was so much fun.It was so cool to have a sore green and having 400 1400 lives.So good game",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=1b269ad8-e868-4708-87e0-5fb0a4497591"
+    },
+    {
+      "date": "2025-12-28T15:02:51.643Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Halid Khan",
+      "text": "add more Inferno stage",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=ecf11360-b635-4586-9bac-1044eca42bbf"
+    },
+    {
+      "date": "2025-12-28T14:50:31.257Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Dave Verdin",
+      "text": "cashgrab trash",
+      "reply": "Purchasing in the game is not the only way to strengthen yourself.\nYou can acquire resources by completing daily missions and activities, or by collecting chapter chests after your clearance.\nWe will also continuously improve the game, striving to enhance the Archer experience. Thank you very much for your opinions and suggestions.",
+      "replyDate": "2025-12-29T09:36:28.454Z",
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=7fe9d9c7-4874-4318-97c0-dbb4ead96962"
+    },
+    {
+      "date": "2025-12-28T08:17:55.923Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Riyad Amin",
+      "text": "update want to uninstall apps. it takes huge memory. this is excellent game. i am enjoying more than 5 years....",
+      "reply": "As the game updates, memory usage may increase. We are working to optimize performance and resource management for a smoother experience. Please clear device storage or close background apps to help improve gameplay. For more suggestions, contact us at Archero@habby.fun. Thank you!",
+      "replyDate": "2025-12-28T08:48:28.500Z",
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=5b85912d-9d16-42cd-b4e7-23066a810cd4"
+    },
+    {
+      "date": "2025-12-28T04:58:59.153Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Easton",
+      "text": "it's amazing",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=9522000d-9fd1-46e9-95f4-010e44407d88"
+    },
+    {
+      "date": "2025-12-28T01:44:17.884Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Adam Colvin",
+      "text": "very fun",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=39f31e9d-4719-47be-b196-7db87957f892"
+    },
+    {
+      "date": "2025-12-27T21:08:53.980Z",
+      "score": 1,
+      "thumbsUp": 11,
+      "user": "Hannah Tietjens",
+      "text": "Changed from 5 star rating down to one. I am normally on WiFi and have no problems whatsoever, but in the last month, I've had severe problems with the game in regards to \"Network Error\" popping up whenever I tap something in the game. Today, I tapped for my free revive and got a network error, then the Chapter closed and went back to the main Map screen. The programmers NEED to do something about this. my wife is also having problems, and we have full WiFi signal. Do something about this!",
+      "reply": "Certain regions may experience network issues that affect game connectivity. We recommend checking your device's connection, switching networks, or restarting your device. If a VPN is needed for connection, this might be due to local network conditions. For further assistance, please contact us at Archero@habby.fun.",
+      "replyDate": "2025-12-28T08:46:47.256Z",
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=0380d1b3-d949-4277-911c-e99ff771ff04"
+    },
+    {
+      "date": "2025-12-27T18:31:54.998Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "ariana beljean",
+      "text": "dude this game is sooo good BUT every phone I've ever had iPhone to android to tablet. one problem the ad drops the app completely it just drops the game and restarts and you don't get the prize this is the only reason I ever delete the game",
+      "reply": "Hello, we apologize for the inconvenience. Please take screenshots of your level progress and the crashing ad screen, along with your UID, and send them to our email address: Archero@habby.fun. We will compensate you for your losses. Thank you for your understanding and support.",
+      "replyDate": "2025-12-28T08:47:02.599Z",
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=32e43b92-d518-47ed-b804-3339c6f64e5a"
+    },
+    {
+      "date": "2025-12-27T16:15:28.302Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Salahaddin Emamy",
+      "text": "Its a very fun game but please make it don't stop firing while moving te character",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=6768a5d3-d4a0-473c-a214-77c5cd34d843"
+    },
+    {
+      "date": "2025-12-25T17:14:46.473Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "Peter Hamer",
+      "text": "best phone game ever",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=30fbbb67-d573-4b52-bd14-2341fd2b8b1c"
+    },
+    {
+      "date": "2025-12-25T08:04:32.920Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Enzo Hunter",
+      "text": "very bad game",
+      "reply": "Thank you for supporting our game. Could you elaborate on the issue you are currently having? Additionally, we welcome any open suggestions for game improvements. We want you to know that our development team will carefully consider your valuable input for future enhancements. You may contact us at Archero@habby.fun.",
+      "replyDate": "2025-12-26T08:13:07.428Z",
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=fbc8b051-7d82-4163-92cf-47cfb790ae82"
+    },
+    {
+      "date": "2025-12-24T13:18:43.788Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "Dominic Landman",
+      "text": "the game is fun and addictive but the micro transactions slow the game down, and with this new update I lost my perfect epic armor that was level 60 and it's just gone no scrolls or anything the armor is gone",
+      "reply": "We sincerely apologize for the negative experience you encountered in the game. We have attempted to fix the issue; please restart the game with a stable internet connection to check if it has been resolved. If you are still experiencing problems, please let us know via email at Archero@habby.fun.",
+      "replyDate": "2025-12-25T06:43:36.364Z",
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=cb80214d-4080-4f8a-9ac2-be8444f11f61"
+    },
+    {
+      "date": "2025-12-23T12:36:58.111Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "lil quack",
+      "text": "garbage game with insane amount of 1 minutes ads",
+      "reply": "By viewing the advertisements, you will be presented to opportunities to obtain coins, valuable items, gems, enhance skills, or attain revives within the game.\nIn the case where you do not want to view the ads, it remains entirely at your discretion.\nWe sincerely appreciate your support.",
+      "replyDate": "2025-12-24T06:57:31.403Z",
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=42a0801d-26b9-4d12-b4e8-6725f2395b39"
+    },
+    {
+      "date": "2025-12-22T17:17:43.899Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Mohamed T Mohamed",
+      "text": "I had an S grade demon king shield it was legendary ... when I updated the last update to the game , it dissappered",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=db77303d-f828-48fa-a348-29eb577a88d0"
+    },
+    {
+      "date": "2025-12-22T15:02:48.809Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "Febrianto",
+      "text": "I lost my lv 50 demon king warplate after recent update I don't know why.. too bad because it's the best among the armors.",
+      "reply": "We sincerely apologize for any inconvenience caused. We are aware of this issue and are working hard to test and try to resolve it.\nPlease log in to the game again to check. If you experience any further problems, please don’t hesitate to contact us at Archero@habby.fun. Thank you for your understanding and support!",
+      "replyDate": "2025-12-23T07:12:27.409Z",
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=4c6081ab-5693-4c79-afa5-a6852d34b38f"
+    },
+    {
+      "date": "2025-12-22T04:04:06.440Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Damián Ola Nava",
+      "text": "bugs/glitches made me lose items, coins and scrolls. requested support and they just gave me the finger 3 times.",
+      "reply": "We sincerely apologize for any inconvenience caused. We are aware of this issue and are working hard to test and try to resolve it.\nPlease log in to the game again to check. If you experience any further problems, please don’t hesitate to contact us at Archero@habby.fun. Thank you for your understanding and support!",
+      "replyDate": "2025-12-22T06:47:23.925Z",
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=0f3e03e1-0c9b-40ed-9f57-6351be769c72"
+    },
+    {
+      "date": "2025-12-20T22:45:45.705Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "D Effler",
+      "text": "great",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=46ea422e-2b9d-4ed2-9072-e9660590ae8c"
+    },
+    {
+      "date": "2025-12-20T08:04:31.470Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Daniel Vasilica",
+      "text": "The game is really good I might be wrong but there is little ads. game is Wow",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=4b891dcd-a069-4eaa-aebb-c490e2d174f8"
+    },
+    {
+      "date": "2025-12-20T06:29:28.364Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Rabi khadka",
+      "text": "🫡🫡🫡",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=ecab4e07-b393-4fb8-839b-cb717ea07fb8"
+    },
+    {
+      "date": "2025-12-20T00:06:06.489Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "T.A. Nelson",
+      "text": "This game is awesome. I am hooked...",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=881fd3b9-fba0-4bab-90a7-f4c37be56091"
+    },
+    {
+      "date": "2025-12-19T20:10:18.473Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "William Fish",
+      "text": "I find it extremely enjoyable. The sequel is more glamorous, but this one has a rough edge I enjoy. True Grit.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=7aacbfe1-92a4-4de2-815b-2bffde289cc2"
+    },
+    {
+      "date": "2025-12-19T14:40:22.222Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Diego Dg",
+      "text": "SCAM. no way to sign in on another device. If you switch phones or go from Apple to Android your progress is gone. SCAM",
+      "reply": "For assistance with transferring your game data between iOS to Android, please reach out to us through Archero@habby.fun.\nWe appreciate your cooperation and look forward to helping you with the transfer process.",
+      "replyDate": "2025-12-20T08:17:17.159Z",
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=caf26ee0-8321-468b-8139-69fddae8cf58"
+    },
+    {
+      "date": "2025-12-18T18:10:47.879Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Josh Murphy",
+      "text": "good game.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=b0aab476-32ab-48a5-93c0-892dee4f203b"
+    },
+    {
+      "date": "2025-12-18T03:53:12.978Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Keifer Mccord",
+      "text": "absolutely love this game! archero 1 and 2!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=81159f0d-b8ec-4aac-8ea8-526a0ed57aff"
+    },
+    {
+      "date": "2025-12-17T17:07:04.853Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Dee Blackwell",
+      "text": "nice texture",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=493069b0-adc2-4f18-88ba-3c703ca7a019"
+    },
+    {
+      "date": "2025-12-17T16:48:36.233Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Rafael Alizade",
+      "text": "its good",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=38cf7f60-bdc7-441f-aed9-71585fb964ca"
+    },
+    {
+      "date": "2025-12-17T16:27:33.310Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Ignis Immensus",
+      "text": "This game is very good. I liked how it does not force ads on me. The game play needs some work and improvement. The game gets very boring after level 2. I think you should add more character upgrades and make it easier to become a superman. Make it easier to finish the game and unlock strong characters.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=ac87d740-841a-40c7-82e7-37f9d3e5c66a"
+    },
+    {
+      "date": "2025-12-17T09:16:06.230Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "Trenton Smith",
+      "text": "Really fun and great game. You should add the \"build your own level\" as you showed in the ad before people downloaded the game, because that's one of the only reasons why, I downloaded the game It's been over 5 years now, how have you not had the time?",
+      "reply": "We appreciate your valuable feedback and understand your concerns about areas for improvement in the game. Rest assured, your input will be carefully reviewed by our development team to enhance the gaming experience. Thank you for helping us improve! If you have further suggestions, feel free to contact us at Archero@habby.fun.",
+      "replyDate": "2025-12-19T08:07:59.649Z",
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=fc93102b-b03f-4d49-b3aa-1f76f3c7f7b8"
+    },
+    {
+      "date": "2025-12-17T02:04:10.484Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "Edward Limos",
+      "text": "I am using my dad's account here This game has been fun, but ofcourse, issues. I personally find this game data-heavy at times, and the most infuriating part is when a data check occurs WHILE in battle. Made me hit my phone, but good thing its resistant. I request a fix on the latter problem",
+      "reply": "At times, Archers may encounter connection issues between their local network settings and the server. To troubleshoot, consider switching between 4G and Wi-Fi to determine if the problem persists.\nYour support is greatly appreciated.\nThank you for your understanding and cooperation.",
+      "replyDate": "2025-12-17T06:02:01.903Z",
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=122d17ef-56b6-43df-991a-9be2ccd78812"
+    },
+    {
+      "date": "2025-12-16T18:13:41.882Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Helian Kelly Almeida Orlik",
+      "text": "It's addictive and the game flows well",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=31eaabb1-a68d-4585-81f7-a10fa1a687ed"
+    },
+    {
+      "date": "2025-12-16T14:48:55.300Z",
+      "score": 1,
+      "thumbsUp": 2,
+      "user": "Eren Yeager",
+      "text": "this game is a scam. 1 it's paid to win and 2 they give you bosses that you can out run and that constantly moving so you can't attack cuz you have to stand still to attack they need to fix that you should be able to move and attack just like their bosses or it's not a fair game let alone the bosses that constantly moves that don't stop moving The purposely increase those bosses health I feel like the bosses that move the most should have the least amount of health but they have the most. L game",
+      "reply": "Thank you for your feedback. We understand your concerns about game balance and boss mechanics. Our team is continuously working to improve fairness and gameplay experience. Your suggestions will be shared with the developers. If you have more ideas, please let us know. Thank you for your support!",
+      "replyDate": "2025-12-17T05:58:09.135Z",
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=f4f8e763-96ca-45b6-8c93-080bd1cdc0e8"
+    },
+    {
+      "date": "2025-12-16T10:54:33.528Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Silon Babu",
+      "text": "GOOD",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=2b585f56-ed4a-4682-8843-8bb90bf61a99"
+    },
+    {
+      "date": "2025-12-15T07:31:58.256Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "T R",
+      "text": "pretty fun way to pass the time has some kind of unique gimicks",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=f170c1ae-99e3-48bc-ad21-9345d6694271"
+    },
+    {
+      "date": "2025-12-15T00:53:03.684Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Arjun Singh Sihra",
+      "text": "They keep giving ads that forcefully redirect you to the playstore which is extremely annoying",
+      "reply": "We're sorry that this has affected your gameplay experience. The way the advertisement is displayed is not determined by us, but wewil submit your feedback to the advertisers for optimization. Thank you for your understanding! You can reach us atArchero@habby.fun.",
+      "replyDate": "2025-12-15T08:51:34.526Z",
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=b6594b7d-feef-48bf-914c-6e14412eb421"
+    },
+    {
+      "date": "2025-12-14T17:17:12.886Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "Ali Murat SAKALLI",
+      "text": "Too many buttons.",
+      "reply": "In regards to the issue, please kindly provide us with more information.\nDo include your user ID & attach the corresponding screenshots to Archero@habby.fun.\nUpon receipt of your response, we will promptly initiate an investigation.\nWe appreciate your cooperation in resolving this matter. Thank you.",
+      "replyDate": "2025-12-15T08:51:50.456Z",
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=daef4ac5-1dae-4841-a603-7fd949fbfc59"
+    },
+    {
+      "date": "2025-12-14T05:29:47.221Z",
+      "score": 3,
+      "thumbsUp": 2,
+      "user": "Professor Frink",
+      "text": "Self Destruct Save. Played years. Got high level. Installed Google Play Games to transfer save to alt device. Archero says: Log in w Blank Save Game instead of High Level Save Game. CONFIRM? (only option, both devices) Can see my correct Save ID, can't select it. Can erase High Level Save and start over, or force quit. Tech had me logout of GPG, uninstall/reinstall Archero. FIXED. Should be OK to select known correct ID! (2025, black screen no start since last few updates.Now often broke, y try)",
+      "reply": "if you hadn't linked your game ID to your Google Play or Game Center account. Try signing out, clearing the cache, and restarting your phone. If progress was linked, switch back to the correct account and clear cache to restart. Following these steps should restore progress. If not, please contact us at Archero@habby.fun.",
+      "replyDate": "2025-12-14T08:41:48.876Z",
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=86da2ffa-377a-4524-bc01-281365c0c727"
+    },
+    {
+      "date": "2025-12-14T01:23:50.921Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Andrew Nelson",
+      "text": "This game killed countless hours in federal prison. I'm playing it now largely out of nostalgia. Still fun, though!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=804a5871-8382-426b-ab57-f1da4c918e76"
+    },
+    {
+      "date": "2025-12-13T06:17:31.284Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Julveria",
+      "text": "Simple idea yet effective and fun",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=0d456e77-0be5-43d7-a0cc-8775a14ce467"
+    },
+    {
+      "date": "2025-12-12T08:30:23.852Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Bryan Woodcox",
+      "text": "top tier frfr",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=051a29d4-d102-4dd9-8ccb-d256b317081b"
+    },
+    {
+      "date": "2025-12-12T03:21:21.730Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "MHK",
+      "text": "Pay to win",
+      "reply": "Purchasing in the game is not the only way to strengthen yourself.\nYou can acquire resources by completing daily missions and activities, or by collecting chapter chests after your clearance.\nWe will also continuously improve the game, striving to enhance the Archer experience. Thank you very much for your opinions and suggestions.",
+      "replyDate": "2025-12-12T07:36:58.399Z",
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=d7c13f26-53ad-4e7e-b0f4-7665c091e581"
+    },
+    {
+      "date": "2025-12-11T16:17:15.777Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Bam bam",
+      "text": "My data in game is lost. all of my progress are gone i can't log in my gmail also.",
+      "reply": "Your data may have been overwritten if you hadn't linked your game ID to your Google Play account. Try signing out, clearing the cache, and restarting your phone. If progress was linked, switch back to the correct account and clear cache to restart. Following these steps should restore progress. If not, please contact us at Archero@habby.fun",
+      "replyDate": "2025-12-12T07:41:29.460Z",
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=4a433ead-3b2f-4c66-9005-8e7a9c06a672"
+    },
+    {
+      "date": "2025-12-11T13:23:41.695Z",
+      "score": 1,
+      "thumbsUp": 25,
+      "user": "Lexy Gifford",
+      "text": "Recently started playing the game again. Haven't played for years. Wanted to start my game over because of all the updates and features that have been released over the years.... However, the game lacks the ability to reset game progress through the app. I had to contact customer service and wait DAYS for the reset to happen. I also read that you're only allowed to reset your progress once... Which is super weird. its MY game progress, I should be able to do whatever I want with it.",
+      "reply": "The reset mechanism protects player data and prevents accidental losses, so each player can request a reset only once to ensure stability and security. We will share your suggestion with the development team to improve flexibility and user experience in future updates. If you have further questions , please contact us at Archero@habby.fun",
+      "replyDate": "2025-12-12T07:46:26.560Z",
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=f36fb50a-36cb-4aff-8a6b-0d598146ed1b"
+    },
+    {
+      "date": "2025-12-10T17:52:01.429Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "Josh Tripp",
+      "text": "I love how simple this game is. simple... but the higher you get, the strategy is key! Also, this is 100% free to play,they don't jack up the difficulty to an impossible level to where you can't win if you don't play!!! I love this game!!!!!!!! It's 2025. I still never paid for anything! love this game",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=bb7fd776-b1f5-4cbe-a679-08fcddc4d4ec"
+    },
+    {
+      "date": "2025-12-10T14:26:51.628Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Ockert",
+      "text": "Addictive !",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=8ae23459-2637-46c4-b26f-99f1b909b567"
+    },
+    {
+      "date": "2025-12-09T18:11:44.648Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Oluwaseun Oremodu",
+      "text": "epic",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=c681d339-bbe3-4c5c-9367-01d636994822"
+    },
+    {
+      "date": "2025-12-09T00:32:34.644Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "Ryan Everts",
+      "text": "ok",
+      "reply": "Thank you for your kind feedback, your input will be served as a motivation to our team to develop and improve on the game.\nThanks for your continuing support.",
+      "replyDate": "2025-12-09T07:47:29.926Z",
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=0d0b68d6-e258-403f-b11e-8ba8d9b4adf0"
+    },
+    {
+      "date": "2025-12-07T17:15:45.486Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "CRIMINAL GAMING",
+      "text": "guys I've switched from ios to Android and all. my years of playing archero has been lost I'm going to sell my iphone to buy Android please I want my acc transferred to android please help. me",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=7915894e-6798-4dde-8aeb-c705d5744a5d"
+    },
+    {
+      "date": "2025-12-06T09:20:52.131Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Rahim Henry",
+      "text": "If you're simply looking to waste time then this is the game for you. But if you are a looking to complete this game then do not download. It's a hoax.",
+      "reply": "Thank you for supporting our game. Could you elaborate on the issue you are currently having? Additionally, we welcome any open suggestions for game improvements. We want you to know that our development team will carefully consider your valuable input for future enhancements. You may contact us at Archero@habby.fun.",
+      "replyDate": "2025-12-07T07:52:18.655Z",
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=dad757e5-22f1-469b-ab27-739926e07bdb"
+    },
+    {
+      "date": "2025-12-05T23:05:07.526Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "style gaming",
+      "text": "best game good graphics",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=2218c25d-72d0-4506-9f2f-1d89bdbbfab2"
+    },
+    {
+      "date": "2025-12-05T18:36:18.891Z",
+      "score": 2,
+      "thumbsUp": 9,
+      "user": "Adrian Phenez",
+      "text": "Game is fine. Early game is fun and energetic. As you progress it obviously becomes more challenging. Auto aim does not lock on nearest enemy all the time causing problems in game play. It is what it is, decent game and fun but frustrating when it does not do what you want it to do. Many advertisers but that's what you get for free. Battlepass only removes 1 advert point, still tons of them after purchase. Grindy game designed to encourage spending money often.",
+      "reply": "Thank you for your feedback! We're happy to hear you enjoy the game overall. We understand the frustration with auto-aim and will work on improving it. Ads are part of free games, but we strive to minimize the impact. Your thoughts are valuable, and we'll keep working to enhance your experience. Thank you for your support!",
+      "replyDate": "2025-12-06T06:29:20.875Z",
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=3d4d0b6c-e99e-4109-b1f9-5eb98741ab14"
+    },
+    {
+      "date": "2025-12-05T16:00:34.970Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Panara Vijay",
+      "text": "best game",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=c376fb7d-6b7d-4d41-97fc-e37b2ef134b6"
+    },
+    {
+      "date": "2025-12-05T11:36:50.783Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "Qwe Asd",
+      "text": "why cannot play if not go the play store and tap the play only loading screen.",
+      "reply": "In regards to the issue, please kindly provide us with more information.\nDo include your user ID & attach the corresponding screenshots to Archero@habby.fun.\nUpon receipt of your response, we will promptly initiate an investigation.\nWe appreciate your cooperation in resolving this matter. Thank you.",
+      "replyDate": "2025-12-06T06:30:29.313Z",
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=921cbc51-17c5-415c-a14c-34c8da297ead"
+    },
+    {
+      "date": "2025-12-05T07:00:41.595Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "Rian De Cleir",
+      "text": "Glad I stopped playing a few hours in. Never got my rewards for binding my account. Also grinding for 2 hours to get past 10 levels then grind for another two hours isn't my kind of game. Also, saw on your store a pack for a bit more than 450€, you guys are absolute 🥜jobs 🥲",
+      "reply": "Thank you for your feedback. Please try restarting the game and see if the issue persists. If you are still unable to progress, kindly send us a screenshot of the page along with your UID to Archero@habby.fun so we can assist you further. Thank you!",
+      "replyDate": "2025-12-05T08:37:51.930Z",
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=0e23c5a9-600a-405c-bc3a-ef470f536a84"
+    },
+    {
+      "date": "2025-12-05T03:58:17.115Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Steven Mack",
+      "text": "Great game but hate getting healed on the spin board when you are already at full health. That should be a respin. Also drop the difficulty on level 7!!!!! If I'm at max purple's and cant even pass that, I'm not going to enjoy the rest of the game. tried it again in 2025 and it still is a lame game. uninstalled and don't recommend the instal",
+      "reply": "Thank you for providing us with your valuable feedback.\nWe understand that you believe that some aspects of the game should be further improved.\nPlease be assured that your valuable input will be carefully considered by our development team for future enhancements.\nThank you for contributing to the continued refinement of our gaming experience.",
+      "replyDate": "2025-12-05T08:38:37.392Z",
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=b9a19066-2c86-4a77-a307-864a208ca01a"
+    },
+    {
+      "date": "2025-12-05T02:43:16.440Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "Jasmine Louderback",
+      "text": "Hate the adds",
+      "reply": "By viewing the advertisements, you will be presented to opportunities to obtain coins, valuable items, gems, enhance skills, or attain revives within the game.\nIn the case where you do not want to view the ads, it remains entirely at your discretion.\nWe sincerely appreciate your support.",
+      "replyDate": "2025-12-05T08:37:14.631Z",
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=336361fc-f4f6-45c4-b262-677ed76584c2"
+    },
+    {
+      "date": "2025-12-04T20:03:01.200Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "George Michael",
+      "text": "Whenever I try to do something it showing me network error while my network is fine. also when I exit the game and enter again I go back to zero progress.. shame I preferred it more than archero 2 but this bugs are annoying",
+      "reply": "Thank you for your feedback. Please try restarting the game and see if the issue persists. If you are still unable to progress, kindly send us a screenshot of the page along with your UID to Archero@habby.fun so we can assist you further. Thank you!",
+      "replyDate": "2025-12-05T08:34:02.655Z",
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=1b4e6c09-4bf4-4746-b0e7-a12adecca4f0"
+    },
+    {
+      "date": "2025-12-04T15:12:10.549Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "Irish Abando",
+      "text": "So many bugs, sometimes I finished a chapter then when I get back to lobby it came back unfinished. Sometimes I watched for rewards but it was not given to me after watching",
+      "reply": "\nThank you for your feedback. Please try restarting the game and see if the issue persists. If you are still unable to progress, kindly send us a screenshot of the page along with your UID to Archero@habby.fun so we can assist you further. Thank you!",
+      "replyDate": "2025-12-05T08:16:13.656Z",
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=1a718758-c37d-42ec-8a1f-dcd3c1e37383"
+    },
+    {
+      "date": "2025-12-03T04:39:09.708Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Oscar Rodríguez",
+      "text": "Extremely p2w as soon as the 3rd world. just a standard, garbage game.",
+      "reply": "We sorry for creating an impression that winning in the game relies heavily on in-app purchases. We are committed to providing a fair gaming environment and ensuring a satisfying experience for all players. Please look forward to our upcoming updates where we will improve the availability of in-game resources and adjust game balance.",
+      "replyDate": "2025-12-03T06:38:28.449Z",
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=2da99a25-9b46-45fc-a678-e4938873490b"
+    },
+    {
+      "date": "2025-12-03T04:13:31.507Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "KING TOKHI",
+      "text": "wow",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=0fdfdd78-7386-4a2b-8daf-b49569f9d900"
+    },
+    {
+      "date": "2025-12-02T23:17:35.772Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Ali Al Mutairi (Akilard)",
+      "text": "pretty fun",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=bc6c671c-ec7d-46af-a9fa-389b653c1fc0"
+    },
+    {
+      "date": "2025-12-02T18:36:39.944Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Mike M",
+      "text": "Completely robbed me of rewards after 5 years of constant play. unacceptable",
+      "reply": "In regards to the issue, please kindly provide us with more information.\nDo include your user ID & attach the corresponding screenshots to Archero@habby.fun.\nUpon receipt of your response, we will promptly initiate an investigation.\nWe appreciate your cooperation in resolving this matter. Thank you.",
+      "replyDate": "2025-12-03T06:36:06.785Z",
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=8d584b51-2562-450a-a821-f70ec5851c73"
+    },
+    {
+      "date": "2025-12-02T11:54:49.806Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Abd Alrahman Moustafa",
+      "text": "if you didn't know you're supposed to shoot when you're moving",
+      "reply": "Thank you for sharing! In the current gameplay design, shooting typically happens when the player stands still, and movement is used for dodging attacks. However, we appreciate feedback and suggestions like yours to improve the gaming experience. Let us know if you have more thoughts or ideas!",
+      "replyDate": "2025-12-03T06:33:20.660Z",
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=8c26ed97-9ed6-4e15-9bac-cf1e9bcc7dfd"
+    },
+    {
+      "date": "2025-12-02T02:39:53.573Z",
+      "score": 1,
+      "thumbsUp": 2,
+      "user": "AMV King",
+      "text": "It was working perfectly fine on my device but just after the recent update, opening up the game shows this: \"Failure to initialize! Your hardware does not support this application. Failed to load 'libmain.so' java.lang.UnsatisfiedLinkError: dlopen failed:library \"libmain.so\" not found. Press OK to quit.\" And the game just closes",
+      "reply": "Thank you for reaching out to us. The error regarding the missing libmain.so file usually occurs when some necessary files are not correctly installed. We recommend reinstalling the game to ensure all files are properly downloaded. If the issue persists, please feel free to contact us at Archero@habby.fun for further assistance.",
+      "replyDate": "2025-12-02T07:44:01.178Z",
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=6272a192-63ce-4079-ba64-6a0d72a66692"
+    },
+    {
+      "date": "2025-12-01T07:18:05.621Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Carlo Mar Clavecilla",
+      "text": "Its Fun to play",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=cc36c2ce-988a-4b71-b158-29d8dbb33ec7"
+    },
+    {
+      "date": "2025-12-01T00:45:55.810Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Nicolas Mallmann Sloboda",
+      "text": "the game asked me to free up 3gb to play. after i was done installing, i got a virus alert and a notification that i needed more free space. the 750mb on the download page is a lie",
+      "reply": "\nAs the game is updated, memory usage may increase. We're working to optimize performance for a smoother experience. Please regularly clear your device storage and close unused background apps to help. Thanks for your understanding and support! For feedback, contact Archero@habby.fun.",
+      "replyDate": "2025-12-01T06:31:02.524Z",
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=f310fa47-8230-4e73-ae4a-8e151d8c220d"
+    },
+    {
+      "date": "2025-11-29T21:53:55.532Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Nullying",
+      "text": "come on guys I play this since a child, and now I need a super cellphone to run it, I have a galaxy j8 and it's more than enough to run that, and after some hours playing I get an error saying my cellphone does not support it, that is BS, and the games takes forever to load, please fix that error, I used to play in worse hardwares back then, why is it crashing?!?!?",
+      "reply": "We truly appreciate your long-time support and are sorry to hear about the issues you've encountered. Please ensure your game and device software are up-to-date. Lower graphical settings and close background apps to improve performance. If problems persist, reach out to us at Archero@habby.fun with your device details for further assistance.",
+      "replyDate": "2025-11-30T08:08:42.462Z",
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=28cddb79-3840-402d-86dd-aa784e531338"
+    },
+    {
+      "date": "2025-11-29T12:53:04.748Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Ethan Male",
+      "text": "nice",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=75ecbe7b-533b-4bba-8508-eca15cde7c1e"
+    },
+    {
+      "date": "2025-11-29T03:56:37.976Z",
+      "score": 1,
+      "thumbsUp": 3,
+      "user": "harsh gohil",
+      "text": "Hi, I’m facing a major issue. I’ve been playing this game for the past 5 years and recently switched to a new device. I signed in using my Habby account, but when I try to log in, it doesn’t give me the option to access my old account. Instead, it says that my email is already bound to another account. Please help me transfer or bind my old progress to my new device. Anyone facing the same issue?",
+      "reply": "You can share your game progress by logging into the same Google Play (Android) or Game Center (iOS) account on multiple devices. For transferring your progress from iOS to Android, please email us at Archero@habby.fun, and we will provide you with the transfer process.",
+      "replyDate": "2025-11-29T07:27:27.202Z",
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=6a73e2b0-bd3c-4d0c-bb77-6c64d96a1766"
+    },
+    {
+      "date": "2025-11-29T01:39:06.483Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Breyon Rogers",
+      "text": "i love this game its calm and easy its perfectly balanced between hard and easy",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=47dad180-7caf-4cd2-9e71-5fe6215ce983"
+    },
+    {
+      "date": "2025-11-29T01:28:22.116Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "LA PAPER",
+      "text": "Awesomeness",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=a3946899-f502-46fa-81bc-5768a16c698b"
+    },
+    {
+      "date": "2025-11-27T14:38:34.240Z",
+      "score": 1,
+      "thumbsUp": 2,
+      "user": "Shubham Pimpale",
+      "text": "Hi Team, I installed your game after seeing the advertisement, which looked really impressive. But once I started playing, the actual gameplay felt completely different from what was shown. The graphics and features in the ad don’t match the real experience, which was quite disappointing. Please work on improving the gameplay quality and make sure the ads represent the actual game. It will help build trust and give players a better experience. Thanks.",
+      "reply": "Thank you for your feedback. We're sorry the game experience did not match the ads and for any disappointment caused. We will work to improve game quality and ensure ads reflect real gameplay. For other questions, please contact us at Archero@habby.fun. Thank you for your support!",
+      "replyDate": "2025-11-28T07:44:54.720Z",
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=103ac9c3-67ce-4c03-9eb8-a76c8f5efb28"
+    },
+    {
+      "date": "2025-11-27T14:28:28.154Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "George Toliver Jr",
+      "text": "how to make other dragon skills active",
+      "reply": "We suggest you check the specific activation conditions for dragon skills in the game and follow the instructions. If you still have questions, please contact us via customer service at Archero@habby.fun for further assistance.",
+      "replyDate": "2025-11-28T07:53:28.892Z",
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=75c0ccfa-13cb-49d3-8ab4-a64bfa875cb1"
+    },
+    {
+      "date": "2025-11-27T00:38:41.296Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "King Zaka",
+      "text": "I just want the best and fun games to play and this is the one",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=10856b4d-85b8-4103-98e8-baa549203814"
+    },
+    {
+      "date": "2025-11-26T18:05:16.120Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Ryan Clarke",
+      "text": "awesome game very addicting",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=812de5fe-6bcb-4b71-b394-14126b315cdc"
+    },
+    {
+      "date": "2025-11-26T00:20:27.422Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "Mehrdad Tavassoli",
+      "text": "The graphics and gameplay are okay, but the game design is really bad, or better said, predatory. If you want to have a normal progress in the game, you need to pay money; otherwise, be prepared to get stuck for weeks or even months.",
+      "reply": "We sorry for creating an impression that winning in the game relies heavily on in-app purchases. We are committed to providing a fair gaming environment and ensuring a satisfying experience for all players. Please look forward to our upcoming updates where we will improve the availability of in-game resources and adjust game balance.",
+      "replyDate": "2025-11-26T06:23:58.256Z",
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=1e3a4e16-2f66-42e8-8629-3dc1e489c600"
+    },
+    {
+      "date": "2025-11-25T15:06:49.452Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "fedmore games",
+      "text": "nice!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=99ec59a2-f3dd-49e1-90d9-f3a5b6bc3cff"
+    },
+    {
+      "date": "2025-11-25T12:41:06.394Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Yonni Awatere",
+      "text": "This has always been a joy for ages, you can progress like a BAW5 without paying for anything. Awesome game 100%",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=11861dd5-a9f7-4008-b37f-9a354fd43153"
+    },
+    {
+      "date": "2025-11-25T04:43:05.969Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Big Loser",
+      "text": "super cool",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=05289eb3-d589-468e-a54e-975be10c927d"
+    },
+    {
+      "date": "2025-11-24T22:52:55.507Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Tamir Muhammad-Abdullah",
+      "text": "fun to and not so much ads💯",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=2733fe93-f165-4278-ae9a-ed1e1603163c"
+    },
+    {
+      "date": "2025-11-24T21:26:03.449Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "Kacey",
+      "text": "fun game . possibly a skill issue but it didn't matter how many chests I opened and how much gear I upgraded how many cards I bought I couldn't get past a level didn't matter how many times I tried for a week straight even with overpower skills in game the bosses would kill me almost instantly with 3,000 health",
+      "reply": "\nWe're happy to hear you enjoy our game and understand some levels can be tough—they're designed to require strategy and multiple tries. If you're still having trouble, we recommend checking the game community for tips. For more suggestions or issues, feel free to contact us at Archero@habby.fun.",
+      "replyDate": "2025-11-25T07:31:25.506Z",
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=8731feec-83f2-4c8c-b670-2a3a5dce0c86"
+    },
+    {
+      "date": "2025-11-23T18:38:12.833Z",
+      "score": 5,
+      "thumbsUp": 3,
+      "user": "Matei Bulugea",
+      "text": "Broo, it's literally the best game ever👍🏿",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=478a39e9-363d-407e-859d-35a2adcb086d"
+    },
+    {
+      "date": "2025-11-23T17:44:17.979Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Ali Firas",
+      "text": "it the best one it never made me boerd",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=2ba75d64-ca4e-44ec-a6b4-21b8128f7ae7"
+    },
+    {
+      "date": "2025-11-23T11:29:39.980Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Bocky",
+      "text": "Stucked at 1 level for 7days or more. It is not balanced",
+      "reply": "Our team is dedicated to enhancing your gaming experience by continually adding more challenges and features.\nDo consider enhancing the heroes, equipment, talents, runes, and more to make progressing through the current stage more manageable.\nWe appreciate your precious feedback and ongoing support in making our game more enjoyable.",
+      "replyDate": "2025-11-24T07:48:10.725Z",
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=dae32dd7-749e-4001-b78c-295e504471e6"
+    },
+    {
+      "date": "2025-11-23T08:16:52.932Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Aditya Khandelwal",
+      "text": "800 mb , really? You can increase the size of game after we completed some levels. At starting it should be 50mb",
+      "reply": "As the game's content and features continue to be updated, memory usage may gradually increase. We are continuously working to optimize game performance and resource management to provide a smoother experience for everyone. If you have further suggestions, please feel free to share them with us at Archero@habby.fun.",
+      "replyDate": "2025-11-24T07:51:15.123Z",
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=a741b167-49aa-4dbf-8a4a-17f8a6a1daf9"
+    },
+    {
+      "date": "2025-11-23T04:23:54.666Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Husein Dhorajiwala",
+      "text": "I have been playing this game since years but yesterday my iteam suddenly became very less in spent 500 rupees and after that it sucks edit send email no response till date",
+      "reply": "Thank you very much for your feedback and patience. We have received your email and will look into your issue as soon as possible. We appreciate your understanding and support. If you have any further questions, please feel free to contact us.",
+      "replyDate": "2025-11-23T07:58:13.889Z",
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=283aaeec-2f51-4873-9c97-9b5607cd8c57"
+    },
+    {
+      "date": "2025-11-22T18:10:37.473Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Hudson Brandenburg",
+      "text": "funnnnnnn loads fun",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=e53553d1-c12e-4958-9abb-075d65f10349"
+    },
+    {
+      "date": "2025-11-22T00:48:07.328Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Abimael Classen",
+      "text": "I'm really disappointed with tech support for this game. I've been trying to get my profile signed back in and haven't had any luck. I keep getting NETWORK ERROR. I've been playing this game and never had issues before, now I've lost all all my data. all the money I spent on this game and no one can really help. I followed all the instructions. my google play account has not changed at all. this all happened after I tried downloading this game on my new tablet. tech support is not helping.",
+      "reply": "\"You can securely access your game data across multiple devices by using the same Google Play account for Android or Game Center account for iOS. (Kindly take note that crossing platform is not possible)\nIf you encounter any game data issues, please provide us with more details via email at Archero@habby.fun.\n",
+      "replyDate": "2025-11-22T07:11:11.264Z",
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=8c9659d3-e634-4177-8512-f934857e96e9"
+    },
+    {
+      "date": "2025-11-19T23:11:59.460Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Madelyn Bouchard",
+      "text": "one of my all time favorites!!!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=f037851c-b62b-46ce-94ee-d27ff76e4ac7"
+    },
+    {
+      "date": "2025-11-19T19:26:29.281Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Christian Melendez",
+      "text": "Been playing the game for a long time and decided that I buy a $10 Chapter 4 Pack, but I never got what I paid for in the game. Don't ever buy anything from this game cuz it's a scam and nobody helps you get a refund or anything really.",
+      "reply": "Thank you for supporting our game!\nIn order to assist you further, please send screenshots of your player ID found in the settings, along with your Google Play receipt, to our support email ​Archero@habby.fun",
+      "replyDate": "2025-11-20T05:38:51.740Z",
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=e6a53a36-fdf8-4228-8370-3ec89768d2d3"
+    },
+    {
+      "date": "2025-11-18T17:49:15.949Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Rekha Das",
+      "text": "poor , I can't recover my old id",
+      "reply": "We are sorry about your lost account.\nOn Android system, the save data is stored in GooglePlay Games account.\nIf you have multiple Google account try to login a different one.\nIf further assistance is needed, please contact archero@habby.fun",
+      "replyDate": "2025-11-19T05:39:17.574Z",
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=a4aa204a-6375-4be2-bd16-cff7b94142df"
+    },
+    {
+      "date": "2025-11-18T15:22:30.600Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Jay",
+      "text": "again huge file size, almost 3 gigs",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=b2135e1c-42bf-48f6-91bc-5f45e4d8b411"
+    },
+    {
+      "date": "2025-11-17T15:09:50.730Z",
+      "score": 5,
+      "thumbsUp": 43,
+      "user": "William McCarthy-Boham",
+      "text": "Sweet game! Can be a bit of a grind at times, but the sense of accomplishment is solidly there. A suggestion: under the Fuse Equipment tab, could you add an option that lets you fuse all of one type of equipment at once (say all your Enlightenment tomes) without scrolling down to find them after every three? It'd be super helpful especially when you have SO many parts of SO many different types of equipment to fuse",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=47bf7c6e-1736-44ec-9e24-02aa13d14401"
+    },
+    {
+      "date": "2025-11-16T22:19:13.789Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Shiela Mae Aloot",
+      "text": "I've always loved this game.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=446f9271-f95a-46f0-9802-5da0a4f5a4f7"
+    },
+    {
+      "date": "2025-11-16T21:52:17.316Z",
+      "score": 5,
+      "thumbsUp": 13,
+      "user": "A J",
+      "text": "Well, it was glitchy error (-888) some such, but since \"gourmet feast\" started up, it's good. Actually running smoother than it has for weeks. I like the art work, game play and mechanics better than Archero 2. Update 2 star to 5 star. Working smoothly!",
+      "reply": "In regards to the issue, please kindly provide us with more information.\nDo include your user ID & attach the corresponding screenshots to Archero@habby.fun.\nUpon receipt of your response, we will promptly initiate an investigation.\nWe appreciate your cooperation in resolving this matter. Thank you.",
+      "replyDate": "2025-11-15T07:06:45.280Z",
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=ff4fb1ac-1340-4b58-8854-8c3988aa41df"
+    },
+    {
+      "date": "2025-11-16T07:50:56.603Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Byung sun Kim",
+      "text": "Very nice game",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=3cc058ca-8636-4d0e-93b3-8aa5a870057f"
+    },
+    {
+      "date": "2025-11-16T05:00:21.546Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Abul Khair",
+      "text": "it doesn’t connect data...",
+      "reply": "Your data may have been overwritten. If you previously linked your game progress to Google Play or Game Center, you can switch back to your previous Google Play or Game Center account and clear the cache to restart your phone.\n\nIf you encounter any game data issues, please provide us with more details via email at Archero@habby.fun",
+      "replyDate": "2025-11-16T09:21:07.709Z",
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=2212b9cb-4e07-4ff9-8b72-cfcce8a362ae"
+    },
+    {
+      "date": "2025-11-16T04:55:19.986Z",
+      "score": 1,
+      "thumbsUp": 2,
+      "user": "Jeffrey Sells",
+      "text": "well I was level like 79 with a lot of time put into the game. everything was deleted then I tried reinstalling everything was deleted. So guess I am done with this game.",
+      "reply": "Your data may have been overwritten. If you previously linked your game progress to Google Play or Game Center, you can switch back to your previous Google Play or Game Center account and clear the cache to restart your phone.\n\nIf you encounter any game data issues, please provide us with more details via email at Archero@habby.fun",
+      "replyDate": "2025-11-16T09:20:58.324Z",
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=991f2fc1-13d0-4ec3-ba13-b3e0ea7c1cfa"
+    },
+    {
+      "date": "2025-11-15T07:17:25.383Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "L S",
+      "text": "still 5 stars 5 years later.... 🤷‍♂️😉",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=c39272cc-5419-4657-96e1-f95824c29295"
+    },
+    {
+      "date": "2025-11-15T03:31:08.665Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "How To",
+      "text": "This is a very fun and good game very long term but i don't know why this game keeps internet rejection. So im gonna uninstall bye Habby",
+      "reply": "At times, Archers may encounter connection issues between their local network settings and the server. To troubleshoot, consider switching between 4G and Wi-Fi to determine if the problem persists.\nYour support is greatly appreciated.\nThank you for your understanding and cooperation.",
+      "replyDate": "2025-11-15T07:07:01.473Z",
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=15a94531-1d05-459c-8bf6-3f042b94f09d"
+    },
+    {
+      "date": "2025-11-14T08:58:19.261Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Joel Aragon",
+      "text": "i really enjoy this app keep up the great work",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=3cce11dc-b860-4555-899a-d97c26a2b0bf"
+    },
+    {
+      "date": "2025-11-14T02:16:27.615Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Michael",
+      "text": "I love this game.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=b4562a7e-1272-4047-97c2-263c65c44b18"
+    },
+    {
+      "date": "2025-11-13T21:43:32.960Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "M. winston",
+      "text": "coolsville",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=560fb111-d8d5-4502-bbea-1be3d75206d4"
+    },
+    {
+      "date": "2025-11-13T20:19:04.767Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "sexy reddd",
+      "text": "fun and challenging",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=783695a5-4674-4887-8acd-6d046fb8cf53"
+    },
+    {
+      "date": "2025-11-13T15:48:07.693Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "My Self",
+      "text": "excellent",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=13a9871e-6b6e-4491-8042-a5ab481d9620"
+    },
+    {
+      "date": "2025-11-12T18:15:58.421Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Rudy Rguzman",
+      "text": "it's the good game",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=e26d3015-69b2-4c08-ac99-a6f4e9816784"
+    },
+    {
+      "date": "2025-11-12T15:30:56.993Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "Aiden Titan",
+      "text": "I'm glad",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=fa7ce195-671b-46cd-8b00-9d60d1d48316"
+    },
+    {
+      "date": "2025-11-12T15:21:47.837Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Cross Heart",
+      "text": "nice",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=f5e9f4f6-8aef-4fe5-b96c-eb738bf027d9"
+    },
+    {
+      "date": "2025-11-11T13:06:04.446Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Ricardo Mon",
+      "text": "fun",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero&reviewId=4c26a760-0361-45d3-b38e-262c54b16d85"
+    }
+  ]
+}

@@ -18,7 +18,7 @@ _Source: 97 synthesized cells + Invoice Simple 3000-review drill (US/GB) + iOS 7
 | 🥉3 | **EU Solo-Freelancer Invoice** (DE+PL+NL shared codebase) | DE/PL/NL | sevDesk 78.7% (DE) + KSeF panic (PL Apr 2026) + Invoice Fly 50% (NL) + Tofu precedent (1M installs <2yrs) | 4-6 wk DE base + 3-4 wk PL/NL each | **€30-50k combined** | MEDIUM-HIGH |
 | 4 | **Honest Gig Tracker** (Solo + Stride displace) | US | Solo 68% Android / 80% iOS, Stride 69% Android — 434-thumb deceptive sign-up | 5-6 wk | $10k base (revised — Solo/Stride monetize off-app) | MEDIUM-HIGH |
 | 5 | **Smart Receipts displacement** (US) | US | 57% recent low_pct, 1M+ installs, "no local backup" complaint | 6-8 wk | <$5k base (small ceiling) | MEDIUM |
-| 6 | _placeholder_ — Flutter Flame games (pending Agent 7) | TBD | TBD | TBD | TBD | TBD |
+| 6 | **Flutter Flame Idle Tycoon ("Tycoon Zero")** (offline-first, $2.99 one-time) | global | AdVenture Capitalist 52% low / 78% predatory density on 10M+ installs — ONE-TIME-vs-subscription wedge | 8-12 wk | $5-15k base (uncertain — game ARPDAU low) | MEDIUM-LOW (B2C variability) |
 
 **Key v9 ranking change**: Direction 2 (QBSE+Solopreneur+Schedule C) **promoted from #3 to #2** based on Agent 13 deep drill confirming Solopreneur (the QBSE replacement) is ALSO at 61.4% recent low_pct on 1500 reviews — meaning the displacement market = QBSE refugees + Solopreneur frustrated users (combined 2M+ install base). Direction 4 (EU multi-country) drops to #3.
 
@@ -693,6 +693,124 @@ Agent 13 drilled 6 receipt scanner candidates at 200-300 review depth (last-90d 
 **Revised Direction 5**: NOT a standalone direction. Instead, **bundle on-device ML Kit OCR receipt scanning into Direction 2's premium tier** as a high-value differentiator. The combined product = "$0-backend offline receipt + mileage + invoice + Schedule C estimator for solopreneurs" with no subscription, no ads, full data export.
 
 Skip Direction 5 as standalone unless you specifically want a narrower "receipt vault" wedge. The combined Direction 2 with receipt module subsumes the Direction 5 thesis.
+
+---
+
+## Direction 6: Flutter Flame Idle Tycoon — "Tycoon Zero" (Score 14, MEDIUM-LOW confidence) — **NEW v9, separate B2C path**
+
+**Niche × Region**: `idle/clicker mobile game` × `global` (US/EU primary)
+
+**Target competitor**: AdVenture Capitalist by Kongregate (`com.kongregate.mobile.adventurecapitalist.google`) — 10M+ installs, **52% recent low_pct on 300 reviews, 78% predatory complaint density** (highest single-cell predatory signal in entire game scan).
+
+### Why "Tycoon Zero" (idle/clicker) over alternatives
+
+Agent 16 scanned 9 games × 3 genres × 300 reviews. Idle/clicker shows highest single-cell vulnerability AND simplest Flame implementation:
+- **AdVenture Capitalist 52%** > Archero 35% > Soul Knight 33.7% > Survivor.io 18%
+- AdCap's 78% predatory density (forced ads, $15/mo subscription, gacha) is the strongest displacement signal in the games scan
+- Idle/clicker is the simplest Flame genre (vertical business list + tap counter + BigInt cascade vs roguelike-lite's procedural dungeon + collision physics + sprite animation)
+- AdCap's "$1-5 ONE TIME unlock vs $15/mo subscription" complaint = exact wedge for a clean $2.99-once Flame game
+
+### Quoted proof — predatory monetization rage at scale
+
+> [AdCap 1★ 👍4] "**I'm going to give the devs like 3 days to fix the new, non-optional ads when you open different pages or menus and then I'm uninstalling.** Mandatory ads to access sections of the game is an insane cash grab."
+
+> [AdCap 1★ 👍3] "**Imagine charging $15 A MONTH to get rid of ads.** I hope this is some kind of meta joke about capitalism. **Many other apps have a $1-$5 ONE TIME charge to remove ads permanently.** Also, the ads are intrusive and full-screen. **All the ads used to be optional. This is totally unacceptable.**"
+
+> [AdCap 1★ 👍3] "**DO NOT INSTALL.** This game used to be good. No forced ads. Ads gave rewards and were only 30 seconds long. **Now ads are up to 2 mins total and if you click on anything BAM ad.** guess this game will be trashed after months of playing it."
+
+> [AdCap 2★ 👍2] "I paid for no ads at one time and now you have to pay 8 a week for it. **This was once a great game and now it is a greedy money trap.**"
+
+### Cross-validation — roguelike-lite category complaints (NOT primary target, but supports thesis)
+
+> [Archero 1★ 👍**25**] "**The game lacks the ability to reset game progress through the app. I had to contact customer service and wait DAYS** for the reset to happen. I also read that **you're only allowed to reset your progress once... Which is super weird. its MY game progress.**"
+
+> [Soul Knight 1★ 👍**9**] "...**it does NOT HAVE AN OFFLINE MODE anymore, which is the key point most downloaded it for in the first place.** And even if you have internet every second day theres a 2.8 mb update for unknown reasons."
+
+### TikTok marketing channel validation (Agent 15)
+
+- **#indiegame**: 9.19B cumulative views, 615K creators (LIVE umbrella)
+- #mobilegamedev: 3.4M views (dead — too narrow)
+- #fluttergamedev: 258 views (dead — engine-specific tags don't work)
+- #flameengine: dead
+
+**Strategy**: ASA + #indiegame TikTok lifestyle content (gameplay clips, dev-log style). NOT engine-specific tags. Game review channel partnerships (PocketGamer, Touch Arcade outreach).
+
+### The idea — what to build
+
+**Concept**: A 2D idle/tycoon clicker game built in Flutter Flame with **fully offline, one-time $2.99 unlock, NO forced ads, NO subscription, NO energy gating**. Wedge: directly attacks AdCap's "$15/mo to remove ads" rage with "$2.99 once, ads-off forever".
+
+**Core MVP (8-12 weeks)**:
+1. Vertical business list (e.g., 10-15 businesses upgrading from $1 → trillion-cascade)
+2. Tap counter + idle multiplier system (BigInt arithmetic — Dart has built-in)
+3. Manager hire system (offline progression)
+4. Prestige/reset system with permanent multipliers (free for all users — no IAP gate)
+5. **Full offline mode** (no internet ever required)
+6. SQLite/SharedPreferences for save state + optional Firestore free-tier cloud sync
+7. Optional rewarded video ads (NEVER mandatory; rewards = 2x speed for 5 min) — completely user-opt-in
+
+**Differentiation thesis**: AdCap's 10M+ install base is enraged by 52% recent low_pct + 78% predatory density (forced ads, $15/mo subscription). The exact wedge: **"$2.99 once. No ads. No subscription. No energy timers."** Captures both AdCap refugees AND the broader idle/clicker "anti-predatory" cohort.
+
+**Anti-features**:
+- ❌ NO forced ads (the #1 AdCap complaint)
+- ❌ NO subscription pricing (whether for ad-removal or premium currency)
+- ❌ NO energy gating
+- ❌ NO gacha / lootbox / mystery boxes
+- ❌ NO online-required progression (offline mode is sacred)
+- ❌ NO reset-progress-block (Archero's #1 complaint)
+
+### Build complexity
+
+- Stack: Flutter + **Flame engine** (`flame: ^1.18.0`) + `shared_preferences` + Firestore free tier optional + `flame_audio` for SFX + assets from Kenney.nl ($0)
+- Backend cost: **$0** (Firestore free tier supports 50k MAU; pure offline play needs zero server)
+- Solo build: **8-12 εβδομάδες** (Agent 16's estimate; longer than B2B utilities, shorter than roguelike-lite)
+- Asset cost: $0-200 (Kenney.nl premium pack OR custom pixel art if Greek dev has skill)
+- Dev account: Apple $99/year + Google Play $25 one-time
+
+### Legal risk: 🟢 ZERO
+
+- Pure single-player game, no marketplace, no PII collection beyond optional cloud save
+- App Store mainstream — no delist risk
+- IAP one-time only = simple compliance
+
+### Monetization
+
+- **Free tier**: All businesses + offline play + ads-rewarded video (optional, NEVER mandatory)
+- **Premium $2.99 ONE-TIME**: Ads-off permanent + 3 cosmetic skin packs + 2x save slots
+- OPTIONAL second unlock $4.99 for "Cosmetic + Theme pack" (purely visual, no progression bonus)
+
+### Realistic outcomes (game economics — high variance)
+
+| Scenario | Y1 paid users | Notes | Probability |
+|---|---|---|---|
+| 🔥 Viral via #indiegame TikTok creator + Reddit r/idleclicker | 30,000 × $2.99 = $90k | AdCap-scale capture rare for solo dev | 5% |
+| 🟢 Strong organic via game review press | 5,000 × $2.99 = $15k | PocketGamer / Touch Arcade coverage | 18% |
+| 🟡 Base case | 1,500 × $2.99 = $4.5k | r/IndieDev launch + word-of-mouth | 35% |
+| 🟠 Slow | 200 × $2.99 = $600 | No traction, 0 ads | 30% |
+| 🔴 Stuck | 0 | -€500 (asset costs + dev account) | 12% |
+
+**Expected Y1: ~€7-10k** (high-variance B2C game economics)
+
+### Why ranked #6 not higher (Agent 16 honest assessment)
+
+- **Idle-game ARPDAU is $0.50-$2 vs B2B utilities $5-20** — 5-10× weaker monetization per user
+- **Greek/Arabic/Turkish localization edge gives ZERO advantage** in mobile games (English copy + universal symbols suffice)
+- **First-time game shipper realistic timeline = 14-20 weeks**, not the optimistic 8-12
+- **$350 ad budget cannot compete** with Habby/Sybo/Kongregate install volume budgets ($X million)
+- TikTok organic is REQUIRED for game discovery (vs B2B's diversified channels: Reddit + ProductHunt + ASA)
+- B2C game economics are inherently more variable than B2B steady recurring revenue
+
+### Recommendation
+
+**Direction 6 is a portfolio/fun-project slot, NOT a Direction 1 alternative.**
+
+Build Direction 6 ONLY IF:
+- The user has personal passion for game dev OR existing pixel-art skill
+- The user can credibly invest 14-20 weeks (3-4x Direction 1's 3-5 weeks)
+- The user has TikTok creator persona / network OR willing to build organic gaming content channel
+
+Otherwise SKIP Direction 6. The B2B Direction 1 has 5x faster ROI, 3x faster build, 10x more predictable user-acquisition.
+
+If user picks Direction 6, sequence AFTER Direction 1 has shipped + traction confirmed (Direction 1 funds the longer Direction 6 build with $350 ad budget remaining).
 
 ---
 

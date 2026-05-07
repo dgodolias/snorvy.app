@@ -156,121 +156,22 @@
   },
   "nodes": [
     {
-      "label": "reddit_charai_refugees.py",
+      "label": "reddit_b2b_demand.py",
       "file_type": "code",
-      "source_file": "reddit_charai_refugees.py",
+      "source_file": "reddit_b2b_demand.py",
       "source_location": "L1",
-      "id": "c_users_demosgod_desktop_projects_playstore_app_reddit_charai_refugees_py",
+      "id": "c_users_demosgod_desktop_projects_playstore_app_reddit_b2b_demand_py",
       "community": 17,
-      "norm_label": "reddit_charai_refugees.py"
+      "norm_label": "reddit_b2b_demand.py"
     },
     {
-      "label": "reddit_faladdin_validate.py",
+      "label": "reddit_gig_demand.py",
       "file_type": "code",
-      "source_file": "reddit_faladdin_validate.py",
+      "source_file": "reddit_gig_demand.py",
       "source_location": "L1",
-      "id": "c_users_demosgod_desktop_projects_playstore_app_reddit_faladdin_validate_py",
+      "id": "c_users_demosgod_desktop_projects_playstore_app_reddit_gig_demand_py",
       "community": 18,
-      "norm_label": "reddit_faladdin_validate.py"
-    },
-    {
-      "label": "reddit_halal_validate.py",
-      "file_type": "code",
-      "source_file": "reddit_halal_validate.py",
-      "source_location": "L1",
-      "id": "c_users_demosgod_desktop_projects_playstore_app_reddit_halal_validate_py",
-      "community": 19,
-      "norm_label": "reddit_halal_validate.py"
-    },
-    {
-      "label": "reddit_new_niches.py",
-      "file_type": "code",
-      "source_file": "reddit_new_niches.py",
-      "source_location": "L1",
-      "id": "c_users_demosgod_desktop_projects_playstore_app_reddit_new_niches_py",
-      "community": 20,
-      "norm_label": "reddit_new_niches.py"
-    },
-    {
-      "label": "reddit_top_trees.py",
-      "file_type": "code",
-      "source_file": "reddit_top_trees.py",
-      "source_location": "L1",
-      "id": "c_users_demosgod_desktop_projects_playstore_app_reddit_top_trees_py",
-      "community": 13,
-      "norm_label": "reddit_top_trees.py"
-    },
-    {
-      "label": "safe_load()",
-      "file_type": "code",
-      "source_file": "reddit_top_trees.py",
-      "source_location": "L10",
-      "id": "reddit_top_trees_safe_load",
-      "community": 13,
-      "norm_label": "safe_load()"
-    },
-    {
-      "label": "reddit_turkey_couple_validate.py",
-      "file_type": "code",
-      "source_file": "reddit_turkey_couple_validate.py",
-      "source_location": "L1",
-      "id": "c_users_demosgod_desktop_projects_playstore_app_reddit_turkey_couple_validate_py",
-      "community": 21,
-      "norm_label": "reddit_turkey_couple_validate.py"
-    },
-    {
-      "label": "reddit_xpand.py",
-      "file_type": "code",
-      "source_file": "reddit_xpand.py",
-      "source_location": "L1",
-      "id": "c_users_demosgod_desktop_projects_playstore_app_reddit_xpand_py",
-      "community": 22,
-      "norm_label": "reddit_xpand.py"
-    },
-    {
-      "label": "reddit_xpand2.py",
-      "file_type": "code",
-      "source_file": "reddit_xpand2.py",
-      "source_location": "L1",
-      "id": "c_users_demosgod_desktop_projects_playstore_app_reddit_xpand2_py",
-      "community": 23,
-      "norm_label": "reddit_xpand2.py"
-    },
-    {
-      "label": "tiktok_phase15.py",
-      "file_type": "code",
-      "source_file": "tiktok_phase15.py",
-      "source_location": "L1",
-      "id": "c_users_demosgod_desktop_projects_playstore_app_tiktok_phase15_py",
-      "community": 14,
-      "norm_label": "tiktok_phase15.py"
-    },
-    {
-      "label": "fetch_json()",
-      "file_type": "code",
-      "source_file": "tiktok_phase15.py",
-      "source_location": "L19",
-      "id": "tiktok_phase15_fetch_json",
-      "community": 14,
-      "norm_label": "fetch_json()"
-    },
-    {
-      "label": "tiktok_xpand.py",
-      "file_type": "code",
-      "source_file": "tiktok_xpand.py",
-      "source_location": "L1",
-      "id": "c_users_demosgod_desktop_projects_playstore_app_tiktok_xpand_py",
-      "community": 15,
-      "norm_label": "tiktok_xpand.py"
-    },
-    {
-      "label": "fetch_json()",
-      "file_type": "code",
-      "source_file": "tiktok_xpand.py",
-      "source_location": "L27",
-      "id": "tiktok_xpand_fetch_json",
-      "community": 15,
-      "norm_label": "fetch_json()"
+      "norm_label": "reddit_gig_demand.py"
     },
     {
       "label": "analyze_drill.py",
@@ -278,7 +179,7 @@
       "source_file": "scripts\\analyze_drill.py",
       "source_location": "L1",
       "id": "c_users_demosgod_desktop_projects_playstore_app_scripts_analyze_drill_py",
-      "community": 16,
+      "community": 13,
       "norm_label": "analyze_drill.py"
     },
     {
@@ -287,7 +188,7 @@
       "source_file": "scripts\\analyze_drill.py",
       "source_location": "L26",
       "id": "analyze_drill_classify",
-      "community": 16,
+      "community": 13,
       "norm_label": "classify()"
     },
     {
@@ -296,7 +197,7 @@
       "source_file": "scripts\\analyze_tiktok.py",
       "source_location": "L1",
       "id": "c_users_demosgod_desktop_projects_playstore_app_scripts_analyze_tiktok_py",
-      "community": 24,
+      "community": 19,
       "norm_label": "analyze_tiktok.py"
     },
     {
@@ -368,7 +269,7 @@
       "source_file": "scripts\\reddit_extra.py",
       "source_location": "L1",
       "id": "c_users_demosgod_desktop_projects_playstore_app_scripts_reddit_extra_py",
-      "community": 25,
+      "community": 20,
       "norm_label": "reddit_extra.py"
     },
     {
@@ -460,6 +361,123 @@
       "id": "tiktok_deep_fetch_comments",
       "community": 10,
       "norm_label": "fetch_comments()"
+    },
+    {
+      "label": "reddit_charai_refugees.py",
+      "file_type": "code",
+      "source_file": "scripts\\legacy\\reddit_charai_refugees.py",
+      "source_location": "L1",
+      "id": "c_users_demosgod_desktop_projects_playstore_app_scripts_legacy_reddit_charai_refugees_py",
+      "community": 21,
+      "norm_label": "reddit_charai_refugees.py"
+    },
+    {
+      "label": "reddit_faladdin_validate.py",
+      "file_type": "code",
+      "source_file": "scripts\\legacy\\reddit_faladdin_validate.py",
+      "source_location": "L1",
+      "id": "c_users_demosgod_desktop_projects_playstore_app_scripts_legacy_reddit_faladdin_validate_py",
+      "community": 22,
+      "norm_label": "reddit_faladdin_validate.py"
+    },
+    {
+      "label": "reddit_halal_validate.py",
+      "file_type": "code",
+      "source_file": "scripts\\legacy\\reddit_halal_validate.py",
+      "source_location": "L1",
+      "id": "c_users_demosgod_desktop_projects_playstore_app_scripts_legacy_reddit_halal_validate_py",
+      "community": 23,
+      "norm_label": "reddit_halal_validate.py"
+    },
+    {
+      "label": "reddit_new_niches.py",
+      "file_type": "code",
+      "source_file": "scripts\\legacy\\reddit_new_niches.py",
+      "source_location": "L1",
+      "id": "c_users_demosgod_desktop_projects_playstore_app_scripts_legacy_reddit_new_niches_py",
+      "community": 24,
+      "norm_label": "reddit_new_niches.py"
+    },
+    {
+      "label": "reddit_top_trees.py",
+      "file_type": "code",
+      "source_file": "scripts\\legacy\\reddit_top_trees.py",
+      "source_location": "L1",
+      "id": "c_users_demosgod_desktop_projects_playstore_app_scripts_legacy_reddit_top_trees_py",
+      "community": 14,
+      "norm_label": "reddit_top_trees.py"
+    },
+    {
+      "label": "safe_load()",
+      "file_type": "code",
+      "source_file": "scripts\\legacy\\reddit_top_trees.py",
+      "source_location": "L10",
+      "id": "reddit_top_trees_safe_load",
+      "community": 14,
+      "norm_label": "safe_load()"
+    },
+    {
+      "label": "reddit_turkey_couple_validate.py",
+      "file_type": "code",
+      "source_file": "scripts\\legacy\\reddit_turkey_couple_validate.py",
+      "source_location": "L1",
+      "id": "c_users_demosgod_desktop_projects_playstore_app_scripts_legacy_reddit_turkey_couple_validate_py",
+      "community": 25,
+      "norm_label": "reddit_turkey_couple_validate.py"
+    },
+    {
+      "label": "reddit_xpand.py",
+      "file_type": "code",
+      "source_file": "scripts\\legacy\\reddit_xpand.py",
+      "source_location": "L1",
+      "id": "c_users_demosgod_desktop_projects_playstore_app_scripts_legacy_reddit_xpand_py",
+      "community": 26,
+      "norm_label": "reddit_xpand.py"
+    },
+    {
+      "label": "reddit_xpand2.py",
+      "file_type": "code",
+      "source_file": "scripts\\legacy\\reddit_xpand2.py",
+      "source_location": "L1",
+      "id": "c_users_demosgod_desktop_projects_playstore_app_scripts_legacy_reddit_xpand2_py",
+      "community": 27,
+      "norm_label": "reddit_xpand2.py"
+    },
+    {
+      "label": "tiktok_phase15.py",
+      "file_type": "code",
+      "source_file": "scripts\\legacy\\tiktok_phase15.py",
+      "source_location": "L1",
+      "id": "c_users_demosgod_desktop_projects_playstore_app_scripts_legacy_tiktok_phase15_py",
+      "community": 15,
+      "norm_label": "tiktok_phase15.py"
+    },
+    {
+      "label": "fetch_json()",
+      "file_type": "code",
+      "source_file": "scripts\\legacy\\tiktok_phase15.py",
+      "source_location": "L19",
+      "id": "tiktok_phase15_fetch_json",
+      "community": 15,
+      "norm_label": "fetch_json()"
+    },
+    {
+      "label": "tiktok_xpand.py",
+      "file_type": "code",
+      "source_file": "scripts\\legacy\\tiktok_xpand.py",
+      "source_location": "L1",
+      "id": "c_users_demosgod_desktop_projects_playstore_app_scripts_legacy_tiktok_xpand_py",
+      "community": 16,
+      "norm_label": "tiktok_xpand.py"
+    },
+    {
+      "label": "fetch_json()",
+      "file_type": "code",
+      "source_file": "scripts\\legacy\\tiktok_xpand.py",
+      "source_location": "L27",
+      "id": "tiktok_xpand_fetch_json",
+      "community": 16,
+      "norm_label": "fetch_json()"
     },
     {
       "label": "Findings README",
@@ -1679,7 +1697,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 26,
+      "community": 28,
       "norm_label": "phase 10: niche expansion",
       "id": "phase_10_niche_expand"
     },
@@ -2598,42 +2616,6 @@
     {
       "relation": "contains",
       "confidence": "EXTRACTED",
-      "source_file": "reddit_top_trees.py",
-      "source_location": "L10",
-      "weight": 1.0,
-      "_src": "c_users_demosgod_desktop_projects_playstore_app_reddit_top_trees_py",
-      "_tgt": "reddit_top_trees_safe_load",
-      "source": "c_users_demosgod_desktop_projects_playstore_app_reddit_top_trees_py",
-      "target": "reddit_top_trees_safe_load",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "tiktok_phase15.py",
-      "source_location": "L19",
-      "weight": 1.0,
-      "_src": "c_users_demosgod_desktop_projects_playstore_app_tiktok_phase15_py",
-      "_tgt": "tiktok_phase15_fetch_json",
-      "source": "c_users_demosgod_desktop_projects_playstore_app_tiktok_phase15_py",
-      "target": "tiktok_phase15_fetch_json",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "tiktok_xpand.py",
-      "source_location": "L27",
-      "weight": 1.0,
-      "_src": "c_users_demosgod_desktop_projects_playstore_app_tiktok_xpand_py",
-      "_tgt": "tiktok_xpand_fetch_json",
-      "source": "c_users_demosgod_desktop_projects_playstore_app_tiktok_xpand_py",
-      "target": "tiktok_xpand_fetch_json",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
       "source_file": "scripts\\analyze_drill.py",
       "source_location": "L26",
       "weight": 1.0,
@@ -2833,6 +2815,42 @@
       "_tgt": "tiktok_deep_fetch_json",
       "source": "tiktok_deep_fetch_json",
       "target": "tiktok_deep_fetch_comments",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts\\legacy\\reddit_top_trees.py",
+      "source_location": "L10",
+      "weight": 1.0,
+      "_src": "c_users_demosgod_desktop_projects_playstore_app_scripts_legacy_reddit_top_trees_py",
+      "_tgt": "reddit_top_trees_safe_load",
+      "source": "c_users_demosgod_desktop_projects_playstore_app_scripts_legacy_reddit_top_trees_py",
+      "target": "reddit_top_trees_safe_load",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts\\legacy\\tiktok_phase15.py",
+      "source_location": "L19",
+      "weight": 1.0,
+      "_src": "c_users_demosgod_desktop_projects_playstore_app_scripts_legacy_tiktok_phase15_py",
+      "_tgt": "tiktok_phase15_fetch_json",
+      "source": "c_users_demosgod_desktop_projects_playstore_app_scripts_legacy_tiktok_phase15_py",
+      "target": "tiktok_phase15_fetch_json",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts\\legacy\\tiktok_xpand.py",
+      "source_location": "L27",
+      "weight": 1.0,
+      "_src": "c_users_demosgod_desktop_projects_playstore_app_scripts_legacy_tiktok_xpand_py",
+      "_tgt": "tiktok_xpand_fetch_json",
+      "source": "c_users_demosgod_desktop_projects_playstore_app_scripts_legacy_tiktok_xpand_py",
+      "target": "tiktok_xpand_fetch_json",
       "confidence_score": 1.0
     },
     {

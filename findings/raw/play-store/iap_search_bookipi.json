@@ -1,0 +1,53 @@
+[
+  {
+    "appId": "bookipi.invoice.maker.estimate.billing",
+    "title": "Invoice Maker & Estimate App",
+    "developer": "Bookipi - Billing Estimate",
+    "score": 4.59,
+    "scoreText": "4.6",
+    "free": false,
+    "price": null,
+    "summary": "Create invoices, estimates &amp; receipts in minute. Fast, reliable invoice maker.",
+    "icon": "https://play-lh.googleusercontent.com/ZK1xGfa1xP7nN18nKyWRKCWInH4yG_zenrOPdy8m2fL9RuNPLJe0utLuUoSVv1WidQ"
+  },
+  {
+    "appId": "expense.tracker.income.receipt.budget",
+    "title": "Expense Tracker & Budget App",
+    "developer": "Bookipi - Billing Estimate",
+    "score": 4.6190476,
+    "scoreText": "4.6",
+    "free": false,
+    "price": null,
+    "summary": "Personal &amp; business budget planning. Track income &amp; expenses. Store receipts.",
+    "icon": "https://play-lh.googleusercontent.com/mxvSQ3LqQvmeSIriVSSFHBbQufETd7KizKIUQtYNssESIByBOUdufz_r_4OUEH1rnQ"
+  },
+  {
+    "appId": "com.bookipi.ai.business.assistant.manager.app",
+    "title": "AI Business App - Bookipi",
+    "developer": "Bookipi - Billing Estimate",
+    "free": false,
+    "price": null,
+    "summary": "Your AI business assistant. Manage your business on mobile with voice or chat.",
+    "icon": "https://play-lh.googleusercontent.com/B3QsQ47MIh02YQxnlBtAc1zpu6PqXUp-B3A0Ou3dUWzCJxhYv4At2H0cGlKGgHOpAD0d9SG2OLivMDpqBwUnGA"
+  },
+  {
+    "appId": "pay.bill.com.payment.bills",
+    "title": "Bill Reminder & Organizer App",
+    "developer": "Bookipi - Billing Estimate",
+    "free": false,
+    "price": null,
+    "summary": "Easiest bill organizer &amp; tracker. Schedule payment reminders for your bills.",
+    "icon": "https://play-lh.googleusercontent.com/qk6Pt4OFlplLzKCedVqXfHpMtJGEaix9kxIdsMx_gABYiYsFPXb1ltSGLo5sY8RHSOqH"
+  },
+  {
+    "appId": "com.aadhk.woinvoice",
+    "title": "Invoice Simple: Invoice Maker",
+    "developer": "Invoice Simple",
+    "score": 4.507576,
+    "scoreText": "4.5",
+    "free": false,
+    "price": null,
+    "summary": "Create invoices, bills, receipts, &amp; estimates with Invoice Generator &amp; Creator.",
+    "icon": "https://play-lh.googleusercontent.com/lm5SpiPX5imsqx-5LjChyMOEW9qN7EyoF_NIHnL2KsOlQragRvvaXLK8CLGX5GuJzQ"
+  }
+]

@@ -1,0 +1,2008 @@
+{
+  "app": "com.zoho.invoice",
+  "country": "us",
+  "total_pulled": 200,
+  "total_after_filter": 200,
+  "reviews": [
+    {
+      "date": "2026-05-05T08:33:09.598Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "Krunal Vora",
+      "text": "I have a Sign Up but Login Error.why my account is not working properly?",
+      "reply": "Hi Krunal Vora, sorry for the inconvenience caused. Could you please reach out to us at support+mobile@zohoinvoice.com along with the screenshot of the error you are facing? It would put us in a better place to check and resolve this as soon as possible.",
+      "replyDate": "2026-05-05T08:37:55.679Z",
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=a67c53b2-8acb-4133-9825-f0d5c5776574"
+    },
+    {
+      "date": "2026-05-05T07:06:23.231Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "Xi 868",
+      "text": "I use English and suddenly switch to Chinese.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=83d93572-a0bb-4e1a-beb3-76396f001e85"
+    },
+    {
+      "date": "2026-05-05T03:58:38.902Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Cooking With Em",
+      "text": "Invoice app good at first then logs you out asks to verify account then send OTP code then you do not get it! tried multiple times rang support nothing! Cannot get into my invoices very frustrating as a business owner..",
+      "reply": "Hi, we are really sorry about the experience. We would like to take a closer look at this for you. Please reach out to us at support+mobile@zohoinvoice.com with screenshots/screen recording elaborating on the issue you are facing, which will help us figure out the issue better and provide a resolution at the earliest. Awaiting your mail!",
+      "replyDate": "2026-05-05T10:07:10.448Z",
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=92a11b9b-979d-48ff-a17e-41cb73aa5780"
+    },
+    {
+      "date": "2026-05-04T10:13:12.333Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Dewalt Classe",
+      "text": "This app is Really helping me so well !! smart app and recommend for each and every bussiness owner!!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=f45fe97c-0396-4b62-b9e9-e0454f922f44"
+    },
+    {
+      "date": "2026-04-29T12:02:21.173Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Ngbede agbenu",
+      "text": "Every business owner needs this app.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=53bf990e-34de-4041-8c7a-0f098d9441c2"
+    },
+    {
+      "date": "2026-04-28T21:39:02.344Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Muhammad Kp",
+      "text": "to nice housefull",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=b9a4914b-82fc-4adc-b646-b514a8959a15"
+    },
+    {
+      "date": "2026-04-25T09:07:16.837Z",
+      "score": 1,
+      "thumbsUp": 3,
+      "user": "Zarik Khan",
+      "text": "installed the app needed to send an invoice. I kept getting an error message to register my account but regardless of following steps I couldn't verify or reset my password. I have reached out to support and recieved an email asking me to get ready to send my first invoice. totally unusable and poor support.",
+      "reply": "Hello Zarik Khan, we’re sorry for the trouble you’ve experienced with the app. Please try logging out and then logging back in, this should resolve the issue. If you’re still having problems, feel free to contact us at support+mobile@zohoinvoice.com",
+      "replyDate": "2026-04-27T05:14:07.263Z",
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=a4df9e3e-448b-471e-9998-af6242cc895c"
+    },
+    {
+      "date": "2026-04-25T06:57:56.605Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Amiya Baidya",
+      "text": "good application zoho...",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=6dde629a-3e4e-4b44-96b3-7395ccd893fb"
+    },
+    {
+      "date": "2026-04-23T00:50:09.893Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Brian Woodard",
+      "text": "does everything we need to do to run smoothly.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=8bbc47bc-5ca4-49fd-a752-3615f45e17ef"
+    },
+    {
+      "date": "2026-04-21T07:11:20.880Z",
+      "score": 5,
+      "thumbsUp": 5,
+      "user": "Renu Tondak",
+      "text": "Absolutely love Zoho. it is highly interactive, user friendly and feels premium even on their free plan. The support staff is extremely professional. they really know what customer service is and truly live by it. I have serious aversion to tech but it was very easy to set up.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=a2335389-93bc-4ac4-9b9e-26e1a7a3bbc0"
+    },
+    {
+      "date": "2026-04-19T06:59:53.933Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "mintu chakrabartty",
+      "text": "UI is User friendly. Very professional and Husstle free. Thanks for making our work easier. Great work.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=4c115e2c-518c-4276-9e29-4887e1b5073e"
+    },
+    {
+      "date": "2026-04-18T09:10:44.221Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Hansi Flora Creations & Wedding Car Decorations",
+      "text": "This app is Amzing to create an invoizes 😘❤️‍🩹",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=fa5ac2f1-f18c-4d65-80d7-ce9327d372b3"
+    },
+    {
+      "date": "2026-04-17T08:20:50.925Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Rajiv Kulavi",
+      "text": "Very easy to use.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=708a4517-c61f-4ad0-91e1-599f41340e54"
+    },
+    {
+      "date": "2026-04-14T18:55:32.479Z",
+      "score": 5,
+      "thumbsUp": 5,
+      "user": "Rashaad Kader",
+      "text": "Zoho Invoice has made my invoicing simple and professional. Easy to use, clean layout, and everything is well organized. The automated reminders save time and help me get paid faster. Solid tool for any small business.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=3a55335e-3909-4d5a-8930-a8d1d745c94d"
+    },
+    {
+      "date": "2026-04-14T16:41:23.559Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "Sandeep Dabholkar",
+      "text": "This is the best app for invoicing simple to understand and operate... very helpful to track sales & receipts...",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=9f492f7e-0b8d-4b00-8f61-fd5afba6f018"
+    },
+    {
+      "date": "2026-04-13T17:21:24.825Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Copperpride Security",
+      "text": "best App it's amazing and 😊",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=0744074f-234b-4b34-a530-f342c5e3b3d5"
+    },
+    {
+      "date": "2026-04-11T14:44:58.841Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Mahaveer Gandhi",
+      "text": "good",
+      "reply": "Hello Mahaveer Gandhi, Thank you! If you enjoy using the app, please rate us 5 stars. It would encourage us to continue improving the product!",
+      "replyDate": "2026-04-13T04:54:19.251Z",
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=c568cba1-7eda-4dc3-948c-8924babbc6d4"
+    },
+    {
+      "date": "2026-04-10T15:10:54.608Z",
+      "score": 5,
+      "thumbsUp": 6,
+      "user": "Firdaus Yaacob",
+      "text": "best free invoice apps. easy to used. dont need another apps, this is the best. free version already give good features, upgrade will give more awesomeness features 🔥🔥🔥",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=254a6bf0-48db-4ae1-a17b-80e482af0e21"
+    },
+    {
+      "date": "2026-04-09T20:50:08.815Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Sam Breezy",
+      "text": "I am a factory and I use Zoho for all my invoicing and accounting.The best invoicing app out there zero ads too.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=c8f9df5b-06b6-4302-adc5-3f846e53de8a"
+    },
+    {
+      "date": "2026-04-08T17:03:14.372Z",
+      "score": 4,
+      "thumbsUp": 1,
+      "user": "Imdad Ali",
+      "text": "The bad thing is that I have only 500 invoices limit.",
+      "reply": "Hi Imdad, we request you to drop a mail to us at support+mobile@zohoinvoice.com, stating about your invoice limit query. We would be happy to assist you in this regard!",
+      "replyDate": "2026-04-09T06:28:55.531Z",
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=50402bc6-84f9-422e-b0fa-ef5f3ed57aac"
+    },
+    {
+      "date": "2026-04-08T06:14:04.269Z",
+      "score": 5,
+      "thumbsUp": 4,
+      "user": "Cesar",
+      "text": "Best app. Don't use anything else. If you have a business and send invoices, trust me this is the best app. Very organized and you can customize everything! Looks super clean too.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=7ab3917a-ee78-4c24-b3c1-0f4b45e33a8a"
+    },
+    {
+      "date": "2026-04-05T17:51:52.389Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Sanjib Kumar Mahalik",
+      "text": "really super",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=59dae9c6-0f80-4aaf-93a2-590d01563dfd"
+    },
+    {
+      "date": "2026-04-05T09:03:07.814Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Uzoamaka Nwaobiala",
+      "text": "it's easy to use",
+      "reply": "Hi,\nThank you for your comment. Is there something else that we could do to deserve a better rating from you? Let us know at support+mobile@zohoinvoice.com.",
+      "replyDate": "2026-04-06T04:10:26.233Z",
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=f9abf6b4-d0e3-4539-854f-1753586ced16"
+    },
+    {
+      "date": "2026-04-05T04:53:07.449Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Taha Kazi",
+      "text": "Best booking tool in the market... Hands down",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=cae83507-c3f2-4ba3-be92-1f6d1e3b384f"
+    },
+    {
+      "date": "2026-04-04T07:04:04.617Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "robert katunga",
+      "text": "I like the UI",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=ce0f1ff3-55b5-45fd-a48f-ea40435a3512"
+    },
+    {
+      "date": "2026-04-03T14:28:47.532Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Kemar Gaskin",
+      "text": "great app for my small business",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=53163beb-032e-4cee-b9b8-a91909915392"
+    },
+    {
+      "date": "2026-04-02T15:37:44.504Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "matt bell",
+      "text": "Great software",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=e8dd2afe-bd98-43f9-9992-2ca30304bd8f"
+    },
+    {
+      "date": "2026-04-01T11:44:05.900Z",
+      "score": 5,
+      "thumbsUp": 2,
+      "user": "David Fourie",
+      "text": "very easy to use love it",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=6bd68933-c86f-41f7-80c1-3ba4f4c73c66"
+    },
+    {
+      "date": "2026-03-30T11:56:12.874Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Sheelankar Shakya (MAYA V)",
+      "text": "best application for billing",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=7faabca5-4a55-44d9-9adf-95e790fc1e53"
+    },
+    {
+      "date": "2026-03-28T15:42:21.648Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Shubam Dubey",
+      "text": "very nice",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=3ec7f2b4-7779-48aa-8778-bd1b49c26c85"
+    },
+    {
+      "date": "2026-03-28T08:13:18.918Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Alvaro Morcillo",
+      "text": "thanks for the well done job!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=c0309b96-9156-41a1-b47e-cddfcb791eb8"
+    },
+    {
+      "date": "2026-03-25T05:45:33.850Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "hardikkumard 0",
+      "text": "Good Application",
+      "reply": "Thank you! If you enjoy using the app, please rate us 5 stars. It would encourage us to continue improving the product!",
+      "replyDate": "2026-03-30T01:05:36.523Z",
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=7c0b330e-a2ab-4e33-9a21-fa28f226ea80"
+    },
+    {
+      "date": "2026-03-24T08:55:13.648Z",
+      "score": 5,
+      "thumbsUp": 2,
+      "user": "J C",
+      "text": "So exceptionally easy to use. Great to link Square to it for payments too.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=757f76a7-755e-4e68-ae49-cee02bd80750"
+    },
+    {
+      "date": "2026-03-24T07:21:11.299Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Josbert Mensah",
+      "text": "Great to work with.",
+      "reply": "Hi, we are glad that you like our app. Are there any recommendations/suggestions from your side for us to get a 5-star rating? If so, please write to us at support+mobile@zohoinvoice.com, elaborating on your feedback.",
+      "replyDate": "2026-03-24T07:23:37.411Z",
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=f7b81263-49c9-4325-833d-717b4358cd58"
+    },
+    {
+      "date": "2026-03-22T21:52:51.505Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Billyd Dougherty",
+      "text": "works great for my needs! I love this app!!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=22d07dcd-4632-40a0-9587-e9d603751bc1"
+    },
+    {
+      "date": "2026-03-19T13:49:25.256Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Team Dispatch",
+      "text": "work flawless",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=f4bea577-8689-4b5d-ab47-b6435bb511d1"
+    },
+    {
+      "date": "2026-03-19T10:11:08.172Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Sachin Cherian",
+      "text": "👍 good app 😊",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=d644a3e5-a5df-48ca-b348-b5d1e126d9c1"
+    },
+    {
+      "date": "2026-03-18T20:38:42.350Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Akash Khillare",
+      "text": "good at the time but i am using for 1st time so wait for next review after",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=6c4bfb58-a148-4fcb-b67d-b14dc0b9f02e"
+    },
+    {
+      "date": "2026-03-18T10:35:24.856Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Francois Wagenaar",
+      "text": "Great app 👍👌😎",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=9989069a-e7df-4307-8506-b17be67d6c47"
+    },
+    {
+      "date": "2026-03-17T17:31:03.130Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Lonnie Curtis",
+      "text": "Great app makes my life easier. 5 star sure...",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=2fbeb008-864b-4fe1-81a5-7d28516ad65f"
+    },
+    {
+      "date": "2026-03-17T08:28:08.494Z",
+      "score": 5,
+      "thumbsUp": 5,
+      "user": "Matt turner",
+      "text": "I've tried a few of these free apps and this one is by far the best. don't bother with any of the others this is the one and it's free!! it's brilliant!!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=c5cb1f24-6fd4-4949-831f-01bc36592438"
+    },
+    {
+      "date": "2026-03-17T04:38:51.159Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Big Tom (Romans)",
+      "text": "The best app when starting a new business!! It has everything you want and or need !",
+      "reply": "Hi,\nThank you for your comment. Is there something else that we could do to deserve a better rating from you? Let us know at support+mobile@zohoinvoice.com.",
+      "replyDate": "2026-03-23T04:43:43.827Z",
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=1db73cab-3e8e-4ec3-a8f8-754413332ee2"
+    },
+    {
+      "date": "2026-03-15T21:12:39.850Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Roger Ricardo",
+      "text": "best application",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=b2c1e06a-8e65-499f-9d7f-4f6e02988cfa"
+    },
+    {
+      "date": "2026-03-14T21:09:17.131Z",
+      "score": 5,
+      "thumbsUp": 2,
+      "user": "Martin S Kanalukwa",
+      "text": "Zoho Has Never Failed Us, From Custom Emails To Invoices Plus This Company Is Simply The Best Overall, To The Apps. Developers You Super Awesome 👌",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=e396aae5-d93e-4956-85c9-a4f5be8dad1e"
+    },
+    {
+      "date": "2026-03-14T03:18:08.438Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Alfonso Zavala",
+      "text": "very helpful 👌 with billing customers",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=b8fe901e-d3ed-4682-b720-3ed6823d6174"
+    },
+    {
+      "date": "2026-03-13T17:18:58.309Z",
+      "score": 1,
+      "thumbsUp": 5,
+      "user": "Tanay",
+      "text": "It is forcing me to switch to Zoho Books even thoigh I don't want to. as soon as I open the app the banner is there. no close button too. have uninstalled it and again installed thinking it might be a bug. have forced stop too. nothing happening. very annoying. kindly rectify asap.",
+      "reply": "Hi, we regret the inconvenience caused. The app is prompting you to make use of Zoho Books, with all your current data intact, as you already have an active organization in Zoho Books. We request you to reach out to us at support+mobile@zohoinvoice.com so that we could elaborate in detail about this use case. Awaiting your mail!",
+      "replyDate": "2026-03-13T18:57:47.879Z",
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=380e63af-f6c5-4fb7-bb37-dce1e9f92fab"
+    },
+    {
+      "date": "2026-03-13T06:39:02.287Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Jeetendra Patel",
+      "text": "SUPER APP HAI ❤️",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=b9960b73-bca8-4e23-9733-68421074d277"
+    },
+    {
+      "date": "2026-03-12T18:13:12.197Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "De Dons",
+      "text": "such a great invoicing app",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=34ca732e-9715-4c09-aef6-e78c79a1d138"
+    },
+    {
+      "date": "2026-03-12T07:53:26.840Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "ahmed fakir",
+      "text": "it's simple to use great app",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=acadc803-32fe-43a9-9724-068dd7c522ca"
+    },
+    {
+      "date": "2026-03-11T17:11:00.240Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Engeline Derline Abbott",
+      "text": "100% usefully great",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=5566a0db-d771-4844-90e3-4d4cf2ec3873"
+    },
+    {
+      "date": "2026-03-10T10:07:18.645Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Denis Maanga",
+      "text": "This app is so helpful to my business",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=d100175c-0ab9-46ae-80dc-3b9a2c99b541"
+    },
+    {
+      "date": "2026-03-09T23:04:32.753Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Mawunyo Ndo",
+      "text": "It's a very great App",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=84009557-25d2-4a14-98db-839e14a01446"
+    },
+    {
+      "date": "2026-03-09T06:29:56.221Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Maka Ras",
+      "text": "been using it few years and love it , tried other free apps but this one checks the boxes 👍",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=473d93f4-7876-4260-aedf-00deba45afe6"
+    },
+    {
+      "date": "2026-03-09T04:59:13.893Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Navod Hewahe",
+      "text": "this is good",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=7b8bf1e9-6963-4588-bc15-5cdfc6d08c13"
+    },
+    {
+      "date": "2026-03-07T00:35:18.112Z",
+      "score": 5,
+      "thumbsUp": 9,
+      "user": "Jordyn Jessop",
+      "text": "Love! Love! Love! We have tried multiple invoicing apps for our home business, and Zoho has been the best by far! Efficient and easy to use!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=7a826f15-1611-4db0-85e8-938ac3edbbc2"
+    },
+    {
+      "date": "2026-03-06T14:04:58.864Z",
+      "score": 5,
+      "thumbsUp": 9,
+      "user": "Ray Rosa",
+      "text": "An amazing tool set for everything for your business. Customer support is amazing also the few times I've needed them.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=e52ce498-e149-4d70-9424-2be5581feade"
+    },
+    {
+      "date": "2026-03-06T00:21:35.949Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Keith Zimmerman",
+      "text": "for a small business its hard to justify the cost of QB, this works really good.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=6e55ec73-8a55-4d98-966d-836e55ae7e64"
+    },
+    {
+      "date": "2026-03-05T20:20:43.525Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "Patrice Cyrille OHIN",
+      "text": "it's has been great",
+      "reply": "Hey Patrice! Thanks for sharing your review with us. We are glad that you like our app. Is there anything we could do to earn 5-star rating from you? If so, please drop us an email at support+mobile@zohoinvoice.com, elaborating on your feedback.",
+      "replyDate": "2026-03-09T05:14:58.586Z",
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=978e61d0-4b54-448f-999a-a91e49bc062b"
+    },
+    {
+      "date": "2026-03-05T17:59:26.980Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Piotr Szyba",
+      "text": "\"We are unable to create your account now\". Ok then...",
+      "reply": "Hello Piotr Szyba, We are really sorry for the inconvenience. Could you please reach out to us at support+mobile@zohoinvoice.com with some detailed information? We will help you at the earliest.",
+      "replyDate": "2026-03-06T02:40:29.126Z",
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=fc370f09-4865-4387-9b03-f1dd0d0279c2"
+    },
+    {
+      "date": "2026-03-05T12:36:25.407Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Vikas Pundir",
+      "text": "ok",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=aa179f47-23f0-4ced-ae0a-41057546d137"
+    },
+    {
+      "date": "2026-03-05T06:55:15.165Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Welf Bölke",
+      "text": "Wonderful",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=a8b0a425-1949-4e0b-9298-07b5a39598af"
+    },
+    {
+      "date": "2026-03-05T05:28:10.237Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Shannon Ross Dalton",
+      "text": "easy to use",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=8e81f316-4b9e-4a33-b222-2041c6afa74a"
+    },
+    {
+      "date": "2026-03-04T04:35:57.887Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Ravi Sajeewa",
+      "text": "Very simple and really helpful to my small business.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=b0a519a4-c256-4a1c-921e-01d4a0a4a4ef"
+    },
+    {
+      "date": "2026-03-03T19:25:55.516Z",
+      "score": 2,
+      "thumbsUp": 7,
+      "user": "Cori",
+      "text": "I was really liking this app, it even has a late payment reminder you can send, but the last two days it stopped sending a duplicate invoice to my email, now I have no idea if invoices are being sent or not, in fact one customer said they never received their invoice & Zoho sends me the duplicate invoice a day later, this happened for TWO invoices & is not cool at all. I've searched the settings over & over & I cannot find any way to fix this problem, please fix it.",
+      "reply": "Hi, we sincerely regret the inconvenience caused. It does not seem right that you are facing such an issue. We want to take a closer look at this for you. Please write to us at support+mobile@zohoinvoice.com so that we can connect and resolve this issue at the earliest. Awaiting your mail!",
+      "replyDate": "2026-03-04T05:39:53.362Z",
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=29d22405-b071-4d8e-bdb6-c07bae67aaa8"
+    },
+    {
+      "date": "2026-03-03T16:37:53.576Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Thabo Mcunu",
+      "text": "this app deserve all credit",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=a0f231f4-9ab1-4824-8e6f-7aa05926ebb5"
+    },
+    {
+      "date": "2026-03-02T18:31:15.604Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Manish Dhaker",
+      "text": "Good App for billing",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=6119177c-d4c5-4602-b7bb-01429fc6e1ef"
+    },
+    {
+      "date": "2026-03-02T11:19:54.326Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Smart Gopi",
+      "text": "good",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=fbb8d49a-389a-46bd-9736-4ec7c87fa34c"
+    },
+    {
+      "date": "2026-03-01T06:27:38.279Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "Rob Stephenson",
+      "text": "easy to use and professional",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=8681ff62-ce60-490b-9b7d-e2529ef468c1"
+    },
+    {
+      "date": "2026-02-28T06:37:42.140Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Rodgers Ndirangu",
+      "text": "you should add a column for the mode of payment",
+      "reply": "Hello Rodgers Ndirangu, Thank you for providing your feedback. Please reach out to us at support+mobile@zohoinvoice.com, we would be able to understand the query in detail and resolve this. Awaiting for your reply.",
+      "replyDate": "2026-03-02T04:56:34.333Z",
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=d853e7d5-1fbe-4a51-8db5-c4ad7d22b8c7"
+    },
+    {
+      "date": "2026-02-27T02:16:26.206Z",
+      "score": 5,
+      "thumbsUp": 9,
+      "user": "Matt Lumbley",
+      "text": "looks and works great, I like that it save the prices of parts you put in!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=e7220d0b-20c4-4da7-a525-8f2a3a0b31a5"
+    },
+    {
+      "date": "2026-02-26T19:38:33.179Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "Marvelous Baleka",
+      "text": "very simple and easy to use!!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=97a50432-2c48-4599-a5e4-81c30e320ef3"
+    },
+    {
+      "date": "2026-02-26T02:37:15.834Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Lizette Thorne",
+      "text": "Excellent",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=562e1851-91d9-4157-8e31-ae31fbb611d6"
+    },
+    {
+      "date": "2026-02-24T19:12:32.433Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "carolyn p",
+      "text": "easy to use, has been free which is amazing!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=1b2beef5-16a3-4c53-b306-d893a7f95a1b"
+    },
+    {
+      "date": "2026-02-24T17:33:21.387Z",
+      "score": 1,
+      "thumbsUp": 3,
+      "user": "CRAFT PATHAN",
+      "text": "The application appears to have potential; however, it operates slowly and is time-consuming. Additionally, it applies watermarks on invoices without clear justification.",
+      "reply": "Hello, Apologies for any difficulties you experienced in using our Zoho Invoice application. If you have any queries for us, please don't hesitate to connect with us at support+mobile@zohoinvoice.com",
+      "replyDate": "2026-02-27T03:30:34.741Z",
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=4a610183-4888-415a-9fe5-d46678d5faff"
+    },
+    {
+      "date": "2026-02-24T01:45:15.538Z",
+      "score": 3,
+      "thumbsUp": 16,
+      "user": "Kimberley Gaskin",
+      "text": "The app interface was wonderful and easy to use, I created invoices seamlessly. A customer asked me to resend them an invoice they misplaced and when I went to the app, the only thing available is the outstanding balance under receivables. The invoices, receipts, customers, items list, all gone. Just blank white pages. all my set up information, logo, address, numbering sequence, all gone. It's like I was logging into the app for the 1st time. I had to log out, uninstall and reinstall.",
+      "reply": "Hello, We are really sorry for the inconvenience caused. Could you please reach out to us at support+mobile@zohoinvoice.com along with the screenshot of the issue you are facing? so that we would be able to check this and resolve this issue at the earliest.",
+      "replyDate": "2026-02-24T04:10:33.442Z",
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=1421c940-ef65-40f2-bb42-5f4a362d4b65"
+    },
+    {
+      "date": "2026-02-23T17:31:16.900Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "derrick rugenge",
+      "text": "excellent",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=fa911682-3df9-4fcc-b703-5ca3d329e3b2"
+    },
+    {
+      "date": "2026-02-23T11:04:52.419Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Mmeli Cele",
+      "text": "Perfect especially for start-ups",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=d2c4a7c1-6695-410b-90ba-6006a47215a7"
+    },
+    {
+      "date": "2026-02-23T07:47:09.851Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Waqas Ayyaz",
+      "text": "very good application",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=36f08968-ce6c-49ce-a986-a3ced3caa1dc"
+    },
+    {
+      "date": "2026-02-22T15:00:47.154Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Crystal Harrison",
+      "text": "Very effective!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=28e99ef3-33c2-48c6-9a0d-489e2c32b05d"
+    },
+    {
+      "date": "2026-02-21T04:24:10.859Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Narendran P",
+      "text": "purchase order entry and invoice based order",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=a5830b15-dd05-42ca-bbc7-7a3cbcbf35c5"
+    },
+    {
+      "date": "2026-02-20T11:06:38.931Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "Radhika Joshi",
+      "text": "Good Invoices Creater App It is better than oddo it is an American company but this is an Indian company Jai Hind",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=5c14e291-9c86-41df-90f8-f2d1242b6720"
+    },
+    {
+      "date": "2026-02-17T17:06:48.170Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Malay Kumar Das",
+      "text": "excellent 👍",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=18399146-ad96-4991-bc87-2c7d14c9b9d5"
+    },
+    {
+      "date": "2026-02-16T11:50:54.546Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "Christopher F",
+      "text": "I've used zoho services for over a decade. I recommend them to everyone! I use their free tier. I've never looked back!!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=d552923a-3c7c-490a-b84c-283b3f229d55"
+    },
+    {
+      "date": "2026-02-15T21:08:41.396Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "ET",
+      "text": "User friendly and has the tools you need.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=89d2b604-38dd-4816-a863-305d11d5e1d0"
+    },
+    {
+      "date": "2026-02-15T20:30:29.640Z",
+      "score": 3,
+      "thumbsUp": 1,
+      "user": "Eli Lee",
+      "text": "Pretty useful except it has to have signal to use it.",
+      "reply": "Hello Eli Lee, Thank you for providing your valuable feedback. Please reach out to us at support+mobile@zohoinvoice.com, if you have other suggestions.",
+      "replyDate": "2026-02-16T03:39:09.372Z",
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=11f43de1-08fd-457a-9d36-85470877abac"
+    },
+    {
+      "date": "2026-02-15T12:01:55.247Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Greno Solar",
+      "text": "great app for everything",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=c567314f-1dea-44d3-8061-a1330866d94b"
+    },
+    {
+      "date": "2026-02-15T00:56:33.667Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Cleon Archer",
+      "text": "This app is awesome 👌",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=dc79ea41-52dd-4a9d-8f71-b40bdccdc28e"
+    },
+    {
+      "date": "2026-02-13T04:53:14.806Z",
+      "score": 5,
+      "thumbsUp": 2,
+      "user": "Mosiuoa Ntsoereng",
+      "text": "Zoho is exceptional, very convenient and easy to use.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=1e0a6011-df96-4596-9821-c8de0fff2222"
+    },
+    {
+      "date": "2026-02-12T16:44:14.400Z",
+      "score": 5,
+      "thumbsUp": 2,
+      "user": "Paramesh Kalburgi",
+      "text": "Super app. very easy to use and manage.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=b3d05341-be2c-4407-a2d3-16b7c1682833"
+    },
+    {
+      "date": "2026-02-12T14:16:00.876Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Raju M Rajanna",
+      "text": "best for Marketing purposes invoice",
+      "reply": "Hi! We are glad that you like our app. We'd very much appreciate if you have any recommendations/suggestions for us to get a 5-star rating. Please reach out to us at support+mobile@zohoinvoice.com elaborating on your feedback. Thank you!",
+      "replyDate": "2026-02-13T06:43:30.574Z",
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=f1ce8a1f-bfd5-4dce-a98e-4a900464bed3"
+    },
+    {
+      "date": "2026-02-12T09:45:33.524Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Shree S",
+      "text": "working well",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=72581c03-2770-42cf-9d4c-44966a640d15"
+    },
+    {
+      "date": "2026-02-11T01:42:07.163Z",
+      "score": 5,
+      "thumbsUp": 3,
+      "user": "Mike",
+      "text": "Free!. However, it goes way beyond any paid versions. Amazing",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=7d2e0a12-ee7f-4e58-9178-db007ec464e2"
+    },
+    {
+      "date": "2026-02-11T01:17:49.998Z",
+      "score": 5,
+      "thumbsUp": 2,
+      "user": "Saf Ayub",
+      "text": "Awesome app for invoicing. A must have.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=c8455b1e-74af-464e-9236-1b7cdac23ba9"
+    },
+    {
+      "date": "2026-02-10T20:55:58.760Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Annastasia Tucker",
+      "text": "really enjoy this app. easy to work with",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=a0986104-db3d-41f1-b588-827801ac2ac9"
+    },
+    {
+      "date": "2026-02-10T12:37:00.268Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "abdo Emhemd",
+      "text": "التطبيق يعمل بشكل رائع ولكن هناك مشكلة بسيطة وهي ان الفواتير لاتدعم اللغة العربية وبسبب ذالك فان جميع الفواتير تظهر فارغة عند الطباعة. ارجو حل المشكلة قريبا",
+      "reply": "مرحبا، نعتذر عن الإزعاج الذي تسببت به. هل يمكنك التواصل معنا على support+mobile@zohoinvoice.com لمزيد من التفاصيل حول مخاوفك، ولقطات الشاشة أيضا، حتى نتمكن من مساعدتك بشكل أفضل؟ شكرا لك!",
+      "replyDate": "2026-02-13T06:46:03.760Z",
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=2c2ac573-2f9e-4f00-8af9-3095bca79d9c"
+    },
+    {
+      "date": "2026-02-09T22:20:35.716Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "E",
+      "text": "excellent app. easy to use. strongly recommended",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=63e830b0-1181-4ec3-ad82-addf78a99013"
+    },
+    {
+      "date": "2026-02-09T01:26:08.354Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Clmj0418",
+      "text": "great app we literally use it for everything.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=08af48eb-d7e8-4eb0-ad24-b7759316b48e"
+    },
+    {
+      "date": "2026-02-07T17:20:11.642Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Vishal Gangawane",
+      "text": "very good app",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=fb82b24b-ce8a-4986-a550-f2f75f7b2d3c"
+    },
+    {
+      "date": "2026-02-07T13:52:59.429Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Apostle E.E Mukanga",
+      "text": "exceptional",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=b84059bd-b480-44d0-bf2e-ae2a66b29840"
+    },
+    {
+      "date": "2026-02-07T05:50:20.883Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Aniket Shinde",
+      "text": "wow you have something good which every freelancer and small businesses and startup needs",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=9ffed465-74c5-4129-8bb0-a548780dd029"
+    },
+    {
+      "date": "2026-02-06T12:36:56.912Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Omega Dilshan",
+      "text": "all are working fine. east to use. please add Sinhala Language Supported to invoices.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=af445a62-42a1-40ac-b691-11acb26824c3"
+    },
+    {
+      "date": "2026-02-06T03:50:08.198Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Aisel Omerbashi",
+      "text": "This app is a lifesaver. Thank you very much Zoho team. We really really appreciate your help and service. God bless you all.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=8ba3e891-3453-4b31-9ee2-0f9357d085b9"
+    },
+    {
+      "date": "2026-02-05T23:14:00.820Z",
+      "score": 1,
+      "thumbsUp": 3,
+      "user": "Brian Carpenter",
+      "text": "I can not say enough how horrible this app is. For one , its a spy app and dumps your business into a US data center to be collected by people who are self proclaiming they have the right to it.....and also...after sending a quote 8 times and it being clipped every time..its pointless.",
+      "reply": "Hi Brian, we sincerely regret the inconvenience caused while using our app. We would really like to take a closer look at the difficulties you are facing. Please reach out to us at support+mobile@zohoinvoice.com elaborating on your concerns, which will enable us to assist you better.",
+      "replyDate": "2026-02-13T06:42:04.825Z",
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=62ff00c4-9a91-466b-9d62-518f9fed50d4"
+    },
+    {
+      "date": "2026-02-03T07:57:05.650Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Oyewo Abiodun",
+      "text": "Great invoice app",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=ae28c144-a6b6-43e0-878f-cf4b7b6e908e"
+    },
+    {
+      "date": "2026-02-03T03:03:49.520Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Ahmad Bilal",
+      "text": "Good and user-friendly",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=9dad449c-e6d2-4c2f-93c8-07c9466f24dd"
+    },
+    {
+      "date": "2026-02-02T19:35:45.727Z",
+      "score": 5,
+      "thumbsUp": 42,
+      "user": "Lyd Willson",
+      "text": "I've been using the invoice app for my childcare business for 3 or 4 years. I find it very easy and straightforward. I also like the customizable options",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=979f1881-2b47-4c24-878d-87a368f17271"
+    },
+    {
+      "date": "2026-02-02T10:03:14.428Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Olamnatural World",
+      "text": "using this app has really made my business accounting extremely easy. Been using it for over 2 years now and I've not had a reason to change it. Just want to say thank you to the creators.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=19c03399-fe2e-4d94-b75a-4b8527bf0082"
+    },
+    {
+      "date": "2026-02-01T17:53:23.524Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Aranju apple",
+      "text": "super excited excited excited",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=a5329b42-9797-4b72-b154-4a345cf9ade1"
+    },
+    {
+      "date": "2026-02-01T06:23:33.379Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Arolambo Anuoluwa",
+      "text": "very efficient",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=4a0e9dc6-e957-4cd9-a262-dbef0f0ecf5b"
+    },
+    {
+      "date": "2026-02-01T03:30:34.899Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Napco mining pro",
+      "text": "great",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=4ac21418-9100-45f3-b952-a69a102deff4"
+    },
+    {
+      "date": "2026-01-31T16:28:05.708Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "SS FENCING WORKS",
+      "text": "excellent 👌",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=99078c3b-0baf-4e38-b394-d06d943f624b"
+    },
+    {
+      "date": "2026-01-30T23:15:23.785Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Elias Baker",
+      "text": "I love Zoho! It's so straight forward and easy to use!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=5206cc5f-7021-4757-b465-d575d9a8b4b1"
+    },
+    {
+      "date": "2026-01-30T16:45:51.767Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "suresh reddy S",
+      "text": "super easy to do work faster",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=5b06d597-f753-4425-86f2-2dc337f9b5b9"
+    },
+    {
+      "date": "2026-01-29T23:25:00.223Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Victor Sam",
+      "text": "lovely 😍🌹",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=3fe1957a-8a72-438b-b9f6-cacd63ad7844"
+    },
+    {
+      "date": "2026-01-29T03:19:57.501Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Vee",
+      "text": "im just new here. finding the process very easy. no hidden charges yet",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=f4f7e5d4-9509-4af2-add7-585fd0c4be68"
+    },
+    {
+      "date": "2026-01-28T21:20:25.152Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "Jayshivam Sanatbhai Bhatt",
+      "text": "great app to generate invoices.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=8da92a6e-9dd2-4b32-9ffe-e2b7a0b90178"
+    },
+    {
+      "date": "2026-01-28T17:10:48.612Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "MD. Atik Khan",
+      "text": "good and clean app",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=d8447f92-0431-42e4-944f-c470bd43378f"
+    },
+    {
+      "date": "2026-01-27T17:32:14.193Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "MAElectrical Contractor",
+      "text": "great app 💯",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=4fb49c72-e316-4016-be7c-f59cf3b682bc"
+    },
+    {
+      "date": "2026-01-27T10:38:08.642Z",
+      "score": 5,
+      "thumbsUp": 2,
+      "user": "Onyekachi Chima",
+      "text": "very easy to use and gives back the required data needed for a business owner",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=d8b40ca5-375b-4220-8aff-7c116e8e1ccf"
+    },
+    {
+      "date": "2026-01-27T06:45:32.602Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Tanya Holmes",
+      "text": "So user friendly!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=03acc676-25ad-4e6e-bf78-e3c685621d71"
+    },
+    {
+      "date": "2026-01-25T21:06:27.809Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "Carlos Tapoki",
+      "text": "its best app so far iv used and its free also awsome customization on the template",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=7b0ff818-36fa-429e-8437-dee09518b54a"
+    },
+    {
+      "date": "2026-01-25T00:03:20.536Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "AKASH MATHEW",
+      "text": "good",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=092d554d-046c-4d9e-9203-3cdfc4f54e7d"
+    },
+    {
+      "date": "2026-01-24T14:40:23.132Z",
+      "score": 1,
+      "thumbsUp": 2,
+      "user": "C Griff",
+      "text": "Not good. I opened the app on Nov 12, when I last updated it. Then in late Dec or Jan they deleted my data due to \"120 days of inactivity\" but I had been active. I cannnot trust them with any data any longer.",
+      "reply": "Hello, Sorry to hear that! Could you write to us at support+mobile@zohoinvoice.com with more details of your issue? We'd love to help you troubleshoot.",
+      "replyDate": "2026-01-27T04:41:15.190Z",
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=1807b7eb-86cd-4da4-a280-8df479297537"
+    },
+    {
+      "date": "2026-01-24T10:19:33.825Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "Sharon Chidavaenzi",
+      "text": "Just love how fast and efficient this app is to my Day to day job.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=5b863400-9449-4ed2-8b46-a699bcbdef29"
+    },
+    {
+      "date": "2026-01-23T07:30:40.128Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "CIRHUZA BISHIKWABO",
+      "text": "this is the best free app I've never experienced before",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=e6ce26ef-b5a3-420c-9f9f-a8a901c31744"
+    },
+    {
+      "date": "2026-01-22T10:48:45.400Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "sahil gadhiya",
+      "text": "nice",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=2e06a3e7-94a5-413b-86d2-f7fba9c909a2"
+    },
+    {
+      "date": "2026-01-21T14:34:42.192Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "GK Selva",
+      "text": "very useful for startup's",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=5238b6eb-a78a-4302-87f2-1781570b2f2a"
+    },
+    {
+      "date": "2026-01-21T14:06:49.940Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Karansinh Dodia",
+      "text": "very nice app",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=6eb1ec10-7173-4318-b4d9-0d5f0afba22b"
+    },
+    {
+      "date": "2026-01-21T04:42:20.967Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Crown Visualz",
+      "text": "Amazing invoice App",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=1fcf193e-13e1-4031-9dac-fff3bde64627"
+    },
+    {
+      "date": "2026-01-20T14:19:32.405Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "Goldrie H",
+      "text": "very functional, excellent format, Easy to learn.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=93c498ba-0952-4635-88f8-eacf79a0bfea"
+    },
+    {
+      "date": "2026-01-20T11:33:19.314Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Kudzai Rufino",
+      "text": "It makes life easy",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=b42261c5-d10b-43e0-8e16-a6fbbe1b12e3"
+    },
+    {
+      "date": "2026-01-20T07:47:25.850Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Sydney Moses",
+      "text": "Very good",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=e875e185-0a1b-4191-8b9c-718747f266c8"
+    },
+    {
+      "date": "2026-01-17T22:09:59.664Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "Michael Henderson",
+      "text": "works great for tracking expenses and invoicing customers.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=69711b92-cd08-4c5b-be31-a38c231d4e0e"
+    },
+    {
+      "date": "2026-01-17T13:45:39.333Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Murphy Gospel Unegbu",
+      "text": "Awesome app",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=e47052f9-5349-4a94-ab53-ed79bc595375"
+    },
+    {
+      "date": "2026-01-15T20:24:38.495Z",
+      "score": 5,
+      "thumbsUp": 3,
+      "user": "Olive Light",
+      "text": "Loving it! Makes business easy to record sales and profits",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=42c15af1-bcc7-4dbc-a099-aba843dea0b3"
+    },
+    {
+      "date": "2026-01-14T04:11:07.289Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "bradley nesto",
+      "text": "Usěr friendly ,awesome",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=58edd889-7882-4e45-ad05-1f31d68e5447"
+    },
+    {
+      "date": "2026-01-13T19:04:58.607Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Piet Rietz",
+      "text": "Very good",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=205fa0ab-bf31-420f-a8f4-02c3b6209959"
+    },
+    {
+      "date": "2026-01-13T09:59:22.120Z",
+      "score": 5,
+      "thumbsUp": 2,
+      "user": "Money Man",
+      "text": "Very good app. I've been using it for my side hustle with no problems for close to 4 years now with no issues.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=bfa0cb53-199f-4e3a-9c8c-6b05db374726"
+    },
+    {
+      "date": "2026-01-13T07:20:50.660Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "GIRISH RATHOD",
+      "text": "smooth, easy and fast 👍",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=261b00b7-4415-4df0-a2b2-93587d2380d5"
+    },
+    {
+      "date": "2026-01-12T12:32:42.708Z",
+      "score": 2,
+      "thumbsUp": 7,
+      "user": "Ibrahim Yusuf",
+      "text": "You guys need to improved on attaching pictures. The pictures i attached is not showing up when preview and save. However, the pictures supoosed to have is own column or to add it to each description or whereby you can add pictures per items.",
+      "reply": "Hello, We are really sorry for the inconvenience caused. Could you kindly reach out to us at support+mobile@zohoinvoice.com? We will be able to get this issue resolved as soon as possible.",
+      "replyDate": "2026-01-19T04:40:30.328Z",
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=473d10fd-63ed-4110-8521-356644f0b26c"
+    },
+    {
+      "date": "2026-01-10T10:26:52.424Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "J.Nithyananda Babu",
+      "text": "fine",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=4a30e807-f377-4404-9548-00c0b8360818"
+    },
+    {
+      "date": "2026-01-09T15:12:51.230Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Mahanthesh Hadapad",
+      "text": "very good app i am vey happy",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=4a3f9c2e-819c-4955-8268-9037f3cd213a"
+    },
+    {
+      "date": "2026-01-09T15:08:46.524Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Waqas Azmat",
+      "text": "best free invoice platform",
+      "reply": "Hi! We are glad that you like our app. We'd very much appreciate if you have any recommendations/suggestions for us to get 5-star rating. Thank you very much.",
+      "replyDate": "2026-01-10T04:17:23.519Z",
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=4389e8c1-5c11-47e8-bbeb-225371c7d023"
+    },
+    {
+      "date": "2026-01-09T14:39:11.764Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "Narpat J Rajpurohit",
+      "text": "billing sahi nhi set hota",
+      "reply": "Hi Narpat J Rajpurohit, We are really sorry for the inconvenience caused, if any. Kindly reach out to us at support+mobile@zohoinvoice.com. We would be happy to help you.",
+      "replyDate": "2026-01-10T04:17:06.950Z",
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=afbc4d54-d1fe-4bfb-a6d2-ea939130c4e2"
+    },
+    {
+      "date": "2026-01-09T12:51:45.589Z",
+      "score": 5,
+      "thumbsUp": 5,
+      "user": "Patrick Gallagher",
+      "text": "Great system for estimates and invoicing. We have used it for years without issues.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=3afe5b1d-667e-47ab-839f-f07a5f5428ff"
+    },
+    {
+      "date": "2026-01-09T08:31:09.177Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "OXYGENE EV ELECTRONICS OXYGENE EV ELECTRONICS",
+      "text": "pls add store stocks inventory, it's very much useful for everyone.have a great day ahead team.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=bede7d5e-884e-40db-b268-4dd3da950cca"
+    },
+    {
+      "date": "2026-01-07T13:44:40.741Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Rajesh Prasad",
+      "text": "Fabulous product",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=cfc1ac67-cca4-4734-a4c0-14708701b608"
+    },
+    {
+      "date": "2026-01-07T02:59:00.638Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "AMAHS MALIK",
+      "text": "so beautiful 🤫",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=a2c8fe00-c1e7-4c8c-984f-26d617ba2000"
+    },
+    {
+      "date": "2026-01-06T16:25:06.202Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Faisal Chaudhary",
+      "text": "brilliant app to send invoices",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=f76eba60-f5f8-4420-a3bf-1f8aa8067ec4"
+    },
+    {
+      "date": "2026-01-06T16:13:43.465Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Praveen Sharma",
+      "text": "I love this",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=cb48df8c-84ea-44e3-af28-1c256fa838a6"
+    },
+    {
+      "date": "2026-01-05T09:09:02.417Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Boben Varghese",
+      "text": "supper",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=dd89f221-6a94-4650-973b-727d5cdef6d0"
+    },
+    {
+      "date": "2026-01-04T18:28:16.827Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Mr Ballantyne",
+      "text": "perfect",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=537a5008-909a-4d4e-b548-bb83aa9a2923"
+    },
+    {
+      "date": "2026-01-04T00:28:17.347Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "SyedAbdullah Hussaini",
+      "text": "4 star because my data not available on mobile app.",
+      "reply": "Hi SyedAbdullah Hussaini, We regret the inconvenience. Could you please reach out to us at support+mobile@zohoinvoice.com with some detailed information?",
+      "replyDate": "2026-01-05T04:47:12.248Z",
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=e9b4d5af-13ab-4990-9ca7-f149db306d19"
+    },
+    {
+      "date": "2026-01-03T17:41:13.625Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Yaare 89",
+      "text": "برای طراحی ی فاکتورنصب کردم-ازمن شماره موبایل و ایمیل و پسورد گوگل و..... هنوز ب کار نگرفته بروز رسانی!!؟؟ عزلش کردم و عطایش را ب لقایش بخشیدم!!",
+      "reply": "سلام، از مشکل پیش آمده واقعاً متاسفیم. لطفاً از طریق support+mobile@zohoinvoice.com با ما تماس بگیرید. خوشحال می‌شویم بررسی و به شما کمک کنیم.",
+      "replyDate": "2026-01-05T04:49:02.240Z",
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=81b5c77c-e446-497b-a52e-74aa84d92cf0"
+    },
+    {
+      "date": "2026-01-03T05:11:59.843Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Jyotsana Vishwakarma",
+      "text": "💙💫",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=27ada3d2-6fdb-485d-95cd-81bacb88e03c"
+    },
+    {
+      "date": "2026-01-02T02:11:20.979Z",
+      "score": 5,
+      "thumbsUp": 3,
+      "user": "Tavona Chisi",
+      "text": "Zoho is far much a business burden controller on its on they are superhelpful even when its support time they respond in time and are forever present",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=7f18ef50-0358-4869-b294-d1c9fcc85e33"
+    },
+    {
+      "date": "2026-01-01T19:09:21.121Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "ajay vishwakarma",
+      "text": "super se uper",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=6af5ab64-d580-45c1-a163-3629a1d6b7b5"
+    },
+    {
+      "date": "2025-12-31T04:40:56.315Z",
+      "score": 5,
+      "thumbsUp": 80,
+      "user": "Robert Klinger Jr.",
+      "text": "I was using an Invoice and Estimate generator app for years, I had the paid version and had very limited customization especially compared to this app. I'm using the free version of this app, you have full access online to do unbelievable customization, adding fields for Signature, Printed name, P.O. and so much more. The stuff they have in this free app is just amazing. I find new things almost daily to make this Estimate and Invoice creator so much better to fit my exact needs.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=f96ce00f-aede-4458-b093-4e749c88528f"
+    },
+    {
+      "date": "2025-12-30T07:58:27.337Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Birendra Pratap Singh",
+      "text": "Good",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=fbe583bc-a3fa-49d5-bafd-d371c7a92379"
+    },
+    {
+      "date": "2025-12-28T18:14:48.592Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "JAUN SMIT",
+      "text": "best app ever for small business",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=2911efc0-60e7-475b-9629-2655aa0dbc45"
+    },
+    {
+      "date": "2025-12-28T08:44:23.992Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Abdiel Martinez Colon",
+      "text": "perfect",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=4eea6a61-0457-4ba6-81b7-44f9640e8d4e"
+    },
+    {
+      "date": "2025-12-26T11:59:36.407Z",
+      "score": 4,
+      "thumbsUp": 13,
+      "user": "Edgar Lok Tin Yung Feng Shui Chinese Astrology",
+      "text": "Thank you. Zoho invoice allows multiple organisations, However I cannot find how to add the second one. ------------ Not sure where to add a difference currency.",
+      "reply": "Hello, Thank you for sharing your query. You can add or update a new currency for your organisation in Settings -> Currencies. If you need any assistance, kindly reach out to us at support+mobile@zohoinvoice.com, we would be happy to help you.",
+      "replyDate": "2025-07-14T05:28:28.420Z",
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=20ed95a7-9f5f-46bb-ad4a-d43f5ca74b20"
+    },
+    {
+      "date": "2025-12-26T08:14:00.543Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Parth Desai",
+      "text": "very slow app",
+      "reply": "Hi Parth, we are sorry for the inconvenience caused. We would love to address the slowness you are facing. In order for us to assist you better, we request you to drop us a mail at support+mobile@zohoinvoice.com elaborating on where you face the slowness. If possible, please attach a screen recording of the same as well.",
+      "replyDate": "2025-12-26T13:15:20.422Z",
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=cbc9eadd-4116-4be7-a411-f25a499c603f"
+    },
+    {
+      "date": "2025-12-24T11:14:35.750Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "SUDHARSAN K",
+      "text": "It's literally amazing",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=575cc6d6-3456-4110-884c-7bd10f6f18dd"
+    },
+    {
+      "date": "2025-12-24T07:53:51.657Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Dave Smit",
+      "text": "mind blowing 🤯",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=81f14204-618a-46e0-9664-beb523ed24fb"
+    },
+    {
+      "date": "2025-12-23T09:34:26.509Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "vijay maurya",
+      "text": "best for small business and sarvice provide used this software free.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=d81960ee-e8ab-496c-98bb-4709144d209e"
+    },
+    {
+      "date": "2025-12-21T12:00:08.168Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Rajan Varma",
+      "text": "very useful 👌",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=d3e1d300-ac83-4c71-ae9c-09756d32bdd7"
+    },
+    {
+      "date": "2025-12-19T23:53:51.227Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Javad Shamsi",
+      "text": "very nice app thanks",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=e036988c-c411-4a0e-add1-2d14818b4006"
+    },
+    {
+      "date": "2025-12-19T12:53:51.952Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "lyndon ennis",
+      "text": "Make invoices and quotes quickly on the go love it.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=e86e8c3c-21c5-47bc-92f6-7403d5588516"
+    },
+    {
+      "date": "2025-12-19T05:26:11.240Z",
+      "score": 3,
+      "thumbsUp": 2,
+      "user": "Brian Murenza",
+      "text": "it's good but failing to remove the rate as a unity price. Inventory to enter items must be on dashboard",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=6172291f-30fa-471b-9d56-c72ee92174c1"
+    },
+    {
+      "date": "2025-12-18T09:31:51.553Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "stella sinoya",
+      "text": "great 👍",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=576c491f-223d-41f6-8c3e-d593f94f98f6"
+    },
+    {
+      "date": "2025-12-18T04:04:55.243Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "sagar relekar",
+      "text": "ammezing app. realy grate, work with 100%. thaks.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=b7754b8b-058a-4af3-9f3b-0acd70793f55"
+    },
+    {
+      "date": "2025-12-17T23:18:51.780Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Willis P. Taulapapa",
+      "text": "easy to use",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=9c910b4a-b1c4-4145-8193-4d2e5057b249"
+    },
+    {
+      "date": "2025-12-16T21:50:06.732Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Carlon James",
+      "text": "very efficient app",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=c411930b-1170-46ac-b869-e744c7875a24"
+    },
+    {
+      "date": "2025-12-16T09:16:22.502Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Ilesanmi Odunayo",
+      "text": "so easy to work with, even as a beginner. thank you",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=b01ab35b-eb95-44ff-abc2-8d0b31df9938"
+    },
+    {
+      "date": "2025-12-15T10:43:45.391Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Prestine M2Design Enterprise Construction Pty (PMDEC)",
+      "text": "This app is very good the best for me",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=ef303a08-44e0-4759-b4ef-a77b97fa4be4"
+    },
+    {
+      "date": "2025-12-15T07:03:51.794Z",
+      "score": 4,
+      "thumbsUp": 4,
+      "user": "A P",
+      "text": "great invoice app, hope it stays free to send out quotes and invoices. having ability to customize templates is great feature. Recommend it, great app for free",
+      "reply": "Hey there, we are glad you find our app great. Zoho Invoice is a completely free app, and you can continue sending out quotes and invoices. We would like to know if there is anything else to get a 5-star rating from you. If so, we request you to write to us at support+mobile@zohoinvoice.com elaborating on your feedback.",
+      "replyDate": "2025-12-17T08:51:48.750Z",
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=59ae7d03-5818-4856-8caf-7d29b0cd77c8"
+    },
+    {
+      "date": "2025-12-12T07:55:45.556Z",
+      "score": 4,
+      "thumbsUp": 8,
+      "user": "Vitalie F",
+      "text": "finding difficult to set up your invoice template, not possible to remove \"online payments\", not as intuitive as would like it to be, but overall is great, using every day.",
+      "reply": "Hello, Thank you for providing your valuable feedback. Please reach out to us at support+mobile@zohoinvoice.com, if you have other suggestions.",
+      "replyDate": "2025-12-13T10:12:11.435Z",
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=f2284f21-0092-424d-acd6-92d2739d6733"
+    },
+    {
+      "date": "2025-12-12T05:29:15.830Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Daniel Stevens",
+      "text": "fantastic app",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=54d769f4-5ff6-4575-bfc1-29c41d681f17"
+    },
+    {
+      "date": "2025-12-12T02:44:55.906Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Berenice-Anne Oosthuizen",
+      "text": "FANTASTIC.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=45f0c54d-132b-4b60-aa08-5ce5877d1174"
+    },
+    {
+      "date": "2025-12-10T01:48:06.183Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Tinotenda Amel",
+      "text": "awesome mobile invoicing software",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=96a8f8a5-c7ef-43cc-8863-3239ae554a61"
+    },
+    {
+      "date": "2025-12-08T20:59:10.754Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Michael Saavedra",
+      "text": "great app 👌",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=2df86ea3-bdfc-404a-a834-cad5e82dfbfc"
+    },
+    {
+      "date": "2025-12-08T17:02:23.577Z",
+      "score": 5,
+      "thumbsUp": 2,
+      "user": "Elfen41",
+      "text": "Best invoicing app out there! The last updates are phenomenal.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=e9350b8a-871d-4df4-af62-c3d39e0a536d"
+    },
+    {
+      "date": "2025-12-07T20:19:55.876Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "Gaurav Nema",
+      "text": "Love the support Zoho gives to small businesses via apps like these. Any small business has enough support from Zoho to actually grow out of the free plans.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=46818915-11ee-42a9-8ea8-509aeb830e9a"
+    },
+    {
+      "date": "2025-12-07T15:32:22.520Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Mauzette Marais",
+      "text": "Helps a lot for invoicing...thanks Zoho!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=e04c595e-bbcf-432b-aff2-bfc25751924a"
+    },
+    {
+      "date": "2025-12-07T10:35:21.864Z",
+      "score": 2,
+      "thumbsUp": 1,
+      "user": "Andro Trans",
+      "text": "It looks good but I cannot find Transport industry in the organisation setup. It might be another industries missing as well.",
+      "reply": "Hello, We apologize for the inconvenience, if any. Can you please reach out to us at support+mobile@zohoinvoice.com so we can connect?",
+      "replyDate": "2025-12-08T04:52:46.209Z",
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=4f4462f9-2aa1-4895-98af-b8ea1c160970"
+    },
+    {
+      "date": "2025-12-06T16:44:43.985Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Tarun Chavan",
+      "text": "i really love this app",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=c9a6af6d-5514-49f0-b1c8-576b927e9a67"
+    },
+    {
+      "date": "2025-12-06T14:28:19.710Z",
+      "score": 4,
+      "thumbsUp": 2,
+      "user": "Christopher Smith",
+      "text": "For some reason as of late invoices sent to customers with Gmail do not seem to be working.",
+      "reply": "Hi Christopher,\nThis doesn't seem right. We want to take a closer look at this for you. Please send an email to support+mobile@zohoinvoice.com so we can connect and resolve your problem as soon as possible.",
+      "replyDate": "2023-12-11T04:46:24.664Z",
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=5bf4db68-9d60-42c9-97bf-94b4646c6afb"
+    },
+    {
+      "date": "2025-12-06T13:49:59.910Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Karel Willems",
+      "text": "the best evee",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=3bedb2ad-add4-484d-b389-7c067c7af6fb"
+    },
+    {
+      "date": "2025-12-05T21:09:29.884Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Nattieris Ristie",
+      "text": "awesome",
+      "reply": "Thank you! If you enjoy using the app, please rate us 5 stars. It would encourage us to continue improving the product!",
+      "replyDate": "2025-12-08T04:52:58.325Z",
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=a317631c-5d9b-4ae5-927c-e3f7ddd8fca5"
+    },
+    {
+      "date": "2025-12-05T14:53:41.472Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Shree Ji Computer & laptop Service Center",
+      "text": "super billing app in the world, every person must be use this app",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=a995ca0c-49cb-41a3-b1c1-c74437715ffc"
+    },
+    {
+      "date": "2025-12-05T14:12:57.450Z",
+      "score": 5,
+      "thumbsUp": 6,
+      "user": "Clint Ferdinand",
+      "text": "This app is great. I freelance. It's easy to use. Straight forward interface with all of the features and options I need.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=c23404fc-2f83-4d3d-8a0e-f6de445c6d46"
+    },
+    {
+      "date": "2025-12-05T12:54:59.679Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "karen Hylton-Grayson",
+      "text": "Great",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=0853a130-dce9-45b8-aca6-962ea7248b36"
+    },
+    {
+      "date": "2025-12-05T05:27:32.898Z",
+      "score": 5,
+      "thumbsUp": 3,
+      "user": "Joshua Crowder (cowdough)",
+      "text": "this has been my app for invoicing and estimates and everything business for over 2 years now. simple, professional, and customer service is awesome.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=c685d292-d998-4264-be1f-ddfee4b0728d"
+    },
+    {
+      "date": "2025-12-04T18:10:16.549Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Fathima Dawood",
+      "text": "love it!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=2449e333-a53d-49de-8387-a24d835ea621"
+    },
+    {
+      "date": "2025-12-04T09:51:28.487Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "faizan hanif",
+      "text": "so simple and efficient. i really like this app",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=58898dae-0ba5-4d0a-b244-5a10eae78560"
+    },
+    {
+      "date": "2025-12-03T16:10:28.924Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "Jenish Patel",
+      "text": "Add \"Dark Mode\" Theme.",
+      "reply": "Hi, We've forwarded your feedback to our developers. Thank you for taking out the time to send us your suggestions! If you have any other query, kindly reach out to us at support+mobile@zohoinvoice.com.",
+      "replyDate": "2025-12-04T09:53:44.159Z",
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=00321d41-3701-4c34-8fda-d3e8aa692f07"
+    },
+    {
+      "date": "2025-12-03T07:20:13.762Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "vikas singh",
+      "text": "Best app for invoice making",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=d9f4318f-c4d3-41b2-b2c3-33dab212d5ec"
+    },
+    {
+      "date": "2025-12-02T13:14:21.692Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "yekini toyin",
+      "text": "great 👍",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=ded6bdaa-f4dd-4c2d-85dd-e7c59f97d33c"
+    },
+    {
+      "date": "2025-12-02T06:11:18.165Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "THATO BRIAN “General” CHEGO",
+      "text": "Top norch 100% nothing more to say",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.zoho.invoice&reviewId=f5484472-aee0-4e9e-a5a2-4001ce2eb8ab"
+    }
+  ]
+}

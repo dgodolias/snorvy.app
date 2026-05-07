@@ -1,0 +1,1029 @@
+{
+  "appId": 694831622,
+  "country": "de",
+  "total_pulled": 102,
+  "low_count": 10,
+  "low_pct": 9.8,
+  "reviews": [
+    {
+      "id": "14015988339",
+      "date": "2026-05-01T04:03:21-07:00",
+      "score": 1,
+      "title": "Sehr schlecht",
+      "text": "7,99 € für 3 Rechnungen im Monat, bye bye",
+      "user": "rumbacazz",
+      "version": "6.1.6",
+      "url": "https://itunes.apple.com/de/review?id=694831622&type=Purple%20Software"
+    },
+    {
+      "id": "13116998220",
+      "date": "2025-09-09T05:30:13-07:00",
+      "score": 1,
+      "title": "Unseriös",
+      "text": "nach Abo Verlängerung, auf 10 Rechnungen pro Monat eingeschränkt, um einen Upgrade zu erzwingen. Geschäftsbedingungen nach Vertragsabschluss einfach geändert.",
+      "user": "sparik779",
+      "version": "5.0.1",
+      "url": "https://itunes.apple.com/de/review?id=694831622&type=Purple%20Software"
+    },
+    {
+      "id": "12236582953",
+      "date": "2025-01-27T02:48:54-07:00",
+      "score": 4,
+      "title": "Leider keine E-Rechnung",
+      "text": "Eine tolle App die ich seit Jahren nutze, simpel, schnell und einfach! Leider werde ich die App nicht weiter nutzen da die nicht mehr mit der neuen Gesetzgebung vereinbar ist! Der Entwickler sollte die neuen Vorgaben beachten und E-Rechnungen unterstützen…",
+      "user": "altercreed",
+      "version": "3.5.206",
+      "url": "https://itunes.apple.com/de/review?id=694831622&type=Purple%20Software"
+    },
+    {
+      "id": "11589701657",
+      "date": "2024-08-09T03:50:54-07:00",
+      "score": 3,
+      "title": "App öffnet nach Update nicht.",
+      "text": "Nach dem aktuellen Update bleibt das Display weiß und die App startet nicht. Komme nicht ins Programm bzw. an die alten Rechnungen. Bitte nacharbeiten.",
+      "user": "Donnergott73",
+      "version": "3.5.78",
+      "url": "https://itunes.apple.com/de/review?id=694831622&type=Purple%20Software"
+    },
+    {
+      "id": "10818262811",
+      "date": "2024-01-13T11:12:40-07:00",
+      "score": 2,
+      "title": "Teuer",
+      "text": "Locken erst mit einem günstigen Angebot. und wenn man das erst mal angenommen hat und zwei Rechnungen geschrieben hat, muss man ab der dritten Rechnung das Doppelte bezahlen.",
+      "user": "mnbvcyäökkj",
+      "version": "3.4.236",
+      "url": "https://itunes.apple.com/de/review?id=694831622&type=Purple%20Software"
+    },
+    {
+      "id": "10187685159",
+      "date": "2023-07-27T05:46:45-07:00",
+      "score": 5,
+      "title": "Just simple 😊",
+      "text": "Good app for small businesses",
+      "user": "dj dullyboy",
+      "version": "3.4.79",
+      "url": "https://itunes.apple.com/de/review?id=694831622&type=Purple%20Software"
+    },
+    {
+      "id": "10184191319",
+      "date": "2023-07-26T07:19:42-07:00",
+      "score": 5,
+      "title": "Super",
+      "text": "Sehr geil",
+      "user": "SinanKmK",
+      "version": "3.4.79",
+      "url": "https://itunes.apple.com/de/review?id=694831622&type=Purple%20Software"
+    },
+    {
+      "id": "10053365719",
+      "date": "2023-06-20T05:50:13-07:00",
+      "score": 5,
+      "title": "Bis jetzt, alles Top!",
+      "text": "bis jetzt bin ich begeistert, mal schauen wie es sich in Zukunft so tut.",
+      "user": "PBHY",
+      "version": "3.4.47",
+      "url": "https://itunes.apple.com/de/review?id=694831622&type=Purple%20Software"
+    },
+    {
+      "id": "9729233343",
+      "date": "2023-03-19T01:57:41-07:00",
+      "score": 4,
+      "title": "Prima App",
+      "text": "Die App macht was sie soll, ist auch leicht zu bedienen. Schön ist die Vorschau Funktion und die Posten lassen sich schnell einfügen bzw. Löschen. Etwas mehr Komfort beim Ändern des E-Mail Accounts dann sind es 5 Sterne. Danke",
+      "user": "Pünktchen612",
+      "version": "3.3.942",
+      "url": "https://itunes.apple.com/de/review?id=694831622&type=Purple%20Software"
+    },
+    {
+      "id": "9717096909",
+      "date": "2023-03-15T14:17:26-07:00",
+      "score": 5,
+      "title": "Rechnung",
+      "text": "Top!! Die Rechnung ist in 5 min fertig",
+      "user": "Ulozak",
+      "version": "3.3.949",
+      "url": "https://itunes.apple.com/de/review?id=694831622&type=Purple%20Software"
+    },
+    {
+      "id": "9520172902",
+      "date": "2023-01-18T02:11:38-07:00",
+      "score": 3,
+      "title": "Angebot",
+      "text": "Ich würde es sehr begrüßen, wenn es nicht nur „Kostenvoranschlag“gäbe,sondern auch „Angeot“",
+      "user": "Katharinha",
+      "version": "v3.3.902",
+      "url": "https://itunes.apple.com/de/review?id=694831622&type=Purple%20Software"
+    },
+    {
+      "id": "9493573216",
+      "date": "2023-01-10T15:20:43-07:00",
+      "score": 5,
+      "title": "Cool",
+      "text": "Cool",
+      "user": "seschen",
+      "version": "v3.3.902",
+      "url": "https://itunes.apple.com/de/review?id=694831622&type=Purple%20Software"
+    },
+    {
+      "id": "9109388784",
+      "date": "2022-09-22T01:06:37-07:00",
+      "score": 5,
+      "title": "Wirklich ohne Mühe!",
+      "text": "Ich habe meine erste Rechnung geschrieben, danke!",
+      "user": "Adele257864325",
+      "version": "v3.3.808",
+      "url": "https://itunes.apple.com/de/review?id=694831622&type=Purple%20Software"
+    },
+    {
+      "id": "8911526898",
+      "date": "2022-07-25T15:16:37-07:00",
+      "score": 5,
+      "title": "Please for Windows",
+      "text": "Please add this app also for Windows, PC version that you can view and create your invoices on PC and IPhone.🙏🏻",
+      "user": "BitcoinForex",
+      "version": "v3.3.755",
+      "url": "https://itunes.apple.com/de/review?id=694831622&type=Purple%20Software"
+    },
+    {
+      "id": "8753144500",
+      "date": "2022-06-08T04:04:24-07:00",
+      "score": 5,
+      "title": "TOP APP",
+      "text": "Diese App ist eine Super App, danke an die Entwickler.",
+      "user": "keremdagharet",
+      "version": "v3.3.711",
+      "url": "https://itunes.apple.com/de/review?id=694831622&type=Purple%20Software"
+    },
+    {
+      "id": "8696036290",
+      "date": "2022-05-22T01:09:57-07:00",
+      "score": 2,
+      "title": "Wiedermal ein Abo",
+      "text": "Ich brauche die App nur um Rechnungen zu schreiben und zu Exportieren. Das könnte ich auch mit Excel realisieren, für diese Funktionalität also 100€ pro Jahr zu zahlen ist mir zu viel. Ich wollte eine App suchen die mir den ganzen Spaß etwas schöner aufwertet, deshalb suche ich nach einer App. Ein Einmalkauf hätte ich voll akzeptiert. Hätten auch 30 - 50 € seien können, weil ich natürlich nichts umsonst ist und sein sollte. Wir müssen alle Essen. \nFunktional ist die App, soweit ich sie testen konnte schön und jeder der sich das Abo an den Bauch binden will wird damit auf jedenfall glücklich.\nFazit für meine Zwecke scheidet Invoice aus und ich suche weiter nach einer App die sich nicht dauerhaft an einem Bereichert.",
+      "user": "Spandex aka Schocko",
+      "version": "v3.3.704",
+      "url": "https://itunes.apple.com/de/review?id=694831622&type=Purple%20Software"
+    },
+    {
+      "id": "8641499189",
+      "date": "2022-05-05T19:39:10-07:00",
+      "score": 5,
+      "title": "Beste App ever",
+      "text": "Diese App ist sehr einfach zu bedienen und kann ich auf jeden Fall weiter empfehlen",
+      "user": "mustafarajeh80",
+      "version": "v3.3.685",
+      "url": "https://itunes.apple.com/de/review?id=694831622&type=Purple%20Software"
+    },
+    {
+      "id": "8608536141",
+      "date": "2022-04-26T08:30:38-07:00",
+      "score": 5,
+      "title": "Perfekt",
+      "text": "Alles was man braucht",
+      "user": "ebenkbsdbkllbg",
+      "version": "v3.3.685",
+      "url": "https://itunes.apple.com/de/review?id=694831622&type=Purple%20Software"
+    },
+    {
+      "id": "8337851263",
+      "date": "2022-02-09T14:57:13-07:00",
+      "score": 5,
+      "title": "einfach erstellen",
+      "text": "Arbeiten und dann die Rechnung aber wie mit dem Programm kein Problem herlich einfach.",
+      "user": "Hgg Husfeldt",
+      "version": "v3.3.620",
+      "url": "https://itunes.apple.com/de/review?id=694831622&type=Purple%20Software"
+    },
+    {
+      "id": "8196202628",
+      "date": "2022-01-02T07:55:34-07:00",
+      "score": 5,
+      "title": "Super",
+      "text": "Sehr tolle App um Rechnungen zu schreiben",
+      "user": "Michaelmicshop",
+      "version": "v3.3.571",
+      "url": "https://itunes.apple.com/de/review?id=694831622&type=Purple%20Software"
+    },
+    {
+      "id": "8142761191",
+      "date": "2021-12-18T03:29:31-07:00",
+      "score": 5,
+      "title": "top",
+      "text": "super hilfreich schnell alles was nötig ist für Büro und unterwegs",
+      "user": "BMWX7M50",
+      "version": "v3.3.571",
+      "url": "https://itunes.apple.com/de/review?id=694831622&type=Purple%20Software"
+    },
+    {
+      "id": "7952530143",
+      "date": "2021-10-25T06:51:31-07:00",
+      "score": 3,
+      "title": "Gut",
+      "text": "Die App ist eigentlich relativ gut. Was ich nicht gut finde, dass die Mails nicht zugestellt werden obwohl die E-Mails richtig angegeben sind. Ich habe heute gefühlt 40 Rechnungen geschrieben. Über die Hälfte ist per Mail nicht angekommen. Das ist Zeitaufwand und sollte nicht so sein",
+      "user": "Melina6679",
+      "version": "v3.3.526",
+      "url": "https://itunes.apple.com/de/review?id=694831622&type=Purple%20Software"
+    },
+    {
+      "id": "7896041672",
+      "date": "2021-10-09T10:14:07-07:00",
+      "score": 5,
+      "title": "top",
+      "text": "best",
+      "user": "jerry8817",
+      "version": "v3.3.526",
+      "url": "https://itunes.apple.com/de/review?id=694831622&type=Purple%20Software"
+    },
+    {
+      "id": "7885261858",
+      "date": "2021-10-06T10:45:22-07:00",
+      "score": 5,
+      "title": "Topp",
+      "text": "Habe die App gerade getestet. Genau das was ich gesucht habe. Und dann auch noch Gratis. Wahnsinn 👍 ich bin begeistert",
+      "user": "Schnarchie",
+      "version": "v3.3.526",
+      "url": "https://itunes.apple.com/de/review?id=694831622&type=Purple%20Software"
+    },
+    {
+      "id": "7717313992",
+      "date": "2021-08-21T00:55:11-07:00",
+      "score": 5,
+      "title": "Super",
+      "text": "Kann man empfehlen",
+      "user": "Waterworld63",
+      "version": "v3.3.500",
+      "url": "https://itunes.apple.com/de/review?id=694831622&type=Purple%20Software"
+    },
+    {
+      "id": "7623229376",
+      "date": "2021-07-27T03:10:31-07:00",
+      "score": 5,
+      "title": "Sehr gut",
+      "text": "Mehr als zufrieden mit der App👍🏻",
+      "user": "Bandit7777777",
+      "version": "v3.3.481",
+      "url": "https://itunes.apple.com/de/review?id=694831622&type=Purple%20Software"
+    },
+    {
+      "id": "7275918159",
+      "date": "2021-04-28T21:50:47-07:00",
+      "score": 2,
+      "title": "Really not good",
+      "text": "Many simple functions missing : no text option without value for customs number etc -  no sorting sequence possibility , do not save the input datas automatically must always switch a button which is very slow .  \nMissing order confirmation etc",
+      "user": "Hitzitzleyley",
+      "version": "v3.3.409",
+      "url": "https://itunes.apple.com/de/review?id=694831622&type=Purple%20Software"
+    },
+    {
+      "id": "7197229356",
+      "date": "2021-04-08T00:22:04-07:00",
+      "score": 5,
+      "title": "Bin sehr zufrieden 👏",
+      "text": "Bin sehr begeistert und werde diese App auf jeden Fall weiter nutzen und auch weiter empfehlen 👍",
+      "user": "24/7 serious",
+      "version": "v3.3.397",
+      "url": "https://itunes.apple.com/de/review?id=694831622&type=Purple%20Software"
+    },
+    {
+      "id": "6783168098",
+      "date": "2020-12-22T18:13:01-07:00",
+      "score": 5,
+      "title": "Super",
+      "text": "👍",
+      "user": "Dream Recklinghausen",
+      "version": "v3.3.319",
+      "url": "https://itunes.apple.com/de/review?id=694831622&type=Purple%20Software"
+    },
+    {
+      "id": "6758609173",
+      "date": "2020-12-16T00:28:04-07:00",
+      "score": 5,
+      "title": "Einfach und Gut,,alles ok....",
+      "text": "Alles gut,,zufrieden..",
+      "user": "Alte Mann",
+      "version": "v3.3.319",
+      "url": "https://itunes.apple.com/de/review?id=694831622&type=Purple%20Software"
+    },
+    {
+      "id": "6652955062",
+      "date": "2020-11-16T12:20:50-07:00",
+      "score": 5,
+      "title": "Amazing",
+      "text": "I love the App",
+      "user": "T-Phly",
+      "version": "3.3.304",
+      "url": "https://itunes.apple.com/de/review?id=694831622&type=Purple%20Software"
+    },
+    {
+      "id": "6599888698",
+      "date": "2020-11-01T22:20:07-07:00",
+      "score": 5,
+      "title": "Super App",
+      "text": "Alles okay",
+      "user": "Sohli1957",
+      "version": "3.3.257",
+      "url": "https://itunes.apple.com/de/review?id=694831622&type=Purple%20Software"
+    },
+    {
+      "id": "6575182816",
+      "date": "2020-10-26T01:17:34-07:00",
+      "score": 1,
+      "title": "zumindest nicht in DE",
+      "text": "Deutsche Übersetzung ist kaum zu verstehen. Dazu kommen eine programmier Fehler, die die Handhaben erschweren. Außerdem hätte ich gerne mehr Freiheit in der Gestaltung der Rechnung. Leider ist das sehr eingeschränkt. Ich Probier ne andere Rechnungsapp..",
+      "user": "shadyGamer12",
+      "version": "3.3.257",
+      "url": "https://itunes.apple.com/de/review?id=694831622&type=Purple%20Software"
+    },
+    {
+      "id": "6552512140",
+      "date": "2020-10-19T12:19:41-07:00",
+      "score": 5,
+      "title": "Leichte Bedienung!",
+      "text": "Schnelle und einfache Bedienung",
+      "user": "Jasmin_82",
+      "version": "3.3.257",
+      "url": "https://itunes.apple.com/de/review?id=694831622&type=Purple%20Software"
+    },
+    {
+      "id": "6377697611",
+      "date": "2020-08-30T08:33:48-07:00",
+      "score": 5,
+      "title": "Der einfach zu verstehen sehr übersichtlich",
+      "text": "Kann ich wirklich empfehlen",
+      "user": "Mr.BuzZ9",
+      "version": "3.3.242",
+      "url": "https://itunes.apple.com/de/review?id=694831622&type=Purple%20Software"
+    },
+    {
+      "id": "6180685862",
+      "date": "2020-07-10T04:28:25-07:00",
+      "score": 5,
+      "title": "Einfach gut",
+      "text": "Sehr gut und einfachere Führung",
+      "user": "stasne",
+      "version": "3.3.206",
+      "url": "https://itunes.apple.com/de/review?id=694831622&type=Purple%20Software"
+    },
+    {
+      "id": "6113357155",
+      "date": "2020-06-23T12:01:02-07:00",
+      "score": 5,
+      "title": "Alana",
+      "text": "Great App",
+      "user": "AlanaMarc",
+      "version": "3.3.199",
+      "url": "https://itunes.apple.com/de/review?id=694831622&type=Purple%20Software"
+    },
+    {
+      "id": "6079855679",
+      "date": "2020-06-15T11:29:28-07:00",
+      "score": 5,
+      "title": "📑📄🧾📊",
+      "text": "Ich bin schwer begeistert was für eine intuitive App um Rechnungen zu erstellen",
+      "user": "Crank008",
+      "version": "3.3.189",
+      "url": "https://itunes.apple.com/de/review?id=694831622&type=Purple%20Software"
+    },
+    {
+      "id": "6039150843",
+      "date": "2020-06-05T09:54:01-07:00",
+      "score": 5,
+      "title": "Super",
+      "text": "Alles Super",
+      "user": "M.R.CAS",
+      "version": "3.3.186",
+      "url": "https://itunes.apple.com/de/review?id=694831622&type=Purple%20Software"
+    },
+    {
+      "id": "6030788202",
+      "date": "2020-06-03T10:06:38-07:00",
+      "score": 5,
+      "title": "Schnell, unkompliziert und kostenlos",
+      "text": "Wirklich tolle App. Generieren von Rechnungen und Kostenvoranschläge sehr einfach und ohne jegliche In-App Werbungen etc. \nÜber die App kann man auch die Rechnungen direkt an seine Kunden verschicken. \nOptimal geeignet für Unternehmen, die täglich Rechnungen stellen und diese schnell verschicken müssen. Anschließend kann über das Tool „Bericht“ erkannt werden, ob und wann welche Zahlungen eingegangen sind und tracken, welche Rechnungen weiterhin offen sind, bzw. Umsatzjahresberichte ziehen.\n\nBitte weiter so!",
+      "user": "Cybergamer1996",
+      "version": "3.3.178",
+      "url": "https://itunes.apple.com/de/review?id=694831622&type=Purple%20Software"
+    },
+    {
+      "id": "5999858757",
+      "date": "2020-05-27T03:12:44-07:00",
+      "score": 1,
+      "title": "Naja",
+      "text": "Für so wenig Funktion finde ich das Programm schon recht teuer. Heutzutage zahlt man ja leider sämtliche Programme monatlich. Für mich als StartUp nicht tragbar.",
+      "user": "Isida-Fianna",
+      "version": "3.3.178",
+      "url": "https://itunes.apple.com/de/review?id=694831622&type=Purple%20Software"
+    },
+    {
+      "id": "5992526727",
+      "date": "2020-05-25T08:51:31-07:00",
+      "score": 4,
+      "title": "Superapp mit kleinen Einschränkungen",
+      "text": "Seit ich diese App habe,funktioniert meine Buchhaltung als Kleinunternehmerin ratzfatz und zuverlässig! Einfach super!!! Kleines Manko: Dadurch dass man die Grösse und Position des Logos nicht anpassen kann und auch weil es nur ein Layout für die Rechnung gibt,landet oft die letzte Seite auf einer Extraseite,was schon viele Kunden genervt hat,weil sie es noch ausdrucken und abheften müssten.Es wäre toll,wenn man das konfigurieren könnte.Deshalb 1 kleinen Stern Abzug.Ansonsten alles Top!",
+      "user": "Carioca1205",
+      "version": "3.3.178",
+      "url": "https://itunes.apple.com/de/review?id=694831622&type=Purple%20Software"
+    },
+    {
+      "id": "5989466593",
+      "date": "2020-05-24T15:17:05-07:00",
+      "score": 5,
+      "title": "Richtig klasse",
+      "text": "Super app",
+      "user": "Tobias Stielert",
+      "version": "3.3.169",
+      "url": "https://itunes.apple.com/de/review?id=694831622&type=Purple%20Software"
+    },
+    {
+      "id": "5845336132",
+      "date": "2020-04-21T15:00:13-07:00",
+      "score": 5,
+      "title": "Gut aber eine Tipp",
+      "text": "Ich würde mich noch zufrieden wenn Sie die Daten von eine Terminkalender verknüpft bekommen und dies Daten gleich eine Rechnung ausstellen!",
+      "user": "Tgg190312",
+      "version": "3.3.141",
+      "url": "https://itunes.apple.com/de/review?id=694831622&type=Purple%20Software"
+    },
+    {
+      "id": "5843104075",
+      "date": "2020-04-21T04:26:25-07:00",
+      "score": 5,
+      "title": "Großartiges Rechnungsformular",
+      "text": "Schlicht, einfach, Professionell und schnell. Dankeschön",
+      "user": "Richard der Gute",
+      "version": "3.3.141",
+      "url": "https://itunes.apple.com/de/review?id=694831622&type=Purple%20Software"
+    },
+    {
+      "id": "5647364178",
+      "date": "2020-03-11T14:05:36-07:00",
+      "score": 4,
+      "title": "Motiv",
+      "text": "Mehr Rechnung Motive \nSonst super",
+      "user": "joorgo",
+      "version": "3.3.107",
+      "url": "https://itunes.apple.com/de/review?id=694831622&type=Purple%20Software"
+    },
+    {
+      "id": "5451280583",
+      "date": "2020-01-26T06:59:21-07:00",
+      "score": 3,
+      "title": "In App Prices",
+      "text": "Hi Guys, \nI want to have the in-App Option for Upgrade to pro for 10,99€ \nBut i have only the Option To pay 7,49€ per months or for the whole year. \nCan you change it ? \n\nThanks",
+      "user": "Änna89",
+      "version": "3.3.91",
+      "url": "https://itunes.apple.com/de/review?id=694831622&type=Purple%20Software"
+    },
+    {
+      "id": "5269185869",
+      "date": "2019-12-13T15:05:27-07:00",
+      "score": 1,
+      "title": "Seit dem Programmupdate nur noch eine Rechnungsvorlage",
+      "text": "seit dem letzten Programmupdate wurde die Rechnungsvorlage auf eine reduziert.\nDiese ist nicht sonderlich ansprechend und die Softwareschmiede nimmt absolut keine Rücksicht auf den Kunden.\nIch war bisher zufrieden und hatte meine Rechnungsvorlage \nausgewählt.\n\nNunmehr muss ich mit dieser einen Vorlieb nehmen.\nWas für einen unprofessionellen Endruck mache ich jetzt bei meinen Kunden, wenn ich ständig die Vorlage wechsele und vor allem, was kommt als nächstes ohne Vorankündigung.\n\nHabe mein Abo gekündigt, also besser Finger weg!!!",
+      "user": "MACMASTERAHS",
+      "version": "3.3.63",
+      "url": "https://itunes.apple.com/de/review?id=694831622&type=Purple%20Software"
+    },
+    {
+      "id": "5228524996",
+      "date": "2019-12-03T05:02:42-07:00",
+      "score": 4,
+      "title": "Vollversion als Kauf anbieten.",
+      "text": "Die App ist wirklich sehr gut und geplant aufgebaut. Meine Frage wäre nur, ob es möglich ist sie einmalig zu ersteigern und nicht monatlich dafür zu bezahlen ? \nMit freundlichen Grüßen\nDaniel Zochowski",
+      "user": "Zichorie",
+      "version": "3.3.52",
+      "url": "https://itunes.apple.com/de/review?id=694831622&type=Purple%20Software"
+    },
+    {
+      "id": "5224442146",
+      "date": "2019-12-02T03:14:00-07:00",
+      "score": 5,
+      "title": "Super schnell erstellt und versandt",
+      "text": "Wir waren sehr zufrieden.",
+      "user": "Heinrich123",
+      "version": "3.3.52",
+      "url": "https://itunes.apple.com/de/review?id=694831622&type=Purple%20Software"
+    },
+    {
+      "id": "5202599757",
+      "date": "2019-11-27T00:26:10-07:00",
+      "score": 5,
+      "title": "Rechnung schnelle schreiben. Top",
+      "text": "Bin’s sehr froh das ich den App runter geladen hab. Ist super hab bis jetzt zwar nicht viel geschrieben. Aber möchte es noch weiter probieren. Was ich bis jetzt nicht senden konnte Mailen. Hat nicht nicht funktioniert. Warum weiß ich nicht. \nKann es aber weiter empfehlen.\nZeit neuestem stürzt es immer wieder ab.\nZeit Wochen stürzt es ab. Sobald ich es einschalte geht es wieder gleich zu. Kann nicht mit dem Arbeiten. Wenn kein Lösung gefunden wird möchte ich mein Geld zurück.\n\nSo ist soweit bis ich genau sagen kann das es super ist. Alles besten. Mails funktionieren auch. Ist echt super und leicht. Was besser machen kann ist die Monate Tränen wäre echt super. Damit man es übersichtlicher hat. Sonst ist es super Programm.",
+      "user": "MustiO17",
+      "version": "3.3.48",
+      "url": "https://itunes.apple.com/de/review?id=694831622&type=Purple%20Software"
+    },
+    {
+      "id": "4929791023",
+      "date": "2019-10-12T04:20:17-07:00",
+      "score": 5,
+      "title": "Unverzichtbar",
+      "text": "Dankeschön",
+      "user": "Tweenquen",
+      "version": "2.11.82",
+      "url": "https://itunes.apple.com/de/review?id=694831622&type=Purple%20Software"
+    },
+    {
+      "id": "4852105234",
+      "date": "2019-09-28T03:18:14-07:00",
+      "score": 5,
+      "title": "Benutze es Zeit Jahren",
+      "text": "Als Freelancer ist die App Perfekt.\nRechnungen sind noch beim Kunden vor Ort, oder unterwegs nach Hause erledigt!\nKeine lange Büro Abende mehr. Steuer Berater kriegt alles nötige, mit einem klick aus der App. Übersetzung hackt noch ein bisschen, aber es wird immer besser.",
+      "user": "Mantux",
+      "version": "2.11.82",
+      "url": "https://itunes.apple.com/de/review?id=694831622&type=Purple%20Software"
+    },
+    {
+      "id": "4760574034",
+      "date": "2019-09-11T03:35:25-07:00",
+      "score": 5,
+      "title": "Programm macht was es verspricht",
+      "text": "Einfache Handhabung- ideal für Kleinunternehmen- nutze es seit einem Jahr und bin sehr zufrieden",
+      "user": "DenVader",
+      "version": "2.11.79",
+      "url": "https://itunes.apple.com/de/review?id=694831622&type=Purple%20Software"
+    },
+    {
+      "id": "4646933857",
+      "date": "2019-08-20T13:32:43-07:00",
+      "score": 5,
+      "title": "Haßfurt",
+      "text": "Es ist Super",
+      "user": "ma ibra",
+      "version": "2.11.78",
+      "url": "https://itunes.apple.com/de/review?id=694831622&type=Purple%20Software"
+    },
+    {
+      "id": "4569381287",
+      "date": "2019-08-04T12:48:36-07:00",
+      "score": 5,
+      "title": "Genial, mobile Abrechnung",
+      "text": "Einfache und verständliche Bedienung,\nÜbersichtlich und gut strukturiert,\nEgal ob vom iPhone oder Tablet, Interaktion ist genial.\nIch kann es sehr empfehlen.",
+      "user": "maro2410",
+      "version": "2.11.76",
+      "url": "https://itunes.apple.com/de/review?id=694831622&type=Purple%20Software"
+    },
+    {
+      "id": "4326648849",
+      "date": "2019-06-16T13:31:36-07:00",
+      "score": 4,
+      "title": "Tolle App",
+      "text": "Eine wirklich tolle App, schön wäre noch wenn man einen Stundenlohn bei den Produkten mit einführen könnte. Und auch einen Einkaufspreis hinterlegen könnte und dann auf die Rechnung einfach ein Aufschlag zurechnet.",
+      "user": "hl412",
+      "version": "2.11.72",
+      "url": "https://itunes.apple.com/de/review?id=694831622&type=Purple%20Software"
+    },
+    {
+      "id": "4223766998",
+      "date": "2019-05-28T01:07:09-07:00",
+      "score": 1,
+      "title": "Mengen Angaben fehlen",
+      "text": "Leider habe ich jetzt viel Geld für diese App ausgegeben die letzte Mistmengen Angaben können nicht detailliert beschrieben werden ist es natürlich für einen detaillierten Kostenvoranschlag oder Rechnung ein Muss",
+      "user": "nine - lars",
+      "version": "2.11.71",
+      "url": "https://itunes.apple.com/de/review?id=694831622&type=Purple%20Software"
+    },
+    {
+      "id": "4181006991",
+      "date": "2019-05-20T06:40:14-07:00",
+      "score": 5,
+      "title": "Ok",
+      "text": "Ok",
+      "user": "Gillesfz610",
+      "version": "3.0.0",
+      "url": "https://itunes.apple.com/de/review?id=694831622&type=Purple%20Software"
+    },
+    {
+      "id": "4120863079",
+      "date": "2019-05-08T15:31:46-07:00",
+      "score": 5,
+      "title": "Super app",
+      "text": "Ich finde die Bedienung und Anleitung ist sehr kompetent und einfach",
+      "user": "feroook",
+      "version": "3.0.0",
+      "url": "https://itunes.apple.com/de/review?id=694831622&type=Purple%20Software"
+    },
+    {
+      "id": "3969269461",
+      "date": "2019-04-04T10:14:41-07:00",
+      "score": 5,
+      "title": "Kostenfrei für kleine Unternehmen",
+      "text": "Gefällt mir sehr gut.👍",
+      "user": "Der Glasreiniger",
+      "version": "2.11.68",
+      "url": "https://itunes.apple.com/de/review?id=694831622&type=Purple%20Software"
+    },
+    {
+      "id": "3907169704",
+      "date": "2019-03-21T01:48:07-07:00",
+      "score": 5,
+      "title": "Hammer Ap",
+      "text": "Einfach praktisch und sehr hohe Bedienerfreundlichkeit",
+      "user": "zdreba",
+      "version": "2.11.68",
+      "url": "https://itunes.apple.com/de/review?id=694831622&type=Purple%20Software"
+    },
+    {
+      "id": "3782597243",
+      "date": "2019-02-17T16:37:51-07:00",
+      "score": 5,
+      "title": "Super bis auf eine Kleinigkeit",
+      "text": "Besteht die Möglichkeit Posten im KV zu verschieben ???",
+      "user": "helgaw.",
+      "version": "2.11.65",
+      "url": "https://itunes.apple.com/de/review?id=694831622&type=Purple%20Software"
+    },
+    {
+      "id": "3743464626",
+      "date": "2019-02-07T07:15:01-07:00",
+      "score": 4,
+      "title": "Einfach und gut zu Händeln",
+      "text": "Einfaches und zuverlässige App die das Rechnungschreiben sehr vereinfacht.\ninteressant wäre noch eine Erweiterung das man gegebenenfalls eine Mahnung generieren kann.",
+      "user": "Zornilein",
+      "version": "2.11.64",
+      "url": "https://itunes.apple.com/de/review?id=694831622&type=Purple%20Software"
+    },
+    {
+      "id": "3705357396",
+      "date": "2019-01-28T09:09:32-07:00",
+      "score": 5,
+      "title": "Einfach spitze",
+      "text": "Bin super zufrieden 10 Sterne",
+      "user": "yogurette1006",
+      "version": "2.11.63",
+      "url": "https://itunes.apple.com/de/review?id=694831622&type=Purple%20Software"
+    },
+    {
+      "id": "3665270167",
+      "date": "2019-01-18T07:26:16-07:00",
+      "score": 5,
+      "title": "5STERNE",
+      "text": "Super Ding \n\nEinfach und Bequem \nKostenvoranschlag & Rechnung Stellen",
+      "user": "FMTBAU",
+      "version": "2.11.58",
+      "url": "https://itunes.apple.com/de/review?id=694831622&type=Purple%20Software"
+    },
+    {
+      "id": "3581085741",
+      "date": "2018-12-27T13:14:46-07:00",
+      "score": 5,
+      "title": "Sehr gut",
+      "text": "Eine sehr gute App.\nSie kann vieles - auch OHNE das \"PRO UPGRADE\".\nEs ist gut und unkompliziert mit dieser App Rechnungen zu schreiben.\nMan kann dort auch die Rechnung per SMS (ich benutze lieber WhatsApp)oder per E-Mail versenden.\nDie Rechnung wird über die App problemlos versendet.",
+      "user": "Eli2309",
+      "version": "2.11.56",
+      "url": "https://itunes.apple.com/de/review?id=694831622&type=Purple%20Software"
+    },
+    {
+      "id": "3555539894",
+      "date": "2018-12-21T05:00:10-07:00",
+      "score": 5,
+      "title": "Hallo",
+      "text": "Hhöncxhjk",
+      "user": "hkbxfg",
+      "version": "2.11.56",
+      "url": "https://itunes.apple.com/de/review?id=694831622&type=Purple%20Software"
+    },
+    {
+      "id": "3551450708",
+      "date": "2018-12-20T02:12:23-07:00",
+      "score": 5,
+      "title": "Great app!",
+      "text": "Definitely 5* \nI would really appreciate it, if there could be an option for a monthly invoice summary (maybe just below the yearly summary in a smaller font) in the projects window under the Invoice panel\nKeep up the great work!",
+      "user": "fruitiestPunch",
+      "version": "2.11.56",
+      "url": "https://itunes.apple.com/de/review?id=694831622&type=Purple%20Software"
+    },
+    {
+      "id": "3544225164",
+      "date": "2018-12-18T02:01:31-07:00",
+      "score": 5,
+      "title": "Top",
+      "text": "Einfach zu bedienen",
+      "user": "Kostatkd",
+      "version": "2.11.56",
+      "url": "https://itunes.apple.com/de/review?id=694831622&type=Purple%20Software"
+    },
+    {
+      "id": "3538574570",
+      "date": "2018-12-16T11:48:16-07:00",
+      "score": 3,
+      "title": "Rechnung erstellen",
+      "text": "Super App! Einfach bis auf ein paar Kleinigkeiten.\nWas mich persönlich stört, das die Rechnung so groß auf dem DIN A 4 gedruckt wird, es sieht nicht professionell aus und als Rechnung sollte es einstellbar sein, wie groß das auf dem Blatt gedruckt wird . Vielleicht klappt es mit einem Upgrade der große .",
+      "user": "\" Gutman\"",
+      "version": "2.11.56",
+      "url": "https://itunes.apple.com/de/review?id=694831622&type=Purple%20Software"
+    },
+    {
+      "id": "3528701466",
+      "date": "2018-12-13T23:14:59-07:00",
+      "score": 4,
+      "title": "Gut",
+      "text": "Macht was es soll",
+      "user": "STS 79",
+      "version": "2.11.56",
+      "url": "https://itunes.apple.com/de/review?id=694831622&type=Purple%20Software"
+    },
+    {
+      "id": "3508817178",
+      "date": "2018-12-08T11:07:29-07:00",
+      "score": 5,
+      "title": "Super",
+      "text": "Bin sehr zufrieden mit dieser App, besser als all die anderen mit vergleichbarem Fähigkeiten. Definitiv Daumen hoch und empfehlenswert",
+      "user": "Nuttenprinz",
+      "version": "2.11.56",
+      "url": "https://itunes.apple.com/de/review?id=694831622&type=Purple%20Software"
+    },
+    {
+      "id": "3469138723",
+      "date": "2018-11-28T00:54:51-07:00",
+      "score": 5,
+      "title": "Easy and professional looking invoices",
+      "text": "I just love the invoice app! It helps me to keep organised.\nIt is so easy to write invoices and send to clients. \nIt looks good and professional. \n All my invoices for the month are clearly listed and accessible wherever you are.",
+      "user": "Dentalvet",
+      "version": "2.11.55",
+      "url": "https://itunes.apple.com/de/review?id=694831622&type=Purple%20Software"
+    },
+    {
+      "id": "3461968508",
+      "date": "2018-11-26T01:29:04-07:00",
+      "score": 5,
+      "title": "Sehr zufrieden",
+      "text": "Sehr schnelle Rechnung Erstellung von unterwegs",
+      "user": "zahnfee 1907",
+      "version": "2.11.55",
+      "url": "https://itunes.apple.com/de/review?id=694831622&type=Purple%20Software"
+    },
+    {
+      "id": "3459036670",
+      "date": "2018-11-25T06:20:36-07:00",
+      "score": 5,
+      "title": "Sehr gute App",
+      "text": "Die App ist sehr gut aufgebaut Mann kann immer alles eintragen, Verbesserungsvorschläge sind: schriftgröße selbst bestimmen und bei Bankverbindung einen Absatz machen . \n\nDiese App gefällt mir sehr ich würde sie Jedem weiter empfehlen der eine App zur Rechnungs Erstellung braucht!!!\n\n5 Sterne App",
+      "user": "FlorentVila",
+      "version": "2.11.55",
+      "url": "https://itunes.apple.com/de/review?id=694831622&type=Purple%20Software"
+    },
+    {
+      "id": "3417902606",
+      "date": "2018-11-14T11:09:38-07:00",
+      "score": 5,
+      "title": "Einfach Übersicht Super",
+      "text": "Mein Erster Eindruck super. \nDie Oberfläche ist nicht überladen und man kann sich schnell zurechtfinden.",
+      "user": "Derloering",
+      "version": "2.11.55",
+      "url": "https://itunes.apple.com/de/review?id=694831622&type=Purple%20Software"
+    },
+    {
+      "id": "3413720232",
+      "date": "2018-11-13T06:58:15-07:00",
+      "score": 5,
+      "title": "Leichter kann man keine Rechnungen schreiben",
+      "text": "Super App Mega einfache Bedienung",
+      "user": "A Hair",
+      "version": "2.11.55",
+      "url": "https://itunes.apple.com/de/review?id=694831622&type=Purple%20Software"
+    },
+    {
+      "id": "3313087405",
+      "date": "2018-10-17T11:30:19-07:00",
+      "score": 5,
+      "title": "Praktisch und unkompliziert",
+      "text": "Super Idee. Ich weiß nur nicht wieviele Rechnungen ich schreiben kann damit.",
+      "user": "060584",
+      "version": "2.11.53",
+      "url": "https://itunes.apple.com/de/review?id=694831622&type=Purple%20Software"
+    },
+    {
+      "id": "3288182361",
+      "date": "2018-10-10T22:57:49-07:00",
+      "score": 1,
+      "title": "Deutsche Version unbrauchbar",
+      "text": "Die Übersetzung ins Deutsche ist schlampig und deshalb unbrauchbar.\nZudem kann man die Rechnung nicht ausdrucken und mit einem DINA6 Fensterkuvert versenden. \nEs wird aufgrund des Design der Vorlage nicht klar wer Rechnungsempfänger ist.\nEin in Deutschland gesetzlich vorgeschriebener Versand per E-Mail mit qualifizierter digitaler Signatur ist ebenfalls nicht möglich. \nSchade, schöne Idee, aber für Deutschland unbrauchbar.",
+      "user": "LoveHopeFaith_",
+      "version": "2.11.53",
+      "url": "https://itunes.apple.com/de/review?id=694831622&type=Purple%20Software"
+    },
+    {
+      "id": "3239760303",
+      "date": "2018-09-28T06:28:28-07:00",
+      "score": 5,
+      "title": "Geile App",
+      "text": "Mega übersichtlich!👍 Absolut zu empfehlen",
+      "user": "paddy708",
+      "version": "2.11.52",
+      "url": "https://itunes.apple.com/de/review?id=694831622&type=Purple%20Software"
+    },
+    {
+      "id": "3132603927",
+      "date": "2018-08-30T04:19:57-07:00",
+      "score": 5,
+      "title": "Online Handel",
+      "text": "Einfach und unkompliziert",
+      "user": "darkraider81",
+      "version": "2.11.51",
+      "url": "https://itunes.apple.com/de/review?id=694831622&type=Purple%20Software"
+    },
+    {
+      "id": "3050578786",
+      "date": "2018-08-11T09:50:57-07:00",
+      "score": 4,
+      "title": "Gut",
+      "text": "Super",
+      "user": "Lotus 00",
+      "version": "2.11.50",
+      "url": "https://itunes.apple.com/de/review?id=694831622&type=Purple%20Software"
+    },
+    {
+      "id": "2928898500",
+      "date": "2018-07-18T05:02:42-07:00",
+      "score": 5,
+      "title": "All",
+      "text": "All good 👍",
+      "user": "osandberg",
+      "version": "2.11.49",
+      "url": "https://itunes.apple.com/de/review?id=694831622&type=Purple%20Software"
+    },
+    {
+      "id": "2786997852",
+      "date": "2018-06-28T01:27:21-07:00",
+      "score": 5,
+      "title": "Getränke und Snacks",
+      "text": "Schnell und unkompliziert",
+      "user": "Dragon2687",
+      "version": "2.11.48",
+      "url": "https://itunes.apple.com/de/review?id=694831622&type=Purple%20Software"
+    },
+    {
+      "id": "2174907183",
+      "date": "2018-02-06T11:12:56-07:00",
+      "score": 5,
+      "title": "App funktioniert seit heute wieder!",
+      "text": "Super App! Danke",
+      "user": "Eltonjuh",
+      "version": "2.11.37",
+      "url": "https://itunes.apple.com/de/review?id=694831622&type=Purple%20Software"
+    },
+    {
+      "id": "2062306836",
+      "date": "2018-01-06T03:37:47-07:00",
+      "score": 5,
+      "title": "👍👍👍👍👍👍👍👍👍👍👍👍👍👍",
+      "text": "Daumen hoch!",
+      "user": "kriefan",
+      "version": "2.11.32",
+      "url": "https://itunes.apple.com/de/review?id=694831622&type=Purple%20Software"
+    },
+    {
+      "id": "1924343899",
+      "date": "2017-11-15T21:56:30-07:00",
+      "score": 5,
+      "title": "Hammer!",
+      "text": "👍🏻👍🏻👍🏻👍🏻",
+      "user": "Hansmannlol",
+      "version": "2.11.26",
+      "url": "https://itunes.apple.com/de/review?id=694831622&type=Purple%20Software"
+    },
+    {
+      "id": "1798497667",
+      "date": "2017-09-19T10:03:31-07:00",
+      "score": 5,
+      "title": "👍🏼",
+      "text": "Top App!",
+      "user": "Martini aus Hamburg",
+      "version": "2.11.21",
+      "url": "https://itunes.apple.com/de/review?id=694831622&type=Purple%20Software"
+    },
+    {
+      "id": "1770083572",
+      "date": "2017-09-02T22:58:40-07:00",
+      "score": 5,
+      "title": "Hammer App",
+      "text": "Bin einfach nur begeistert von dieser App",
+      "user": "Constantin04",
+      "version": "2.11.21",
+      "url": "https://itunes.apple.com/de/review?id=694831622&type=Purple%20Software"
+    },
+    {
+      "id": "1764353595",
+      "date": "2017-08-31T10:52:29-07:00",
+      "score": 5,
+      "title": "Toll",
+      "text": "Super app voll einfach bin begeistert",
+      "user": "ayhi72",
+      "version": "2.11.21",
+      "url": "https://itunes.apple.com/de/review?id=694831622&type=Purple%20Software"
+    },
+    {
+      "id": "1670823874",
+      "date": "2017-07-05T23:25:22-07:00",
+      "score": 5,
+      "title": "Good Invoice System",
+      "text": "I have a small one man business for Antique clock restoration and I needed a invoice product that I good use on my PC and phone. This does it all and it is easy and simple to use. The developers have a quick response time for questions. Overall, I love it as I can pop out estimates and invoices quickly and send them out in minutes.",
+      "user": "Eric's Clocks",
+      "version": "2.11.13",
+      "url": "https://itunes.apple.com/de/review?id=694831622&type=Purple%20Software"
+    },
+    {
+      "id": "1596822190",
+      "date": "2017-04-24T16:30:32-07:00",
+      "score": 3,
+      "title": "Einstellung",
+      "text": "Leider kann man nicht mehreren Datum in eine Rechnung angeben ,  sonst funktioniert super",
+      "user": "Daymaris 39",
+      "version": "2.11.7",
+      "url": "https://itunes.apple.com/de/review?id=694831622&type=Purple%20Software"
+    },
+    {
+      "id": "1509243920",
+      "date": "2016-12-26T00:40:04-07:00",
+      "score": 3,
+      "title": "Ist Ausbaufähig",
+      "text": "Von der Idee und vom Aufbau ist die App nicht schlecht. Es müsste noch paar Elemente hinzugefügt werden, z.B. Suchfunktionen in Kontakte und Posten, Artikel-Nr. für Posten u.a.",
+      "user": "fiuw",
+      "version": "2.10.12",
+      "url": "https://itunes.apple.com/de/review?id=694831622&type=Purple%20Software"
+    },
+    {
+      "id": "1428141333",
+      "date": "2016-08-06T12:46:21-07:00",
+      "score": 5,
+      "title": "Bitte neues Update!!",
+      "text": "Nach dem heutigem Update stürzt die ab wenn man in der Einstellung was ändern will. Ansonsten macht die App genau das was sie soll. Dadurch das ich fremdsprachige Klienten habe finde ich die sprachumstellung echt Klasse!!!! \nAbsolute 10 Sterne!!",
+      "user": "Special-Artist",
+      "version": "2.10.4",
+      "url": "https://itunes.apple.com/de/review?id=694831622&type=Purple%20Software"
+    },
+    {
+      "id": "1415500274",
+      "date": "2016-07-19T09:54:03-07:00",
+      "score": 5,
+      "title": "Super",
+      "text": "Ein Gutes Program sehr nützlich",
+      "user": "AD Autopflege",
+      "version": "2.10.3",
+      "url": "https://itunes.apple.com/de/review?id=694831622&type=Purple%20Software"
+    },
+    {
+      "id": "1394664086",
+      "date": "2016-06-15T00:16:27-07:00",
+      "score": 5,
+      "title": "Sehr leicht und verständlich",
+      "text": "Die App ist sehr verständlich und bietet viele Möglichkeiten an. Kann ich nur empfehlen!",
+      "user": "cengizmurat",
+      "version": "2.9.1",
+      "url": "https://itunes.apple.com/de/review?id=694831622&type=Purple%20Software"
+    },
+    {
+      "id": "1362777270",
+      "date": "2016-04-13T01:05:30-07:00",
+      "score": 5,
+      "title": "Top",
+      "text": "Super",
+      "user": "Michimachtsmit",
+      "version": "2.8.0",
+      "url": "https://itunes.apple.com/de/review?id=694831622&type=Purple%20Software"
+    },
+    {
+      "id": "1357269032",
+      "date": "2016-04-02T00:19:24-07:00",
+      "score": 5,
+      "title": "Top",
+      "text": "Alles topp",
+      "user": "Schaui1234567890",
+      "version": "2.8.0",
+      "url": "https://itunes.apple.com/de/review?id=694831622&type=Purple%20Software"
+    },
+    {
+      "id": "1349640219",
+      "date": "2016-03-18T05:06:59-07:00",
+      "score": 5,
+      "title": "Top gemacht!",
+      "text": "Einfache Bedienung, super Vorschläge, keine Werbung und und und. Diese App verspricht was sie hält. Gäb es 10 Sterne würde ich sie auch geben :)",
+      "user": "MarvinvanBetteray",
+      "version": "2.7.2",
+      "url": "https://itunes.apple.com/de/review?id=694831622&type=Purple%20Software"
+    },
+    {
+      "id": "1268701203",
+      "date": "2015-10-08T06:23:38-07:00",
+      "score": 5,
+      "title": "Super",
+      "text": "Einfache Bedienung und super professionelles Ergebnis. Sehr zufrieden",
+      "user": "Lenchen66",
+      "version": "2.4.0",
+      "url": "https://itunes.apple.com/de/review?id=694831622&type=Purple%20Software"
+    },
+    {
+      "id": "1254699279",
+      "date": "2015-09-08T00:14:32-07:00",
+      "score": 5,
+      "title": "Quick and easy",
+      "text": "I used the app for my little stall at an art fair. It made it very easy for me, to save orders and to create and send invoices/receipts. Highly recommended!",
+      "user": "Keks87",
+      "version": "2.3.3",
+      "url": "https://itunes.apple.com/de/review?id=694831622&type=Purple%20Software"
+    }
+  ]
+}

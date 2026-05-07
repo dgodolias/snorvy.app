@@ -1,0 +1,55 @@
+[
+  {
+    "appId": "com.timecamp.mobile",
+    "title": "Time Tracking App TimeCamp",
+    "developer": "TimeCamp S.A.",
+    "score": 3.7619047,
+    "scoreText": "3.8",
+    "free": false,
+    "price": null,
+    "summary": "Automatic time tracking software for freelancers and teams.",
+    "icon": "https://play-lh.googleusercontent.com/1BsHVwOD7yMHkC-gLzPj340I8E13MBKHCgPz_-h9ObOLzdRheW2FLJk8i_nzMRbUfKAL"
+  },
+  {
+    "appId": "com.timecampplanner",
+    "title": "TimeCamp Planner",
+    "developer": "TimeCamp S.A.",
+    "free": false,
+    "price": null,
+    "summary": "Planner is a free task and project management app with a communication feature.",
+    "icon": "https://play-lh.googleusercontent.com/N9adDL4DhvOuwfrmowQz8y5smExHdk5ZDxaz8LwsHTrLMfq2KBPJ7j_Z--z8p_G-Iuk"
+  },
+  {
+    "appId": "com.jeyluta.timestampcamerafree",
+    "title": "Timestamp Camera",
+    "developer": "Bian Di",
+    "score": 4.5728154,
+    "scoreText": "4.6",
+    "free": false,
+    "price": null,
+    "summary": "Add date and time watermark to photos and videos",
+    "icon": "https://play-lh.googleusercontent.com/-2x5EV79iHKfXJImnYs8_m3KXTl80S-xTptQH7CLCy71ypEoW2cnQVn6SoZvfyROMME"
+  },
+  {
+    "appId": "works.jubilee.timetree",
+    "title": "TimeTree - Shared Calendar",
+    "developer": "TimeTree, Inc.",
+    "score": 4.557768,
+    "scoreText": "4.6",
+    "free": false,
+    "price": null,
+    "summary": "Create a shared calendar in 60 seconds",
+    "icon": "https://play-lh.googleusercontent.com/Tiv5MuLN1tGkGT8caZbjz4GT0i0dRfHRQINeSkZL4-QskGkrEn1lcJhhl72CfOMYo9Q"
+  },
+  {
+    "appId": "com.toggl.giskard",
+    "title": "Toggl Track - Time Tracking",
+    "developer": "Toggl.com",
+    "score": 4.5346537,
+    "scoreText": "4.5",
+    "free": false,
+    "price": null,
+    "summary": "Flexible time tracker for teams of 1 to 100",
+    "icon": "https://play-lh.googleusercontent.com/PeblLXajnpQMBdnzHCQ9yRh6IZ1iOM7qqJkp306uOYlYq8djKFs2vTLO5YO265MPmcM"
+  }
+]

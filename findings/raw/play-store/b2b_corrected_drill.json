@@ -1,0 +1,669 @@
+{
+  "found": {
+    "Invoice Simple Invoice Maker": [
+      {
+        "appId": "com.aadhk.woinvoice",
+        "title": "Invoice Simple: Invoice Maker",
+        "score": 4.507576,
+        "scoreText": "4.5"
+      },
+      {
+        "appId": "app.invoice_maker",
+        "title": "Freebie Invoice Maker Simple",
+        "score": 4.67,
+        "scoreText": "4.7"
+      },
+      {
+        "appId": "au.com.speedinvoice.android",
+        "title": "Invoice Maker",
+        "score": 4.8317757,
+        "scoreText": "4.8"
+      }
+    ],
+    "Invoice Simple": [
+      {
+        "appId": "com.aadhk.woinvoice",
+        "title": "Invoice Simple: Invoice Maker",
+        "score": 4.507576,
+        "scoreText": "4.5"
+      },
+      {
+        "appId": "bookipi.invoice.maker.estimate.billing",
+        "title": "Invoice Maker & Estimate App",
+        "score": 4.59,
+        "scoreText": "4.6"
+      },
+      {
+        "appId": "app.invoice_maker",
+        "title": "Freebie Invoice Maker Simple",
+        "score": 4.67,
+        "scoreText": "4.7"
+      }
+    ],
+    "Setmore Appointment": [
+      {
+        "appId": "com.adaptavant.setmore",
+        "title": "Setmore Appointment Scheduling",
+        "score": 4.225806,
+        "scoreText": "4.2"
+      },
+      {
+        "appId": "com.squareup.apos",
+        "title": "Square Appointments: Scheduler"
+      },
+      {
+        "appId": "com.google.android.calendar",
+        "title": "Google Calendar",
+        "score": 4.4139843,
+        "scoreText": "4.4"
+      }
+    ],
+    "Easy Expense receipt scanner": [
+      {
+        "appId": "com.easyexpense",
+        "title": "Receipt Scanner: Easy Expense",
+        "score": 3.7260275,
+        "scoreText": "3.7"
+      },
+      {
+        "appId": "com.zoho.expense",
+        "title": "Zoho Expense - Expense Reports",
+        "score": 4.5333333,
+        "scoreText": "4.5"
+      },
+      {
+        "appId": "org.me.mobiexpensifyg",
+        "title": "Expensify - Travel & Expense",
+        "score": 4.09,
+        "scoreText": "4.1"
+      }
+    ],
+    "QuickBooks Self Employed": [
+      {
+        "appId": "com.intuit.quickbooks",
+        "title": "Intuit QuickBooks for Business",
+        "score": 4.09375,
+        "scoreText": "4.1"
+      },
+      {
+        "appId": "com.intuit.qbse",
+        "title": "QBSE",
+        "score": 0,
+        "scoreText": "0.0"
+      },
+      {
+        "appId": "com.tsheets.android.hammerhead",
+        "title": "QuickBooks Workforce",
+        "score": 3.4615386,
+        "scoreText": "3.5"
+      }
+    ],
+    "Slip Scan receipt OCR": [
+      {
+        "appId": "com.easyexpense",
+        "title": "Receipt Scanner: Easy Expense",
+        "score": 3.7260275,
+        "scoreText": "3.7"
+      },
+      {
+        "appId": "com.appcraftstudios.slip_scan",
+        "title": "Slip-Scan: AI Receipt Scanner"
+      },
+      {
+        "appId": "com.iqboxyinc.iqboxy",
+        "title": "Veryfi Receipts OCR & Expenses",
+        "score": 2.5555556,
+        "scoreText": "2.6"
+      }
+    ],
+    "Square Appointments": [
+      {
+        "appId": "com.squareup.apos",
+        "title": "Square Appointments: Scheduler"
+      },
+      {
+        "appId": "com.squareup.apos.beta",
+        "title": "Square Appointments Beta"
+      },
+      {
+        "appId": "com.squareup.payroll.team",
+        "title": "Square Team"
+      }
+    ]
+  },
+  "drill": {
+    "us_com.aadhk.woinvoice": {
+      "appId": "com.aadhk.woinvoice",
+      "country": "us",
+      "title": "Invoice Simple: Invoice Maker",
+      "score": 4.8208747,
+      "ratings": 167126,
+      "installs": "5,000,000+",
+      "offersIAP": true,
+      "IAPRange": "$4.99 - $399.99 per item",
+      "adSupported": false,
+      "developer": "Invoice Simple",
+      "reviews_pulled": 1500,
+      "low_count": 440,
+      "low_pct": 29.3,
+      "top_thumbs_low": [
+        {
+          "date": "2025-05-21",
+          "score": 1,
+          "thumbs": 198,
+          "text": "I was told in a reminder message my price was going up to $59.99 anaully. Now its telling me $199.99 annually for unlimited invoices. Which was a feature I already had for a cheaper price. Been using this program for 5 years. What a shame with the price hikes and little to no upgrades/changes on any"
+        },
+        {
+          "date": "2026-01-24",
+          "score": 1,
+          "thumbs": 121,
+          "text": "They make you pay a minimum $50/year subscription that only allows you to create 3 invoices a month and still only has very limited features. The next level up is $160/year, and this simple app is still full of bugs and often freezes/crashes. Don't bother with this rip off."
+        },
+        {
+          "date": "2025-07-22",
+          "score": 1,
+          "thumbs": 78,
+          "text": "This app has plenty of glitches and the Technical support agents aren't very knowledgeable. If you add the fact that the monthly subscription has more than doubled in the last couple of years and that, that functionalities that were part of the basic subscription have now been removed and you have t"
+        },
+        {
+          "date": "2025-03-17",
+          "score": 1,
+          "thumbs": 45,
+          "text": "I've been using this app for about 8 years now and it has been a great tool to use. I don't need much just a basic invoice and this was perfect! the price has gone up every now and then but the latest price increase tripled and the benefits were cut by ⅔ if I remember correctly I was allowed 10 invo"
+        },
+        {
+          "date": "2025-08-14",
+          "score": 1,
+          "thumbs": 44,
+          "text": "I was a customer for 7 years. I paid for a full year at the end of November 2024. Now, with 4 months left on my yearly subscription, these guys do a surprise price increase and are forcing me to pay the extra $200+ a year to continue using their app. It doesn't matter to them that I already paid for"
+        },
+        {
+          "date": "2025-12-28",
+          "score": 1,
+          "thumbs": 43,
+          "text": "Been using this service for 8 years now, had 0 complaints in the past. It USED TO BE exactly what we needed. The last year they have more than doubled the price while at the same time they are minimizing the features. Forcing you to pay even more for a \"higher tier\" to get what you had in the past. "
+        },
+        {
+          "date": "2025-07-09",
+          "score": 1,
+          "thumbs": 38,
+          "text": "I've been using I.S. for at least the last 5 years. I've put up with all limited services and still paid the premium. Over the last year or 2, they've increased the premiums and I went along with it. Now im limited to 10 a month. reason: they are no longer offering the plan i was on so that \"all the"
+        },
+        {
+          "date": "2026-03-04",
+          "score": 1,
+          "thumbs": 31,
+          "text": "WARNING Good reviews are fake you cannot export your invoices from this app, which traps you into facing annual price increases. This issue is intentional! After being a customer for years, I'm done. They have raised prices again and announced a limit of 10 invoices. I switched to Monzo Business, wh"
+        },
+        {
+          "date": "2025-08-07",
+          "score": 1,
+          "thumbs": 30,
+          "text": "I've been using this app for years despite it more than doubling in price during that time. 3 months into a new yearly subscription, and they're changing the invoice limit to 10 per month when I send more than that per week, unless I upgrade which will once again be double what I'm already paying. I"
+        },
+        {
+          "date": "2025-05-10",
+          "score": 1,
+          "thumbs": 28,
+          "text": "Generic app with greedy billing. You pay monthly for invoice credits, but if you don’t renew, they erase the unused ones you already paid for — no rollover, no warning. I paused during a slow period, not canceled, and still lost them. Customer service? Useless. They don’t care or try to understand. "
+        },
+        {
+          "date": "2025-03-07",
+          "score": 1,
+          "thumbs": 27,
+          "text": "Beware - price rises constantly. This used to be a great cost effective system for generating quotes and invoices and I recommended it to multiple clients. Well I won't be any more as the costs have almost doubled since my first client signed up. They say it is due to 'new features' but we don't nee"
+        },
+        {
+          "date": "2025-10-04",
+          "score": 1,
+          "thumbs": 26,
+          "text": "I've been using this app for years. Since it was beta. The past several months, they've made changes like increasing the price while limiting the invoices you send. I tried to upgrade, and all that did was make sure I was charged for 2 subscriptions every month while still having a strict limit on t"
+        }
+      ]
+    },
+    "gb_com.aadhk.woinvoice": {
+      "appId": "com.aadhk.woinvoice",
+      "country": "gb",
+      "title": "Invoice Simple: Invoice Maker",
+      "score": 4.729839,
+      "ratings": 167126,
+      "installs": "5,000,000+",
+      "offersIAP": true,
+      "IAPRange": "£3.99 - £359.99 if billed through Play",
+      "adSupported": false,
+      "developer": "Invoice Simple",
+      "reviews_pulled": 1500,
+      "low_count": 440,
+      "low_pct": 29.3,
+      "top_thumbs_low": [
+        {
+          "date": "2025-05-21",
+          "score": 1,
+          "thumbs": 198,
+          "text": "I was told in a reminder message my price was going up to $59.99 anaully. Now its telling me $199.99 annually for unlimited invoices. Which was a feature I already had for a cheaper price. Been using this program for 5 years. What a shame with the price hikes and little to no upgrades/changes on any"
+        },
+        {
+          "date": "2026-01-24",
+          "score": 1,
+          "thumbs": 121,
+          "text": "They make you pay a minimum $50/year subscription that only allows you to create 3 invoices a month and still only has very limited features. The next level up is $160/year, and this simple app is still full of bugs and often freezes/crashes. Don't bother with this rip off."
+        },
+        {
+          "date": "2025-07-22",
+          "score": 1,
+          "thumbs": 78,
+          "text": "This app has plenty of glitches and the Technical support agents aren't very knowledgeable. If you add the fact that the monthly subscription has more than doubled in the last couple of years and that, that functionalities that were part of the basic subscription have now been removed and you have t"
+        },
+        {
+          "date": "2025-03-17",
+          "score": 1,
+          "thumbs": 45,
+          "text": "I've been using this app for about 8 years now and it has been a great tool to use. I don't need much just a basic invoice and this was perfect! the price has gone up every now and then but the latest price increase tripled and the benefits were cut by ⅔ if I remember correctly I was allowed 10 invo"
+        },
+        {
+          "date": "2025-08-14",
+          "score": 1,
+          "thumbs": 44,
+          "text": "I was a customer for 7 years. I paid for a full year at the end of November 2024. Now, with 4 months left on my yearly subscription, these guys do a surprise price increase and are forcing me to pay the extra $200+ a year to continue using their app. It doesn't matter to them that I already paid for"
+        },
+        {
+          "date": "2025-12-28",
+          "score": 1,
+          "thumbs": 43,
+          "text": "Been using this service for 8 years now, had 0 complaints in the past. It USED TO BE exactly what we needed. The last year they have more than doubled the price while at the same time they are minimizing the features. Forcing you to pay even more for a \"higher tier\" to get what you had in the past. "
+        },
+        {
+          "date": "2025-07-09",
+          "score": 1,
+          "thumbs": 38,
+          "text": "I've been using I.S. for at least the last 5 years. I've put up with all limited services and still paid the premium. Over the last year or 2, they've increased the premiums and I went along with it. Now im limited to 10 a month. reason: they are no longer offering the plan i was on so that \"all the"
+        },
+        {
+          "date": "2026-03-04",
+          "score": 1,
+          "thumbs": 31,
+          "text": "WARNING Good reviews are fake you cannot export your invoices from this app, which traps you into facing annual price increases. This issue is intentional! After being a customer for years, I'm done. They have raised prices again and announced a limit of 10 invoices. I switched to Monzo Business, wh"
+        },
+        {
+          "date": "2025-08-07",
+          "score": 1,
+          "thumbs": 30,
+          "text": "I've been using this app for years despite it more than doubling in price during that time. 3 months into a new yearly subscription, and they're changing the invoice limit to 10 per month when I send more than that per week, unless I upgrade which will once again be double what I'm already paying. I"
+        },
+        {
+          "date": "2025-05-10",
+          "score": 1,
+          "thumbs": 28,
+          "text": "Generic app with greedy billing. You pay monthly for invoice credits, but if you don’t renew, they erase the unused ones you already paid for — no rollover, no warning. I paused during a slow period, not canceled, and still lost them. Customer service? Useless. They don’t care or try to understand. "
+        },
+        {
+          "date": "2025-03-07",
+          "score": 1,
+          "thumbs": 27,
+          "text": "Beware - price rises constantly. This used to be a great cost effective system for generating quotes and invoices and I recommended it to multiple clients. Well I won't be any more as the costs have almost doubled since my first client signed up. They say it is due to 'new features' but we don't nee"
+        },
+        {
+          "date": "2025-10-04",
+          "score": 1,
+          "thumbs": 26,
+          "text": "I've been using this app for years. Since it was beta. The past several months, they've made changes like increasing the price while limiting the invoices you send. I tried to upgrade, and all that did was make sure I was charged for 2 subscriptions every month while still having a strict limit on t"
+        }
+      ]
+    },
+    "us_com.adaptavant.setmore": {
+      "appId": "com.adaptavant.setmore",
+      "country": "us",
+      "title": "Setmore Appointment Scheduling",
+      "score": 3.827381,
+      "ratings": 5946,
+      "installs": "500,000+",
+      "offersIAP": true,
+      "IAPRange": "$1.99 - $349.99 per item",
+      "adSupported": false,
+      "developer": "Setmore",
+      "reviews_pulled": 1500,
+      "low_count": 291,
+      "low_pct": 19.4,
+      "top_thumbs_low": [
+        {
+          "date": "2022-04-08",
+          "score": 2,
+          "thumbs": 34,
+          "text": "The Setmore app lacks critical features that are available on the website. You're limited to an agenda view. The app has become somewhat unusable as well. While looking at a list of appointments, the list is constantly \"refreshed\" causing the list to jump around wildly for minutes at a time until it"
+        },
+        {
+          "date": "2020-07-10",
+          "score": 1,
+          "thumbs": 22,
+          "text": "So how as a client do I get access to the app to make appointments and set times with the provider? Also a recurring option would be lovely as well as additional options for a reminder in addition to 24 hours"
+        },
+        {
+          "date": "2023-12-12",
+          "score": 2,
+          "thumbs": 19,
+          "text": "The calendar shows today as Dec 11, when it's actually Dec 12. And when you look to upgrade, the pricing is more than double what the pricing is on the website, which is baffling. On the website I can sign up with Pro for one user for $60 a year and on the app it's called \"premium\" for $139 a year? "
+        },
+        {
+          "date": "2024-08-02",
+          "score": 2,
+          "thumbs": 16,
+          "text": "Have used setmore for years for our barber shop, new interface as of July 2024 is terrible. The clients say the enjoy the update on their end but on the barbers end there's just a lot to look at and most of it seems useless, nothing is bold etc so all the words blend together it's hard to read, many"
+        },
+        {
+          "date": "2019-04-04",
+          "score": 1,
+          "thumbs": 16,
+          "text": "i have been using this app for 3years and all the sudden clients confirmation doesnt come through as email or notification on the app. And appointment my client confirm doesnt show up leads to double bookings. i have been try to reach to setmore support and they seem to have trouble understanding my"
+        },
+        {
+          "date": "2018-11-04",
+          "score": 2,
+          "thumbs": 15,
+          "text": "Cool design, easy to use but have loads of functionality shortages.. I need to be able to add more than one service to an appointment...it doesn't seem to work when I try to add a pic to the service description as well..? Please help. Also to add pics and notes to each client's \"profile\" would be co"
+        },
+        {
+          "date": "2024-08-25",
+          "score": 1,
+          "thumbs": 14,
+          "text": "The latest update has made the app far less usable as well as asthetically hideous. It has become non-intuitive, more difficult to quickly switch between days and staff members, and even clicking an appointment slot is more difficult. I contacted support about how to roll back the update and was tol"
+        },
+        {
+          "date": "2021-10-20",
+          "score": 1,
+          "thumbs": 14,
+          "text": "I really like the convenience of this app but paying 200 plus a year for a basic scheduling option for a small group of employees so you can book repeats is just insane. I don't need the text clients option just an occasional repeat but I have to pay a year in advance over 200 so it's just frustrati"
+        },
+        {
+          "date": "2022-07-04",
+          "score": 1,
+          "thumbs": 13,
+          "text": "Not able to set individual scheduling parameters for separate meetings. All must be allowed to be booked in the same timeframe, not allowing for cohesion if multiple schedules need to be balanced. Also, sending a direct link to a specific meeting with a specific provider is not an easy task. Task fl"
+        },
+        {
+          "date": "2025-05-01",
+          "score": 1,
+          "thumbs": 12,
+          "text": "I hate this update. I did not want the new version and this morning it was magically there. I can't find the option to uninstall the update so I'm livid. And the widget doesn't even work. additionally, it will intermittently tell me there are no time slots available when i have double booking enable"
+        },
+        {
+          "date": "2021-10-15",
+          "score": 1,
+          "thumbs": 12,
+          "text": "I need repeating services WITHOUT an end date. Seems like a pretty simple thing to just eliminate the requirement to add an ending date to a recurring service. Best part is, I had to pay $35 just to figure out the app wouldn't work for me. Now I'm out $35 and I don't have a useful scheduling app."
+        },
+        {
+          "date": "2019-05-02",
+          "score": 1,
+          "thumbs": 12,
+          "text": "I had the worst experience I have a salon this app lost appointment, or I would be double and tripled booked I lost clients because of this app I well not be use this one"
+        }
+      ]
+    },
+    "us_com.easyexpense": {
+      "appId": "com.easyexpense",
+      "country": "us",
+      "title": "Receipt Scanner: Easy Expense",
+      "score": 4.772163,
+      "ratings": 18340,
+      "installs": "1,000,000+",
+      "offersIAP": true,
+      "IAPRange": "$0.99 - $144.99 per item",
+      "adSupported": false,
+      "developer": "Easy Expense Tracker",
+      "reviews_pulled": 1500,
+      "low_count": 231,
+      "low_pct": 15.4,
+      "top_thumbs_low": [
+        {
+          "date": "2024-03-14",
+          "score": 2,
+          "thumbs": 123,
+          "text": "I am a longtime user of this app, because it was the best of the bunch out there for years. This app used to garner 5 stars from me, but ever since their most recent update, things has gone downhill. Taking away the ability to crop receipts was a poor decision, and the app has gotten progressively s"
+        },
+        {
+          "date": "2023-09-20",
+          "score": 2,
+          "thumbs": 91,
+          "text": "Great app but painfully slow. After a transaction has been assigned to its category it fails to update immediately. When trying to move on to the next transaction it fails to load immediately and I end up pressing the screen 5 to 10 times without anything happening. Pretty big annoyance. Tried clear"
+        },
+        {
+          "date": "2023-08-02",
+          "score": 2,
+          "thumbs": 83,
+          "text": "I like how it detects and scans a receipt just showing it to the camera, and crops automatically, but it sometimes mistakes the tax for the total and might mistake the month for the day of the week. So you really need to verify every receipt before you save, which to me. I couldn't find a way to add"
+        },
+        {
+          "date": "2024-04-04",
+          "score": 1,
+          "thumbs": 63,
+          "text": "It offers many features but half of them don't work. For instance, they lure you into sharing bank info by claiming you can receive $50 credit on their card. However, none of the card related areas of the app ever load. I can't add funds, issue card, or anything. Look elsewhere for an expense app. T"
+        },
+        {
+          "date": "2023-07-07",
+          "score": 2,
+          "thumbs": 61,
+          "text": "Where are the photos of the receipts stored on my phone? I would like to be able to quickly view them or share them outside of thr app. So far i am only seeing an export option for data to send to my email. If my photos are not stored locally for quick access then i might need to find another app. E"
+        },
+        {
+          "date": "2024-07-08",
+          "score": 1,
+          "thumbs": 52,
+          "text": "This is a train wreck. The interface is a mess. It never reads the date correctly, and it often reads the transaction amount incorrectly, so you need to manually edit every scan. A subscription for software like this is a hard sell in the first place. Then to ask for a subscription for something tha"
+        },
+        {
+          "date": "2025-03-27",
+          "score": 1,
+          "thumbs": 39,
+          "text": "Used to be free but now they're imposing exaggerated fees for just scanning receipts! I agree with other users. The free version is useless. Limited to 10 receipts per month. We can accumulate that in one day on a trip. Paying the monthly fees they want, might as well hire someone to just take pictu"
+        },
+        {
+          "date": "2024-06-26",
+          "score": 2,
+          "thumbs": 28,
+          "text": "Most of the time doesn't get dollar value of the receipt correctly. Also, if you are Cad and need to enter in CAD dollars it is not free. You have to pay. Used for a month I have deleted. If it was working and truly was easy I would have used paid version but unfortunately not that easy. As you need"
+        },
+        {
+          "date": "2025-05-26",
+          "score": 1,
+          "thumbs": 23,
+          "text": "You bunch of slime ball scumbags! I haven't used this app in a couple of months, and when I do, you're now charging for it?! Fa-Q! Your app sucks because none of the information goes into the proper categories when you snap the receipt, and you waste a lot of time manually correcting it... everytime"
+        },
+        {
+          "date": "2023-11-11",
+          "score": 2,
+          "thumbs": 22,
+          "text": "The app interface itself is well designed and the report layout is nice - if you can ever get it out - and that's the problem. The app failed to download the PDF report, it failed to email the PDF report. I could only email a link, which brought you to a website in India \".in\" to view a web version "
+        },
+        {
+          "date": "2025-12-15",
+          "score": 1,
+          "thumbs": 21,
+          "text": "This app has a lot of work it needs. I'm not sure when the last time they updated it but it is not really usable. the app missed date and time, amount, name of store, categorization, total price and tax is almost never even picked up. The fact that the owners charge people to use this is insanity. T"
+        },
+        {
+          "date": "2025-06-16",
+          "score": 2,
+          "thumbs": 21,
+          "text": "I highly recommend trying Slip-Scan instead. It is way more accurate, has more features, and can actually extract line-items with AI. It's also free and the premium plans are way cheaper. Easy expense has failed to extract my invoices correctly, it keeps getting dates, prices and vendor names wrong."
+        }
+      ]
+    },
+    "gb_com.intuit.quickbooks": {
+      "appId": "com.intuit.quickbooks",
+      "country": "gb",
+      "title": "Intuit QuickBooks for Business",
+      "score": 4.430052,
+      "ratings": 78389,
+      "installs": "5,000,000+",
+      "offersIAP": true,
+      "IAPRange": "£0.67 - £360.00 if billed through Play",
+      "adSupported": false,
+      "developer": "Intuit Inc",
+      "reviews_pulled": 1500,
+      "low_count": 921,
+      "low_pct": 61.4,
+      "top_thumbs_low": [
+        {
+          "date": "2025-09-16",
+          "score": 1,
+          "thumbs": 201,
+          "text": "HORRIBLE!! I downloaded the app because the contracting platform I use said they are able to sync QuickBooks. I paid the monthly fee but was unable to sync my account. it's ok, no biggie. I was told that if I created a QuickBooks checking account that I would have instant and same day access to fund"
+        },
+        {
+          "date": "2025-04-27",
+          "score": 1,
+          "thumbs": 125,
+          "text": "EDIT TO ADD....they say they can't fix the issues I'm having with their app. $30 a month for services I can't even use/have access to half of. I now unfortunately have to go through the trouble of starting over with saving & transferring 10+ years of info to another service. $30 monthly for just kee"
+        },
+        {
+          "date": "2025-12-17",
+          "score": 1,
+          "thumbs": 105,
+          "text": "I only try to use this once in a while to do tasks on the go, like get a quick number from a report or snap a receipt of a deposit at the bank. But the app can never do simple tasks like this. Reports are hard to navigate and filter. I can only do a receipt snap for expenditures not deposits. I can'"
+        },
+        {
+          "date": "2025-11-18",
+          "score": 1,
+          "thumbs": 102,
+          "text": "Ok. I started at 4 stars but after the last update it's down to one. Stop fixing something that isn't broken. Everything is rearranged and it took me a few minutes just to figure out where my bank accounts were listed now. You guys messed up and made something that was \"ok\" confusing to use now. I'm"
+        },
+        {
+          "date": "2025-05-28",
+          "score": 1,
+          "thumbs": 99,
+          "text": "Unfortunately the app is practically useless. 9/10 times when I search for an invoice it says no results, then when I try to search the customer to find the invoice it has no record of them at all. I'm not talking new customers either, they are ones we've had in the system for a long time. I've neve"
+        },
+        {
+          "date": "2025-03-25",
+          "score": 2,
+          "thumbs": 93,
+          "text": "I haven't been able to use the app for some time due to the custom field being hidden. I need to list the custom field where my customer can see it. This forces me to use the web version on my phone. Please fix ASAP!"
+        },
+        {
+          "date": "2025-05-13",
+          "score": 1,
+          "thumbs": 83,
+          "text": "haven't used the app yet but my experience of the software as a whole has been terrible. thankfully at 90% off I only wasted £20 for an annual payment but wish I just tried a month first. The connect apps don't work as expected. Shows $ when the amount is £. Some of the settings pages just load a bl"
+        },
+        {
+          "date": "2025-03-21",
+          "score": 1,
+          "thumbs": 71,
+          "text": "Rename this to wasteyourtimeBook. 0 stars if I could. it has done nothing other than cost me precious time and energy. connecting this to my bank is 100% a nightmare. I had to manually upload transactions. took a week. then after 2 months it just stopped syncing (well before the 90days of reauthenti"
+        },
+        {
+          "date": "2025-11-12",
+          "score": 1,
+          "thumbs": 64,
+          "text": "Can't login. Pay $100/mo for a software tool so complex and stupid you have to pay another $500/mo for someone to use it. App: can't find receipts I've uploaded. Categorizing transactions is a chore, just entering the value is a pain, they make you delete $0.00 to enter your value. NO Reports on the"
+        },
+        {
+          "date": "2025-11-11",
+          "score": 1,
+          "thumbs": 63,
+          "text": "*LATEST FRUSTRATIONS* Back to 1 star... the new update limits everything you do. I can't even set up appointments anymore when my business highly relys on using google calender to set up appointments from customers. Everything is hard to find and scattered. STOP CHANGING EVERYTHING EVERY FEW MONTHS."
+        },
+        {
+          "date": "2025-08-16",
+          "score": 1,
+          "thumbs": 60,
+          "text": "My price has gone from $15 a month to $38 no warning. Scam! The share button is grey and does not work. Can't send invoices. My saved estimates have been altered.I have email back up to prove this!!! Third time I have had INVOICES MAGICALLY DISSAPPEAR. Can't send invoice through text. Freezes up the"
+        },
+        {
+          "date": "2025-04-28",
+          "score": 1,
+          "thumbs": 56,
+          "text": "Still getting worse by the day. After talking to a lot of people, most small businesses want a simplified online version that just tracks expenses and invoices with simple reports. But unfortunately QuickBooks online is overbloated for most of us and the simple things we want aren't on there. The pr"
+        }
+      ]
+    },
+    "us_com.squareup.apos": {
+      "appId": "com.squareup.apos",
+      "country": "us",
+      "title": "Square Appointments: Scheduler",
+      "score": 4.748503,
+      "ratings": 18053,
+      "installs": "1,000,000+",
+      "offersIAP": false,
+      "adSupported": false,
+      "developer": "Block, Inc.",
+      "reviews_pulled": 1500,
+      "low_count": 372,
+      "low_pct": 24.8,
+      "top_thumbs_low": [
+        {
+          "date": "2022-06-21",
+          "score": 1,
+          "thumbs": 114,
+          "text": "I used to love everything about the square! As of late, I hate Everything. My appointments disappeared one day and that was a nightmare. I can no longer message my clients, it just gives me a message failed error. I've tried everything. I've lost clients, business, refunds required, and bad reviews "
+        },
+        {
+          "date": "2022-08-26",
+          "score": 2,
+          "thumbs": 87,
+          "text": "On top of collecting pretty sizeable processing fees from credit card transactions, they now charge $30/mo for full functionality of their booking app. It feels like extortion. I switched to Square because PayPal had high fees, but no free booking app. I felt like the booking app was a fair trade of"
+        },
+        {
+          "date": "2022-04-06",
+          "score": 2,
+          "thumbs": 72,
+          "text": "I love the ease of navigation and the convenience of the app, making appointments and checking clients out all in one place. However, the the appointment reminder feature is terrible. Half the time my clients do not receive a reminder text or email about their appointment, and other times it comes o"
+        },
+        {
+          "date": "2024-10-04",
+          "score": 2,
+          "thumbs": 59,
+          "text": "I'm updating my review. The below is still true, there's a lot of good functionality, but Square does not seem motivated to keep up the value of their product. Major example: schedules cannot be set to change a few months out, all staff schedule changes take place immediately which is very hard to r"
+        },
+        {
+          "date": "2022-05-20",
+          "score": 1,
+          "thumbs": 56,
+          "text": "What a pos! My wife and I share a studio and can only perform one service at a time. There is no way to show both our schedules at once so it's constant toggling back and forth to try to figure out who has the room at what time. They also stopped syncing with Google calendar unless you pay over $300"
+        },
+        {
+          "date": "2022-05-04",
+          "score": 2,
+          "thumbs": 56,
+          "text": "Square was awesome when I first started using it. Now, it has changed tremendously to one of the worst apps ever! Square erased all of my past present and recent appointments. I am also experiencing difficulty with square equipment. I've tried to contact them, but all I keep getting is direction on "
+        },
+        {
+          "date": "2022-04-06",
+          "score": 1,
+          "thumbs": 54,
+          "text": "I've been using it for a couple years. For the past few months,even after clearing the cache, uninstalling the app doesn't work. It freezes when trying to set appointments. I thought maybe it was compatibility of my phone, UT I checked it against another phone, it still doesn't work. I tried it on a"
+        },
+        {
+          "date": "2022-03-27",
+          "score": 2,
+          "thumbs": 54,
+          "text": "I've used square for years now. It is simple enough, but not only are the fees for using a card high, now they bill you in different categories to use features that used to be free. I'm paying $30 a month so my calendar will sync to Google? $15 a month to get item reviews on my website? $60 extra a "
+        },
+        {
+          "date": "2022-11-21",
+          "score": 1,
+          "thumbs": 50,
+          "text": "Not the easiest to use, there needs to be an option to set specific time and dates for specific services. I have used the app and the website and niether are user friendly. You have to go to multiple pages between the app and the web page to get anything done. It really needs to be simplified and it"
+        },
+        {
+          "date": "2022-04-29",
+          "score": 1,
+          "thumbs": 46,
+          "text": "Without any kind of notification to its user base, Square decided to pull vital features that made me use it in the first place, and place them behind a $30 subscription paywall. No longer do my clients enjoy the confirmation text messages which reminded them of their appointments and a timely fashi"
+        },
+        {
+          "date": "2023-09-07",
+          "score": 1,
+          "thumbs": 43,
+          "text": "Was great at first. Free was nice! But, the past few months, scheduled appointments don't show up on the calendar, causing double booking. It randomly won't load my clients in the list. The app crashes 2-3 times a week and I have to \"force stop\" the app and restart it. Which is very inconvenient whe"
+        },
+        {
+          "date": "2023-09-28",
+          "score": 2,
+          "thumbs": 42,
+          "text": "Started strong but going down with every update. I pay for the $30 service and now it is not allowing messaging unless the client messages first. I can see where this is not a feature for the free version. But for someone who already pays a premium for the service this should not have all of sudden "
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,1826 @@
+[
+  {
+    "country": "br",
+    "niche": "b2b_time",
+    "search_term": "controle horas freelancer",
+    "top_app": {
+      "appId": "com.closeer.closeer_worker",
+      "title": "Closeer | Trabalho freelancer",
+      "developer": "Closeer"
+    },
+    "score": 4.6061187,
+    "ratings": 5211,
+    "installs": "500.000+",
+    "offersIAP": false,
+    "adSupported": false,
+    "reviews_pulled": 250,
+    "low_count": 68,
+    "low_pct": 27.2,
+    "top_thumbs_low": [
+      {
+        "score": 1,
+        "thumbs": 9,
+        "text": "meu app simplesmente parou de me notificar quando sobe freela e eu perdi inúmeros essa semana!"
+      },
+      {
+        "score": 1,
+        "thumbs": 7,
+        "text": "aplicativo não funciona, baixei há 06 meses e até agora não consegui nenhum freela. Suporte péssimo. Já ampliei o raio de atuação, coloquei as mais variadas funções, deixei meu perfil redondo e nada. "
+      },
+      {
+        "score": 1,
+        "thumbs": 6,
+        "text": "tive uma experiência ruim, fui até o local informado 10 minutos antes a pessoa que tinha que falar comigo chegou e disse que não era ali (sendo que estava certo o endereço que foi me informado), que i"
+      }
+    ],
+    "other_top5_search": [
+      {
+        "appId": "com.estaff.appfreela",
+        "title": "Estaff para Freelancers"
+      },
+      {
+        "appId": "com.fiverr.fiverr",
+        "title": "Fiverr - Serviços Freelance",
+        "score": 4.007614,
+        "scoreText": "4,0"
+      },
+      {
+        "appId": "com.freelancer.android.messenger",
+        "title": "Freelancer: Hire & Find Jobs",
+        "score": 3.49,
+        "scoreText": "3,5"
+      }
+    ]
+  },
+  {
+    "country": "tr",
+    "niche": "b2b_time",
+    "search_term": "mesai takip iş",
+    "top_app": {
+      "appId": "com.mesai.takip.v2",
+      "title": "Mesai Takip",
+      "developer": "eryky78"
+    },
+    "score": 0,
+    "ratings": 0,
+    "installs": "100+",
+    "offersIAP": false,
+    "adSupported": false,
+    "reviews_pulled": 1,
+    "low_count": 0,
+    "low_pct": 0,
+    "top_thumbs_low": [],
+    "other_top5_search": [
+      {
+        "appId": "com.keremkskn.mesaiTakip",
+        "title": "Mesai Takip - Hesaplama"
+      },
+      {
+        "appId": "com.mtakip.mtpro",
+        "title": "Mesai Takip Pro"
+      },
+      {
+        "appId": "infix.ybmobile.maasanaliz.web",
+        "title": "Mesai Takip - Maaş Analiz"
+      }
+    ]
+  },
+  {
+    "country": "mx",
+    "niche": "b2b_time",
+    "search_term": "control horas trabajadas",
+    "top_app": {
+      "appId": "arproductions.andrew.worklog",
+      "title": "Registro de Trabajo",
+      "developer": "AR Productions Inc."
+    },
+    "score": 4.83,
+    "ratings": 61705,
+    "installs": "1.000.000+",
+    "offersIAP": false,
+    "adSupported": true,
+    "reviews_pulled": 250,
+    "low_count": 1,
+    "low_pct": 0.4,
+    "top_thumbs_low": [
+      {
+        "score": 1,
+        "thumbs": 0,
+        "text": "plaga"
+      }
+    ],
+    "other_top5_search": [
+      {
+        "appId": "com.sgallego.timecontrol",
+        "title": "Control de horas",
+        "score": 0,
+        "scoreText": "0,0"
+      },
+      {
+        "appId": "fourbottles.bsg.workinghours4b",
+        "title": "Horas Laborales 4b",
+        "score": 4.640625,
+        "scoreText": "4,6"
+      },
+      {
+        "appId": "com.barnasoba.timebetween",
+        "title": "Horas Trabajadas",
+        "score": 4.65,
+        "scoreText": "4,7"
+      }
+    ]
+  },
+  {
+    "country": "us",
+    "niche": "b2b_time",
+    "search_term": "time tracking freelance",
+    "top_app": {
+      "appId": "com.toggl.giskard",
+      "title": "Toggl Track - Time Tracking",
+      "developer": "Toggl.com"
+    },
+    "score": 4.631707,
+    "ratings": 25300,
+    "installs": "1,000,000+",
+    "offersIAP": false,
+    "adSupported": false,
+    "reviews_pulled": 250,
+    "low_count": 61,
+    "low_pct": 24.4,
+    "top_thumbs_low": [
+      {
+        "score": 2,
+        "thumbs": 50,
+        "text": "Edit: It's August 2025 and still not fixed. Pomodoro timer does not makes any sound upon completion unless you have kept the Auto-start breaks option enabled. For the love of god, let it make a sound "
+      },
+      {
+        "score": 1,
+        "thumbs": 15,
+        "text": "I have been using the app for years now and the new ui update was unnecessary. while cleaning up the ui for editing a time entry, they removed an important feature to move the start time of current en"
+      },
+      {
+        "score": 1,
+        "thumbs": 11,
+        "text": "Recent update removed the ability to quickly jump to last time. This is extremely inconvenient."
+      }
+    ],
+    "other_top5_search": [
+      {
+        "appId": "com.upwork.android.apps.main",
+        "title": "Upwork",
+        "score": 3.8,
+        "scoreText": "3.8"
+      },
+      {
+        "appId": "apace.freelancetimetracker",
+        "title": "FTT: Freelance Time Tracker"
+      },
+      {
+        "appId": "partl.workinghours",
+        "title": "WorkingHours Time Tracker",
+        "score": 4.6545453,
+        "scoreText": "4.7"
+      }
+    ]
+  },
+  {
+    "country": "gb",
+    "niche": "b2b_time",
+    "search_term": "freelancer hours billable",
+    "top_app": {
+      "appId": "com.freelancer.android.messenger",
+      "title": "Freelancer: Hire & Find Jobs",
+      "developer": "Freelancer.com"
+    },
+    "score": 3.71,
+    "ratings": 72289,
+    "installs": "10,000,000+",
+    "offersIAP": false,
+    "adSupported": false,
+    "reviews_pulled": 250,
+    "low_count": 63,
+    "low_pct": 25.2,
+    "top_thumbs_low": [
+      {
+        "score": 1,
+        "thumbs": 39,
+        "text": "A client sent me a personal PayPal payment link asking for money outside the platform. I reported it, which is the correct thing to do. Instead of taking action against the client, they suspended my a"
+      },
+      {
+        "score": 1,
+        "thumbs": 37,
+        "text": "Have hired great developers. The app itself is 0 stars for everything else. Customer service is incapable of fixing simple issues. Subpar commitment to greatness from this management team. Like changi"
+      },
+      {
+        "score": 1,
+        "thumbs": 20,
+        "text": "You can't earn money by working here, the client cheats and benefits on this platform,,Again, if you open this platform, it takes a long time to login to the platform, and sometimes it doesn't work.. "
+      }
+    ],
+    "other_top5_search": [
+      {
+        "appId": "com.upwork.android.apps.main",
+        "title": "Upwork",
+        "score": 3.8,
+        "scoreText": "3.8"
+      },
+      {
+        "appId": "com.techorg.freelancer",
+        "title": "Freelancer - فري لانسر"
+      },
+      {
+        "appId": "com.aqibmali.jobposter",
+        "title": "Hirely: Find Freelancers"
+      }
+    ]
+  },
+  {
+    "country": "br",
+    "niche": "b2b_invoice",
+    "search_term": "gerador notas fiscais",
+    "top_app": {
+      "appId": "br.gov.rs.procergs.nff",
+      "title": "Nota Fiscal Fácil - NFF",
+      "developer": "PROCERGS"
+    },
+    "score": 2.82,
+    "ratings": 883,
+    "installs": "500.000+",
+    "offersIAP": false,
+    "adSupported": false,
+    "reviews_pulled": 250,
+    "low_count": 156,
+    "low_pct": 62.4,
+    "top_thumbs_low": [
+      {
+        "score": 2,
+        "thumbs": 30,
+        "text": "Estava muito bom o uso com esse app, mas agora, quando tento preencher os dados do produto, o valor final não atualiza, ficando uma opção em branco, e o valor voltando para o valor unitário, impossibi"
+      },
+      {
+        "score": 1,
+        "thumbs": 16,
+        "text": "O app nao funciona,nao consigo emitir nota pra outros estados,sou produtor rural e nao tem aonde recorrer,no fale conosco so orientam a fazer a atualização forçada, desinstalar e instalar novamente e "
+      },
+      {
+        "score": 1,
+        "thumbs": 14,
+        "text": "Baixei o app, porém na hora de cadastrar o produto pede GTIN e nunca ouvi falar, tentei algumas opções e não deu certo e tentei importar a nota fiscal de compra dos produtos ele lê as informações apar"
+      }
+    ],
+    "other_top5_search": [
+      {
+        "appId": "br.com.emitte",
+        "title": "Emitte - Emitir Notas Fiscais"
+      },
+      {
+        "appId": "br.gov.nfsemobileemissor",
+        "title": "NFSe Mobile"
+      },
+      {
+        "appId": "br.gov.rs.procergs.nfg",
+        "title": "Nota Fiscal Gaúcha-NFG Oficial"
+      }
+    ]
+  },
+  {
+    "country": "tr",
+    "niche": "b2b_invoice",
+    "search_term": "fatura kesme uygulaması",
+    "top_app": {
+      "appId": "io.earsiv.sysmond",
+      "title": "e-Arşiv Fatura",
+      "developer": "SYSMOND YAZILIM TEKNOLOJİLERİ ANONİM ŞİRKETİ"
+    },
+    "score": 4.6313252,
+    "ratings": 8337,
+    "installs": "100.000+",
+    "offersIAP": false,
+    "adSupported": true,
+    "reviews_pulled": 250,
+    "low_count": 99,
+    "low_pct": 39.6,
+    "top_thumbs_low": [
+      {
+        "score": 1,
+        "thumbs": 28,
+        "text": "2000 küsür jetonum vardı silmişsiniz! Şimdi diyorsunuzki premium üyelik al! Peki benim jetonlar ne olacak en azından jetonunuz bitene kadar kullanın daha jetonlu üyelik yok deseydiniz şimdi bu haksızl"
+      },
+      {
+        "score": 1,
+        "thumbs": 28,
+        "text": "Bir gün çalışıyorsa 3 gün çalışmıyor, kendi boş vaktimize göre değil de uygulamanın müsade ettiği zamana göre girişleri yapmanız gerekecek, başka uygulamalardan faydalanmak daha iyi, son zamanlarda ça"
+      },
+      {
+        "score": 1,
+        "thumbs": 21,
+        "text": "Ücretli olması kötü oldu, eskisi gibi reklam alternatifli olmalıydı, GİB den kesmeye devam ya da farklı bir program varsa onu değerlendireceğiz"
+      }
+    ],
+    "other_top5_search": [
+      {
+        "appId": "com.earsivfatura.app",
+        "title": "e-Arşiv Fatura Portal"
+      },
+      {
+        "appId": "pt.gov.efatura.mobille.dev.app",
+        "title": "e-fatura",
+        "score": 0,
+        "scoreText": "0,0"
+      },
+      {
+        "appId": "io.earsivlite.sysmond",
+        "title": "E-Arşiv Fatura Lite | Ücretsiz",
+        "score": 0,
+        "scoreText": "0,0"
+      }
+    ]
+  },
+  {
+    "country": "mx",
+    "niche": "b2b_invoice",
+    "search_term": "crear facturas",
+    "top_app": {
+      "appId": "com.aadhk.woinvoice",
+      "title": "Invoice Simple - Facturas",
+      "developer": "Invoice Simple"
+    },
+    "score": 4.8691587,
+    "ratings": 167126,
+    "installs": "5.000.000+",
+    "offersIAP": true,
+    "IAPRange": "$70.99 - $8,249.00 por elemento",
+    "adSupported": false,
+    "reviews_pulled": 250,
+    "low_count": 42,
+    "low_pct": 16.8,
+    "top_thumbs_low": [
+      {
+        "score": 1,
+        "thumbs": 31,
+        "text": "Llevo usando está aplicación varios años, pero este va a ser el último. El precio ya subido al doble desde entonces y funciones que antes estaban incluidas en el precio, como saber cuándo el cliente r"
+      },
+      {
+        "score": 1,
+        "thumbs": 15,
+        "text": "Hace años uso esta app, tenía un buen precio, de repente comenzaron a subir los precios, cada año un monto más elevado, hasta el 100% del valor anual anterior. Ahora debes pagar más de 150us para pode"
+      },
+      {
+        "score": 1,
+        "thumbs": 9,
+        "text": "Buena app. La he usado desde el 2020, cuando costaba $7.99. Cada año subían de precio la suscripción, y ahora la han subido más aun. Ha Inicio de este año la subieron a $13.99 y era todo ilimitado: to"
+      }
+    ],
+    "other_top5_search": [
+      {
+        "appId": "bookipi.invoice.maker.estimate.billing",
+        "title": "Facturas y presupuestos",
+        "score": 4.59,
+        "scoreText": "4,6"
+      },
+      {
+        "appId": "com.invoiceapp",
+        "title": "Factura Sencilla",
+        "score": 4.5959597,
+        "scoreText": "4,6"
+      },
+      {
+        "appId": "com.zoho.invoicegenerator",
+        "title": "Generador de facturas",
+        "score": 4.73,
+        "scoreText": "4,7"
+      }
+    ]
+  },
+  {
+    "country": "us",
+    "niche": "b2b_invoice",
+    "search_term": "simple invoice generator",
+    "top_app": {
+      "appId": "com.aadhk.woinvoice",
+      "title": "Invoice Simple: Invoice Maker",
+      "developer": "Invoice Simple"
+    },
+    "score": 4.8208747,
+    "ratings": 167126,
+    "installs": "5,000,000+",
+    "offersIAP": true,
+    "IAPRange": "$4.99 - $399.99 per item",
+    "adSupported": false,
+    "reviews_pulled": 250,
+    "low_count": 68,
+    "low_pct": 27.2,
+    "top_thumbs_low": [
+      {
+        "score": 1,
+        "thumbs": 31,
+        "text": "WARNING Good reviews are fake you cannot export your invoices from this app, which traps you into facing annual price increases. This issue is intentional! After being a customer for years, I'm done. "
+      },
+      {
+        "score": 1,
+        "thumbs": 18,
+        "text": "The app is ok but they Jack the price up every month or so. they are greedy and dont care about their customers. dont bother unless you dont mind wasting your money."
+      },
+      {
+        "score": 1,
+        "thumbs": 16,
+        "text": "After being a long time customer and paying for a yearly subscription of $59, they are forcing you to a $199 yearly subscription. it used to be you get unlimited invoices with your plan. Now they limi"
+      }
+    ],
+    "other_top5_search": [
+      {
+        "appId": "com.zoho.invoicegenerator",
+        "title": "Invoice Generator - Zoho",
+        "score": 4.73,
+        "scoreText": "4.7"
+      },
+      {
+        "appId": "invoice.invoicemaker.simple",
+        "title": "Invoice Maker - Simple Invoice",
+        "score": 4.888889,
+        "scoreText": "4.9"
+      },
+      {
+        "appId": "app.invoice_maker",
+        "title": "Freebie Invoice Maker Simple",
+        "score": 4.67,
+        "scoreText": "4.7"
+      }
+    ]
+  },
+  {
+    "country": "gb",
+    "niche": "b2b_invoice",
+    "search_term": "self-employed invoicing",
+    "top_app": {
+      "appId": "com.intuit.qbse",
+      "title": "QBSE",
+      "developer": "Intuit Inc"
+    },
+    "score": 2.4839506,
+    "ratings": 33402,
+    "installs": "5,000,000+",
+    "offersIAP": true,
+    "IAPRange": "£2.19 - £32.99 if billed through Play",
+    "adSupported": false,
+    "reviews_pulled": 250,
+    "low_count": 214,
+    "low_pct": 85.6,
+    "top_thumbs_low": [
+      {
+        "score": 1,
+        "thumbs": 25,
+        "text": "Imagine how excited I was when I went to QBSE on my desktop to work on my taxes to discover that, regardless of the notifications I received every time I started driving, the app hasn't tracked a sing"
+      },
+      {
+        "score": 1,
+        "thumbs": 18,
+        "text": "The app simply doesn't work. Despite many attempts it's impossible to get the app to open. Using any other QuickBooks app results in not being able to login to my company. Trying to contact QuickBooks"
+      },
+      {
+        "score": 2,
+        "thumbs": 15,
+        "text": "EDIT still have received zero assistance other than go online and search for help. Sent multiple emails with no response. I am currently on hold going on an hour! It would be great if anybody cared th"
+      }
+    ],
+    "other_top5_search": [
+      {
+        "appId": "com.conta.android",
+        "title": "Conta: Easy invoice maker app"
+      },
+      {
+        "appId": "com.simplywise.mobile",
+        "title": "SimplyWise: Receipts, Expenses"
+      },
+      {
+        "appId": "com.invoicehome.invoicehome",
+        "title": "Invoice Maker by Invoice Home"
+      }
+    ]
+  },
+  {
+    "country": "br",
+    "niche": "b2b_booking",
+    "search_term": "agendamento clientes salao",
+    "top_app": {
+      "appId": "booksapp.app",
+      "title": "Agenda de Clientes",
+      "developer": "Z4 App"
+    },
+    "score": 4.37,
+    "ratings": 400,
+    "installs": "10.000+",
+    "offersIAP": true,
+    "IAPRange": "R$ 12,90 por item",
+    "adSupported": false,
+    "reviews_pulled": 155,
+    "low_count": 19,
+    "low_pct": 12.3,
+    "top_thumbs_low": [
+      {
+        "score": 2,
+        "thumbs": 7,
+        "text": "O aplicativo depois que sai e se não lembrar a senha, não tem opção de recuperar conta. Me lascaram. Amanhã tenho clientes marcadas e não consigo entrar para agendar e nem pra ver como está a agenda."
+      },
+      {
+        "score": 1,
+        "thumbs": 5,
+        "text": "Não está agendando novos serviços! Você faz tudo, salva l, ele aparece que salvou na notificação e não salva!"
+      },
+      {
+        "score": 2,
+        "thumbs": 3,
+        "text": "Estou usando no momento, mas acho que falta muitas melhorias como lista com horários na agenda e lembretes . Histórico do dia de atendimento e resumo valores diário"
+      }
+    ],
+    "other_top5_search": [
+      {
+        "appId": "com.firebaseapp.manicurecalendar",
+        "title": "Agenda para Manicure App"
+      },
+      {
+        "appId": "com.arbo.agenda",
+        "title": "Agenda para Manicures e Beleza"
+      },
+      {
+        "appId": "com.grantec.topsalao",
+        "title": "Top Salão: agendamento online"
+      }
+    ]
+  },
+  {
+    "country": "tr",
+    "niche": "b2b_booking",
+    "search_term": "randevu uygulaması müşteri",
+    "top_app": {
+      "appId": "tr.gov.saglik.MHRSMOBIL",
+      "title": "MHRS",
+      "developer": "T.C. SAĞLIK BAKANLIĞI"
+    },
+    "score": 4.116706,
+    "ratings": 530944,
+    "installs": "10.000.000+",
+    "offersIAP": false,
+    "adSupported": false,
+    "reviews_pulled": 250,
+    "low_count": 86,
+    "low_pct": 34.4,
+    "top_thumbs_low": [
+      {
+        "score": 1,
+        "thumbs": 6,
+        "text": "Geneklikle telefon ve bireysel olarak uğraşmadan kullanıyordum. Önceki daha güzel akıcı ve kullanışlıydı. Çok karışık olmuş. Kahramanmaraş Kadın Doğum ve Çocuk Hastanesi vardı şimdi site içerisinde ya"
+      },
+      {
+        "score": 1,
+        "thumbs": 2,
+        "text": "hiç düzgün işiniz olmazmı yahu mhrs e devlet birleştiriyorsun bir ayırıyorsun şifreleri kabul etmiyor randevu almayalım diye."
+      },
+      {
+        "score": 1,
+        "thumbs": 1,
+        "text": "yenikler çok kötü girişi öyle zor acil durumlarda hiçbir işe yaramıyor bir süre sonra defalarca sisteme girmeye çalışıyorum ve çocuklarımdan birinin hesabına girdiğimde o hesaptan başka bir hesaba gir"
+      }
+    ],
+    "other_top5_search": [
+      {
+        "appId": "com.randevunasil.business",
+        "title": "Randevu Nasıl - Online Randevu"
+      },
+      {
+        "appId": "com.berberandevu.app",
+        "title": "BerbeRandevu: Hızlı Randevu Al"
+      },
+      {
+        "appId": "com.onlinerandevu.app",
+        "title": "Online Randevu"
+      }
+    ]
+  },
+  {
+    "country": "mx",
+    "niche": "b2b_booking",
+    "search_term": "agenda citas clientes",
+    "top_app": {
+      "appId": "com.appointfix",
+      "title": "Goldie: Gestión de citas",
+      "developer": "Quartet"
+    },
+    "score": 4.63,
+    "ratings": 11657,
+    "installs": "500.000+",
+    "offersIAP": true,
+    "IAPRange": "$75.00 - $7,999.00 por elemento",
+    "adSupported": false,
+    "reviews_pulled": 250,
+    "low_count": 25,
+    "low_pct": 10,
+    "top_thumbs_low": [
+      {
+        "score": 1,
+        "thumbs": 9,
+        "text": "Esta genial la aplicación! También la use por mucho tiempo y salen con que no se pueden agendar mas citas por mes. Y el costo ménsula para mi que soy de argentina es muy elevado. Voy a tener que busca"
+      },
+      {
+        "score": 1,
+        "thumbs": 9,
+        "text": "Llevo tanto tiempo usándola, me encantaba, pero ahora salen con q solo se puede agendar 20 citas al mes....fatal, ya q la mensualidad es bastante costosa! Tocó buscar otra opción...."
+      },
+      {
+        "score": 1,
+        "thumbs": 4,
+        "text": "Llevaba usándola 2 años aproximadamente y no había tenido ningún problema hasta que no me dejó agendar más de \"20\" citas y sus costos súper elevados ya no la recomiendo"
+      }
+    ],
+    "other_top5_search": [
+      {
+        "appId": "com.arbo.agenda",
+        "title": "Agenda para citas de uñas"
+      },
+      {
+        "appId": "com.confirmafy.app",
+        "title": "Confirmafy",
+        "score": 0,
+        "scoreText": "0,0"
+      },
+      {
+        "appId": "com.ionicframework.agendaproappiframe903400",
+        "title": "AgendaPro Business"
+      }
+    ]
+  },
+  {
+    "country": "us",
+    "niche": "b2b_booking",
+    "search_term": "appointment scheduling small business",
+    "top_app": {
+      "appId": "com.adaptavant.setmore",
+      "title": "Setmore Appointment Scheduling",
+      "developer": "Setmore"
+    },
+    "score": 3.827381,
+    "ratings": 5946,
+    "installs": "500,000+",
+    "offersIAP": true,
+    "IAPRange": "$1.99 - $349.99 per item",
+    "adSupported": false,
+    "reviews_pulled": 250,
+    "low_count": 90,
+    "low_pct": 36,
+    "top_thumbs_low": [
+      {
+        "score": 2,
+        "thumbs": 19,
+        "text": "The calendar shows today as Dec 11, when it's actually Dec 12. And when you look to upgrade, the pricing is more than double what the pricing is on the website, which is baffling. On the website I can"
+      },
+      {
+        "score": 2,
+        "thumbs": 16,
+        "text": "Have used setmore for years for our barber shop, new interface as of July 2024 is terrible. The clients say the enjoy the update on their end but on the barbers end there's just a lot to look at and m"
+      },
+      {
+        "score": 1,
+        "thumbs": 14,
+        "text": "The latest update has made the app far less usable as well as asthetically hideous. It has become non-intuitive, more difficult to quickly switch between days and staff members, and even clicking an a"
+      }
+    ],
+    "other_top5_search": [
+      {
+        "appId": "com.squareup.apos",
+        "title": "Square Appointments: Scheduler"
+      },
+      {
+        "appId": "com.appointfix",
+        "title": "Goldie: Schedule Appointments",
+        "score": 4.5588236,
+        "scoreText": "4.6"
+      },
+      {
+        "appId": "com.acuityscheduling.app.android",
+        "title": "Acuity: Appointment Scheduling",
+        "score": 4.181818,
+        "scoreText": "4.2"
+      }
+    ]
+  },
+  {
+    "country": "gb",
+    "niche": "b2b_booking",
+    "search_term": "client booking app",
+    "top_app": {
+      "appId": "com.squareup.apos",
+      "title": "Square Appointments: Scheduler",
+      "developer": "Block, Inc."
+    },
+    "score": 4.54,
+    "ratings": 18053,
+    "installs": "1,000,000+",
+    "offersIAP": false,
+    "adSupported": false,
+    "reviews_pulled": 250,
+    "low_count": 95,
+    "low_pct": 38,
+    "top_thumbs_low": [
+      {
+        "score": 1,
+        "thumbs": 16,
+        "text": "I used to like this app but recently its gone down hill. it doesnt load information and pressing the \"refresh\" button does absolutely nothing. They keep putting more and more features (that used to be"
+      },
+      {
+        "score": 1,
+        "thumbs": 15,
+        "text": "This app is not compatible with my Samsung S24. I can not see transactions for a single client, from the\" more menu.\" I have to calculate the tips myself. This operation works with iPhones but not wit"
+      },
+      {
+        "score": 1,
+        "thumbs": 13,
+        "text": "There's this new issue whenever I open the app, the calendar is just blank. No appointments showing. I have to quit the app and reopen for it to resync and show the appointments. Happens constantly. N"
+      }
+    ],
+    "other_top5_search": [
+      {
+        "appId": "com.appointfix",
+        "title": "Goldie: Schedule Appointments",
+        "score": 4.5588236,
+        "scoreText": "4.6"
+      },
+      {
+        "appId": "com.adaptavant.setmore",
+        "title": "Setmore Appointment Scheduling",
+        "score": 4.225806,
+        "scoreText": "4.2"
+      },
+      {
+        "appId": "net.booksy.customer",
+        "title": "Booksy for Customers",
+        "score": 4.876923,
+        "scoreText": "4.9"
+      }
+    ]
+  },
+  {
+    "country": "br",
+    "niche": "b2b_expense",
+    "search_term": "controle despesas empresa",
+    "top_app": {
+      "appId": "ru.innim.my_finance",
+      "title": "Gastos - gestor de orçamento",
+      "developer": "Cleaner + Antivirus + VPN company"
+    },
+    "score": 4.9157305,
+    "ratings": 474342,
+    "installs": "10.000.000+",
+    "offersIAP": true,
+    "IAPRange": "R$ 10,99 – R$ 209,99 por item",
+    "adSupported": true,
+    "reviews_pulled": 250,
+    "low_count": 3,
+    "low_pct": 1.2,
+    "top_thumbs_low": [
+      {
+        "score": 1,
+        "thumbs": 1,
+        "text": "Ultimamente, após anos de uso , vejo que não temos atualizações importantes, não tem como lançar para datas futuras e ver no gráfico ou no saldo , usar pagamentos recorrentes não funciona porque só mo"
+      },
+      {
+        "score": 1,
+        "thumbs": 0,
+        "text": "precisa criar conta"
+      },
+      {
+        "score": 1,
+        "thumbs": 0,
+        "text": "muito anúncio"
+      }
+    ],
+    "other_top5_search": [
+      {
+        "appId": "boss.sales.accounting.crm.business.trade.debit.invoice.profit_1c",
+        "title": "Controle de Vendas e Estoque",
+        "score": 4.214286,
+        "scoreText": "4,2"
+      },
+      {
+        "appId": "com.jgapps.expenless",
+        "title": "Expenless Controle de Despesas",
+        "score": 4.2058825,
+        "scoreText": "4,2"
+      },
+      {
+        "appId": "cashbook.cashbook",
+        "title": "Livro Caixa: Gastos Diários",
+        "score": 4.5882354,
+        "scoreText": "4,6"
+      }
+    ]
+  },
+  {
+    "country": "tr",
+    "niche": "b2b_expense",
+    "search_term": "şirket gider takip",
+    "top_app": {
+      "appId": "com.budgetlyapp",
+      "title": "Bütçe Takip - Gelir Gider",
+      "developer": "BlarsApp"
+    },
+    "score": 4.6410255,
+    "ratings": 39,
+    "installs": "1.000+",
+    "offersIAP": true,
+    "IAPRange": "Öğe başına ₺34,99-₺299,99",
+    "adSupported": true,
+    "reviews_pulled": 23,
+    "low_count": 1,
+    "low_pct": 4.3,
+    "top_thumbs_low": [
+      {
+        "score": 1,
+        "thumbs": 0,
+        "text": "Peki telefon değişiklik yaptığımda veya uygulamayı kaldırdığımız zaman kayıtlı verileri geri nasıl yükleyeceğim"
+      }
+    ],
+    "other_top5_search": [
+      {
+        "appId": "com.isbasi",
+        "title": "İşbaşı: Ön Muhasebe & e-Fatura",
+        "score": 5,
+        "scoreText": "5,0"
+      },
+      {
+        "appId": "com.gelirtakip",
+        "title": "Gelir Gider - Basit Takip",
+        "score": 0,
+        "scoreText": "0,0"
+      },
+      {
+        "appId": "com.logydev.expenseManagement",
+        "title": "Masraf Yönetimi - Gider Takip"
+      }
+    ]
+  },
+  {
+    "country": "mx",
+    "niche": "b2b_expense",
+    "search_term": "gastos negocio control",
+    "top_app": {
+      "appId": "ru.innim.my_finance",
+      "title": "Gestor de gastos - finanzas",
+      "developer": "Cleaner + Antivirus + VPN company"
+    },
+    "score": 4.9323096,
+    "ratings": 474342,
+    "installs": "10.000.000+",
+    "offersIAP": true,
+    "IAPRange": "$46.00 - $839.00 por elemento",
+    "adSupported": true,
+    "reviews_pulled": 250,
+    "low_count": 1,
+    "low_pct": 0.4,
+    "top_thumbs_low": [
+      {
+        "score": 1,
+        "thumbs": 0,
+        "text": "Buena"
+      }
+    ],
+    "other_top5_search": [
+      {
+        "appId": "com.lehreer.store",
+        "title": "Control de Mi Negocio",
+        "score": 0,
+        "scoreText": "0,0"
+      },
+      {
+        "appId": "com.blodhgard.easybudget",
+        "title": "Presupuesto Rápido - Gastos",
+        "score": 4.646739,
+        "scoreText": "4,6"
+      },
+      {
+        "appId": "com.controlfinanzas",
+        "title": "Control Finanzas: Gastos"
+      }
+    ]
+  },
+  {
+    "country": "us",
+    "niche": "b2b_expense",
+    "search_term": "small business expense",
+    "top_app": {
+      "appId": "com.simplywise.mobile",
+      "title": "SimplyWise: Receipts, Expenses",
+      "developer": "SimplyWise"
+    },
+    "score": 4.7331405,
+    "ratings": 10479,
+    "installs": "100,000+",
+    "offersIAP": true,
+    "IAPRange": "$0.99 - $449.99 per item",
+    "adSupported": false,
+    "reviews_pulled": 250,
+    "low_count": 64,
+    "low_pct": 25.6,
+    "top_thumbs_low": [
+      {
+        "score": 2,
+        "thumbs": 14,
+        "text": "the manual email function doesn't work efficiently. I have to email the same receipt multiple times before it shows up in the app. And sometimes it will never show up. The user interface is annoying. "
+      },
+      {
+        "score": 2,
+        "thumbs": 5,
+        "text": "Would be a great app if the oct actually worked. It captures vendor, date, cost, etc but line items? hahahhahahaha...not one scan is correct. And when i say incorrect i mean capturing the wrong line, "
+      },
+      {
+        "score": 2,
+        "thumbs": 4,
+        "text": "seems okay but tracking expenses for event and it doesn't give a running total so that you can see how much you've spent all together. and you can create folders but they do.t give a combined total ju"
+      }
+    ],
+    "other_top5_search": [
+      {
+        "appId": "com.intuit.quickbooks",
+        "title": "Intuit QuickBooks for Business",
+        "score": 4.09375,
+        "scoreText": "4.1"
+      },
+      {
+        "appId": "com.xero.touch",
+        "title": "Xero Accounting for business",
+        "score": 3.75,
+        "scoreText": "3.8"
+      },
+      {
+        "appId": "com.easyexpense",
+        "title": "Receipt Scanner: Easy Expense",
+        "score": 3.7260275,
+        "scoreText": "3.7"
+      }
+    ]
+  },
+  {
+    "country": "gb",
+    "niche": "b2b_expense",
+    "search_term": "business receipt tracker",
+    "top_app": {
+      "appId": "com.easyexpense",
+      "title": "Receipt Scanner: Easy Expense",
+      "developer": "Easy Expense Tracker"
+    },
+    "score": 4.61,
+    "ratings": 18340,
+    "installs": "1,000,000+",
+    "offersIAP": true,
+    "IAPRange": "£0.99 - £139.99 if billed through Play",
+    "adSupported": false,
+    "reviews_pulled": 250,
+    "low_count": 70,
+    "low_pct": 28,
+    "top_thumbs_low": [
+      {
+        "score": 1,
+        "thumbs": 23,
+        "text": "You bunch of slime ball scumbags! I haven't used this app in a couple of months, and when I do, you're now charging for it?! Fa-Q! Your app sucks because none of the information goes into the proper c"
+      },
+      {
+        "score": 1,
+        "thumbs": 21,
+        "text": "This app has a lot of work it needs. I'm not sure when the last time they updated it but it is not really usable. the app missed date and time, amount, name of store, categorization, total price and t"
+      },
+      {
+        "score": 2,
+        "thumbs": 21,
+        "text": "I highly recommend trying Slip-Scan instead. It is way more accurate, has more features, and can actually extract line-items with AI. It's also free and the premium plans are way cheaper. Easy expense"
+      }
+    ],
+    "other_top5_search": [
+      {
+        "appId": "com.receiptbank.android",
+        "title": "Dext: Receipt Tracker",
+        "score": 3.5,
+        "scoreText": "3.5"
+      },
+      {
+        "appId": "org.me.mobiexpensifyg",
+        "title": "Expensify - Travel & Expense",
+        "score": 4.09,
+        "scoreText": "4.1"
+      },
+      {
+        "appId": "com.simplywise.mobile",
+        "title": "SimplyWise: Receipts, Expenses"
+      }
+    ]
+  },
+  {
+    "country": "br",
+    "niche": "b2b_inventory",
+    "search_term": "controle estoque pequena empresa",
+    "top_app": {
+      "appId": "com.cristianwdev.estoquefacil",
+      "title": "Controle de Estoque Fácil",
+      "developer": "Cristian Correia"
+    },
+    "score": 4.732673,
+    "ratings": 461,
+    "installs": "10.000+",
+    "offersIAP": true,
+    "IAPRange": "R$ 9,90 por item",
+    "adSupported": true,
+    "reviews_pulled": 208,
+    "low_count": 12,
+    "low_pct": 5.8,
+    "top_thumbs_low": [
+      {
+        "score": 1,
+        "thumbs": 1,
+        "text": "Acabei de instalar. Bug , ao tirar foto na hora do cadastro, volta pra tela de início e perde todo o cadastro. Ou seja, já tenha a foto do produto tirada antes"
+      },
+      {
+        "score": 2,
+        "thumbs": 1,
+        "text": "é muito bom, pena que função de exportar e importar para Excel não funciona."
+      },
+      {
+        "score": 2,
+        "thumbs": 1,
+        "text": "Insuportável a quantidade de anúncios. não se consegue alimentar o programa, para cada produto inserido, um anúncio de 30 seg. Totalmente inviável!!!!!"
+      }
+    ],
+    "other_top5_search": [
+      {
+        "appId": "io.controle.estoque",
+        "title": "Controle de Estoque Online"
+      },
+      {
+        "appId": "com.pinheirosdevelopers.estoquesimples",
+        "title": "Estoque Simples"
+      },
+      {
+        "appId": "com.quardmobile.vendas",
+        "title": "Pedidos, Estoque e Financeiro"
+      }
+    ]
+  },
+  {
+    "country": "tr",
+    "niche": "b2b_inventory",
+    "search_term": "stok takip uygulaması",
+    "top_app": {
+      "appId": "com.stockmanagment.next.app",
+      "title": "Stok ve Envanter Basit",
+      "developer": "Chester Software (Xaltos Technologies Ltd)"
+    },
+    "score": 4.72,
+    "ratings": 22184,
+    "installs": "1.000.000+",
+    "offersIAP": true,
+    "IAPRange": "Öğe başına ₺3,39-₺939,99",
+    "adSupported": false,
+    "reviews_pulled": 114,
+    "low_count": 12,
+    "low_pct": 10.5,
+    "top_thumbs_low": [
+      {
+        "score": 1,
+        "thumbs": 3,
+        "text": "Paralı olduğunu söyleyin de insanlar boşuna zahmet çekmesinler"
+      },
+      {
+        "score": 1,
+        "thumbs": 1,
+        "text": "son güncellemede programda Türkçe karakter sorunu var özellikle \"İ\" harfinde"
+      },
+      {
+        "score": 2,
+        "thumbs": 1,
+        "text": "Kar / zarar bölümü ve raporlar ayrıntılı olarak gösterilirse daha mükemmel olur."
+      }
+    ],
+    "other_top5_search": [
+      {
+        "appId": "com.hknsoft.stoktakip",
+        "title": "Stok Takip - Çoklu Kullanıcı",
+        "score": 0,
+        "scoreText": "0,0"
+      },
+      {
+        "appId": "com.sahatek.kolay_stok_takibi",
+        "title": "Kolay Stok Takibi",
+        "score": 0,
+        "scoreText": "0,0"
+      },
+      {
+        "appId": "com.samet.stoktakip",
+        "title": "Stok Takip Pro"
+      }
+    ]
+  },
+  {
+    "country": "mx",
+    "niche": "b2b_inventory",
+    "search_term": "inventario tienda",
+    "top_app": {
+      "appId": "com.stockmanagment.next.app",
+      "title": "Stock e Inventario Simple",
+      "developer": "Chester Software (Xaltos Technologies Ltd)"
+    },
+    "score": 4.712871,
+    "ratings": 22184,
+    "installs": "1.000.000+",
+    "offersIAP": true,
+    "IAPRange": "$16.00 - $1,599.00 por elemento",
+    "adSupported": false,
+    "reviews_pulled": 250,
+    "low_count": 12,
+    "low_pct": 4.8,
+    "top_thumbs_low": [
+      {
+        "score": 1,
+        "thumbs": 1,
+        "text": "Es una pena que mal intérpretes un comentario y respondas de esa manera. No dije en ningún momento que no son buenos, yo me referí a la app, que es buena pero inaccesible para pagar, pues te escibe un"
+      },
+      {
+        "score": 1,
+        "thumbs": 1,
+        "text": "Estuve un año usando la aplicación, la cual pagaba mensualmente. Todo andaba bien hasta que de un momento a otro una cuarta parte de mis datos se borraron de la nada en mis dos tiendas, por eso decidí"
+      },
+      {
+        "score": 1,
+        "thumbs": 0,
+        "text": "no puedo poner elnprecio"
+      }
+    ],
+    "other_top5_search": [
+      {
+        "appId": "com.kyte",
+        "title": "Kyte: POS, Inventario y Ventas",
+        "score": 4.1666665,
+        "scoreText": "4,2"
+      },
+      {
+        "appId": "com.stockmanagment.online.app",
+        "title": "Stock e Inventario en línea",
+        "score": 4.51,
+        "scoreText": "4,5"
+      },
+      {
+        "appId": "ro.bino.inventory",
+        "title": "Mobile Inventory: Conteo Stock",
+        "score": 4,
+        "scoreText": "4,0"
+      }
+    ]
+  },
+  {
+    "country": "us",
+    "niche": "b2b_inventory",
+    "search_term": "small business inventory",
+    "top_app": {
+      "appId": "com.stockmanagment.next.app",
+      "title": "Stock and Inventory Simple",
+      "developer": "Chester Software (Xaltos Technologies Ltd)"
+    },
+    "score": 4.75,
+    "ratings": 22184,
+    "installs": "1,000,000+",
+    "offersIAP": true,
+    "IAPRange": "$0.99 - $149.99 per item",
+    "adSupported": false,
+    "reviews_pulled": 250,
+    "low_count": 14,
+    "low_pct": 5.6,
+    "top_thumbs_low": [
+      {
+        "score": 1,
+        "thumbs": 0,
+        "text": "worst app"
+      },
+      {
+        "score": 1,
+        "thumbs": 0,
+        "text": "it's a price sale and perches not show it's totally fake"
+      },
+      {
+        "score": 1,
+        "thumbs": 0,
+        "text": "excellent"
+      }
+    ],
+    "other_top5_search": [
+      {
+        "appId": "ro.bino.inventory",
+        "title": "Mobile Inventory: Scan & Count",
+        "score": 4,
+        "scoreText": "4.0"
+      },
+      {
+        "appId": "com.zobaze.pos",
+        "title": "Zobaze POS Billing & Inventory",
+        "score": 4.4166665,
+        "scoreText": "4.4"
+      },
+      {
+        "appId": "com.sortly.mythings",
+        "title": "Sortly: Inventory Simplified",
+        "score": 3.3636363,
+        "scoreText": "3.4"
+      }
+    ]
+  },
+  {
+    "country": "gb",
+    "niche": "b2b_inventory",
+    "search_term": "shop inventory tracker",
+    "top_app": {
+      "appId": "com.stockmanagment.next.app",
+      "title": "Stock and Inventory Simple",
+      "developer": "Chester Software (Xaltos Technologies Ltd)"
+    },
+    "score": 4.79,
+    "ratings": 22184,
+    "installs": "1,000,000+",
+    "offersIAP": true,
+    "IAPRange": "£0.79 - £109.99 if billed through Play",
+    "adSupported": false,
+    "reviews_pulled": 250,
+    "low_count": 14,
+    "low_pct": 5.6,
+    "top_thumbs_low": [
+      {
+        "score": 1,
+        "thumbs": 0,
+        "text": "worst app"
+      },
+      {
+        "score": 1,
+        "thumbs": 0,
+        "text": "it's a price sale and perches not show it's totally fake"
+      },
+      {
+        "score": 1,
+        "thumbs": 0,
+        "text": "excellent"
+      }
+    ],
+    "other_top5_search": [
+      {
+        "appId": "com.ppapps.collections",
+        "title": "Collection & Inventory Tracker",
+        "score": 0,
+        "scoreText": "0.0"
+      },
+      {
+        "appId": "com.zoho.stocktracker",
+        "title": "Inventory Stock Tracker",
+        "score": 0,
+        "scoreText": "0.0"
+      },
+      {
+        "appId": "ro.bino.inventory",
+        "title": "Mobile Inventory: Scan & Count",
+        "score": 4,
+        "scoreText": "4.0"
+      }
+    ]
+  },
+  {
+    "country": "us",
+    "niche": "hobby_knit",
+    "search_term": "knitting pattern tracker",
+    "top_app": {
+      "appId": "com.row_counter",
+      "title": "My Row Counter: Knit & Crochet",
+      "developer": "Annapurnapp Technologies GmbH"
+    },
+    "score": 4.805704,
+    "ratings": 15056,
+    "installs": "1,000,000+",
+    "offersIAP": true,
+    "IAPRange": "$0.99 - $14.99 per item",
+    "adSupported": true,
+    "reviews_pulled": 250,
+    "low_count": 16,
+    "low_pct": 6.4,
+    "top_thumbs_low": [
+      {
+        "score": 2,
+        "thumbs": 5,
+        "text": "Started great...unhappy since last year! I have loved using this app since I downloaded it. It allowed me to create projects from magazines & books that I could edit using the drawing tool to fit the "
+      },
+      {
+        "score": 1,
+        "thumbs": 3,
+        "text": "Edit: premium went to subscription instead of one time only payment, I have now lost years of work and tens of thousands of stitches and notes unless I pay 10$ for the backup that they have of my work"
+      },
+      {
+        "score": 1,
+        "thumbs": 1,
+        "text": "This app was great. but now they'll give you two or three ads in a row just to use the counter. why would I want to do that when I'm trying to relax and crochet I would rather use a pen and paper to t"
+      }
+    ],
+    "other_top5_search": [
+      {
+        "appId": "com.create2thrive.knitcompanion",
+        "title": "knitCompanion",
+        "score": 3.3958333,
+        "scoreText": "3.4"
+      },
+      {
+        "appId": "lv.crochet.app",
+        "title": "Crochet row counter & patterns",
+        "score": 4.2380953,
+        "scoreText": "4.2"
+      },
+      {
+        "appId": "com.knitandnote.android",
+        "title": "Knitandnote: Knitting app",
+        "score": 2.3125,
+        "scoreText": "2.3"
+      }
+    ]
+  },
+  {
+    "country": "de",
+    "niche": "hobby_knit",
+    "search_term": "stricken muster app",
+    "top_app": {
+      "appId": "com.duhnnae.crochetknittingtejer",
+      "title": "Häkel- und Strickanleitungen",
+      "developer": "duhnnae"
+    },
+    "score": 3.4,
+    "ratings": 391,
+    "installs": "100.000+",
+    "offersIAP": true,
+    "IAPRange": "1,79 €–8,49 € bei Abrechnung über Google",
+    "adSupported": true,
+    "reviews_pulled": 2,
+    "low_count": 2,
+    "low_pct": 100,
+    "top_thumbs_low": [
+      {
+        "score": 1,
+        "thumbs": 0,
+        "text": "Englisch Offline geht nicht DEINSTALLIERT"
+      },
+      {
+        "score": 1,
+        "thumbs": 0,
+        "text": "Es wäre schön wenn man es auf Deutsch lesen könnte"
+      }
+    ],
+    "other_top5_search": [
+      {
+        "appId": "com.row_counter",
+        "title": "Zähl Mich - stricken & häkeln",
+        "score": 4.747826,
+        "scoreText": "4,7"
+      },
+      {
+        "appId": "com.tricoton",
+        "title": "Strick Lehrer, stricken lernen",
+        "score": 4.49,
+        "scoreText": "4,5"
+      },
+      {
+        "appId": "learn.knitting.Crochet.step",
+        "title": "Lernen stricken app deutsch",
+        "score": 4.3917527,
+        "scoreText": "4,4"
+      }
+    ]
+  },
+  {
+    "country": "us",
+    "niche": "hobby_fishing",
+    "search_term": "fishing log catch",
+    "top_app": {
+      "appId": "com.cohenadair.anglerslog",
+      "title": "Anglers' Log - Fishing Journal",
+      "developer": "Cohen Adair"
+    },
+    "score": 4.57,
+    "ratings": 729,
+    "installs": "100,000+",
+    "offersIAP": true,
+    "IAPRange": "$1.49 - $11.99 per item",
+    "adSupported": false,
+    "reviews_pulled": 231,
+    "low_count": 13,
+    "low_pct": 5.6,
+    "top_thumbs_low": [
+      {
+        "score": 1,
+        "thumbs": 16,
+        "text": "Unpredictable and too complicated. Should be much easier to use. Doing my own data base."
+      },
+      {
+        "score": 1,
+        "thumbs": 7,
+        "text": "My phone got wet, I had to replace it. Anglers Log was the only App I owned that wouldn't restore. Worse, when I tried a manual reload, the app doesn't acknowledge my paid account. im not purchasing a"
+      },
+      {
+        "score": 2,
+        "thumbs": 4,
+        "text": "Terrible - new version is so unusable. Such a pain to add new fishing spots and log catches against them. Such a shame."
+      }
+    ],
+    "other_top5_search": [
+      {
+        "appId": "com.reelmemories.app",
+        "title": "Fishing Tracker & Catch Log"
+      },
+      {
+        "appId": "com.outdoorutils.fishinglog",
+        "title": "Fishing Catch Log"
+      },
+      {
+        "appId": "com.catchanglermobileapp.us",
+        "title": "Catch: Fishing Log, Maps & AI"
+      }
+    ]
+  },
+  {
+    "country": "de",
+    "niche": "hobby_fishing",
+    "search_term": "angeln fang tagebuch",
+    "top_app": {
+      "appId": "com.Verotool.fishtrace",
+      "title": "fish trace - Angler Fangbuch",
+      "developer": "VeroTool"
+    },
+    "score": 4.59,
+    "ratings": 236,
+    "installs": "10.000+",
+    "offersIAP": false,
+    "adSupported": false,
+    "reviews_pulled": 131,
+    "low_count": 3,
+    "low_pct": 2.3,
+    "top_thumbs_low": [
+      {
+        "score": 2,
+        "thumbs": 0,
+        "text": "App war bisher super, aber jetzt stürzt sie ständig ab. Neuinstallation funktioniert nicht, da angeblich noch auf meinem Samsung S22 Ultra bereits installiert. Ist aber schon deinstalliert! Abhilfe???"
+      },
+      {
+        "score": 1,
+        "thumbs": 0,
+        "text": "keine möglichkeit die app ohne gps und offline zu verwenden"
+      },
+      {
+        "score": 2,
+        "thumbs": 0,
+        "text": "Eigentlich ne gute app leider kann man nicht einfach das gewässer anklicken wo man den fisch geangelt hat dann kann man die hochgeladenen fotos nicht bearbeiten zuschneiden und wäre schön wenn bei ält"
+      }
+    ],
+    "other_top5_search": [
+      {
+        "appId": "com.fishingdiary",
+        "title": "Angeln Tagebuch"
+      },
+      {
+        "appId": "com.echo_projects.alleangeln",
+        "title": "ALLE ANGELN - App für Angler",
+        "score": 4.6190476,
+        "scoreText": "4,6"
+      },
+      {
+        "appId": "borralloespinarrafael.fishingdiary",
+        "title": "Angeltagebuch - Fishing Diary",
+        "score": 0,
+        "scoreText": "0,0"
+      }
+    ]
+  },
+  {
+    "country": "us",
+    "niche": "hobby_garden",
+    "search_term": "garden planner vegetables",
+    "top_app": {
+      "appId": "com.perculacreative.peter.gardenplanner",
+      "title": "Planter - Garden Planner",
+      "developer": "Planter"
+    },
+    "score": 4.5475287,
+    "ratings": 4136,
+    "installs": "500,000+",
+    "offersIAP": true,
+    "IAPRange": "$0.99 - $99.99 per item",
+    "adSupported": false,
+    "reviews_pulled": 250,
+    "low_count": 31,
+    "low_pct": 12.4,
+    "top_thumbs_low": [
+      {
+        "score": 1,
+        "thumbs": 9,
+        "text": "-has a focus only on farming, and that wasn't clear until after I downloaded it -has some flowers but a very limited amount -has a custom plant feature. For some reason the hydrangeas I was trying for"
+      },
+      {
+        "score": 2,
+        "thumbs": 4,
+        "text": "Was a fantastic app....until recently. The app no longer works. once open, the app locks. Nothing works, completely frozen. I hesitate to reinstall as I've spent a lot of time setting up my gardens an"
+      },
+      {
+        "score": 1,
+        "thumbs": 3,
+        "text": "felt like you had to paid to use even the basic features. disappointing as it had such potential."
+      }
+    ],
+    "other_top5_search": [
+      {
+        "appId": "io.ionic.seed2spoon",
+        "title": "Seed to Spoon - Garden Planner"
+      },
+      {
+        "appId": "us.seedtime.app",
+        "title": "Seedtime: Garden Planner App",
+        "score": 0,
+        "scoreText": "0.0"
+      },
+      {
+        "appId": "com.vegplotter.app",
+        "title": "Vegetable Garden/Farm Planner",
+        "score": 0,
+        "scoreText": "0.0"
+      }
+    ]
+  },
+  {
+    "country": "de",
+    "niche": "hobby_garden",
+    "search_term": "garten planer pflanzen",
+    "top_app": {
+      "appId": "org.alphabeet.app",
+      "title": "Gartenplaner von Fryd",
+      "developer": "Fryd GmbH"
+    },
+    "score": 3.7045455,
+    "ratings": 1858,
+    "installs": "100.000+",
+    "offersIAP": true,
+    "IAPRange": "11,99 €–199,99 € bei Abrechnung über Goo",
+    "adSupported": false,
+    "reviews_pulled": 250,
+    "low_count": 96,
+    "low_pct": 38.4,
+    "top_thumbs_low": [
+      {
+        "score": 2,
+        "thumbs": 45,
+        "text": "Ich finde es ja völlig ok, dass Programme Geld kosten. Aber es nervt echt, dass darauf nicht im Store hingewiesen wird. Das Programm soll 150€ oder 10 € monatlich kosten. Dafür hätte ich mir die Zeit "
+      },
+      {
+        "score": 1,
+        "thumbs": 23,
+        "text": "Ich habe die KOSTENLOSE 7 Tage-Tstversion gebucht. Mir wurden direkt 49,99 € abgebucht. Nicht nur, dass das eine Stange Geld für mich ist, sondern dann funktioniert die app nicht mal. Meine Pläne werd"
+      },
+      {
+        "score": 2,
+        "thumbs": 17,
+        "text": "Super Idee! App jedoch mit Verbesserungspotential. Allgemein sehr träge, hängt häufig. Platzangaben für Arten/ Sorten entspricht nicht den Empfehlungen. Sorten/Arten fehlen. Dadurch kann man meiner Me"
+      }
+    ],
+    "other_top5_search": [
+      {
+        "appId": "garden.plantura.app.main",
+        "title": "Plantura: Pflanzen & Garten",
+        "score": 4.5039606,
+        "scoreText": "4,5"
+      },
+      {
+        "appId": "com.perculacreative.peter.gardenplanner",
+        "title": "Planter - Garden Planner",
+        "score": 3.4814816,
+        "scoreText": "3,5"
+      },
+      {
+        "appId": "io.ionic.seed2spoon",
+        "title": "Seed to Spoon - Garden Planner"
+      }
+    ]
+  },
+  {
+    "country": "us",
+    "niche": "hobby_wood",
+    "search_term": "woodworking project tracker",
+    "top_app": {
+      "appId": "com.hannataylorapps.woodworkingtutorials",
+      "title": "Woodworking Projects",
+      "developer": "Hanna Taylor Apps"
+    },
+    "score": 4.266667,
+    "ratings": 435,
+    "installs": "50,000+",
+    "offersIAP": true,
+    "IAPRange": "$1.99 - $7.99 per item",
+    "adSupported": true,
+    "reviews_pulled": 17,
+    "low_count": 5,
+    "low_pct": 29.4,
+    "top_thumbs_low": [
+      {
+        "score": 1,
+        "thumbs": 15,
+        "text": "To many ads literally just a catalog YouTube Playlist"
+      },
+      {
+        "score": 1,
+        "thumbs": 2,
+        "text": "An absolute waste. I would give it a 0 out of 5. Firstly, it gets you to pay before you can even use it. Then, once in, it shows projects but whenever you press on the project it says that it is unava"
+      },
+      {
+        "score": 1,
+        "thumbs": 0,
+        "text": "junk"
+      }
+    ],
+    "other_top5_search": [
+      {
+        "appId": "com.appsmaltese.freewoodworkingprojects",
+        "title": "Woodworking Projects",
+        "score": 0,
+        "scoreText": "0.0"
+      },
+      {
+        "appId": "com.plaky.android",
+        "title": "Plaky — Project Management",
+        "score": 0,
+        "scoreText": "0.0"
+      },
+      {
+        "appId": "com.watervideosoftware.woodworkingprojects",
+        "title": "Woodworking Projects",
+        "score": 4,
+        "scoreText": "4.0"
+      }
+    ]
+  },
+  {
+    "country": "us",
+    "niche": "hobby_bird",
+    "search_term": "bird watching log",
+    "top_app": {
+      "appId": "com.labs.merlinbirdid.app",
+      "title": "Merlin Bird ID by Cornell Lab",
+      "developer": "Cornell Lab of Ornithology"
+    },
+    "score": 4.909698,
+    "ratings": 159660,
+    "installs": "10,000,000+",
+    "offersIAP": false,
+    "adSupported": false,
+    "reviews_pulled": 250,
+    "low_count": 9,
+    "low_pct": 3.6,
+    "top_thumbs_low": [
+      {
+        "score": 1,
+        "thumbs": 1,
+        "text": "Was amazing, but a recent update has rendered it useless - on both my phone, and my partner's, it starts recording and then crashes."
+      },
+      {
+        "score": 1,
+        "thumbs": 1,
+        "text": "Cannot let me sign in, Every time I try it says access denied. I had to make 18 accounts. Thus is stupid do not trust 1/10"
+      },
+      {
+        "score": 1,
+        "thumbs": 1,
+        "text": "sound not working"
+      }
+    ],
+    "other_top5_search": [
+      {
+        "appId": "com.chirpbirding.birda",
+        "title": "Birda - Birding Made Better",
+        "score": 3.5555556,
+        "scoreText": "3.6"
+      },
+      {
+        "appId": "edu.cornell.birds.ebird",
+        "title": "eBird by Cornell Lab",
+        "score": 4.0163937,
+        "scoreText": "4.0"
+      },
+      {
+        "appId": "com.audubon.mobile.android",
+        "title": "Audubon Bird Guide",
+        "score": 5,
+        "scoreText": "5.0"
+      }
+    ]
+  },
+  {
+    "country": "us",
+    "niche": "hobby_cycle",
+    "search_term": "cycling route tracker",
+    "top_app": {
+      "appId": "com.toursprung.bikemap",
+      "title": "Bikemap: Cycling Tracker & GPS",
+      "developer": "Bikemap GmbH"
+    },
+    "score": 4.2017937,
+    "ratings": 58862,
+    "installs": "5,000,000+",
+    "offersIAP": true,
+    "IAPRange": "$0.99 - $49.99 per item",
+    "adSupported": false,
+    "reviews_pulled": 250,
+    "low_count": 113,
+    "low_pct": 45.2,
+    "top_thumbs_low": [
+      {
+        "score": 1,
+        "thumbs": 72,
+        "text": "I want to change my review compolitaly😢. I installed the app and after the 7-Day trial I wanted to purchase a annual subscription, but it doesn't want to accept it at all. The error which is called ["
+      },
+      {
+        "score": 2,
+        "thumbs": 9,
+        "text": "My top three problems include: 1. The routes often make no sense. For example, for no apparent reason the app will suggest a longer route and up hills when a more direct and easier route is available."
+      },
+      {
+        "score": 2,
+        "thumbs": 9,
+        "text": "Was really great... until it wasn't. Sometimes it needs up to 15 minutes to find location, other times it's just unable to calculate a route within city limits or simply doesn't find an address that's"
+      }
+    ],
+    "other_top5_search": [
+      {
+        "appId": "com.mapmyride.android2",
+        "title": "Map My Ride With GPS Tracker",
+        "score": 4.4,
+        "scoreText": "4.4"
+      },
+      {
+        "appId": "de.komoot.android",
+        "title": "komoot - hike, bike & run",
+        "score": 4.219123,
+        "scoreText": "4.2"
+      },
+      {
+        "appId": "com.ridewithgps.mobile",
+        "title": "Ride with GPS: Bike Navigation",
+        "score": 3.68,
+        "scoreText": "3.7"
+      }
+    ]
+  },
+  {
+    "country": "gb",
+    "niche": "hobby_cycle",
+    "search_term": "cycling commute tracker",
+    "top_app": {
+      "appId": "com.toursprung.bikemap",
+      "title": "Bikemap: Cycling Tracker & GPS",
+      "developer": "Bikemap GmbH"
+    },
+    "score": 4.35,
+    "ratings": 58862,
+    "installs": "5,000,000+",
+    "offersIAP": true,
+    "IAPRange": "£0.50 - £38.99 if billed through Play",
+    "adSupported": false,
+    "reviews_pulled": 250,
+    "low_count": 113,
+    "low_pct": 45.2,
+    "top_thumbs_low": [
+      {
+        "score": 1,
+        "thumbs": 72,
+        "text": "I want to change my review compolitaly😢. I installed the app and after the 7-Day trial I wanted to purchase a annual subscription, but it doesn't want to accept it at all. The error which is called ["
+      },
+      {
+        "score": 2,
+        "thumbs": 9,
+        "text": "My top three problems include: 1. The routes often make no sense. For example, for no apparent reason the app will suggest a longer route and up hills when a more direct and easier route is available."
+      },
+      {
+        "score": 2,
+        "thumbs": 9,
+        "text": "Was really great... until it wasn't. Sometimes it needs up to 15 minutes to find location, other times it's just unable to calculate a route within city limits or simply doesn't find an address that's"
+      }
+    ],
+    "other_top5_search": [
+      {
+        "appId": "com.mapmyride.android2",
+        "title": "Map My Ride With GPS Tracker",
+        "score": 4.4,
+        "scoreText": "4.4"
+      },
+      {
+        "appId": "de.komoot.android",
+        "title": "komoot - hike, bike & run",
+        "score": 4.219123,
+        "scoreText": "4.2"
+      },
+      {
+        "appId": "com.rideamigos.astro",
+        "title": "CommuteTracker by RideAmigos"
+      }
+    ]
+  }
+]

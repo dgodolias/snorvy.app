@@ -1,0 +1,33 @@
+{
+  "appId": "my1099.tax.helper",
+  "title": "My 1099 Tax Helper",
+  "summary": "1099 forms guide, tax calculator &amp; expense tracker 4 freelancers and contractors",
+  "developer": "SergioSkar",
+  "developerEmail": "webcatamarca@gmail.com",
+  "developerWebsite": "https://julianweb.com.ar/",
+  "genre": "Finance",
+  "genreId": "FINANCE",
+  "contentRating": "Everyone",
+  "installs": "50+",
+  "minInstalls": 50,
+  "maxInstalls": 76,
+  "histogram": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 0
+  },
+  "free": true,
+  "price": 0,
+  "priceText": "Free",
+  "currency": "USD",
+  "offersIAP": false,
+  "adSupported": true,
+  "released": "Feb 12, 2026",
+  "updated": 1770929108000,
+  "version": "1.0",
+  "androidVersion": "7.0",
+  "androidVersionText": "7.0",
+  "description": "My 1099 Tax Helper is designed to help freelancers, independent contractors, and self-employed professionals manage 1099 income, track business expenses, and estimate taxes throughout the year.\n\n🎯 WHO IS THIS APP FOR?\n\nFreelancers and independent contractors\nGig workers (Uber, DoorDash, Upwork, Fiverr, etc.)\nSelf-employed professionals\nSmall business owners\nAnyone receiving income reported on 1099 forms\n\n📄 1099 FORMS GUIDE\n\nAccess structured guidance for obtaining common 1099 forms:\n\n1099-NEC\n1099-K\n1099-MISC\n1099-INT\n1099-DIV\n1099-G\n\nIncludes step-by-step instructions for retrieving tax documents from freelance platforms, rideshare and delivery services, payment processors, brokerage accounts, and financial institutions.\n\nUse the built-in checklist to track collected forms from multiple income sources and stay organized during tax season.\n\n🧮 1099 TAX CALCULATOR\n\nEstimate federal tax liability using calculators based on current tax brackets and self-employment tax rates.\n\nSimple Calculator\nEstimate based on total 1099 income\nApplies 2026 federal tax brackets\nCalculates self-employment tax (15.3%)\nDisplays estimated total tax due\nAdvanced Calculator\nDeduction tracking integration\nHome office deduction estimator\nVehicle mileage deduction (2026 IRS standard rate)\nEquipment and supply deductions\nRetirement contribution estimates\nHealth insurance deductions\nCategory-based expense inputs\nQuarterly Tax Estimator\nCalculate estimated quarterly tax payments\nTrack payment deadlines ("
+}

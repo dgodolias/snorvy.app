@@ -1,0 +1,2008 @@
+{
+  "app": "app.invoice_maker",
+  "country": "us",
+  "total_pulled": 200,
+  "total_after_filter": 200,
+  "reviews": [
+    {
+      "date": "2026-05-05T23:06:46.639Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Justin Holland",
+      "text": "easy to use",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=81f8243a-c2ac-46da-82f4-74340bccf140"
+    },
+    {
+      "date": "2026-05-04T20:09:24.885Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Tom Hayden",
+      "text": "perfect for occasional invoice",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=e5ee667d-bc02-4351-82cd-13154e1b1479"
+    },
+    {
+      "date": "2026-05-04T15:33:04.420Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "oscar gurrola",
+      "text": "very useful",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=66a8f436-aa33-4b87-b60d-f9cac761ef2e"
+    },
+    {
+      "date": "2026-05-04T10:57:38.124Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Chauncy Schlundt",
+      "text": "I've used a few invoice apps and this one IS the best. simple. efficient. quick.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=58459de5-3a6f-4728-8c4d-2e70782787de"
+    },
+    {
+      "date": "2026-05-03T11:30:18.812Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Johnny Kasinath",
+      "text": "very good",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=d4a87496-aa25-4b65-bf4f-669f58c5b74a"
+    },
+    {
+      "date": "2026-05-03T10:44:48.990Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Chris Parr",
+      "text": "highly recommend, great app and simple to use 👍",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=0c3d7347-16c1-47b9-b904-b990d088fc38"
+    },
+    {
+      "date": "2026-05-03T03:51:54.381Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Holly Field",
+      "text": "Simple, easy. looks great and efficient.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=8d8e6d11-5ea1-4304-84e8-84a7a33463e1"
+    },
+    {
+      "date": "2026-05-03T03:33:15.773Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Thomas Robinson",
+      "text": "so far this app has been really easy to use and hasn't charged for anything",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=44b83564-90f2-415d-abfd-70a3519c6145"
+    },
+    {
+      "date": "2026-05-02T21:12:28.403Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Mohammed Qasim",
+      "text": "great",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=cfe98c31-4861-41ec-8548-c4180e54c8b3"
+    },
+    {
+      "date": "2026-05-01T14:47:46.240Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "William Sutterfield",
+      "text": "love it",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=63fc3a2e-41e0-4e75-bc0c-9b146b3983ba"
+    },
+    {
+      "date": "2026-05-01T08:49:02.631Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Gina F",
+      "text": "easy app to use! love it.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=a0b60fc5-0a85-4a22-abb6-c9be7bfe1ceb"
+    },
+    {
+      "date": "2026-05-01T06:49:11.830Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Pierre Bilic",
+      "text": "very easy and heaps of features",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=32901f3d-9521-4815-bbd6-7172aab6049e"
+    },
+    {
+      "date": "2026-04-30T15:06:03.270Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Matthew Hajicek",
+      "text": "Great app is easy to use. I would highly recommend this free app.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=4453b47b-d888-422a-b33b-56ab42c33990"
+    },
+    {
+      "date": "2026-04-30T05:47:51.660Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "J Whyte",
+      "text": "Great app,easy to operate and send invoice",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=945815b9-47d5-4f1a-9d02-52e143522fc9"
+    },
+    {
+      "date": "2026-04-29T20:21:59.786Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "NicoTido T",
+      "text": "easy to use",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=e874248a-9057-4faa-b538-0b76045dc285"
+    },
+    {
+      "date": "2026-04-27T12:44:05.147Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Redo City",
+      "text": "Very useful",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=90ff2ba9-bbdf-435e-86f0-529bb6de5540"
+    },
+    {
+      "date": "2026-04-27T09:35:36.313Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Claudiu Dascalu",
+      "text": "really easy to use",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=d1c69f2f-b72c-4435-ae52-69ee5ae6cfdf"
+    },
+    {
+      "date": "2026-04-26T16:36:26.700Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Ashley Millar",
+      "text": "really easy to use 5☆",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=16567f08-dc86-40a8-b459-da60b78c175f"
+    },
+    {
+      "date": "2026-04-24T10:53:16.441Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "David Main",
+      "text": "easy and simple invoicing",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=cc586ff8-877c-40bd-9663-af621b35686d"
+    },
+    {
+      "date": "2026-04-24T00:08:24.516Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Erin Lagace",
+      "text": "simple and fast",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=0a980261-5503-499a-b30a-0723a202b374"
+    },
+    {
+      "date": "2026-04-23T14:26:21.230Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Wade Marriott",
+      "text": "clean efficient app",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=f63dc40c-6d30-4d18-89fb-ffeb8d78e87d"
+    },
+    {
+      "date": "2026-04-22T14:06:45.498Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Joe Clarke",
+      "text": "its good could be better like when sending invoices it could tell you when someone has read it but apart from that and sometimes it doesn't send like quotes I've done etc but its fairly easy to use and good",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=d2b276d2-1fad-4389-9d53-ebefd4fa3f8c"
+    },
+    {
+      "date": "2026-04-22T11:22:12.372Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Aaron Hood",
+      "text": "very good invoice app 😎",
+      "reply": "Hi Aaron,\nthank you so much for your review. We’re really glad to hear that you enjoy using our app - feedback like yours is truly motivating for our team. Wishing you continued success with your business.",
+      "replyDate": "2026-04-22T12:28:49.351Z",
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=6d51a6b2-db6b-4380-b01c-1b735b8065b4"
+    },
+    {
+      "date": "2026-04-21T12:36:23.667Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "david maxfield",
+      "text": "does the Job",
+      "reply": "Hi David,\nthank you for taking the time to leave a review. We’re delighted that the app works well for you, and your positive experience means a lot to us. All the best with your business moving forward.",
+      "replyDate": "2026-04-22T12:29:04.600Z",
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=d7bc9fda-ddc8-4ba0-95c3-234369e44572"
+    },
+    {
+      "date": "2026-04-20T01:58:19.533Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Ken Barlow",
+      "text": "I use this app like crazy and I love it.",
+      "reply": "Hi Ken,\nthank you for sharing your experience with us. We’re delighted to hear that the app has been helpful for your business. Your feedback truly motivates our team. Wishing you continued success ahead.",
+      "replyDate": "2026-04-22T12:29:48.545Z",
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=03284a9a-f7ab-4c36-9ced-cb88244b4918"
+    },
+    {
+      "date": "2026-04-19T23:00:19.921Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "dwowens123",
+      "text": "super easy",
+      "reply": "Hi there,\nthank you for your positive review. We’re glad to know you enjoy using our app and appreciate your support. All the best with your business.",
+      "replyDate": "2026-04-22T12:30:03.851Z",
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=47eeef17-8d85-4507-b247-cac650bc9c49"
+    },
+    {
+      "date": "2026-04-18T04:37:22.456Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Joe Thao",
+      "text": "its free. that's a win 5 Star",
+      "reply": "Hi Joe,\nthank you for taking the time to leave a review. We’re pleased to hear that the app meets your expectations. We wish you great success as your business grows.",
+      "replyDate": "2026-04-22T12:30:19.954Z",
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=3d794294-a74d-4f02-9da9-cf1af2c27986"
+    },
+    {
+      "date": "2026-04-17T18:58:39.638Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Dave Kull",
+      "text": "Does what it says it'll do so far? We'll see if I get any thing paid from using it.",
+      "reply": "Hi dave,\nthank you for your kind words. We’re happy to know the app is serving you well. Your feedback helps us continue improving. Wishing you all the best with your business.",
+      "replyDate": "2026-04-22T12:30:44.948Z",
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=e72852be-ee72-459f-a5a2-3319d5dc7c59"
+    },
+    {
+      "date": "2026-04-16T23:51:49.913Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Adam Nevzat",
+      "text": "rip off",
+      "reply": "Hi Adam,\n\nThank you for your feedback - we’re really sorry to hear about your experience. We appreciate your honesty, and we would certainly love to look into this further. Please email us at support@invoice-maker.app and request human assistance. We will get back to you with the next steps! Many thanks!",
+      "replyDate": "2026-04-22T12:31:52.148Z",
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=8c48ceef-da80-4a53-9b3f-ec0c89030de7"
+    },
+    {
+      "date": "2026-04-16T21:18:26.715Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Taco Ruiz",
+      "text": "it's great and easy to use. it is a great tool to keep paperwork in order and stock lists",
+      "reply": "Hi Taco,\nthank you so much for your review. We’re really glad to hear that you enjoy using our app - feedback like yours is truly motivating for our team. Wishing you continued success with your business.",
+      "replyDate": "2026-04-22T12:32:15.901Z",
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=82389f2f-08f8-4e25-867e-9fd095396077"
+    },
+    {
+      "date": "2026-04-15T17:02:05.300Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Tom Francis",
+      "text": "so far so good. easy to create an invoice. sends well. no complaints yet",
+      "reply": "Hi Tom,\nthank you for taking the time to leave a review. We’re delighted that the app works well for you, and your positive experience means a lot to us. All the best with your business moving forward.",
+      "replyDate": "2026-04-22T12:32:37.760Z",
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=e636f4c2-7b32-4180-b1e9-fa7b470cb401"
+    },
+    {
+      "date": "2026-04-15T02:58:10.595Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Theresa",
+      "text": "this app is the best",
+      "reply": "Hi Theresa,\nthank you for your kind review. We’re happy to hear you’re enjoying the app and wish you great success with your business.",
+      "replyDate": "2026-04-22T12:32:53.324Z",
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=6355b418-ba92-4232-9c0a-ebe8672890aa"
+    },
+    {
+      "date": "2026-04-13T00:36:02.744Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Timothy Couch",
+      "text": "Very easy to use and user friendly. I will recommend this to all who I know that needs an app like this for their business.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=036fd1ab-d40d-41c2-bc14-dd2e62a47451"
+    },
+    {
+      "date": "2026-04-11T10:24:00.350Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Gavin MacFadyen",
+      "text": "such an easy app to use",
+      "reply": "Hi Gavin,\nthank you for your positive review. We’re glad to know you enjoy using our app and appreciate your support. All the best with your business.",
+      "replyDate": "2026-04-22T12:33:28.788Z",
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=a24ec8ac-0a0a-4ab5-a025-e8abe5081ceb"
+    },
+    {
+      "date": "2026-04-09T15:06:00.506Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Mike Beckham",
+      "text": "Just started using , so far so good, pretty simple",
+      "reply": "Hi Mike,\nthank you for your review. It’s wonderful to hear that you enjoy using our app - feedback like yours inspires us to keep delivering a great experience. We wish you every success moving forward.",
+      "replyDate": "2026-04-22T12:34:42.422Z",
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=e929a653-2a4c-4d66-8a30-b6d2a7999c5e"
+    },
+    {
+      "date": "2026-04-09T08:29:03.169Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Sid The constructor",
+      "text": "easy to use",
+      "reply": "Hi Sid,\nthank you so much for your review. We’re really glad to hear that you enjoy using our app - feedback like yours is truly motivating for our team. Wishing you continued success with your business.",
+      "replyDate": "2026-04-22T12:35:02.713Z",
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=a49f6f0a-87a6-4730-bef7-99609289cc40"
+    },
+    {
+      "date": "2026-04-08T22:24:30.488Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "D J",
+      "text": "wonderful,easy to use",
+      "reply": "Hi DJ,\nthank you for taking the time to leave a review. We’re delighted that the app works well for you, and your positive experience means a lot to us. All the best with your business moving forward.",
+      "replyDate": "2026-04-22T12:35:16.525Z",
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=da428519-584e-4fe1-aaf1-d2e891792279"
+    },
+    {
+      "date": "2026-04-08T12:41:52.102Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Darren Rashbrook",
+      "text": "easy and free perfect.",
+      "reply": "Hi Darren,\nthank you for your kind review. We’re happy to hear you’re enjoying the app and wish you great success with your business.",
+      "replyDate": "2026-04-22T12:35:39.674Z",
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=db6319dd-34b5-4a53-90af-8f14661412ff"
+    },
+    {
+      "date": "2026-04-06T05:13:03.660Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Dylan Mester",
+      "text": "so good",
+      "reply": "Hi there, thank you for your review! We are pleased to hear that you’ve enjoyed it so far and we hope you continue to do so. Best wishes, Billdu Support Team",
+      "replyDate": "2026-04-06T12:55:35.697Z",
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=7e12021b-95e3-4dcd-a8c7-4ce610f1f6a6"
+    },
+    {
+      "date": "2026-04-06T03:48:16.200Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Eric Holland",
+      "text": "very easy to use and free is always best",
+      "reply": "Hi there, we are very appreciative of your review. Reading feedback such as yours makes us want to keep improving the service we offer. We hope you continue using our app going forward! Billdu Support Team",
+      "replyDate": "2026-04-06T12:56:11.566Z",
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=757c73d4-149a-4665-8c89-e80cc1997164"
+    },
+    {
+      "date": "2026-04-04T06:57:41.624Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Algis Pavlovskis",
+      "text": "super",
+      "reply": "Hi Algis, many thanks for your review. Receiving feedback such as yours makes us want to keep providing as well as improving the service we offer. We hope you continue using our app going forward! Billdu Support Team",
+      "replyDate": "2026-04-06T12:56:51.200Z",
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=b16dcc72-df04-4fad-8164-c1916abea646"
+    },
+    {
+      "date": "2026-04-02T19:42:59.486Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Waqas Sohail",
+      "text": "easy, simple, and free nothing what more could you ask for",
+      "reply": "Hi there, we really appreciate your review. Reading feedback such as yours makes us want to keep improving the service we offer. We hope you continue using our app going forward! Billdu Support Team",
+      "replyDate": "2026-04-06T13:00:05.616Z",
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=c35cc80f-3c28-4c6c-b737-b1edc98f46de"
+    },
+    {
+      "date": "2026-03-31T16:50:58.615Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Sara Nugent",
+      "text": "Easy to use",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=e5801199-14fc-4898-b311-b6b5025f278b"
+    },
+    {
+      "date": "2026-03-30T19:08:10.495Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Chad Boyce",
+      "text": "works great",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=db132042-6ff9-440e-947f-bfb801650e35"
+    },
+    {
+      "date": "2026-03-30T12:10:55.520Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Pierre",
+      "text": "Seems really easy to use, happy so far",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=36545784-2f78-41be-a880-6036568687fb"
+    },
+    {
+      "date": "2026-03-28T16:50:30.339Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Daryl Wilsdon",
+      "text": "Great app easy to use 👍",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=5cee44ea-4fde-4d94-ac71-abf7da5becba"
+    },
+    {
+      "date": "2026-03-28T01:01:12.482Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Lee Black",
+      "text": "I love how simple it is.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=adf9f1d9-7cbb-4028-a63f-658b629c9ee5"
+    },
+    {
+      "date": "2026-03-26T23:22:50.655Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Markes Marker",
+      "text": "very easy and fast to use",
+      "reply": "Hi there, we are very appreciative of your review. Reading feedback such as yours makes us want to keep improving the service we offer. We hope you continue using our app going forward! Billdu Support Team",
+      "replyDate": "2026-03-27T14:51:32.625Z",
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=fdb0d3bb-cabc-48f8-9305-d686f9f39476"
+    },
+    {
+      "date": "2026-03-24T04:34:00.505Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Daniel Castaneda",
+      "text": "good app",
+      "reply": "Hi there, we are very appreciative of your review. Reading feedback such as yours makes us want to keep improving the service we offer. We hope you continue using our app going forward! Billdu Support Team",
+      "replyDate": "2026-03-27T14:52:50.500Z",
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=6d221c36-4789-4d94-a52b-b88f389cf474"
+    },
+    {
+      "date": "2026-03-23T19:53:28.301Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Eric Olson",
+      "text": "This app has been great for my needs of starting a one man business. The features and functionality have been what I needed. Only downside is the amount charged to have unlimited use.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=1372b405-bd12-4e6f-a187-a85fedebd46f"
+    },
+    {
+      "date": "2026-03-23T08:13:21.169Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "usman khan",
+      "text": "its free guys and easy to use.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=3a874ea5-5a38-4fba-a748-e20f0af68176"
+    },
+    {
+      "date": "2026-03-22T13:46:57.400Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Josh Coughlan",
+      "text": "very easy to use 👌",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=03138d9b-8264-4608-8d15-3d3b24f423de"
+    },
+    {
+      "date": "2026-03-20T14:35:25.964Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "EJ Vanlandingham",
+      "text": "easy to use for a first timer. easy to set up",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=f7d29770-5c39-4434-9f38-0159802a5722"
+    },
+    {
+      "date": "2026-03-20T07:23:40.759Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Marvin Inniss",
+      "text": "Makes invoicing easy",
+      "reply": "Hi there, Marvin,\n\nMany thanks for choosing to review our app. We are pleased to hear that you’ve enjoyed it so far. We would love it if you continued using it for your business needs. Best wishes",
+      "replyDate": "2026-03-20T14:12:48.922Z",
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=a7644713-b82f-4639-a7ab-7f04c7b08ffe"
+    },
+    {
+      "date": "2026-03-20T04:00:54.990Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Renee Toner",
+      "text": "amazing! so far i have nothing negative to say, easy to use, sends the invoices. keeps track of everything. I love it!",
+      "reply": "Hi there, Renee,\n\nThank you for your review. We’re so happy to hear you enjoy using our app. We find this to be very motivating. We wish you all the best with your business going forward! Thanks",
+      "replyDate": "2026-03-20T14:12:23.255Z",
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=3a089f1d-da0c-4ba7-85ca-688bb9162297"
+    },
+    {
+      "date": "2026-03-18T23:48:18.738Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "Johnson SHAKUR",
+      "text": "nice",
+      "reply": "Hi Johnson,\n\nWe are very appreciative of your review. Reading feedback such as yours makes us want to keep improving the service we offer. We hope you continue using our app going forward!",
+      "replyDate": "2026-03-20T14:11:58.148Z",
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=196d79c9-c8ae-4b15-8bce-13ac34de5e24"
+    },
+    {
+      "date": "2026-03-17T16:46:06.926Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Jamal Andrews",
+      "text": "the app for business purposes",
+      "reply": "Hi Jamal,\n\nMany thanks for choosing to review our app. We are pleased to hear that you’ve enjoyed it so far. We would love it if you continued using it for your business needs. Best wishes",
+      "replyDate": "2026-03-20T14:11:20.576Z",
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=9056c03b-de2e-439f-a650-6f9449c0182c"
+    },
+    {
+      "date": "2026-03-17T01:57:06.848Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Denise Pillow",
+      "text": "Easy to use",
+      "reply": "Hi there, Denise,\n\nThank you for your review. We’re so happy to hear you enjoy using our app. We find this to be very motivating. We wish you all the best with your business going forward! Thank you",
+      "replyDate": "2026-03-20T14:10:48.467Z",
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=00211cc5-767b-4149-a747-ae7ae290df90"
+    },
+    {
+      "date": "2026-03-16T22:21:25.566Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Flavio Coimbra",
+      "text": "very friendly app easy to use and send",
+      "reply": "Hi Flavio,\n\nWe are very appreciative of your review. Reading feedback such as yours makes us want to keep improving the service we offer. We hope you continue using our app going forward!",
+      "replyDate": "2026-03-20T14:09:50.585Z",
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=9c13fa94-6038-4f65-8bed-3595505db68b"
+    },
+    {
+      "date": "2026-03-16T22:02:45.274Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "chainsaw Oz",
+      "text": "works for me. very easy, and it's free.",
+      "reply": "Hi there,\n\nThank you for your review. We’re so happy to hear you enjoy using our app. We find this to be very motivating. We wish you all the best with your business going forward! Thanks a lot.",
+      "replyDate": "2026-03-20T14:09:22.182Z",
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=2432dd4c-a8b6-4a7b-95ea-916f6ded0258"
+    },
+    {
+      "date": "2026-03-16T08:32:53.737Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Paul Rowe",
+      "text": "easy to use and professional",
+      "reply": "Hi Paul,\n\nMany thanks for choosing to review our app. We are pleased to hear that you’ve enjoyed it so far. We would love it if you continued using it for your business needs. Best wishes",
+      "replyDate": "2026-03-20T14:08:27.163Z",
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=08064b9b-fd8f-4bf6-b38e-4d3f6819b42f"
+    },
+    {
+      "date": "2026-03-16T05:22:00.164Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Enrique Paulin",
+      "text": "easy to use",
+      "reply": "Hi there, Enrique,\n\nThank you for your review. We’re so happy to hear you enjoy using our app. We find this to be very motivating. We wish you all the best with your business going forward! Best wishes",
+      "replyDate": "2026-03-20T14:08:04.206Z",
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=c5439633-1b2b-484f-8063-5c39693007c9"
+    },
+    {
+      "date": "2026-03-15T17:53:31.840Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Shawn Adams",
+      "text": "good app",
+      "reply": "Hi Shawn,\n\nMany thanks for choosing to review our app. We are pleased to hear that you’ve enjoyed it so far. We would love it if you continued using it for your business needs. Best wishes",
+      "replyDate": "2026-03-20T14:07:20.770Z",
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=5a1b72e8-6d52-4af8-b6cb-3249b87526eb"
+    },
+    {
+      "date": "2026-03-15T03:34:58.183Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Craig Parminter",
+      "text": "I'd be lost without this app. absolutely love it",
+      "reply": "Hi Craig,\n\nWe are very appreciative of your review. Reading feedback such as yours makes us want to keep improving the service we offer. We hope you continue using our app going forward!",
+      "replyDate": "2026-03-20T14:06:53.620Z",
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=370a76fc-78e0-4564-a4d0-9ddc3f6e57d1"
+    },
+    {
+      "date": "2026-03-15T01:28:15.689Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Luke Chadwick",
+      "text": "brilliant app, clear and easy to use. and I can have all my invoices in one place ready for my tax return.",
+      "reply": "Hi there, Luke,\n\nMany thanks for choosing to review our app. We are pleased to hear that you’ve enjoyed it so far. We would love it if you continued using it for your business needs. Best wishes",
+      "replyDate": "2026-03-20T14:06:25.580Z",
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=8e4c5c6f-1b80-4c99-b06d-db0754a1cf23"
+    },
+    {
+      "date": "2026-03-14T02:45:52.470Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Mario Jimenez",
+      "text": "free and easy to use ! very helpful tool for a contractor 👌🏼",
+      "reply": "Hi Mario,\n\nThank you for your review. We’re so happy to hear you enjoy using our app. We find this to be very motivating. We wish you all the best with your business going forward! Thanks",
+      "replyDate": "2026-03-20T14:05:52.590Z",
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=d0325168-2874-45d1-a2b2-91686c6f2cd5"
+    },
+    {
+      "date": "2026-03-13T20:44:52.759Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Nick Brand",
+      "text": "claims it is free but only let's you make 5 invoices/estimates per year for free.",
+      "reply": "Hi there Nick, we're sorry our pricing caused disappointment, but we appreciate that you took some time to share your feedback with us.",
+      "replyDate": "2026-03-20T14:05:19.300Z",
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=e83ca736-1dda-4cd7-8c14-08db916589f3"
+    },
+    {
+      "date": "2026-03-13T02:23:31.750Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Martha Arias",
+      "text": "is very good I recommend 👌",
+      "reply": "Hi there,\n\nMany thanks for choosing to review our app. We are pleased to hear that you’ve enjoyed it so far. We would love it if you continued using it for your business needs. Best wishes, Billdu Support Team",
+      "replyDate": "2026-03-13T15:22:14.152Z",
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=f634ab6a-9aad-49ad-bdde-eeac5bc43388"
+    },
+    {
+      "date": "2026-03-10T16:13:02.457Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "David Bonner",
+      "text": "easy to use",
+      "reply": "Hi David,\n\nWe are very appreciative of your review. Reading feedback such as yours makes us want to keep improving the service we offer. We hope you continue using our app going forward - if you have any suggestions, we would love to hear your feedback at reviews@billdu.com! Billdu Support Team",
+      "replyDate": "2026-03-13T15:23:08.995Z",
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=964d3e84-bc64-42b0-ae9f-c838db6f3447"
+    },
+    {
+      "date": "2026-03-06T21:57:50.877Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "J K",
+      "text": "Easy to use. All the features i needed. Great app.",
+      "reply": "Hi there, many thanks for taking the time to review our app. We are pleased to hear that you’ve enjoyed it! We would love it if you continued using it for your business needs. Best wishes, Billdu Support Team",
+      "replyDate": "2026-03-13T15:25:09.281Z",
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=b9ab0b56-6f09-4ac9-85a3-2e4f523dc36f"
+    },
+    {
+      "date": "2026-03-06T14:20:37.456Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Billy Cut",
+      "text": "best invoice app",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=dcca8124-cb2d-4610-8e0a-fd7828da2a42"
+    },
+    {
+      "date": "2026-03-06T06:09:22.113Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Nail “Hammer” Opoz",
+      "text": "best app u can get ✨️✨️✨️✨️✨️",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=60764eaf-544d-4c15-9fc6-732e6777f77e"
+    },
+    {
+      "date": "2026-03-05T22:12:05.863Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "T R",
+      "text": "great app",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=d8d9a0a0-d414-4a9a-9d5c-d68e6cf4bf5b"
+    },
+    {
+      "date": "2026-03-05T18:30:11.319Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Sara Nova",
+      "text": "ran into some basic problems right away that don't make it that functional. just in adding the logo for my business it wouldn't allow me to proceed from that point there's also not fields for descriptors for certain services and SKU numbers or short-term indicators so that you can look things up more effectively uninstalled",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=b9dedad9-b19a-4363-b999-ce9d27bccec7"
+    },
+    {
+      "date": "2026-03-05T15:45:25.685Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Donny Eackles",
+      "text": "so far the app is good simple and very convenient I like it",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=177fc105-a416-4481-8b64-8d4aadedded2"
+    },
+    {
+      "date": "2026-03-03T01:22:53.890Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "John Lankford",
+      "text": "love it",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=0c4835db-d77d-40a7-aa0c-7e097541405e"
+    },
+    {
+      "date": "2026-03-02T19:12:26.419Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "myki ngangue",
+      "text": "pretty straight easy",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=f9238a69-fe13-46de-8f09-032bd5e767b5"
+    },
+    {
+      "date": "2026-03-02T08:09:51.702Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Nolan",
+      "text": "Quick, easy, and sufficient",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=d98d4bd2-1d13-4521-ac8b-dba161a58be6"
+    },
+    {
+      "date": "2026-02-27T18:37:59.851Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Tenesia Williams",
+      "text": "Very easy to use",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=42412c6b-e32c-476c-8cd2-d4e0f89a2e5d"
+    },
+    {
+      "date": "2026-02-27T17:41:46.268Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Kevin MacPherson",
+      "text": "not free..",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=0e47c021-ea89-4126-8f65-c13c17cb75ce"
+    },
+    {
+      "date": "2026-02-26T22:58:26.123Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "GARAE PROJECT Production",
+      "text": "very helpful and handy",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=0c3fad81-27c8-4fcf-af58-500702653a3c"
+    },
+    {
+      "date": "2026-02-26T22:02:23.167Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Dan Bacon",
+      "text": "easy to use",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=16a63097-5b23-4807-9018-e754c7a0f92c"
+    },
+    {
+      "date": "2026-02-26T16:09:15.130Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Michael",
+      "text": "very easy to navigate",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=db68351e-37bc-45bb-9f37-dd161efe6015"
+    },
+    {
+      "date": "2026-02-26T14:24:26.470Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "Kevon k Gordon",
+      "text": "very user-friendly",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=85d93d7a-db45-4329-aa09-8149bf440c41"
+    },
+    {
+      "date": "2026-02-24T12:36:26.118Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Marla Yoder",
+      "text": "easy to use",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=cc1de39a-b626-41ed-9e73-284a42645044"
+    },
+    {
+      "date": "2026-02-24T11:39:58.176Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Jannelle Spencer",
+      "text": "This app is very efficient in sending recurring invoices. It really is very easy to use. Kudos to the developers for such a useful tool.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=115b4e5c-8998-495a-a98a-931bdff6add4"
+    },
+    {
+      "date": "2026-02-24T09:13:39.556Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Paul Gallagher",
+      "text": "plain simple does what I want to do with no fuss",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=d2d6dd99-758f-4a37-a959-4b41e5f75667"
+    },
+    {
+      "date": "2026-02-24T04:33:54.623Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Kathryn Patterson",
+      "text": "Free and easy to use. Thank you!!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=ddec228d-df15-4c4d-bb5c-ec3f0de90689"
+    },
+    {
+      "date": "2026-02-23T15:56:45.876Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "ricardo simpson",
+      "text": "its easy to use great app",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=af97aedf-d57d-46c9-bbf3-bf1f8386c0ca"
+    },
+    {
+      "date": "2026-02-23T15:16:52.667Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Rowan James",
+      "text": "I like this so far.. done three invoices.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=c09a74e9-0dd7-4756-82c0-86f71bdd8ce5"
+    },
+    {
+      "date": "2026-02-23T05:08:59.276Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Mike Alexander",
+      "text": "awesome 👌",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=0503ce5c-e3aa-47b0-a394-0b236a282185"
+    },
+    {
+      "date": "2026-02-22T18:10:58.814Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Philip Thomson",
+      "text": "easy simple and free",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=a5d98193-6b64-4e29-998e-f894e21b9660"
+    },
+    {
+      "date": "2026-02-22T14:03:52.924Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Tasha",
+      "text": "easy to use and send as any attachment i love this app",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=8e2748b5-18f4-4d77-8cf7-5c0ebe2edd61"
+    },
+    {
+      "date": "2026-02-22T04:22:01.667Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Brian Jones",
+      "text": "nice",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=2442c90a-6dc5-4438-bab4-3906e5a5b673"
+    },
+    {
+      "date": "2026-02-21T23:13:06.864Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Antonio Vargas",
+      "text": "nice app",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=a5754417-6b6f-4883-8d64-dc7aeb078d6f"
+    },
+    {
+      "date": "2026-02-21T06:14:53.658Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Putere Whiunui Wirihana",
+      "text": "easy as",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=74bfdb02-20c6-4553-acdf-0837937a95d3"
+    },
+    {
+      "date": "2026-02-21T04:39:39.255Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "L Gansbauer",
+      "text": "very useful",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=354fbe16-04f1-4e09-b6ea-828a66121018"
+    },
+    {
+      "date": "2026-02-20T20:18:58.577Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Sabrina Hales",
+      "text": "I'm a small business and this works great for me",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=52b05778-caf5-465e-84c3-bc28ec545f21"
+    },
+    {
+      "date": "2026-02-20T15:15:08.840Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Lee Duxbury",
+      "text": "love it, really easy to use",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=aa748eb5-2772-490d-8847-2f1736a3a2fe"
+    },
+    {
+      "date": "2026-02-19T02:08:42.977Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Jessica Triplett",
+      "text": "fantastic!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=e30fb77e-029e-4742-a04c-6773d6baeea1"
+    },
+    {
+      "date": "2026-02-19T01:52:36.138Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Albertina Uiras",
+      "text": "Best friend Ever.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=819aceea-5bed-4391-9c7e-1719cc87302c"
+    },
+    {
+      "date": "2026-02-18T08:12:31.731Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Izar Hardian",
+      "text": "very good app",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=c31ea5b6-10af-4953-bf4a-df17d69fee41"
+    },
+    {
+      "date": "2026-02-17T22:15:58.775Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Justin Arnold",
+      "text": "it works great",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=5ad315ed-c9d2-4d79-9099-95c6398b1012"
+    },
+    {
+      "date": "2026-02-17T15:27:52.549Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "carlos richards",
+      "text": "love it .",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=0b2b1f39-71f7-4e9b-9d1b-30f76cb4a2da"
+    },
+    {
+      "date": "2026-02-17T12:11:07.380Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Gary Waters",
+      "text": "-great app easy to use. /",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=849b467b-dd80-40d1-9ca8-547e98ef875b"
+    },
+    {
+      "date": "2026-02-17T07:21:31.104Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Wade B",
+      "text": "Great app, very easy to use",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=792e7d87-cca7-4b53-872e-1ccdbc9551bc"
+    },
+    {
+      "date": "2026-02-16T20:56:46.315Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Los Angeles 503",
+      "text": "the best",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=3e5fb846-59b1-4f07-bf01-1ba14738a3f7"
+    },
+    {
+      "date": "2026-02-16T13:11:54.890Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Blake Bailey",
+      "text": "3 invoices for free and simple to use. so far, so good!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=c3632440-f8b3-44e1-8c0f-fb1f1492381b"
+    },
+    {
+      "date": "2026-02-16T05:14:51.982Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Michael Ladd",
+      "text": "very easy to use and get small invoices out quickly",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=22f301b4-6eb8-4517-9bde-f4612d708fc5"
+    },
+    {
+      "date": "2026-02-16T00:21:47.836Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Lady Lyn Valentin",
+      "text": "perfect apps",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=301e132f-2f3c-4c59-9c14-3857bbba7d24"
+    },
+    {
+      "date": "2026-02-15T07:35:50.781Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Jordan Thomas",
+      "text": "fantastic app, so easy to use",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=efc879e7-ae85-4191-b138-2f5a2bf22cfd"
+    },
+    {
+      "date": "2026-02-15T07:24:05.934Z",
+      "score": 5,
+      "thumbsUp": 5,
+      "user": "Babar Ul Zaman",
+      "text": "very Nice and very easy to use. only Bad thing is after a year you have to Pay for Use rest is V nice and professional invoice Making app is. full recommended. I my opinion just for making invoices need to be free forever.. for other accountability they charge is fine but for invoicing at least they have to set it free. thanks",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=b3076df8-d9eb-4c54-b992-55ba10b86bf3"
+    },
+    {
+      "date": "2026-02-15T02:59:10.248Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "dan walters",
+      "text": "excellent",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=786d1895-0212-4bf9-98c6-b9e3f026bdc9"
+    },
+    {
+      "date": "2026-02-14T03:58:10.770Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Fiona Rewiri",
+      "text": "learning is easy",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=fc53bcc2-7fb0-4d3d-91bc-6c02b432dd83"
+    },
+    {
+      "date": "2026-02-13T21:05:41.584Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Faith Wilkes",
+      "text": "fairly easy to do compared to others I've tried",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=db3406ed-4a09-4ec0-8008-89b1a84502e1"
+    },
+    {
+      "date": "2026-02-13T20:45:26.549Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Gerald Weatherspoon",
+      "text": "great",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=a06be085-c779-4513-80f5-2d946509cbd5"
+    },
+    {
+      "date": "2026-02-13T20:35:27.980Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "David",
+      "text": "I love this app already",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=612fdd40-4c97-431f-81e1-710c4adfcf5e"
+    },
+    {
+      "date": "2026-02-12T21:09:20.625Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Jascha Dibango",
+      "text": "Very user friendly and straightforward, game changer for sure 😊",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=275e2979-d3d9-46dd-9555-0b62dda50d6d"
+    },
+    {
+      "date": "2026-02-10T05:10:46.191Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Battist Pearson",
+      "text": "wonderful great opportunity",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=9916560e-156c-40f7-80e6-c848fcbe5064"
+    },
+    {
+      "date": "2026-02-09T20:18:44.864Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Daniel White",
+      "text": "Very user friendly, professional look",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=af1e654f-c1dc-45fb-bc5d-e180f73b0dac"
+    },
+    {
+      "date": "2026-02-08T12:23:32.422Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "A Google user",
+      "text": "Very easy to use love it thanks",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=9ce37d24-8f60-43ff-ac55-1662b7eba30e"
+    },
+    {
+      "date": "2026-02-04T18:07:18.376Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Lorraine P",
+      "text": "so far this app is amazing and it is free. best invoice app I have used so far",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=dd132ab2-795d-4994-abac-59ab4b23521e"
+    },
+    {
+      "date": "2026-02-02T23:39:46.657Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Kym Brewer",
+      "text": "so far so good thanks 😊",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=fdb4b7ba-801b-4c0e-8738-e15f2c3a9f25"
+    },
+    {
+      "date": "2026-02-02T01:01:17.357Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Sam Bernardo",
+      "text": "great app.. easy to use",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=80d5959c-df01-4897-962b-4cd175c98993"
+    },
+    {
+      "date": "2026-02-01T17:30:00.404Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "rebekah magee",
+      "text": "easy to use and straight forward",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=4b62b3b6-b2c3-4fa1-8231-fcde6a94cf0f"
+    },
+    {
+      "date": "2026-02-01T17:12:21.993Z",
+      "score": 5,
+      "thumbsUp": 5,
+      "user": "Keith Clark",
+      "text": "awesome works so far every time and is actually free like it says where as most of the others I've tried give you like 1or2 free invoices then want you to pay them to do anymore",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=340020d4-5135-4102-8c63-6b1c63cdc7cf"
+    },
+    {
+      "date": "2026-02-01T10:19:01.538Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Dave Ellis",
+      "text": "could not ask for better",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=5300429f-dd29-425a-8518-aa6c403f8abf"
+    },
+    {
+      "date": "2026-02-01T09:30:20.499Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Rob Irwin",
+      "text": "fantastic app",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=62485d2b-f9d6-4dd2-ac1c-d8938930f895"
+    },
+    {
+      "date": "2026-01-29T17:18:08.865Z",
+      "score": 1,
+      "thumbsUp": 10,
+      "user": "Ian Palmer",
+      "text": "I had a five-star review up until I hit 11 invoices & they told me I would have to pay $100 a year to keep using it. bye",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=a5f9c71c-3f38-48ea-845c-7e47730523ad"
+    },
+    {
+      "date": "2026-01-29T04:37:37.795Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Michelle Dundas",
+      "text": "works great have no issue using it",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=373198cf-6dea-4329-841f-a686fcaecf8b"
+    },
+    {
+      "date": "2026-01-28T16:49:07.141Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Gunner Bradford",
+      "text": "awesome app!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=74ea5afe-50b9-40f2-b6a8-38b37a016621"
+    },
+    {
+      "date": "2026-01-26T17:54:24.200Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Adrian BUTAJLO",
+      "text": "Nice thanks",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=1efdde4f-0821-4704-8502-160e8e56175d"
+    },
+    {
+      "date": "2026-01-25T03:01:02.382Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Debbie Blyth",
+      "text": "easy to use. makes things simple. love this app",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=732f24a9-8601-44cd-ac74-963d5a51b325"
+    },
+    {
+      "date": "2026-01-24T20:58:18.475Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Michael Agyapong",
+      "text": "very helpful and does the job",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=a8fe415a-a0d7-4034-b203-89149ebe2160"
+    },
+    {
+      "date": "2026-01-24T14:10:19.413Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Catrina Parkinson",
+      "text": "Excellent",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=92f44fd1-26e0-4e1f-bd77-52ca32b04503"
+    },
+    {
+      "date": "2026-01-23T18:32:00.465Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Hugo Monroy",
+      "text": "is perfect app",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=a9520c96-2a04-400c-8434-24646870aa84"
+    },
+    {
+      "date": "2026-01-23T01:09:51.960Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Joshua Kelly",
+      "text": "awesome",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=b5124f72-9989-4409-af97-c4bc76a8235d"
+    },
+    {
+      "date": "2026-01-21T21:09:42.609Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "dwayne craig",
+      "text": "exceptional app and very easy to use.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=d3c3641e-e254-4c8f-922d-f6cb60bab7e0"
+    },
+    {
+      "date": "2026-01-21T20:51:01.512Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "LEHIGHAVE26",
+      "text": "meets my needs",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=909c851f-fa06-46c2-99da-23908d8863a3"
+    },
+    {
+      "date": "2026-01-20T21:23:05.212Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Andrew Longoria",
+      "text": "pretty easy app to work with",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=63beef43-06df-46ab-8d6c-c5297ec5b211"
+    },
+    {
+      "date": "2026-01-20T14:40:14.470Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Jamie Scott",
+      "text": "very easy to use",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=22d10f09-04f7-4596-a0ae-b42303a1b29d"
+    },
+    {
+      "date": "2026-01-18T19:33:16.739Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Starkeys AutoLocksmith",
+      "text": "nice app",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=f7a2e5d3-73c7-49d4-9dbd-18e4be3fa20c"
+    },
+    {
+      "date": "2026-01-18T15:25:09.520Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Ivaylo Vasilev",
+      "text": "Great app! Recommend!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=a92af7bb-3bc7-4aaa-a60a-1ed6fb2520ed"
+    },
+    {
+      "date": "2026-01-17T16:37:27.638Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "Yuri Peart",
+      "text": "very useful. it's cheap and easy to use. can't go wrong with this one. forget Quickbooks, I switched and my customers like this better.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=ede64e47-24d7-4f20-8575-8baf2629ba0a"
+    },
+    {
+      "date": "2026-01-16T20:16:46.550Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "omar dz",
+      "text": "love the app make my invoices easy to deliver great app",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=1d5a9c39-d757-48c9-893b-bac3a98744ef"
+    },
+    {
+      "date": "2026-01-16T14:40:54.853Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Sean Woody ONeill",
+      "text": "simple and useful",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=09f811bc-9bae-46d6-a3e9-ecbb2f8aa25d"
+    },
+    {
+      "date": "2026-01-16T12:13:36.509Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Jake",
+      "text": "nice app",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=42f1793f-420c-4a91-b77c-6724427c2f65"
+    },
+    {
+      "date": "2026-01-16T04:00:44.471Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Shirls Mousley",
+      "text": "easy to use love it",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=346b7baa-cf97-4b35-b5c2-2ff21d30cff7"
+    },
+    {
+      "date": "2026-01-15T23:40:05.693Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "The president",
+      "text": "Super easy and direct to use.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=eb4a3f60-7c80-43f4-9056-214f0bc91bf1"
+    },
+    {
+      "date": "2026-01-15T20:21:10.390Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Ian Geddes",
+      "text": "seems really good up to now",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=e720ee84-d585-4d6c-8f9d-8ff4f9a554c7"
+    },
+    {
+      "date": "2026-01-15T16:16:32.305Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Matt North",
+      "text": "it's not free, asks for a yearly subscription",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=f8029e3d-6208-482f-ab83-c504c3adc259"
+    },
+    {
+      "date": "2026-01-15T16:03:23.381Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Don",
+      "text": "App is NOT free. they want $50 to be able to do 3 invoices per month. What a joke.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=d575a367-2b46-4eef-9f9a-f890ca92062e"
+    },
+    {
+      "date": "2026-01-14T07:39:34.574Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Jonathan",
+      "text": "Easy to use atm it's free so that's great",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=b1386386-0eea-43aa-9c45-f963810d8bab"
+    },
+    {
+      "date": "2026-01-14T07:33:34.769Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Monica Romero",
+      "text": "easy free and I love it",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=ae0c66e8-f5d3-45b5-a533-2d9d40bb5c76"
+    },
+    {
+      "date": "2026-01-14T06:22:14.364Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Stephen Betteridge",
+      "text": "Brilliant",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=b2586b92-62c1-4bcb-88b4-3b09d5f7f839"
+    },
+    {
+      "date": "2026-01-13T20:18:32.976Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Troy Ralph",
+      "text": "awesome",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=4340241a-2ac2-4cb0-85b3-ceaaf7e0bece"
+    },
+    {
+      "date": "2026-01-13T11:25:08.552Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Gregor",
+      "text": "really easy to use, this app is perfect for what I need 😘",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=92cb0b01-070d-4fc5-a075-135993608055"
+    },
+    {
+      "date": "2026-01-13T00:00:32.165Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Brio Cerda",
+      "text": "I love it made my job easier",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=d6bfc51a-cdaf-4c6a-a428-77ca884c98f1"
+    },
+    {
+      "date": "2026-01-09T23:17:08.179Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Kelvins Towing",
+      "text": "love it!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=422e0b6e-649f-4cd7-a993-3816e6ac30c4"
+    },
+    {
+      "date": "2026-01-08T17:07:26.993Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Chris",
+      "text": "It does what I need it to do for my side jobs",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=7351f64f-c9a2-4935-ad6c-71f7af4da4da"
+    },
+    {
+      "date": "2026-01-08T15:44:10.401Z",
+      "score": 1,
+      "thumbsUp": 5,
+      "user": "jayce williams",
+      "text": "Claims to be \"free\" and used to be free. now it only allows \"5 Invoices a year\" for their \"free plan\" what a total scam.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=ae36e6df-272a-4867-a178-6ca9f096235a"
+    },
+    {
+      "date": "2026-01-07T18:38:03.934Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Emma Lewis",
+      "text": "very easy to use",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=280d6f06-ec8f-4623-bd2a-5b804d331168"
+    },
+    {
+      "date": "2026-01-07T01:03:12.642Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Thomas J Bowers Sr",
+      "text": "love this application.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=733d1c3b-6e3b-4f0d-a4b3-870170888f75"
+    },
+    {
+      "date": "2026-01-06T20:22:26.695Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "luis gonzalez",
+      "text": "waoooòoo this is the best app for invoice gives you 1 year free",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=9a324902-51a8-495a-99f5-52b4344efa09"
+    },
+    {
+      "date": "2026-01-06T15:25:54.210Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Jamy Lopez",
+      "text": "Super easy to use and attach pictures",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=ba2aa03a-5f7a-4648-890a-3fe16d92f8a3"
+    },
+    {
+      "date": "2026-01-06T14:29:24.687Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Ken Tschetter",
+      "text": "awesome. very handy and quick.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=e5d0b6f0-fa0e-458a-86cd-7c1b23ff38e7"
+    },
+    {
+      "date": "2026-01-05T22:32:53.957Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Joseph Alampi",
+      "text": "it's really good simple",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=96b7b790-e504-4cbe-a7c8-d22685b0b34a"
+    },
+    {
+      "date": "2026-01-05T07:11:13.115Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Gilberto Fraticelli",
+      "text": "used it twice love",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=6386e23c-823a-4e0d-b087-6856f5935e5a"
+    },
+    {
+      "date": "2026-01-03T22:29:23.666Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Paul Watkins",
+      "text": "easyish to use",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=461d354e-f48f-4eec-b50a-0fec868b6558"
+    },
+    {
+      "date": "2026-01-02T17:28:24.689Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Tyler Wheeler",
+      "text": "awesome app!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=919a5498-2052-4c92-82e8-b950f2449929"
+    },
+    {
+      "date": "2026-01-02T02:14:44.279Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Michael Raymond",
+      "text": "wonderful app recommended to anybody",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=06b1b214-af5d-4f61-b69c-f490145674ff"
+    },
+    {
+      "date": "2025-12-26T08:15:10.515Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Kent",
+      "text": "great app",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=302b5d14-a0bf-49c2-8114-310b518530d7"
+    },
+    {
+      "date": "2025-12-23T22:27:19.196Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Big Coach (Coach)",
+      "text": "love this invoice msker",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=c7aa911f-1c8b-4593-b837-8b33e0bffd31"
+    },
+    {
+      "date": "2025-12-23T12:03:11.160Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "kieran hebblewhite",
+      "text": "great app for business if your a small business and can't afford a invoice app 1000% recommend works perfect and awesome set up",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=87b25203-a2da-4488-ac33-96c43f489002"
+    },
+    {
+      "date": "2025-12-23T01:32:04.119Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Terry C",
+      "text": "simple and easy to use",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=c70db356-5d63-4c71-ba13-eddaa9f6d833"
+    },
+    {
+      "date": "2025-12-22T23:59:44.540Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Mark",
+      "text": "simple easy Nothing more nothing less needed.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=d170b5d3-498c-472b-8a7e-4043d3628b98"
+    },
+    {
+      "date": "2025-12-22T21:27:30.510Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Benjamin Richard Holmes",
+      "text": "so far great free app",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=5f499182-c730-4f3b-8fd0-298333323355"
+    },
+    {
+      "date": "2025-12-21T23:09:18.880Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Bryan Wingate",
+      "text": "amazing app",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=5af27547-d8c6-453b-a986-3609fdfd417b"
+    },
+    {
+      "date": "2025-12-19T22:52:22.845Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Ryan Moore",
+      "text": "easy to use",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=a95a6671-3fd2-4a11-b674-f443720ce3c4"
+    },
+    {
+      "date": "2025-12-19T17:00:42.220Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Eli Lucero",
+      "text": "great",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=38d27f05-cd7b-48b5-a565-158504861cfa"
+    },
+    {
+      "date": "2025-12-19T13:06:11.613Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Colin Till",
+      "text": "So far so good",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=f0ae4ea3-80ef-46f0-a37a-a68523622821"
+    },
+    {
+      "date": "2025-12-18T17:48:51.380Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Linda Johnson",
+      "text": "I highly recommend this invoice maker",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=d9174288-5158-4e50-966b-d01a57932ad1"
+    },
+    {
+      "date": "2025-12-16T23:49:02.966Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Nelson Rodriguez",
+      "text": "so far works great",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=0b3120d1-94dc-4e9f-99d2-89738dd78e46"
+    },
+    {
+      "date": "2025-12-15T18:01:19.462Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Vincent Perkins",
+      "text": "very easy to use and very direct.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=64ea323d-9f20-4fb1-ac08-d59f248d6e7b"
+    },
+    {
+      "date": "2025-12-14T17:48:43.794Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Julian Dereyes",
+      "text": "works great",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=ab50129b-f4d8-4b87-a1d0-7ceff7432c74"
+    },
+    {
+      "date": "2025-12-13T15:38:41.732Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Christopher Farnell",
+      "text": "great app",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=a16e2163-0c70-4aa2-8b92-4ccb77f07404"
+    },
+    {
+      "date": "2025-12-12T05:01:03.366Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Clay",
+      "text": "very easy to use and free which is hard to find",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=ca1742c8-631e-4bb3-8a74-d1a97f019965"
+    },
+    {
+      "date": "2025-12-12T04:00:04.502Z",
+      "score": 1,
+      "thumbsUp": 6,
+      "user": "Carlo bonini",
+      "text": "app wouldn't open . had to reinstall . lost everything and my 149.99 . app won't recognize my email for sign in but has me on recurring payment for 149.99 . Watch out for the scam",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=259d09cc-e2f1-443d-b716-a2a655d19c7b"
+    },
+    {
+      "date": "2025-12-12T02:41:42.662Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Ronny Alsup",
+      "text": "good app",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=7684d9d4-62ef-41cf-9805-ffe35d2bd0e1"
+    },
+    {
+      "date": "2025-12-10T23:48:15.883Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Patrixk Scanlon",
+      "text": "easy to use , looks professional",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=242f5441-4ae1-4c1d-bc8d-0eba98a3e900"
+    },
+    {
+      "date": "2025-12-10T14:03:49.298Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Mohammed Hussein",
+      "text": "very easy to use. simple interface highly recommend",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=3e681d58-624d-46e3-8b95-ba063de68802"
+    },
+    {
+      "date": "2025-12-09T02:31:53.535Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Bennett",
+      "text": "Easiest way to build an invoice.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=1252a4f1-fc8b-4e3d-bb32-4d036c97f4fb"
+    },
+    {
+      "date": "2025-12-08T18:58:49.317Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Raymond Rios",
+      "text": "Perfecto. Gracias",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=f35f386c-6753-4c69-a5f3-4bc6ce69ccec"
+    },
+    {
+      "date": "2025-12-08T17:01:45.990Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "mat Metor",
+      "text": "ease to use and very versatile",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=607cc872-89c3-4458-80ca-77f3565c86fb"
+    },
+    {
+      "date": "2025-12-05T21:36:40.572Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Wayne willetts",
+      "text": "expensive",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=afa3a2ac-d44b-4cc6-b7c5-5bc438eb9406"
+    },
+    {
+      "date": "2025-12-04T19:17:28.927Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Gaz's Jungle Perch Angling Adventures",
+      "text": "this app falsely claims to be free, be aware that it is a subscription service. very deceptive and misleading tittle by the developers. poor form.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=f93d99e4-e3e7-4fc5-9422-f9db41991648"
+    },
+    {
+      "date": "2025-12-04T17:17:33.979Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Beatrice Nketsiah",
+      "text": "I love the freebies option Thank you",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=eae26e10-afde-4ea6-98ce-345a49dee0de"
+    },
+    {
+      "date": "2025-12-03T22:48:29.790Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "J Thornton",
+      "text": "not free",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=9b6ac61b-14ca-4644-9dc2-675e023e9c44"
+    },
+    {
+      "date": "2025-12-02T17:11:51.946Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Carlos Herrera",
+      "text": "excellent",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=4cb3870e-0e28-4ada-8025-17ea90bce6d7"
+    },
+    {
+      "date": "2025-11-28T07:31:17.348Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "William Ivy",
+      "text": "This has been working well for me. I'm not big on over the top apps and stuff just to do something as simple as making an invoice. My daughter showed this to me and walked me through it. Heck, now I'm making invoices for the squirrels in my yard for stealing the bird seed lol Keep up the good work",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=app.invoice_maker&reviewId=bfa02966-1bee-47b4-8cd4-0112b8076072"
+    }
+  ]
+}

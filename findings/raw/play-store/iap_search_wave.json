@@ -1,0 +1,108 @@
+[
+  {
+    "appId": "com.waveapps.sales",
+    "title": "Wave: Small Business Software",
+    "developer": "Wave HQ",
+    "score": 4.4857144,
+    "scoreText": "4.5",
+    "free": false,
+    "price": null,
+    "summary": "Invoice, scan receipts &amp; more",
+    "icon": "https://play-lh.googleusercontent.com/tveGU2S7zrdZjXpd-bRS3HNuitXGVkOiJA1ckIajJd1q4nOjahZcA3M_obUAncy0KUTd"
+  },
+  {
+    "appId": "com.intuit.quickbooks",
+    "title": "Intuit QuickBooks for Business",
+    "developer": "Intuit Inc",
+    "score": 4.09375,
+    "scoreText": "4.1",
+    "free": false,
+    "price": null,
+    "summary": "AI-led Business Accounting: invoicing, mileage tracker, receipt scanner &amp; more.",
+    "icon": "https://play-lh.googleusercontent.com/cU-dWPccEGZ39MQawS17137v0CBq3OhcIdXTRu1dCuLzSOKf1H0g2oT5LIg3gKjCoA"
+  },
+  {
+    "appId": "com.wave.business",
+    "title": "Wave Business",
+    "developer": "Wave Mobile Money",
+    "score": 4.071429,
+    "scoreText": "4.1",
+    "free": false,
+    "price": null,
+    "summary": "Manage all your in-person and online payments from one app.",
+    "icon": "https://play-lh.googleusercontent.com/RzldmfSH8C7RpqkNzflixhyQot5oRzs4nAdxrKUUB0AfxoUbP6toKBol_Zh61HbcX1Cx"
+  },
+  {
+    "appId": "com.wavecnct.app.twa",
+    "title": "Wave - Digital Business Card",
+    "developer": "Wave Connect",
+    "free": false,
+    "price": null,
+    "summary": "Free digital business card maker and contact organizer. Share with a QR code.",
+    "icon": "https://play-lh.googleusercontent.com/Xyiy6-QuK_4Y6AnMw4r7ZhL57XQ3tiAaAreUmYOj9OWbwU8RqncCZl4xF6o8nHTtgc8"
+  },
+  {
+    "appId": "com.octa.init",
+    "title": "Wave by OCTA",
+    "developer": "Orange County Transportation Authority",
+    "free": false,
+    "price": null,
+    "summary": "The easiest way to pay and ride OC Bus in Orange County.",
+    "icon": "https://play-lh.googleusercontent.com/tPQFFhJcWLBBVEhhXzjMx8EwOC7jE89ei6vf5UBNHK0by-XmSjSwZRaDOSQ8HoRGTHq-9eoOdi__uqd59_ap"
+  },
+  {
+    "appId": "org.me.mobiexpensifyg",
+    "title": "Expensify - Travel & Expense",
+    "developer": "Expensify Inc.",
+    "score": 4.09,
+    "scoreText": "4.1",
+    "free": false,
+    "price": null,
+    "summary": "Expenses, travel, invoices, bills, and corporate cards at the speed of chat.",
+    "icon": "https://play-lh.googleusercontent.com/qk_tP7kxV-wfeqqMrY51ltXBGSprzyMWC9O95wpGz1aMsKijjWPT_v7aL8ymz3rYz5g"
+  },
+  {
+    "appId": "com.accounting.bookkeeping",
+    "title": "Accounting Bookkeeping",
+    "developer": "Tacktile Systems Private Limited",
+    "score": 3.7142856,
+    "scoreText": "3.7",
+    "free": false,
+    "price": null,
+    "summary": "Accounting - Track Sales , Purchases, Inventory, Expenses, Payments, Receivables",
+    "icon": "https://play-lh.googleusercontent.com/fHtUYxBpmHm_emLjBiddT5HPzU2h6M6kBnnaAyhIX-fTS2czIRhx08XXurfn2z1XvA"
+  },
+  {
+    "appId": "com.xero.touch",
+    "title": "Xero Accounting for business",
+    "developer": "Xero Accounting",
+    "score": 3.75,
+    "scoreText": "3.8",
+    "free": false,
+    "price": null,
+    "summary": "Bookkeeping for a small business: invoice maker and expense tracker all in one",
+    "icon": "https://play-lh.googleusercontent.com/VX1WlbpWZDSmPLhsBwJ8H6GYnBQD2MQiAr7FgC3KpLhN8NeVx7t_oD9MxSymGiryDg"
+  },
+  {
+    "appId": "mm.com.wavemoney.wavepay",
+    "title": "WavePay APP by Wave Money",
+    "developer": "Wave Money",
+    "score": 4.45098,
+    "scoreText": "4.5",
+    "free": false,
+    "price": null,
+    "summary": "Fast, Easy and Safe Online payments - Myanmar's Leading Mobile Financial Service",
+    "icon": "https://play-lh.googleusercontent.com/rPq4GMCZy12WhwTlanEu7RzxihYCgYevQHVHLNha1VcY5SU1uLKHMd060b4VEV1r-OQ"
+  },
+  {
+    "appId": "com.zoho.books",
+    "title": "Zoho Books - Accounting App",
+    "developer": "Zoho Corporation",
+    "score": 4.6458335,
+    "scoreText": "4.6",
+    "free": false,
+    "price": null,
+    "summary": "Run your finances smarter with the Zoho Books business accounting app.",
+    "icon": "https://play-lh.googleusercontent.com/XqymkGusoFpLJh-Skp13AJuYcUwZR7WV8R4aF1UnpPsX1EtAaddhTOtSA73KJdfGNnU"
+  }
+]

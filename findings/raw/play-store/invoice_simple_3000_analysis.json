@@ -1,0 +1,469 @@
+{
+  "generated": "2026-05-07T10:47:46.439Z",
+  "us": {
+    "label": "US",
+    "file": "C:/Users/demosgod/Desktop/PROJECTS/playstore_app/findings/raw/play-store/invoice_simple_us_3000.json",
+    "total": 3000,
+    "low_count": 693,
+    "low_pct": 23.1,
+    "theme_counts": {
+      "pricing_rage": 289,
+      "export_lockin": 121,
+      "ai_autocategorize": 195,
+      "features_missing": 102,
+      "support_ghost": 108,
+      "bugs_crashes": 40,
+      "data_loss": 30,
+      "ads_intrusive": 11
+    },
+    "top_thumb_reviews": [
+      {
+        "date": "2025-05-21",
+        "score": 1,
+        "thumbsUp": 198,
+        "user": "joshua rodrigues",
+        "text": "I was told in a reminder message my price was going up to $59.99 anaully. Now its telling me $199.99 annually for unlimited invoices. Which was a feature I already had for a cheaper price. Been using this program for 5 years. What a shame with the price hikes and little to no upgrades/changes on anything. When I first started using this app in 2020 is was $19.99."
+      },
+      {
+        "date": "2026-01-24",
+        "score": 1,
+        "thumbsUp": 121,
+        "user": "Mark Stelly",
+        "text": "They make you pay a minimum $50/year subscription that only allows you to create 3 invoices a month and still only has very limited features. The next level up is $160/year, and this simple app is still full of bugs and often freezes/crashes. Don't bother with this rip off."
+      },
+      {
+        "date": "2025-07-22",
+        "score": 1,
+        "thumbsUp": 78,
+        "user": "davide masi",
+        "text": "This app has plenty of glitches and the Technical support agents aren't very knowledgeable. If you add the fact that the monthly subscription has more than doubled in the last couple of years and that, that functionalities that were part of the basic subscription have now been removed and you have to pay for them separately, you can probably understand the reason I scored them 1 star."
+      },
+      {
+        "date": "2024-09-20",
+        "score": 1,
+        "thumbsUp": 76,
+        "user": "Shannon Cates",
+        "text": "Another increase in price within 6 months. Are yall serious ?! It's now almost 20 a month. I'm better off getting a real invoicing system now."
+      },
+      {
+        "date": "2025-03-17",
+        "score": 1,
+        "thumbsUp": 45,
+        "user": "Daniel Barrios",
+        "text": "I've been using this app for about 8 years now and it has been a great tool to use. I don't need much just a basic invoice and this was perfect! the price has gone up every now and then but the latest price increase tripled and the benefits were cut by ⅔ if I remember correctly I was allowed 10 invoices a month and was paying $4.99/mo. not bad considering I sent maybe 7 invoices a month. now it's $15/mo. eith only 3 invoices! absolutely ridiculous. will actively start looking for a new service"
+      },
+      {
+        "date": "2024-12-24",
+        "score": 1,
+        "thumbsUp": 45,
+        "user": "Matt",
+        "text": "Been using this for years until recently due to the fact that they continued to increase the price abnormally high and now it's a teir system. Low range you get 3 every 3 months then goes from there. Garbage, uninstall unsubscribing."
+      },
+      {
+        "date": "2025-08-14",
+        "score": 1,
+        "thumbsUp": 44,
+        "user": "Jack C.",
+        "text": "I was a customer for 7 years. I paid for a full year at the end of November 2024. Now, with 4 months left on my yearly subscription, these guys do a surprise price increase and are forcing me to pay the extra $200+ a year to continue using their app. It doesn't matter to them that I already paid for the year. They are now stealing the final 4 months I've already paid for. These guys are crooks, and for what they're now charging, there are better options that do more. Don't support these crooks."
+      },
+      {
+        "date": "2025-12-28",
+        "score": 1,
+        "thumbsUp": 43,
+        "user": "Freddy G",
+        "text": "Been using this service for 8 years now, had 0 complaints in the past. It USED TO BE exactly what we needed. The last year they have more than doubled the price while at the same time they are minimizing the features. Forcing you to pay even more for a \"higher tier\" to get what you had in the past. STAY AWAY. Used to be a great service at a great price until GREED took over. Look elsewhere."
+      },
+      {
+        "date": "2025-02-02",
+        "score": 2,
+        "thumbsUp": 43,
+        "user": "Albert Verbolovskiy",
+        "text": "I initially had a strong appreciation for Invoice Simple, utilizing it for both of my businesses, which led me to give it a five-star review. However, my satisfaction has diminished to two stars due to the frequent price increases every two months and the loss of features unless I upgrade. Consequently, I plan to transition to a different invoicing application, as there are numerous more affordable or free alternatives available."
+      },
+      {
+        "date": "2024-10-14",
+        "score": 1,
+        "thumbsUp": 42,
+        "user": "Ian Grobler",
+        "text": "I've been a subscriber for a very long time, probably 6 years and I will have to cancel my subscription due to the fact that these guys are money hungry and will never stop these ridiculous increases. Yes, it's a great app but it doesn't justify the price. The exchange rate makes it unaffordable. I will look for something else in my price range. PS! Download Bookipi, it offers everything Invoice Maker does and includes AI and it's totally free! I'm very happy."
+      },
+      {
+        "date": "2024-04-16",
+        "score": 1,
+        "thumbsUp": 40,
+        "user": "Montejo Dominguez",
+        "text": "I've been using this invoice app for two years, and while it functions adequately, it lacks some essential user-friendly features. Despite my suggestions for improvements, the developers haven't implemented them. For instance, searching for invoices requires the entire invoice number (including the prefix) or the exact client name capitalization. This makes it cumbersome and time-consuming to find the specific invoice. It should allow searching by partial inv, client name variations, or phone #"
+      },
+      {
+        "date": "2025-07-09",
+        "score": 1,
+        "thumbsUp": 38,
+        "user": "theRealJamal _",
+        "text": "I've been using I.S. for at least the last 5 years. I've put up with all limited services and still paid the premium. Over the last year or 2, they've increased the premiums and I went along with it. Now im limited to 10 a month. reason: they are no longer offering the plan i was on so that \"all the customers are being charged the same amount(MORE$$)\". so in order to get unlimited invoices like i had, I have to pay MORE money. How's that for LOYALTY. Go Figure. I'll just go over to QuickBooks🚮"
+      },
+      {
+        "date": "2025-01-24",
+        "score": 1,
+        "thumbsUp": 38,
+        "user": "Nathan Lee",
+        "text": "This invoice app used to be exactly what the name says: Simple. Now, not so much. In short, it sucks. A perfect example of killing the goose to get the golden eggs. Some private equity must have bought them out, now they are busy making \"improvements\" they can charge for and increasing their pricing structure. Meanwhile, nothing is better, you can't manually mark the date that an invoice was paid without an 8-step process. Don't waste money on this, go find a product that is actually SIMPLE."
+      },
+      {
+        "date": "2024-04-11",
+        "score": 1,
+        "thumbsUp": 36,
+        "user": "Inge Crots",
+        "text": "I have been using their Essentials plan with 25 clients for a year plus, with no complaints. All of a sudden this month out of the blue, I apparently can't send more than 3 invoices per month on this plan? To upgrade I need to pay almost double my current subscription fee and then I still only get to send 10 invoices. The unlimited plan is way too expensive. Where do all these new subscriptions suddenly come from? Pure BS."
+      },
+      {
+        "date": "2025-01-16",
+        "score": 1,
+        "thumbsUp": 34,
+        "user": "Alexander Jarman",
+        "text": "Use to be a great app. Trash now. Reminds me of a pay to win game. Started my company with this app, 5 years. Recently, in the past couple years they have increased price 30-40%. Was 50 a year. Now it's 100 basically. wait if you want access to photos add another 14 dollars to your monthly payment. They have literally done nothing in regards to making this app any better, only increased the price, and locked every option unless you pay. Also, i got locked out of my old photos. Use another app."
+      },
+      {
+        "date": "2024-11-05",
+        "score": 2,
+        "thumbsUp": 34,
+        "user": "R",
+        "text": "I used to like this app and use it for my business until updates changed everything. It shifted from a simple, user-friendly app to an app that wastes your time on entering payments for each invoice. You should take multiple steps to enter a payment. It used to be a single MARK PAID feature, and we could change the date or notes of the payment. Now, if you mark it as PAID, you can't modify the payment unless you enter everything manually, including the invoice or payment total, date, etc..."
+      },
+      {
+        "date": "2024-07-12",
+        "score": 1,
+        "thumbsUp": 34,
+        "user": "Stephen Hargreaves",
+        "text": "Such a shame Great app, but the price increase this year to £43.99 is far too expensive that's over double the previous year!!! . Would rate 5 stars if the pricing hadn't increased. I've been using this for years but its not looking good for the future. And the improvements don't justify over 100% increase! Well it got even worse. Now they want just under £200 for a years subscription. I don't understand their pricing? This app has become a pure cash making app with disregard for the user."
+      },
+      {
+        "date": "2026-03-04",
+        "score": 1,
+        "thumbsUp": 31,
+        "user": "P S",
+        "text": "WARNING Good reviews are fake you cannot export your invoices from this app, which traps you into facing annual price increases. This issue is intentional! After being a customer for years, I'm done. They have raised prices again and announced a limit of 10 invoices. I switched to Monzo Business, which allows free invoicing with a Monzo Business account. Additionally, the security of this app is seriously lacking, as it does not offer two-factor authentication, relying only on a simple password."
+      },
+      {
+        "date": "2025-08-07",
+        "score": 1,
+        "thumbsUp": 30,
+        "user": "Alison Payne",
+        "text": "I've been using this app for years despite it more than doubling in price during that time. 3 months into a new yearly subscription, and they're changing the invoice limit to 10 per month when I send more than that per week, unless I upgrade which will once again be double what I'm already paying. I have no use for any of the extra features in the upgrade package, I just want what I paid for and should be entitled to until my subscription year ends."
+      },
+      {
+        "date": "2024-04-30",
+        "score": 1,
+        "thumbsUp": 30,
+        "user": "ham e",
+        "text": "I have been utilizing this service for the past few years without any particular reason, my subscription got cancelled which was priced at £89. Yearly, I have to re-subscribe with a new price of £233. 5x more and there customer service couldn't do anything useless I had no option but to move to another app Currently, I am using Invoice BookIPi, which has more facilities and is completely free. Furthermore, it offers a full version."
+      },
+      {
+        "date": "2025-05-10",
+        "score": 1,
+        "thumbsUp": 28,
+        "user": "Mack Wolfe",
+        "text": "Generic app with greedy billing. You pay monthly for invoice credits, but if you don’t renew, they erase the unused ones you already paid for — no rollover, no warning. I paused during a slow period, not canceled, and still lost them. Customer service? Useless. They don’t care or try to understand. There are way better apps out there. If I could give 0 stars, I would. This is a scam for part-time users. Do NOT recommend."
+      },
+      {
+        "date": "2024-10-29",
+        "score": 1,
+        "thumbsUp": 28,
+        "user": "Mr, hates Google",
+        "text": "Very disappointed with the new owners and the direction this app is going I have had the app for 10 years and it has been great now it's under new ownership as of a couple years ago and they are pushing their credit card processing with pop-ups even after you say you don't want to use it they continue asking multiple times a day every time you open the app. Business owners do not want to deal with pop-ups when they are paying For a program like this and in a hurry trying to work."
+      },
+      {
+        "date": "2025-03-07",
+        "score": 1,
+        "thumbsUp": 27,
+        "user": "Shaun Bowen",
+        "text": "Beware - price rises constantly. This used to be a great cost effective system for generating quotes and invoices and I recommended it to multiple clients. Well I won't be any more as the costs have almost doubled since my first client signed up. They say it is due to 'new features' but we don't need any of these, we want it to continue working as before. I could understand maybe a £1 rise every few years but it's just not good value any more."
+      },
+      {
+        "date": "2024-08-15",
+        "score": 1,
+        "thumbsUp": 27,
+        "user": "Dawn Ailetcher",
+        "text": "BEWARE: The sign up page has a small box where you consent to text messages and phone calls. The amount of personal information required in order to create an invoice is just ridiculous: number employees I have, how much my business makes annually, etc. These are required fields in order to even use the app. The categories for your type of business are in a drop down menu of which none applied to my line of work. There is no option to enter \"other\" and you can't continue until you select one."
+      },
+      {
+        "date": "2025-10-04",
+        "score": 1,
+        "thumbsUp": 26,
+        "user": "Angela Opp",
+        "text": "I've been using this app for years. Since it was beta. The past several months, they've made changes like increasing the price while limiting the invoices you send. I tried to upgrade, and all that did was make sure I was charged for 2 subscriptions every month while still having a strict limit on the number of invoices I can send. I tried contacting the company but didn't have any luck."
+      },
+      {
+        "date": "2025-04-18",
+        "score": 1,
+        "thumbsUp": 26,
+        "user": "Daniel Solti",
+        "text": "After the first 3 months I decided to cancel as it's not worth AUD$21.99 a month for me. I'm in the process of cancelling my subscription when the app offering me 3 months discounted price once again for AUD$10.99.... and the twist google still charging the full amount. customer service was no help as they cannot find evidence. so I decided to cancel again. i got the same offer again, but this time I did not accept (don't wanna pay full price). Good app, but terrible experience in the end."
+      },
+      {
+        "date": "2024-09-20",
+        "score": 2,
+        "thumbsUp": 26,
+        "user": "Vincent B",
+        "text": "It used to be awesome now its just greedy. A perfect example of service strengthflation. I've been using this app for a number of years now and the only new feature is the choice of template yet they quadruple the price and still took features away for that price requiring you to pay almost eight times the price to get the same features you would have gotten before . Well it's definitely legal shady as s***"
+      },
+      {
+        "date": "2025-05-05",
+        "score": 1,
+        "thumbsUp": 23,
+        "user": "Annette Curtis",
+        "text": "Love this app. But they have overcharged me time and time again. I purchased the yearly subscription, but I realized months later that they were also charging me monthly. when my app wouldn't let me make invoices, it wanted me to subscribe. after contacting them and play store to no avail, I had to resubscribe and paid yearly $199. that was a couple of weeks ago and I realized yesterday that they tried to charge me again $219. My bank declined it and they tried charging still again!!! App suks"
+      },
+      {
+        "date": "2025-02-17",
+        "score": 1,
+        "thumbsUp": 23,
+        "user": "danny alsept",
+        "text": "The only issue is when i send the client the invoice via text, many clients have not received the bill. So i am going on with business as usual for a little over a month. I go to perchase orders for inventory and can't because my account was too low in funds. That can't be. So i do done research find out clients had not paid. I contacted clients, and they all responded with \"well we never was able to open the link you sent.\" This has to be fixed so i can we work. This is a nightmare."
+      },
+      {
+        "date": "2024-10-29",
+        "score": 1,
+        "thumbsUp": 23,
+        "user": "David",
+        "text": "Nothing but a money grab ive been with this app since launch.. quite a few years now but over the last year it's nothing but trash every update and subscription price increase u lose features like absolutely terrible ...so ive had several festures lost unless I pay for more for the upgraded subscription I will be changing apps now terrible!!! I remember at one time I had the highest subscription but not anymore with all these extra updates"
+      }
+    ],
+    "date_range": {
+      "earliest": "2024-04-05",
+      "latest": "2026-05-05"
+    }
+  },
+  "gb": {
+    "label": "GB",
+    "file": "C:/Users/demosgod/Desktop/PROJECTS/playstore_app/findings/raw/play-store/invoice_simple_gb_3000.json",
+    "total": 3000,
+    "low_count": 693,
+    "low_pct": 23.1,
+    "theme_counts": {
+      "pricing_rage": 289,
+      "export_lockin": 121,
+      "ai_autocategorize": 195,
+      "features_missing": 102,
+      "support_ghost": 108,
+      "bugs_crashes": 40,
+      "data_loss": 30,
+      "ads_intrusive": 11
+    },
+    "top_thumb_reviews": [
+      {
+        "date": "2025-05-21",
+        "score": 1,
+        "thumbsUp": 198,
+        "user": "joshua rodrigues",
+        "text": "I was told in a reminder message my price was going up to $59.99 anaully. Now its telling me $199.99 annually for unlimited invoices. Which was a feature I already had for a cheaper price. Been using this program for 5 years. What a shame with the price hikes and little to no upgrades/changes on anything. When I first started using this app in 2020 is was $19.99."
+      },
+      {
+        "date": "2026-01-24",
+        "score": 1,
+        "thumbsUp": 121,
+        "user": "Mark Stelly",
+        "text": "They make you pay a minimum $50/year subscription that only allows you to create 3 invoices a month and still only has very limited features. The next level up is $160/year, and this simple app is still full of bugs and often freezes/crashes. Don't bother with this rip off."
+      },
+      {
+        "date": "2025-07-22",
+        "score": 1,
+        "thumbsUp": 78,
+        "user": "davide masi",
+        "text": "This app has plenty of glitches and the Technical support agents aren't very knowledgeable. If you add the fact that the monthly subscription has more than doubled in the last couple of years and that, that functionalities that were part of the basic subscription have now been removed and you have to pay for them separately, you can probably understand the reason I scored them 1 star."
+      },
+      {
+        "date": "2024-09-20",
+        "score": 1,
+        "thumbsUp": 76,
+        "user": "Shannon Cates",
+        "text": "Another increase in price within 6 months. Are yall serious ?! It's now almost 20 a month. I'm better off getting a real invoicing system now."
+      },
+      {
+        "date": "2025-03-17",
+        "score": 1,
+        "thumbsUp": 45,
+        "user": "Daniel Barrios",
+        "text": "I've been using this app for about 8 years now and it has been a great tool to use. I don't need much just a basic invoice and this was perfect! the price has gone up every now and then but the latest price increase tripled and the benefits were cut by ⅔ if I remember correctly I was allowed 10 invoices a month and was paying $4.99/mo. not bad considering I sent maybe 7 invoices a month. now it's $15/mo. eith only 3 invoices! absolutely ridiculous. will actively start looking for a new service"
+      },
+      {
+        "date": "2024-12-24",
+        "score": 1,
+        "thumbsUp": 45,
+        "user": "Matt",
+        "text": "Been using this for years until recently due to the fact that they continued to increase the price abnormally high and now it's a teir system. Low range you get 3 every 3 months then goes from there. Garbage, uninstall unsubscribing."
+      },
+      {
+        "date": "2025-08-14",
+        "score": 1,
+        "thumbsUp": 44,
+        "user": "Jack C.",
+        "text": "I was a customer for 7 years. I paid for a full year at the end of November 2024. Now, with 4 months left on my yearly subscription, these guys do a surprise price increase and are forcing me to pay the extra $200+ a year to continue using their app. It doesn't matter to them that I already paid for the year. They are now stealing the final 4 months I've already paid for. These guys are crooks, and for what they're now charging, there are better options that do more. Don't support these crooks."
+      },
+      {
+        "date": "2025-12-28",
+        "score": 1,
+        "thumbsUp": 43,
+        "user": "Freddy G",
+        "text": "Been using this service for 8 years now, had 0 complaints in the past. It USED TO BE exactly what we needed. The last year they have more than doubled the price while at the same time they are minimizing the features. Forcing you to pay even more for a \"higher tier\" to get what you had in the past. STAY AWAY. Used to be a great service at a great price until GREED took over. Look elsewhere."
+      },
+      {
+        "date": "2025-02-02",
+        "score": 2,
+        "thumbsUp": 43,
+        "user": "Albert Verbolovskiy",
+        "text": "I initially had a strong appreciation for Invoice Simple, utilizing it for both of my businesses, which led me to give it a five-star review. However, my satisfaction has diminished to two stars due to the frequent price increases every two months and the loss of features unless I upgrade. Consequently, I plan to transition to a different invoicing application, as there are numerous more affordable or free alternatives available."
+      },
+      {
+        "date": "2024-10-14",
+        "score": 1,
+        "thumbsUp": 42,
+        "user": "Ian Grobler",
+        "text": "I've been a subscriber for a very long time, probably 6 years and I will have to cancel my subscription due to the fact that these guys are money hungry and will never stop these ridiculous increases. Yes, it's a great app but it doesn't justify the price. The exchange rate makes it unaffordable. I will look for something else in my price range. PS! Download Bookipi, it offers everything Invoice Maker does and includes AI and it's totally free! I'm very happy."
+      },
+      {
+        "date": "2024-04-16",
+        "score": 1,
+        "thumbsUp": 40,
+        "user": "Montejo Dominguez",
+        "text": "I've been using this invoice app for two years, and while it functions adequately, it lacks some essential user-friendly features. Despite my suggestions for improvements, the developers haven't implemented them. For instance, searching for invoices requires the entire invoice number (including the prefix) or the exact client name capitalization. This makes it cumbersome and time-consuming to find the specific invoice. It should allow searching by partial inv, client name variations, or phone #"
+      },
+      {
+        "date": "2025-07-09",
+        "score": 1,
+        "thumbsUp": 38,
+        "user": "theRealJamal _",
+        "text": "I've been using I.S. for at least the last 5 years. I've put up with all limited services and still paid the premium. Over the last year or 2, they've increased the premiums and I went along with it. Now im limited to 10 a month. reason: they are no longer offering the plan i was on so that \"all the customers are being charged the same amount(MORE$$)\". so in order to get unlimited invoices like i had, I have to pay MORE money. How's that for LOYALTY. Go Figure. I'll just go over to QuickBooks🚮"
+      },
+      {
+        "date": "2025-01-24",
+        "score": 1,
+        "thumbsUp": 38,
+        "user": "Nathan Lee",
+        "text": "This invoice app used to be exactly what the name says: Simple. Now, not so much. In short, it sucks. A perfect example of killing the goose to get the golden eggs. Some private equity must have bought them out, now they are busy making \"improvements\" they can charge for and increasing their pricing structure. Meanwhile, nothing is better, you can't manually mark the date that an invoice was paid without an 8-step process. Don't waste money on this, go find a product that is actually SIMPLE."
+      },
+      {
+        "date": "2024-04-11",
+        "score": 1,
+        "thumbsUp": 36,
+        "user": "Inge Crots",
+        "text": "I have been using their Essentials plan with 25 clients for a year plus, with no complaints. All of a sudden this month out of the blue, I apparently can't send more than 3 invoices per month on this plan? To upgrade I need to pay almost double my current subscription fee and then I still only get to send 10 invoices. The unlimited plan is way too expensive. Where do all these new subscriptions suddenly come from? Pure BS."
+      },
+      {
+        "date": "2025-01-16",
+        "score": 1,
+        "thumbsUp": 34,
+        "user": "Alexander Jarman",
+        "text": "Use to be a great app. Trash now. Reminds me of a pay to win game. Started my company with this app, 5 years. Recently, in the past couple years they have increased price 30-40%. Was 50 a year. Now it's 100 basically. wait if you want access to photos add another 14 dollars to your monthly payment. They have literally done nothing in regards to making this app any better, only increased the price, and locked every option unless you pay. Also, i got locked out of my old photos. Use another app."
+      },
+      {
+        "date": "2024-11-05",
+        "score": 2,
+        "thumbsUp": 34,
+        "user": "R",
+        "text": "I used to like this app and use it for my business until updates changed everything. It shifted from a simple, user-friendly app to an app that wastes your time on entering payments for each invoice. You should take multiple steps to enter a payment. It used to be a single MARK PAID feature, and we could change the date or notes of the payment. Now, if you mark it as PAID, you can't modify the payment unless you enter everything manually, including the invoice or payment total, date, etc..."
+      },
+      {
+        "date": "2024-07-12",
+        "score": 1,
+        "thumbsUp": 34,
+        "user": "Stephen Hargreaves",
+        "text": "Such a shame Great app, but the price increase this year to £43.99 is far too expensive that's over double the previous year!!! . Would rate 5 stars if the pricing hadn't increased. I've been using this for years but its not looking good for the future. And the improvements don't justify over 100% increase! Well it got even worse. Now they want just under £200 for a years subscription. I don't understand their pricing? This app has become a pure cash making app with disregard for the user."
+      },
+      {
+        "date": "2026-03-04",
+        "score": 1,
+        "thumbsUp": 31,
+        "user": "P S",
+        "text": "WARNING Good reviews are fake you cannot export your invoices from this app, which traps you into facing annual price increases. This issue is intentional! After being a customer for years, I'm done. They have raised prices again and announced a limit of 10 invoices. I switched to Monzo Business, which allows free invoicing with a Monzo Business account. Additionally, the security of this app is seriously lacking, as it does not offer two-factor authentication, relying only on a simple password."
+      },
+      {
+        "date": "2025-08-07",
+        "score": 1,
+        "thumbsUp": 30,
+        "user": "Alison Payne",
+        "text": "I've been using this app for years despite it more than doubling in price during that time. 3 months into a new yearly subscription, and they're changing the invoice limit to 10 per month when I send more than that per week, unless I upgrade which will once again be double what I'm already paying. I have no use for any of the extra features in the upgrade package, I just want what I paid for and should be entitled to until my subscription year ends."
+      },
+      {
+        "date": "2024-04-30",
+        "score": 1,
+        "thumbsUp": 30,
+        "user": "ham e",
+        "text": "I have been utilizing this service for the past few years without any particular reason, my subscription got cancelled which was priced at £89. Yearly, I have to re-subscribe with a new price of £233. 5x more and there customer service couldn't do anything useless I had no option but to move to another app Currently, I am using Invoice BookIPi, which has more facilities and is completely free. Furthermore, it offers a full version."
+      },
+      {
+        "date": "2025-05-10",
+        "score": 1,
+        "thumbsUp": 28,
+        "user": "Mack Wolfe",
+        "text": "Generic app with greedy billing. You pay monthly for invoice credits, but if you don’t renew, they erase the unused ones you already paid for — no rollover, no warning. I paused during a slow period, not canceled, and still lost them. Customer service? Useless. They don’t care or try to understand. There are way better apps out there. If I could give 0 stars, I would. This is a scam for part-time users. Do NOT recommend."
+      },
+      {
+        "date": "2024-10-29",
+        "score": 1,
+        "thumbsUp": 28,
+        "user": "Mr, hates Google",
+        "text": "Very disappointed with the new owners and the direction this app is going I have had the app for 10 years and it has been great now it's under new ownership as of a couple years ago and they are pushing their credit card processing with pop-ups even after you say you don't want to use it they continue asking multiple times a day every time you open the app. Business owners do not want to deal with pop-ups when they are paying For a program like this and in a hurry trying to work."
+      },
+      {
+        "date": "2025-03-07",
+        "score": 1,
+        "thumbsUp": 27,
+        "user": "Shaun Bowen",
+        "text": "Beware - price rises constantly. This used to be a great cost effective system for generating quotes and invoices and I recommended it to multiple clients. Well I won't be any more as the costs have almost doubled since my first client signed up. They say it is due to 'new features' but we don't need any of these, we want it to continue working as before. I could understand maybe a £1 rise every few years but it's just not good value any more."
+      },
+      {
+        "date": "2024-08-15",
+        "score": 1,
+        "thumbsUp": 27,
+        "user": "Dawn Ailetcher",
+        "text": "BEWARE: The sign up page has a small box where you consent to text messages and phone calls. The amount of personal information required in order to create an invoice is just ridiculous: number employees I have, how much my business makes annually, etc. These are required fields in order to even use the app. The categories for your type of business are in a drop down menu of which none applied to my line of work. There is no option to enter \"other\" and you can't continue until you select one."
+      },
+      {
+        "date": "2025-10-04",
+        "score": 1,
+        "thumbsUp": 26,
+        "user": "Angela Opp",
+        "text": "I've been using this app for years. Since it was beta. The past several months, they've made changes like increasing the price while limiting the invoices you send. I tried to upgrade, and all that did was make sure I was charged for 2 subscriptions every month while still having a strict limit on the number of invoices I can send. I tried contacting the company but didn't have any luck."
+      },
+      {
+        "date": "2025-04-18",
+        "score": 1,
+        "thumbsUp": 26,
+        "user": "Daniel Solti",
+        "text": "After the first 3 months I decided to cancel as it's not worth AUD$21.99 a month for me. I'm in the process of cancelling my subscription when the app offering me 3 months discounted price once again for AUD$10.99.... and the twist google still charging the full amount. customer service was no help as they cannot find evidence. so I decided to cancel again. i got the same offer again, but this time I did not accept (don't wanna pay full price). Good app, but terrible experience in the end."
+      },
+      {
+        "date": "2024-09-20",
+        "score": 2,
+        "thumbsUp": 26,
+        "user": "Vincent B",
+        "text": "It used to be awesome now its just greedy. A perfect example of service strengthflation. I've been using this app for a number of years now and the only new feature is the choice of template yet they quadruple the price and still took features away for that price requiring you to pay almost eight times the price to get the same features you would have gotten before . Well it's definitely legal shady as s***"
+      },
+      {
+        "date": "2025-05-05",
+        "score": 1,
+        "thumbsUp": 23,
+        "user": "Annette Curtis",
+        "text": "Love this app. But they have overcharged me time and time again. I purchased the yearly subscription, but I realized months later that they were also charging me monthly. when my app wouldn't let me make invoices, it wanted me to subscribe. after contacting them and play store to no avail, I had to resubscribe and paid yearly $199. that was a couple of weeks ago and I realized yesterday that they tried to charge me again $219. My bank declined it and they tried charging still again!!! App suks"
+      },
+      {
+        "date": "2025-02-17",
+        "score": 1,
+        "thumbsUp": 23,
+        "user": "danny alsept",
+        "text": "The only issue is when i send the client the invoice via text, many clients have not received the bill. So i am going on with business as usual for a little over a month. I go to perchase orders for inventory and can't because my account was too low in funds. That can't be. So i do done research find out clients had not paid. I contacted clients, and they all responded with \"well we never was able to open the link you sent.\" This has to be fixed so i can we work. This is a nightmare."
+      },
+      {
+        "date": "2024-10-29",
+        "score": 1,
+        "thumbsUp": 23,
+        "user": "David",
+        "text": "Nothing but a money grab ive been with this app since launch.. quite a few years now but over the last year it's nothing but trash every update and subscription price increase u lose features like absolutely terrible ...so ive had several festures lost unless I pay for more for the upgraded subscription I will be changing apps now terrible!!! I remember at one time I had the highest subscription but not anymore with all these extra updates"
+      }
+    ],
+    "date_range": {
+      "earliest": "2024-04-05",
+      "latest": "2026-05-05"
+    }
+  }
+}

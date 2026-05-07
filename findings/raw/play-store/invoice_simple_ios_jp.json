@@ -1,0 +1,119 @@
+{
+  "appId": 694831622,
+  "country": "jp",
+  "total_pulled": 11,
+  "low_count": 2,
+  "low_pct": 18.2,
+  "reviews": [
+    {
+      "id": "8932666842",
+      "date": "2022-07-31T21:21:17-07:00",
+      "score": 5,
+      "title": "これは便利。",
+      "text": "とても使いやすくてよかったです。",
+      "user": "カン1975サイ",
+      "version": "v3.3.759",
+      "url": "https://itunes.apple.com/jp/review?id=694831622&type=Purple%20Software"
+    },
+    {
+      "id": "8180497244",
+      "date": "2021-12-29T01:34:48-07:00",
+      "score": 5,
+      "title": "使い易い",
+      "text": "噂通りの使いやすさに驚きです。\nただ不安なのは無料？お試し期間とかですかね？",
+      "user": "運営カバ",
+      "version": "v3.3.571",
+      "url": "https://itunes.apple.com/jp/review?id=694831622&type=Purple%20Software"
+    },
+    {
+      "id": "7800316023",
+      "date": "2021-09-12T18:31:48-07:00",
+      "score": 5,
+      "title": "個人経営のIT音痴にも優しいです",
+      "text": "表題のとおりです。Word、Excel全く使えない音痴でもスマホで必要なことを入力するだけ。\nプリントアウトも可能だし、mailで送るにしてもきちんとしたフォーマットで安心です。\n今まで手書きの請求書をスマホで撮影してmailする…なんていう情けない感じでしたが、このアプリであれば履歴も残せて安心です。",
+      "user": "クシナダ36＋○",
+      "version": "v3.3.515",
+      "url": "https://itunes.apple.com/jp/review?id=694831622&type=Purple%20Software"
+    },
+    {
+      "id": "7751303530",
+      "date": "2021-08-30T04:29:23-07:00",
+      "score": 5,
+      "title": "スマホが苦手な私でも",
+      "text": "使えました。助かりました。",
+      "user": "ナカジュ",
+      "version": "v3.3.504",
+      "url": "https://itunes.apple.com/jp/review?id=694831622&type=Purple%20Software"
+    },
+    {
+      "id": "7082093981",
+      "date": "2021-03-08T22:05:15-07:00",
+      "score": 5,
+      "title": "Gud",
+      "text": "Not bad",
+      "user": "abdullahaaapa",
+      "version": "3.3.355",
+      "url": "https://itunes.apple.com/jp/review?id=694831622&type=Purple%20Software"
+    },
+    {
+      "id": "5807449115",
+      "date": "2020-04-13T15:45:26-07:00",
+      "score": 5,
+      "title": "Great app for small businesses",
+      "text": "This is a great if you are a small business owner.  I love the feature that the app notifies you when your client receives the invoice and opens the email.  Many times clients claim they didn’t get an invoice.  It clearly shows when and what day.  Plus it will keep a record for you how many times you sent it. It will give you the option to send as a text message and connect it to Stripe and you can have you customers pay with credit card.",
+      "user": "Rashi_Hamler",
+      "version": "3.3.141",
+      "url": "https://itunes.apple.com/jp/review?id=694831622&type=Purple%20Software"
+    },
+    {
+      "id": "4831557201",
+      "date": "2019-09-24T03:05:24-07:00",
+      "score": 2,
+      "title": "いまいち",
+      "text": "タイピングにバグがある",
+      "user": "uuuuccccuuuucccc",
+      "version": "2.11.81",
+      "url": "https://itunes.apple.com/jp/review?id=694831622&type=Purple%20Software"
+    },
+    {
+      "id": "1686878452",
+      "date": "2017-07-17T22:17:59-07:00",
+      "score": 5,
+      "title": "great simple usefull 簡単便利",
+      "text": "設定で通貨変更\n写真添付\nスマホからコンビニでプリント\n無料の部分でも大満足！",
+      "user": "bfh5r",
+      "version": "2.11.14",
+      "url": "https://itunes.apple.com/jp/review?id=694831622&type=Purple%20Software"
+    },
+    {
+      "id": "1482223410",
+      "date": "2016-11-10T16:26:27-07:00",
+      "score": 1,
+      "title": "バグが。。。",
+      "text": "使い勝手は良さそうなのだが、日本語がまともに打ち込めない。なので今のところ全く使えない。早期改善を求める。",
+      "user": "Shangri-ra",
+      "version": "2.10.10",
+      "url": "https://itunes.apple.com/jp/review?id=694831622&type=Purple%20Software"
+    },
+    {
+      "id": "1293860171",
+      "date": "2015-11-30T05:10:52-07:00",
+      "score": 5,
+      "title": "It's useful!!",
+      "text": "Very easy to use. It's very much enough for my mobile business. Thank you. I'm very much enjoying it.",
+      "user": "N:))))))))))",
+      "version": "2.4.4",
+      "url": "https://itunes.apple.com/jp/review?id=694831622&type=Purple%20Software"
+    },
+    {
+      "id": "1206211936",
+      "date": "2015-06-02T05:17:55-07:00",
+      "score": 4,
+      "title": "Good",
+      "text": "Good app, but need sort option.",
+      "user": "Sartobi",
+      "version": "2.2.5",
+      "url": "https://itunes.apple.com/jp/review?id=694831622&type=Purple%20Software"
+    }
+  ]
+}

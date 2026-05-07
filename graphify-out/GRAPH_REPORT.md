@@ -1,11 +1,11 @@
 # Graph Report - playstore_app  (2026-05-07)
 
 ## Corpus Check
-- 18 files · ~52,346 words
+- 20 files · ~56,866 words
 - Verdict: corpus is large enough that graph structure adds value.
 
 ## Summary
-- 198 nodes · 283 edges · 11 communities detected
+- 200 nodes · 283 edges · 11 communities detected
 - Extraction: 96% EXTRACTED · 4% INFERRED · 0% AMBIGUOUS · INFERRED: 12 edges (avg confidence: 0.78)
 - Token cost: 0 input · 0 output
 
@@ -20,7 +20,7 @@
 - [[_COMMUNITY_Community 7|Community 7]]
 - [[_COMMUNITY_Community 8|Community 8]]
 - [[_COMMUNITY_Community 10|Community 10]]
-- [[_COMMUNITY_Community 26|Community 26]]
+- [[_COMMUNITY_Community 28|Community 28]]
 
 ## God Nodes (most connected - your core abstractions)
 1. `Love8 - App for Couples` - 17 edges
@@ -98,25 +98,25 @@ Nodes (11): AppsFlyer Global ARPU averages, Co-Star Astrology, DramaBox / ReelSh
 Cohesion: 0.83
 Nodes (3): fetch_comments(), fetch_json(), search_videos()
 
-### Community 26 - "Community 26"
+### Community 28 - "Community 28"
 Cohesion: 1.0
 Nodes (1): Phase 10: Niche Expansion
 
 ## Knowledge Gaps
 - **49 isolated node(s):** `Findings README`, `Love8 Team / Love Elves`, `Sherif Omar (buzzArab founder)`, `ORBE VENTURES LTDA (CNPJ 53.277.567/0001-76)`, `Fabio Principe (Astrolink operator)` (+44 more)
   These have ≤1 connection - possible missing edges or undocumented components.
-- **Thin community `Community 26`** (1 nodes): `Phase 10: Niche Expansion`
+- **Thin community `Community 28`** (1 nodes): `Phase 10: Niche Expansion`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
 
 ## Suggested Questions
 _Questions this graph is uniquely positioned to answer:_
 
 - **Why does `App-Radar Directions Report v3` connect `Community 5` to `Community 0`, `Community 1`, `Community 2`, `Community 6`, `Community 7`?**
-  _High betweenness centrality (0.154) - this node is a cross-community bridge._
+  _High betweenness centrality (0.151) - this node is a cross-community bridge._
 - **Why does `Love8 - App for Couples` connect `Community 0` to `Community 1`, `Community 2`, `Community 3`, `Community 5`, `Community 6`?**
-  _High betweenness centrality (0.131) - this node is a cross-community bridge._
+  _High betweenness centrality (0.128) - this node is a cross-community bridge._
 - **Why does `Run Ledger - Evolution Log` connect `Community 2` to `Community 1`, `Community 4`, `Community 5`?**
-  _High betweenness centrality (0.116) - this node is a cross-community bridge._
+  _High betweenness centrality (0.114) - this node is a cross-community bridge._
 - **What connects `Findings README`, `Love8 Team / Love Elves`, `Sherif Omar (buzzArab founder)` to the rest of the system?**
   _49 weakly-connected nodes found - possible documentation gaps or missing edges._
 - **Should `Community 0` be split into smaller, more focused modules?**

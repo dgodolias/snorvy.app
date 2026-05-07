@@ -1,0 +1,102 @@
+[
+  {
+    "appId": "com.keepertax",
+    "title": "Keeper",
+    "developer": "Keeper Tax",
+    "free": false,
+    "price": null,
+    "summary": "Taxes built for your complexity",
+    "icon": "https://play-lh.googleusercontent.com/RJWxIGU1lUYVaeOMyhScxE3QAY0I6nGkWA_Xe9h8YXzaAASR-6qRH9UOxGyXTQ6BGA"
+  },
+  {
+    "appId": "com.callpod.android_apps.keeper",
+    "title": "Keeper Password Manager",
+    "developer": "Keeper Security, Inc.",
+    "score": 4.2916665,
+    "scoreText": "4.3",
+    "free": false,
+    "price": null,
+    "summary": "Password Manager &amp; Vault for Unlimited Storage, Autofill &amp; Dark Web Monitoring",
+    "icon": "https://play-lh.googleusercontent.com/YsyGTAx0w5vlzSE_l3gF_Nm8hKyxw8wSjtbKOmcm-elPLuCOlR-D5wBucNUQup6FCTQ"
+  },
+  {
+    "appId": "com.keeper.app",
+    "title": "Keeper: Know Before You Ask",
+    "developer": "OnionKnights Software Private Limited",
+    "free": false,
+    "price": null,
+    "summary": "Calm leave planning with less stress",
+    "icon": "https://play-lh.googleusercontent.com/K8ExOmhEIkqO6WWG8AX_bqVacr4qnbEg9Js7c3GQBOxGyl_JrfYLd_tP2j4guLeq6bgK8R0KkzLi3q06W8NtLw"
+  },
+  {
+    "appId": "com.hrblock.AtHome",
+    "title": "H&R Block Tax Prep: File Taxes",
+    "developer": "H&R Block Digital Tax",
+    "free": false,
+    "price": null,
+    "summary": "Easily e-file your 2025 taxes &amp; file confidently with H&amp;R Block&#39;s Tax Prep App.",
+    "icon": "https://play-lh.googleusercontent.com/_JWS78MYOM2i7Ow7lxlD-gtyALGIF4Szgm8JZrhhQ9ygX0fcf9PUoe-LbSTtdv44jxU"
+  },
+  {
+    "appId": "com.hrblock.blockmobile",
+    "title": "MyBlock: Tax Docs & Refund",
+    "developer": "H&R Block",
+    "free": false,
+    "price": null,
+    "summary": "Upload tax docs, estimate refunds, and track your tax return status.",
+    "icon": "https://play-lh.googleusercontent.com/se2MuOmrSIdiBTbx4_fVk-933hnRiFlHcpT1uGAmx4Fq6HwBmJe9UfvwwV4kifSLvQ"
+  },
+  {
+    "appId": "com.intuit.turbotax.mobile",
+    "title": "TurboTax: File Your Tax Return",
+    "developer": "Intuit Inc",
+    "score": 4.3,
+    "scoreText": "4.3",
+    "free": false,
+    "price": null,
+    "summary": "E-file Taxes &amp; Get Your Refund",
+    "icon": "https://play-lh.googleusercontent.com/xVaPR_ZbYf0Ni-VEcihthrkl3Pw9MNPQVn4VVMNNYjMKG7h4UX_Wiqge1RziNAOs3U8IUONId5j7TjVoo_ckPus"
+  },
+  {
+    "appId": "com.taxslayerRFC",
+    "title": "TaxSlayer: File your taxes",
+    "developer": "TaxSlayer",
+    "score": 0,
+    "scoreText": "0.0",
+    "free": false,
+    "price": null,
+    "summary": "Max refund plus 100% accuracy",
+    "icon": "https://play-lh.googleusercontent.com/zS8jL0Padu7vFoua7iBRhsNEDCyNctXRtrJnBmxAjSgO0oy850li6HL2Y0_ey2AGXJo"
+  },
+  {
+    "appId": "gov.irs",
+    "title": "IRS2Go",
+    "developer": "Internal Revenue Service",
+    "score": 3.375,
+    "scoreText": "3.4",
+    "free": false,
+    "price": null,
+    "summary": "IRS2Go is the official app of the Internal Revenue Service.",
+    "icon": "https://play-lh.googleusercontent.com/oYHJNqaLjl2cWfIlQ-3RPCv6RV_eIBEavrAeG1D1Fsobb6XhFAcVNoFIBiZpglmKeoLOSAnJw57c_yHbC4Si"
+  },
+  {
+    "appId": "com.blanco.keeper",
+    "title": "Keeper, la seguridad y comunid",
+    "developer": "Blanco Estudio",
+    "free": false,
+    "price": null,
+    "summary": "We help you manage condominiums and create community among your residents.",
+    "icon": "https://play-lh.googleusercontent.com/G7_cZ4igCgPLFuAMmKrmEz6FghQVo7QfxMLDk77alAqSyb2YREYLWSZtaRy4YaxIeWo"
+  },
+  {
+    "appId": "com.bookkeeper",
+    "title": "GST Invoice Billing Inventory",
+    "developer": "Just Apps Pvt. Ltd.",
+    "score": 0,
+    "scoreText": "0.0",
+    "free": false,
+    "price": null,
+    "summary": "Invoicing, Inventory, Expenses and Accounting on the go for small businesses.",
+    "icon": "https://play-lh.googleusercontent.com/7JSR_v17Nj12LbUgxL6fNttrnLJCsD0JHGm8t6b-PM0m-dHIhyk09yEzi12yj2smc5s"
+  }
+]

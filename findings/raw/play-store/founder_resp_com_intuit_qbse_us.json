@@ -1,0 +1,2008 @@
+{
+  "app": "com.intuit.qbse",
+  "country": "us",
+  "total_pulled": 200,
+  "total_after_filter": 200,
+  "reviews": [
+    {
+      "date": "2026-05-04T23:53:31.269Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "Johnny S",
+      "text": "somehow it seems like there's always an issue, with account access transactions.",
+      "reply": "Hi, Johnny. Are you seeing the same issues in a web browser, or is it just in the app? If you haven't already, please visit https://tinyurl.com/2g8lae6r for steps on fixing normal banking issues. Should you still need assistance, please email us at qbcares@intuit.com with a few screenshots, if possible, and account details. Talk soon! -Myshka",
+      "replyDate": "2026-05-06T22:00:09.596Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=046c5890-fe4e-4635-8dfe-31f36bb4a931"
+    },
+    {
+      "date": "2026-05-04T19:18:45.612Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Leanne Nealon",
+      "text": "isnt updating my income and profits at all",
+      "reply": "Hi, Leanne. Let's work together to get this info updated. We'll start with clearing the app's cache (Settings > Apps > QuickBooks > Storage > Clear Cache) and checking for app updates. We're also curious to see if you encounter similar update issues on the website (https://selfemployed.intuit.com/login). Let us know at qbcares@intuit.com. -Caitlyn",
+      "replyDate": "2026-05-06T12:47:45.370Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=f79c9c7a-4d7a-4380-9399-998717688a1e"
+    },
+    {
+      "date": "2026-04-27T08:29:53.967Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "polly thornton",
+      "text": "I have never been able to use this app without it crashing. it's absolutely dreadful!",
+      "reply": "Let's work together to put an end to this crashing you're experiencing, Andrew. To start, we recommend clearing the app's cache (Settings > Apps > QuickBooks Workforce > Storage > Clear Cache) and uninstalling/reinstalling it. If you're still having issues, please let us know (QBCares@Intuit.com). Well wishes. ^Kristina",
+      "replyDate": "2026-05-02T13:51:53.590Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=44a4afba-c9ef-426e-9101-17f6806a9de6"
+    },
+    {
+      "date": "2026-04-24T15:39:14.978Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Edgar F Ruiz-Gomez",
+      "text": "This app get confused to another bank accounts that I did not link so now it's a mess I have expenses that shouldn't be there so now my profit and loss it's all messed up",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=504091d8-e40d-4df4-abf6-b1ba002d1f10"
+    },
+    {
+      "date": "2026-04-15T00:34:12.795Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Walter Tejada",
+      "text": "this app is terrible it stopped working and it won't connect to my bank it won't let me create invoices it's pretty much useless without that stuffdo not get it do not pay that year or monthly fee go to jobber app or something else",
+      "reply": "Hello. Are you seeing the same bank connectivity issues in a web browser, or is it just in the app? If you haven't already, please visit https://tinyurl.com/2g8lae6r for steps on fixing common banking issues. Should you still need assistance, please email us at qbcares@intuit.com with a few screenshots, if possible. Talk soon! -Myshka",
+      "replyDate": "2026-04-15T22:17:43.830Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=e5bea764-d57b-42b2-be09-304148c78125"
+    },
+    {
+      "date": "2026-04-10T11:32:41.945Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Rob Bennett",
+      "text": "useless",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=168b45ee-7d9e-4a35-930d-316ad4331579"
+    },
+    {
+      "date": "2026-04-10T09:33:24.114Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Marie-Therese Duncan",
+      "text": "Paying twice, trying to get a refund for over 3months now. And still can't get it!!!!! Now sent forms I can't complete. How difficult is it to look up my name and account and see that there are two payments being made 😡 4 months I've been fighting and still no person to talk to or email directly!!!!! 😡😡😡😡😡",
+      "reply": "Hi, Marie. This definitely isn't the experience we want you to have with QuickBooks. Since you're looking for a refund on double billing, you can request one here (https://tinyurl.com/mr2e2v89). We also recommend checking for any duplicate accounts tied to your Intuit login (https://accounts.intuit.com). We hope this helps. -Caitlyn",
+      "replyDate": "2026-04-07T20:14:39.562Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=95d47e43-3a38-4af1-a1dd-c25617d43655"
+    },
+    {
+      "date": "2026-04-04T16:52:47.141Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Marcus Ezzone",
+      "text": "I lost all my logged work expenses because your app won't sync with chase bank anymore. keep getting error messages all week long and now it's all gone. very frustrating",
+      "reply": "Thanks for letting us know, Marcus. We have some steps that can help. We'll start by checking for app updates, then rebooting your device. Please email us at QBCares@Intuit.com if you're still unable to upload receipts. Thanks. -Caitlyn",
+      "replyDate": "2025-07-01T16:46:34.902Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=b663aa17-3872-4cd8-aa6a-1b3c16e04de6"
+    },
+    {
+      "date": "2026-03-30T20:00:07.730Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Jodie Gray",
+      "text": "used to love this app for my business. recently it's stopped updating with transactions to approve from my bank. making my end of year very difficult",
+      "reply": "Hey, Jodie. Are you seeing the same issues in a web browser, or is it just in the app? If you haven't already, please visit (https://tinyurl.com/2g8lae6r) for steps on fixing normal banking issues. Should you still need assistance, please email us at qbcares@intuit.com with a few screenshots, if possible, and account details. Talk soon! -Myshka",
+      "replyDate": "2026-04-01T21:24:04.960Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=d4fa6f28-77a2-4fe6-b40a-7a9fa92515f6"
+    },
+    {
+      "date": "2026-03-22T21:02:46.303Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Greg Phillips",
+      "text": "Can anybody recommend an app like this that actually works? This gets more and more expensive while the whole time it has more and more glitches. Loses me more and more money. It quietly fails so I never catch the glitch until I dont have the time to manually fix the hundres of missed transactions or trips. And I would say the customer service sucks but that would imply that they had customer service.",
+      "reply": "Thanks for making us aware, Greg. Please know that common app issues can be solved with simple troubleshooting such as clearing the app's cache, switching between data and wifi, and rebooting your device. Should these not work to correct the missed transaction/trips, email qbcares@intuit.com. Hoping this helps. -Myshka",
+      "replyDate": "2026-04-01T21:22:35.260Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=8d2ae700-df2b-4108-9b23-0391a1c784cf"
+    },
+    {
+      "date": "2026-03-12T00:08:46.370Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "william swan",
+      "text": "every year This app charges me double for 3 months and then i lose everything while i have to chase up the app and my invoices dont get paid. I have stayed loyal to them for a long time but it is wereing thin.",
+      "reply": "This isn't normal billing behavior, William, and we'd like to get to the bottom of it. Please email qbcares@intuit.com and we'll do our best to get it sorted out. Best regards. -Myshka",
+      "replyDate": "2026-03-25T21:51:43.989Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=651d41b1-94fa-4f3c-ae97-88aa988e1ed8"
+    },
+    {
+      "date": "2026-03-11T14:50:18.880Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "Charles Staton",
+      "text": "The notifications list is for notifications. New information that needs attention. Why does QBSE use it as a constant reminder that mileage tracking is turned on? I clear the notification and next time I open my phone it's back. maddening! why?!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=bb8f7818-1119-4916-9d28-74c2ac8d85f1"
+    },
+    {
+      "date": "2026-03-07T15:06:06.430Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Maranda Czada",
+      "text": "I have purchased QBSE for 8 years now. Somewhere along the way, it stopped tracking mileage even though it says it is. So for all of 2025 I have to input every single trip - HUNDREDS. Terrible app. waste of money. I will be expecting a full refund for my last annual purchase.",
+      "reply": "Thanks for being a longtime member of the QuickBooks family, Maranda! We're here to help get your mileage back on track. We recommend the steps outlined here (https://community.intuit.com/articles/1763674). We hope these help. Best. -Caitlyn",
+      "replyDate": "2026-03-10T19:50:02.407Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=3f9ac49a-85dd-45e6-9a82-d75c4bcb62c3"
+    },
+    {
+      "date": "2026-02-23T08:43:37.342Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "James Treloar",
+      "text": "Awful so far. Stops updating my transactions so I have to unlink my account and re-link it which then loses all the transactions older than a month. Quite awkward to accept paying £15 for an accounting software that doesnt work and is going to make my end of year tax return very difficult",
+      "reply": "Hey, James. Let's work together to get you your bank connection working once again. Are you seeing an error message with the connection or something else? Let us know at QBCares@Intuit.com and we'll check it out. Best. -Caitlyn",
+      "replyDate": "2026-02-27T15:29:10.335Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=97d6040c-e3a6-4c3e-9f24-392da993010a"
+    },
+    {
+      "date": "2026-02-18T06:58:39.945Z",
+      "score": 1,
+      "thumbsUp": 8,
+      "user": "3BCLover",
+      "text": "Hi QBSE, 2/17/26 - TROUBLE AGAIN W/ELECTRONIC PMTS--Please fix. I KNOW how to turn OFF pmts. I am a TWENTY-PLUS YEAR SUBSCRIBER! Update of 2/17 screwed up AGAIN FIX THIS. App automatically turns them BACK ON when I send the inv to clients! I turn off pmts, save as draft, when I reopen, pmts are BACK ON! I turn off AGAIN, email, and my clients see electronic pmts are turned ON! FIX THIS!!! And the HELP button always says ERROR, so I cannot even chat with QBSE😤😖 for $25 a month this is GARBAGE!",
+      "reply": "Hi there. The option to turn off electronic payments can be found under Settings in the app. If you have issues, you can try these troubleshooting steps. First, clear the app's cache (Settings > Apps > QuickBooks > Storage > Clear Cache), then log out/back in. If you still have issues, let us know. -Caitlyn(QBCares@Intuit.com)",
+      "replyDate": "2024-06-14T14:34:58.647Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=b7aa7deb-536b-49cb-b722-c887aecd8a94"
+    },
+    {
+      "date": "2026-02-17T21:19:18.580Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "oldryan Hildreth",
+      "text": "The worst ever! it's a scam they don't track what they promised and try to get you to spend more money.",
+      "reply": "We'd love to help. Please let us know a few more details about what you're experiencing and we'll do our best to get you back to tracking what you need. Hope to hear back from you soon. -Myshka",
+      "replyDate": "2026-02-18T19:35:28.939Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=f521b71e-96cf-4d7f-9f69-704382e8eeac"
+    },
+    {
+      "date": "2026-02-17T05:33:45.334Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "Krystal Santiago",
+      "text": "it will not let me pay with Google play. it says all my payment methods are out of country including credit cards",
+      "reply": "We're here to help. Krystal! Have you tried paying through Google Play Store in a browser instead of the app? If you're seeing the same problem, we encourage you to email us at qbcares@intuit.com so we can find the cause of this payment method issue. All the best. -Myshka",
+      "replyDate": "2026-02-18T19:30:03.119Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=173d8a68-bdeb-4cbf-bf44-83884906c21d"
+    },
+    {
+      "date": "2026-02-14T23:59:48.485Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "frp forums",
+      "text": "good but link with business account doesn't work properly",
+      "reply": "Hi there. Are you seeing the same issues in a web browser, or is it just in the app? If you haven't already, please visit https://tinyurl.com/2g8lae6r for steps on fixing normal banking issues. Should you still need assistance, please email us at qbcares@intuit.com with a few screenshots, if possible, and account details. Talk soon! -Myshka",
+      "replyDate": "2026-02-18T19:26:58.720Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=6b702437-6440-414e-8299-b8db03e173c5"
+    },
+    {
+      "date": "2026-02-08T16:01:12.389Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Kayleigh Best",
+      "text": "using QuickBooks for 6 years and I’m officially done. The app is painfully slow, constantly throws “error loading invoices” messages, and regularly takes 10 minutes just to open invoices. What should be a quick weekly task turns into something I dread every single week because of how unreliable and glitchy this app is. For a platform built for businesses, this level of performance is unacceptable. After years of frustration, I’ll be switching to a different app. 6 years was more than enough.",
+      "reply": "We appreciate you giving the app a try and we value your feedback. Please know that common app issues can be solved with simple troubleshooting such as clearing the app's cache, switching between data and wifi, and rebooting your device. If you still have issues and require further assistance, email qbcares@intuit.com. Hope this helps. -Myshka",
+      "replyDate": "2026-02-18T17:08:56.913Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=611da92d-7f57-499c-9aa4-b58422f98327"
+    },
+    {
+      "date": "2026-02-05T01:25:30.551Z",
+      "score": 1,
+      "thumbsUp": 4,
+      "user": "Chris S",
+      "text": "Have just about every customer telling me they never received the invoice QB sent. Constantly sending them through text when I find out they can't find the original email. Payments get stacked up, which in turn can cause an extra delay in receiving the funds. recently found out that they are now charging fees no matter if it's ACH or CC. If a customer pays you through QB, they charge you with every transaction now. every payment you receive will cost you in the end. I'm done invoicing with QB.",
+      "reply": "We'd like to help you with this invoicing issue you're having, Chris. If clearing the app's cache, restarting your device, and switching between data and Wi-Fi don't help, our developers would like us to gather some details so they can further look into this issue for you. Please email QBCares@Intuit.com when you have a moment. Best. -Myshka",
+      "replyDate": "2025-08-20T21:00:46.965Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=0f8541b6-63c6-4eb9-84de-711877be3668"
+    },
+    {
+      "date": "2026-01-25T13:30:00.938Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Mary Lou",
+      "text": "The app works smoothly and when I have encountered problems in the past the customer service team was able to walk me through how to manage my problem quickly.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=3d509d1b-76ca-4ded-8448-2b7ea08c024c"
+    },
+    {
+      "date": "2026-01-14T15:39:58.547Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "N Myrs",
+      "text": "at the moment trying to subscribe to QBSE is almost impossible as all my payment methods are not useable in this region which doesnt make sense since im in the uk. its abit frustrating after using it flawlessly for the last 4 years to do my self employed tax",
+      "reply": "Hello there. The QBSE app has been discontinued in the US & UK and is no longer receiving updates or support. We invite you to check out QB Solopreneur (https://tinyurl.com/bday3zhs), the newest mobile app for self employed businesses. Regards. -Myshka",
+      "replyDate": "2026-02-18T17:04:28.666Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=d874e7b2-d757-437c-887a-7d8be0ac6ceb"
+    },
+    {
+      "date": "2026-01-04T16:21:59.680Z",
+      "score": 1,
+      "thumbsUp": 2,
+      "user": "Prudence Glover",
+      "text": "Mileage track acct sync & Google integrations never work! But my autopay function works fine for them to charge me monthly. At first, it tracked miles in Both of my vehicles, then without notice, it stopped in one, then all together. I had to go to google maps and hand copy all of my location timeline from maps to the QB online acct bc it won't allow in app. Google and Intuit are the same company, these integrations should be seamless. Their online directions on how to do this don't work.",
+      "reply": "Thanks for letting us know what's happening with your mileage, Prudence. When importing trips from Google Timeline, it's recommended to head to the website. Here's a handy article on importing from Google (https://tinyurl.com/4hadhw24). If you're still having issues tracking trips, please email us with some examples. -Caitlyn(QBCares@Intuit.com)",
+      "replyDate": "2025-05-16T12:55:33.419Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=c135a0d2-eb1c-44b2-af90-ac9a8f76a908"
+    },
+    {
+      "date": "2026-01-02T05:06:56.111Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Ineptstation",
+      "text": "DO NOT GET THIS! THIS IS A WARNING! THIS APP WILL LOCK OUT YOUR ENTIRE YEAR REGARDLESS OF WHETHER YOU ARE FINISHED REVIEWING ITEMS. TAKE IT FROM SOMEONE WHO JUST LOST AN ENTIRE YEARS WORTH OF RECEIPTS AND MILEAGE TRACKING. THIS APP WILL ABSOLUTELY SCREW YOU. DO NOT USE IT!!!!",
+      "reply": "Hi, Ineptstation. We're here to help out, so you can get back into the app and review your info. Are you able to access the website at all(https://selfemployed.intuit.com/login)? If you have trouble, please email us at QBCares@Intuit.com with some account info and we'll check it out. Best. -Caitlyn",
+      "replyDate": "2026-01-06T20:54:13.447Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=9250ff71-0606-4c50-b727-e5cc3d661d87"
+    },
+    {
+      "date": "2026-01-01T08:32:29.974Z",
+      "score": 1,
+      "thumbsUp": 9,
+      "user": "Patrick T",
+      "text": "does the same thing on the website. so it's a design and program issue not an error in the cache (if you knew your product, you'd know that. get with the game and modify it) I can't tag excluded transactions. it'd be helpful to give a category for excluding. i.e. counted in pos or xyz. the tag button showed up like I could, but the field disappeared so anything in it was deleted, and the icon has nowhere to put it",
+      "reply": "Allow us to lend a hand, Patrick. If you haven't already, please try, clearing the app's cache, reinstalling the app, logging out then back in and rebooting the device. Truly hoping this helps you out. -Myshka (qbcares@intuit.com)",
+      "replyDate": "2025-12-24T23:59:04.728Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=0daa58f9-17bb-45fd-b593-e2a5e7f173a3"
+    },
+    {
+      "date": "2025-12-29T15:45:48.940Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Kat Mcwhirt",
+      "text": "Absolutely the worst app with the worst customer service! They should be able to receive negative stars.",
+      "reply": "This isn't the impression we'd like to leave you with, Kat. It's definitely not the quality of service we strive to provide. Please email us at qbcares@intuit.com so we can gather information from you and assist as best as possible with your app issues. Talk soon. -Myshka",
+      "replyDate": "2025-12-31T18:43:39.501Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=4303e348-a400-4669-82e7-ec405fcd816d"
+    },
+    {
+      "date": "2025-12-16T10:08:26.157Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Darren Thorne",
+      "text": "not working",
+      "reply": "Thanks for making us aware, Darren. Please know that common app issues can be solved with simple troubleshooting such as clearing the app's cache, switching between data and wifi, and rebooting your device. Should these not work to correct the app issues you're facing, email qbcares@intuit.com. Hoping this helps. -Myshka",
+      "replyDate": "2025-12-24T23:56:12.823Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=43aa9f0c-98b3-4238-85f7-da5df1739842"
+    },
+    {
+      "date": "2025-12-12T05:41:19.110Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Thomas Foxen",
+      "text": "same as everyone on newest version in reviews. invoicing doesn't work. clearing cache doesn't help.",
+      "reply": "Hey, Thomas. We'd like to investigate this invoicing issue. Aside from clearing the app's cache, let's also try checking for app updates. If you're still having trouble, please let us know at QBCares@Intuit.com. We look forward to assisting you. -Caitlyn",
+      "replyDate": "2025-12-19T19:47:09.465Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=a824f23c-6e47-4364-b624-53ed84109bf2"
+    },
+    {
+      "date": "2025-12-11T06:38:51.674Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "DanNarn Schulz",
+      "text": "can mt access my invoices lately and can lt reach anyone who can help either. so frustrating.",
+      "reply": "Hey, DanNarn. If you're having trouble accessing invoices on the mobile app, we're interested to see if you have similar problems on the website (https://selfemployed.intuit.com/login). Let us know at QBCares@Intuit.com and we'll check it out. All the best. -Caitlyn",
+      "replyDate": "2025-12-19T19:29:34.773Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=c09e4b29-183f-415f-8200-522029a73f19"
+    },
+    {
+      "date": "2025-12-10T03:52:07.545Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Claire Emery",
+      "text": "why am I paying for this if it won't even open",
+      "reply": "Hey, Claire. It's our goal to help out and ensure you can open the app without error. Let's start with clearing the app's cache (Settings > Apps > QuickBooks > Storage > Clear Cache) and checking for app updates. If the app still won't open, let us know at QBCares@Intuit.com. Best. -Caitlyn",
+      "replyDate": "2025-12-19T18:35:25.626Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=d9df9a52-f5f9-42ae-9e37-7aa81412c2b4"
+    },
+    {
+      "date": "2025-12-05T18:52:09.195Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Jenicka Comstock",
+      "text": "Can't open app after last update, keeps telling me it has a bug.",
+      "reply": "Hey, Jenicka. We're here to investigate this error. Let's start with clearing the app's cache (Settings > Apps > QuickBooks Self-Employed > Storage > Clear Cache) and checking for app updates. If you still encounter this message, let us know at QBCares@Intuit.com. Best. -Caitlyn",
+      "replyDate": "2025-12-19T17:56:23.167Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=d262cc80-9a21-4892-a9a6-e9efc9024123"
+    },
+    {
+      "date": "2025-12-05T04:39:22.574Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Den Adams",
+      "text": "QBSE won't open on my phone. The suggested repair is to reinstall it but the app is no longer in the Play Store. Now I can track mileage or enter transactions. Unless I use the web, I can't get to my data.",
+      "reply": "Hey, Den. That's correct, the QuickBooks Self-Employed mobile app has been de-listed from the Play Store, however, some users have reported being able to reinstall with these steps (https://tinyurl.com/ykxztmx4). Otherwise, you can continue accessing your account on the website. We hope this helps. -Caitlyn",
+      "replyDate": "2025-12-19T16:14:51.550Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=eac03954-a964-47fa-9202-65f0424006eb"
+    },
+    {
+      "date": "2025-12-05T03:04:39.780Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Oliver Pohlmann",
+      "text": "Never works. Loads to a black screen and just hangs. Inexcusable when you consider we pay to use this service. I shouldn't have to log out and back in, or clear my cache every time I want to use this. Fix it!",
+      "reply": "Hey, Oliver. We know how issues like this can affect your workflow. If you have problems that stick around even after those troubleshooting steps, please let our team know at QBCares@Intuit.com and we'll check it out. Wishing you the best. -Caitlyn",
+      "replyDate": "2025-12-19T15:51:35.900Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=9e220509-ba27-4a7e-9bdd-4c0c3ddc3dab"
+    },
+    {
+      "date": "2025-12-02T22:48:53.360Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Sarah Holbrook",
+      "text": "This app stopped working and just shows a white screen. I have used this app for more than 8 years. So disappointed. I had to unsubscribe and now i have to find something else.",
+      "reply": "Hi, Sarah. This definitely isn't the experience we wanted you to have with QuickBooks Self-Employed, but we understand you must do what's best for you and your business. If you decide to give us another chance, please know we do have a support team on deck to handle issues like this (https://tinyurl.com/h9p8xwj7). Wishing you the best. -Caitlyn",
+      "replyDate": "2025-12-19T15:47:35.115Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=010d3a7f-95bf-4772-8dab-d6f07c38b38e"
+    },
+    {
+      "date": "2025-11-27T01:59:46.500Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Paul Rayner",
+      "text": "Falsely advertised - Does not allow to tag or group to categories expenses. Although it looks like it has this option. Subscribed and pay but figured out within 10 min it lackes functions above and canceled. still got charged with no refund. Zero support",
+      "reply": "We appreciate you giving the QuickBooks Self-Employed app a try, Paul. While these features may not have been available here, you may be interested to see if they are available in the QuickBooks Online app instead. Check out pricing and features to find a plan that fits your needs (https://quickbooks.intuit.com/pricing/). Best. -Caitlyn",
+      "replyDate": "2025-12-19T15:38:27.291Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=c277cd22-d560-49f3-a447-e64098aeffa7"
+    },
+    {
+      "date": "2025-11-23T21:45:57.700Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "Ren Whitelaw",
+      "text": "so buggy",
+      "reply": "Hi Ren. We want to help. Have you checked to be sure your app and device's operating system are up to date, logged out, restarted, and cleared your app's cache (Phone Settings > Apps > QuickBooks > Storage > Clear Cache)? If you have and you're still having problems, please email our team so we can work together. Best. -Karey (QBCares@intuit.com)",
+      "replyDate": "2025-11-24T23:36:04.439Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=1b37cc2a-1eea-48d0-b7ac-34c127080da7"
+    },
+    {
+      "date": "2025-11-19T22:21:16.178Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "Daniel Rangel",
+      "text": "Has a lot of bugs. Some things I could do before will stop working and have to troubleshoot with them on the phone. frustrating when trying to send invoices. bugs in the software and I don't get notifications about them",
+      "reply": "Hey, Daniel. We're here to help squash these bugs. Let's start with clearing the app's cache (Settings > Apps > QuickBooks > Storage > Clear Cache), logging out/back in, and then rebooting the device. If you still have issues sending invoices, let us know at QBCares@Intuit.com. Wishing you the best. -Caitlyn",
+      "replyDate": "2025-11-21T15:22:51.653Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=06667a61-3ab3-4ab6-9476-c91e24a3e862"
+    },
+    {
+      "date": "2025-11-16T21:52:22.631Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "Elysse Bulloch",
+      "text": "I can't open the app most of the time",
+      "reply": "Hey, Elysse. We're interested to hear what happens when you try opening the app. Are you receiving an error for instance? If so, let's try checking for app updates, rebooting the device, and then switching to a different Wi-Fi or mobile network. Email us if you continue to have issues. Best. -Caitlyn(QBCares@Intuit.com)",
+      "replyDate": "2025-11-18T19:51:35.928Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=100c688b-fea5-4f6e-a4f9-bfab21432f14"
+    },
+    {
+      "date": "2025-11-15T02:30:51.370Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "Kisa Daniels",
+      "text": "Love it when the app works, but it usually only works a couple of times after reinstalling and then crashes again.",
+      "reply": "We're here to help with your app crashing, Kisa. Aside from uninstalling, we recommend rebooting the device and switching to a different Wi-Fi or mobile network. These steps have proven to resolve crashing issues in the past. However, if you still have issues, please email us at QBCares@Intuit.com. Best. -Caitlyn",
+      "replyDate": "2025-11-18T19:47:42.894Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=3fa87eec-b3c0-477e-9b21-40ed891de7aa"
+    },
+    {
+      "date": "2025-11-12T14:10:54.125Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Chris Boone",
+      "text": "after 3 years of pretty good use all the important stuff stopped working I can't duplicate previous invoices and I can't connect my Chase bank account anymore",
+      "reply": "We're here to help, Chris. When duplicating invoices, we're curious to see if you encounter an error or not? We'd also like to know if you experience both issues on the website (https://selfemployed.intuit.com/login). Let us know at QBCares@Intuit.com and we'll check it out. Best. -Caitlyn",
+      "replyDate": "2025-11-14T15:53:46.534Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=ff487360-4f61-48ec-9a00-62b82754364d"
+    },
+    {
+      "date": "2025-11-06T17:57:39.362Z",
+      "score": 3,
+      "thumbsUp": 1,
+      "user": "Tamisha Martin",
+      "text": "No longer copies the entire invoice in the \"make a copy\" option so you you can't make changes without having to redo the whole invoice over. Also no updates once invoice sent with the option to resend invoice. Bad Upgrades.",
+      "reply": "Hey, Tamisha. We're here to help! When making invoice copies, do you see similar issues on the website (https://selfemployed.intuit.com/login), or is this app exclusive? For the app specifically, let's try clearing its cache (Settings>Apps>QuickBooks Self-Employed>Storage>Clear Cache). Email us at if this persists. -Caitlyn (QBCares@Intuit.com)",
+      "replyDate": "2025-11-07T19:47:43.287Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=2c4769d7-899e-417e-964a-f8f97345c794"
+    },
+    {
+      "date": "2025-11-06T09:32:03.440Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "andrew Wallis",
+      "text": "Neither the online computer or app will work with bank links. Refund of charges for a non operating system are ignored. Help desk close cases they cannot fix. This has been happening for 2 years with no solution.",
+      "reply": "Hi, Andrew. It's our goal to help resolve all of your banking issues. Are you seeing an error message, or is something else going on? Let us know at QBCares@Intuit.com, so we can investigate. -Caitlyn",
+      "replyDate": "2025-11-07T19:17:53.795Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=d69dbe92-16f2-4c00-a96d-6b44a749d25c"
+    },
+    {
+      "date": "2025-11-04T18:47:08.759Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Kevin Mccliment",
+      "text": "unable to update phone number in merchant center. foreign customer service is worthless. appears they want to keep your money to accrue interest since you can't update deposit info easily. this product should be investigated by the US Congress. Chat support from merchant center never connects you with an expert. just sits there blank. positive customer service is non existent with this company. Intuit your response to this post shows well you did not read my needs. The number cannot be updated.",
+      "reply": "Hey, Kevin. We'd like the opportunity to help out and ensure you can get your information updated. These changes can be made on the website using the steps outlined here (https://tinyurl.com/2s4573m3). If you still have issues, our support team should have the tools to help (https://tinyurl.com/h9p8xwj7). Hope this helps. -Caitlyn",
+      "replyDate": "2025-11-04T18:39:15.966Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=86a4b32f-b912-4c1e-bc1f-e84e70a9c49e"
+    },
+    {
+      "date": "2025-10-31T16:22:56.257Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Debra Fonger",
+      "text": "I've had the quickbooks app for over 6 years and all of a sudden I can't open the app in my phone. very frustrating",
+      "reply": "Thanks for being a longtime member of the QuickBooks family, Debra. Since you're having login issues, we're curious to know if you have similar issues on the website (https://selfemployed.intuit.com/login). Let us know at QBCares@Intuit.com so we can investigate. Best. -Caitlyn",
+      "replyDate": "2025-11-04T20:24:28.340Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=d1e6a1c3-2b62-4824-9d38-9adac913f661"
+    },
+    {
+      "date": "2025-10-31T12:07:55.400Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Isa Edgar Simukonis",
+      "text": "How to cancel subscription!?",
+      "reply": "Hey, Isa. Subscriptions can be canceled on the website, or if you signed up through the Play Store than you'll cancel there as well. Here, you can find all the steps you need to cancel (https://tinyurl.com/5hy2kynh). Wishing you the best! -Caitlyn",
+      "replyDate": "2025-11-04T17:02:40.622Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=ec19e902-c74c-4d65-a311-372ac0711ec8"
+    },
+    {
+      "date": "2025-10-30T00:24:18.144Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "Amadeus Music",
+      "text": "My auto milage stopped working. I left the country and it recorded my trip from the Brisbane airport to my friends house but I was not in my car!! It never picked up until 2 months had past. So I have to enter manually. Little frustrating to say the least. i also purchased a new phone and wont seem to update the info from my old 21 to the new 24 Galaxy.",
+      "reply": "Hey there, Amadeus Music. Let's work together to get your mileage back on track by first running through the steps outlined here (https://tinyurl.com/wv8p64hd). If you're continue to miss trips, please email us at QBCares@Intuit.com with specific examples (dates, times, locations) and we'll investigate. Best. -Caitlyn",
+      "replyDate": "2025-10-31T16:17:11.563Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=9b07740f-e094-4694-a0d8-fb1bff6511ec"
+    },
+    {
+      "date": "2025-10-25T13:16:26.490Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Susan Alberto",
+      "text": "Constantly crashes after updates. QBSE has never kept track of federal and state tax payments. I contacted intuit about the issue, Which apparently you can no longer do or I can't find how to speak to a live person, about the fact that my app crashes every single time that I try to open it.",
+      "reply": "Hey, Susan. We'd like to investigate this crashing issue. Let's start by trying some troubleshooting steps, first try clearing its cache (Settings > Apps > QuickBooks > Storage > Clear Cache), uninstalling/reinstalling, and then logging out/back in. Let us know if you still experience crashing. -Caitlyn(QBCares@Intuit.com)",
+      "replyDate": "2025-10-28T15:25:53.579Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=3b28d978-f3f0-4c6c-96d3-b740c4252697"
+    },
+    {
+      "date": "2025-10-23T01:52:35.468Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "James House",
+      "text": "The app does not track my mileage. I have done everything they told me, but this feature is not working. Honestly this app seems overpriced considering that it doesn't do half what I need it to and what they advertised",
+      "reply": "Hey, James. We're here to help with all of your mileage needs. To confirm, are these the steps you've already performed (https://tinyurl.com/bdfpmz9d)? Otherwise, let's try them now. If you still have issues, please email us at QBCares@Intuit.com with some specific examples (dates, times, locations) and we'll investigate. Best. -Caitlyn",
+      "replyDate": "2025-10-24T16:04:39.224Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=cc53f2da-a1cb-4d7c-bb48-d7a00c69a302"
+    },
+    {
+      "date": "2025-10-22T00:18:24.877Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "Grant Pinnington",
+      "text": "ddissappointing auto entry from my bank is not available",
+      "reply": "Great news, Grant. Bank accounts can be linked for faster entry of transactions into QuickBooks. Here's how (https://tinyurl.com/2s3kkbcb). If you have any questions, don't hesitate to reach out to our team (https://tinyurl.com/h9p8xwj7). Wishing you the best. -Caitlyn",
+      "replyDate": "2025-10-24T15:45:07.731Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=8f161b8d-67c7-4746-926c-af492f70242d"
+    },
+    {
+      "date": "2025-10-21T09:00:19.323Z",
+      "score": 1,
+      "thumbsUp": 4,
+      "user": "Graham Cahill",
+      "text": "Edit. They discontinued this product without telling me and I'm now left in a position where I cant upload reciepts from an image file and its half way through the financial year. I wouldn't now recommend Intuit let alone quickbooks. They have left me in deep trouble with no way to resolve without a lot of messing around. if they sort this problem I'll re write this review.",
+      "reply": "We appreciate you reaching out about your bank connection, Graham. Let's get it working so you can use the app as designed. When you get a chance, try logging out, restarting your device, and logging back in. If the problem persists, please send us an email so we can work together. Wishing you the best of luck. -Karey (QBCares@intuit.com)",
+      "replyDate": "2024-03-28T16:25:49.312Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=49e0c8da-c893-47a3-b8d4-7a8090d05fc9"
+    },
+    {
+      "date": "2025-10-15T13:38:37.731Z",
+      "score": 3,
+      "thumbsUp": 7,
+      "user": "Caterina Murphy",
+      "text": "This app really does help keep all my accounting info organized, but recently, the mileage tracker has not been recording trips correctly. I made sure the location on my phone was on and working in the background. It's very frustrating having to go in each day delete what it did track and manually add trips. I have recently got a new car and set it as the primary vehicle, deleted the old mileage rules, and created a new rule with the new vehicle and it still tracks it with the old vehicle.",
+      "reply": "Let's work together to get your mileage back on track, Caterina! We have a few steps aside from what you've mention that we recommend (https://tinyurl.com/bdfpmz9d). For missed trips, you can also recover them with the steps here (https://tinyurl.com/cc8vm4bk). Email us if mileage issues continue. -Caitlyn (QBCares@Intuit.com)",
+      "replyDate": "2025-10-17T19:26:58.267Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=c884e845-fffd-496d-ac4a-50c59177ffb3"
+    },
+    {
+      "date": "2025-10-07T13:31:51.496Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Kevin “the_kdoggy” Adams",
+      "text": "Still loading blank screen after logging in",
+      "reply": "We can help you get past that blank screen and into your account, Kevin. Please try clearing the app's cache, checking for app/OS updates, and rebooting your device. If you still can't load the app, send an email to qbcares@intuit.coms. We're committed to helping you. -Myshka",
+      "replyDate": "2025-10-09T21:42:32.690Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=aa575985-2ff6-4769-9610-a927586bf43f"
+    },
+    {
+      "date": "2025-10-07T11:10:42.209Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Padraig Norton",
+      "text": "since the last update I've been unable to open the app, I've simply been met with a white screen and no login page",
+      "reply": "We want to help you get back to business, Padraig. Please try clearing the app's cache, checking for app/OS updates, and restarting your device. If the issue persists, please send an email to qbcares@intuit.com with your account details so we can investigate further. Wishing you success. -Myshka",
+      "replyDate": "2025-10-09T21:40:06.156Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=046d0dba-ae3a-4906-bad2-ad4b8cfafed8"
+    },
+    {
+      "date": "2025-10-05T21:08:23.426Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Melody Mcneill",
+      "text": "I pay for this and it will no longer track my mileage. there is no update for the Android phone. The app is not even working anymore!",
+      "reply": "Hi Melody. If you're having trouble with your mileage, please check out these steps (https://tinyurl.com/QBSE-mileage). If you continue to have problems, please email our team at QBCares@intuit.com. We'll get it sorted out. In the meantime try importing missed trips using Google Timeline (https://tinyurl.com/Import-Trips). Kind regards. -Karey",
+      "replyDate": "2025-10-06T22:28:01.452Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=5ebe0316-c49a-43a6-b073-7cfe88e00b9b"
+    },
+    {
+      "date": "2025-10-02T21:48:24.851Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Owen Hopwood",
+      "text": "Update: one click deleted 4 years of transactions without warning. WHY! Support were unable to help. This is the last straw for me, what a stupid app. Moving to Xero",
+      "reply": "We appreciate you reaching out about the problems with your payment details, Owen. To clarify, does this happen on the website (https://tinyurl.com/QBSE-login)? If so, this issue is a known problem the engineers are working to resolve. Please contact us (Help (?) > Contact Us) so we can add you to the list of affected users. Warm regards. -Karey",
+      "replyDate": "2024-12-09T19:52:59.263Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=fa1e22e5-85f4-47f1-b0b5-2cf3ef1240b4"
+    },
+    {
+      "date": "2025-09-28T15:04:05.401Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Dana George",
+      "text": "App always logged out and didn't track mileage. I guess they got rid of the app because it just cancelled",
+      "reply": "Hi Dana. Let's work together to get your mileage tracking again. Have you checked to be sure the app and your device's operating system are up to date? If you have, try these steps (https://tinyurl.com/QBSE-mileage). Then, email us some examples of missed trips if the problem continues. Wishing you success. -Karey (QBCares@intuit.com)",
+      "replyDate": "2025-10-02T23:24:07.665Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=a16fe262-d043-4254-aca9-a496ce6c1f6d"
+    },
+    {
+      "date": "2025-09-22T05:41:49.771Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Nicholas Taylor",
+      "text": "I can no longer upload receipts from my phone to the quikbooks app. En'bad'ification if ever I saw an example.",
+      "reply": "Thanks for letting us know about your receipt upload issues, Nicholas. Please email us at QBCares@Intuit.com so we can investigate what's going on. Thanks. -Caitlyn",
+      "replyDate": "2025-06-24T19:05:20.390Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=af8c874e-5a9a-4cf7-978a-c394ae7a58b6"
+    },
+    {
+      "date": "2025-09-20T11:33:16.876Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Sarah Edwards",
+      "text": "Not impressed. Lots of problems with the app and it can be tricky to synch to my bank every 3 months. Like many others for at least 6 months I've been unable to upload receipts despite having repeated emails so saying the issue has been resolved! Next tax year I will switch to another company as it's just not fit for purpose.",
+      "reply": "Hi Sarah. Let's fix your receipt and sync issue. First, check if your device’s operating system and the app are up to date. Then, log out, clear your app's cache (Phone Settings > Apps > QuickBooks > Storage > Clear Cache), and restart your device. If you still have problems afterward, please email our team for help. -Karey (QBCares@intuit.com)",
+      "replyDate": "2025-09-25T23:43:49.660Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=973bf3c3-88c5-48c1-82d8-9cd6c3dd58c5"
+    },
+    {
+      "date": "2025-09-19T22:54:12.410Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Keith Spillane",
+      "text": "This app is giving me an \"Error\" code and unable to locate my invoices. Hours online, in app, and on the phone with Intuit \"Tech Support\" has left me with zero assistance or resolution! It is horrible business for Intuit to take my money while not providing the service that I pay for!!!",
+      "reply": "We're here to investigate the error code you're encountering. To begin, let's try resetting the app's data (Settings > Refresh Data) and logging out/back in. If the error persists, please email us a screenshot to QBCares@Intuit.com and we'll look into it more. We look forward to assisting you. -Caitlyn",
+      "replyDate": "2025-09-23T19:48:24.650Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=a1bdf596-5922-4da8-b436-0f37d411a654"
+    },
+    {
+      "date": "2025-09-19T08:07:02.540Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Affordable Solutions",
+      "text": "I built my business around QBSE, then it suddenly won't go into my invoices, or customer database - now all I get is \"unable to read the current user info\", but I can't remove it because, my entire customer database is on the platform, with no way to extract the data, so I'm stuck paying for the app every month and watching the price go up. I expected better from a juggernaut like INTUIT but, in this environment all I can do is watch its value to me become Worthless and Expensive 🫰🏿",
+      "reply": "Let's get your app working optimally again. When you get a chance, check to be sure your device's operating system and app are up to date. Then, log out and restart your device. If you still see the error \"unable to read the current user info,\" please email our team. We'll get it sorted out. Talk soon. -Karey (QBCares@intuit.com)",
+      "replyDate": "2025-09-25T23:35:43.985Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=b9283e9b-da40-4bb6-acf1-f3ed0a97b496"
+    },
+    {
+      "date": "2025-09-17T12:11:06.282Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Trevor Campbell",
+      "text": "New Edit#3: Will not connect to Wealthsimple chequing or credit card accounts. Very very frustrating. Support no help. Just closed ticket without resolution. Not very happy for an app that is this expensive. 1 stars now. Edit: Constantly have to uninstall and reinstall and still get errors logging in. Trying to get auto tracking for mileage to work was a pain. Tried to get help to credit account for month not working but would not.",
+      "reply": "Hi Trevor. If you're having trouble signing in, try clearing the app's cache (Phone Settings > Apps > QuickBooks > Storage > Clear Cache), and restarting. If it persists, our developers have identified the issue and will be releasing the fix on Friday. In the meantime, please check out our mobile site (https://tinyurl.com/QBSE-login). Best. -Karey",
+      "replyDate": "2024-11-14T19:12:26.533Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=f1d354fc-7958-47b2-8226-39eec7df0761"
+    },
+    {
+      "date": "2025-09-13T16:21:18.490Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "C Niem",
+      "text": "U can't disable the customers option to pay directly from the bank - 1% fee! This COST A LOT OF MONEY! Rename ur app to \"Quickbooks, we help ourselves to ur bank account\". I used the toggle switch to turn it off, customers still can pay with that option & you lose 1% of every transaction. These people are crooks. Update: switched to Square. MUCH better app and it's free! Better invoicing: detailed invoice in initial email, esthetically pleasing, user friendly, allows more characters on invoices",
+      "reply": "We appreciate you giving our app a try, C. We're glad to hear you found an option that works best for your business. If you decide to give us another chance, we encourage you to check out our fee comparisons here (https://quickbooks.intuit.com/payments/payment-rates/). Wishing you the best. -Caitlyn",
+      "replyDate": "2025-09-16T17:50:32.134Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=c367a519-1c1c-476b-bddd-1856f1b8679a"
+    },
+    {
+      "date": "2025-09-12T12:39:09.310Z",
+      "score": 1,
+      "thumbsUp": 3,
+      "user": "Miranda Olson",
+      "text": "The past two years this app has continuously had mileage tracking problems. They only respond to you if you write a bad review. I've sent a number of emails over the years with no response. My mileage tracking has been down since early August this time and despite following all of the apps recommended fixes, it has yet to track and it claims that everything is on and good to go. Currently looking into better apps.",
+      "reply": "Hi Miranda. Have you emailed QBCares@intuit.com? We ask because we haven't received an email from you. Let's fix this mileage issue so you can get back to business. When you can, try the steps linked here (https://tinyurl.com/QBSE-mileage). If the problem continues afterward, please email our team for help. Kindest regards. -Karey",
+      "replyDate": "2025-09-15T22:31:33.169Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=ae8d2bb3-570a-48c3-8baa-1fb87b0e8b12"
+    },
+    {
+      "date": "2025-09-10T15:11:35.313Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Gshumn",
+      "text": "I can no longer upload receipts...As usual intuit takes my money and can't keep the software working.. (Update 2 months later) Still can not upload receipts. Whats the problem Intuit...that functionality is the main reason i use this app.",
+      "reply": "Hi, Gshumn. We appreciate you providing an update. Since the issue persists, we'd like to investigate a little further into what could be causing this. Please email qbcares@intuit.com with any additional details and screenshots you think might help. Talk soon. -Myshka",
+      "replyDate": "2025-09-10T22:48:07.613Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=ddb62018-896f-4081-848c-b876aca75316"
+    },
+    {
+      "date": "2025-09-07T07:10:50.366Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Kolby Kemmett",
+      "text": "does not open. disconnects from bank account repeatedly",
+      "reply": "Hi Kolby. Let's get your app running smoothly again. First, ensure your device's operating system and app are up to date. Then, clear your app's cache and restart. If you continue to have problems with your app opening or with connecting your account afterward, please email QBCares@intuit.com so we can help. Best wishes. -Karey",
+      "replyDate": "2025-09-08T23:04:40.840Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=646a2330-1536-4a0a-b984-78670f65a0ed"
+    },
+    {
+      "date": "2025-09-07T06:44:41.735Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "james springett",
+      "text": "freezes and is generally slow. that's when it actually opens at all. I end up having to call someone about the app most months. it's a shame as it used to work well but I'd say the last 3 years have seen more and more problems and the monthly payment keeps rising.",
+      "reply": "We're here to help get your app back up to speed, James. Have you tried updating your app and device's operating system, logging out, clearing your app's cache (Phone Settings > Apps > QuickBooks > Storage > Clear Cache), and restarting? If you have and are still experiencing problems, please email our team. Regards. -Karey (QBCares@intuit.com)",
+      "replyDate": "2025-09-08T22:50:43.251Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=a07949cc-7bc3-4018-afc1-8fe5cb5e8daa"
+    },
+    {
+      "date": "2025-09-05T17:16:19.594Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Patrick Myers",
+      "text": "every few weeks the app won't open on my mobile",
+      "reply": "Let's get your app opening properly, Patrick. First, try updating your app and device's operating system. Then, log out, clear your app's cache (Phone Settings > Apps > QuickBooks > Storage > Clear Cache), and restart. If you continue to have problems afterward, please email our team at QBCares@intuit.com for help. Best of luck. -Karey",
+      "replyDate": "2025-09-08T22:32:21.726Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=3b2b4dd6-6fce-4a19-a69c-24f8eeb7a005"
+    },
+    {
+      "date": "2025-08-29T07:13:38.283Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "Ashley Corbett",
+      "text": "App constantly fails to track mileage, or won't load correctly when opening, meaning you have to go through this dance of uninstalling, reinstalling, 2fa, then finally being able to reconcile transactions and mileage",
+      "reply": "We have some steps that can help get your mileage back on track, Ashley! Let's run through these now (https://tinyurl.com/9vn8kur5)! If the app still fails to track mileage, please email us some specific examples of missed trips (dates, times, locations, etc) to QBCares@Intuit.com. Best. -Caitlyn",
+      "replyDate": "2025-08-29T16:53:13.160Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=a4fd875d-765d-49b3-b444-5c4b6e6e243f"
+    },
+    {
+      "date": "2025-08-27T01:00:24.320Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Wilson Luk",
+      "text": "UI is easy to use, biggest issue is the app doesn't record all mileage trips and won't let me upload receipts. There's a critical bug in the app that charges me for 2 subscription plan for one account.",
+      "reply": "Hi, Wilson. A recent fix to this receipt upload issue was released with app version 11.6.0. Please go ahead and update your app and let us know if you still have issues. Thanks. -Caitlyn(QBCares@Intuit.com)",
+      "replyDate": "2025-05-09T15:36:17.394Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=c7e01489-112b-42e5-aa1b-49cfeb9d6cfc"
+    },
+    {
+      "date": "2025-08-26T08:05:51.579Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "Dmitry Havansky",
+      "text": "it is not even opening anymore :(",
+      "reply": "Let's work together, Dmitry. If your app isn't opening, please check that the app and your device are up to date. Then, clear your app's cache (Phone Settings > Apps > QuickBooks > Storage > Clear Cache) and restart. If you're still having issues after trying those steps, please email our team for help. Best regards. -Karey (QBCares@intuit.com)",
+      "replyDate": "2025-08-29T16:02:30.106Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=71a13970-7325-4153-abc0-a8f763ce95e3"
+    },
+    {
+      "date": "2025-08-24T15:22:58.192Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Noir Witch",
+      "text": "Use to work great now cant add to invoices wont save continual error codes hate this app",
+      "reply": "We'd like to investigate the error you're encountering when adding invoices. First, let's try clearing the app's cache (Phone Settings > Apps > QuickBooks > Storage > Clear Cache) and checking for app updates. If you're still encountering an error, send a screenshot to QBCares@Intuit.com so we can take a look. -Caitlyn",
+      "replyDate": "2025-08-25T20:24:35.725Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=f09f9b1b-c8c0-4e14-ba49-3d0d79efaa77"
+    },
+    {
+      "date": "2025-08-22T02:30:34.270Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Jasmin Tejada",
+      "text": "Did updates to this app just stop? Is there another app I should be using. When I open the app on my phone it is just a blank screen.",
+      "reply": "Hi, Jasmin. While the QuickBooks Self-Employed mobile app has been discontinued for new users, the app is still receiving updates. Since you're encountering a blank screen, let's try rebooting the device and switching to a different wi-fi or mobile network. If you're still having problems, let us know. -Caitlyn(QBCares@Intuit.com)",
+      "replyDate": "2025-08-22T20:40:39.620Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=2d0c6a82-8886-4bf2-880f-567b9e34a615"
+    },
+    {
+      "date": "2025-08-18T18:21:19.282Z",
+      "score": 2,
+      "thumbsUp": 1,
+      "user": "Jonathan Blair",
+      "text": "Just lost 4 months of driving data because the app wouldn't go past showing a blank white screen. I'd recommend switching to mileIQ or really anything else to track miles. Response to \"support\" below. I did all of this before, was on the phone for like an hour and it happened again, but this time I lost 4 months of driving data. This will cost me hours of work to try to log. I now use mileIQ and it works without any errors. I'm considering switching to a different invoicing service as well.",
+      "reply": "Hi Jonathan. Let's get you logged in so you can track your miles. First, make sure your device's operating system and app are up to date. Then, log out, clear your app's cache (Phone Settings > Apps > QuickBooks > Storage > Clear Cache), and restart. If the blank screen persists, please email our team for help. -Karey (QBCares@intuit.com)",
+      "replyDate": "2025-08-18T18:05:03.620Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=b436dda8-81a7-491e-a1fc-d242b68e666a"
+    },
+    {
+      "date": "2025-08-16T03:47:53.774Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "maxinepowerr",
+      "text": "app no longer works on my phone. for months the login screen wouldn't even show up when I would launch the app unless I restarted my phone. now it doesn't even do that. I pay monthly for this. this is extremely disappointing and frustrating.",
+      "reply": "We want to be sure you can use the app without problems, Maxine. Are your device and app both up-to-date? If so, try logging out, clearing your app's cache (Phone Settings > Apps > QuickBooks > Storage > Clear Cache), and restarting. If the issue persists, please email us for help. We'll get it sorted out. -Karey (QBCares@Intuit.com)",
+      "replyDate": "2025-08-18T18:15:20.588Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=7049037b-f752-479d-873d-119e27bb8c51"
+    },
+    {
+      "date": "2025-08-14T13:07:48.473Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Gillian Anderson",
+      "text": "Disgraceful app and even worse customer service! I reported an issue with the app not allowing me to upload receipts several months ago and they promised me faithfully they would resolve the problem. They also said they would give me cheaper monthly fees for the next 6 months because of all the hassle. NEITHER have happened, I'm still paying full price for an App that DOES NOT WORK!!! Avoid if you value your sanity, as this makes a simple task IMPOSSIBLE!!",
+      "reply": "Hi Gillian. We want to investigate the problem you're having with uploading receipts and check on your discount. If you haven't already, log out of the app, clear your app's cache (Phone Settings > Apps > QuickBooks > Storage > Clear Cache), and restart. If you continue to have the same issue, please email our team. -Karey (QBCares@intuit.com)",
+      "replyDate": "2025-08-14T21:27:13.704Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=aa2199f1-a21c-4373-a335-e5608444ac9a"
+    },
+    {
+      "date": "2025-08-13T13:14:11.271Z",
+      "score": 2,
+      "thumbsUp": 1,
+      "user": "Natalie Wilson",
+      "text": "was initially great. hasn't worked for months now in regards to uploading reciepts. Im currently looking for new software but all my records are with quickbooks self employed app going to be so much hassle transferring. they keep saying they are fixing the issue but we are getting no where. I should of listened to reviews.",
+      "reply": "We're here to help with this receipt uploading issue, Natalie. Have you tried logging out, clearing your app's cache (Phone Settings > Apps > QuickBooks > Storage > Clear Cache), and restarting? If so, please email our team at QBCares@intuit.com so we can work together. Warmest regards. -Karey",
+      "replyDate": "2025-08-14T21:31:21.138Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=f110c175-e000-46e3-8d32-7558150ad0ae"
+    },
+    {
+      "date": "2025-08-11T15:16:08.998Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Jay Wheeldon",
+      "text": "the app did right by me for so long but for the past 2 months it won't even boot up properly. I'm left with nothing but a white screen where my business data should be",
+      "reply": "Let's get you logged back into the app, Jay. Try force-closing the app, clearing the app's cache (Phone Settings > Apps > QuickBooks > Storage > Clear Cache), and restarting your device. If you continue to see the white screen after those steps, please email us for help. -Karey (QBCares@intuit.com)",
+      "replyDate": "2025-08-14T21:16:12.755Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=c55f2922-c60f-4e64-9af2-0b4647513e34"
+    },
+    {
+      "date": "2025-08-09T14:04:05.698Z",
+      "score": 1,
+      "thumbsUp": 2,
+      "user": "Yesica Matute",
+      "text": "I can no longer upload receipts on the mobile app. It has been several weeks now, and every time I go to upload a receipt, it just spins and spins and does not upload. When will this be fixed?!",
+      "reply": "We'd like to lend a helping hand with your receipts, Yesica. Have you tried logging out, clearing your app's cache (Phone Settings > Apps > QuickBooks > Storage > Clear Cache), and restarting your device? If so, please send an email to QBCares@intuit.com for help. Looking forward to working with you. -Karey",
+      "replyDate": "2025-08-14T20:29:11.647Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=ff96c3b4-1cbc-492e-a974-f6d876176295"
+    },
+    {
+      "date": "2025-08-08T05:51:05.206Z",
+      "score": 1,
+      "thumbsUp": 2,
+      "user": "Andy Johnson",
+      "text": "was ok but now it's rubbish....just will not upload receipts.",
+      "reply": "You've come to the right place, Andy. Let's work together to get you receipts uploading again. Try logging out, clearing the app's cache (Phone Settings > Apps > QuickBooks > Storage > Clear Cache), and restarting your device. If the problem continues after those steps, please email us for help. Wishing you success. -Karey (QBCares@intuit.com)",
+      "replyDate": "2025-08-14T20:27:15.750Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=f25e8916-0f2f-4b4c-802c-d8270c6a3211"
+    },
+    {
+      "date": "2025-08-07T12:54:40.887Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "jacqueline stokes",
+      "text": "the app Is not tracking my mileage. I've had this problem for some time now and the problem still exists.",
+      "reply": "Let's get your mileage tracking again, Jacqueline. Try these steps (https://tinyurl.com/QBSE-mileage). In the meantime, you can manually add trips via the app or website (https://tinyurl.com/QBSE-login) or import them via Google Timeline (https://tinyurl.com/Import-Trip ). If the issue persists, please email us for help. -Karey (QBCares@intuit.com)",
+      "replyDate": "2025-08-14T19:55:24.726Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=192900ee-d433-40e8-b139-aa64eeac15c2"
+    },
+    {
+      "date": "2025-08-04T05:05:48.280Z",
+      "score": 2,
+      "thumbsUp": 1,
+      "user": "Steafanno Anthony",
+      "text": "Glitchy",
+      "reply": "Let's work together to iron out any glitches you encounter, Steafanno. Oftentimes, clearing the app's cache (Phone Settings>Apps>QuickBooks>Storage>Clear Cache)and rebooting the device will help clear up issues. If you still have issues, though, please let us know at QBCares@Intuit.com so we can investigate. -Caitlyn",
+      "replyDate": "2025-08-05T19:50:08.918Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=48206b0c-ac65-4644-aba8-73ee64930738"
+    },
+    {
+      "date": "2025-08-01T17:48:12.465Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Jesse Long",
+      "text": "Fixed the issues I happen in the past back to working correctly",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=8625e029-2eb3-4b46-89f3-47f48646c787"
+    },
+    {
+      "date": "2025-07-31T22:42:41.458Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "Andrew salvage",
+      "text": "app was ok till about 5 weeks ago when you now can't upload receipts ...not just myself ,my partner has the same issue on her separate account and I've also noted a few other identical comments about the same issue on the reviews ...been told an update was on the way 4 weeks ago but nothing !!...so cannot use the app as advertised to the full offering BUT your still taking my full subscription and have not responded to my emails,again i ask when will this issue be fixed.ALREADY TRIED YOUR REPLY",
+      "reply": "We want to investigate and help with this issue, uploading receipts, Andrew. Have you tried logging out, clearing your app's cache (Phone Settings > Apps > QuickBooks > Storage > Clear Cache), switching to a different Wi-Fi/data network, and restarting? If so, please email us so we can work together. Wishing you success. -Karey (QBCares@intuit.com)",
+      "replyDate": "2025-07-31T22:19:46.256Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=da495283-87d4-41d6-a485-c81fb31805e8"
+    },
+    {
+      "date": "2025-07-31T10:52:25.616Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Callum Hounslow",
+      "text": "Surely you must be aware that your app is bricked. Get a move on already. All your complaints are from high paying customers. No excuse.",
+      "reply": "Our goal is to ensure your app works as designed, Callum. If you're having trouble, please be sure your device OS and app version are up to date, log out, clear your app's cache (Phone Settings > Apps > QuickBooks > Storage > Clear Cache), and restart. If the problem persists, please email us for help. Warmest regards. -Karey (QBCares@intuit.com)",
+      "replyDate": "2025-07-31T22:28:08.251Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=a5a4aad3-cc85-4eaf-9517-bb40859a2e0e"
+    },
+    {
+      "date": "2025-07-30T09:20:51.792Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "DAVID HUANG",
+      "text": "difficult to use",
+      "reply": "We appreciate you giving the app a try and we value your feedback. Our app developers are always working to introduce new features and improve existing ones, If there's anything in particular you're needing help with, please don't hesitate to let us know here. All the best. -Myshka",
+      "replyDate": "2025-07-30T20:58:08.390Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=24440abe-048f-4b7c-8759-0119e13bad81"
+    },
+    {
+      "date": "2025-07-29T22:03:38.758Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "William Blaikie",
+      "text": "fingerprint log in stopped working last week, and shows an error if you try to enable fingerprint log in again.",
+      "reply": "Oh dear, that doesn't sound right. You should definitely still be able to use biometrics for logging in. If you haven't already, can you please try checking for app/OS updates, rebooting your device, and clearing the app's cache? Should these not work, please send a screenshot of the error message to qbcares@intuit.com. Best of luck. -Myshka",
+      "replyDate": "2025-07-30T21:01:25.481Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=de116fc5-bdc0-4a9a-a950-cc02ae1df8e3"
+    },
+    {
+      "date": "2025-07-29T15:27:39.450Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Ryan Mcleod",
+      "text": "not working both on android iphone and laptop and still taking money..........",
+      "reply": "Hey, Ryan. We're here to help you get back into your account. Since you're having issues across all platforms, please reach out to our team so we can get started (https://tinyurl.com/h9p8xwj7). We look forward to working with you. -Caitlyn",
+      "replyDate": "2025-07-29T16:50:22.462Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=271a3eac-8501-4da2-bffc-05c204b2198c"
+    },
+    {
+      "date": "2025-07-28T10:34:43.870Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Jules Farr",
+      "text": "doesn't go past the subscription... charged me and wont work. Uninstalled and retired. Still sucked.",
+      "reply": "We appreciate you giving our app a try, Jules. If you decide to give it another go in the future and encounter any problems, please contact our Community Team (https://community.intuit.com). Wishing you success in all your business endeavors. -Karey, The QuickBooks Team",
+      "replyDate": "2025-07-28T22:21:21.249Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=9e124688-981d-4e1e-99a7-c33424988fb2"
+    },
+    {
+      "date": "2025-07-25T22:43:58.769Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Colby S",
+      "text": "Used to work great, now the app is unusable- which is a shame for a product I spend more than $200/annually.",
+      "reply": "Hi Colby. Let's work together to get the app working again. First, please ensure your app version and device OS are up to date. Then, try logging out, clearing the app's cache (Phone Settings > Apps > QuickBooks > Storage > Clear Cache), and restarting your device. If it persists, please email us. -Karey (QBCares@intuit.com)",
+      "replyDate": "2025-07-28T22:16:23.505Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=a16e7b5f-8e76-454a-9a54-891685ebb33c"
+    },
+    {
+      "date": "2025-07-23T02:11:26.866Z",
+      "score": 1,
+      "thumbsUp": 2,
+      "user": "Crystal Corpuz",
+      "text": "I've had this app for years, never had an issue until a few months ago. I cannot upload a screenshot of my receipts from my email to my transactions. it's extremely frustrating. It just says uploading and never uploads. I can take a picture with the camera and have no issue with that, but I do the majority of my purchases online and screenshot everything. I keep trying everyday and it never uploads. It's extremely frustrating.",
+      "reply": "Thanks for making us aware, Crystal. Please know that common app issues can be solved with simple troubleshooting such as clearing the app's cache, switching between data and wifi, and rebooting your device. Should these not work to correct the receipt capture issues, email qbcares@intuit.com. Hoping this helps. -Myshka",
+      "replyDate": "2025-07-23T22:52:02.549Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=e89801f7-f076-45d9-b8cb-2c6b9c9adb6f"
+    },
+    {
+      "date": "2025-07-22T18:26:05.280Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "dale vallee",
+      "text": "rarely works while on the phone app",
+      "reply": "Our goal is to ensure the app works properly for everyone. Please try some troubleshooting steps know to fix common issues: clear the app's cache (Phone Settings > Apps > QuickBooks > Storage > Clear Cache), switch between cell data and wifi, reboot your device. Feel free to email qbcares@intuit.com should your issues continue. Best. -Myshka",
+      "replyDate": "2025-07-23T22:51:32.580Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=269f6c9f-3766-43a0-afbd-f639dd52b22c"
+    },
+    {
+      "date": "2025-07-21T10:13:02.603Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Jennie Galgey",
+      "text": "I have had problems with this app for ages. Every time I try to go in it's blank and paying for a service that's simply not fit for purpose",
+      "reply": "We hate to hear you're having an issue with our app, Jennie. Do you see the same blank company when you log in to the website (https://tinyurl.com/QBSE-login)? If not, try clearing your app's cache (Phone Settings > Apps > QuickBooks > Storage > Clear Cache), and restarting. If it persists, please email QBCares@intuit.com for help. Best. -Karey",
+      "replyDate": "2025-07-21T22:18:45.109Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=00fb61d4-5f17-481f-a77a-10eb4a682588"
+    },
+    {
+      "date": "2025-07-19T01:21:59.483Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Matthias Van Den Bosch",
+      "text": "broken app. it takes your money. doesn't let you use any service you pay for. reset the phone and I've done everything. even tried logging in online.",
+      "reply": "Hi Matthias. Let's work together to fix any issues. First, please ensure your app version and device OS are updated to the latest release. Then, please try logging out, clearing the app's cache (Phone Settings > Apps > QuickBooks > Storage > Clear Cache), and restarting. If the problem persists, please email us at QBCares@intuit.com. Thanks. -Karey",
+      "replyDate": "2025-07-21T22:17:02.640Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=b6873a55-0efe-4706-9982-df2d25653379"
+    },
+    {
+      "date": "2025-07-16T16:55:46.339Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "Dan Chapman",
+      "text": "Extremely frustrating. I never had any issues for a long time then I wasnt able to log in. I eventually sorted this issue and a few months went by without any issues. Now though, I cant upload any receipts. It allows me to select a picture then says uploading receipt but nothing happens beyond that. seems to be one issue after another.",
+      "reply": "Hi Dan. Let's fix this issue you're experiencing with uploading receipts. First, please check to ensure your device's OS and app version are up to date. Log out, clear the app's cache (Phone Settings > Apps > QuickBooks > Storage > Clear Cache), and then restart. If the problem continues, please email us for help. Best. -Karey (QBCares@intuit.com)",
+      "replyDate": "2025-07-17T21:21:33.615Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=13336c18-55cc-4a95-89b0-65f5f35d83fb"
+    },
+    {
+      "date": "2025-07-13T19:56:26.990Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Sebastian Biddle",
+      "text": "can't believe I actually pay for this awful app. it's slow and I'm unable to upload receipts. sort it out Intuit, billion dollar company can't make a working app?",
+      "reply": "We want to assure you that latency in the app isn't the norm, Sebastian. Let's work together to fix it. First, please ensure your device OS and app are up to date. Then, log out, clear your app's cache (Phone Settings > Apps > QuickBooks > Storage > Clear Cache), and restart your device. If it persists, please email us. -Karey (QBCares@intuit.com)",
+      "replyDate": "2025-07-17T21:17:25.975Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=222d06ac-e755-4487-a066-1a7fe10b4e16"
+    },
+    {
+      "date": "2025-07-13T12:12:58.372Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Jesse Albuquerque",
+      "text": "I've been using quickbooks for about 6 years. usually it's very helpful and has my whole buisness saved. I use it to check back on completed jobs and pricing names descriptions etc. Recently updated it and my saved and current invoive names and descriptions have been erased. im trying to send to a customer to get payed and what I though was safe in your hands is now costing my time and above all I've payed you as a trusted app to assist with my buisness for many years. I feel inconvenienced",
+      "reply": "Hey, Jesse. Let's work together to find that missing info you mentioned. To start, we recommend resetting the app's data (QuickBooks Settings>Refresh Data), and then clearing the app's cache (Phone Settings>Apps>QuickBooks>Storage>Clear Cache). Please email us if this persists. -Caitlyn(QBCares@Intuit.com)",
+      "replyDate": "2025-07-08T16:31:34.400Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=a34484d5-296b-4905-97c1-d6c84419fc81"
+    },
+    {
+      "date": "2025-07-11T15:30:55.892Z",
+      "score": 2,
+      "thumbsUp": 9,
+      "user": "Beth G",
+      "text": "Used to be great. As of a few months ago it keeps not opening (but also not notifying me that it isn't running) and therefore not auto recording my driving. It must be an update because it worked before April/may of 2025. I've had to uninstall and re-install it multiple times but now I have a month worth of missing driving that I'll have to go back and manually enter. Hoping they fix this bug soon otherwise I'm going to another app.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=905138ac-f643-4a22-91a5-7d1725078da4"
+    },
+    {
+      "date": "2025-07-10T21:49:06.985Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Bryan McLean",
+      "text": "This app is usless. Doesn't work at all. Just a blank page. I have deleted the app and reinstalled it numerous times. waste of money.",
+      "reply": "We're here to help, Bryan. Aside from uninstalling/reinstalling, we also recommend clearing the app's cache (Phone Settings>Apps>QuickBooks>Storage>Clear Cache), rebooting the phone/tablet, and then switching to a different wi-fi or mobile network. Please email us at QBCares@Intuit.com if this persists. Thanks. -Caitlyn",
+      "replyDate": "2025-07-11T18:24:53.311Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=d463dea6-0317-4b03-8782-7af606ba7c90"
+    },
+    {
+      "date": "2025-07-08T16:49:28.702Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Justin Schultz",
+      "text": "ABSOLUTELY GARBAGE WHAT HAS HAPPENED TO YOUR APP? LITERALLY MISSING MY TRIPS, NOT HAPPY! AND I PAY FOR THIS.. UNBELIEVABLE!",
+      "reply": "We'd like to lend a hand with the mileage issues you're facing, Justin. Please visit https://tinyurl.com/2engtt2t for common steps that are known to fix the Mileage Tracker. Should you still experience issues and require further assistance, email qbcares@intuit.com. Hope this helps. -Myshka",
+      "replyDate": "2025-07-09T22:27:01.946Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=4af2a8a4-3694-4aea-a5a6-380a21e00062"
+    },
+    {
+      "date": "2025-07-08T01:27:22.927Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Mike Roberts",
+      "text": "description of line items are not in sync with line items. line items missing titles on invoices once drafts are saved. AI bot is a loop. no way to get through to customer service.",
+      "reply": "Thanks for letting us know. Mike. We have some steps that could help here. Let's start with resetting the app's data (QuickBooks Settings>Refresh Data) and then clearing the app's cache (Phone Settings>Apps>QuickBooks>Storage>Clear Cache). If you're still having issues with invoices, let us know. -Caitlyn(QBCares@Intuit.com)",
+      "replyDate": "2025-07-08T17:55:56.540Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=8e2ae4ff-501c-4324-833f-1d679b25f0fd"
+    },
+    {
+      "date": "2025-07-06T15:38:29.884Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Wayne R",
+      "text": "Since the new update, I can't upload receipts. That's kind of this apps whole reason for existence! And, I just now find out that QB Self Employed is being discontinued with a push to use a more expensive version of the app with more features. Not via an email from QB but from the review section!! Did you ever think the many thousand or even hundreds of thousands of people like the simplicity of this app and don't need more features or expense?",
+      "reply": "Hello, Wayne. Our developers are aware of an issue with receipt uploads and are working to resolve it as quickly as possible. Please be on the lookout for upcoming app updates and install them when available. Thanks. -Caitlyn",
+      "replyDate": "2025-07-08T16:28:24.567Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=530999f5-854b-497a-b885-30e1c97493d6"
+    },
+    {
+      "date": "2025-07-03T11:15:27.575Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "Alicia Brix",
+      "text": "i can't upload receipts, will only attach a new photo to transactions",
+      "reply": "Hi, Alicia. Our developers are aware of an issue with receipt uploads and are working to resolve it as quickly as possible. Please be on the lookout for upcoming app updates and install them when available. Thanks. -Caitlyn",
+      "replyDate": "2025-07-08T16:27:10.115Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=03cb62d5-2fdc-4cd9-9085-391e009eb25c"
+    },
+    {
+      "date": "2025-07-02T03:48:30.435Z",
+      "score": 1,
+      "thumbsUp": 4,
+      "user": "Bryant B",
+      "text": "When I first started using QBSE it was pretty smooth. No issues really then I decided to just get it annually. I absolutely can't stand it now. I can never upload receipts and tracking mileage has been an absolute nightmare. Apparently QB knows the receipt thing is an issue 🙄. Don't get me started on how it screw up my taxes this past year. As soon as I find a service that does what I want or at least allows me to upload receipts (can't do it online either), I'm switching to that.",
+      "reply": "Bryant, mileage problems are frustrating. Here's a helpful guide (https://tinyurl.com/QBSE-mileage). Since the QBSE app is discontinued in the US & UK, manual tracking or importing might be required. We recommend exploring QBO Solopreneur (https://quickbooks.intuit.com/solopreneur/) for a smoother experience. Best regards. -Myshka",
+      "replyDate": "2025-07-02T22:50:28.604Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=fffe4c3a-0ca4-4cd3-b6b6-7d36dec0cfa1"
+    },
+    {
+      "date": "2025-06-30T11:40:01.805Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "Malcolm Abel",
+      "text": "receipts stopped uploading.. please fix ASAP",
+      "reply": "We're here to help, Malcolm. Let's start by checking for app updates, then rebooting your device. Please email us at QBCares@Intuit.com if you're still unable to upload receipts. Thanks. -Caitlyn",
+      "replyDate": "2025-07-01T16:47:32.658Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=4b8f497a-10e1-4d3c-8a85-dc9a85bcccae"
+    },
+    {
+      "date": "2025-06-28T10:05:47.191Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Matt Bellamy",
+      "text": "recently everything stopped working even the bank link. tried reaching out but its impossible",
+      "reply": "We're here to help restore that connection, Matt. Do you encounter any errors with this as well? We're also curious to see if the connection also fails on the website too(https://selfemployed.intuit.com/login). Let our team know (https://tinyurl.com/h9p8xwj7). Best. -Caitlyn",
+      "replyDate": "2025-07-01T16:43:23.185Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=b1faf483-d26d-4d0d-9eb4-7e05008ce0fb"
+    },
+    {
+      "date": "2025-06-20T15:38:15.386Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Mike Thiele",
+      "text": "zero stars .. absolutely awful app. you only have to look at the reviews of most of their apps . if not all of them .never opens . you can never login .just a blank screen. Despite the 'simple fixes' they quote to everyone that reviews the same.",
+      "reply": "We understand your frustration when common troubleshooting steps don't seem to help, Mike. Let's work together to get the app up and running for you. Please send an email to QBCares@intuit.com along with a screen recording of the issue with your blank screen. That way, we can help get it sorted. Thanks. -Karey",
+      "replyDate": "2025-06-23T15:43:03.413Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=3d762b56-5430-4946-a296-31a0409e531a"
+    },
+    {
+      "date": "2025-06-17T14:25:35.598Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "Dainsyn Inzueffyn",
+      "text": "so unfortunately, this app does not work. years ago I had this for my business, it was amazing. the best for my contractor business. the logs and kms, the trips, the expenses everything was great. but right now it's stuck in a purchase subscription loop, it opens, says you have to buy a product, buy the product, okay, purchase successful. it says error, and then kicks me out. log back in, \"you need to purchase a subscription\", okay lets try again, nope, error, you already have this subscriptio",
+      "reply": "Hey, Dainsyn. Thanks for letting us know what's going on. We're happy to look into your subscription issue a bit further. Please email us some account info (business name, email, etc) to QBCares@Intuit.com. Thanks. -Caitlyn",
+      "replyDate": "2025-06-17T17:47:53.568Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=e812db9d-2b4c-4973-be04-676fbb751579"
+    },
+    {
+      "date": "2025-06-14T04:29:03.275Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Susan Anderson",
+      "text": "I am trying to get my taxes done but now Self employed is no longer working on my computer. They just took out the yearly charge but I have to pay more to get some new version because Self employed is no longer available. So now what? All my tax paperwork is in my Self-employed system. So frustrated!!! I feel like I have to pay for it so I can get and keep access to my info or I will lose everything.",
+      "reply": "Though the QBSE product is discontinued, you can still use the app and website (https://tinyurl.com/QBSE-login) with an active subscription, Susan. For the app, please try logging out, clearing the app's cache (Phone Settings>Apps>QuickBooks>Storage>Clear Cache), and restarting. If the problem persists, please email QBCares@intuit.com. Best. -Karey",
+      "replyDate": "2025-06-16T21:07:07.963Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=526c3e6d-d2e7-4937-b3ca-149b5c17bea1"
+    },
+    {
+      "date": "2025-06-13T20:34:52.564Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Peter Garcia",
+      "text": "I wish I could leace 0 starts. I still yet to received a refund a year charge that was auto but then app stopped working and was unable to access my account or client info/receipt etc. it was horrible so I had to pay for another monthly subscription just to get back into my account while I still was charged and never got refunded....so frustrating I can reach anyone who care enough to understand their own issue effecting my business, you would expect more for big biz.....Please anyone help!!",
+      "reply": "Hi Peter. This isn't the type of experience we want you to be left with, and would like to turn it around. You should be able to access the website (https://tinyurl.com/QBSE-login) if you have any issues accessing the app. In the meantime, we'd like the opportunity to review the charge and refund. Please email QBCares@intuit.com. Thanks. -Karey",
+      "replyDate": "2025-06-16T20:55:21.467Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=8b262106-e236-445f-903e-e84da0cecc1f"
+    },
+    {
+      "date": "2025-06-11T05:36:16.321Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Matthew Reveley",
+      "text": "was an ok app , now it won't even open and lost all transactions and invoices",
+      "reply": "Hey Matthew, I know mileage issues can be a headache. Here's a guide to help (https://tinyurl.com/QBSE-mileage). Due to the QBSE app being retired, manual tracking or imports might be needed. QBO Solopreneur (https://tinyurl.com/bday3zhs) could be a good long-term solution. Please reach out if you have any questions. -Myshka",
+      "replyDate": "2025-06-11T17:19:17.886Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=8aa11dd9-6934-4388-909d-706390053f41"
+    },
+    {
+      "date": "2025-06-08T19:30:52.861Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Jo-Anne Wu",
+      "text": "app does not open",
+      "reply": "We're here to help, Jo-Anne! Let's try checking for app updates, uninstalling/reinstalling the app, and then rebooting the device. If you're still having issues opening the app or encounter any errors, please let us know at QBCares@Intuit.com. Please include screenshots/recordings if possible. Thanks. -Caitlyn",
+      "replyDate": "2025-06-10T20:01:04.560Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=38965c80-a4c4-450a-bfcb-7ea691f421aa"
+    },
+    {
+      "date": "2025-06-04T16:24:44.402Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Andrew Smart",
+      "text": "App does not open. Left with a white screen.",
+      "reply": "We understand your frustration when the app won't open. Try ensuring your app is updated to the latest version, clearing its cache via device settings, and restarting your phone. If the issue continues, please email qbcares@intuit.com for further help. -Myshka",
+      "replyDate": "2025-06-04T23:10:00.154Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=d8893516-c7b8-4d73-a624-60033c272364"
+    },
+    {
+      "date": "2025-06-03T19:19:48.372Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Sam Hughes",
+      "text": "keeps saying I don't have an account and can't use it. No issues on the website just the app. have to remove and download again, works for a while then blocks me",
+      "reply": "We're here to help, Sam. Are you seeing similar errors on the website (https://selfemployed.intuit.com/login)? Let us know at QBCares@Intuit.com and we'll check it out. Thanks. -Caitlyn",
+      "replyDate": "2025-06-03T19:17:57.973Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=0bf7298b-86d3-41a9-addd-ea49149b1ebb"
+    },
+    {
+      "date": "2025-06-02T11:18:17.449Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Denver Boling",
+      "text": "This thing rarely works right anymore. Still costs me $25 a month for what?? Now I can't even access it to cancel membership!",
+      "reply": "Hi Denver. Have you tried logging into the QBSE website (https://tinyurl.com/QBSE-login)? If so, and you have no problems there, try updating your app and device, logging out, and restarting your device. If it persists, please email us. If you're set on canceling, try these steps: (https://tinyurl.com/5dj8rd2e). Regards. -Karey (QBCares@intuit.com)",
+      "replyDate": "2025-06-02T22:15:29.249Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=afa9f151-01e9-490d-ba9a-8fe545cb5e19"
+    },
+    {
+      "date": "2025-05-30T22:38:47.631Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Devon Smith",
+      "text": "there's a UI bug with verifying my bank that's been persisting for over a year. please fix",
+      "reply": "Hi Devon. Have you tried connecting your bank through the QBSE website (https://tinyurl.com/QBSE-login)? If not, please try that, and if you have any further problems, please contact our team (Help (?) > Contact Us). We'll get you back to business. Wishing you success. -Karey\n",
+      "replyDate": "2025-06-02T22:06:29.661Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=2224537a-0975-426a-8af6-c39860c47fc6"
+    },
+    {
+      "date": "2025-05-30T13:30:00.837Z",
+      "score": 1,
+      "thumbsUp": 2,
+      "user": "Jennifer Reid",
+      "text": "UPDATE! THEY JUST DOUBLE CHARGED ME AGAIN THIS YEAR (2025). I don't have time to figure out again how to get one of these charges reversed. Get your accounting in order! Just realized I was charged for two subscription fees in April. Also just found out they quit supporting the online QBSE, so I'm screwed attempting to finish my taxes, because the app doesn't allow download of a specific category, such as fuel. The app is barely useful at this point. Looking forward to the fight for my refund.",
+      "reply": "Hi Jennifer. We want to assure you that QBSE is fully supported. You can reach support using these options (https://tinyurl.com/QBSE-support) or email our team at QBCares@intuit.com. We'll be happy to help look into the charges and help in any way we can. All the best. -Karey, The QuickBooks Team",
+      "replyDate": "2024-08-19T21:51:55.960Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=e43eb663-e233-4cdd-992e-a5de97774951"
+    },
+    {
+      "date": "2025-05-29T09:59:28.191Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "James McTurk",
+      "text": "can't even get it to open, what a company",
+      "reply": "If you're having trouble opening your app, we're here to help, James. First, please ensure your device OS and app version are up to date. Then, try clearing your app's cache (Phone Settings > Apps > QuickBooks > Storage > Clear Cache) and restarting your device. If the problem continues, please email us at QBCares@intuit.com for help. Best. -Karey",
+      "replyDate": "2025-05-29T21:50:59.146Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=19a4d43d-b650-4a76-adc5-87b89c1c93af"
+    },
+    {
+      "date": "2025-05-27T14:52:40.452Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Robert Garrett",
+      "text": "update has destroyed the app. customer service is the worst.",
+      "reply": "Thanks for letting us know, Robert. Are you facing any specific issues with the app after the update? Please let us know what's going on at QBCares@Intuit.com. -Caitlyn",
+      "replyDate": "2025-05-27T17:25:53.226Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=f4727f76-8e93-44fc-9c2f-c43d47e5a801"
+    },
+    {
+      "date": "2025-05-25T07:39:15.686Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "Stephanie Jean",
+      "text": "nothing but problems with quickbooks. Missing transactions every year. The program is difficult to navigate. Unable to use only part of the expenses in a category. Many more Issues i can't think of at the moment.",
+      "reply": "HI Stephanie. Let's work together to get your transactions showing and your expenses working as designed. When you get a chance, please ensure your device OS and app version are fully up to date, then log out and restart your device. If you continue to experience issues, please email QBCares@intuit.com. Wishing you success. -Karey",
+      "replyDate": "2025-05-26T21:42:26.766Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=01b27d19-4dc3-4d39-9676-3b909f120d9c"
+    },
+    {
+      "date": "2025-05-22T22:22:27.337Z",
+      "score": 1,
+      "thumbsUp": 3,
+      "user": "Scottie",
+      "text": "App doesn't have the basic functionality to delete products from your list or customers. now I have dozens of products we don't sell and customers we no longer have, stuck in my profile. this should be standard and it's ridiculous such a large company doesn't have this ability... and still having to pay a monthly fee. We have 2 separate businesses each with this subscription and considering another option.",
+      "reply": "We hate to hear your app is crashing and would like to work with you to get it fixed, Scottie. When you can, please try logging out, clearing your app's cache (Phone Settings > Apps > QuickBooks > Storage > Clear Cache), and restarting your device. If it persists, please email QBCares@intuit.com so we can investigate. All the best. -Karey",
+      "replyDate": "2025-05-19T21:40:32.389Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=fb72d279-7c05-4e8e-a018-8b0186eec1b1"
+    },
+    {
+      "date": "2025-05-17T14:09:57.130Z",
+      "score": 1,
+      "thumbsUp": 18,
+      "user": "William Donaldson",
+      "text": "The app simply doesn't work. Despite many attempts it's impossible to get the app to open. Using any other QuickBooks app results in not being able to login to my company. Trying to contact QuickBooks via their support button is also useless as it just goes to a blank page. I'm highly doubting the efficacy of their products, or that anyone is actually running this programme.",
+      "reply": "We'd like the opportunity to help you with the problem you're having opening the app, William. Have you tried logging out, clearing your app's cache and cookies (Phone Settings > Apps > QuickBooks > Storage > Clear Cache), and restarting your device? If so, please email QBCares@intuit.com so we can investigate. We'll get it sorted. -Karey",
+      "replyDate": "2025-05-19T21:38:26.263Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=a4dcddec-cc70-42d9-b44c-009672c8576f"
+    },
+    {
+      "date": "2025-05-16T16:22:55.168Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Bijan Ebrahimi",
+      "text": "wonderful",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=751b4d2a-02b1-4740-a197-69bf86dfd87b"
+    },
+    {
+      "date": "2025-05-15T17:28:46.447Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Tim Oliver",
+      "text": "Update 16/05/25: Just sits at white screen Update 07/10/24: Please stop the screen updating every time I categorise a transaction. Happens after creating rule. Original:Only works when you clear cache. Every time i want to use it, I have to clear cache first otherwise it just sits there with the QB logo doing its thing.",
+      "reply": "We're here to get this taken care of, Tim. Whenever you have a moment, could you try uninstalling & reinstalling the App to see if this resolves the issue? This will ensure the App is up-to-date, as well as remove any damaged temporary files that may be affecting performance. If you still have trouble, please email us. -Faith (qbcares@intuit.com)",
+      "replyDate": "2021-08-17T15:26:09.382Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=8f3b5fd0-6407-4c5e-a63d-6c51a5ad56fa"
+    },
+    {
+      "date": "2025-05-13T15:08:39.562Z",
+      "score": 2,
+      "thumbsUp": 4,
+      "user": "Matthew Howard",
+      "text": "I work for myself and quikbooks is great when it works but when it doesn't its hard to get the help you need. Recently the tax in my area has changed and quick books has not changed there programming for it so I have had a hard time billing clients. I am upset that it is taking so long to fix the problem and hope someone will fix it soon or I will need to cancel my subscription.",
+      "reply": "We understand your frustration with the incorrect tax calculation and the difficulty in getting timely help. Our developers would like to gather some account details to investigate this issue further. Could you please email us at qbcares@intuit.com so we can look into this for you? -Myshka",
+      "replyDate": "2025-05-14T22:40:36.128Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=125155b5-95d1-4495-a72b-db5f098868f7"
+    },
+    {
+      "date": "2025-05-12T17:32:05.485Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "T Bone",
+      "text": "unreliable and has stopped working all together. when I open the app I only get a blank white screen.",
+      "reply": "Our priority is to ensure your app works flawlessly, T Bone. When you can, please make sure your device OS and app version are up to date, log out, clear your app's cache (Phone Settings > Apps > QuickBooks > Storage > Clear Cache), and restart. If you continue to see a blank screen, please email us. We'll get it sorted. -Karey (QBCares@intuit.com)",
+      "replyDate": "2025-05-12T19:16:59.184Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=29553943-1032-437a-9803-f796a897cebd"
+    },
+    {
+      "date": "2025-05-11T17:09:09.757Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Jer Pil",
+      "text": "nothing but error messages. \"cant open in app purchases\" cleared data, cleared cache, restarted phone, deleted and reinstalled app. same problems.",
+      "reply": "Our priority is to make sure you can use our app to its fullest capabilities, Jer. Let's fix the error message you're receiving. Please ensure your device OS and app version are updated to the latest release, and restart your device. If you continue to receive error messages, please email QBCares@intuit.com so we can investigate. Regards. -Karey",
+      "replyDate": "2025-05-12T17:07:42.776Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=21546dd3-ab3b-4958-9f48-dcdd4e13d18d"
+    },
+    {
+      "date": "2025-05-03T15:40:55.345Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "P W",
+      "text": "can't even open the app anymore just a white screen.",
+      "reply": "We're here to help, P W. Let's start with clearing the app's cache (Phone Settings>Apps>QuickBooks>Storage>Clear Cache) and then checking for app updates. If you're still unable to open the app, please let us know at QBCares@Intuit.com. Thanks. -Caitlyn",
+      "replyDate": "2025-05-13T19:58:47.299Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=28990298-822f-485d-ba6c-752300925cb2"
+    },
+    {
+      "date": "2025-05-02T03:52:52.690Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Adrenaline High",
+      "text": "unreliable. endless sign in loops, website sign in 404, can't stay connected to the banks for more than a few months so it loses out on transactions, and that means you can't rely on it for tax info. Been trying to fix the app for 2 hours before i can even start doing my taxes EDIT: I talked to support, they said you have to open the app weekly or it stops working. $11 a month for this?",
+      "reply": "Thanks for reaching out. Let's work together to get your sign-in and bank connection fixed. Please log out, clear your app's cache (Phone Settings > Apps > QuickBooks > Storage > Clear Cache), and restart. Regarding the 404 error, try this (https://tinyurl.com/fapstbt7). Please email us at QBCares@Intuit.com if this persists. -Caitlyn",
+      "replyDate": "2025-05-13T19:17:15.297Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=1ad93039-6941-4fe7-91a3-7d6ea34a6020"
+    },
+    {
+      "date": "2025-05-01T09:05:55.761Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Tori",
+      "text": "Will NOT import trips from google maps...the most frustrating useless expensive waste if my time!",
+      "reply": "Hi, Tori. We'd like to investigate the mileage issues you're facing a bit further. Could you email us at QBCares@Intuit.com letting us know what happens when you attempt to import trips? Thanks. -Caitlyn",
+      "replyDate": "2025-05-13T18:58:26.236Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=f483502a-b739-464f-9b63-128fcb199505"
+    },
+    {
+      "date": "2025-05-01T05:43:33.618Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "Shevin Sacrey",
+      "text": "You can invoice but not quote or estimate?! That makes no sense.",
+      "reply": "Hi, Shevin. Currently, creating an estimate is a limitation in QBSE. However, you may be interested to know that our new Solopreneur product has that feature and uses the QBO mobile app. Here's more info (https://tinyurl.com/3jf5humb). Please contact our Sales Team with any questions (https://quickbooks.intuit.com). All the best. -Karey",
+      "replyDate": "2025-05-01T19:56:05.971Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=cbd69695-faff-429f-a4e8-89ea1faeaa88"
+    },
+    {
+      "date": "2025-05-01T02:40:16.540Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Will Divers",
+      "text": "since the update on April 4th I have been unable to log into my app, it's completely broken on my phone it just opens to a white screen",
+      "reply": "Hi Will. Let's get you signed back into the app. When you get a chance, please try logging out, clearing your app's cache, and restarting your device. If the white screen persists, try the website ( https://tinyurl.com/QBSE-login) and contact our team for help (Help (?) > Contact Us). Wishing you success. -Karey",
+      "replyDate": "2025-05-01T19:36:31.571Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=eca91ab3-5a1d-4d0a-88cd-348d96734ae3"
+    },
+    {
+      "date": "2025-04-28T08:28:17.309Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Becky Johnson",
+      "text": "excellent app",
+      "reply": "We really appreciate you making our app a part of your self-employed journey, Becky. Whether you're in the office or out on the go, you can count on QuickBooks to back your business. That being said, we also want to share our new Solopreneur product (https://tinyurl.com/bday3zhs). Wishing you continued success. -Karey",
+      "replyDate": "2025-04-28T21:34:04.159Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=8acc156b-2bcc-4857-b5bd-3b1b454e849c"
+    },
+    {
+      "date": "2025-04-23T00:01:00.173Z",
+      "score": 1,
+      "thumbsUp": 3,
+      "user": "S.C. Owen",
+      "text": "App crashes every time I try to open... this is new. it simply will not open, and I get a \"it has a bug, wait till they have an update\" message. Fabulous. Recently, (last 4 months) it hasn't been accurately tracking my mileage (yes, location on, not in power-saving mode, blah blah). Always had problems with it coordinating my bank accounts/credit card info correctly, even by using website access over Android app. Frustrating, but learned to live with it. In-app customer service is useless.",
+      "reply": "Hello, S.C. We're here to help! If clearing app cache, restarting your device, and switching between data and Wi-Fi don't help, our developers would like us to gather some details so they can further look into this issue for you. Please email QBCares@Intuit.com when you have a moment. Talk soon. -Myshka",
+      "replyDate": "2025-04-23T22:18:34.491Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=8bbcd8e2-28f0-419d-ba9e-fedebb9250c6"
+    },
+    {
+      "date": "2025-04-17T00:48:37.618Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "M N",
+      "text": "app fails to send mileage reports. tried multiple days ranges and other combos but my email is still empty....",
+      "reply": "Hi M N. If you're having problems with mileage reports, please try logging out, clearing your app's cache (Phone Settings > Apps > QuickBooks > Storage > Clear Cache), and restarting your device. If you continue to have issues receiving them after, please email QBCares@intuit.com so we can gather your information for our developers. Best. -Karey",
+      "replyDate": "2025-04-21T19:27:13.770Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=e5f3c447-4d2f-48ba-8612-c51a58b7f2c5"
+    },
+    {
+      "date": "2025-04-16T08:08:37.493Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Paul Callaghan",
+      "text": "Receipt upload continuously fails. I have cleared cache and tried to contact intuit with no reply",
+      "reply": "We'd like the opportunity to turn your experience with customer service around, Paul. We're curious, is your app version and device OS up to date? If so, please try logging out and restarting your device. If you continue having problems uploading your receipts, please email us for help. Warm regards. -Karey (QBCares@intuit.com)",
+      "replyDate": "2025-04-17T23:43:44.166Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=7bbe89a8-27a8-4f9d-ba24-4442a34904ca"
+    },
+    {
+      "date": "2025-04-14T20:18:07.885Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Michel Eugui",
+      "text": "15 april and no update the taxes for nova scotia that change 1 April I can't do my invoice in the app because no change the % taxes",
+      "reply": "We're here to help, Michel. Do you see the same results when creating invoices on the website (https://ca.selfemployed.intuit.com/login)? If so, our support team can help. Please reach out here (https://quickbooks.intuit.com/learn-support/en-ca/contact). Best. -Caitlyn",
+      "replyDate": "2025-04-15T16:32:55.190Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=89bfb8af-63ff-43ca-b77d-45dc8e42d84b"
+    },
+    {
+      "date": "2025-04-12T20:35:51.719Z",
+      "score": 3,
+      "thumbsUp": 1,
+      "user": "bo jangles",
+      "text": "I liked this app, but since Nova scotia changed their tax from 15% to 14% there has been no update and no way to change the tax percentage to 14%! it's becoming annoying and I am considering using a different app if they don't fix this problem very soon.",
+      "reply": "Hi, bo jangles. We'd like an opportunity to take a closer look at the tax problem you're experiencing. Please ensure your device OS and app version are fully up to date. If that doesn't fix it, please email QBCares@intuit.com so we can gather your account information for our developers. Thanks a bunch. -Karey",
+      "replyDate": "2025-04-14T14:29:11.760Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=d78fb61b-6d42-4838-90c4-77b66bb9123d"
+    },
+    {
+      "date": "2025-04-07T21:19:53.863Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Rachel W",
+      "text": "App is connected to my bank account yet it repeatedly does not update and is about a week behind updating transactions and bank balance. What exactly am I paying for if these figures are always wrong? Edit: I do not use QB on the website - why would I? It's an app for a mobile device. I only ever go on the website when I have to reauthorise the bank connection (which is also annoying btw). update 7th April 2025 QB has failed to record thousands of pounds of turnover. Closing account.",
+      "reply": "Hi, Rachel. Just to confirm, do you see the same results when accessing the website(https://selfemployed.intuit.com/login)? If so, our Support Team can help, please reach out here (https://tinyurl.com/yc62jumn). Thanks. -Caitlyn",
+      "replyDate": "2024-08-20T15:41:49.405Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=0c2b073b-d80f-4950-b594-eb776166b0ad"
+    },
+    {
+      "date": "2025-04-05T16:08:13.751Z",
+      "score": 2,
+      "thumbsUp": 1,
+      "user": "Sherunda Mckinley",
+      "text": "This app was great in the beginning. Now, it just gives an error message stating that my account isn't included, but when I log in online, it gives me the option to go into the app. I tried updating the app, but even that states pending and eventually times out.",
+      "reply": "We want to lend a helping hand, Sherunda. Could you please ensure your app version and device OS are fully up to date, restart your device, and uninstall/reinstall? If the error persists, please email us a screenshot of the message you're receiving to QBCares@Intuit.com. That way, we can work together. Best of luck. -Karey",
+      "replyDate": "2025-04-14T13:57:12.610Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=7c5b976a-be77-4947-a53f-b6c06726a06c"
+    },
+    {
+      "date": "2025-04-02T14:06:36.376Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Aaron Tanning",
+      "text": "The app is unreliable and inconsistent with it's mileage tracking. Have multiple times spent time troubleshooting, following the suggested fixes, but still keep running into issues.",
+      "reply": "Hi Aaron, we understand mileage tracking can be tricky. Here's a link with troubleshooting tips (https://tinyurl.com/QBSE-mileage). If issues persist, manual or imported tracking might be necessary, as the QBSE app is discontinued in the US & UK. Consider QBO Solopreneur (https://tinyurl.com/bday3zhs) for a more robust solution. Best of luck. -MN",
+      "replyDate": "2025-04-02T22:36:41.796Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=e74d07dd-9cfe-4f8e-a9d7-b5d26b491dc9"
+    },
+    {
+      "date": "2025-04-01T16:55:39.352Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "IM A",
+      "text": "very expensive and not easy to use",
+      "reply": "We're here to help, IM A. It looks like you may be using an outdated version of the QuickBooks Self-Employed app, can you try updating to the latest version and let us know if you still have issues using the app? Thanks. -Caitlyn(QBCares@Intuit.com)",
+      "replyDate": "2025-04-04T16:07:08.947Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=866c6397-203d-4c96-86c9-fa00f527815d"
+    },
+    {
+      "date": "2025-04-01T13:31:24.912Z",
+      "score": 2,
+      "thumbsUp": 1,
+      "user": "Justine L",
+      "text": "when this app works, it's great, but every month I have to reinstall it",
+      "reply": "We understand how frustrating it must be when the app isn't behaving as expected. Let's try to get this sorted. Could you please try these other steps too: clearing the app's cache and data, logging out and back in, and restarting your device? If the problem persists, please email us at qbcares@intuit.com. We're here to help. -Myshka",
+      "replyDate": "2025-04-02T22:37:13.907Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=cc54a819-3971-473c-b22c-3debdc170f35"
+    },
+    {
+      "date": "2025-03-31T19:20:34.911Z",
+      "score": 1,
+      "thumbsUp": 2,
+      "user": "Bryan Bacher",
+      "text": "It's okay, I really want it for the mileage tracker, but the app stays open and my background and there's always a notification on my screen that I can't get to go away and it drains my battery fast. **update. it no longer even tracks my mile. couldn't figure out why my mileage was so much lower in 2024 than in 2023, turns out this thing wasn't even tracking it for the last few months of the year. doesn't track it anymore. going to cancel this now, uninstall the app and find something els",
+      "reply": "Hi, Bryan. We'd like to investigate your mileage tracking issues further. Can you try updating to the latest version of the app and let us know if you still have issues tracking miles? Thanks. -Caitlyn(QBCares@Intuit.com)",
+      "replyDate": "2025-04-04T16:09:50.261Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=075dbbbe-6c27-4c17-8f34-d54091510430"
+    },
+    {
+      "date": "2025-03-31T18:21:39.450Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Madeleine Bell-Ashe (Maddie)",
+      "text": "why is the app no longer opening?! I log in via the website, click help and there's no options. click for the assistant and there's no one there. there's no \"contact us\", there's no one to talk to and the app is just a blank screen.",
+      "reply": "The QBSE app has been discontinued in the US & UK. While the app is no longer supported, you can still access your account on the go through a mobile browser. For an enhanced experience, we recommend exploring QBO Solopreneur, which offers similar functionalities. Wishing you the best. -Myshka",
+      "replyDate": "2025-04-02T22:38:43.531Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=2ee78428-1737-401b-821d-185c4fdb4c6f"
+    },
+    {
+      "date": "2025-03-30T01:27:51.235Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Joshua Gage",
+      "text": "no support whatsoever and completely unable to open the app. I've paid $26 a month for over a year and can hardly even use it.",
+      "reply": "Hi Joshua. Let's work together to get you back in the app. First, log out, clear your app's cache (Phone Settings > Apps > QuickBooks > Storage > Clear Cache), and then restart. In the meantime, our mobile website is available (https://tinyurl.com/QBSE-login). Please email us if it persists. All the best. -Karey (QBCares@intuit.com)\n",
+      "replyDate": "2025-03-31T22:35:14.452Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=67d6aeef-9e84-4037-b9a0-a12184b04a18"
+    },
+    {
+      "date": "2025-03-23T01:54:30.929Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "LJ Hook",
+      "text": "update: cancellimg my subscription. the fact my receipts have been sitting in \"gathering receipt details \" for the last 48 hours and counting with no means to delete or stop process makes this app useless. I DO NOT RECOMMEND. So many known unresolved issues. waste of money. been trying to use this since 2021 and it's been an ongoing fight. I shouldn't have switched accounting programs. lesson learned.",
+      "reply": "This message you're receiving, \"gathering receipt details,\" isn't the norm, LJ. We'd like to turn this around and investigate. When you can, please ensure your device OS and app version are updated to the latest release, log out, and restart. If it persists after, please email QBCares@intuit.com so we can work together. Wishing you success. -Karey",
+      "replyDate": "2025-03-24T19:14:58.475Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=8c1863bd-35bd-4e38-8fde-e29403a5c859"
+    },
+    {
+      "date": "2025-03-20T10:42:48.487Z",
+      "score": 3,
+      "thumbsUp": 14,
+      "user": "Benjamin Carlson",
+      "text": "I used to be able to search through my transactions, but now, whenever I try, the app closes as soon as I type the first letter or number. It's very frustrating when I'm trying to connect unrecognized receipts to their transactions. I first noticed this problem around October 2024, and waited for a patch/update to fix it, but it never came. Please fix/advise. Thank you!",
+      "reply": "Hi Benjamin. Let's work together to fix the problem you're having searching transactions. First, log out of the app, clear your cache (Phone Settings > Apps > QuickBooks > Storage > Clear Cache), and restart. In the meantime, please use the website (https://tinyurl.com/QBSE-login) and contact us for help (Help (?)> Contact us). All the best. -Karey",
+      "replyDate": "2025-03-20T21:37:00.991Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=dad14ba9-864b-4ecb-a69a-f8234ef7b11e"
+    },
+    {
+      "date": "2025-03-19T23:21:53.310Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Twisted Willow",
+      "text": "The app used to be good, now it won't even open. Edited March 2025 continues to kick me out and won't let me log in. For a service I pay for i shouldn't have to dick around trying to make it work constantly I'm in Canada so the reply is irrelevant",
+      "reply": "Hello there. The QBSE app has been discontinued in the US & UK and is no longer receiving updates or support. We invite you to check out QB Solopreneur (https://tinyurl.com/bday3zhs), the newest mobile app for self employed businesses. Regards. -Myshka",
+      "replyDate": "2025-03-19T22:44:47.336Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=2c0e7527-2f12-4778-86a5-e68c2c1122d1"
+    },
+    {
+      "date": "2025-03-18T01:22:25.957Z",
+      "score": 5,
+      "thumbsUp": 2,
+      "user": "Mark Trudgian",
+      "text": "working now after update",
+      "reply": "We appreciate you letting us know about the sign-in problem you're experiencing, Mark. You should see a fix for this issue in the next update. When it's released, please make sure your device OS and app version are up to date, log out, and restart your device. If it persists after, please email QBCares@intuit.com so we can help. Regards. -Karey",
+      "replyDate": "2025-03-17T22:14:00.168Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=8a26cf3e-295b-4255-9486-272565feec1a"
+    },
+    {
+      "date": "2025-03-18T00:26:33.582Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Amarjit Singh",
+      "text": "can't subscribe it's keep saying it's not available in your country",
+      "reply": "Hi Amarjit. QBSE is now only available to current subscribers and has been delisted from app stores in most countries. However, please check out the QuickBooks products that are available, like Solopreneur, here: (https://QuickBooks.intuit.com). If you have any questions, please don't hesitate to contact the Sales Team. All the best. -Karey",
+      "replyDate": "2025-03-20T20:53:21.518Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=e02e99cc-68fb-498f-abfb-fc8684f2463f"
+    },
+    {
+      "date": "2025-03-17T15:07:24.590Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "Shawn Allen",
+      "text": "- I wish I could add my own custom categories for transaction classification - the mileage tracker has never worked for me. I do a lot of start / stop short drives & it's never accurate - I've needed to upgrade for some time so I can do estimates & turn them directly into invoices, but the account data isn't transferable, I will lose everything & be starting all over from scratch & that is a massive problem - Profit / Loss is tracked by payment date & should be tracked by invoice date",
+      "reply": "Hi Shawn. Let's get your mileage fixed. Try these steps (https://tinyurl.com/QBSE-mileage). You can also import using Google Timeline (here's how: https://tinyurl.com/Import-Trips). In QBO, you can use Cash or Accrual accounting methods. With accrual, you see the report by invoice date. More info here (https://tinyurl.com/b2xkjrz5). Best. -Karey\n",
+      "replyDate": "2025-03-20T20:18:56.452Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=97061389-9fd4-48a2-a854-f3c5525cd6f4"
+    },
+    {
+      "date": "2025-03-17T07:11:44.616Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Shawna",
+      "text": "app keeps crashing. useless",
+      "reply": "Thanks for letting us know about the crashing, Shawna. Let's work together to fix it. When you can, please make sure your device OS and app version are updated to the latest release, log out, clear the app's cache (Phone Settings > Apps > QuickBooks > Storage > Clear Cache), and restart. If it persists, please email QBCares@intuit.com. Best. -Karey",
+      "replyDate": "2025-03-20T19:24:31.100Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=11c24d58-0691-41b7-a965-33b2fed2a9f3"
+    },
+    {
+      "date": "2025-03-17T04:47:01.166Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Russell Scarlett",
+      "text": "It won't allow me to log in!🤬",
+      "reply": "Hello. Are you seeing similar login issues here (https://tinyurl.com/232os7g4)? While the QBSE app has been discontinued in the US & UK, you should still be able to log in on a mobile browser to use your account on the go. With that said, we encourage you to check out the new QBO Solopreneur (https://tinyurl.com/2ch2qexl). -Myshka",
+      "replyDate": "2025-03-19T22:46:21.391Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=2b21c60f-d2ee-4405-9488-035f32728fe4"
+    },
+    {
+      "date": "2025-03-15T21:01:37.974Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "Landon Bauer",
+      "text": "I've had QuickBooks for several years and have thoroughly enjoyed it. It has made keeping my taxes in line incredibly easy. Just recently, however, I've had difficulty using the app, as it is constantly failing and showing sign-in problems. I'm having to uninstall and reinstall it, only to be met with more issues. The app itself is currently having problems. I've sent an email and im awaiting response to hopefully get this handled ASAP. this app unfortunately is my life to my business.",
+      "reply": "Hi there. Are you seeing similar login issues here (https://tinyurl.com/232os7g4)? While the QBSE app has been discontinued in the US & UK, you should still be able to log in on a mobile browser to use your account on the go. With that said, we encourage you to check out the new QBO Solopreneur (https://quickbooks.intuit.com/solopreneur/). -Myshka",
+      "replyDate": "2025-03-19T22:42:56.661Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=d9adffb3-7fae-4669-8145-f7d84183efa1"
+    },
+    {
+      "date": "2025-03-15T20:30:29.615Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Danny Gale",
+      "text": "Issues with login and not being updated",
+      "reply": "Hi, Danny. Are you seeing similar login issues here (https://selfemployed.intuit.com/login)? The QBSE mobile app has been discontinued, so no further updates are available; however, you can log into the website with ease. With that said, we encourage you to check out the new QBO Solopreneur (https://quickbooks.intuit.com/solopreneur/). -Caitlyn",
+      "replyDate": "2025-03-18T15:58:28.483Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=a32de31d-d553-4bd1-8494-54ce17d7be3c"
+    },
+    {
+      "date": "2025-03-15T17:10:35.223Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Robert Ashmeade",
+      "text": "App no longer let's me log in. Stopped tracking my mileage. Only then to find out apparently there's a new quickbooks app in the store that I would need to change to. Losing all my transactions, expenses and mileage from last year....",
+      "reply": "Hi Robert. We wanted to let you know that a fix for the login problem will be released in the next update. Please keep your eyes out for that. In the meantime, you should be able to use the website (https://tinyurl.com/QBSE-login) and import trips using Google Timeline. Here's how: (https://tinyurl.com/Import-Trips). We hope this helps. -Karey",
+      "replyDate": "2025-03-20T17:23:27.289Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=65c2b538-f45d-4816-bd5e-e8b2c11cfa93"
+    },
+    {
+      "date": "2025-03-15T12:44:24.553Z",
+      "score": 1,
+      "thumbsUp": 2,
+      "user": "Gwynn Foxholt",
+      "text": "As of this week, Intuit seem to have bricked this app. Just tells me it's unable to connect despite going through all troubleshooting and reinstalling the app. I assume this is to try and force legacy customers to switch over to their horribly named \"Solopreneure\" 🤮 membership. I can't in good conscience have have that word associated with me, so no ta. I guess I'll just use my web browser 🤷",
+      "reply": "Hi Gwynn. We wanted to let you know that our developers have identified the cause of this sign-in error. A fix will be released in the upcoming version. After the release, please ensure your device OS and app versions are updated, log out, and restart. If you still have issues after, please email us. All the best. -Karey (QBCares@intuit.com)",
+      "replyDate": "2025-03-17T22:32:11.379Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=c1bc5e4c-8be0-4d29-89b0-a83cd9afd532"
+    },
+    {
+      "date": "2025-03-15T08:20:35.934Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Stevo XXXboxer",
+      "text": "Cant access app at all followed steps totally useless cant mile track or upload receipts on the go all day so struggle to access laptop if id known before i started they would remove app support would have gone with zero",
+      "reply": "We hate to hear you're having trouble accessing the app to track mileage and upload receipts. To clarify, are you receiving an error when signing in? If so, our developers have identified its cause, and a fix will be released in the next update. If it persists after updating, please email us for help. Warmest regards. -Karey (QBCares@intuit.com)",
+      "replyDate": "2025-03-17T22:30:47.130Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=969bcf5e-5c3d-4bb3-90a4-770c92abbe63"
+    },
+    {
+      "date": "2025-03-15T03:22:50.987Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "Melissa Marquez-Perez",
+      "text": "Updated review as of 3/14/25. Mileage portion of the app started working Nov 2024 until today when I couldn't login today. Parameter Null...etc. I can login via the website but not the app. I'm glad I started writing down my mileage.",
+      "reply": "We wanted to let you know that our developers have identified the cause of this sign-in error, Melissa. A fix will be released in the upcoming version. After the release, please ensure your device OS and app versions are updated, log out, and restart. If you still have issues after, please email us. All the Best. -Karey (QBCares@intuit.com)",
+      "replyDate": "2025-03-17T22:26:19.194Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=e2ef7b03-c691-4f8f-b41f-698b11e3de64"
+    },
+    {
+      "date": "2025-03-15T02:54:21.391Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Zoilo Rivera",
+      "text": "This app doesn't even wanna open half the time, what am I paying monthly for? I'm canceling my subscription and finding another company",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=a5183b8f-517f-407c-8c05-d863d34c1911"
+    },
+    {
+      "date": "2025-03-14T22:11:42.852Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Marc",
+      "text": "Been using QBSE app for a few months now. All of a sudden it won't let me sign in to the app. Something about Non-Null error something or another. Signing in online i appear to have no nothing linked like I've started over again. Overall it's been nothing but stress since signing up, will be going elsewhere when my subscription runs out",
+      "reply": "Hi Marc. We wanted to let you know that our developers have identified the cause of this sign-in error. A fix will be released in the upcoming version. After the release, please ensure your device OS and app versions are updated, log out, and restart. If you still have issues after, please email us. Best. -Karey (QBCares@intuit.com)",
+      "replyDate": "2025-03-17T22:24:20.416Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=da23cfdc-ffcb-491f-9bb4-04f0e3ab3efd"
+    },
+    {
+      "date": "2025-03-14T21:15:00.715Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "Shawn Shideler",
+      "text": "Use to work but looks like they are collecting monthly payments while slowly breaking things to push users to other subscriptions that are higher every month. I can nolonger use the app on any of my phones. I can only access it by using the website from a computer. Got a new phone e & now can't get app to open, cleared cache, app data & Uninstallerd & reinstalled. Still get error Unable to Sign In Parameter specified as non-null is null; method okhttp3.internal.Util.c, parameter $this_asFactory",
+      "reply": "Hi Shawn. We want to lend a hand and let you know that the developers will soon release a fix for this error in the next update. After it's released, please ensure your device OS and app are updated, then log out and restart. If you continue receiving the error, please email QBCares@intuit.com so we can investigate. All the best. -Karey",
+      "replyDate": "2025-03-17T22:17:35.812Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=51555b4d-a4ba-4f68-b5c6-a48139e11273"
+    },
+    {
+      "date": "2025-03-14T13:42:10.588Z",
+      "score": 1,
+      "thumbsUp": 2,
+      "user": "wesley osigian",
+      "text": "I have been paying $20 a month since last year for this app to keep track of my work purchases and my driving time. They ate my money and didn't deliver on service promised. This is an updated review because last time they gave me a way to login on desktop. I followed the instructions they gave. It worked several months ago and now doesn't. It puts you on a loading screen that never ends.",
+      "reply": "Our priority is to get you access to your info, Wesley. First, please ensure your device OS and app version are fully up to date, log out, and restart. In the meantime, you can use the mobile site (https://tinyurl.com/QBSE-login), which holds the same info. Please contact our team if problems persist (Help (?) > Contact US). All the best. -Karey",
+      "replyDate": "2024-12-09T19:42:24.487Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=629128ff-3525-4966-a11c-dec45cca7c4a"
+    },
+    {
+      "date": "2025-03-13T22:43:58.187Z",
+      "score": 1,
+      "thumbsUp": 2,
+      "user": "FR300Y T",
+      "text": "Paying for an app I can't use? Can't login??",
+      "reply": "Thank you for taking the time to reach out about the login issue. We want to let you know that a fix for this problem will be released in the next update. When it's released, please update your device OS and app version, log out and restart. If it continues, please contact our team. All the best. -Karey (QBCares@intuit.com)",
+      "replyDate": "2025-03-17T22:09:54.700Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=88b3a540-a4f7-40c5-afd8-6b64727ab290"
+    },
+    {
+      "date": "2025-03-13T19:27:52.254Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Britanie Porter",
+      "text": "Very frustrated I can't get on the app. I have milage and reicepts to enter and I cant.",
+      "reply": "This isn't the norm, Britanie. Let's get you back into the app. First, please make sure your device OS and app version are up to date, then force close the app, clear your app's cache (Phone Settings > Apps > QuickBooks > Storage > Clear Cache), and restart your device. If it persists, please email QBCares@intuit.com. Wishing you success. -Karey",
+      "replyDate": "2025-03-13T21:02:30.648Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=9ffaeb2c-4fda-453b-ba8d-e5cbe170fe1a"
+    },
+    {
+      "date": "2025-03-11T19:50:00.700Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Ed Gray",
+      "text": "Every time I try to log in I get \"Parameter specified as non-null is null: method okhttp3.internalUtil.c, parameter $this_asFactory\". If the app ever starts working again I'll give it more than 1 star!",
+      "reply": "We appreciate the review, Ed. Please know that common issues can be solved with simple troubleshooting such as clearing the app's cache, switching between Wi-Fi & cell data, and rebooting your device. Should these not work to correct issues you may be facing, don't hesitate to email us at qbcares@intuit.com for further help. Best of luck. -Myshka",
+      "replyDate": "2025-03-12T22:46:34.397Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=c417ef88-9860-43ee-b766-a52c5b213059"
+    },
+    {
+      "date": "2025-03-09T15:46:21.652Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Vergil Johnson",
+      "text": "I can't get the app to open on my Pixel 8 Pro. Sine this is my work phone, I'm missing mileage for tracking",
+      "reply": "Hi Vergil. Let's work together to get your app opening again so you can track your mileage. When you can, please ensure your app and device are fully up to date, log out, and restart. If the problem continues after those steps, please email QBCares@intuit.com so we can gather your details and investigate. Wishing you success. -Karey",
+      "replyDate": "2025-03-10T21:43:46.324Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=c8c8114e-dade-45bd-b852-6bba750a3ee6"
+    },
+    {
+      "date": "2025-03-08T15:36:22.570Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Nothing Important",
+      "text": "NEVER SENDS MESSAGES!",
+      "reply": "Our priority is ensuring the app runs as it should for you. Please make sure your device and app are fully up to date, then log out and restart. If the problem with sending messages continues after those steps, please send an email to QBCares@intuit.com so we can gather your account info for our team to investigate. All the best. -Karey",
+      "replyDate": "2025-03-10T21:41:15.761Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=97069dfd-6ac7-4790-b350-2162a0dccf10"
+    },
+    {
+      "date": "2025-03-06T06:41:07.367Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "shane ruth",
+      "text": "working well 👌 Good morning one thing that I've started to notice is not all customer are receiving my invoices which is starting to become a problem please can you guys help out",
+      "reply": "We're thrilled that the app works well for your business, Shane. Promoting your self-employed success is our ultimate goal. If you ever need any help, our Community website (https://community.intuit.com) is an excellent resource with step-by-step articles and QuickBooks discussions. Wishing you success in all your business endeavors. -Karey",
+      "replyDate": "2024-06-06T13:49:49.949Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=253b211c-9f93-463e-9809-09ed5217190d"
+    },
+    {
+      "date": "2025-03-03T12:04:22.135Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Andrew Lundin",
+      "text": "Smmhad sind 2021. The app continuously logs people out and therefore doesn't track mileage. Just logged in to see 7 months of activity hasn't been tracked and I've been paying for this service.",
+      "reply": "Hey, Andrew. Here are some steps that might help correct mileage issues (https://tinyurl.com/QBSE-mileage). If this continues, you might need to manually track or import miles due to the QBSE app being discontinued in the US. We'd also like to recommend switching to QB Solopreneur (https://tinyurl.com/bday3zhs). We hope this helps. -Myshka",
+      "replyDate": "2025-03-05T23:17:00.885Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=e4fa7e56-b45d-4508-a07d-29bbb9244f52"
+    },
+    {
+      "date": "2025-03-02T09:23:01.728Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "greggo lancaster",
+      "text": "DO NOT USE THIS APP IT ALLOWS YOU TO PAY FOR USBSCRIPTION THEN YOU CANT GET BACK IN",
+      "reply": "We want to ensure you can utilize the product you pay for, Greggo. Do you have the same problem accessing the website (https://tinyurl.com/QBSE-login)? If so, please try these steps (https://tinyurl.com/bp6ysfw8). If it persists, please contact us using the info at the bottom of the article. We'll get it sorted. Wishing you success. -Karey\n",
+      "replyDate": "2025-03-03T22:10:36.980Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=2597085c-b700-447f-a069-7a3e4d070544"
+    },
+    {
+      "date": "2025-02-27T15:28:25.583Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Ben Frank",
+      "text": "All my transactions from last year are gone. No reason why, I've been paying for this all year. I try to upload and it won't do it either. Garbage product.",
+      "reply": "Hi Ben. We'd like to lend a hand with this. Have you checked the website to see if your transactions show there (https://tinyurl.com/QBSE-login)? If not, please contact our team (Help (?) > Contact us) so we can investigate and work together. Wishing you success. -Karey",
+      "replyDate": "2025-02-27T23:03:02.549Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=6374b9ab-8563-4947-a079-3713cd906890"
+    },
+    {
+      "date": "2025-02-23T16:20:07.775Z",
+      "score": 1,
+      "thumbsUp": 2,
+      "user": "April B",
+      "text": "I've been using this app for a while now. The past few months have been terrible between not connecting to my bank, not allowing me access to my app, and not tracking mileage to name a few. My payment is automatically withdrawn monthly through Google Play but the app still says my account is expired. It wants me to sign up again for a service I've already paid for. This is beyond frustrating. Time to find a better app.",
+      "reply": "Our priority is to ensure you can use the app you pay for, April. When you get a chance, please try logging into the website (https://tinyurl.com/QBSE-login) and then send an email to QBCares@intuit.com so we can investigate and help you get back to business. Wishing you all the best. -Karey",
+      "replyDate": "2025-02-24T23:21:31.504Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=cf3f9076-dfc0-44a4-a5e1-d0f1a860a588"
+    },
+    {
+      "date": "2025-02-20T00:22:29.373Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "chris cody",
+      "text": "Not user friendly",
+      "reply": "Hey, Chris. We appreciate your feedback. If you have any questions about QuickBooks, our friends over at the Community would be more than happy to help(https://community.intuit.com/)! We hope to see you there! -Caitlyn",
+      "replyDate": "2025-02-21T16:43:43.613Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=12d828b6-2e80-40df-897d-dae45cce58a5"
+    },
+    {
+      "date": "2025-02-19T06:20:27.253Z",
+      "score": 3,
+      "thumbsUp": 2,
+      "user": "Dale Owen",
+      "text": "Can't upload receipts it keeps saying Up Load failed. It also says that I am not set up for a QB account, which is a lie as my money is directly deducted out of my credit card every month. I have to manually input all my receipts without being to add a photo to them. Please fix!!",
+      "reply": "We're here to help with your receipt upload issues, Dale. Let's start by resetting the app's data (QuickBooks Settings>Refresh Data), clearing the app's cache (Phone Settings>Apps>QuickBooks>Storage>Clear Cache) and then checking for app updates. Please email us if this persists. Thanks. -Caitlyn (QBCares@Intuit.com)",
+      "replyDate": "2025-02-21T16:35:20.767Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=7d2072f4-50ef-46ff-9084-d30933afd317"
+    },
+    {
+      "date": "2025-02-18T07:07:27.410Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Craig Hall",
+      "text": "Since the update - May 6th (the one that 'Squashed the bugs') my app has been buggier than ever, I can not load reciepts or documents to any transactions and customer services have been poor at resolving. Very disappointed in Quickbooks. One year later app still not fixed, multiple investigations have lead to no fix, will be leaving quickbooks! Avoid!",
+      "reply": "We're committed to making sure you have the best app possible, Craig. Let's work together to get your data showing. Try logging out, resetting your app's cache (Phone Settings > Apps > QuickBooks > Storage > Clear Cache), and restarting your device? If it continues after that, please send us an email to QBCares@intuit.com. Best of luck. -Karey",
+      "replyDate": "2024-05-20T19:23:11.298Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=1337d1a4-25b4-4da5-87b3-abefdee0957f"
+    },
+    {
+      "date": "2025-02-14T11:00:00.513Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Katie E (Katie)",
+      "text": "Update: spent 3 weeks trying to to get a resolution, following links they provided and filling out their forms. No resolution. Filed complaint with BBB. I HAVE RECEIPTS! I have been overcharged for a year for QBSE TurboTax bundle and am not receiving turbotax services. Unresponsive and just tells me to contact apple. Apple confirms subscription. THIS SHOULD BE CUT AND DRY BUT INSTEAD ITS FRAUD. 68HRS BILLABLE, TRYING TO GET SOLUTION. HOLDING GRUDGE NOW",
+      "reply": "Our priority is to ensure you're getting charged appropriately for your subscription, Katie. When you get a chance, please email some additional details to our team so we can investigate. We look forward to working with you. -Karey (QBCares@intuit.com)",
+      "replyDate": "2025-02-06T22:59:52.601Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=cefb2552-447a-488c-97d6-8a4d5962827a"
+    },
+    {
+      "date": "2025-02-12T23:03:54.815Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Mary Agee-McCully",
+      "text": "Finally canceling after much frustration over the years. Don't taxes earlier this year so I don't feel so invested",
+      "reply": "We really appreciate you trying our app for your business and hate seeing a long-time QuickBooks family member go, Mary. Rather, we'd like to introduce you to our friends on our Community website (https://community.intuit.com/). Please contact our experts there with any questions or issues. We'll be happy to help. Wishing you the best -Karey",
+      "replyDate": "2025-02-13T21:32:34.865Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=d0463a05-c12c-4fa0-bb30-db0c3c8ece10"
+    },
+    {
+      "date": "2025-02-11T22:01:41.619Z",
+      "score": 1,
+      "thumbsUp": 3,
+      "user": "V Gascoigne",
+      "text": "They decided to remove the ability to sign in online to more easily access information for taxes. (Apparently, Intuit wants people to move over to their new program. The reviews I have read said it's a subpar program to this one.) That prevented me from being able to import the info to turbotax. I will be looking for a new app to support my needs since Intuit no longer wants to.",
+      "reply": "We'd love to clarify, V. The ability to send info to Turbo Tax is only available on a web browser, not the app. You'll need to sign in at https://selfemployed.intuit.com/login in order to file your taxes. Hope this helps. -Myshka",
+      "replyDate": "2025-02-12T16:05:45.469Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=2b6e7e1e-2263-4f63-8ebb-fe5e094f5adb"
+    },
+    {
+      "date": "2025-02-10T22:06:25.563Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Jonathan Fairbank",
+      "text": "Doesn't work, app will not open",
+      "reply": "Addressing this issue with your app opening is our utmost priority, Jonathan. Let's get it fixed so you can get back to business. First, please ensure your app version and device OS is on the latest release. Then, try logging out, restarting your device, and uninstalling. If it persists, please email us for help. Best. -Karey (QBCares@intuit.com)",
+      "replyDate": "2025-02-10T23:14:23.750Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=2375aee6-f4a3-4c5f-a393-f82d95b5d681"
+    },
+    {
+      "date": "2025-02-08T16:48:25.785Z",
+      "score": 1,
+      "thumbsUp": 25,
+      "user": "Julie Barajas",
+      "text": "Imagine how excited I was when I went to QBSE on my desktop to work on my taxes to discover that, regardless of the notifications I received every time I started driving, the app hasn't tracked a single trip since June of last year. My client list is consistent so I have rules created so I don't have to frequently categorize trips. Now I get to reinvent the wheel for half of the year for an app that is not inexpensive and I use over others because of the trip tracking feature. Waste of money.",
+      "reply": "It's our priority to ensure that you can track your mileage consistently, Julie. An initial suggestion is to try these troubleshooting steps (https://tinyurl.com/QBSE-mileage) and use Google Timeline as a backup (https://tinyurl.com/Import-Trips) to import trips. Please contact us if you need more help (Help (?) > Contact US). Best. -Karey",
+      "replyDate": "2025-02-10T23:07:30.744Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=4a337908-6fd3-421e-8c94-063e324b536d"
+    },
+    {
+      "date": "2025-02-08T11:03:25.322Z",
+      "score": 1,
+      "thumbsUp": 2,
+      "user": "Amy Moore",
+      "text": "I've had this app since I first started my cleaning business in 2022 and it worked perfectly, then about 5 or 6 months ago I noticed the app wasnt accurately keeping up with my milage. I tried everything to get it to working properly but couldn't. I tried reaching out to QuickBooks to fix the problem, but was never able to get in touch with them, so instead of being charged $14.99 monthly for a service that no longer worked, I canceled my membership and deleted the app.",
+      "reply": "We want to thank you for being a part of the QuickBooks family for so long, Amy. It saddens us to hear you were having trouble with the app. If you decide to give our products another try in the future, please know, you can always email us or contact our Community Team (https://community.intuit.com). Warmest regards. -Karey (QBCares@intuit.com)",
+      "replyDate": "2025-02-10T22:55:39.531Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=ff09d696-7b1b-441a-ad7b-45fb854a2a37"
+    },
+    {
+      "date": "2025-02-06T19:12:53.276Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "Ran Vaknin",
+      "text": "Your app breaks on a monthly basis. Seems like 11.1.0 is completely broken. App does not open at all on Android 14 (pixel 7). It's either your app broken, or your backend API keeps losing customer data. What a disappointment from the biggest Tax and accounting company in the world.",
+      "reply": "Hi Ran. Let's work together to get your app opening again. The most recent version of our app is v11.0.0+4. We recommend ensuring your device OS and app version are fully up to date. Then, please restart your device and uninstall/reinstall the app. If the problem persists, please email our team at QBCares@intuit.com for help. All the best. -Karey",
+      "replyDate": "2025-02-06T23:08:07.347Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=da68823b-17b4-432e-850d-bea71a967498"
+    },
+    {
+      "date": "2025-02-06T16:06:38.450Z",
+      "score": 2,
+      "thumbsUp": 1,
+      "user": "Laura Jackson",
+      "text": "This app was very useful, but now won't even open.",
+      "reply": "We want to ensure you get the help you need with your app opening, Laura. When you get a chance, please ensure your device OS and app version are up to date. Then, clear your app's cache (Phone Settings > Apps > QuickBooks > Storage > Clear Cache) and restart your device. If it persists, please email us for help. Best. -Karey (QBCares@intuit.com)",
+      "replyDate": "2025-02-06T23:04:00.880Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=d211a148-d12b-47b5-a7c3-8dd34f539f5f"
+    },
+    {
+      "date": "2025-02-05T19:38:49.831Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "Roxy Carroll",
+      "text": "I like the app, but when I go into my intuit account to pay my taxes. The screen is all messed up. It's very annoying. I also wish I could just pay my taxes through the app. Also trying to get help is impossible.",
+      "reply": "Hi Roxy. Let's work together to fix your Taxes tab. When you get a chance, please ensure your device OS and app version are up to date. Then log out, clear your app's cache (Phone Settings > Apps > QuickBooks > Storage > Clear Cache) and restart your device. If it persists after those steps, please email us. Best. -Karey (QBCares@intuit.com)",
+      "replyDate": "2025-02-06T22:54:38.776Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=aa58fbe3-11ca-4560-8eb3-ffc885d781a1"
+    },
+    {
+      "date": "2025-02-05T13:23:56.000Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "Alicia Williams",
+      "text": "I've been using this app for 2 years and it has great features, however, STILL no help is available through the app. It's always say, \"Something went wrong try again later\" and it never changes. Call in, that takes forever or no one can help when you do get to someone. I'm finding another app",
+      "reply": "We hate to hear you're having issues with the app's Help Menu, Alicia. Let's get it fixed. First, ensure your device OS and app version are fully up to date. Then, log out, clear your app's cache (Phone Settings>Apps>QuickBooks>Storage>Clear Cache), and restart. If the problem persists, please email our team at QBCares@intuit.com. Best. -Karey",
+      "replyDate": "2025-02-06T21:39:29.799Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=c340f522-07e6-4578-8de7-298b753f5f8a"
+    },
+    {
+      "date": "2025-02-04T22:33:42.100Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Rj A",
+      "text": "The app support has not worked for a long time it just says SOMETHING WENT WRONG.... WHAT IS THE POINT OF THIS PATRONISING STATEMENT!!!!",
+      "reply": "Hi Rj. You may have had a promotional discount expire, which explains the change. We want you to find the plan that fits your budget and business needs. Please check out the available ones here: (https://quickbooks.intuit.com). Please contact our team using one of these options (https://tinyurl.com/394r33yp) if you have any questions. Best -Karey",
+      "replyDate": "2024-11-04T20:13:01.542Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=0342d233-3275-4a0f-a23c-99912d010a6a"
+    },
+    {
+      "date": "2025-02-03T00:31:33.447Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Michael Wilson",
+      "text": "Has done well for years and now it won't accept my business checking account Woodforest, so I started using personal account to track transactions and now it's not loading transactions from there even though it's connect.",
+      "reply": "Hi Michael. Let's work together to get your transactions loading again. Have you tried reconnecting (https://tinyurl.com/4hfh3zep) through the website (https://tinyurl.com/QBSE-login)? If so, and you're still having issues, please contact our team so we can help (Help (?) > Contact Us). Wishing you success. -Karey",
+      "replyDate": "2025-02-04T00:43:11.251Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=d29a97d8-30ea-43af-9ab6-26a1f883b1dc"
+    },
+    {
+      "date": "2025-02-01T14:51:21.348Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Ray Rodriguez (BamDoc)",
+      "text": "Constant connection issues with my bank and Support chat is down. I checked online to connect my business account and it doesn't work. Something wrong with Wells Fargo and Intuit. I called my bank and they said connection was approved. But it's not working on app or website. It's now Feb 1 and I can't get my taxes ready because of this issues.",
+      "reply": "Hi, Ray. Do you see the same bank connection errors on the website (https://selfemployed.intuit.com/login)? If so, our support team can help, please reach out here (https://tinyurl.com/h9p8xwj7). Best. -Caitlyn",
+      "replyDate": "2025-01-21T17:30:34.307Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=e138879c-982d-4548-8725-adcb307ed579"
+    },
+    {
+      "date": "2025-01-31T17:45:44.677Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Zoeey",
+      "text": "It's impossible to cancel your subscription and even when you get a confirmation email that it's been cancelled they continue to charge you for it, highly do NOT recommend",
+      "reply": "We don't want you being charged for an account you're no longer using, Zoeey. Have you fully canceled your account using these steps (https://tinyurl.com/Cancel-QBSE)? If so, please email us so we can work together and get this sorted. Wishing you all the best. -Karey (QBCares@intuit.com)",
+      "replyDate": "2025-02-04T00:36:16.897Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=20d832f7-dee5-4528-bcf1-e30e1c493c2e"
+    },
+    {
+      "date": "2025-01-31T13:27:53.580Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Magpie Moonchild",
+      "text": "Doesn't even load. Won't log in. Awful",
+      "reply": "Hi there. We're here to help you get loaded up and logged in right away. To start, most app issues can be resolved by clearing the app's cache (Phone Settings > Apps > QuickBooks > Storage > Clear Cache) and checking for app updates. If you're still unable to load the app, please let us know at QBCares@Intuit.com. Thanks. -Caitlyn",
+      "replyDate": "2025-01-31T15:28:32.369Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=4483f482-bed3-43be-abb0-9ef4dc930bab"
+    },
+    {
+      "date": "2025-01-30T20:52:17.656Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "Judy Benoit Milner",
+      "text": "Great app so long as you don't plan to grow your business. It's not upgradable to Quickbooks online or anything other than self employed",
+      "reply": "Thank you for your feedback, Judy! We're excited to share that we've developed a new product called Solopreneur, which allows QBSE data migration and can be upgraded to QuickBooks Online. You can find more info here: (https://tinyurl.com/bday3zhs). We appreciate your input and wish you all the best with all your business endeavors. -Karey",
+      "replyDate": "2025-01-30T23:06:05.132Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=c455a589-9ea4-4e6f-a5f6-378f69576195"
+    },
+    {
+      "date": "2025-01-30T19:56:07.268Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Nathan George",
+      "text": "Completely unusable now, guess it's time to jump ship!",
+      "reply": "We hate to see you leave and would like the opportunity to help, Nathan. For any app problems, try clearing the app's cache (Phone Settings > Apps > QuickBooks > Storage > Clear Cache) and restarting. Email us for further steps at QBCares@Intuit.com, and we can work together. All the best. -Caitlyn",
+      "replyDate": "2025-01-31T17:24:51.130Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=6b587b68-9228-442b-bdd4-6c3c6989adc9"
+    },
+    {
+      "date": "2025-01-29T20:02:21.300Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "Timothy Ryan",
+      "text": "This app is incredible when it works, but like today I go to put in some receipts and to check some past transactions and it won't even open. I don't know why such a big company has an app that is not more user-friendly.",
+      "reply": "Our team would like to investigate this situation and ensure your app works 100% of the time, Timothy. Do you run into similar results after clearing your app's cache (Phone Settings > Apps > QuickBooks > Storage > Clear Cache) and restarting your device? If so, please email us for further assistance. Best of luck. -Karey (QBCares@intuit.com)",
+      "replyDate": "2025-01-30T21:12:52.686Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=4a6d531c-a709-4ca1-8fe3-ac03bc8e88b6"
+    },
+    {
+      "date": "2025-01-29T01:39:27.170Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "omid seraj",
+      "text": "So disappointed I installed the app and subscribed but there is an error that does not let me start the app. Tried to contact customer service through website but there is no available spot to book appointments. I did what you said but didn't work.",
+      "reply": "Hi, Omid. We're here to help investigate this error message. Let's start with clearing the app's cache (Phone Settings > Apps > QuickBooks > Storage > Clear Cache) and checking for app updates. If you still can't get in, please email us a screenshot of the message to QBCares@Intuit.com. Thanks. -Caitlyn",
+      "replyDate": "2025-01-28T20:26:59.767Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=1900b583-2053-4bab-b144-4d5fd10e0469"
+    },
+    {
+      "date": "2025-01-26T13:00:29.410Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Caryl Barlow",
+      "text": "Unless do not use! There's some things that you need a computer for. It's completely changed. It was reasonably simple but now you've got to be a trained accountant to use it. I'm looking into other software to use. There's got to be better than this!",
+      "reply": "Hi Caryl,\n \nSwitching to a new accounting app can take some getting used to. But, with helpful resources and practice, you'll master QBSE in no time. You can find tutorials and get answers to your questions here: https://community.intuit.com/quickbooks-self-employed\n\nYou're also welcome to send your questions our way.\n-Kristian (QBCares@Intuit.com)",
+      "replyDate": "2018-10-23T16:02:35.167Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=8c5bcca1-2524-481d-9b7a-83ee473d5a56"
+    },
+    {
+      "date": "2025-01-26T11:42:42.900Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Angela Swallow",
+      "text": "Come to pay subscription and debit card says not avaliable in this country tried 2 devices to pay same thing comes up deleted cards and re added still same not at all happy",
+      "reply": "We want to lend a helping hand, Angela. Have you tried entering your payment details through the website (https://selfemployed.intuit.com)? If not, please try there. If you continue to have an issue paying. Please contact us (Help (?) > Contact Us) there so we can help. Wishing you all the best. -Karey, The QuickBooks Team",
+      "replyDate": "2025-01-27T23:06:15.922Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=1aaff3e1-c6da-4aa2-a4ed-11e5cca0cedd"
+    },
+    {
+      "date": "2025-01-25T23:03:20.113Z",
+      "score": 1,
+      "thumbsUp": 2,
+      "user": "lisa cornish",
+      "text": "Would give it 0 * if I could. It has never really worked but now you can't even use the mobile app. What a waste of money!!!!!!!! I have been paying £7.99 a month & for what, it was ment to help with tracking my miles, transactions etc to help with my tax returns, but now you have to enter them manually on a desktop/laptop computer..................which defeats the whole point of the subscription. I have tried all the steps you advise & it is still the same hit & miss. All my systems are up-to",
+      "reply": "We appreciate you taking the time to send your feedback on Mileage Tracking, Lisa. Have you tried all the steps in this article (https://tinyurl.com/QBSE-mileage)? If so, please ensure your device OS and app version are fully up to date. In the meantime, you can import them using Google Timeline (https://tinyurl.com/Import-Trips). Best. -Karey",
+      "replyDate": "2025-01-23T21:42:25.565Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=f136fdf0-27a3-4ab6-8d4e-4d714756202a"
+    },
+    {
+      "date": "2025-01-25T10:45:20.231Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "Sahvon R. Edwards",
+      "text": "It's so confusing to list the app as QBSE on the app store, without haveing QuickBooks Self-employed listed in the search engine to find the app. If you type \"QuickBooks Self-employed\" in the app store the app doesn't come up. It's so annoying, I wrote this review.",
+      "reply": "We appreciate the feedback and want you to know it doesn't go unnoticed, Sahvon. Our developer often visit this site for input. If you're running into any issues navigating through the app or using its features, feel free to visit our community for guidance and helpful info: (https://community.intuit.com). Wishing you all the best. -Karey",
+      "replyDate": "2025-01-27T22:57:04.127Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=bc71f9f1-82cd-4d91-bf8d-47218cdecf24"
+    },
+    {
+      "date": "2025-01-24T20:10:54.679Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Ryan LaPlace",
+      "text": "Intuit lost my data. I had months of transactions, milage, and tax information and POOF all gone. Attempts to contact customer service have been met with radio silence. How can a company who claims to be a \"Book\" not perform this fundamental task?! Then requests for a refund have been denied by them. I now have to go back through all my transactions with another tax specialist, and waste tons of time and money because of this companies incompetence. I am pursuing legal action.",
+      "reply": "We want to ensure you get the help you need with your data, Ryan. When you get a chance, please try logging out, clearing your app's cache (Phone Settings > Apps > QuickBooks > Storage > Clear Cache), and restarting. If you still can't see your data, please email QBCares@intuit.com. We'll investigate and get it sorted. All the best. -Karey",
+      "replyDate": "2025-01-27T22:47:19.530Z",
+      "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse&reviewId=8130baa8-db3c-4393-a8db-10ac07327460"
+    }
+  ]
+}

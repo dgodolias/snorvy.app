@@ -1,0 +1,243 @@
+[
+  {
+    "appId": "com.freelance.calculator.self.employment",
+    "title": "Self-Employment Tax Calculator",
+    "developer": "DDR Technologies INC",
+    "free": false,
+    "price": null,
+    "summary": "Calculate the taxes as self-employed in USA, know how yo will pay in 1099 form",
+    "icon": "https://play-lh.googleusercontent.com/Y67m3rX4ESc2fsX0lwFUqR6xutMjLv7jvqgG-_Wu6_Ay6tHMVentzfg_Kzm6-P_iuBA"
+  },
+  {
+    "appId": "com.mlogg",
+    "title": "BossTax: Self-Employed Taxes",
+    "developer": "BossTax, Inc.",
+    "free": false,
+    "price": null,
+    "summary": "Professional tax filing for your whole household, right from your phone",
+    "icon": "https://play-lh.googleusercontent.com/pPk5qtL7zkU6ENQMMl2-AtGK2IpVZi-t1ERmknsaO7RzPFe5wkVtp-wbvFFswJvRkbx1da6nt4vm7EsW2P6sPw"
+  },
+  {
+    "appId": "com.hrblock.AtHome",
+    "title": "H&R Block Tax Prep: File Taxes",
+    "developer": "H&R Block Digital Tax",
+    "free": false,
+    "price": null,
+    "summary": "Easily e-file your 2025 taxes &amp; file confidently with H&amp;R Block&#39;s Tax Prep App.",
+    "icon": "https://play-lh.googleusercontent.com/_JWS78MYOM2i7Ow7lxlD-gtyALGIF4Szgm8JZrhhQ9ygX0fcf9PUoe-LbSTtdv44jxU"
+  },
+  {
+    "appId": "com.amrutselfemploy",
+    "title": "Self Employment",
+    "developer": "Tantragyan Technologies Pvt. Ltd.",
+    "free": false,
+    "price": null,
+    "summary": "Self Employment equips individuals with skills for self-employment success.",
+    "icon": "https://play-lh.googleusercontent.com/nwhIb21e8PqJVTWM9CtbMksUIdudEoTE5zl-z1Hhu98Kj-kqSQ76BFu-sPlPtWA9-UU"
+  },
+  {
+    "appId": "com.taxwell.mobilized",
+    "title": "TaxAct: File your taxes",
+    "developer": "Taxact",
+    "free": false,
+    "price": null,
+    "summary": "Prepare and file your taxes using the TaxAct® Mobile App",
+    "icon": "https://play-lh.googleusercontent.com/cPSQC0Z03JO3syaeHIGqPVor95Duzj56pfjGByVHmaCYZkhJof4535saIulKZjlkngfD4ecm3SJloGKI6SnFnZg"
+  },
+  {
+    "appId": "com.intuit.turbotax.mobile",
+    "title": "TurboTax: File Your Tax Return",
+    "developer": "Intuit Inc",
+    "score": 4.3,
+    "scoreText": "4.3",
+    "free": false,
+    "price": null,
+    "summary": "E-file Taxes &amp; Get Your Refund",
+    "icon": "https://play-lh.googleusercontent.com/xVaPR_ZbYf0Ni-VEcihthrkl3Pw9MNPQVn4VVMNNYjMKG7h4UX_Wiqge1RziNAOs3U8IUONId5j7TjVoo_ckPus"
+  },
+  {
+    "appId": "com.ustaxapp.app",
+    "title": "TaxApp - Ai Tax Assistant",
+    "developer": "TaxApp Inc",
+    "free": false,
+    "price": null,
+    "summary": "Understand, track, and learn your taxes before you file, in a simple, clear way.",
+    "icon": "https://play-lh.googleusercontent.com/z1QpK30T__3Fig9f8HP1zz8gQNTid20-ECEUqX_BEsBFpeQdPQ4ZQUPR1hTRi_IZ6qY"
+  },
+  {
+    "appId": "com.metasaga.finance.emicalculator.incometaxcalculator",
+    "title": "Income Tax Calculator: Germany",
+    "developer": "FinPLIX Tech Sol",
+    "free": false,
+    "price": null,
+    "summary": "Simplify Taxes &amp; Loans! Income Tax Calculator, EMI Calculator - All in One App.",
+    "icon": "https://play-lh.googleusercontent.com/w4MwCPZ0gCURaU6ddZMX3vRKppcNvKSeg99Wav6OiyhUzBybQ1zS_a2B5OYY5vSo9dI"
+  },
+  {
+    "appId": "com.efile.android.app",
+    "title": "E-file Tax Filing App",
+    "developer": "E-file.com",
+    "free": false,
+    "price": null,
+    "summary": "E-file tax filing app allows users to prepare a tax return on an Android device.",
+    "icon": "https://play-lh.googleusercontent.com/9HUV4RRnNi6H31MUILHAmmkogLX1it9E8Ttb7eSd6YlxyJILNgAgg8f_LAp2ZjJgPcU9zLaGvD-hKDuj75l_"
+  },
+  {
+    "appId": "com.taxbuddy.gst",
+    "title": "TaxBuddy: Income Tax & Finance",
+    "developer": "TaxBuddy.com",
+    "free": false,
+    "price": null,
+    "summary": "India&#39;s Trusted Income Tax &amp; ITR Filing App. Secure e-Filing &amp; Tax Planning",
+    "icon": "https://play-lh.googleusercontent.com/9FZ6J6OadYZtHu6tWOWcPMi9Bes-rfKF1lC7xS9BzL5YwIEtK0pDZxEGZ6UpYk6M0w"
+  },
+  {
+    "appId": "gov.irs",
+    "title": "IRS2Go",
+    "developer": "Internal Revenue Service",
+    "score": 3.375,
+    "scoreText": "3.4",
+    "free": false,
+    "price": null,
+    "summary": "IRS2Go is the official app of the Internal Revenue Service.",
+    "icon": "https://play-lh.googleusercontent.com/oYHJNqaLjl2cWfIlQ-3RPCv6RV_eIBEavrAeG1D1Fsobb6XhFAcVNoFIBiZpglmKeoLOSAnJw57c_yHbC4Si"
+  },
+  {
+    "appId": "com.intuit.qbse",
+    "title": "QBSE",
+    "developer": "Intuit Inc",
+    "score": 0,
+    "scoreText": "0.0",
+    "free": false,
+    "price": null,
+    "summary": "Track mileage &amp; expenses. Syncs with TurboTax Self-Employed.",
+    "icon": "https://play-lh.googleusercontent.com/jd5glBjoonGuIJO_Q_Y9aVtwIaEeKDiTr05ftxQ1Mf8MyNAu9_LniIr8sSGOAvt169dq"
+  },
+  {
+    "appId": "com.hrblock.blockmobile",
+    "title": "MyBlock: Tax Docs & Refund",
+    "developer": "H&R Block",
+    "free": false,
+    "price": null,
+    "summary": "Upload tax docs, estimate refunds, and track your tax return status.",
+    "icon": "https://play-lh.googleusercontent.com/se2MuOmrSIdiBTbx4_fVk-933hnRiFlHcpT1uGAmx4Fq6HwBmJe9UfvwwV4kifSLvQ"
+  },
+  {
+    "appId": "com.rebatemytax",
+    "title": "Rebate My Tax – Tax Refunds",
+    "developer": "Rebate My Tax Ltd",
+    "free": false,
+    "price": null,
+    "summary": "Employed &amp; Self Employed Tax Refunds",
+    "icon": "https://play-lh.googleusercontent.com/oiKcpc5KJU_yqtg8OHlYg9cOHNc7xMB-xAImxXIHtf4oPGc2vGQtx0a0_DZs_t_QQ9ec"
+  },
+  {
+    "appId": "com.webby.paygenerator",
+    "title": "Free Paystub Generator",
+    "developer": "Online Paystub",
+    "free": false,
+    "price": null,
+    "summary": "Generate one paystub daily using our fast and easy Paystub Generator.",
+    "icon": "https://play-lh.googleusercontent.com/m8XAWdjoGzvCZESyZ8R5kMDjQvd8_A85SuAsi96iLulEHXUK1p1tS84Bw8opDRhTPV7iTPyrjPIbeZ8kI6qw"
+  },
+  {
+    "appId": "com.hivearts.accountable",
+    "title": "Accountable: for independents",
+    "developer": "Accountable",
+    "score": 4.57047,
+    "scoreText": "4.6",
+    "free": false,
+    "price": null,
+    "summary": "Receipts and invoices under control - Tailored tax recommendations &amp; VAT returns",
+    "icon": "https://play-lh.googleusercontent.com/A3as9fW_hATvNuJeFR9mwS8yIOqKvGizXbPiXxmiHYvPifhQDwF0oYTCAo9KJdkpiTg"
+  },
+  {
+    "appId": "com.sky.fixmytax",
+    "title": "Fixmytax: Filing of Tax Return",
+    "developer": "Fixmytax",
+    "free": false,
+    "price": null,
+    "summary": "Tax experts file Returns &amp; Replies to Notices confidentially.",
+    "icon": "https://play-lh.googleusercontent.com/M_fYT3vtXrh1yVlVxN6mqlmhyKuyRiTzpI7xSJ7GIMrtJiTLgAgnLSl4Dlnu5jNNnw"
+  },
+  {
+    "appId": "com.adpmobile.android",
+    "title": "ADP Mobile Solutions",
+    "developer": "ADP, INC.",
+    "score": 3.89,
+    "scoreText": "3.9",
+    "free": false,
+    "price": null,
+    "summary": "ADP Mobile Solutions is an employee self service app",
+    "icon": "https://play-lh.googleusercontent.com/ha27yn2hRJSW9Es9XJ-_xKeEDIvKMVyrCm5XMLWvUPddtgyWQTOREJ3mE_0PX_BKdg"
+  },
+  {
+    "appId": "my1099.tax.helper",
+    "title": "My 1099 Tax Helper",
+    "developer": "SergioSkar",
+    "free": false,
+    "price": null,
+    "summary": "1099 forms guide, tax calculator &amp; expense tracker 4 freelancers and contractors",
+    "icon": "https://play-lh.googleusercontent.com/8_crQD4A_6KxCa3hzaWtiUNQHbra0k6W-_112BM5WAYdzstjCU9uDKpuBHHZ5OQVBad9btSC0Cqu41llk64XdA"
+  },
+  {
+    "appId": "de.taxfix",
+    "title": "Taxfix: Tax return for Germany",
+    "developer": "Taxfix SE",
+    "score": 4.703235,
+    "scoreText": "4.7",
+    "free": false,
+    "price": null,
+    "summary": "Missed the deadline? File now and avoid penalties!",
+    "icon": "https://play-lh.googleusercontent.com/2oAZlfRjKRnULnmI3Pvv18v0Y7uc74hTxVbKnvpdc2t-HXrsDz62Xq-YGekZsfy8Zg"
+  },
+  {
+    "appId": "com.globalblue.ic20.droid",
+    "title": "IC2 Mobile - Tax Free",
+    "developer": "Global Blue SA",
+    "free": false,
+    "price": null,
+    "summary": "Tax Free Form Issuing Solution for Android",
+    "icon": "https://play-lh.googleusercontent.com/hFGtHhTkYq8Xxv_W2M7BJa8lWWKNQbZeUVYASSPmm4aJrI-ihE5KDbM8GATwFI9yh1U"
+  },
+  {
+    "appId": "com.intuit.quickbooks",
+    "title": "Intuit QuickBooks for Business",
+    "developer": "Intuit Inc",
+    "score": 4.09375,
+    "scoreText": "4.1",
+    "free": false,
+    "price": null,
+    "summary": "AI-led Business Accounting: invoicing, mileage tracker, receipt scanner &amp; more.",
+    "icon": "https://play-lh.googleusercontent.com/cU-dWPccEGZ39MQawS17137v0CBq3OhcIdXTRu1dCuLzSOKf1H0g2oT5LIg3gKjCoA"
+  },
+  {
+    "appId": "com.tsheets.android.hammerhead",
+    "title": "QuickBooks Workforce",
+    "developer": "Intuit Inc",
+    "score": 3.4615386,
+    "scoreText": "3.5",
+    "free": false,
+    "price": null,
+    "summary": "QuickBooks Workforce lets teams view pay info and track time in one place.",
+    "icon": "https://play-lh.googleusercontent.com/AGLr2UP-Dn6mPz_QLUdWX8tNvzLz19giUVm-15LHORrCh_X2RrRCm8p0RTiND4jDswk"
+  },
+  {
+    "appId": "com.egovja.tajmobile",
+    "title": "TAJ Mobile (Tax Admin Jamaica)",
+    "developer": "JAMICTA",
+    "free": false,
+    "price": null,
+    "summary": "Pay your taxes on your mobile devices 24/7.",
+    "icon": "https://play-lh.googleusercontent.com/Qr34twnahrSkWytkDIcIISKLEZ-3sxO8KJQxL1Yf0xs1kb57oGvuYElxzJk6WLXhMgY7"
+  },
+  {
+    "appId": "com.pdffiller.singleform.w9",
+    "title": "e-taxfiller: Edit PDF forms",
+    "developer": "airSlate, Inc.",
+    "free": false,
+    "price": null,
+    "summary": "Convenient PDF editor for documents. Sign and send the most popular tax forms",
+    "icon": "https://play-lh.googleusercontent.com/dkGHX3syYXrD6pGQ0OiCAeGY6y7UY43pgzc5Vk1JoKYAqzffv1JDHW8XDtOr6kvIyg"
+  }
+]

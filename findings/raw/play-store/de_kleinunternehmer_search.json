@@ -1,0 +1,404 @@
+{
+  "queries": [
+    "_de_search1.json",
+    "_de_search2.json",
+    "_de_search3.json",
+    "_de_search4.json"
+  ],
+  "total_unique": 37,
+  "results": [
+    {
+      "appId": "app.invoice_maker",
+      "title": "Einfach Rechnung schreiben",
+      "developer": "Invoice Generator",
+      "score": 4.67,
+      "scoreText": "4,7",
+      "free": false,
+      "price": null,
+      "summary": "Benutzerfreundliche Rechnungs-App. Professionell und übersichtlich",
+      "icon": "https://play-lh.googleusercontent.com/DiuhOiihtGyaTCKXxwzkd_dDJEhAK1PCp7N3zLasal0eYfH6pjWhYkQGXRgDv07_HMw"
+    },
+    {
+      "appId": "et.job.estimator.invoice.maker",
+      "title": "Rechnung Schreiben & Angebote",
+      "developer": "EclixTech",
+      "score": 5,
+      "scoreText": "5,0",
+      "free": false,
+      "price": null,
+      "summary": "Rechnungen erstellen und rechnung schreiben einfach mit rechnungsersteller.",
+      "icon": "https://play-lh.googleusercontent.com/dYoM64rbHe0w3GjnjGFxU7rKB5ighTUQUoR8HqgsFo0DpyetE6Pf82GfAwGGnG9CoaJ8"
+    },
+    {
+      "appId": "invoice.invoicemaker.estimatemaker.billingapp",
+      "title": "Rechnung App, Invoice Maker",
+      "developer": "Gulooloo Tech Co., Ltd.",
+      "score": 4.67,
+      "scoreText": "4,7",
+      "free": false,
+      "price": null,
+      "summary": "InvoiceBase - Rechnungen und Kostenvoranschläge einfach und schnell erstellen",
+      "icon": "https://play-lh.googleusercontent.com/637GYsu2jSdBFWuj6B4QHJcE-Fs_ZeHLDtOQOeaumTv14eQCYU-Ly10W--SSN72BPgyf"
+    },
+    {
+      "appId": "app.smart_quote_maker",
+      "title": "Rechnung schreiben einfach",
+      "developer": "Simple Apps s.r.o.",
+      "score": 4.797468,
+      "scoreText": "4,8",
+      "free": false,
+      "price": null,
+      "summary": "Benutzerfreundliche Rechnungs-App. Professionell und übersichtlich",
+      "icon": "https://play-lh.googleusercontent.com/CDaMINdrPpW_Nc_YMmvybXlUXJOwA9izYnZOS5dURZa5jcOfwLSO_hsRFplMpXMeoNhY"
+    },
+    {
+      "appId": "com.aadhk.woinvoice",
+      "title": "Invoice Simple - Rechnung",
+      "developer": "Invoice Simple",
+      "score": 4.507576,
+      "scoreText": "4,5",
+      "free": false,
+      "price": null,
+      "summary": "Erstellen Sie Kundenrechnungen in Sekunden! Ganz einfach mit dem Handy!",
+      "icon": "https://play-lh.googleusercontent.com/95tcWrjabYJc1Kg9Hk5Uuo7H5vngzUVo5TDJRR5o1QS3a85YbVE_wYv5gtKMRo2xtFpt"
+    },
+    {
+      "appId": "bookipi.invoice.maker.estimate.billing",
+      "title": "Rechnungen und angebote",
+      "developer": "Bookipi - Billing Estimate",
+      "score": 4.59,
+      "scoreText": "4,6",
+      "free": false,
+      "price": null,
+      "summary": "Einfacher Rechnungsgenerator mit Angeboten, Zahlungen und Quittungen.",
+      "icon": "https://play-lh.googleusercontent.com/ZK1xGfa1xP7nN18nKyWRKCWInH4yG_zenrOPdy8m2fL9RuNPLJe0utLuUoSVv1WidQ"
+    },
+    {
+      "appId": "com.komorebi.kaikei",
+      "title": "Buchhaltung Kleinunternehmen",
+      "developer": "Komorebi Inc.",
+      "score": 0,
+      "scoreText": "0,0",
+      "free": false,
+      "price": null,
+      "summary": "Einfache und günstige Buchhaltungs-App für Kleinunternehmen und Freelancer.",
+      "icon": "https://play-lh.googleusercontent.com/hLURlikdvfctpep8yI3N0U7_ucPtWe8w2nxJtGbd-ZAVJWhWHa4-eD7AIArU5wZ4KWUyWjf2VH_ww66wltuK8Dk"
+    },
+    {
+      "appId": "com.easy.invoice.maker.generator.receipt.tiny.simple",
+      "title": "Rechnungs-App: E-Rechnung MwSt",
+      "developer": "Lucky Capybara FarmDev",
+      "free": false,
+      "price": null,
+      "summary": "Einfach Rechnung erstellen und PDF senden: Rechnungen verwalten Kleinunternehmer",
+      "icon": "https://play-lh.googleusercontent.com/CTw0h75hwoqhffsOyyNxJAJtxPbWFn_EGOf-X7FAL1T3T9rKGLILw5sy7K1PinFZ7SkwsGfhSFxRET8y1TKWOg"
+    },
+    {
+      "appId": "invoice.quote.generator",
+      "title": "Rechnung und Angebot erstellen",
+      "developer": "Webtoweb",
+      "score": 4.7272725,
+      "scoreText": "4,7",
+      "free": false,
+      "price": null,
+      "summary": "Erstelle Rechnungen &amp; Angebote in 1 Min. Kunden, Produkte, Zahlungen",
+      "icon": "https://play-lh.googleusercontent.com/riMrKnpeSPq8CSRClhklBHz8_MqFPeU6_dL7Uxv4Vf2nrl8U7UEoPZhk_qASbGoslA"
+    },
+    {
+      "appId": "au.com.speedinvoice.android",
+      "title": "ZUGFeRD Rechnung & Angebot App",
+      "developer": "SpeedInvoice",
+      "score": 4.8317757,
+      "scoreText": "4,8",
+      "free": false,
+      "price": null,
+      "summary": "ZUGFeRD Rechnung und Angebot von Ihrem Handy - schnell und professionell.",
+      "icon": "https://play-lh.googleusercontent.com/kvx_9HIYbGnFXtOPWxxKKxP6f13wMg2t-0gubYrVG-4Q3vWz4tv-MWP5oU3JeYcqy4Bn"
+    },
+    {
+      "appId": "com.lifemoreeasyapps.recibo",
+      "title": "Rechnung - Invoice, Belege",
+      "developer": "Weekly Planner",
+      "score": 0,
+      "scoreText": "0,0",
+      "free": false,
+      "price": null,
+      "summary": "Erstellen Sie Quittungen und Angebote mit diesem PDF-Quittungsgenerator",
+      "icon": "https://play-lh.googleusercontent.com/0qB7D6EMGKLSPruTeI9xA80EFs9PyrvTKSnbCteWMmXUMzF3UidclmPbwoL1Hte_qQE"
+    },
+    {
+      "appId": "de.minirechnung",
+      "title": "Billdu - Rechnung Schreiben",
+      "developer": "Billdu LTD",
+      "score": 4.58,
+      "scoreText": "4,6",
+      "free": false,
+      "price": null,
+      "summary": "Invoice Maker &amp; Rechnungsapp",
+      "icon": "https://play-lh.googleusercontent.com/gzVxW6Afsk2Fs8lddP52ieT4V_tn4Vvx-WzDt0s3_m4plyVycF5pRN5iZdbb-_DnkC5qGB5bZXmRSUAlDTJO_Eg"
+    },
+    {
+      "appId": "com.paleblueapps.billin",
+      "title": "Fast Invoice Maker with Ease",
+      "developer": "Pale Blue Software Ltd",
+      "free": false,
+      "price": null,
+      "summary": "Unbegrenzte Rechnungen mit Steuer &amp; Rabatt erstellen. Einfach und schnell!",
+      "icon": "https://play-lh.googleusercontent.com/tEiPlxRa2_i9JdI58Tkh18qeYCQ3DEJg1TFljONyYoVAb0YozArjsPmqM6aQDLeMAF8"
+    },
+    {
+      "appId": "com.dzinemedia.invoicemaker",
+      "title": "Rechnung Schreiben & Schätzung",
+      "developer": "One Music Player",
+      "score": 3.8333333,
+      "scoreText": "3,8",
+      "free": false,
+      "price": null,
+      "summary": "Rechnungen erstellen &amp; rechnungsersteller - erstellen sie eine rechnung einfach",
+      "icon": "https://play-lh.googleusercontent.com/my-STL1jPNWbUB_VkeAhUjlX5wJoOycf9ydlHAF1CvlS5VR-ASEDbyT1TpT1U2z6-2lD"
+    },
+    {
+      "appId": "com.invoice.maker.generator.creator.estimate",
+      "title": "Rechnung Schreiben & Quittung",
+      "developer": "Cards",
+      "score": 0,
+      "scoreText": "0,0",
+      "free": false,
+      "price": null,
+      "summary": "Schnell Rechnung schreiben &amp; Quittung erstellen mit dieser Rechnungsapp.",
+      "icon": "https://play-lh.googleusercontent.com/aTu-412_ro96yEw_Oj42VUxdTfPZ_QuTBokBBdr5Hy6GqAeBex2yX7YDfJOEuHwMBA"
+    },
+    {
+      "appId": "com.squareup.invoicesapp",
+      "title": "Square Invoices: Invoice Maker",
+      "developer": "Block, Inc.",
+      "free": false,
+      "price": null,
+      "summary": "Verwalten Sie Ihre geschäftlichen Rechnungen, Rechnungen und Kostenvoranschläge. Verfolgen Sie Ausgaben und Zahlungen.",
+      "icon": "https://play-lh.googleusercontent.com/gCyyBvrSQ1jiiZxgBu4Mm2wgH7F5rBRXE2H-Uji9wnRHcnDwxx6kMp3kEy8TWlKvsg"
+    },
+    {
+      "appId": "com.google.android.apps.nbu.paisa.merchant",
+      "title": "Google Pay for Business",
+      "developer": "Google LLC",
+      "score": 4.2,
+      "scoreText": "4,2",
+      "free": false,
+      "price": null,
+      "summary": "Akzeptieren Sie UPI-Zahlungen, bestellen Sie einen SoundPod und erhalten Sie einen Geschäftskredit",
+      "icon": "https://play-lh.googleusercontent.com/f-hEfQglSjY0D-JhyNeKiHEzZ5_F6BiG8Y978hwlSnZQW3L-VCv3hKUguli_UVpurV-F"
+    },
+    {
+      "appId": "com.isnet.nettefatura",
+      "title": "NetteFatura",
+      "developer": "İşNet",
+      "free": false,
+      "price": null,
+      "summary": "Erstellen Sie Ihre E-Dokumente auf dem Handy mit NetteFatura.",
+      "icon": "https://play-lh.googleusercontent.com/JWiGL903H7xOaiINYhWk8qRCWk_DQSy5ld233SHD3TTATPyL1RmdC_poKHz2u8GrXEU"
+    },
+    {
+      "appId": "com.joistapp.android.joist",
+      "title": "Joist Invoice & Estimate App",
+      "developer": "Joist Software Inc.",
+      "free": false,
+      "price": null,
+      "summary": "Erstellen Sie Kostenvoranschläge und Rechnungen und erhalten Sie schneller Ihr Geld – speziell für Bauunternehmer entwickelt.",
+      "icon": "https://play-lh.googleusercontent.com/NtY-X2_j7YSPeiITON0eDAKRc21s1mS8zTZsaZQfDuIO3gTfFmPoa077szf0LuwKMFgO"
+    },
+    {
+      "appId": "com.phonepe.app.business",
+      "title": "PhonePe Business: Merchant App",
+      "developer": "PhonePe",
+      "score": 4,
+      "scoreText": "4,0",
+      "free": false,
+      "price": null,
+      "summary": "Digitale Zahlungen, QR-Code-Zahlungen, Smart Speaker, Sofortiger Geschäftskredit",
+      "icon": "https://play-lh.googleusercontent.com/DIj92f1Tkfxm8rOTqPhlMtGsz8bboRju5v2V5ykxdGfpIAN4kTbNFfgBxpcFt5nY3KQ"
+    },
+    {
+      "appId": "com.squareup",
+      "title": "Square Point of Sale - POS",
+      "developer": "Block, Inc.",
+      "score": 3.8888888,
+      "scoreText": "3,9",
+      "free": false,
+      "price": null,
+      "summary": "Run your business from the point of sale that's simple, powerful and free.",
+      "icon": "https://play-lh.googleusercontent.com/e_TGMFjziCV5DYSF_a4fDNS7E63S378Fa5Qlfx0xpwLn74dt6Kpa7idl4S_Fl2NIgg"
+    },
+    {
+      "appId": "com.payclip.clip",
+      "title": "Clip: Acepta pagos con tarjeta",
+      "developer": "PayClip, Inc",
+      "free": false,
+      "price": null,
+      "summary": "Laden Sie alle Kredit-, Debitkarten und Gutscheine auf!",
+      "icon": "https://play-lh.googleusercontent.com/F7gR9aF3zDBcKWPEs16j61jivgW51kz4aN36buz09lXyQdFTOTZs7w-AxiNH9inL42w"
+    },
+    {
+      "appId": "com.mokapos.android",
+      "title": "Moka POS - Aplikasi Kasir",
+      "developer": "PT. GoTo Gojek Tokopedia Tbk",
+      "score": 0,
+      "scoreText": "0,0",
+      "free": false,
+      "price": null,
+      "summary": "Richten Sie Ihre Verkaufsstelle in wenigen Minuten ein und führen Sie Ihr Geschäft von überall aus.",
+      "icon": "https://play-lh.googleusercontent.com/O2MuxaLgYLI87vRSaSM1bs5IVvYz9lDyrTwD6uPbqK2GnQnL5sFm4ZcAdFfDdeUG3Tw"
+    },
+    {
+      "appId": "io.cloudwalk.infinitepaydash",
+      "title": "InfinitePay Tap, Conta, Cartão",
+      "developer": "CloudWalk",
+      "score": 4.5263157,
+      "scoreText": "4,5",
+      "free": false,
+      "price": null,
+      "summary": "Handygerät, Pix auf Kredit, Pix, Zahlungslink und digitales Konto",
+      "icon": "https://play-lh.googleusercontent.com/JCYKHXuu2Q6IzhmkW9N4bDX0S8_3XVYnlPtheNcdwlOaSr0TTKJljm3RVexsXkw3_ec"
+    },
+    {
+      "appId": "com.kaching.merchant",
+      "title": "SumUp: Kassen- und Finanztools",
+      "developer": "SumUp",
+      "score": 3.3952801,
+      "scoreText": "3,4",
+      "free": false,
+      "price": null,
+      "summary": "Lösungen für Ihr Geschäft",
+      "icon": "https://play-lh.googleusercontent.com/QmvpebjqnqTtUuTSDEt8zBmLf87-FpVU1uvuMP2zazqyYoEHZlZUB7QZ4j_klH3igQ"
+    },
+    {
+      "appId": "team.opay.pay.merchant.service",
+      "title": "OPay Business",
+      "developer": "OPay Digital Services Limited",
+      "score": 4.5882354,
+      "scoreText": "4,6",
+      "free": false,
+      "price": null,
+      "summary": "Die All-in-One-App für Ihren Geschäftserfolg",
+      "icon": "https://play-lh.googleusercontent.com/kC8J4fIqejxBkKYzM5BdvXvIUYfBBIWQGx_dVV-juQIQPER2zv0_wyd6JlZ5KYlg0nb0"
+    },
+    {
+      "appId": "br.com.stone.ton",
+      "title": "Ton: maquininha, tap e conta",
+      "developer": "TON S/A",
+      "score": 3.9,
+      "scoreText": "3,9",
+      "free": false,
+      "price": null,
+      "summary": "Mehr Umsatz, mehr Gewinn! Niedrige Gebühren ab 0,57 % – nur für kurze Zeit!",
+      "icon": "https://play-lh.googleusercontent.com/h6uGwdB0YirJ3xUUEpMUcGvhHy41PF-nnw3fzH8pfr1in15kZ7B1b7FC5STMhaSduvmG"
+    },
+    {
+      "appId": "com.hivearts.accountable",
+      "title": "Accountable für Selbständige",
+      "developer": "Accountable",
+      "score": 4.57047,
+      "scoreText": "4,6",
+      "free": false,
+      "price": null,
+      "summary": "Steuern &amp; Buchhaltung: Steuerprogramm, Rechnungsapp &amp; Finanzassistent in einem",
+      "icon": "https://play-lh.googleusercontent.com/A3as9fW_hATvNuJeFR9mwS8yIOqKvGizXbPiXxmiHYvPifhQDwF0oYTCAo9KJdkpiTg"
+    },
+    {
+      "appId": "io.onetap.app.receipts.uk",
+      "title": "1tap receipts",
+      "developer": "1tap app",
+      "score": 4.8333335,
+      "scoreText": "4,8",
+      "free": false,
+      "price": null,
+      "summary": "Belegscanner &amp; Steuerrechner. Einzelunternehmer-Buchhaltung &amp; -Eigenschätzung!",
+      "icon": "https://play-lh.googleusercontent.com/obydsmHJ1mdTWjeh-3jrFxl9cngUgnA4K_y8z_NdzJjmtPyX6B1nC9mJy9lG8Cr_-js"
+    },
+    {
+      "appId": "com.invoiceapp",
+      "title": "Faktur Rechnung und Eingang",
+      "developer": "Tacktile Systems Private Limited",
+      "score": 4.5959597,
+      "scoreText": "4,6",
+      "free": false,
+      "price": null,
+      "summary": "Rechnungen generieren und Schätzungen. Nehmen Sie Zahlung &amp; senden Quittungen",
+      "icon": "https://play-lh.googleusercontent.com/NgS85neTXpkibNM_WF5GVhWerRA33u4HoqYufkk4qykZXYBqiI-7TGoT5gbh-Q6CcjrFkt0LjNLhPieEYVup"
+    },
+    {
+      "appId": "nr.cop.apps.simple.invoice",
+      "title": "Rechnung & Angebot - Kostenlos",
+      "developer": "RealmFusion",
+      "score": 0,
+      "scoreText": "0,0",
+      "free": false,
+      "price": null,
+      "summary": "Rechnungen und Angebote erstellen kostenlos. App für Selbstständige und KMU",
+      "icon": "https://play-lh.googleusercontent.com/SxgjuZQgOa1mVNubvF1EczSdYK6G-oI2X8AefvuQPbkw8PF4Mx14qtW9bq_xJxt1wA"
+    },
+    {
+      "appId": "com.tofu.invoices",
+      "title": "Rechnung Erstellen & Quittung",
+      "developer": "GetPaid Inc.",
+      "score": 3.75,
+      "scoreText": "3,8",
+      "free": false,
+      "price": null,
+      "summary": "Rechnungsapp und zu erstellen Quittungen. Rechnung schreiben, Quittung erstellen",
+      "icon": "https://play-lh.googleusercontent.com/OoWOVhw-X519evrawwhkjENEi0DD9Ej8h1YxxX--MePkQq2wO_C66eHjLXDYGOjT2A"
+    },
+    {
+      "appId": "com.getjobber.jobber",
+      "title": "Jobber: Field Service Software",
+      "developer": "Jobber Software",
+      "score": 0,
+      "scoreText": "0,0",
+      "free": false,
+      "price": null,
+      "summary": "Planen, versenden, in Rechnung stellen und bezahlt werden. Home-Service-Einsätze, leicht gemacht.",
+      "icon": "https://play-lh.googleusercontent.com/AP16jh2cLVAlq7FyFYiAsRtrXsPqFOkYgPOxEQ3y_9WMmIWoAA8yomhm1TTVGX0qcg"
+    },
+    {
+      "appId": "io.labhouse.invoicesapp",
+      "title": "Rechnung schreiben Invoice Fly",
+      "developer": "Labhouse Mobile",
+      "score": 4.111111,
+      "scoreText": "4,1",
+      "free": false,
+      "price": null,
+      "summary": "Erstelle Rechnungen, Kostenvoranschläge &amp; Quittungen ganz einfach mit dem Handy.",
+      "icon": "https://play-lh.googleusercontent.com/MEFiiWpTz99qPeq-KagSdMnzVTlu1X5O226_g2y5Bc6dUjalF3dzhKDvF5MBiAQRQkY"
+    },
+    {
+      "appId": "com.smarttoolsdev.invoiceMaker",
+      "title": "Rechnung Erstellen: Schnell",
+      "developer": "SmartToolsDev",
+      "free": false,
+      "price": null,
+      "summary": "Erstellen Sie professionelle Rechnungen offline.PDF-Rechnungen sofort generieren",
+      "icon": "https://play-lh.googleusercontent.com/gk8UKJ2RFDLeRI8tfKezg9kdkv6XXKETD-rOKG0tnn_CoEH2sVVKW_b0O1Vl8-_AqtaUwA3oXI10bm2tF80e850"
+    },
+    {
+      "appId": "com.invoicehome.invoicehome",
+      "title": "100 PDF Vorlagen",
+      "developer": "Invoice Home Inc.",
+      "score": 4.390244,
+      "scoreText": "4,4",
+      "free": false,
+      "price": null,
+      "summary": "PDF Rechnungen schnell erstellen mit Vorlagengallerie, drucken oder mailen",
+      "icon": "https://play-lh.googleusercontent.com/JBR7gxevINZSEVLrcPVI_i2K_yvAyXuulodeTrZ3aV7YEdRREasrS4XrUa12v5VHBLM"
+    },
+    {
+      "appId": "com.zoho.invoicegenerator",
+      "title": "Rechnungsersteller - Zoho",
+      "developer": "Zoho Corporation",
+      "score": 4.73,
+      "scoreText": "4,7",
+      "free": false,
+      "price": null,
+      "summary": "Rechnungen in Sekunden erstellen.",
+      "icon": "https://play-lh.googleusercontent.com/NaJT76aJAZiuUY1pOAAXYvPk-LZ_N9-vHC1HPatgv1jr0y1dDNWUg2YYHhnS0k6E-Sw"
+    }
+  ]
+}

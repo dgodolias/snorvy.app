@@ -1,0 +1,831 @@
+[
+  {
+    "country": "us",
+    "niche": "b2b_crm",
+    "search_term": "simple crm contacts solopreneur",
+    "top_app": {
+      "appId": "com.onepagecrm",
+      "title": "OnePageCRM - Simple CRM System",
+      "developer": "OnePageCRM"
+    },
+    "score": 4.40678,
+    "ratings": 217,
+    "installs": "10,000+",
+    "offersIAP": false,
+    "adSupported": false,
+    "reviews_pulled": 83,
+    "low_count": 11,
+    "low_pct": 13.3,
+    "top_thumbs_low": [
+      {
+        "score": 2,
+        "thumbs": 4,
+        "text": "unexpected system crash"
+      },
+      {
+        "score": 1,
+        "thumbs": 3,
+        "text": "Be warned ! This is a 21 day trial and NO INFO on charges etc and no \ncontact info to find out either - suspicious !"
+      },
+      {
+        "score": 1,
+        "thumbs": 2,
+        "text": "Can't find an option to bulk upload leads."
+      }
+    ]
+  },
+  {
+    "country": "gb",
+    "niche": "b2b_crm",
+    "search_term": "small business crm leads",
+    "top_app": {
+      "appId": "com.appgodz.evh",
+      "title": "HelloLeads CRM - Sales Tracker",
+      "developer": "Dextrasys Technologies Pvt Ltd"
+    },
+    "score": 0,
+    "ratings": 0,
+    "installs": "100,000+",
+    "offersIAP": false,
+    "adSupported": false,
+    "reviews_pulled": 250,
+    "low_count": 15,
+    "low_pct": 6,
+    "top_thumbs_low": [
+      {
+        "score": 1,
+        "thumbs": 5,
+        "text": "Always synchronizing even with just contacts. Can't send mails or bulk SMS directly from Within the App. Don't redirect me to a third party app. Let me send mails from within the app. Stop endless syn"
+      },
+      {
+        "score": 1,
+        "thumbs": 2,
+        "text": "Deleting a users account (free version) without even notifying them states how unprofessional the whole team is. Tried to connect on 3 numbers of support staff but not a single guy answered the call. "
+      },
+      {
+        "score": 1,
+        "thumbs": 1,
+        "text": "very bad experience"
+      }
+    ]
+  },
+  {
+    "country": "br",
+    "niche": "b2b_crm",
+    "search_term": "gerenciador clientes freelancer",
+    "top_app": {
+      "appId": "com.closeer.closeer_worker",
+      "title": "Closeer | Trabalho freelancer",
+      "developer": "Closeer"
+    },
+    "score": 4.6061187,
+    "ratings": 5211,
+    "installs": "500.000+",
+    "offersIAP": false,
+    "adSupported": false,
+    "reviews_pulled": 250,
+    "low_count": 68,
+    "low_pct": 27.2,
+    "top_thumbs_low": [
+      {
+        "score": 1,
+        "thumbs": 9,
+        "text": "meu app simplesmente parou de me notificar quando sobe freela e eu perdi inúmeros essa semana!"
+      },
+      {
+        "score": 1,
+        "thumbs": 7,
+        "text": "aplicativo não funciona, baixei há 06 meses e até agora não consegui nenhum freela. Suporte péssimo. Já ampliei o raio de atuação, coloquei as mais variadas funções, deixei meu perfil redondo e nada. "
+      },
+      {
+        "score": 1,
+        "thumbs": 6,
+        "text": "tive uma experiência ruim, fui até o local informado 10 minutos antes a pessoa que tinha que falar comigo chegou e disse que não era ali (sendo que estava certo o endereço que foi me informado), que i"
+      }
+    ]
+  },
+  {
+    "country": "us",
+    "niche": "b2b_leads",
+    "search_term": "lead tracker sales pipeline",
+    "top_app": {
+      "appId": "com.appgodz.evh",
+      "title": "HelloLeads CRM - Sales Tracker",
+      "developer": "Dextrasys Technologies Pvt Ltd"
+    },
+    "score": 4.1153846,
+    "ratings": 1496,
+    "installs": "100,000+",
+    "offersIAP": false,
+    "adSupported": false,
+    "reviews_pulled": 250,
+    "low_count": 15,
+    "low_pct": 6,
+    "top_thumbs_low": [
+      {
+        "score": 1,
+        "thumbs": 5,
+        "text": "Always synchronizing even with just contacts. Can't send mails or bulk SMS directly from Within the App. Don't redirect me to a third party app. Let me send mails from within the app. Stop endless syn"
+      },
+      {
+        "score": 1,
+        "thumbs": 2,
+        "text": "Deleting a users account (free version) without even notifying them states how unprofessional the whole team is. Tried to connect on 3 numbers of support staff but not a single guy answered the call. "
+      },
+      {
+        "score": 1,
+        "thumbs": 1,
+        "text": "very bad experience"
+      }
+    ]
+  },
+  {
+    "country": "us",
+    "niche": "b2b_contract",
+    "search_term": "contract management freelance",
+    "top_app": {
+      "appId": "com.upwork.android.apps.main",
+      "title": "Upwork",
+      "developer": "Upwork Global Inc."
+    },
+    "score": 3.7497182,
+    "ratings": 220099,
+    "installs": "10,000,000+",
+    "offersIAP": false,
+    "adSupported": false,
+    "reviews_pulled": 250,
+    "low_count": 62,
+    "low_pct": 24.8,
+    "top_thumbs_low": [
+      {
+        "score": 1,
+        "thumbs": 4,
+        "text": "the app is good in theory, but there is a lot of competition for the few jobs that are available. and they take a pretty good chunk of your hard work. there are better platforms. also, when you comple"
+      },
+      {
+        "score": 1,
+        "thumbs": 4,
+        "text": "So you do not need to be verified to bid on jobs but if you chose the OPTIONAL route of getting verified, they freeze your account until verification is complete. Its been days with no communication o"
+      },
+      {
+        "score": 1,
+        "thumbs": 3,
+        "text": "Upwork used to be fine years ago! now it sucks!!! probably new greedy owners with poor management or smth, not sure. I just paid to get some connects (it's been a while since I used it) and it asked m"
+      }
+    ]
+  },
+  {
+    "country": "us",
+    "niche": "b2b_feedback",
+    "search_term": "customer feedback survey small business",
+    "top_app": {
+      "appId": "com.welaunch.easy_emoji_survey_app",
+      "title": "Customer Feedback Survey KIOSK",
+      "developer": "Welaunch"
+    },
+    "installs": "1,000+",
+    "offersIAP": true,
+    "IAPRange": "$4.99 - $99.99 per item",
+    "adSupported": false,
+    "reviews_pulled": 6,
+    "low_count": 2,
+    "low_pct": 33.3,
+    "top_thumbs_low": [
+      {
+        "score": 1,
+        "thumbs": 1,
+        "text": "It won't let me sign up, it crashes a lot"
+      },
+      {
+        "score": 1,
+        "thumbs": 0,
+        "text": "keeps glitching, I couldn't sign up."
+      }
+    ]
+  },
+  {
+    "country": "us",
+    "niche": "b2b_pm",
+    "search_term": "project tracker solo freelance",
+    "top_app": {
+      "appId": "com.paveapp",
+      "title": "Solo: Your Gig Business App",
+      "developer": "WorkSolo"
+    },
+    "score": 4.331613,
+    "ratings": 7615,
+    "installs": "500,000+",
+    "offersIAP": true,
+    "IAPRange": "$0.99 - $179.99 per item",
+    "adSupported": false,
+    "reviews_pulled": 250,
+    "low_count": 195,
+    "low_pct": 78,
+    "top_thumbs_low": [
+      {
+        "score": 1,
+        "thumbs": 276,
+        "text": "Not worth it. The app claims to guarantee your earnings but you have to buy credits to pay for your guaranteed earnings. They also require a subscription, minimum $15 per month. They offer a free tria"
+      },
+      {
+        "score": 1,
+        "thumbs": 90,
+        "text": "Auto mileage tracking works, but good luck turning it off when you're not using it, You can turn on manual tracking mode, but after a short period of time, it reverts back to auto tracking. If you rid"
+      },
+      {
+        "score": 1,
+        "thumbs": 67,
+        "text": "This app is very misleading. It will not connect to instacart. I had to put in my phone number several times, and it kept disconnecting it from instacart. It is connected to DoorDash fine and remains "
+      }
+    ]
+  },
+  {
+    "country": "gb",
+    "niche": "b2b_pm",
+    "search_term": "task management freelancer",
+    "top_app": {
+      "appId": "com.freelancer.android.messenger",
+      "title": "Freelancer: Hire & Find Jobs",
+      "developer": "Freelancer.com"
+    },
+    "score": 3.71,
+    "ratings": 72289,
+    "installs": "10,000,000+",
+    "offersIAP": false,
+    "adSupported": false,
+    "reviews_pulled": 250,
+    "low_count": 63,
+    "low_pct": 25.2,
+    "top_thumbs_low": [
+      {
+        "score": 1,
+        "thumbs": 39,
+        "text": "A client sent me a personal PayPal payment link asking for money outside the platform. I reported it, which is the correct thing to do. Instead of taking action against the client, they suspended my a"
+      },
+      {
+        "score": 1,
+        "thumbs": 37,
+        "text": "Have hired great developers. The app itself is 0 stars for everything else. Customer service is incapable of fixing simple issues. Subpar commitment to greatness from this management team. Like changi"
+      },
+      {
+        "score": 1,
+        "thumbs": 20,
+        "text": "You can't earn money by working here, the client cheats and benefits on this platform,,Again, if you open this platform, it takes a long time to login to the platform, and sometimes it doesn't work.. "
+      }
+    ]
+  },
+  {
+    "country": "us",
+    "niche": "b2b_mileage",
+    "search_term": "mileage tracker self employed",
+    "top_app": {
+      "appId": "com.mobiledatalabs.mileiq",
+      "title": "Mileage Tracker & Log - MileIQ",
+      "developer": "MileIQ"
+    },
+    "score": 4.5914683,
+    "ratings": 70838,
+    "installs": "1,000,000+",
+    "offersIAP": true,
+    "IAPRange": "$5.99 - $139.99 per item",
+    "adSupported": false,
+    "reviews_pulled": 250,
+    "low_count": 51,
+    "low_pct": 20.4,
+    "top_thumbs_low": [
+      {
+        "score": 1,
+        "thumbs": 10,
+        "text": "I did the 7-Day free trial and 2 days later I upgraded to premiere and accidentally uninstalled the app. when I reinstalled the app I cannot connect the two accounts together. so I paid $90 for the ye"
+      },
+      {
+        "score": 1,
+        "thumbs": 7,
+        "text": "Literally never autostarts drives, their customer service is a joke, they essentially will tell you oh it's something wrong with your device since all the settings are good. Except it happens on every"
+      },
+      {
+        "score": 1,
+        "thumbs": 6,
+        "text": "This app is junk. It does a horrible job of start and stop locations. It would log addresses that I did not stop at, maybe just drove by them or near when stopped at a stoplight. Many of my drives wer"
+      }
+    ]
+  },
+  {
+    "country": "gb",
+    "niche": "b2b_mileage",
+    "search_term": "mileage log business",
+    "top_app": {
+      "appId": "com.everlance",
+      "title": "Mileage Tracker Log: Everlance",
+      "developer": "Everlance Mileage Tracker"
+    },
+    "score": 4.13,
+    "ratings": 34499,
+    "installs": "1,000,000+",
+    "offersIAP": true,
+    "IAPRange": "£6.49 - £224.99 if billed through Play",
+    "adSupported": false,
+    "reviews_pulled": 250,
+    "low_count": 86,
+    "low_pct": 34.4,
+    "top_thumbs_low": [
+      {
+        "score": 1,
+        "thumbs": 47,
+        "text": "This app is 100% unstable. I've been using the free version and it will separate my trips even though I kept clicking continue driving. It then offered me a \"free 7 day trial\" in which they immediatel"
+      },
+      {
+        "score": 2,
+        "thumbs": 18,
+        "text": "used to be great. been using it for years. but lately it won't let me manually track trips. when I go to start tracking nothing happens. Just stopped working last week. tried contacting support and th"
+      },
+      {
+        "score": 2,
+        "thumbs": 18,
+        "text": "I used this app for around 4 months after having used another similar app for several years. The price for that one went up around 50% so I attempted to switch. The Everlance app will get the job done"
+      }
+    ]
+  },
+  {
+    "country": "us",
+    "niche": "b2b_receipt",
+    "search_term": "receipt scanner ocr business",
+    "top_app": {
+      "appId": "com.easyexpense",
+      "title": "Receipt Scanner: Easy Expense",
+      "developer": "Easy Expense Tracker"
+    },
+    "score": 4.772163,
+    "ratings": 18340,
+    "installs": "1,000,000+",
+    "offersIAP": true,
+    "IAPRange": "$0.99 - $144.99 per item",
+    "adSupported": false,
+    "reviews_pulled": 250,
+    "low_count": 70,
+    "low_pct": 28,
+    "top_thumbs_low": [
+      {
+        "score": 1,
+        "thumbs": 23,
+        "text": "You bunch of slime ball scumbags! I haven't used this app in a couple of months, and when I do, you're now charging for it?! Fa-Q! Your app sucks because none of the information goes into the proper c"
+      },
+      {
+        "score": 1,
+        "thumbs": 21,
+        "text": "This app has a lot of work it needs. I'm not sure when the last time they updated it but it is not really usable. the app missed date and time, amount, name of store, categorization, total price and t"
+      },
+      {
+        "score": 2,
+        "thumbs": 21,
+        "text": "I highly recommend trying Slip-Scan instead. It is way more accurate, has more features, and can actually extract line-items with AI. It's also free and the premium plans are way cheaper. Easy expense"
+      }
+    ]
+  },
+  {
+    "country": "us",
+    "niche": "b2b_quote",
+    "search_term": "estimate quote contractor",
+    "top_app": {
+      "appId": "com.simplywise.costestimator",
+      "title": "SimplyWise Cost Estimator",
+      "developer": "SimplyWise"
+    },
+    "score": 4.6889796,
+    "ratings": 11945,
+    "installs": "100,000+",
+    "offersIAP": true,
+    "IAPRange": "$4.99 - $299.99 per item",
+    "adSupported": false,
+    "reviews_pulled": 250,
+    "low_count": 31,
+    "low_pct": 12.4,
+    "top_thumbs_low": [
+      {
+        "score": 2,
+        "thumbs": 3,
+        "text": "The price keeps going up. when I first downloaded it a year ago it was $2.99 a month, a few months later it went up to $10.99 a month. I didn't mind that because of how helpful it is. Now it has gone "
+      },
+      {
+        "score": 1,
+        "thumbs": 3,
+        "text": "terrible app crashed three times on first use. took over 15 minutes to generate an answer for an extraordinarily simple paint job estimate breakdown. And the second it finally came up with results. it"
+      },
+      {
+        "score": 1,
+        "thumbs": 2,
+        "text": "so far, it's ok ★★Update★★ I wish the app was able to be less specific on one job per scope and be more even later out with less details. ★★ Response ★★ I feel that the app should allow more than one "
+      }
+    ]
+  },
+  {
+    "country": "gb",
+    "niche": "b2b_quote",
+    "search_term": "quote generator tradesman",
+    "top_app": {
+      "appId": "com.ist.quotescreator",
+      "title": "Quotes Creator - Quote Maker",
+      "developer": "Appexel App Maker"
+    },
+    "score": 4.31,
+    "ratings": 32732,
+    "installs": "1,000,000+",
+    "offersIAP": true,
+    "IAPRange": "£0.99 - £11.99 if billed through Play",
+    "adSupported": true,
+    "reviews_pulled": 250,
+    "low_count": 13,
+    "low_pct": 5.2,
+    "top_thumbs_low": [
+      {
+        "score": 1,
+        "thumbs": 4,
+        "text": "I Loved This App! But now I can't use it. The screen is covered by the keyboard and I can't get to features like I used to. Go back to the way it was!"
+      },
+      {
+        "score": 1,
+        "thumbs": 2,
+        "text": "Lord help me! Totally dorky and too full of ads! Uninstall!"
+      },
+      {
+        "score": 1,
+        "thumbs": 2,
+        "text": "Lame quotes from someone other than famous historical americans. False advertising."
+      }
+    ]
+  },
+  {
+    "country": "us",
+    "niche": "b2b_slipscan",
+    "search_term": "Slip Scan receipt",
+    "top_app": {
+      "appId": "com.easyexpense",
+      "title": "Receipt Scanner: Easy Expense",
+      "developer": "Easy Expense Tracker"
+    },
+    "score": 4.772163,
+    "ratings": 18340,
+    "installs": "1,000,000+",
+    "offersIAP": true,
+    "IAPRange": "$0.99 - $144.99 per item",
+    "adSupported": false,
+    "reviews_pulled": 250,
+    "low_count": 70,
+    "low_pct": 28,
+    "top_thumbs_low": [
+      {
+        "score": 1,
+        "thumbs": 23,
+        "text": "You bunch of slime ball scumbags! I haven't used this app in a couple of months, and when I do, you're now charging for it?! Fa-Q! Your app sucks because none of the information goes into the proper c"
+      },
+      {
+        "score": 1,
+        "thumbs": 21,
+        "text": "This app has a lot of work it needs. I'm not sure when the last time they updated it but it is not really usable. the app missed date and time, amount, name of store, categorization, total price and t"
+      },
+      {
+        "score": 2,
+        "thumbs": 21,
+        "text": "I highly recommend trying Slip-Scan instead. It is way more accurate, has more features, and can actually extract line-items with AI. It's also free and the premium plans are way cheaper. Easy expense"
+      }
+    ]
+  },
+  {
+    "country": "gb",
+    "niche": "b2b_slipscan",
+    "search_term": "Slip Scan",
+    "top_app": {
+      "appId": "com.appcraftstudios.slip_scan",
+      "title": "Slip-Scan: AI Receipt Scanner",
+      "developer": "AppCraft Studios (Pty) Ltd"
+    },
+    "installs": "1,000+",
+    "offersIAP": true,
+    "IAPRange": "£3.59 - £799.99 if billed through Play",
+    "adSupported": true,
+    "reviews_pulled": 12,
+    "low_count": 2,
+    "low_pct": 16.7,
+    "top_thumbs_low": [
+      {
+        "score": 1,
+        "thumbs": 8,
+        "text": "Come on guys was so happy to see a SA product app. However. R400 per month for a small entrepreneur is a bit on the high end. R4800 an year. Sorry losing my thumbs up."
+      },
+      {
+        "score": 2,
+        "thumbs": 0,
+        "text": "doesn't pick up the vat amounts and displays them separately. also doesn't allow for the vat amount to be edited."
+      }
+    ]
+  },
+  {
+    "country": "us",
+    "niche": "hobby_photo",
+    "search_term": "photography portfolio tracker",
+    "top_app": {
+      "appId": "com.getquin.app",
+      "title": "getquin - Portfolio Tracker",
+      "developer": "QUIN Technologies GmbH"
+    },
+    "score": 4.1,
+    "ratings": 7476,
+    "installs": "100,000+",
+    "offersIAP": true,
+    "IAPRange": "$1.99 - $174.99 per item",
+    "adSupported": false,
+    "reviews_pulled": 250,
+    "low_count": 122,
+    "low_pct": 48.8,
+    "top_thumbs_low": [
+      {
+        "score": 1,
+        "thumbs": 20,
+        "text": "Disappointed so far. The app isn't updating and is showing different information than my fidelity account. When i emailed the address given on their \"help\" section it got returned to me as a bad addre"
+      },
+      {
+        "score": 1,
+        "thumbs": 19,
+        "text": "Unfortunately, with a Premium subscription you still have ads in your feed, which is for me a no-go. Users who have an old subscription are not affected and have no advertising at all. This means ther"
+      },
+      {
+        "score": 2,
+        "thumbs": 16,
+        "text": "Dear getquin team, I'm actually a fan of the app and I'm surprised that the sorting is gone. In addition, the current sorting by position size is absolutely impractical and you only have chaos. Especi"
+      }
+    ]
+  },
+  {
+    "country": "us",
+    "niche": "hobby_rc",
+    "search_term": "rc car maintenance log",
+    "top_app": {
+      "appId": "com.jtnrdev.vehiclemaintenance",
+      "title": "Vehicle Maintenance Log",
+      "developer": "JtnrDev"
+    },
+    "score": 3.6923077,
+    "ratings": 83,
+    "installs": "10,000+",
+    "offersIAP": true,
+    "IAPRange": "$5.99 per item",
+    "adSupported": false,
+    "reviews_pulled": 37,
+    "low_count": 2,
+    "low_pct": 5.4,
+    "top_thumbs_low": [
+      {
+        "score": 2,
+        "thumbs": 0,
+        "text": "doesn't log miles? what's the point if it doesn't keep track of the mileage for you and you have to constantly update the odometer on the app."
+      },
+      {
+        "score": 1,
+        "thumbs": 0,
+        "text": "asking information I've already put in I didn't ask if it worked on my phone I ask why I have to keep putting same information in several times I just uninstalled it since you wouldn't answer the ques"
+      }
+    ]
+  },
+  {
+    "country": "us",
+    "niche": "hobby_board",
+    "search_term": "board game collection tracker",
+    "top_app": {
+      "appId": "com.boardgame.tracker",
+      "title": "Board Game Tracker",
+      "developer": "Jakula"
+    },
+    "installs": "1,000+",
+    "offersIAP": true,
+    "IAPRange": "$4.99 per item",
+    "adSupported": false,
+    "reviews_pulled": 1,
+    "low_count": 0,
+    "low_pct": 0,
+    "top_thumbs_low": []
+  },
+  {
+    "country": "us",
+    "niche": "hobby_podcast",
+    "search_term": "podcast episode planner",
+    "top_app": {
+      "appId": "com.bambuna.podcastaddict",
+      "title": "Podcast Addict: Podcast player",
+      "developer": "Xavier Guillemane - Podcast & Radio Addict"
+    },
+    "score": 4.5950646,
+    "ratings": 593658,
+    "installs": "10,000,000+",
+    "offersIAP": true,
+    "IAPRange": "$0.99 - $109.99 per item",
+    "adSupported": true,
+    "reviews_pulled": 250,
+    "low_count": 38,
+    "low_pct": 15.2,
+    "top_thumbs_low": [
+      {
+        "score": 1,
+        "thumbs": 5,
+        "text": "I didn't realize just how bad it was slowing down my phone until I finally uninstalled it, holy cow. This app constantly launches in the background whenever any sort of media device connects, even if "
+      },
+      {
+        "score": 1,
+        "thumbs": 4,
+        "text": "I want to enjoy this app but random days it will just absolutely kill my battery and I don't change my daily routine. Usually this app doesn't do that"
+      },
+      {
+        "score": 1,
+        "thumbs": 3,
+        "text": "I like how non-intrusive ads are. However, some downloaded episodes I was listening to, disappeared completely without any reason. Edit: Why do you appoint someone who is not polite, to respond to rev"
+      }
+    ]
+  },
+  {
+    "country": "us",
+    "niche": "hobby_music",
+    "search_term": "music practice log instrument",
+    "top_app": {
+      "appId": "com.proximitylabs.legato",
+      "title": "Legato: Music Practice Journal",
+      "developer": "ProximityLabs"
+    },
+    "score": 4.6,
+    "ratings": 12,
+    "installs": "1,000+",
+    "offersIAP": true,
+    "IAPRange": "$4.49 - $19.99 per item",
+    "adSupported": false,
+    "reviews_pulled": 4,
+    "low_count": 0,
+    "low_pct": 0,
+    "top_thumbs_low": []
+  },
+  {
+    "country": "us",
+    "niche": "hobby_model",
+    "search_term": "scale model builder log",
+    "top_app": {
+      "appId": "com.ubacoda.dndpuzzle3d",
+      "title": "Model Constructor 3D",
+      "developer": "TWO WAVES"
+    },
+    "score": 3.6888888,
+    "ratings": 672,
+    "installs": "100,000+",
+    "offersIAP": false,
+    "adSupported": true,
+    "reviews_pulled": 100,
+    "low_count": 30,
+    "low_pct": 30,
+    "top_thumbs_low": [
+      {
+        "score": 1,
+        "thumbs": 25,
+        "text": "Horrible so few options that it can almost fit on one page! And it is incredibly hard to move pecies!"
+      },
+      {
+        "score": 1,
+        "thumbs": 20,
+        "text": "YOU CAN ONLY MAKE 5!!!! CARS MAKE MORE"
+      },
+      {
+        "score": 1,
+        "thumbs": 18,
+        "text": "This game is terrible. I dont think im the only one who gets this but when i try to get the model downloaded it says \"please check your internet conection\" PLEASE FIX THIS!"
+      }
+    ]
+  },
+  {
+    "country": "us",
+    "niche": "hobby_brew",
+    "search_term": "home brewing recipe log",
+    "top_app": {
+      "appId": "com.warpkode.brewfather",
+      "title": "Brewfather",
+      "developer": "Warpkode AS"
+    },
+    "score": 4.852941,
+    "ratings": 2754,
+    "installs": "100,000+",
+    "offersIAP": true,
+    "IAPRange": "$1.99 - $419.99 per item",
+    "adSupported": false,
+    "reviews_pulled": 250,
+    "low_count": 22,
+    "low_pct": 8.8,
+    "top_thumbs_low": [
+      {
+        "score": 2,
+        "thumbs": 7,
+        "text": "The last update made this app so slow that it can barely be used anymore. Inventóry control doesn't work, updating recipes in the brew feature doesn't work and you update and the old figures are then "
+      },
+      {
+        "score": 2,
+        "thumbs": 4,
+        "text": "The app is a yearly subscription app you only get 30 days premium working features so not worth the install. I only use apps I can purchase outright as if you take the effort to learn the app and put "
+      },
+      {
+        "score": 1,
+        "thumbs": 4,
+        "text": "App does not prompt selection of Google account for signin, but apparently just selects the main account. My brewfather account is linked to a secondary Google account, thus rendering the app useless "
+      }
+    ]
+  },
+  {
+    "country": "us",
+    "niche": "hobby_3dprint",
+    "search_term": "3d printing project tracker",
+    "top_app": {
+      "appId": "com.filament3d",
+      "title": "3D Print Filament Tracker",
+      "developer": "Pibardos LLC"
+    },
+    "score": 4.375,
+    "ratings": 62,
+    "installs": "1,000+",
+    "offersIAP": true,
+    "IAPRange": "$2.99 - $7.99 per item",
+    "adSupported": false,
+    "reviews_pulled": 11,
+    "low_count": 1,
+    "low_pct": 9.1,
+    "top_thumbs_low": [
+      {
+        "score": 1,
+        "thumbs": 1,
+        "text": "no one time purchase pro available."
+      }
+    ]
+  },
+  {
+    "country": "us",
+    "niche": "hobby_dnd",
+    "search_term": "dnd character sheet log",
+    "top_app": {
+      "appId": "com.fandom.playercompanion",
+      "title": "D&D Beyond",
+      "developer": "Wizards of the Coast LLC"
+    },
+    "score": 4.6188655,
+    "ratings": 124042,
+    "installs": "5,000,000+",
+    "offersIAP": true,
+    "IAPRange": "$1.99 - $54.99 per item",
+    "adSupported": false,
+    "reviews_pulled": 250,
+    "low_count": 101,
+    "low_pct": 40.4,
+    "top_thumbs_low": [
+      {
+        "score": 2,
+        "thumbs": 6,
+        "text": "UI/UX is severely lacking considering how expensive content is. Filtering items needs a complete overhaul for QoL improvement. I shouldn't have to scroll through hundreds of Enspelled items to find th"
+      },
+      {
+        "score": 1,
+        "thumbs": 6,
+        "text": "Scam. Don't buy; you don't own it. I bought hundreds of dollars of supplemental materials over the years. I haven't been in a game for about a year. When I reopened the app (and logged in), everything"
+      },
+      {
+        "score": 1,
+        "thumbs": 2,
+        "text": "prices are too damn high. It's digital content for gods sake."
+      }
+    ]
+  },
+  {
+    "country": "us",
+    "niche": "hobby_runclub",
+    "search_term": "running club log",
+    "top_app": {
+      "appId": "com.nike.plusgps",
+      "title": "Nike Run Club - Running Coach",
+      "developer": "Nike, Inc."
+    },
+    "score": 4.1918507,
+    "ratings": 1107630,
+    "installs": "50,000,000+",
+    "offersIAP": false,
+    "adSupported": false,
+    "reviews_pulled": 250,
+    "low_count": 74,
+    "low_pct": 29.6,
+    "top_thumbs_low": [
+      {
+        "score": 2,
+        "thumbs": 141,
+        "text": "Review Update: This is the 3rd time I have uninstalled and reinstalled this app after it locks up. On the prior review I dropped it to 2 stars. It is starting to feel like 2 stars is too generous. It'"
+      },
+      {
+        "score": 2,
+        "thumbs": 12,
+        "text": "4/25/26 edit.......why are the Garmin and Nike apps not talking to each other? Very frustrating! There used to be a feature to manually apply a run to a training program. Because I didn't complete a r"
+      },
+      {
+        "score": 1,
+        "thumbs": 11,
+        "text": "False milage and pace. pls update Did all the updates. miss my nike watch. This app is not accurate, the mileage is always off, the pace timing is off. Which makes for a frustrating app to use when tr"
+      }
+    ]
+  }
+]

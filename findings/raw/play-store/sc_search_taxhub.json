@@ -1,0 +1,96 @@
+[
+  {
+    "appId": "com.appventurepro.taxcalculator1099",
+    "title": "1099 Tax Calculator",
+    "developer": "AppVenturePro",
+    "free": false,
+    "price": null,
+    "summary": "Estimate your 1099 self-employment taxes, deductions, and quarterly payments.",
+    "icon": "https://play-lh.googleusercontent.com/ar9pN09hmwBCJnm1dSlyvSYs9xXHoJgioR9BYa7xfSaWUIto9y0omlQnDkB7HmBD8JR9Ltjn7VdN2dnBFXlX"
+  },
+  {
+    "appId": "my1099.tax.helper",
+    "title": "My 1099 Tax Helper",
+    "developer": "SergioSkar",
+    "free": false,
+    "price": null,
+    "summary": "1099 forms guide, tax calculator &amp; expense tracker 4 freelancers and contractors",
+    "icon": "https://play-lh.googleusercontent.com/8_crQD4A_6KxCa3hzaWtiUNQHbra0k6W-_112BM5WAYdzstjCU9uDKpuBHHZ5OQVBad9btSC0Cqu41llk64XdA"
+  },
+  {
+    "appId": "com.stem.tax.hub",
+    "title": "My Tax Hub",
+    "developer": "My Tax Hub",
+    "free": false,
+    "price": null,
+    "summary": "My Tax Hub offers easy income tax return and  GST e-filing services",
+    "icon": "https://play-lh.googleusercontent.com/8AXb8L9-V932akU6ZyazubbDVXdEkm5BPXoP8VoL9K05L6roRKJYLLFp103lQniVvQ70"
+  },
+  {
+    "appId": "com.rollingcompass.irishtaxhub",
+    "title": "Irish Tax Hub",
+    "developer": "Irish Tax Hub",
+    "free": false,
+    "price": null,
+    "summary": "Make Irish taxes simple",
+    "icon": "https://play-lh.googleusercontent.com/681pzu9Yr2ne6n4U6FSmLBqeu1BPrMUFeNOV8OaCjY1RLjZKGpFl8Qh4097N2OKRPzCtDcaVCfKwIpDiH92-"
+  },
+  {
+    "appId": "com.tax.calculator.deductions.rideshare.delivery.tax1099",
+    "title": "1099 Tax Deductions Calculator",
+    "developer": "TEMPERED CORE",
+    "free": false,
+    "price": null,
+    "summary": "The essential 1099 tax calculator and deduction tracker for gig workers.",
+    "icon": "https://play-lh.googleusercontent.com/gDrhAj4KJ_nQkyyktH8UUIRojOWOIFuGD9phQbLriIJd9wVfY4DG0R6iscB4PKXeB9fWi66TPhQy2_cY4lbtqQ"
+  },
+  {
+    "appId": "com.hrblock.AtHome",
+    "title": "H&R Block Tax Prep: File Taxes",
+    "developer": "H&R Block Digital Tax",
+    "free": false,
+    "price": null,
+    "summary": "Easily e-file your 2025 taxes &amp; file confidently with H&amp;R Block&#39;s Tax Prep App.",
+    "icon": "https://play-lh.googleusercontent.com/_JWS78MYOM2i7Ow7lxlD-gtyALGIF4Szgm8JZrhhQ9ygX0fcf9PUoe-LbSTtdv44jxU"
+  },
+  {
+    "appId": "com.intuit.turbotax.mobile",
+    "title": "TurboTax: File Your Tax Return",
+    "developer": "Intuit Inc",
+    "score": 4.3,
+    "scoreText": "4.3",
+    "free": false,
+    "price": null,
+    "summary": "E-file Taxes &amp; Get Your Refund",
+    "icon": "https://play-lh.googleusercontent.com/xVaPR_ZbYf0Ni-VEcihthrkl3Pw9MNPQVn4VVMNNYjMKG7h4UX_Wiqge1RziNAOs3U8IUONId5j7TjVoo_ckPus"
+  },
+  {
+    "appId": "com.slick.proninetynine",
+    "title": "1099 Hub",
+    "developer": "1099 Pro",
+    "free": false,
+    "price": null,
+    "summary": "Track your 1099 expenses and mileage, invoices, and work shifts.",
+    "icon": "https://play-lh.googleusercontent.com/E-mkB2CLAgfcHqeSc-41JQs17px93UoSjZcoee1Md1D_1fehpdY5D-2YqTdw2zWnaNNd-OaQwmvxb8bJ3S9y"
+  },
+  {
+    "appId": "com.ehmtech.tax",
+    "title": "Sales Tax Calculator - Shop44",
+    "developer": "EHM Tech LLC",
+    "free": false,
+    "price": null,
+    "summary": "Know your total before checkout. Calculate sales tax &amp; discounts instantly.",
+    "icon": "https://play-lh.googleusercontent.com/X7Bj4q0ALvx2jn94yexyQQCAg6TszNCvNNewoIavcM4DmOttesfJ0SS24XyAGVGp2cHvLovrxUHV1aO6MiZdfQ"
+  },
+  {
+    "appId": "gov.irs",
+    "title": "IRS2Go",
+    "developer": "Internal Revenue Service",
+    "score": 3.375,
+    "scoreText": "3.4",
+    "free": false,
+    "price": null,
+    "summary": "IRS2Go is the official app of the Internal Revenue Service.",
+    "icon": "https://play-lh.googleusercontent.com/oYHJNqaLjl2cWfIlQ-3RPCv6RV_eIBEavrAeG1D1Fsobb6XhFAcVNoFIBiZpglmKeoLOSAnJw57c_yHbC4Si"
+  }
+]

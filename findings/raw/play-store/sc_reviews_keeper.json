@@ -1,0 +1,2009 @@
+{
+  "app": "com.keepertax",
+  "country": "us",
+  "lang": "en",
+  "total_pulled": 200,
+  "total_after_filter": 200,
+  "reviews": [
+    {
+      "date": "2026-04-29T12:33:02.276Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Del Hollingsworth",
+      "text": "expensive but helpful",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=dfd83dc5-4e10-499f-bd10-28d29c7a5752"
+    },
+    {
+      "date": "2026-04-23T18:40:37.600Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "Sunshine Day2052",
+      "text": "I found this app by searching for free tax filing apps. I went through the app, filling out a basic 1099 form with no deductions. The app was easy to use, and I was able to get through the process of filling out the form relatively painlessly. The two star review is due to the fact that once I completed the form, I was unable to file my return without signing up for one of the app's subscriptions. The least expensive subscription they offer is $199 / year. So basically I wasted my time.",
+      "reply": "We understand how that can feel frustrating. Keeper does let you go through the process and see your results before committing, but filing is part of the paid plan, which starts at $199/year and includes both preparation and filing. We appreciate you giving it a try and will take your feedback into account.",
+      "replyDate": "2026-04-26T21:56:25.764Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=72b6335f-2733-4792-a099-2e990d6fd093"
+    },
+    {
+      "date": "2026-04-21T16:23:55.579Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "C M",
+      "text": "Keeper used to text you right after a purchase and ask if it was a business expense. You could reply yes or no and it would log the deduction instantly. It turned expense tracking into something you handled in seconds instead of something you had to sit down and do later. It was a game changer. And we need it back",
+      "reply": "That feature made a big impact for a lot of people—we hear you. While we’ve made updates to improve tracking in other ways, we really appreciate you calling this out and will share it with the team. Feedback like this helps shape what we build next.",
+      "replyDate": "2026-04-26T21:56:52.192Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=cfb86fe5-b744-4396-a11a-594fced77ff2"
+    },
+    {
+      "date": "2026-04-15T17:26:17.694Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Annie Dillon",
+      "text": "Keeper saved me! It was my first year as a freelancer, and when I did my own taxes, I was gonna owe thousands, but with Keeper, it helped me track expenses and deductions I didn't even know I had! Lowering my tax bill by thousands. Having access to human tax advisors was so helpful too! Truly a life changing app!",
+      "reply": "That first year can be overwhelming, so it’s great to hear things turned around for you. Having both the tracking and access to real people is something we care a lot about—glad it made a difference.",
+      "replyDate": "2026-04-26T21:57:08.914Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=7973de79-9421-45c7-a747-00d9a0b7ef99"
+    },
+    {
+      "date": "2026-04-15T00:57:52.324Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Mr. RedPaint",
+      "text": "Great app for organization purposes on business expense plus tax return services!",
+      "reply": "Staying organized throughout the year makes filing so much easier, so we’re glad that’s been working well for you. Thanks for sharing your experience!",
+      "replyDate": "2026-04-26T21:57:24.149Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=ed7b7b80-e9b4-45a5-ba5f-8be69dc90d1a"
+    },
+    {
+      "date": "2026-04-14T09:56:09.886Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "Nate Trout",
+      "text": "I dont think this is compatible with wells Fargo.",
+      "reply": "We are compatible with Wells Fargo, but sometimes connections can run into issues depending on the bank’s security settings or connection permissions. If you’re still having trouble, feel free to reach out—we’re happy to help get things connected or walk you through uploading your statements.",
+      "replyDate": "2026-04-26T21:57:53.913Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=212218d3-0ff2-4183-950b-fe55b53843b3"
+    },
+    {
+      "date": "2026-04-13T23:18:34.448Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "FreshPrince*215*",
+      "text": "great app",
+      "reply": "Appreciate you taking the time to leave a review—thanks for giving Keeper a try!",
+      "replyDate": "2026-04-26T21:58:05.160Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=3e1d8558-3a4d-44d0-9931-4cd4421d3a62"
+    },
+    {
+      "date": "2026-04-11T18:22:26.374Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Crystal",
+      "text": "They just make it so easy!",
+      "reply": "That’s what we aim for—making things feel simple instead of overwhelming. Glad it’s been helpful for you!",
+      "replyDate": "2026-04-26T21:58:16.522Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=ea28d3e9-632c-4d15-8b39-0741adcacd04"
+    },
+    {
+      "date": "2026-04-10T19:03:55.192Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Lance Moseley",
+      "text": "Easy and fast tax return ever. I was stressed to get this done! This was awesome!",
+      "reply": "Tax deadlines can be stressful, so we’re glad we could help make the process smoother for you. Thanks for trusting us with it!",
+      "replyDate": "2026-04-26T21:58:36.501Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=76489976-d20b-4881-9340-a41c87a36a66"
+    },
+    {
+      "date": "2026-04-10T14:50:23.549Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Devon Meredith",
+      "text": "showed that I had $2900 worth of deductions.... didnt deduct anything and still owed full taxes on my 1099",
+      "reply": "That definitely doesn’t sound right. If deductions were identified but not reflected in your final tax outcome, we’d want to take a closer look. Please reach out to us through the \"ask\" section so we can review your return and make sure everything was applied correctly.",
+      "replyDate": "2026-04-26T21:59:12.739Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=cbb4d15e-796a-44a4-afc7-0f35e7861639"
+    },
+    {
+      "date": "2026-03-30T17:34:34.890Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Jenny Melville",
+      "text": "Quick, easy to understand, the app did most of the work for me, but overall very valuable for an independent contractor",
+      "reply": "Independent contractors tend to get the most out of having everything tracked in one place, so it’s great to hear the service works well for you. Thanks for sharing!",
+      "replyDate": "2026-04-26T22:00:01.415Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=461855dd-c7ea-464f-a15d-d170539b979f"
+    },
+    {
+      "date": "2026-03-28T22:37:29.380Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Adam Flores",
+      "text": "I just filed my 2025 Very easy and answers all your questions. Wow this is great",
+      "reply": "Glad everything felt clear and easy to work through—that’s exactly what we’re aiming for. Appreciate you taking the time to leave a review!",
+      "replyDate": "2026-04-26T22:00:13.740Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=8a4005a7-d446-42da-a67c-b7f76d9d7a5f"
+    },
+    {
+      "date": "2026-03-28T02:28:34.211Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Hector Pena",
+      "text": "very quick, easy, and stress free",
+      "reply": "That’s great to hear—keeping the process quick and stress-free is always the goal. Thanks for sharing your experience!",
+      "replyDate": "2026-04-26T22:00:27.240Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=38e08e3a-9883-4911-9c79-e6e93bc602a8"
+    },
+    {
+      "date": "2026-03-20T02:10:38.502Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Shanel Kinsey",
+      "text": "great",
+      "reply": "Thanks so much for the kind words, Shanel! We’re glad you’re enjoying the app 😊",
+      "replyDate": "2026-03-24T19:40:37.948Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=b4c42b64-657d-44d6-b421-5daf28508373"
+    },
+    {
+      "date": "2026-03-15T22:27:29.393Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Al Mendoza",
+      "text": "Easier than filling with a tax expert in person.",
+      "reply": "Really appreciate that! Glad to hear it’s been a smoother experience for you—that’s exactly what we aim for 🙌",
+      "replyDate": "2026-03-24T19:41:03.545Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=cc47014b-0c54-44e6-b687-c9866df8e501"
+    },
+    {
+      "date": "2026-03-13T19:34:26.110Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "William Hornsby",
+      "text": "It's extremely difficult to link accounts and keep them linked. should be simpler in my opinion. I am missing out on writeoffs.",
+      "reply": "Thanks for the feedback, William — totally hear you on this. Bank connections are handled through a third-party provider, so they can occasionally disconnect, but we’re always working to make this smoother.\n\nPlease reach out to us through the Ask section in the app so we can help troubleshoot and make sure you’re not missing any deductions.",
+      "replyDate": "2026-03-24T19:41:38.300Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=f667fb97-fa84-4d30-a516-41b022ab50b7"
+    },
+    {
+      "date": "2026-03-11T19:17:19.808Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Inshan",
+      "text": "Just signed up for it today and going to try it out will update review after I complete my taxes but so far they have found thousands off deduction in less than a hour",
+      "reply": "Appreciate you giving us a try, Inshan! That’s awesome to hear so far — excited to see what you think once you go through the full process.",
+      "replyDate": "2026-03-24T19:41:59.918Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=347dda64-450c-4453-928d-f7d19263b292"
+    },
+    {
+      "date": "2026-03-11T15:25:41.820Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Jennifer Schneider",
+      "text": "I'm curious how an app I haven't downloaded or registered for has been charging me $20 monthly, adding up to $180 so far.",
+      "reply": "It sounds like you may have started a free trial and didn't cancel. We are happy to assist with canceling and refunding your subscription. Please reach out to support@keepertax.com",
+      "replyDate": "2026-03-11T15:41:52.378Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=50b3906e-ce52-4833-8251-fea17114c68e"
+    },
+    {
+      "date": "2026-03-10T00:04:19.404Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "Donavin Bickers",
+      "text": "is anyone that has used this app even sure if your taxes are actually filled ?",
+      "reply": "Hi Donavin, We are happy to provide confirmation that your tax return has been filed and accepted. Feel free to reach out to support@keepertax.com if you would like us to send you a confirmation.",
+      "replyDate": "2026-03-11T15:40:53.840Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=4d00f2e7-2483-43a1-beb5-17e7f78f5539"
+    },
+    {
+      "date": "2026-03-09T22:38:54.904Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "John Catalano",
+      "text": "Horrible customer service uses AI. Will not be using ever again.",
+      "reply": "Sorry you had a poor experience. We do use AI to help answer questions faster, but a real team member is always available when you need help. Feel free to reach out to support@keepertax.com if you need assistance.",
+      "replyDate": "2026-03-11T15:39:41.132Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=d9d7e380-2aa1-4ac9-ab09-4e69be285328"
+    },
+    {
+      "date": "2026-03-05T16:55:32.117Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Justine Shavis-Torres",
+      "text": "helps me seperate personal spending from business..",
+      "reply": "Thank you very much for your feedback!",
+      "replyDate": "2026-03-11T15:38:22.135Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=71ce9a51-8107-4116-83bf-ebc54e422c4a"
+    },
+    {
+      "date": "2026-03-05T15:07:51.622Z",
+      "score": 1,
+      "thumbsUp": 2,
+      "user": "Gina Rose Gallina",
+      "text": "I'm giving a one star because I'm tired of apps not being clear up front on the cost. I waste time, downloading app, giving out personal info, answering a bazillion questions and then right when you are about to get an answer \" SUBSCRIBE! $299 a year! just be clear up front. I don't mind paying I just don't want to be Rick rolled into it. thank you good bye",
+      "reply": "Sorry for the frustration—we aim to make our pricing transparent when you start a free trial. Some features (like filing/exporting) require a paid plan. Please reach out to support@keepertax.com so we can help you choose the right plan for your needs.",
+      "replyDate": "2026-03-11T15:37:55.235Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=ab8700b5-1435-472a-8f25-ccba2159f1e6"
+    },
+    {
+      "date": "2026-03-03T19:25:02.650Z",
+      "score": 1,
+      "thumbsUp": 2,
+      "user": "Brandon",
+      "text": "with the free trial you go thru the entire process and right when you get to the end to export it it still makes you pay, wasted my time and its very misleading",
+      "reply": "Thanks for sharing this — I’m sorry the free trial experience felt misleading. The trial lets you explore the app and start the filing process, but some features (like exporting/filing) require a paid subscription to complete. We’re happy to help you choose the right plan and make sure you can get what you need without any surprises.",
+      "replyDate": "2026-03-11T15:34:16.999Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=62a14885-d003-49ec-ab93-3493e79f320d"
+    },
+    {
+      "date": "2026-03-03T06:44:09.181Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Naro Miguel",
+      "text": "great tool for a freelancer",
+      "reply": "Thank you very much for your 5-star review!!!",
+      "replyDate": "2026-03-11T15:32:25.242Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=124c57dc-1c9b-4872-be4d-74b0df8f7a1b"
+    },
+    {
+      "date": "2026-02-27T01:17:40.282Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Shelley Jackson",
+      "text": "Great service. Easy to use for business purposes",
+      "reply": "Thank you, Shelley! We’re so glad you’ve found Keeper easy to use for your business. That’s exactly what we aim for — simple tools that make managing deductions and filing stress-free.",
+      "replyDate": "2026-02-27T02:58:17.837Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=2080daa9-2bd1-4bef-9241-b6f6af878236"
+    },
+    {
+      "date": "2026-02-26T22:32:08.683Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Gil Felipe P King",
+      "text": "That's the easiest way to file taxes you can ever imagine",
+      "reply": "We love hearing that! Making tax filing simple and straightforward is our goal. Thanks for trusting Keeper with your return.",
+      "replyDate": "2026-02-27T03:04:17.166Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=aebb9ea2-da43-4f23-b07d-51cae98702ab"
+    },
+    {
+      "date": "2026-02-25T11:52:05.993Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "M S",
+      "text": "great.",
+      "reply": "Thank you! We appreciate you taking the time to leave a review — glad you had a great experience.",
+      "replyDate": "2026-02-27T03:04:02.966Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=5c4b3e37-5df1-400e-ab8c-6be7f08daab4"
+    },
+    {
+      "date": "2026-02-20T22:48:30.120Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Michelle Rotundo",
+      "text": "I have used Keeper for a number of years & always have the best experience! Their customer service is top-notch!",
+      "reply": "That truly means a lot. We’re so grateful you’ve been with us for years and continue to have a great experience. Providing responsive, supportive customer service is something we care deeply about — thank you for the kind words!",
+      "replyDate": "2026-02-27T03:03:44.429Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=d6895725-dc43-45ca-a5c0-76b277b716a3"
+    },
+    {
+      "date": "2026-02-19T17:07:40.224Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Darryl Bullock",
+      "text": "Tons of tax options and strategies for complex returns Keeper is awesome",
+      "reply": "Thanks for sharing your experience! We’re glad you’ve found value in the options and support for more complex returns. Helping business owners navigate strategy and structure is what we’re here for.",
+      "replyDate": "2026-02-27T03:03:15.100Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=52fdf187-23b7-4289-a29f-b0b894a110f3"
+    },
+    {
+      "date": "2026-02-18T14:00:23.239Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Robert Obrien",
+      "text": "totally satisfied....",
+      "reply": "That's what we like to hear 😊 Thanks for choosing Keeper and for sharing your experience!",
+      "replyDate": "2026-02-27T03:02:41.412Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=3d97eb1d-a80f-4078-857e-3a875d4a170c"
+    },
+    {
+      "date": "2026-02-16T15:19:48.721Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Lala Reed",
+      "text": "made filing super easy",
+      "reply": "That’s awesome to hear! Making filing simple and smooth is exactly what we’re here for. Thanks for the review!",
+      "replyDate": "2026-02-27T03:02:16.122Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=72f85417-d1c4-40ce-8dd9-8793df1b655c"
+    },
+    {
+      "date": "2026-02-13T22:04:59.586Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Nicholas Odame",
+      "text": "excellent 👌🏾",
+      "reply": "We appreciate it! Thanks for the support — glad you had an excellent experience.",
+      "replyDate": "2026-02-27T03:01:57.310Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=38688ac3-e1cf-4362-b392-6437393a174f"
+    },
+    {
+      "date": "2026-02-13T16:08:19.152Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Nituna Phillips",
+      "text": "I love it.",
+      "reply": "We love hearing that! Thanks for trusting Keeper — we’re happy to have you with us.",
+      "replyDate": "2026-02-27T03:01:33.871Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=216b7781-d1fb-4239-94f8-4940e57e086f"
+    },
+    {
+      "date": "2026-02-12T23:29:35.832Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Nathan Page",
+      "text": "Went through the whole process of filing my 1099 taxes. Only to find out it would cost another 300.00 to file my return. Altogether 500.00 dollars! I apologize, but I require a full refund. My $199.00, and I am very glad I did not file for $300.00. My children need to be able to eat, thank you.",
+      "reply": "Nathan, we’re sorry this was frustrating. Our Deductions + Filing plan is $199/year, and Premium is $399/year for more complex returns. We aim to make pricing clear before filing. Please contact us through the app or at support@keepertax.com so we can review your account and make this right.",
+      "replyDate": "2026-02-27T03:01:16.455Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=11c09db0-7f43-46c6-9477-3d8517882768"
+    },
+    {
+      "date": "2026-01-31T20:04:08.470Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Lorie Moore",
+      "text": "What a lifesaver!",
+      "reply": "We’re so glad to hear that! Thanks for taking the time to share!",
+      "replyDate": "2026-02-10T03:06:07.140Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=2ba47bab-1b93-40ea-b6b0-aef33a2eaffd"
+    },
+    {
+      "date": "2026-01-29T17:43:27.431Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Ashley Stewart",
+      "text": "very easy to use and they take the time to review your documents and deductions",
+      "reply": "Thanks for the kind words. We’re happy to hear the review process and document support made things easier for you.",
+      "replyDate": "2026-02-10T03:06:20.936Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=e59bc73b-bc6e-4227-8134-d23cd39ae611"
+    },
+    {
+      "date": "2026-01-29T10:59:44.770Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Eugene Gift",
+      "text": "helpful and any layperson can understand the steps",
+      "reply": "That’s great to hear. Making the steps clear and approachable is really important to us — thanks for sharing your experience.",
+      "replyDate": "2026-02-10T03:08:12.106Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=ac84146a-6442-4f1f-80ea-ae05aa2ae333"
+    },
+    {
+      "date": "2026-01-29T00:00:06.817Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Bonnie Larson",
+      "text": "I have used Keeper now for 3 years and have had no problems and it is easy to use.",
+      "reply": "We really appreciate your continued trust over the years. Thanks for sticking with us and sharing this feedback.",
+      "replyDate": "2026-02-10T03:08:29.942Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=43d72b9e-bcea-49a2-91a1-82bec10b70e9"
+    },
+    {
+      "date": "2026-01-27T21:59:06.710Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Michael Keeney",
+      "text": "way too expensive",
+      "reply": "Thanks for sharing your honest feedback. Keeper isn’t free, and we know cost is an important factor. The pricing reflects access to expense tracking, deductions support, and tax filing services, but it won’t be the right fit for everyone. We appreciate you giving it a try.",
+      "replyDate": "2026-02-10T03:07:44.678Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=e04c031d-49f3-4c33-8a15-38f9b9377c5b"
+    },
+    {
+      "date": "2026-01-26T21:47:16.948Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Shatara Travis",
+      "text": "very easy to use and understand with helpful perks for a small business owner",
+      "reply": "Thanks for the feedback! We’re glad it’s been easy to use and helpful for your small business needs.",
+      "replyDate": "2026-02-10T03:07:03.786Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=29719048-e4ac-4e32-91ee-ca1b159b1598"
+    },
+    {
+      "date": "2026-01-24T17:39:04.387Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Monica Anderson",
+      "text": "SUPER EXPENSIVE.",
+      "reply": "We understand price matters. Keeper is built for people with 1099 or self-employed income, and for many users the deductions they uncover can save more than the subscription costs—depending on income, expenses, and tax rate. That’s why there’s a free 14-day trial to see if it actually pays off for you.",
+      "replyDate": "2026-01-24T20:17:28.954Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=f092a1e4-cc73-4257-bdd4-332230941585"
+    },
+    {
+      "date": "2026-01-24T16:52:12.304Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Melissa Langham",
+      "text": "this app keeps throwing a code at me and not letting access it.",
+      "reply": "Sorry you’re running into that — being blocked by an error code is frustrating and not expected. Please email support@keepertax.com so our team can help. If you can include the error code you're receiving, that will help us resolve it faster.",
+      "replyDate": "2026-01-24T20:14:46.949Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=8821e96d-8b97-4ef0-83eb-39cf5003bb38"
+    },
+    {
+      "date": "2026-01-24T11:00:12.646Z",
+      "score": 1,
+      "thumbsUp": 28,
+      "user": "Kenneth Jossey",
+      "text": "I've used keeper for the past few years and I've loved it but this price increase is crazy work. 399 is out of bounds. People if you are looking for something similar where you pay a lot less and Use the app called Found very similar at a third of the cost. 4 years of filing taxes on here for you to lose a customer for greed is very stupid and no matter what they tell you it doesn't justify the cost increase.",
+      "reply": "Thank you for sharing your positive feedback, Kenneth! We're always working hard to improve! 😄",
+      "replyDate": "2022-07-31T02:09:00.941Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=3358701f-8644-4e54-a1cc-9cb4c6800140"
+    },
+    {
+      "date": "2026-01-12T16:40:28.335Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "JOSEPHINE CONDEZA",
+      "text": "it's been a year now and I forgot about this app. I guess I never use it. came to my surprise I got charge and I tried to get a refund it was so had to get one. support doesn't really help cause you get an a AI support.",
+      "reply": "Thank you for your feedback. While we do use AI to help speed up responses, it is backed by a trained support team, and our agents are always available to help. Please reach out through the Ask chat in the Keeper app or email us at support@keepertax.com so our team can review your account and help with a refund request.",
+      "replyDate": "2026-01-13T17:50:33.522Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=eb14c7f0-5835-4b8b-80b1-cbc6464e6bed"
+    },
+    {
+      "date": "2026-01-08T18:21:35.929Z",
+      "score": 1,
+      "thumbsUp": 2,
+      "user": "Stephanie Streiner",
+      "text": "don't waste your time they make it seem like you're not going to have to pay for it but you only get so far and you start getting your your account linked and your deductions pulled and Bam they want you to sign up for filing your taxes with them and using the app minimum choice $199 it won't let you go any further either unless you accept the free trial worthless app",
+      "reply": "Thanks for sharing your experience. We offer a free trial so users can explore the app before committing. After the trial, a paid plan is required to continue with filing and expert support. We’re sorry it wasn’t the right fit, but we appreciate the feedback.",
+      "replyDate": "2026-01-08T23:52:58.694Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=bf702f76-4e7e-4478-ae7e-e950ed5ba7b3"
+    },
+    {
+      "date": "2026-01-04T19:25:47.704Z",
+      "score": 1,
+      "thumbsUp": 2,
+      "user": "Doug Morse",
+      "text": "it is not free like it tells you everywhere. you get a 14 free trail then have to pay $200 for the year or $20 a month. everytime i clicked it said $0. then when it actually gets into what you can deduct... start your 14 day free trail now",
+      "reply": "Thanks for sharing your experience. We offer a free trial so users can explore the app before committing. After the trial, a paid plan is required to continue with filing and expert support. We’re sorry it wasn’t the right fit, but we appreciate the feedback.",
+      "replyDate": "2026-01-08T23:53:15.796Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=067a3ead-60a3-46ed-a7ad-ef56518d83e9"
+    },
+    {
+      "date": "2025-12-27T13:03:57.237Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Tamica latrice Chapman",
+      "text": "please and thank you kindly",
+      "reply": "You’re very welcome—happy to help! 😊",
+      "replyDate": "2026-01-01T21:20:11.346Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=29dabecc-3bbd-4a2f-918c-4378e289c738"
+    },
+    {
+      "date": "2025-12-26T10:44:20.378Z",
+      "score": 1,
+      "thumbsUp": 5,
+      "user": "Tara Borger",
+      "text": "not compatible with doordash or cash app",
+      "reply": "We're sorry to hear your accounts aren't supported! To ensure your deductions are still included, you can upload a CSV or PDF of your statements into Keeper from our online dashboard.",
+      "replyDate": "2026-01-01T21:21:42.774Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=6300ce4c-82b1-4941-9fd7-218ddc0cba5c"
+    },
+    {
+      "date": "2025-12-14T01:16:09.535Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Starr",
+      "text": "no options for going back can't accomplish anything on athis app what a waste of dat",
+      "reply": "Hi there,\n\nPlease reach out to us directly through the Ask section of the app. You can make updates to your deductions and tax filing. If your return is currently in review, you may need a team member to unlock it for edits, and we’ll be happy to assist with that.",
+      "replyDate": "2025-12-14T17:30:34.624Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=2fb95929-27ce-4784-9a1b-731d4ae44096"
+    },
+    {
+      "date": "2025-11-04T02:25:20.820Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Phillip Slone",
+      "text": "trying to reach someone about the 192.00 subscription that I cancelled and need to know if it will be returned ? its in processing with my bank now to be taken from my account .",
+      "reply": "Hi there!\nPlease reach out to us at support@keepertax.com from the email address you used to sign up. We'll be happy to assist you further with this.",
+      "replyDate": "2025-12-11T23:41:49.787Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=96e441b3-25b5-41b2-ac50-2c93542ec088"
+    },
+    {
+      "date": "2025-10-13T19:00:11.903Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Joe Griffin",
+      "text": "worked one year and the next year it couldn't verify my identity.",
+      "reply": "Thanks for sharing your experience—we know how frustrating this can be. To meet IRS requirements, we verify identity using your name, address, and SSN or ITIN. In some cases, verification isn’t possible even when details are correct, which prevents e-filing. You can still track expenses and export deductions with Keeper.",
+      "replyDate": "2025-12-11T23:46:26.386Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=26ae10e2-f7dc-4b5e-ab3d-4525262a0a65"
+    },
+    {
+      "date": "2025-09-25T11:52:54.617Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Mel's Kitchen",
+      "text": "Never thought about paying $399 a month just to do my taxes for this year. No thanks... Where do they do that? It was more understanding than any other app, but no thanks! I'll manage on my own",
+      "reply": "Thanks for your feedback! Just to clarify, the Premium plan is an annual $399 fee, not monthly. We’ve found the value—year-round support, expense tracking, and expert filing help—far outweighs the cost and is very competitive in our field. Totally understand it’s not for everyone, but we hope you found the app helpful.",
+      "replyDate": "2025-09-25T23:21:14.425Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=24683d6c-777b-437a-93a2-f13fecb3bc4e"
+    },
+    {
+      "date": "2025-08-27T13:47:56.862Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Kaela Cottle",
+      "text": "They want you to SUBCRIBE to be able to use the app properly. A very annoying pop-up blocks the view of your deductions, and it stays there; there is no option to close it. This app is greed-central station",
+      "reply": "Thank you for sharing your feedback. I’m sorry to hear about the frustration with the pop-up blocking your view. It sounds like you may have started a free trial of a plan that doesn’t include Deduction Tracking.\n\nPlease reach out to us at support@keepertax.com, and our team will be happy to take a look and further assist you with this.",
+      "replyDate": "2025-08-27T19:20:58.280Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=77b0389e-3950-4234-a237-abd2091679b2"
+    },
+    {
+      "date": "2025-08-22T18:13:00.733Z",
+      "score": 1,
+      "thumbsUp": 3,
+      "user": "Natalie Jones",
+      "text": "I've been using keeper for my taxes for years now. I've always had a set price of $120 max. I've had no notification of a price increase and now it's somehow $400. crazy price increase out of no where",
+      "reply": "Keeper offers several plan options, ranging from $99 to $399. The plan you’ll need to file your return depends on the complexity of your tax situation.\nPlease reach out to us directly via the Ask chat in the Keeper app or by emailing support@keepertax.com so we can review your account and ensure you’re getting the best value for your tax situation.",
+      "replyDate": "2025-08-27T19:17:08.836Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=ad33ed4c-a64d-4644-879d-623fec23272d"
+    },
+    {
+      "date": "2025-06-27T10:42:25.445Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "T2luvv",
+      "text": "very best and convenient way to prepare taxes. professional on call",
+      "reply": "Thank you for your 5-star review and for using Keeper!",
+      "replyDate": "2025-07-17T16:46:10.755Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=6f192a1e-2e28-44aa-923e-466f33e1e19e"
+    },
+    {
+      "date": "2025-05-19T00:42:21.156Z",
+      "score": 1,
+      "thumbsUp": 2,
+      "user": "Lukas",
+      "text": "Paid Premium Member here. Their tax professionals didn't take into account my quarterly payments(they gave me the estimates, I paid the estimates, and then they didn't account for them at the time of filing,despite having access to my bank accounts that show the payments). The IRS attempted to debit my account for the full amount for the year(a big number as an independent contractor). As of 5/19 I'm still receiving notices because of this mistake. Ugh.",
+      "reply": "We're very sorry for the stress and inconvenience this caused you. Thank you for bringing this to our attention. Please reach out to support@keepertax.com so we can assist with resolving this issue.",
+      "replyDate": "2025-04-29T15:35:00.405Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=156f356a-e8dc-4326-896b-8fa05d054cc4"
+    },
+    {
+      "date": "2025-05-16T14:21:20.831Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Bamlist",
+      "text": "Great service",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=db68be28-2f47-460d-8c88-8d968a6b7d2a"
+    },
+    {
+      "date": "2025-04-16T23:26:32.270Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Kristina Moreno",
+      "text": "This is such an amazing product. I was lost without it before and now tax season is very easy.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=c55f03dd-fb95-43c3-ae2c-b321da92aa9d"
+    },
+    {
+      "date": "2025-04-16T22:44:48.552Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Emilio Simon",
+      "text": "Keeper AI is amazing! Made filing my taxes so much easier. I've been using TurboTax for years but glad I gave this platform a shot.",
+      "reply": "We're glad to hear it! Thank you so much for your review!",
+      "replyDate": "2025-04-16T22:37:15.893Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=54422278-49ed-4e29-adfb-0e5793926308"
+    },
+    {
+      "date": "2025-04-16T07:40:50.768Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Dave Mack",
+      "text": "Does not work. Linked my main checking account and credit card, it runs through all my transactions and says none found. Totally useless. Uninstall.",
+      "reply": "Sorry to hear you're having trouble with the app — that's definitely not how it's supposed to work. We'd love to take a closer look. For help, please reach out to us at support@keepertax.com.",
+      "replyDate": "2025-04-16T22:36:35.255Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=d4e2d182-40d6-4da6-ab42-f537eb123ad5"
+    },
+    {
+      "date": "2025-04-16T02:59:10.601Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Humberto Montoya",
+      "text": "This is straightforward.",
+      "reply": "We're always working hard to improve the app. Thanks for your download and feedback!\n",
+      "replyDate": "2025-04-16T22:39:17.471Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=0357208d-eb95-4231-aef0-02a6f413fe7d"
+    },
+    {
+      "date": "2025-04-15T22:26:41.998Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Sinseriti Banks",
+      "text": "omg this helped me so much",
+      "reply": "We are pleased that you enjoyed the app. If there is anything we can do for you, just let us know at support@keepertax.com",
+      "replyDate": "2025-04-16T22:36:46.986Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=111f9550-960a-4310-ad25-a43fd78b7c56"
+    },
+    {
+      "date": "2025-04-14T21:09:26.716Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "BDT JOE",
+      "text": "peak performance",
+      "reply": "Thank you very much for your 5-star review!!!",
+      "replyDate": "2025-04-16T22:36:52.949Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=8d7b9e41-42f3-4062-b180-19becdb7913b"
+    },
+    {
+      "date": "2025-04-14T05:10:17.862Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Miguel Guzman",
+      "text": "I have been with keeper for a few years now. They make it easy to sort out deductions. They're also helpful and pretty fast whenever I have questions.",
+      "reply": "Thank you so much for your support! We're thrilled to hear that managing deductions has been easy and that our support team has been helpful — it means a lot to us!",
+      "replyDate": "2025-04-16T22:39:00.486Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=145577fd-68db-4d91-9724-d998821f474b"
+    },
+    {
+      "date": "2025-04-14T02:36:58.278Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Lyn Wez",
+      "text": "great experience definitely recommend",
+      "reply": "It is delightful to hear such positive words and it’s always a pleasure to serve our customers!",
+      "replyDate": "2025-04-16T22:37:37.175Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=c0ada010-a56f-47c1-8712-420062528c64"
+    },
+    {
+      "date": "2025-04-13T21:32:56.819Z",
+      "score": 1,
+      "thumbsUp": 6,
+      "user": "That Guy Joss",
+      "text": "It seems like a great service. My definitely will look into it next year. But unfortunately, the pricing structure is based on you paying for your tax return filling which would make sense if I hadn't already filed my tax return since I did. There's no way I'm going to pay for my next year's tax return, 1 year in advance. I have no way to hold a company accountable for them filing it. They spit out nonsense about terms and conditions that accompanies terms and conditions means nothing nowadays.",
+      "reply": "Keeper is a subscription-based service that provides year-round support, deduction tracking, and tax filing! We understand if you've already filed this year, it may not feel like the right time to sign up. However, our subscription offers tools and support to help you track write-offs, maximize deductions, and stay prepared for the next tax season.",
+      "replyDate": "2025-04-16T22:46:20.144Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=894bf3d2-4616-451b-a29c-ec7efc27869a"
+    },
+    {
+      "date": "2025-04-13T19:33:06.455Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Gus Briones",
+      "text": "very fast and easy, especially for a person who uses whatnot",
+      "reply": "Thanks for your feedback. We are continuously working on adding more features to our app to make your experience better!",
+      "replyDate": "2025-04-16T22:46:42.900Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=af259f04-7e4f-441f-ad31-a3e92c5fe963"
+    },
+    {
+      "date": "2025-04-11T13:52:07.530Z",
+      "score": 1,
+      "thumbsUp": 2,
+      "user": "Kennya Vega",
+      "text": "DON'T USE KEEPER WITH EXPLANATION!!!! Excited I uploaded of my forms and did my deductions, I usually get a huge return being married and claiming dependents, I wasn't satisfied with the numbers KEEPER projected for my return so I didn't file with them and they prevented me from filing with another agency by putting my social on hold, the bott says I cannot talk to a live agent unless I pay for the subscription even when I don't want to file with them. worst experience ever, I don't recommend",
+      "reply": "Thanks for your feedback — we’re really sorry to hear about your experience. Keeper does not place Social Security numbers on hold or prevent you from filing with another provider and does not require a subscription to chat with a live agent. Please don’t hesitate to reach out to support@keepertax.com — we’re here to help!",
+      "replyDate": "2025-04-12T15:28:39.510Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=0d7246ff-7f4c-413a-a4aa-4388de48eedc"
+    },
+    {
+      "date": "2025-04-08T10:08:39.909Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "David Franco",
+      "text": "Their support is the best I have ever dealt with. a real person seems to always be there within seconds of me looking for some help or asking a question. two thumbs up",
+      "reply": "Thank you so much for your review!\n",
+      "replyDate": "2025-04-08T15:08:35.416Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=ac483639-d55a-4156-83d6-1400c40d4afa"
+    },
+    {
+      "date": "2025-04-06T17:13:27.995Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "B",
+      "text": "App is limiting. AI customer service answered my tax questions incorrectly. When I was able to talk to a human, they were unhelpful.",
+      "reply": "Hi, we're sorry to hear that and we would love to take a look at the issues you've experienced. Please reach out to our customer support team at support@keepertax.com and we will respond promptly!",
+      "replyDate": "2025-04-07T20:19:12.993Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=d4e94be0-addc-4165-b897-2fa03a20f6cb"
+    },
+    {
+      "date": "2025-04-06T03:47:44.511Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "William Earl Coates",
+      "text": "Awesome!",
+      "reply": "We are pleased that you enjoyed the app. If there is anything we can do for you, just let us know at support@keepertax.com!\nHave a wonderful day!",
+      "replyDate": "2025-04-07T20:19:27.285Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=0f49a50a-8d60-4bf2-ab18-47c6495e2f43"
+    },
+    {
+      "date": "2025-04-03T15:18:05.556Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Madison Walker",
+      "text": "This app rules",
+      "reply": "Thank you very much for your 5-star review!!!",
+      "replyDate": "2025-04-07T20:19:35.454Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=e22f2f5d-2e66-4666-a7b9-afb007b0d415"
+    },
+    {
+      "date": "2025-04-02T20:13:40.534Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Dawn Kleintop",
+      "text": "keeper was fantastic! They answered all my questions immediately just as if I was sitting at a desk with someone!! They even answered and explained things I didn't know about how to go about claiming the house I inherited from my mom. Wonderful app you really need to check Keeper Tax out!!",
+      "reply": "Hi Dawn, we are pleased that you enjoyed the app! We strive to provide great service and appreciate your feedback!",
+      "replyDate": "2025-04-03T15:06:23.746Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=4b9cde35-6b6d-4e49-a644-166cd77efd97"
+    },
+    {
+      "date": "2025-03-30T23:20:05.345Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Zachary Turner",
+      "text": "Always made easy all the time",
+      "reply": "Hey Zachary, we're glad to hear it! Thank you for your 5 star review!",
+      "replyDate": "2025-04-03T15:05:10.442Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=2d05626f-b399-4196-b025-053c0961f25f"
+    },
+    {
+      "date": "2025-03-28T14:28:25.649Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Steven Flaat",
+      "text": "quick and easy",
+      "reply": "Hi Steven, thank you very much for your feedback!",
+      "replyDate": "2025-04-03T15:04:48.466Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=1aa39beb-a092-4426-b206-910a3da9b6c9"
+    },
+    {
+      "date": "2025-03-27T01:08:19.572Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Marcello Locascio",
+      "text": "the only tax service i trust with my business. helps me stay organized with ease",
+      "reply": "Thank you very much for your 5-star review!!\n",
+      "replyDate": "2025-03-27T15:03:51.488Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=6f1e6e20-1f01-45c2-af9b-66cd056409c4"
+    },
+    {
+      "date": "2025-03-25T22:05:08.957Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Ariene Miller",
+      "text": "simple easy",
+      "reply": "We're always working hard to improve the app. Thanks for your 5-star review & feedback!\n",
+      "replyDate": "2025-03-27T15:04:20.818Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=0987c17d-8415-4139-829e-b2995c9c0874"
+    },
+    {
+      "date": "2025-03-17T18:33:42.768Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Donnie Emmack",
+      "text": "Awesome product, it easily cut down on hours of my time I usually spend filing and helped to maximize my deductions with better records.",
+      "reply": "Thank you for your review! We're glad we could help you save time while maximizing your deductions and keeping your records organized!",
+      "replyDate": "2025-03-20T15:16:06.814Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=dfbb8ae7-6c07-4d51-8b57-cb7223472401"
+    },
+    {
+      "date": "2025-03-16T22:13:41.920Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Alli Postell",
+      "text": "as a new small business owner this has been incredibly helpful in tracking my deductions and the AI to help educate how deductions work and what they are has been a game changer for me!",
+      "reply": "We are pleased that you enjoyed the app. If there is anything we can do for you, just let us know at support@keepertax.com!",
+      "replyDate": "2025-03-20T15:14:59.862Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=8b109901-00df-4f83-8220-088bac2a1f15"
+    },
+    {
+      "date": "2025-03-15T06:49:47.506Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "IxResurrect ll",
+      "text": "do the right clicks, what's not on legit work gas don't mark as deduction .. type of way file. left click no deduction right click deduction that's it.",
+      "reply": "Thank you for your 5-star review!",
+      "replyDate": "2025-03-20T15:14:31.759Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=4041d6d7-2a97-4dc6-af06-c099e4f6841e"
+    },
+    {
+      "date": "2025-03-13T19:22:36.490Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "yagnner Gomez",
+      "text": "Keeper app has been EXTREMELY helpful & has educated me in many categories when it comes to filing my 1099. This app is for sure a keeper. Thank you guys n keep up the great work.",
+      "reply": "Thank you for your amazing review! We're so glad Keeper has been helpful and made filing easier for you. We appreciate your support!",
+      "replyDate": "2025-03-20T15:13:23.422Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=66f2b5d1-4ba2-42be-b36a-baf4f9f0bdb9"
+    },
+    {
+      "date": "2025-03-12T18:07:21.490Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Eddie Garcia",
+      "text": "Quick fast and easy",
+      "reply": "Thank you for your kind review! We're thrilled to hear we made the process easy. Appreciate your support!",
+      "replyDate": "2025-03-20T15:12:37.528Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=e292b72f-1896-46a6-a108-bc34dd0a2030"
+    },
+    {
+      "date": "2025-03-04T14:48:01.283Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Zachary Taylor",
+      "text": "this was perfect for me. I was able to file quickly and was able to look through everything and select all my deductions. this app is a tax life changer. thank you keeper.",
+      "reply": "So glad to hear that! We love making tax filing quick and stress-free. Thanks for trusting Keeper—we’re happy to help!\n",
+      "replyDate": "2025-03-10T18:16:23.569Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=67d4127c-3c22-44e7-95be-237b0aa98d1c"
+    },
+    {
+      "date": "2025-02-27T03:11:36.198Z",
+      "score": 5,
+      "thumbsUp": 4,
+      "user": "Luis Gonzalez",
+      "text": "works great for me. I have 3 cards connected and it keeps track of everything except 1 card which is my sams club card. It gets disconnected everyday. I use this card everyday for my business. Wish I didn't have to go through the headache of reconnecting this card. If I make too many purchases without noticing I have to back to my statement and look through all my purchases and add them in manually. Other than that its a great app......Can you please fix this issue ???",
+      "reply": "Thank you for your feedback! We are pleased that you enjoyed the app. If there is anything we can do for you, just let us know at support@keepertax.com!\n",
+      "replyDate": "2025-02-19T17:16:50.604Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=5c7377a7-cb4c-4c78-bb3f-ddfbb3db350f"
+    },
+    {
+      "date": "2025-02-25T00:10:08.693Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Keaton Ray",
+      "text": "didn't pay taxes at 161000 amazing",
+      "reply": "Thank you for your 5-star review! Taxes can be complex, and every situation is unique! If you have any questions about your filing, feel free to reach out to support@keepertax.com—we're happy to help!",
+      "replyDate": "2025-03-03T15:51:03.988Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=b1bc4a5f-adb7-4e06-a65a-e38490c713ef"
+    },
+    {
+      "date": "2025-02-24T23:29:20.680Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Luca B.",
+      "text": "Great app for professionals, freelance & self-employed.",
+      "reply": "Thanks for the great feedback! Glad you're enjoying Keeper!",
+      "replyDate": "2025-03-03T15:50:20.567Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=aedeb841-7421-4b3b-b739-acbe58bbb883"
+    },
+    {
+      "date": "2025-02-23T21:22:26.664Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Alexander Riegel",
+      "text": "Awesome for tracking deductions for my small business, and you can file your taxes straight from the app for a fee. Definitely worth it",
+      "reply": "We're so glad Keeper has been helpful for your small business! Tracking deductions and filing all in one place makes tax time so much easier. Thanks for your support!",
+      "replyDate": "2025-03-03T15:49:41.320Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=e9176055-9bd4-4768-a1d3-63402a408576"
+    },
+    {
+      "date": "2025-02-22T18:23:47.244Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Danae Grant-Holland",
+      "text": "no problems for the last 3 filings.",
+      "reply": "That's great to hear! We're glad we've been able to make your tax filings smooth and hassle-free. Thanks for sticking with Keeper!",
+      "replyDate": "2025-03-03T15:49:04.622Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=a0299ced-040b-40bf-8b87-1b0d2a922ad7"
+    },
+    {
+      "date": "2025-02-20T17:56:28.320Z",
+      "score": 5,
+      "thumbsUp": 2,
+      "user": "Dalton Christal",
+      "text": "I've been using Keeper for 2 years now. I NEVER review apps, nor pay for apps. But this company is an absolute piece of cake for me to use. They have an AI chat bot that is basically like talking to a human that practically knows all the answers to any tax questions, and if it doesn't it alerts the team for a human. I got the premium plan and yeah it costs $400 a year, but the fact I don't have to worry about taxes at all, plus getting a larger refund then I would normally, totally worth it!",
+      "reply": "Wow—this means so much to us! We're thrilled that Keeper has made taxes stress-free for you and that our AI + human support combo has been so helpful. Thanks for trusting us for the past two years, and we’re glad to be saving you both time and money!",
+      "replyDate": "2025-03-03T15:48:36.628Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=ff29e875-c34a-49e3-ade8-a52629014d67"
+    },
+    {
+      "date": "2025-02-19T23:55:51.777Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Cierra Eckard",
+      "text": "Was excited to use this app but I can't use it because my bank account is not supported by plaid and it won't let me go any further than that step. Maybe you should let users use app who can not get on plaid too",
+      "reply": "Thanks for your feedback! We understand how frustrating it can be when your bank isn’t supported by Plaid. While Plaid is our primary way to link accounts, you can still use Keeper by uploading your monthly bank statements directly from our web dashboard to import your transactions. Just log in at keepertax.com to get started!\n\n",
+      "replyDate": "2025-02-20T17:31:28.417Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=e6171aea-ee76-4f66-8392-b4b572bd79c8"
+    },
+    {
+      "date": "2025-02-18T19:41:23.331Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Ed",
+      "text": "saves me a ton of moolah",
+      "reply": "Glad to hear it! Helping you save is what we’re all about!",
+      "replyDate": "2025-02-19T17:19:34.550Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=2fc0a0eb-9d5c-442e-b25e-c7b05d0c3f8c"
+    },
+    {
+      "date": "2025-02-18T14:12:23.623Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "Kazeem Castrillon-Jax Realtor",
+      "text": "Worked great until they had a issue with my bank and stopped tracking my expenses. Very disappointed had to find another platform",
+      "reply": "Sorry for the trouble! Bank connection issues can happen, but we’re happy to help troubleshoot. Feel free to reach out to support@keepertax.com, and we’ll do our best to get things back on track for you!",
+      "replyDate": "2025-02-19T17:19:07.650Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=b6dea498-8ec0-4862-bcc9-c94c3980ce94"
+    },
+    {
+      "date": "2025-02-15T14:35:21.217Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Carol Manley",
+      "text": "A waste",
+      "reply": "Sorry to hear you feel that way! If there’s anything we can do to improve your experience, reach out to us at support@keepertax.com—we’re happy to help.",
+      "replyDate": "2025-02-19T17:18:38.670Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=819d6a20-9989-408f-8d55-0b3010bfae8e"
+    },
+    {
+      "date": "2025-02-14T05:16:44.451Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Iron Valor",
+      "text": "very easy and advanced",
+      "reply": "Glad to hear you're enjoying it! We strive to make tax filing both simple and effective. Thanks for your feedback!",
+      "replyDate": "2025-02-19T17:17:57.808Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=4629e524-ba84-45a3-861b-65158a0ed5f3"
+    },
+    {
+      "date": "2025-02-13T03:33:53.444Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Peanut Scott",
+      "text": "They make it so simple, and they check it before you submit it so you have fewer chances of getting audits.",
+      "reply": "Glad you found it simple! Our goal is to make tax filing stress-free while ensuring accuracy. Our team reviews filings to help catch potential issues and maximize deductions. Thanks for sharing your experience!",
+      "replyDate": "2025-02-19T17:17:34.427Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=57a0cc92-885a-43f1-8c5f-27a49b63e99b"
+    },
+    {
+      "date": "2025-02-12T15:15:35.744Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Jason Campbell",
+      "text": "Scam, charges you yearly without notice. Why would there be a recurring charge to do my taxes? Why not charge me if I decide to file with Keeper? Avoid and use many of the other alternatives that don't have a slimy tactic of charging you without notice.",
+      "reply": "Hi Jason, we offer year-round deduction tracking to help maximize your savings, not just tax filing. Our service is subscription-based because it provides ongoing support, not a one-time filing fee. If you didn’t intend to continue, we’re happy to refund within 30 days—just reach out!",
+      "replyDate": "2025-02-19T17:16:03.671Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=7be031d3-8c97-4c6d-a2ca-a9e999b59166"
+    },
+    {
+      "date": "2025-02-08T18:21:52.651Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Shawn Taylor",
+      "text": "Keeper made it super easy to file taxes with confidence and answer expert questions.",
+      "reply": "We are pleased that you enjoyed the app. If there is anything we can do for you, just let us know at support@keepertax.com!\nHave a wonderful day!",
+      "replyDate": "2025-02-19T17:14:25.824Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=6133d6ae-0f4b-4c9e-bf67-be5ecbe67274"
+    },
+    {
+      "date": "2025-02-05T21:43:42.846Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Peter Huang",
+      "text": "This app forces you to choose a paid plan and give you 7 days free trial with it hoping you would forget to cancel. You are not allowed to move forward with free trial without choosing a paid plan and can't do anything after linking your bank and everything. Feels like they get your information for free and force you to pay.",
+      "reply": "We appreciate your feedback! Our free trial gives full access before any charge, if you wish to file your return before your free trial is up you will be prompted to end trial early and subscribe. If you didn’t intend to continue, we offer refunds within 30 days—just reach out!",
+      "replyDate": "2025-02-19T17:14:09.219Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=3f43d85b-ec4e-4698-a89c-7032f842dc88"
+    },
+    {
+      "date": "2025-02-04T07:59:12.292Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "Faith Perkins",
+      "text": "Doesn't work for Cash App.",
+      "reply": "Cash App is not currently supported by our partner Plaid, the service we use to link accounts to Keeper. However, users can upload their monthly statements from Cash App to import transactions to the Keeper from our web dashboard (keepertax.com). Feel free to reach out to support@keepertax.com if you need help with this!",
+      "replyDate": "2025-02-04T14:36:49.262Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=dea35bd2-7be7-4207-b0fc-74457a4bec0a"
+    },
+    {
+      "date": "2025-01-31T22:10:37.966Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Jonathan Henderson",
+      "text": "did my taxes through them , they are easy and comprehensive and literally can ask agent questions every step of the way , I went to my normal tax people and owed instead and then I went through keep and they got me money irs will pay me in return",
+      "reply": "Wow, thank you for sharing your experience! We’re so glad to hear that Keeper helped you not only navigate your taxes easily but also get a refund when your usual tax folks didn’t quite come through —your satisfaction is what we aim for! We’re always here to make tax season a little bit easier. Thanks for choosing Keeper!",
+      "replyDate": "2025-02-04T14:34:40.500Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=45713594-5e8b-439a-95bb-3b6dfedfeddd"
+    },
+    {
+      "date": "2025-01-31T02:33:26.185Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Sean N",
+      "text": "I was skeptical but keep turned out to be the best thing for my 1099 business. highly recommend it to anyone who needs to track deductions. worth every penny.",
+      "reply": "Thank you so much for your thoughtful review! Tracking deductions can be a game-changer, and we're so glad to have helped make that easier for you.",
+      "replyDate": "2025-02-04T14:32:30.226Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=b5d1c402-c704-4af7-9b87-9cac4deec04f"
+    },
+    {
+      "date": "2025-01-29T18:43:02.224Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Cyrus Robinson",
+      "text": "I used to be intimidated when doing my taxes but using this product has made doing my taxes really easy. Step by step and user friendly! Glad I found them!!",
+      "reply": "Thank you for your review! Making taxes simpler and more user-friendly is exactly what we aim for, so it’s great to know we’re hitting the mark.",
+      "replyDate": "2025-02-04T14:31:09.552Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=fef79674-e0b6-46a8-995b-3a6ffbbc1f42"
+    },
+    {
+      "date": "2025-01-25T02:27:40.146Z",
+      "score": 3,
+      "thumbsUp": 5,
+      "user": "Sarai Fuoss",
+      "text": "I like the app, but it needs to have some customization options to it. My business is a crafting business, and the perdesigned categories dont fit my business needs, but because of its simplitic use, i like it and will deal. Also, it has no suggestion into area or help area or support contact area, so this all sucks. I believe it will be useful, but it definitely isn't worth the money i paid for it. If they fix some of the things i have suggested, it will be a lot nicers and twice as useful.",
+      "reply": "Hi Sarai, we are always looking to improve the experience for our users, and really appreciate the feedback. If there is anything specific we can look into, please contact us at support@keepertax.com.",
+      "replyDate": "2025-01-28T20:29:21.651Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=862c453e-9f38-4f3f-b190-f63575a52c34"
+    },
+    {
+      "date": "2025-01-19T15:50:53.555Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Anthony Boggan",
+      "text": "To expensive",
+      "reply": "Keeper offers a 7-day free trial for all our subscription options. Our subscriptions range from $99 - $399 annually, depending on your tax filing needs. We also offer a monthly 'Deductions Only' subscription for $20/mo. We find our subscription options to be competitively priced and cheaper than hiring an accountant or bookkeeper.\n",
+      "replyDate": "2025-01-20T16:24:43.231Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=5e92a73d-2298-4a1d-a925-0ecd8cf07804"
+    },
+    {
+      "date": "2025-01-12T21:06:51.498Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "janelle venuto",
+      "text": "Excellent ! Very user friendly, numerous extras on deductions and rules I didnt know about before using this app. Will continue to use from now til forever .",
+      "reply": "We are pleased that you enjoyed the app. If there is anything we can do for you, just let us know at support@keepertax.com!\nHave a wonderful day!",
+      "replyDate": "2025-01-20T16:22:04.788Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=31e43f90-48c3-4df4-a8dc-2bab4747b72d"
+    },
+    {
+      "date": "2025-01-12T08:14:44.139Z",
+      "score": 5,
+      "thumbsUp": 2,
+      "user": "Justen Barraza",
+      "text": "This app is the best tax app for independent contractors period been with them from day one they been awesome",
+      "reply": "Thank you very much for your 5-star review!!!",
+      "replyDate": "2025-01-20T16:21:34.270Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=acc7c086-f97c-48dc-9660-154ba9f12a71"
+    },
+    {
+      "date": "2024-12-20T08:23:32.761Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "Moraima Herrera",
+      "text": "To this day I still have yet to receive my tax return refund it's been 11 months. Perhaps if I only would have been told it would be longer than normal I wouldn't have done it here and still paying $200",
+      "reply": "I'm sorry to hear you haven't received your refund! Please reach out to us via email at support@keepertax.com so we can further assist you with finding out why you haven't received your tax refund.",
+      "replyDate": "2024-12-21T16:44:23.827Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=c1337858-2718-486b-83d6-5f9d58ec1add"
+    },
+    {
+      "date": "2024-11-30T20:18:06.227Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "humanoid21",
+      "text": "Of course you have to pay a ridiculous amount of money to even use the app. Save your money keep your recipients and use a tax specialist. Will be cheaper.",
+      "reply": "Keeper offers a 7-day free trial of our monthly and annual subscriptions, which start at $20/month or $192/annually. Keeper allows for receipt upload, along with automatic deduction detection and tracking, plus the ability to file your taxes with expert review. The Keeper subscription cost is also tax-deductible.",
+      "replyDate": "2024-12-02T14:10:12.214Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=61216df6-2f56-448f-8ce5-caeef1fd406f"
+    },
+    {
+      "date": "2024-11-10T16:12:23.904Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "Tina Giorgione",
+      "text": "I am so frustrated I paid good money for this app and it keeps disconnecting my bank accounts first those PayPal then it was my regular bank this is irritating and I just get excused after excuse instead of it being fixed.",
+      "reply": "We’re sorry to hear you’ve had trouble connecting your accounts to the app. Our support team is here to help! Please reach out to us directly at support@keepertax.com, and we’ll provide personalized assistance to resolve this for you. Thank you!\n\n",
+      "replyDate": "2024-11-12T01:55:11.445Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=8d2878f5-7949-47d1-ab28-6511a41d3e61"
+    },
+    {
+      "date": "2024-11-06T01:18:51.610Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Dakota Isbell",
+      "text": "App does not work, I go to sign in to my bank and get a white screen",
+      "reply": "I'm sorry you encountered an issue linking your bank account to Keeper. Our team should be able to help you resolve this issue. Please reach out via the 'Ask' chat in the Keeper app or email support@keepertax.com for more help.",
+      "replyDate": "2024-11-07T15:49:45.225Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=3659501a-74ca-46e0-8927-a0864032d398"
+    },
+    {
+      "date": "2024-10-30T01:50:14.558Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "RJ.J Nedelec",
+      "text": "my first time and I felt so happy about it, seems so easy to understand.",
+      "reply": "Thank you very much for your feedback!",
+      "replyDate": "2024-10-31T14:00:49.360Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=f9301ce6-a345-4edd-8f65-9e3b645e9b61"
+    },
+    {
+      "date": "2024-10-25T22:56:43.186Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "Countess Jacques",
+      "text": "love this app. As a 1099 worker its sooo handy..",
+      "reply": "Thanks for your love! If you have any questions, please contact us at support@keepertax.com.",
+      "replyDate": "2024-10-31T14:01:41.443Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=d5f5beaf-7d6f-4d0a-b357-61aff6852583"
+    },
+    {
+      "date": "2024-10-22T22:10:30.489Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Justin Pearce",
+      "text": "They steal your money and sign you up for subscriptions that you did not sign up for",
+      "reply": "Hi, Please reach out to our customer support team at support@keepertax.com if you'd like to cancel your subscription and receive a refund. When you sign up for Keeper, there is an option to start a 7-day free trial. After the free trial ends, you will be charged for a Keeper subscription.",
+      "replyDate": "2024-10-24T13:46:27.278Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=62fb17dd-9690-41dc-a91c-0cbbb0b61209"
+    },
+    {
+      "date": "2024-10-18T20:23:42.472Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "Fletch Money",
+      "text": "so far so good",
+      "reply": "Hi, Thank you for letting us know that you are enjoying the Keeper app! Is there something we can do to get 5 stars? Please let us know at support@keepertax.com.",
+      "replyDate": "2024-10-24T13:44:29.519Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=997f286b-b72c-4a87-8d5b-24d67c071022"
+    },
+    {
+      "date": "2024-10-16T02:29:34.650Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Jacqueline Harding",
+      "text": "The best!",
+      "reply": "Thank you for your review!!",
+      "replyDate": "2024-10-24T13:43:13.610Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=3d7e277a-f47b-46ed-b8fc-a8bed8f66868"
+    },
+    {
+      "date": "2024-10-15T23:17:22.515Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "Joshua Klomp",
+      "text": "saved me more than the cost, a win in my book",
+      "reply": "Thank you very much for your 5-star review!",
+      "replyDate": "2024-10-24T13:42:37.182Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=0a24deae-dc45-4a4b-8d34-a750574c80ac"
+    },
+    {
+      "date": "2024-10-10T16:39:04.668Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "d m",
+      "text": "Unprofessional and Unreliable. The operations manager canceled 2 meetings without notice. Later researching found that there are more reasonable priced services then what they offer.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=96375311-046d-4321-a650-4c4d894d70f3"
+    },
+    {
+      "date": "2024-10-10T16:22:37.863Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "simplified consulting services inc.",
+      "text": "Unprofessional and unreliable servive",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=e02142f7-fda8-4cea-bcd4-bc310e8ddc43"
+    },
+    {
+      "date": "2024-10-07T20:49:42.431Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Kay Alvarez",
+      "text": "It's a pay only app. They make you fill out everything and even sync your bank accounts, only for the actual information you need to be hidden behind a pay wall. Would be nice if you're up front about it so you're not wasting people's time.",
+      "reply": "We appreciate your feedback! When you sign up for Keeper, you select one of our subscriptions for a 7-day free trial. You must have a paid subscription to file a tax return or receive a tax deduction export file. We find the price point for our services is very competitive and often much lower than hiring an accountant.",
+      "replyDate": "2024-10-09T14:32:21.141Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=57018274-749c-4916-9d69-a04cc3b48ed0"
+    },
+    {
+      "date": "2024-10-05T12:14:32.860Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Pili Taufa",
+      "text": "if you run a small business and need tax help keeper I'd the way to go.",
+      "reply": "Thank you very much for your 5-star review!!!",
+      "replyDate": "2024-10-09T14:27:57.726Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=36973e14-5c73-4768-92ea-360456780771"
+    },
+    {
+      "date": "2024-10-04T21:43:48.995Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Sinbad Dois",
+      "text": "keep improvement on all the features and upgrades.",
+      "reply": "We're always working hard to improve the app. Thanks for your download and feedback!\n",
+      "replyDate": "2024-10-09T14:27:35.000Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=41dd6fd9-c7d8-4994-a99d-e9fdbb516506"
+    },
+    {
+      "date": "2024-09-08T08:17:03.690Z",
+      "score": 3,
+      "thumbsUp": 7,
+      "user": "Beth Ann Bohun",
+      "text": "I am really liking the idea of this app, however I'm terrified of the pricing at $120 a year just to be a member. there there could still be fees if I can't afford a specific membership. I wish I could afford to subscribe to this app as it facilitates the otherwise overwhelming task of documenting deductions. the whole tax filing process seems less daunting because of the apps' capabilities.",
+      "reply": "Thank you for your feedback! Our annual subscription includes year-round expense detection and deduction tracking, access to our Ask chat feature, and free expert-reviewed federal and state tax filing - no hidden fees! Please reach out to support@keepertax.com or via the Ask chat if you have any questions or additional feedback.",
+      "replyDate": "2024-09-10T17:50:00.443Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=55099504-d655-4826-b608-556eb87ea5d6"
+    },
+    {
+      "date": "2024-09-05T22:46:07.859Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Lady Duke",
+      "text": "My husband is a Partnered Content Creator on Facebook. We have used Keeper Tax for 3 years now. Super simple, it gives you tips and suggestions on what you can write off or not write off based on the type of small business you run! For $170 a year(which includes filing your taxes), you can't beat it! 5 out of 5 ⭐s! I have noticed the app is getting better and more informative each year as well!",
+      "reply": "Hi there! Thank you for your feedback! We are so happy to hear you and your spouse enjoy being a part of Keeper and using our app. Feel free to reach out anytime via the Ask chat in the app or email if you have any tax questions or need assistance. We want to ensure you have the most stress-free tax experience possible!",
+      "replyDate": "2024-09-10T17:52:30.599Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=f8059bfb-94ca-489e-bdd5-e46c2f7212ff"
+    },
+    {
+      "date": "2024-09-05T22:16:24.253Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Tannie Cantrell",
+      "text": "Horrible! I never agreed to usingthe app for taxes as it's too invasive, vague, and not clear as to how they use and continue to use my bank information. I even called the company to confirm that they would not keep my bank info on file. They did not honor my request and kept sending me emails stating how I had spent what money on what. (SEVEN months later) After the cancelation of my bank account due to their infringement of privacy, someone from their office looked me up on linkedin.",
+      "reply": "Security is a top priority at Keeper, and we take it very seriously. We use bank-grade encryption to protect your information; none of your banking credentials are stored on our servers. We are only able to view your transactions. If you have any further concerns, please reach out to support@keepertax.com",
+      "replyDate": "2024-09-10T17:56:35.712Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=7b068bc4-c185-4c84-bc4b-c39c23023cd5"
+    },
+    {
+      "date": "2024-08-28T15:50:50.618Z",
+      "score": 1,
+      "thumbsUp": 10,
+      "user": "ANDREW ANGSTADT",
+      "text": "It is stuck. I have restarted many times and even uninstalled and reinstalled. Every time I open the app it says\"while we wait...\" \"The below details allow you to get an estimate of your tax bill and see exactly how much you're saving with every write-off\". This is followed by phone business use percentage and filing status options. The continue button at the bottom is grayed out and it is stuck on this page.",
+      "reply": "Hi Andrew, Thank you for bringing this to our attention, and I’m sorry to hear about the trouble you’re experiencing with the app. To help resolve this issue, please reach out to us at support@keepertax.com with details about your device and app version. Our support team will review the issue and assist you further!\n",
+      "replyDate": "2024-09-03T19:33:28.635Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=b388928e-c5c2-4de8-876a-5c71331de755"
+    },
+    {
+      "date": "2024-07-16T22:05:00.144Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Matthew Baker (WamzamKablamerstein)",
+      "text": "I really wanted to be able to use this app too but no, they use plaid to verify everything bank account was and plaid doesn't support cash app, so I guess I won't be able to use this app because they won't fix it.",
+      "reply": "Hi there - I'm sorry for the inconvenience, but unfortunately, Cash App is not currently compatible with Plaid, the service Keeper uses to link accounts and track deductions. You can manually add deductions from your Cash App account in the Keeper app and link any other supported accounts you may have.",
+      "replyDate": "2024-07-18T17:56:01.498Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=3b3648f3-b70f-482f-989e-c9b07db4c93a"
+    },
+    {
+      "date": "2024-07-09T18:48:45.459Z",
+      "score": 1,
+      "thumbsUp": 21,
+      "user": "Angeli R.",
+      "text": "I used this service for the previous tax year, I'm currently using it for this tax year, but it may be my last. The only benefit is that it categorizes my purchases easily. But when filling out all my tax forms, they didn't inquire about a lot of things and just filled spaces and checked boxes with assumptions. There were times when I was correcting mistakes that they auto filled in. Lastly, their communication around tax day is awful. I had important questions that were answered days later.",
+      "reply": "Hi, we're sorry to hear about your tax filing experience. It sounds like we were able to successfully file your return after making the requested adjustments. We strive to reply to messages within 3 hours, but during peak periods such as tax day, the response times may be a bit longer. Please reach out via the app if you need any assistance!",
+      "replyDate": "2024-07-10T19:53:07.480Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=a2cbbbb8-7a1f-4791-b64d-035d411cf1d1"
+    },
+    {
+      "date": "2024-07-09T14:19:02.529Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Nonya Bidniz",
+      "text": "So far so good, I run a small consulting business and this really has helped and way cheaper then getting a business account if you don't have complicated business expenses this would be good for you. I also love they help you do your quarterly taxes.",
+      "reply": "Thank you so much for your review! Welcome to Keeper! Feel free to reach out via the app if you have any questions.",
+      "replyDate": "2024-07-10T19:45:08.172Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=f56297ac-6ceb-458b-a16b-bbc6e527bf57"
+    },
+    {
+      "date": "2024-06-21T00:24:43.871Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Let Mo",
+      "text": "Man",
+      "reply": "Thank you for your 5-star review!! We are happy to hear you are enjoying the Keeper app.",
+      "replyDate": "2024-06-25T16:52:10.564Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=47ad6be0-027d-4ca2-91af-51eb86b93c69"
+    },
+    {
+      "date": "2024-06-04T21:10:17.334Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "A Google user",
+      "text": "Hi, has anyone ever had any problems with their checking accounts after downloading this app because 15 min after I did I got a spam text, saying I spent several hundred dollars at target???",
+      "reply": "Hi, I'm sorry to hear about the spam text you received. Keeper takes security very seriously. We do not store your online banking credentials, and Keeper is secured using the same security protocol banks use to ensure that your sensitive personal information is fully protected. Please reach out to support@keepertax.com if you still have concerns.",
+      "replyDate": "2024-06-05T18:58:24.421Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=805503e4-2862-4518-8fb5-ecf6ec7a8c0e"
+    },
+    {
+      "date": "2024-06-04T20:28:51.650Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Christopher Joyner",
+      "text": "easy. quick. efficient. all year round.",
+      "reply": "Thank you very much for your 5-star review!!!",
+      "replyDate": "2024-06-05T18:52:04.130Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=b4bbfea3-3e23-4b2f-b6c9-06a43ba9930d"
+    },
+    {
+      "date": "2024-05-29T15:06:13.511Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Christopher",
+      "text": "It's amazing.So organized",
+      "reply": "Thank you so much for your review!",
+      "replyDate": "2024-06-03T16:06:26.362Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=df0db88c-6813-4af3-8d03-efdbae11bb39"
+    },
+    {
+      "date": "2024-05-24T07:39:02.631Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "El Larry Dixon Iv",
+      "text": "Keeper has been a great help to the Business.",
+      "reply": "Hi there, thank you for taking the time to leave a review. It's great to hear we've been helpful for your business. Don't hesitate to reach out to us if you have any questions or concerns — we're here to help!",
+      "replyDate": "2024-05-28T15:27:52.909Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=3829b0d7-20e5-4716-96b5-8f657d81f39b"
+    },
+    {
+      "date": "2024-05-06T23:28:43.939Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Richard Masson",
+      "text": "Made it so easy!! Love this app!!",
+      "reply": "Thank you so much for your review, Richard. It's fantastic to hear we've made it easy for you and you are loving our app.",
+      "replyDate": "2024-05-13T17:58:48.278Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=d90252f7-aad3-4ece-9d74-6a90ae741d7a"
+    },
+    {
+      "date": "2024-05-05T20:06:11.218Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "N F",
+      "text": "This made my taxes very easy they did try to charge me for another year recently when they were supposed to notify me about the subscription, but I did get the money back... otherwise I'd give em a 5 star, but if I didn't get the money back it would have been a 1 or 2 star... Set a reminder for ur subscription",
+      "reply": "Hi Niki, thank you for sharing your experience. I'm glad to hear that the service made your taxes easier, and it's reassuring that you received your refund. Your feedback is valuable, and we send out subscription email reminders. We apologize that was missed.\n",
+      "replyDate": "2024-05-06T17:07:51.366Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=4482a0da-22f3-4bd3-b246-0026d9c35b56"
+    },
+    {
+      "date": "2024-04-29T19:43:17.480Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Julie",
+      "text": "The Keeper Tax app is a rip-off. After following the steps provided by the app to file my taxes, I was told that I owed the IRS over $2000 dollars. I knew this was incorrect, because I have never owed that much before and I had previously made more money. So, I had my taxes done by a professional and I only owed $302, plus I received a state tax refund. I asked for a full refund from Keeper Tax and was refunded $20. DO NOT USE THIS APP! You will come out cheaper, if you use a professional.",
+      "reply": "Hi Julie, Thank you for sharing this information with us. We want to investigate the issue with your tax return and help resolve your refund request. Please reach out to support@keepertax.com so that we can investigate and assist with resolving your concerns.",
+      "replyDate": "2024-05-01T02:31:05.439Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=199c0119-df1f-4656-8448-19d83f31867f"
+    },
+    {
+      "date": "2024-04-26T14:59:51.703Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "Almir Hasanbegovic",
+      "text": "Pretty decent app, would give it more stars, but major downside is if you cancel your subscription, but paid for the year you HAVE to keep an active subscription to use any of features.",
+      "reply": "Hi Almir, I'm sorry to hear you experienced an issue with not having access to the app after canceling your subscription. Our team will be happy to look into what happened and provide access to your paid subscription. Please reach out to support@keepertax.com.",
+      "replyDate": "2024-04-29T15:17:02.131Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=09682de4-f018-4065-8b08-76b9a7b8f8ce"
+    },
+    {
+      "date": "2024-04-23T12:52:11.997Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Tracey Foley III",
+      "text": "It's a very user-friendly platform for self-employed/gig economy works.",
+      "reply": "Hi Tracey, thank you very much for your feedback and we're glad to hear our platform was user-friendly.",
+      "replyDate": "2024-04-24T19:48:25.720Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=4045f52c-91e8-4351-bc44-9a3c5906b498"
+    },
+    {
+      "date": "2024-04-21T10:33:58.494Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Isaiah Harris",
+      "text": "really fast and simple and made filing for a self owned business easy and even beneficial! Just wish the subscription wasn't so much!",
+      "reply": "Thank you so much for your review, Isaiah. We're happy the process was fast and simple.",
+      "replyDate": "2024-04-24T19:47:50.965Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=e808dc3e-5bc5-49df-b89c-32c46b2fa3e5"
+    },
+    {
+      "date": "2024-04-18T21:07:28.605Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Brandon Behnk",
+      "text": "Accidentally linked an account twice. Removed the duplicate account, and all of the duplicate transactions remained on my balance sheet! Completely ruined my workflow as i had to sort through everything. They said i had to manually delete all duplicate transactions",
+      "reply": "Hi Brandon, I'm sorry to hear about the issue you experienced. Please don't hesitate to reach out to support@keepertax.com if you still need assistance with this. Starting with a new Keeper account and freshly linking your accounts to the app may be a solution for you.",
+      "replyDate": "2024-04-22T16:50:56.590Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=7cd493d3-71e9-4ca3-91c9-cfdb70ceec9f"
+    },
+    {
+      "date": "2024-04-17T18:23:34.944Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Vanessa Madrid",
+      "text": "Love it!!!",
+      "reply": "Thanks for your love, Vanessa. If you have any questions, please contact us at support@keepertax.com.",
+      "replyDate": "2024-04-24T19:14:35.902Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=2c31c8b9-5b7c-4566-991f-f656b9a9ad76"
+    },
+    {
+      "date": "2024-04-16T18:01:32.838Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "S B",
+      "text": "easy easy easy",
+      "reply": "Thank you so much for your review, S B!",
+      "replyDate": "2024-04-24T19:14:15.536Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=ec0a0320-4ac6-4272-9377-d948f0552e3c"
+    },
+    {
+      "date": "2024-04-16T17:39:46.935Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Ashley Motea Hawthorne",
+      "text": "1st timer doing it myself. this makes it easier.will continue using.",
+      "reply": "Hi Ashley, we are pleased that you enjoyed the app.",
+      "replyDate": "2024-04-24T19:11:24.919Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=181b66ef-41bb-4053-a939-a53501455955"
+    },
+    {
+      "date": "2024-04-16T16:12:24.176Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Brian",
+      "text": "!!DO NOT USE!!I originally signed up for the 7day free trial. You guys made it to where you can't actually file if you have the 7day trial. So I go to the screen after trying to submit the taxes, and it says $192 yearly with \"$16/mo\" highlighted in green. I guess to trick people into thinking you are subscribed to the $16 a month plan. Now, when I try to cancel the subscription plan, you magically have a $22/mo plan....even with the $22/mo plan. People still can't submit taxes with the $22/mo",
+      "reply": "Hi Brian, to file taxes with us, an annual membership is required. We strive to clearly state this during signup when you start your trial. The $16/mo refers to the annual plan's monthly equivalent to help illustrate the cost breakdown. The $20/mo plan is a different subscription tier. The annual plan must be fully active to file taxes.",
+      "replyDate": "2024-04-24T19:03:22.818Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=8e00089f-332f-42e6-b9fc-a7a22868aa45"
+    },
+    {
+      "date": "2024-04-16T07:17:20.359Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Scott Crider",
+      "text": "I'm Happy with my experience with them...",
+      "reply": "Hi Scott! We're glad to hear that you had a positive experience with us! If there's anything more we can do to enhance your experience or if you have any suggestions for improvement, please feel free to let us know!",
+      "replyDate": "2024-04-24T17:09:23.260Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=770394fc-cc20-4f33-b955-5f16be3d36c1"
+    },
+    {
+      "date": "2024-04-16T02:37:05.432Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Asher Howerton",
+      "text": "Very Easy to Use and Honestly a real Life saver! I am so grateful to have this app!!!",
+      "reply": "Hi Asher! Making tax management easy and accessible is our goal, and knowing that it's been helpful to you is incredibly rewarding. Thank you for your kind words and for choosing our app. If you ever need assistance in the future, we're here to help!",
+      "replyDate": "2024-04-24T17:08:46.416Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=522dc0be-9fc5-478b-bb31-ab45c9dcbaea"
+    },
+    {
+      "date": "2024-04-15T23:00:08.252Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Brian Knoblich",
+      "text": "without this app. I would probably owe taxes instead of getting some back. I really help find the little things that are easy to miss.",
+      "reply": "Hi Brian! We're delighted to have been able to assist you in finding those often overlooked deductions! If you ever have more questions or need further assistance, we're here to help. Thank you for choosing Keeper!",
+      "replyDate": "2024-04-24T17:07:58.617Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=598a6f0c-9c60-4497-84dc-8969071f7867"
+    },
+    {
+      "date": "2024-04-15T18:22:12.919Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Ryan Melton",
+      "text": "Very fast and comprehensive service! Managing my deductions for the year definitely paid off!",
+      "reply": "Thank you for your kind words! We're thrilled to hear that our service met your expectations and helped you maximize your deductions for the year! We appreciate your support!",
+      "replyDate": "2024-04-24T17:06:03.331Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=027a5019-f8ef-4113-9646-554281fc30c0"
+    },
+    {
+      "date": "2024-04-15T15:11:34.446Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Mikel Gabriel",
+      "text": "They messed up my taxes by inputting my w2 twice, and now I'm owing taxes for their mistake",
+      "reply": "Hi Mikel, we're sorry to hear that and we would love to take a look at the issue and help you resolve it. Please reach out to our customer support team at support@keepertax.com.",
+      "replyDate": "2024-04-22T16:53:30.412Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=8401c1f9-3407-4138-b85f-2e9c9b2b1819"
+    },
+    {
+      "date": "2024-04-15T11:17:42.425Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Lydia Wells",
+      "text": "It is too early to tell, but I'm hopeful. Update: ♡ I love this app. It was so easy to use and I I highly recommend it. 👌",
+      "reply": "We are pleased that you enjoyed the app. If there is anything we can do for you, just let us know at support@keepertax.com!\n",
+      "replyDate": "2024-04-15T02:22:28.611Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=ef775187-334d-478b-a09f-efac9320d241"
+    },
+    {
+      "date": "2024-04-14T23:54:36.511Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "sterling williams",
+      "text": "pretty good for my first time file I should have it straight next year",
+      "reply": "Hi Sterling! Thank you for your feedback! We are delighted that we were able to help you successfully file your tax return. Please reach out at support@keepertax.com or via the app if you have any questions or need additional assistance.",
+      "replyDate": "2024-04-15T02:09:35.654Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=ed6a147b-01d7-4849-9fe2-d92c797f66ab"
+    },
+    {
+      "date": "2024-04-14T10:04:41.664Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Drago J.",
+      "text": "Fast, reliable, accurate and easy to use software, simply love it! Affordable for small businesses",
+      "reply": "Thank you for the 5-star review!",
+      "replyDate": "2024-04-15T02:10:18.468Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=0cdc5ef7-29e0-4461-a7df-db51730b6cc7"
+    },
+    {
+      "date": "2024-04-13T23:11:57.780Z",
+      "score": 1,
+      "thumbsUp": 20,
+      "user": "Ahaleiciah Weissenfluh",
+      "text": "If you have 1099 forms, don't bother with Keeper. They claimed they do them, then went months not bothering helping while saying they were there to help. I finally got a message stating I could request a partial refund on my subscription and was told I'd be hearing from billing. Then a message denying it because it's past the 60 days from signing up. It's not worth the hassle or run around you get. I wish I could give less then a star, but obviously not an option. Lol.",
+      "reply": "Hi, we'd be happy to see what happened with your account. Please contact us at support@keepertax.com. One of the areas we specialize in is reporting 1099 income. It sounds like you may have experienced an issue with uploading your 1099 form. Please reach out to our support team via email or the app so we can further assist you.",
+      "replyDate": "2024-04-15T02:20:07.338Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=ff811835-7975-4081-b0b7-a23ee35a1ca0"
+    },
+    {
+      "date": "2024-04-13T17:30:48.810Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Ben Beckett",
+      "text": "Received Money back, instead of owing, first time in Years!",
+      "reply": "Fantastic! Thank you for sharing your feedback!!",
+      "replyDate": "2024-04-15T02:20:34.140Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=c5a0f56a-90a9-49a6-8b83-094ff4d8a4c4"
+    },
+    {
+      "date": "2024-04-13T15:49:54.592Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Jenn Lee",
+      "text": "So effortless",
+      "reply": "Hi, thank you very much for your feedback.",
+      "replyDate": "2024-04-15T02:20:45.669Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=2b6496a8-1839-4958-b608-93752f1b77c5"
+    },
+    {
+      "date": "2024-04-13T15:30:45.119Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Ann Spivey",
+      "text": "this app is so worth it! TurboTax wanted to charge me $200 because I had multiple W2s and 1099s, Tax Slayer is good but I was out of my depth and didn't know how to answer what they asked me. Keeper Tax already had a record of everything I could write off, made it so simple, and they review your return before submitting it. I'm very happy.",
+      "reply": "Thank you very much for your 5-star review!!! Welcome to Keeper! We look forward to assisting you with all your expense tracking and tax filing needs. Feel free to reach out anytime you need assistance.",
+      "replyDate": "2024-04-15T02:22:07.190Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=7b2945b1-1dbf-4f03-a0fc-b8b8be50d040"
+    },
+    {
+      "date": "2024-04-12T22:27:48.670Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "gj “Barry”",
+      "text": "the best and so easy",
+      "reply": "Thank you for your feedback!!",
+      "replyDate": "2024-04-15T02:22:54.393Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=c493b700-dcd0-4fb2-b19b-af8e434ac4f8"
+    },
+    {
+      "date": "2024-04-12T15:51:12.456Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "EJE International Hair",
+      "text": "It was good until AI took over",
+      "reply": "Thank you for your feedback! We utilize an AI assistant in our app to help deliver high-quality answers to tax questions, You are able to @ your tax assistant at any time to chat with a tax professional. Our AI features are backed up by a team of tax professionals who are available via chat and email to answer your questions.",
+      "replyDate": "2024-04-15T02:26:42.526Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=27995f51-7de1-4b45-b3c3-e8fc44a62d9e"
+    },
+    {
+      "date": "2024-04-11T23:49:04.832Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Simon Manning",
+      "text": "A great tool for the self employed!",
+      "reply": "Thank you very much for your 5-star review!!!",
+      "replyDate": "2024-05-01T06:01:04.213Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=48740198-fbd4-427a-aeae-e3299f5fe8e4"
+    },
+    {
+      "date": "2024-04-11T22:48:12.970Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Chase Schletty",
+      "text": "This app made the process very simple! I'll definitely be renewing next year.",
+      "reply": "We are pleased that you enjoyed the app and thrilled you'll be with us next year. Thanks, Chase!",
+      "replyDate": "2024-05-01T06:01:39.611Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=fe6975af-2354-42cb-8bb9-f1ea5ef59cf8"
+    },
+    {
+      "date": "2024-04-11T04:44:26.165Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "LISA Garvin",
+      "text": "I hope they will delete my info and unlink from my bank accounts.",
+      "reply": "Hi, we'd love to help you. Please write to support@keepertax.com and our team will help resolve your request. You can also choose to delete your account from the Account settings in the Keeper app.",
+      "replyDate": "2024-04-15T02:11:32.890Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=0631a651-3c87-4eb7-a356-41f0ca08ffd0"
+    },
+    {
+      "date": "2024-04-11T03:41:48.252Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "DULOWISCKI Dotcom",
+      "text": "very easy ans helpful to get my taxes done",
+      "reply": "Thank you so much for your review!",
+      "replyDate": "2024-04-15T02:11:45.370Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=1fa084f8-decc-4af1-b2d9-e8930349fe68"
+    },
+    {
+      "date": "2024-04-11T02:25:03.517Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Catrece Ann Tipon",
+      "text": "Very straightforward app.",
+      "reply": "Hi, thank you very much for your feedback.",
+      "replyDate": "2024-04-15T02:12:06.313Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=039a3236-746c-49b8-ae35-6e47a07e1ef2"
+    },
+    {
+      "date": "2024-04-09T23:26:57.170Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Izzie Lavender",
+      "text": "Honestly I'm never going to an accountant again. This is honestly so much easier to keep track of my expenses. The app is user friendly and totally worth it.",
+      "reply": "Thank you very much for your 5-star review!!!",
+      "replyDate": "2024-04-15T02:12:25.810Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=9f2d46bb-b7bc-4d53-b649-b8b213eae9b5"
+    },
+    {
+      "date": "2024-04-08T01:56:59.728Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "WOLFTICK VIDEOS",
+      "text": "easy and keeps track!",
+      "reply": "We are pleased that you enjoyed the app. If there is anything we can do for you, just let us know at support@keepertax.com!",
+      "replyDate": "2024-04-15T02:12:52.850Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=fdd6421c-26d3-49b4-bc97-3f1025f2dfde"
+    },
+    {
+      "date": "2024-04-05T23:24:28.262Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "DShowseattle",
+      "text": "Great for deliver drivers #gig #colekickin it",
+      "reply": "It is delightful to hear such positive words and it’s always a pleasure to serve our users.",
+      "replyDate": "2024-04-15T02:13:09.110Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=46065644-e9b4-4890-a427-38e21918597d"
+    },
+    {
+      "date": "2024-04-05T12:46:59.875Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Prince Amanor",
+      "text": "This company does not help you file your taxes. They trick you into all this, saying you get to file free tax returns. Now I see why it's free. You get all the way through to the end and it say it can't verify your identity, interesting.",
+      "reply": "Hi Prince, To meet IRS requirements, we are required to verify the identity of users who file tax returns with Keeper. Please reach out via the app or to support@keepertax.com so our team can further assist you with verifying your identity.",
+      "replyDate": "2024-04-15T02:16:53.150Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=ce5f37d6-5c14-4c69-8e39-f63d73986f88"
+    },
+    {
+      "date": "2024-04-04T01:34:24.445Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Austin McNeir",
+      "text": "this is an excellent app for self employed 1099 ers.",
+      "reply": "Thanks, Austin. We appreciate your review!",
+      "replyDate": "2024-05-01T06:02:52.798Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=effb31f6-b73e-4307-9d52-af68ae9ae5b6"
+    },
+    {
+      "date": "2024-04-03T21:52:48.319Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Yoseline Lopez-Mejia",
+      "text": "easy, and best returns",
+      "reply": "Thanks, Yoseline!",
+      "replyDate": "2024-05-01T06:02:21.823Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=0af0d641-4b82-435f-8a27-15bf7a482854"
+    },
+    {
+      "date": "2024-04-02T15:11:36.377Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Naomi Sumler",
+      "text": "very easy and simple to use. They take care of everything for you and are always around for help in an efficient amount of time.",
+      "reply": "Thank you so much for your review! We're glad you found our app easy and simple.",
+      "replyDate": "2024-05-01T06:02:10.410Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=abb2b457-6534-484e-9016-c2be704df2c9"
+    },
+    {
+      "date": "2024-04-01T20:11:12.785Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Elydé Arroyo",
+      "text": "easy to navigate, clear large buttons",
+      "reply": "Hi Eldye, we're glad to hear that you found our app easy to navigate! Thank you for sharing your positive experience! If you have any further feedback or questions, feel free to reach out to us at support@keepertax.com. Thank you again for your support!",
+      "replyDate": "2024-04-01T22:13:23.763Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=5a575b9e-9143-4d0b-b932-70ff013e5edd"
+    },
+    {
+      "date": "2024-04-01T19:36:11.957Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Amanda S",
+      "text": "love this app. is an all in one tax preparation and I can keep track of my spending. would recommend.",
+      "reply": "Hi Amanda, thank you for your 5-star review! We're thrilled to hear that you love our app and find it helpful for tax preparation and expense tracking. Your recommendation means a lot to us!",
+      "replyDate": "2024-04-01T22:12:08.814Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=cf9cb61a-de92-4d9f-922b-41b8b7878198"
+    },
+    {
+      "date": "2024-03-30T05:41:52.531Z",
+      "score": 1,
+      "thumbsUp": 32,
+      "user": "Nidhogg Guerra",
+      "text": "It's incredible to me that Keeper straight up denies you from looking at your estimated tax return after all that filing if you're trying to process it via desktop. The desktop side of their service is extremely bare bones and nearly non-functional, forcing you to try out their app. And the fact they force you to put in your bank information and ask for payment upfront first before even letting you do anything is very concerning.",
+      "reply": "Hi Nidhogg, we're sorry to hear about the challenges you encountered while using our desktop version. To address your concerns and provide you with the support you need, we encourage you to reach out to us at support@keepertax.com. We can assist you with accessing your estimated return and resolving any issues and concerns you're experiencing!\n",
+      "replyDate": "2024-04-01T22:11:16.165Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=e2474c16-f5df-473a-9ca8-addc7a821b2b"
+    },
+    {
+      "date": "2024-03-29T22:32:51.758Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Andrew Hawkins",
+      "text": "quick and easy",
+      "reply": "Hi Andrew! Thank you for sharing your experience! We're thrilled to hear that using Keeper was a quick and easy process for you. If you have any further feedback or need assistance, please don't hesitate to reach out. We're here to support you every step of the way!\n\n\n",
+      "replyDate": "2024-04-01T22:04:53.694Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=f7d77864-e31f-4e92-919e-a3bae7153aec"
+    },
+    {
+      "date": "2024-03-29T15:34:14.249Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Rita Radar (theritaradar)",
+      "text": "it was fast and easy",
+      "reply": "Hi Penny! Thank you for your positive feedback! We're glad to hear that you found Keeper fast and easy to use. If you have any questions or need assistance in the future please let us know. We appreciate your support!",
+      "replyDate": "2024-04-01T22:04:11.433Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=27e9d45f-a344-4462-b8d2-c49a274310ca"
+    },
+    {
+      "date": "2024-03-28T02:05:18.830Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Nicole Creal",
+      "text": "Love Keeper. It's fast and easy to use even when it's time to file. I highly recommend.",
+      "reply": "Hey Nicole, thank you for your fantastic review! We're thrilled to hear that you love using Keeper and find it fast and easy. Your recommendation means a lot to us. If you ever need further assistance or have any questions, don't hesitate to reach out. We're here to help!",
+      "replyDate": "2024-04-01T22:02:45.326Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=140dff33-98a7-4fba-83fe-96a2c84f5fc5"
+    },
+    {
+      "date": "2024-03-28T00:30:44.670Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Jim Jam",
+      "text": "So much easier than Turbo Tax. I had used keeper for half the year and it tracked everything before I started using it. I'm stress free right now. Couldn't be happier",
+      "reply": "Hi Jim! Thank you for your 5-star review! We're delighted to hear that Keeper has provided you with an easier, stress free alternative. If you ever need assistance or have any questions, please feel free to reach out.",
+      "replyDate": "2024-04-01T22:02:02.368Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=8fabc100-0e2a-485f-950a-cf874ffa4f56"
+    },
+    {
+      "date": "2024-03-20T17:45:21.325Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "J Elliot",
+      "text": "This is an amazing app for independent artists.",
+      "reply": "Hi J Elliot, we're thrilled to hear that you find our app amazing for independent artists.",
+      "replyDate": "2024-03-26T17:07:18.450Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=ab4bb4f6-0ade-40f0-8585-12fbf6d7ebe7"
+    },
+    {
+      "date": "2024-03-19T00:16:06.574Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Shawntay Pritchett",
+      "text": "Not user friendly I gave up trying to file my micro business taxes due to aggravating interface. Unsubscribing & deleting asap",
+      "reply": "Hi Shawntay, we're sorry to hear and we would love to take a look at the issue. Please reach out to our customer support team at support@keepertax.com. We also sent you an email which and would love to learn more and offer more support.",
+      "replyDate": "2024-03-26T17:04:07.365Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=189a5b78-0c58-41d4-a7a7-1b53c8d49d4b"
+    },
+    {
+      "date": "2024-03-19T00:12:31.940Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Chalra Hayes",
+      "text": "I just love how Keeper helps me stay on top of all or most of my finances.",
+      "reply": "Thank you so much for your review, Chalra!",
+      "replyDate": "2024-03-26T17:06:36.497Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=1851b2c9-f946-4f6c-b335-cf07a69e11cf"
+    },
+    {
+      "date": "2024-03-18T09:23:38.609Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Moe Bacon Films",
+      "text": "Deleted all my info included past returns..... i thought this was a great tool until that happened",
+      "reply": "Hi Moe, we would like to understand what happened? Please contact our support team for immediate assistance. We would like the opportunity to investigate this matter and understand what went wrong. We value your feedback and are dedicated to regaining your trust in our service.",
+      "replyDate": "2024-03-18T18:27:37.361Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=bbbb0041-69ce-42f5-8d6a-e532233b0ed6"
+    },
+    {
+      "date": "2024-03-16T07:34:45.511Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Marcus Underwood",
+      "text": "Waste of space and time",
+      "reply": "Hi Roman, can you tell us why you don't like the app so that we can improve it. Let us know by writing to us at support@keepertax.com.",
+      "replyDate": "2024-03-18T15:33:47.603Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=7f73186f-efc1-47ae-af8e-349c704078a9"
+    },
+    {
+      "date": "2024-03-14T20:47:21.401Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Jamie Durrant",
+      "text": "easy filing process, but connecting my bank was harder this year than previously.",
+      "reply": "Hi Jamie, we glad to hear filing was easy and we understand this can be frustrating. We are always working towards making linking banks better. We would appreciate it if you could send us the details at support@keepertax.com.",
+      "replyDate": "2024-03-18T15:33:33.256Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=9ea42af4-ade4-4ee4-ac2e-11d17278dd15"
+    },
+    {
+      "date": "2024-03-13T12:45:11.482Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Addan Fox",
+      "text": "Everything went smoothly.. I loved doing my taxes. I would recommend them to anyone.",
+      "reply": "Hi Addan, we're so happy to hear your taxes went smoothly. Thank you for the support and recommendation!",
+      "replyDate": "2024-03-18T15:32:21.700Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=7be40c33-271d-4bc9-8f69-e87f2f6faf34"
+    },
+    {
+      "date": "2024-03-12T23:46:11.562Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Tammy Murphy",
+      "text": "so easy to file",
+      "reply": "Hi Tammy, we're always working hard to improve the app. Thanks for your download and feedback.\n",
+      "replyDate": "2024-03-18T15:29:48.555Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=5a4db2ef-4282-4415-8144-e144a862fb08"
+    },
+    {
+      "date": "2024-03-12T19:55:54.858Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "D",
+      "text": "this app stole from me signed me up for a annual subscription. i did not choose any premium i want a refund asap and filing a dispute with my bank",
+      "reply": "Hi, we'd be happy to see what happened with your account. Please contact us at support@keepertax.com.",
+      "replyDate": "2024-03-18T15:29:31.821Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=81e8a040-6466-447e-b2fa-d41ead37af49"
+    },
+    {
+      "date": "2024-03-11T04:58:40.902Z",
+      "score": 1,
+      "thumbsUp": 13,
+      "user": "Donovan Smoot",
+      "text": "Might update this review if changes made, this app has too many UX/CX cons. CONS: -Desktop features are severely restricted/non-existent. No one one wants to do tax stuff from a 5.8in screen and uploading documents. -Having to complete sign up via the app instead of persisting through desktop -No manual option for connecting bank (at least in the trial) -The trial is essentially useless if people can't experience the core features & you can ONLY subscribe though the app, which is stupid.",
+      "reply": "Hi Donovan, thank you for your feedback. We apologize for any inconvenience with our app's UX/CX. You can file taxes via our desktop; however, account setup requires app sign-in. We use Plaid for bank linking but manual expense addition is possible for unsupported banks. Please reach out to us via app or email so we can further assist!",
+      "replyDate": "2024-03-18T15:28:53.448Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=a5a1301a-cf50-4298-9bae-af88617c339d"
+    },
+    {
+      "date": "2024-03-10T19:03:26.910Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Jesse Nowak",
+      "text": "Terrible, all they do is charge you even when they advertise a trial period. Just wanted to log in to get a copy of my last years return I filled with them and they charged me 20 bucks mind you I still don't have what I need. Keeper makes TurboTax look great.",
+      "reply": "Hi Jesse, we're so sorry to hear you had trouble getting a copy of your return. We're more than happy to provide you with a copy of your tax return and refund you the monthly charge. Please email support@keepertax.com so we can assist you right away. Let me know we sent you from the app store!",
+      "replyDate": "2024-03-18T15:01:50.113Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=e79094bb-0a04-487b-acf0-350f25a2d1f1"
+    },
+    {
+      "date": "2024-03-09T20:15:15.783Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Tylisha Rivera",
+      "text": "been using keeper for like two or three years no problems",
+      "reply": "Hi Tylisha, thank you for being a long time user! Let us know if you have any questions, we're here to help!\n",
+      "replyDate": "2024-03-18T14:56:07.620Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=9adef78e-59b5-4359-a4db-f04780a2d1ca"
+    },
+    {
+      "date": "2024-03-09T18:29:21.950Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Manny Garza",
+      "text": "awesome service, exceptionally ready to use",
+      "reply": "Hi Manny, thank you very much for your feedback.",
+      "replyDate": "2024-03-18T14:54:16.985Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=88490b48-97a3-4aa0-83c3-7ffd5ff0a152"
+    },
+    {
+      "date": "2024-03-08T21:05:20.800Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Katana Feecha",
+      "text": "app is worth the price it makes keeping track of receipts so much easier",
+      "reply": "Thank you very much for your 5-star review, Katana!!!",
+      "replyDate": "2024-03-18T07:46:03.371Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=25d5b7c3-3e88-4749-8562-159f3b9ae44e"
+    },
+    {
+      "date": "2024-03-08T16:31:46.381Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "Michael Hennes",
+      "text": "This app is exceptionally user-friendly, particularly for individuals with intricate tax situations. Having experimented with various alternatives, including TurboTax, I can confidently assert that this app and online software stands out as remarkably intuitive and straightforward to comprehend.",
+      "reply": "Hi Michael, we're delighted to hear that you find our app exceptionally user-friendly. It's great to know that after trying different options, you find our app and online software to be intuitive and easy to understand. We strive to provide a seamless experience for our users, and we're glad we could meet your needs.",
+      "replyDate": "2024-03-18T07:45:46.237Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=d74a78dc-3f92-4506-bfa8-a8493651aa37"
+    },
+    {
+      "date": "2024-03-05T19:31:57.706Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Rosie Miller",
+      "text": "This was an extremely easy process. the employees are super helpful.",
+      "reply": "Hi Rosie, it is delightful to hear such positive words and it’s always a pleasure to serve our users.",
+      "replyDate": "2024-03-18T07:44:24.354Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=dccb7848-9fce-47e5-9105-9b21be1e1363"
+    },
+    {
+      "date": "2024-03-05T08:00:01.341Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Kieve Flinn",
+      "text": "Amazing app!",
+      "reply": "Glad you like it! :)",
+      "replyDate": "2024-03-18T07:44:00.127Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=1149e046-2a7a-4bf0-991d-075e1a3cb917"
+    },
+    {
+      "date": "2024-03-02T16:53:30.428Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Jashawna Washington (Miss Wolfina)",
+      "text": "absolutely love it. it's amazing",
+      "reply": "Thank you so much for your review!",
+      "replyDate": "2024-03-18T07:43:52.617Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=e6a164bc-b89f-40fd-9982-50a697ce78ca"
+    },
+    {
+      "date": "2024-03-02T02:05:49.679Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "RedSkyzzGG",
+      "text": "Absolute trash. Forces app download then tries to force you to put credit card or bank account info. Won't let skip. Scam alert.",
+      "reply": "The reason we require card information is that you will be charged for the membership after your trial period. As a quick tip, you can cancel before the trial ends to avoid any charges. If you have any future questions or need assistance, please feel free to contact us at support@keepertax.com.",
+      "replyDate": "2024-03-18T07:43:48.312Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=cf546b2d-8791-4297-8d79-e6a459d23879"
+    },
+    {
+      "date": "2024-03-02T01:26:40.270Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Dreame Eiko",
+      "text": "it was pretty fast and easy",
+      "reply": "Hi Dreame, it is delightful to hear such positive words and it’s always a pleasure to serve our users.",
+      "replyDate": "2024-03-18T07:41:34.844Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=ffb8ad44-de8d-4655-ad4b-8e8b3574ebc3"
+    },
+    {
+      "date": "2024-03-01T23:51:46.603Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "O J",
+      "text": "Game Changer. I dont want to file taxes any other way. Ive tried all the majors and this was by far the easiest and most informative. Especially for a new business owner.",
+      "reply": "Hi Allison, we're thrilled to hear that you found our service to be a game changer and that it was the easiest and most informative option for you, especially as a new business owner. We're here to make tax filing as seamless as possible, and we're glad we could achieve that for you.",
+      "replyDate": "2024-03-18T07:41:15.930Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=7155a421-1c1f-4c4a-bf91-16fcf0c6fec6"
+    },
+    {
+      "date": "2024-03-01T03:44:32.570Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Roz Rodriguez",
+      "text": "excellent service",
+      "reply": "Thanks a lot for your rating, Rosalind.",
+      "replyDate": "2024-03-01T19:58:26.203Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=ba010e67-6476-4411-bdf9-f9cac1ea440b"
+    },
+    {
+      "date": "2024-02-29T22:25:30.767Z",
+      "score": 5,
+      "thumbsUp": 26,
+      "user": "Melissa Garcia",
+      "text": "so far so good. This app actually went through the whole year and saves a lot of work for me. I have my own pet business , so things like gas and anything related to pets and my business was automatically added up. Things that were personal, such as grocery shopping etc. We're not added. These are things that I would have had to do on my own and things I may have missed. This app is definitely a keeper. Anyone who has their own small business should do it!",
+      "reply": "Hi Melissa, I'm glad to hear that the app has been a positive experience for you so far, especially in streamlining the process of tracking expenses for your pet business. It's great that we're saving you time and effort. Thank you for sharing your recommendation for other small business owners!",
+      "replyDate": "2024-03-01T20:03:16.497Z",
+      "url": "https://play.google.com/store/apps/details?id=com.keepertax&reviewId=0cf1f490-5277-4bc9-90dc-2e9dba134aea"
+    }
+  ]
+}

@@ -1,0 +1,1040 @@
+{
+  "found": {
+    "us_Solo gig business app": [
+      {
+        "appId": "com.paveapp",
+        "title": "Solo: Your Gig Business App"
+      },
+      {
+        "appId": "com.gridwise.app",
+        "title": "Gridwise: Gig Driver Assistant"
+      },
+      {
+        "appId": "com.instaworkmobile",
+        "title": "Instawork: Be your own boss"
+      },
+      {
+        "appId": "com.doordash.driverapp",
+        "title": "DoorDash - Dasher",
+        "score": 3.2266667,
+        "scoreText": "3.2"
+      },
+      {
+        "appId": "com.solofunds",
+        "title": "SoLo Funds: Lend & Borrow"
+      }
+    ],
+    "us_Stride mileage tax": [
+      {
+        "appId": "com.stridehealth.drive",
+        "title": "Stride: Mileage & Tax Tracker",
+        "score": 0,
+        "scoreText": "0.0"
+      },
+      {
+        "appId": "com.driversnote.driversnote",
+        "title": "Mileage Tracker by Driversnote",
+        "score": 4.2369943,
+        "scoreText": "4.2"
+      },
+      {
+        "appId": "com.everlance",
+        "title": "Mileage Tracker Log: Everlance"
+      },
+      {
+        "appId": "com.lgl.stride",
+        "title": "Stride: Fun Fitness Motivation",
+        "score": 3.0307693,
+        "scoreText": "3.0"
+      },
+      {
+        "appId": "com.mobiledatalabs.mileiq",
+        "title": "Mileage Tracker & Log - MileIQ"
+      }
+    ],
+    "us_Hurdlr mileage tracker": [
+      {
+        "appId": "app.hurdlr.com",
+        "title": "Hurdlr: Mileage, Expense & Tax"
+      },
+      {
+        "appId": "com.driversnote.driversnote",
+        "title": "Mileage Tracker by Driversnote",
+        "score": 4.2369943,
+        "scoreText": "4.2"
+      },
+      {
+        "appId": "com.stridehealth.drive",
+        "title": "Stride: Mileage & Tax Tracker",
+        "score": 0,
+        "scoreText": "0.0"
+      },
+      {
+        "appId": "com.everlance",
+        "title": "Mileage Tracker Log: Everlance"
+      },
+      {
+        "appId": "com.mileagewise.mileagewiseonline",
+        "title": "Mileage Tracker by MileageWise"
+      }
+    ],
+    "us_Gridwise gig driver": [
+      {
+        "appId": "com.gridwise.app",
+        "title": "Gridwise: Gig Driver Assistant"
+      },
+      {
+        "appId": "com.roadie.drive.android.app",
+        "title": "Roadie Driver"
+      },
+      {
+        "appId": "com.ubercab.driver",
+        "title": "Uber - Driver: Drive & Deliver",
+        "score": 3.9895616,
+        "scoreText": "4.0"
+      },
+      {
+        "appId": "com.doordash.driverapp",
+        "title": "DoorDash - Dasher",
+        "score": 3.2266667,
+        "scoreText": "3.2"
+      },
+      {
+        "appId": "com.grabtaxi.driver2",
+        "title": "Grab Driver: App for Partners",
+        "score": 3.74,
+        "scoreText": "3.7"
+      }
+    ],
+    "us_Para gig worker": [
+      {
+        "appId": "com.gigsmart.worker",
+        "title": "GigSmart Get Gigs"
+      },
+      {
+        "appId": "com.gridwise.app",
+        "title": "Gridwise: Gig Driver Assistant"
+      },
+      {
+        "appId": "com.paveapp",
+        "title": "Solo: Your Gig Business App"
+      },
+      {
+        "appId": "com.instaworkmobile",
+        "title": "Instawork: Be your own boss"
+      },
+      {
+        "appId": "com.skipcart.app.mobile.prod",
+        "title": "Skipcart: Deliver & Earn Money"
+      }
+    ],
+    "us_TripLog mileage": [
+      {
+        "appId": "com.bizlog.triplog",
+        "title": "Mileage Tracker App by TripLog",
+        "score": 4.451613,
+        "scoreText": "4.5"
+      },
+      {
+        "appId": "pl.gswierczynski.motolog",
+        "title": "Mileage Tracker & Vehicle Log",
+        "score": 4.41,
+        "scoreText": "4.4"
+      },
+      {
+        "appId": "com.driversnote.driversnote",
+        "title": "Mileage Tracker by Driversnote",
+        "score": 4.2369943,
+        "scoreText": "4.2"
+      },
+      {
+        "appId": "com.mileagewise.mileagewiseonline",
+        "title": "Mileage Tracker by MileageWise"
+      },
+      {
+        "appId": "ee.prey.triplog",
+        "title": "Vehicle Trip Logbook Tracker",
+        "score": 4.5873017,
+        "scoreText": "4.6"
+      }
+    ],
+    "us_MileIQ": [
+      {
+        "appId": "com.mobiledatalabs.mileiq",
+        "title": "Mileage Tracker & Log - MileIQ"
+      },
+      {
+        "appId": "com.mileagewise.mileagewiseonline",
+        "title": "Mileage Tracker by MileageWise"
+      },
+      {
+        "appId": "com.everlance",
+        "title": "Mileage Tracker Log: Everlance"
+      },
+      {
+        "appId": "com.mileagewise.timelineapp",
+        "title": "Mileage Log from Google Maps"
+      },
+      {
+        "appId": "com.bizlog.triplog",
+        "title": "Mileage Tracker App by TripLog",
+        "score": 4.451613,
+        "scoreText": "4.5"
+      }
+    ],
+    "us_QuickBooks Self Employed": [
+      {
+        "appId": "com.intuit.quickbooks",
+        "title": "Intuit QuickBooks for Business",
+        "score": 4.09375,
+        "scoreText": "4.1"
+      },
+      {
+        "appId": "com.intuit.qbse",
+        "title": "QBSE",
+        "score": 0,
+        "scoreText": "0.0"
+      },
+      {
+        "appId": "com.tsheets.android.hammerhead",
+        "title": "QuickBooks Workforce",
+        "score": 3.4615386,
+        "scoreText": "3.5"
+      },
+      {
+        "appId": "com.tsheets.android.catshark",
+        "title": "QuickBooks Time Kiosk"
+      },
+      {
+        "appId": "com.intuit.intuitgopayment",
+        "title": "QuickBooks GoPayment"
+      }
+    ],
+    "ca_gig worker mileage": [
+      {
+        "appId": "com.paveapp",
+        "title": "Solo: Your Gig Business App"
+      },
+      {
+        "appId": "com.gigsmart.worker",
+        "title": "GigSmart Get Gigs"
+      },
+      {
+        "appId": "com.everlance",
+        "title": "Mileage Tracker Log: Everlance"
+      },
+      {
+        "appId": "com.instaworkmobile",
+        "title": "Instawork: Be your own boss"
+      },
+      {
+        "appId": "com.mileagewise.mileagewiseonline",
+        "title": "Mileage Tracker by MileageWise"
+      }
+    ],
+    "au_rideshare driver tracker": [
+      {
+        "appId": "com.lyft.android.driver",
+        "title": "Lyft Driver",
+        "score": 0,
+        "scoreText": "0.0"
+      },
+      {
+        "appId": "me.lyft.android",
+        "title": "Lyft",
+        "score": 3.81,
+        "scoreText": "3.8"
+      },
+      {
+        "appId": "com.revoride.driver",
+        "title": "REVO Rideshare Driver"
+      },
+      {
+        "appId": "com.gorapidtaxidriver",
+        "title": "Go Rideshare Driver"
+      },
+      {
+        "appId": "com.ubercab.driver",
+        "title": "Uber - Driver: Drive & Deliver",
+        "score": 3.9895616,
+        "scoreText": "4.0"
+      }
+    ]
+  },
+  "drill": {
+    "us_com.paveapp": {
+      "appId": "com.paveapp",
+      "country": "us",
+      "title": "Solo: Your Gig Business App",
+      "score": 4.331613,
+      "ratings": 7615,
+      "installs": "500,000+",
+      "offersIAP": true,
+      "IAPRange": "$0.99 - $179.99 per item",
+      "adSupported": false,
+      "developer": "WorkSolo",
+      "description": "Work with Uber, Doordash, Instacart, Amazon Flex or other gig jobs? Take the uncertainty out of your app based gig work with insights, tools and guaranteed daily pay from Solo.\n\nSolo seamlessly connects your work accounts to a single app so that you can manage your income, track your expenses, project your taxes and guarantee your daily pay. If you optimize your schedule using Solo’s pay predictio",
+      "reviews_pulled": 1000,
+      "low_count": 682,
+      "low_pct": 68.2,
+      "top_thumbs_low": [
+        {
+          "date": "2025-05-13",
+          "score": 1,
+          "thumbs": 434,
+          "text": "The advertising for this is very misleading. Not until after you fill out the entire sign-up process are you informed that it is a paid service. It's false advertising and a deceptive intake. Beyond that, if you've set up an account but haven't paid for the subscription you can't access your profile"
+        },
+        {
+          "date": "2025-10-23",
+          "score": 1,
+          "thumbs": 276,
+          "text": "Not worth it. The app claims to guarantee your earnings but you have to buy credits to pay for your guaranteed earnings. They also require a subscription, minimum $15 per month. They offer a free trial to start but you quickly learn that there are connectivity issues, it drains your battery like cra"
+        },
+        {
+          "date": "2024-07-17",
+          "score": 1,
+          "thumbs": 274,
+          "text": "I downloaded and signed up. Nothing really different from the other free app I already use. If I want to use the features that are mentioned in the ad for this app, they are stuck behind a pay wall. Not mentioned in the ad at all. Bait and switch as always. Ridiculous. I have uninstalled, useless. E"
+        },
+        {
+          "date": "2022-12-19",
+          "score": 2,
+          "thumbs": 249,
+          "text": "I would like to give it more, but it seems quite pointless. You need to subscribe to the app and pay them a monthly fee to get guarantees on your earnings, which might be worth it if the guarantees weren't so bare minimum and it wasn't so expensive to buy the credits to guarantee them. I bought cred"
+        },
+        {
+          "date": "2025-03-18",
+          "score": 1,
+          "thumbs": 130,
+          "text": "The app is not functioning properly, as the mileage tracking feature is broken. It continues to indicate that battery optimization is enabled, even when it's actually turned off. Additionally, the app is quite misleading; it makes it seem like the pay guarantee is available in every market, when in "
+        },
+        {
+          "date": "2025-10-01",
+          "score": 1,
+          "thumbs": 90,
+          "text": "Auto mileage tracking works, but good luck turning it off when you're not using it, You can turn on manual tracking mode, but after a short period of time, it reverts back to auto tracking. If you ride with someone else, you have to mark that trip as personal and then delete it. Also, the higher sub"
+        },
+        {
+          "date": "2025-04-09",
+          "score": 1,
+          "thumbs": 90,
+          "text": "Has basically no useful features. It just wants to charge you a fee for things Doordash already does. There is no reason to download this app at all, much less pay for it. An ad convinced me to download it, but it was just false advertising. If the features aren't available everywhere, don't adverti"
+        },
+        {
+          "date": "2025-09-01",
+          "score": 1,
+          "thumbs": 67,
+          "text": "This app is very misleading. It will not connect to instacart. I had to put in my phone number several times, and it kept disconnecting it from instacart. It is connected to DoorDash fine and remains there until I try to use the app when I use the app. It disconnected. Highly not recommended. It's a"
+        },
+        {
+          "date": "2024-03-01",
+          "score": 2,
+          "thumbs": 57,
+          "text": "The manual trip tracking toggle switch won't stay on manual when the app is closed, and the location service is draining the battery faster, and I don't believe every user would want to be tracked 24/7 outside of work. I also find it concerning that if a user decides to revert to the free version of"
+        },
+        {
+          "date": "2025-01-06",
+          "score": 1,
+          "thumbs": 53,
+          "text": "No longer can track instacart or Spark Driver. I will not be renewing my subscription as it is pointless if it can't track mileage for the apps I use the most. No notification that it couldn't be used anymore, no news on the blog saying it was technical difficulties and they would be resolved soon, "
+        }
+      ]
+    },
+    "us_com.stridehealth.drive": {
+      "appId": "com.stridehealth.drive",
+      "country": "us",
+      "title": "Stride: Mileage & Tax Tracker",
+      "score": 3.055798,
+      "ratings": 20764,
+      "installs": "1,000,000+",
+      "offersIAP": false,
+      "adSupported": false,
+      "developer": "Stride Health",
+      "description": "Track miles & mileage automatically. Get affordable insurance. Save on everyday expenses. Simplify taxes. File stress free.\n\nSave an average of $710/year on taxes by using Stride! All for free with no hidden fees.\nJoin 2,600,000 people saving – for FREE.\n\nHIGHLIGHTS\n\n+ Save big on taxes\n+ Automatically track and calculate miles, distance, and trips\n+ Log & track daily bills & expenses like phone, ",
+      "reviews_pulled": 1000,
+      "low_count": 694,
+      "low_pct": 69.4,
+      "top_thumbs_low": [
+        {
+          "date": "2023-12-20",
+          "score": 1,
+          "thumbs": 47,
+          "text": "Since the last update, the APP seems to update VERY slowly on where you have been and the milage & time. It takes sometimes hours for it to actually catch up. If you try to click on \"I'm Done Driving\", it just spins as it is hours behind. I've gone back and noticed that on some days, there are multi"
+        },
+        {
+          "date": "2025-04-24",
+          "score": 1,
+          "thumbs": 33,
+          "text": "Still pretty bad. App needs serious improvement. Randomly stops tracking miles quite often."
+        },
+        {
+          "date": "2025-02-19",
+          "score": 2,
+          "thumbs": 31,
+          "text": "Used to be a great app to track but now it's not what it once was. To input and track has a extended delay or doesn't want to compute, with the added doesn't want to t4sck your miles correctly has tempted me wanna switch to another app or go old school and use pen/pencil and paper. Hopefully things "
+        },
+        {
+          "date": "2024-01-24",
+          "score": 1,
+          "thumbs": 30,
+          "text": "The app isn't tracking miles correctly anymore. It skips most of all my driving and draws a line through the map to my end point. It's missing all my miles in-between start and finish. Today I drove for 3 hours and the app only tracked 18 miles."
+        },
+        {
+          "date": "2025-09-19",
+          "score": 1,
+          "thumbs": 26,
+          "text": "It was a great tracking mileage tool for business purposes and I liked so much. But since last updates in December 2023 it become full of errors and glitches unuseful junk. UPDATE 09.2025 - still unreliable. Stop tracking miles randomly without error notification."
+        },
+        {
+          "date": "2025-06-16",
+          "score": 1,
+          "thumbs": 26,
+          "text": "Lately this app has become unreliable. I start a trip, and when I'm finished there's no active trip so my mileage didn't get recorded. Also, when I'm trying to open the app sometimes I have to do it multiple times due to it crashing. I've cleared the cache, uninstalled/reinstalled which has not corr"
+        },
+        {
+          "date": "2024-10-19",
+          "score": 2,
+          "thumbs": 25,
+          "text": "Worked well for a couple years but has gotten worse and worse. Inaccurate location tracking has gotten really bad. I'll be sitting completely still and my location will keep bouncing around the map. Trips don't sync after clicking \"I'm done driving\" until I close and open the app again. Trips will d"
+        },
+        {
+          "date": "2024-02-20",
+          "score": 1,
+          "thumbs": 24,
+          "text": "This app keeps getting worse when trying to add weekly income. For example, yesterday was Feb 19, so I entered my income from the 12 to the 19, and it showed a ridiculous high amount of money I owe in taxes because it didn't acknowledge my deductions from the 12 to the 19. So I went back on the cale"
+        },
+        {
+          "date": "2024-07-21",
+          "score": 2,
+          "thumbs": 23,
+          "text": "This app used to be amazing, now it just fails a lot. Where is my tracking from yesterday?? If you forget to end tracking, it will just lose your mileage. Where did it go? Who knows! Awful."
+        },
+        {
+          "date": "2023-12-13",
+          "score": 1,
+          "thumbs": 23,
+          "text": "This App used to track miles well. Now with the latest update it has been not tracking miles well and flat out not recording trips that were factually tracked by it. Ridiculous. Also the annoying popping up notifications for health insurance and other services are highly unproductive, the close butt"
+        }
+      ]
+    },
+    "us_app.hurdlr.com": {
+      "appId": "app.hurdlr.com",
+      "country": "us",
+      "title": "Hurdlr: Mileage, Expense & Tax",
+      "score": 4.258984,
+      "ratings": 9000,
+      "installs": "100,000+",
+      "offersIAP": true,
+      "IAPRange": "$5.99 - $99.99 per item",
+      "adSupported": false,
+      "developer": "Hurdlr, Inc.",
+      "description": "Are you self-employed, an independent contractor or agent? Do you freelance, have a gig, or drive for Uber or Lyft? Save thousands of dollars on your 2019 taxes with Hurdlr’s business expenses and mileage tracker. Plus, easily capture receipts and create expense reports.\n\nHurdlr connects with thousands of leading banks as well as Uber, FreshBooks, Square, Stripe, and Paypal to import your income a",
+      "reviews_pulled": 1000,
+      "low_count": 220,
+      "low_pct": 22,
+      "top_thumbs_low": [
+        {
+          "date": "2026-01-01",
+          "score": 2,
+          "thumbs": 16,
+          "text": "A great app for last three years - - until October 18th. Auto-tracking by Bluetooth quit working. Now I got to figure out all my mileage since then until yesterday. Very frustrating. Nothing has changed (phone, car, etc). I've deleted the Bluetooth profiles and reconnected them to no avail. 😢 Updat"
+        },
+        {
+          "date": "2022-04-03",
+          "score": 1,
+          "thumbs": 14,
+          "text": "After using app for over 3 months and working with customer service the app simply does not work. Consistently cuts off first 1 to 7 miles from every trip. Trips of 5 miles or less are sometimes not recorded at all. Was told this is normal. Not what I expect from an app I paid $100 for. When Hurdlr "
+        },
+        {
+          "date": "2021-11-30",
+          "score": 2,
+          "thumbs": 13,
+          "text": "Auto-mile tracker is not accurate & I must constantly refresh my income 2 get accurate amt. I paid $100(premium)NO REFUNDS!I didn't find discrepancies during the short trial.I love the tax feature but if my other figures aren't correct then it won't be either. Cust.service told me I need 2 change se"
+        },
+        {
+          "date": "2025-06-22",
+          "score": 1,
+          "thumbs": 12,
+          "text": "I've been using this app for a couple of years now, and turning off battery saver and setting it to never sleep don't help with the tracking issues. It's completely random when it decides to track. I'll go and check my mileage for the week and it'll have the entire day missing 3 out 6 days."
+        },
+        {
+          "date": "2023-11-21",
+          "score": 2,
+          "thumbs": 11,
+          "text": "It was great until recently. It stopped tracking my mileage. The auto tracker won't stay on. I'm missing milage for work. Hopefully, it will be fixed soon. If not, I'll be finding a new app to use. I watch videos on how to make sure every setting is set properly. It's still not working."
+        },
+        {
+          "date": "2022-08-03",
+          "score": 1,
+          "thumbs": 11,
+          "text": "I hadn't even been using the app for even a minute before I encountered an error that wouldn't let me even finish my account setup. This seemed like the best option among many for business deductions, but if I can't even register it doesn't bode well for the rest of the app. I'll be looking elsewher"
+        },
+        {
+          "date": "2021-10-25",
+          "score": 1,
+          "thumbs": 10,
+          "text": "Only good if you pay for premium & are tech savy. Tracking your time and effort gets SUPER confusing; for example, to track a ride I just press the tab and the bottom of the screen of a car (or the arrow that shows up on the home screen) and then press the plus button to add a new trip. But to track"
+        },
+        {
+          "date": "2022-02-08",
+          "score": 2,
+          "thumbs": 9,
+          "text": "Turned on tracker. Did not track mikes to work. This is a new app. I realized when I plugged my phone in to the car I had to restart the app, however, wifi in a lot of areas is not strong enough to start the app so I lost a lot of miles. Unless this will interface with my android auto I can not use "
+        },
+        {
+          "date": "2023-05-01",
+          "score": 1,
+          "thumbs": 8,
+          "text": "Changed to 1 star as they hide the monthly premium option unless you ask, if you cancel your free trial before it ends they'll take it away (vs letting you finish the time like every other app), support doesn't read your messages, just sends you canned nonsense that in no way answers your question, "
+        },
+        {
+          "date": "2025-04-26",
+          "score": 1,
+          "thumbs": 7,
+          "text": "I would give a zero if I could. Bad app and bad company. I have followed all instructions to have this app work properly and it still randomly stops working. Thought i figured out a work around but that doesnt work anymore. Last time i contacted support they read it and never responded. Do not trust"
+        }
+      ]
+    },
+    "us_com.gridwise.app": {
+      "appId": "com.gridwise.app",
+      "country": "us",
+      "title": "Gridwise: Gig Driver Assistant",
+      "score": 4.5132318,
+      "ratings": 12450,
+      "installs": "1,000,000+",
+      "offersIAP": true,
+      "IAPRange": "$0.99 - $109.99 per item",
+      "adSupported": true,
+      "developer": "Gridwise",
+      "description": "Take your work to the next level by using Gridwise, the #1 business app for gig, hourly, and freelance workers.\n\nDriving for Uber, Lyft, Doordash, Walmart Spark or Instacart? Get the all-in-one app uniquely built for rideshare and delivery drivers to track mileage, boost earnings, and get control of your expenses across all rideshare and delivery apps. Plus users get automatic earnings download fo",
+      "reviews_pulled": 1000,
+      "low_count": 286,
+      "low_pct": 28.6,
+      "top_thumbs_low": [
+        {
+          "date": "2023-12-01",
+          "score": 2,
+          "thumbs": 105,
+          "text": "Update: the free version is fine. The \"hot spots\" have never helped me and now uber doesn't work. I do not think the paid version is worth it. I even had the gas card. It didn't work either. Oh the milage tracker doesn't work either. It may log 60% if your actual miles. it's ok. I haven't decided if"
+        },
+        {
+          "date": "2023-08-10",
+          "score": 1,
+          "thumbs": 99,
+          "text": "It doesn't accurately track miles. It tracked all 10 hours I was driving yesterday, but only showed a little under ten miles driven. My odometer showed about 130 miles. Don't use this as your only means of tracking miles. I appreciate the advice, but permissions are already set to allow location all"
+        },
+        {
+          "date": "2024-03-31",
+          "score": 1,
+          "thumbs": 58,
+          "text": "They are going to start charging for milage tracking and income tracking when all it does is interface with the free GPS and my gig work app to do each. Additionally they are certainly selling the data they scrape from us. They're about to see a huge drop in users and collected data to sell. The app"
+        },
+        {
+          "date": "2026-05-05",
+          "score": 1,
+          "thumbs": 36,
+          "text": "Update to 1 stars. I hate the fact that I have to enable location all the time just for the app to track my miles. Normally I wouldn't mind this but when I turn off tracking the app still wants to run in the background. Android 16 shows me what's running and despite the app being swiped away from re"
+        },
+        {
+          "date": "2024-10-06",
+          "score": 1,
+          "thumbs": 36,
+          "text": "Uninstalled this app multiple times because of the notification overlay that is always present. This is not a navigation app, nor is it essential for me to work. There is no reason for it to overlay. It's incredibly annoying when you're working several apps and constantly swiping away notifications "
+        },
+        {
+          "date": "2023-03-30",
+          "score": 2,
+          "thumbs": 36,
+          "text": "The normal service the app provides is great, but the fact it seems to reactivate every five minutes is absolutely absurd. I've turned it off, I've killed it in the background. There's no reason every time my GPS moves 5 meters that I should have this app wake itself up and start draining my resourc"
+        },
+        {
+          "date": "2026-04-12",
+          "score": 1,
+          "thumbs": 29,
+          "text": "Using this app for over two years now, and issues still abound, to the point I may be shopping other apps. Whenever I forget to start it when I begin my day, only 15-20% if the time it'll prompt me, asking if I am on a shift. Yet when it is on and I am in motion, it'll ask me if I am still working? "
+        },
+        {
+          "date": "2025-01-08",
+          "score": 2,
+          "thumbs": 24,
+          "text": "App is nice in theory. Would be much better if it actually worked as advertised. The auto mileage tracker is spotty at best. It tracks some drives but misses far to many to be relied upon. The auto sync earnings is about the same. Works most of the time but then will miss a few days before it starts"
+        },
+        {
+          "date": "2024-05-28",
+          "score": 2,
+          "thumbs": 20,
+          "text": "The auto mapping feature crashes and makes my phone unstable while driving, slows down the phone, and uses a ton of resources ( get a top, or task manager app, you'll see). Canceled the subscription since the auto feature isn't working correctly. Don't really need this app anyway, especially with th"
+        },
+        {
+          "date": "2024-05-21",
+          "score": 2,
+          "thumbs": 19,
+          "text": "I used the pro version for about 6 months, but came across 3 showstoppers: 1) ads are still pushed on PAYING users, both in the app and by email. If you unsubscribe then they won't send you data exports. 2) To stop tracking, you're required to be within wifi/cell range. I don't need a signal to turn"
+        }
+      ]
+    },
+    "us_com.gigsmart.worker": {
+      "appId": "com.gigsmart.worker",
+      "country": "us",
+      "title": "GigSmart Get Gigs",
+      "score": 3.8412018,
+      "ratings": 6994,
+      "installs": "1,000,000+",
+      "offersIAP": false,
+      "adSupported": false,
+      "developer": "GigSmart, Inc.",
+      "description": "Download the GigSmart Get Gigs app and unlock the power of working on your own terms while maximizing your earning potential.\n\nGet Gigs gives you the freedom and control to find the best work opportunities most suited to you. Discover a wide range of Shifts in all industries nationwide, offering endless opportunities right at your fingertips. Take advantage of accepting the Shifts that best work f",
+      "reviews_pulled": 1000,
+      "low_count": 389,
+      "low_pct": 38.9,
+      "top_thumbs_low": [
+        {
+          "date": "2025-09-28",
+          "score": 1,
+          "thumbs": 137,
+          "text": "No gigs yet. Applied to some but I ended up canceling them because I didn't want them to somehow get accepted in the middle of the night and me not show up. Maybe the particular hiring company is bad at checking the app. One thing with the app itself, I changed the range to 15 miles once, and now it"
+        },
+        {
+          "date": "2025-09-25",
+          "score": 1,
+          "thumbs": 125,
+          "text": "I always get these notifications that there are gigs when I apply for them. I never get a response back then I'll say this gig has been filled. I get on on time I respond on time and I look to see if I've been picked for the gig, it's finally time for me to permanently to Delete the account..good by"
+        },
+        {
+          "date": "2025-12-23",
+          "score": 1,
+          "thumbs": 115,
+          "text": "This app has given me nothing but issues. I've spent time on this app and got my profile set up applied for gigs but I keep getting errors and there will be a gig showing I apply and then it vanishes minutes later. Doesn't't make any sense. I have been on this app since 2024 and I haven't got one su"
+        },
+        {
+          "date": "2025-04-21",
+          "score": 1,
+          "thumbs": 96,
+          "text": "even though I've already done the background checks through stripe it sends me back through that process again. they send alerts for new job posting, but won't allow me to bid until I consent to another background verification. then it says my SSN is already being used. don't bother with the \"suppor"
+        },
+        {
+          "date": "2025-06-21",
+          "score": 1,
+          "thumbs": 64,
+          "text": "Horrible app! Should change to GigDumb. App won't even give my correct location. You can't change it manually and interface is too clumsy to search my address listed. It is searching a State away from me... SMH!!! Also lots of time and effort was put into setting app up. All for nothing or just so I"
+        },
+        {
+          "date": "2025-01-27",
+          "score": 1,
+          "thumbs": 61,
+          "text": "Useless. Signed up for multiple gigs in the past two months and have not been offered one! I have even submitted bids at the lowest rate possible, and still nothing. Also, there needs to be a way to get notifications when the app is not in use. I am made aware of new available shifts only when I ope"
+        },
+        {
+          "date": "2025-09-27",
+          "score": 1,
+          "thumbs": 46,
+          "text": "Haven't used this app since 2022. Was trying to sign up for the W2 Verified worker. I followed all the onboarding steps and can find no more steps to take. Yet I keep getting a message that states \"Alert. You're worker profile is in the process of being verified. Once complete, well notify you if yo"
+        },
+        {
+          "date": "2024-10-15",
+          "score": 2,
+          "thumbs": 42,
+          "text": "I dropped the rating down to two stars from four. The app is very glitchy, tons of problems bidding on shifts. Can't send messages in app to main point of contact for the shift. The app will tell you that you have a shift offer. When you tap on the notification, it says you have a bid and there's no"
+        },
+        {
+          "date": "2025-12-19",
+          "score": 2,
+          "thumbs": 32,
+          "text": "very bad experience. I can't even book a shift because I can't get through the verification process, the system claims my social security number is already in use. I'm trying to figure out how when I never went through a verification process on this app. Then I reached out to support twice a month a"
+        },
+        {
+          "date": "2025-01-09",
+          "score": 1,
+          "thumbs": 25,
+          "text": "I miss the days when it was GigSmart. This new app is trash, especially since they introduced \"bidding,\" which clearly only favors the employer and forces workers to sell themselves short if they want a job. It's ridiculously disgusting that 99% of the jobs posted at an offered hourly rate end up be"
+        }
+      ]
+    },
+    "us_com.bizlog.triplog": {
+      "appId": "com.bizlog.triplog",
+      "country": "us",
+      "title": "Mileage Tracker App by TripLog",
+      "score": 4.207265,
+      "ratings": 7489,
+      "installs": "500,000+",
+      "offersIAP": true,
+      "IAPRange": "$6.99 per item",
+      "adSupported": false,
+      "developer": "TripLog, Inc.",
+      "description": "Track your miles automatically for FREE with TripLog, the #1 mileage tracker app! Whether you're a gig worker, freelancer, or business of any size, TripLog saves you time, helps maximize your tax deductions, and streamlines employee reimbursements through the power of automatic mileage tracking.\n\nUnlike other mileage trackers, TripLog offers truly unlimited automatic trip detection at no cost. Our",
+      "reviews_pulled": 1000,
+      "low_count": 116,
+      "low_pct": 11.6,
+      "top_thumbs_low": [
+        {
+          "date": "2023-10-24",
+          "score": 1,
+          "thumbs": 24,
+          "text": "Its GARBAGE!! The app alone worked decent. I \"upgraded\" to the \"Triplog Drive.\" It is sporadic at best. The accuracy is dismal. At times it doubles up on the mileage. Pretty poor being that its a GPS device. The autostart doesn't always work. It will start a trip just by opening a door to retrieve s"
+        },
+        {
+          "date": "2024-03-06",
+          "score": 1,
+          "thumbs": 15,
+          "text": "I have been a user of triplog for 8 or 9 years now. I have been with them through a lot of growing pains but still have the need to adjust incorrect mileage tracking almost on daily basis. My grandfathered pricing was removed and more than doubled what I was paying with no notice. When dealing with "
+        },
+        {
+          "date": "2024-01-02",
+          "score": 1,
+          "thumbs": 14,
+          "text": "Payment each month was a nightmare. It would stop tracking for lack of payment but was I subscribed via Google. To make it even worse, it literally stopped tracking my drives for TWO MONTHS. Just noticed. What is the point in having this app? I'm done. Awful app. You just had to do ONE thing. Edit: "
+        },
+        {
+          "date": "2025-05-27",
+          "score": 2,
+          "thumbs": 10,
+          "text": "here we go again. really guys? I finally found the tiny little time stamp in the bottom right of each day. great. since the latest update, it's not working properly. according to the app, I drove 112 hours and no minutes today. can you please fix????!!!!"
+        },
+        {
+          "date": "2024-12-26",
+          "score": 1,
+          "thumbs": 8,
+          "text": "I have been a customer of theirs for about 6 years. Their app has always worked perfectly until October of 2024 when I downgraded from team to personal and then it no longer wanted to track any of my drives on magictrip. I could not configure the settings to get the app to work anymore. I've opened "
+        },
+        {
+          "date": "2026-03-28",
+          "score": 1,
+          "thumbs": 6,
+          "text": "I have been paying 9.99/month for premium access since 1/24. for several months now, the payment has been paid and I am restricted to the free basic plan. There is no support on solving this problem with exception to a bot chat that keeps telling me \"since 9.99 has been paid, you do not have the Bas"
+        },
+        {
+          "date": "2025-07-01",
+          "score": 2,
+          "thumbs": 5,
+          "text": "I have just begin to use this app. My biggest pet peeve when enabling notifications, your app has a contact standby notification that steals precious notification space. how can I block that standby notification. I only want a reminder to view uncategorized drives if there is such a feature. This no"
+        },
+        {
+          "date": "2024-01-19",
+          "score": 1,
+          "thumbs": 5,
+          "text": "I used app during a trial period & it was great. I then purchased the dongle & had the paid version. The software & dongle functioned flawlessly. All of sudden, same phone, no changes, nothing, the software, dongle, or whatever just stopped working. In short, I paid in full for a year's subscription"
+        },
+        {
+          "date": "2026-02-20",
+          "score": 1,
+          "thumbs": 4,
+          "text": "Not nearly as convenient as MileIQ, due to not being able to sort in app with swipes. The really annoying feature is that you cannot prevent audible notifications on Android. I have silenced all the notifications in the app and via the notification section of phone settings. I have Do Not Disturb on"
+        },
+        {
+          "date": "2025-03-18",
+          "score": 2,
+          "thumbs": 4,
+          "text": "Update 3/17/2025- trying to do taxes and all my transactions prior to 9/18/2024 are missing. Every year is another disappointment from this app. Gets more expensive and less user friendly."
+        }
+      ]
+    },
+    "us_com.mobiledatalabs.mileiq": {
+      "appId": "com.mobiledatalabs.mileiq",
+      "country": "us",
+      "title": "Mileage Tracker & Log - MileIQ",
+      "score": 4.5914683,
+      "ratings": 70838,
+      "installs": "1,000,000+",
+      "offersIAP": true,
+      "IAPRange": "$5.99 - $139.99 per item",
+      "adSupported": false,
+      "developer": "MileIQ",
+      "description": "Track and Record Mileage Automatically and Maximize your Tax Reimbursement with MileIQ\n\nMileIQ is the #1 automatic mileage tracker app, trusted by millions of professionals to streamline business operations, enhance productivity, and simplify GPS-based car mileage tracking, expense management, tax preparation, and overall financial planning. Whether you’re self-employed, a small business owner, a ",
+      "reviews_pulled": 1000,
+      "low_count": 179,
+      "low_pct": 17.9,
+      "top_thumbs_low": [
+        {
+          "date": "2025-09-05",
+          "score": 1,
+          "thumbs": 20,
+          "text": "This app started out great. Then I guess an update was rolled out, and EVERYTHING went down the toilet. The app thinks I'm driving in circles and loops and all kinds of crazy paths to get from my start and end points. Some of what it's detecting is absolutely ludicrous. I've logged out, deleted the "
+        },
+        {
+          "date": "2025-12-20",
+          "score": 1,
+          "thumbs": 17,
+          "text": "This product was almost flawless for the first 6 years, I used it. When there was a hiccup, CS was prompt and good. I started having more ongoing issues about a year ago and CS declined in quality of response (went to AI or form responses that literally have not come close to addressing my questions"
+        },
+        {
+          "date": "2025-11-17",
+          "score": 2,
+          "thumbs": 14,
+          "text": "Been using this app for quite a few years and looks like I'm having the same experience as a lot of people on here.... Used to work great (not always perfect but very well) and something happened last year and accuracy went down the toilet- missing drives, extra drives, inaccurate routes, then a $30"
+        },
+        {
+          "date": "2025-07-31",
+          "score": 1,
+          "thumbs": 13,
+          "text": "don't use this any more because all it tracks are my walks. I have been a user for 15+ years, please stop doing whatever you changed because it never tracked my walks before. now I have to constantly delete them or turn off drive detection and I forget to turn it back on. I walk at a normal to fast "
+        },
+        {
+          "date": "2025-07-29",
+          "score": 2,
+          "thumbs": 12,
+          "text": "Doesn't track mileage accurately like it used to. Example: today I started a drive at 8:05am, came home for a couple hours, left again, came back, been here for a couple more hours and the app is still showing \"drive in progress\" with the time of 8:05am. This is not the first time this same thing ha"
+        },
+        {
+          "date": "2026-01-23",
+          "score": 1,
+          "thumbs": 10,
+          "text": "I did the 7-Day free trial and 2 days later I upgraded to premiere and accidentally uninstalled the app. when I reinstalled the app I cannot connect the two accounts together. so I paid $90 for the year and used it for 2 days. every time I've gone to the help center to try to get the two together, i"
+        },
+        {
+          "date": "2025-07-26",
+          "score": 2,
+          "thumbs": 10,
+          "text": "This app needs work: 1) It allowed me to input my vehicle odometer reading during initial setup, but the app does not show the expected odometer reading after each trip, which would allow me to verify the app's accuracy. 2) The app has a section to create \"custom purposes,\" but the app will mot save"
+        },
+        {
+          "date": "2025-12-24",
+          "score": 2,
+          "thumbs": 9,
+          "text": "I wasn't impressed because it's laborious to delete drives (that don't need recording), it missed tracking a drive, and the trial ran out with a tiny notification of such so it was not tracking and I didn't know it. The drives are frustrating to edit because you can't easily change the beginning or "
+        },
+        {
+          "date": "2025-08-20",
+          "score": 2,
+          "thumbs": 9,
+          "text": "mile IQ you haven't registered a drive on my device since August 15/25. Do you have any idea how much money you've cost me since Friday with today being Tuesday. if the app isn't broke dont try to fix it, or atleast make your updates either happen automatically or send emails to say app needs to be "
+        },
+        {
+          "date": "2026-02-03",
+          "score": 1,
+          "thumbs": 7,
+          "text": "Literally never autostarts drives, their customer service is a joke, they essentially will tell you oh it's something wrong with your device since all the settings are good. Except it happens on every device I've tried (5 different phones) soo yes it's definitely my device 😂 if it's a universal iss"
+        }
+      ]
+    },
+    "us_com.intuit.quickbooks": {
+      "appId": "com.intuit.quickbooks",
+      "country": "us",
+      "title": "Intuit QuickBooks for Business",
+      "score": 4.6797457,
+      "ratings": 78391,
+      "installs": "5,000,000+",
+      "offersIAP": true,
+      "IAPRange": "$0.99 - $420.00 per item",
+      "adSupported": false,
+      "developer": "Intuit Inc",
+      "description": "QuickBooks helps millions of businesses around the world handle accounting, payments, & customers on the go with Intuit AI help and access to trusted experts.\n\nThe latest updates to the QuickBooks Mobile app include improvements to the dashboard and navigation, plus new AI-driven functionality. We’ve introduced voice notetaking & AI estimate-generation from notes and conversations.\n\nTAKE IN-PERSON",
+      "reviews_pulled": 1000,
+      "low_count": 543,
+      "low_pct": 54.3,
+      "top_thumbs_low": [
+        {
+          "date": "2025-12-17",
+          "score": 1,
+          "thumbs": 105,
+          "text": "I only try to use this once in a while to do tasks on the go, like get a quick number from a report or snap a receipt of a deposit at the bank. But the app can never do simple tasks like this. Reports are hard to navigate and filter. I can only do a receipt snap for expenditures not deposits. I can'"
+        },
+        {
+          "date": "2025-11-18",
+          "score": 1,
+          "thumbs": 102,
+          "text": "Ok. I started at 4 stars but after the last update it's down to one. Stop fixing something that isn't broken. Everything is rearranged and it took me a few minutes just to figure out where my bank accounts were listed now. You guys messed up and made something that was \"ok\" confusing to use now. I'm"
+        },
+        {
+          "date": "2025-11-12",
+          "score": 1,
+          "thumbs": 64,
+          "text": "Can't login. Pay $100/mo for a software tool so complex and stupid you have to pay another $500/mo for someone to use it. App: can't find receipts I've uploaded. Categorizing transactions is a chore, just entering the value is a pain, they make you delete $0.00 to enter your value. NO Reports on the"
+        },
+        {
+          "date": "2025-11-11",
+          "score": 1,
+          "thumbs": 63,
+          "text": "*LATEST FRUSTRATIONS* Back to 1 star... the new update limits everything you do. I can't even set up appointments anymore when my business highly relys on using google calender to set up appointments from customers. Everything is hard to find and scattered. STOP CHANGING EVERYTHING EVERY FEW MONTHS."
+        },
+        {
+          "date": "2025-12-18",
+          "score": 1,
+          "thumbs": 49,
+          "text": "Trust all the other ones that are reviews. absolutely garbage. customer service six times transferred within a 1 hour just to try to solve the problem of my online subscription price increasing from what I originally signed up for. Customer service was terrible. not only did they transfer me over an"
+        },
+        {
+          "date": "2025-11-26",
+          "score": 1,
+          "thumbs": 48,
+          "text": "This app is terrible lately. We switched to quickbooks mobile specifically so I could write invoices on the road and in the field. I have been unable to do anything but login and look at the page trying to refresh for two weeks now. We should have never switched from QB desktop. That software was be"
+        },
+        {
+          "date": "2025-12-01",
+          "score": 1,
+          "thumbs": 42,
+          "text": "Another update, more problems. I've been using this app for nearly 4 years. Every update makes the app worse, lose valuable features. This time on top of several other things, the customer search feature used to be able to pickup customer notes like \"Tuesday pickup\" or their address. Not anymore. If"
+        },
+        {
+          "date": "2026-02-06",
+          "score": 1,
+          "thumbs": 38,
+          "text": "I have had quickbooks online for over a decade. I used to be able to run my whole business through this app on my phone. Now, it is utterly useless. I send estimates and invoices, and the totals are $0. I can only use the online version on my desktop now and even that is difficult. QB has become ove"
+        },
+        {
+          "date": "2025-11-12",
+          "score": 1,
+          "thumbs": 28,
+          "text": "Was a Great app, they helped me fix the crashing bug that was some cache issues, now they changed it and where I used to be able to click and access my checking account information, the entire page is different and I can't find my checking account information. therefore I have no idea how much is in"
+        },
+        {
+          "date": "2026-01-13",
+          "score": 1,
+          "thumbs": 25,
+          "text": "Mobile App Log In / Cost of rate increased / A Joke customer service (1) a while back I was unable to log into my app anymore, which is the whole reason why I choose this app to begin with, apparently it happened after an update. as you can see in most of the reviews. (2) all a sudden the monthly ra"
+        }
+      ]
+    },
+    "ca_com.paveapp": {
+      "appId": "com.paveapp",
+      "country": "ca",
+      "title": "Solo: Your Gig Business App",
+      "installs": "500,000+",
+      "offersIAP": false,
+      "adSupported": false,
+      "developer": "WorkSolo",
+      "description": "Work with Uber, Doordash, Instacart, Amazon Flex or other gig jobs? Take the uncertainty out of your app based gig work with insights, tools and guaranteed daily pay from Solo.\n\nSolo seamlessly connects your work accounts to a single app so that you can manage your income, track your expenses, project your taxes and guarantee your daily pay. If you optimize your schedule using Solo’s pay predictio",
+      "reviews_pulled": 1000,
+      "low_count": 682,
+      "low_pct": 68.2,
+      "top_thumbs_low": [
+        {
+          "date": "2025-05-13",
+          "score": 1,
+          "thumbs": 434,
+          "text": "The advertising for this is very misleading. Not until after you fill out the entire sign-up process are you informed that it is a paid service. It's false advertising and a deceptive intake. Beyond that, if you've set up an account but haven't paid for the subscription you can't access your profile"
+        },
+        {
+          "date": "2025-10-23",
+          "score": 1,
+          "thumbs": 276,
+          "text": "Not worth it. The app claims to guarantee your earnings but you have to buy credits to pay for your guaranteed earnings. They also require a subscription, minimum $15 per month. They offer a free trial to start but you quickly learn that there are connectivity issues, it drains your battery like cra"
+        },
+        {
+          "date": "2024-07-17",
+          "score": 1,
+          "thumbs": 274,
+          "text": "I downloaded and signed up. Nothing really different from the other free app I already use. If I want to use the features that are mentioned in the ad for this app, they are stuck behind a pay wall. Not mentioned in the ad at all. Bait and switch as always. Ridiculous. I have uninstalled, useless. E"
+        },
+        {
+          "date": "2022-12-19",
+          "score": 2,
+          "thumbs": 249,
+          "text": "I would like to give it more, but it seems quite pointless. You need to subscribe to the app and pay them a monthly fee to get guarantees on your earnings, which might be worth it if the guarantees weren't so bare minimum and it wasn't so expensive to buy the credits to guarantee them. I bought cred"
+        },
+        {
+          "date": "2025-03-18",
+          "score": 1,
+          "thumbs": 130,
+          "text": "The app is not functioning properly, as the mileage tracking feature is broken. It continues to indicate that battery optimization is enabled, even when it's actually turned off. Additionally, the app is quite misleading; it makes it seem like the pay guarantee is available in every market, when in "
+        },
+        {
+          "date": "2025-10-01",
+          "score": 1,
+          "thumbs": 90,
+          "text": "Auto mileage tracking works, but good luck turning it off when you're not using it, You can turn on manual tracking mode, but after a short period of time, it reverts back to auto tracking. If you ride with someone else, you have to mark that trip as personal and then delete it. Also, the higher sub"
+        },
+        {
+          "date": "2025-04-09",
+          "score": 1,
+          "thumbs": 90,
+          "text": "Has basically no useful features. It just wants to charge you a fee for things Doordash already does. There is no reason to download this app at all, much less pay for it. An ad convinced me to download it, but it was just false advertising. If the features aren't available everywhere, don't adverti"
+        },
+        {
+          "date": "2025-09-01",
+          "score": 1,
+          "thumbs": 67,
+          "text": "This app is very misleading. It will not connect to instacart. I had to put in my phone number several times, and it kept disconnecting it from instacart. It is connected to DoorDash fine and remains there until I try to use the app when I use the app. It disconnected. Highly not recommended. It's a"
+        },
+        {
+          "date": "2024-03-01",
+          "score": 2,
+          "thumbs": 57,
+          "text": "The manual trip tracking toggle switch won't stay on manual when the app is closed, and the location service is draining the battery faster, and I don't believe every user would want to be tracked 24/7 outside of work. I also find it concerning that if a user decides to revert to the free version of"
+        },
+        {
+          "date": "2025-01-06",
+          "score": 1,
+          "thumbs": 53,
+          "text": "No longer can track instacart or Spark Driver. I will not be renewing my subscription as it is pointless if it can't track mileage for the apps I use the most. No notification that it couldn't be used anymore, no news on the blog saying it was technical difficulties and they would be resolved soon, "
+        }
+      ]
+    },
+    "au_com.lyft.android.driver": {
+      "appId": "com.lyft.android.driver",
+      "country": "au",
+      "title": "Lyft Driver",
+      "score": 0,
+      "ratings": 0,
+      "installs": "5,000,000+",
+      "offersIAP": false,
+      "adSupported": false,
+      "developer": "Lyft, Inc.",
+      "description": "WHY LYFT? \nEarn good money and meet great people.\n\nEARN FAST \nGet paid quickly with options to cash out instantly, daily, and weekly. Plus, earn bonuses, rewards, and keep 100% of rider tips.\n\nSEE YOUR PAY UPFRONT\nView earnings and trip details before accepting every ride. \n\nHIGHEST-RATED RIDERS\nLyft has the best riders in town. They’re friendly, generous, and highly-rated.\n\nFLEXIBLE\nEarn money on",
+      "reviews_pulled": 1000,
+      "low_count": 430,
+      "low_pct": 43,
+      "top_thumbs_low": [
+        {
+          "date": "2026-04-28",
+          "score": 1,
+          "thumbs": 532,
+          "text": "EV bonus is not tracking completed rides."
+        },
+        {
+          "date": "2026-01-27",
+          "score": 1,
+          "thumbs": 357,
+          "text": "Somewhat better than that dangerous app.. eww(ber) We need a decent, updated, STEADY, per-mile, per min rate. Pay decreases every year. \"Support\" is HORRIBLE!! Pathetic pay: 25-40% of fare. App hides rider's rating pre-ride. Huge safety problem! -* SOS! Long trips over 30 min need return fee added!!"
+        },
+        {
+          "date": "2025-12-05",
+          "score": 1,
+          "thumbs": 294,
+          "text": "it feels like they're trying to normalize \"surge pricing\" to be the pay of a average ride. so we'll accept an even lower pay than before. Not that real surge pricing even exist anymore. Navigation is still absolutely junk. I don't appreciate trickle down rides after being a driver for so many years."
+        },
+        {
+          "date": "2026-01-14",
+          "score": 1,
+          "thumbs": 89,
+          "text": "I would give this app a ZERO if I could.... I worked myself to the bone for almost 14 hours every shift for the past 4.5 years. I was a 5 STAR RATED DRIVER with 940 complimente for friendliness, 912 complimented for safe driving, 827 complimented cleanliness, 697 said I went above and beyond. 12/26/"
+        },
+        {
+          "date": "2025-12-06",
+          "score": 1,
+          "thumbs": 83,
+          "text": "Had to leave my 5 star account with over 3k rides behind. Lyft has horrible rental options."
+        },
+        {
+          "date": "2025-12-19",
+          "score": 1,
+          "thumbs": 80,
+          "text": "Lyft is the worst of all the ride share companies! i got permanently deactivated out of nowhere because someone claimed someone else was the driver. Terrible customer service trying to figure out what happened. I am the ONLY driver on my account and provide the best customer experiences. Uber from n"
+        },
+        {
+          "date": "2026-02-12",
+          "score": 1,
+          "thumbs": 57,
+          "text": "Thieves."
+        },
+        {
+          "date": "2026-01-01",
+          "score": 1,
+          "thumbs": 48,
+          "text": "The latest version does not allow Google Maps or Waze. Their app actually drove me to a closed road and I lost a ride I accepted. Even worse, the app does not switch to the car screen even though I have this marked. It has negatively impacted my driving safety. And, as always, it doesn't know the di"
+        },
+        {
+          "date": "2026-03-10",
+          "score": 1,
+          "thumbs": 43,
+          "text": "Navigation. This app forces you to use navigation that is often very inaccurate and flawed. At times the navigation does not work at at all. Then when you try to use other navigations the voice navigator from the inbuilt app continues to talk no matter what you do. It's very inconvenient and it does"
+        },
+        {
+          "date": "2026-01-04",
+          "score": 1,
+          "thumbs": 34,
+          "text": "1.3.26 It's extremely unfortunate that a 15 minute ride equals $3-$6 dollars for the driver."
+        }
+      ]
+    }
+  }
+}

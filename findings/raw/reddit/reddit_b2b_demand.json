@@ -1,0 +1,2383 @@
+{
+  "queries": {
+    "freelance__invoice app": [
+      {
+        "id": "ivbop5",
+        "title": "Alternative to Harvest App, with PayPal invoice payment and data import from Harvest",
+        "score": 20,
+        "comments": 11,
+        "date": 1600453843,
+        "themes_matched": [
+          "harvest",
+          "alternative"
+        ],
+        "body": "Hi All-\n\nI just got word from Harvest that they are discontinuing their PayPal invoice payment integration in November. I have used Harvest for years and generally love it, but this is pretty much a dealbreaker for me. Their only alternative solution seems to be Stripe, but that does not have an instant transfer to my Bank Account option, and generally is a 5-day wait for an ACH transfer.\n\nI have a long-term  contract client who pays me weekly and I have budgeted for those weekly deposits on the basis of being able to do an instant transfer from my PayPal account.\n\nI am wondering what other ti"
+      },
+      {
+        "id": "1kid41",
+        "title": "What is the best invoice app for mac?",
+        "score": 4,
+        "comments": 13,
+        "date": 1376684705,
+        "themes_matched": [
+          "best app"
+        ],
+        "body": "I do freelance illustrations,graphic design and more and I have never really nailed down a good way to track my time, and invoice for my money. What do you think the best app is for Mac? "
+      },
+      {
+        "id": "z4yl3",
+        "title": "Free Invoice Software/Web App that automatically bills",
+        "score": 1,
+        "comments": 5,
+        "date": 1346424970,
+        "themes_matched": [],
+        "body": "Does anybody know of a free invoice software/web app that can bill automatically at future dates?\n\nI currently offer web hosting and domain registration as a part of my website services, so I would like to be able to invoice them automatically at a set date in the future so they can pay their hosting easily."
+      }
+    ],
+    "freelance__invoice simple alternative": [],
+    "freelance__best invoice": [
+      {
+        "id": "ts0h9g",
+        "title": "What's the best way to invoice clients with the lowest fees?",
+        "score": 29,
+        "comments": 68,
+        "date": 1648623159,
+        "themes_matched": [],
+        "body": "So after having PayPal take $170USD off an invoice as a fee of one of my clients, I'm officially done with it because that's insane.\n\nWhat's the best way you guys have found to invoice clients to avoid the most fees possible? I'm located in Finland so preferably something that's available in Europe.\n\nI've never done wire transfers because I imagine those might be a bit of a pain, but I'll figure it out if it has no fees.\n\nWhat are your experiences?"
+      },
+      {
+        "id": "nmz72o",
+        "title": "What is the best (free) invoice generator that you have come across?",
+        "score": 6,
+        "comments": 17,
+        "date": 1622212552,
+        "themes_matched": [],
+        "body": "You can mention paid ones too. I might subscribe to paid services once I get steady clients."
+      },
+      {
+        "id": "f7t5dm",
+        "title": "What's the best way to invoice client for refund of flights in this scenario?",
+        "score": 18,
+        "comments": 17,
+        "date": 1582381453,
+        "themes_matched": [
+          "cheaper"
+        ],
+        "body": "**Update: I will invoice for the cheaper option, but leave the option to leave a tip in case he wants to pay the more expensive option. It's a HUGE company and only a $70 difference or whatever, but still, rather remain ethical (:** \n\nClient is in Texas. I work remotely and often live in Europe/Asia. \n\nIn January, I was in Phoenix, with family. He invited me to an annual event for his company (hotel, food, flights, etc. all comped). \n\nThe event is in February. However, I decided to go to Montreal until the event. \n\nTherefore I purchased a flight one-way MTL -> Texas, and then one way Texas -> "
+      },
+      {
+        "id": "c8awjg",
+        "title": "Client with overdue invoice now asking me to cover their transaction costs. What's the best I can hope for here?",
+        "score": 36,
+        "comments": 52,
+        "date": 1562082877,
+        "themes_matched": [],
+        "body": "[deleted]"
+      },
+      {
+        "id": "5tpkhp",
+        "title": "Best invoice/account setup?",
+        "score": 5,
+        "comments": 7,
+        "date": 1486944699,
+        "themes_matched": [],
+        "body": "[removed]"
+      },
+      {
+        "id": "4w1c9o",
+        "title": "Best Invoice Solution?",
+        "score": 1,
+        "comments": 7,
+        "date": 1470264062,
+        "themes_matched": [
+          "recommend"
+        ],
+        "body": "I have been freelancing for over a year and I currently use Zoho for invoices because it is free, but I feel as though there must be better solutions out there. What would you recommend? "
+      },
+      {
+        "id": "1kid41",
+        "title": "What is the best invoice app for mac?",
+        "score": 4,
+        "comments": 13,
+        "date": 1376684705,
+        "themes_matched": [
+          "best app"
+        ],
+        "body": "I do freelance illustrations,graphic design and more and I have never really nailed down a good way to track my time, and invoice for my money. What do you think the best app is for Mac? "
+      },
+      {
+        "id": "lphii",
+        "title": "Best invoice tracker?",
+        "score": 2,
+        "comments": 3,
+        "date": 1319615640,
+        "themes_matched": [
+          "need an app"
+        ],
+        "body": "I need an application that I can create multiple projects where I can document time and create invoices. \n\nI've looked into some, but I think the best one I've found so far has been, http://pancakeapp.com. They seem to have everything I need. Before I did buy it, I just wanted to know if there were any other invoice trackers that is really good?"
+      }
+    ],
+    "Entrepreneur__invoice app": [
+      {
+        "id": "1fktslt",
+        "title": "Looking for Feedback: Building a Web App to Automate Invoice Payments and Quote Follow-Ups Using AI",
+        "score": 1,
+        "comments": 1,
+        "date": 1726776637,
+        "themes_matched": [
+          "looking for"
+        ],
+        "body": "[removed]"
+      },
+      {
+        "id": "8sbeiq",
+        "title": "Why should you pay money to send an invoice to someone who owes you money? Use this app to send invoices for free.",
+        "score": 1,
+        "comments": 7,
+        "date": 1529434303,
+        "themes_matched": [],
+        "body": "I'm part of a team building Canada’s first API-enabled banking platform for businesses. In our research, we’ve talked to hundreds of small business owners. We noticed that many businesses use outdated Word and Excel templates to send their invoices, so we built this free (there’s no fees or in app purchases) tool for business owners to send professional invoices.\n\niOS link: https://itunes.apple.com/us/app/free-invoice/id1368542810\n\nAndroid link: https://play.google.com/store/apps/details?id=com.freeinvoice\n\nHope it's helpful. Also, I'd love to hear your feedback!"
+      },
+      {
+        "id": "73wz24",
+        "title": "Free invoice app",
+        "score": 1,
+        "comments": 12,
+        "date": 1506990762,
+        "themes_matched": [
+          "looking for"
+        ],
+        "body": "Are there any free apps that I can use for invoices? I am starting a window cleaning business and looking for an app that I can use to send invoices via email. By free app I mean free as in no monthly charge for the service. Long shot but I'll make sure there isn't a free one out there that I overlooked "
+      },
+      {
+        "id": "6c0htm",
+        "title": "In need of suggestions for an app or program for a tablet. Need to be able to create a delivery order invoice and signature capable on the spot.",
+        "score": 2,
+        "comments": 2,
+        "date": 1495155892,
+        "themes_matched": [
+          "quickbooks",
+          "looking for"
+        ],
+        "body": "Small Canadian food manufacturer. We're looking to get away from our smaller distributors and take on distribution ourselves. We're already running around to pick up their slack. No one cares about our business like we do, they don't care that empty shelves means loss revenue.\n\nLooking for an app or inexpensive program to assist with deliveries.\n\nInstead of wasting time calling each store for orders, I want to create a route and we visit every store on the route, check stock, face stock and rotate and remove short dated stock. Each store will have a preset amount of product that they want. For"
+      },
+      {
+        "id": "6by4up",
+        "title": "HELP. Need an app or program that can assist with creating a delivery order invoice on the spot. Any ideas?",
+        "score": 1,
+        "comments": 1,
+        "date": 1495132479,
+        "themes_matched": [
+          "need an app"
+        ],
+        "body": "[removed]"
+      },
+      {
+        "id": "5p01md",
+        "title": "Recommend invoice/estimate app?",
+        "score": 2,
+        "comments": 1,
+        "date": 1484866499,
+        "themes_matched": [
+          "recommend",
+          "looking for"
+        ],
+        "body": "I get a lot of online quote requests for my business and I am looking for an app that will generate professional looking quotes. I specifically would like one that will let me give several quotes per person at once without having to send several emails. Anyone recommend such an app? "
+      },
+      {
+        "id": "1p8s1a",
+        "title": "Affordable sales app/order/invoice management tool?",
+        "score": 1,
+        "comments": 0,
+        "date": 1382766603,
+        "themes_matched": [
+          "quickbooks"
+        ],
+        "body": "I'm gaining traction with more wholesale accounts. It's great! But I can see that it's going to become hard to keep up with everything. Right now my process is\n\n1. Customer sends me an email or a purchase order\n\n2. I make an invoice using quickbooks, also serves as a printable packing list\n\n3. I pack and ship the order, then email tracking and invoice PDF.\n\nThe problem is that Quick books isn't designed to show me things like all the orders that need to ship this week or customer-specific pricing etc. or requests that aren't exactly purchase orders like \"please let us know if you later restock"
+      }
+    ],
+    "smallbusiness__invoice": [
+      {
+        "id": "1t3axr5",
+        "title": "How do you deal with awkward invoice follow-ups?",
+        "score": 0,
+        "comments": 9,
+        "date": 1777880740,
+        "themes_matched": [],
+        "body": "Most freelancers I know either use spreadsheets or calendar reminders for invoices… and still forget to follow up half the time.\n\nI’ve been talking to a few people and the real problem doesn’t seem to be creating invoices,\n\nit’s the awkward “hey you still owe me” follow-up.\n\nSo I’m building a super simple tool that only focuses on that:  \nYou add an invoice → it automatically sends polite follow-ups before/after due date → stops when paid.\n\nNo accounting, no complex setup.\n\nI’m finishing it in 1 week and wanted to ask:\n\nWould you actually use something like this, or is your current system good"
+      },
+      {
+        "id": "1t2y9f4",
+        "title": "I built a free invoice generator (no signup, no watermark, no limits). Is there still demand for this?",
+        "score": 0,
+        "comments": 2,
+        "date": 1777844006,
+        "themes_matched": [
+          "quickbooks",
+          "harvest",
+          "switch from",
+          "price hike"
+        ],
+        "body": "Hey founders,\n\nI built FreeInvoiceFlow - a completely free invoice generator. Zero signup, zero watermark, zero client limits. Just enter your data and download a professional PDF.\n\nWhy I built this:\n\nI was reading through r/QuickBooks and r/freelance and noticed the same complaints over and over:\n\n• People paying $30-50/month for features they never use\n\n• Sudden price hikes (Harvest went from $12 to $1900!)\n\n• Client limits on \"affordable\" plans (5 clients?!)\n\n• Free tools adding watermarks to invoices\n\n• Interfaces that look like airplane cockpits\n\nSo I built the opposite:\n\n✅ 100% free fore"
+      },
+      {
+        "id": "1t1x8k2",
+        "title": "I tested 27 invoice follow-up messages — here’s what actually gets clients to pay",
+        "score": 0,
+        "comments": 9,
+        "date": 1777745434,
+        "themes_matched": [],
+        "body": "I kept struggling with clients delaying payments, so I started testing different follow-up messages to see what actually works.\n\nWhat I found:\n\n• Super polite messages → often ignored  \n• Aggressive tone → faster payment but risks relationship  \n• The best ones = clear + slightly firm + assume payment\n\nExample that worked well:\n\n“Hey, just a quick reminder that invoice #124 is due today. Let me know once processed.”\n\nSimple, neutral, assumes action.\n\nAfter doing this manually for a while, I got tired and built a small tool that suggests follow-ups based on the situation (delay, client type, am"
+      },
+      {
+        "id": "1t1winn",
+        "title": "I built a simple invoice generator because I was tired of using Excel, it is a free tool, I am just looking for some feedback",
+        "score": 0,
+        "comments": 3,
+        "date": 1777743834,
+        "themes_matched": [
+          "looking for"
+        ],
+        "body": "Hey,\n\nI’ve been working on a small side project recently - a super simple invoice generator aimed at freelancers and small businesses in Spain.\n\nNothing fancy, just something that:\n\n\\- doesn’t require signup  \n\n\\- lets you generate a PDF quickly  \n\n\\- handles basic tax stuff  \n\nMain reason I built it was frustration with using Excel or overly complex tools for something that should be straightforward. It’s still pretty minimal, so I’m more interested in feedback than anything else — especially around UX or anything that feels confusing / missing. \n\nLink if you want to take a look:\n\n[generadord"
+      },
+      {
+        "id": "1t141gx",
+        "title": "Invoice App??",
+        "score": 0,
+        "comments": 6,
+        "date": 1777665244,
+        "themes_matched": [
+          "recommend"
+        ],
+        "body": "Hi All! What programs or apps would you recommend for a piano player who wants to issue invoices clients after gigs. I don't want something too complicated,  just something basic that I can run off a tablet and track which invoices have been paid. \n\nThanks for any help!"
+      },
+      {
+        "id": "1t0eky5",
+        "title": "Accounting software- invoice customization",
+        "score": 1,
+        "comments": 5,
+        "date": 1777597107,
+        "themes_matched": [
+          "quickbooks",
+          "expense"
+        ],
+        "body": "Hello!  I am looking into new accounting software for a small business.  One very important need is fully customizable invoices.  We would need 2-3 different invoice templates, using 2 different logos and different contact info.  One thing the business does is sell auto body parts to body shops - many of these shops need a list price for insurance quotes on their invoices which isn’t available in our current software (quickbooks online).  We’ve found a work around using the SKU but it’s a pain!  It would be much easier to be able to edit in the invoice creation just list description, price, et"
+      },
+      {
+        "id": "1szmvtn",
+        "title": "Invoice follow-up tool for small businesses",
+        "score": 1,
+        "comments": 5,
+        "date": 1777526826,
+        "themes_matched": [
+          "looking for"
+        ],
+        "body": "I'm an accountant who built a free invoice follow-up tool because small businesses lose thousands every year to late payments. It auto-generates reminder emails based on how overdue each invoice is, forecasts your cash flow, and gives you a weekly digest of which clients to chase first. Completely free to try — no signup needed. Link in comments. Just looking for honest feedback from real business owners."
+      },
+      {
+        "id": "1syrv88",
+        "title": "Unpopular opinion: Do small businesses require expensive accounting software? Can a good invoice tracking template do the job?",
+        "score": 0,
+        "comments": 7,
+        "date": 1777448112,
+        "themes_matched": [],
+        "body": "After working with dozens of small businesses, I think most of them don't require accounting software. Most of the business doesn't use this software to its full capacity without using many of its features.\n\nI think a properly planned invoice tracking system customised for your business is the best option.\n\n"
+      },
+      {
+        "id": "1svq962",
+        "title": "Seeking QBO Ireland recommendations: Tools to kill manual invoice entry & bank payments?",
+        "score": 2,
+        "comments": 5,
+        "date": 1777156907,
+        "themes_matched": [
+          "quickbooks",
+          "recommend",
+          "looking for"
+        ],
+        "body": "I’m running a business in Ireland using QuickBooks Online (IE version) and I’m drowning in manual work. Currently, we manually enter every supplier invoice and then manually log into the bank to set up every single payment.\n\n​I'm looking for a stack that:\n\n​Auto-reads invoices (OCR): So I don't have to type in VAT, dates, or amounts.\n\n​Handles Payments: A way to pay suppliers (SEPA/Domestic) without manually re-keying details into the bank.\n\n​Syncs with QBO IE: Needs to handle Irish VAT rates properly.\n\n​Has anyone in Ireland had success with Dext + Plooto? Or is there a better all-in-one like"
+      },
+      {
+        "id": "1stkx02",
+        "title": "How I Cut 15+ Hours a Month on Invoice Reconciliation by Automating Across SaaS Tools",
+        "score": 0,
+        "comments": 7,
+        "date": 1776955683,
+        "themes_matched": [
+          "quickbooks",
+          "square"
+        ],
+        "body": "For the past 18 months, I’ve been running a boutique SaaS consultancy and also help a few local retailers manage their books. The one thing that kept popping up in every conversation with owners and their accountants was the same nightmare: reconciling invoices that live in three, four, even five different platforms—Squarespace, Stripe, QuickBooks Online, HubSpot, and a custom CRM—by hand. What starts as a quick check turns into a 15‑hour‑a‑month slog of copy‑pasting numbers, hunting down missing PDFs, and playing detective to spot duplicate payments.\n\nI tried spreadsheets, Zapier hacks, even "
+      },
+      {
+        "id": "1srhudf",
+        "title": "Clients approving extra work verbally then disputing it on the invoice — how do you deal with this?",
+        "score": 0,
+        "comments": 11,
+        "date": 1776760962,
+        "themes_matched": [],
+        "body": "Had a situation recently where a client asked me to do some extra work mid-job, I did it, and then they acted surprised when it showed up on the bill. All I had was a text saying \"yeah go ahead\" and they're now saying that doesn't count as approval.\n\nWondering how common this actually is and how other people handle it.\n\nDo you have a process for getting approval on extras before you do them, or do you just trust the client and deal with the fallout? Have you ever actually lost money over something like this?\n\nAsking because I feel like my current approach (texts and verbal agreements) is going"
+      },
+      {
+        "id": "1sqis7h",
+        "title": "Unpopular opinion: If you don't pause client work the second an invoice is overdue, you're running a charity, not an agency",
+        "score": 3,
+        "comments": 6,
+        "date": 1776671713,
+        "themes_matched": [],
+        "body": "I’m sick of the 'client relationship' excuse for bad cashflow.\n\nI’ve been running my agency for 5 years, and I’ve come to the conclusion that we are all being played by our clients. We act like their interest-free bank.\n\nI’m thinking about implementing a 'Hard Stop' policy: **The moment an invoice hits 7 days overdue, all service delivery (ads, dev access, reporting) is automatically paused. No exceptions, no PM intervention.**\n\nMy team is terrified this will 'ruin' our reputation. \n\nI think it will actually make clients respect our terms more.\n\n**For those of you doing $1M+ ARR:**\n\n1.\tAm I be"
+      },
+      {
+        "id": "1sppkd4",
+        "title": "Invoice chaser",
+        "score": 0,
+        "comments": 14,
+        "date": 1776595411,
+        "themes_matched": [],
+        "body": "I want to build an invoice chaser unlike traditional tools that rely on generic, automated reminders. Those often feel impersonal and can harm client relationships over time.\n\nInstead, what if we have system that behaves more like a human assistant sending thoughtful, context-aware follow-ups that adapt to each client’s behavior.\n\nMessages are delivered from your own email or number,or by system default which will be optional  with tone and timing that feel natural, not automated.\n\nThe goal is simple:\n\nhelp freelancers get paid faster—without awkward follow-ups or risking client trust."
+      }
+    ],
+    "UKSmallBusiness__invoicing": [],
+    "selfemployed__invoice": [
+      {
+        "id": "1rknk7f",
+        "title": "[CANADA] What tools do you actually use to track business expenses and invoice clients?",
+        "score": 2,
+        "comments": 2,
+        "date": 1772636201,
+        "themes_matched": [
+          "quickbooks",
+          "wave",
+          "expense",
+          "receipt"
+        ],
+        "body": "Curious what's working for people here. I've seen everything from \"I just use Excel\" to full accounting software setups.\n\n\n\nSpecifically:\n\n\\- How do you track day-to-day expenses? Do you photograph receipts or just log manually?\n\n\\- What do you use for invoicing? Word, Wave, Quickbooks, something else?\n\n\\- Do you separate business and personal accounts or mix everything?\n\n\n\nI'm self-employed in Canada so GST/HST adds another layer of fun. Wondering if it's the same chaos everywhere or if some of you have actually figured it out."
+      },
+      {
+        "id": "1rkniu5",
+        "title": "What tools do you actually use to track business expenses and invoice clients?",
+        "score": 1,
+        "comments": 0,
+        "date": 1772636109,
+        "themes_matched": [
+          "expense"
+        ],
+        "body": "[removed]"
+      },
+      {
+        "id": "1q27hm7",
+        "title": "[US] What do you use when you just need to send one invoice?",
+        "score": 0,
+        "comments": 17,
+        "date": 1767380831,
+        "themes_matched": [],
+        "body": "Self-employed question.\n\nMost of the time I don’t need accounting software. I just need to send **one invoice**, get paid, and move on.\n\nWhat usually gets in the way:\n\n* forced signup\n* free trials that ask for a credit card\n* dashboards I’ll never use\n* templates that still need cleanup before exporting a PDF\n\nI don’t bill often enough to justify a full tool, and I don’t even keep Excel installed most of the time.\n\nCurious what others here actually do when it’s just a one-off:\n\n* spreadsheet / Word template?\n* accounting software anyway?\n* something simpler?\n\nNot promoting anything, just tryi"
+      },
+      {
+        "id": "1eq9t9r",
+        "title": "[UK] is a breakdown of materials in invoice normal? ",
+        "score": 1,
+        "comments": 1,
+        "date": 1723457146,
+        "themes_matched": [
+          "expense"
+        ],
+        "body": "Hey, \n\nI recently completed ta bathroom project which grew from day one, I want to get into the area and I wanted to challenge myself a little to do really high end upmarket work. Although the workload doubled I didn’t add any extra expenses on my invoice from my original estimate. The customers have expressed how they rate me and how happy they are with the work. \nThe customers have now asked for a material breakdown for the invoice, which I’ve done yet still waiting for payment.  \nNot sure what their reasoning is and just curious if anyone had had the same thing. "
+      },
+      {
+        "id": "1c6k0qw",
+        "title": "(UK) Company I do contract work for is asking me to invoice more than they are paying",
+        "score": 2,
+        "comments": 9,
+        "date": 1713385063,
+        "themes_matched": [],
+        "body": "I’m a self employed sole trader. One of my clients has asked me to send invoices for more than the agreed amount, they will then send me a remittance notice on payment showing a deduction of their commission. So I invoice £150, they pay £100 and a note with the payment shows a commission deduction of £50. I don’t have an accountant, I did ask one and they advised sending credit notes but the company doesn’t want me to do that. I just want to know if this is a normal thing to do or will I get stung on my side and have to pay tax on the invoice amount?"
+      },
+      {
+        "id": "1al0hd7",
+        "title": "[UK] Client asking me to set up a Coupa profile to process an invoice...",
+        "score": 4,
+        "comments": 6,
+        "date": 1707303938,
+        "themes_matched": [
+          "looking for"
+        ],
+        "body": "Hi everyone,\n\nI was looking for advice. I've received a commission from a big company and they say they use 'Coupa' to process invoices. I have had to send them my NI number (tax number) and now they are telling me I will get an email in a few days where I have to give this company more of my information to set up a profile. All of this to process an invoice??\n\nI just wondered if anyone has had experience with this? I just feel a bit weird handing over so much of my information for a £80 invoice...\n\nThanks so much!"
+      },
+      {
+        "id": "11qtv88",
+        "title": "Need an invoice app that allows multiple projects for the same customer to be on one invoice",
+        "score": 3,
+        "comments": 17,
+        "date": 1678760457,
+        "themes_matched": [
+          "quickbooks"
+        ],
+        "body": "Edit 2: I have an invoicing app. I need one that does a specific thing, preferably on Android. See below for specific thing.\n\nI am a freelance pilot and airplane mechanic. I have one customer with multiple aircraft under different business names, and I also fly for him occasionally; I bill him monthly. I need to be able to provide a single itemized invoice that lists each maintenance task performed on each of the aircraft with subtotals for each month, as well as my billable flight time.\n\nExample of how I'd like everything to be laid out:\n\nN12345 tire change: $90  \nN12345 random repair: $225  "
+      },
+      {
+        "id": "x86ocx",
+        "title": "Waiting for invoices to be paid / using savings until invoice paid",
+        "score": 1,
+        "comments": 6,
+        "date": 1662561136,
+        "themes_matched": [],
+        "body": "I work full time for a business on a self employed basis in uk. I send an invoice to the business on the last working day of the month. I like to ‘reset’ my allowance for the month at the beginning of each month - so pay all my bills and rent and work out much i will have available to spend that month etc.  \nMy invoice is usually paid within a week or two so i usually transfer money from my savings account to stand in for the amount that i am waiting to be paid to pay bills etc and then put the invoice money back in to the savings to top it back up. \nThis has been working fine until now as i a"
+      },
+      {
+        "id": "re6uu7",
+        "title": "When creating a self employed invoice for my employer do i select taxable or non taxable, i know i pay 20% tax and my boss pays that for me but like i say on my invoice before i send it over to him do i select taxable or none taxable ? Ps this is my first invoice so just reaching out, thanks",
+        "score": 1,
+        "comments": 5,
+        "date": 1639250830,
+        "themes_matched": [],
+        "body": "When creating a self employed invoice for my employer do i select taxable ?"
+      },
+      {
+        "id": "r5829q",
+        "title": "I’ve been self employed for a good few years now and happily doing my own taxes and expenses ect ect using quickbooks. But I recently done a job decorating some bookcases for a local carpenter and when he paid the invoice he took 20% tax and issued me a CIS receipt. But I’m not CIS registered.",
+        "score": 7,
+        "comments": 3,
+        "date": 1638226640,
+        "themes_matched": [
+          "quickbooks",
+          "expense",
+          "receipt"
+        ],
+        "body": "As I said in the title really.\n\nI work as a decorator and have been for many years now. I’ve always done my own taxes and invoices ect ect using quickbooks and have never had any problems until now.\n\nI recently got hired to prepare and decorate some bespoke bookcases a local carpenter made and when I issued him the invoice he paid straight away less 20%. And issued me a CIS payment deduction receipt. \n\nMy issue is I’ve always been paid directly by my clients until now and therefore am not CIS registered. I’m not really sure what to do in this situation as I can’t add the CIS deduction into my "
+      }
+    ],
+    "selfemployed__mileage tracker": [
+      {
+        "id": "1qzq3c4",
+        "title": "[US] I built a mileage & trip tracker because I was tired of IRS-unsafe spreadsheets — looking for feedback",
+        "score": 0,
+        "comments": 7,
+        "date": 1770598226,
+        "themes_matched": [
+          "mileage",
+          "subscription",
+          "looking for"
+        ],
+        "body": "Hey all — US self-employed here 👋\n\nLike a lot of you, I track business mileage for taxes, and after one too many sketchy spreadsheets and apps that either miss trips, over-collect data, or lock exports behind subscriptions, I ended up building my own tool.\n\nIt’s a **mobile-first mileage & trip tracker** designed specifically around **IRS documentation requirements**:\n\n* Manual and planned trips (not just passive GPS guessing)\n* Vehicle-based tracking (VIN-tied, one active vehicle at a time)\n* Clean trip logs with date, purpose, miles, and notes\n* CSV export that’s actually audit-friendly\n* Wor"
+      }
+    ],
+    "selfemployed__expense": [
+      {
+        "id": "1sxuxkt",
+        "title": "[UK] What expense tracking habit actually saved you the most time at tax time?",
+        "score": 1,
+        "comments": 7,
+        "date": 1777363369,
+        "themes_matched": [
+          "expense"
+        ],
+        "body": "First year of self-employment I assumed tracking expenses would be the easy bit compared to finding clients. I was wrong.\n\nEnded up doing a panicked April sprint through 11 months of bank statements trying to remember which purchases were for work. My accountant was not impressed. I wasn't impressed either.\n\nThe thing that actually changed it was forcing myself to log anything work-related within 24 hours of spending. Not a fancy system - just a running spreadsheet. Same-day logging meant tax time was a few focused hours instead of a few horrible days.\n\nThe tax year just ended (5 April) so it "
+      },
+      {
+        "id": "1sakodw",
+        "title": "I was spending 4+ hours a month on invoicing, expense tracking, and receipt sorting — finally automated most of it",
+        "score": 1,
+        "comments": 0,
+        "date": 1775143975,
+        "themes_matched": [
+          "expense",
+          "receipt"
+        ],
+        "body": ""
+      },
+      {
+        "id": "1s258va",
+        "title": "[Canada] I’m looking for 5 freelancers to act as a \"Feedback Giver\" for a new expense tracker.",
+        "score": 1,
+        "comments": 0,
+        "date": 1774330520,
+        "themes_matched": [
+          "expense",
+          "looking for"
+        ],
+        "body": "for an expense tracker tool I need 5 people to give me some brutally honest feedback.\n\nIf you're interested in testing it out and telling me what sucks, let me know in the comments or shoot me a DM. benefits for the tester will be discussed later. "
+      },
+      {
+        "id": "1rvs0wl",
+        "title": "Built a free expense tracker that generates Schedule C reports — looking for feedback",
+        "score": 1,
+        "comments": 0,
+        "date": 1773708541,
+        "themes_matched": [
+          "expense",
+          "looking for"
+        ],
+        "body": "[removed]"
+      },
+      {
+        "id": "1rv5w13",
+        "title": "Does anyone have old diesel fuel receipts from Oct 2025–Feb 2026? (Need for expense claim records)",
+        "score": 0,
+        "comments": 0,
+        "date": 1773657272,
+        "themes_matched": [
+          "expense",
+          "receipt"
+        ],
+        "body": ""
+      },
+      {
+        "id": "1qv4cbl",
+        "title": "Building a WhatsApp-based expense/tax tool - looking for beta testers",
+        "score": 1,
+        "comments": 0,
+        "date": 1770152949,
+        "themes_matched": [
+          "expense",
+          "looking for"
+        ],
+        "body": "[removed]"
+      },
+      {
+        "id": "1qaxzth",
+        "title": "[UK] where to expense money spent on stock on my tax return?",
+        "score": 1,
+        "comments": 0,
+        "date": 1768232018,
+        "themes_matched": [
+          "expense"
+        ],
+        "body": "Should I deduct this from the turnover figure, from total allowable expenses, or will there be another place to expense this later in the form? "
+      },
+      {
+        "id": "1q79krw",
+        "title": "[UK] I’ve paid for a team lunch during a work meeting. How to categorise the expense?",
+        "score": 4,
+        "comments": 8,
+        "date": 1767872343,
+        "themes_matched": [
+          "expense"
+        ],
+        "body": "I’m a freelancer. I know I can’t claim for personal lunch expenses in most cases. But I’ve bought a lunch (just nice sandwich platters and fruit etc) for a team meeting over lunchtime. I live in the city we’re meeting in, which is why I bought it, not the company hiring me. \n\nMy usual expense process would be to include it on the invoice and then track it as both income and a business expense. But there is no category for food. Do I categorise is as “misc” or just invoice for it separately and not expense it?"
+      },
+      {
+        "id": "1mf1wpq",
+        "title": "[UK] Claiming business expense for personal car lease",
+        "score": 1,
+        "comments": 0,
+        "date": 1754067571,
+        "themes_matched": [
+          "expense"
+        ],
+        "body": ""
+      },
+      {
+        "id": "1ktootl",
+        "title": "[UK] is putting money into ISA an allowable expense?",
+        "score": 1,
+        "comments": 0,
+        "date": 1748019662,
+        "themes_matched": [
+          "expense"
+        ],
+        "body": "[removed]"
+      },
+      {
+        "id": "1jb3kj0",
+        "title": "[UK] Can you expense purchases on personal credit card in the year you pay, instead of the year you buy?",
+        "score": 1,
+        "comments": 4,
+        "date": 1741957910,
+        "themes_matched": [
+          "expense"
+        ],
+        "body": "My wife would like to buy a laptop now (for work) and claim it as an expense against next year's tax (25-26) instead of 24-25. (hoping to go up a tax band)\n\nIf the laptop is bought now on a credit card the CC bill would only need paying in April - next financial year. My understanding is that when you buy on credit card your agreement is somehow with the Credit Card company not the company you're buying from.  \n  \nSo if she's using [Cash basis accounting](https://www.gov.uk/simpler-income-tax-cash-basis/income-and-expenses-under-cash-basis), would it be ok to claim a laptop against 2025-26 eve"
+      },
+      {
+        "id": "1e14asn",
+        "title": "Categorize income type in an expense tracking app",
+        "score": 1,
+        "comments": 0,
+        "date": 1720744603,
+        "themes_matched": [
+          "expense"
+        ],
+        "body": "[removed]"
+      },
+      {
+        "id": "1d54g30",
+        "title": "Can you write off meals eating during work as a business expense? ",
+        "score": 1,
+        "comments": 0,
+        "date": 1717184964,
+        "themes_matched": [
+          "expense"
+        ],
+        "body": "[removed]"
+      },
+      {
+        "id": "1byg7jp",
+        "title": "[USA] If the company I’m contracted with takes a percentage fee before paying me out, can I deduct the amount they take as a business expense on my taxes?",
+        "score": 3,
+        "comments": 6,
+        "date": 1712525887,
+        "themes_matched": [
+          "expense"
+        ],
+        "body": "Hello. I’m a 1099 employee. I provided a service, and the company that I am contracted with does my billing and various other things. They take a percentage of the total amount at the end of the month before paying me out. Is the money they take something I can deduct when doing taxes? Thank you!"
+      },
+      {
+        "id": "1bv3b6l",
+        "title": "[USA] Expense Software Tracker for Self Employed?",
+        "score": 1,
+        "comments": 0,
+        "date": 1712176104,
+        "themes_matched": [
+          "quickbooks",
+          "expense",
+          "mileage"
+        ],
+        "body": "Hey all, I've been using Quickbooks Self Employed for the last few years. It's been *fineeee*, but in general, I feel like all QB software is generally subpar and always has some bug or technical difficulty. I'm just over it and now they're raising the price, so I'm ready to get out. Does anyone have something they use and like? I'm pretty flexible on features, but the one I **definitely** need is a mileage tracker on a mobile app. Does anyone have any suggestions?"
+      },
+      {
+        "id": "1b7wdpm",
+        "title": "[UK] I'm self-employed in the UK. I cycle to work every day. My bike is on it's last legs and I will have to get a new one. Can I claim it as a business expense?",
+        "score": 1,
+        "comments": 0,
+        "date": 1709720535,
+        "themes_matched": [
+          "expense"
+        ],
+        "body": "I cycle to work every day (Mon-Sat) and my bicycle is my only mode of transport. It's now old and breaking down (repair is not worth it) so I have to get a new one. Can I claim it as a business expense?\n\nI've done a google search but the answers are conflicting and slightly confusing. I will appreciate your help.\n\n&#x200B;"
+      },
+      {
+        "id": "19e21ip",
+        "title": "[uk] are you allowed to claim a bike as a business expense?",
+        "score": 3,
+        "comments": 2,
+        "date": 1706051558,
+        "themes_matched": [
+          "expense"
+        ],
+        "body": "For employees there is the cycle to work scheme which amounts to the same thing (purchasing before tax) and so it would stand to reason you could do the same as a self employed individual?"
+      },
+      {
+        "id": "19e1wl9",
+        "title": "Uk - as a sole trader in the uk are you allowed to claim a bike as a business expense.",
+        "score": 1,
+        "comments": 0,
+        "date": 1706051201,
+        "themes_matched": [
+          "expense"
+        ],
+        "body": "[removed]"
+      },
+      {
+        "id": "1698s3c",
+        "title": "(USA) Per Diem Expense Question",
+        "score": 2,
+        "comments": 9,
+        "date": 1693776206,
+        "themes_matched": [
+          "quickbooks",
+          "expense"
+        ],
+        "body": "\n  Single member LLC here, sole employee as well. I started this company this last May and have become quite busy and travel extensively for work. \n\nI’m putting almost all revenue back into the company until Jan. 1 2024 and take only living expenses as salary. Is it possible to claim my per diem’s as deductible expenses as opposed to paying them to myself?\n  If so, how do I work this. In Quickbooks Online?\n\nThank you awnswering for what may be a stupid question."
+      },
+      {
+        "id": "14nyw0b",
+        "title": "Expense Question",
+        "score": 1,
+        "comments": 0,
+        "date": 1688227930,
+        "themes_matched": [
+          "expense"
+        ],
+        "body": "[removed]"
+      },
+      {
+        "id": "11q9chp",
+        "title": "Allowable meal expense UK",
+        "score": 1,
+        "comments": 0,
+        "date": 1678713152,
+        "themes_matched": [
+          "expense"
+        ],
+        "body": "Until Halloween I'm with a traveling show where we live in mobile homes and change locations every 1-2 weeks. Can I claim the expenses of meals that I buy whilst traveling to new locations? I have to wait half a day for my mobile home to arrive (someone else transports it) and get connected to water and electricity etc. Is this an allowable expense?"
+      },
+      {
+        "id": "x7h8xu",
+        "title": "Am I able to write off SSL security renewal expense for my ebay side business?",
+        "score": 1,
+        "comments": 2,
+        "date": 1662487223,
+        "themes_matched": [
+          "expense"
+        ],
+        "body": "[deleted]"
+      },
+      {
+        "id": "tw8zv0",
+        "title": "How to put Machinery expense in Freshbooks.",
+        "score": 1,
+        "comments": 1,
+        "date": 1649096367,
+        "themes_matched": [
+          "expense"
+        ],
+        "body": "Hello fellow hustlers. I've just started working as a window cleaning contractor, and everything around bookkeeping and taxes is a grey area to me. I've purchased an expensive machine, but I'm not entirely sure how it should be written off in my journal. I know it is a noncurent asset, so it is not an expense in my books? Any help is appreciated, thank you."
+      },
+      {
+        "id": "r8fagt",
+        "title": "Self-employed travel expense",
+        "score": 1,
+        "comments": 1,
+        "date": 1638584639,
+        "themes_matched": [
+          "expense"
+        ],
+        "body": "[deleted]"
+      },
+      {
+        "id": "oed1gh",
+        "title": "Can I write off my peloton as a business expense?",
+        "score": 5,
+        "comments": 8,
+        "date": 1625509159,
+        "themes_matched": [
+          "expense"
+        ],
+        "body": "I’m a cycle instructor independent contractor and teach virtual personal training. I’ve been indoor cycling for 4 years and make quite a bit of side hustle money doing it. I’m moving to a smaller town (going to be training a small local spin studio up there) and I will need to have a bike at home to keep practicing and to keep my fitness up. I know I can definitely write off a ‘normal’ spin bike without the bells and whistles but how much of a green light is a peloton since this is specifically my line of work? I have an entire home office that I dedicate specifically to training zoom calls, P"
+      },
+      {
+        "id": "mr656f",
+        "title": "1099 employee income and expense tracking app / software",
+        "score": 2,
+        "comments": 8,
+        "date": 1618455352,
+        "themes_matched": [
+          "quickbooks",
+          "expense",
+          "recommend"
+        ],
+        "body": "I am starting a new job as a 1099 employee. I need to plan for quarterly taxes and manage write offs. I hate spreadsheets and am bad at tracking this stuff. I used quickbooks before when I ran a photo business. It did not feel easy. What do people recommend?"
+      },
+      {
+        "id": "mnd6m3",
+        "title": "UK expense query",
+        "score": 2,
+        "comments": 5,
+        "date": 1617958963,
+        "themes_matched": [
+          "expense"
+        ],
+        "body": "Am I able to claim my chiropractor fees? I work alot of hours often stood up or within conflict, main reason I need to go there is due to my job."
+      },
+      {
+        "id": "k7flqz",
+        "title": "Self employment not by choice. Are my hours an expense now?",
+        "score": 2,
+        "comments": 4,
+        "date": 1607201865,
+        "themes_matched": [
+          "expense"
+        ],
+        "body": "[deleted]"
+      },
+      {
+        "id": "j7kigu",
+        "title": "How to categorize parking expense?",
+        "score": 1,
+        "comments": 2,
+        "date": 1602187867,
+        "themes_matched": [
+          "expense"
+        ],
+        "body": "[deleted]"
+      },
+      {
+        "id": "ft5xkh",
+        "title": "Car/truck expense for a non-owner",
+        "score": 1,
+        "comments": 5,
+        "date": 1585766540,
+        "themes_matched": [
+          "expense"
+        ],
+        "body": "I live in an urban area where it's not necessary to own a car, and I am self employed as a carpenter.\n\nSometimes I will rent a truck to pickup lumber or do a delivery. Where would I write off these rental/insurance expenses on my schedule C?\n\nOther times, I will borrow a friend or colleague's car or truck to do a pickup or transport myself and my tools out of town to work on a build on site (same state). Usually when I do this, I pay for all tolls, my own gas, and top off the tank when I return the car. Sometimes I'll also take the car for a car wash.\n\nIn my mind, those are business expenses. "
+      }
+    ],
+    "UKPersonalFinance__self employed": [
+      {
+        "id": "1t0r53h",
+        "title": "28M self-employed with £8k savings and no pension: what should I prioritise with £600/month?",
+        "score": 2,
+        "comments": 9,
+        "date": 1777636096,
+        "themes_matched": [
+          "looking for"
+        ],
+        "body": "Hello everyone, I have recently started taking my finances a bit more seriously, and I am looking for some guidance on what to do with the money I am able to put aside after paying for all essentials. \n\n 28M, self employed working in the construction industry. I live in London (which makes it harder to save) with my partner (which makes it easier to save). My current lifestyle, which is very frugal I might say, leaves me with about £600 a month to put aside. \n\n I have about 8k in savings. 4k in the Santander edge savings account (6% AER) and the rest in the Chase savings account (4.5% AER). I "
+      },
+      {
+        "id": "1t0qclk",
+        "title": "Monthly invoiced fully remote work for US company - self-employed or not?",
+        "score": 1,
+        "comments": 6,
+        "date": 1777633810,
+        "themes_matched": [],
+        "body": "Hi all, I've found a few posts about this when searching but none than mention invoicing directly, so here's the deal:  \n  \nIf I'm working from the UK for a US company, fully remote, 40 hours a week, but I can take time off whenever I want (with a few days' notice) and must send them a monthly invoice for total hours worked (max 40hrs/week), at a set rate per hour, am I self-employed or employed under UK law? They pay the gross amount into a UK bank account at the current exchange rate.  \n  \nThanks for your time!"
+      },
+      {
+        "id": "1t0j1sm",
+        "title": "Employed and self employed at same time?",
+        "score": 0,
+        "comments": 8,
+        "date": 1777609723,
+        "themes_matched": [],
+        "body": "Hi, so I’ve been working employed at the docks on a zero hour contract getting around 20-30hours a week. I’m also going to start traffic management during the week as the dock shifts are mostly on weekends. I am employed on PAYE at the docks and the employer does all my tax. But when I start traffic management I will have to be self employed and do my own tax. Was just wondering if anyone had any advice on how I deal with the tax etc and if I need to do anything as never been employed and self employed at the same time. \n\nThanks "
+      },
+      {
+        "id": "1sy220o",
+        "title": "What would be a good 12 month plan to get a obtain a house/maximize savings/credit as a self-employed person on not great income.",
+        "score": 0,
+        "comments": 8,
+        "date": 1777384292,
+        "themes_matched": [
+          "subscription"
+        ],
+        "body": "Essentially, after I finished university 2.5years ago, I started freelancing as an outdoor instructor.\n\nI currently really lucky that I do not pay rent, bills or even very much on food. Literally all my out goings are.\n\nMobile - £12/month\n\nsubscriptions - <£20/month\n\nInsurance for work - £150/year\n\nAccreditations for work - \\~ £300/400/year\n\nCar Insurance and tax - \\~ £500/year\n\nI have 0 debts/loans apart from student finance\n\nobviously there are a few other bits, but really I don't spend a lot of money.\n\nTo put into perspective I earned between £22k - £24k and was left with £19.5k of that jus"
+      },
+      {
+        "id": "1stl8gy",
+        "title": "Setting up SIPP for self employed GF",
+        "score": 0,
+        "comments": 24,
+        "date": 1776956374,
+        "themes_matched": [],
+        "body": "If this is wrong forum let me know\n\nI've been trying to workout out the best SIPP for my partner. Bit of a headache to be honest. She's starting from zero and I want to make sure she get a better start than myself because I now realise how important time is, even if she doesn't at this moment. \n\nThis is what I have found out so far from possible options.\n\nVanguard\n\n0.15% · £48/yr minimum. Clean in-specie transfers. Vanguard funds only\n\nInvestEngine\n\n£0 fees Zero fees likely to change eventually · Transfer out with in-specie isnt available without selking to cash\n\nFidelity\n\n0.35% capped at £90/"
+      },
+      {
+        "id": "1spo6wt",
+        "title": "Do I need to file multiple tax returns if I have different streams of self-employed income?",
+        "score": 3,
+        "comments": 11,
+        "date": 1776590579,
+        "themes_matched": [],
+        "body": "I am an actor who also tutors Maths online, and occasionally babysits/does agency hospitality work, all of which are freelance income streams. I have seen conflicting advice about doing multiple tax returns - for all of these income streams I am trading under my own name, so I wouldn’t know what to call them individually, but equally there is no easy category of work I fall under doing all of these!\n\n  \nDo I need to keep completely separate records and do separate tax returns? "
+      },
+      {
+        "id": "1sp1v4x",
+        "title": "Is buying realistic with £21k self-employed income, £9k savings, and possible family help after Section 21 eviction?",
+        "score": 3,
+        "comments": 23,
+        "date": 1776528858,
+        "themes_matched": [],
+        "body": "Bit of a housing/mortgage question and I’d really appreciate some honest opinions because I’m a bit stuck on what’s realistic here. If it weren’t for my dad’s suggestion, I’d honestly feel like I’m flogging a dead horse.\n\nMy (31F) partner (34M) and I, have been served a Section 21 and need to move out around June (might get a bit longer but not guaranteed). Current rent is £750 but if I move anywhere else locally it’s more like £900–£1,200+, which is a big jump.\n\nThe house I’m in is being sold (no evaluation yet, based on terrace houses either side of me £130-145k) and my dad has suggested we "
+      },
+      {
+        "id": "1solut6",
+        "title": "Pension advice - Old employer scheme to self employed Ltd",
+        "score": 2,
+        "comments": 12,
+        "date": 1776481452,
+        "themes_matched": [],
+        "body": "I have an old pension with Aegon with about 45k in it. This dates back to my employment 10 years ago. I’ve been running my own limited company for the last 10 years as a sole director and need to start paying into a pension scheme. I also want to take advantage of the tax break this allows me on my corporation tax bill each year. The pension I have with Aegon looks like it’s done pretty well (arc) and the fund has done 110% in last 10 years.\n\nMy question is what’s the best thing to do, I’m exploring paying into the scheme directly from my business each month but the pension is still tied to th"
+      },
+      {
+        "id": "1snyzs8",
+        "title": "My wife went self-employed and was terrified of messing up her tax",
+        "score": 1,
+        "comments": 0,
+        "date": 1776427442,
+        "themes_matched": [
+          "expense",
+          "mileage",
+          "mtd"
+        ],
+        "body": "My wife recently went self-employed as a mobile hairstylist after 15 years employed.\n\nWithin the first week she said, “I have no idea what I’m doing with the money side of this.” Not in a dramatic way  just genuine anxiety about tax, expenses, and accidentally doing something wrong.\n\nShe didn’t know what counts as an expense, whether fuel is claimable, how to track products used per client, what she’d need for Self Assessment, what MTD even means. So I told her to just send me everything after each job and I’d track it.\n\nShe’d message me with what service she did what she charged, what product"
+      },
+      {
+        "id": "1sn0n67",
+        "title": "Self Employed and looking at Mettle for business acc",
+        "score": 2,
+        "comments": 1,
+        "date": 1776338599,
+        "themes_matched": [
+          "mtd"
+        ],
+        "body": "Hi there, \n\nWanted to open a proper business account\n\nI was looking at Mettle, as it has the free use of Freeagent which sounds great as MTD approaches..   \nWas just wondering if anyone knew of anything I should be aware of before proceeding? I usually work on individual commissions, or am set up as a supplier for more regular clients, and take payment generally from UK businesses and individuals but occasionally from abroad, Europe, US etc.. \n\n  \nI'd read a couple people saying things like payments from abroad didn't work or that you couldn't pay into pension from it etc. and wanted to check "
+      },
+      {
+        "id": "1smunz6",
+        "title": "Calculating Tax when going from employed to self employed in the same financial year",
+        "score": 6,
+        "comments": 6,
+        "date": 1776318173,
+        "themes_matched": [],
+        "body": "Hi I was previously employed by a company from april 25 - aug 25. I then quit and became self employed from sep onwards. How do you go about calculating the tax I need to pay as I’m guessing my personal allowance would have been used by my previous employer for my paychecks. Any insights would be helpful just so I could roughly calculate what to expect in terms of tax payment. TIA"
+      },
+      {
+        "id": "1smg2sm",
+        "title": "MTD ITSA for my self-employed and landlord people — what's actually going on",
+        "score": 0,
+        "comments": 1,
+        "date": 1776280947,
+        "themes_matched": [
+          "expense",
+          "mtd",
+          "making tax digital"
+        ],
+        "body": "HMRC sent out guidance on Making Tax Digital that somehow managed to make a simple change sound like you're filing for a space mission.\n\nHere's what's actually happening:\n\nIf you're self-employed or a landlord earning over £50k, you now report your income and expenses to HMRC four times a year instead of once. That's genuinely it. You're not paying tax four times. You're just telling them your numbers more often so January isn't a horror show.\n\nDeadlines are 7 Aug, 7 Nov, 7 Feb, 7 May. Miss one and you get a penalty point. Four points = £200 fine. Classic HMRC.\n\nThe threshold drops to £30k nex"
+      },
+      {
+        "id": "1slgvm0",
+        "title": "Sipp recommendations for self employed with variable income.",
+        "score": 1,
+        "comments": 8,
+        "date": 1776190737,
+        "themes_matched": [
+          "recommend",
+          "looking for"
+        ],
+        "body": "hi everyone I'm looking for a pension where I can pay in a small fixed amount ie £1 then top it up at the end of every month.\n\nI'm a self employed driving instructor so my earning can fluctuate a lot depending on time of the year. I do however put away 20% of my earnings from day one to cover my tax bill this obviously always  less than what I have saved away and so it would also be nice to be able to pay the overflow into my pension every year.\n\nCheers and sorry if this is a silly question but I've only ever had workplace pensions in the past however working until I pass away doesn't appeal."
+      },
+      {
+        "id": "1sgo2i9",
+        "title": "The UK tax year just ended, if you're self-employed and haven't checked your\n2025/26 bill, the difference might surprise you",
+        "score": 1,
+        "comments": 2,
+        "date": 1775737298,
+        "themes_matched": [
+          "expense"
+        ],
+        "body": "Disclosure first: I work at Workiro and we built this. Worth knowing before  \nyou read on.\n\nHere's the thing we kept running into when we built it: most self-employed  \npeople have no idea how much their bill changes depending on what they claim.  \nNot in a vague \"expenses are good\" way — in a specific, real-numbers way.  \n\n\nTake a freelancer earning £60k. Claiming nothing: around £15,000 owed.  \nClaiming typical expenses (home office, equipment, phone, travel, insurance):  \ncloser to £11,500. That's £3,500 that was always theirs to keep. Most just  \nhadn't seen it laid out like that before.\n\n"
+      },
+      {
+        "id": "1ser7jw",
+        "title": "I've been served several late penalties and I've never been self employed",
+        "score": 0,
+        "comments": 8,
+        "date": 1775554589,
+        "themes_matched": [],
+        "body": "In 2023 I registered as self employed with HMRC as I was all set to work for a company that required you to file your own taxes. However, this never came to fruition and I ended up working fulltime for a different employer and didnt need my self assessment account anymore. I attempted a form to remove myself, I had no reply as to whether it was successful or not, but continued to have emails asking me to file a tax return. The form stated that I could still receive emails asking for the tax return even if I had been successful in removing myself, so I thought nothing of it. April 2024 comes ro"
+      },
+      {
+        "id": "1seb0yz",
+        "title": "How do you deal with chasing late invoices if you're self employed?",
+        "score": 0,
+        "comments": 13,
+        "date": 1775508327,
+        "themes_matched": [],
+        "body": "So I've got a few mates who are self employed and late payments come up constantly. Like every time we're out someone's moaning about a client who just won't pay up. I started looking into it and the stats are mad. 62% of UK small businesses are chasing overdue invoices right now and over half just write them off because they can't be arsed with the stress.\n\nThe thing that keeps coming up is that most people know they should chase, they just hate actually writing the emails. You're annoyed, you don't want to come across wrong, you overthink every word, then half the time you just don't send an"
+      },
+      {
+        "id": "1s83qq5",
+        "title": "Self employed at 40 and need pension advice",
+        "score": 1,
+        "comments": 6,
+        "date": 1774905662,
+        "themes_matched": [],
+        "body": "Hi all, my wife has recently qualified as a dental therapist (started a bit later in life and has qualified at 40, also has ADHD hence why I'm asking the question as I tend to be the admin person in the marriage)\n\nShe doesn't have a pension and is asking for me to set one up for her. I'm at a bit of a loss with it all and want to make sure I get her the right one. As she's self employed the \"company\" will be paying into the pension for her. I'm trying to work out what an acceptable amount for the company to put in is (she's making about 6k a month 1.5 of which we're putting away as tax) we hav"
+      },
+      {
+        "id": "1s7ms76",
+        "title": "SIPP and side self-employed income",
+        "score": 0,
+        "comments": 8,
+        "date": 1774866595,
+        "themes_matched": [
+          "looking for"
+        ],
+        "body": "I thought I understood SIPP contributions, but I don't. Please help me out.\n\nI earn £50k (gross) from a PAYE job, so already taxed and all. I am registered for self-assessment for very low amounts of earnings (£2k per year normally, I get a tax code adjustment basically), but this year I had an extra income from self-employment that I don't normally have, so I have £18k (profit) sitting in the self-employed bank account.\n\nI already max out ISA etc (also not looking for financial advice but to understand the numbers) and I have been thinking of putting these into a SIPP.\n\nI thought it was a str"
+      }
+    ],
+    "UKSmallBusiness__quickbooks self employed": [],
+    "selfemployed__qbse": [
+      {
+        "id": "1lu2tpw",
+        "title": "[US] Better system for tracking income and tips for solo LLC, currently using square and qbse",
+        "score": 1,
+        "comments": 0,
+        "date": 1751914931,
+        "themes_matched": [
+          "qbse",
+          "quickbooks",
+          "square",
+          "expense"
+        ],
+        "body": "So currently I use QuickBooks self employed and it kinda sucks. There's no integration so I have to do it all manually and tracking and tracking tips separately is such a hassle I don't bother anymore. Basically I just manually enter the total square deposits on line 1 and the fee for using square on line 2.\n\nI am a dog groomer so I just need a real simple system that can track income, tips, and a few expenses. I originally went with qbse because of the paying the estimated taxes it does for me, so bonus if this other platform can do that. I am also not tied to square if there is a better comb"
+      }
+    ],
+    "selfemployed__mtd": [
+      {
+        "id": "1t55aud",
+        "title": "The reason UK freelancers hate \ntheir tax software — and what \nplain English MTD software \nactually looks like",
+        "score": 1,
+        "comments": 0,
+        "date": 1778050664,
+        "themes_matched": [
+          "mtd"
+        ],
+        "body": "[removed]"
+      },
+      {
+        "id": "1t47j6f",
+        "title": "MTD readiness score for landlords — \nknow exactly what is missing \nbefore the August 2026 deadline",
+        "score": 1,
+        "comments": 0,
+        "date": 1777963218,
+        "themes_matched": [
+          "mtd"
+        ],
+        "body": "[removed]"
+      },
+      {
+        "id": "1t47fl2",
+        "title": "Built an MTD tax dashboard for UK sole \ntraders — this is what it shows you \nthe moment you log in",
+        "score": 1,
+        "comments": 0,
+        "date": 1777962883,
+        "themes_matched": [
+          "mtd"
+        ],
+        "body": "[removed]"
+      },
+      {
+        "id": "1t2etp2",
+        "title": "Broke down the three real options \nUK sole traders have for MTD tax help \nfrom April 2026 — the numbers are stark",
+        "score": 1,
+        "comments": 0,
+        "date": 1777793701,
+        "themes_matched": [
+          "mtd"
+        ],
+        "body": "[removed]"
+      },
+      {
+        "id": "1t0m00i",
+        "title": "I built a free MTD Income Tax web app \nfor sole traders — would love \nhonest feedback",
+        "score": 1,
+        "comments": 0,
+        "date": 1777619130,
+        "themes_matched": [
+          "mtd"
+        ],
+        "body": "[removed]"
+      },
+      {
+        "id": "1snzpbd",
+        "title": "[UK] When to start MTD ?",
+        "score": 1,
+        "comments": 0,
+        "date": 1776429337,
+        "themes_matched": [
+          "mtd"
+        ],
+        "body": "Just getting as little confused on this.    You need to start doing MTD when you get to a certain salary, but often, you don't know if you've hit that certain salary until the end of the tax year??\n\nSo, when do you actually start it please?"
+      },
+      {
+        "id": "1sn9ve4",
+        "title": "[UK] Looking to speak to UK freelancers / sole traders about MTD quarterly submissions",
+        "score": 0,
+        "comments": 3,
+        "date": 1776359616,
+        "themes_matched": [
+          "quickbooks",
+          "mtd",
+          "making tax digital",
+          "looking for"
+        ],
+        "body": "Hi all,\n\nI’m building a simple tool to help freelancers and sole traders handle the new Making Tax Digital quarterly submissions without needing full accounting software.\n\nCurious to hear from anyone who:\n\n* Is self-employed / freelance\n* Plans to handle this themselves (not via an accountant)\n\nAre you planning to use tools like QuickBooks / FreeAgent, or looking for something simpler?\n\nWould appreciate a quick 10–15 min chat or can send a few questions.\n\nThanks 🙏"
+      },
+      {
+        "id": "1s9z4ko",
+        "title": "MTD",
+        "score": 1,
+        "comments": 0,
+        "date": 1775081442,
+        "themes_matched": [
+          "mtd"
+        ],
+        "body": "[removed]"
+      },
+      {
+        "id": "1s9z3xh",
+        "title": "MTD - What is everyone doing?",
+        "score": 1,
+        "comments": 0,
+        "date": 1775081402,
+        "themes_matched": [
+          "mtd"
+        ],
+        "body": "[removed]"
+      },
+      {
+        "id": "1rr0jub",
+        "title": "(UK) best free MTD software for a gardener?",
+        "score": 2,
+        "comments": 5,
+        "date": 1773250737,
+        "themes_matched": [
+          "expense",
+          "mtd",
+          "recommend"
+        ],
+        "body": "I'm a gardener. I have a simple tax thing _ few  expenses, sometime use subcontractors, nothing else. No property, no tax avoidance schemes or anything like that.\nMoney in from invoices , money out for compost and plants (subcontractor sometime) and that's it. \n\nWhat would be the easiest and best software for me ? Any recommendations?"
+      },
+      {
+        "id": "1rlfjzp",
+        "title": "MTD ITSA software",
+        "score": 1,
+        "comments": 0,
+        "date": 1772711267,
+        "themes_matched": [
+          "mtd"
+        ],
+        "body": "[removed]"
+      },
+      {
+        "id": "1qmgxq0",
+        "title": "[UK] Worst part of self-employed bookkeeping (MTD)?",
+        "score": 1,
+        "comments": 0,
+        "date": 1769341176,
+        "themes_matched": [
+          "mtd"
+        ],
+        "body": "[removed]"
+      },
+      {
+        "id": "1qeg433",
+        "title": "How are the freelancers organizing income and expenses now that MTD is coming in?",
+        "score": 1,
+        "comments": 0,
+        "date": 1768570553,
+        "themes_matched": [
+          "expense",
+          "mtd"
+        ],
+        "body": "[removed]"
+      },
+      {
+        "id": "1qa038m",
+        "title": "[UK} - Tax Payers - How are you preparing for MTD",
+        "score": 1,
+        "comments": 0,
+        "date": 1768140171,
+        "themes_matched": [
+          "mtd"
+        ],
+        "body": "[removed]"
+      },
+      {
+        "id": "1qa02j7",
+        "title": "[UK} - Tax Payers - How are you preparing for MTD",
+        "score": 1,
+        "comments": 0,
+        "date": 1768140119,
+        "themes_matched": [
+          "mtd"
+        ],
+        "body": "[removed]"
+      }
+    ],
+    "barber__booking app": [
+      {
+        "id": "1rkxw63",
+        "title": "Best booking app to gain clients ?",
+        "score": 0,
+        "comments": 5,
+        "date": 1772659083,
+        "themes_matched": [],
+        "body": "I'm sure it varies by area but what app gave you the most success"
+      },
+      {
+        "id": "1p27wxe",
+        "title": "Opening a Barbershop - Do I Need a Booking App or Website?",
+        "score": 0,
+        "comments": 8,
+        "date": 1763656718,
+        "themes_matched": [],
+        "body": "I've been advised to get a booking app to handle my calendar, but not sure if I need one to start off. \n\n  \nI might be more inclined to get one of those AI phone agents that can take calls and book for you. \n\n  \nAs barbers, what takes more time from you.. booking clients through messages or calls? Should I get a website that includes a booking solution or does that really not matter? \n\n  \nThanks!"
+      },
+      {
+        "id": "1ofuyh9",
+        "title": "Do you allow walk-ins or do you use a booking app?",
+        "score": 1,
+        "comments": 8,
+        "date": 1761407508,
+        "themes_matched": [],
+        "body": "Hi, I would rather not do the booking app thing as it is hard to manage, but recently I started getting more clients and they complain about waiting. \n\nDo you think i should use a booking app for my client base?"
+      },
+      {
+        "id": "1lxb5j5",
+        "title": "Cost of building your own booking app",
+        "score": 0,
+        "comments": 16,
+        "date": 1752250745,
+        "themes_matched": [
+          "square",
+          "looking for"
+        ],
+        "body": "I’m planning to rent a suite this year and I’m having such a hard time deciding which app would be best for me and my clients. Looking for  cheap, reliable and easy to work with BUT I have read some get their own booking system built for their business. What’s the average cost for that for one person?  \nI was self employed for about 8 years 25 years ago so I was just taking cash and checks. I work for a saloon now and we have a receptionist so I’m not too familiar with the latest of online appointments and POS but I’m slowing learning. I’ve looked into Square, Squire and Booksy seem to be the "
+      },
+      {
+        "id": "1bhub3l",
+        "title": " Booking App For Shops?",
+        "score": 1,
+        "comments": 2,
+        "date": 1710777742,
+        "themes_matched": [
+          "looking for"
+        ],
+        "body": "Anyone have any suggestions on booking apps? My locations currently use Squire and while the clients typically love it, we don’t really love it. It comes with a lot of issues for $300 a month lol. \n\nCurrently eyeing Fresha as it has everything we are looking for but it doesn’t really cater to booth renters. Anyone using anything similar to Fresha? \n\nWe need all the basics that come with a booking app but the big thing I am looking for is an option for “after hour” services to reflect the pricing. Fresha allows this with $xx amount increase/decrease during busy or slow times so anything similar"
+      },
+      {
+        "id": "18p7b6o",
+        "title": "What booking app do I use?",
+        "score": 4,
+        "comments": 13,
+        "date": 1703343307,
+        "themes_matched": [],
+        "body": "Starting my own shop. I wanna do appointments at some point cause space is small. Just asking advice on which booking app to use and how user friendly is it?"
+      },
+      {
+        "id": "18ernkm",
+        "title": "Booking app",
+        "score": 1,
+        "comments": 1,
+        "date": 1702169470,
+        "themes_matched": [
+          "square"
+        ],
+        "body": "I’m using square for booking. Do you think something else is better?"
+      },
+      {
+        "id": "17m3tk8",
+        "title": "Is there an app i can use just for booking?",
+        "score": 1,
+        "comments": 0,
+        "date": 1698932727,
+        "themes_matched": [
+          "is there an app"
+        ],
+        "body": "My shop is cash only, i want to get more clients but it looks like booksy accepts card payments and shit i dont wanna deal with. What apps are you guys using for booking?"
+      },
+      {
+        "id": "14ytjr1",
+        "title": "A client hit me up today, even though I use a booking app of course. I love this for us.",
+        "score": 79,
+        "comments": 96,
+        "date": 1689275434,
+        "themes_matched": [],
+        "body": ""
+      },
+      {
+        "id": "13x3rrf",
+        "title": "Thoughts on the squire booking app for a barbershop?",
+        "score": 0,
+        "comments": 11,
+        "date": 1685580950,
+        "themes_matched": [],
+        "body": ""
+      }
+    ],
+    "Hairstylist__appointment app": [
+      {
+        "id": "1ey9hul",
+        "title": "Best appointment app for my business ",
+        "score": 2,
+        "comments": 3,
+        "date": 1724297634,
+        "themes_matched": [
+          "best app"
+        ],
+        "body": "Hi, I’ll be renting a suite for the first time in a few months. My clientele are men only. Any suggestions on appointment apps/website I should look into that are easy to navigate for me and the clients? "
+      }
+    ],
+    "massage__scheduling app": [
+      {
+        "id": "1afgcav",
+        "title": "Another scheduling app question",
+        "score": 1,
+        "comments": 4,
+        "date": 1706702746,
+        "themes_matched": [
+          "square",
+          "acuity",
+          "looking for"
+        ],
+        "body": "I know this question gets asked so many times.\n\nI have read many of the other posts. What I'm looking for in a scheduling service is \"card on file\" (no show protection), e-signature agreement of policies, and text message reminders. I'm less concerned with health history intake, since I'll probably use a 1 page paper. Cost is a big factor for me since I'm just getting started.\n\nAcuity looks good, but no e-signature.\n\nNoterro I used last year for the few months (verbal rental agreements are bad), I disliked the portal aspect, but otherwise amazing. \n\nMy current 2 choices are square appointments"
+      },
+      {
+        "id": "120l49y",
+        "title": "What do you wish a scheduling app did to help your business?",
+        "score": 10,
+        "comments": 8,
+        "date": 1679666222,
+        "themes_matched": [],
+        "body": "I wish there was a feature that could automatically auction a cancelation opening to the clients on my waiting list. That way I wouldn't have to call or text each one individually and I could stay booked. Or it would offer a timed discount as it drew closer to the opening slot, something like that. What do you wish you had or your app did to make your job easier? \nAs a client, what do you wish I did as a therapist to make your appointment easier?"
+      },
+      {
+        "id": "zr3cgk",
+        "title": "Scheduling app to request appointments",
+        "score": 1,
+        "comments": 3,
+        "date": 1671579139,
+        "themes_matched": [
+          "looking for"
+        ],
+        "body": "I want the ability to approve an appointment, so I'm looking for a scheduling software that allows a client to view availability and request an appointment instead of booking the appointment. I believe MassageBook can do this. Any others?"
+      },
+      {
+        "id": "t53fzl",
+        "title": "Fresha scheduling app",
+        "score": 4,
+        "comments": 6,
+        "date": 1646237284,
+        "themes_matched": [
+          "square"
+        ],
+        "body": "Just wondering if anyone uses Fresha for their online booking. I've been using Square appointments for several years but with their new upcoming pricing tiers I'm no longer going to be using them. If you use/have used Fresha, what has your experience been? Thanks!"
+      },
+      {
+        "id": "lnmgw9",
+        "title": "Massage therapists, I am look for a simple scheduling app that can be used on mobile devices.",
+        "score": 13,
+        "comments": 23,
+        "date": 1613758361,
+        "themes_matched": [],
+        "body": ""
+      },
+      {
+        "id": "3i0hhr",
+        "title": "We’ve built an app to help you with scheduling appointments, tell us what you think!",
+        "score": 1,
+        "comments": 0,
+        "date": 1440279993,
+        "themes_matched": [
+          "looking for"
+        ],
+        "body": "Hello RMTs!\n\nWe have been working on an appointment scheduling service for EMTs and other professional service providers. It’s called Ajenda, and it gives independent professionals a better and faster way to manage appointments with their clients. Our iPhone & web app lets you create and manage appointments, and lets your clients easily book their own appointment right on the web.\n\nThe app is still in beta and we’re looking for personal trainers to try the app and provide feedback on what’s good and what needs to be improved so we can make sure that it fits the needs of our users. And as a tha"
+      },
+      {
+        "id": "2yy5vh",
+        "title": "Is there an app for scheduling clients?",
+        "score": 3,
+        "comments": 9,
+        "date": 1426278930,
+        "themes_matched": [
+          "is there an app"
+        ],
+        "body": "I'm somewhat self employed and would like to use an app to schedule my clients. I have an android phone, used to have a nice app on my last iPhone that would allow the clients to log on, see my available times, and kind of schedule themselves and it would send me a text letting me know. I would love to find something like that. Preferably free, but I'd be willing to pay for the convenience. Thanks! :)"
+      }
+    ],
+    "cycling__tracker app": [
+      {
+        "id": "1so2bia",
+        "title": "Fun and Simple Parts Tracker App",
+        "score": 1,
+        "comments": 0,
+        "date": 1776435456,
+        "themes_matched": [
+          "strava"
+        ],
+        "body": "Hello all! I built a small web app for myself and have enhanced it to open it up to users. Right now you can add bikes and parts per bike and track miles and lifespan of parts. I'm working on integrating Strava so that miles update automatically but for now you can just \"Add a Ride\" and the miles of your ride will update all of you parts. There is a tracker to notify you when your getting close to maintenance for a part based on its lifespan and when you are overdue. Hope it helps people track their parts. [https://kado.bike/login](https://kado.bike/login). There is a small $1 fee to add more "
+      },
+      {
+        "id": "16rjxdx",
+        "title": "Noob question: Should I start a ride with my Garmin 1040, my Strava app on my Apple watch, or my fitness activity tracker option on my Apple Watch?",
+        "score": 0,
+        "comments": 7,
+        "date": 1695621406,
+        "themes_matched": [
+          "strava"
+        ],
+        "body": "I don't know if there's a difference, but I'd like to choose the most accurate option for uploading to something like my Strava account, without having three identical runs populate, ha! I'm a long time cyclist, but very new to tracking using apps/hardware!"
+      },
+      {
+        "id": "157o8yp",
+        "title": "I just bought a spin bike, Wahoo speed and cadence tracker and I’m looking to get a subscription to peloton or zswift app (Open to suggestions)",
+        "score": 0,
+        "comments": 1,
+        "date": 1690141570,
+        "themes_matched": [
+          "subscription"
+        ],
+        "body": "I have an Apple Watch that I want to sync my work outs to as well. \n\nI am not a cyclist, I just want to lose weight, improve and build up my cardio / stamina whilst I recover from a broken toe as I have signed up for a 10k in 3 months. 🥶"
+      },
+      {
+        "id": "12ozrup",
+        "title": "Any app for touring or just maps like komoot or sports tracker my phone is dog shit huawei p40 lite. i doesn't have google service my galaxy flip 3 is dead screen cracked in the middle can't see anything",
+        "score": 0,
+        "comments": 6,
+        "date": 1681701045,
+        "themes_matched": [
+          "komoot"
+        ],
+        "body": ""
+      },
+      {
+        "id": "gh7l37",
+        "title": "What fitness tracker app do you use instead of strava?",
+        "score": 0,
+        "comments": 7,
+        "date": 1589138277,
+        "themes_matched": [
+          "strava"
+        ],
+        "body": "[deleted]"
+      },
+      {
+        "id": "djh0n2",
+        "title": "Fitness tracker app",
+        "score": 1,
+        "comments": 3,
+        "date": 1571366339,
+        "themes_matched": [
+          "strava"
+        ],
+        "body": "Hello guys,\n\nI have been using a sports tracker app that I randomly downloaded from playstore in 2016.\n\nhttps://play.google.com/store/apps/details?id=com.stt.android\n\nThis app is not something that gets listed in \"top 10 fitness tracker app\" articles on all these fitness websites and I always used to wonder why.\n\nAnyway my point is, when I tried the other common ones like strava, endomondo, runtastic... I found them to be severely limited compared to what I have been using. Literally several times more the number of features and everything is just as refined.\n\nFor example, when I tried starva "
+      },
+      {
+        "id": "apwimq",
+        "title": "Route tracker app advise?",
+        "score": 1,
+        "comments": 9,
+        "date": 1549996322,
+        "themes_matched": [
+          "recommend"
+        ],
+        "body": "Hello friends! I have a Hail Mary for you! \n\nI have just started cycling around Berlin and I want an app that will keep track of my rides. I don't need tons of bells and whistles (I can check my own heart rate and share my own photos), but I want to simply track my routes and times so that I can see a record of my improvement. I also don't have a lot of space on my phone, and I'm not going to buy a new phone any time soon. I've searched through Google Play Store and haven't found any apps which I have space for. Can anyone recommend a very small tracker app? Maybe one that can link into Google"
+      }
+    ],
+    "cycling__best cycling app": [
+      {
+        "id": "1qubg4m",
+        "title": "Starting to bike more often. Whats the best app for tracking cycling?",
+        "score": 2,
+        "comments": 8,
+        "date": 1770074917,
+        "themes_matched": [
+          "best app"
+        ],
+        "body": ""
+      },
+      {
+        "id": "1pz1m75",
+        "title": "Best Streaming App for Watching Cycling Racing?",
+        "score": 2,
+        "comments": 20,
+        "date": 1767050588,
+        "themes_matched": [],
+        "body": "Is it Peacock …? What happened to OLN?? What are other options …??"
+      },
+      {
+        "id": "1p86k51",
+        "title": "Best indoor cycling app for trainer",
+        "score": 14,
+        "comments": 37,
+        "date": 1764261160,
+        "themes_matched": [],
+        "body": "Hey everyone! I’m pretty new to cycling and trying to get better. I have an indoor trainer and I’ve tried both Zwift and Rouvy, but I’m not sure which app is actually best for improving as a a newer rider.\n\nFor anyone with more experience"
+      },
+      {
+        "id": "1lyqqkp",
+        "title": "Looking for the best app for cycling (just for ride and climbing , travel in forest)..",
+        "score": 0,
+        "comments": 7,
+        "date": 1752406854,
+        "themes_matched": [
+          "strava",
+          "komoot",
+          "best app",
+          "looking for"
+        ],
+        "body": "im using strava at the moment and i don’t know if i need to use another app (like komoot and others) , just need some advice , ty!\n\n"
+      },
+      {
+        "id": "1lab79h",
+        "title": "Best app for cycling news?",
+        "score": 0,
+        "comments": 4,
+        "date": 1749805297,
+        "themes_matched": [
+          "best app",
+          "looking for"
+        ],
+        "body": "I’m looking for the best mobile app for cycling news - ideally for both general articles and to track live sports "
+      },
+      {
+        "id": "1feyfor",
+        "title": "Which is the best app for cycling?",
+        "score": 1,
+        "comments": 12,
+        "date": 1726133543,
+        "themes_matched": [
+          "strava",
+          "best app"
+        ],
+        "body": "Recently I have tried many apps like samsung health, mapmyride, zeopoxa and strava.\nI saw most of the guys using strava but I started my ride and used all apps and while recording videos my phone's storage got exhausted and then I noticed that all apps are fine but strava stoped the trip and cleared the stats."
+      },
+      {
+        "id": "1f7ped4",
+        "title": "What’s best cycling app?",
+        "score": 6,
+        "comments": 22,
+        "date": 1725331845,
+        "themes_matched": [],
+        "body": "Just started, thank you for the response in advance."
+      },
+      {
+        "id": "1eby173",
+        "title": "Best app for cycling? ",
+        "score": 13,
+        "comments": 53,
+        "date": 1721922024,
+        "themes_matched": [
+          "strava",
+          "best app"
+        ],
+        "body": "Recently starting biking for shits and gigs and have started to really love it. I’m working my way up to some longer rides outside my immediate area and wanted to know what the best app is for tracking and mapping your ride is. I have Strava on my garmin but wasn’t sure if there was a better app to use for maps. "
+      },
+      {
+        "id": "1dsfslr",
+        "title": "Best app for finding local cycling routes",
+        "score": 0,
+        "comments": 11,
+        "date": 1719793443,
+        "themes_matched": [
+          "strava",
+          "best app",
+          "recommend"
+        ],
+        "body": "I like riding 30+ mile rides and have been going to a hard pack gravel rail trail (Katy Trail). I love it, but it’s a 25 minute drive from my house. I dislike riding in traffic, but would love some compromise that doesn’t involve over an hour by the time you count loading and unloading the car. And I not ride maybe a day a week because of the huge time commitment caused by the drive. \n\n\nI live in a suburban neighborhood with massive thoroughfares around - 3 lanes in each direction 50mg speed limit. Garmin Connect keeps casually recommending I utilize parts of this highway-with-traffic lights, "
+      },
+      {
+        "id": "1do1520",
+        "title": "Best Cycling App for city routes ",
+        "score": 1,
+        "comments": 8,
+        "date": 1719304590,
+        "themes_matched": [],
+        "body": "Hi! I really need something more detailed than Google Maps since I live in a city where people drive like crazy horses everywhere and all of the time.\nWe have some bicycle lanes but they often stop in the middle of nowhere and Maps makes it really hard to understand where the next lane is. Also, sometimes it gives me indications that lead me to very dangerous roads. \n\nThanks in advance "
+      },
+      {
+        "id": "17bw0eu",
+        "title": "Best cycling computer and app for finding cycle paths in USA?",
+        "score": 3,
+        "comments": 6,
+        "date": 1697755667,
+        "themes_matched": [
+          "recommend",
+          "looking for"
+        ],
+        "body": "I'm looking for an app that will help me identify dedicated bike paths/trails in the USA. Leisure exploration, not demanding mountain biking. I find Google Maps too prone to recommend sharing streets with cars when there is a bike-only path available nearby. Also, I am the sort of person who can get lost 1 mile from home, so I'm  looking for turn-by-turn navigation on my handlebars. My phone screen is unreadable in bright sunlight. I don't need to record my ride or collect any metrics about my \"performance.\""
+      },
+      {
+        "id": "15ko05l",
+        "title": "The best app for road cycling and daily commuting",
+        "score": 0,
+        "comments": 3,
+        "date": 1691422287,
+        "themes_matched": [
+          "strava",
+          "best app",
+          "looking for"
+        ],
+        "body": "Hi! I am looking for a good app for cycling. I ride a road bike and a city bike. Both for sport and for daily commuting.\nI have a speed and cadence sensor from Garmin and a heart rate belt from Wahoo.\nThe best thing would be an app that can navigate, record data and share it with Strava.\nI just tried the Wahoo app but was disappointed as the data doesn't end up on Strava and also the connection of the sensors is unreliable.\nThanks for your tips!"
+      },
+      {
+        "id": "15793i6",
+        "title": "Best cycling app with ant+ show speed and cadence iPhone",
+        "score": 0,
+        "comments": 20,
+        "date": 1690100560,
+        "themes_matched": [
+          "looking for"
+        ],
+        "body": "Hi\nI'm using a Garmin watch and Garmin cadense and speed sensor for the meassurement and logging, but I'm gonna use my phone for maps, attached to the bike handle. \n\nbut I'm looking for an app which can show the speed and cadence for the ant+ sensors, then I would have Google maps and that app in a split screen on my phone..\n\n anyone know a good app and solution for that ?"
+      },
+      {
+        "id": "13embji",
+        "title": "Best cycling app with heart rate monitor AND gps?",
+        "score": 0,
+        "comments": 21,
+        "date": 1683808995,
+        "themes_matched": [
+          "strava",
+          "komoot"
+        ],
+        "body": "Komoot is by far the best for route planning. But it sadly doesn't have HR integrated. Strava does, but it's gps/map function is poor, I can't see the fucking red line and it doesn't give directions. And if you want to see HR you can't also see the map.\n\nI want to be able to see my HR while riding and getting directions."
+      },
+      {
+        "id": "1368zly",
+        "title": "HOW TO TRACK MILEAGE ON INDOOR BIKE TRAINER/ BEST CYCLING APP",
+        "score": 0,
+        "comments": 7,
+        "date": 1683084022,
+        "themes_matched": [
+          "strava",
+          "mileage"
+        ],
+        "body": "I’m looking to find the best cycling app to transmit my mileage and speed. I use mag graber bike trainer. I use garmin forerunner 55. I have a garmin speed sensor & cadence sensor. I use a garmin HRM. I also have a USB ANT +. I have used zswift and found I don’t care much to see myself race as I do seeing the data. I feel like I have all the accessories but not using them properly. I use strava to track my activities. Looking to find a way to see mileage, speed & time don’t really care for much else."
+      },
+      {
+        "id": "1034ef3",
+        "title": "Best app for cycling?",
+        "score": 5,
+        "comments": 17,
+        "date": 1672840927,
+        "themes_matched": [
+          "best app"
+        ],
+        "body": "Hello there!\n\nI'm planning a cycle ride for charity from the Netherlands to the UK via Belgium and France.\nI used Google maps to roughly get the direction, but I'm scared that the roads will be very busy in Belgium/ France as I don't know them. \n\nHas anyone cycled via the coastline (De Haan, Oostende, Calais, Dieppe) and what route would you use? \n\nMany thanks!"
+      },
+      {
+        "id": "wlm7wf",
+        "title": "Best android cycling app that works with bluetooth power meter?",
+        "score": 0,
+        "comments": 8,
+        "date": 1660206535,
+        "themes_matched": [
+          "strava"
+        ],
+        "body": "Hi tips, does strava work with bluetooth power meter now?"
+      },
+      {
+        "id": "w3nn64",
+        "title": "Best Cycling App?",
+        "score": 5,
+        "comments": 13,
+        "date": 1658327071,
+        "themes_matched": [
+          "strava",
+          "recommend"
+        ],
+        "body": "Hi all, I'm fairly new to this and I've been using the app Zeopoxa so far to track my routes. I've heard a lot about an app called Strava though and was wondering if I should switch.\n\nDoes anyone know if there are any major differences? Maybe other options? What do you recommend?"
+      },
+      {
+        "id": "v7b53g",
+        "title": "Cycling FTP Test: which App is best",
+        "score": 0,
+        "comments": 6,
+        "date": 1654644936,
+        "themes_matched": [],
+        "body": "I already rode my smart trainer to measure my FTP or Functional Threshold Power using my Polar app. FTP is a measure of the highest average power you can sustain for one hour, measured in watts, a measure of fitness and indicates the amount of work you can sustain for long durations). \n\nI plan to repeat the test and want to consider using three ways of measuring when I ride 20 minutes (not all the same day): Polar Flow, Wahoo (the make of my smart trainer) and Zwift (simple test only at this time). \n\nAny cyclists have any experiences using any or several of the above Apps to provide feedback w"
+      },
+      {
+        "id": "v5m88y",
+        "title": "Best App for cycling. (Cell phone)",
+        "score": 0,
+        "comments": 9,
+        "date": 1654462050,
+        "themes_matched": [
+          "best app",
+          "recommend",
+          "looking for"
+        ],
+        "body": "Im looking for an app with Apple Watch compatibility. \nIt would be great if I could see heart rate, route and km/h in one screen.\n\nAny Recommendations ?"
+      },
+      {
+        "id": "uujf6s",
+        "title": "Best cycling app UK",
+        "score": 0,
+        "comments": 5,
+        "date": 1653124349,
+        "themes_matched": [
+          "looking for"
+        ],
+        "body": "Hi all!\nI’m looking for a cycling route planner app as similar to Google Maps as possible but that has the option to only show me cycle paths/off-road routes. Does anyone know of an app like this?\n\nTIA"
+      },
+      {
+        "id": "tgehjl",
+        "title": "What's the best app for tracking my cycling?",
+        "score": 3,
+        "comments": 17,
+        "date": 1647535495,
+        "themes_matched": [
+          "strava",
+          "best app"
+        ],
+        "body": "Is Strava a good one?"
+      },
+      {
+        "id": "tdwpr4",
+        "title": "best fall detection app for cycling?",
+        "score": 6,
+        "comments": 15,
+        "date": 1647262105,
+        "themes_matched": [],
+        "body": "As the title says. I commute to work via bike most days, the ride back is at night. I have plenty of lights, etc, but would like to add a fall detection app to my phone just in case. Any suggestions? I use an Android based phone."
+      },
+      {
+        "id": "r3b42h",
+        "title": "What's the best app for cycling around places?",
+        "score": 3,
+        "comments": 10,
+        "date": 1638009922,
+        "themes_matched": [
+          "komoot",
+          "best app",
+          "need an app"
+        ],
+        "body": "I'm currently using Komoot, but I need an app that measures distance in km and speed in km/hr.\n\nThank you very much for your answers."
+      },
+      {
+        "id": "otbtil",
+        "title": "What are the best apps that tracks cycling without going inside the app ?",
+        "score": 0,
+        "comments": 12,
+        "date": 1627484926,
+        "themes_matched": [
+          "best app"
+        ],
+        "body": "The title says it all, I recently started cycling again after well, almost all my life, and now I start to use the bike a lot, but on the apps I've found you need to go inside them to track what you're doing, I've seen some app that tracks automatically when you're walking but didn't find one for cycling,\n\nTo make it clear:  I need something free, that doesn't need to activate manually (because I tend to forget to open it) and on android if possible ! Thanks in advance !"
+      },
+      {
+        "id": "okvkui",
+        "title": "Best Watch/App for tracking Cycling?",
+        "score": 3,
+        "comments": 25,
+        "date": 1626364168,
+        "themes_matched": [
+          "strava"
+        ],
+        "body": "Hello Everyone,\n\nI am a gadget guy and have the Garmin Vivoactive with the Garmin Connect App and the Apple Watch latest version (6 I think).\n\nI have tried Strava with the Apple Watch as well as the native Apple fitness app.\n\nMy observations are that the Garmin Vivoactive does a great job, but I have become attached to my iPhone and Apple Watch and kind of want to keep it on during my rides for notifications, calls, etc.   I have the Garmin cadence device and that is cool, but seems to only work with the Garmin App.   I miss the Cadence when I only use the Apple Watch - maybe I just haven’t fi"
+      },
+      {
+        "id": "o0pvqv",
+        "title": "Best offline cycling maps app ios free",
+        "score": 1,
+        "comments": 4,
+        "date": 1623794835,
+        "themes_matched": [
+          "strava",
+          "recommend"
+        ],
+        "body": "A little context, I am just getting into cycling. Interested to use an app to show me the route to places. I’m from Singapore by the way. I saw strava being recommended by my friends but i believe it isn’t exactly free?? Thanks alot guys"
+      },
+      {
+        "id": "nkc5d0",
+        "title": "Best cycling app for iPhones?",
+        "score": 0,
+        "comments": 8,
+        "date": 1621901070,
+        "themes_matched": [],
+        "body": ""
+      },
+      {
+        "id": "nck2tr",
+        "title": "Best cycling app for navigation, training etc?",
+        "score": 1,
+        "comments": 7,
+        "date": 1621029347,
+        "themes_matched": [],
+        "body": ""
+      }
+    ],
+    "bikecommuting__route": [
+      {
+        "id": "1ss7udv",
+        "title": "Okay, now I know the route and didn’t get lost.",
+        "score": 17,
+        "comments": 4,
+        "date": 1776823010,
+        "themes_matched": [],
+        "body": ""
+      },
+      {
+        "id": "1rmhcys",
+        "title": "My favorite route to work",
+        "score": 137,
+        "comments": 7,
+        "date": 1772811678,
+        "themes_matched": [],
+        "body": ""
+      },
+      {
+        "id": "1r6dnfi",
+        "title": "They're turning part of my commute route into an Indy car track",
+        "score": 159,
+        "comments": 16,
+        "date": 1771258047,
+        "themes_matched": [],
+        "body": "Does this mean I'm obligated to ride in the drops and go as fast as I can while shouting \"Vroom! Vrooooom!\" ? :P"
+      },
+      {
+        "id": "1r4ucn0",
+        "title": "on the route, Curtea de Arges",
+        "score": 33,
+        "comments": 17,
+        "date": 1771099275,
+        "themes_matched": [],
+        "body": ""
+      },
+      {
+        "id": "1r43g7e",
+        "title": "Took the scenic route home now that the snow on the trails is finally gone.",
+        "score": 44,
+        "comments": 6,
+        "date": 1771022269,
+        "themes_matched": [],
+        "body": ""
+      },
+      {
+        "id": "1qmswdh",
+        "title": "Brakeaway - Route Safety Analyzer Update!",
+        "score": 19,
+        "comments": 18,
+        "date": 1769369666,
+        "themes_matched": [
+          "strava",
+          "recommend"
+        ],
+        "body": "Hey all — quick update on something new we just shipped on Brakeaway.\n\nAfter you analyze a route, we now surface recommended bike types/models based on the actual route conditions, not just distance.\n\nWhat goes into the recommendation:\n\n\t•\tRoute distance and elevation\n\n\t•\tInfrastructure mix (protected lanes, painted lanes, busy roads)\n\n\t•\tSurface and overall comfort vs speed tradeoffs\n\nExample:\n\nA 20-mile urban ride with mixed bike lanes and rough pavement might surface endurance or comfort-oriented bikes instead of pure race geometry.\n\nWhy we built this:\n\nA lot of riders ask, “Is this route b"
+      },
+      {
+        "id": "1qjghqp",
+        "title": "Looking for a hybrid bike for mixed road/trail route",
+        "score": 1,
+        "comments": 3,
+        "date": 1769044402,
+        "themes_matched": [
+          "recommend",
+          "looking for"
+        ],
+        "body": "My workplace is relocating in 6–7 months, and I’m considering cycling to work once it does. I’m new to commuting by bike, and I want to be prepared before I start.\n\nI’d like a bike that can handle both roads and dirt trails in parks along the route. I also need to carry things like a change of clothes, so I’d like to use panniers rather than a backpack. I’m willing to save up for a suitable bike over the next few months.\n\nAny recommendations for a bike that fits these needs? Tips on what to look for as a beginner commuter would also be appreciated."
+      },
+      {
+        "id": "1qicxkq",
+        "title": "Navigation and Route Planning",
+        "score": 2,
+        "comments": 6,
+        "date": 1768941881,
+        "themes_matched": [],
+        "body": "I want to plan an extended domestic trip following a few ACA routes that create a loop around the Western states from the upper midwest. Around this area, I've been able to navigate using RWGPS keeping my phone charged at campgrounds, but the routes I'm thinking about will cross some larger remote areas. I carried the physical ACA maps as my backup, but they lack street names off route for detours which I am prone to and they were a decade old. So, I am curious.\n\nWhat do you do? Do you go all in with digital navigation, use a head unit, and import the files? Do any of you get by with just your"
+      },
+      {
+        "id": "1q1pmcl",
+        "title": "18km bike route",
+        "score": 4,
+        "comments": 20,
+        "date": 1767329835,
+        "themes_matched": [],
+        "body": "I’ve been thinking about trying bike commuting for my daily 18km ride from home to work 🚴‍♂️\nI actually want to do it and I know I’m capable — I’m just a bit nervous about safety and, honestly, worried about what my coworkers might say or think.\n\nFor those who’ve tried bike commuting (especially longer routes), how did you get past the fear at the start? Any tips, encouragement, or first-timer advice would mean a lot. Thanks!"
+      }
+    ],
+    "woodworking__project app": [
+      {
+        "id": "1omk8d3",
+        "title": "Built a simple project management app for my own shop (looking for honest opinions)",
+        "score": 1,
+        "comments": 2,
+        "date": 1762097385,
+        "themes_matched": [
+          "looking for"
+        ],
+        "body": "Hey everyone,\n\nI am not promoting a website or anything, just looking for honest feedback.  \n\nI’m a full-time woodworker and small shop owner, not a tech guy, but I recently built something for myself that might help other makers.\n\nI was getting buried trying to track projects, materials, and invoices across Google Sheets, random notes, and photos on my phone. I tried Jobber and a few others, but honestly, I just needed something lightweight for one-off furniture builds and custom jobs… and cheap!\n\nSo over the past couple of weeks, I hacked together a bare-bones project management app that let"
+      },
+      {
+        "id": "1m8n43z",
+        "title": "Woodworking project app",
+        "score": 11,
+        "comments": 3,
+        "date": 1753409355,
+        "themes_matched": [],
+        "body": "I'm building a woodworking app and want some feedback from the community. Two main questions:\n\n1. Would you use an app like this?\n2. Anything else you would like to the app to be able to do?\n\nStill very early in prototyping, but the general idea for the app is:\n\n1. Enter in the URL of a woodworking design, e.g. from [https://www.ana-white.com/](https://www.ana-white.com/)\n2. The app will scrape and parse the plan, and present it in a mobile-friendly card-based layout, consisting of:\n   1. An overview\n   2. Cut list\n   3. Each step as its own card, along with pictures"
+      },
+      {
+        "id": "ze9ipt",
+        "title": "Is there a good project planner app for your phone?",
+        "score": 5,
+        "comments": 5,
+        "date": 1670340382,
+        "themes_matched": [],
+        "body": ""
+      },
+      {
+        "id": "xt05q9",
+        "title": "Recommendations for easy 3D project planning/pre-visualization iPad app?",
+        "score": 1,
+        "comments": 5,
+        "date": 1664642914,
+        "themes_matched": [
+          "recommend"
+        ],
+        "body": "Hey y’all, I want to build out my walk-in closet myself, but want to pre-visualize all the parts so I can plan all the pieces before I commit to start buying wood and cutting. All these closet companies charge an arm and a leg for cheap MDF build outs, and can’t accommodate any abnormalities in the space. I want to do something nicer, more robust, and fully custom.\n\nI’m a total beginner with 3d/drafting (zero experience), and have simply sketched out 2D plans on paper up until now for simpler projects. \n\nDo you guys know any good, simple, beginner-level 3D planning app for iPad that you can re"
+      },
+      {
+        "id": "wi48s1",
+        "title": "My most recent project is a low-cost DIY air purifier. It cost me less than $100 and works flawlessly. Through the app on my phone, I can change the speed, turn it on and off, and set a timer.",
+        "score": 44,
+        "comments": 21,
+        "date": 1659837674,
+        "themes_matched": [],
+        "body": ""
+      },
+      {
+        "id": "wh4gqf",
+        "title": "Small beginner project. This project was completely assembled without screws or other hardware. I'm working thought the HobbyHack app that starts with small projects that contain basic joinery. This one has 14 Mortise and Tenon and 4 half-lap joints. Added some lessons learned in the notes.",
+        "score": 19,
+        "comments": 9,
+        "date": 1659728660,
+        "themes_matched": [],
+        "body": ""
+      },
+      {
+        "id": "unlqqp",
+        "title": "is there an app that will let me design a project then tell me what wood to buy?",
+        "score": 2,
+        "comments": 1,
+        "date": 1652307969,
+        "themes_matched": [
+          "is there an app"
+        ],
+        "body": ""
+      },
+      {
+        "id": "ndqes3",
+        "title": "Anyone know of a good iOS or macOS app to create project plans with?",
+        "score": 3,
+        "comments": 18,
+        "date": 1621177967,
+        "themes_matched": [
+          "square",
+          "looking for"
+        ],
+        "body": "I tried Sketchup but doesn’t seem to be what I’m looking for. I want something where I can design projects, a dog house or bed frame for example, to plan them out before building. \n\nMaybe an app where I can draw with a stylus or finger and it will straighten it out and square thinngs up. Something I can input the measurements I want and rotate the project in 3D. \n\nAnyone know a a good app for this? I’m sure they exists but maybe I’m not calling it the right thing for my search results to show me what I’m looking for. Any help’s very appreciated."
+      },
+      {
+        "id": "ip7l4h",
+        "title": "First workbench - sort of roubo style. 2x4's and 2x6's in pine, plus Padauk vise jaws, and Maple + Arariba splitter. Finished with tung oil. (60\" long). Project photos: https://photos.app.goo.gl/nUtAXjmcskF1CC2p6",
+        "score": 25,
+        "comments": 11,
+        "date": 1599618630,
+        "themes_matched": [],
+        "body": ""
+      },
+      {
+        "id": "frq84i",
+        "title": "First real day of homeschool where the kids are getting assignments via app. I had some 1x6 oak from an earlier project. \"Art class\" today is going to be letting them decorate however they want.",
+        "score": 28,
+        "comments": 3,
+        "date": 1585572705,
+        "themes_matched": [],
+        "body": ""
+      },
+      {
+        "id": "by7ut0",
+        "title": "Anyone knows a website or an app where I can draw plans for my woodworking project?thanks",
+        "score": 4,
+        "comments": 6,
+        "date": 1559999666,
+        "themes_matched": [],
+        "body": ""
+      },
+      {
+        "id": "3oo6fo",
+        "title": "Project planning app?",
+        "score": 5,
+        "comments": 10,
+        "date": 1444790074,
+        "themes_matched": [
+          "looking for"
+        ],
+        "body": "I spent a few hours looking for an app that will let me put my project ideas on paper. I am making a dresser so I need to do some planning.  I would like to draw it out my plans with measurements and how the pieces will go together. For now I'll just use old fashion paper to draw it out. I just think there must be an app or website that will make it easier."
+      }
+    ],
+    "knitting__pattern app": [
+      {
+        "id": "1s2641c",
+        "title": "**I built an app that turns any photo into a knitting pattern – and I'd love your feedback! 🧶**",
+        "score": 0,
+        "comments": 11,
+        "date": 1774333632,
+        "themes_matched": [
+          "subscription"
+        ],
+        "body": "Hey r/Knitting! I'm an indie developer from Germany, and I want to share something I've been working on: \\*\\*KnitYourPhoto\\*\\* – an app for iPhone and iPad that turns any photo into a ready-to-knit colorwork pattern.\n\nThe idea came from a simple question: what if you could knit a portrait of your dog, your kids, or a favorite vacation memory – without having to manually convert a photo into a grid yourself?\n\n\\*\\*Here's how it works:\\*\\*\n\nYou pick a photo from your library (or take a new one), set your gauge, target size, and how many yarn colors you want to use (2–16). The app analyzes the ima"
+      },
+      {
+        "id": "1klohrc",
+        "title": "WIP Pattern Diary app - need your help",
+        "score": 0,
+        "comments": 6,
+        "date": 1747149233,
+        "themes_matched": [],
+        "body": "I am currently working on a Pattern Diary app, and for those who create patterns or use them, what kind of information do you need or like to have? Photos, difficulty level? I am a crocheter personally, but I would love for the app to also cater to my knitters! Help me make the app the best it can be for all fiber artists 💜🧶"
+      },
+      {
+        "id": "1jkq0kd",
+        "title": "Knitcompanion help/pattern app recommendations?",
+        "score": 0,
+        "comments": 2,
+        "date": 1743031758,
+        "themes_matched": [
+          "recommend",
+          "alternative"
+        ],
+        "body": "So recently I've decided to start the Star Wars Double Knit Scarf by Jessica Goddard and goddamn double knitting and chart reading is hard! I head about Knit Companion but I'm having a lot of trouble figuring out how to import the pattern chart photos into the app to count and also just generally how the app works overall. \n\nDoes anyone know how to use the app? I can't even get any of my patterns set up; none of my Ravelry projects show up on the Ravelry page even though they're linked, and I can't import any of my own patterns in. \n\nAlternatively, does anyone have recommendations for apps tha"
+      },
+      {
+        "id": "10j1kbx",
+        "title": "Pattern designing website, app (free)",
+        "score": 0,
+        "comments": 8,
+        "date": 1674441298,
+        "themes_matched": [
+          "looking for"
+        ],
+        "body": "Hi everyone,\n\nI am fairly a new knitter (but a fast learner) so I was looking for an app or website where I can make a pattern for a scarf I want to knit. I'm planning to add cables so a visual support where I can make a pattern that would transform into a design (the opposite of these apps where you can scan a picture and it will make the pattern) to be sure I'm not making any booboos. Will also be easier for me to follow a pattern as I struggle to see the right or wrong side of a work and sometime count rows.\n\nI already looked around so I know abt Knitbird but can't install it. Knitting Fidd"
+      },
+      {
+        "id": "zhj45x",
+        "title": "Does anyone have a knitted succulent pillow pattern? I can only find crocheted ones like these. I don't mind paying. I have Ravelry & the other big pattern app that starts with E and ends in Y. TIA ♥️",
+        "score": 7,
+        "comments": 10,
+        "date": 1670647404,
+        "themes_matched": [],
+        "body": ""
+      },
+      {
+        "id": "tbz1vj",
+        "title": "Help me find a pattern for a similar collared cardigan please!! It’s originally based off a Bellish pattern but the app was taken down 😭",
+        "score": 6,
+        "comments": 6,
+        "date": 1647029796,
+        "themes_matched": [],
+        "body": ""
+      },
+      {
+        "id": "kifvir",
+        "title": "If anyone is looking for a knitting app this is great! Premium is $2 a month but it counts rows/stitches and you can highlight where you are in a pattern so you don’t lose your spot!! You can also upload patterns from raverly and other sources. Has been a life save for me",
+        "score": 8,
+        "comments": 7,
+        "date": 1608676705,
+        "themes_matched": [
+          "looking for"
+        ],
+        "body": ""
+      },
+      {
+        "id": "jxdtyw",
+        "title": "Knitting app that allows you to quickly “design” your own pattern for garments!",
+        "score": 19,
+        "comments": 1,
+        "date": 1605828403,
+        "themes_matched": [],
+        "body": ""
+      },
+      {
+        "id": "7ubknr",
+        "title": "Knitting Pattern App Search",
+        "score": 3,
+        "comments": 1,
+        "date": 1517419759,
+        "themes_matched": [
+          "looking for"
+        ],
+        "body": "Hi All,\n\nI’m looking for an app (preferably for iOS) to turn jpg pictures into knitting charts. I vaguely remember one for cross stitch patterns back in the 1990’s, but I don’t even know where to start searching! Any help would be greatly appreciated."
+      },
+      {
+        "id": "2cquf3",
+        "title": "Hi Knittit! I've got a prototype row counter/pattern following web app up, is anyone else interested?",
+        "score": 15,
+        "comments": 9,
+        "date": 1407288545,
+        "themes_matched": [],
+        "body": "You can check it out at [stitchbites.com](http://stitchbites.com). This is just the bare functionality, I need to 1) make it easy on the eyes and 2) easier to use. I've got several more ideas to implement if there's community interest in developing this further!\n\nI was inspired by a particularly annoying dishcloth pattern that had several levels of repeats (repeat rows 5-20 3 times, where rows 7-10 are rows 5 and 6 repeated twice). Not too bad, until I put it down for a day and had to calculate what row 23 mapped to.\n\nPlease, let me know what needs to be improved, what you would like to see, w"
+      },
+      {
+        "id": "o2ojo",
+        "title": "Ravelry mobile app for Android, with a pattern search feature?",
+        "score": 9,
+        "comments": 6,
+        "date": 1325697303,
+        "themes_matched": [],
+        "body": "I know Ballero is out for Android and that offers some type of mobile Ravelry access, but unless I'm mistaken there's not really a pattern search feature? Does anyone know if if there is an app for pattern searching? I always find myself standing in front of the yarn section at my LYS staring at a good deal, and wishing I could search by yarn type for a few ideas before I buy a crapton of yarn, haha. \n"
+      }
+    ],
+    "flyfishing__log app": [
+      {
+        "id": "1rle3w2",
+        "title": "I built a fly fishing conditions + trip log app because I couldn’t find one I liked. Would love some feedback!",
+        "score": 8,
+        "comments": 27,
+        "date": 1772706300,
+        "themes_matched": [],
+        "body": "So I’ve been fly fishing for trout around Fife, Scotland for the last year (Wormit mostly with some River Eden failures lol) and I wanted a better way to track trips and conditions.\n\nI couldn’t find an app that focused on the stuff that actually matters to me when fishing, so I started building one myself. It’s called Fishable. If it works for me, I’m hoping it works for others too.\n\nIn a nutshell it focuses more on the experience of a fishing trip rather than just logging catches. It tracks conditions, trips, and slowly builds up what works over time. \n\nI’d genuinely love some honest feedback"
+      },
+      {
+        "id": "1549prv",
+        "title": "Fly fishing log app?",
+        "score": 1,
+        "comments": 12,
+        "date": 1689807361,
+        "themes_matched": [
+          "looking for"
+        ],
+        "body": "Hey are there any good apps that log your fish out there?  I have one I made myself but it’s not set up to share. My son is looking to build an app this summer for his portfolio and is looking for ideas. If he were to build one what are must haves? \nSo far I have time, location, species, size, fly, photo, weather, water temp, notes and a map."
+      },
+      {
+        "id": "pei8sk",
+        "title": "Recommendations for a good app or book to log species? Would like something that helps with identification if possible.",
+        "score": 3,
+        "comments": 3,
+        "date": 1630330638,
+        "themes_matched": [
+          "recommend"
+        ],
+        "body": ""
+      }
+    ],
+    "homebrewing__recipe app": [
+      {
+        "id": "14zex8p",
+        "title": "Trying a new recipe with brew father app",
+        "score": 13,
+        "comments": 10,
+        "date": 1689337105,
+        "themes_matched": [],
+        "body": "Hi everyone I am new to the reddit group, I have never used brew calculators much and just started using brewfather app, I have a recipe that has an estimated apparent attenuation of 100% at 6% abv or 97.6% at 5.6% if I change one thing is this good or bad do I want 100%? The brew is a all grain pilsner, also it says my estimated final gravity will be 1.001 which seems low to me."
+      },
+      {
+        "id": "nkgyiq",
+        "title": "Best recipe app/software",
+        "score": 8,
+        "comments": 18,
+        "date": 1621916439,
+        "themes_matched": [
+          "best app"
+        ],
+        "body": "Wondering what the best app is for recipe creation and brewing in general is. I've seen beersmith, brewers friend, brewfather. So what are yall using."
+      },
+      {
+        "id": "mbt2pq",
+        "title": "Any interesting Homebrewing App Ideas? (not a recipe builder)",
+        "score": 2,
+        "comments": 21,
+        "date": 1616545690,
+        "themes_matched": [
+          "looking for"
+        ],
+        "body": "I'm a full-time App Developer, part-time homebrewer.  I have about 50% more free time now (as I'm separated from my ex, and away from my kids half the time), and I'm still locked-in due to COVID.  I really need a side project.\n\nI was thinking of starting a new App that combines both my passions and gives me an excuse to learn Flutter.  I'm skilled at the \"coding\" part of Apps but not the \"crazy ideas\" part.  I could make Yet Another Recipe Tool, but the ones out there (BrewersFriend, Beersmith, etc.) are already so good!   I'm looking for any suggestions for Apps or tools that might be helpful"
+      },
+      {
+        "id": "hhm89c",
+        "title": "Recipe app",
+        "score": 2,
+        "comments": 7,
+        "date": 1593377649,
+        "themes_matched": [],
+        "body": "Does anyone know of a good recipe app? I don’t mean one where you make your own recipes but like an app that has a collection of recipes and instructions already on it that I can just pick from and follow the steps. I know I can just google recipes but I feel like an app would just be laid out cleaner and easier to follow."
+      },
+      {
+        "id": "cvs686",
+        "title": "I made a super simple beer recipe app!",
+        "score": 57,
+        "comments": 24,
+        "date": 1566844893,
+        "themes_matched": [
+          "recommend"
+        ],
+        "body": "Hi guys, I’m still newish to brewing and as I was working my way up to all grain BIAB I thought I would make an app to help me understand it all a bit better. I would really appreciate it if you checked it out and let me know what you think (it’s free). \n\nA couple of things that I know will put some people off, so sorry in advance: \n1. It’s iPhone only. That’s all I know how to make I’m afraid.\n2.  It uses Litres and Grams. Sorry no freedom units right now, but I am looking at adding unit selection in the next release\n\nIf you’re still interested you can get it [here](https://apps.apple.com/gb/"
+      },
+      {
+        "id": "8xqbao",
+        "title": "Homebrew recipe share app",
+        "score": 5,
+        "comments": 7,
+        "date": 1531237137,
+        "themes_matched": [],
+        "body": "Hey Everyone,\n\nLooking to make a recipe sharing app, which would allow you to list your own homebrew and directions, as well as a forum for people to add their own changes and uniqueness to your recipe. I havent been able to find an app like this, but I think it might be nice to have, if anyone is interested, I am putting together an ingreidents list for easy picking. What does everyone think of this?"
+      },
+      {
+        "id": "7zafua",
+        "title": "Input recipe in the Grainfather app, and Mash In water amount is more than what the recipe calls for.",
+        "score": 11,
+        "comments": 14,
+        "date": 1519258147,
+        "themes_matched": [],
+        "body": "I just got a Grainfather that I’m going to use for the first time this weekend. The recipe I have is for a 5 gallon batch with a 60 min. Boil and 8.88 lbs. of grains. The recipe calls for 3 gallons and the GF app calls for 3.81 gallons. Anybody that has a GF or has used one before, is the app accounting for wort lost in hoses, chiller, pump and the bottom on the vessel? Which recipe should I follow?"
+      },
+      {
+        "id": "7d3w5x",
+        "title": "Best iOS recipe app",
+        "score": 62,
+        "comments": 25,
+        "date": 1510750460,
+        "themes_matched": [
+          "recommend",
+          "looking for"
+        ],
+        "body": "There are absolutely tons of apps on the AppStore so looking for recommendations.\n\nAlready bought beer smith on pc and android so feel a bit stung having to buy on iPhone too so wanting a free or cheap app for simple recipe and timer support. Anyone got some advice."
+      },
+      {
+        "id": "6vz70p",
+        "title": "New Homebrew Recipe Sharing iOS App",
+        "score": 1,
+        "comments": 1,
+        "date": 1503674907,
+        "themes_matched": [
+          "looking for"
+        ],
+        "body": "Hi everyone -\n\nI'm currently developing an iPhone app that will allow homebrewers to create homebrew recipes, store them, organize them, and share them with other homebrewers. The app is different from those I've found in that it's going to focus on simple representations of the recipes so that brewers of all levels are comfortable with the app, and it's going to highlight the brewer so that a face is attached to the recipes.\n\nI'm looking for some homebrewers to post homebrew recipes for me so that the app will have an active database when the app is launched. If you're interested, please DM m"
+      },
+      {
+        "id": "4m8q1l",
+        "title": "If you could pre-order your recipe with an app to pick up later at your local brew shop, would you?",
+        "score": 166,
+        "comments": 111,
+        "date": 1464893539,
+        "themes_matched": [],
+        "body": "I'm doing a little customer research for my local shop. They are building a new website and the idea came up to build an app that could exist on the site or on a customers phone (customers choice) that would let them pick out ingredients for their recipe and send an email to the shop so the order was ready when they arrived. They'd get an email confirmation when their order was ready so they knew they could pick it up. You could pre-order grains, extracts, hops, yeasts, and adjuncts but not equipment. \n\nAs a homebrewer would you be interested in an app like that? Or would the functionality not"
+      },
+      {
+        "id": "4b7tr4",
+        "title": "Wine Making Recipe Log for Android Now in Beta. I’ve been making wine at home for about 3 years. I’m also and amateur app developer, so I decided to scratch my own itch and build an app for keeping wine making notes. If you would like to be a tester, please follow the link",
+        "score": 36,
+        "comments": 2,
+        "date": 1458485882,
+        "themes_matched": [],
+        "body": ""
+      },
+      {
+        "id": "3pykpt",
+        "title": "About a month ago I bought Nelson hops to make a saison with acid malt. Ready to brew, starting my research on recipes found an oldsock funky saison recipe in my app. Can I brew that but without the funk? Recipe inside",
+        "score": 6,
+        "comments": 6,
+        "date": 1445637380,
+        "themes_matched": [],
+        "body": "Recipe might not be exactly the same as /u/oldsock since I put this in my app long while ago\n\n9lbs pilsener malt 69.9%\n\n2 lbs rye malt 16.5% \n\n1 lb Belgian candy sugar 7.8%\n\n8 oz golden naked oats 3.9%\n\n4 oz acid malt 1.9%\n\n0.25 oz Nelson at 60 min\n\n1.75 Nelson at 20\n\nYeast either 3711 or a dry yeast, not sure which dry yeast. I've been primarily using dry yeast since I don't make starters yet\n\nEdit, accidentally a word, might NOT be exactly like oldsocks recipe"
+      },
+      {
+        "id": "1takri",
+        "title": "What app/program will let me take a 5 gallon recipe and \"resize\" it to 2.5 to 3 gallons?",
+        "score": 5,
+        "comments": 13,
+        "date": 1387504260,
+        "themes_matched": [],
+        "body": "Preferably a free Android app or free computer program. \n\nThanks! "
+      },
+      {
+        "id": "1bwbcj",
+        "title": "I made a free recipe calculator & logbook app for iPhone & iPad. Looking for suggestions, feedback, etc!",
+        "score": 24,
+        "comments": 25,
+        "date": 1365393704,
+        "themes_matched": [
+          "recommend",
+          "looking for"
+        ],
+        "body": "\n**Update 6/10/13** *Brew Log 2.0 has been released with a substantial amount of new features.  Please check out the Fermenticus subreddit to discuss! http://www.reddit.com/r/fermenticus/*\n\n---\n\n**Update 4/9/13**  *There is a bug where if you try to export (via email) a recipe with no notes (via the notes section on the bottom tab bar when viewing a recipe) the app will crash.  This has been fixed and I will an update to the app store soon.  In the meantime, just put anything at all in the notes field and it will export fine (I hope!)*\n\n---\n\n\nI'm happy to announce the release of my free homebr"
+      },
+      {
+        "id": "10hg1i",
+        "title": "Recipe/Brewday Android App?",
+        "score": 6,
+        "comments": 8,
+        "date": 1348624182,
+        "themes_matched": [],
+        "body": "Hi there,\n\nI'm wondering if there is a free app out there that I can also manipulate (build recipes) from a computer. Perhaps link accounts somehow? I also want to be able to load the recipe up for timing the boil. If there are multiple apps, tell me why you use the one you have.\n\nThanks for the help."
+      },
+      {
+        "id": "kvytp",
+        "title": "I've written a new online recipe app for homebrewers - check it out!",
+        "score": 62,
+        "comments": 54,
+        "date": 1317346787,
+        "themes_matched": [],
+        "body": ""
+      }
+    ],
+    "freelance__time tracking": [
+      {
+        "id": "1mng969",
+        "title": "I’m being asked, a year after working with a client, to add extra details to my time tracking Invoice.",
+        "score": 11,
+        "comments": 9,
+        "date": 1754926540,
+        "themes_matched": [
+          "expense"
+        ],
+        "body": "In feb 2024, I was brought on by my boss (the owner and founder of 3 different companies) to work for 1 of her businesses. \n\nIn July of 2024, she asked me to help her with her 2nd business that is basically being run by someone else, let’s call this person Boss B. My boss created the company but didn’t really want to run any of it so she hired someone to do everything. It is mostly just them two. She asked me to help with the social media of this company. \n\nIve had issues with Boss B trying to assert her authority on me. Since I work with her on strategy of the 2nd company a lot, she acts a lo"
+      },
+      {
+        "id": "1k3m5n1",
+        "title": "Looking for Suggestions: Time Tracking / Invoicing",
+        "score": 1,
+        "comments": 0,
+        "date": 1745154444,
+        "themes_matched": [
+          "looking for"
+        ],
+        "body": "[removed]"
+      },
+      {
+        "id": "1k3elc2",
+        "title": "Looking for suggestions - Time Tracking / Invoicing",
+        "score": 1,
+        "comments": 0,
+        "date": 1745123562,
+        "themes_matched": [
+          "looking for"
+        ],
+        "body": "[removed]"
+      },
+      {
+        "id": "1iduxxc",
+        "title": "Time and project tracking software recommendations?  Using Plutio currently but not happy with it",
+        "score": 1,
+        "comments": 0,
+        "date": 1738264666,
+        "themes_matched": [
+          "recommend"
+        ],
+        "body": "[removed]"
+      }
+    ],
+    "freelance__toggl alternative": [
+      {
+        "id": "10wx5ps",
+        "title": "Free toggl alternative?",
+        "score": 9,
+        "comments": 26,
+        "date": 1675864182,
+        "themes_matched": [
+          "toggl",
+          "alternative"
+        ],
+        "body": "Hi,\n\nany free alternative to toggl? Working by myself, not team. Need count minutes/hours of projects/clients. Will be perfect if reports will have rounded times, so 5h 40m will be 6h etc..\n\nToggle has rounding but not in free version.\n\nThank you"
+      }
+    ]
+  },
+  "theme_counts": {
+    "invoice simple": 0,
+    "qbse": 1,
+    "quickbooks": 14,
+    "mobills": 0,
+    "wave": 1,
+    "setmore": 0,
+    "square": 7,
+    "acuity": 1,
+    "bikemap": 0,
+    "strava": 17,
+    "komoot": 4,
+    "toggl": 1,
+    "harvest": 2,
+    "expense": 42,
+    "mileage": 4,
+    "receipt": 4,
+    "mtd": 18,
+    "making tax digital": 2,
+    "best app": 16,
+    "recommend": 22,
+    "better than": 0,
+    "switch from": 1,
+    "alternative": 3,
+    "cheaper": 1,
+    "price hike": 1,
+    "subscription": 4,
+    "looking for": 42,
+    "need an app": 3,
+    "is there an app": 3
+  }
+}

@@ -1,0 +1,2008 @@
+{
+  "app": "com.stridehealth.drive",
+  "country": "us",
+  "total_pulled": 200,
+  "total_after_filter": 200,
+  "reviews": [
+    {
+      "date": "2026-05-05T21:44:45.803Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "L",
+      "text": "serious bug. I ended my drive a few days ago and went back in the app to start a new trip only to find out it was tracking miles for the last 100 hours even though I clised out of my drive.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=5230ab23-9da8-4407-8766-ac1f99e8f47d"
+    },
+    {
+      "date": "2026-05-05T13:49:00.889Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Kevin S",
+      "text": "Terrible. Lately the app has been having technical difficulties. Everytime I got to the app to start tracking miles, the app closes. It never opens. At this point I'm going to have to resort to using a different app. Which is unfortunate, because I loved this app.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=490b8c20-e568-41cb-97b0-266fd7071dbe"
+    },
+    {
+      "date": "2026-05-02T16:37:21.147Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Mario King",
+      "text": "I can't speak for the other features, but this is a good app to track you miles. In 2022 and 23 I used it to track all my miles for rideshare. It let's you download the doc and get a email copy for tax time. While I don't have the app downloaded at the moment if I ever start back doing Rideshare or need to track my miles for a job this will be my go-to app.",
+      "reply": "Thanks for sharing your positive experience with our mileage tracking and tax documentation features! We're glad we've been your go-to and are here whenever you need us again.",
+      "replyDate": "2026-05-04T12:40:57.782Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=c2738fc0-a806-4c46-b32a-f7389f4b7d92"
+    },
+    {
+      "date": "2026-04-29T12:41:17.408Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "Alisa Vstrane4udes",
+      "text": "Clean, user-friendly interface and a great idea overall. It could be a very helpful tool for gig workers. However, the implementation is poor. I experienced a clear conflict with the DoorDash app — GPS started jumping, especially at low speeds or stops. This made navigation unreliable and caused issues finding restaurants and customers, adding stress and affecting my work. Because of this, the app is not practical to use alongside delivery platforms. Android. Motorola.",
+      "reply": "We're sorry you're experiencing GPS conflicts with DoorDash, causing unreliable navigation. That's frustrating and impacts your work. Please reach out to our team with details about your device so we can investigate this further for you: https://stride.link/support",
+      "replyDate": "2026-05-04T12:41:17.560Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=b17ea210-5627-4374-840f-6d732327d671"
+    },
+    {
+      "date": "2026-04-28T23:51:06.934Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Michael Mills",
+      "text": "its really helping me on instacart",
+      "reply": "Glad to hear we're helping you with Instacart! Thanks for the kind words.",
+      "replyDate": "2026-05-04T12:41:28.706Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=c93ed50e-630b-4f60-a175-7af2ba53cb54"
+    },
+    {
+      "date": "2026-04-27T17:24:12.220Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Dalila",
+      "text": "what is wrong with this app.I've never seen an app that glitches this much.I can't count how many miles i lost.It tells you it's counting, and when you check there's no miles recorded.It's been doing this for the last 2 years and you'd think the problem would be fixed by now!!!!",
+      "reply": "We're truly sorry you've experienced persistent glitches and lost mileage for so long. That's incredibly frustrating. Please contact our support team immediately so we can help troubleshoot and resolve these critical issues for you: https://stride.link/support",
+      "replyDate": "2026-05-04T12:41:39.224Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=556a0e83-0521-4f71-b99e-a41e61d75d07"
+    },
+    {
+      "date": "2026-04-26T13:12:07.155Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Eric Langlais",
+      "text": "ABSOLUTELY LOVE THIS APP!",
+      "reply": "We're so happy you absolutely love the app! Thanks for your enthusiastic review!",
+      "replyDate": "2026-04-27T13:06:06.751Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=bf0f3812-7dbd-43b4-a5ec-32386a38fe22"
+    },
+    {
+      "date": "2026-04-25T22:27:01.691Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Jay Brown",
+      "text": "This makes tracking business income, expenses and mileage EFFORTLESS! My favorite aspect is the estimated taxes owed based off your profit. This helps me put money aside accordingly, allowing me to avoid being blind sided when I file. LOVE this app!",
+      "reply": "Thanks for your wonderful review! We're thrilled Stride makes tracking effortless and helps you plan for taxes. That's exactly what we aim for!",
+      "replyDate": "2026-04-27T13:06:15.945Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=2f1b4d4c-f95a-4e77-b2cc-d9872b24f94a"
+    },
+    {
+      "date": "2026-04-23T18:22:03.310Z",
+      "score": 4,
+      "thumbsUp": 3,
+      "user": "ClicketySplit",
+      "text": "4/2026 Update: Have since set the Drive Reminder option in settings at the recommendation of support and it it has been reliably reminding me to start my drive at a self designated time each day. Thank you ! Not reliable. Does not always ask if driving and when it does it doesn't always calculate accurately. Drove 8 hours today but the app says I only drove 15 miles. Galaxy S21 user. Missed an entire days worth of AppRide miles😫👎👎👎",
+      "reply": "Hi there, thanks for your feedback! Since you're using a Samsung device, be sure to adjust your battery settings so that your phone doesn't kill our app to conserve energy while you're driving. Please \"whitelist\" our app in your phone battery settings, and don't hesitate to reach out by emailing taxhelp@stridehealth.com! -Sarah from Stride",
+      "replyDate": "2021-06-28T15:52:33.462Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=c87fc64e-3d17-4382-b473-dbeb5a10a77a"
+    },
+    {
+      "date": "2026-04-23T08:03:17.552Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Jeff Driggers",
+      "text": "Easy app to use",
+      "reply": "Simple and sweet – thank you for your kind words! We're glad you find the app easy to use.",
+      "replyDate": "2026-04-27T13:06:26.293Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=2e9a579a-e17e-44cf-b1d6-000f99d17049"
+    },
+    {
+      "date": "2026-04-22T13:29:58.425Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Tawain Speights",
+      "text": "For past 3 weeks the app keeps shutting down when I try to track my miles. Was great up until now",
+      "reply": "We're very sorry to hear the app has been crashing when you try to track miles. That sounds incredibly frustrating. Please contact us at https://stride.link/support so we can help resolve this for you.",
+      "replyDate": "2026-04-27T13:06:36.636Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=9c64a6b9-99ea-45a3-8afc-71bd00460809"
+    },
+    {
+      "date": "2026-04-17T16:49:50.743Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Chrich Mich",
+      "text": "There is a major bug in the app for tracking miles. Once you start tracking miles, it quickly ends the drive due to inactivity, even though it's supposed to wait for six hours of inactivity.",
+      "reply": "We apologize for the early ending of your drives. Please contact https://stride.link/support so we can investigate this bug.",
+      "replyDate": "2026-04-20T13:24:48.147Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=2c2fd9f1-aaca-4018-9e54-b632948715f3"
+    },
+    {
+      "date": "2026-04-12T00:58:07.841Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Susan Dellea",
+      "text": "I couldn't access my mileage for 2025 taxes. wasted time.",
+      "reply": "We apologize for the trouble accessing your 2025 mileage. Please reach out to our support team at https://stride.link/support so we can help ASAP while there's still time left to file your taxes.",
+      "replyDate": "2026-04-13T13:18:00.330Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=d0ab51ea-19ae-4222-807c-b487caeca144"
+    },
+    {
+      "date": "2026-04-11T20:53:48.415Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Aubrey Goff",
+      "text": "I bought dental and vision insurance. Right after I clicked on the insurance tab at the bottom in the app. The app closes. I cant get to the page to operate my insurance. Sometimes an error message appears that says there's a bug and wait for Stride to update a fix. Can you fix the app please? Thank you! ***update. app is fixed. that was quick*** thanks!",
+      "reply": "We're glad the app is working well for you now, and we appreciate you letting us know!",
+      "replyDate": "2026-04-13T13:18:17.512Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=6adbaa8b-05e1-4ecb-b8ca-42f2edaba256"
+    },
+    {
+      "date": "2026-04-11T18:10:57.850Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Amber S",
+      "text": "Unless I have the app actively open at all points in time it very rarely will actually track any of my miles. Super frustrating!",
+      "reply": "We're sorry the app isn't tracking reliably unless open. Please contact support at https://stride.link/support so we can troubleshoot this with you.",
+      "replyDate": "2026-04-13T13:18:29.470Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=57b2f36e-f69d-4f65-90de-6b7ad92e2ac5"
+    },
+    {
+      "date": "2026-04-09T20:26:25.880Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "D",
+      "text": "I used it today to track mileage and it didn't track correctly and then when I went to stop the trip it wasn't there. couldn't find the trip the app just went back to the main screen",
+      "reply": "We apologize for the tracking issues and that your trip wasn't saved. Please reach out to support at https://stride.link/support so we can help investigate.",
+      "replyDate": "2026-04-13T13:18:40.467Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=1cbe712f-a2ae-4122-841c-ad792583eb9f"
+    },
+    {
+      "date": "2026-04-09T19:19:02.273Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Aaron Jurado",
+      "text": "Stride's help center did a good job on following up on the issue and kept in contact till resolved.",
+      "reply": "We're very sorry your mileage isn't recording or saving, and that you haven't received a support response. This is critical. Please contact us again at https://stride.link/support so we can directly assist you and get this resolved.",
+      "replyDate": "2026-04-06T12:41:32.466Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=06363828-b5b1-490b-a5bd-a97c050d75a9"
+    },
+    {
+      "date": "2026-04-09T17:06:15.803Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "J",
+      "text": "Great app but recent update caused sync issues, when not on WiFi. No in app setting to resolve. Also loading app first time now takes forever. Might fix review if they resolve this timely. 4/9 - Back to 5 stars. Issue resolved with recent update.",
+      "reply": "We're sorry the recent update caused sync issues off WiFi and slow loading times. We're aware of these concerns. Please contact us at https://stride.link/support so we can provide direct assistance and updates on these fixes.",
+      "replyDate": "2026-04-06T12:43:37.718Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=c13e6fac-f4cf-4d63-8208-27e95abd809e"
+    },
+    {
+      "date": "2026-04-09T11:00:46.362Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "William Sturgeon",
+      "text": "been using this app for years. and up and till March 30 was working fine. its has not recorded. So after multiple failed support attempts. I can say tech support for the mileage portion of the app is no good. I figured out on my on that if I track my drives I then wait until I am in and on wifi. the mileage portion of the app is not hooking to the internet the rest of the app works fine on mobile or wifi. it will then up load the current days trips. Hope this helps someone else.",
+      "reply": "We're very sorry your trips haven't recorded since March 30, resulting in lost data. That's a critical issue. Please contact us at https://stride.link/support immediately so we can investigate and help resolve this for you.",
+      "replyDate": "2026-04-06T12:42:03.992Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=ac27ca15-1ee7-45e8-9b40-4156c94ef83d"
+    },
+    {
+      "date": "2026-04-08T21:13:49.470Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "Melissa Baldwin",
+      "text": "normally this app is great. last week has been terrible: every time it's saying no internet. I've tried mobile data and Wi-Fi. tried uninstalling and reinstalled. NOT working. can we get an update on this please? I'm about ready to find a new app and losing patience... but really appreciated it until now",
+      "reply": "We're sorry you're experiencing internet connection issues. We've released a fix for this. Please update the app, and if you are still having issues please contact our support team at https://stride.link/support so we can help resolve this",
+      "replyDate": "2026-04-13T13:19:21.178Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=f4f6aafc-5fd0-4a42-98ec-49c5a86b6876"
+    },
+    {
+      "date": "2026-04-08T01:11:41.142Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "Beth Schafer",
+      "text": "app was working fine. last 5 days its been saying no internet connection even though I have internet. Have tried uninstalling and reinstalling and nothing. going to look into a different app. I can add income just can't manually add miles.",
+      "reply": "We're sorry you're experiencing the no internet connection bug. We've released a fix for this. Please update the app, and if you are still having issues please contact our support team at https://stride.link/support so we can help resolve this.",
+      "replyDate": "2026-04-13T13:19:44.616Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=c57498e8-6ca2-462c-b342-cf0404091556"
+    },
+    {
+      "date": "2026-04-06T10:42:59.380Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Nodakbest",
+      "text": "used to be great now can't log miles because of a no internet connection error. have to find another tracker",
+      "reply": "We're sorry you're getting a \"no internet connection\" error and can't log miles. This is a known issue we're working to resolve soon. Please contact us at https://stride.link/support for direct assistance and updates.",
+      "replyDate": "2026-04-06T12:40:21.163Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=dc495cc4-316f-48a4-8be9-ac5d46964f62"
+    },
+    {
+      "date": "2026-04-04T20:35:14.848Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "Sheila Gifford",
+      "text": "Stopped working. Was good.",
+      "reply": "We're sorry to hear the app has stopped working for you. Please contact us at https://stride.link/support with details so we can troubleshoot and help get you back on track.",
+      "replyDate": "2026-04-06T12:40:29.532Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=d717d1fd-abad-4ddd-9708-827fb597704b"
+    },
+    {
+      "date": "2026-04-04T20:25:42.195Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Myrl Carter-Doggett",
+      "text": "App has been working fine until two weeks ago. I've read other reviews and notice others having the same or similar problems. So now... Strides responses have been... I'm sorry to hear you're experiencing issues..., it would be nice to have some kind of assurance that the problems will be fixed asap. 😔 😟 🙁 😥",
+      "reply": "We understand your frustration with recent issues & appreciate you sharing. We're actively working to resolve widespread problems impacting some users. Please contact us at https://stride.link/support for direct assistance and the latest updates on fixes.",
+      "replyDate": "2026-04-06T12:40:45.460Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=db8d7976-f9cf-4961-b9d3-a06fe0d6d58e"
+    },
+    {
+      "date": "2026-04-04T18:15:12.397Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "Estelle Ashley",
+      "text": "I really need the ability to add my own expense categories. There isn't even a postage category. It can be frustrating.",
+      "reply": "We understand the frustration of not having custom expense categories or a postage option. Thanks for your valuable feedback. Please share more details with us at https://stride.link/support.",
+      "replyDate": "2026-04-06T12:40:56.220Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=9c39c228-6601-4e22-9d5c-faa85d4eee9e"
+    },
+    {
+      "date": "2026-04-04T14:06:39.280Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Allie Clary",
+      "text": "Great, thanks",
+      "reply": "Thanks for the kind words! So glad you're enjoying Stride.",
+      "replyDate": "2026-04-06T12:41:01.198Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=b5f8106b-986d-4dc5-8fe8-ebf406000589"
+    },
+    {
+      "date": "2026-04-04T04:20:33.723Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "E",
+      "text": "Not saving anything. Even when inputting manually.",
+      "reply": "We're very sorry to hear your data isn't saving, even with manual input. That's an issue we're working on resolving now. Please contact us immediately at https://stride.link/support so we can investigate and help.",
+      "replyDate": "2026-04-06T12:41:17.115Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=95c47197-34bc-41b9-8ff1-877ad038e24a"
+    },
+    {
+      "date": "2026-04-03T14:53:50.854Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "Ryan",
+      "text": "this app used to be dependable and never had an issues but these last 2 weeks I have been having \"Internet Connection issues\" I have deleted app and tgen reinstalled as you guys requested , this doesn't help or fix the issue... how am I supposed to use this app to ensure I am not paying extra I taxes when it doesn't even work right over 50% of the time... ughhhhh",
+      "reply": "We're very sorry about the \"Internet Connection issues\" you've faced for weeks despite reinstalling. We know this is frustrating and impacting your tax prep. Please contact us at https://stride.link/support for direct assistance and updates on this issue.",
+      "replyDate": "2026-04-06T12:41:53.345Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=30dc3205-dad9-45ca-a366-70f8e4cf1d9d"
+    },
+    {
+      "date": "2026-04-01T23:14:44.274Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "Jason Sampson",
+      "text": "suddenly the app has stopped working to where it will not allow you to add the mileage",
+      "reply": "We're sorry to hear the app has suddenly stopped working and won't allow you to add mileage. Please uninstall and try reinstalling to see if that fixes the issue. Otherwise, please contact us at https://stride.link/support.",
+      "replyDate": "2026-04-06T12:43:11.636Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=76a3a9ac-cc49-4d39-a8a3-258692cf035c"
+    },
+    {
+      "date": "2026-04-01T13:10:29.164Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Rin Lapham",
+      "text": "stopped tracking my miles 3 weeks into use.",
+      "reply": "We're sorry your mileage tracking stopped after 3 weeks. That's definitely not what we want to hear. Please contact us at https://stride.link/support so we can investigate and help fix this for you.",
+      "replyDate": "2026-04-06T12:43:27.515Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=6ea9870b-80d7-4174-9177-761c3eda95ae"
+    },
+    {
+      "date": "2026-03-30T19:20:46.324Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "lisa carson",
+      "text": "app keeps freezing so I can't track my mileage.",
+      "reply": "We're sorry the app keeps freezing and preventing you from tracking mileage. That's a critical issue. Please contact us at https://stride.link/support so we can investigate and help resolve this for you.",
+      "replyDate": "2026-04-06T12:43:42.935Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=3da573fb-849c-4fdd-b2ba-6959da0b498a"
+    },
+    {
+      "date": "2026-03-30T00:40:00.757Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "Ron Stegall",
+      "text": "Have used for several years now problems until last couple weeks. When I end trip now and try to save it loses the data? Not Good....",
+      "reply": "Sorry to hear you're losing trip data when saving. That's definitely not right. Please reach out to us at https://stride.link/support so we can investigate and help resolve this for you quickly.",
+      "replyDate": "2026-03-30T13:36:49.476Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=7b08aee8-8995-496f-b83b-d1e909668d8b"
+    },
+    {
+      "date": "2026-03-28T15:27:37.186Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "Deena Hoden",
+      "text": "Used this app all last year with no issues. Now I can't manually add miles because an error occurs saying \"No internet connection\" when I am hooked to wi-fi.",
+      "reply": "We're sorry you're seeing the 'No internet connection' error when trying to add miles manually, especially when on Wi-Fi. Please contact us at https://stride.link/support so we can troubleshoot this issue and get you back on track.",
+      "replyDate": "2026-03-30T13:37:09.460Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=da070d07-ea12-4e5f-93c2-5276236495ef"
+    },
+    {
+      "date": "2026-03-28T11:49:48.417Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "David Moore",
+      "text": "Stopped working correctly",
+      "reply": "We're really sorry Stride isn't working correctly for you. Please reach out to us at https://stride.link/support with more details so we can understand what's happening and help fix it.",
+      "replyDate": "2026-03-30T13:37:19.753Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=1d4c6659-5f5b-47a3-bf13-81e155418e59"
+    },
+    {
+      "date": "2026-03-28T00:54:07.760Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Kimberly Ricci",
+      "text": "for several weeks now my app is not recording my mileage. I see several other people have the same issue. why hasn't it been fixed yet?",
+      "reply": "We're very sorry your app isn't recording mileage. This is a critical issue we want to resolve for you. Please contact our team at https://stride.link/support so we can investigate your specific case and help get your tracking restored.",
+      "replyDate": "2026-03-30T13:37:30.111Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=bfa2a8ff-3ff6-4ad4-bac2-ea1f5da7a0c3"
+    },
+    {
+      "date": "2026-03-27T22:15:51.850Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Sakina Solomon",
+      "text": "No longer able to log miles manually. Continuously receiving an error.",
+      "reply": "We apologize you're encountering continuous errors when trying to log miles manually. That's very frustrating. Please connect with our support team at https://stride.link/support so we can help troubleshoot and resolve this for you.",
+      "replyDate": "2026-03-30T13:37:41.200Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=16dab3c7-e954-48a1-9fac-84e589f4ec74"
+    },
+    {
+      "date": "2026-03-27T03:19:01.826Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "Socrates",
+      "text": "In the Apple version my wife can put tips in wich is counted as non taxable income, but I the Android version that can't be done.",
+      "reply": "Hi, this should not be the case; you should be able to enter tips on the Android version. Please contact us at https://stride.link/support so we can investigate your Android app and assist you further.",
+      "replyDate": "2026-03-27T16:18:41.432Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=0d525bb2-33a0-4269-8d8a-8c2d86e18231"
+    },
+    {
+      "date": "2026-03-26T23:01:20.922Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "Keith Stewart-Sweat",
+      "text": "Received a notification that Tips can now be tracked. Uninstalled and reinstalled app and still cannot add tips.",
+      "reply": "We're sorry to hear you're having trouble tracking tips despite the notification. That's frustrating. Please contact us at https://stride.link/support with details so we can help you resolve this issue!",
+      "replyDate": "2026-03-27T16:19:00.273Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=1954efbd-148c-4606-84a7-08833bee351c"
+    },
+    {
+      "date": "2026-03-26T22:36:05.174Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "Paul Langford",
+      "text": "Lost all my mileage info from 2025 after receiving a connection error. Reinstalled app (no update available), got back on app, nothing there. Very frustrating given my tax appointment is in the morning. Thanks for the sleepless night tonight, Stride! Got me heated right now with how screwed Stride left me.",
+      "reply": "We are so sorry to hear you lost your mileage data, especially with your tax appointment soon. That's incredibly frustrating. Please contact us at https://stride.link/support – we want to help recover your data as quickly as possible.",
+      "replyDate": "2026-03-27T16:19:20.594Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=68c92686-88f3-42d8-bfce-4ef9d7e2eaad"
+    },
+    {
+      "date": "2026-03-25T01:56:03.546Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Precious Whitaker",
+      "text": "I've had the app for years but for some reason it hasn't been working properly this past week. it tracks my miles but doesn't save my data or allow me to edit anymore I just keep getting error codes and I've tried uninstalling and reinstalling the app but no luck",
+      "reply": "Thanks for being a long-time user! We're sorry about these errors. Since a reinstall didn't work, we want to investigate those specific codes for you. Please write to us at https://stride.link/support so we can look at your account and fix this!",
+      "replyDate": "2026-03-25T14:40:15.952Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=58c1a24b-46d2-415d-bafa-559413062a50"
+    },
+    {
+      "date": "2026-03-25T00:37:56.600Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Zach Moisant",
+      "text": "4 days ago this stopped tracking miles and is no longer let's me enter single day mileage manually making this useless. \"login error: no internet connection\" is what it says but I am logged in correctly and have service. Broken. useless until it's fixed which who knows when that will be as they seem unaware of the issue multiple people are having.",
+      "reply": "We're sorry for the frustration. It sounds like a sync error despite your connection. Our team is actively investigating this, and we’d like to look at your specific account to get you back to tracking. Please reach out to us at https://stride.link/support so we can help fix this ASAP!",
+      "replyDate": "2026-03-25T14:40:17.511Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=86713856-0d0f-4672-b5d7-996a17712985"
+    },
+    {
+      "date": "2026-03-24T02:55:52.874Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "Logan Wilde",
+      "text": "its a pretty good app, but for example when calculating you phone bill deduction you only cant attach one photo. which is not ideal. you want to attach your phone bill and proof of your business work that day",
+      "reply": "Thanks for the feedback—we totally get why you'd want to attach more than one photo for certain expenses. We’ll share this suggestion with our product team as a possible improvement. If you have any other ideas or need help, feel free to reach out to https://stride.link/support.",
+      "replyDate": "2025-07-28T16:48:50.658Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=be647a8d-0a47-49e0-bb3d-3d775c67c2d7"
+    },
+    {
+      "date": "2026-03-24T01:32:48.390Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Rikki Petersen",
+      "text": "recently after tracking my mileage the app doesnt save any of the info and when I try to manually input the miles it tells me I have no internet connection. very frustrating bc it keeps happening. I will be switching to other apps to track mileage",
+      "reply": "We are very sorry for the frustration. It sounds like you're hitting a sync error that our team is currently investigating. We’d value the chance to fix this for you before you switch. Please reach out to us at https://stride.link/support so we can look into your account and resolve this connection issue!",
+      "replyDate": "2026-03-25T14:40:30.293Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=a66c0c08-8463-4073-9729-c43455d94b75"
+    },
+    {
+      "date": "2026-03-24T00:16:30.456Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Lavonne Wingham",
+      "text": "I am glad I found it!! It makes keeping track of my delivery driver miles simple.",
+      "reply": "We are so glad to hear we’ve made your delivery tracking simpler! Thank you for the kind words and for choosing us for your miles. If you ever need assistance or have a feature suggestion, please feel free to write into our support team at https://stride.link/support.",
+      "replyDate": "2026-03-25T14:41:05.139Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=a3c12878-029b-41bd-8d6c-e38651be5bf9"
+    },
+    {
+      "date": "2026-03-23T22:36:22.866Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Natalie miller",
+      "text": "App isnt tracking my trips . I have had multiples today! Really disappointed because this app had everything I wanted and needed.",
+      "reply": "We are so sorry to hear the app missed your trips today. We know how important every mile is for your records. We'd like to investigate exactly why those trips didn't log to ensure it doesn't happen again. Please write into our support team at https://stride.link/support so we can help!",
+      "replyDate": "2026-03-25T14:41:39.799Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=86a91a70-8fed-4bbf-b1e4-e7c2a2f506b0"
+    },
+    {
+      "date": "2026-03-23T18:28:14.765Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Kristy Phillips",
+      "text": "Wasn't having any issues up until now as of like 5 days ago it wont let me track my miles or put them in myself it keeps telling me no internet connection but I have internet on. I have uninstall and reinstalled i have done everything I can think of and still isnt working",
+      "reply": "We're sorry for the frustration. It sounds like a sync error that our team is currently investigating. Since you've already tried reinstalling, we would like to take a closer look at your specific account data to resolve this for you. Please write into our support team at https://stride.link/support so we can help!",
+      "replyDate": "2026-03-25T14:41:57.235Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=9d6d3fb1-e295-419f-a51c-dbdc27918c58"
+    },
+    {
+      "date": "2026-03-23T04:33:07.530Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "M W",
+      "text": "I'm an independent contractor in the transportation industry. This app was great the first day. Now it stops recording miles if I don't end the trip recording after every stop. I can't spend time baby sitting a malfunction. Until it's fixed, another app will be used.",
+      "reply": "We’re sorry for the frustration. You shouldn't have to babysit the app while you're working. We’d like to investigate why your trips are cutting off between stops so we can get this fixed for you. Please write into our support team at https://stride.link/support so we can look at your account and help!",
+      "replyDate": "2026-03-25T14:42:09.100Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=463321c1-b4a7-4c5f-82f2-7a95a874f8c0"
+    },
+    {
+      "date": "2026-03-22T18:02:42.992Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Josh B",
+      "text": "working fine now I'm getting logging issue every time I try to add mileage and every time I try to track it it doesn't add it now I have to find a new app cuz this one is broken",
+      "reply": "We’re sorry for the frustration and that you're considering a switch. It sounds like you're experiencing a sync error that our team is currently investigating. We’d like to look at your account to help get your data saving correctly again. Please reach out to us at https://stride.link/support so we can resolve this for you!",
+      "replyDate": "2026-03-25T14:42:43.788Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=797aca3d-88cc-4814-adaa-e88e11d198b4"
+    },
+    {
+      "date": "2026-03-22T14:32:30.771Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "Pascal Junger",
+      "text": "It is a good app for the right phone, but on my Android 11 (upgraded to 12) the login link is hidden behind the navbar so I can't login.",
+      "reply": "We’re sorry to hear that a display issue is preventing you from logging in on your Android device. This definitely sounds like a bug our team should investigate. Please write into our support team at https://stride.link/support so we can get more details about your specific model and help you get signed in!",
+      "replyDate": "2026-03-25T14:43:01.340Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=6562599c-7025-43f2-956e-c0052135eebc"
+    },
+    {
+      "date": "2026-03-21T16:44:09.804Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Kenneth Williams",
+      "text": "It only tracked my miles on the day that I installed it. The miles that I drove the next day just disappeared. posted my miles as rideshare after I selected delivery. No easy navigation to get the information that I was looking for.",
+      "reply": "We’re sorry for the missing miles and categorization issues. This is certainly not the experience we want for you. We’d like to investigate why your data didn't save and help with navigation tips. Please write into our support team at https://stride.link/support so we can look at your account and fix this!",
+      "replyDate": "2026-03-25T14:43:12.624Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=77399272-61bf-4331-9cd8-4f149d2f1a0e"
+    },
+    {
+      "date": "2026-03-21T07:28:04.564Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Melissa Tomany",
+      "text": "so sick of the app randomly not working. I drove 200 miles today. it missed all the miles between stores and tracked it as a single round trip. now it just stopped working completely. ALL of my trips actually like they are recording then don't. Can't even add miles as it keeps saying no internet. EVERY other app that requires internet is fine",
+      "reply": "That sounds incredibly frustrating, especially after driving so many miles! For help in figuring out why your trips aren't being tracked correctly between stops, please contact our support team at https://stride.link/support. They can investigate this issue further.",
+      "replyDate": "2025-04-21T15:40:43.550Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=f1a1413d-5be4-4c06-83d8-11bf7f9ecbe4"
+    },
+    {
+      "date": "2026-03-21T00:51:22.482Z",
+      "score": 2,
+      "thumbsUp": 2,
+      "user": "Bridget Torres",
+      "text": "Just now noticed the app isn't uploading/saving my miles 🤦🏽‍♀️ since MARCH 3RD!!! Almost a whole month later. When I complete the drive it shows the usual screen stating its been saved but the pop-up notification bubble says \"0 uploaded (0 failed)\" && when I try to add manually it says there is a network error. I've restarted && Uninstalled the app but nothing....sucks bc I really liked using Stride.....I just sent a report to customer service too.",
+      "reply": "We’re so sorry about the missing miles and the frustration this has caused. Since you've already tried a reinstall and sent a report, our team will investigate those specific sync and network errors for you. We want to get this fixed so you can keep using Stride! Please follow up at https://stride.link/support so we can prioritize your case.",
+      "replyDate": "2026-03-25T14:43:41.334Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=755f31c9-6603-42dd-92a4-09e69272bb0d"
+    },
+    {
+      "date": "2026-03-20T03:34:56.283Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Steve Facer",
+      "text": "app will not upload the daily milage correctly it just says there is no internet connection. even if you are connected to a WiFi. you needs to fix this.",
+      "reply": "We are sorry for the frustration. Our team is aware of this \"no internet connection\" error and we are currently working on a fix that should be available soon. We want to make sure your mileage tracks correctly, so please write into our support team at https://stride.link/support for further updates!",
+      "replyDate": "2026-03-25T14:44:33.410Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=374641a0-33eb-471b-b4f3-815f8cfcc772"
+    },
+    {
+      "date": "2026-03-16T21:47:20.158Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "jose almonte",
+      "text": "I like the app it has potential, only thing is it doesn't work as good on the Android tablet it's better for iPhone users for Android users it's always off about 3 to 4 miles every time you use the the app it needs a serious update for Android if you have it on iPhone or iPad just use it there",
+      "reply": "We appreciate your feedback on the Android experience. GPS accuracy can sometimes vary by device, but we are committed to making Stride great for everyone. We are working on a fix for tracking issues that should be available soon! Please write to our support team at https://stride.link/support so we can look into your tablet's settings.",
+      "replyDate": "2026-03-25T14:45:42.614Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=e44e7c67-5cb2-47a4-b371-f717db73eea4"
+    },
+    {
+      "date": "2026-03-15T14:03:33.787Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "Joshua Mendoza",
+      "text": "App usually works as normal, but as of lately the trips will not upload correctly if I'm not connected to wifi. \"Log in error: no internet connection\" Hopeful this gets fixed soon, otherwise may be looking for alternatives.",
+      "reply": "We're sorry for the frustration. Our team is aware of this \"no internet connection\" error and we are currently working on a fix that should be available soon. We want to ensure your trips upload correctly, so please write into our support team at https://stride.link/support for further updates or troubleshooting!",
+      "replyDate": "2026-03-25T14:46:17.347Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=7e25d31b-94d8-4efe-9a50-2bfb11da1c97"
+    },
+    {
+      "date": "2026-03-14T19:06:48.728Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Josh Corkran",
+      "text": "disappointed in the fact that its not working. just when i started using it worked for a week now everything fails to save for the past month. guess its time to find an alternative since they cant fix their issue.",
+      "reply": "We’re so sorry for the ongoing trouble. Our team is aware of this \"no internet connection\" error and we are currently working on a fix that should be available soon. We’d like to ensure your data is safe and help troubleshoot your specific account. Please write into our support team at https://stride.link/support so we can resolve this for you!",
+      "replyDate": "2026-03-25T14:46:34.431Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=a98e7a86-6c63-4c07-93b8-0e80a9409d51"
+    },
+    {
+      "date": "2026-03-14T03:29:03.656Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Chris Augustyn",
+      "text": "really helpful",
+      "reply": "Thank you for the 5-star review!",
+      "replyDate": "2026-03-25T14:46:45.858Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=80c51a03-e2a3-433c-ae5e-3469f534c198"
+    },
+    {
+      "date": "2026-03-13T14:06:16.323Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Ryan Mrozek",
+      "text": "no longer able to add miles manually says no internet connection",
+      "reply": "We’re so sorry for the ongoing trouble. Our team is aware of this \"no internet connection\" error and we are currently working on a fix that should be available soon. We’d like to ensure your data is safe and help troubleshoot your specific account. Please write into our support team at https://stride.link/support so we can resolve this for you!",
+      "replyDate": "2026-03-25T14:46:57.754Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=07c52ff5-99cf-48b5-815f-59745fe35213"
+    },
+    {
+      "date": "2026-03-13T06:40:32.475Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Eric Thomason",
+      "text": "working as designed",
+      "reply": "We are thrilled to hear that Stride is working exactly as designed for you! We aim to keep your mileage and expense tracking as smooth as possible. If you ever have questions or feedback as you continue to use the app, please feel free to reach out to our support team at https://stride.link/support.",
+      "replyDate": "2026-03-25T14:48:02.643Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=bcedb76a-4d1e-454c-9d43-b71b36cef211"
+    },
+    {
+      "date": "2026-03-13T03:42:19.169Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Jim Burrows",
+      "text": "It would be AMAZING if a code was actually sent to connect an account to automatically track expenses. 🙄",
+      "reply": "We’re so sorry you’re having trouble receiving your connection code! We know how important that automatic tracking is for your business. Our team would love to help troubleshoot your bank link and get those expenses syncing for you. Please write into our support team at https://stride.link/support so we can resolve this!",
+      "replyDate": "2026-03-25T14:48:13.912Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=4aa181c0-524e-4278-83a2-b05e38e7cd87"
+    },
+    {
+      "date": "2026-03-11T11:21:06.774Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "M Will",
+      "text": "used stride for over 2 years to track delivery miles. I. Just the last few weeks it has stopped logging my mileage. it tracks the nikes while I drive but when I end the trip for the day the mileage just disappears, it does not save j to my expenses. when I try to add mileage manually it tells me there is no internet connection. even though all my other alps.are working fine and connecting tot he internet.",
+      "reply": "We’re so sorry for the frustration. Our team is aware of this \"no internet connection\" error and we are currently working on a fix that should be available soon. We want to ensure your two years of data remains safe, so please write into our support team at https://stride.link/support for further updates and troubleshooting!",
+      "replyDate": "2026-03-25T14:48:49.430Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=1ca95beb-9f6d-4956-ac54-928d7103aca6"
+    },
+    {
+      "date": "2026-03-11T01:04:52.982Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "Nicole Howard",
+      "text": "been using this for about 2 weeks and it has failed to track drive on 2 different days now absolutely useless if this is going to continue to happen",
+      "reply": "We’re so sorry Stride missed those drives! We know how vital every mile is for your deductions. This is often related to phone battery-saver or GPS settings. We’d love to help you optimize these so it doesn't happen again. Please reach out at https://stride.link/support so we can troubleshoot!",
+      "replyDate": "2026-03-25T14:50:09.462Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=6712255e-c702-43b5-b1d7-7ca32fd71eba"
+    },
+    {
+      "date": "2026-03-10T10:37:00.134Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Tyler Dauber",
+      "text": "used to work perfectly. now you cant add miles manually. been broken for about a month now with no fix",
+      "reply": "We’re so sorry for the frustration. Our team is aware of this \"no internet connection\" error and we are currently working on a fix that should be available soon. We want to ensure your data is safe, so please write into our support team at https://stride.link/support for further updates!",
+      "replyDate": "2026-03-25T14:54:13.997Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=e4c6eb24-ecae-4abd-966b-153c722a6ecb"
+    },
+    {
+      "date": "2026-03-10T07:36:11.100Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Craig Thomas",
+      "text": "The app worked great for years. Now it isn't saving my mileage. I have almost a week of driving that it has stopped uploading. I tried contacting support and have heard nothing back.",
+      "reply": "We’re so sorry for the delay and the trouble with your mileage! We know how vital those records are. Our team is currently investigating a sync issue, and we want to ensure your data is recovered. Please try reaching out again at https://stride.link/support so we can prioritize your case and help you out!",
+      "replyDate": "2026-03-25T14:54:04.965Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=ef7d7c00-e1f4-472b-a34f-dc65f6caec5a"
+    },
+    {
+      "date": "2026-03-10T01:28:37.915Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "Juan",
+      "text": "I'm having the same issue with my app not uploading mileage. it will track it but not upload it. a few times it messes up the tracking but this has always been an issue. however I don't see an update available so I believe my app is currently up to date. has anyone found any other fixes.",
+      "reply": "We suggest keeping the app open for a few minutes after finishing your drive to ensure it has enough time to sync with our servers. This extra bit of time can help prevent those upload errors! If you're still seeing issues, please reach out to us at https://stride.link/support so we can investigate your device.",
+      "replyDate": "2026-03-25T14:54:29.250Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=55510fa8-b8c5-4623-9b07-342d085536b0"
+    },
+    {
+      "date": "2026-03-05T17:37:08.863Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "s r",
+      "text": "The app worked great in 2025 and the beginning of 2026. In Feb 2026 it starting giving login error/internet and won't track drives at all. I've reinstalled 2x and nope. Not sure why it just doesn't work anymore",
+      "reply": "Sorry to hear you’ve been running into login and tracking issues, especially if the app was working well for you before. Please write to us at https://stride.link/support so our support team can take a closer look at what’s happening with your account and help get things working again.",
+      "replyDate": "2026-03-09T14:05:41.853Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=2f922f84-8d21-4a58-8cb9-9449eadb557e"
+    },
+    {
+      "date": "2026-03-05T15:17:44.284Z",
+      "score": 3,
+      "thumbsUp": 1,
+      "user": "1Christian Ninja",
+      "text": "I really like the app but if i try to manually put in a mileage like I forgot to start tracking it won't let me select the current day unless I set it as multi-day then select today for both options. it's always done this would love to see it fixed",
+      "reply": "We’re glad to hear you like the app, but sorry about the trouble adding manual mileage. That definitely shouldn’t require a workaround. We’ll make sure this feedback is shared with our team. Please write to us at https://stride.link/support so our support team can learn more about what you’re seeing and help troubleshoot with you.",
+      "replyDate": "2026-03-09T14:06:18.982Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=afe31359-6f29-4abb-8340-27d95676cde2"
+    },
+    {
+      "date": "2026-03-05T02:02:03.406Z",
+      "score": 1,
+      "thumbsUp": 5,
+      "user": "Mattriarc",
+      "text": "EDIT: It's been several days now and still getting errors when trying to manually input miles, while giving me 0 synced drives (0 failed) when using the auto track feature. I would like to change my rating, but until these bugs are fixed this app is nearly useless currently. I've been using this app for work for the last 8 months and haven't had sync issues with auto tracking miles, or login error when manually inputting them, but I've now not been able to upload my data for the past 3 days now.",
+      "reply": "Sorry to hear you’re running into syncing and manual entry errors, especially after the app had been working well for months. We understand how frustrating that can be when you rely on Stride to track your mileage. Please write to us at https://stride.link/support so our support team can help investigate.",
+      "replyDate": "2026-03-09T14:07:06.580Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=ff38f7a0-9282-4d13-8734-1fbd9a0d7649"
+    },
+    {
+      "date": "2026-03-03T16:49:46.000Z",
+      "score": 3,
+      "thumbsUp": 1,
+      "user": "atg maryland",
+      "text": "not reliable",
+      "reply": "Sorry to hear the app hasn’t been reliable for you. That’s not the experience we want you to have. Please write to us at https://stride.link/support",
+      "replyDate": "2026-03-09T14:07:37.690Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=5760e207-26d4-47af-8815-73dc32c32a29"
+    },
+    {
+      "date": "2026-03-03T15:25:47.765Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Ryan Dovel",
+      "text": "Downloaded a mileage tracker app and got an annoying app trying to sell me health insurance.",
+      "reply": "Sorry for the frustration. Insurance in Stride is optional, and we understand how those notifications can feel distracting. Please write to us at https://stride.link/support",
+      "replyDate": "2026-03-09T14:07:42.502Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=b64b3cd2-c588-429e-b6ff-011b480824fa"
+    },
+    {
+      "date": "2026-03-03T13:59:59.663Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "Nancy Burdine",
+      "text": "some inside options say not available and can't open..",
+      "reply": "Sorry to hear some options in the app aren’t opening or showing as available. That’s definitely not the experience we want you to have. Please write to us at https://stride.link/support so our support team can take a closer look and help troubleshoot.",
+      "replyDate": "2026-03-09T14:07:52.602Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=fac0d0be-a535-4517-9625-fd530d307ff8"
+    },
+    {
+      "date": "2026-03-03T07:14:09.101Z",
+      "score": 1,
+      "thumbsUp": 2,
+      "user": "petunia pnk",
+      "text": "several times I've started my 'track drive', to start now and when I clicked on 'i'm done driving' the app says I accumulated $0 dollars and zero miles for those trips. I'm a doordash driver, and their app has failed me many times where it did not log my miles. I'm searching for another app that doesn't have this issue.",
+      "reply": "Sorry to hear your drives aren’t being recorded. That’s definitely frustrating, especially when you rely on the app to track your mileage for work. Please write to us at https://stride.link/support so our support team can look into what’s happening and help troubleshoot the issue with your tracking.",
+      "replyDate": "2026-03-09T14:08:39.246Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=f5eec049-e269-4ed0-a186-552184d8c125"
+    },
+    {
+      "date": "2026-02-28T23:23:58.787Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "April Godboldo",
+      "text": "This app is a waste of time and tax preparers refuse to work with the mileage I incurred. To make matters worse, I can't get in touch with anyone to ask how it works.",
+      "reply": "Sorry to hear about your experience. Our support team is available and happy to help with questions about mileage tracking and how the app works. Please write to us at https://stride.link/support so we can assist you directly.",
+      "replyDate": "2026-03-09T14:09:00.418Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=0fea3540-4663-4677-b8c2-5387e2107f86"
+    },
+    {
+      "date": "2026-02-27T05:27:02.551Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Loukas Papaioannou",
+      "text": "Best free mile tracking app",
+      "reply": "We’re glad to hear you’re enjoying the app and finding it helpful for tracking your miles. If you ever have questions or need help, please write to us at https://stride.link/support — our support team will be happy to assist.",
+      "replyDate": "2026-03-09T14:09:21.467Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=cecffb7d-6019-4225-9fab-2e13fc8bcb6b"
+    },
+    {
+      "date": "2026-02-24T17:39:28.176Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Kenneth Perry",
+      "text": "very easy to use",
+      "reply": "Thank you for the 5-star review!",
+      "replyDate": "2026-02-25T17:19:02.836Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=d627e172-aeef-4cda-a132-54271d282954"
+    },
+    {
+      "date": "2026-02-23T01:18:07.549Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "Mr. All Mighty's Offspring",
+      "text": "Doesn't have automatic mileage tracking capabilities. Have missed out on hundreds of miles probably thousands in tax deductions because who thinks to always turn on the tracking?",
+      "reply": "Thanks for the feedback. You’re right — Stride currently requires manual start and stop for mileage tracking. We understand how easy it is to forget and how important those miles are for deductions. We’re actively exploring improvements in this area. If you’d like to share more about your workflow, please write in to https://stride.link/support.",
+      "replyDate": "2026-02-25T17:26:10.583Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=b12bc315-930e-4e5a-ae8c-3b2483e60d36"
+    },
+    {
+      "date": "2026-02-22T04:33:35.339Z",
+      "score": 2,
+      "thumbsUp": 13,
+      "user": "Dominus",
+      "text": "App was working fine until about 4 days ago. I've tried uninstalling and reinstalling, it still won't load the map, to start tracking miles. (Update): App is working right, again! Download the update! (Update 2/21/26) This happens about once a year where it stops logging and uploading to the app. I've recommended this app so many times, but I'm done with going a week or two without the app working right. My drives aren't failing, but aren't uploading either. It's been almost a week of failure.",
+      "reply": "We’re really sorry to hear this keeps happening, especially after recommending Stride to others. Drives not uploading for days at a time isn’t acceptable. We’d like to take a closer look at what’s causing the upload failures on your account. Please write in to https://stride.link/support so we can investigate and help get this resolved.",
+      "replyDate": "2026-02-25T17:27:15.296Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=7dff1a17-a26b-4b61-bdfd-58a5237ca95d"
+    },
+    {
+      "date": "2026-02-20T14:10:28.676Z",
+      "score": 1,
+      "thumbsUp": 22,
+      "user": "Eric Duvall",
+      "text": "I have used this app for years to track my mileage. Up until not ive had little to no issues. recently, everytime i go to manually add my miles, it pops a login error:no internet connection. I have tried reinstalling the app, logging out and back in, clearing cache, restarting phone, on and off wifi, everything. nothing has fixed it and its extremely frustrating. might have to find a new app.",
+      "reply": "We’re really sorry you’re running into this, especially after using Stride for years without issues. The “no internet connection” error when manually adding miles isn’t expected, particularly after all the troubleshooting you’ve already tried. We're looking into this issue.",
+      "replyDate": "2026-02-25T17:29:36.975Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=d25e7ca1-284c-4775-9d9e-e1d719276a96"
+    },
+    {
+      "date": "2026-02-18T22:54:54.448Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "Andrew Tarpley",
+      "text": "It is ridiculous that in 2026 there is any app much less one used for delivery drivers that requires me to disable my battery saving mode to use the only feature that matters which is the mileage tracker this app is so good most of the time but that is just ridiculous DoorDash Amazon roadie and any other number of delivery apps do not require this why does this one",
+      "reply": "We hear your frustration. Mileage tracking relies on continuous background GPS access, and some battery saver modes can restrict that, which may cause tracking to stop. That said, we understand it’s inconvenient. We’re working to improve performance in low-power modes. Please write in to https://stride.link/support so we can help.",
+      "replyDate": "2026-02-25T17:31:06.105Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=d0d88368-a2a5-482e-801a-10d25fdc7421"
+    },
+    {
+      "date": "2026-02-16T22:44:31.213Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "Gilded Eye",
+      "text": "being able to put in notes when ending a drive would be great",
+      "reply": "This is possible. Please write in to https://stride.link/support, so we can show you how!",
+      "replyDate": "2026-02-25T17:30:13.693Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=8e56037f-af79-4445-8c02-c95e43242deb"
+    },
+    {
+      "date": "2026-02-11T13:36:58.609Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Steve Hamstra",
+      "text": "easy app to use",
+      "reply": "Thanks for the 5-star review!",
+      "replyDate": "2026-02-25T17:30:49.425Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=c212999f-4b2a-46fd-a1f9-2c2bd83ebcd6"
+    },
+    {
+      "date": "2026-02-10T08:20:10.240Z",
+      "score": 1,
+      "thumbsUp": 18,
+      "user": "Juan Martinez",
+      "text": "Can't review a recently recorded track?",
+      "reply": "Please write in to https://stride.link/support so we can better understand your use case and try to help.",
+      "replyDate": "2026-02-25T17:31:35.188Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=347e06ca-a1b5-41a0-94ff-ba85307b0fdc"
+    },
+    {
+      "date": "2026-02-09T13:47:49.475Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Teaneishia Hunter",
+      "text": "Horrible!! It does not track miles probably. Today alone, I've been driving for nearly 3 hours, how is it that the app says I've only driven just over 2 miles. This prompted me to look at previous days I thought the app was tracking my miles, and everyday I'm driving for hours with very few miles tracked.",
+      "reply": "We’re really sorry to hear this — that’s definitely not expected, especially after driving for hours. If the app is only showing a couple miles, we’d like to investigate what’s happening with your tracking. Please write in to https://stride.link/support with a recent example and your device type so we can look into this and help get it resolved.",
+      "replyDate": "2026-02-25T17:33:11.845Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=845bc499-1f89-498c-b4cf-d815ce20e9bb"
+    },
+    {
+      "date": "2026-02-05T21:15:31.985Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Jose Sanchez",
+      "text": "it's not keeping track of mileage I drove and if it does it only tracks a few miles then stops",
+      "reply": "Sorry to hear this — that’s definitely frustrating. Mileage shouldn’t stop mid-drive. Please write in to our support team at https://stride.link/support so we can investigate what’s happening and help get tracking working reliably again.",
+      "replyDate": "2026-02-06T18:02:09.413Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=24c9f5be-17b2-476b-affb-d8cea8f9f26c"
+    },
+    {
+      "date": "2026-02-05T13:33:51.259Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Sean Murphy",
+      "text": "This is a great app, but can we get a widget so that we can track miles at the push of a button. Instead of having to locate the app, open it and then click two more buttons to track. Pleaseeeee.",
+      "reply": "Thanks for the great feedback! We’re glad you’re enjoying the app. A widget for one-tap mileage tracking is a great idea, and we’ll share this suggestion with our product team. If you’d like to add more details, feel free to write in at https://stride.link/support so we can better understand how you’d like it to work.",
+      "replyDate": "2026-02-06T18:03:10.516Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=b9d5d425-84f7-4171-a3d7-dbe5007fa3bb"
+    },
+    {
+      "date": "2026-02-03T15:52:51.903Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "Manuel Colón",
+      "text": "It should have the automatic miles tracking, instead of adding it manually, other than that the App is really helpful",
+      "reply": "Thanks for the feedback! We’re glad the app has been helpful for you. Automatic mileage tracking isn’t available yet, but it’s something we’re actively working toward. Your input helps guide those improvements, and we appreciate you taking the time to share it.",
+      "replyDate": "2026-02-06T18:03:42.767Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=f50a2f22-6ae9-49c1-8cc6-cc2a06ef6b75"
+    },
+    {
+      "date": "2026-02-03T05:07:25.785Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Jarminx",
+      "text": "\"Please check your email and password\" over and over even though everything is correct. Uninstalling, it can't do a basic thing then I don't trust it with the more complicated stuff.",
+      "reply": "Sorry you’re running into login issues — that’s frustrating, especially when everything looks correct. This isn’t expected behavior, and we’d like to help get it sorted. Please write in to our support team at https://stride.link/support so we can look into what’s causing this and help you log in successfully.",
+      "replyDate": "2026-02-06T18:04:24.990Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=8ee6c0c9-d646-45f1-a277-b6fad064a53f"
+    },
+    {
+      "date": "2026-01-28T08:47:35.957Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "David Atwell",
+      "text": "advertising for insurance more than anything about mileage",
+      "reply": "Thanks for the feedback — we hear you. Stride’s core purpose is mileage and expense tracking for 1099 work, and insurance options are optional. If you’re seeing too many insurance messages, please write in to https://stride.link/support and our team can help reduce or stop those notifications for you.",
+      "replyDate": "2026-02-06T18:05:06.482Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=f2f350db-d1f7-4b4a-8221-0f180505caaa"
+    },
+    {
+      "date": "2026-01-27T16:25:04.914Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "Shelly Welter",
+      "text": "does not record all my milage for the day. some days it says 0 milage after I drove all day..",
+      "reply": "Sorry to hear this — that’s definitely frustrating, especially after a full day of driving. Mileage shouldn’t show as zero. You can add mileage manually, and please write in to our support team at https://stride.link/support so we can investigate what’s causing this and help get tracking working properly again.",
+      "replyDate": "2026-02-06T18:06:38.641Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=c008f5d0-d4d2-4dec-97ff-a303a2ade6bf"
+    },
+    {
+      "date": "2026-01-26T16:39:52.596Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Reid Phillips",
+      "text": "free mileage tracker. be careful what you wish for, because it drops the ball.",
+      "reply": "We’re sorry to hear about your experience. Reliable mileage tracking is important, and we’d like to help look into what’s going wrong. Please write in to our support team at https://stride.link/support so we can troubleshoot and work to improve your experience.",
+      "replyDate": "2026-02-06T18:07:39.635Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=f0316064-633e-46f8-a040-394c28c02b81"
+    },
+    {
+      "date": "2026-01-25T21:05:11.271Z",
+      "score": 1,
+      "thumbsUp": 10,
+      "user": "emily montealegre",
+      "text": "this app is absolute garbage. drive all day expecting it to log your miles only to find out at the end of the day it logs nothing. failed upload. no internet connection. oooookay. it worked for exactly 1 day. I can't even manually add my drives. I get the same error of having no internet connection. doesn't seem to matter if im on WI-FI or mobile data. Just garbage.",
+      "reply": "We’re sorry for the frustration this has caused. We’d like to investigate why uploads and manual entries are failing on your account. Please write in to our support team at https://stride.link/support so we can help troubleshoot and get this resolved.",
+      "replyDate": "2026-02-06T18:08:20.933Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=319a1a6d-e57e-4e31-99b8-8daa5ba449c2"
+    },
+    {
+      "date": "2026-01-24T11:51:23.683Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "Abbie F",
+      "text": "Install this and get a ton of spam and scam email! 😒",
+      "reply": "We’re sorry to hear this concern. Stride does not sell or share your email address, and we take privacy seriously. We’d like to look into what you’re seeing and help clarify. Please write in to our support team at https://stride.link/support so we can investigate and assist.",
+      "replyDate": "2026-02-06T18:09:02.632Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=97e9feee-253d-4844-ba49-d43a3e60f227"
+    },
+    {
+      "date": "2026-01-23T17:04:49.677Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Dabossman 1985454",
+      "text": "Great and easy to use",
+      "reply": "Thank you for the 5-star review!",
+      "replyDate": "2026-02-06T18:08:31.259Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=6f5acefe-19f9-4d9c-a296-b6e35627399d"
+    },
+    {
+      "date": "2026-01-23T03:07:55.638Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Val J",
+      "text": "have used the app for over 5 years to track mileage for amazon flex driving/delivery. this year app is refusing to provide the report. very frustrating. guess I'll need to find a more reliable service.",
+      "reply": "We’re sorry to hear this has been frustrating, especially after using Stride for so many years. Report issues aren’t expected, and we’d like to help get this resolved. Please write in to our support team at https://stride.link/support so we can look into what’s happening and assist you.",
+      "replyDate": "2026-02-06T18:09:54.920Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=7b613fd0-78f2-4916-a861-68f9304c115b"
+    },
+    {
+      "date": "2026-01-21T20:50:24.100Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "Lisa Beavers",
+      "text": "the app itself is fine, but it doesn't not autotrack miles like it says. you have to manually start and stop each drive. I wanted something that knew i was driving automatically and tracked the miles without input from me.",
+      "reply": "Thanks for the feedback! At this time, Stride requires you to manually start and stop mileage tracking and doesn’t automatically detect drives. We understand why auto-tracking would be helpful and will share this request with our product team as we continue improving the app.",
+      "replyDate": "2026-02-06T18:13:15.410Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=7cfd3de2-ecfc-4f98-b1e3-3162a396f478"
+    },
+    {
+      "date": "2026-01-19T23:42:05.348Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Eugene Lamb",
+      "text": "easy and free",
+      "reply": "Thank you for the 5-star review!",
+      "replyDate": "2026-02-06T18:10:04.554Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=88e05bc7-675b-432c-8b0c-37b95e31f0bd"
+    },
+    {
+      "date": "2026-01-19T18:02:35.735Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Jordan",
+      "text": "Doesnt actually track miles automatically. There isnt even a setting to enable auto mile tracking. Ive gone through everything and not a single area in the app is there an auto track option.",
+      "reply": "Thanks for the feedback! At this time, Stride requires you to manually start and stop mileage tracking and doesn’t automatically detect drives. We understand why auto-tracking would be helpful and will share this request with our product team as we continue improving the app.",
+      "replyDate": "2026-02-06T18:10:36.387Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=a90a5438-b356-4cc8-8c01-48b5e079f404"
+    },
+    {
+      "date": "2026-01-17T23:25:48.165Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "M. D.",
+      "text": "App still glitches after 2 years of use. Doesn't log miles randomly and has been a huge disappointment.",
+      "reply": "We’re sorry to hear this has been your experience, especially after using the app for so long. We know how disappointing it is when miles don’t log reliably. We’d like to take a closer look and help troubleshoot. Please write in to our support team at https://stride.link/support so we can investigate and assist.",
+      "replyDate": "2026-02-06T18:11:12.196Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=1aaabf27-2d05-4f72-9dc7-f46c2c1d2164"
+    },
+    {
+      "date": "2026-01-14T15:54:11.978Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Muhammad Usman Khalid",
+      "text": "Best app ever i love it. needs little bit improvement and update but its all good.",
+      "reply": "Thank you for the 5-star review. If you'd like to provide us feedback on how to improve, please write in to https://stride.link/support.",
+      "replyDate": "2026-02-06T18:11:12.274Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=63860096-25b3-4aab-a687-27dd81256ffa"
+    },
+    {
+      "date": "2026-01-14T13:50:52.894Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Jolene Hambley",
+      "text": "The app will not allow me to track mileage I forgot for 2025 manually but it will allow me to track 2026. I have tried all the recommendations and nothing works. very frustrating",
+      "reply": "Sorry to hear how frustrating this has been. You should be able to manually add mileage for past dates, so this isn’t expected behavior. We’d like to take a closer look at what’s blocking 2025 entries on your account. Please write in to our support team at https://stride.link/support so we can investigate and help get this resolved.",
+      "replyDate": "2026-02-06T18:14:04.897Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=65306213-eea1-4841-90c2-123835ab88e1"
+    },
+    {
+      "date": "2026-01-13T13:06:12.740Z",
+      "score": 1,
+      "thumbsUp": 4,
+      "user": "Bryan Haist",
+      "text": "Can't add mileage for any date in 2025. There are a few dates last year that I forgot to track, I try to add them manually but it never works. Tap the add button and nothing happens. Filed IT ticket and chatted via email. They had me screen record and send them a video. They said it was an issue with their software and they are \"working\" on it. This was well over a week ago. Still not working. Yes I've tried uninstalling the app, force stopping it and clearing the cache. App is great if it works",
+      "reply": "Sorry to hear how frustrating this has been. You should be able to manually add mileage for past dates, so this isn’t expected behavior. We’d like to take a closer look at what’s blocking 2025 entries on your account. Please write in to our support team at https://stride.link/support so we can investigate and help get this resolved.",
+      "replyDate": "2026-02-06T18:14:05.357Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=2564061c-c192-4c46-bcd9-901c4f4302ec"
+    },
+    {
+      "date": "2026-01-13T03:00:15.249Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "John Schultz",
+      "text": "I love the app. I do Amazon flex and it works great to tracking my mileage and income.",
+      "reply": "Thank you for the 5-star review! We're glad to hear the app is working well for tracking your mileage and income.",
+      "replyDate": "2026-02-06T18:14:25.611Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=e9cc12b3-1843-4aa8-ae64-7cf72f5b1e07"
+    },
+    {
+      "date": "2026-01-12T10:49:19.482Z",
+      "score": 2,
+      "thumbsUp": 11,
+      "user": "zoe d",
+      "text": "I've been using this app for years but recently I'll push track my miles only to find out that it hasn't. I've had to start using my miles counter on my car dashboard and then add them manually to the app, which as also helped because the app hadn't been tracking all of miles correctly. I'm going to download another app. Also stop asking/reminding people about our health insurance.",
+      "reply": "We’re sorry to hear about the recent tracking issues — we know how frustrating that is after using Stride for years. Adding miles manually is a good workaround, and we’d like to help troubleshoot why tracking stopped. You can also contact us to reduce health insurance reminders. Please write in at https://stride.link/support so we can help.",
+      "replyDate": "2026-02-06T18:15:06.587Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=3c8f4e69-b7f7-4e40-8513-27c8ab10e5b9"
+    },
+    {
+      "date": "2026-01-12T04:17:25.350Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Aleksandra Bozinovska",
+      "text": "Does not track miles accurately whatsoever. Every time I use it, it has tracked literally thousands of miles each time and it's basically useless when it comes to miles tracking.",
+      "reply": "We're sorry to hear about the inaccurate mileage tracking. Our team will be looking into this issue soon!",
+      "replyDate": "2026-02-06T18:14:56.500Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=9bee0a17-d03f-4c4d-a030-ea4ac54c6038"
+    },
+    {
+      "date": "2026-01-10T22:21:12.440Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "Hope findley",
+      "text": "does not track all your miles! was off from my paper tracking by a lot",
+      "reply": "We’re sorry to hear about the tracking issues. Please write in at https://stride.link/support so we can help.",
+      "replyDate": "2026-02-06T18:15:27.468Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=065cf924-8e0b-4b39-a61b-19532a1f97fb"
+    },
+    {
+      "date": "2026-01-10T00:32:51.300Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Marny West",
+      "text": "could not open app",
+      "reply": "Please write in at https://stride.link/support so we can help you figure out the issue with opening the app.",
+      "replyDate": "2026-02-06T18:15:47.794Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=f1e8c148-0dc1-4586-a4a0-0bf694b32b22"
+    },
+    {
+      "date": "2026-01-08T20:19:44.139Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "lizbeth martinez",
+      "text": "It was all good till now I was trying to add manually some mileage that I forgot to track and I can't I tried everything and it doesn't work I uninstall the app and nope it's not working",
+      "reply": "Sorry to hear how frustrating this has been. You should be able to manually add mileage for past dates, so this isn’t expected behavior. We’d like to take a closer look at what’s blocking 2025 entries on your account. Please write in to our support team at https://stride.link/support so we can investigate and help get this resolved.",
+      "replyDate": "2026-02-06T18:16:08.862Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=a0a55a51-7cc6-4846-a95f-2a39b6604b9b"
+    },
+    {
+      "date": "2026-01-08T11:14:36.807Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Jose Valentin",
+      "text": "The app has a bug, it is not recording the trips properly and adding 2 orn3 days in one trip.",
+      "reply": "Sorry to hear about this — trips should not be combining multiple days like that. This sounds like a bug we’d want to investigate. Please write in to our support team at https://stride.link/support with an example so we can look into what’s happening and help get this resolved.",
+      "replyDate": "2026-02-06T18:17:00.250Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=806bedba-9738-4f16-b3eb-a2fe86ba42d2"
+    },
+    {
+      "date": "2026-01-06T14:10:10.372Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Just Johnny",
+      "text": "Does exactly as advertised!! Best App in the PlayStore for tracking miles!! Highly Recommend!!",
+      "reply": "We're so glad you're enjoying the app and finding it effective for mileage tracking! Your recommendation means a lot to us, thank you!",
+      "replyDate": "2026-01-07T13:54:23.999Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=4e5fd45f-f126-4261-8f3c-8d62bac73dc1"
+    },
+    {
+      "date": "2026-01-06T04:36:33.443Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Sonia Navarro",
+      "text": "not tracking mileage correctly",
+      "reply": "Sorry to hear the app isn't tracking your mileage correctly. Please consider writing into https://stride.link/support, so we can help you figure out what's going on.",
+      "replyDate": "2026-01-07T13:55:03.195Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=97154c58-0b49-4086-a7a9-b0806ff2638b"
+    },
+    {
+      "date": "2026-01-05T03:04:35.945Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "Courtney Lee",
+      "text": "trying to add miles and it wont allow me to manually add the miles",
+      "reply": "Thank you for the feedback. Could you please write into https://stride.link/support so we can help you add miles manually?",
+      "replyDate": "2026-01-05T14:07:44.595Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=ee1cc6e3-cc80-4557-91a6-a5ac1eaf1266"
+    },
+    {
+      "date": "2026-01-02T16:13:03.389Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Valerie Babura",
+      "text": "GPS CONSTANTLY DISCONNECTS!",
+      "reply": "We’re sorry about that. GPS disconnecting isn’t expected behavior, and we’d like to investigate what’s happening on your device. Please write in to https://stride.link/support so our team can look into this and help get your tracking back to normal.",
+      "replyDate": "2026-01-05T14:13:27.514Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=41444875-77a9-414f-9dff-48df366330bc"
+    },
+    {
+      "date": "2026-01-01T20:27:53.148Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "R K",
+      "text": "app won't let me add yesterdays miles with or without wifi . I'm going to use another app starting this year due to no fix in sight on stride that I've complained about for a few months here now",
+      "reply": "Thank you for your constructive feedback regarding the login issue and missing miles. We value your experience and want to ensure you can track your work-related miles smoothly. Please write in at https://stride.link/support to share more details. We appreciate your input!",
+      "replyDate": "2025-11-19T14:28:58.708Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=01e1906a-e48c-40fe-97f1-d1d7e4e2aa49"
+    },
+    {
+      "date": "2025-12-28T14:59:55.230Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Emmanuel Yakawa",
+      "text": "useful for tax purposes",
+      "reply": "Thank you for the 5-star review! We're glad to hear our app is useful for your tax purposes.",
+      "replyDate": "2026-01-05T14:09:20.365Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=2ade00a8-f24d-44ff-8546-718ea6651958"
+    },
+    {
+      "date": "2025-12-22T18:03:58.463Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "dalila",
+      "text": "terrible app.it used to be great but lately it crashes all the time.it tells you it's counting miles but after you check all the miles are gone",
+      "reply": "Sorry for the frustration. We know how stressful it is to lose tracked miles, especially when you rely on them for work. This isn’t the experience we want for you. Please write in to our support team at stride.link/support so we can look into what’s happening on your account and help troubleshoot.",
+      "replyDate": "2026-01-05T14:13:56.258Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=435bdef6-9538-4401-9a55-e22f70034026"
+    },
+    {
+      "date": "2025-12-18T00:11:25.390Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "kathy cross",
+      "text": "great app just hard to see the current weeks mileage by day . where can I get from nf that?",
+      "reply": "Thanks for the feedback! You can view your mileage entries by going to Taxes → Deductions, where each drive is listed. At the moment, we don’t have a way to automatically total mileage by day or show a daily weekly summary, but we’ll share this request with our product team as an improvement.",
+      "replyDate": "2026-01-05T14:14:54.611Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=73ff2121-1355-4b48-89c8-7f2e7663ec4d"
+    },
+    {
+      "date": "2025-12-16T22:31:30.208Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Prince Love",
+      "text": "it's was working great I love it..... but from last month it's not working correctly every time if I drive 100 miles it only show 80 to 85.... plz do something fast or I have to switch",
+      "reply": "Sorry to hear about the incorrect mileage tracking. Please write into https://stride.link/support so we can help you figure out what's going on and try to resolve the issue.",
+      "replyDate": "2026-01-05T14:11:55.159Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=94e4dfc5-2ee2-4aca-a846-3db03183b66a"
+    },
+    {
+      "date": "2025-12-16T12:14:05.486Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "wruiz74",
+      "text": "Helps keep all my deductions and income organized with an estimate that is acceptable for tax purposes.",
+      "reply": "Thank you for the 5-star review!",
+      "replyDate": "2026-01-05T14:09:37.340Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=dc1f44af-6f6c-46eb-aa95-e62a09876dea"
+    },
+    {
+      "date": "2025-12-15T20:46:59.950Z",
+      "score": 2,
+      "thumbsUp": 1,
+      "user": "Eden Belladonna",
+      "text": "the app seems to work as intended for me, I use it primarily to track my milage while doordashing, but lately its sending me multiple notifications daily to look into health insurance plans before the end of the year and there is no way to turn them off. ive tried everything, if you want the beneficial notifications apparently you have to live with this junk cluttering your phone and waking you up in the morning if youre a light sleeper. edit: and don't you dare say you want to\"explain messaging",
+      "reply": "Sorry to hear the insurance notifications have been bothersome. Please write into https://stride.link/support so we can ensure you don't receive any more notifications about insurance.",
+      "replyDate": "2026-01-05T14:11:20.167Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=af158b06-5b0a-4c5e-93db-610ab3583ce4"
+    },
+    {
+      "date": "2025-12-15T14:54:21.365Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Hugh Wilson",
+      "text": "I marked in my profile that I have health insurance through my employer and have notifications turned OFF but stride still notifies me several times a day about health or car insurance. Getting very annoyed. I just went in to my profile and marked everything again. If that doesnt work, Im deleting the app.",
+      "reply": "Sorry to hear the insurance notifications have been bothersome. Please write into https://stride.link/support so we can ensure you don't receive any more notifications about insurance.",
+      "replyDate": "2026-01-05T14:10:57.284Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=c5de342a-4776-407c-8cc8-e4618e373657"
+    },
+    {
+      "date": "2025-12-12T12:05:21.572Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "M M",
+      "text": "App doesn't work. Tried to create an account to use Amazon discounts for maintenance & it doesn't allow me to create an account. Just getting an error message. uninstalled immediately",
+      "reply": "Sorry to hear about the issue creating an account. Please write into https://stride.link/support so we can help you create an account and access your Amazon discounts.",
+      "replyDate": "2026-01-05T14:10:17.194Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=98fc8900-7d3b-4249-8d5c-9d5cd9c4a157"
+    },
+    {
+      "date": "2025-12-05T20:13:40.135Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Janice Williams",
+      "text": "So far so good. We should see at tax time.",
+      "reply": "Thank you for the 5-star review. If there's anything we can do to help during tax time, please reach out at https://stride.link/support.",
+      "replyDate": "2025-12-10T15:00:45.500Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=0f66fbf9-ee78-4097-8e54-417f49745161"
+    },
+    {
+      "date": "2025-12-01T06:13:27.609Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "Jonathan Madera",
+      "text": "Loading is so slow now. When I downloaded this App in January 2025, it was so much faster.",
+      "reply": "Thank you for your feedback regarding the loading speed. We're sorry to hear it's slower than before. Your experience matters to us, and we encourage you to write in at https://stride.link/support to provide more details so we can help.",
+      "replyDate": "2025-12-04T15:40:37.757Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=78b18ea8-0740-42e5-8c45-cc104c09a449"
+    },
+    {
+      "date": "2025-11-30T16:53:52.398Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Scott",
+      "text": "the app is terrible just constantly missing mileage just because I'm driving in between jobs in between doordash does it mean you stop calculating my mileage",
+      "reply": "Thank you for your feedback about the mileage tracking. Please reach out with more details through https://stride.link/support to help us improve.",
+      "replyDate": "2025-12-04T15:40:59.552Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=8f0d0e2f-8111-4ba7-b82f-e72f2226128d"
+    },
+    {
+      "date": "2025-11-28T16:35:35.570Z",
+      "score": 3,
+      "thumbsUp": 2,
+      "user": "Renee Crozier",
+      "text": "The app is good for tracking mileage for my taxes but the notifications are frequent and there is no way to adjust them.",
+      "reply": "Thank you for your feedback! We're glad the app helps with mileage tracking. Your comments on notification settings are important, and we encourage you to share more with us at https://stride.link/support.",
+      "replyDate": "2025-12-04T15:41:28.103Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=f5187093-01e7-48eb-822a-a297cab66c96"
+    },
+    {
+      "date": "2025-11-21T09:41:07.783Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "crystal Mcdonald",
+      "text": "I stopped using the auto miles because they were not accurate. So then I started entering them manually. Now I can't even do that because no internet connection which I have. But now I have to get a new app",
+      "reply": "We’re sorry to hear the app is missing miles—that’s frustrating. Please ensure battery optimizations are disabled for the app to help prevent tracking interruptions. If the problem continues, contact our support team at https://stride.link/support so we can assist you. Thanks for your patience!",
+      "replyDate": "2025-07-28T17:03:13.707Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=94cb8c4d-d803-41eb-a3bd-2de0d3e78096"
+    },
+    {
+      "date": "2025-11-21T00:01:30.195Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Deran Decker",
+      "text": "I came here to give 1 star because I'm fed up with the endless spam inside the app asking me to sign up for health insurance. Not only that, it is misleading, saying things like \"40% of Stride users pay $50/month for health insurance\" when the reality is it has NOTHING TO DO with being a Stride user and everything to do with the marketplace that's accessible even without a Stride account!! I'm so over the lies and manipulation!!",
+      "reply": "We're sorry to hear about your experience with the app's notifications regarding health insurance. Your feedback is important; please reach out at https://stride.link/support so we can better explain our messaging around health insurance.",
+      "replyDate": "2025-12-04T15:42:14.309Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=9038e973-d0ef-4947-8007-b13c5d740965"
+    },
+    {
+      "date": "2025-11-20T10:29:06.460Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "Me",
+      "text": "it freezes up sometimes",
+      "reply": "Thank you for your feedback about the app freezing. We appreciate your input and would love more details through https://stride.link/support to help us improve performance.",
+      "replyDate": "2025-12-04T15:42:37.355Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=6aa7085b-11ac-4f1f-add5-569e9f63fca3"
+    },
+    {
+      "date": "2025-11-18T08:30:46.199Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "HUNG LE",
+      "text": "great",
+      "reply": "Thank you for your positive feedback!",
+      "replyDate": "2025-11-19T14:26:52.900Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=914cbf65-c39f-4adb-b427-c3d2469d040b"
+    },
+    {
+      "date": "2025-11-17T20:57:39.388Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Love Music",
+      "text": "This app is cloned. Please remove all devices from this app.",
+      "reply": "Thank you for your feedback. We'd love to better understand what you mean by our app being cloned. Please write in at https://stride.link/support.",
+      "replyDate": "2025-11-19T14:27:57.288Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=4145fa71-ba6d-44a6-bed7-4ae28535ce73"
+    },
+    {
+      "date": "2025-11-16T10:48:51.498Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Jen Jam",
+      "text": "Why does it track as the crow flies? I drove over 200 miles tonight, on actual streets and going through actual intersections. however the app did not follow the streets I drove, it pretended I flew over the buildings and over the treetops. so it says that I only drove 38 miles. I'm hoping that this is a glitch, that you will fix.",
+      "reply": "Thank you for your feedback on tracking accuracy. We understand your concerns and value your experience. Please share more details through https://stride.link/support so we can assist you further.",
+      "replyDate": "2025-11-19T14:28:27.872Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=3f695040-e809-4dcb-85b6-b4cb4aec53d5"
+    },
+    {
+      "date": "2025-11-12T23:47:36.196Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "OfficialSpiffReese",
+      "text": "I love the idea of the app but its..slow to load everything. nothing quick about it.",
+      "reply": "Thank you for your feedback on the app's loading speed. We value your input and will work on improving performance. We'd love to try and help you if you write into https://stride.link/support.",
+      "replyDate": "2025-11-13T16:42:28.396Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=db8bcac9-3d02-41a4-9151-350da319b68a"
+    },
+    {
+      "date": "2025-11-12T19:55:28.787Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Brent H",
+      "text": "Tracking lags behind and milage is lost",
+      "reply": "We sincerely apologize for any inconvenience you've experienced with our app. We've dedicated significant effort to improving its functionality, and we encourage you to update to our latest release. Please let us know if your issues persist, and thank you for your patience.",
+      "replyDate": "2024-02-14T06:58:09.862Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=fea4a943-0c1b-4e8b-80ec-d1c4d357417c"
+    },
+    {
+      "date": "2025-11-12T18:15:34.305Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Logan z",
+      "text": "does what it is supposed to do great, but there isn't an obvious way to turn off extra unwanted notifications.",
+      "reply": "Thank you for your feedback! We're glad to hear that the app is meeting your expectations. We appreciate your input regarding notifications, and we understand how important it is to have control over them. If you write into https://stride.link/support, we can provide more guidance on how to turn off unwanted notifications.",
+      "replyDate": "2025-11-13T16:42:32.714Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=b7f00d8b-dcb0-4392-8e21-c98b726b1703"
+    },
+    {
+      "date": "2025-11-12T16:39:47.340Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "Tes W",
+      "text": "it used to be so easy and straight forward to review my miles and correct errors. now it's hard to even find them. They need to listed in an easy to find way, but they aren't and it's so frustrating!",
+      "reply": "Thank you for your feedback. We're sorry to hear that finding and correcting entries has been challenging. We appreciate your input and are committed to improving your experience.",
+      "replyDate": "2025-11-13T16:42:40.181Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=1de73b5d-282d-4df3-a187-6135c679b431"
+    },
+    {
+      "date": "2025-10-31T14:15:48.502Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Greg spink",
+      "text": "app keeps closing app does not record drive sometimes.",
+      "reply": "We appreciate your feedback about the app closing unexpectedly and not recording drives. That’s definitely not the experience we want for you. Please reach out at https://stride.link/support, as your insights are crucial for our ongoing improvements. Thank you for sharing!",
+      "replyDate": "2025-11-05T14:06:17.717Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=92d10045-4ff1-4f9d-b0ad-a2540e680f79"
+    },
+    {
+      "date": "2025-10-29T23:49:56.368Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Emerson",
+      "text": "Unstable and massive battery drain. I'm not sure what happened with the development of this app, but I've switched over to Zoho Expense and I couldn't be happier. My phone doesn't get as hot and the app just works. This app was stable for a while and now you can barely use it.",
+      "reply": "We appreciate your feedback about the instability and battery drain issues. It's concerning to hear your experience has changed, and we value your insights as they help us identify areas for improvement. Thank you for sharing, and we hope you find a solution that works well for you!",
+      "replyDate": "2025-11-05T14:06:21.798Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=dc956892-cef9-4b33-845c-a0ad8a432e5a"
+    },
+    {
+      "date": "2025-10-24T00:06:17.716Z",
+      "score": 5,
+      "thumbsUp": 2,
+      "user": "mark sanderson",
+      "text": "app stopped uploading my miles at the end of my day a couple days ago...please fix. it's working now.",
+      "reply": "Please write in at https://stride.link/support so we can take a closer look at your account and make sure your miles are saved properly.",
+      "replyDate": "2025-10-22T13:23:39.195Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=388923ae-b66d-4408-bb06-828df7d79664"
+    },
+    {
+      "date": "2025-10-22T02:38:58.451Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "A Google user",
+      "text": "I would like to see details on my mileage at anytime",
+      "reply": "Thank you for the feedback. Could you write in to https://stride.link/support with more details, so we can better understand your request?",
+      "replyDate": "2025-10-22T13:21:29.697Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=5919a093-fa75-4c4a-a735-9dc40abb79a4"
+    },
+    {
+      "date": "2025-10-21T14:04:59.438Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Marsha Cyphers",
+      "text": "does not keep track of your miles very well it stops in the middle",
+      "reply": "Sorry to hear that; that definitely shouldn’t be happening. Please write in at https://stride.link/support so our team can look into what’s causing your drives to stop mid-way and help get tracking working smoothly again.",
+      "replyDate": "2025-10-22T13:24:10.675Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=bf4dbba8-73ef-4834-92c1-878d97d1a4cb"
+    },
+    {
+      "date": "2025-10-17T09:22:50.927Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Heather Robinson",
+      "text": "Great app!",
+      "reply": "Thank you for the 5-star review!",
+      "replyDate": "2025-10-20T13:07:01.790Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=42f9d72f-769a-4ffe-bbcf-2ba612d638ec"
+    },
+    {
+      "date": "2025-10-15T15:32:49.783Z",
+      "score": 1,
+      "thumbsUp": 14,
+      "user": "loytaylor75",
+      "text": "I downloaded this app because I saw a review saying it was a quick setup with no account required. first page that popped up was \"create an account\" with no option to proceed without one. then the amount of personal information they wanted just to track milage was stupid. I deleted the app before even finishing the set up. you don't need to know about my health insurance to track my milage. 😡",
+      "reply": "Thanks for the feedback — creating an account helps securely store your mileage data and personalize your experience so you can get the most value out of the app, including saving on taxes and accessing benefits. We’ll share your input with the team as we look for ways to make setup feel simpler and more transparent.",
+      "replyDate": "2025-10-20T13:08:56.544Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=45d0c189-c1e5-453f-9f95-1e5e28aa16fd"
+    },
+    {
+      "date": "2025-10-11T03:00:11.310Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Ruth Mikell",
+      "text": "excellent",
+      "reply": "Thank you for the 5-star review!",
+      "replyDate": "2025-10-20T13:07:11.720Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=b7b2d30e-c54e-46b4-bace-965f25dd4170"
+    },
+    {
+      "date": "2025-10-09T23:18:39.550Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "The Delivery Driver Pitstop!",
+      "text": "Perfect for gig work! I have tried \"all\" the apps for gig work and this one is by far the most comprehensive and easy to use. Highly recommended!",
+      "reply": "Thank you for the 5-star review!",
+      "replyDate": "2025-10-20T13:07:17.511Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=2bb475a0-8953-4aef-b885-628a3f77dee3"
+    },
+    {
+      "date": "2025-10-09T00:06:09.896Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Angelo Capolungo",
+      "text": "doesn't track as it should. app use to work, now I find it practically useless. everlance app is superior for tracking miles",
+      "reply": "Sorry to hear about the tracking issues; please write in at https://stride.link/support so we can take a closer look to see why your mileage is not tracking correctly.",
+      "replyDate": "2025-10-20T13:08:16.800Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=eca90592-1b91-45f8-a418-f4557f523a70"
+    },
+    {
+      "date": "2025-10-08T21:55:42.160Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Cheezal",
+      "text": "Would be amazing if it actually tracked anything even remotely accurately. If it tracks at all. Hope it's saving my receipts I haven't checked that yet.",
+      "reply": "Sorry to hear about the tracking issues; please write in at https://stride.link/support so we can take a closer look to see why your mileage is not tracking correctly.",
+      "replyDate": "2025-10-20T13:08:03.937Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=ed3a28e9-cc7b-4e1f-bb8a-622c0ca52bb9"
+    },
+    {
+      "date": "2025-10-08T14:25:29.857Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "Nathan Mendoza",
+      "text": "The latest update doesn't track mileage correctly. I made sure the app has all permissions allowed and the app is not managed by the OS if not used in a certain amount of time.",
+      "reply": "Thanks for letting us know — we’re sorry to hear about the tracking issue. We’d like to take a closer look at your setup so we can help get this fixed. Please reach out at https://stride.link/support",
+      "replyDate": "2025-10-08T15:30:01.144Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=67a73f53-d5e6-4635-bec4-0e52403e431c"
+    },
+    {
+      "date": "2025-10-08T09:09:26.940Z",
+      "score": 2,
+      "thumbsUp": 18,
+      "user": "Zom B",
+      "text": "The app use to work before but lately it's not working great. Several times I have started recording my miles and then when I'm finished driving I go to the app to stop tracking only for the app to not have recorded any of my miles. The first time it happened I gave it the benefit of the doubt and said I probably forgot to turn it on. It has already happened 3 times in a week where I made sure I turned it on and then it didn't track anything.",
+      "reply": "Sorry you’ve been having issues with drives not tracking — we know how frustrating this can be. You can add mileage manually in the app, and please write in at https://stride.link/support so our team can troubleshoot and work to improve your experience.",
+      "replyDate": "2025-10-08T15:30:25.198Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=ba828867-14b3-4970-8b02-2fed2b1b8fa5"
+    },
+    {
+      "date": "2025-10-08T02:05:39.156Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "DJLEE BWA",
+      "text": "this Gay app keeps cutting off by itself making me lost milage I will never use the app next year or the future this is trash",
+      "reply": "We’re sorry to hear about your experience — we know how important reliable mileage tracking is. You can add mileage manually in the app, and please write in at https://stride.link/support so our team can troubleshoot and help resolve this issue.",
+      "replyDate": "2025-10-08T15:30:41.154Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=971995de-2415-4ed0-8916-39db3afff0df"
+    },
+    {
+      "date": "2025-10-03T23:24:00.150Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "Mr Mean",
+      "text": "on Android after the most recent update, app is glitching turning alarm, and mic, and location on and off constantly. for some reason to have the app on all the time, it requires alarm and reminders to be turned on, maybe this is affecting it? please get this fixed ASAP",
+      "reply": "Thanks for letting us know about this issue. That definitely shouldn’t be happening. Please write in at https://stride.link/support so our team can investigate and help troubleshoot with you.",
+      "replyDate": "2025-10-02T21:07:23.224Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=5b7def46-fb7b-42c7-8fd1-9e16bfbf865d"
+    },
+    {
+      "date": "2025-10-03T20:13:30.881Z",
+      "score": 2,
+      "thumbsUp": 1,
+      "user": "Sandy Brewerton",
+      "text": "can't go back and remove or redo an entry you've already saved into the app.",
+      "reply": "Thanks for your feedback! You can edit most entries in the app, but GPS-tracked drives can’t be updated at this time. We appreciate your input and will share it with our team. Please write in at https://stride.link/support if you’d like help with your entries.",
+      "replyDate": "2025-10-08T15:31:43.395Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=08071f49-2fe3-4dee-9517-f164931e2e85"
+    },
+    {
+      "date": "2025-09-30T03:38:43.760Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Ran Doe",
+      "text": "I've been using this app for awhile now. I just recently got a second job and I've noticed that even when I switch the job to track those miles seperately it automatically goes back to my default job. Nice app minus that one issue",
+      "reply": "Thanks for sharing this! We’d like to better understand what’s happening with your job selection so we can help. Please write in at https://stride.link/support so our team can take a closer look.",
+      "replyDate": "2025-10-02T21:07:42.595Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=8b56eb1c-7fa0-4558-952c-2b18baf795d3"
+    },
+    {
+      "date": "2025-09-22T20:36:22.290Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "Nick Schneider (nickschneider64)",
+      "text": "My only issue with this app is that it doesn't track personal miles, I use my car for Uber and driving to work. I think in order to track miles for tax purposes, a personal option needs to be added.",
+      "reply": "Thanks for your feedback! Stride is built to track deductible business miles, but we hear your request for personal miles. We’ll keep it in mind for future updates. Please write in at https://support.stridehealth.com so we can better understand your needs.",
+      "replyDate": "2025-09-24T14:28:06.263Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=4f2a4ec2-67e7-49b5-a3ac-5c43dc38f460"
+    },
+    {
+      "date": "2025-09-20T12:06:07.400Z",
+      "score": 3,
+      "thumbsUp": 6,
+      "user": "Deanna Joelle",
+      "text": "I really loved this app . I started using it a few months ago when I was forced to do gig work after losing my job. It was a huge help and super reliable for the past two weeks i've had nothing but problems. My data while tracking my drive won't save any longer and just disappears like it never happened. Which is extremely stressful a gig worker.",
+      "reply": "We’re sorry to hear about the recent issues with your drives not saving. We know how stressful that can be, especially when you rely on mileage for gig work. Please write in at https://support.stridehealth.com so our team can look into what’s happening and help resolve this for you.",
+      "replyDate": "2025-09-24T14:28:16.471Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=ffd9a6be-c650-43ed-8619-032565966376"
+    },
+    {
+      "date": "2025-09-19T02:18:50.191Z",
+      "score": 1,
+      "thumbsUp": 26,
+      "user": "spectator a side",
+      "text": "It was a great tracking mileage tool for business purposes and I liked so much. But since last updates in December 2023 it become full of errors and glitches unuseful junk. UPDATE 09.2025 - still unreliable. Stop tracking miles randomly without error notification.",
+      "reply": "Sorry to hear about the ongoing issues — we know reliable mileage tracking is essential. We’re actively working on improvements and would like to better understand what’s happening for you. Please write in at https://stride.link/support so we can troubleshoot and help resolve this.",
+      "replyDate": "2025-09-24T14:28:33.895Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=b6258558-1b98-4b8e-ac74-9292e6399c0a"
+    },
+    {
+      "date": "2025-09-17T17:58:26.810Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "Danny Langford",
+      "text": "Good so far for me. Just used a couple of times. Drains your battery more than other trackers.",
+      "reply": "Thanks for the feedback! We’re glad Stride has been working well for you so far. We appreciate your note about battery usage and will share it with our team as we work to improve the app. For tips on optimizing performance, please write in at https://stride.link/support.",
+      "replyDate": "2025-09-24T14:28:51.120Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=dd6b771f-d4e9-4d8c-83a4-c4a175a8b885"
+    },
+    {
+      "date": "2025-09-16T22:57:48.678Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Chris Mikkelson",
+      "text": "I drive for Amazon Flex and supposed to get deals and discounts on this app from that. So where are they? In fact, this app is pretty much useless to me, I might as well free up the storage space.",
+      "reply": "Sorry for the trouble! We recently fixed an issue with deals and discounts, so please try checking again. If you still don’t see them, write in at https://stride.link/support so we can help make sure you get full access to all available offers.",
+      "replyDate": "2025-09-24T14:29:13.927Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=1c0d830c-cb58-4231-98d5-fcf8b3a35484"
+    },
+    {
+      "date": "2025-09-14T00:04:27.451Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Ryan Griffiths",
+      "text": "used to work great but now it randomly stops working and tracking miles so its useless.",
+      "reply": "Sorry to hear the app has been stopping and missing miles — we know that can be frustrating. We’re working to improve reliability and would like to investigate your issue. Please write in at https://stride.link/support so we can help get your mileage tracking back on track.",
+      "replyDate": "2025-09-24T14:30:00.155Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=4dc714be-304c-429c-872c-a6c3071d3e24"
+    },
+    {
+      "date": "2025-09-09T06:42:07.387Z",
+      "score": 4,
+      "thumbsUp": 5,
+      "user": "Chris Neary",
+      "text": "Slowly becoming hot garbage. Each time I finish a drive it says \"0 uploaded (0 failed)\". If I try to enter manually the same miles it missed, I get \"login error: no internet connection\" which is not true. I'm looking into making my own app, this is trash.",
+      "reply": "Sorry for the frustration you’ve experienced — that definitely isn’t the experience we want. We’d like to help troubleshoot these issues so your drives upload correctly. Please write in at https://stride.link/support with details so our team can investigate and work toward a solution.",
+      "replyDate": "2025-09-24T14:29:48.602Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=9c99a141-80ac-420f-b366-fde9f25362ca"
+    },
+    {
+      "date": "2025-09-08T18:27:48.656Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Deisy Robles",
+      "text": "are you not able to add mileage now from year 2024?",
+      "reply": "Sorry to hear the app has been stopping and missing miles — we know that can be frustrating. You can add mileage manually in the app, and please write in at https://stride.link/support so we can help troubleshoot and improve your experience.",
+      "replyDate": "2025-09-24T14:30:23.106Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=5d6fa0c8-313a-45a9-bcc8-d0d9b811f0d9"
+    },
+    {
+      "date": "2025-09-01T16:18:39.631Z",
+      "score": 2,
+      "thumbsUp": 14,
+      "user": "Angel Thymera",
+      "text": "The one thing I am not liking about the latest update is that when you're done driving/tracking miles, hitting the \"stop\" button from the notification bar causes the app to open full-screen and then a pop-up confirm, instead of it just stopping from the notification bar like before. This is making life extra difficult with the number of apps I need to close each time I'm done driving for work :(",
+      "reply": "Thanks for sharing your feedback! We understand how important it is to have a smooth experience when ending a drive. We’ll pass your request along to our team for consideration in future updates. Please write in at https://stride.link/support so we can better understand your needs.",
+      "replyDate": "2025-09-24T14:30:40.402Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=6f942067-2eed-4fcc-a7ad-16c7be2bd223"
+    },
+    {
+      "date": "2025-08-28T15:09:01.434Z",
+      "score": 3,
+      "thumbsUp": 2,
+      "user": "Hannah Miller",
+      "text": "I don't want to have to press track my drive, and then are you sure button. ain't nobody got time for that. one click and done.",
+      "reply": "Thanks for your feedback! We understand wanting a faster way to track drives. We’ll share your request with our team as we work to improve the app.",
+      "replyDate": "2025-09-24T14:30:57.666Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=789c42c8-5283-46eb-90ee-e80537f9b88f"
+    },
+    {
+      "date": "2025-08-27T18:59:54.529Z",
+      "score": 3,
+      "thumbsUp": 1,
+      "user": "Jay Thomason",
+      "text": "refuses to allow receipts to upload now. so far 20 min and rising on not completing",
+      "reply": "Sorry you’re having trouble uploading receipts — that’s not the experience we want. This can sometimes happen due to connection or app issues. Please write in at https://stride.link/support so our team can help troubleshoot and get this resolved for you.",
+      "replyDate": "2025-09-24T14:31:14.915Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=6900fc72-a52a-472a-b863-6fcec5f07101"
+    },
+    {
+      "date": "2025-08-27T17:31:15.350Z",
+      "score": 2,
+      "thumbsUp": 1,
+      "user": "Craig Sullivan",
+      "text": "This app doesn't track all my miles. I have went a full day. At the end of the day I went to stop the driving tracker and it showed $0! Not good when you use mileage for your taxes. VERY UNRELIABLE!",
+      "reply": "Sorry to hear your drive wasn’t tracked — we know how important accurate mileage is for taxes. You can add mileage manually in the app, and please write in at https://stride.link/support so we can troubleshoot why this happened and help improve your experience.",
+      "replyDate": "2025-09-24T14:31:32.170Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=c87a4224-a3d3-4915-80ae-b534c337cc2b"
+    },
+    {
+      "date": "2025-08-25T21:43:54.459Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Arissa A",
+      "text": "wish my name was on the mileage part for verification.",
+      "reply": "Thanks for sharing that feedback! We don’t currently include names on the mileage log, but we’d love to better understand your request. Could you write in to us at https://stride.link/support with a bit more detail on how having your name included would help? That way we can share it with our team as we look at ways to improve mileage reporting.",
+      "replyDate": "2025-08-27T14:21:40.240Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=1635d2ff-92b3-4dea-a0d1-7629a7754fb9"
+    },
+    {
+      "date": "2025-08-19T20:55:22.888Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "Melinda Morgan",
+      "text": "seems like it's always telling me there is a error when I stop driving. so I'm guessing my miles are not accurate at all",
+      "reply": "Thanks for sharing this — those error messages at the end of a drive aren’t expected and could definitely impact your mileage accuracy. Please reach out to us at https://stride.link/support with a recent example so our team can help troubleshoot what’s going on and make sure your miles are being tracked correctly.",
+      "replyDate": "2025-08-20T14:04:42.238Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=191dda5a-f585-4d6a-a0bc-0647a44a5ad4"
+    },
+    {
+      "date": "2025-08-19T11:26:15.195Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "Ron Regan",
+      "text": "App worked great for 2 years. This year, it keeps shutting down and not tracking the whole trip. It also has been off on total miles, 3-5 miles less than actual mileage from vehicle. If they can work out a few app glitches, I would definitely change my rating",
+      "reply": "Thanks for your feedback, and for being with us these past two years. I’m sorry to hear the app has been shutting down and missing parts of your trips recently. Please reach out through https://stride.link/support with a recent example so we can look into what’s causing the issue and help get things back on track.",
+      "replyDate": "2025-08-20T14:05:22.300Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=fc81751a-6e53-4614-8196-2f97f9cdc8d2"
+    },
+    {
+      "date": "2025-08-19T00:42:32.196Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Cathi F",
+      "text": "They end the drive after 6 hours. If you're not driving, I use a car that only works when I'm driving so typically, that stride should always be on and it used to be on and I used to reset it occasionally, when I wanted to reset it, not when stride decides, I haven't worked. In 6 hours and I need to work to make it start again manually.",
+      "reply": "Thanks for sharing this. Stride only ends a drive after 6 hours if there hasn’t been any movement, to help keep your trip data accurate and avoid background errors. I understand that can still feel disruptive, though, and I’ll pass your feedback along to our team.",
+      "replyDate": "2025-08-20T14:06:43.840Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=3fbb0330-3eaa-4c90-b716-556c4f9b18d5"
+    },
+    {
+      "date": "2025-08-16T18:14:56.304Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "ROB _1",
+      "text": "app just calculated that i drove almost 3k miles when i actually drove about 100 miles",
+      "reply": "Thanks for letting us know — that definitely doesn’t sound right. Large mileage jumps like that usually point to a GPS or signal issue. If you share the drive information with us, we can take a closer look and get it corrected. You can reach us directly at https://stride.link/support.",
+      "replyDate": "2025-08-20T14:07:25.613Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=5da90bf4-90e6-4021-b309-a918b35d9293"
+    },
+    {
+      "date": "2025-08-16T05:08:53.994Z",
+      "score": 1,
+      "thumbsUp": 3,
+      "user": "Daniel Nance (Razoroth)",
+      "text": "UPDATE 8/16/2025: App continues to lose track of my mileage early into a shift. Permissions are all set correctly and battery saver is not turned on for this app, yet it still acts like it gets interrupted randomly and there is no notification or anything that it lost track. I drove over 10 hrs today, but it claims I drove 61 miles. this is wildly inaccurate, and I can no longer recommend this app.",
+      "reply": "We’re so sorry! We've learned that a recent update to Android devices like yours is automatically disabling location tracking to save battery life, and that interferes with Stride's ability to track your miles properly. Just email us at taxhelp@stridehealth.com and we’ll help you adjust your phone’s settings so that your miles get tracked.",
+      "replyDate": "2019-07-22T04:57:17.707Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=0d5d10c7-614c-4172-a7c5-1c44f0e9ec20"
+    },
+    {
+      "date": "2025-08-08T12:28:55.209Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Luke K",
+      "text": "easy to use. great reports at the end of that break everything down easily",
+      "reply": "Thank you so much for the 5-star review. We're glad to hear the app has been easy to use for you so far!",
+      "replyDate": "2025-08-13T14:33:31.229Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=e0b15931-3464-49df-9a47-79c80436d65f"
+    },
+    {
+      "date": "2025-08-07T16:07:31.257Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Corey McEuin",
+      "text": "Used to work fine but now there are massive errors in mileage tracking in which it would record the distance between Point A and Point B in a straight line as opposed to the actual route.",
+      "reply": "Thanks for letting us know — that definitely shouldn’t be happening. Straight-line tracking usually means our app missed some GPS points along your route, which we can help troubleshoot. Please write in at stride.link/support with a recent example drive so we can look into what’s causing the gap and get you back to accurate mileage tracking.",
+      "replyDate": "2025-08-13T14:34:22.500Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=86974f81-c79c-4635-98e6-2382798988f9"
+    },
+    {
+      "date": "2025-08-04T14:21:04.726Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Charlie",
+      "text": "working great 2 weeks in and it's free!",
+      "reply": "We're glad to hear the app has been working well for you. Thanks for the 5-star review!",
+      "replyDate": "2025-08-06T13:30:40.907Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=27132b64-c088-4337-b902-01da1d91327a"
+    },
+    {
+      "date": "2025-08-03T14:50:11.223Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "John B",
+      "text": "2 many bugs with this app since switching from iPhone to Samsung. Using this app on Android is night and day difference in performance and reliability. I would highly encourage anyone that uses this for gig work(doordash,uber,Flex) just switch to Gridwise. But stick to the free version and DO NOT LINK your gig apps directly 2 it for earnings tracking, trust me on that.",
+      "reply": "We’re sorry to hear your Android experience hasn’t matched what you had on iPhone. We'd love to look into the bugs you’re running into and see what we can do to improve things. If you're open to it, please write in to stride.link/support with more details, we want to make sure the app works reliably for all gig workers, regardless of device.",
+      "replyDate": "2025-08-06T13:31:08.308Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=9e5de883-f65a-4a50-8360-d576c79dcd6a"
+    },
+    {
+      "date": "2025-08-02T05:06:56.586Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Bobert Jones",
+      "text": "Not 100% accurate. It's usually off between 5 and 8 miles by the time I get done. But for a free app, you can't beat it, it's great. I love the tax feature which gives you an estimate of how much tax you owe at the end of the year based on your deductions and your income earned. I don't know how accurate it is but it's nice to have a ballpark figure.",
+      "reply": "Thanks for the kind words and for sharing your experience! We’re glad to hear the tax estimation tools have been helpful. If you continue to notice mileage consistently off by several miles, feel free to write in at stride.link/support, we’d love to take a look and make sure you’re getting the most accurate tracking possible.",
+      "replyDate": "2025-08-06T13:31:43.509Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=185a563c-6050-4877-bab7-cdf8607a99ca"
+    },
+    {
+      "date": "2025-07-29T14:57:04.615Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "David Beauford",
+      "text": "Great for us independent contractors on 1099. was great in the beginning. Now I'll click track my drive and it doesn't track or stops tracking after 5 minutes",
+      "reply": "Thank you for the 5-star review!",
+      "replyDate": "2025-01-29T16:12:06.378Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=a9252533-9a38-4805-a1ed-f5c626d5f75d"
+    },
+    {
+      "date": "2025-07-28T16:07:29.426Z",
+      "score": 2,
+      "thumbsUp": 11,
+      "user": "Jess DaBest",
+      "text": "I loved this app... up until I lost all my income and mileage data. I was working on a particularly rainy day (those are bread-and-butter days for shoppers) when, after a delivery, I couldn't find the app on my home page. Needless to say, I accidentally deleted the app!!!! I quickly downloaded it again, tried to remember my login, and when my profile loaded up, I was horrified to find 0.00 deductibles!!! Nothing! Nothing was stored or restorable. This was gut wrenching!",
+      "reply": "We’re so sorry to hear this happened. Your data should still be recoverable if it was tied to your account. Please reach out to our support team at https://stride.link/support as soon as possible so we can investigate and try to restore your information. We're here to help!",
+      "replyDate": "2025-07-28T16:45:10.130Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=018c457c-1013-4e24-a494-3526a1500e8e"
+    },
+    {
+      "date": "2025-07-28T11:05:17.176Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Sharon Phillips",
+      "text": "What is happening with STRIDE?? I really loved this app last year, but this year... ugh. I cannot add my income no matter what I try (I've shut uninstalled and reinstalled the app, shut my phone down and restarted many times) but I still can't get the app to record my income... This just started up this past week... The auto track miles isn't working correctly either, the numbers are not matching up with my actual mileage. Please fix these issues.. I reached out to customer support, n/r",
+      "reply": "Thanks for reporting this—we're already working on a fix for the issue with adding income. We’re sorry for the trouble and appreciate you flagging it. If mileage tracking still seems off, please reach out again at https://stride.link/support so we can help. Thanks for sticking with us!",
+      "replyDate": "2025-07-28T16:46:12.971Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=081f31c0-b0f4-4fb4-a618-02d8d2b3ae4b"
+    },
+    {
+      "date": "2025-07-27T02:03:35.208Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Abe Elayadi",
+      "text": "great app",
+      "reply": "Thank you for the 5-star review!",
+      "replyDate": "2025-07-28T16:46:58.476Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=58a64f04-c0a7-4429-9964-6eafda96b99b"
+    },
+    {
+      "date": "2025-07-25T19:44:25.716Z",
+      "score": 1,
+      "thumbsUp": 2,
+      "user": "Andrea Iaia",
+      "text": "Bottom line just look elsewhere. This app is unreliable and gets worse with every update. Of course, they will write after my review, \"We are sorry and bla bla bla\". The fact of the matter is it seems there is a lack of synapses in the team behind this garbage.",
+      "reply": "We’re sorry the app hasn’t met your expectations—your feedback is heard. We’re continually working to improve and would appreciate the chance to better understand the issues you've experienced. If you're open to it, please reach out at https://stride.link/support.",
+      "replyDate": "2025-07-28T16:47:39.225Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=3addbca3-97fc-42ab-84a6-f31e24baa2d8"
+    },
+    {
+      "date": "2025-07-19T18:38:28.835Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "Robert Layfield",
+      "text": "So many times I turn it on. -Seems to be working. End of the day? 0 that's Zero miles. What the he'll? Not alway, I'd sa30%. Step up your game. Fix it!",
+      "reply": "We hear you—missing miles is frustrating, especially when it looks like tracking is working. Please make sure location permissions are set to “Always Allow” and battery settings aren’t limiting background activity. For help troubleshooting, reach out to https://stride.link/support. We want to get this fixed!",
+      "replyDate": "2025-07-28T16:47:59.517Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=09e4e18f-c188-4121-a23d-b54e9ab76ce8"
+    },
+    {
+      "date": "2025-07-16T21:39:46.612Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Gene Daugherty",
+      "text": "Worked great until May 13 2025...now it doesn't accurately track miles...all permissions are set correctly...it just makes a direct line from point a to point b like I flew there. Getting ready to switch.",
+      "reply": "Thanks for letting us know—this sounds incredibly frustrating, especially with everything set up correctly. We’d like to take a closer look into what’s happening. Please reach out to our support team at https://stride.link/support so we can help get this resolved.",
+      "replyDate": "2025-07-28T16:48:10.113Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=3e7cda12-711b-4d71-9e2a-4845550e7c06"
+    },
+    {
+      "date": "2025-07-16T08:30:16.140Z",
+      "score": 1,
+      "thumbsUp": 17,
+      "user": "Jason Zolghadr",
+      "text": "what good is a mileage tracking app for gig workers if you drive a mile or two while waiting for the damn app to load?",
+      "reply": "We hear your frustration—delays like that can definitely impact your workflow. We're always working to make the app faster and more reliable. If you're consistently seeing slow load times, please reach out to our support team at https://stride.link/support so we can look into it and help improve your experience.",
+      "replyDate": "2025-07-28T16:48:30.441Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=50c8c731-37dc-46b1-8da2-dfe575db5a2d"
+    },
+    {
+      "date": "2025-07-12T18:09:09.105Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "Austin Hernandez",
+      "text": "Can't use with battery saving mode on. I need it on because I use my phone the whole time for my job. I changed the setting to let it run in the background unrestricted but it still won't work.",
+      "reply": "Thanks for sharing this! We understand how important it is to use the app with battery saving mode on. While it isn’t supported right now, we’ll pass your request along to our product team to explore this as a future feature. If you need help or have more feedback, please reach out to https://stride.link/support.",
+      "replyDate": "2025-07-28T16:49:32.251Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=7320b774-9be0-4a27-836d-a49f03a64ffb"
+    },
+    {
+      "date": "2025-07-06T20:05:50.209Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "2529 Bruce",
+      "text": "using for instacart works so fair ok",
+      "reply": "Thank you for the review!",
+      "replyDate": "2025-07-28T16:51:33.708Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=84ac8991-10e6-40e9-a9cf-2db21b2c5ccb"
+    },
+    {
+      "date": "2025-06-30T07:02:19.185Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Gregory Arnold",
+      "text": "Whoa",
+      "reply": "Thank you for the 5-star review!",
+      "replyDate": "2025-07-28T16:51:43.846Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=a023bc31-4437-4335-a00a-a53e1a1c4a51"
+    },
+    {
+      "date": "2025-06-28T14:34:55.932Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Jennifer Shearon",
+      "text": "Great way to keep up with your working mileage",
+      "reply": "Thank you for the 5-star review!",
+      "replyDate": "2025-07-28T16:51:54.340Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=676d8a7d-7974-4d9f-b673-fa8aff0390d3"
+    },
+    {
+      "date": "2025-06-28T08:57:04.799Z",
+      "score": 2,
+      "thumbsUp": 1,
+      "user": "Amanda Farren",
+      "text": "This app has become totally useless lately. I have a Samsumg Galaxy S22+ and all apps are up to date. The Track My Drive has mysteriously stopped working. Was it the latest One UI update? It was a major one. all I can do on the app is enter milage manually. That defeats the purpose of the app. Yes, I have location turned on. What's going on Stride Tech Team?!!",
+      "reply": "We’re sorry to hear tracking stopped working on your Samsung Galaxy S22+ after the update. This isn’t the experience we want for you. We’re actively investigating issues related to recent OS updates. Please reach out to our support team at https://stride.link/support so we can assist you directly. Thank you for your patience!",
+      "replyDate": "2025-07-28T16:52:24.790Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=9ad94c2c-2bd6-44e4-9c83-8c289ec16e97"
+    },
+    {
+      "date": "2025-06-28T01:15:54.830Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "C R",
+      "text": "the app is just not accurate on android phones. I've cleared the cache, turned off power saving mode, Uninstalled and reinstalled the app multiple times...nothing works. it records a quarter of the actual miles I drove. I've tried different phones and it's the same problem.",
+      "reply": "We’re sorry to hear about the accuracy issues on Android devices despite your troubleshooting. This isn’t the experience we want. Please reach out to our support team at https://stride.link/support so we can investigate this further and work on a solution. Thanks for your patience!",
+      "replyDate": "2025-07-28T16:52:35.630Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=5b5af4dc-c6c7-4fb7-bab9-72a304d8f5c7"
+    },
+    {
+      "date": "2025-06-26T01:01:33.276Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "Randy Fan",
+      "text": "Will stop tracking halfway through the day unless I keep opening it up throughout the day, super frustrating. Will lose majority of a day's mileage and I find out too late. Switching apps soon.",
+      "reply": "We’re sorry for the frustration this has caused. To help prevent tracking from stopping, please ensure location permissions are set to “Always Allow” and battery optimizations are disabled for the app. If issues persist, contact our support team at https://stride.link/support so we can help troubleshoot.",
+      "replyDate": "2025-07-28T16:54:47.696Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=8bef3611-6f91-4904-a156-ffeb24931079"
+    },
+    {
+      "date": "2025-06-24T02:49:57.778Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "John",
+      "text": "Updates ruined it, it used to do great and now it stops tracking all the time. I have missed many days of mileage tracking. time to switch to something that works",
+      "reply": "We’re sorry to hear about the tracking issues after recent updates. We’re actively working to improve stability and reliability. Please reach out to our support team at https://stride.link/support so we can assist with troubleshooting. We appreciate your feedback and hope to make things right!",
+      "replyDate": "2025-07-28T16:54:37.588Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=b089318b-692d-4b49-8d51-e2584ec1d477"
+    },
+    {
+      "date": "2025-06-23T19:13:16.536Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "main G",
+      "text": "I thought it was supposed to help me save on car insurance but it doesn't",
+      "reply": "Thanks for your feedback! While our main focus is mileage tracking, we do offer discounts and resources that may help with car insurance savings. If you have questions or want to learn more, please reach out to our support team at https://stride.link/support. We’re here to help!",
+      "replyDate": "2025-07-28T16:54:26.981Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=cb5d6433-9b4f-45c1-bc77-60b5c0e8dfaa"
+    },
+    {
+      "date": "2025-06-19T04:37:52.364Z",
+      "score": 1,
+      "thumbsUp": 11,
+      "user": "Samuel Parent",
+      "text": "great then not great then great. now not great again. I know I didn't drive 170 miles today. way too generous. I'm going back to the old way of just writing down my mileage",
+      "reply": "We’re sorry to hear about the inconsistent mileage tracking. We understand how important accuracy is and want to help. Please ensure location permissions are set to “Always Allow” and battery optimizations are off. If issues persist, reach out to our support team at https://stride.link/support. Thanks for your patience!",
+      "replyDate": "2025-07-28T16:57:05.801Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=6b6c8b91-1608-4f4a-9f3c-d71f4531310f"
+    },
+    {
+      "date": "2025-06-17T13:45:48.400Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "Mr. Jason",
+      "text": "I wish it would send notification to end drive if I've been stationary for a while. I forget to end drive and realize it 3 days later.",
+      "reply": "Thanks for the great suggestion! We know forgetting to end a drive can be frustrating, and we’re actively working on adding notifications to help with this. We appreciate your patience and feedback. If you need anything else, feel free to reach out at https://stride.link/support.",
+      "replyDate": "2025-07-28T16:57:03.429Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=d8860fb4-eea8-423b-be4e-0b70684bfb64"
+    },
+    {
+      "date": "2025-06-16T10:57:42.106Z",
+      "score": 1,
+      "thumbsUp": 26,
+      "user": "A Google user",
+      "text": "Lately this app has become unreliable. I start a trip, and when I'm finished there's no active trip so my mileage didn't get recorded. Also, when I'm trying to open the app sometimes I have to do it multiple times due to it crashing. I've cleared the cache, uninstalled/reinstalled which has not corrected the problem.",
+      "reply": "We’re sorry to hear about the crashes and missing trip data—it’s frustrating when the app doesn’t work as expected. Please make sure location permissions are set to “Always Allow” and battery optimizations are disabled. If issues continue, contact our support team at https://stride.link/support so we can help troubleshoot. Thanks for your patience!",
+      "replyDate": "2025-07-28T16:56:56.280Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=f1fae395-6905-4de9-95ae-da0ca766a8c7"
+    },
+    {
+      "date": "2025-06-11T04:00:14.210Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "EDWARD K. BELYEA",
+      "text": "Very helpful keeping track of my income and expenses.",
+      "reply": "Thank you for the 5-star review.",
+      "replyDate": "2025-07-28T16:56:53.344Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=b5502583-6288-4149-9f95-ee659921cd9a"
+    },
+    {
+      "date": "2025-06-07T20:53:42.245Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "Nick Decker",
+      "text": "When the app actually works the entire trip it's not bad but on Android, even with proper permissions for location on all of the time, it won't record for large sections of the trip. Absolutely ridiculous and a waste of an app at this point if it's not reliable.",
+      "reply": "We’re sorry for the trouble you’re experiencing with inconsistent tracking on Android. We understand how important reliable mileage tracking is. Please make sure battery optimizations are disabled for the app. If the problem continues, contact our support team at https://stride.link/support so we can help troubleshoot. Thanks for your patience!",
+      "replyDate": "2025-07-28T16:55:11.585Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=17b470d8-1abd-40ff-b0e2-002d3689aa51"
+    },
+    {
+      "date": "2025-06-06T20:03:12.875Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "Victoria Bustamante",
+      "text": "several times the app stopped tracking the mileage",
+      "reply": "We’re sorry to hear the app has stopped tracking your mileage unexpectedly. Please ensure location permissions are set to “Always Allow” and that battery optimizations are disabled for the app. If the issue continues, contact our support team at https://stride.link/support so we can help troubleshoot. Thanks for your patience!",
+      "replyDate": "2025-07-28T16:57:12.601Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=d0d99695-9ca8-40fa-9d3e-0f329c8330ed"
+    },
+    {
+      "date": "2025-06-04T16:06:31.940Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Bobby Steel",
+      "text": "stops counting miles without warning you cause you to loss money i am switching to another app",
+      "reply": "We’re sorry to hear the app has stopped tracking your miles properly. We understand how important reliable tracking is. Please ensure location permissions are set to “Always Allow” and battery optimization is disabled for the app. If issues continue, contact our support team at https://stride.link/support so we can help troubleshoot.",
+      "replyDate": "2025-07-28T16:57:53.920Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=2b000cda-774b-4547-b6f3-bbddc1815835"
+    },
+    {
+      "date": "2025-06-04T02:15:43.288Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Christine Swartzfeger",
+      "text": "doesn't track the miles accurately and sometimes doesn't track the miles at all.",
+      "reply": "We’re sorry to hear about the inaccurate and missing mileage tracking. We recommend checking that battery optimizations are disabled for the app, as this can affect tracking. If the issue continues, please reach out to our support team at https://stride.link/support so we can help troubleshoot. Thanks for your patience!",
+      "replyDate": "2025-07-28T16:58:35.900Z",
+      "url": "https://play.google.com/store/apps/details?id=com.stridehealth.drive&reviewId=96cdc9f3-449b-4855-97ed-aad98e7f7f0b"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+[
+  {
+    "appId": "desktime.main",
+    "title": "DeskTime Mobile Time Tracker",
+    "developer": "DeskTime LLC",
+    "score": 0,
+    "scoreText": "0.0",
+    "free": false,
+    "price": null,
+    "summary": "DeskTime is a fully automatic mobile time tracker app that boosts productivity.",
+    "icon": "https://play-lh.googleusercontent.com/Pv-nd7AAksflKTrXtLluCVkosETCl9fFrb5ZawtNCiI_njdCscu7lv2QSFQUdp6CBw"
+  },
+  {
+    "appId": "com.razeeman.util.simpletimetracker",
+    "title": "Simple Time Tracker",
+    "developer": "Razeeman",
+    "score": 4.81,
+    "scoreText": "4.8",
+    "free": false,
+    "price": null,
+    "summary": "Time tracker for work, study, and building better daily habits.",
+    "icon": "https://play-lh.googleusercontent.com/um-P93L4xr7Y2rItD_Q7LzsqtXxtmU6DW8gsARAkQhRSruall2_NkDB9GDCmVyiPbA"
+  },
+  {
+    "appId": "com.godmodev.optime",
+    "title": "SaveMyTime - Time Tracker",
+    "developer": "Save My Time",
+    "score": 4.32,
+    "scoreText": "4.3",
+    "free": false,
+    "price": null,
+    "summary": "Track time 24/7 effortlessly from Lock Screen and get rid of wasted time!",
+    "icon": "https://play-lh.googleusercontent.com/ErRE1TWs8YpxmnGbztdDDt46HgTK4s6vUQnmGaBOfpn2m0-ZKPsSubAJeN7snhSfEH1Y"
+  },
+  {
+    "appId": "com.gmail.jmartindev.timetune",
+    "title": "TimeTune - Schedule Planner",
+    "developer": "TimeTune Studio",
+    "score": 4.514493,
+    "scoreText": "4.5",
+    "free": false,
+    "price": null,
+    "summary": "The ideal daily planner for all your time management needs",
+    "icon": "https://play-lh.googleusercontent.com/L3qZUcWIbdU1zlg8TO2pT4s4lKrl7YIuikaaD1pAE82iqCIlP21CAnwB8385iXGdgSw"
+  },
+  {
+    "appId": "com.toggl.giskard",
+    "title": "Toggl Track - Time Tracking",
+    "developer": "Toggl.com",
+    "score": 4.5346537,
+    "scoreText": "4.5",
+    "free": false,
+    "price": null,
+    "summary": "Flexible time tracker for teams of 1 to 100",
+    "icon": "https://play-lh.googleusercontent.com/PeblLXajnpQMBdnzHCQ9yRh6IZ1iOM7qqJkp306uOYlYq8djKFs2vTLO5YO265MPmcM"
+  }
+]

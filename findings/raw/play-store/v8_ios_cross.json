@@ -1,0 +1,533 @@
+{
+  "us_sologig": {
+    "country": "us",
+    "name": "Solo Gig",
+    "appId": "app.worksolo.paveapp",
+    "id": 1586902173,
+    "title": "Solo: Your Gig Business App",
+    "developer": "WorkSolo",
+    "score": 4.73134,
+    "ratings": 12607,
+    "languages": [
+      "EN"
+    ],
+    "version": "5.5.0",
+    "recent_reviews_pulled": 50,
+    "low_count": 40,
+    "low_pct": 80,
+    "sample_low": [
+      {
+        "score": 1,
+        "title": "Didn’t work as described. Wouldn’t track mileage automatically as described, I h",
+        "text": "Doesn’t work, they also make it hard to cancel subscription."
+      },
+      {
+        "score": 1,
+        "title": "Pay to play",
+        "text": "So I have to pay you so you can help me make money? Potentially more at that. Like what? If you do side gigs then you know gas is already taking money from what you make so then you have to pay more t"
+      },
+      {
+        "score": 1,
+        "title": "Why",
+        "text": "They charge you $119.00 a year. Like what. We are here to make money. Not for yall to take it."
+      },
+      {
+        "score": 1,
+        "title": "DO NOT INSTALL",
+        "text": "it will make you get the subscription for doing anything.. first it takes all your sensitive data and than if you want to delete the account or do anything you have to buy subscription means you have "
+      }
+    ]
+  },
+  "us_invoicesimple": {
+    "country": "us",
+    "name": "Invoice Simple",
+    "appId": "com.logicalengine.qsei",
+    "id": 694831622,
+    "title": "Invoice Simple: Invoice Maker",
+    "developer": "Zenvoice Inc.",
+    "score": 4.86881,
+    "ratings": 122394,
+    "languages": [
+      "CS",
+      "DA",
+      "NL",
+      "EN",
+      "FI",
+      "FR",
+      "DE",
+      "HU",
+      "ID",
+      "IT",
+      "JA",
+      "KO",
+      "MS",
+      "NB",
+      "PL",
+      "PT",
+      "RU",
+      "ZH",
+      "SK",
+      "ES",
+      "SV",
+      "ZH",
+      "TR"
+    ],
+    "version": "6.2.0",
+    "recent_reviews_pulled": 50,
+    "low_count": 38,
+    "low_pct": 76,
+    "sample_low": [
+      {
+        "score": 1,
+        "title": "The new upgrade system is fatally words",
+        "text": "I was happy with this app, but after using the app more often the system decided to selling me the upgrade plan with out choice,the team can evenly leave me with the plus plan i have before they say t"
+      },
+      {
+        "score": 1,
+        "title": "Keeps saying I have 0 invoices left",
+        "text": "This used to be a great app until they did something in the backend because now I constantly keep getting a message that I have 0 invoices left when I pay monthly for unlimited. Keep in mind I pay for"
+      },
+      {
+        "score": 1,
+        "title": "Pricing",
+        "text": "I would not recommend this product they continue to increase the price or try to fire you to go premium by limiting how many invoices you can make. They are now going up to almost $15 from $10 and it’"
+      },
+      {
+        "score": 1,
+        "title": "No",
+        "text": "Not recommended. Time waste"
+      }
+    ]
+  },
+  "gb_invoicesimple": {
+    "country": "gb",
+    "name": "Invoice Simple",
+    "appId": "com.logicalengine.qsei",
+    "id": 694831622,
+    "title": "Invoice Simple - Receipt Maker",
+    "developer": "Zenvoice Inc.",
+    "score": 4.83588,
+    "ratings": 29301,
+    "languages": [
+      "CS",
+      "DA",
+      "NL",
+      "EN",
+      "FI",
+      "FR",
+      "DE",
+      "HU",
+      "ID",
+      "IT",
+      "JA",
+      "KO",
+      "MS",
+      "NB",
+      "PL",
+      "PT",
+      "RU",
+      "ZH",
+      "SK",
+      "ES",
+      "SV",
+      "ZH",
+      "TR"
+    ],
+    "version": "6.2.0",
+    "recent_reviews_pulled": 50,
+    "low_count": 43,
+    "low_pct": 86,
+    "sample_low": [
+      {
+        "score": 1,
+        "title": "Rip off",
+        "text": "Easy to use, professional looking. However too many recent price increases so will be stopping my subscription."
+      },
+      {
+        "score": 1,
+        "title": "Changed after years without so much as an email!! Cancelled",
+        "text": "Absolute joke this, I’ve happily used this simple program to make many invoices for the many many years no bother £6:99 a month. I don’t use any features I just want it simple and it was that. I send "
+      },
+      {
+        "score": 1,
+        "title": "Overpriced",
+        "text": "I’ve been using Invoice Simple since 2017, back when it was free, and I’ve stuck with it through every price increase.\n\nUnfortunately, the latest change is a step too far. Charging £12.99 per month wh"
+      },
+      {
+        "score": 1,
+        "title": "Scammers",
+        "text": "Prices went from £50 to £200 mid contract no loyalty to their customers. Been with them for 5 years. Refused to honour contact so i left. Beware!!"
+      }
+    ]
+  },
+  "ca_invoicesimple": {
+    "country": "ca",
+    "name": "Invoice Simple",
+    "appId": "com.logicalengine.qsei",
+    "id": 694831622,
+    "title": "Invoice Simple - Invoice Maker",
+    "developer": "Zenvoice Inc.",
+    "score": 4.80463,
+    "ratings": 12228,
+    "languages": [
+      "CS",
+      "DA",
+      "NL",
+      "EN",
+      "FI",
+      "FR",
+      "DE",
+      "HU",
+      "ID",
+      "IT",
+      "JA",
+      "KO",
+      "MS",
+      "NB",
+      "PL",
+      "PT",
+      "RU",
+      "ZH",
+      "SK",
+      "ES",
+      "SV",
+      "ZH",
+      "TR"
+    ],
+    "version": "6.2.0",
+    "recent_reviews_pulled": 50,
+    "low_count": 26,
+    "low_pct": 52,
+    "sample_low": [
+      {
+        "score": 1,
+        "title": "Recent update made it so if you have two accounts you can only use one.",
+        "text": "They did a recent update and if you have two different accounts with them they will only let you use one they need to disable the other one so I’m at a point where I can’t use one of my accounts and t"
+      },
+      {
+        "score": 2,
+        "title": "Used to be better",
+        "text": "Have had this app for years it used to be great but every year they take more options away and want to change more and more money I think it’s time to find something better worth my hard earned money"
+      },
+      {
+        "score": 1,
+        "title": "App is broken again",
+        "text": "Have used this app for last three years,has been amazing,last update is broken,enter in items or pricing and disappears from invoices."
+      },
+      {
+        "score": 1,
+        "title": "Obscure cancellations directions",
+        "text": "I want to u subscribe and I the system continuously misdirects me to multiple websites with the name but won’t let me cancel…"
+      }
+    ]
+  },
+  "au_invoicesimple": {
+    "country": "au",
+    "name": "Invoice Simple",
+    "appId": "com.logicalengine.qsei",
+    "id": 694831622,
+    "title": "Invoice Simple - Invoice Maker",
+    "developer": "Zenvoice Inc.",
+    "score": 4.81337,
+    "ratings": 15582,
+    "languages": [
+      "CS",
+      "DA",
+      "NL",
+      "EN",
+      "FI",
+      "FR",
+      "DE",
+      "HU",
+      "ID",
+      "IT",
+      "JA",
+      "KO",
+      "MS",
+      "NB",
+      "PL",
+      "PT",
+      "RU",
+      "ZH",
+      "SK",
+      "ES",
+      "SV",
+      "ZH",
+      "TR"
+    ],
+    "version": "6.2.0",
+    "recent_reviews_pulled": 50,
+    "low_count": 27,
+    "low_pct": 54,
+    "sample_low": [
+      {
+        "score": 1,
+        "title": "Very dodgy business and terrible value for money",
+        "text": "After paying something over $200AUD per year for a subscription to this app (which I use to send not even 120 invoices a year) they changed their terms right before my subscription ticked over to limi"
+      },
+      {
+        "score": 2,
+        "title": "App is now too expensive for small businesses",
+        "text": "I’ve used Invoice Simple for years and years and it was great but with the major app increases in Australia, it’s now too expensive compared to other invoice apps. I have been trying out other invoice"
+      },
+      {
+        "score": 1,
+        "title": "2025 price change scam",
+        "text": "I’ve tolerated their price hikes for years out of convenience, but this is too far. Midway through this year’s plan they’ve suddenly capped me at 10 invoices per month. For $199/year. Ridiculous. Taki"
+      },
+      {
+        "score": 1,
+        "title": "Dodgy spp",
+        "text": "Dont bother with this app. They change the terms of service after you have already paid and want more money to get what you already paid for"
+      }
+    ]
+  },
+  "us_everlance": {
+    "country": "us",
+    "name": "Everlance",
+    "appId": "com.everlance.everlance",
+    "id": 985378916,
+    "title": "Mileage Tracker by Everlance",
+    "developer": "Everlance Inc.",
+    "score": 4.83422,
+    "ratings": 48823,
+    "languages": [
+      "EN",
+      "FR",
+      "ES"
+    ],
+    "version": "5.4.7",
+    "recent_reviews_pulled": 50,
+    "low_count": 6,
+    "low_pct": 12,
+    "sample_low": [
+      {
+        "score": 1,
+        "title": "No deja sincronizar",
+        "text": "Me dice que no se puede sincronizar por intentos solo lo hice una vez, ya empezó mal"
+      },
+      {
+        "score": 1,
+        "title": "Garbage",
+        "text": "Only records so many trips a month unless you pay. Doesn’t differentiate between personal and work. Wanted it for DoorDash so I could record DoorDash rides and get tax deductions but literally can’t e"
+      },
+      {
+        "score": 1,
+        "title": "Después que pagas el año te bloquea",
+        "text": "Me funcionaba de lo mejor y después de 2 semanas de haberme cobrado el dinero del año completo me bloqueó la app me dice “UPS.lo siento eso no sirvió”.me siento estafado con esta aplicación le envío l"
+      },
+      {
+        "score": 1,
+        "title": "Door dash",
+        "text": "Honestly didn’t trust at first but save me on gas and is real I love this app since i do door dash"
+      }
+    ]
+  },
+  "gb_everlance": {
+    "country": "gb",
+    "name": "Everlance",
+    "appId": "com.everlance.everlance",
+    "id": 985378916,
+    "title": "Everlance: Mileage Tracker",
+    "developer": "Everlance Inc.",
+    "score": 4.3913,
+    "ratings": 46,
+    "languages": [
+      "EN",
+      "FR",
+      "ES"
+    ],
+    "version": "5.4.7",
+    "recent_reviews_pulled": 4,
+    "low_count": 3,
+    "low_pct": 75,
+    "sample_low": [
+      {
+        "score": 1,
+        "title": "After 6 years still no change",
+        "text": "After 6 years of using and asking on several occasions for the app support to update the app to remove the $ symbol of monthly reports nothing has happened. I received a dismissive email back from sup"
+      },
+      {
+        "score": 2,
+        "title": "Giles",
+        "text": "Keeps sticking and freezing, so I have to delete app and re-load, very clunky app and anoying"
+      },
+      {
+        "score": 1,
+        "title": "Another one of those fake free apps",
+        "text": "Pants"
+      }
+    ]
+  },
+  "us_hurdlr": {
+    "country": "us",
+    "name": "Hurdlr",
+    "appId": "app.hurdlr.com",
+    "id": 951737201,
+    "title": "Hurdlr Mileage, Expenses & Tax",
+    "developer": "Hurdlr, Inc.",
+    "score": 4.73793,
+    "ratings": 20716,
+    "languages": [
+      "EN"
+    ],
+    "version": "42.2.3",
+    "recent_reviews_pulled": 50,
+    "low_count": 10,
+    "low_pct": 20,
+    "sample_low": [
+      {
+        "score": 1,
+        "title": "Stopped integrating",
+        "text": "Hurdlr has been good to me for years but stopped integrating with my bank and required me to manually import all my income and expenses. At this point it would be better not to pay for a subscription "
+      },
+      {
+        "score": 1,
+        "title": "Doesn't even work!!",
+        "text": "This app is good in theory, but twice now the app has stopped tracking my mileage when I PAY for it. The first time, my motion tracking somehow got turned off. Fine. This time? It's been on this whole"
+      },
+      {
+        "score": 1,
+        "title": "It kinda works",
+        "text": "So I went with this one because it integrates with square, but I’m not sure what expenses are what now. It has a hard time distinguishing the different types of square fees and the payroll taxes"
+      },
+      {
+        "score": 1,
+        "title": "NOT RECOMMENDED",
+        "text": "Breaks up trips into  multiple segments if you stop or are stuck in traffic and you receive a ton of trips that should be all in one. Constantly disconnecting from my bank and having to  reconnect. De"
+      }
+    ]
+  },
+  "us_stride": {
+    "country": "us",
+    "name": "Stride",
+    "appId": "com.stridehealth.StrideDrive",
+    "id": 1041591359,
+    "title": "Stride: Mileage & Tax Tracker",
+    "developer": "Stride Health, Inc",
+    "score": 4.83995,
+    "ratings": 90278,
+    "languages": [
+      "EN"
+    ],
+    "version": "26.4.0",
+    "recent_reviews_pulled": 50,
+    "low_count": 20,
+    "low_pct": 40,
+    "sample_low": [
+      {
+        "score": 1,
+        "title": "Doesn’t log the route",
+        "text": "Doesn’t log the route"
+      },
+      {
+        "score": 1,
+        "title": "Not tracking correctly",
+        "text": "I finished driving all day long and it says I have 3/4 of a mile tracked. Something’s not right."
+      },
+      {
+        "score": 1,
+        "title": "Sent here by Amazon Flex but",
+        "text": "Deal not available despite being sent here by Amazon flex. Waste of time."
+      },
+      {
+        "score": 2,
+        "title": "Random sign outs",
+        "text": "App randomly signs me out of my account which stops recording my mileage until I log back in. And app sometimes crashes which loses all my mileage driven for that day saying I drove 0 miles"
+      }
+    ]
+  },
+  "us_mileiq": {
+    "country": "us",
+    "name": "MileIQ",
+    "appId": "com.mobiledatalabs.goiq",
+    "id": 578830929,
+    "title": "MileIQ: Mileage Tracker & Log",
+    "developer": "MileIQ Inc.",
+    "score": 4.76842,
+    "ratings": 100797,
+    "languages": [
+      "EN"
+    ],
+    "version": "5.59.0",
+    "recent_reviews_pulled": 50,
+    "low_count": 3,
+    "low_pct": 6,
+    "sample_low": [
+      {
+        "score": 1,
+        "title": "TERRIBLE!",
+        "text": "This app is VERY INACCURATE & their customer service is TERRIBLE!"
+      },
+      {
+        "score": 2,
+        "title": "Not detected all drives",
+        "text": "It’s frustrating because it only detects part of a trip."
+      },
+      {
+        "score": 2,
+        "title": "Not understanding the context the app changes I can’t figure.",
+        "text": "Finding it difficult to understand and use."
+      }
+    ]
+  },
+  "gb_mileiq": {
+    "country": "gb",
+    "name": "MileIQ",
+    "appId": "com.mobiledatalabs.goiq",
+    "id": 578830929,
+    "title": "Mileage Tracker by MileIQ",
+    "developer": "MileIQ Inc.",
+    "score": 4.68943,
+    "ratings": 3471,
+    "languages": [
+      "EN"
+    ],
+    "version": "5.59.0",
+    "recent_reviews_pulled": 50,
+    "low_count": 0,
+    "low_pct": 0,
+    "sample_low": []
+  },
+  "us_setmore": {
+    "country": "us",
+    "name": "Setmore",
+    "appId": "com.setmore.app",
+    "id": 665859578,
+    "title": "Setmore Appointment Scheduling",
+    "developer": "Setmore",
+    "score": 4.6655,
+    "ratings": 9160,
+    "languages": [
+      "EN",
+      "PT",
+      "ES"
+    ],
+    "version": "6.83.1",
+    "recent_reviews_pulled": 50,
+    "low_count": 16,
+    "low_pct": 32,
+    "sample_low": [
+      {
+        "score": 1,
+        "title": "Locked behind premium",
+        "text": "I’ve been using this app since I started my business and it’s been wonderful. Especially the two way calendar sync. I decided to give premium a chance and after the trial ended, decided  not to move  "
+      },
+      {
+        "score": 1,
+        "title": "Don’t even Bother",
+        "text": "I never written a review about any application on the App Store however, just when I thought I found the solution to my problem I was fooled. I have tried multiple ways to login and create an account "
+      },
+      {
+        "score": 1,
+        "title": "App not responding",
+        "text": "This app was always so handy! But the last couple of weeks have really sucked. The app doesn’t even open. It’s stays frozen on the logo and “loading” but never loads open"
+      },
+      {
+        "score": 1,
+        "title": "Sean honesto pongan que es pagando",
+        "text": "Dice gratuita y es pagando 👎🏻"
+      }
+    ]
+  }
+}

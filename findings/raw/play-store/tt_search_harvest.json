@@ -1,0 +1,104 @@
+[
+  {
+    "appId": "com.myyapim.greemreels",
+    "title": "Green Reels: Harvest Time",
+    "developer": "M.Y Yapım",
+    "free": false,
+    "price": null,
+    "summary": "Cultivate your luck and harvest real money prizes!",
+    "icon": "https://play-lh.googleusercontent.com/tpCiA4x_qD0JfAVWztIsnnJ_unHLwF8xOBgtfxoh9ONzuCW1oWDZC5wUQNW2QDsfTB9nqHiuoKOi8llTym2jxQ"
+  },
+  {
+    "appId": "com.harvestapp",
+    "title": "Harvest: Track Time & Invoice",
+    "developer": "Harvest - GetHarvest.com",
+    "score": 4.2972975,
+    "scoreText": "4.3",
+    "free": false,
+    "price": null,
+    "summary": "Easily track time, log expenses, and manage invoices on-the-go with Harvest.",
+    "icon": "https://play-lh.googleusercontent.com/Ghftj62nVINbhMGokNjIYeukYKhfd33c6D1suFbjsAiNH25MIK0KywjYBIaacxShlv0"
+  },
+  {
+    "appId": "com.fatmaerdogan.HarvestTime",
+    "title": "Harvest Time",
+    "developer": "Fatma Erdoğan",
+    "free": false,
+    "price": null,
+    "summary": "Match colorful blocks, harvest crops, and enjoy endless fun!",
+    "icon": "https://play-lh.googleusercontent.com/wDd2N7sZ6MpTF3R73YD2_7VpthVF3x_EwC-ZXHrm7ULRx3HTXVZg_yiFCBtHntdsnLZfSVbgEsF6tc0zqwiEGg"
+  },
+  {
+    "appId": "com.harvest.time.farm.simulator",
+    "title": "Harvest Time: Farm Simulator",
+    "developer": "Go Dreams",
+    "score": 4,
+    "scoreText": "4.0",
+    "free": false,
+    "price": null,
+    "summary": "Relaxing farming game: grow crops, gather harvests and expand your farm",
+    "icon": "https://play-lh.googleusercontent.com/jBf4mAUUGagguxaoY6XOWKWvQBoyyUEfHICF1K7ySVa3EAQAcWBeGiILYO3bGIrRlbN3SemT_JA2jbBtKx9A8A"
+  },
+  {
+    "appId": "com.harvest.android.gr",
+    "title": "Harvest Town",
+    "developer": "AVIDGamers",
+    "score": 4.3602943,
+    "scoreText": "4.4",
+    "free": false,
+    "price": null,
+    "summary": "Build the ranch of dream and manage your own farm business in this indie RPG",
+    "icon": "https://play-lh.googleusercontent.com/lOCYvLE7VChZ66ZRNP7rBmvTTKNIfXrxf8w8sqUQraNoTdCqI76YcuyDQYySuPMm8014"
+  },
+  {
+    "appId": "com.subsplashconsulting.s_HGMM3K",
+    "title": "Harvest Time FC",
+    "developer": "Harvest Time Fellowship Church",
+    "free": false,
+    "price": null,
+    "summary": "Content and resources to help you grow and stay connected to HTFC.",
+    "icon": "https://play-lh.googleusercontent.com/ylDbraLXvQ1LwRRSrvps_jTk5Rloij_Z1mye6hQtHYRlRU0KQHMYynwRrRIvNlGMd40Q"
+  },
+  {
+    "appId": "com.subsplashconsulting.s_B8JM4N",
+    "title": "Harvest Time BC",
+    "developer": "Harvest Time Bible Church, Inc",
+    "free": false,
+    "price": null,
+    "summary": "Powerful content and resources to help you grow and stay connected.",
+    "icon": "https://play-lh.googleusercontent.com/Pktq_Ajgvu16xeOyLlohm7l5ytA89zq_xDSyCDLqiaV0OqWHT_nOqstxwazMn6uh8bE"
+  },
+  {
+    "appId": "com.supersimon.harvestgame",
+    "title": "Tiny Harvest: Cozy Farming",
+    "developer": "Simon Grimm",
+    "score": 4,
+    "scoreText": "4.0",
+    "free": false,
+    "price": null,
+    "summary": "Relaxing Idle Farm. No Ads",
+    "icon": "https://play-lh.googleusercontent.com/fa2bKSXiUOp4fmvR_zdN0EdGY9IBA77WJXVOZTWdaF3FefglTNSEhynABa885B-pSivf5VmF0n0neRqcXqmoI5c"
+  },
+  {
+    "appId": "com.evogames.slavsforvk",
+    "title": "Harvest Land",
+    "developer": "MTAG PUBLISHING LTD",
+    "score": 4.005663,
+    "scoreText": "4.0",
+    "free": false,
+    "price": null,
+    "summary": "Lovely farming game with a bit of magic!",
+    "icon": "https://play-lh.googleusercontent.com/sPnlgcAiH-CWaUFQaNuT7FvtM0YYBcprkfoolremakmmPulqc8TM2JfBYOJWV1YOUnk1"
+  },
+  {
+    "appId": "net.supertreat.solitaire",
+    "title": "Spiele Solitaire Grand Harvest",
+    "developer": "Supertreat - A Playtika Studio",
+    "score": 4.5408874,
+    "scoreText": "4.5",
+    "free": false,
+    "price": null,
+    "summary": "Klassisches Solitaire-Kartenspiel: Erlebe Tripeaks mit einem spannenden Twist",
+    "icon": "https://play-lh.googleusercontent.com/4dsPtcGXkfF3ylgSZgkb54ay86InZVQdKvs6UrBwYdsCPpv1AegcN_V38sWqCqopDPsGYiPvQ48mgY5lyMtdzw"
+  }
+]

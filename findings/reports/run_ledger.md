@@ -376,6 +376,59 @@ ID/PK/BD/IN/MY drill (`halal_id_pk_bd_in.json`, May 7) revealed:
 
 **Direction 2 expansion implication**: The wedge (national-ID + 3 free messages + serious-marriage framing) extends to Pakistan + India — 200M + 200M Muslim TAM vs MENA's ~50M Muslim TAM. BUT cultural bridge from Greek dev is even harder (Shaadi.com's caste-based filtering is a sub-continent specific norm I have no insight into). Recommendation: keep MENA as primary launch market, Pakistan as v2 expansion with local advisor.
 
+### v8 PIVOT — B2B/SMB tools as the actual homerun (May 7)
+
+**User question**: "υπαρχει κατι πιο homerun? η πρεπει να συνεχισουμε την ερευνα για να μεγαλωσουμε τον γρφαο?" → expanded research into B2B/SMB + hobbyist niches because consumer apps were exhausted.
+
+**Research expansion**: 35-cell B2B/hobbyist scan + 25-cell expansion + 11 deep validations + 7 corrected appId drills + 11 iOS cross-checks + 50 Reddit demand queries (r/doordash, r/uberdrivers, r/freelance, r/Entrepreneur, r/UKSmallBusiness, r/selfemployed, etc.).
+
+**Key findings — B2B is where the gold is**:
+
+| Cell | Android Low% | iOS Low% | Notes |
+|---|---|---|---|
+| **Invoice Simple US** | 29.3% | **76%** | 5M installs |
+| **Invoice Simple GB** | 29.3% | **86%** | 5M installs — HIGHEST cell ever recorded under $0-cost+low-legal constraints |
+| Invoice Simple CA | n/a | 52% | 5M installs |
+| Invoice Simple AU | n/a | 54% | 5M installs |
+| **Solo Gig App US** | **68.2%** | **80%** | 500k installs |
+| **Stride US** | **69.4%** | 40% | 1M installs |
+| GB Intuit QuickBooks | 61.4% | n/a | 5M installs |
+| Everlance GB | 34.4% | 75% (small) | 1M installs |
+| US Square Appointments (deep) | 24.8% | n/a | 1M installs |
+| US Setmore (deep) | 19.4% | 32% | 500k installs |
+| US Easy Expense (deep) | 15.4% | n/a | 1M installs |
+
+**Invoice Simple cross-platform pattern**:
+- Same product, 4 countries (US/GB/CA/AU), 2 platforms (Android/iOS) = 8 cells
+- Android: 29.3% low_pct (consistent)
+- iOS: 52-86% low_pct (catastrophic)
+- iOS bimodal distribution: paid users either love it or rage-quit over price hikes
+- Pricing-rage explicit: $59 → $199 annual hike, "min $50/year for 3 invoices"
+- 5M install incumbent in EACH country = 20M+ total TAM
+
+**Why Invoice Simple GB iOS 86% is the strongest cell ever recorded under user's constraints**:
+- ✅ $0 backend possible (local-first SQLite)
+- ✅ Simple build (3-5 weeks)
+- ✅ NO government registration (NOT MTD-compliant intentionally)
+- ✅ NO AI cost (no API calls)
+- ✅ NO marketplace heavy build
+- ✅ Apple/Google won't delist (mainstream B2B utility)
+- ✅ Cross-country leverage (4 countries one codebase)
+
+**Reddit gig worker validation** (50 queries, gig theme tally): mileage 171, tax 151, tracker 134, stride 56, gridwise 53, everlance 41, solo 25, hurdlr 17. Active comparison space. Solo Gig App's pattern of "deceptive paywall after sign-up" creates 👍434 single-thumb single-review = highest single-engagement complaint.
+
+**v8 Top 3 (REJECTING anything that violates ANY constraint)**:
+1. 🥇 Invoice Simple displacement (US/GB primary, CA/AU v2) — Score 24
+2. 🥈 Honest Gig Worker Tracker (US) — Score 19
+3. 🥉 UK Mileage Tracker (Everlance/Stride displace) — Score 16
+
+**HMRC MTD discovery**: User asked "πρεπει να μπλεξω με κυβέρνηση UK?" → realized QBSE displacement requires HMRC recognized-software registration (€1500+ + 4-12 weeks + ongoing tax-time liability). Pivoted to NON-MTD invoice generators (Invoice Simple) — same market, no government interaction. **This is a major methodology learning**: government-mandated software has higher vulnerability signals BUT also higher solo-dev risk.
+
+**Methodology adjustment validated**:
+- B2B/SMB markets have higher ARPU + lower legal risk + Apple/Google delist immunity
+- iOS cross-check is critical for B2B (iOS users pay more, suffer more from price hikes, rage harder)
+- Reddit explicit-demand subreddits (r/freelance, r/doordash) provide direct user-voice validation that TikTok cannot for B2B
+
 ### v7 PIVOT — User constraint enforced ($0-cost + simple build) (May 7)
 
 **User correction**: "εστιασε σε επιλογες οχι τοσο δυσκολες να φτιαχτουν κ χωρις να δωσω λεφτα(πχ ΑΙ θελει λεφτα)" — focus on options NOT hard to build AND that don't need money to operate (e.g. AI requires money).

@@ -1,0 +1,253 @@
+{
+  "US_invsim_DEEP": {
+    "error": "App not found (404)",
+    "appId": "com.appscarpenter.invoicemaker"
+  },
+  "GB_invsim": {
+    "error": "App not found (404)",
+    "appId": "com.appscarpenter.invoicemaker"
+  },
+  "CA_invsim": {
+    "error": "App not found (404)",
+    "appId": "com.appscarpenter.invoicemaker"
+  },
+  "AU_invsim": {
+    "error": "App not found (404)",
+    "appId": "com.appscarpenter.invoicemaker"
+  },
+  "US_setmore_DEEP": {
+    "error": "App not found (404)",
+    "appId": "com.setmore.android"
+  },
+  "GB_setmore": {
+    "error": "App not found (404)",
+    "appId": "com.setmore.android"
+  },
+  "GB_easyexp_DEEP": {
+    "error": "App not found (404)",
+    "appId": "com.deductible.android"
+  },
+  "US_easyexp": {
+    "error": "App not found (404)",
+    "appId": "com.deductible.android"
+  },
+  "US_bikemap_DEEP": {
+    "appId": "com.toursprung.bikemap",
+    "country": "us",
+    "title": "Bikemap: Cycling Tracker & GPS",
+    "score": 4.2017937,
+    "ratings": 58862,
+    "installs": "5,000,000+",
+    "offersIAP": true,
+    "IAPRange": "$0.99 - $49.99 per item",
+    "adSupported": false,
+    "developer": "Bikemap GmbH",
+    "description": "The best route planner for safe cycling with GPS. Discover new bike routes and navigate easily to your destination with the best bike navigator and cycling tracker. Whether you're on a city bike, e-bike or mountain bike, with Bikemap you'll always have a smooth ride through the city and countryside with the help of our turn-by-turn cycling navigation. With millions of cycling routes worldwide, Bik",
+    "reviews_pulled": 1500,
+    "low_count": 563,
+    "low_pct": 37.5,
+    "top_thumbs_low": [
+      {
+        "date": "2022-07-15",
+        "score": 1,
+        "thumbs": 114,
+        "text": "App is basically useless without a subscription, and that subscription is a huge waste of money. The app does not allow any privacy controls for recorded routes - they are all public. Want to record routes to/from your home? The whole world knows where you live now! Additionally, the GPS is laggy an"
+      },
+      {
+        "date": "2023-01-04",
+        "score": 1,
+        "thumbs": 100,
+        "text": "After about two months of use it forced me to pay a monthly subscription to continue using the app in any way - i hoped that paying would allow me more user friendly options and make the app a bit more usable, but that hasn't really happened. Map is unable to reroute when needed, voice navigation is"
+      },
+      {
+        "date": "2025-12-19",
+        "score": 1,
+        "thumbs": 72,
+        "text": "I want to change my review compolitaly😢. I installed the app and after the 7-Day trial I wanted to purchase a annual subscription, but it doesn't want to accept it at all. The error which is called [OR-FGEMF-71] comes forward and it completely prevents me from paying, so I believe using this app is"
+      },
+      {
+        "date": "2020-10-01",
+        "score": 2,
+        "thumbs": 65,
+        "text": "EDITED: A serious deficiency. ANY deviation from a planned route results in the error \"You have gone off route, return to starting point\" repeating endlessly - a short detour around a locked gate, a longer detour to use a less-travelled street, crossing an empty parking lot instead of following the "
+      },
+      {
+        "date": "2023-05-16",
+        "score": 1,
+        "thumbs": 52,
+        "text": "Routes/roads are highlighted but there are no trail names, no labels, no markers, no indication of start/end points, and no way to click on an individual trail to see it on its own. Not sure how this app is meant to be used, or if these are some the many \"features\" of the paid version. The free vers"
+      },
+      {
+        "date": "2021-07-29",
+        "score": 2,
+        "thumbs": 51,
+        "text": "Initially, this looked promising, but it's way too complicated and unintuitive to have so few help pages and instructions. As a result, I got so frustrated just trying to do the basics. Being a \"global\" app, I had assumed that it would cope with Japanese street addresses, but I had no luck there eit"
+      },
+      {
+        "date": "2022-08-04",
+        "score": 1,
+        "thumbs": 48,
+        "text": "Requires subscribing to the 7 day premium trial and connecting your google payment to it in order to even begin using the app. I haven't even started to use it, the app might be great and the subscription might be worth the cost. I hate the monthly bill vs just buying the software for one price. I e"
+      },
+      {
+        "date": "2021-06-27",
+        "score": 2,
+        "thumbs": 40,
+        "text": "I initially liked this app. The first issue was that it includes rugged, gravel roads unless I pay a monthly fee. I would gladly do a one time fee and occasional donations. But I don't want another monthly subscription service. But I still used it until it took me down a private road which ended at "
+      },
+      {
+        "date": "2022-06-15",
+        "score": 1,
+        "thumbs": 32,
+        "text": "I am based in Germany and the free version suggests the same routes as Google Maps. I have no idea if an upgrade to a paid version would be worth it. For €20 I can by a paper map with all the routes for a state and I honestly find the paper option easier to use and follow. So not for me but hey, I g"
+      },
+      {
+        "date": "2021-03-24",
+        "score": 1,
+        "thumbs": 32,
+        "text": "Downloaded the app only to see they're pushing a monthly subscription in exchange basic features that should at most cost a one time fee. I will be uninstalling this app the second I finish this review. I have no interest in any monthly payment nonsense and these app developers can shove it right up"
+      },
+      {
+        "date": "2021-04-08",
+        "score": 1,
+        "thumbs": 31,
+        "text": "WARNING......when using Bikemap ap for first time, it gives default option making user believe you are using your Google account to access...NOT TRUE!...Bikemap instead CREATES new account tricking user into entering their private Google credencials as account/password for new Bikemap account! I WON"
+      },
+      {
+        "date": "2022-03-11",
+        "score": 1,
+        "thumbs": 28,
+        "text": "Absolutely love this app! I came here to write this review to write some detail about all the things that are broken with this app, but I see that all 11 or 12 issues I have with the app have all already been reported. Worse, they have all been reported back in 2019. It's 2022 now and this app is cl"
+      },
+      {
+        "date": "2020-09-07",
+        "score": 1,
+        "thumbs": 26,
+        "text": "This app did not meet my needs at all. I headed out on a 10 day cycling/camoing trip through Poland and payed for the premium service. On day 4 i was led to a unidentified road which ended in a farmer's field 6km later. Very unsatisfactory and dont recommend for trips if you're looking to get proper"
+      },
+      {
+        "date": "2020-11-21",
+        "score": 1,
+        "thumbs": 25,
+        "text": "The worst app I've used so far. The position in the app is always beyond me, if you takes different ways than the one on the map while you're going it doesn't adjust the route to bring you where you want anyway, and it made me take many road in the opposite direction as the cars. Just terrible"
+      },
+      {
+        "date": "2022-12-14",
+        "score": 1,
+        "thumbs": 24,
+        "text": "This app used to be good before but now after not using for a long time it gave me bug cant sellect your place"
+      }
+    ]
+  },
+  "US_toggl_DEEP": {
+    "appId": "com.toggl.giskard",
+    "country": "us",
+    "title": "Toggl Track - Time Tracking",
+    "score": 4.631707,
+    "ratings": 25300,
+    "installs": "1,000,000+",
+    "offersIAP": false,
+    "adSupported": false,
+    "developer": "Toggl.com",
+    "description": "Toggl Track is a simple but mighty time tracker that shows you how much your time is worth. Filling timesheets has never been this easy — start tracking your hours with just one tap. Export tracking data with ease.\n\nYou can track time by projects, clients, or tasks and see how your workday breaks down into hours and minutes your reports. Find out what’s making you money, and what’s holding you bac",
+    "reviews_pulled": 1000,
+    "low_count": 165,
+    "low_pct": 16.5,
+    "top_thumbs_low": [
+      {
+        "date": "2025-08-14",
+        "score": 2,
+        "thumbs": 50,
+        "text": "Edit: It's August 2025 and still not fixed. Pomodoro timer does not makes any sound upon completion unless you have kept the Auto-start breaks option enabled. For the love of god, let it make a sound once pomodoro duration has been reached. Just add another toggle button titled \"Session End\" in soun"
+      },
+      {
+        "date": "2025-01-18",
+        "score": 2,
+        "thumbs": 17,
+        "text": "Despite using it for several months now, I still struggle with the GUI, which is chaotic and confusing. I only need simple things like logging an activity and changing its start or end whenever I forget. It is quite hard to find and do - the time entry is very cumbersome. I also find adding past ent"
+      },
+      {
+        "date": "2025-12-03",
+        "score": 1,
+        "thumbs": 15,
+        "text": "I have been using the app for years now and the new ui update was unnecessary. while cleaning up the ui for editing a time entry, they removed an important feature to move the start time of current entry to end time of previous entry, which is absolutely crucial if we do end up forgetting to start t"
+      },
+      {
+        "date": "2024-04-02",
+        "score": 1,
+        "thumbs": 12,
+        "text": "I tried to contact customer support, but after wasting an hour, I can find no way. Help page says: Toggl Track Support can be easily reached via chat. You can start a chat using the purple chat icon in the bottom-right corner of every page while logged into the web app. Tried that. It's not true. IF"
+      },
+      {
+        "date": "2025-12-07",
+        "score": 1,
+        "thumbs": 11,
+        "text": "Recent update removed the ability to quickly jump to last time. This is extremely inconvenient."
+      },
+      {
+        "date": "2025-12-07",
+        "score": 2,
+        "thumbs": 10,
+        "text": "they took away the start at the time that the last task finished, taking away the main advantage relative to the web version"
+      },
+      {
+        "date": "2025-12-10",
+        "score": 2,
+        "thumbs": 9,
+        "text": "Latest UI \"improvements\" ruined my experience with this app. It's now a pain to manage my time entries, given the fact that the quick updates such as +5 min, +10 min, etc. are now hidden behind the time edit popup, and - the most annoying change yet - the \"Set to Last Stopped Time\" button has been c"
+      },
+      {
+        "date": "2024-11-26",
+        "score": 1,
+        "thumbs": 9,
+        "text": "Terrible UI for simple per project tracking. 1) there is no project page to edit projects, such as changing client 2) similarly there is no page to just start tracking a project, instead you have to create a task and then assign it to a project 3) you sometimes can't edit the times for certain tasks"
+      },
+      {
+        "date": "2023-09-06",
+        "score": 1,
+        "thumbs": 9,
+        "text": "I've used the web and desktop versions of Toggl for years and was excited to start using the mobile app for on-the-go time tracking. However, after multiple attempts to log in to the app, I finally just uninstalled it. I would login with the same credentials I use online, the page would advance to a"
+      },
+      {
+        "date": "2026-01-08",
+        "score": 1,
+        "thumbs": 8,
+        "text": "Long time paying user here. I think I'll be leaving Toggl soon. I switched to a paid account because I wanted to support Toggl, not because I needed any of the premium functions. The enshittification of Toggl has sky rocketed over the past few years, couldn't use free now if I wanted to. But what re"
+      },
+      {
+        "date": "2025-12-06",
+        "score": 2,
+        "thumbs": 8,
+        "text": "recent update removed the ability to start a time entity when the last one ended!! this is something that I use so much throughout the day and now it's very cumbersome to manually enter the start time each time entry"
+      },
+      {
+        "date": "2026-04-15",
+        "score": 1,
+        "thumbs": 7,
+        "text": "Still has issues with creating empty time entries (and not actually stopping the timer) if you stop and then quickly start the timer again (y'know, the system's PRIMARY function). Issue seems to be worse with more devices being synced maybe? Happens on all platforms, and has been an issue for over 3"
+      },
+      {
+        "date": "2025-12-11",
+        "score": 2,
+        "thumbs": 7,
+        "text": "new update = less efficiency terrible new interface, time is no longer stacked on top of each other for entry and the time comes before the date. who ever puts a time before a date..."
+      },
+      {
+        "date": "2025-10-02",
+        "score": 1,
+        "thumbs": 7,
+        "text": "Cannot even test. Forces you to create account to even see the interface?? okay.. fine.. throwaway... must agree to T&C which includes \"you will receive marketing info from us, you can opt out anytime\", yet, no button to opt out. I guess one must make account, receive some spam, only then can unsubs"
+      },
+      {
+        "date": "2024-10-31",
+        "score": 1,
+        "thumbs": 7,
+        "text": "Fantastic app for tracking multiple project, creating clients and tags. Have been using it for years with its very convenient purple button on smartphone and desktop computer browser. So why only one star? Well the company recently removed the possibility to export reports as .CVS or .xls files, ren"
+      }
+    ]
+  },
+  "GB_qbse_DEEP": {
+    "error": "App not found (404)",
+    "appId": "com.intuit.quickbooks.selfemployed"
+  }
+}

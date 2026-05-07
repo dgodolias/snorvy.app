@@ -1,0 +1,110 @@
+[
+  {
+    "appId": "com.freshbooks.andromeda",
+    "title": "FreshBooks Invoicing App",
+    "developer": "FreshBooks Cloud Accounting",
+    "score": 3.8666666,
+    "scoreText": "3.9",
+    "free": false,
+    "price": null,
+    "summary": "Invoice Maker &amp; Expense Tracking",
+    "icon": "https://play-lh.googleusercontent.com/EMobDJKabP1eY_63QHgPS_-TK3eRfxXaeOnERbcRaWAw573iaV74pXS9xOv997dRZtM"
+  },
+  {
+    "appId": "com.intuit.quickbooks",
+    "title": "Intuit QuickBooks for Business",
+    "developer": "Intuit Inc",
+    "score": 4.09375,
+    "scoreText": "4.1",
+    "free": false,
+    "price": null,
+    "summary": "AI-led Business Accounting: invoicing, mileage tracker, receipt scanner &amp; more.",
+    "icon": "https://play-lh.googleusercontent.com/cU-dWPccEGZ39MQawS17137v0CBq3OhcIdXTRu1dCuLzSOKf1H0g2oT5LIg3gKjCoA"
+  },
+  {
+    "appId": "bookipi.invoice.maker.estimate.billing",
+    "title": "Invoice Maker & Estimate App",
+    "developer": "Bookipi - Billing Estimate",
+    "score": 4.59,
+    "scoreText": "4.6",
+    "free": false,
+    "price": null,
+    "summary": "Create invoices, estimates &amp; receipts in minute. Fast, reliable invoice maker.",
+    "icon": "https://play-lh.googleusercontent.com/ZK1xGfa1xP7nN18nKyWRKCWInH4yG_zenrOPdy8m2fL9RuNPLJe0utLuUoSVv1WidQ"
+  },
+  {
+    "appId": "com.aadhk.woinvoice",
+    "title": "Invoice Simple: Invoice Maker",
+    "developer": "Invoice Simple",
+    "score": 4.507576,
+    "scoreText": "4.5",
+    "free": false,
+    "price": null,
+    "summary": "Create invoices, bills, receipts, &amp; estimates with Invoice Generator &amp; Creator.",
+    "icon": "https://play-lh.googleusercontent.com/lm5SpiPX5imsqx-5LjChyMOEW9qN7EyoF_NIHnL2KsOlQragRvvaXLK8CLGX5GuJzQ"
+  },
+  {
+    "appId": "com.valorem.flobooks",
+    "title": "myBillBook Invoice Billing App",
+    "developer": "Accounting | Inventory | GST Billing App",
+    "score": 0,
+    "scoreText": "0.0",
+    "free": false,
+    "price": null,
+    "summary": "Easy GST Billing App - Create Invoices, Manage Stock, e-Invoices &amp; e-Way Bills",
+    "icon": "https://play-lh.googleusercontent.com/pB0XkfA7EaUAzBzUAZ8sKfTN8giWMfPf8x4JkwwnHmBDXZy8iCo9T6NLXoD99CIhqAA"
+  },
+  {
+    "appId": "com.invoice2go.invoice2goplus",
+    "title": "Invoice2go: Easy Invoice Maker",
+    "developer": "Invoice2Go",
+    "score": 4.08,
+    "scoreText": "4.1",
+    "free": false,
+    "price": null,
+    "summary": "All-in-one tool to run your business: invoicing, payments, reporting and more.",
+    "icon": "https://play-lh.googleusercontent.com/wTVEc4WC6-xljr16oShzZ2wywnCtQhElIAjSlzv32QrdPHTCqAEk9K_hzGr-qg0XkJw"
+  },
+  {
+    "appId": "in.android.vyapar",
+    "title": "Vyapar Invoice Billing App",
+    "developer": "Invoicing, Billing, Inventory, GST, Accounting app",
+    "score": 4.7619047,
+    "scoreText": "4.8",
+    "free": false,
+    "price": null,
+    "summary": "Billing Invoicing App, Bill Book, E Invoice, E Way Bill, GST Bills, Online Store",
+    "icon": "https://play-lh.googleusercontent.com/0Oxj5yd5rYDqofo_zYwzlKFnZcaSN51LuO4mrIPLDnj6rSMkGgKklLDtzZRPCdq7wyLM"
+  },
+  {
+    "appId": "com.twansoftware.invoicemakerpro",
+    "title": "ProBooks: Invoice Maker",
+    "developer": "Brian Augsburger",
+    "score": 4.6222224,
+    "scoreText": "4.6",
+    "free": false,
+    "price": null,
+    "summary": "Simple, professional invoice maker. Send invoices, get paid, and stay organized.",
+    "icon": "https://play-lh.googleusercontent.com/5RScHhr_HEH6MbkPbhdIwJN-lCnG5o-t63kwSimtvb_n1p4gLzz42EX57D1I-BTMieE"
+  },
+  {
+    "appId": "invoice.invoicemaker.estimatemaker.billingapp",
+    "title": "Invoice Maker - InvoiceBase",
+    "developer": "Gulooloo Tech Co., Ltd.",
+    "score": 4.67,
+    "scoreText": "4.7",
+    "free": false,
+    "price": null,
+    "summary": "Invoice Maker &amp; Estimate Maker - Save Your Time &amp; Grow Your Business",
+    "icon": "https://play-lh.googleusercontent.com/nmiG59gGngb1OE9HrtWY9p5eeNHq4WGvdzDchAam5B197GhjvG7KMAW-clUk2nwnhfYw"
+  },
+  {
+    "appId": "com.squareup.invoicesapp",
+    "title": "Square Invoices: Invoice Maker",
+    "developer": "Block, Inc.",
+    "free": false,
+    "price": null,
+    "summary": "Manage your business invoicing, bills &amp; estimates. Track expenses &amp; payments.",
+    "icon": "https://play-lh.googleusercontent.com/gCyyBvrSQ1jiiZxgBu4Mm2wgH7F5rBRXE2H-Uji9wnRHcnDwxx6kMp3kEy8TWlKvsg"
+  }
+]

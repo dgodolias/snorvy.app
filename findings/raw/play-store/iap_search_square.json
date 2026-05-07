@@ -1,0 +1,106 @@
+[
+  {
+    "appId": "com.squareup.invoicesapp",
+    "title": "Square Invoices: Invoice Maker",
+    "developer": "Block, Inc.",
+    "free": false,
+    "price": null,
+    "summary": "Manage your business invoicing, bills &amp; estimates. Track expenses &amp; payments.",
+    "icon": "https://play-lh.googleusercontent.com/gCyyBvrSQ1jiiZxgBu4Mm2wgH7F5rBRXE2H-Uji9wnRHcnDwxx6kMp3kEy8TWlKvsg"
+  },
+  {
+    "appId": "com.squareup",
+    "title": "Square Point of Sale: Payment",
+    "developer": "Block, Inc.",
+    "score": 3.8888888,
+    "scoreText": "3.9",
+    "free": false,
+    "price": null,
+    "summary": "Mobile POS for any business: sales, invoices, retail, restaurants &amp; appointments",
+    "icon": "https://play-lh.googleusercontent.com/e_TGMFjziCV5DYSF_a4fDNS7E63S378Fa5Qlfx0xpwLn74dt6Kpa7idl4S_Fl2NIgg"
+  },
+  {
+    "appId": "com.squareup.invoicesapp.beta",
+    "title": "Square Invoices Beta",
+    "developer": "Block, Inc.",
+    "free": false,
+    "price": null,
+    "summary": "Send estimates, manage billing, create receipts &amp; invoices and get paid fast!",
+    "icon": "https://play-lh.googleusercontent.com/VOKq2yWGuItfnVCd4LUyNd7nqLsfvg3mTdbu_jkho7RwxOsfoiCoG0PQuHvXr9_NaEqY"
+  },
+  {
+    "appId": "com.zoho.invoice",
+    "title": "Zoho Invoice - Invoicing App",
+    "developer": "Zoho Corporation",
+    "score": 4.83871,
+    "scoreText": "4.8",
+    "free": false,
+    "price": null,
+    "summary": "Online invoicing &amp; billing software to manage your invoices on the go.",
+    "icon": "https://play-lh.googleusercontent.com/gXoh1REl9dxJDNW9gs1FOUjl1QDxx9Y8xDuhYiZx2QQK6_pLySxhl72olVB-5fnwOPw"
+  },
+  {
+    "appId": "com.invoice2go.invoice2goplus",
+    "title": "Invoice2go: Easy Invoice Maker",
+    "developer": "Invoice2Go",
+    "score": 4.08,
+    "scoreText": "4.1",
+    "free": false,
+    "price": null,
+    "summary": "All-in-one tool to run your business: invoicing, payments, reporting and more.",
+    "icon": "https://play-lh.googleusercontent.com/wTVEc4WC6-xljr16oShzZ2wywnCtQhElIAjSlzv32QrdPHTCqAEk9K_hzGr-qg0XkJw"
+  },
+  {
+    "appId": "com.zoho.invoicegenerator",
+    "title": "Invoice Generator - Zoho",
+    "developer": "Zoho Corporation",
+    "score": 4.73,
+    "scoreText": "4.7",
+    "free": false,
+    "price": null,
+    "summary": "Create good looking invoices with ease.",
+    "icon": "https://play-lh.googleusercontent.com/NaJT76aJAZiuUY1pOAAXYvPk-LZ_N9-vHC1HPatgv1jr0y1dDNWUg2YYHhnS0k6E-Sw"
+  },
+  {
+    "appId": "com.squareup.beta",
+    "title": "Square Point of Sale Beta",
+    "developer": "Block, Inc.",
+    "free": false,
+    "price": null,
+    "summary": "Accept Credit Card Payments with Square's Mobile Point of Sale Beta",
+    "icon": "https://play-lh.googleusercontent.com/ac-JgPHXuo_cMHZG1tHHgy6Fiz2hBieemPZp3ahULX6sUrzGBPCkaIPLO44GDJ-2y4M"
+  },
+  {
+    "appId": "com.aadhk.woinvoice",
+    "title": "Invoice Simple: Invoice Maker",
+    "developer": "Invoice Simple",
+    "score": 4.507576,
+    "scoreText": "4.5",
+    "free": false,
+    "price": null,
+    "summary": "Create invoices, bills, receipts, &amp; estimates with Invoice Generator &amp; Creator.",
+    "icon": "https://play-lh.googleusercontent.com/lm5SpiPX5imsqx-5LjChyMOEW9qN7EyoF_NIHnL2KsOlQragRvvaXLK8CLGX5GuJzQ"
+  },
+  {
+    "appId": "com.intuit.quickbooks",
+    "title": "Intuit QuickBooks for Business",
+    "developer": "Intuit Inc",
+    "score": 4.09375,
+    "scoreText": "4.1",
+    "free": false,
+    "price": null,
+    "summary": "AI-led Business Accounting: invoicing, mileage tracker, receipt scanner &amp; more.",
+    "icon": "https://play-lh.googleusercontent.com/cU-dWPccEGZ39MQawS17137v0CBq3OhcIdXTRu1dCuLzSOKf1H0g2oT5LIg3gKjCoA"
+  },
+  {
+    "appId": "bookipi.invoice.maker.estimate.billing",
+    "title": "Invoice Maker & Estimate App",
+    "developer": "Bookipi - Billing Estimate",
+    "score": 4.59,
+    "scoreText": "4.6",
+    "free": false,
+    "price": null,
+    "summary": "Create invoices, estimates &amp; receipts in minute. Fast, reliable invoice maker.",
+    "icon": "https://play-lh.googleusercontent.com/ZK1xGfa1xP7nN18nKyWRKCWInH4yG_zenrOPdy8m2fL9RuNPLJe0utLuUoSVv1WidQ"
+  }
+]

@@ -1,6 +1,6 @@
 # App-Radar Directions Report
 
-_Generated: 2026-05-07T08:37:01.221Z_
+_Generated: 2026-05-07T10:34:04.298Z_
 _Source: 97 cells synthesized from `c:\Users\demosgod\Desktop\PROJECTS\playstore_app\findings\raw`_
 
 ## Quick scoreboard

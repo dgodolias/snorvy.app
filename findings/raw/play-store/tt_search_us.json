@@ -1,0 +1,271 @@
+[
+  {
+    "appId": "com.cg.android.ebillitytimetracker",
+    "title": "Time Tracker",
+    "developer": "eBillity",
+    "free": false,
+    "price": null,
+    "summary": "Time Tracker is a simple time tracking app designed for professionals.",
+    "icon": "https://play-lh.googleusercontent.com/6UyL165YlBDqaxM-jR3nWHU9dAXfb3rD0QdewPcO1wA9e6wZycJrTqFNrz0H-1rV1RI"
+  },
+  {
+    "appId": "apace.freelancetimetracker",
+    "title": "FTT: Freelance Time Tracker",
+    "developer": "Antonio Pace",
+    "free": false,
+    "price": null,
+    "summary": "Focus on working. FTT: Freelance Time Tracker will take care of the rest!",
+    "icon": "https://play-lh.googleusercontent.com/HwF2yNJxOMrQrTcz7mbLff5NRN6e5_ZQqkwqmYXHA4U6n9AlZBig2IzpkpuM16D5bQ"
+  },
+  {
+    "appId": "com.toggl.giskard",
+    "title": "Toggl Track - Time Tracking",
+    "developer": "Toggl.com",
+    "score": 4.5346537,
+    "scoreText": "4.5",
+    "free": false,
+    "price": null,
+    "summary": "Flexible time tracker for teams of 1 to 100",
+    "icon": "https://play-lh.googleusercontent.com/PeblLXajnpQMBdnzHCQ9yRh6IZ1iOM7qqJkp306uOYlYq8djKFs2vTLO5YO265MPmcM"
+  },
+  {
+    "appId": "com.razeeman.util.simpletimetracker",
+    "title": "Simple Time Tracker",
+    "developer": "Razeeman",
+    "score": 4.81,
+    "scoreText": "4.8",
+    "free": false,
+    "price": null,
+    "summary": "Time tracker for work, study, and building better daily habits.",
+    "icon": "https://play-lh.googleusercontent.com/um-P93L4xr7Y2rItD_Q7LzsqtXxtmU6DW8gsARAkQhRSruall2_NkDB9GDCmVyiPbA"
+  },
+  {
+    "appId": "co.timesquared.timetracker",
+    "title": "Time Clock: Easy Tracker",
+    "developer": "Time Squared (TSQ Publishing Corp.)",
+    "score": 4.622951,
+    "scoreText": "4.6",
+    "free": false,
+    "price": null,
+    "summary": "Clock in with work hours tracker or simply add your time cards. Nice &amp; easy",
+    "icon": "https://play-lh.googleusercontent.com/uRbje0AC0pCCXqdcvzUutAwDBkwVOMZgWusbl2Af2t4EW7ss_yR5VVP2kIJEMTaV7LYN"
+  },
+  {
+    "appId": "partl.workinghours",
+    "title": "WorkingHours Time Tracker",
+    "developer": "Timo Partl",
+    "score": 4.6545453,
+    "scoreText": "4.7",
+    "free": false,
+    "price": null,
+    "summary": "Timesheet, billable hours, overtime, projects, Excel export &amp; invoices",
+    "icon": "https://play-lh.googleusercontent.com/gWP-OeiZkkgT2v91z5ftNuICki7BBgpgLJiEL0Y7iNqw1oj6d5zCX4uC0TUj7DTmezY"
+  },
+  {
+    "appId": "me.clockify.android",
+    "title": "Clockify — Time Tracker",
+    "developer": "CAKE.com Inc",
+    "score": 3.510204,
+    "scoreText": "3.5",
+    "free": false,
+    "price": null,
+    "summary": "Time tracking, timesheets, and reports for teams and individuals.",
+    "icon": "https://play-lh.googleusercontent.com/C-K5UKRddgrCjKne5DsBBXVfp7B1AqJcZwTt5eJt4_b4Hl5rt3tJqNarf6X-5K2pLw"
+  },
+  {
+    "appId": "com.rauscha.apps.timesheet",
+    "title": "Timesheet - Time Tracker",
+    "developer": "Timesheet - Mobile Time Tracking OG",
+    "score": 3.43,
+    "scoreText": "3.4",
+    "free": false,
+    "price": null,
+    "summary": "Timesheet allows you the recording of your work with a simple push of a button.",
+    "icon": "https://play-lh.googleusercontent.com/73A7nageYTtQv_5tROxfJrJ_5R1y-_3t4PF6jgGnCHVSA4UkAPQ_oCmP8QfOqQSbGs3m"
+  },
+  {
+    "appId": "ch.gridvision.pbtm.androidtimerecorder",
+    "title": "Time Tracker - Timesheet",
+    "developer": "gleeo.com",
+    "score": 4.07,
+    "scoreText": "4.1",
+    "free": false,
+    "price": null,
+    "summary": "Precise time tracking for pros — solo or as a team, with open data export.",
+    "icon": "https://play-lh.googleusercontent.com/9xjULvXMFz8L4xt0rxCxpyI9BamxwvIlfPQIRej6R0rZ5dWtyiVVgRJ2lae8CYh-Ogg"
+  },
+  {
+    "appId": "com.netsoft.Hubstaff",
+    "title": "Hubstaff Time Tracker",
+    "developer": "Netsoft Holdings, LLC",
+    "score": 2.8888888,
+    "scoreText": "2.9",
+    "free": false,
+    "price": null,
+    "summary": "Time tracking app with GPS, geofencing, timesheets, and mobile attendance",
+    "icon": "https://play-lh.googleusercontent.com/QzXWJbnIj9-04ZNqjz8-L3hYMvKUi7JMpfTHRv5bH8WhHsOMCm9A5HVjgW7LpPsWew"
+  },
+  {
+    "appId": "com.projectprofit.app",
+    "title": "Time Tracker for Freelancers",
+    "developer": "Akash Sarker",
+    "score": 0,
+    "scoreText": "0.0",
+    "free": false,
+    "price": null,
+    "summary": "Track time, invoice clients, and measure project profitability. Smart &amp; simple",
+    "icon": "https://play-lh.googleusercontent.com/N1L8-wQTmpI2erj0bKgmAzwIdzaXk_dNh9tBJxzjUk6O6oYAw9Cp-579zMS5SDuTydanGTWninhK5tQ-Fibwhw"
+  },
+  {
+    "appId": "com.aadhk.time",
+    "title": "Timesheet - Work Hours Tracker",
+    "developer": "aadhk",
+    "score": 4.638009,
+    "scoreText": "4.6",
+    "free": false,
+    "price": null,
+    "summary": "Track work hours, know your salary and send work log to manager or client",
+    "icon": "https://play-lh.googleusercontent.com/l1cJnMAnXXMMosCx0XQiJDusvveFoBidpuOTV_UqouoMamJ2MgKi27Yqc1oZHBgSB36t"
+  },
+  {
+    "appId": "com.melabs.hourly",
+    "title": "Hourly - Freelance Tracker",
+    "developer": "Mohamed Eleish",
+    "free": false,
+    "price": null,
+    "summary": "Effortlessly manage freelance projects, track hours, and collaborate seamlessly.",
+    "icon": "https://play-lh.googleusercontent.com/5nfdeTeG8Fk9GlTo3co9v9PpVtTmOiJFrZEYl1xDOk7tKKf4yBuGibeuXcs4BgoCueZ9"
+  },
+  {
+    "appId": "com.aloggers.atimeloggerapp",
+    "title": "aTimeLogger - Time Tracker",
+    "developer": "BGCI",
+    "score": 4.85,
+    "scoreText": "4.8",
+    "free": false,
+    "price": null,
+    "summary": "Time tracking done easy. Simultaneous activities, pauses, goals and reports",
+    "icon": "https://play-lh.googleusercontent.com/sp-tqT8_wO-6lK8Kr-UByGxNyGLPQge-6jjYZp5ydNQ7h0HHzv0XgKdNwOdt8-G585tJ"
+  },
+  {
+    "appId": "com.arproductionsdev.worklog",
+    "title": "Work Log - Shift Tracker",
+    "developer": "AR Productions Inc.",
+    "score": 4.818182,
+    "scoreText": "4.8",
+    "free": false,
+    "price": null,
+    "summary": "Quickly and easily keep track of your work shifts",
+    "icon": "https://play-lh.googleusercontent.com/wjcZiBdgejpwgn-0SPoiMkDeMw3_NAKbGNstiMBr8b2bRPuvnu2T2VWQKJcqbj_bcXw"
+  },
+  {
+    "appId": "co.trackingtime",
+    "title": "TrackingTime | Time Tracker",
+    "developer": "Tracking Time LLC",
+    "score": 4,
+    "scoreText": "4.0",
+    "free": false,
+    "price": null,
+    "summary": "Task based Time Tracker",
+    "icon": "https://play-lh.googleusercontent.com/Tj_FQIXx5LQs7BZan1r27e8xN1DRs1fFCw3aFSv7CFkTNxgzn8548k0p_oMGno6-Sg"
+  },
+  {
+    "appId": "com.bakua.worktimemanager",
+    "title": "Timesheet: Work Hours Tracker",
+    "developer": "Timechief.com",
+    "score": 4.5964127,
+    "scoreText": "4.6",
+    "free": false,
+    "price": null,
+    "summary": "Time Tracking and Shift Work Calendar. Time Sheets to Track Time, Pay and Hours",
+    "icon": "https://play-lh.googleusercontent.com/hOWtQucLVUB74-eSuyqSgOYYMeuXcC6jcP_HeckVhU4vBCz45SYM5VPDAXncb5TeR5x5LG6YU6tLDnZDCoNfWA"
+  },
+  {
+    "appId": "arproductions.andrew.worklog",
+    "title": "Work Log",
+    "developer": "AR Productions Inc.",
+    "score": 4.841584,
+    "scoreText": "4.8",
+    "free": false,
+    "price": null,
+    "summary": "Quickly and easily keep track of your work shifts",
+    "icon": "https://play-lh.googleusercontent.com/S583YFaZL41wyqVyhbaUv-CWkkxonXXXXcOyMI7H0TNURIAaClYtSVpV3f1_xVEQPHM"
+  },
+  {
+    "appId": "com.prodifab.prodihours",
+    "title": "Prodi Hours: Zeiterfassung",
+    "developer": "ProdiFab",
+    "score": 0,
+    "scoreText": "0.0",
+    "free": false,
+    "price": null,
+    "summary": "Verfolge deine täglichen Arbeitsstunden",
+    "icon": "https://play-lh.googleusercontent.com/k_WPK6Ew_8FZsLbvomgLBJODAJ8pKvR5LjXuMaCzQON7dLRjHirxzBa0uDv2H7lNWpdixecij3FUGbYUXJrtIw"
+  },
+  {
+    "appId": "com.upwork.android.apps.main",
+    "title": "Upwork",
+    "developer": "Upwork Global Inc.",
+    "score": 3.8,
+    "scoreText": "3.8",
+    "free": false,
+    "price": null,
+    "summary": "Connecting clients with highly skilled freelancers from across the globe.",
+    "icon": "https://play-lh.googleusercontent.com/PgAl0V1pWvER7X9ViFrBaT9Pxye4pRH5Nr9JlD5RbKjNX0bcMRp007dQhd17b0Y28Rwv"
+  },
+  {
+    "appId": "com.tsheets.android.hammerhead",
+    "title": "QuickBooks Workforce",
+    "developer": "Intuit Inc",
+    "score": 3.4615386,
+    "scoreText": "3.5",
+    "free": false,
+    "price": null,
+    "summary": "QuickBooks Workforce lets teams view pay info and track time in one place.",
+    "icon": "https://play-lh.googleusercontent.com/AGLr2UP-Dn6mPz_QLUdWX8tNvzLz19giUVm-15LHORrCh_X2RrRCm8p0RTiND4jDswk"
+  },
+  {
+    "appId": "com.neurondigital.hourbuddy",
+    "title": "Hour Buddy: Work Time Tracking",
+    "developer": "DictionaryAndTranslator",
+    "score": 3.2857144,
+    "scoreText": "3.3",
+    "free": false,
+    "price": null,
+    "summary": "Freelance work time tracking to maximise productivity and keep work hours log",
+    "icon": "https://play-lh.googleusercontent.com/txRcl1mRRukjvcEszpW6adeG-L-Ub_7OU0AFVlku-cDxi9ygSneRC8egJs3-SvQr7kI7"
+  },
+  {
+    "appId": "com.time.tracker.tracks.work.hours.timesheet",
+    "title": "Time & Hours Tracker for Work",
+    "developer": "Card Scanner",
+    "score": 4.5,
+    "scoreText": "4.5",
+    "free": false,
+    "price": null,
+    "summary": "Time tracker for work to log time, track work hours, and manage break time.",
+    "icon": "https://play-lh.googleusercontent.com/f9MrbxrXElOtdpV7qd5IxwEE7PNNV-XYf9poYSlv8NTS0AhJBrJ0CUKNRJMybPwyvQ"
+  },
+  {
+    "appId": "com.fiverr.fiverr",
+    "title": "Fiverr - Freelance Service",
+    "developer": "Fiverr",
+    "score": 4.007614,
+    "scoreText": "4.0",
+    "free": false,
+    "price": null,
+    "summary": "One marketplace. Hundreds of services. Unlimited possibilities. All on Fiverr.",
+    "icon": "https://play-lh.googleusercontent.com/AKm3yudrEyrdvy9YmPUJjRkb0p0tyCed8tE1xXcsp6_uyeZhSoUSj41T-l9-dsMuxFY"
+  },
+  {
+    "appId": "com.tobiashauss.flexlog",
+    "title": "iboChron - Work Time Tracker",
+    "developer": "Tobias Hauß",
+    "score": 3.9,
+    "scoreText": "3.9",
+    "free": false,
+    "price": null,
+    "summary": "Track your working hours easy and fast with iboChron! Hours Keeper / Work Log",
+    "icon": "https://play-lh.googleusercontent.com/yRI7uJkkSx0_szxJTBxgDCgWIthp05I6F06ZJjIV9bvEIBn3ZmbUME63x9lAIO0S928"
+  }
+]

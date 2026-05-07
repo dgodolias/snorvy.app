@@ -1,0 +1,33 @@
+{
+  "appId": "com.appventurepro.taxcalculator1099",
+  "title": "1099 Tax Calculator",
+  "summary": "Estimate your 1099 self-employment taxes, deductions, and quarterly payments.",
+  "developer": "AppVenturePro",
+  "developerEmail": "support@appventurepro.com",
+  "developerWebsite": "https://appventurepro.com/",
+  "genre": "Finance",
+  "genreId": "FINANCE",
+  "contentRating": "Everyone",
+  "installs": "10+",
+  "minInstalls": 10,
+  "maxInstalls": 33,
+  "histogram": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 0
+  },
+  "free": true,
+  "price": 0,
+  "priceText": "Free",
+  "currency": "USD",
+  "offersIAP": false,
+  "adSupported": true,
+  "released": "Mar 28, 2026",
+  "updated": 1776426003000,
+  "version": "1.0.2",
+  "androidVersion": "7.0",
+  "androidVersionText": "7.0",
+  "description": "Take the guesswork out of your freelance finances with 1099 Tax Calculator, a simple and powerful tool designed for freelancers, independent contractors, gig workers, consultants, and self-employed professionals. Quickly estimate your Federal Income Tax, Self-Employment Tax (Social Security & Medicare), and Quarterly Estimated Payments in seconds.\n\nWhether you earn income from rideshare apps, contract work, or your own business, this app helps you estimate how much tax to set aside using publicly available IRS guidelines.\n\nKey Features\n\n📊 Smart Tax Estimation Engine\nEstimate your Self-Employment Tax and Federal Income Tax using the latest available federal tax brackets, standard deductions, and wage caps for 2024, 2025, and 2026.\n\n💼 Business Deductions Support\nReduce taxable income by entering common expense categories such as mileage, advertising, office supplies, insurance, and more.\n\n📅 Quarterly Estimated Tax Breakdown\nAutomatically split your yearly estimated taxes into four quarterly payments (Q1–Q4) with standard IRS due dates.\n\n💰 Flexible Income Input\nEnter monthly or yearly income and switch between Single and Married Filing Jointly filing status. Includes support for estimating the Qualified Business Income (QBI) deduction.\n\n📈 Clear Visual Insights\nView estimated take-home income, effective tax rate, marginal tax rate, and total tax breakdown using simple visual charts.\n\n📱 Private History Storage\nSave and review previous calculations securely on your device for"
+}

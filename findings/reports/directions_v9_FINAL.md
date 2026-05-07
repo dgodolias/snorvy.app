@@ -807,6 +807,26 @@ Rationale:
    - **Strategy pivot**: enter PL AFTER Apr 2026 with "post-KSeF Tofu alternative" positioning rather than trying to win the migration wave directly (Fakturownia owns that space)
    - 3M JDG TAM still attractive but harder execution
 
+### v9 LOOP TICK 2 (D4 ASA EU keywords) — country-specific top 3
+
+**Cross-country top displacement keywords (composite = 10.0, zero competition)**:
+
+| Country | Keyword | Composite | Strategic use |
+|---|---|---|---|
+| 🇩🇪 DE | **§19 UStG App** | 10.00 | Pure-intent legal-tech; zero comp; small-vol but high conversion |
+| 🇵🇱 PL | **Tofu zamiennik** | 10.00 | Displacement; zero comp; needs Tofu-rage to materialize |
+| 🇳🇱 NL | **Invoice Fly alternatief** | 10.00 | Displacement; zero comp; anti-foreign cultural lever |
+
+**Highest absolute volume (paid-ASA priority)**:
+- **DE**: "Kleinunternehmer Rechnung App" 6.67 (mid-high vol)
+- **PL**: "KSeF aplikacja" 6.25 (panic-driven volume; Apr 2026 deadline)
+- **NL**: "ZZP factuur app" 6.25 (highest absolute NL volume)
+
+**Strategic read per country** (from agent):
+- **DE**: Stack `§19 + Kleinunternehmer + "ohne Abo"` in subtitle/short-desc. 3.5M cohort is permanent (not migration-driven like PL) → play long-tail SEO, not paid burst.
+- **PL**: Headline title bake in `KSeF` AND `JDG` simultaneously. Volume goes to KSeF; conversion goes to "samozatrudniony"-language.
+- **NL**: "Made in EU / Nederlandse app" hook works because Invoice Fly is American/English-translated. Cultural moat = local language + EU data residency.
+
 ### Direction 4 sequencing strategy (REVISED v9 with PL data)
 
 **Recommended sequencing** (12-month roadmap for Direction 4):

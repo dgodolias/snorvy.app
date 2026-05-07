@@ -47,11 +47,12 @@ Before production release, verify that every permission has user-facing rational
 - Signed app bundle: `build/app/outputs/bundle/release/app-release.aab`
 - Local upload key: `android/app/upload-keystore.jks`
 - Signing config: `android/key.properties`
+- Play Store app icon: `playstore/icon-512.png`
+- Source brand icon: `assets/brand/snorvy-icon-1024.png`
 
 The upload key and signing config are ignored by Git. Back them up in a secure password manager or vault before relying on this Play app signing setup.
 
 ## Remaining Before Production Track
 
-- Add real app icon and Play Store 512x512 icon.
 - Back up the upload keystore and credentials outside the repo.
 - Upload to internal testing first.

@@ -1,0 +1,18 @@
+{
+  "app": "odt.com.ozel_ders_takip_uyg",
+  "country": "us",
+  "total_pulled": 1,
+  "total_after_filter": 1,
+  "reviews": [
+    {
+      "date": "2023-11-03T17:10:19.329Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Bilal Sungur",
+      "text": "Kurum eklenmiyor. App çöküyor kurum ekle deyince. Update gerekli",
+      "reply": "Hocam kurum isminin içinde boşluk veya sayı varsa ondan dolayı olabilir",
+      "replyDate": "2023-11-03T17:11:53.722Z",
+      "url": "https://play.google.com/store/apps/details?id=odt.com.ozel_ders_takip_uyg&reviewId=65fd4605-6b87-4e0f-bee8-3ce2205cd9bb"
+    }
+  ]
+}

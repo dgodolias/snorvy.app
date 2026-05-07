@@ -1,0 +1,143 @@
+[
+  {
+    "appId": "gr.aade.mydataapp",
+    "title": "myDATAapp",
+    "developer": "Ανεξάρτητη Αρχή Δημοσίων Εσόδων",
+    "score": 0,
+    "scoreText": "0,0",
+    "free": false,
+    "price": null,
+    "summary": "myDATAapp είναι η εφαρμογή της ΑΑΔΕ για έκδοση παραστατικών",
+    "icon": "https://play-lh.googleusercontent.com/Ar34aNh2ik_nDvK6IKld0wrMKgPJsfkDDXmi4rnxXQaBir8SblyWCL6tpcmEsTlOTug"
+  },
+  {
+    "appId": "pt.janz.mydata.MyDataMobile",
+    "title": "MyData Mobile",
+    "developer": "IT Janz",
+    "free": false,
+    "price": null,
+    "summary": "Εργαλείο συλλογής WMBus",
+    "icon": "https://play-lh.googleusercontent.com/m_BBBc4ciLkc5CFt3hnuzEeNjZU9neG1zP8bFAkrjXw-zhFC4I4hWYTarHvmVUZ7OGs"
+  },
+  {
+    "appId": "pt.janz.mydata.MyDataEREG",
+    "title": "MyData eREG",
+    "developer": "IT Janz",
+    "free": false,
+    "price": null,
+    "summary": "Εργαλείο προγραμματισμού Janz eREGISTER",
+    "icon": "https://play-lh.googleusercontent.com/OFZIhIB2f-S4xXzh_k3Vk70ogOdohMhYEvmq1VVSlSP3p684W5XaXkT7U_5Mz_IXzyW8"
+  },
+  {
+    "appId": "com.viettel.mydata",
+    "title": "MyData",
+    "developer": "VIETTEL TELECOM",
+    "free": false,
+    "price": null,
+    "summary": "Η MyData είναι ο επίσημος πάροχος δεδομένων της Viettel Telecom.",
+    "icon": "https://play-lh.googleusercontent.com/SGNy6S5a5wUkdB7TwWfWvKj_HCFEmFOrf3r38Gb6gVjN-vmdnAaO5GGJEEWQItYsAYw"
+  },
+  {
+    "appId": "com.ots.open1ydata",
+    "title": "Open1YdataApp",
+    "developer": "OTS Development Team",
+    "score": 0,
+    "scoreText": "0,0",
+    "free": false,
+    "price": null,
+    "summary": "Εφαρμογή που προσφέρει πρόσβαση σε λογαριασμούς, πληρωμές και αιτήματα ύδρευσης.",
+    "icon": "https://play-lh.googleusercontent.com/YrpqUTn6G4Kfb8sfkAKBIiyjFuH4Ec5KLl2Jd0vObHOQ-8_aJDbTdlfiHjeay1bGfmg"
+  },
+  {
+    "appId": "com.mobidia.android.mdm",
+    "title": "My Data Manager: Data Usage",
+    "developer": "ST Advanced",
+    "score": 4.556962,
+    "scoreText": "4,6",
+    "free": false,
+    "price": null,
+    "summary": "Διαχειριστείτε τα δεδομένα του κινητού σας παρακολουθώντας τη χρήση των δεδομένων σας για να αποφύγετε επιπλέον χρεώσεις",
+    "icon": "https://play-lh.googleusercontent.com/mzKqF-kuMOrcF3JRYoKuIqTQjXAG1sXvxRCQKPnr0sSvDfK8S_8ui3FBOurmNxnmbXA"
+  },
+  {
+    "appId": "com.jvn.mydata",
+    "title": "My Data",
+    "developer": "Venu Nagarajan J",
+    "free": false,
+    "price": null,
+    "summary": "Για να αποθηκεύσετε τα προσωπικά σας δεδομένα με ασφάλεια στο κινητό σας.",
+    "icon": "https://play-lh.googleusercontent.com/3qfobILh8fPSxVy0za1RVgLYuES5TvapKCfjbMIu-tX512pI_79iHP6H9IQB7lUFhc0"
+  },
+  {
+    "appId": "pt.janz.mydata.smartio",
+    "title": "MyData SmartIO",
+    "developer": "IT Janz",
+    "free": false,
+    "price": null,
+    "summary": "Εργαλείο προγραμματισμού Janz SmartIO",
+    "icon": "https://play-lh.googleusercontent.com/dwmfYsEhtefSHUcmu-POlasGLHE4JS9P0Ota3U6q4apQEHA75P-OkCIxhVX_tXu3oA"
+  },
+  {
+    "appId": "com.mydataservice.app",
+    "title": "mydata",
+    "developer": "Shicaar",
+    "free": false,
+    "price": null,
+    "summary": "Mobile Data Manager",
+    "icon": "https://play-lh.googleusercontent.com/nKSm0UxDEqmwubb91C7tAf5B82MpTFpPRaDV4fIu_phRaxVZqobAa3vTDYkR3nRIVw"
+  },
+  {
+    "appId": "com.base6957320ab2d81c0af63b1205.app",
+    "title": "MyDataCapsule",
+    "developer": "Time_Capsule",
+    "free": false,
+    "price": null,
+    "summary": "Δημιουργήστε και μοιραστείτε ψηφιακές κάψουλες βίντεο με χρόνο τώρα και για τις μελλοντικές γενιές!",
+    "icon": "https://play-lh.googleusercontent.com/JDTpQd3tW9CRyrwzvBRCRIAAlhGycTyt5UTsGDN5YjhQ0LyMva-wYZF7LaIErX2EwDWKuuXDt7tCdm_dwg81EA"
+  },
+  {
+    "appId": "com.mdsol.titan",
+    "title": "myMedidata",
+    "developer": "Medidata Solutions",
+    "free": false,
+    "price": null,
+    "summary": "Η εφαρμογή για κινητά myMedidata παρέχει έναν ενιαίο, βολικό προορισμό για τους ασθενείς",
+    "icon": "https://play-lh.googleusercontent.com/ac1IFVuD42D42ksUqFq3ajALB9G_ytYcHWB6ZHxglft4ZZYS4KyCQOMR806hav-1iA"
+  },
+  {
+    "appId": "miroute.cardata.consultants",
+    "title": "Cardata Mobile",
+    "developer": "Cardata",
+    "free": false,
+    "price": null,
+    "summary": "Αυτόματη χιλιομετρική παρακολούθηση και διαδρομή GPS - οποτεδήποτε, οπουδήποτε",
+    "icon": "https://play-lh.googleusercontent.com/EqUzO9SE6b-fMp5fRl7OUV-Vh_U0tteGZfKunPviUPsPo53xdsfK6mW0CnEiZz1H_lQ"
+  },
+  {
+    "appId": "com.eticadata.mobile",
+    "title": "E-Mobile eticadata",
+    "developer": "eticadata Software",
+    "free": false,
+    "price": null,
+    "summary": "Διασφαλίστε τον έλεγχο της επιχείρησής σας με εμπιστοσύνη οπουδήποτε στον κόσμο",
+    "icon": "https://play-lh.googleusercontent.com/ZAbZon0ByNq9HYWKxy6uPuMJyRKp4PBfYZcsH7oVbH_mfa_w5aftWvvihVOc0uaCCsg"
+  },
+  {
+    "appId": "com.msorg.mydataappng",
+    "title": "MyDataappNG | Data & Airtime",
+    "developer": "pheebzdev",
+    "free": false,
+    "price": null,
+    "summary": "Μείνετε ενεργοί στο διαδίκτυο πάντα σε προσιτή τιμή στο My Dataapp NG.",
+    "icon": "https://play-lh.googleusercontent.com/_9SUPn6GkMPoZ2729CJuNP59Rn_Oz0HSvaLVMy9ISY8ixMW-JbY2GFjkswcPgP-YxavBcEHJmk6UW_rJ4XenFQ"
+  },
+  {
+    "appId": "com.mydataxapp",
+    "title": "MYDATAAPP",
+    "developer": "GomTech Solutions",
+    "free": false,
+    "price": null,
+    "summary": "Εφαρμογή VTU \"όλα σε ένα\" για δεδομένα, χρόνο ομιλίας, καλωδιακή τηλεόραση και λογαριασμούς ηλεκτρικού ρεύματος.",
+    "icon": "https://play-lh.googleusercontent.com/za47L92y4rfiPPI0zY46_dDwIJlEDi29QeAe_mwPP1zPnajoYF8BkAaFEOI0pbmOtPaBCpq8HGnUGhtyqBfO6g"
+  }
+]

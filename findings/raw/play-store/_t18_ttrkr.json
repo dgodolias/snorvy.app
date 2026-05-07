@@ -1,0 +1,18 @@
+{
+  "app": "com.mhhijab.tutoring_tracker",
+  "country": "us",
+  "total_pulled": 1,
+  "total_after_filter": 1,
+  "reviews": [
+    {
+      "date": "2025-10-18T05:10:36.435Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Aaliyah Campbell",
+      "text": "Very easy to use and helps keep track of students and money earned. Hassle free and worth the download. My only wish is if I could put the times for lessons on the calendar as appointments and be able to set an appointment for the upcoming month.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.mhhijab.tutoring_tracker&reviewId=6eb43811-9587-48f0-9548-678af50af575"
+    }
+  ]
+}

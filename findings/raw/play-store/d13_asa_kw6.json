@@ -1,0 +1,147 @@
+[
+  {
+    "appId": "com.myaadeapp",
+    "title": "myAADEapp",
+    "developer": "Ανεξάρτητη Αρχή Δημοσίων Εσόδων",
+    "score": 4.02439,
+    "scoreText": "4,0",
+    "free": false,
+    "price": null,
+    "summary": "Οι ψηφιακές υπηρεσίες της Ανεξάρτητης Αρχής Δημοσίων Εσόδων στο κινητό σας",
+    "icon": "https://play-lh.googleusercontent.com/3jXA4LlWV3FxvYA9HUoAYpJX8V4Ly-bztxkc06y_aL4eFVw4Hmw7FJJn7yl-VKSnlI0"
+  },
+  {
+    "appId": "org.aad.aadlearn",
+    "title": "AAD Learn",
+    "developer": "American Academy of Dermatology",
+    "free": false,
+    "price": null,
+    "summary": "Πάρτε τη μάθησή σας εν κινήσει!",
+    "icon": "https://play-lh.googleusercontent.com/JMtvnQwte6uONswHpwN6ExajnDDywgEf76C9luqQ3PT6AHCwbxRuZfY-jPHCx6fLdg"
+  },
+  {
+    "appId": "org.aad.meetingapp",
+    "title": "AAD 2026 Annual Meeting",
+    "developer": "American Academy of Dermatology",
+    "free": false,
+    "price": null,
+    "summary": "Εφαρμογή συνεδρίου για την ετήσια συνάντηση AAD 2026 στο Ντένβερ, Κολοράντο",
+    "icon": "https://play-lh.googleusercontent.com/d5IdW7RAFAATsw6Hm0z8jj5yJolXjQbwiXdGvwWff83ZjHNyXXqqIn_8qzrDm2gU-cDwVei5Y3O6gglVqzvL1Yc"
+  },
+  {
+    "appId": "com.ezead.app",
+    "title": "EzeAd: Buy and sell local",
+    "developer": "Ezead Media Group",
+    "free": false,
+    "price": null,
+    "summary": "Αγοράστε, πουλήστε και συνδεθείτε στον Καναδά και παγκοσμίως—Το EzeAD είναι η πιο έξυπνη αγορά σας!",
+    "icon": "https://play-lh.googleusercontent.com/sRd87jZgTDEgEnG-a6K7H7U-enO_lDCaYEnkqOWwQS3JYJgH2X6KnRfeYIko_5tbkiA"
+  },
+  {
+    "appId": "com.aetn.aetv.watch",
+    "title": "A&E: TV Shows That Matter",
+    "developer": "A+E Global Media",
+    "free": false,
+    "price": null,
+    "summary": "Παρακολουθήστε τις αγαπημένες σας εκπομπές όπως 60 Days In, Hoarders, Cold Case Files και πολλά άλλα!",
+    "icon": "https://play-lh.googleusercontent.com/R8Bgl60N7sIT4-o7oIm3SnZRrddAlCyciIu3CncQU_jHZWrDq2TfsFP7_BGNEKPgqZw"
+  },
+  {
+    "appId": "com.adpub.app",
+    "title": "AdPub",
+    "developer": "AdPub",
+    "free": false,
+    "price": null,
+    "summary": "Συνδεθείτε τοπικά. Δημοσιεύστε την επιχείρησή σας. Ανακαλύψτε ευκαιρίες στην πόλη.",
+    "icon": "https://play-lh.googleusercontent.com/UW66yM-XezscOoxm1NPCSKYIg6hOU-3ItiBomHw1OKn8w7GO6nA2mf8k_LvcmstFFOqSMbZYxyKjNcYvPbQ_OR8"
+  },
+  {
+    "appId": "com.rewardgateway.mob_04_edenred",
+    "title": "Edenred Discounts",
+    "developer": "Reward Gateway",
+    "free": false,
+    "price": null,
+    "summary": "Πρόσβαση στις εκπτώσεις που αγαπάτε παρέχονται αποκλειστικά από τον εργοδότη σας.",
+    "icon": "https://play-lh.googleusercontent.com/hMqu3ovH9IDULZEZqPkB7eeRHaVI2OJKmW7abkQriKZrIQO-P1Z3yO8soZnH9v6s4wVx"
+  },
+  {
+    "appId": "com.englishdom.smartwords",
+    "title": "Англійська мова в ED Words",
+    "developer": "Allright Limited",
+    "score": 4.125,
+    "scoreText": "4,1",
+    "free": false,
+    "price": null,
+    "summary": "Μάθετε αγγλικές λέξεις δωρεάν στο ED Words. Απλώς κατεβάστε την εφαρμογή!",
+    "icon": "https://play-lh.googleusercontent.com/IHUD3zozLL_NXCTcQ2ZTZ4gMt56y6FkKuGdAUbLko1EhFiO-X6HGwVj2u3E8OwyIFgRJ"
+  },
+  {
+    "appId": "com.edenred.it.welfare",
+    "title": "Edenred Welfare",
+    "developer": "Edenred",
+    "free": false,
+    "price": null,
+    "summary": "Η εφαρμογή Edenred για τη διαχείριση της πίστωσης ευημερίας σας ανά πάσα στιγμή.",
+    "icon": "https://play-lh.googleusercontent.com/P3gZoZLIgWehQCoTcBI4eHahSqYbpeX92jZSApG-TwAsTIC-KD6kkpdNE7qbK4IJrBFzNt9IXt12ajlUGly6"
+  },
+  {
+    "appId": "com.aadyaa.app.android",
+    "title": "Aadyaa",
+    "developer": "Aadyaa",
+    "free": false,
+    "price": null,
+    "summary": "Εξερευνήστε τις διαχρονικές συλλογές ασημένιων κοσμημάτων της Aadyaa.",
+    "icon": "https://play-lh.googleusercontent.com/ZDS7OIsnByyj2PJXHWlBqd-YLvuNEyYOqR-46Wg97d-ikny6-pscA8kulCWIfPbYE1raObYONPqv_XR-tQM5a8c"
+  },
+  {
+    "appId": "com.adro.adroapp",
+    "title": "Adro",
+    "developer": "Adro",
+    "free": false,
+    "price": null,
+    "summary": "Τραπεζική για διεθνείς φοιτητές",
+    "icon": "https://play-lh.googleusercontent.com/QuNBbcXfaFnl-PTLZaQsiN1h2Dd2d9wKu2LJYmaff8lVs-rrb6MTpqHW5Cj0TFS-0Q"
+  },
+  {
+    "appId": "at.gv.oe.app",
+    "title": "ID Austria",
+    "developer": "SPRA (\"Source PIN Register Authority\")",
+    "score": 1.82,
+    "scoreText": "1,8",
+    "free": false,
+    "price": null,
+    "summary": "Η ID Austria είναι το κλειδί σας για διοικητικές και επιχειρηματικές υπηρεσίες.",
+    "icon": "https://play-lh.googleusercontent.com/b1ALO-Ula_WaEhmOwFYk3BkUqpkHlHGUy4q0qUlIQtkM0ZJ_A970rrmEKk2f4djZrard"
+  },
+  {
+    "appId": "com.ics.nl.icscards",
+    "title": "ICS Creditcard",
+    "developer": "International Card Services BV",
+    "score": 4.2222223,
+    "scoreText": "4,2",
+    "free": false,
+    "price": null,
+    "summary": "Πληροφορίες για τις δαπάνες της πιστωτικής σας κάρτας ICS παντού.",
+    "icon": "https://play-lh.googleusercontent.com/gIwINyREvtR6DHAcKBP7zT6Ay4wd9JjKdX8d8LL6AnsndY6Ayou_2nsD9XTlx5MBczQ"
+  },
+  {
+    "appId": "com.distilledmedia.adverts",
+    "title": "Adverts.ie Buy & Sell Nearby",
+    "developer": "Distilled",
+    "score": 4.5833335,
+    "scoreText": "4,6",
+    "free": false,
+    "price": null,
+    "summary": "Τοποθετήστε διαφημίσεις σε κίνηση με το διαφημιστικό πρόγραμμα Adverts.ie",
+    "icon": "https://play-lh.googleusercontent.com/MMvAweqTqIcaS1VQqBu2_i0Vl-1csMd65j7Fmv8SDowdPQfyMOTLItDO4NMf5LrpDus"
+  },
+  {
+    "appId": "com.app.altgraaf",
+    "title": "altGraaf",
+    "developer": "altGraaf - Texterity Private Limited",
+    "free": false,
+    "price": null,
+    "summary": "Επενδύσεις Premium Σταθερού Εισοδήματος",
+    "icon": "https://play-lh.googleusercontent.com/4hbIti4Q24U0I0lPfoe8-qUuuMPaHgqN-kAigwHwvnFrZJTPo5z4YxoJq1Jr2iDQXJbJ"
+  }
+]

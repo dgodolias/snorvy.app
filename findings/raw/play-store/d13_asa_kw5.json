@@ -1,0 +1,161 @@
+[
+  {
+    "appId": "gr.lomsoft.timologic",
+    "title": "Timologic Τιμολόγιο με myDATA",
+    "developer": "Timologic ηλεκτρονική τιμολόγηση",
+    "free": false,
+    "price": null,
+    "summary": "Εφαρμογή τιμολόγησης και τιμολόγηση με τιμολόγιο myDATA ΑΑΔΕ και πελατολόγιο",
+    "icon": "https://play-lh.googleusercontent.com/XivD94kAtiXSU4LrTBCO6RkNX9R6LDGagf9NvTqH5iLtVckO8j-kboYYaf3f2YF7QXE"
+  },
+  {
+    "appId": "com.ebay.mobile",
+    "title": "eBay online shopping & selling",
+    "developer": "eBay Mobile",
+    "score": 4.3710237,
+    "scoreText": "4,4",
+    "free": false,
+    "price": null,
+    "summary": "Η ζωή είναι πιο εύκολη στην εφαρμογή eBay—αγοράστε και πουλήστε εκατομμύρια αντικείμενα εν κινήσει!",
+    "icon": "https://play-lh.googleusercontent.com/31-mJUIynIfQBizOn-w1yWLKHBxVeRKA3gz348_E3K-TnuEaqCjn_-Fr9j0yQ6i0y5E"
+  },
+  {
+    "appId": "us.zoom.videomeetings",
+    "title": "Zoom Workplace",
+    "developer": "zoom.com",
+    "score": 3.9315069,
+    "scoreText": "3,9",
+    "free": false,
+    "price": null,
+    "summary": "Συναντήσεις, συνομιλία, τηλέφωνο, έγγραφα με τεχνητή νοημοσύνη — όλα σε μία εφαρμογή",
+    "icon": "https://play-lh.googleusercontent.com/yZsmiNjmji3ZoOuLthoVvptLB9cZ0vCmitcky4OUXNcEFV3IEQkrBD2uu5kuWRF5_ERA"
+  },
+  {
+    "appId": "fr.vinted",
+    "title": "Vinted: Αγόρασε και πούλησε",
+    "developer": "Vinted",
+    "score": 4.6110168,
+    "scoreText": "4,6",
+    "free": false,
+    "price": null,
+    "summary": "Γίνε ένα από τα εκατομμύρια μέλη που αγοράζουν και πουλούν μεταχειρισμένα είδη.",
+    "icon": "https://play-lh.googleusercontent.com/Hs8pq7sF8ihEfencKzLZZh7w6A4jDF5CsALfnccHffE3P6rccKXULHXsdi6QrwuayDI"
+  },
+  {
+    "appId": "com.shopify.mobile",
+    "title": "Shopify: Sell online/in person",
+    "developer": "Shopify Inc.",
+    "score": 3.9130435,
+    "scoreText": "3,9",
+    "free": false,
+    "price": null,
+    "summary": "Δημιουργήστε ένα κατάστημα μέσα σε λίγα λεπτά με την πλήρη σουίτα εργαλείων AI. Ξεκινήστε δωρεάν!",
+    "icon": "https://play-lh.googleusercontent.com/PLiiyY4mk3jTy7XxZj9FGvztn12qdefPWJtxDfpBCvPUt4PBdhdjiQPJ5EbgeAZZLw"
+  },
+  {
+    "appId": "com.mercadolibre",
+    "title": "Mercado Libre",
+    "developer": "Mercado Libre",
+    "score": 4.7647057,
+    "scoreText": "4,8",
+    "free": false,
+    "price": null,
+    "summary": "Κάντε την πρώτη σας αγορά και επωφεληθείτε από δωρεάν μεταφορικά!",
+    "icon": "https://play-lh.googleusercontent.com/iVaeA0HDw8CZjEM-K7GdLB9XYmpcwVFSuv4Q8o9uh4Br7PuKCm3QSYCVU73tr9BBXdR_7xTX4yO0azOJegRVcA"
+  },
+  {
+    "appId": "com.mercariapp.mercari",
+    "title": "Mercari: Buy and Sell App",
+    "developer": "Mercari, Inc",
+    "score": 4.8,
+    "scoreText": "4,8",
+    "free": false,
+    "price": null,
+    "summary": "Αγοράστε τα πιο πρόσφατα είδη και μοναδικά μεταχειρισμένα προϊόντα. Πουλήστε αγαπημένα αντικείμενα και κερδίστε χρήματα.",
+    "icon": "https://play-lh.googleusercontent.com/ElmnPT-8uATrhPiDNr6JWFTCwmnggzCwvf6BDArReURCQM2NUkZEW2twQ-HtWq1ZGe0"
+  },
+  {
+    "appId": "com.dhgate.buyermob",
+    "title": "DHgate-online wholesale stores",
+    "developer": "dhgate.com",
+    "score": 3.7986853,
+    "scoreText": "3,8",
+    "free": false,
+    "price": null,
+    "summary": "χονδρικά καταστήματα",
+    "icon": "https://play-lh.googleusercontent.com/Ntq5iA6pIsZWBH_R8rwznZOfp8S8pIhLrRwuK96oMygT2BvAEYp8UpORpykl6lqNRxG0DdydFwU4e71eQn1v4A"
+  },
+  {
+    "appId": "io.elevenlabs.readerapp",
+    "title": "ElevenReader: Διαβάστε δυνατά",
+    "developer": "Eleven Labs Inc",
+    "score": 4.216981,
+    "scoreText": "4,2",
+    "free": false,
+    "price": null,
+    "summary": "Διαβάστε δυνατά ηλεκτρονικά βιβλία, ηχητικά βιβλία, PDF ή κείμενο σε ομιλία",
+    "icon": "https://play-lh.googleusercontent.com/R4bP5TSYTpGcfNGaho7YuR2y6sxyDJeZJO9wj5seVz1j_aJ5xpAbozVwU7Ib9XHae3k"
+  },
+  {
+    "appId": "com.daraz.android",
+    "title": "Daraz Online Shopping App",
+    "developer": "Daraz Mobile",
+    "score": 4.4055557,
+    "scoreText": "4,4",
+    "free": false,
+    "price": null,
+    "summary": "Εξερευνήστε, Ανακαλύψτε, Αγορά.",
+    "icon": "https://play-lh.googleusercontent.com/QoiGnvynjBjtraueo9bqoSceqfJb6oMRmHl4qMd3D6qXzb5egnqS2HPmSVK0eSoUQIQ"
+  },
+  {
+    "appId": "com.invoice2go.invoice2goplus",
+    "title": "Invoice2go: Easy Invoice Maker",
+    "developer": "Invoice2Go",
+    "score": 4.08,
+    "scoreText": "4,1",
+    "free": false,
+    "price": null,
+    "summary": "Όλα σε ένα εργαλείο για τη λειτουργία της επιχείρησής σας: τιμολόγηση, πληρωμές, αναφορές και πολλά άλλα.",
+    "icon": "https://play-lh.googleusercontent.com/wTVEc4WC6-xljr16oShzZ2wywnCtQhElIAjSlzv32QrdPHTCqAEk9K_hzGr-qg0XkJw"
+  },
+  {
+    "appId": "com.handylibrary.main",
+    "title": "Handy Library-Οργάνωση Βιβλίων",
+    "developer": "Bookshare Co., Ltd",
+    "score": 3.98,
+    "scoreText": "4,0",
+    "free": false,
+    "price": null,
+    "summary": "Οργανώστε και καταλογογραφήστε τις συλλογές βιβλίων σας.",
+    "icon": "https://play-lh.googleusercontent.com/aMXlF4iSPm9c2vtxBH7i3sb0ii_9A0E578w0W8LJMyrbcvaMSb3_RjixGhdgWR66I1s"
+  },
+  {
+    "appId": "net.billin.app",
+    "title": "Presupuestos y facturas Billin",
+    "developer": "My Expenses S.L",
+    "free": false,
+    "price": null,
+    "summary": "Εφαρμογή για τη δημιουργία τιμολογίων, προϋπολογισμών, αποδείξεων αγορών, σημειώσεων παράδοσης και εξόδων μεταφόρτωσης",
+    "icon": "https://play-lh.googleusercontent.com/FSym4UHYrAiDR0L-4V0HIK8zSzPUG8TeKRBtRYCar2Koh1Ocud_m_YNxYboG9KeTpIOz2G_djsy6DThDQh-xTw"
+  },
+  {
+    "appId": "com.bravo.printer",
+    "title": "Printer App & Document Scanner",
+    "developer": "FIRE Ltd",
+    "score": 4.3960395,
+    "scoreText": "4,4",
+    "free": false,
+    "price": null,
+    "summary": "Συνδεθείτε με εκτυπωτή και εκτυπώστε γρήγορα PDF και φωτογραφίες απευθείας από το τηλέφωνό σας",
+    "icon": "https://play-lh.googleusercontent.com/D49U-lX3AxaIZSYZIWVb5kyaEx-Mf-ukpcus6UrKTPVuQrv1uS-oZzk9Q7iDvmXnRU7qJfmHFa8kvGslGM9nc6k"
+  },
+  {
+    "appId": "com.onlinelr.online_lr",
+    "title": "Online LR Transport LR / Bilty",
+    "developer": "ONLINELR : APP FOR TRANSPORTER, DRIVER & COMPANY",
+    "free": false,
+    "price": null,
+    "summary": "TMS : ΤΙΜΟΛΟΓΙΟ, ΑΠΟΔΕΙΞΗ ΠΑΡΑΔΟΣΗΣ, ΠΡΟΣΦΟΡΑ, ΠΑΡΑΚΟΛΟΥΘΗΣΗ ΕΜΠΟΡΕΥΜΑΤΩΝ, ΣΗΜΕΙΩΣΗ, Καθολικό Μεταφορών",
+    "icon": "https://play-lh.googleusercontent.com/KAFh3yF12Z7FwBDNTCo_zoDSveSDjPbqT55zemSzD3WFKvVGgzhX9dMAO0OrmQrAhxE"
+  }
+]

@@ -1,0 +1,306 @@
+[
+  {
+    "appId": "com.viettel.mydata",
+    "title": "MyData",
+    "developer": "VIETTEL TELECOM",
+    "free": false,
+    "price": null,
+    "summary": "Η MyData είναι ο επίσημος πάροχος δεδομένων της Viettel Telecom.",
+    "icon": "https://play-lh.googleusercontent.com/SGNy6S5a5wUkdB7TwWfWvKj_HCFEmFOrf3r38Gb6gVjN-vmdnAaO5GGJEEWQItYsAYw"
+  },
+  {
+    "appId": "com.mydataservice.app",
+    "title": "mydata",
+    "developer": "Shicaar",
+    "free": false,
+    "price": null,
+    "summary": "Mobile Data Manager",
+    "icon": "https://play-lh.googleusercontent.com/nKSm0UxDEqmwubb91C7tAf5B82MpTFpPRaDV4fIu_phRaxVZqobAa3vTDYkR3nRIVw"
+  },
+  {
+    "appId": "pt.janz.mydata.MyDataMobile",
+    "title": "MyData Mobile",
+    "developer": "IT Janz",
+    "free": false,
+    "price": null,
+    "summary": "Εργαλείο συλλογής WMBus",
+    "icon": "https://play-lh.googleusercontent.com/m_BBBc4ciLkc5CFt3hnuzEeNjZU9neG1zP8bFAkrjXw-zhFC4I4hWYTarHvmVUZ7OGs"
+  },
+  {
+    "appId": "gr.aade.mydataapp",
+    "title": "myDATAapp",
+    "developer": "Ανεξάρτητη Αρχή Δημοσίων Εσόδων",
+    "score": 0,
+    "scoreText": "0,0",
+    "free": false,
+    "price": null,
+    "summary": "myDATAapp είναι η εφαρμογή της ΑΑΔΕ για έκδοση παραστατικών",
+    "icon": "https://play-lh.googleusercontent.com/Ar34aNh2ik_nDvK6IKld0wrMKgPJsfkDDXmi4rnxXQaBir8SblyWCL6tpcmEsTlOTug"
+  },
+  {
+    "appId": "com.jvn.mydata",
+    "title": "My Data",
+    "developer": "Venu Nagarajan J",
+    "free": false,
+    "price": null,
+    "summary": "Για να αποθηκεύσετε τα προσωπικά σας δεδομένα με ασφάλεια στο κινητό σας.",
+    "icon": "https://play-lh.googleusercontent.com/3qfobILh8fPSxVy0za1RVgLYuES5TvapKCfjbMIu-tX512pI_79iHP6H9IQB7lUFhc0"
+  },
+  {
+    "appId": "com.mobidia.android.mdm",
+    "title": "My Data Manager: Data Usage",
+    "developer": "ST Advanced",
+    "score": 4.556962,
+    "scoreText": "4,6",
+    "free": false,
+    "price": null,
+    "summary": "Διαχειριστείτε τα δεδομένα του κινητού σας παρακολουθώντας τη χρήση των δεδομένων σας για να αποφύγετε επιπλέον χρεώσεις",
+    "icon": "https://play-lh.googleusercontent.com/mzKqF-kuMOrcF3JRYoKuIqTQjXAG1sXvxRCQKPnr0sSvDfK8S_8ui3FBOurmNxnmbXA"
+  },
+  {
+    "appId": "com.mediamushroom.copymydata",
+    "title": "Copy My Data: Transfer Content",
+    "developer": "Red Sky Labs",
+    "score": 3.7484472,
+    "scoreText": "3,7",
+    "free": false,
+    "price": null,
+    "summary": "Αντιγραφή των δεδομένων μου - Wifi μεταφορά δεδομένων, μεταφορά και εναλλαγή περιεχομένου σε άλλο έξυπνο τηλέφωνο",
+    "icon": "https://play-lh.googleusercontent.com/4b2igJrN9Lg7fPH6C1ZnmHYuMVz7KMawSxXF2FclBKXp39xincSizX1Hf1xx_RREA_Pp"
+  },
+  {
+    "appId": "com.mdsol.titan",
+    "title": "myMedidata",
+    "developer": "Medidata Solutions",
+    "free": false,
+    "price": null,
+    "summary": "Η εφαρμογή για κινητά myMedidata παρέχει έναν ενιαίο, βολικό προορισμό για τους ασθενείς",
+    "icon": "https://play-lh.googleusercontent.com/ac1IFVuD42D42ksUqFq3ajALB9G_ytYcHWB6ZHxglft4ZZYS4KyCQOMR806hav-1iA"
+  },
+  {
+    "appId": "pt.janz.mobile.mywater",
+    "title": "MyData Add.on",
+    "developer": "IT Janz",
+    "free": false,
+    "price": null,
+    "summary": "Εργαλείο προγραμματισμού για το Janz MyWater V2 Multiprotocol (WMBus και LoRaWAN)",
+    "icon": "https://play-lh.googleusercontent.com/Uvimq-A2vCGlE79W0TiYFwbAg-hRKF6VLelhFQTEl-R2CE6XBNhl32TibHbOnuxwQHg"
+  },
+  {
+    "appId": "pt.janz.mydata.smartio",
+    "title": "MyData SmartIO",
+    "developer": "IT Janz",
+    "free": false,
+    "price": null,
+    "summary": "Εργαλείο προγραμματισμού Janz SmartIO",
+    "icon": "https://play-lh.googleusercontent.com/dwmfYsEhtefSHUcmu-POlasGLHE4JS9P0Ota3U6q4apQEHA75P-OkCIxhVX_tXu3oA"
+  },
+  {
+    "appId": "epic.mychart.android",
+    "title": "MyChart",
+    "developer": "Epic Systems Corporation",
+    "score": 3.8666666,
+    "scoreText": "3,9",
+    "free": false,
+    "price": null,
+    "summary": "MyChart για το Android",
+    "icon": "https://play-lh.googleusercontent.com/YPtBGr6THchfNi4KIo9P4A5TePEia_daTtMtsqwsURjYqngsLCRV1-NUah09z0kcBXs"
+  },
+  {
+    "appId": "com.king.candycrushsaga",
+    "title": "Candy Crush Saga",
+    "developer": "King",
+    "score": 4.439584,
+    "scoreText": "4,4",
+    "free": false,
+    "price": null,
+    "summary": "Erlebe köstliche Rätsel, exklusive Events &amp; Spaß in jedem Match-3-Level!",
+    "icon": "https://play-lh.googleusercontent.com/Q10LxJWSXBIu0pf5uBgQF2YWajnDeGN982E_HxHs7QjchO7NKq5z2IQN3HtGe_LqvQ"
+  },
+  {
+    "appId": "com.king.candycrushsodasaga",
+    "title": "Candy Crush Soda Saga",
+    "developer": "King",
+    "score": 4.3348207,
+    "scoreText": "4,3",
+    "free": false,
+    "price": null,
+    "summary": "Spiele 3-Gewinnt-Puzzles: Kombiniere Bonbons &amp; knacke spritzige Puzzle-Levels !",
+    "icon": "https://play-lh.googleusercontent.com/0wyrqM1rt2j9CjetDxlpaQH1VGIoHDI9-iNKKhyrGty6ttAtdHVvHlkMA4lGEukqGY4q"
+  },
+  {
+    "appId": "backupandroid.mydata.dk",
+    "title": "MyData Protection",
+    "developer": "MYDATA",
+    "score": 0,
+    "scoreText": "0,0",
+    "free": false,
+    "price": null,
+    "summary": "Ασφαλίστε τα δεδομένα σας σε όλες τις συσκευές.",
+    "icon": "https://play-lh.googleusercontent.com/Acg5aPY5UOAfZutSMwgSCJdjRVAxlM9VdS8iT633-wNA4Fp90ZvB3fKifLGQ2s8l8XA"
+  },
+  {
+    "appId": "com.king.farmheroessaga",
+    "title": "Farm Heroes Saga",
+    "developer": "King",
+    "score": 4.4014273,
+    "scoreText": "4,4",
+    "free": false,
+    "price": null,
+    "summary": "Rette den Hof vor Waschbär Widerlich in spannenden Match-3 Bauernhof-Missionen!",
+    "icon": "https://play-lh.googleusercontent.com/XtoUFtLtLM-_HsTw89vFw8NoVhEuhqDr4pgez8H9MUG7-vVTUhZHtKIrXNgXsgs1NZk"
+  },
+  {
+    "appId": "pt.janz.mydata.MyDataEREG",
+    "title": "MyData eREG",
+    "developer": "IT Janz",
+    "free": false,
+    "price": null,
+    "summary": "Εργαλείο προγραμματισμού Janz eREGISTER",
+    "icon": "https://play-lh.googleusercontent.com/OFZIhIB2f-S4xXzh_k3Vk70ogOdohMhYEvmq1VVSlSP3p684W5XaXkT7U_5Mz_IXzyW8"
+  },
+  {
+    "appId": "com.todoist",
+    "title": "Todoist: To Do List & Calendar",
+    "developer": "Doist Inc.",
+    "score": 4.4029512,
+    "scoreText": "4,4",
+    "free": false,
+    "price": null,
+    "summary": "Οργανώστε εργασίες, καταγράψτε ιδέες φωνητικά και διατηρήστε την ομαδική εργασία σας στο ίδιο επίπεδο.",
+    "icon": "https://play-lh.googleusercontent.com/GK0SwEBVqlFBpRkPjY6y_1go6E6xZzAN0Ivzfgbuf28J4TTOoOsgWnqR4oJ_RhIhsg"
+  },
+  {
+    "appId": "miroute.cardata.consultants",
+    "title": "Cardata Mobile",
+    "developer": "Cardata",
+    "free": false,
+    "price": null,
+    "summary": "Αυτόματη χιλιομετρική παρακολούθηση και διαδρομή GPS - οποτεδήποτε, οπουδήποτε",
+    "icon": "https://play-lh.googleusercontent.com/EqUzO9SE6b-fMp5fRl7OUV-Vh_U0tteGZfKunPviUPsPo53xdsfK6mW0CnEiZz1H_lQ"
+  },
+  {
+    "appId": "com.ktappsngames.mydatamanager",
+    "title": "My Data Manager",
+    "developer": "KT Apps & Games",
+    "free": false,
+    "price": null,
+    "summary": "Παρακολουθήστε τα προγράμματα δεδομένων κινητής τηλεφωνίας, τη χρήση και τη λήξη τους με έξυπνες ειδοποιήσεις.",
+    "icon": "https://play-lh.googleusercontent.com/w24SsG3gbM0n--LJjewftns8-SazUe4NHaAa5Vuhu60WN4-fhOx0-FZ47UVXgDQVPwnhacreM1ILjIcy4XC8Gxg"
+  },
+  {
+    "appId": "com.avg.cleaner",
+    "title": "AVG Cleaner – Καθαρισμός",
+    "developer": "AVG Mobile",
+    "score": 4.554824,
+    "scoreText": "4,6",
+    "free": false,
+    "price": null,
+    "summary": "Καθαρισμός χώρου αποθήκευσης: Διαγράψτε άχρηστα στοιχεία και κερδίστε χώρο.",
+    "icon": "https://play-lh.googleusercontent.com/VZzSahi-0J5xcLY7ljLEnmP9t3PFqXrS0Sp1J8OcE9Xw-KQ4NPSjiVXlPhf-pHVAUpY"
+  },
+  {
+    "appId": "com.mydataxapp",
+    "title": "MYDATAAPP",
+    "developer": "GomTech Solutions",
+    "free": false,
+    "price": null,
+    "summary": "Εφαρμογή VTU \"όλα σε ένα\" για δεδομένα, χρόνο ομιλίας, καλωδιακή τηλεόραση και λογαριασμούς ηλεκτρικού ρεύματος.",
+    "icon": "https://play-lh.googleusercontent.com/za47L92y4rfiPPI0zY46_dDwIJlEDi29QeAe_mwPP1zPnajoYF8BkAaFEOI0pbmOtPaBCpq8HGnUGhtyqBfO6g"
+  },
+  {
+    "appId": "com.king.bubblewitch3",
+    "title": "Bubble Witch 3 Saga",
+    "developer": "King",
+    "score": 4.5535865,
+    "scoreText": "4,6",
+    "free": false,
+    "price": null,
+    "summary": "Λάβετε μέρος στο έπος του bubble shooter! Βοηθήστε τη Στέλλα να σκάσει τις φυσαλίδες και τις κουκουβάγιες διάσωσης!",
+    "icon": "https://play-lh.googleusercontent.com/0G0GOM5B7xXuWU_A38iGjrWiQD9E0wB9KobpKHUJowU4EBdfw62IoKqj3XmiXeq2BA"
+  },
+  {
+    "appId": "com.king.blossomblast",
+    "title": "Blossom Blast Saga",
+    "developer": "King",
+    "score": 4.047059,
+    "scoreText": "4,0",
+    "free": false,
+    "price": null,
+    "summary": "Grow ένα πολύχρωμο κήπο σε αυτό το αγώνα 3 παιχνίδι λουλούδι! Σύνδεσμος μπουμπούκια και τους κάνει να ανθίσουν!",
+    "icon": "https://play-lh.googleusercontent.com/_rRsidWlPPfMk8ObFcphrtAJH9O73Hcywc_u3gsLzX6Jj0SOzDK-hgUsHvH3GfXsEPk"
+  },
+  {
+    "appId": "com.msorg.mydataappng",
+    "title": "MyDataappNG | Data & Airtime",
+    "developer": "pheebzdev",
+    "free": false,
+    "price": null,
+    "summary": "Μείνετε ενεργοί στο διαδίκτυο πάντα σε προσιτή τιμή στο My Dataapp NG.",
+    "icon": "https://play-lh.googleusercontent.com/_9SUPn6GkMPoZ2729CJuNP59Rn_Oz0HSvaLVMy9ISY8ixMW-JbY2GFjkswcPgP-YxavBcEHJmk6UW_rJ4XenFQ"
+  },
+  {
+    "appId": "com.midasplayer.apps.bubblewitchsaga2",
+    "title": "Bubble Witch 2 Saga",
+    "developer": "King",
+    "score": 4.3437715,
+    "scoreText": "4,3",
+    "free": false,
+    "price": null,
+    "summary": "Είναι Bubble γερός Magic",
+    "icon": "https://play-lh.googleusercontent.com/A9aelFQv4TeMBVP8knlb3pj-P_lrnb11SAKLwRLMN8lQk1-M63gwDcIy677_zNR3R60"
+  },
+  {
+    "appId": "com.king.apps.candysolitaire",
+    "title": "Candy Crush Solitaire",
+    "developer": "King",
+    "score": 4.428571,
+    "scoreText": "4,4",
+    "free": false,
+    "price": null,
+    "summary": "Genieße das süße Solitär-Kartenspiel und fülle dein Album mit Postkarten!",
+    "icon": "https://play-lh.googleusercontent.com/qtqdpgtx_bMYd0eYmPqR-KDmBFHgnQs9VdClf32k83w-pqT9cj8yxoJctTECAbrAeeI"
+  },
+  {
+    "appId": "com.king.farmheroessupersaga",
+    "title": "Farm Heroes Super Saga",
+    "developer": "King",
+    "score": 4.445309,
+    "scoreText": "4,4",
+    "free": false,
+    "price": null,
+    "summary": "Match 3 για να μεγαλώσουν και συγκομιδή Cropsies σε αυτό το διασκεδαστικό πρόκληση Switcher παιχνίδι παζλ!",
+    "icon": "https://play-lh.googleusercontent.com/LSDsAC4xfi1MiBzpVEc3ei4TuGG-s7WXfqcgEPSA2Ec9qANuxr6mgXjFEXDK6xWOSZ0"
+  },
+  {
+    "appId": "com.careevolution.mydatahelps",
+    "title": "MyDataHelps",
+    "developer": "CareEvolution",
+    "score": 0,
+    "scoreText": "0,0",
+    "free": false,
+    "price": null,
+    "summary": "Συνήγορος για την υγεία σας",
+    "icon": "https://play-lh.googleusercontent.com/SivFbQ_guvL8HYJ5cdozJmRbESO0TUHHvGGai700rFVSTUDiW_4oVDVljom1S0wEq3U"
+  },
+  {
+    "appId": "com.kalodata.kalodata_android",
+    "title": "Kalodata",
+    "developer": "Kalodata Team",
+    "free": false,
+    "price": null,
+    "summary": "Το καλύτερο εργαλείο για το TikTok Shop Analytics &amp; Insights",
+    "icon": "https://play-lh.googleusercontent.com/4M6qps6qr4HMgQFqVaE_r1PDZQgsvdLHUUaOVCaRpjc2TXAwJFOh2LVro1q2yig00hY"
+  },
+  {
+    "appId": "com.roysolberg.android.datacounter",
+    "title": "Data counter widget",
+    "developer": "FlavrApps",
+    "score": 3.88,
+    "scoreText": "3,9",
+    "free": false,
+    "price": null,
+    "summary": "Data counter widget είναι το μόνο που χρειάζεστε για παρακολούθηση δεδομένων🇬🇷",
+    "icon": "https://play-lh.googleusercontent.com/Feduh9pEde6JaCamrjnMCTsIGRTvnTFn9tGdvEjDJy4rF315LRU_TWWlhZHOroxPaYM"
+  }
+]

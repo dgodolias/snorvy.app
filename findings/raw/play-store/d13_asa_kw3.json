@@ -1,0 +1,153 @@
+[
+  {
+    "appId": "gr.lomsoft.timologic",
+    "title": "Timologic Τιμολόγιο με myDATA",
+    "developer": "Timologic ηλεκτρονική τιμολόγηση",
+    "free": false,
+    "price": null,
+    "summary": "Εφαρμογή τιμολόγησης και τιμολόγηση με τιμολόγιο myDATA ΑΑΔΕ και πελατολόγιο",
+    "icon": "https://play-lh.googleusercontent.com/XivD94kAtiXSU4LrTBCO6RkNX9R6LDGagf9NvTqH5iLtVckO8j-kboYYaf3f2YF7QXE"
+  },
+  {
+    "appId": "com.nimd.link_learn",
+    "title": "MyDemocracy School",
+    "developer": "NIMD",
+    "score": 0,
+    "scoreText": "0,0",
+    "free": false,
+    "price": null,
+    "summary": "Το MyDemocracy School είναι μια εφαρμογή για την παροχή πολιτικών γνώσεων και δεξιοτήτων.",
+    "icon": "https://play-lh.googleusercontent.com/al7oB1wYVpSmQQ9oBx4yIwT5ZhE-4WTciK6ZMF6SRsyt4SZX9lKMe8t-6kuqHZ8SaDU"
+  },
+  {
+    "appId": "com.timomobileapp",
+    "title": "TimO Mobile",
+    "developer": "TimO-Time Management Office GmbH",
+    "score": 4.19,
+    "scoreText": "4,2",
+    "free": false,
+    "price": null,
+    "summary": "Εφαρμογή για εγγραφή χρόνου, εγγραφή χρόνου έργου, ημερολόγιο, σύστημα εισιτηρίων, κόστος, ΜΜ",
+    "icon": "https://play-lh.googleusercontent.com/ML7HyQsrp1Yr4qf4OhtPYHuaJhHP132iL69WFXlqBqbVg-6oEpr5vkW-Lc1OHKCANw"
+  },
+  {
+    "appId": "com.ultimate.myth.rebirth",
+    "title": "Ultimate Myth: Idle RPG",
+    "developer": "Loongcheer Game",
+    "score": 4.45,
+    "scoreText": "4,4",
+    "free": false,
+    "price": null,
+    "summary": "Εξερευνήστε την αθάνατη περιπέτεια, απολαύστε το φανταστικό Overmortal Idle RPG.",
+    "icon": "https://play-lh.googleusercontent.com/SKfT98YmLKtwUgL9H4zRd9oF2e-Kjuo1Rq-pqCH0z-NUG8UGMFz9AT6n08m6XDE-tw"
+  },
+  {
+    "appId": "br.com.webcoregames.timogame",
+    "title": "Timo - Adventure Puzzle Game",
+    "developer": "Webcore Games",
+    "score": 2.8181818,
+    "scoreText": "2,8",
+    "free": false,
+    "price": null,
+    "summary": "Γυρίστε στο ταξίδι του Τίμο ταξιδεύοντας με φανταστικά βιβλία σε αυτή την περιπέτεια",
+    "icon": "https://play-lh.googleusercontent.com/pTSdNlJLZER2LmicMoQpKknK5d0c0uhN23jN86ny9x9oOwG9YeSgmDvjZb2LD1_HMg"
+  },
+  {
+    "appId": "it.tim.trusttechnologies.tim_pec",
+    "title": "TIM PEC",
+    "developer": "Telecom Italia Trust Technologies S.r.l.",
+    "free": false,
+    "price": null,
+    "summary": "Απλοποιήστε τη διαχείριση των μηνυμάτων PEC σας. Από σήμερα στην αγαπημένη σας συσκευή!",
+    "icon": "https://play-lh.googleusercontent.com/Ke1EFGlztsxhlm2KB4-jL8twSEH0-9nYaMlj0H8pnSPEOaT-8pfCkqc81miBAhrl_q4"
+  },
+  {
+    "appId": "com.mstim",
+    "title": "MS tim",
+    "developer": "MS tim",
+    "free": false,
+    "price": null,
+    "summary": "Εφαρμογή σχεδιασμένη για ασθενείς που έχουν διαγνωστεί με σκλήρυνση κατά πλάκας",
+    "icon": "https://play-lh.googleusercontent.com/2MpWcgRsGAVAa5FYnmxK8pIji_-UJtkViRbHG-_aoQqEH5-3qdV0-GBIRvWhLFpTYQ"
+  },
+  {
+    "appId": "com.thermance",
+    "title": "MyThermance",
+    "developer": "Axenco",
+    "free": false,
+    "price": null,
+    "summary": "Έξυπνη διαχείριση σπιτιού",
+    "icon": "https://play-lh.googleusercontent.com/G8Q_OzGukerpIY7cZnJJxPtj4shqHvIbEGKShGWg1q7R_nEQpmbZqA1ae9-qZBMw8w"
+  },
+  {
+    "appId": "com.belkatechnologies.clockmaker",
+    "title": "Ωρολογοποιός - Amazing Match 3",
+    "developer": "BELKA GAMES",
+    "score": 4.653627,
+    "scoreText": "4,7",
+    "free": false,
+    "price": null,
+    "summary": "Μια φανταστική περιπέτεια σας περιμένει. Λύστε τις αποστολές και σώστε την πόλη.",
+    "icon": "https://play-lh.googleusercontent.com/q0U64vcAM9iUVcWaGdFmkbp2vqmfpmrMy6QW1EEzAg8ZnB4i9bpKzZucZU6nNiYO9Vgh5AaofPkcwZ9h1JsZNQ"
+  },
+  {
+    "appId": "com.otiom.release",
+    "title": "Otiom",
+    "developer": "Otiom A/S",
+    "score": 0,
+    "scoreText": "0,0",
+    "free": false,
+    "price": null,
+    "summary": "Το Otiom εξασφαλίζει γρήγορο και ακριβή εντοπισμό ατόμων με άνοια.",
+    "icon": "https://play-lh.googleusercontent.com/AcucdVZLjGAJ1bLTMboI8xPZY8tLsoRIWMPjeguWMOmoJIxbKW5jqxuZV4oc2o-NXtQ"
+  },
+  {
+    "appId": "com.moodle.mytimes",
+    "title": "Taylor's myTIMeS Mobile",
+    "developer": "Taylor's Education",
+    "free": false,
+    "price": null,
+    "summary": "Εφαρμογή myTIMeS του Πανεπιστημίου Taylor",
+    "icon": "https://play-lh.googleusercontent.com/2LpcY0AO2QEAueRzYU_dWObtp4Q6GGcnOTlpXbOPJ62rseiQc0DF4imlIG636HgOON7ODHHNy_d2dc7pSiZK"
+  },
+  {
+    "appId": "com.beesquare.almostahero",
+    "title": "Almost a Hero — Idle RPG",
+    "developer": "Deca_Games",
+    "score": 4.254867,
+    "scoreText": "4,3",
+    "free": false,
+    "price": null,
+    "summary": "Αναβαθμίστε την ομάδα σας σε ασταμάτητους πρωταθλητές σε αυτήν την περιπέτεια με κλικ!",
+    "icon": "https://play-lh.googleusercontent.com/3r0vOhm970sOsnmaajDA8QOCjg371PzJHI-FeYiNh5bWBkhx9lSCdsGvfRT-z3H00ic"
+  },
+  {
+    "appId": "com.codigames.idle.prison.empire.manager.tycoon",
+    "title": "Prison Empire Tycoon－Idle Game",
+    "developer": "Codigames",
+    "score": 4.1355124,
+    "scoreText": "4,1",
+    "free": false,
+    "price": null,
+    "summary": "Γίνετε φύλακας και διαχειριστείτε τις φυλακές Αποκαταστήστε τους prisioners για να βοηθήσετε την κοινωνία!",
+    "icon": "https://play-lh.googleusercontent.com/CGoy2_EwoXDA46Wcv4N-vK3sfG4cePfp-84sVBFXDidJEU_-x-Q7Ok9kKxTxRvsosSk"
+  },
+  {
+    "appId": "com.flytiger.okalarm",
+    "title": "OK Alarm: Holiday & Shift Work",
+    "developer": "Fly Tiger",
+    "free": false,
+    "price": null,
+    "summary": "Έξυπνο ξυπνητήρι για οποιοδήποτε πρόγραμμα — βάρδιες, αργίες και ετήσια ή μηνιαία συμβάντα.",
+    "icon": "https://play-lh.googleusercontent.com/BOVxKDSOw7rE1zP9IPTN2dGV-0LCmw69pVkfPTyT15YqE-qmPixnix5JYTHbtctnbOg"
+  },
+  {
+    "appId": "com.octime.my",
+    "title": "myOCTIME",
+    "developer": "OCTIME",
+    "free": false,
+    "price": null,
+    "summary": "Διαχείριση χρόνου OCTIME από το κινητό σας.",
+    "icon": "https://play-lh.googleusercontent.com/VvmtbljOt2Ib3IptPOnZeV0rxvmRQ1bxjpDbzcN2-BvXvWbM5-rc9Du8hDteDY-DYO5_"
+  }
+]

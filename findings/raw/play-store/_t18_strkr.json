@@ -1,0 +1,38 @@
+{
+  "app": "com.teacher.studentrackerapp",
+  "country": "us",
+  "total_pulled": 3,
+  "total_after_filter": 3,
+  "reviews": [
+    {
+      "date": "2025-07-18T02:30:38.341Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "Sanwar Hossain",
+      "text": "need call button",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.teacher.studentrackerapp&reviewId=8009c46e-9492-4d6a-9cf2-c6a3a7bbd1b8"
+    },
+    {
+      "date": "2025-03-26T12:47:06.416Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "Sritharan Anathakrishnar",
+      "text": "Excellent app, but student details no edit or delete",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.teacher.studentrackerapp&reviewId=1fa9e02b-1fee-441f-9eab-6c27a2d73e62"
+    },
+    {
+      "date": "2025-02-08T12:27:25.607Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "Jason M",
+      "text": "Would be nice if we weren't FORCED to use the father as the main parent. Some of my students no longer have a father. Others are orphans and don't have either parent. Changing this to \"parent/guardian\" would give the app more global diversity. Please don't make all of the fields a MANDATORY field. It may be something used in your country or situation - but almost NONE of these options apply in other countries. Overall, it looks promising, but needs more consideration for globalization.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.teacher.studentrackerapp&reviewId=fa751733-ba2c-4961-91fd-6f4c51b158a4"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "tick": 27,
+  "date": "2026-05-07",
+  "direction": "D13_Bloki",
+  "method": "tikwm.com /api/challenge/info + /api/feed/search (rate limit 1 req/sec)",
+  "note": "tiktok-search workspace primitives (hashtag.mjs) not present on this machine; queried Tikwm API directly via WebFetch per SKILL.md endpoint table",
+  "hashtags": [
+    {
+      "name": "mydata",
+      "view_count": 26303215,
+      "user_count": 1159,
+      "is_challenge": false,
+      "note": "Generic English term, mixed with non-Greek content"
+    },
+    {
+      "name": "λογιστης",
+      "view_count": 235877116,
+      "user_count": 3900,
+      "note": "GOLD: 235M views, 3,900 creators - massive Greek accounting audience"
+    },
+    {
+      "name": "λογιστικο",
+      "view_count": 274961,
+      "user_count": 30,
+      "note": "Niche, low volume - not a primary launch target"
+    },
+    {
+      "name": "φορολογια",
+      "view_count": 48891986,
+      "user_count": 1174,
+      "note": "GOLD: 49M views Greek taxation - strong adjacent audience"
+    },
+    {
+      "name": "ελευθεροςεπαγγελματιας",
+      "view_count": 2945815,
+      "user_count": 190,
+      "note": "STRONG: 3M views direct freelancer audience"
+    },
+    {
+      "name": "μπλοκακι",
+      "view_count": 154749,
+      "user_count": 18,
+      "note": "Low - users tend to use ελευθεροςεπαγγελματιας or λογιστης instead"
+    },
+    {
+      "name": "ελλαδα",
+      "view_count": 8065043744,
+      "user_count": 383843,
+      "note": "Country tag - 8B views (broad audience reach)"
+    },
+    {
+      "name": "freelancergreece",
+      "error": "Tikwm rate limit, not retrieved"
+    }
+  ],
+  "top_videos_mydata_logistis": [
+    {"title": "Ιστορίες μιας λογίστριας Μέρος 5 | My data", "views": 146305, "likes": 9446, "author": "ΙΛΙΑΝΑ"},
+    {"title": "ΗΡΕΜΗ ΕΙΜΑΙ! #λογιστης", "views": 202812, "likes": 3301, "author": "MVA Tax & Accounting"},
+    {"title": "Πότε θα σταματήσει αυτό; #myDATA #office", "views": 46879, "likes": 1269, "author": "Eleni Mousena"},
+    {"title": "MyData ή MyΚλάφτα; Προσοχή!", "views": 14337, "likes": 376, "author": "Alexandros Papachristou"},
+    {"title": "Μεγάλη αλλαγή στα δελτία αποστολής από το 2026", "views": 42742, "likes": 143, "author": "SitaropoulosTax"}
+  ],
+  "top_videos_freelancer_mplokaki": [
+    {"title": "#pov #ελευθεροσεπαγγελματιας #στην #ελλαδα", "views": 302518, "likes": 17933},
+    {"title": "Αν βγάζεις παραπάνω από 2000€/μήνα και είσαι ακόμα με μπλοκάκι...", "views": 142638, "likes": 1041},
+    {"title": "Οδηγός Ελεύθερου Επαγγελματία", "views": 56501, "likes": 599},
+    {"title": "Ποιος θεωρείται μπλοκάκιας και πώς φορολογείται;", "views": 11190, "likes": 208}
+  ],
+  "verdict": {
+    "organic_potential": "STRONG_YES",
+    "primary_hashtag_combo": "#λογιστης #φορολογια #ελευθεροςεπαγγελματιας #ελλαδα",
+    "secondary_hashtag": "#μπλοκακι (low absolute volume but exact-intent)",
+    "evidence": "Single videos hitting 200-300K views on these topics; 3,900+ active Greek accounting creators; 190+ self-employed-creator-base proves audience is monetizable and engaged",
+    "launch_strategy": "Pair with Greek accountants as creator partners for early UGC; demo videos showing 2-tap myDATA submission vs Epsilon Smart's multi-step flow",
+    "$0_cost_compatible": true
+  }
+}

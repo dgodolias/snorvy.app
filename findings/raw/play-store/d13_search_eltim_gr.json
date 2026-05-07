@@ -1,0 +1,320 @@
+[
+  {
+    "appId": "gr.lomsoft.timologic",
+    "title": "Timologic Τιμολόγιο με myDATA",
+    "developer": "Timologic ηλεκτρονική τιμολόγηση",
+    "free": false,
+    "price": null,
+    "summary": "Εφαρμογή τιμολόγησης και τιμολόγηση με τιμολόγιο myDATA ΑΑΔΕ και πελατολόγιο",
+    "icon": "https://play-lh.googleusercontent.com/XivD94kAtiXSU4LrTBCO6RkNX9R6LDGagf9NvTqH5iLtVckO8j-kboYYaf3f2YF7QXE"
+  },
+  {
+    "appId": "com.dmcodestudio.learnelectricalengineering",
+    "title": "Learn Electrical Engineering",
+    "developer": "DM Code Studio",
+    "score": 0,
+    "scoreText": "0,0",
+    "free": false,
+    "price": null,
+    "summary": "Μάθετε Ηλεκτρολόγος Μηχανικός σχετικά με τα βασικά του ηλεκτρισμού και πολλά άλλα.",
+    "icon": "https://play-lh.googleusercontent.com/Xumw2x-JB1Lj1keV4COiXxwf6w0FM8pXfTjQ3mArJ-AyxNO2j_ezQ7RfYn2LXY96rcc"
+  },
+  {
+    "appId": "vn.gov.gdt.tct.hddt",
+    "title": "Hóa Đơn Điện Tử TCT",
+    "developer": "Tổng cục Thuế",
+    "free": false,
+    "price": null,
+    "summary": "Αίτηση διαχείρισης Ηλεκτρονικών Τιμολογίων Γενικής Διεύθυνσης Φορολογίας",
+    "icon": "https://play-lh.googleusercontent.com/_c1UYjQc0brrsEzXeZrSyDjmlPR7RhByoTBkl7G5a9YwdUd0nY7oJfcnUl0U2sLF_3k"
+  },
+  {
+    "appId": "au.com.speedinvoice.android",
+    "title": "Τιμολόγιο και λογαριασμός",
+    "developer": "SpeedInvoice",
+    "score": 4.8317757,
+    "scoreText": "4,8",
+    "free": false,
+    "price": null,
+    "summary": "Τιμολόγιο και προσφορά από το τηλέφωνό σας.",
+    "icon": "https://play-lh.googleusercontent.com/kvx_9HIYbGnFXtOPWxxKKxP6f13wMg2t-0gubYrVG-4Q3vWz4tv-MWP5oU3JeYcqy4Bn"
+  },
+  {
+    "appId": "it.gov.agenziaentrate.fatturae",
+    "title": "FatturAE",
+    "developer": "Agenzia delle Entrate",
+    "free": false,
+    "price": null,
+    "summary": "τιμολόγια για τη διαχείριση της ΠΑ και του ιδιωτικού ψηφιακά",
+    "icon": "https://play-lh.googleusercontent.com/JruzTKgVTQ7uLYZlO7YKU_sOfh2yqDkg2TKfjfrC-BBC6eAvXmoHmYeQDXpXtc3Uqw"
+  },
+  {
+    "appId": "gr.aade.mydataapp",
+    "title": "myDATAapp",
+    "developer": "Ανεξάρτητη Αρχή Δημοσίων Εσόδων",
+    "score": 0,
+    "scoreText": "0,0",
+    "free": false,
+    "price": null,
+    "summary": "myDATAapp είναι η εφαρμογή της ΑΑΔΕ για έκδοση παραστατικών",
+    "icon": "https://play-lh.googleusercontent.com/Ar34aNh2ik_nDvK6IKld0wrMKgPJsfkDDXmi4rnxXQaBir8SblyWCL6tpcmEsTlOTug"
+  },
+  {
+    "appId": "com.invoicehome.invoicehome",
+    "title": "Invoice Maker by Invoice Home",
+    "developer": "Invoice Home Inc.",
+    "score": 4.390244,
+    "scoreText": "4,4",
+    "free": false,
+    "price": null,
+    "summary": "Δημιουργήστε, στείλτε και πληρώνεστε σε δευτερόλεπτα με επαγγελματικά πρότυπα τιμολογίων PDF.",
+    "icon": "https://play-lh.googleusercontent.com/JBR7gxevINZSEVLrcPVI_i2K_yvAyXuulodeTrZ3aV7YEdRREasrS4XrUa12v5VHBLM"
+  },
+  {
+    "appId": "com.aadhk.woinvoice",
+    "title": "Invoice Simple: Invoice Maker",
+    "developer": "Invoice Simple",
+    "score": 4.507576,
+    "scoreText": "4,5",
+    "free": false,
+    "price": null,
+    "summary": "Δημιουργήστε τιμολόγια, λογαριασμούς, αποδείξεις και εκτιμήσεις με το Invoice Generator &amp; Creator.",
+    "icon": "https://play-lh.googleusercontent.com/lm5SpiPX5imsqx-5LjChyMOEW9qN7EyoF_NIHnL2KsOlQragRvvaXLK8CLGX5GuJzQ"
+  },
+  {
+    "appId": "com.aadhk.time",
+    "title": "Timesheet: Ημερολόγιο εργασίας",
+    "developer": "aadhk",
+    "score": 4.638009,
+    "scoreText": "4,6",
+    "free": false,
+    "price": null,
+    "summary": "Εύκολη παρακολούθηση ωρών εργασίας, ποσό πληρωμής και δελτίο απασχόλησης",
+    "icon": "https://play-lh.googleusercontent.com/l1cJnMAnXXMMosCx0XQiJDusvveFoBidpuOTV_UqouoMamJ2MgKi27Yqc1oZHBgSB36t"
+  },
+  {
+    "appId": "com.aadhk.timesheet",
+    "title": "Work Log: Πρόγραμμα, Τιμολόγιο",
+    "developer": "WnO Time Tracker",
+    "score": 4.32,
+    "scoreText": "4,3",
+    "free": false,
+    "price": null,
+    "summary": "Σας επιτρέπει να καταγράφετε την σκληρή δουλειά με ευκολία",
+    "icon": "https://play-lh.googleusercontent.com/dxveyupFLtE4KjgHXYo0upsu64N8OFkGPYO2X1G11rhc9mPtoDfxOzDI2_Vm9eINVXXK"
+  },
+  {
+    "appId": "com.artmvstd.signDocuments",
+    "title": "Υπογραφή: PDF Editor",
+    "developer": "Artmvstd",
+    "score": 0,
+    "scoreText": "0,0",
+    "free": false,
+    "price": null,
+    "summary": "Υπογραφή, σάρωση και μετατροπή — από κινητό",
+    "icon": "https://play-lh.googleusercontent.com/HKEpJRrskLxL9jsNxhVSOOpRF7TZ8XdzkbAJKCn7YDi_GFb46CIMfKkDUIXhWhya-fQ"
+  },
+  {
+    "appId": "com.invoicemaker.code.line.dynamic.estimatemaker.app",
+    "title": "Invoice Maker - Quick Invoice",
+    "developer": "CodeLine Dynamics INC",
+    "free": false,
+    "price": null,
+    "summary": "Invoice Generator &amp; Creator – Easily make invoices, bills, receipts &amp; estimates!",
+    "icon": "https://play-lh.googleusercontent.com/TXesplJx20zKUmw5d8iC0WES9FhTNEgmbbusHOFvYOepPzdqJqzXIzdSathJkzXifg"
+  },
+  {
+    "appId": "io.elevenlabs.readerapp",
+    "title": "ElevenReader: Διαβάστε δυνατά",
+    "developer": "Eleven Labs Inc",
+    "score": 4.216981,
+    "scoreText": "4,2",
+    "free": false,
+    "price": null,
+    "summary": "Διαβάστε δυνατά ηλεκτρονικά βιβλία, ηχητικά βιβλία, PDF ή κείμενο σε ομιλία",
+    "icon": "https://play-lh.googleusercontent.com/R4bP5TSYTpGcfNGaho7YuR2y6sxyDJeZJO9wj5seVz1j_aJ5xpAbozVwU7Ib9XHae3k"
+  },
+  {
+    "appId": "com.alldocumentexplor.ade",
+    "title": "Εξερεύνηση όλων των εγγράφων",
+    "developer": "Adkins Studio",
+    "score": 4.11,
+    "scoreText": "4,1",
+    "free": false,
+    "price": null,
+    "summary": "Εμπειρία ανάγνωσης - Νυχτερινή λειτουργία για έγγραφα",
+    "icon": "https://play-lh.googleusercontent.com/xMyqYUG3opCsLCpbf7yEpqx_xsE6QYL67K68mX8JP0uodNeDbAuGmUq4A3zRrJDF7Uk"
+  },
+  {
+    "appId": "mmy.first.myapplication433",
+    "title": "Εγχειρίδιο ηλεκτρολόγου",
+    "developer": "SV APPS LTD",
+    "score": 4.7398844,
+    "scoreText": "4,7",
+    "free": false,
+    "price": null,
+    "summary": "«Εγχειρίδιο ηλεκτρολόγου» βοηθά να φρεσκάρετε τις γνώσεις σας για τον ηλεκτρισμό",
+    "icon": "https://play-lh.googleusercontent.com/wKMpO5YPRghTKYNlYNf322MT5la1nz8aihdL5tSbyDvDUBwjOAPQkRFAYR4qK-Ws"
+  },
+  {
+    "appId": "eg.gov.eta.einvoicing",
+    "title": "Egyptian eInvoicing",
+    "developer": "Tax Eta",
+    "free": false,
+    "price": null,
+    "summary": "Η εφαρμογή eInvoicing είναι η μόνη επίσημη εφαρμογή για κινητά της Αιγυπτιακής Φορολογικής Αρχής",
+    "icon": "https://play-lh.googleusercontent.com/rwF8LdsHc2YOqYt99wUhaO7hiMd1NLCUz6cHs3BrWxuFNphyXN4nAOBmzHql2rpBjw"
+  },
+  {
+    "appId": "hu.profession.app",
+    "title": "Profession.hu: Fast Job Search",
+    "developer": "Profession.hu",
+    "score": 4.2619047,
+    "scoreText": "4,3",
+    "free": false,
+    "price": null,
+    "summary": "Profession.hu: Εξερευνήστε 15.000+ θέσεις εργασίας και αποκτήστε τον επόμενο ρόλο σας με ευκολία!",
+    "icon": "https://play-lh.googleusercontent.com/O-l01GXv_YajlB69mvQlJx31fFpZ5lJEKr8gVDya-C9Y6K3X_uqrXbA9qLWcZ_VnPLg"
+  },
+  {
+    "appId": "ba.gov.fmt.eopc",
+    "title": "FMT FBiH Oil Info",
+    "developer": "Federalno ministarstvo trgovine",
+    "score": 4.2,
+    "scoreText": "4,2",
+    "free": false,
+    "price": null,
+    "summary": "Τιμές καυσίμων στην FBiH",
+    "icon": "https://play-lh.googleusercontent.com/g0RS19qBLghv4ymHsS9RYnJ_rW93Yc7eNi1yxwo-Gk-QU3byIzx5vRmt0gMp-_cKPj-y"
+  },
+  {
+    "appId": "cz.economia.app.hn",
+    "title": "HN",
+    "developer": "Economia a.s.",
+    "score": 0,
+    "scoreText": "0,0",
+    "free": false,
+    "price": null,
+    "summary": "Κινητή εφαρμογή της καθημερινής Hospodářské noviny",
+    "icon": "https://play-lh.googleusercontent.com/Y8nNPT_KMfG16x_OzMGIQdhda_uJPrDSVOqDd-y4_P6MBxOtA7Rr0it242bwjuq6jQ"
+  },
+  {
+    "appId": "com.mieore.app",
+    "title": "MieOre – Ore di Lavoro",
+    "developer": "xdline",
+    "free": false,
+    "price": null,
+    "summary": "Καταγράψτε ώρες, υπερωρίες και αργίες. Αναφορές σε PDF και Excel. Δεν απαιτείται συνδρομή.",
+    "icon": "https://play-lh.googleusercontent.com/B8IJGWd42BxlCULNbsM5IbAuyqawG-Fk8Rg1t8iNqZ87gxYZlhDhQYvPZFZIbOhyE12RAFdFS4y1DxA-T_n0"
+  },
+  {
+    "appId": "com.dertouristik.exim",
+    "title": "Exim",
+    "developer": "DER Touristik E-E",
+    "score": 4.2,
+    "scoreText": "4,2",
+    "free": false,
+    "price": null,
+    "summary": "Ολόκληρες οι διακοπές σας συσκευάζονται σε μία εφαρμογή.",
+    "icon": "https://play-lh.googleusercontent.com/VaiavlqnlqcAdBlmQlM3B6H3a64nge1V8Gdhz97p7pP3fDmrxmMM7MWyvDuXx_AOdw"
+  },
+  {
+    "appId": "pdf.sign.protect",
+    "title": "PDF Editor: PDF Fill & Sign",
+    "developer": "PDF Editor Lab: PDF Fill & Sign",
+    "score": 3.5544555,
+    "scoreText": "3,6",
+    "free": false,
+    "price": null,
+    "summary": "PDF Editor:PDF Fill &amp; Sign. Edit, fill, sign, and convert PDFs. Secure &amp; offline",
+    "icon": "https://play-lh.googleusercontent.com/wQmBsiTnZUtforN5z6bhUQkE8bwK8hFbAWvL5yHL5v6zwhLCGe-t88UjvkahraRus8A"
+  },
+  {
+    "appId": "com.eds.edsrbije",
+    "title": "ED Srbije",
+    "developer": "Elektrodistribucija Srbije",
+    "score": 3.4375,
+    "scoreText": "3,4",
+    "free": false,
+    "price": null,
+    "summary": "Η ED Serbia είναι η επίσημη εφαρμογή της Elektrodistribucija Srbije d.o.o. Βελιγράδιο",
+    "icon": "https://play-lh.googleusercontent.com/i4hUpklZxMCbNruXcpMltYkgpLOYA9CB1QCuHfjkP4uHn1qvZk9_2_MqjgSTSgXaeQ"
+  },
+  {
+    "appId": "pl.gov.mf.eus",
+    "title": "e-Urząd Skarbowy",
+    "developer": "Ministerstwo Finansów, Warszawa, Polska",
+    "score": 3.5454545,
+    "scoreText": "3,5",
+    "free": false,
+    "price": null,
+    "summary": "Η εφαρμογή e-US σάς επιτρέπει να χρησιμοποιείτε άνετα τον ιστότοπο του e-Tax Office",
+    "icon": "https://play-lh.googleusercontent.com/MgHm-EbsSemfGR5JPK3cBHP6k0yEYOfXQB5ZazDiZFZ6xqNqBjE5i6ldHGps3BvdLfS9hIj4S5592WCuc4_qAw"
+  },
+  {
+    "appId": "pl.nieruchomoscionline",
+    "title": "Nieruchomosci-online.pl",
+    "developer": "NNV Sp. z o.o.",
+    "score": 4.9333334,
+    "scoreText": "4,9",
+    "free": false,
+    "price": null,
+    "summary": "Πρόσβαση μέσω κινητού στη μεγαλύτερη βάση δεδομένων με τρέχουσες προσφορές ακινήτων στην Πολωνία",
+    "icon": "https://play-lh.googleusercontent.com/DNDbM8yKIh8BS9BtwJumaSbC_LArLHzj9hO5-4ibTgwFAp6nuPGdO-yqo20LpZ8YKKg"
+  },
+  {
+    "appId": "ro.stbsa",
+    "title": "Info Transport Bucharest",
+    "developer": "STBSA",
+    "score": 3.1111112,
+    "scoreText": "3,1",
+    "free": false,
+    "price": null,
+    "summary": "Ο πιο κατάλληλος οδηγός για τις δημόσιες συγκοινωνίες μέσα και γύρω από το Βουκουρέστι.",
+    "icon": "https://play-lh.googleusercontent.com/P69Y4r2-YX4GGYBhB0fVOQb3JMs6ENvcKTsp8HlKbsacilGm5295rUK5yHJGun1Dc-s"
+  },
+  {
+    "appId": "com.mohu.repont",
+    "title": "REpont",
+    "developer": "MOL Magyar Olaj- és Gázipari Nyrt.",
+    "score": 2.6086957,
+    "scoreText": "2,6",
+    "free": false,
+    "price": null,
+    "summary": "Αναζήτηση θέσεων εξαργύρωσης, έλεγχος συσκευασίας ποτών",
+    "icon": "https://play-lh.googleusercontent.com/2K3fwPOIhCfpfRdFTXprPWLghgL1vDc_Rpx4DuS26UgzJ1V82rkTCcGZGUmHG9e2Cg"
+  },
+  {
+    "appId": "com.aff.android.eon.ufsz",
+    "title": "E.ON Ügyfélszolgálat",
+    "developer": "E.ON, Magyarország",
+    "score": 3.2820513,
+    "scoreText": "3,3",
+    "free": false,
+    "price": null,
+    "summary": "Εφαρμογή Εξυπηρέτησης Πελατών E.ON με ανάγνωση φωτογραφιών και απλή διαχείριση.",
+    "icon": "https://play-lh.googleusercontent.com/HE3UPDypQJCuKNiW79q-LR9nRb_qxN98Y01jg8MDkPsiBe-lg1xi5DLak1e0nMdSCaQ"
+  },
+  {
+    "appId": "com.blogspot.accountingutilities",
+    "title": "HomeBills — Utility Tracker",
+    "developer": "Artem Krut",
+    "score": 0,
+    "scoreText": "0,0",
+    "free": false,
+    "price": null,
+    "summary": "Παρακολουθήστε τους λογαριασμούς κοινής ωφέλειας, τις μετρήσεις των μετρητών και τα μηνιαία έξοδα",
+    "icon": "https://play-lh.googleusercontent.com/mnrZcXYA51xLB1Q9Hfwu5gmPLTSCw08Es_vEAuCBuxliE150B7ZLBFBt52hcmNQFjI--ycRVZhsPcZlwK9s5zw"
+  },
+  {
+    "appId": "com.specterint.workingtimer",
+    "title": "Working Timer",
+    "developer": "Specter Interactive s.r.o.",
+    "score": 4.4,
+    "scoreText": "4,4",
+    "free": false,
+    "price": null,
+    "summary": "\"Working Timer\" είναι μια εφαρμογή για την καταγραφή του χρόνου στην εργασία.",
+    "icon": "https://play-lh.googleusercontent.com/dQYiA_zp9j9BHuR6TrugAJgTY9GuUGt-sR2lrTT_OAnVHO5Y0b0VZTvwj47X_-gZ17og"
+  }
+]

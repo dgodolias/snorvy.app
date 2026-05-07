@@ -460,6 +460,25 @@ Combining Tick 1 + 2 + 3 findings, the refined D2 strategy:
 - Solo (Pave Inc) `com.paveapp` — ★4.33 / **68.2% Android low / 80% iOS low** / 500k installs
 - Stride (StrideHealth) `com.stridehealth.drive` — ★3.06 / **69.4% Android low / 40% iOS low** / 1M installs
 
+### v9 LOOP TICK 1 finding (D3 deepened to 1500-review)
+
+Loop Phase C Tick 1 drilled Solo + Stride at 1500-review depth:
+
+| App | Sample | Window | Low% | Δ vs 200-depth |
+|---|---|---|---|---|
+| **Solo Android** | 1056 reviews (Google capped) | last 90d | **83.3%** (n=72) | +15pp ESCALATING |
+| Solo Android | full window | 2025+ | 79.7% (n=473) | +12pp |
+| Solo Android | full window | full 1056 | 65.6% | -3pp (older reviews dilute) |
+| **Solo iOS** | 289 reviews | full | TBD | — |
+| **Stride iOS** | 250 reviews HELPFUL sort | full | **24.8%** | -55pp vs Android 69% |
+| Stride Android | 1500 reviews | full | 61.5% | -8pp at depth |
+
+**Critical asymmetry — Stride pain is Android-LOCKED**: Stride iOS 24.8% vs Android 61.5% = **36.7-point Δ**. iOS Stride users are NOT angry; Android Stride is the displacement target. This SHARPENS Direction 3's positioning — focus Android-first launch, treat iOS Stride as a MAINTAINED competitor (not vulnerable).
+
+**Solo IAP ceiling**: **$179.99** — highest in the 6-app cohort (Stride/Hurdlr/MileIQ/Driversnote/Gridwise/Solo). Active price-hike rage in 2025 reviews (4 explicit hike complaints in last-90d). Solo is the primary displacement target; Stride Android is the secondary but its iOS healthy moat means partial-only wedge.
+
+**Confidence revised**: D3 promoted from MEDIUM-HIGH → **HIGH** based on Solo's 83.3% last-90d acceleration + confirmed active price hikes. Direct migration corridor from Solo paywall-rage (Solo monetizing aggressively pre-shutdown?) AND Stride Android feature-rot.
+
 ### Quoted proof
 
 > [Solo 1★ 👍**434**] "The advertising is very misleading. Not until after you fill out the entire sign-up process are you informed that **it is a paid service. False advertising and a deceptive intake.**"

@@ -21,7 +21,12 @@ loop_state:
     - reddit_idleclicker_comment_tree
     - launch_readiness_d6
   exhausted_directions: [1, 2, 3, 4, 6]   # All 5 actionable directions exhausted
-  loop_status: EXPLORATION_MODE   # CORRECTION: SKILL says when all directions exhausted, enter exploration mode (new niches/countries/genres) until cap reached
+  loop_status: CAP_REACHED   # weekly 33% with Tick 34 in flight → stop sequence triggered (1pp under 35% hard cap)
+  cap_reached_at: 2026-05-07T19:25:00+03:00
+  cap_reached_pct: 33
+  cap_reached_session_pct: 44
+  tick_34_status: KILLED   # Stopped 1 step before D11+D8+D2 file writes to prevent breach
+  deeper_dig_completed: [13, 7, 10, 9, 4]   # 5 of 13 dirs deep-validated post-exploration
   exploration_started_at: 2026-05-07T17:00:00+03:00
   exploration_dimensions:
     - new_country_TR_invoice_market   # Greek dev native country, untouched in v9

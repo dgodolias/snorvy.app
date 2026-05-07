@@ -990,3 +990,56 @@ These are unvalidated ideas the agent should attempt in future runs:
 
 ---
 10. **NEW v10 hypothesis: PL/NL/SE Direction 4-style replication** — does PL JDG / NL ZZP / SE Småföretagare have parallel legal exempt categories with vulnerable incumbents?
+
+---
+
+## Run 2026-05-07 19:25 EEST — DEEPER DIG loop close (cap reached)
+
+### Configuration
+- Tier: medium (DEEPER DIG mode after EXPLORATION exhaustion)
+- Mode: loop / depth-first / SKILL-driven exhaustion fallback
+- Hard cap: 35% weekly all-models
+- Limits at start of DEEPER DIG batch: 27% weekly / 16% session
+- Limits at cap-reached close: **33% weekly / 44% session**
+- Cap-reached trigger: stopped Tick 34 (D11+D8+D2 batch) at the file-write step to stay 1pp under 35% breach
+
+### DEEPER DIG ticks completed (5 of 13 directions deep-validated)
+| Tick | Direction | Outcome | Confidence delta |
+|---|---|---|---|
+| 30 | D13 Bloki (Greek myDATA) | HIGH unchanged, 6-12mo window confirmed | = HIGH (locked #1) |
+| 31 | D7 TR e-SMM (FaturAki) | DEMOTED 5.8 → 5.4 (GİB regulatory blockers, B2B only, no e-Arşiv) | ↓ |
+| 32 | D10 MY e-Invois (Cepat) | STRONGLY UP — Phase 5 Jul 2026 hard deadline confirmed, govt 100% last-90d, slot unowned | ↑ |
+| 33 | D9 Notebound (Evernote refugee) | DEMOTED URGENT → MEDIUM-HIGH — Obsidian 1.12 mobile **shipped Feb 27, 2026** (vault-bypass capture closed) | ↓↓ |
+| 33 | D4 Faktly (sevDesk DE/PL/NL) | PROMOTED — sevDesk regressing 71.4% in 2025+, §19 UStG keyword 0-comp displacement | ↑ |
+| 34 (KILLED) | D11+D8+D2 batch | NOT integrated — agent stopped at write step to prevent cap breach |
+
+### Ranking after DEEPER DIG (Greek-dev personalized lens)
+1. **🥇 D13 Bloki — Greek myDATA (9.0)** — Native moat 10/10, urgency 10/10, $0 backend, mandate Oct 1, 2026
+2. 🥈 D10 e-Invois Cepat MY (~6.0, ↑ from 5.8) — Phase 5 Jul 2026 deadline + govt slot unowned
+3. 🥉 D4 Faktly DE/PL/NL (~5.7, ↑ from 5.6) — sevDesk regressing, §19 UStG keyword opportunity
+4. D9 Notebound (5.4, ↓↓ from 6.0) — Obsidian 1.12 mobile shipped, window closing
+5. D7 FaturAki TR (5.4, ↓ from 5.8) — regulatory blockers reduce wedge
+
+### What worked
+- Stop Sequence engaged at 33% weekly with Tick 34 mid-flight → killed pre-write to prevent breach
+- Depth-first DEEPER DIG (one direction per tick) gave clean confidence deltas without confusion
+- D9 demotion (Obsidian 1.12 mobile already shipped) prevented user from picking obsolete window
+
+### What failed
+- Tick 34 killed mid-write — D11/D8/D2 deeper-dig findings NOT integrated (acceptable: top 3 already locked)
+- Reached cap ~33% before getting to D5/D12/D6 deeper digs (lower-priority anyway)
+
+### Hypotheses for next run
+- [ ] D11 HourLog: did Clockify/Toggl/QB Workforce ship mobile redesigns post-Apr 2026? (Tick 34 was investigating)
+- [ ] D8 Hush: 2026 Sleep Cycle pricing IAP refresh (Tick 34 was investigating)
+- [ ] D2 SoloLedger: did Intuit ship QuickBooks Solopreneur 2026 update + price hike? (Tick 34 was investigating)
+- [ ] D10 Cepat: Malaysian banking-app integration plays for invoice push-payment
+
+### Final user-facing recommendation
+**BUILD D13 BLOKI**. Start Mon May 11, 2026. AADE Taxisnet registration this week. Launch Tue Jun 30, 2026. Y1 ARR €45k–€180k. See `findings/reports/EXECUTIVE_SUMMARY.md` for the 1-pager and `findings/reports/directions_v9_FINAL.md` for the full analysis.
+
+### Outcome
+- _to be filled at 30/90 days post-launch_
+
+---
+

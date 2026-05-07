@@ -1,411 +1,488 @@
 # App-Radar Directions Report
 
-_Generated: 2026-05-07 (auto-synthesized from 20 cells + creative fill)_
-_Source: `findings/raw/` — 13K Play Store reviews, 1,400 TikTok comments, 30+ subreddit sweeps_
+_Generated: 2026-05-07T06:11:18.870Z_
+_Source: 97 cells synthesized from `findings\raw`_
 
 ## Quick scoreboard
 
-| Rank | Cell | Score | Top app | 1★% | Low% | TikTok B | TT likes | Cross-country |
-|---|---|---|---|---|---|---|---|---|
-| 1 | **TR/couple** | **13** | Love8 - Çiftler için uygulama | 20.9 | 35.6 | 649.9 | 2,568 | yes (3) |
-| 2 | MX/couple | 12 | Love8 - App para parejas | 8.3 | 16.2 | 649.9 | 29,783 | yes (3) |
-| 3 | BR/astrology | 11 | Astrolink - Mapa Astral | 7.6 | 15.2 | 160.9 | 1,570 | yes (2) |
-| 4 | BR/couple | 11 | Love8 - App para casais | 7.1 | 21.7 | 649.9 | 1,438 | yes (3) |
-| 5 | TR/tarot | 9 | Labyrinthos Tarot Cards | 3.6 | 23.8 | 214.8 | 103,679 | yes (4) |
+| Rank | Cell | Score | Top app | 1★% | Low% | TikTok B | TT likes |
+|---|---|---|---|---|---|---|---|
+| 1 | TR/couple | 17 | Love8 - Çiftler için uygulama | 20.9 | 32.8 | 649.9 | 2,568 |
+| 2 | VN/couple | 16 | Tinder - kết bạn và hẹn hò | 10.5 | 12 | 649.9 | 19,733 |
+| 3 | MX/couple | 15 | Love8 - App para parejas | 8.3 | 16.7 | 649.9 | 29,783 |
+| 4 | EG/couple | 15 | buzzArab - زواج وتعارف ودردشة | 12.4 | 12 | 649.9 | 0 |
+| 5 | SA/couple | 15 | buzzArab - زواج وتعارف ودردشة | 11.9 | 12 | 649.9 | 0 |
 
 ---
 
 # Top 5 Directions
 
-## Direction 1: **"Çift" — No-Tracking Couples App for Turkey** (Score 13/16)
+> **Agent**: each section below has the data scaffolding pre-filled. Your job is to write the creative parts: catchy name, confidence rating, idea concept, MVP features, differentiation thesis, anti-features, build complexity, monetization, why-it-will-work, why-it-might-fail, 30-day plan. Anchor every choice in the dominant complaint themes and quoted proof.
 
-**Niche × Country**: `couple` in `Turkey` (then BR + MX as Phases 2-3)
+## Direction 1: <ADD CATCHY NAME — agent fills> (Score 17)
+
+**Niche × Country**: `couple` in `TR`
 **Target competitor to displace**: Love8 - Çiftler için uygulama (`ltd.love8.couples.relationship`)
-**Confidence**: **HIGH** — Highest composite score in matrix, 13K total 1-star reviews across 3 markets, identical complaint pattern in 3 languages = category-wide vulnerability not personality-driven.
+**Confidence**: <ADD: High | Medium | Low — based on cross-source agreement and signal strength>
 
 ### Market evidence
 
 **Competitor weakness**:
 - ⭐ 3.84 from 36,013 ratings
-- 1★ ratio: **20.9%** 🔴 (vs 5% baseline)
-- Recent low_pct: **35.6%** 🔴 (degrading)
-- Installs: 5,000,000+
-- IAP range: ₺40,99 - ₺3.949,99 (premium subscription model that users hate)
-- Ad-supported: yes
-- Cross-country: same app in BR + MX with same complaints
+- 1★ ratio: **20.9%** 🔴 (vulnerable)
+- Recent low_pct (last reviews pulled): **32.8%** 🔴 (degrading)
+- Installs: 5.000.000+
+- Histogram: `{1: 7516, 2: 1404, 3: 2341, 4: 2575, 5: 22104}`
+- IAP range: Öğe başına ₺40,99-₺3.949,99 | Ad-supported: true
+- Cross-country presence: **Yes — same app in 4 other country(ies)**
 
-**TikTok signal**: 649.9 B niche cumulative views (#CoupleGoals + #NoteIt mega-niche). Country engagement modest (2,568 likes) — Turkish couples-app TikTok content is undersupplied (room to capture).
+**TikTok signal**:
+- Niche cumulative views: **649.9 B** 🔥
+- Country engagement: **2,568 likes** across sampled comments
 
-**Reddit signal**: r/LongDistance has thread "Best Couples App For LDR??!" + "Would you guys use a shared journalling app for your relationship??" — explicit unmet demand for trust-first couples tools.
+_Top TikTok comments_:
+> [👍707] çok güzelmiş ama bilin ne eksik
 
-**Dominant complaint themes** (137 low reviews clustered):
-- `location_tracking` (52 mentions) 🔴
-- `paywall_locked` (26)
-- `pricing_billing` (22)
-- `inaccurate` (21)
-- `crashes_bugs` (12)
+> [👍661] sinirli gözükmeye çalıştıça daha çok dadlu oluyon ablam haberin olsun yani hele o göz devirmen of aşık oldum
+
+> [👍380] bi eksik var 😂
+
+**Reddit signal**:
+- r/? [↑313 💬74] **Partner 29m used 3some app for years to try and facilitate couple experiences. I download it, he says we should delete it as its 'toxic'. Should I be worried?**
+  > Partner was experienced in 3somes and we discussed exploring them a few years back. We've been together 5yrs. I was initially hesitant but open to explore he downloaded an app similar to tinder but for kink/polyamory and said he would manage as a couple account. 
+
+When asked abou
+- r/? [↑0 💬37] **My wife (32F) found my (32M) old couple/dating app downloads and thinks I wanted other women**
+  > My wife (32F) and I (32M) have been going through a rough patch, and something from my phone history has made things worse. She saw that I had downloaded several couple/dating apps and tried some AI adult content. I didn’t even sign up for most of these apps, and on the few I did
+- r/? [↑2 💬29] **New GF (3 weeks official, after 4-5 months together) dowloaded a dating app and sent a few messages (never met anyone) during a couple of days following a big argument - should I forgive her, if she works hard to rebuild trust? She’s 27, I’m 29.**
+  > We became official 3 weeks ago, after seeing each other for 4-5 months - we love each other, but have had semi-frequent arguments over these months. After the latest argument, she asked for a couple of days to think - which she had, and after which we reunited.
+However, a day lat
+
+**Dominant complaint themes** (clustered from low-rating reviews): `location_tracking` (47), `paywall_locked` (21), `pricing_billing` (19), `inaccurate` (17), `crashes_bugs` (11)
 
 ### Quoted proof — what users actually say
 
-> [1★ 👍52] *"abonelik aldım ama konum bilgileri şarj bilgileri ve telefonun açılıp kapanış durumu iyice bozuldu"* (paid for subscription but location/charge/phone-state all broken)
+> [1★ 👍52] "mrblar ilk başlarda uygulamanın herşeyi doğru bi şekilde gösterilmesinden çok memnundum daha sonra 3. günden beri kullanmaktan sonra haftalık abonelik aldım ama konum bilgileri şarj bilgileri ve telefonun açılıp kapanış durumu iyice bozuldu neyse dedim uygulama düzeldi yıllık abo"
 
-> [1★ 👍34] *"Son güncelleme ile konum hataları ortaya çıktı. iPhone kullanan eşimin konumu sürekli bir yerlere ışınlanıyor"* (Location errors after update — partner phantom-teleporting)
+> [1★ 👍34] "Son güncelleme ile konum hataları ortaya çıktı. iPhone kullanan eşimin konumu sürekli bir yerlere ışınlanıyor, mesafeleri yanlış gösteriyor."
 
-> [1★ 👍28] *"premium abone olarak kullanıyorum beni gece 6 dk dışarı çıktı olarak gösteriyor 6 dk da gidip gelemeyeceğim konuma götürüp geliyor... 580km hızla evin 10dk ilerisine"* (Premium subscriber, app shows partner traveling 580 km/h)
+> [1★ 👍28] "premium abone olarak kullanıyorum beni gece 6 dk dışarı çıktı olarak gösteriyor 6 dk da gidip gelemeyeceğim konuma götürüp geliyor bildiğim kadarıyla sevgiliminde bir jeti yok 580km hızla evin 10dk ilerisine gittiğini gösteriyor canı sıkılırsa eve girdi çıktı bildirimi geliyor ba"
+
+> [1★ 👍27] "ilk zaman çok güzeldi ama artık eve geldiği ve çıktığı saatleri hemen bildirmiyor yolda giderken göstermiyor sanırım teknik bir sorun var ilgilenirseniz mutlu oluruz o kadar para verdik bu uygulamaya karşılık bekliyoruz"
+
+> [1★ 👍18] "Konum yanlış gösteriyorr telefonda aktif olmadığı zamanlarda çok alakasız yerlere gidip geliyor"
 
 ### The idea — what to build
 
-**Concept**: A Turkish-first couples app focused on shared rituals (journaling, streaks, daily prompts) with **zero location tracking**, transparent one-time pricing, and end-to-end encrypted shared diary. Position explicitly as "what Love8 should have been" — anti-surveillance, anti-subscription.
+**Concept**: <AGENT FILLS — 2-sentence pitch tying the dominant complaint theme to a product>
 
 **Core MVP features**:
-- **Daily shared widget**: a single "today" entry both partners see (mood + 1 photo + 1 line). Anchors anti-`crashes_bugs` complaint with rock-solid widget reliability.
-- **Couple journal with E2E encryption**: each writes for the other, Firebase-free-tier sync. Anchors anti-`location_tracking` (replaces invasive GPS with intentional sharing).
-- **Streak counter + milestone celebrations**: dating anniversary, weekly check-in, monthly photo. Gamification without dark patterns.
+- <feature 1, anchored in dominant complaint #1>
+- <feature 2, anchored in dominant complaint #2>
+- <feature 3>
 
-**Differentiation thesis**: Love8's 5M install base is built on **promise of surveillance**, but the app **fails to deliver accurate surveillance** AND **traps users in subscriptions**. We win by inverting the value prop entirely: trust-first, intentional sharing, one-time purchase. Capture the 7,516 angry 1-star Turkish users + the privacy-conscious segment that never installed Love8.
+**Differentiation thesis**: <one paragraph: what makes this win vs Love8 - Çiftler için uygulama, anchored in the complaints above>
 
-**Anti-features** (what NOT to do):
-- ❌ NO live GPS / location tracking
-- ❌ NO subscriptions (one-time lifetime unlock only)
-- ❌ NO ads (not free either — keeps incentives clean)
+**Anti-features** (what NOT to do): <2-3 things to deliberately omit because they're what users hate about the competitor>
 
 ### Build complexity
 
-- **Stack**: React Native + Firebase Realtime DB (free tier: 1 GB storage, 10 GB transfer/mo — enough for ~5K active couples)
-- **Backend cost**: $0 ongoing (within free tier)
-- **Solo build estimate**: 5-7 weeks
-- **Skill prerequisites**: React Native, basic Firebase auth, simple CRDT for shared journal sync
+- Stack: <suggested>
+- Backend cost: <$0 if local, $X if Firebase free tier>
+- Solo build estimate: <weeks>
 
 ### Monetization
 
-- **Model**: One-time lifetime unlock
-- **Pricing anchor**: **₺149 (~$5)** — half a year of Love8's subscription, paid once
-- **Why this pricing wins**: 22 of 137 low Love8 reviews specifically rage about billing. The phrase "üye olmamıza rağmen" (despite being subscribers) appears repeatedly. Users want to pay ONCE and own it.
+- Model: <freemium | one-time | subscription>
+- Pricing anchor: <vs competitor>
+- Why this pricing wins: <tied to user complaints about competitor's pricing>
 
 ### Why this WILL work
 
-The composite score of 13 is the highest in the matrix. Three independent signals converge: (1) competitor degrading fast (low_pct 35.6%), (2) huge install base = pre-built churn pool (5M+), (3) cross-country pattern means a single multi-locale codebase captures BR + MX too with marginal effort. The $5 lifetime price + zero-tracking pitch is a clear, defensible differentiation that competitors can't easily copy without cannibalizing their subscription revenue.
+<2-3 sentences synthesizing the evidence into a thesis>
 
 ### Why this might fail
 
-**Risk 1**: Some users genuinely WANT location tracking ("toxic couples" segment per BR TikTok comment "app de localização, eu odiaria, é tão invasivo" 👍32). Anti-tracking might shrink TAM by 30-50%.
-**Risk 2**: Couples apps require BOTH partners to install — viral loop is hard. Unlike a habit tracker, you can't use it solo.
-**Risk 3**: TikTok engagement in TR is modest (2,568 likes). Marketing might convert better in MX (29,783 likes) — could mean TR launch is right product-market fit but slower growth.
+<1-2 honest counter-arguments>
 
 ### First 30 days plan
 
-1. **Week 1**: Figma spec + onboarding flow + brand identity (Turkish-first copywriting; the "no GPS" positioning is the entire pitch)
-2. **Week 2**: React Native skeleton + Firebase auth + couple-pairing via QR code (no phone-number lookup → privacy-aligned)
-3. **Week 3**: Shared journal + daily widget + streak counter (core MVP)
-4. **Week 4**: 5-couple closed beta in Istanbul; iterate based on E2E encryption UX confusion. Soft-launch on Play Store TR with 5 TikTok videos using #çiftuygulamasi
+1. Week 1: <milestone>
+2. Week 2: <milestone>
+3. Week 3: <milestone>
+4. Week 4: <milestone>
 
 ---
 
-## Direction 2: **"Pareja" — Same Codebase, Mexican Spanish** (Score 12/16)
+## Direction 2: <ADD CATCHY NAME — agent fills> (Score 16)
 
-**Niche × Country**: `couple` in `Mexico` (LATAM Spanish version of Direction 1)
-**Target competitor**: Love8 - App para parejas (`ltd.love8.couples.relationship`)
-**Confidence**: **HIGH** — Same codebase, different localization, dramatically higher TikTok engagement than TR.
+**Niche × Country**: `couple` in `VN`
+**Target competitor to displace**: Tinder - kết bạn và hẹn hò (`com.tinder`)
+**Confidence**: <ADD: High | Medium | Low — based on cross-source agreement and signal strength>
 
 ### Market evidence
 
 **Competitor weakness**:
-- ⭐ 4.38, 1★ ratio 8.3%, low_pct 16.2%
+- ⭐ 4.40 from 8,916,641 ratings
+- 1★ ratio: **10.5%** 🔴 (vulnerable)
+- Recent low_pct (last reviews pulled): **12%** 
+- Installs: 500.000.000+
+- Histogram: `{1: 936004, 2: 109444, 3: 272820, 4: 745860, 5: 6852215}`
+- IAP range: 7.000 ₫ - 7.550.000 ₫ mỗi mặt hàng | Ad-supported: true
+- Cross-country presence: **Yes — same app in 4 other country(ies)**
+
+**TikTok signal**:
+- Niche cumulative views: **649.9 B** 🔥
+- Country engagement: **19,733 likes** across sampled comments
+
+_Top TikTok comments_:
+> [👍6,092] đối cay ae ơi đối cay
+
+> [👍4,410] chuyển vế cái là vô thế hèn liền =)))))))
+
+> [👍2,629] cơm tự nhiên khó ăn ngang:))
+
+**Reddit signal**:
+- r/? [↑313 💬74] **Partner 29m used 3some app for years to try and facilitate couple experiences. I download it, he says we should delete it as its 'toxic'. Should I be worried?**
+  > Partner was experienced in 3somes and we discussed exploring them a few years back. We've been together 5yrs. I was initially hesitant but open to explore he downloaded an app similar to tinder but for kink/polyamory and said he would manage as a couple account. 
+
+When asked abou
+- r/? [↑0 💬37] **My wife (32F) found my (32M) old couple/dating app downloads and thinks I wanted other women**
+  > My wife (32F) and I (32M) have been going through a rough patch, and something from my phone history has made things worse. She saw that I had downloaded several couple/dating apps and tried some AI adult content. I didn’t even sign up for most of these apps, and on the few I did
+- r/? [↑2 💬29] **New GF (3 weeks official, after 4-5 months together) dowloaded a dating app and sent a few messages (never met anyone) during a couple of days following a big argument - should I forgive her, if she works hard to rebuild trust? She’s 27, I’m 29.**
+  > We became official 3 weeks ago, after seeing each other for 4-5 months - we love each other, but have had semi-frequent arguments over these months. After the latest argument, she asked for a couple of days to think - which she had, and after which we reunited.
+However, a day lat
+
+**Dominant complaint themes** (clustered from low-rating reviews): _(no clustered themes — needs more reviews)_
+
+### Quoted proof — what users actually say
+
+> [1★ 👍7] "Mình không Có tiền để mua Tinder Gold Mà lại Bắt Buộc mình phải mua ạ... 🥺🥺😢"
+
+> [1★ 👍1] "tại sao lại tự ý gia hạn gói dịch vụ quẹt lại mà không cần sự xác nhận của khách hàng. Đến lúc khách phát hiện gửi yêu cầu hoàn tiền thì không chấp nhận hoàn?????"
+
+> [1★ 👍1] "nạp 125k gói 1 tháng cuối cùng không mở được cái gì cả . app bịp lắm mọi người đừng dại nạp mất tiền oan !"
+
+> [1★ 👍1] "app toàn xài phí, khó chịu vcl"
+
+> [1★ 👍1] "app gi ma chua gi da doi tra phi la ko ham noi roi.xem ko on thi xoa app chu cha ich loi gi"
+
+### The idea — what to build
+
+**Concept**: <AGENT FILLS — 2-sentence pitch tying the dominant complaint theme to a product>
+
+**Core MVP features**:
+- <feature 1, anchored in dominant complaint #1>
+- <feature 2, anchored in dominant complaint #2>
+- <feature 3>
+
+**Differentiation thesis**: <one paragraph: what makes this win vs Tinder - kết bạn và hẹn hò, anchored in the complaints above>
+
+**Anti-features** (what NOT to do): <2-3 things to deliberately omit because they're what users hate about the competitor>
+
+### Build complexity
+
+- Stack: <suggested>
+- Backend cost: <$0 if local, $X if Firebase free tier>
+- Solo build estimate: <weeks>
+
+### Monetization
+
+- Model: <freemium | one-time | subscription>
+- Pricing anchor: <vs competitor>
+- Why this pricing wins: <tied to user complaints about competitor's pricing>
+
+### Why this WILL work
+
+<2-3 sentences synthesizing the evidence into a thesis>
+
+### Why this might fail
+
+<1-2 honest counter-arguments>
+
+### First 30 days plan
+
+1. Week 1: <milestone>
+2. Week 2: <milestone>
+3. Week 3: <milestone>
+4. Week 4: <milestone>
+
+---
+
+## Direction 3: <ADD CATCHY NAME — agent fills> (Score 15)
+
+**Niche × Country**: `couple` in `MX`
+**Target competitor to displace**: Love8 - App para parejas (`ltd.love8.couples.relationship`)
+**Confidence**: <ADD: High | Medium | Low — based on cross-source agreement and signal strength>
+
+### Market evidence
+
+**Competitor weakness**:
+- ⭐ 4.38 from 36,013 ratings
+- 1★ ratio: **8.3%** 🟡
+- Recent low_pct (last reviews pulled): **16.7%** 🔴 (degrading)
+- Installs: 5,000,000+
 - Histogram: `{1: 2986, 2: 874, 3: 2684, 4: 2382, 5: 26994}`
-- Same app, same complaints, different language
+- IAP range: $19.00-$1,749.00 por elemento | Ad-supported: true
+- Cross-country presence: **Yes — same app in 4 other country(ies)**
 
-**TikTok signal**: 29,783 cumulative likes across 90 sampled comments — **11x more engagement than TR/couple**. Mexican Gen Z has more meme-energy around couples apps. One viral video about Love8 had 7,162 likes on the top comment alone.
+**TikTok signal**:
+- Niche cumulative views: **649.9 B** 🔥
+- Country engagement: **29,783 likes** across sampled comments
 
-**Reddit signal**: General r/mexico app discussions (mostly fintech), nothing niche-specific found.
+_Top TikTok comments_:
+> [👍7,162] No me manda mensajes me va mandar una notita 🫠
 
-**Dominant themes** (69 low reviews clustered):
-- `paywall_locked` (20)
-- `crashes_bugs` (9)
-- `too_many_ads` (7)
-- `pricing_billing` (4)
+> [👍6,085] Like to pause
 
-### Quoted proof
+> [👍2,332] Imagine waking up to “it’s over”
 
-> [1★ 👍30] *"Estoy dando de más aún poniéndoles 1 estrella, la ubicación muchísimas veces es imprecisa, notifica q llega o salio de algún lugar cuando no es verdad"*
+**Reddit signal**:
+- r/? [↑313 💬74] **Partner 29m used 3some app for years to try and facilitate couple experiences. I download it, he says we should delete it as its 'toxic'. Should I be worried?**
+  > Partner was experienced in 3somes and we discussed exploring them a few years back. We've been together 5yrs. I was initially hesitant but open to explore he downloaded an app similar to tinder but for kink/polyamory and said he would manage as a couple account. 
 
-> [1★ 👍24] *"compramos el premium porque valía mucho la pena, pero ahora que han pasado meses... casi siempre falla"*
+When asked abou
+- r/? [↑0 💬37] **My wife (32F) found my (32M) old couple/dating app downloads and thinks I wanted other women**
+  > My wife (32F) and I (32M) have been going through a rough patch, and something from my phone history has made things worse. She saw that I had downloaded several couple/dating apps and tried some AI adult content. I didn’t even sign up for most of these apps, and on the few I did
+- r/? [↑2 💬29] **New GF (3 weeks official, after 4-5 months together) dowloaded a dating app and sent a few messages (never met anyone) during a couple of days following a big argument - should I forgive her, if she works hard to rebuild trust? She’s 27, I’m 29.**
+  > We became official 3 weeks ago, after seeing each other for 4-5 months - we love each other, but have had semi-frequent arguments over these months. After the latest argument, she asked for a couple of days to think - which she had, and after which we reunited.
+However, a day lat
 
-**TikTok top comment** [👍7,162]: *"No me manda mensajes me va mandar una notita 🫠"* — playful, viral, MX audience is meme-ready.
+**Dominant complaint themes** (clustered from low-rating reviews): `paywall_locked` (53), `crashes_bugs` (12), `pricing_billing` (8), `too_many_ads` (6), `support_unresponsive` (3)
 
-### The idea — what to build
+### Quoted proof — what users actually say
 
-Same product as Direction 1, Spanish localization. Catchy name: **"Pareja"** (Couple) or **"Juntos"** (Together).
+> [1★ 👍30] "Estoy dando de más aún poniéndoles 1 estrella, la ubicación muchísimas veces es imprecisa, notifica q llega o salio de algún lugar cuando no es verdad o también sale q esta en tal sitio cuando realmente esta en otro y eso ocurre a pesar de que la ubicación está activa siempre, la"
 
-**Differentiation thesis**: Identical to Direction 1, but Mexico's higher TikTok engagement makes acquisition cheaper. The same anti-tracking, one-time-payment, no-ads pitch resonates in MX even more than TR because Mexican users are more vocal on social.
+> [2★ 👍28] "tengo miedo de que me secuestren"
 
-### Build complexity
+> [1★ 👍24] "la app al principio parecía increíble, hasta compramos el premium porque valía mucho la pena, pero ahora que han pasado meses de que la tenemos da muchísimos fallos, aunque la tengas abierta y con la ubicación puesta da errores y casi siempre sale como inactivo, los horarios de d"
 
-**Same as Direction 1** but +1 week for Spanish copy + cultural review (`pareja` connotations, Mexican vs Argentinian Spanish defaults, cultural tone of journal prompts). **Total**: 6-8 weeks for TR + MX combo.
+> [1★ 👍21] "la he tenido instalada como un mes, realmente no sirve para mucho. -una mascota que todo el rato está molestando. - por todo hay que pagar - la ubicación no es 100% real, te envía mensaje de entro o salió de algún sitio cuando no es verdad. a la otra persona le manda que fuiste t"
 
-### Monetization
-
-**$5 lifetime unlock** ($89 MXN, anchored to half a year of Love8's subscription).
-
-### Why this WILL work
-
-MX's TikTok engagement signal (29,783 likes) is the strongest engagement number in the entire matrix outside of mega-niches. Same competitor weakness + bigger viral marketing surface = potentially the **highest-yield direction** if Direction 1 product validates. Could overtake #1 once executed.
-
-### Why this might fail
-
-Mexican users have MORE alternatives (also use US-English couples apps via Tinder, Bumble Friends mode). Lower competitor 1★ ratio (8.3% vs TR's 20.9%) means Mexican users are slightly less hostile to Love8 — harder displacement.
-
-### First 30 days plan
-
-Same as Direction 1, with **Week 3-4 doubled to localization sprint**: Spanish copy, cultural review, TikTok content templates in Mexican slang.
-
----
-
-## Direction 3: **"Astrolume" — Anti-Subscription Astrology for Brazil** (Score 11/16)
-
-**Niche × Country**: `astrology` in `Brazil`
-**Target competitor**: Astrolink - Mapa Astral (`com.astrolink.webapp`)
-**Confidence**: **MEDIUM** — Strong competitor weakness signal, but Trends shows Brazilian astrology cooling (-77% on "horoscopo"). Mitigated by manifestation +223% trend (could pivot positioning).
-
-### Market evidence
-
-**Competitor weakness**:
-- ⭐ 4.54, 1★ ratio **7.6%**, low_pct **15.2%**
-- Histogram: `{1: 1547, 2: 317, 3: 557, 4: 1068, 5: 16730}` — 1547 angry users
-- Installs: 1,000,000+
-- IAP: R$ 10,99 - R$ 309,99 (predatory pricing)
-- Ad-supported: false (so it's PURE subscription milking)
-- Cross-country: also in MX (Astrolink Carta Astral)
-
-**TikTok signal**: 160.9 B views on astrology hashtags. BR engagement: 1,570 likes — moderate.
-
-**Reddit signal**: r/witchcraft has 233-upvote thread *"Is there an app like Duolingo but for Witchcraft?"* — adjacent demand for non-traditional spirituality apps.
-
-**Dominant themes** (76 low reviews):
-- `crashes_bugs` (19)
-- `pricing_billing` (14)
-- `paywall_locked` (8)
-- `refund_denied` (5)
-- `too_many_ads` (4)
-
-### Quoted proof
-
-> [2★ 👍19] *"o serviço é amador. Ñ consigo confiar na informação. Reportei um erro grave da IA, q ñ consegue ler a informação disponível"* (The AI is broken — can't trust the info)
-
-> [1★ 👍9] *"Paguei a promoção de 9,90, e pediu para eu pagar novamente para desbloquear, paguei 2 vezes... promoção nao tem nada, é só pra fazer de otaria mesmo"* (Paid promo R$9.90, asked to pay again — predatory)
-
-> [1★ 👍3] *"Estou decepcionada. Eu paguei... mas eu fui acessar o recurso Premium não consegui"* (Paid for premium, can't access)
+> [1★ 👍18] "Desintalé otra app por esta y lo que no me gusta es que para ver su recorrido, su batería y su wi fi se tiene que pagar, deberían tener al menos esas opciones gratis. También la ubicación se llega a mover mucho cuando la persona no se ha ido del lugar."
 
 ### The idea — what to build
 
-**Concept**: A trustworthy Brazilian astrology + manifestation hybrid. Birth chart + daily horoscope + manifestation rituals (369, scripting, moon phase intentions). 100% on-device math (Swiss Ephemeris is free OSS), human-vetted templated content (NO LLM-generated text — users explicitly distrust AI here), one-time payment.
+**Concept**: <AGENT FILLS — 2-sentence pitch tying the dominant complaint theme to a product>
 
 **Core MVP features**:
-- **Birth chart visualization** with shareable card (TikTok-friendly format)
-- **Daily horoscope** in Portuguese, written by humans, no AI
-- **Manifestation tracker**: 369 method, scripting prompts, moon-phase rituals (taps the +223% trend)
+- <feature 1, anchored in dominant complaint #1>
+- <feature 2, anchored in dominant complaint #2>
+- <feature 3>
 
-**Differentiation thesis**: Astrolink dominates BR but hated for two specific things: (1) predatory subscription tricks (👍9, 👍3 on payment-trap reviews), (2) AI-generated content that "feels robotic" (👍19 on the "amador AI" review). We win by being explicitly anti-both: human-written content + R$29.90 lifetime unlock.
+**Differentiation thesis**: <one paragraph: what makes this win vs Love8 - App para parejas, anchored in the complaints above>
 
-**Anti-features**:
-- ❌ NO subscription
-- ❌ NO AI-generated readings (manually-written templates only)
-- ❌ NO premium-content-locked-behind-paywall after install
+**Anti-features** (what NOT to do): <2-3 things to deliberately omit because they're what users hate about the competitor>
 
 ### Build complexity
 
-- **Stack**: React Native + Swiss Ephemeris (open source) + local SQLite for user history
-- **Backend cost**: $0 (entirely local)
-- **Solo build estimate**: 4-5 weeks
-- **Skill prerequisites**: Swiss Ephemeris integration is the trickiest part (1-2 days), rest is standard mobile UI
+- Stack: <suggested>
+- Backend cost: <$0 if local, $X if Firebase free tier>
+- Solo build estimate: <weeks>
 
 ### Monetization
 
-- **Model**: One-time lifetime
-- **Pricing**: **R$29.90 (~$6)** — significantly less than Astrolink's monthly billing
-- **Why**: 14 of 76 low reviews are pricing/billing rage. The phrase "promoção R$9,90 mas cobra de novo" appears multiple times — Brazilians want a clear, honest one-time price.
+- Model: <freemium | one-time | subscription>
+- Pricing anchor: <vs competitor>
+- Why this pricing wins: <tied to user complaints about competitor's pricing>
 
 ### Why this WILL work
 
-LATAM is 28% of global astrology market revenue. Brazilians ALREADY pay for astrology — they just hate the model. 1547 1-star reviews on Astrolink is a built-in churn audience. The manifestation pivot (+223% in BR Trends) extends addressable market beyond pure astrology.
+<2-3 sentences synthesizing the evidence into a thesis>
 
 ### Why this might fail
 
-**Risk 1**: Brazilian astrology Trends are COOLING (-77% on "horoscopo"). Even with weakest competitor, the niche size is shrinking. Mitigated only if manifestation hybrid actually attracts new audience.
-**Risk 2**: Multiple Portuguese astrology apps exist (Personare, Nebula, Horos, Meu Horóscopo) — language is not a moat in this saturated category.
-**Risk 3**: Content writing is the bottleneck (need a Brazilian astrologer to write authentic copy).
+<1-2 honest counter-arguments>
 
 ### First 30 days plan
 
-1. **Week 1**: Hire/partner with a Brazilian astrologer for content (R$2K budget). Lock the spec.
-2. **Week 2**: Swiss Ephemeris integration + birth chart math + visualization
-3. **Week 3**: Daily horoscope content engine + manifestation features
-4. **Week 4**: Polish, ASO setup ("mapa astral grátis sem assinatura"), TikTok soft-launch with 3-5 videos using #mapaastral + #manifestacao
+1. Week 1: <milestone>
+2. Week 2: <milestone>
+3. Week 3: <milestone>
+4. Week 4: <milestone>
 
 ---
 
-## Direction 4: **"Casal" — Brazilian Spin of Couples Play** (Score 11/16)
+## Direction 4: <ADD CATCHY NAME — agent fills> (Score 15)
 
-**Niche × Country**: `couple` in `Brazil` (Portuguese localization of Direction 1)
-**Target competitor**: Love8 - App para casais (`ltd.love8.couples.relationship`)
-**Confidence**: **MEDIUM** — Same multi-locale playbook as MX/couple but TikTok engagement low (1,438) suggesting Brazilian Gen Z may not be ready for couples-app meme content.
+**Niche × Country**: `couple` in `EG`
+**Target competitor to displace**: buzzArab - زواج وتعارف ودردشة (`com.buzzarab.buzzarab`)
+**Confidence**: <ADD: High | Medium | Low — based on cross-source agreement and signal strength>
 
 ### Market evidence
 
 **Competitor weakness**:
-- ⭐ 4.49, 1★ ratio 7.1%, low_pct 21.7%
-- Histogram: `{1: 2566, 2: 1011, 3: 1270, 4: 2307, 5: 28753}`
+- ⭐ 4.24 from 111,844 ratings
+- 1★ ratio: **12.4%** 🔴 (vulnerable)
+- Recent low_pct (last reviews pulled): **12%** 
+- Installs: +5,000,000
+- Histogram: `{1: 13892, 2: 3377, 3: 6006, 4: 7129, 5: 81415}`
+- IAP range: n/a | Ad-supported: true
+- Cross-country presence: **Yes — same app in 2 other country(ies)**
 
-**Dominant themes** (76 low reviews):
-- `paywall_locked` (28)
-- `location_tracking` (28)
-- `crashes_bugs` (14)
-- `pricing_billing` (7)
+**TikTok signal**:
+- Niche cumulative views: **649.9 B** 🔥
+- Country engagement: **0 likes** across sampled comments
 
-### Quoted proof
 
-> [1★ 👍51] *"muito ruim tem que pagar tudo... a localização ela sempre trava e da a localização bem longe"* (Have to pay for everything, location freezes/wrong)
+**Reddit signal**:
+- r/? [↑313 💬74] **Partner 29m used 3some app for years to try and facilitate couple experiences. I download it, he says we should delete it as its 'toxic'. Should I be worried?**
+  > Partner was experienced in 3somes and we discussed exploring them a few years back. We've been together 5yrs. I was initially hesitant but open to explore he downloaded an app similar to tinder but for kink/polyamory and said he would manage as a couple account. 
 
-> [1★ 👍39] *"Aplicativo da discórdia, parece coisa do encardido"* (App of discord — couples fighting because of wrong info)
+When asked abou
+- r/? [↑0 💬37] **My wife (32F) found my (32M) old couple/dating app downloads and thinks I wanted other women**
+  > My wife (32F) and I (32M) have been going through a rough patch, and something from my phone history has made things worse. She saw that I had downloaded several couple/dating apps and tried some AI adult content. I didn’t even sign up for most of these apps, and on the few I did
+- r/? [↑2 💬29] **New GF (3 weeks official, after 4-5 months together) dowloaded a dating app and sent a few messages (never met anyone) during a couple of days following a big argument - should I forgive her, if she works hard to rebuild trust? She’s 27, I’m 29.**
+  > We became official 3 weeks ago, after seeing each other for 4-5 months - we love each other, but have had semi-frequent arguments over these months. After the latest argument, she asked for a couple of days to think - which she had, and after which we reunited.
+However, a day lat
 
-> [1★ 👍13] *"O app não funciona na localização em tempo real mesmo pagando o Premium por isso. É necessário colocar manualmente, cancelei a tempo, tentei o reembolso e eles negaram"* (Premium location doesn't work, refund denied)
+**Dominant complaint themes** (clustered from low-rating reviews): _(no clustered themes — needs more reviews)_
 
-### The idea — what to build
+### Quoted proof — what users actually say
 
-**Same product as Direction 1**, Portuguese localization. Catchy name: **"Casal"** or **"Juntos"**.
+> [1★ 👍3] "لا أعلم ما به عندما اريد ان اتطلع على الرسائل يتوقف لا يعمل بشكل جيد اتمنى التعديل"
 
-**Differentiation thesis**: Identical anti-Love8 stance. Brazilian users wrote the most colorful complaints ("Aplicativo da discórdia") — strong emotional substrate to leverage in marketing copy.
+> [1★ 👍0] "شباب بلغو عن التطبيق التطبيق وهمي تفي عليهم"
 
-### Build complexity
+> [1★ 👍0] "نزل التطبيق وبعد ما. ينزل التطبيق كل فيشار وأستنانه بعد اسبوع لينتحقق من اعصابك خاااااااا تفوووووه"
 
-Same as Direction 1, +1 week for Portuguese localization. **Cumulative 6-week effort** for TR + BR + MX trio if all built from same codebase.
+> [1★ 👍0] "يغلق ويوقف الدردشه ف أمور ضروريه احنا ليست ضغار"
 
-### Monetization
-
-**R$24.90 lifetime** (~$5).
-
-### Why this WILL work
-
-Third locale in the Love8-attack playbook. Marginal cost low after TR build. Brazilian user complaints are more vocal/quotable → easier marketing copy.
-
-### Why this might fail
-
-TikTok engagement signal is the lowest of all 5 directions (1,438 likes). Suggests BR couples-app TikTok content doesn't resonate as much — paid acquisition might be necessary, eating margin.
-
-### First 30 days plan
-
-Pre-condition: Direction 1 (TR) shipped first. Then **Week 1-2**: Portuguese localization sprint (UX copy, cultural prompts, Brazilian-specific date/anniversary patterns). **Week 3-4**: Soft launch + TikTok content using #appcasal + #amordeverdade.
-
----
-
-## Direction 5: **"Tarot Türkçe" — Native Turkish Tarot Deck** (Score 9/16)
-
-**Niche × Country**: `tarot` in `Turkey`
-**Target competitor**: Labyrinthos Tarot Cards (`com.labyrinthos.app`)
-**Confidence**: **MEDIUM** — Crystal-clear single-feature demand (91 thumbs on Turkish-localization complaint), but smaller addressable market than couples.
-
-### Market evidence
-
-**Competitor weakness**:
-- ⭐ 4.69 (LOVED app, just not in Turkish)
-- 1★ ratio: 3.6%, low_pct: 23.8% (recent reviews concentrated on language issue)
-- Histogram: `{1: 1539, 2: 342, 3: 684, 4: 3249, 5: 35910}`
-- Cross-country: same app in BR, MX, ID — all have language-localization complaints
-
-**TikTok signal**: 214.8 B niche views (#Tarot mega), and **103,679 likes** in TR/tarot sampled comments — the highest engagement number in the entire matrix outside MX/tarot. Top comment had 38,730 likes.
-
-**Reddit signal**: r/Tarot has post *"Non-AI App Recommendations?"* — 14 upvotes, explicit anti-AI tarot demand. r/TarotReadersOfReddit has *"I built a simple daily tarot app — looking for honest feedback"* — solo dev space is active.
-
-**Dominant themes** (5 low reviews):
-- `language_gap` (8 explicit mentions, 91 cumulative thumbs on top one)
-
-### Quoted proof
-
-> [1★ **👍 91**] *"Uygulama çok güzel ama türkçe olmadığı için sürekli çeviri yapmakta zorlanıyorum lütfen türkçe dil seçeneği gelsin"* (App is great but no Turkish, I struggle to translate, please add Turkish)
-
-> [1★ 👍4] *"Türkçe çevrimi yok"*
-
-> [1★ 👍3] *"Uygulama türkçe seceneği yok"*
-
-> [1★ 👍2] *"Uygulamayi indirdim fakat kullanamıyorum çünkü dili Türkçe değil, malesef silmek zorunda kaldım"*
-
-**One review with 91 thumbs from a community of 42K rated users = COMMUNITY VOTE.**
+> [1★ 👍0] "بقالي 3سنين مادخلتش البرنامج كل ما حاول ادخل يقولي انت متزوج الدنيا بتتغير ليه البرنامج ده كده ايه التعالي ده"
 
 ### The idea — what to build
 
-**Concept**: A 100% Turkish tarot app — 78 cards in Rider-Waite or custom artwork, daily card pull, 3-5 reading spreads (love/career/general/yes-no), 78-card learning journey. Replace Labyrinthos for Turkish users.
+**Concept**: <AGENT FILLS — 2-sentence pitch tying the dominant complaint theme to a product>
 
 **Core MVP features**:
-- **78 cards** with Turkish names + interpretations (upright + reversed)
-- **Daily card pull** with shareable result card (TikTok-style)
-- **3 reading spreads**: aşk (love), kariyer (career), gün (day)
+- <feature 1, anchored in dominant complaint #1>
+- <feature 2, anchored in dominant complaint #2>
+- <feature 3>
 
-**Differentiation thesis**: Labyrinthos is the world's most-loved tarot app (⭐4.69) but refuses to localize. We don't compete on quality — we compete on language. Pure capture play of the displaced 1,500+ angry Turkish users + the broader Turkish tarot community that never tried Labyrinthos.
+**Differentiation thesis**: <one paragraph: what makes this win vs buzzArab - زواج وتعارف ودردشة, anchored in the complaints above>
 
-**Anti-features**:
-- ❌ NO AI-generated readings (Reddit's r/Tarot explicitly distrusts AI tarot)
-- ❌ NO subscription
-- ❌ NO live psychic chat (different business model, regulatory risk in TR)
+**Anti-features** (what NOT to do): <2-3 things to deliberately omit because they're what users hate about the competitor>
 
 ### Build complexity
 
-- **Stack**: React Native + local card images + JSON for interpretations
-- **Backend cost**: $0 (entirely local)
-- **Solo build estimate**: **3-4 weeks** (smallest scope of all 5 directions)
-- **Skill prerequisites**: UI, no backend at all. Bottleneck is content (78 cards × Turkish interpretations) — could partner with a Turkish tarot reader or buy existing public-domain content.
+- Stack: <suggested>
+- Backend cost: <$0 if local, $X if Firebase free tier>
+- Solo build estimate: <weeks>
 
 ### Monetization
 
-- **Model**: One-time lifetime
-- **Pricing**: **₺99 (~$3)** — fraction of Labyrinthos' premium pricing
-- **Why**: Labyrinthos charges ₺22,99-₺3.449,99 per item. A clean ₺99 lifetime undercuts massively while still giving margin.
+- Model: <freemium | one-time | subscription>
+- Pricing anchor: <vs competitor>
+- Why this pricing wins: <tied to user complaints about competitor's pricing>
 
 ### Why this WILL work
 
-Lowest build complexity of all 5 directions (3-4 weeks). Crystal-clear ONE-feature differentiator (Turkish localization). 91-thumbs single review = community vote. Tarot 215B TikTok views = mega-niche distribution. Highest TR engagement of any cell (103K likes).
+<2-3 sentences synthesizing the evidence into a thesis>
 
 ### Why this might fail
 
-**Risk 1**: Smaller addressable market than couples (Turkish tarot enthusiasts ⊂ Turkish couples).
-**Risk 2**: Content quality matters more in spirituality apps than UX — bad Turkish translations could kill credibility instantly.
-**Risk 3**: Two competitors might also localize (low barrier to entry, no defensible moat).
+<1-2 honest counter-arguments>
 
 ### First 30 days plan
 
-1. **Week 1**: Acquire/license tarot content in Turkish. Hire a Turkish tarot reader for review/copy editing.
-2. **Week 2**: React Native skeleton + 78-card display + daily-card mechanic
-3. **Week 3**: 3 reading spreads + shareable result card
-4. **Week 4**: Polish + ASO ("Türkçe tarot uygulaması") + TikTok content using #tarot + #tarotokuma
+1. Week 1: <milestone>
+2. Week 2: <milestone>
+3. Week 3: <milestone>
+4. Week 4: <milestone>
 
 ---
+
+## Direction 5: <ADD CATCHY NAME — agent fills> (Score 15)
+
+**Niche × Country**: `couple` in `SA`
+**Target competitor to displace**: buzzArab - زواج وتعارف ودردشة (`com.buzzarab.buzzarab`)
+**Confidence**: <ADD: High | Medium | Low — based on cross-source agreement and signal strength>
+
+### Market evidence
+
+**Competitor weakness**:
+- ⭐ 4.29 from 111,844 ratings
+- 1★ ratio: **11.9%** 🔴 (vulnerable)
+- Recent low_pct (last reviews pulled): **12%** 
+- Installs: +5,000,000
+- Histogram: `{1: 13341, 2: 2452, 3: 5673, 4: 7210, 5: 83151}`
+- IAP range: n/a | Ad-supported: true
+- Cross-country presence: **Yes — same app in 2 other country(ies)**
+
+**TikTok signal**:
+- Niche cumulative views: **649.9 B** 🔥
+- Country engagement: **0 likes** across sampled comments
+
+
+**Reddit signal**:
+- r/? [↑313 💬74] **Partner 29m used 3some app for years to try and facilitate couple experiences. I download it, he says we should delete it as its 'toxic'. Should I be worried?**
+  > Partner was experienced in 3somes and we discussed exploring them a few years back. We've been together 5yrs. I was initially hesitant but open to explore he downloaded an app similar to tinder but for kink/polyamory and said he would manage as a couple account. 
+
+When asked abou
+- r/? [↑0 💬37] **My wife (32F) found my (32M) old couple/dating app downloads and thinks I wanted other women**
+  > My wife (32F) and I (32M) have been going through a rough patch, and something from my phone history has made things worse. She saw that I had downloaded several couple/dating apps and tried some AI adult content. I didn’t even sign up for most of these apps, and on the few I did
+- r/? [↑2 💬29] **New GF (3 weeks official, after 4-5 months together) dowloaded a dating app and sent a few messages (never met anyone) during a couple of days following a big argument - should I forgive her, if she works hard to rebuild trust? She’s 27, I’m 29.**
+  > We became official 3 weeks ago, after seeing each other for 4-5 months - we love each other, but have had semi-frequent arguments over these months. After the latest argument, she asked for a couple of days to think - which she had, and after which we reunited.
+However, a day lat
+
+**Dominant complaint themes** (clustered from low-rating reviews): _(no clustered themes — needs more reviews)_
+
+### Quoted proof — what users actually say
+
+> [1★ 👍3] "لا أعلم ما به عندما اريد ان اتطلع على الرسائل يتوقف لا يعمل بشكل جيد اتمنى التعديل"
+
+> [1★ 👍0] "شباب بلغو عن التطبيق التطبيق وهمي تفي عليهم"
+
+> [1★ 👍0] "نزل التطبيق وبعد ما. ينزل التطبيق كل فيشار وأستنانه بعد اسبوع لينتحقق من اعصابك خاااااااا تفوووووه"
+
+> [1★ 👍0] "يغلق ويوقف الدردشه ف أمور ضروريه احنا ليست ضغار"
+
+> [1★ 👍0] "بقالي 3سنين مادخلتش البرنامج كل ما حاول ادخل يقولي انت متزوج الدنيا بتتغير ليه البرنامج ده كده ايه التعالي ده"
+
+### The idea — what to build
+
+**Concept**: <AGENT FILLS — 2-sentence pitch tying the dominant complaint theme to a product>
+
+**Core MVP features**:
+- <feature 1, anchored in dominant complaint #1>
+- <feature 2, anchored in dominant complaint #2>
+- <feature 3>
+
+**Differentiation thesis**: <one paragraph: what makes this win vs buzzArab - زواج وتعارف ودردشة, anchored in the complaints above>
+
+**Anti-features** (what NOT to do): <2-3 things to deliberately omit because they're what users hate about the competitor>
+
+### Build complexity
+
+- Stack: <suggested>
+- Backend cost: <$0 if local, $X if Firebase free tier>
+- Solo build estimate: <weeks>
+
+### Monetization
+
+- Model: <freemium | one-time | subscription>
+- Pricing anchor: <vs competitor>
+- Why this pricing wins: <tied to user complaints about competitor's pricing>
+
+### Why this WILL work
+
+<2-3 sentences synthesizing the evidence into a thesis>
+
+### Why this might fail
+
+<1-2 honest counter-arguments>
+
+### First 30 days plan
+
+1. Week 1: <milestone>
+2. Week 2: <milestone>
+3. Week 3: <milestone>
+4. Week 4: <milestone>
+
+---
+
 
 ## Recommendation summary
 
-| Rank | Direction | Confidence | Build effort | Best for |
-|---|---|---|---|---|
-| 1 | **Çift (TR)** — couples, no-tracking | High | 5-7 weeks | The biggest win — strongest evidence, multi-locale leverage |
-| 2 | **Pareja (MX)** — same as #1, Spanish | High | +1 week if #1 done | Highest TikTok virality — best marketing surface |
-| 3 | **Astrolume (BR)** — anti-subscription astro | Medium | 4-5 weeks | Higher individual ARPU potential, smaller TAM |
-| 4 | **Casal (BR)** — same as #1, Portuguese | Medium | +1 week if #1 done | Third locale of couples play |
-| 5 | **Tarot Türkçe (TR)** — Turkish tarot | Medium | **3-4 weeks (lowest)** | Quickest win, lowest complexity, very narrow scope |
-
-### Top pick rationale
-
-**Direction 1 (Çift) wins because three independent signals converge**: (a) competitor with 20.9% one-star ratio AND degrading recent review velocity = built-in churn audience of 7,500+ angry users in Turkey alone; (b) cross-country pattern means **Directions 2 and 4 ride on the same codebase** — single product effort yields three-locale launch; (c) the "no-tracking" differentiation is defensible because incumbents can't copy without cannibalizing their core surveillance value-prop.
-
-### Situational picks
-
-**If you have <4 weeks and want low risk** → Pick **#5 (Tarot Türkçe)**. Smallest scope, clearest demand, $0 backend, one well-defined feature gap (Turkish language).
-
-**If you want the highest-ceiling outcome** → Pick **#1 (Çift)** with explicit plan to expand to #2 and #4 in months 2-3. Multi-locale couples play could realistically reach 100K MAU within 6 months given Love8's 5M+ install base in each market.
-
-**If you're risk-averse and want strongest cross-source validation** → Pick **#1**. It has Play Store + TikTok + Reddit + cross-country agreement, the only direction with all four.
-
-**If you have a strong opinion about astrology / spirituality** → Pick **#3 (Astrolume)** with manifestation pivot. Higher individual ARPU but cooling Trends signal makes it riskier.
-
----
-
-## Methodology note
-
-This report was generated by `app-radar` skill at `0h` tier (re-synthesis only — no new research dispatched in this run). Underlying data: exhaustive scan from 2026-05-06 (13K Play Store reviews, 1,400 TikTok comments, 30+ subreddit sweeps). To refresh with new market data, re-run `/app-radar` at `quick`/`medium`/`deep`/`exhaustive` tier.
-
-Composite scoring formula and tier mappings are documented in `~/.claude/skills/app-radar/SKILL.md`.
+<AGENT FILLS — table of top-pick rationale + situational picks (lowest effort / highest ceiling / risk-averse)>

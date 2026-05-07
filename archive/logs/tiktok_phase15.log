@@ -1,0 +1,75 @@
+=== Phase 1.5: TikTok hashtag volumes ===
+  diario                        0.38M users      4.16B views
+  journaling                    2.73M users     22.78B views
+  bujo                          0.43M users      3.22B views
+  bulletjournal                 0.70M users      1.12B views
+  meditacao                     0.23M users      0.85B views
+  meditacion                    0.84M users      7.70B views
+  meditasyon                    0.04M users      0.78B views
+  meditasi                      0.08M users      0.69B views
+  mindfulness                   3.69M users     17.76B views
+  mindfullife                   0.01M users      0.01B views
+  sono                          0.63M users      5.51B views
+  uyku                          0.07M users      2.20B views
+  tidur                         0.32M users      4.94B views
+  sleeptok                      0.06M users      1.30B views
+  sleepproblems                 0.03M users      0.55B views
+  treino                        7.53M users     66.87B views
+  entrenamiento                 2.82M users     35.61B views
+  antrenman                     0.07M users      2.20B views
+  olahraga                      3.34M users     24.83B views
+  workouts                      0.54M users      6.04B views
+  tuvi                          0.72M users     23.21B views
+  horoskop                      0.28M users      5.72B views
+
+Saved 22 hashtag entries
+
+=== Phase 5: TikTok comments for new cells ===
+[BR_journaling] term="diario"...
+  ok (3 videos, 14 comments)
+[BR_meditation] term="meditacao"...
+  ok (3 videos, 67 comments)
+[BR_sleep] term="sono"...
+  ok (3 videos, 88 comments)
+[BR_fitness] term="treino"...
+  ok (3 videos, 72 comments)
+[MX_journaling] term="diario personal"...
+  ok (3 videos, 45 comments)
+[MX_meditation] term="meditacion"...
+  ok (3 videos, 88 comments)
+[MX_sleep] term="dormir"...
+  ok (3 videos, 87 comments)
+[MX_fitness] term="entrenamiento"...
+  ok (3 videos, 63 comments)
+[TR_journaling] term="gunluk"...
+  ok (3 videos, 63 comments)
+[TR_meditation] term="meditasyon"...
+  ok (3 videos, 58 comments)
+[TR_sleep] term="uyku"...
+  ok (3 videos, 62 comments)
+[TR_fitness] term="antrenman"...
+  ok (3 videos, 47 comments)
+[ID_journaling] term="jurnal"...
+  ok (3 videos, 32 comments)
+[ID_meditation] term="meditasi"...
+  ok (3 videos, 74 comments)
+[ID_sleep] term="tidur"...
+  ok (3 videos, 28 comments)
+[ID_fitness] term="olahraga"...
+  ok (3 videos, 58 comments)
+[VN_astrology] term="tu vi"...
+  ok (3 videos, 89 comments)
+[VN_tarot] term="tarot"...
+  ok (3 videos, 29 comments)
+[VN_couple] term="cap doi"...
+  ok (3 videos, 82 comments)
+[PH_astrology] term="horoscope"...
+  ok (3 videos, 63 comments)
+[PH_tarot] term="tarot"...
+  ok (3 videos, 62 comments)
+[PH_couple] term="couple app"...
+  ok (3 videos, 89 comments)
+
+Done. 22 cells saved
+
+exit=0

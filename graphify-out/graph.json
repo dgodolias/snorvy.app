@@ -4,53 +4,85 @@
   "graph": {
     "hyperedges": [
       {
-        "id": "love8_cross_country_vulnerability",
-        "label": "Love8 broken across TR, BR, MX (location bug pattern)",
+        "id": "love8_broken_cross_country",
+        "label": "Love8 broken cross-country pattern",
         "nodes": [
           "app_love8_tr",
-          "app_love8_br",
           "app_love8_mx",
-          "complaint_location_inaccuracy"
+          "app_love8_br",
+          "complaint_location_tracking",
+          "complaint_billing"
+        ],
+        "relation": "participate_in",
+        "confidence": "INFERRED",
+        "confidence_score": 0.95,
+        "source_file": "findings/reports/directions.md"
+      },
+      {
+        "id": "multi_locale_couples_play",
+        "label": "Multi-locale couples codebase play",
+        "nodes": [
+          "direction_1_cift_tr",
+          "direction_2_pareja_mx",
+          "direction_3_casal_br",
+          "direction_5_yeu_vn",
+          "thesis_cross_country_codebase"
+        ],
+        "relation": "implement",
+        "confidence": "INFERRED",
+        "confidence_score": 0.9,
+        "source_file": "findings/reports/directions.md"
+      },
+      {
+        "id": "turkish_localization_gap",
+        "label": "Turkish localization gap across niches",
+        "nodes": [
+          "country_tr",
+          "complaint_language_gap",
+          "app_sleep_cycle_tr",
+          "app_yodha_tr",
+          "honorable_tr_tarot"
+        ],
+        "relation": "form",
+        "confidence": "INFERRED",
+        "confidence_score": 0.85,
+        "source_file": "findings/reports/directions.md"
+      },
+      {
+        "id": "predatory_billing_pattern",
+        "label": "Predatory billing pattern across apps",
+        "nodes": [
+          "complaint_billing",
+          "app_love8_tr",
+          "app_tinder_vn",
+          "app_astrolink_br",
+          "app_remente_id"
         ],
         "relation": "participate_in",
         "confidence": "INFERRED",
         "confidence_score": 0.9,
-        "source_file": "findings/reports/FINAL_VERDICT.txt"
-      },
-      {
-        "id": "ai_generative_backlash",
-        "label": "Generative AI backlash across selfcare and astrology niches (Finch + Astrolink)",
-        "nodes": [
-          "app_finch_br",
-          "app_astrolink_br",
-          "complaint_ai_generative",
-          "complaint_crashes_bugs"
-        ],
-        "relation": "participate_in",
-        "confidence": "INFERRED",
-        "confidence_score": 0.8,
         "source_file": "findings/reports/drill_analysis.txt"
       },
       {
-        "id": "tr_couple_top_pick",
-        "label": "TR/couple top pick: Love8 vulnerability + viral TikTok niche + degrading metrics",
+        "id": "anti_surveillance_value_prop",
+        "label": "Anti-surveillance value proposition",
         "nodes": [
-          "recommendation_top_cell_tr_couple",
-          "app_love8_tr",
-          "rationale_vulnerable_competitor",
-          "rationale_degrading_competitor",
-          "rationale_mega_tiktok_niche"
+          "thesis_no_tracking",
+          "thesis_one_time_pricing",
+          "complaint_location_tracking",
+          "complaint_kidnapping_safety",
+          "thesis_e2e_journal"
         ],
         "relation": "form",
-        "confidence": "EXTRACTED",
-        "confidence_score": 1.0,
-        "source_file": "findings/reports/recommendation.md"
+        "confidence": "INFERRED",
+        "confidence_score": 0.88,
+        "source_file": "findings/reports/directions.md"
       }
     ]
   },
   "nodes": [
     {
-      "label": "Findings Folder Layout",
+      "label": "Findings README",
       "file_type": "document",
       "source_file": "findings/README.md",
       "source_location": null,
@@ -58,12 +90,12 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "readme_findings_layout",
-      "community": 2,
-      "norm_label": "findings folder layout"
+      "id": "findings_readme",
+      "community": 5,
+      "norm_label": "findings readme"
     },
     {
-      "label": "validate-app-idea Skill",
+      "label": "Raw Findings Folder",
       "file_type": "document",
       "source_file": "findings/README.md",
       "source_location": null,
@@ -71,12 +103,12 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "readme_validate_app_idea_skill",
-      "community": 2,
-      "norm_label": "validate-app-idea skill"
+      "id": "findings_layout_raw",
+      "community": 5,
+      "norm_label": "raw findings folder"
     },
     {
-      "label": "Play Store Data Source",
+      "label": "Analyzed Folder",
       "file_type": "document",
       "source_file": "findings/README.md",
       "source_location": null,
@@ -84,12 +116,12 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "readme_play_store_source",
-      "community": 2,
-      "norm_label": "play store data source"
+      "id": "findings_layout_analyzed",
+      "community": 5,
+      "norm_label": "analyzed folder"
     },
     {
-      "label": "TikTok Data Source",
+      "label": "Reports Folder",
       "file_type": "document",
       "source_file": "findings/README.md",
       "source_location": null,
@@ -97,12 +129,64 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "readme_tiktok_source",
-      "community": 2,
-      "norm_label": "tiktok data source"
+      "id": "findings_layout_reports",
+      "community": 5,
+      "norm_label": "reports folder"
     },
     {
-      "label": "Reddit Data Source",
+      "label": "Directions Report 2026-05-07",
+      "file_type": "document",
+      "source_file": "findings/reports/directions.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-05-07",
+      "author": null,
+      "contributor": null,
+      "id": "directions_report",
+      "community": 0,
+      "norm_label": "directions report 2026-05-07"
+    },
+    {
+      "label": "Methodology Report 2026-05-07",
+      "file_type": "document",
+      "source_file": "findings/reports/methodology.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-05-07",
+      "author": null,
+      "contributor": null,
+      "id": "methodology_report",
+      "community": 4,
+      "norm_label": "methodology report 2026-05-07"
+    },
+    {
+      "label": "Drill Analysis (500 reviews)",
+      "file_type": "document",
+      "source_file": "findings/reports/drill_analysis.txt",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "drill_analysis",
+      "community": 4,
+      "norm_label": "drill analysis (500 reviews)"
+    },
+    {
+      "label": "Final Verdict Matrix",
+      "file_type": "document",
+      "source_file": "findings/reports/FINAL_VERDICT.txt",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "final_verdict",
+      "community": 1,
+      "norm_label": "final verdict matrix"
+    },
+    {
+      "label": "app-radar Skill",
       "file_type": "document",
       "source_file": "findings/README.md",
       "source_location": null,
@@ -110,12 +194,12 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "readme_reddit_source",
-      "community": 2,
-      "norm_label": "reddit data source"
+      "id": "skill_app_radar",
+      "community": 5,
+      "norm_label": "app-radar skill"
     },
     {
-      "label": "Google Trends Data Source",
+      "label": "google-play-reviews Skill",
       "file_type": "document",
       "source_file": "findings/README.md",
       "source_location": null,
@@ -123,53 +207,66 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "readme_trends_source",
-      "community": 2,
-      "norm_label": "google trends data source"
+      "id": "skill_play_store_reviews",
+      "community": 5,
+      "norm_label": "google-play-reviews skill"
     },
     {
-      "label": "Exhaustive Scan 2026-05-06",
+      "label": "tiktok-search Skill",
       "file_type": "document",
       "source_file": "findings/README.md",
       "source_location": null,
       "source_url": null,
-      "captured_at": "2026-05-06",
+      "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "readme_scan_2026_05_06",
-      "community": 2,
-      "norm_label": "exhaustive scan 2026-05-06"
+      "id": "skill_tiktok_search",
+      "community": 5,
+      "norm_label": "tiktok-search skill"
+    },
+    {
+      "label": "reddit-search Skill",
+      "file_type": "document",
+      "source_file": "findings/README.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "skill_reddit_search",
+      "community": 5,
+      "norm_label": "reddit-search skill"
+    },
+    {
+      "label": "google-trends Skill",
+      "file_type": "document",
+      "source_file": "findings/README.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "skill_google_trends",
+      "community": 5,
+      "norm_label": "google-trends skill"
     },
     {
       "label": "Turkey (TR)",
       "file_type": "document",
-      "source_file": "findings/reports/FINAL_VERDICT.txt",
+      "source_file": "findings/reports/directions.md",
       "source_location": null,
       "source_url": null,
       "captured_at": null,
       "author": null,
       "contributor": null,
       "id": "country_tr",
-      "community": 0,
+      "community": 3,
       "norm_label": "turkey (tr)"
-    },
-    {
-      "label": "Brazil (BR)",
-      "file_type": "document",
-      "source_file": "findings/reports/FINAL_VERDICT.txt",
-      "source_location": null,
-      "source_url": null,
-      "captured_at": null,
-      "author": null,
-      "contributor": null,
-      "id": "country_br",
-      "community": 6,
-      "norm_label": "brazil (br)"
     },
     {
       "label": "Mexico (MX)",
       "file_type": "document",
-      "source_file": "findings/reports/FINAL_VERDICT.txt",
+      "source_file": "findings/reports/directions.md",
       "source_location": null,
       "source_url": null,
       "captured_at": null,
@@ -180,9 +277,48 @@
       "norm_label": "mexico (mx)"
     },
     {
+      "label": "Brazil (BR)",
+      "file_type": "document",
+      "source_file": "findings/reports/directions.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "country_br",
+      "community": 1,
+      "norm_label": "brazil (br)"
+    },
+    {
+      "label": "Vietnam (VN)",
+      "file_type": "document",
+      "source_file": "findings/reports/directions.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "country_vn",
+      "community": 6,
+      "norm_label": "vietnam (vn)"
+    },
+    {
+      "label": "Philippines (PH)",
+      "file_type": "document",
+      "source_file": "findings/reports/directions.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "country_ph",
+      "community": 0,
+      "norm_label": "philippines (ph)"
+    },
+    {
       "label": "Indonesia (ID)",
       "file_type": "document",
-      "source_file": "findings/reports/FINAL_VERDICT.txt",
+      "source_file": "findings/reports/directions.md",
       "source_location": null,
       "source_url": null,
       "captured_at": null,
@@ -193,9 +329,9 @@
       "norm_label": "indonesia (id)"
     },
     {
-      "label": "Couple Apps Niche",
+      "label": "Couple Niche",
       "file_type": "document",
-      "source_file": "findings/reports/FINAL_VERDICT.txt",
+      "source_file": "findings/reports/directions.md",
       "source_location": null,
       "source_url": null,
       "captured_at": null,
@@ -203,12 +339,12 @@
       "contributor": null,
       "id": "niche_couple",
       "community": 1,
-      "norm_label": "couple apps niche"
+      "norm_label": "couple niche"
     },
     {
       "label": "Astrology Niche",
       "file_type": "document",
-      "source_file": "findings/reports/FINAL_VERDICT.txt",
+      "source_file": "findings/reports/directions.md",
       "source_location": null,
       "source_url": null,
       "captured_at": null,
@@ -221,28 +357,41 @@
     {
       "label": "Tarot Niche",
       "file_type": "document",
-      "source_file": "findings/reports/FINAL_VERDICT.txt",
+      "source_file": "findings/reports/directions.md",
       "source_location": null,
       "source_url": null,
       "captured_at": null,
       "author": null,
       "contributor": null,
       "id": "niche_tarot",
-      "community": 0,
+      "community": 3,
       "norm_label": "tarot niche"
     },
     {
-      "label": "Self-care Niche",
+      "label": "Sleep Niche",
       "file_type": "document",
-      "source_file": "findings/reports/FINAL_VERDICT.txt",
+      "source_file": "findings/reports/directions.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "niche_sleep",
+      "community": 4,
+      "norm_label": "sleep niche"
+    },
+    {
+      "label": "Selfcare Niche",
+      "file_type": "document",
+      "source_file": "findings/reports/drill_analysis.txt",
       "source_location": null,
       "source_url": null,
       "captured_at": null,
       "author": null,
       "contributor": null,
       "id": "niche_selfcare",
-      "community": 5,
-      "norm_label": "self-care niche"
+      "community": 0,
+      "norm_label": "selfcare niche"
     },
     {
       "label": "Manifestation Niche",
@@ -254,13 +403,52 @@
       "author": null,
       "contributor": null,
       "id": "niche_manifestation",
-      "community": 6,
+      "community": 7,
       "norm_label": "manifestation niche"
     },
     {
-      "label": "Love8 - Ciftler icin uygulama (TR)",
+      "label": "Journaling Niche (planned)",
       "file_type": "document",
-      "source_file": "findings/reports/FINAL_VERDICT.txt",
+      "source_file": "findings/reports/methodology.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "niche_journaling",
+      "community": 4,
+      "norm_label": "journaling niche (planned)"
+    },
+    {
+      "label": "Meditation Niche (planned)",
+      "file_type": "document",
+      "source_file": "findings/reports/methodology.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "niche_meditation",
+      "community": 4,
+      "norm_label": "meditation niche (planned)"
+    },
+    {
+      "label": "Fitness Niche (planned)",
+      "file_type": "document",
+      "source_file": "findings/reports/methodology.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "niche_fitness",
+      "community": 4,
+      "norm_label": "fitness niche (planned)"
+    },
+    {
+      "label": "Love8 \u00c7iftler (TR)",
+      "file_type": "document",
+      "source_file": "findings/reports/directions.md",
       "source_location": null,
       "source_url": null,
       "captured_at": null,
@@ -268,25 +456,12 @@
       "contributor": null,
       "id": "app_love8_tr",
       "community": 1,
-      "norm_label": "love8 - ciftler icin uygulama (tr)"
+      "norm_label": "love8 ciftler (tr)"
     },
     {
-      "label": "Love8 - App para casais (BR)",
+      "label": "Love8 Parejas (MX)",
       "file_type": "document",
-      "source_file": "findings/reports/FINAL_VERDICT.txt",
-      "source_location": null,
-      "source_url": null,
-      "captured_at": null,
-      "author": null,
-      "contributor": null,
-      "id": "app_love8_br",
-      "community": 1,
-      "norm_label": "love8 - app para casais (br)"
-    },
-    {
-      "label": "Love8 - App para parejas (MX)",
-      "file_type": "document",
-      "source_file": "findings/reports/FINAL_VERDICT.txt",
+      "source_file": "findings/reports/directions.md",
       "source_location": null,
       "source_url": null,
       "captured_at": null,
@@ -294,10 +469,62 @@
       "contributor": null,
       "id": "app_love8_mx",
       "community": 1,
-      "norm_label": "love8 - app para parejas (mx)"
+      "norm_label": "love8 parejas (mx)"
     },
     {
-      "label": "Astrolink - Mapa Astral (BR)",
+      "label": "Love8 Casais (BR)",
+      "file_type": "document",
+      "source_file": "findings/reports/directions.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "app_love8_br",
+      "community": 1,
+      "norm_label": "love8 casais (br)"
+    },
+    {
+      "label": "Tinder VN",
+      "file_type": "document",
+      "source_file": "findings/reports/directions.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "app_tinder_vn",
+      "community": 6,
+      "norm_label": "tinder vn"
+    },
+    {
+      "label": "Couple Joy (PH)",
+      "file_type": "document",
+      "source_file": "findings/reports/directions.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "app_couple_joy_ph",
+      "community": 0,
+      "norm_label": "couple joy (ph)"
+    },
+    {
+      "label": "Sleep Cycle Turkish (TR)",
+      "file_type": "document",
+      "source_file": "findings/reports/directions.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "app_sleep_cycle_tr",
+      "community": 3,
+      "norm_label": "sleep cycle turkish (tr)"
+    },
+    {
+      "label": "Astrolink BR",
       "file_type": "document",
       "source_file": "findings/reports/drill_analysis.txt",
       "source_location": null,
@@ -306,13 +533,13 @@
       "author": null,
       "contributor": null,
       "id": "app_astrolink_br",
-      "community": 4,
-      "norm_label": "astrolink - mapa astral (br)"
+      "community": 1,
+      "norm_label": "astrolink br"
     },
     {
-      "label": "Astrolink - Carta Astral (MX)",
+      "label": "Astrolink Carta Astral (MX)",
       "file_type": "document",
-      "source_file": "findings/reports/FINAL_VERDICT.txt",
+      "source_file": "findings/reports/directions.md",
       "source_location": null,
       "source_url": null,
       "captured_at": null,
@@ -320,10 +547,10 @@
       "contributor": null,
       "id": "app_astrolink_mx",
       "community": 0,
-      "norm_label": "astrolink - carta astral (mx)"
+      "norm_label": "astrolink carta astral (mx)"
     },
     {
-      "label": "Yodha Astrolojim ve Burcum (TR)",
+      "label": "Yodha Astrolojim (TR)",
       "file_type": "document",
       "source_file": "findings/reports/drill_analysis.txt",
       "source_location": null,
@@ -332,11 +559,37 @@
       "author": null,
       "contributor": null,
       "id": "app_yodha_tr",
-      "community": 0,
-      "norm_label": "yodha astrolojim ve burcum (tr)"
+      "community": 3,
+      "norm_label": "yodha astrolojim (tr)"
     },
     {
-      "label": "Finch: Self-Care Pet (BR)",
+      "label": "Labyrinthos Tarot (TR)",
+      "file_type": "document",
+      "source_file": "findings/reports/directions.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "app_labyrinthos_tr",
+      "community": 3,
+      "norm_label": "labyrinthos tarot (tr)"
+    },
+    {
+      "label": "Astroscope (ID)",
+      "file_type": "document",
+      "source_file": "findings/reports/directions.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "app_astroscope_id",
+      "community": 0,
+      "norm_label": "astroscope (id)"
+    },
+    {
+      "label": "Finch Self-Care Pet (BR)",
       "file_type": "document",
       "source_file": "findings/reports/drill_analysis.txt",
       "source_location": null,
@@ -345,11 +598,11 @@
       "author": null,
       "contributor": null,
       "id": "app_finch_br",
-      "community": 5,
-      "norm_label": "finch: self-care pet (br)"
+      "community": 3,
+      "norm_label": "finch self-care pet (br)"
     },
     {
-      "label": "Remente: Self Care, Wellbeing (ID)",
+      "label": "Remente (ID)",
       "file_type": "document",
       "source_file": "findings/reports/drill_analysis.txt",
       "source_location": null,
@@ -358,37 +611,11 @@
       "author": null,
       "contributor": null,
       "id": "app_remente_id",
-      "community": 4,
-      "norm_label": "remente: self care, wellbeing (id)"
-    },
-    {
-      "label": "Tarot Card Reading and Meaning / Labyrinthos (TR)",
-      "file_type": "document",
-      "source_file": "findings/reports/FINAL_VERDICT.txt",
-      "source_location": null,
-      "source_url": null,
-      "captured_at": null,
-      "author": null,
-      "contributor": null,
-      "id": "app_labyrinthos_tr",
       "community": 0,
-      "norm_label": "tarot card reading and meaning / labyrinthos (tr)"
+      "norm_label": "remente (id)"
     },
     {
-      "label": "Labyrinthos: Lecturas de Tarot (MX)",
-      "file_type": "document",
-      "source_file": "findings/reports/FINAL_VERDICT.txt",
-      "source_location": null,
-      "source_url": null,
-      "captured_at": null,
-      "author": null,
-      "contributor": null,
-      "id": "app_labyrinthos_mx",
-      "community": 0,
-      "norm_label": "labyrinthos: lecturas de tarot (mx)"
-    },
-    {
-      "label": "Bumble - Dating & Make Friends (ID)",
+      "label": "Bumble (ID)",
       "file_type": "document",
       "source_file": "findings/reports/FINAL_VERDICT.txt",
       "source_location": null,
@@ -398,114 +625,114 @@
       "contributor": null,
       "id": "app_bumble_id",
       "community": 0,
-      "norm_label": "bumble - dating & make friends (id)"
+      "norm_label": "bumble (id)"
     },
     {
-      "label": "Catzy: Viaje de autocuidado (MX)",
+      "label": "Direction 1: Cift TR couples",
       "file_type": "document",
-      "source_file": "findings/reports/FINAL_VERDICT.txt",
+      "source_file": "findings/reports/directions.md",
       "source_location": null,
       "source_url": null,
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "app_catzy_mx",
-      "community": 0,
-      "norm_label": "catzy: viaje de autocuidado (mx)"
+      "id": "direction_1_cift_tr",
+      "community": 2,
+      "norm_label": "direction 1: cift tr couples"
     },
     {
-      "label": "Astroscope: Panduan Astrologi (ID)",
+      "label": "Direction 2: Pareja MX couples",
       "file_type": "document",
-      "source_file": "findings/reports/FINAL_VERDICT.txt",
+      "source_file": "findings/reports/directions.md",
       "source_location": null,
       "source_url": null,
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "app_astroscope_id",
-      "community": 0,
-      "norm_label": "astroscope: panduan astrologi (id)"
+      "id": "direction_2_pareja_mx",
+      "community": 2,
+      "norm_label": "direction 2: pareja mx couples"
     },
     {
-      "label": "Lei da Atracao - Manifestar (BR)",
+      "label": "Direction 3: Casal BR couples",
       "file_type": "document",
-      "source_file": "findings/reports/FINAL_VERDICT.txt",
+      "source_file": "findings/reports/directions.md",
       "source_location": null,
       "source_url": null,
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "app_lei_atracao_br",
+      "id": "direction_3_casal_br",
+      "community": 1,
+      "norm_label": "direction 3: casal br couples"
+    },
+    {
+      "label": "Direction 4: Uyku Turkce TR sleep",
+      "file_type": "document",
+      "source_file": "findings/reports/directions.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "direction_4_uyku_tr",
+      "community": 3,
+      "norm_label": "direction 4: uyku turkce tr sleep"
+    },
+    {
+      "label": "Direction 5: Yeu VN couples",
+      "file_type": "document",
+      "source_file": "findings/reports/directions.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "direction_5_yeu_vn",
       "community": 6,
-      "norm_label": "lei da atracao - manifestar (br)"
+      "norm_label": "direction 5: yeu vn couples"
     },
     {
-      "label": "Me+ Agenda de Rotina Diaria (BR)",
+      "label": "Location tracking inaccuracy",
       "file_type": "document",
-      "source_file": "findings/reports/FINAL_VERDICT.txt",
+      "source_file": "findings/reports/directions.md",
       "source_location": null,
       "source_url": null,
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "app_meplus_br",
-      "community": 6,
-      "norm_label": "me+ agenda de rotina diaria (br)"
-    },
-    {
-      "label": "Location Tracking Inaccuracy",
-      "file_type": "document",
-      "source_file": "findings/reports/FINAL_VERDICT.txt",
-      "source_location": null,
-      "source_url": null,
-      "captured_at": null,
-      "author": null,
-      "contributor": null,
-      "id": "complaint_location_inaccuracy",
+      "id": "complaint_location_tracking",
       "community": 1,
       "norm_label": "location tracking inaccuracy"
     },
     {
-      "label": "Pricing/Billing Complaints",
+      "label": "Predatory billing / subscription",
       "file_type": "document",
-      "source_file": "findings/reports/drill_analysis.txt",
+      "source_file": "findings/reports/directions.md",
       "source_location": null,
       "source_url": null,
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "complaint_pricing_billing",
-      "community": 4,
-      "norm_label": "pricing/billing complaints"
+      "id": "complaint_billing",
+      "community": 1,
+      "norm_label": "predatory billing / subscription"
     },
     {
-      "label": "AI Generative Content Complaints",
+      "label": "Language localization gap",
       "file_type": "document",
-      "source_file": "findings/reports/drill_analysis.txt",
+      "source_file": "findings/reports/directions.md",
       "source_location": null,
       "source_url": null,
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "complaint_ai_generative",
-      "community": 7,
-      "norm_label": "ai generative content complaints"
+      "id": "complaint_language_gap",
+      "community": 3,
+      "norm_label": "language localization gap"
     },
     {
-      "label": "Missing Native Language Support",
-      "file_type": "document",
-      "source_file": "findings/reports/drill_analysis.txt",
-      "source_location": null,
-      "source_url": null,
-      "captured_at": null,
-      "author": null,
-      "contributor": null,
-      "id": "complaint_language_missing",
-      "community": 5,
-      "norm_label": "missing native language support"
-    },
-    {
-      "label": "Crashes and Bugs",
+      "label": "Crashes and bugs",
       "file_type": "document",
       "source_file": "findings/reports/drill_analysis.txt",
       "source_location": null,
@@ -514,11 +741,24 @@
       "author": null,
       "contributor": null,
       "id": "complaint_crashes_bugs",
-      "community": 7,
+      "community": 1,
       "norm_label": "crashes and bugs"
     },
     {
-      "label": "IAP Locked Features",
+      "label": "AI-generated content complaint",
+      "file_type": "document",
+      "source_file": "findings/reports/drill_analysis.txt",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "complaint_ai_generated",
+      "community": 1,
+      "norm_label": "ai-generated content complaint"
+    },
+    {
+      "label": "IAP-locked features",
       "file_type": "document",
       "source_file": "findings/reports/drill_analysis.txt",
       "source_location": null,
@@ -527,26 +767,13 @@
       "author": null,
       "contributor": null,
       "id": "complaint_iap_locked",
-      "community": 4,
-      "norm_label": "iap locked features"
-    },
-    {
-      "label": "Premium Purchase Doesn't Unlock",
-      "file_type": "document",
-      "source_file": "findings/reports/drill_analysis.txt",
-      "source_location": null,
-      "source_url": null,
-      "captured_at": null,
-      "author": null,
-      "contributor": null,
-      "id": "complaint_premium_no_unlock",
       "community": 1,
-      "norm_label": "premium purchase doesn't unlock"
+      "norm_label": "iap-locked features"
     },
     {
-      "label": "Refund Denied",
+      "label": "Refund denied / support issues",
       "file_type": "document",
-      "source_file": "findings/reports/FINAL_VERDICT.txt",
+      "source_file": "findings/reports/directions.md",
       "source_location": null,
       "source_url": null,
       "captured_at": null,
@@ -554,257 +781,413 @@
       "contributor": null,
       "id": "complaint_refund_denied",
       "community": 1,
-      "norm_label": "refund denied"
+      "norm_label": "refund denied / support issues"
     },
     {
-      "label": "Verdict: high_recent_complaints",
+      "label": "Kidnapping safety fear (MX)",
       "file_type": "document",
-      "source_file": "findings/reports/FINAL_VERDICT.txt",
+      "source_file": "findings/reports/directions.md",
       "source_location": null,
       "source_url": null,
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "verdict_high_recent_complaints",
-      "community": 3,
-      "norm_label": "verdict: high_recent_complaints"
-    },
-    {
-      "label": "Verdict: viral_engagement",
-      "file_type": "document",
-      "source_file": "findings/reports/FINAL_VERDICT.txt",
-      "source_location": null,
-      "source_url": null,
-      "captured_at": null,
-      "author": null,
-      "contributor": null,
-      "id": "verdict_viral_engagement",
-      "community": 0,
-      "norm_label": "verdict: viral_engagement"
-    },
-    {
-      "label": "Verdict: vulnerable_competitor",
-      "file_type": "document",
-      "source_file": "findings/reports/FINAL_VERDICT.txt",
-      "source_location": null,
-      "source_url": null,
-      "captured_at": null,
-      "author": null,
-      "contributor": null,
-      "id": "verdict_vulnerable_competitor",
-      "community": 3,
-      "norm_label": "verdict: vulnerable_competitor"
-    },
-    {
-      "label": "Top Recommendation: TR/couple",
-      "file_type": "document",
-      "source_file": "findings/reports/recommendation.md",
-      "source_location": null,
-      "source_url": null,
-      "captured_at": "2026-05-06T22:01:23.632Z",
-      "author": null,
-      "contributor": null,
-      "id": "recommendation_top_cell_tr_couple",
-      "community": 3,
-      "norm_label": "top recommendation: tr/couple"
-    },
-    {
-      "label": "Rationale: 1-star ratio 20.9%",
-      "file_type": "document",
-      "source_file": "findings/reports/recommendation.md",
-      "source_location": null,
-      "source_url": null,
-      "captured_at": null,
-      "author": null,
-      "contributor": null,
-      "id": "rationale_vulnerable_competitor",
-      "community": 3,
-      "norm_label": "rationale: 1-star ratio 20.9%"
-    },
-    {
-      "label": "Rationale: low_pct 35.6% degrading",
-      "file_type": "document",
-      "source_file": "findings/reports/recommendation.md",
-      "source_location": null,
-      "source_url": null,
-      "captured_at": null,
-      "author": null,
-      "contributor": null,
-      "id": "rationale_degrading_competitor",
-      "community": 3,
-      "norm_label": "rationale: low_pct 35.6% degrading"
-    },
-    {
-      "label": "Rationale: 649.9B TikTok views mega niche",
-      "file_type": "document",
-      "source_file": "findings/reports/recommendation.md",
-      "source_location": null,
-      "source_url": null,
-      "captured_at": null,
-      "author": null,
-      "contributor": null,
-      "id": "rationale_mega_tiktok_niche",
+      "id": "complaint_kidnapping_safety",
       "community": 2,
-      "norm_label": "rationale: 649.9b tiktok views mega niche"
+      "norm_label": "kidnapping safety fear (mx)"
     },
     {
-      "label": "Quote TR Love8: location teleporting iPhone partner",
+      "label": "Samsung Health Connect missing",
       "file_type": "document",
-      "source_file": "findings/reports/FINAL_VERDICT.txt",
+      "source_file": "findings/reports/directions.md",
       "source_location": null,
       "source_url": null,
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "quote_tr_love8_location_teleport",
-      "community": 1,
-      "norm_label": "quote tr love8: location teleporting iphone partner"
-    },
-    {
-      "label": "Quote TR Love8: 580km/h impossible speed shown",
-      "file_type": "document",
-      "source_file": "findings/reports/FINAL_VERDICT.txt",
-      "source_location": null,
-      "source_url": null,
-      "captured_at": null,
-      "author": null,
-      "contributor": null,
-      "id": "quote_tr_love8_580km_speed",
-      "community": 1,
-      "norm_label": "quote tr love8: 580km/h impossible speed shown"
-    },
-    {
-      "label": "Quote BR Love8: paid Premium yet no realtime location",
-      "file_type": "document",
-      "source_file": "findings/reports/FINAL_VERDICT.txt",
-      "source_location": null,
-      "source_url": null,
-      "captured_at": null,
-      "author": null,
-      "contributor": null,
-      "id": "quote_br_love8_paid_no_realtime",
-      "community": 1,
-      "norm_label": "quote br love8: paid premium yet no realtime location"
-    },
-    {
-      "label": "Quote MX Love8: imprecise location notifications",
-      "file_type": "document",
-      "source_file": "findings/reports/FINAL_VERDICT.txt",
-      "source_location": null,
-      "source_url": null,
-      "captured_at": null,
-      "author": null,
-      "contributor": null,
-      "id": "quote_mx_love8_imprecise_location",
-      "community": 1,
-      "norm_label": "quote mx love8: imprecise location notifications"
-    },
-    {
-      "label": "Quote BR Finch: not in Portuguese",
-      "file_type": "document",
-      "source_file": "findings/reports/drill_analysis.txt",
-      "source_location": null,
-      "source_url": null,
-      "captured_at": null,
-      "author": null,
-      "contributor": null,
-      "id": "quote_br_finch_no_portuguese",
-      "community": 5,
-      "norm_label": "quote br finch: not in portuguese"
-    },
-    {
-      "label": "Quote BR Finch: uses generative AI for ads/code",
-      "file_type": "document",
-      "source_file": "findings/reports/drill_analysis.txt",
-      "source_location": null,
-      "source_url": null,
-      "captured_at": null,
-      "author": null,
-      "contributor": null,
-      "id": "quote_br_finch_ai_generative",
-      "community": 7,
-      "norm_label": "quote br finch: uses generative ai for ads/code"
-    },
-    {
-      "label": "Quote BR Astrolink: paid promo twice no premium unlock",
-      "file_type": "document",
-      "source_file": "findings/reports/drill_analysis.txt",
-      "source_location": null,
-      "source_url": null,
-      "captured_at": null,
-      "author": null,
-      "contributor": null,
-      "id": "quote_br_astrolink_paid_promo_double",
-      "community": 1,
-      "norm_label": "quote br astrolink: paid promo twice no premium unlock"
-    },
-    {
-      "label": "Quote BR Astrolink: AI cannot read available info, learning bug",
-      "file_type": "document",
-      "source_file": "findings/reports/drill_analysis.txt",
-      "source_location": null,
-      "source_url": null,
-      "captured_at": null,
-      "author": null,
-      "contributor": null,
-      "id": "quote_br_astrolink_ai_bug",
-      "community": 7,
-      "norm_label": "quote br astrolink: ai cannot read available info, learning bug"
-    },
-    {
-      "label": "Composite Score 8 - TR/couple",
-      "file_type": "document",
-      "source_file": "findings/reports/FINAL_VERDICT.txt",
-      "source_location": null,
-      "source_url": null,
-      "captured_at": null,
-      "author": null,
-      "contributor": null,
-      "id": "metric_tr_couple_score_8",
+      "id": "complaint_samsung_health",
       "community": 3,
-      "norm_label": "composite score 8 - tr/couple"
+      "norm_label": "samsung health connect missing"
     },
     {
-      "label": "Composite Score 7 - ID/couple",
+      "label": "Quote: 580km/h phantom trips TR",
       "file_type": "document",
-      "source_file": "findings/reports/FINAL_VERDICT.txt",
+      "source_file": "findings/reports/directions.md",
       "source_location": null,
       "source_url": null,
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "metric_id_couple_score_7",
-      "community": 0,
-      "norm_label": "composite score 7 - id/couple"
+      "id": "quote_tr_580kmh",
+      "community": 2,
+      "norm_label": "quote: 580km/h phantom trips tr"
     },
     {
-      "label": "Composite Score 6 - BR/couple",
+      "label": "Quote: tengo miedo de que me secuestren MX",
       "file_type": "document",
-      "source_file": "findings/reports/FINAL_VERDICT.txt",
+      "source_file": "findings/reports/directions.md",
       "source_location": null,
       "source_url": null,
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "metric_br_couple_score_6",
+      "id": "quote_mx_kidnap",
+      "community": 2,
+      "norm_label": "quote: tengo miedo de que me secuestren mx"
+    },
+    {
+      "label": "Quote: Aplicativo da discordia BR",
+      "file_type": "document",
+      "source_file": "findings/reports/directions.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "quote_br_discordia",
       "community": 1,
-      "norm_label": "composite score 6 - br/couple"
+      "norm_label": "quote: aplicativo da discordia br"
     },
     {
-      "label": "Composite Score 6 - BR/astrology",
+      "label": "Quote: Neden Turkce dil destegi yok TR",
       "file_type": "document",
-      "source_file": "findings/reports/FINAL_VERDICT.txt",
+      "source_file": "findings/reports/directions.md",
       "source_location": null,
       "source_url": null,
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "metric_br_astrology_score_6",
+      "id": "quote_tr_no_turkish",
+      "community": 3,
+      "norm_label": "quote: neden turkce dil destegi yok tr"
+    },
+    {
+      "label": "Quote: app bip lam VN Tinder scam",
+      "file_type": "document",
+      "source_file": "findings/reports/directions.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "quote_vn_tinder_scam",
+      "community": 6,
+      "norm_label": "quote: app bip lam vn tinder scam"
+    },
+    {
+      "label": "Anti-tracking differentiation thesis",
+      "file_type": "document",
+      "source_file": "findings/reports/directions.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "thesis_no_tracking",
+      "community": 2,
+      "norm_label": "anti-tracking differentiation thesis"
+    },
+    {
+      "label": "One-time lifetime pricing thesis",
+      "file_type": "document",
+      "source_file": "findings/reports/directions.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "thesis_one_time_pricing",
+      "community": 2,
+      "norm_label": "one-time lifetime pricing thesis"
+    },
+    {
+      "label": "First-mover empty category thesis (VN)",
+      "file_type": "document",
+      "source_file": "findings/reports/directions.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "thesis_first_mover_vn",
+      "community": 6,
+      "norm_label": "first-mover empty category thesis (vn)"
+    },
+    {
+      "label": "Turkish localization gap thesis",
+      "file_type": "document",
+      "source_file": "findings/reports/directions.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "thesis_turkish_localization",
+      "community": 3,
+      "norm_label": "turkish localization gap thesis"
+    },
+    {
+      "label": "E2E encrypted couple journal thesis",
+      "file_type": "document",
+      "source_file": "findings/reports/directions.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "thesis_e2e_journal",
+      "community": 2,
+      "norm_label": "e2e encrypted couple journal thesis"
+    },
+    {
+      "label": "Cross-country shared codebase leverage",
+      "file_type": "document",
+      "source_file": "findings/reports/directions.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "thesis_cross_country_codebase",
+      "community": 2,
+      "norm_label": "cross-country shared codebase leverage"
+    },
+    {
+      "label": "React Native + Firebase stack",
+      "file_type": "document",
+      "source_file": "findings/reports/directions.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "tech_react_native",
+      "community": 2,
+      "norm_label": "react native + firebase stack"
+    },
+    {
+      "label": "Kotlin + AudioRecord stack",
+      "file_type": "document",
+      "source_file": "findings/reports/directions.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "tech_kotlin_audio",
+      "community": 3,
+      "norm_label": "kotlin + audiorecord stack"
+    },
+    {
+      "label": "Cift TR 149TRY lifetime",
+      "file_type": "document",
+      "source_file": "findings/reports/directions.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "monetization_cift_149try",
+      "community": 2,
+      "norm_label": "cift tr 149try lifetime"
+    },
+    {
+      "label": "Pareja MX 5USD lifetime",
+      "file_type": "document",
+      "source_file": "findings/reports/directions.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "monetization_pareja_5usd",
+      "community": 2,
+      "norm_label": "pareja mx 5usd lifetime"
+    },
+    {
+      "label": "Casal BR R$24.90 lifetime",
+      "file_type": "document",
+      "source_file": "findings/reports/directions.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "monetization_casal_24brl",
+      "community": 6,
+      "norm_label": "casal br r$24.90 lifetime"
+    },
+    {
+      "label": "Uyku TR 99TRY lifetime",
+      "file_type": "document",
+      "source_file": "findings/reports/directions.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "monetization_uyku_99try",
+      "community": 2,
+      "norm_label": "uyku tr 99try lifetime"
+    },
+    {
+      "label": "Yeu VN 99,000 VND lifetime",
+      "file_type": "document",
+      "source_file": "findings/reports/directions.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "monetization_yeu_99kvnd",
+      "community": 6,
+      "norm_label": "yeu vn 99,000 vnd lifetime"
+    },
+    {
+      "label": "Phase A: New niche exploration",
+      "file_type": "document",
+      "source_file": "findings/reports/methodology.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "methodology_phase_a_explore",
       "community": 4,
-      "norm_label": "composite score 6 - br/astrology"
+      "norm_label": "phase a: new niche exploration"
     },
     {
-      "label": "Composite Score 6 - MX/couple",
+      "label": "Phase B: Drill refinement",
+      "file_type": "document",
+      "source_file": "findings/reports/methodology.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "methodology_phase_b_drill",
+      "community": 4,
+      "norm_label": "phase b: drill refinement"
+    },
+    {
+      "label": "Phase C: Synthesis + graphify",
+      "file_type": "document",
+      "source_file": "findings/reports/methodology.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "methodology_phase_c_synthesis",
+      "community": 4,
+      "norm_label": "phase c: synthesis + graphify"
+    },
+    {
+      "label": "Skipped: habit/period/mood trackers",
+      "file_type": "document",
+      "source_file": "findings/reports/methodology.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "methodology_skipped_niches",
+      "community": 4,
+      "norm_label": "skipped: habit/period/mood trackers"
+    },
+    {
+      "label": "Skipped: IN, EG (low ARPU)",
+      "file_type": "document",
+      "source_file": "findings/reports/methodology.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "methodology_skipped_countries",
+      "community": 4,
+      "norm_label": "skipped: in, eg (low arpu)"
+    },
+    {
+      "label": "35% weekly cap checkpoint",
+      "file_type": "document",
+      "source_file": "findings/reports/methodology.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "methodology_limit_check",
+      "community": 4,
+      "norm_label": "35% weekly cap checkpoint"
+    },
+    {
+      "label": "Honorable: MX/sleep 866K TT likes",
+      "file_type": "document",
+      "source_file": "findings/reports/directions.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "honorable_mx_sleep",
+      "community": 0,
+      "norm_label": "honorable: mx/sleep 866k tt likes"
+    },
+    {
+      "label": "Honorable: ID/astrology 1.7M TT likes",
+      "file_type": "document",
+      "source_file": "findings/reports/directions.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "honorable_id_astrology",
+      "community": 0,
+      "norm_label": "honorable: id/astrology 1.7m tt likes"
+    },
+    {
+      "label": "Honorable: TR/tarot 91-thumbs lang demand",
+      "file_type": "document",
+      "source_file": "findings/reports/directions.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "honorable_tr_tarot",
+      "community": 0,
+      "norm_label": "honorable: tr/tarot 91-thumbs lang demand"
+    },
+    {
+      "label": "Honorable: BR/astrology Astrolink billing",
+      "file_type": "document",
+      "source_file": "findings/reports/directions.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "honorable_br_astrology",
+      "community": 0,
+      "norm_label": "honorable: br/astrology astrolink billing"
+    },
+    {
+      "label": "Top 10 cells scoreboard",
+      "file_type": "document",
+      "source_file": "findings/reports/directions.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "scoreboard_top10",
+      "community": 0,
+      "norm_label": "top 10 cells scoreboard"
+    },
+    {
+      "label": "Verdict matrix 16 cells",
       "file_type": "document",
       "source_file": "findings/reports/FINAL_VERDICT.txt",
       "source_location": null,
@@ -812,9 +1195,22 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "metric_mx_couple_score_6",
+      "id": "verdict_matrix_16cells",
       "community": 1,
-      "norm_label": "composite score 6 - mx/couple"
+      "norm_label": "verdict matrix 16 cells"
+    },
+    {
+      "label": "r/LongDistance journaling thread",
+      "file_type": "document",
+      "source_file": "findings/reports/directions.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "reddit_longdistance_thread",
+      "community": 2,
+      "norm_label": "r/longdistance journaling thread"
     }
   ],
   "links": [
@@ -825,8 +1221,8 @@
       "source_file": "findings/README.md",
       "source_location": null,
       "weight": 1.0,
-      "source": "readme_findings_layout",
-      "target": "readme_validate_app_idea_skill"
+      "source": "findings_readme",
+      "target": "findings_layout_raw"
     },
     {
       "relation": "references",
@@ -835,8 +1231,8 @@
       "source_file": "findings/README.md",
       "source_location": null,
       "weight": 1.0,
-      "source": "readme_findings_layout",
-      "target": "readme_play_store_source"
+      "source": "findings_readme",
+      "target": "findings_layout_analyzed"
     },
     {
       "relation": "references",
@@ -845,8 +1241,8 @@
       "source_file": "findings/README.md",
       "source_location": null,
       "weight": 1.0,
-      "source": "readme_findings_layout",
-      "target": "readme_tiktok_source"
+      "source": "findings_readme",
+      "target": "findings_layout_reports"
     },
     {
       "relation": "references",
@@ -855,8 +1251,8 @@
       "source_file": "findings/README.md",
       "source_location": null,
       "weight": 1.0,
-      "source": "readme_findings_layout",
-      "target": "readme_reddit_source"
+      "source": "findings_readme",
+      "target": "skill_app_radar"
     },
     {
       "relation": "references",
@@ -865,48 +1261,188 @@
       "source_file": "findings/README.md",
       "source_location": null,
       "weight": 1.0,
-      "source": "readme_findings_layout",
-      "target": "readme_trends_source"
+      "source": "findings_readme",
+      "target": "final_verdict"
     },
     {
       "relation": "references",
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
-      "source_file": "findings/README.md",
+      "source_file": "findings/reports/directions.md",
       "source_location": null,
       "weight": 1.0,
-      "source": "readme_scan_2026_05_06",
-      "target": "readme_findings_layout"
+      "source": "directions_report",
+      "target": "scoreboard_top10"
     },
     {
-      "relation": "shares_data_with",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "findings/reports/directions.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "directions_report",
+      "target": "direction_1_cift_tr"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "findings/reports/directions.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "directions_report",
+      "target": "direction_2_pareja_mx"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "findings/reports/directions.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "directions_report",
+      "target": "direction_3_casal_br"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "findings/reports/directions.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "directions_report",
+      "target": "direction_4_uyku_tr"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "findings/reports/directions.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "directions_report",
+      "target": "direction_5_yeu_vn"
+    },
+    {
+      "relation": "rationale_for",
       "confidence": "INFERRED",
-      "confidence_score": 0.7,
-      "source_file": "findings/README.md",
+      "confidence_score": 0.85,
+      "source_file": "findings/reports/methodology.md",
       "source_location": null,
       "weight": 1.0,
-      "source": "readme_play_store_source",
-      "target": "app_love8_tr"
+      "source": "methodology_phase_c_synthesis",
+      "target": "directions_report"
     },
     {
-      "relation": "shares_data_with",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "findings/reports/directions.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "directions_report",
+      "target": "honorable_mx_sleep"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "findings/reports/directions.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "directions_report",
+      "target": "honorable_id_astrology"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "findings/reports/directions.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "directions_report",
+      "target": "honorable_tr_tarot"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "findings/reports/directions.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "directions_report",
+      "target": "honorable_br_astrology"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "findings/reports/methodology.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "methodology_report",
+      "target": "methodology_phase_a_explore"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "findings/reports/methodology.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "methodology_report",
+      "target": "methodology_phase_b_drill"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "findings/reports/methodology.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "methodology_report",
+      "target": "methodology_phase_c_synthesis"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "findings/reports/methodology.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "methodology_report",
+      "target": "methodology_skipped_niches"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "findings/reports/methodology.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "methodology_report",
+      "target": "methodology_skipped_countries"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "findings/reports/methodology.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "methodology_report",
+      "target": "methodology_limit_check"
+    },
+    {
+      "relation": "references",
       "confidence": "INFERRED",
-      "confidence_score": 0.7,
-      "source_file": "findings/README.md",
+      "confidence_score": 0.85,
+      "source_file": "findings/reports/methodology.md",
       "source_location": null,
       "weight": 1.0,
-      "source": "readme_play_store_source",
-      "target": "app_astrolink_br"
-    },
-    {
-      "relation": "shares_data_with",
-      "confidence": "INFERRED",
-      "confidence_score": 0.7,
-      "source_file": "findings/README.md",
-      "source_location": null,
-      "weight": 1.0,
-      "source": "readme_tiktok_source",
-      "target": "rationale_mega_tiktok_niche"
+      "source": "methodology_phase_b_drill",
+      "target": "drill_analysis"
     },
     {
       "relation": "references",
@@ -915,18 +1451,8 @@
       "source_file": "findings/reports/FINAL_VERDICT.txt",
       "source_location": null,
       "weight": 1.0,
-      "source": "app_love8_tr",
-      "target": "country_tr"
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "findings/reports/drill_analysis.txt",
-      "source_location": null,
-      "weight": 1.0,
-      "source": "app_yodha_tr",
-      "target": "country_tr"
+      "source": "final_verdict",
+      "target": "verdict_matrix_16cells"
     },
     {
       "relation": "references",
@@ -935,337 +1461,7 @@
       "source_file": "findings/reports/FINAL_VERDICT.txt",
       "source_location": null,
       "weight": 1.0,
-      "source": "app_labyrinthos_tr",
-      "target": "country_tr"
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "findings/reports/recommendation.md",
-      "source_location": null,
-      "weight": 1.0,
-      "source": "recommendation_top_cell_tr_couple",
-      "target": "country_tr"
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "findings/reports/FINAL_VERDICT.txt",
-      "source_location": null,
-      "weight": 1.0,
-      "source": "app_love8_br",
-      "target": "country_br"
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "findings/reports/drill_analysis.txt",
-      "source_location": null,
-      "weight": 1.0,
-      "source": "app_astrolink_br",
-      "target": "country_br"
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "findings/reports/drill_analysis.txt",
-      "source_location": null,
-      "weight": 1.0,
-      "source": "app_finch_br",
-      "target": "country_br"
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "findings/reports/FINAL_VERDICT.txt",
-      "source_location": null,
-      "weight": 1.0,
-      "source": "app_lei_atracao_br",
-      "target": "country_br"
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "findings/reports/FINAL_VERDICT.txt",
-      "source_location": null,
-      "weight": 1.0,
-      "source": "app_meplus_br",
-      "target": "country_br"
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "findings/reports/FINAL_VERDICT.txt",
-      "source_location": null,
-      "weight": 1.0,
-      "source": "app_love8_mx",
-      "target": "country_mx"
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "findings/reports/FINAL_VERDICT.txt",
-      "source_location": null,
-      "weight": 1.0,
-      "source": "app_astrolink_mx",
-      "target": "country_mx"
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "findings/reports/FINAL_VERDICT.txt",
-      "source_location": null,
-      "weight": 1.0,
-      "source": "app_labyrinthos_mx",
-      "target": "country_mx"
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "findings/reports/FINAL_VERDICT.txt",
-      "source_location": null,
-      "weight": 1.0,
-      "source": "app_catzy_mx",
-      "target": "country_mx"
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "findings/reports/drill_analysis.txt",
-      "source_location": null,
-      "weight": 1.0,
-      "source": "app_remente_id",
-      "target": "country_id"
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "findings/reports/FINAL_VERDICT.txt",
-      "source_location": null,
-      "weight": 1.0,
-      "source": "app_bumble_id",
-      "target": "country_id"
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "findings/reports/FINAL_VERDICT.txt",
-      "source_location": null,
-      "weight": 1.0,
-      "source": "app_astroscope_id",
-      "target": "country_id"
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "findings/reports/FINAL_VERDICT.txt",
-      "source_location": null,
-      "weight": 1.0,
-      "source": "app_love8_tr",
-      "target": "niche_couple"
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "findings/reports/FINAL_VERDICT.txt",
-      "source_location": null,
-      "weight": 1.0,
-      "source": "app_love8_br",
-      "target": "niche_couple"
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "findings/reports/FINAL_VERDICT.txt",
-      "source_location": null,
-      "weight": 1.0,
-      "source": "app_love8_mx",
-      "target": "niche_couple"
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "findings/reports/FINAL_VERDICT.txt",
-      "source_location": null,
-      "weight": 1.0,
-      "source": "app_bumble_id",
-      "target": "niche_couple"
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "findings/reports/recommendation.md",
-      "source_location": null,
-      "weight": 1.0,
-      "source": "recommendation_top_cell_tr_couple",
-      "target": "niche_couple"
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "findings/reports/drill_analysis.txt",
-      "source_location": null,
-      "weight": 1.0,
-      "source": "app_astrolink_br",
-      "target": "niche_astrology"
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "findings/reports/FINAL_VERDICT.txt",
-      "source_location": null,
-      "weight": 1.0,
-      "source": "app_astrolink_mx",
-      "target": "niche_astrology"
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "findings/reports/drill_analysis.txt",
-      "source_location": null,
-      "weight": 1.0,
-      "source": "app_yodha_tr",
-      "target": "niche_astrology"
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "findings/reports/FINAL_VERDICT.txt",
-      "source_location": null,
-      "weight": 1.0,
-      "source": "app_astroscope_id",
-      "target": "niche_astrology"
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "findings/reports/FINAL_VERDICT.txt",
-      "source_location": null,
-      "weight": 1.0,
-      "source": "app_labyrinthos_tr",
-      "target": "niche_tarot"
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "findings/reports/FINAL_VERDICT.txt",
-      "source_location": null,
-      "weight": 1.0,
-      "source": "app_labyrinthos_mx",
-      "target": "niche_tarot"
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "findings/reports/drill_analysis.txt",
-      "source_location": null,
-      "weight": 1.0,
-      "source": "app_finch_br",
-      "target": "niche_selfcare"
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "findings/reports/drill_analysis.txt",
-      "source_location": null,
-      "weight": 1.0,
-      "source": "app_remente_id",
-      "target": "niche_selfcare"
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "findings/reports/FINAL_VERDICT.txt",
-      "source_location": null,
-      "weight": 1.0,
-      "source": "app_catzy_mx",
-      "target": "niche_selfcare"
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "findings/reports/FINAL_VERDICT.txt",
-      "source_location": null,
-      "weight": 1.0,
-      "source": "app_meplus_br",
-      "target": "niche_selfcare"
-    },
-    {
-      "relation": "conceptually_related_to",
-      "confidence": "INFERRED",
-      "confidence_score": 0.55,
-      "source_file": "findings/reports/drill_analysis.txt",
-      "source_location": null,
-      "weight": 1.0,
-      "source": "complaint_language_missing",
-      "target": "niche_selfcare"
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "findings/reports/FINAL_VERDICT.txt",
-      "source_location": null,
-      "weight": 1.0,
-      "source": "app_lei_atracao_br",
-      "target": "niche_manifestation"
-    },
-    {
-      "relation": "cites",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "findings/reports/FINAL_VERDICT.txt",
-      "source_location": null,
-      "weight": 1.0,
-      "source": "app_love8_tr",
-      "target": "complaint_location_inaccuracy"
-    },
-    {
-      "relation": "cites",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "findings/reports/FINAL_VERDICT.txt",
-      "source_location": null,
-      "weight": 1.0,
-      "source": "quote_tr_love8_location_teleport",
-      "target": "app_love8_tr"
-    },
-    {
-      "relation": "cites",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "findings/reports/FINAL_VERDICT.txt",
-      "source_location": null,
-      "weight": 1.0,
-      "source": "quote_tr_love8_580km_speed",
+      "source": "final_verdict",
       "target": "app_love8_tr"
     },
     {
@@ -1275,77 +1471,17 @@
       "source_file": "findings/reports/FINAL_VERDICT.txt",
       "source_location": null,
       "weight": 1.0,
-      "source": "app_love8_tr",
-      "target": "verdict_high_recent_complaints"
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "findings/reports/FINAL_VERDICT.txt",
-      "source_location": null,
-      "weight": 1.0,
-      "source": "app_love8_tr",
-      "target": "verdict_vulnerable_competitor"
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "findings/reports/recommendation.md",
-      "source_location": null,
-      "weight": 1.0,
-      "source": "recommendation_top_cell_tr_couple",
-      "target": "app_love8_tr"
-    },
-    {
-      "relation": "semantically_similar_to",
-      "confidence": "INFERRED",
-      "confidence_score": 0.95,
-      "source_file": "findings/reports/FINAL_VERDICT.txt",
-      "source_location": null,
-      "weight": 1.0,
-      "source": "app_love8_tr",
-      "target": "app_love8_br"
-    },
-    {
-      "relation": "semantically_similar_to",
-      "confidence": "INFERRED",
-      "confidence_score": 0.95,
-      "source_file": "findings/reports/FINAL_VERDICT.txt",
-      "source_location": null,
-      "weight": 1.0,
-      "source": "app_love8_tr",
+      "source": "final_verdict",
       "target": "app_love8_mx"
     },
     {
-      "relation": "cites",
+      "relation": "references",
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "findings/reports/FINAL_VERDICT.txt",
       "source_location": null,
       "weight": 1.0,
-      "source": "app_love8_br",
-      "target": "complaint_location_inaccuracy"
-    },
-    {
-      "relation": "cites",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "findings/reports/FINAL_VERDICT.txt",
-      "source_location": null,
-      "weight": 1.0,
-      "source": "app_love8_br",
-      "target": "complaint_refund_denied"
-    },
-    {
-      "relation": "cites",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "findings/reports/FINAL_VERDICT.txt",
-      "source_location": null,
-      "weight": 1.0,
-      "source": "quote_br_love8_paid_no_realtime",
+      "source": "final_verdict",
       "target": "app_love8_br"
     },
     {
@@ -1355,147 +1491,7 @@
       "source_file": "findings/reports/FINAL_VERDICT.txt",
       "source_location": null,
       "weight": 1.0,
-      "source": "app_love8_br",
-      "target": "verdict_high_recent_complaints"
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "findings/reports/FINAL_VERDICT.txt",
-      "source_location": null,
-      "weight": 1.0,
-      "source": "metric_br_couple_score_6",
-      "target": "app_love8_br"
-    },
-    {
-      "relation": "semantically_similar_to",
-      "confidence": "INFERRED",
-      "confidence_score": 0.95,
-      "source_file": "findings/reports/FINAL_VERDICT.txt",
-      "source_location": null,
-      "weight": 1.0,
-      "source": "app_love8_br",
-      "target": "app_love8_mx"
-    },
-    {
-      "relation": "cites",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "findings/reports/FINAL_VERDICT.txt",
-      "source_location": null,
-      "weight": 1.0,
-      "source": "app_love8_mx",
-      "target": "complaint_location_inaccuracy"
-    },
-    {
-      "relation": "cites",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "findings/reports/FINAL_VERDICT.txt",
-      "source_location": null,
-      "weight": 1.0,
-      "source": "app_love8_mx",
-      "target": "complaint_iap_locked"
-    },
-    {
-      "relation": "cites",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "findings/reports/FINAL_VERDICT.txt",
-      "source_location": null,
-      "weight": 1.0,
-      "source": "quote_mx_love8_imprecise_location",
-      "target": "app_love8_mx"
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "findings/reports/FINAL_VERDICT.txt",
-      "source_location": null,
-      "weight": 1.0,
-      "source": "app_love8_mx",
-      "target": "verdict_viral_engagement"
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "findings/reports/FINAL_VERDICT.txt",
-      "source_location": null,
-      "weight": 1.0,
-      "source": "metric_mx_couple_score_6",
-      "target": "app_love8_mx"
-    },
-    {
-      "relation": "cites",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "findings/reports/drill_analysis.txt",
-      "source_location": null,
-      "weight": 1.0,
-      "source": "app_astrolink_br",
-      "target": "complaint_crashes_bugs"
-    },
-    {
-      "relation": "cites",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "findings/reports/drill_analysis.txt",
-      "source_location": null,
-      "weight": 1.0,
-      "source": "app_astrolink_br",
-      "target": "complaint_pricing_billing"
-    },
-    {
-      "relation": "cites",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "findings/reports/drill_analysis.txt",
-      "source_location": null,
-      "weight": 1.0,
-      "source": "app_astrolink_br",
-      "target": "complaint_ai_generative"
-    },
-    {
-      "relation": "cites",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "findings/reports/drill_analysis.txt",
-      "source_location": null,
-      "weight": 1.0,
-      "source": "app_astrolink_br",
-      "target": "complaint_iap_locked"
-    },
-    {
-      "relation": "cites",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "findings/reports/drill_analysis.txt",
-      "source_location": null,
-      "weight": 1.0,
-      "source": "app_astrolink_br",
-      "target": "complaint_premium_no_unlock"
-    },
-    {
-      "relation": "cites",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "findings/reports/drill_analysis.txt",
-      "source_location": null,
-      "weight": 1.0,
-      "source": "quote_br_astrolink_paid_promo_double",
-      "target": "app_astrolink_br"
-    },
-    {
-      "relation": "cites",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "findings/reports/drill_analysis.txt",
-      "source_location": null,
-      "weight": 1.0,
-      "source": "quote_br_astrolink_ai_bug",
+      "source": "final_verdict",
       "target": "app_astrolink_br"
     },
     {
@@ -1505,474 +1501,1346 @@
       "source_file": "findings/reports/FINAL_VERDICT.txt",
       "source_location": null,
       "weight": 1.0,
-      "source": "app_astrolink_br",
-      "target": "verdict_high_recent_complaints"
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "findings/reports/FINAL_VERDICT.txt",
-      "source_location": null,
-      "weight": 1.0,
-      "source": "metric_br_astrology_score_6",
-      "target": "app_astrolink_br"
-    },
-    {
-      "relation": "semantically_similar_to",
-      "confidence": "INFERRED",
-      "confidence_score": 0.95,
-      "source_file": "findings/reports/FINAL_VERDICT.txt",
-      "source_location": null,
-      "weight": 1.0,
-      "source": "app_astrolink_br",
-      "target": "app_astrolink_mx"
-    },
-    {
-      "relation": "cites",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "findings/reports/drill_analysis.txt",
-      "source_location": null,
-      "weight": 1.0,
-      "source": "app_yodha_tr",
-      "target": "complaint_pricing_billing"
-    },
-    {
-      "relation": "cites",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "findings/reports/drill_analysis.txt",
-      "source_location": null,
-      "weight": 1.0,
-      "source": "app_yodha_tr",
-      "target": "complaint_language_missing"
-    },
-    {
-      "relation": "cites",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "findings/reports/drill_analysis.txt",
-      "source_location": null,
-      "weight": 1.0,
-      "source": "app_finch_br",
-      "target": "complaint_language_missing"
-    },
-    {
-      "relation": "cites",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "findings/reports/drill_analysis.txt",
-      "source_location": null,
-      "weight": 1.0,
-      "source": "app_finch_br",
-      "target": "complaint_ai_generative"
-    },
-    {
-      "relation": "cites",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "findings/reports/drill_analysis.txt",
-      "source_location": null,
-      "weight": 1.0,
-      "source": "app_finch_br",
-      "target": "complaint_pricing_billing"
-    },
-    {
-      "relation": "cites",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "findings/reports/drill_analysis.txt",
-      "source_location": null,
-      "weight": 1.0,
-      "source": "quote_br_finch_no_portuguese",
-      "target": "app_finch_br"
-    },
-    {
-      "relation": "cites",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "findings/reports/drill_analysis.txt",
-      "source_location": null,
-      "weight": 1.0,
-      "source": "quote_br_finch_ai_generative",
-      "target": "app_finch_br"
-    },
-    {
-      "relation": "cites",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "findings/reports/drill_analysis.txt",
-      "source_location": null,
-      "weight": 1.0,
-      "source": "app_remente_id",
-      "target": "complaint_pricing_billing"
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "findings/reports/FINAL_VERDICT.txt",
-      "source_location": null,
-      "weight": 1.0,
-      "source": "app_remente_id",
-      "target": "verdict_viral_engagement"
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "findings/reports/FINAL_VERDICT.txt",
-      "source_location": null,
-      "weight": 1.0,
-      "source": "app_labyrinthos_tr",
-      "target": "verdict_viral_engagement"
-    },
-    {
-      "relation": "semantically_similar_to",
-      "confidence": "INFERRED",
-      "confidence_score": 0.95,
-      "source_file": "findings/reports/FINAL_VERDICT.txt",
-      "source_location": null,
-      "weight": 1.0,
-      "source": "app_labyrinthos_tr",
-      "target": "app_labyrinthos_mx"
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "findings/reports/FINAL_VERDICT.txt",
-      "source_location": null,
-      "weight": 1.0,
-      "source": "app_labyrinthos_mx",
-      "target": "verdict_viral_engagement"
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "findings/reports/FINAL_VERDICT.txt",
-      "source_location": null,
-      "weight": 1.0,
-      "source": "app_bumble_id",
-      "target": "verdict_high_recent_complaints"
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "findings/reports/FINAL_VERDICT.txt",
-      "source_location": null,
-      "weight": 1.0,
-      "source": "app_bumble_id",
-      "target": "verdict_viral_engagement"
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "findings/reports/FINAL_VERDICT.txt",
-      "source_location": null,
-      "weight": 1.0,
-      "source": "metric_id_couple_score_7",
+      "source": "final_verdict",
       "target": "app_bumble_id"
     },
     {
-      "relation": "references",
+      "relation": "shares_data_with",
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
-      "source_file": "findings/reports/FINAL_VERDICT.txt",
+      "source_file": "findings/README.md",
       "source_location": null,
       "weight": 1.0,
-      "source": "app_catzy_mx",
-      "target": "verdict_viral_engagement"
+      "source": "skill_app_radar",
+      "target": "skill_play_store_reviews"
+    },
+    {
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "findings/README.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "skill_app_radar",
+      "target": "skill_tiktok_search"
+    },
+    {
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "findings/README.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "skill_app_radar",
+      "target": "skill_reddit_search"
+    },
+    {
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "findings/README.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "skill_app_radar",
+      "target": "skill_google_trends"
     },
     {
       "relation": "references",
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
-      "source_file": "findings/reports/FINAL_VERDICT.txt",
+      "source_file": "findings/reports/directions.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "direction_1_cift_tr",
+      "target": "country_tr"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "findings/reports/directions.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "direction_4_uyku_tr",
+      "target": "country_tr"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "findings/reports/directions.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "app_love8_tr",
+      "target": "country_tr"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "findings/reports/directions.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "app_sleep_cycle_tr",
+      "target": "country_tr"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "findings/reports/drill_analysis.txt",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "app_yodha_tr",
+      "target": "country_tr"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "findings/reports/directions.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "app_labyrinthos_tr",
+      "target": "country_tr"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "findings/reports/directions.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "scoreboard_top10",
+      "target": "country_tr"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "findings/reports/directions.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "direction_2_pareja_mx",
+      "target": "country_mx"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "findings/reports/directions.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "app_love8_mx",
+      "target": "country_mx"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "findings/reports/directions.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "app_astrolink_mx",
+      "target": "country_mx"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "findings/reports/directions.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "scoreboard_top10",
+      "target": "country_mx"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "findings/reports/directions.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "direction_3_casal_br",
+      "target": "country_br"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "findings/reports/directions.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "app_love8_br",
+      "target": "country_br"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "findings/reports/drill_analysis.txt",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "app_astrolink_br",
+      "target": "country_br"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "findings/reports/drill_analysis.txt",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "app_finch_br",
+      "target": "country_br"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "findings/reports/directions.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "scoreboard_top10",
+      "target": "country_br"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "findings/reports/directions.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "direction_5_yeu_vn",
+      "target": "country_vn"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "findings/reports/directions.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "app_tinder_vn",
+      "target": "country_vn"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "findings/reports/methodology.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "methodology_phase_a_explore",
+      "target": "country_vn"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "findings/reports/directions.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "scoreboard_top10",
+      "target": "country_vn"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "findings/reports/directions.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "app_couple_joy_ph",
+      "target": "country_ph"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "findings/reports/methodology.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "methodology_phase_a_explore",
+      "target": "country_ph"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "findings/reports/directions.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "scoreboard_top10",
+      "target": "country_ph"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "findings/reports/directions.md",
       "source_location": null,
       "weight": 1.0,
       "source": "app_astroscope_id",
-      "target": "verdict_viral_engagement"
+      "target": "country_id"
     },
     {
-      "relation": "cites",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "findings/reports/drill_analysis.txt",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "app_remente_id",
+      "target": "country_id"
+    },
+    {
+      "relation": "references",
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "findings/reports/FINAL_VERDICT.txt",
       "source_location": null,
       "weight": 1.0,
-      "source": "quote_tr_love8_location_teleport",
-      "target": "complaint_location_inaccuracy"
+      "source": "app_bumble_id",
+      "target": "country_id"
     },
     {
-      "relation": "cites",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "findings/reports/directions.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "scoreboard_top10",
+      "target": "country_id"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "findings/reports/directions.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "direction_1_cift_tr",
+      "target": "niche_couple"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "findings/reports/directions.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "direction_2_pareja_mx",
+      "target": "niche_couple"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "findings/reports/directions.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "direction_3_casal_br",
+      "target": "niche_couple"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "findings/reports/directions.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "direction_5_yeu_vn",
+      "target": "niche_couple"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "findings/reports/directions.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "app_love8_tr",
+      "target": "niche_couple"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "findings/reports/directions.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "app_love8_mx",
+      "target": "niche_couple"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "findings/reports/directions.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "app_love8_br",
+      "target": "niche_couple"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "findings/reports/drill_analysis.txt",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "app_astrolink_br",
+      "target": "niche_astrology"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "findings/reports/directions.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "app_astrolink_mx",
+      "target": "niche_astrology"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "findings/reports/drill_analysis.txt",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "app_yodha_tr",
+      "target": "niche_astrology"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "findings/reports/directions.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "app_astroscope_id",
+      "target": "niche_astrology"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "findings/reports/directions.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "app_labyrinthos_tr",
+      "target": "niche_tarot"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "findings/reports/directions.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "direction_4_uyku_tr",
+      "target": "niche_sleep"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "findings/reports/directions.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "app_sleep_cycle_tr",
+      "target": "niche_sleep"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "findings/reports/methodology.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "methodology_phase_a_explore",
+      "target": "niche_sleep"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "findings/reports/drill_analysis.txt",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "app_finch_br",
+      "target": "niche_selfcare"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "findings/reports/drill_analysis.txt",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "app_remente_id",
+      "target": "niche_selfcare"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "findings/reports/methodology.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "methodology_phase_a_explore",
+      "target": "niche_journaling"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "findings/reports/methodology.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "methodology_phase_a_explore",
+      "target": "niche_meditation"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "findings/reports/methodology.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "methodology_phase_a_explore",
+      "target": "niche_fitness"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "findings/reports/directions.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "direction_1_cift_tr",
+      "target": "app_love8_tr"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "findings/reports/directions.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "app_love8_tr",
+      "target": "complaint_location_tracking"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "findings/reports/directions.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "app_love8_tr",
+      "target": "complaint_billing"
+    },
+    {
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "findings/reports/directions.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "app_love8_tr",
+      "target": "app_love8_mx"
+    },
+    {
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "findings/reports/directions.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "app_love8_tr",
+      "target": "app_love8_br"
+    },
+    {
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "findings/reports/directions.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "app_tinder_vn",
+      "target": "app_love8_tr"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "findings/reports/directions.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "direction_2_pareja_mx",
+      "target": "app_love8_mx"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "findings/reports/directions.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "app_love8_mx",
+      "target": "complaint_location_tracking"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "findings/reports/directions.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "app_love8_mx",
+      "target": "complaint_billing"
+    },
+    {
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "findings/reports/directions.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "app_love8_mx",
+      "target": "app_love8_br"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "findings/reports/directions.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "direction_3_casal_br",
+      "target": "app_love8_br"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "findings/reports/directions.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "app_love8_br",
+      "target": "complaint_location_tracking"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "findings/reports/directions.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "app_love8_br",
+      "target": "complaint_billing"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "findings/reports/directions.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "app_love8_br",
+      "target": "complaint_refund_denied"
+    },
+    {
+      "relation": "references",
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "findings/reports/FINAL_VERDICT.txt",
       "source_location": null,
       "weight": 1.0,
-      "source": "quote_tr_love8_580km_speed",
-      "target": "complaint_location_inaccuracy"
+      "source": "app_love8_br",
+      "target": "complaint_crashes_bugs"
     },
     {
-      "relation": "cites",
+      "relation": "references",
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
-      "source_file": "findings/reports/FINAL_VERDICT.txt",
+      "source_file": "findings/reports/directions.md",
       "source_location": null,
       "weight": 1.0,
-      "source": "quote_mx_love8_imprecise_location",
-      "target": "complaint_location_inaccuracy"
+      "source": "direction_5_yeu_vn",
+      "target": "app_tinder_vn"
     },
     {
-      "relation": "conceptually_related_to",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "findings/reports/directions.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "app_tinder_vn",
+      "target": "complaint_billing"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "findings/reports/directions.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "direction_4_uyku_tr",
+      "target": "app_sleep_cycle_tr"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "findings/reports/directions.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "app_sleep_cycle_tr",
+      "target": "complaint_language_gap"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "findings/reports/directions.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "app_sleep_cycle_tr",
+      "target": "complaint_samsung_health"
+    },
+    {
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "findings/reports/directions.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "app_sleep_cycle_tr",
+      "target": "app_finch_br"
+    },
+    {
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "findings/reports/directions.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "app_labyrinthos_tr",
+      "target": "app_sleep_cycle_tr"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "findings/reports/drill_analysis.txt",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "app_astrolink_br",
+      "target": "complaint_billing"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "findings/reports/drill_analysis.txt",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "app_astrolink_br",
+      "target": "complaint_crashes_bugs"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "findings/reports/drill_analysis.txt",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "app_astrolink_br",
+      "target": "complaint_ai_generated"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "findings/reports/drill_analysis.txt",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "app_astrolink_br",
+      "target": "complaint_iap_locked"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "findings/reports/directions.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "honorable_br_astrology",
+      "target": "app_astrolink_br"
+    },
+    {
+      "relation": "semantically_similar_to",
       "confidence": "INFERRED",
       "confidence_score": 0.7,
       "source_file": "findings/reports/drill_analysis.txt",
       "source_location": null,
       "weight": 1.0,
-      "source": "complaint_pricing_billing",
-      "target": "complaint_iap_locked"
+      "source": "app_yodha_tr",
+      "target": "app_astrolink_br"
     },
     {
-      "relation": "cites",
+      "relation": "references",
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "findings/reports/drill_analysis.txt",
       "source_location": null,
       "weight": 1.0,
-      "source": "quote_br_finch_ai_generative",
-      "target": "complaint_ai_generative"
+      "source": "app_yodha_tr",
+      "target": "complaint_billing"
     },
     {
-      "relation": "cites",
+      "relation": "references",
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "findings/reports/drill_analysis.txt",
       "source_location": null,
       "weight": 1.0,
-      "source": "quote_br_astrolink_ai_bug",
-      "target": "complaint_ai_generative"
+      "source": "app_yodha_tr",
+      "target": "complaint_language_gap"
+    },
+    {
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "findings/reports/drill_analysis.txt",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "app_finch_br",
+      "target": "app_yodha_tr"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "findings/reports/directions.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "honorable_tr_tarot",
+      "target": "app_labyrinthos_tr"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "findings/reports/directions.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "honorable_id_astrology",
+      "target": "app_astroscope_id"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "findings/reports/drill_analysis.txt",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "app_finch_br",
+      "target": "complaint_language_gap"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "findings/reports/drill_analysis.txt",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "app_finch_br",
+      "target": "complaint_ai_generated"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "findings/reports/drill_analysis.txt",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "app_remente_id",
+      "target": "complaint_billing"
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "findings/reports/directions.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "direction_1_cift_tr",
+      "target": "thesis_no_tracking"
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "findings/reports/directions.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "direction_1_cift_tr",
+      "target": "thesis_e2e_journal"
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "findings/reports/directions.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "direction_1_cift_tr",
+      "target": "thesis_one_time_pricing"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "findings/reports/directions.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "direction_1_cift_tr",
+      "target": "tech_react_native"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "findings/reports/directions.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "direction_1_cift_tr",
+      "target": "monetization_cift_149try"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "findings/reports/directions.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "direction_1_cift_tr",
+      "target": "reddit_longdistance_thread"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "findings/reports/directions.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "direction_1_cift_tr",
+      "target": "quote_tr_580kmh"
+    },
+    {
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "findings/reports/directions.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "direction_2_pareja_mx",
+      "target": "direction_1_cift_tr"
+    },
+    {
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "findings/reports/directions.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "direction_3_casal_br",
+      "target": "direction_1_cift_tr"
+    },
+    {
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "findings/reports/directions.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "direction_5_yeu_vn",
+      "target": "direction_1_cift_tr"
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "findings/reports/directions.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "thesis_cross_country_codebase",
+      "target": "direction_1_cift_tr"
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "findings/reports/directions.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "direction_2_pareja_mx",
+      "target": "complaint_kidnapping_safety"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "findings/reports/directions.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "direction_2_pareja_mx",
+      "target": "quote_mx_kidnap"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "findings/reports/directions.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "direction_2_pareja_mx",
+      "target": "monetization_pareja_5usd"
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "findings/reports/directions.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "thesis_cross_country_codebase",
+      "target": "direction_2_pareja_mx"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "findings/reports/directions.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "direction_3_casal_br",
+      "target": "quote_br_discordia"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "findings/reports/directions.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "direction_3_casal_br",
+      "target": "monetization_casal_24brl"
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "findings/reports/directions.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "thesis_cross_country_codebase",
+      "target": "direction_3_casal_br"
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "findings/reports/directions.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "direction_4_uyku_tr",
+      "target": "thesis_turkish_localization"
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "findings/reports/directions.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "direction_4_uyku_tr",
+      "target": "complaint_samsung_health"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "findings/reports/directions.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "direction_4_uyku_tr",
+      "target": "tech_kotlin_audio"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "findings/reports/directions.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "direction_4_uyku_tr",
+      "target": "monetization_uyku_99try"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "findings/reports/directions.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "direction_4_uyku_tr",
+      "target": "quote_tr_no_turkish"
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "findings/reports/directions.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "direction_5_yeu_vn",
+      "target": "thesis_first_mover_vn"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "findings/reports/directions.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "direction_5_yeu_vn",
+      "target": "monetization_yeu_99kvnd"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "findings/reports/directions.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "direction_5_yeu_vn",
+      "target": "quote_vn_tinder_scam"
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "findings/reports/directions.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "thesis_cross_country_codebase",
+      "target": "direction_5_yeu_vn"
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "findings/reports/directions.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "thesis_no_tracking",
+      "target": "complaint_location_tracking"
     },
     {
       "relation": "conceptually_related_to",
       "confidence": "INFERRED",
-      "confidence_score": 0.75,
-      "source_file": "findings/reports/drill_analysis.txt",
+      "confidence_score": 0.85,
+      "source_file": "findings/reports/directions.md",
       "source_location": null,
       "weight": 1.0,
-      "source": "complaint_ai_generative",
-      "target": "complaint_crashes_bugs"
+      "source": "complaint_kidnapping_safety",
+      "target": "complaint_location_tracking"
     },
     {
-      "relation": "cites",
+      "relation": "rationale_for",
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
+      "source_file": "findings/reports/directions.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "thesis_one_time_pricing",
+      "target": "complaint_billing"
+    },
+    {
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
       "source_file": "findings/reports/drill_analysis.txt",
       "source_location": null,
       "weight": 1.0,
-      "source": "quote_br_finch_no_portuguese",
-      "target": "complaint_language_missing"
+      "source": "complaint_billing",
+      "target": "complaint_iap_locked"
     },
     {
-      "relation": "conceptually_related_to",
+      "relation": "semantically_similar_to",
       "confidence": "INFERRED",
       "confidence_score": 0.8,
-      "source_file": "findings/reports/drill_analysis.txt",
+      "source_file": "findings/reports/directions.md",
       "source_location": null,
       "weight": 1.0,
-      "source": "complaint_premium_no_unlock",
-      "target": "complaint_iap_locked"
-    },
-    {
-      "relation": "cites",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "findings/reports/FINAL_VERDICT.txt",
-      "source_location": null,
-      "weight": 1.0,
-      "source": "quote_br_love8_paid_no_realtime",
-      "target": "complaint_premium_no_unlock"
-    },
-    {
-      "relation": "cites",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "findings/reports/drill_analysis.txt",
-      "source_location": null,
-      "weight": 1.0,
-      "source": "quote_br_astrolink_paid_promo_double",
-      "target": "complaint_premium_no_unlock"
-    },
-    {
-      "relation": "conceptually_related_to",
-      "confidence": "INFERRED",
-      "confidence_score": 0.75,
-      "source_file": "findings/reports/FINAL_VERDICT.txt",
-      "source_location": null,
-      "weight": 1.0,
-      "source": "complaint_premium_no_unlock",
+      "source": "complaint_billing",
       "target": "complaint_refund_denied"
     },
     {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "findings/reports/directions.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "thesis_turkish_localization",
+      "target": "complaint_language_gap"
+    },
+    {
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "findings/reports/drill_analysis.txt",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "complaint_ai_generated",
+      "target": "complaint_crashes_bugs"
+    },
+    {
       "relation": "conceptually_related_to",
       "confidence": "INFERRED",
       "confidence_score": 0.8,
-      "source_file": "findings/reports/recommendation.md",
+      "source_file": "findings/reports/directions.md",
       "source_location": null,
       "weight": 1.0,
-      "source": "verdict_high_recent_complaints",
-      "target": "rationale_degrading_competitor"
-    },
-    {
-      "relation": "conceptually_related_to",
-      "confidence": "INFERRED",
-      "confidence_score": 0.85,
-      "source_file": "findings/reports/recommendation.md",
-      "source_location": null,
-      "weight": 1.0,
-      "source": "verdict_viral_engagement",
-      "target": "rationale_mega_tiktok_niche"
-    },
-    {
-      "relation": "conceptually_related_to",
-      "confidence": "INFERRED",
-      "confidence_score": 0.85,
-      "source_file": "findings/reports/recommendation.md",
-      "source_location": null,
-      "weight": 1.0,
-      "source": "verdict_vulnerable_competitor",
-      "target": "rationale_vulnerable_competitor"
-    },
-    {
-      "relation": "rationale_for",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "findings/reports/recommendation.md",
-      "source_location": null,
-      "weight": 1.0,
-      "source": "rationale_vulnerable_competitor",
-      "target": "recommendation_top_cell_tr_couple"
-    },
-    {
-      "relation": "rationale_for",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "findings/reports/recommendation.md",
-      "source_location": null,
-      "weight": 1.0,
-      "source": "rationale_degrading_competitor",
-      "target": "recommendation_top_cell_tr_couple"
-    },
-    {
-      "relation": "rationale_for",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "findings/reports/recommendation.md",
-      "source_location": null,
-      "weight": 1.0,
-      "source": "rationale_mega_tiktok_niche",
-      "target": "recommendation_top_cell_tr_couple"
-    },
-    {
-      "relation": "rationale_for",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "findings/reports/FINAL_VERDICT.txt",
-      "source_location": null,
-      "weight": 1.0,
-      "source": "metric_tr_couple_score_8",
-      "target": "recommendation_top_cell_tr_couple"
+      "source": "thesis_one_time_pricing",
+      "target": "thesis_no_tracking"
     },
     {
       "relation": "semantically_similar_to",
       "confidence": "INFERRED",
       "confidence_score": 0.9,
-      "source_file": "findings/reports/FINAL_VERDICT.txt",
+      "source_file": "findings/reports/directions.md",
       "source_location": null,
       "weight": 1.0,
-      "source": "quote_tr_love8_location_teleport",
-      "target": "quote_mx_love8_imprecise_location"
+      "source": "monetization_cift_149try",
+      "target": "monetization_pareja_5usd"
     },
     {
       "relation": "semantically_similar_to",
       "confidence": "INFERRED",
       "confidence_score": 0.85,
-      "source_file": "findings/reports/FINAL_VERDICT.txt",
+      "source_file": "findings/reports/directions.md",
       "source_location": null,
       "weight": 1.0,
-      "source": "quote_tr_love8_580km_speed",
-      "target": "quote_mx_love8_imprecise_location"
+      "source": "monetization_uyku_99try",
+      "target": "monetization_cift_149try"
     },
     {
       "relation": "semantically_similar_to",
       "confidence": "INFERRED",
-      "confidence_score": 0.8,
-      "source_file": "findings/reports/FINAL_VERDICT.txt",
+      "confidence_score": 0.9,
+      "source_file": "findings/reports/directions.md",
       "source_location": null,
       "weight": 1.0,
-      "source": "quote_br_love8_paid_no_realtime",
-      "target": "quote_mx_love8_imprecise_location"
+      "source": "monetization_pareja_5usd",
+      "target": "monetization_casal_24brl"
     },
     {
       "relation": "semantically_similar_to",
       "confidence": "INFERRED",
-      "confidence_score": 0.85,
-      "source_file": "findings/reports/drill_analysis.txt",
+      "confidence_score": 0.9,
+      "source_file": "findings/reports/directions.md",
       "source_location": null,
       "weight": 1.0,
-      "source": "quote_br_finch_ai_generative",
-      "target": "quote_br_astrolink_ai_bug"
+      "source": "monetization_casal_24brl",
+      "target": "monetization_yeu_99kvnd"
     }
   ],
   "hyperedges": [
     {
-      "id": "love8_cross_country_vulnerability",
-      "label": "Love8 broken across TR, BR, MX (location bug pattern)",
+      "id": "love8_broken_cross_country",
+      "label": "Love8 broken cross-country pattern",
       "nodes": [
         "app_love8_tr",
-        "app_love8_br",
         "app_love8_mx",
-        "complaint_location_inaccuracy"
+        "app_love8_br",
+        "complaint_location_tracking",
+        "complaint_billing"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "findings/reports/directions.md"
+    },
+    {
+      "id": "multi_locale_couples_play",
+      "label": "Multi-locale couples codebase play",
+      "nodes": [
+        "direction_1_cift_tr",
+        "direction_2_pareja_mx",
+        "direction_3_casal_br",
+        "direction_5_yeu_vn",
+        "thesis_cross_country_codebase"
+      ],
+      "relation": "implement",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "findings/reports/directions.md"
+    },
+    {
+      "id": "turkish_localization_gap",
+      "label": "Turkish localization gap across niches",
+      "nodes": [
+        "country_tr",
+        "complaint_language_gap",
+        "app_sleep_cycle_tr",
+        "app_yodha_tr",
+        "honorable_tr_tarot"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "findings/reports/directions.md"
+    },
+    {
+      "id": "predatory_billing_pattern",
+      "label": "Predatory billing pattern across apps",
+      "nodes": [
+        "complaint_billing",
+        "app_love8_tr",
+        "app_tinder_vn",
+        "app_astrolink_br",
+        "app_remente_id"
       ],
       "relation": "participate_in",
       "confidence": "INFERRED",
       "confidence_score": 0.9,
-      "source_file": "findings/reports/FINAL_VERDICT.txt"
-    },
-    {
-      "id": "ai_generative_backlash",
-      "label": "Generative AI backlash across selfcare and astrology niches (Finch + Astrolink)",
-      "nodes": [
-        "app_finch_br",
-        "app_astrolink_br",
-        "complaint_ai_generative",
-        "complaint_crashes_bugs"
-      ],
-      "relation": "participate_in",
-      "confidence": "INFERRED",
-      "confidence_score": 0.8,
       "source_file": "findings/reports/drill_analysis.txt"
     },
     {
-      "id": "tr_couple_top_pick",
-      "label": "TR/couple top pick: Love8 vulnerability + viral TikTok niche + degrading metrics",
+      "id": "anti_surveillance_value_prop",
+      "label": "Anti-surveillance value proposition",
       "nodes": [
-        "recommendation_top_cell_tr_couple",
-        "app_love8_tr",
-        "rationale_vulnerable_competitor",
-        "rationale_degrading_competitor",
-        "rationale_mega_tiktok_niche"
+        "thesis_no_tracking",
+        "thesis_one_time_pricing",
+        "complaint_location_tracking",
+        "complaint_kidnapping_safety",
+        "thesis_e2e_journal"
       ],
       "relation": "form",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "findings/reports/recommendation.md"
+      "confidence": "INFERRED",
+      "confidence_score": 0.88,
+      "source_file": "findings/reports/directions.md"
     }
   ],
-  "built_at_commit": "b9146ea3f30826c826cf31b7ec514815eca20a64"
+  "built_at_commit": "bc5c8a2a41a8a7c8af0c432a237b8928d003cd45"
 }

@@ -1,0 +1,112 @@
+{
+  "diario": {
+    "cha_name": "diario",
+    "user_count": 383075,
+    "view_count": 4164564947
+  },
+  "journaling": {
+    "cha_name": "Journaling",
+    "user_count": 2725467,
+    "view_count": 22777957814
+  },
+  "bujo": {
+    "cha_name": "bujo",
+    "user_count": 426730,
+    "view_count": 3216001015
+  },
+  "bulletjournal": {
+    "cha_name": "BulletJournal",
+    "user_count": 701922,
+    "view_count": 1124092883
+  },
+  "meditacao": {
+    "cha_name": "meditacao",
+    "user_count": 226113,
+    "view_count": 849625602
+  },
+  "meditacion": {
+    "cha_name": "Meditacion",
+    "user_count": 838859,
+    "view_count": 7704329463
+  },
+  "meditasyon": {
+    "cha_name": "meditasyon",
+    "user_count": 43369,
+    "view_count": 784002831
+  },
+  "meditasi": {
+    "cha_name": "meditasi",
+    "user_count": 82221,
+    "view_count": 687691518
+  },
+  "mindfulness": {
+    "cha_name": "Mindfulness",
+    "user_count": 3686307,
+    "view_count": 17756249236
+  },
+  "mindfullife": {
+    "cha_name": "mindfullife",
+    "user_count": 9945,
+    "view_count": 14433979
+  },
+  "sono": {
+    "cha_name": "sono",
+    "user_count": 628901,
+    "view_count": 5509200923
+  },
+  "uyku": {
+    "cha_name": "uyku",
+    "user_count": 72092,
+    "view_count": 2204433803
+  },
+  "tidur": {
+    "cha_name": "tidur",
+    "user_count": 316763,
+    "view_count": 4938627144
+  },
+  "sleeptok": {
+    "cha_name": "sleeptok",
+    "user_count": 61688,
+    "view_count": 1299391902
+  },
+  "sleepproblems": {
+    "cha_name": "sleepproblems",
+    "user_count": 34550,
+    "view_count": 545949163
+  },
+  "treino": {
+    "cha_name": "treino",
+    "user_count": 7526629,
+    "view_count": 66868083849
+  },
+  "entrenamiento": {
+    "cha_name": "entrenamiento",
+    "user_count": 2823093,
+    "view_count": 35613363794
+  },
+  "antrenman": {
+    "cha_name": "antrenman",
+    "user_count": 68103,
+    "view_count": 2200065009
+  },
+  "olahraga": {
+    "cha_name": "olahraga",
+    "user_count": 3339605,
+    "view_count": 24830772210
+  },
+  "workouts": {
+    "cha_name": "workouts",
+    "user_count": 538789,
+    "view_count": 6035437058
+  },
+  "tuvi": {
+    "cha_name": "tuvi",
+    "user_count": 721474,
+    "view_count": 23212609668
+  },
+  "horoskop": {
+    "cha_name": "horoskop",
+    "user_count": 284499,
+    "view_count": 5724637979
+  }
+}

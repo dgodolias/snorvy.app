@@ -1,0 +1,29 @@
+[Journaling__app] q="app" limit=50
+  50 posts → 12 relevant
+[bujo__app] q="app" limit=50
+  FAIL HTTP Error 422: Unprocessable Entity
+[Meditation__app] q="app" limit=50
+  FAIL HTTP Error 500: Internal Server Error
+[Mindfulness__app] q="app" limit=50
+  FAIL HTTP Error 422: Unprocessable Entity
+[sleep__app] q="app" limit=50
+  FAIL HTTP Error 422: Unprocessable Entity
+[insomnia__app] q="app" limit=50
+  FAIL HTTP Error 500: Internal Server Error
+[Fitness__app] q="app" limit=50
+  FAIL HTTP Error 422: Unprocessable Entity
+[workout__app] q="app" limit=50
+  50 posts → 21 relevant
+[bodyweightfitness__app] q="app" limit=50
+  FAIL HTTP Error 422: Unprocessable Entity
+[vietnam__app] q="app" limit=50
+  FAIL HTTP Error 422: Unprocessable Entity
+[Philippines__app] q="app" limit=50
+  FAIL HTTP Error 422: Unprocessable Entity
+[couple__app] q="app" limit=50
+  FAIL HTTP Error 422: Unprocessable Entity
+[LongDistance__shared journal] q="shared journal" limit=30
+  FAIL HTTP Error 422: Unprocessable Entity
+
+Done. 13 queries → reddit_new.json
+exit=0

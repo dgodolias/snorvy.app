@@ -1,0 +1,3822 @@
+{
+  "TH": {
+    "astrology": {
+      "search_term": "โหราศาสตร์",
+      "competitors": [
+        {
+          "appId": "com.astroid.yodha.pro",
+          "title": "Yodha โหราศาสตร์และดวงของฉัน",
+          "developer": "Yodha",
+          "country": "th",
+          "niche": "astrology",
+          "score": 4.78,
+          "ratings": 141990,
+          "installs": "5,000,000+",
+          "histogram": {
+            "1": 5451,
+            "2": 1239,
+            "3": 0,
+            "4": 4212,
+            "5": 130591
+          },
+          "star1_ratio": 3.8,
+          "adSupported": false,
+          "offersIAP": true,
+          "IAPRange": "฿33.00 - ฿5,000.00 ต่อรายการ",
+          "free": true,
+          "updated_iso": "2026-04-02",
+          "low_reviews_count": 5,
+          "sample_low_reviews": [
+            {
+              "date": "2026-02-17",
+              "score": 1,
+              "thumbs": 0,
+              "text": "ไม่ตรง และไม่เกิดขึ้นเลยตั้งแต่ปลายปีที่แล้ว จนถึงตอนนี้"
+            },
+            {
+              "date": "2025-11-21",
+              "score": 1,
+              "thumbs": 0,
+              "text": "ถามว่าจะรวยมั้ย ไม่ได้ถามถึงการงาน ถ้าคำทำนายตรงจะสมัครใช้งานปีหน้าถึงจะรู้ผล"
+            },
+            {
+              "date": "2025-11-21",
+              "score": 1,
+              "thumbs": 0,
+              "text": "เสียตังถอนการติดตังเงินหายาก"
+            },
+            {
+              "date": "2025-11-20",
+              "score": 1,
+              "thumbs": 0,
+              "text": "เป็น app ที่ใช้ Ai ทำนายดวง แบบนี้ใช้แชท Ai ที่อื่นทำนายก็ได้"
+            },
+            {
+              "date": "2025-03-22",
+              "score": 1,
+              "thumbs": 0,
+              "text": "คำทำนายโอเค แต่ตอนสมัครบอกฟรี3วัน แต่ใช้จิงฟรีแค่คำถามเดียว"
+            }
+          ]
+        },
+        {
+          "appId": "com.koo_up.pookduangthai",
+          "title": "ผูกดวงไทย",
+          "developer": "Fugang Co., Ltd.",
+          "country": "th",
+          "niche": "astrology",
+          "score": 4.784689,
+          "ratings": 2141,
+          "installs": "100,000+",
+          "histogram": {
+            "1": 40,
+            "2": 0,
+            "3": 81,
+            "4": 132,
+            "5": 1884
+          },
+          "star1_ratio": 1.9,
+          "adSupported": false,
+          "offersIAP": true,
+          "IAPRange": "฿29.00 - ฿399.00 ต่อรายการ",
+          "free": true,
+          "updated_iso": "2026-04-19",
+          "low_reviews_count": 3,
+          "sample_low_reviews": [
+            {
+              "date": "2026-03-03",
+              "score": 1,
+              "thumbs": 0,
+              "text": "จ่ายเงินไปแล้วไม่ได้รหัสปลดล๊อค ติดต่อทางไหนก็ไม่ได้ 😭​"
+            },
+            {
+              "date": "2024-08-19",
+              "score": 1,
+              "thumbs": 0,
+              "text": "ซื้อแอปแล้ว ทำไมปลดล๊อกไม่ได้คะ หรือว่า มีขั้นตอนตรงใหนผิด ช่วยอธิบายหน่อยค่ะ"
+            },
+            {
+              "date": "2023-08-08",
+              "score": 1,
+              "thumbs": 12,
+              "text": "ทำไมในiosกดเลื่อนเปลี่ยนวัน,เดือนดาวจรได้แต่ในandroidทำไม่ได้(ต้องไปซื้อแอพอีกอันนึง ที่เป็นผู้ผลิตเดียวกัน)​ ทำให้ไม่สะดวก และดู2มาตรฐานไปหน่อย ถ้าทำแอพดี คนพร้อมอุดหนุนมีเยอะ พอทำแอพแบบส่อเจตนาจะขายของอย่างเดียวแบบนี้ความน่าชื่นชมมันลดลงไปเยอะเลย มีค่ายอื่นที่เขาทำมาใช้งานสะดวก"
+            }
+          ]
+        },
+        {
+          "appId": "com.astroid.yodha",
+          "title": "Yodha โหราศาสตร์และดวงของฉัน",
+          "developer": "Yodha",
+          "country": "th",
+          "niche": "astrology",
+          "score": 4.93,
+          "ratings": 161830,
+          "installs": "1,000,000+",
+          "histogram": {
+            "1": 0,
+            "2": 0,
+            "3": 1546,
+            "4": 7730,
+            "5": 152037
+          },
+          "star1_ratio": 0,
+          "adSupported": false,
+          "offersIAP": true,
+          "IAPRange": "฿33.00 - ฿5,000.00 ต่อรายการ",
+          "free": true,
+          "updated_iso": "2026-03-27",
+          "low_reviews_count": 0,
+          "sample_low_reviews": []
+        }
+      ]
+    },
+    "tarot": {
+      "search_term": "ไพ่ทาโรต์",
+      "competitors": [
+        {
+          "appId": "com.dt.vfo",
+          "title": "Tarot Card Reading and Meaning",
+          "developer": "DEN TSMO",
+          "country": "th",
+          "niche": "tarot",
+          "score": 4.814815,
+          "ratings": 5861,
+          "installs": "100,000+",
+          "histogram": {
+            "1": 217,
+            "2": 0,
+            "3": 0,
+            "4": 217,
+            "5": 5426
+          },
+          "star1_ratio": 3.7,
+          "adSupported": true,
+          "offersIAP": true,
+          "IAPRange": "฿33.00 - ฿2,025.00 ต่อรายการ",
+          "free": true,
+          "updated_iso": "2026-05-05",
+          "low_reviews_count": 0,
+          "sample_low_reviews": []
+        },
+        {
+          "appId": "com.celestialinsights.tarotmeow",
+          "title": "ดูดวงไพ่ยิปซีแมวเหมียว",
+          "developer": "Celestial Insights",
+          "country": "th",
+          "niche": "tarot",
+          "score": 4.69,
+          "ratings": 323,
+          "installs": "10,000+",
+          "histogram": {
+            "1": 12,
+            "2": 2,
+            "3": 4,
+            "4": 24,
+            "5": 273
+          },
+          "star1_ratio": 3.7,
+          "adSupported": true,
+          "offersIAP": true,
+          "IAPRange": "฿69.00 - ฿99.00 ต่อรายการ",
+          "free": true,
+          "updated_iso": "2026-01-11",
+          "low_reviews_count": 0,
+          "sample_low_reviews": []
+        },
+        {
+          "appId": "com.tradigames.tarot",
+          "title": "ซูเปอร์ทาโรต์: ผู้เล่น 4 และ 5",
+          "developer": "WCGF",
+          "country": "th",
+          "niche": "tarot",
+          "score": 0,
+          "ratings": 0,
+          "installs": "100,000+",
+          "histogram": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 0
+          },
+          "star1_ratio": null,
+          "adSupported": true,
+          "offersIAP": true,
+          "IAPRange": "฿97.00 - ฿4,525.00 ต่อรายการ",
+          "free": true,
+          "updated_iso": "2025-12-06",
+          "low_reviews_count": 0,
+          "sample_low_reviews": []
+        }
+      ]
+    },
+    "manifestation": {
+      "search_term": "การดึงดูด",
+      "competitors": [
+        {
+          "appId": "com.inclinometter.bubblelevel.clinometer.level.ruler",
+          "title": "เครื่องมือ LVL: เครื่องวัดมุม",
+          "developer": "Devolutionapps",
+          "country": "th",
+          "niche": "manifestation",
+          "score": 4.64,
+          "ratings": 7804,
+          "installs": "1,000,000+",
+          "histogram": {
+            "1": 218,
+            "2": 0,
+            "3": 460,
+            "4": 920,
+            "5": 6155
+          },
+          "star1_ratio": 2.8,
+          "adSupported": false,
+          "offersIAP": true,
+          "IAPRange": "฿175.00 - ฿1,550.00 ต่อรายการ",
+          "free": true,
+          "updated_iso": "2026-04-21",
+          "low_reviews_count": 3,
+          "sample_low_reviews": [
+            {
+              "date": "2024-04-07",
+              "score": 1,
+              "thumbs": 2,
+              "text": "เหมาะกับสายจ่ายเงินครับสายฟรี กว่าจะเปิดได้โฆษณา ขึ้น3ตัว1-2 นาที"
+            },
+            {
+              "date": "2024-01-24",
+              "score": 1,
+              "thumbs": 6,
+              "text": "เป็นแอพที่ดี ใช้กล้องไม่ได้ ความแม่นยำไม่ชัดเจน ควรปรับปรุงให้ดีกว่านี้"
+            },
+            {
+              "date": "2023-09-24",
+              "score": 1,
+              "thumbs": 6,
+              "text": "โฆษณาเยอะ จนไม่เปนอันทำมาหากิน"
+            }
+          ]
+        },
+        {
+          "appId": "com.DCZT.FrequencyGenerator",
+          "title": "เครื่องกำเนิดเสียงความถี่",
+          "developer": "DCZT",
+          "country": "th",
+          "niche": "manifestation",
+          "score": 4.78,
+          "ratings": 5652,
+          "installs": "500,000+",
+          "histogram": {
+            "1": 210,
+            "2": 0,
+            "3": 42,
+            "4": 210,
+            "5": 5103
+          },
+          "star1_ratio": 3.7,
+          "adSupported": true,
+          "offersIAP": true,
+          "IAPRange": "฿67.00 - ฿625.00 ต่อรายการ",
+          "free": true,
+          "updated_iso": "2025-10-21",
+          "low_reviews_count": 2,
+          "sample_low_reviews": [
+            {
+              "date": "2025-12-06",
+              "score": 1,
+              "thumbs": 0,
+              "text": "อยู่ๆโกนดูดตังไป375บาทเฉยเลยครับผมต้อฃใช้ตังด้วยครับ😔"
+            },
+            {
+              "date": "2024-07-28",
+              "score": 1,
+              "thumbs": 0,
+              "text": "เวลาผ่านไปได้ด้วยครับ"
+            }
+          ]
+        },
+        {
+          "appId": "com.openai.chatgpt",
+          "title": "ChatGPT",
+          "developer": "OpenAI",
+          "country": "th",
+          "niche": "manifestation",
+          "score": 4.821047,
+          "ratings": 44551402,
+          "installs": "1,000,000,000+",
+          "histogram": {
+            "1": 695643,
+            "2": 233077,
+            "3": 900311,
+            "4": 2689708,
+            "5": 40032432
+          },
+          "star1_ratio": 1.6,
+          "adSupported": true,
+          "offersIAP": true,
+          "IAPRange": "฿259.00 - ฿6,990.00 ต่อรายการ",
+          "free": true,
+          "updated_iso": "2026-05-01",
+          "low_reviews_count": 19,
+          "sample_low_reviews": [
+            {
+              "date": "2026-05-05",
+              "score": 1,
+              "thumbs": 0,
+              "text": "เห้อ แพตนี้ยอมรับว่าแย่เพราะแก้รู้ปไท่ได้เลย บอกว่า ครบกำหนด ฉันยังไม่ได้รูปที่มัน เพอเฟ็คอ่ะ แปลกมาก ปกติ จะด◌ัดแปรงรูปเดิมๆได้ แต่ตอนนี้นับว่าเป็นการใช้สิทสร้างรูปอ่ะแย่ๆ"
+            },
+            {
+              "date": "2026-05-05",
+              "score": 1,
+              "thumbs": 0,
+              "text": "จ่ายเงินไปแล้ว แต่กลับใช้ไม่ได้ แย่มาก โดนหักเงินไปเรียบร้อยแล้ว"
+            },
+            {
+              "date": "2026-05-05",
+              "score": 1,
+              "thumbs": 0,
+              "text": "ไม่มีความเป็นอิสระระบบถามเยอะทำให้หงุดหงิดไม่สามารถช่วยได้ 100%"
+            },
+            {
+              "date": "2026-05-05",
+              "score": 1,
+              "thumbs": 0,
+              "text": "โฆษนาใส่เพื่อปัญญาอ่อนนมาก"
+            },
+            {
+              "date": "2026-05-05",
+              "score": 1,
+              "thumbs": 0,
+              "text": "แย่มากค่ะ ทำข้อมูลในแชทหายไปเลย กู้ก็ไม่ได้ ทำที่เขียนทั้งหมดหายไปเลย อยากให้ศูนย์ดาวมากเลยค่ะ ขนาดปัดทิ้งเข้าใหม่ตอนแรกนึกว่าบัคสรุปหายไปจริงแย่ค่ะ เฟลสุดๆข้อมูลหายรีในแชตไปเลน เอาไปปรับแก้บ้างนะคะ ทำข้อมูลหายอ่ะ เฟลมากค่ะ ถ้ามีให้ศูนย์ด่วจะให้เลยค่ะ"
+            },
+            {
+              "date": "2026-05-05",
+              "score": 1,
+              "thumbs": 0,
+              "text": "จำกัดเวลา แต่ทำรูปไม่ได้ ช่วยปรับปรุงด้วยนะคะ"
+            },
+            {
+              "date": "2026-05-05",
+              "score": 1,
+              "thumbs": 0,
+              "text": "แอพห่วยทำให้โดนหักเงินและเพิ่มหนี้ ระบบไม่เช็กให้ดี เงินก็ไม่ได้คืนจะรับผิดชอบยังไง"
+            },
+            {
+              "date": "2026-05-05",
+              "score": 1,
+              "thumbs": 0,
+              "text": "รูปก็ให้ทำหน่อยไม่ดีสักอย่างจะเพิ่มรูปก็ต้องจ่ายเงินอีก🙄"
+            },
+            {
+              "date": "2026-05-04",
+              "score": 2,
+              "thumbs": 0,
+              "text": "ยิ่งอัพเดทยิ่งเเย่ รู้สึกว่าโมเดลเก่าฉลาดกว่านี้เยอะเลย ไม่ต้องมาคอยบรีฟคำสั่งซ้ำๆ ใหม่แบบนี้ ให้ช่วยเขียนงาน หรือตรวจ แปลบทความ หน้าเเรกกับหน้าสองตามบรีฟ หน้าหลังๆ สรุปกับย่อให้เเค่สั้นๆ ทั้งๆ ที่ขอแบบละเอียด ต้องมาป้อนคำสั่งใหม่ซ้ำๆ พูดคุยตอบโต้ก็สร้างเนื้อหาใหม่อย่างเดียว แต่ไ"
+            },
+            {
+              "date": "2026-05-04",
+              "score": 2,
+              "thumbs": 0,
+              "text": "บันทึกไม่ได้"
+            },
+            {
+              "date": "2026-05-04",
+              "score": 2,
+              "thumbs": 0,
+              "text": "จากรีวิวอื่นๆคงบอกหมดแล้ว แต่จริงครับตอนแรกๆดีอยู่แล้ว ไม่ได้ดีมากแบบเพอร์เฟคหรอกแต่มันลงตัวพอดีแล้วจริงๆเมื่อก่อน ทั้งการใช้งานระบบคำพูดคำพิมพ์อะไรก็ตาม แต่พออัพเดตมาปัจจุบันนี้นั่นแหละครับท่านผู้ชม ยิ่งอัปเดตยิ่งแย่ลงแบบแปลกๆ คิดถึงระบบเก่ามากกว่า"
+            },
+            {
+              "date": "2026-05-04",
+              "score": 1,
+              "thumbs": 0,
+              "text": "แอพเอ๋อให้ทำรูปให้ละพอกดบันทึกบอกไม่ได้เชื่อมต่ออินเทอร์เน็ต ใช้แอพอื่นดีกว่า"
+            }
+          ]
+        }
+      ]
+    },
+    "selfcare": {
+      "search_term": "ดูแลตัวเอง",
+      "competitors": [
+        {
+          "appId": "moodtracker.selfcare.habittracker.mentalhealth",
+          "title": "Mood Tracker นิสัยการดูแลตนเอง",
+          "developer": "Dairy App & Notes & Audio Editor & Voice Recorder",
+          "country": "th",
+          "niche": "selfcare",
+          "score": 4.83,
+          "ratings": 20996,
+          "installs": "1,000,000+",
+          "histogram": {
+            "1": 396,
+            "2": 182,
+            "3": 0,
+            "4": 1249,
+            "5": 19076
+          },
+          "star1_ratio": 1.9,
+          "adSupported": true,
+          "offersIAP": true,
+          "IAPRange": "฿37.00 - ฿2,000.00 ต่อรายการ",
+          "free": true,
+          "updated_iso": "2025-10-24",
+          "low_reviews_count": 2,
+          "sample_low_reviews": [
+            {
+              "date": "2025-01-19",
+              "score": 1,
+              "thumbs": 0,
+              "text": "ใช้ไม่ได้"
+            },
+            {
+              "date": "2024-07-19",
+              "score": 1,
+              "thumbs": 0,
+              "text": "ไม่ชอบ น่ารำคาญ ยัดเยียดให้เลี้ยงทามากอส"
+            }
+          ]
+        },
+        {
+          "appId": "co.thefabulous.app",
+          "title": "Fabulous: การดูแลตนเอง",
+          "developer": "TheFabulous",
+          "country": "th",
+          "niche": "selfcare",
+          "score": 4.49,
+          "ratings": 587683,
+          "installs": "10,000,000+",
+          "histogram": {
+            "1": 41023,
+            "2": 5724,
+            "3": 23373,
+            "4": 70121,
+            "5": 446486
+          },
+          "star1_ratio": 7,
+          "adSupported": false,
+          "offersIAP": true,
+          "IAPRange": "฿125.00 - ฿10,750.00 ต่อรายการ",
+          "free": true,
+          "updated_iso": "2026-04-20",
+          "low_reviews_count": 8,
+          "sample_low_reviews": [
+            {
+              "date": "2022-06-11",
+              "score": 2,
+              "thumbs": 31,
+              "text": "ตัว app น่ารักดี ความคิดเห็นส่วนตัวคิดว่าแอบถามข้อมูลส่วนตัวค่อนข้างเยอะแล้วพาไปหน้าผูกบัตรชำระเงินเลย ทั้งๆที่ user ยังไม่รู้จัก app และ facility ของ application เลย ทำให้เรารู้สึกว่า custom experience ไม่โอเค / แอพควรกล้าที่จะให้ user ได้ทดลองใช้เพื่อรู้จักfacilityก่อน 1 วันก็ไ"
+            },
+            {
+              "date": "2021-12-28",
+              "score": 1,
+              "thumbs": 0,
+              "text": "Too complicated . Took to much time for the first usage."
+            },
+            {
+              "date": "2020-05-04",
+              "score": 1,
+              "thumbs": 1,
+              "text": "I bought it this whole year and it failed to log in as membership even I have tried logging in 10 times. Could you please fix this or refund my money back?"
+            },
+            {
+              "date": "2020-03-02",
+              "score": 1,
+              "thumbs": 5,
+              "text": "ขอคืนเงินไม่ได้ กดยกเลิกไม่ทัน"
+            },
+            {
+              "date": "2019-07-10",
+              "score": 1,
+              "thumbs": 16,
+              "text": "I need my money back because I delete it in 1 day and didn't use it but today it take money from my account how to get back my money?"
+            },
+            {
+              "date": "2018-05-01",
+              "score": 2,
+              "thumbs": 1,
+              "text": "ชอบเด้งออก"
+            },
+            {
+              "date": "2016-08-31",
+              "score": 1,
+              "thumbs": 10,
+              "text": "I want to more language pls~"
+            },
+            {
+              "date": "2016-05-03",
+              "score": 1,
+              "thumbs": 3,
+              "text": "ไม่สามารถเข้าได้ในครั้งแรก ใช้แทปเล้ต"
+            }
+          ]
+        },
+        {
+          "appId": "life.femin.pregnancy.period",
+          "title": "ติดตามรอบเดือน-ตั้งครรภ์",
+          "developer": "Ocean Float Mobile",
+          "country": "th",
+          "niche": "selfcare",
+          "score": 4.8125,
+          "ratings": 3509,
+          "installs": "500,000+",
+          "histogram": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 657,
+            "5": 2851
+          },
+          "star1_ratio": 0,
+          "adSupported": false,
+          "offersIAP": true,
+          "IAPRange": "฿175.00 - ฿1,450.00 ต่อรายการ",
+          "free": true,
+          "updated_iso": "2025-11-21",
+          "low_reviews_count": 0,
+          "sample_low_reviews": []
+        }
+      ]
+    },
+    "couple": {
+      "search_term": "แอพคู่รัก",
+      "competitors": [
+        {
+          "appId": "ltd.love8.couples.relationship",
+          "title": "Love8 - แอปสำหรับคู่รัก",
+          "developer": "Love8 Team",
+          "country": "th",
+          "niche": "couple",
+          "score": 4.4387755,
+          "ratings": 36037,
+          "installs": "5,000,000+",
+          "histogram": {
+            "1": 2571,
+            "2": 853,
+            "3": 1651,
+            "4": 4038,
+            "5": 26903
+          },
+          "star1_ratio": 7.1,
+          "adSupported": true,
+          "offersIAP": true,
+          "IAPRange": "฿29.00 - ฿3,150.00 ต่อรายการ",
+          "free": true,
+          "updated_iso": "2026-05-04",
+          "low_reviews_count": 28,
+          "sample_low_reviews": [
+            {
+              "date": "2026-05-02",
+              "score": 1,
+              "thumbs": 0,
+              "text": "แรกๆดีมาเลยค่ะแต่หลังๆที่ไม่ใช่แล้วโดนหักไปรอบแล้วค่ะแย่มากเลยค่ะควรปรับปรุงมากๆเลยไม่ไหวๆ"
+            },
+            {
+              "date": "2026-04-28",
+              "score": 1,
+              "thumbs": 0,
+              "text": "ทำไม gpsหลังๆมาไม่อัพเดตครับ"
+            },
+            {
+              "date": "2026-04-23",
+              "score": 1,
+              "thumbs": 0,
+              "text": "ไม่ดีคับผมไม่มีเเฟน"
+            },
+            {
+              "date": "2026-04-22",
+              "score": 1,
+              "thumbs": 1,
+              "text": "แรกๆดี หลังๆไม่ได้ไปไหนแต่พิกัดไปทั่วเองอัติโนมัติ เมื่อก่อนดีมาก แต่เดี๋ยวนี้รู้สึกแย่ลง ปรับปรุงนะคะ"
+            },
+            {
+              "date": "2026-04-17",
+              "score": 2,
+              "thumbs": 0,
+              "text": "แรกๆ ตำแหน่งตรง หลังๆ คนละทิศเลยอะ โทรศัพท์มันเคลื่อนไปแล้ว แต่งงนะ ยังอยู่อีกที่ ปรับปรุงเถอะ"
+            },
+            {
+              "date": "2026-04-16",
+              "score": 1,
+              "thumbs": 1,
+              "text": "โอ้ยโมโห เงินในวอไม่มีแต่แอปไปกดสมัครพรีเมี่ยมให้ทั้งที่เรายังไม่ได้จ่ายเงินแต่ไปสมัครให้เอง ยกเลิกก้ไม่ได้ขอเงินคืนก็ไม่ได้ ยังไม่พอไปล็อคApp store ไม่ให้โหลดแอปต้องจ่ายมาก่อนทั้งที่เงินไม่มี กลายเป็นไปเป็นหนีแอปนี้เฉย อห"
+            },
+            {
+              "date": "2026-04-16",
+              "score": 2,
+              "thumbs": 3,
+              "text": "อัพเดตมา สถานะไม่ตรง แบตค้าง0%แบตไม่ขึ้นทั้งที่จริงแบตไม่ได้0% สถานะแอปไม่ค่อยอัปเดต"
+            },
+            {
+              "date": "2026-04-08",
+              "score": 1,
+              "thumbs": 0,
+              "text": "แอพมีปัญหาใช้แชทไม่ได้เด้งออกตลอด ข้อมูลไม่ตรงกับความเป็นจริงและบางครั้งก็ไม่สามารถดูได้ ปรับปรุงด้วย"
+            },
+            {
+              "date": "2026-04-06",
+              "score": 1,
+              "thumbs": 0,
+              "text": "ตำแหน่งมั่วมากหักเงินทั้งๆที่ยังไม่ได้สมัครตอนแรกจะสมัครรายปีนะตอนนี้นะไม่คิดจะสมัครแล้วเบื่อแทบจะไม่มีประโยชน์เลยรีวิวดีมากแต่ใช้จริงแล้วไม่ตรงปกตำแหน่งเพี้ยนมาก"
+            },
+            {
+              "date": "2026-04-03",
+              "score": 2,
+              "thumbs": 4,
+              "text": "แรกแอบก็ดีค่ะหลังๆมาตำแหน่งก็ไม่อัปเดตคนเดินทางไปไหนมาไหนตำแหน่งก็นิ่งไม่ขยับไปไหนอยู่แต่ที่เดิม"
+            },
+            {
+              "date": "2026-03-24",
+              "score": 1,
+              "thumbs": 1,
+              "text": "แอปนี้นะครับ แต่บ้างอย่างต้องเสียเงิน แอปดีๆเฮียเก็บใว้เถอะครับ"
+            },
+            {
+              "date": "2026-03-22",
+              "score": 2,
+              "thumbs": 3,
+              "text": "แทบจะเสียตังฟรี ระบบไม่อัพตำแหน่งแบบเรียลทาม ระบบสัตว์เลี้ยงชอบค้าง"
+            }
+          ]
+        },
+        {
+          "appId": "kr.co.vcnc.android.couple",
+          "title": "Between - พื้นที่สำหรับคู่รัก",
+          "developer": "주식회사 디엘티파트너스",
+          "country": "th",
+          "niche": "couple",
+          "score": 4.6960783,
+          "ratings": 537102,
+          "installs": "10,000,000+",
+          "histogram": {
+            "1": 17732,
+            "2": 4141,
+            "3": 16339,
+            "4": 47097,
+            "5": 451735
+          },
+          "star1_ratio": 3.3,
+          "adSupported": true,
+          "offersIAP": true,
+          "IAPRange": "฿32.00 - ฿1,575.00 ต่อรายการ",
+          "free": true,
+          "updated_iso": "2026-04-29",
+          "low_reviews_count": 12,
+          "sample_low_reviews": [
+            {
+              "date": "2026-05-05",
+              "score": 1,
+              "thumbs": 0,
+              "text": "ฉันไม่สามารถเปิดดูรูปเก่าๆได้"
+            },
+            {
+              "date": "2025-11-08",
+              "score": 1,
+              "thumbs": 4,
+              "text": "ตอนนี้แย่มาก​ ห้ามโหลดกันนะ"
+            },
+            {
+              "date": "2025-11-07",
+              "score": 2,
+              "thumbs": 2,
+              "text": "รูปที่อัพไว้ไม่โหดสักรูปเลยครับหรือใครมีวิธีแก้ไขบอกหน่อยครับชื่อเฟสตามชื่อเลยครับ"
+            },
+            {
+              "date": "2025-10-26",
+              "score": 1,
+              "thumbs": 1,
+              "text": "แอปอะดี แต่ลบรูปความทรงจำ ของ User ออก อุส่าใช้มาตั้งหลายปี พอกันที เลิกใช้"
+            },
+            {
+              "date": "2025-06-08",
+              "score": 2,
+              "thumbs": 0,
+              "text": "แอพไม่ควรเอาโฆษณามาไว้ตรงช่องแชทเพื่อจงใจให้มือไปโดนและเข้าแอพโฆษณาอัตโนมัติ ถ้ายังไม่ปรับปรุงคงต้องเลิกใช้ค่ะ"
+            },
+            {
+              "date": "2024-07-24",
+              "score": 1,
+              "thumbs": 0,
+              "text": "I can't get notify from this app for these day"
+            },
+            {
+              "date": "2023-03-10",
+              "score": 1,
+              "thumbs": 2,
+              "text": "โทรหากันไม่ได้ คุยแปปเดียว สายหลุด เป็นตั้งแต่ ธันวาคม 2022 ปัจจุบัน มีนาคม 2023 ยังไม่ได้รับการแก้ไข"
+            },
+            {
+              "date": "2022-12-05",
+              "score": 1,
+              "thumbs": 1,
+              "text": "แย่อะ โทออกไม่ได้ ปกติได้สองสามวัน เป็นอีกแล้ว"
+            },
+            {
+              "date": "2022-12-02",
+              "score": 2,
+              "thumbs": 0,
+              "text": "ตอนแรกมันปกตินะ แต่มีปัญหาตอนโทหาอีกฝ่าย มันขึ้นสัญญาณไม่เสถียร เครือข่ายไม่เสถียร การโทมันจะขึ้นแจ้งว่าโทหาใคร แต่ตอนนี้ไม่มีเลย อย่างอื่นดีนะคะ รบกวนปรับปรุงการโทรหน่อยค่ะ รู้สึกว่ามีปัญหานะคะ ให้แก้ไขก่อนนะคะ จะมาแก้ดาวทีหลัง"
+            },
+            {
+              "date": "2022-01-11",
+              "score": 1,
+              "thumbs": 0,
+              "text": "เป็นอะไรกดพิมพ์แล้วไม่ไปแม่งเอ้ย"
+            },
+            {
+              "date": "2021-12-28",
+              "score": 1,
+              "thumbs": 22,
+              "text": "เสียเงินเป็น between plus แล้ว แต่ปิดโฆษณาภายในแอปยังไม่ได้"
+            },
+            {
+              "date": "2021-12-16",
+              "score": 1,
+              "thumbs": 6,
+              "text": "โทรไม่ได้อะครับ แก้ไขด่วนนนนนครับ"
+            }
+          ]
+        },
+        {
+          "appId": "com.sumone",
+          "title": "SumOne - พื้นที่ของคนรักกัน",
+          "developer": "monymony corp.",
+          "country": "th",
+          "niche": "couple",
+          "score": 4.78,
+          "ratings": 159537,
+          "installs": "5,000,000+",
+          "histogram": {
+            "1": 1543,
+            "2": 1543,
+            "3": 3087,
+            "4": 17497,
+            "5": 135349
+          },
+          "star1_ratio": 1,
+          "adSupported": true,
+          "offersIAP": true,
+          "IAPRange": "฿67.00 - ฿2,800.00 ต่อรายการ",
+          "free": true,
+          "updated_iso": "2026-04-30",
+          "low_reviews_count": 0,
+          "sample_low_reviews": []
+        }
+      ]
+    }
+  },
+  "EG": {
+    "astrology": {
+      "search_term": "الأبراج",
+      "competitors": [
+        {
+          "appId": "com.internetdesignzone.zodiacprofile",
+          "title": "برجك اليومي وقراءة الأبراج",
+          "developer": "Touchzing Media Private Limited",
+          "country": "eg",
+          "niche": "astrology",
+          "score": 4.14,
+          "ratings": 20500,
+          "installs": "+1,000,000",
+          "histogram": {
+            "1": 2648,
+            "2": 1433,
+            "3": 996,
+            "4": 591,
+            "5": 14736
+          },
+          "star1_ratio": 12.9,
+          "adSupported": true,
+          "offersIAP": false,
+          "free": true,
+          "updated_iso": "2026-01-22",
+          "low_reviews_count": 24,
+          "sample_low_reviews": [
+            {
+              "date": "2026-05-03",
+              "score": 1,
+              "thumbs": 0,
+              "text": "اشوع تطبيق شفته لحد الان"
+            },
+            {
+              "date": "2026-04-08",
+              "score": 1,
+              "thumbs": 0,
+              "text": "ابشع تطبيق لا يستحق حتى نجمه واحده"
+            },
+            {
+              "date": "2026-03-07",
+              "score": 1,
+              "thumbs": 1,
+              "text": "اين برج الجوزاء لا يوجد ليس جيداً 😒"
+            },
+            {
+              "date": "2026-02-25",
+              "score": 1,
+              "thumbs": 0,
+              "text": "كيف اترجمه الإعربي"
+            },
+            {
+              "date": "2026-01-02",
+              "score": 1,
+              "thumbs": 0,
+              "text": "لاتصدقو"
+            },
+            {
+              "date": "2025-12-18",
+              "score": 1,
+              "thumbs": 0,
+              "text": "ليس التطبيق المناسب للابراج"
+            },
+            {
+              "date": "2025-11-18",
+              "score": 1,
+              "thumbs": 0,
+              "text": "لاباس به"
+            },
+            {
+              "date": "2025-11-13",
+              "score": 1,
+              "thumbs": 0,
+              "text": "تطبيق فاشل. وما منة فايدة"
+            },
+            {
+              "date": "2025-11-11",
+              "score": 1,
+              "thumbs": 0,
+              "text": "كذاب"
+            },
+            {
+              "date": "2025-11-02",
+              "score": 1,
+              "thumbs": 0,
+              "text": "ما ينفع"
+            },
+            {
+              "date": "2025-10-29",
+              "score": 2,
+              "thumbs": 0,
+              "text": "مدري"
+            },
+            {
+              "date": "2025-10-19",
+              "score": 2,
+              "thumbs": 0,
+              "text": "AboAli"
+            }
+          ]
+        },
+        {
+          "appId": "com.app.abraj",
+          "title": "الابراج (البرج الروحاني)",
+          "developer": "Simple APP DEV",
+          "country": "eg",
+          "niche": "astrology",
+          "score": 4.59,
+          "ratings": 3802,
+          "installs": "+1,000,000",
+          "histogram": {
+            "1": 298,
+            "2": 0,
+            "3": 71,
+            "4": 179,
+            "5": 3228
+          },
+          "star1_ratio": 7.8,
+          "adSupported": true,
+          "offersIAP": false,
+          "free": true,
+          "updated_iso": "2026-01-15",
+          "low_reviews_count": 9,
+          "sample_low_reviews": [
+            {
+              "date": "2026-03-09",
+              "score": 1,
+              "thumbs": 0,
+              "text": "حلو"
+            },
+            {
+              "date": "2026-01-23",
+              "score": 1,
+              "thumbs": 14,
+              "text": "يحتاج إلى تعديل في القسم الخاص لحسابات الإسقاط لا يعمل بشكل صحيح وارجوا إصلاح اللون لأنه لا يرى وأيضاً لا يعمل"
+            },
+            {
+              "date": "2025-12-10",
+              "score": 1,
+              "thumbs": 0,
+              "text": "اتمنى حذف التطبيق لانه مخالف ل معتقدات الاسلاميه"
+            },
+            {
+              "date": "2025-08-15",
+              "score": 1,
+              "thumbs": 0,
+              "text": "جيد"
+            },
+            {
+              "date": "2025-08-14",
+              "score": 1,
+              "thumbs": 0,
+              "text": "اسوا تطبيق اعلانات كثير بدون فايده"
+            },
+            {
+              "date": "2025-07-29",
+              "score": 1,
+              "thumbs": 5,
+              "text": "انصح بعدم اتحمل الاعلانات فيه ما تتوقف ولا تقدر تسوه شي"
+            },
+            {
+              "date": "2025-07-21",
+              "score": 1,
+              "thumbs": 0,
+              "text": "تحت التجربه"
+            },
+            {
+              "date": "2025-06-26",
+              "score": 1,
+              "thumbs": 3,
+              "text": "كذب مايجيب لك المعلومات الصحيحة"
+            },
+            {
+              "date": "2025-06-24",
+              "score": 1,
+              "thumbs": 0,
+              "text": "يحتوى على اعلانات بصورة مستمرة"
+            }
+          ]
+        },
+        {
+          "appId": "com.daerhou.constellation",
+          "title": "برجك وعلم التنجيم - حظك اليوم",
+          "developer": "Horoscope365",
+          "country": "eg",
+          "niche": "astrology",
+          "score": 4.63,
+          "ratings": 8100,
+          "installs": "+500,000",
+          "histogram": {
+            "1": 391,
+            "2": 139,
+            "3": 55,
+            "4": 726,
+            "5": 6703
+          },
+          "star1_ratio": 4.8,
+          "adSupported": true,
+          "offersIAP": true,
+          "IAPRange": "‏٣٣٫٠٠ ج.م.‏ - ‏٢٣٩٫٩٩ ج.م.‏ لكل عنصر",
+          "free": true,
+          "updated_iso": "2026-04-08",
+          "low_reviews_count": 3,
+          "sample_low_reviews": [
+            {
+              "date": "2026-01-22",
+              "score": 1,
+              "thumbs": 0,
+              "text": "هذا الشيء فيه شرك والعياذ بالله لا تنزلوه والله صفر نجمة"
+            },
+            {
+              "date": "2025-07-17",
+              "score": 1,
+              "thumbs": 0,
+              "text": "رائع جدا"
+            },
+            {
+              "date": "2025-05-14",
+              "score": 1,
+              "thumbs": 0,
+              "text": "حلووووو"
+            }
+          ]
+        }
+      ]
+    },
+    "tarot": {
+      "search_term": "تاروت",
+      "competitors": [
+        {
+          "appId": "com.muratalagoz.tarot12",
+          "title": "قراءة التاروت",
+          "developer": "Murat Alagöz",
+          "country": "eg",
+          "niche": "tarot",
+          "score": 4.0555553,
+          "ratings": 763,
+          "installs": "+50,000",
+          "histogram": {
+            "1": 127,
+            "2": 0,
+            "3": 84,
+            "4": 42,
+            "5": 508
+          },
+          "star1_ratio": 16.6,
+          "adSupported": true,
+          "offersIAP": true,
+          "IAPRange": "‏٣٧٫٩٩ ج.م.‏ - ‏٢٬٥٩٩٫٩٩ ج.م.‏ لكل عنصر",
+          "free": true,
+          "updated_iso": "2025-10-28",
+          "low_reviews_count": 6,
+          "sample_low_reviews": [
+            {
+              "date": "2026-04-16",
+              "score": 2,
+              "thumbs": 0,
+              "text": "برنامج فاشل يعني كله ب فلوس وبس مره وحده قرالي بدون فلوس نصيحه لحد ينزله"
+            },
+            {
+              "date": "2025-11-04",
+              "score": 2,
+              "thumbs": 0,
+              "text": "هو جميل لكن ليس مجاني حذفته"
+            },
+            {
+              "date": "2025-03-16",
+              "score": 1,
+              "thumbs": 0,
+              "text": "لا يعمل يظهر لي (FormatException: Unexpected character (at line 460, character 3))"
+            },
+            {
+              "date": "2025-01-09",
+              "score": 1,
+              "thumbs": 2,
+              "text": "كيفيه الاستعمال 🙂"
+            },
+            {
+              "date": "2025-01-03",
+              "score": 1,
+              "thumbs": 4,
+              "text": "برنامج زاي الخرا"
+            },
+            {
+              "date": "2020-10-26",
+              "score": 1,
+              "thumbs": 1,
+              "text": "سيء"
+            }
+          ]
+        },
+        {
+          "appId": "com.didilabs.kaavefali",
+          "title": "Kaave: فال القهوة، التاروت",
+          "developer": "Didilabs BV",
+          "country": "eg",
+          "niche": "tarot",
+          "score": 4.7019424,
+          "ratings": 1272741,
+          "installs": "+10,000,000",
+          "histogram": {
+            "1": 45987,
+            "2": 17282,
+            "3": 40444,
+            "4": 62583,
+            "5": 1106392
+          },
+          "star1_ratio": 3.6,
+          "adSupported": true,
+          "offersIAP": true,
+          "IAPRange": "‏٥٫٩٩ ج.م.‏ - ‏١٬٩١٩٫٩٩ ج.م.‏ لكل عنصر",
+          "free": true,
+          "updated_iso": "2026-04-26",
+          "low_reviews_count": 11,
+          "sample_low_reviews": [
+            {
+              "date": "2026-05-03",
+              "score": 1,
+              "thumbs": 0,
+              "text": "البرنامج كان احسن من كده بكتير ليه كل شويه يقولي هز واربح وأشوف اعلانات كتير وبرضه الفنجان ميتحملش بجد بقي مزعج وبضطر اقفله"
+            },
+            {
+              "date": "2026-05-03",
+              "score": 1,
+              "thumbs": 0,
+              "text": "التطبيق حاليا لايعمل ولا اعلم سبب توقفه عن العمل"
+            },
+            {
+              "date": "2026-05-01",
+              "score": 1,
+              "thumbs": 0,
+              "text": "حلوه"
+            },
+            {
+              "date": "2026-05-01",
+              "score": 2,
+              "thumbs": 0,
+              "text": "جيده"
+            },
+            {
+              "date": "2026-04-25",
+              "score": 1,
+              "thumbs": 1,
+              "text": "بقالي اكتر من 3 شهور تقولي كمان شهرين جايلك فرحه كبيره مره كمان شهرين ومره كمان اسبوعين ومره هتشتري منزل ولا حاجه من دي حصلت للأسف انه كاذب ولا شيء بيحصل كااااااذب"
+            },
+            {
+              "date": "2026-04-25",
+              "score": 2,
+              "thumbs": 0,
+              "text": "التطبيق جميل ولاكن لماذا فقط تذكره فال واحده فقط ارجو وضع اكثر من فال تذاكر وايضا اوقت القراء جداء يتاخر ارجو معالجه هذه الملاحظات"
+            },
+            {
+              "date": "2026-04-23",
+              "score": 1,
+              "thumbs": 2,
+              "text": "القراءة اصبحت مكررة وغير واقعية ، من سنة كان برنامج يقرأ جيدا والحين يكرر القراءات ،،، وخربتوا البرنامج بالاعلانات .. سيتم حذفه"
+            },
+            {
+              "date": "2026-04-18",
+              "score": 2,
+              "thumbs": 0,
+              "text": "انا جربته ولاكنها كانت تبالغ 🫤"
+            },
+            {
+              "date": "2026-04-14",
+              "score": 1,
+              "thumbs": 2,
+              "text": "التطبيق بقا مش حلو خالص كل ماجي اعمل قراء مش راضي يعمل ويجبلي أن التذاكر خلصت وهز حتي تربح ومبقاش بيجيب مشاهد فديوهات لربح تذكره فال"
+            },
+            {
+              "date": "2026-04-13",
+              "score": 1,
+              "thumbs": 2,
+              "text": "ارجو اصلاح البرنامج واسراعه لانه أمرا مزعجاً"
+            },
+            {
+              "date": "2026-04-13",
+              "score": 2,
+              "thumbs": 1,
+              "text": "لا تفسر بشكل جيد بل تكرر الكلام في كل مرة ودائما تخطأ في التفسير"
+            }
+          ]
+        },
+        {
+          "appId": "com.yobzh.tarot",
+          "title": "Lumi: AI Tarot & Horoscope",
+          "developer": "Volodymyr Dudarenko",
+          "country": "eg",
+          "niche": "tarot",
+          "score": 4.818182,
+          "ratings": 11362,
+          "installs": "+1,000,000",
+          "histogram": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 2065,
+            "5": 9296
+          },
+          "star1_ratio": 0,
+          "adSupported": true,
+          "offersIAP": true,
+          "IAPRange": "‏٣٧٫٩٩ ج.م.‏ - ‏٢٬٧٤٩٫٩٩ ج.م.‏ لكل عنصر",
+          "free": true,
+          "updated_iso": "2026-04-27",
+          "low_reviews_count": 0,
+          "sample_low_reviews": []
+        }
+      ]
+    },
+    "manifestation": {
+      "search_term": "قانون الجذب",
+      "competitors": [
+        {
+          "appId": "com.pdf.kanonaljadb",
+          "title": "كتاب قانون الجذب  pdf",
+          "developer": "kitabe",
+          "country": "eg",
+          "niche": "manifestation",
+          "score": 4.5526314,
+          "ratings": 248,
+          "installs": "+50,000",
+          "histogram": {
+            "1": 6,
+            "2": 0,
+            "3": 32,
+            "4": 19,
+            "5": 189
+          },
+          "star1_ratio": 2.4,
+          "adSupported": true,
+          "offersIAP": false,
+          "free": true,
+          "updated_iso": "2022-08-06",
+          "low_reviews_count": 11,
+          "sample_low_reviews": [
+            {
+              "date": "2025-10-23",
+              "score": 2,
+              "thumbs": 0,
+              "text": "جيد حدا"
+            },
+            {
+              "date": "2025-03-14",
+              "score": 2,
+              "thumbs": 8,
+              "text": "دراسه نفسيه تفتح ابواب الوهم على مصراعيه للفاشلين في فهم الحياة بشكلها الصحيح والمثابره والعزم في الوصول إلى مايصبوااليه من النجاح والكفاح في أعمالهم اليوميه ،."
+            },
+            {
+              "date": "2025-03-09",
+              "score": 2,
+              "thumbs": 0,
+              "text": "جيد"
+            },
+            {
+              "date": "2025-02-09",
+              "score": 1,
+              "thumbs": 0,
+              "text": "وين صافحت 18"
+            },
+            {
+              "date": "2024-09-29",
+              "score": 2,
+              "thumbs": 2,
+              "text": "ملائم"
+            },
+            {
+              "date": "2024-06-30",
+              "score": 1,
+              "thumbs": 13,
+              "text": "لمادا لا يتنزل بسرعة ارجو حل هده المشكلة انا وضعت نجمة واحدة عند تحميله وتنزيله اضع 5 نجمات"
+            },
+            {
+              "date": "2024-04-19",
+              "score": 1,
+              "thumbs": 1,
+              "text": "كتاب چذاب لحد اينزله 😅"
+            },
+            {
+              "date": "2022-11-26",
+              "score": 1,
+              "thumbs": 2,
+              "text": "لم اجربه بعد"
+            },
+            {
+              "date": "2022-10-04",
+              "score": 1,
+              "thumbs": 2,
+              "text": "جميل"
+            },
+            {
+              "date": "2022-08-07",
+              "score": 1,
+              "thumbs": 2,
+              "text": "ممتازة"
+            },
+            {
+              "date": "2021-09-12",
+              "score": 1,
+              "thumbs": 4,
+              "text": "كدب كول اعلانة ٠٠٠٠٠٠٠٠٠٠٠٠٠٠٠٠٠٠"
+            }
+          ]
+        },
+        {
+          "appId": "com.ajmkhatib.teleportation",
+          "title": "قانون الجذب والتخاطر",
+          "developer": "AJMKhatib",
+          "country": "eg",
+          "niche": "manifestation",
+          "score": 3.8,
+          "ratings": 24,
+          "installs": "+10,000",
+          "histogram": {
+            "1": 0,
+            "2": 4,
+            "3": 4,
+            "4": 4,
+            "5": 9
+          },
+          "star1_ratio": 0,
+          "adSupported": true,
+          "offersIAP": false,
+          "free": true,
+          "updated_iso": "2025-10-21",
+          "low_reviews_count": 2,
+          "sample_low_reviews": [
+            {
+              "date": "2026-01-26",
+              "score": 2,
+              "thumbs": 1,
+              "text": "ابغي المواد تجربة جيدة بالنسبة لي على سبيل المثال سوف افعل عده اشياء من ق بل لانني يمكن كرته من هو مؤلف"
+            },
+            {
+              "date": "2025-05-09",
+              "score": 1,
+              "thumbs": 1,
+              "text": "فاشل لا انصح احد بتحميله كلمتين فقط فيه"
+            }
+          ]
+        },
+        {
+          "appId": "com.lawattraction.teleportation",
+          "title": "شرح قانون الجذب و التخاطر",
+          "developer": "ort app",
+          "country": "eg",
+          "niche": "manifestation",
+          "installs": "+500",
+          "histogram": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 0
+          },
+          "star1_ratio": null,
+          "adSupported": true,
+          "offersIAP": false,
+          "free": true,
+          "updated_iso": "2026-04-15",
+          "low_reviews_count": 0,
+          "sample_low_reviews": []
+        }
+      ]
+    },
+    "selfcare": {
+      "search_term": "العناية بالنفس",
+      "competitors": [
+        {
+          "appId": "com.kayfiat.aleinayat.bialdhaat.app714835335",
+          "title": "العناية بالذات : كيفية العناية",
+          "developer": "Rehan as",
+          "country": "eg",
+          "niche": "selfcare",
+          "installs": "+1,000",
+          "histogram": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 0
+          },
+          "star1_ratio": null,
+          "adSupported": true,
+          "offersIAP": false,
+          "free": true,
+          "updated_iso": "2024-08-01",
+          "low_reviews_count": 0,
+          "sample_low_reviews": []
+        },
+        {
+          "appId": "beauty.skin.care.app",
+          "title": "العناية بالبشرة والوجه",
+          "developer": "Rstream Labs",
+          "country": "eg",
+          "niche": "selfcare",
+          "score": 4.1512604,
+          "ratings": 27078,
+          "installs": "+5,000,000",
+          "histogram": {
+            "1": 2269,
+            "2": 1478,
+            "3": 3060,
+            "4": 3290,
+            "5": 16943
+          },
+          "star1_ratio": 8.4,
+          "adSupported": true,
+          "offersIAP": true,
+          "IAPRange": "‏١٦٫٩٩ ج.م.‏ - ‏٩٨٩٫٩٩ ج.م.‏ لكل عنصر",
+          "free": true,
+          "updated_iso": "2025-12-18",
+          "low_reviews_count": 14,
+          "sample_low_reviews": [
+            {
+              "date": "2026-05-04",
+              "score": 1,
+              "thumbs": 0,
+              "text": "لم يشتغل في جوالي وارجوا ان تحلوا هذه المشكله"
+            },
+            {
+              "date": "2026-04-28",
+              "score": 2,
+              "thumbs": 1,
+              "text": "يستحق الدفع وانا لااملك حساب بنكي😓😓ارجو تحسين هذا تجعلوه بالانترنت ومن غير حساب بنكي هناك بعض الأشخاص لا يمكنهم الدفع الرجاء اصلاح ذللك"
+            },
+            {
+              "date": "2026-04-16",
+              "score": 1,
+              "thumbs": 0,
+              "text": "رائع لا لم يعجبني"
+            },
+            {
+              "date": "2026-04-15",
+              "score": 1,
+              "thumbs": 1,
+              "text": "مش شغال عندي ارجو حل المشكلة"
+            },
+            {
+              "date": "2026-03-19",
+              "score": 1,
+              "thumbs": 1,
+              "text": "وحشه اللعبه دي قوي ما حدش يخش عليها شايفه من اللعبه دي وحشه جدا جدا مش حلوه خالص"
+            },
+            {
+              "date": "2026-03-17",
+              "score": 1,
+              "thumbs": 0,
+              "text": "ليس جميل"
+            },
+            {
+              "date": "2026-03-03",
+              "score": 1,
+              "thumbs": 0,
+              "text": "اريد وصفة"
+            },
+            {
+              "date": "2026-02-19",
+              "score": 1,
+              "thumbs": 0,
+              "text": "جميل جداً"
+            },
+            {
+              "date": "2026-02-10",
+              "score": 1,
+              "thumbs": 0,
+              "text": "سيى"
+            },
+            {
+              "date": "2026-02-02",
+              "score": 1,
+              "thumbs": 9,
+              "text": "مفيهوش اللغة العربية ومش من غير نت"
+            },
+            {
+              "date": "2026-01-28",
+              "score": 1,
+              "thumbs": 0,
+              "text": "بعد التجربة انطيكم رأيي"
+            },
+            {
+              "date": "2026-01-16",
+              "score": 1,
+              "thumbs": 0,
+              "text": "مليح"
+            }
+          ]
+        },
+        {
+          "appId": "com.rstream.beautycare",
+          "title": "وصفات جمال طبيعية للعناية",
+          "developer": "Rstream Labs",
+          "country": "eg",
+          "niche": "selfcare",
+          "score": 4.2580647,
+          "ratings": 490,
+          "installs": "+50,000",
+          "histogram": {
+            "1": 47,
+            "2": 15,
+            "3": 31,
+            "4": 63,
+            "5": 331
+          },
+          "star1_ratio": 9.6,
+          "adSupported": true,
+          "offersIAP": true,
+          "IAPRange": "‏١٦٫٩٩ ج.م.‏ - ‏٢٬٢٤٩٫٩٩ ج.م.‏ لكل عنصر",
+          "free": true,
+          "updated_iso": "2025-12-18",
+          "low_reviews_count": 3,
+          "sample_low_reviews": [
+            {
+              "date": "2025-11-08",
+              "score": 1,
+              "thumbs": 2,
+              "text": "تطبيق زباله وحش ومش شغال"
+            },
+            {
+              "date": "2025-06-16",
+              "score": 1,
+              "thumbs": 2,
+              "text": "ماشتغل معي للاسف شو السبب 🥹😭"
+            },
+            {
+              "date": "2022-08-23",
+              "score": 2,
+              "thumbs": 0,
+              "text": "،،"
+            }
+          ]
+        }
+      ]
+    },
+    "couple": {
+      "search_term": "تطبيق الأزواج",
+      "competitors": [
+        {
+          "appId": "com.buzzarab.buzzarab",
+          "title": "buzzArab - زواج وتعارف ودردشة",
+          "developer": "BUZZMEDIA INC.",
+          "country": "eg",
+          "niche": "couple",
+          "score": 4.2411013,
+          "ratings": 111844,
+          "installs": "+5,000,000",
+          "histogram": {
+            "1": 13892,
+            "2": 3377,
+            "3": 6006,
+            "4": 7129,
+            "5": 81415
+          },
+          "star1_ratio": 12.4,
+          "adSupported": true,
+          "offersIAP": false,
+          "free": true,
+          "updated_iso": "2026-02-17",
+          "low_reviews_count": 25,
+          "sample_low_reviews": [
+            {
+              "date": "2026-05-06",
+              "score": 1,
+              "thumbs": 0,
+              "text": "شباب بلغو عن التطبيق التطبيق وهمي تفي عليهم"
+            },
+            {
+              "date": "2026-05-02",
+              "score": 1,
+              "thumbs": 0,
+              "text": "نزل التطبيق وبعد ما. ينزل التطبيق كل فيشار وأستنانه بعد اسبوع لينتحقق من اعصابك خاااااااا تفوووووه"
+            },
+            {
+              "date": "2026-04-28",
+              "score": 1,
+              "thumbs": 0,
+              "text": "يغلق ويوقف الدردشه ف أمور ضروريه احنا ليست ضغار"
+            },
+            {
+              "date": "2026-04-27",
+              "score": 1,
+              "thumbs": 0,
+              "text": "بقالي 3سنين مادخلتش البرنامج كل ما حاول ادخل يقولي انت متزوج الدنيا بتتغير ليه البرنامج ده كده ايه التعالي ده"
+            },
+            {
+              "date": "2026-04-17",
+              "score": 1,
+              "thumbs": 0,
+              "text": "فاشل كلو لعب"
+            },
+            {
+              "date": "2026-04-17",
+              "score": 1,
+              "thumbs": 0,
+              "text": "لا أحد يرد"
+            },
+            {
+              "date": "2026-04-17",
+              "score": 1,
+              "thumbs": 3,
+              "text": "لا أعلم ما به عندما اريد ان اتطلع على الرسائل يتوقف لا يعمل بشكل جيد اتمنى التعديل"
+            },
+            {
+              "date": "2026-04-15",
+              "score": 1,
+              "thumbs": 0,
+              "text": "سيء"
+            },
+            {
+              "date": "2026-04-10",
+              "score": 1,
+              "thumbs": 0,
+              "text": "غير جيد و كذابين"
+            },
+            {
+              "date": "2026-04-09",
+              "score": 1,
+              "thumbs": 0,
+              "text": "تطبيق زفت في اعلانات كثير وفي ناس أصنام مايحكو معاك"
+            },
+            {
+              "date": "2026-04-09",
+              "score": 1,
+              "thumbs": 0,
+              "text": "برنامج رائع شكرا لكم لكن فيه رجال كذابين واستغلاليين لا يريدون الزواج بل يريدون الكذب"
+            },
+            {
+              "date": "2026-04-08",
+              "score": 1,
+              "thumbs": 0,
+              "text": "نصيحة لااحد ينزله كذب كذب وتافه أكثر مما تتخيل لون"
+            }
+          ]
+        },
+        {
+          "appId": "com.muzmatch.muzmatchapp",
+          "title": "Muzz: تطبيق زواج للمسلمين",
+          "developer": "Muzz",
+          "country": "eg",
+          "niche": "couple",
+          "score": 4.4313726,
+          "ratings": 304765,
+          "installs": "+10,000,000",
+          "histogram": {
+            "1": 17813,
+            "2": 8560,
+            "3": 21979,
+            "4": 32356,
+            "5": 224032
+          },
+          "star1_ratio": 5.8,
+          "adSupported": false,
+          "offersIAP": true,
+          "IAPRange": "‏١٤٫٩٩ ج.م.‏ - ‏٤٬٤٤٩٫٩٩ ج.م.‏ لكل عنصر",
+          "free": true,
+          "updated_iso": "2026-04-22",
+          "low_reviews_count": 38,
+          "sample_low_reviews": [
+            {
+              "date": "2026-05-04",
+              "score": 1,
+              "thumbs": 0,
+              "text": "يجب عليك أن تدفع فلوس في التطبيق هذا سئ جدا"
+            },
+            {
+              "date": "2026-05-04",
+              "score": 1,
+              "thumbs": 0,
+              "text": "سئ جدا ازاي مثلا واحدة منتقبة عايزها تنزل صورة واضحة ليها بشكلها من غير النقاب اومال انا منتقبة ليه 🙄"
+            },
+            {
+              "date": "2026-05-04",
+              "score": 1,
+              "thumbs": 0,
+              "text": "ياريت لو تضاف أثناء البحث من السن الوزن والطول ذي برامج مجانيه كانت موجودة بس اتمني ميزة البحث عن الوزن والطول والسن تكون مجانية"
+            },
+            {
+              "date": "2026-05-04",
+              "score": 1,
+              "thumbs": 0,
+              "text": "كل داخل يشقط مافيش جديه"
+            },
+            {
+              "date": "2026-05-04",
+              "score": 1,
+              "thumbs": 0,
+              "text": "تطبيق لا انصح به بحفظ معلوماتك ومعظم المشتركين موظفين وحسابات وهميه افشل تكبيق لا انصح به نهائي اللهم قد بلغت اللهم فاشهد"
+            },
+            {
+              "date": "2026-05-04",
+              "score": 1,
+              "thumbs": 0,
+              "text": "اصبحت تطبيقات الزواج واجهات براقة لواقع بائس وسوقا لبيع الوهم. مجتمعنا لم يتصالح مع فكرة البحث عن شريك خلف الشاشات مما جعلها مرتعا للعابثين والباحثين عن مصالح مادية. ما يحدث في موقع مز هو قمة الاستغفال حيث يعتمد على تدوير حسابات وهمية وموظفين ليوهم المشتركين بوجود خيارات. ​احذر ك"
+            },
+            {
+              "date": "2026-04-30",
+              "score": 2,
+              "thumbs": 440,
+              "text": "بعد التحديث الاخير اصبح سئ للغايه وغير مجاني إلا 10% من امكانيات التطبيق انما عشان تتحكم في باقي التطبيق 90% لازم تدفع ♦♦ ارجو اضافة ميزة الغاء الماتش (الاعجاب) لانه مش موجود فابنطر نعمل حظر وده مش كويس لان ممكن يحصل أولفه بعد ذلك واعجاب اخر لكن الحظر قاسي + ارجو اضافة وزن الانثى"
+            },
+            {
+              "date": "2026-04-29",
+              "score": 1,
+              "thumbs": 0,
+              "text": "غير فعال"
+            },
+            {
+              "date": "2026-04-28",
+              "score": 1,
+              "thumbs": 0,
+              "text": "فكرته جدا سيئه خاصة أنعم يقولن للمسلمين وهذا ليس من طرق الزواج"
+            },
+            {
+              "date": "2026-04-26",
+              "score": 1,
+              "thumbs": 0,
+              "text": "غير مناسب"
+            },
+            {
+              "date": "2026-04-25",
+              "score": 1,
+              "thumbs": 1,
+              "text": "تطبيق سئ هدفه الأساسي مادي وربحي لا يلتزم بسياسة التطبيق نفسه ويتم حظرك على أقل شي"
+            },
+            {
+              "date": "2026-04-25",
+              "score": 1,
+              "thumbs": 0,
+              "text": "البرنامج جيد لكن هناك من لايرغب ل وضع صورته خاصه برامج التعارف للزواج الأمر يخص الطرفين حين الاتفاق يجب ان يكون اختياري"
+            }
+          ]
+        },
+        {
+          "appId": "app.zawag",
+          "title": "زواج ملتقى القلوب- تطبيق لزواج",
+          "developer": "Zawag.app",
+          "country": "eg",
+          "niche": "couple",
+          "score": 4.2107844,
+          "ratings": 9452,
+          "installs": "+100,000",
+          "histogram": {
+            "1": 784,
+            "2": 505,
+            "3": 876,
+            "4": 1016,
+            "5": 6254
+          },
+          "star1_ratio": 8.3,
+          "adSupported": false,
+          "offersIAP": true,
+          "IAPRange": "‏٥٥٫٩٩ ج.م.‏ - ‏٥٬٣٩٩٫٩٩ ج.م.‏ لكل عنصر",
+          "free": true,
+          "updated_iso": "2026-03-07",
+          "low_reviews_count": 10,
+          "sample_low_reviews": [
+            {
+              "date": "2026-04-26",
+              "score": 1,
+              "thumbs": 0,
+              "text": "برنامج يتجسس على المحادثة اذا لم تدفع له لا يوجد خصوصية الرجاء عدم التحميل"
+            },
+            {
+              "date": "2026-04-16",
+              "score": 1,
+              "thumbs": 0,
+              "text": "جميل جداً"
+            },
+            {
+              "date": "2026-04-13",
+              "score": 1,
+              "thumbs": 0,
+              "text": "الحقيقيه هذا الموقع يتيح فرصه التواصل والتعارف من أجل هدف عظيم يحبه ويرضاه رب العالمين وهو الزواج بشرع الله وأنا سعدت جدا بلقاء والتعارف علي بعض السيدات المحترمه ولديهم رغبه صادقه وجاده في الزواج وفق الله الجميع لما يحبه ويرضاه ولكن مع الأسف هذا الموقع لم يكمل معي خدماته واغلق حس"
+            },
+            {
+              "date": "2026-04-11",
+              "score": 1,
+              "thumbs": 0,
+              "text": "تطبيق متخلف وسيء للغاية واكثر همهم الفلوس حتى الرسائل العادية محاصرينك فيها يعني كذا تبقى تتفرج بس لاتتكلم صامت ولا ادفع وماهمهم تلقى او لا"
+            },
+            {
+              "date": "2026-03-29",
+              "score": 1,
+              "thumbs": 0,
+              "text": "تحت التجربة"
+            },
+            {
+              "date": "2026-03-28",
+              "score": 1,
+              "thumbs": 0,
+              "text": "التطبيق مش احسن حاجه خالص ومليان ناس مش تمام"
+            },
+            {
+              "date": "2026-03-28",
+              "score": 1,
+              "thumbs": 0,
+              "text": "مو خوش تطبيق كلشي بي بفلوس محد يحاسبهم غايتهم يفسدون لمجتمع وينهبون امواله عن طريق العاطفه"
+            },
+            {
+              "date": "2026-03-24",
+              "score": 1,
+              "thumbs": 4,
+              "text": "مافي مستخدمين حاليا والتطبيق ميت يمكن ارجعلو بآخر 2026, التطبيق بعد مارجعتلو طلع سيى كتير وحتى لما تعمل مطابقة، مابيوصل مسجاتك إلا متأخر، وبيحذف اي رسالة فيها تلميح لوسيلة تواصل بشكل مستفز جدا وبيقلك مافيك تشارك وسيلة تواصل قبل ماتدفع، وسعرهم غالي كتير بالنسبة لتطبيق جديد مافي مس"
+            },
+            {
+              "date": "2026-03-17",
+              "score": 1,
+              "thumbs": 0,
+              "text": "بمبالغ مالية وهذا الشيء مزعج جدا وايضا تفاعل ضعيف وكثير من الموجودين حرصهم الأكبر على دخلك المادي أكثر من الحياة والاستقرار"
+            },
+            {
+              "date": "2026-03-01",
+              "score": 2,
+              "thumbs": 0,
+              "text": "منيح"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "SA": {
+    "astrology": {
+      "search_term": "الأبراج",
+      "competitors": [
+        {
+          "appId": "com.internetdesignzone.zodiacprofile",
+          "title": "برجك اليومي وقراءة الأبراج",
+          "developer": "Touchzing Media Private Limited",
+          "country": "sa",
+          "niche": "astrology",
+          "score": 4.224719,
+          "ratings": 20500,
+          "installs": "+1,000,000",
+          "histogram": {
+            "1": 1594,
+            "2": 2050,
+            "3": 911,
+            "4": 1366,
+            "5": 14350
+          },
+          "star1_ratio": 7.8,
+          "adSupported": true,
+          "offersIAP": false,
+          "free": true,
+          "updated_iso": "2026-01-22",
+          "low_reviews_count": 24,
+          "sample_low_reviews": [
+            {
+              "date": "2026-05-03",
+              "score": 1,
+              "thumbs": 0,
+              "text": "اشوع تطبيق شفته لحد الان"
+            },
+            {
+              "date": "2026-04-08",
+              "score": 1,
+              "thumbs": 0,
+              "text": "ابشع تطبيق لا يستحق حتى نجمه واحده"
+            },
+            {
+              "date": "2026-03-07",
+              "score": 1,
+              "thumbs": 1,
+              "text": "اين برج الجوزاء لا يوجد ليس جيداً 😒"
+            },
+            {
+              "date": "2026-02-25",
+              "score": 1,
+              "thumbs": 0,
+              "text": "كيف اترجمه الإعربي"
+            },
+            {
+              "date": "2026-01-02",
+              "score": 1,
+              "thumbs": 0,
+              "text": "لاتصدقو"
+            },
+            {
+              "date": "2025-12-18",
+              "score": 1,
+              "thumbs": 0,
+              "text": "ليس التطبيق المناسب للابراج"
+            },
+            {
+              "date": "2025-11-18",
+              "score": 1,
+              "thumbs": 0,
+              "text": "لاباس به"
+            },
+            {
+              "date": "2025-11-13",
+              "score": 1,
+              "thumbs": 0,
+              "text": "تطبيق فاشل. وما منة فايدة"
+            },
+            {
+              "date": "2025-11-11",
+              "score": 1,
+              "thumbs": 0,
+              "text": "كذاب"
+            },
+            {
+              "date": "2025-11-02",
+              "score": 1,
+              "thumbs": 0,
+              "text": "ما ينفع"
+            },
+            {
+              "date": "2025-10-29",
+              "score": 2,
+              "thumbs": 0,
+              "text": "مدري"
+            },
+            {
+              "date": "2025-10-19",
+              "score": 2,
+              "thumbs": 0,
+              "text": "AboAli"
+            }
+          ]
+        },
+        {
+          "appId": "com.app.abraj",
+          "title": "الابراج (البرج الروحاني)",
+          "developer": "Simple APP DEV",
+          "country": "sa",
+          "niche": "astrology",
+          "score": 4.49,
+          "ratings": 3802,
+          "installs": "+1,000,000",
+          "histogram": {
+            "1": 336,
+            "2": 105,
+            "3": 63,
+            "4": 63,
+            "5": 3192
+          },
+          "star1_ratio": 8.8,
+          "adSupported": true,
+          "offersIAP": false,
+          "free": true,
+          "updated_iso": "2026-01-15",
+          "low_reviews_count": 9,
+          "sample_low_reviews": [
+            {
+              "date": "2026-03-09",
+              "score": 1,
+              "thumbs": 0,
+              "text": "حلو"
+            },
+            {
+              "date": "2026-01-23",
+              "score": 1,
+              "thumbs": 14,
+              "text": "يحتاج إلى تعديل في القسم الخاص لحسابات الإسقاط لا يعمل بشكل صحيح وارجوا إصلاح اللون لأنه لا يرى وأيضاً لا يعمل"
+            },
+            {
+              "date": "2025-12-10",
+              "score": 1,
+              "thumbs": 0,
+              "text": "اتمنى حذف التطبيق لانه مخالف ل معتقدات الاسلاميه"
+            },
+            {
+              "date": "2025-08-15",
+              "score": 1,
+              "thumbs": 0,
+              "text": "جيد"
+            },
+            {
+              "date": "2025-08-14",
+              "score": 1,
+              "thumbs": 0,
+              "text": "اسوا تطبيق اعلانات كثير بدون فايده"
+            },
+            {
+              "date": "2025-07-29",
+              "score": 1,
+              "thumbs": 5,
+              "text": "انصح بعدم اتحمل الاعلانات فيه ما تتوقف ولا تقدر تسوه شي"
+            },
+            {
+              "date": "2025-07-21",
+              "score": 1,
+              "thumbs": 0,
+              "text": "تحت التجربه"
+            },
+            {
+              "date": "2025-06-26",
+              "score": 1,
+              "thumbs": 3,
+              "text": "كذب مايجيب لك المعلومات الصحيحة"
+            },
+            {
+              "date": "2025-06-24",
+              "score": 1,
+              "thumbs": 0,
+              "text": "يحتوى على اعلانات بصورة مستمرة"
+            }
+          ]
+        },
+        {
+          "appId": "com.daerhou.constellation",
+          "title": "برجك وعلم التنجيم - حظك اليوم",
+          "developer": "Horoscope365",
+          "country": "sa",
+          "niche": "astrology",
+          "score": 4.75641,
+          "ratings": 8100,
+          "installs": "+500,000",
+          "histogram": {
+            "1": 311,
+            "2": 0,
+            "3": 103,
+            "4": 519,
+            "5": 7165
+          },
+          "star1_ratio": 3.8,
+          "adSupported": true,
+          "offersIAP": true,
+          "IAPRange": "‏٥٫٧٠ ر.س.‏ - ‏٩٠٫٠٠ ر.س.‏ لكل عنصر",
+          "free": true,
+          "updated_iso": "2026-04-08",
+          "low_reviews_count": 3,
+          "sample_low_reviews": [
+            {
+              "date": "2026-01-22",
+              "score": 1,
+              "thumbs": 0,
+              "text": "هذا الشيء فيه شرك والعياذ بالله لا تنزلوه والله صفر نجمة"
+            },
+            {
+              "date": "2025-07-17",
+              "score": 1,
+              "thumbs": 0,
+              "text": "رائع جدا"
+            },
+            {
+              "date": "2025-05-14",
+              "score": 1,
+              "thumbs": 0,
+              "text": "حلووووو"
+            }
+          ]
+        }
+      ]
+    },
+    "tarot": {
+      "search_term": "تاروت",
+      "competitors": [
+        {
+          "appId": "com.muratalagoz.tarot12",
+          "title": "قراءة التاروت",
+          "developer": "Murat Alagöz",
+          "country": "sa",
+          "niche": "tarot",
+          "score": 3.8,
+          "ratings": 763,
+          "installs": "+50,000",
+          "histogram": {
+            "1": 152,
+            "2": 0,
+            "3": 152,
+            "4": 0,
+            "5": 457
+          },
+          "star1_ratio": 19.9,
+          "adSupported": true,
+          "offersIAP": true,
+          "IAPRange": "‏٢٫٩٩ ر.س.‏ - ‏١٩٤٫٩٩ ر.س.‏ لكل عنصر",
+          "free": true,
+          "updated_iso": "2025-10-28",
+          "low_reviews_count": 6,
+          "sample_low_reviews": [
+            {
+              "date": "2026-04-16",
+              "score": 2,
+              "thumbs": 0,
+              "text": "برنامج فاشل يعني كله ب فلوس وبس مره وحده قرالي بدون فلوس نصيحه لحد ينزله"
+            },
+            {
+              "date": "2025-11-04",
+              "score": 2,
+              "thumbs": 0,
+              "text": "هو جميل لكن ليس مجاني حذفته"
+            },
+            {
+              "date": "2025-03-16",
+              "score": 1,
+              "thumbs": 0,
+              "text": "لا يعمل يظهر لي (FormatException: Unexpected character (at line 460, character 3))"
+            },
+            {
+              "date": "2025-01-09",
+              "score": 1,
+              "thumbs": 2,
+              "text": "كيفيه الاستعمال 🙂"
+            },
+            {
+              "date": "2025-01-03",
+              "score": 1,
+              "thumbs": 4,
+              "text": "برنامج زاي الخرا"
+            },
+            {
+              "date": "2020-10-26",
+              "score": 1,
+              "thumbs": 1,
+              "text": "سيء"
+            }
+          ]
+        },
+        {
+          "appId": "com.didilabs.kaavefali",
+          "title": "Kaave: فال القهوة، التاروت",
+          "developer": "Didilabs BV",
+          "country": "sa",
+          "niche": "tarot",
+          "score": 4.685724,
+          "ratings": 1272741,
+          "installs": "+10,000,000",
+          "histogram": {
+            "1": 48496,
+            "2": 19962,
+            "3": 38257,
+            "4": 69332,
+            "5": 1096573
+          },
+          "star1_ratio": 3.8,
+          "adSupported": true,
+          "offersIAP": true,
+          "IAPRange": "‏٢٫٩٩ ر.س.‏ - ‏٨٦٩٫٩٩ ر.س.‏ لكل عنصر",
+          "free": true,
+          "updated_iso": "2026-04-26",
+          "low_reviews_count": 11,
+          "sample_low_reviews": [
+            {
+              "date": "2026-05-03",
+              "score": 1,
+              "thumbs": 0,
+              "text": "البرنامج كان احسن من كده بكتير ليه كل شويه يقولي هز واربح وأشوف اعلانات كتير وبرضه الفنجان ميتحملش بجد بقي مزعج وبضطر اقفله"
+            },
+            {
+              "date": "2026-05-03",
+              "score": 1,
+              "thumbs": 0,
+              "text": "التطبيق حاليا لايعمل ولا اعلم سبب توقفه عن العمل"
+            },
+            {
+              "date": "2026-05-01",
+              "score": 1,
+              "thumbs": 0,
+              "text": "حلوه"
+            },
+            {
+              "date": "2026-05-01",
+              "score": 2,
+              "thumbs": 0,
+              "text": "جيده"
+            },
+            {
+              "date": "2026-04-25",
+              "score": 1,
+              "thumbs": 1,
+              "text": "بقالي اكتر من 3 شهور تقولي كمان شهرين جايلك فرحه كبيره مره كمان شهرين ومره كمان اسبوعين ومره هتشتري منزل ولا حاجه من دي حصلت للأسف انه كاذب ولا شيء بيحصل كااااااذب"
+            },
+            {
+              "date": "2026-04-25",
+              "score": 2,
+              "thumbs": 0,
+              "text": "التطبيق جميل ولاكن لماذا فقط تذكره فال واحده فقط ارجو وضع اكثر من فال تذاكر وايضا اوقت القراء جداء يتاخر ارجو معالجه هذه الملاحظات"
+            },
+            {
+              "date": "2026-04-23",
+              "score": 1,
+              "thumbs": 2,
+              "text": "القراءة اصبحت مكررة وغير واقعية ، من سنة كان برنامج يقرأ جيدا والحين يكرر القراءات ،،، وخربتوا البرنامج بالاعلانات .. سيتم حذفه"
+            },
+            {
+              "date": "2026-04-18",
+              "score": 2,
+              "thumbs": 0,
+              "text": "انا جربته ولاكنها كانت تبالغ 🫤"
+            },
+            {
+              "date": "2026-04-14",
+              "score": 1,
+              "thumbs": 2,
+              "text": "التطبيق بقا مش حلو خالص كل ماجي اعمل قراء مش راضي يعمل ويجبلي أن التذاكر خلصت وهز حتي تربح ومبقاش بيجيب مشاهد فديوهات لربح تذكره فال"
+            },
+            {
+              "date": "2026-04-13",
+              "score": 1,
+              "thumbs": 2,
+              "text": "ارجو اصلاح البرنامج واسراعه لانه أمرا مزعجاً"
+            },
+            {
+              "date": "2026-04-13",
+              "score": 2,
+              "thumbs": 1,
+              "text": "لا تفسر بشكل جيد بل تكرر الكلام في كل مرة ودائما تخطأ في التفسير"
+            }
+          ]
+        },
+        {
+          "appId": "com.yobzh.tarot",
+          "title": "Lumi: AI Tarot & Horoscope",
+          "developer": "Volodymyr Dudarenko",
+          "country": "sa",
+          "niche": "tarot",
+          "score": 4.428571,
+          "ratings": 11362,
+          "installs": "+1,000,000",
+          "histogram": {
+            "1": 1623,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 9738
+          },
+          "star1_ratio": 14.3,
+          "adSupported": true,
+          "offersIAP": true,
+          "IAPRange": "‏٤٫٦٩ ر.س.‏ - ‏٢١٤٫٩٩ ر.س.‏ لكل عنصر",
+          "free": true,
+          "updated_iso": "2026-04-27",
+          "low_reviews_count": 0,
+          "sample_low_reviews": []
+        }
+      ]
+    },
+    "manifestation": {
+      "search_term": "قانون الجذب",
+      "competitors": [
+        {
+          "appId": "com.pdf.kanonaljadb",
+          "title": "كتاب قانون الجذب  pdf",
+          "developer": "kitabe",
+          "country": "sa",
+          "niche": "manifestation",
+          "score": 4.6666665,
+          "ratings": 248,
+          "installs": "+50,000",
+          "histogram": {
+            "1": 0,
+            "2": 0,
+            "3": 16,
+            "4": 49,
+            "5": 181
+          },
+          "star1_ratio": 0,
+          "adSupported": true,
+          "offersIAP": false,
+          "free": true,
+          "updated_iso": "2022-08-06",
+          "low_reviews_count": 11,
+          "sample_low_reviews": [
+            {
+              "date": "2025-10-23",
+              "score": 2,
+              "thumbs": 0,
+              "text": "جيد حدا"
+            },
+            {
+              "date": "2025-03-14",
+              "score": 2,
+              "thumbs": 8,
+              "text": "دراسه نفسيه تفتح ابواب الوهم على مصراعيه للفاشلين في فهم الحياة بشكلها الصحيح والمثابره والعزم في الوصول إلى مايصبوااليه من النجاح والكفاح في أعمالهم اليوميه ،."
+            },
+            {
+              "date": "2025-03-09",
+              "score": 2,
+              "thumbs": 0,
+              "text": "جيد"
+            },
+            {
+              "date": "2025-02-09",
+              "score": 1,
+              "thumbs": 0,
+              "text": "وين صافحت 18"
+            },
+            {
+              "date": "2024-09-29",
+              "score": 2,
+              "thumbs": 2,
+              "text": "ملائم"
+            },
+            {
+              "date": "2024-06-30",
+              "score": 1,
+              "thumbs": 13,
+              "text": "لمادا لا يتنزل بسرعة ارجو حل هده المشكلة انا وضعت نجمة واحدة عند تحميله وتنزيله اضع 5 نجمات"
+            },
+            {
+              "date": "2024-04-19",
+              "score": 1,
+              "thumbs": 1,
+              "text": "كتاب چذاب لحد اينزله 😅"
+            },
+            {
+              "date": "2022-11-26",
+              "score": 1,
+              "thumbs": 2,
+              "text": "لم اجربه بعد"
+            },
+            {
+              "date": "2022-10-04",
+              "score": 1,
+              "thumbs": 2,
+              "text": "جميل"
+            },
+            {
+              "date": "2022-08-07",
+              "score": 1,
+              "thumbs": 2,
+              "text": "ممتازة"
+            },
+            {
+              "date": "2021-09-12",
+              "score": 1,
+              "thumbs": 4,
+              "text": "كدب كول اعلانة ٠٠٠٠٠٠٠٠٠٠٠٠٠٠٠٠٠٠"
+            }
+          ]
+        },
+        {
+          "appId": "com.ajmkhatib.teleportation",
+          "title": "قانون الجذب والتخاطر",
+          "developer": "AJMKhatib",
+          "country": "sa",
+          "niche": "manifestation",
+          "installs": "+10,000",
+          "histogram": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 0
+          },
+          "star1_ratio": null,
+          "adSupported": true,
+          "offersIAP": false,
+          "free": true,
+          "updated_iso": "2025-10-21",
+          "low_reviews_count": 2,
+          "sample_low_reviews": [
+            {
+              "date": "2026-01-26",
+              "score": 2,
+              "thumbs": 1,
+              "text": "ابغي المواد تجربة جيدة بالنسبة لي على سبيل المثال سوف افعل عده اشياء من ق بل لانني يمكن كرته من هو مؤلف"
+            },
+            {
+              "date": "2025-05-09",
+              "score": 1,
+              "thumbs": 1,
+              "text": "فاشل لا انصح احد بتحميله كلمتين فقط فيه"
+            }
+          ]
+        },
+        {
+          "appId": "com.lawattraction.teleportation",
+          "title": "شرح قانون الجذب و التخاطر",
+          "developer": "ort app",
+          "country": "sa",
+          "niche": "manifestation",
+          "installs": "+500",
+          "histogram": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 0
+          },
+          "star1_ratio": null,
+          "adSupported": true,
+          "offersIAP": false,
+          "free": true,
+          "updated_iso": "2026-04-15",
+          "low_reviews_count": 0,
+          "sample_low_reviews": []
+        }
+      ]
+    },
+    "selfcare": {
+      "search_term": "العناية بالنفس",
+      "competitors": [
+        {
+          "appId": "com.kayfiat.aleinayat.bialdhaat.app714835335",
+          "title": "العناية بالذات : كيفية العناية",
+          "developer": "Rehan as",
+          "country": "sa",
+          "niche": "selfcare",
+          "installs": "+1,000",
+          "histogram": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 0
+          },
+          "star1_ratio": null,
+          "adSupported": true,
+          "offersIAP": false,
+          "free": true,
+          "updated_iso": "2024-08-01",
+          "low_reviews_count": 0,
+          "sample_low_reviews": []
+        },
+        {
+          "appId": "beauty.skin.care.app",
+          "title": "العناية بالبشرة والوجه",
+          "developer": "Rstream Labs",
+          "country": "sa",
+          "niche": "selfcare",
+          "score": 4.56,
+          "ratings": 27078,
+          "installs": "+5,000,000",
+          "histogram": {
+            "1": 1066,
+            "2": 1066,
+            "3": 497,
+            "4": 3198,
+            "5": 21108
+          },
+          "star1_ratio": 3.9,
+          "adSupported": true,
+          "offersIAP": true,
+          "IAPRange": "‏٢٫٠٩ ر.س.‏ - ‏٢٥٤٫٩٩ ر.س.‏ لكل عنصر",
+          "free": true,
+          "updated_iso": "2025-12-18",
+          "low_reviews_count": 14,
+          "sample_low_reviews": [
+            {
+              "date": "2026-05-04",
+              "score": 1,
+              "thumbs": 0,
+              "text": "لم يشتغل في جوالي وارجوا ان تحلوا هذه المشكله"
+            },
+            {
+              "date": "2026-04-28",
+              "score": 2,
+              "thumbs": 1,
+              "text": "يستحق الدفع وانا لااملك حساب بنكي😓😓ارجو تحسين هذا تجعلوه بالانترنت ومن غير حساب بنكي هناك بعض الأشخاص لا يمكنهم الدفع الرجاء اصلاح ذللك"
+            },
+            {
+              "date": "2026-04-16",
+              "score": 1,
+              "thumbs": 0,
+              "text": "رائع لا لم يعجبني"
+            },
+            {
+              "date": "2026-04-15",
+              "score": 1,
+              "thumbs": 1,
+              "text": "مش شغال عندي ارجو حل المشكلة"
+            },
+            {
+              "date": "2026-03-19",
+              "score": 1,
+              "thumbs": 1,
+              "text": "وحشه اللعبه دي قوي ما حدش يخش عليها شايفه من اللعبه دي وحشه جدا جدا مش حلوه خالص"
+            },
+            {
+              "date": "2026-03-17",
+              "score": 1,
+              "thumbs": 0,
+              "text": "ليس جميل"
+            },
+            {
+              "date": "2026-03-03",
+              "score": 1,
+              "thumbs": 0,
+              "text": "اريد وصفة"
+            },
+            {
+              "date": "2026-02-19",
+              "score": 1,
+              "thumbs": 0,
+              "text": "جميل جداً"
+            },
+            {
+              "date": "2026-02-10",
+              "score": 1,
+              "thumbs": 0,
+              "text": "سيى"
+            },
+            {
+              "date": "2026-02-02",
+              "score": 1,
+              "thumbs": 9,
+              "text": "مفيهوش اللغة العربية ومش من غير نت"
+            },
+            {
+              "date": "2026-01-28",
+              "score": 1,
+              "thumbs": 0,
+              "text": "بعد التجربة انطيكم رأيي"
+            },
+            {
+              "date": "2026-01-16",
+              "score": 1,
+              "thumbs": 0,
+              "text": "مليح"
+            }
+          ]
+        },
+        {
+          "appId": "com.rstream.beautycare",
+          "title": "وصفات جمال طبيعية للعناية",
+          "developer": "Rstream Labs",
+          "country": "sa",
+          "niche": "selfcare",
+          "score": 4.2727275,
+          "ratings": 490,
+          "installs": "+50,000",
+          "histogram": {
+            "1": 89,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 400
+          },
+          "star1_ratio": 18.2,
+          "adSupported": true,
+          "offersIAP": true,
+          "IAPRange": "‏٢٫٠٩ ر.س.‏ - ‏٢٥٤٫٩٩ ر.س.‏ لكل عنصر",
+          "free": true,
+          "updated_iso": "2025-12-18",
+          "low_reviews_count": 3,
+          "sample_low_reviews": [
+            {
+              "date": "2025-11-08",
+              "score": 1,
+              "thumbs": 2,
+              "text": "تطبيق زباله وحش ومش شغال"
+            },
+            {
+              "date": "2025-06-16",
+              "score": 1,
+              "thumbs": 2,
+              "text": "ماشتغل معي للاسف شو السبب 🥹😭"
+            },
+            {
+              "date": "2022-08-23",
+              "score": 2,
+              "thumbs": 0,
+              "text": "،،"
+            }
+          ]
+        }
+      ]
+    },
+    "couple": {
+      "search_term": "تطبيق الأزواج",
+      "competitors": [
+        {
+          "appId": "com.buzzarab.buzzarab",
+          "title": "buzzArab - زواج وتعارف ودردشة",
+          "developer": "BUZZMEDIA INC.",
+          "country": "sa",
+          "niche": "couple",
+          "score": 4.290809,
+          "ratings": 111844,
+          "installs": "+5,000,000",
+          "histogram": {
+            "1": 13341,
+            "2": 2452,
+            "3": 5673,
+            "4": 7210,
+            "5": 83151
+          },
+          "star1_ratio": 11.9,
+          "adSupported": true,
+          "offersIAP": false,
+          "free": true,
+          "updated_iso": "2026-02-17",
+          "low_reviews_count": 25,
+          "sample_low_reviews": [
+            {
+              "date": "2026-05-06",
+              "score": 1,
+              "thumbs": 0,
+              "text": "شباب بلغو عن التطبيق التطبيق وهمي تفي عليهم"
+            },
+            {
+              "date": "2026-05-02",
+              "score": 1,
+              "thumbs": 0,
+              "text": "نزل التطبيق وبعد ما. ينزل التطبيق كل فيشار وأستنانه بعد اسبوع لينتحقق من اعصابك خاااااااا تفوووووه"
+            },
+            {
+              "date": "2026-04-28",
+              "score": 1,
+              "thumbs": 0,
+              "text": "يغلق ويوقف الدردشه ف أمور ضروريه احنا ليست ضغار"
+            },
+            {
+              "date": "2026-04-27",
+              "score": 1,
+              "thumbs": 0,
+              "text": "بقالي 3سنين مادخلتش البرنامج كل ما حاول ادخل يقولي انت متزوج الدنيا بتتغير ليه البرنامج ده كده ايه التعالي ده"
+            },
+            {
+              "date": "2026-04-17",
+              "score": 1,
+              "thumbs": 0,
+              "text": "فاشل كلو لعب"
+            },
+            {
+              "date": "2026-04-17",
+              "score": 1,
+              "thumbs": 0,
+              "text": "لا أحد يرد"
+            },
+            {
+              "date": "2026-04-17",
+              "score": 1,
+              "thumbs": 3,
+              "text": "لا أعلم ما به عندما اريد ان اتطلع على الرسائل يتوقف لا يعمل بشكل جيد اتمنى التعديل"
+            },
+            {
+              "date": "2026-04-15",
+              "score": 1,
+              "thumbs": 0,
+              "text": "سيء"
+            },
+            {
+              "date": "2026-04-10",
+              "score": 1,
+              "thumbs": 0,
+              "text": "غير جيد و كذابين"
+            },
+            {
+              "date": "2026-04-09",
+              "score": 1,
+              "thumbs": 0,
+              "text": "تطبيق زفت في اعلانات كثير وفي ناس أصنام مايحكو معاك"
+            },
+            {
+              "date": "2026-04-09",
+              "score": 1,
+              "thumbs": 0,
+              "text": "برنامج رائع شكرا لكم لكن فيه رجال كذابين واستغلاليين لا يريدون الزواج بل يريدون الكذب"
+            },
+            {
+              "date": "2026-04-08",
+              "score": 1,
+              "thumbs": 0,
+              "text": "نصيحة لااحد ينزله كذب كذب وتافه أكثر مما تتخيل لون"
+            }
+          ]
+        },
+        {
+          "appId": "com.muzmatch.muzmatchapp",
+          "title": "Muzz: تطبيق زواج للمسلمين",
+          "developer": "Muzz",
+          "country": "sa",
+          "niche": "couple",
+          "score": 4.4271126,
+          "ratings": 304765,
+          "installs": "+10,000,000",
+          "histogram": {
+            "1": 23758,
+            "2": 6763,
+            "3": 15829,
+            "4": 27424,
+            "5": 230904
+          },
+          "star1_ratio": 7.8,
+          "adSupported": false,
+          "offersIAP": true,
+          "IAPRange": "‏٣٫٤٩ ر.س.‏ - ‏١٬٠٢٩٫٩٩ ر.س.‏ لكل عنصر",
+          "free": true,
+          "updated_iso": "2026-04-22",
+          "low_reviews_count": 38,
+          "sample_low_reviews": [
+            {
+              "date": "2026-05-04",
+              "score": 1,
+              "thumbs": 0,
+              "text": "يجب عليك أن تدفع فلوس في التطبيق هذا سئ جدا"
+            },
+            {
+              "date": "2026-05-04",
+              "score": 1,
+              "thumbs": 0,
+              "text": "سئ جدا ازاي مثلا واحدة منتقبة عايزها تنزل صورة واضحة ليها بشكلها من غير النقاب اومال انا منتقبة ليه 🙄"
+            },
+            {
+              "date": "2026-05-04",
+              "score": 1,
+              "thumbs": 0,
+              "text": "ياريت لو تضاف أثناء البحث من السن الوزن والطول ذي برامج مجانيه كانت موجودة بس اتمني ميزة البحث عن الوزن والطول والسن تكون مجانية"
+            },
+            {
+              "date": "2026-05-04",
+              "score": 1,
+              "thumbs": 0,
+              "text": "كل داخل يشقط مافيش جديه"
+            },
+            {
+              "date": "2026-05-04",
+              "score": 1,
+              "thumbs": 0,
+              "text": "تطبيق لا انصح به بحفظ معلوماتك ومعظم المشتركين موظفين وحسابات وهميه افشل تكبيق لا انصح به نهائي اللهم قد بلغت اللهم فاشهد"
+            },
+            {
+              "date": "2026-05-04",
+              "score": 1,
+              "thumbs": 0,
+              "text": "اصبحت تطبيقات الزواج واجهات براقة لواقع بائس وسوقا لبيع الوهم. مجتمعنا لم يتصالح مع فكرة البحث عن شريك خلف الشاشات مما جعلها مرتعا للعابثين والباحثين عن مصالح مادية. ما يحدث في موقع مز هو قمة الاستغفال حيث يعتمد على تدوير حسابات وهمية وموظفين ليوهم المشتركين بوجود خيارات. ​احذر ك"
+            },
+            {
+              "date": "2026-04-30",
+              "score": 2,
+              "thumbs": 440,
+              "text": "بعد التحديث الاخير اصبح سئ للغايه وغير مجاني إلا 10% من امكانيات التطبيق انما عشان تتحكم في باقي التطبيق 90% لازم تدفع ♦♦ ارجو اضافة ميزة الغاء الماتش (الاعجاب) لانه مش موجود فابنطر نعمل حظر وده مش كويس لان ممكن يحصل أولفه بعد ذلك واعجاب اخر لكن الحظر قاسي + ارجو اضافة وزن الانثى"
+            },
+            {
+              "date": "2026-04-29",
+              "score": 1,
+              "thumbs": 0,
+              "text": "غير فعال"
+            },
+            {
+              "date": "2026-04-28",
+              "score": 1,
+              "thumbs": 0,
+              "text": "فكرته جدا سيئه خاصة أنعم يقولن للمسلمين وهذا ليس من طرق الزواج"
+            },
+            {
+              "date": "2026-04-26",
+              "score": 1,
+              "thumbs": 0,
+              "text": "غير مناسب"
+            },
+            {
+              "date": "2026-04-25",
+              "score": 1,
+              "thumbs": 1,
+              "text": "تطبيق سئ هدفه الأساسي مادي وربحي لا يلتزم بسياسة التطبيق نفسه ويتم حظرك على أقل شي"
+            },
+            {
+              "date": "2026-04-25",
+              "score": 1,
+              "thumbs": 0,
+              "text": "البرنامج جيد لكن هناك من لايرغب ل وضع صورته خاصه برامج التعارف للزواج الأمر يخص الطرفين حين الاتفاق يجب ان يكون اختياري"
+            }
+          ]
+        },
+        {
+          "appId": "app.zawag",
+          "title": "زواج ملتقى القلوب- تطبيق لزواج",
+          "developer": "Zawag.app",
+          "country": "sa",
+          "niche": "couple",
+          "score": 4.3004484,
+          "ratings": 9452,
+          "installs": "+100,000",
+          "histogram": {
+            "1": 804,
+            "2": 338,
+            "3": 762,
+            "4": 846,
+            "5": 6695
+          },
+          "star1_ratio": 8.5,
+          "adSupported": false,
+          "offersIAP": true,
+          "IAPRange": "‏٤٫٣٩ ر.س.‏ - ‏٤٢٩٫٩٩ ر.س.‏ لكل عنصر",
+          "free": true,
+          "updated_iso": "2026-03-07",
+          "low_reviews_count": 10,
+          "sample_low_reviews": [
+            {
+              "date": "2026-04-26",
+              "score": 1,
+              "thumbs": 0,
+              "text": "برنامج يتجسس على المحادثة اذا لم تدفع له لا يوجد خصوصية الرجاء عدم التحميل"
+            },
+            {
+              "date": "2026-04-16",
+              "score": 1,
+              "thumbs": 0,
+              "text": "جميل جداً"
+            },
+            {
+              "date": "2026-04-13",
+              "score": 1,
+              "thumbs": 0,
+              "text": "الحقيقيه هذا الموقع يتيح فرصه التواصل والتعارف من أجل هدف عظيم يحبه ويرضاه رب العالمين وهو الزواج بشرع الله وأنا سعدت جدا بلقاء والتعارف علي بعض السيدات المحترمه ولديهم رغبه صادقه وجاده في الزواج وفق الله الجميع لما يحبه ويرضاه ولكن مع الأسف هذا الموقع لم يكمل معي خدماته واغلق حس"
+            },
+            {
+              "date": "2026-04-11",
+              "score": 1,
+              "thumbs": 0,
+              "text": "تطبيق متخلف وسيء للغاية واكثر همهم الفلوس حتى الرسائل العادية محاصرينك فيها يعني كذا تبقى تتفرج بس لاتتكلم صامت ولا ادفع وماهمهم تلقى او لا"
+            },
+            {
+              "date": "2026-03-29",
+              "score": 1,
+              "thumbs": 0,
+              "text": "تحت التجربة"
+            },
+            {
+              "date": "2026-03-28",
+              "score": 1,
+              "thumbs": 0,
+              "text": "التطبيق مش احسن حاجه خالص ومليان ناس مش تمام"
+            },
+            {
+              "date": "2026-03-28",
+              "score": 1,
+              "thumbs": 0,
+              "text": "مو خوش تطبيق كلشي بي بفلوس محد يحاسبهم غايتهم يفسدون لمجتمع وينهبون امواله عن طريق العاطفه"
+            },
+            {
+              "date": "2026-03-24",
+              "score": 1,
+              "thumbs": 4,
+              "text": "مافي مستخدمين حاليا والتطبيق ميت يمكن ارجعلو بآخر 2026, التطبيق بعد مارجعتلو طلع سيى كتير وحتى لما تعمل مطابقة، مابيوصل مسجاتك إلا متأخر، وبيحذف اي رسالة فيها تلميح لوسيلة تواصل بشكل مستفز جدا وبيقلك مافيك تشارك وسيلة تواصل قبل ماتدفع، وسعرهم غالي كتير بالنسبة لتطبيق جديد مافي مس"
+            },
+            {
+              "date": "2026-03-17",
+              "score": 1,
+              "thumbs": 0,
+              "text": "بمبالغ مالية وهذا الشيء مزعج جدا وايضا تفاعل ضعيف وكثير من الموجودين حرصهم الأكبر على دخلك المادي أكثر من الحياة والاستقرار"
+            },
+            {
+              "date": "2026-03-01",
+              "score": 2,
+              "thumbs": 0,
+              "text": "منيح"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "AE": {
+    "astrology": {
+      "search_term": "الأبراج",
+      "competitors": [
+        {
+          "appId": "com.internetdesignzone.zodiacprofile",
+          "title": "برجك اليومي وقراءة الأبراج",
+          "developer": "Touchzing Media Private Limited",
+          "country": "ae",
+          "niche": "astrology",
+          "score": 4.5142856,
+          "ratings": 20500,
+          "installs": "+1,000,000",
+          "histogram": {
+            "1": 0,
+            "2": 1138,
+            "3": 1138,
+            "4": 3986,
+            "5": 13666
+          },
+          "star1_ratio": 0,
+          "adSupported": true,
+          "offersIAP": false,
+          "free": true,
+          "updated_iso": "2026-01-22",
+          "low_reviews_count": 24,
+          "sample_low_reviews": [
+            {
+              "date": "2026-05-03",
+              "score": 1,
+              "thumbs": 0,
+              "text": "اشوع تطبيق شفته لحد الان"
+            },
+            {
+              "date": "2026-04-08",
+              "score": 1,
+              "thumbs": 0,
+              "text": "ابشع تطبيق لا يستحق حتى نجمه واحده"
+            },
+            {
+              "date": "2026-03-07",
+              "score": 1,
+              "thumbs": 1,
+              "text": "اين برج الجوزاء لا يوجد ليس جيداً 😒"
+            },
+            {
+              "date": "2026-02-25",
+              "score": 1,
+              "thumbs": 0,
+              "text": "كيف اترجمه الإعربي"
+            },
+            {
+              "date": "2026-01-02",
+              "score": 1,
+              "thumbs": 0,
+              "text": "لاتصدقو"
+            },
+            {
+              "date": "2025-12-18",
+              "score": 1,
+              "thumbs": 0,
+              "text": "ليس التطبيق المناسب للابراج"
+            },
+            {
+              "date": "2025-11-18",
+              "score": 1,
+              "thumbs": 0,
+              "text": "لاباس به"
+            },
+            {
+              "date": "2025-11-13",
+              "score": 1,
+              "thumbs": 0,
+              "text": "تطبيق فاشل. وما منة فايدة"
+            },
+            {
+              "date": "2025-11-11",
+              "score": 1,
+              "thumbs": 0,
+              "text": "كذاب"
+            },
+            {
+              "date": "2025-11-02",
+              "score": 1,
+              "thumbs": 0,
+              "text": "ما ينفع"
+            },
+            {
+              "date": "2025-10-29",
+              "score": 2,
+              "thumbs": 0,
+              "text": "مدري"
+            },
+            {
+              "date": "2025-10-19",
+              "score": 2,
+              "thumbs": 0,
+              "text": "AboAli"
+            }
+          ]
+        },
+        {
+          "appId": "com.app.abraj",
+          "title": "الابراج (البرج الروحاني)",
+          "developer": "Simple APP DEV",
+          "country": "ae",
+          "niche": "astrology",
+          "score": 4.285714,
+          "ratings": 3802,
+          "installs": "+1,000,000",
+          "histogram": {
+            "1": 543,
+            "2": 0,
+            "3": 271,
+            "4": 0,
+            "5": 2987
+          },
+          "star1_ratio": 14.3,
+          "adSupported": true,
+          "offersIAP": false,
+          "free": true,
+          "updated_iso": "2026-01-15",
+          "low_reviews_count": 9,
+          "sample_low_reviews": [
+            {
+              "date": "2026-03-09",
+              "score": 1,
+              "thumbs": 0,
+              "text": "حلو"
+            },
+            {
+              "date": "2026-01-23",
+              "score": 1,
+              "thumbs": 14,
+              "text": "يحتاج إلى تعديل في القسم الخاص لحسابات الإسقاط لا يعمل بشكل صحيح وارجوا إصلاح اللون لأنه لا يرى وأيضاً لا يعمل"
+            },
+            {
+              "date": "2025-12-10",
+              "score": 1,
+              "thumbs": 0,
+              "text": "اتمنى حذف التطبيق لانه مخالف ل معتقدات الاسلاميه"
+            },
+            {
+              "date": "2025-08-15",
+              "score": 1,
+              "thumbs": 0,
+              "text": "جيد"
+            },
+            {
+              "date": "2025-08-14",
+              "score": 1,
+              "thumbs": 0,
+              "text": "اسوا تطبيق اعلانات كثير بدون فايده"
+            },
+            {
+              "date": "2025-07-29",
+              "score": 1,
+              "thumbs": 5,
+              "text": "انصح بعدم اتحمل الاعلانات فيه ما تتوقف ولا تقدر تسوه شي"
+            },
+            {
+              "date": "2025-07-21",
+              "score": 1,
+              "thumbs": 0,
+              "text": "تحت التجربه"
+            },
+            {
+              "date": "2025-06-26",
+              "score": 1,
+              "thumbs": 3,
+              "text": "كذب مايجيب لك المعلومات الصحيحة"
+            },
+            {
+              "date": "2025-06-24",
+              "score": 1,
+              "thumbs": 0,
+              "text": "يحتوى على اعلانات بصورة مستمرة"
+            }
+          ]
+        },
+        {
+          "appId": "com.daerhou.constellation",
+          "title": "برجك وعلم التنجيم - حظك اليوم",
+          "developer": "Horoscope365",
+          "country": "ae",
+          "niche": "astrology",
+          "score": 4.909091,
+          "ratings": 8100,
+          "installs": "+500,000",
+          "histogram": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 736,
+            "5": 7363
+          },
+          "star1_ratio": 0,
+          "adSupported": true,
+          "offersIAP": true,
+          "IAPRange": "‏8.49 د.إ.‏ - ‏124.00 د.إ.‏ لكل عنصر",
+          "free": true,
+          "updated_iso": "2026-04-08",
+          "low_reviews_count": 3,
+          "sample_low_reviews": [
+            {
+              "date": "2026-01-22",
+              "score": 1,
+              "thumbs": 0,
+              "text": "هذا الشيء فيه شرك والعياذ بالله لا تنزلوه والله صفر نجمة"
+            },
+            {
+              "date": "2025-07-17",
+              "score": 1,
+              "thumbs": 0,
+              "text": "رائع جدا"
+            },
+            {
+              "date": "2025-05-14",
+              "score": 1,
+              "thumbs": 0,
+              "text": "حلووووو"
+            }
+          ]
+        }
+      ]
+    },
+    "tarot": {
+      "search_term": "تاروت",
+      "competitors": [
+        {
+          "appId": "com.muratalagoz.tarot12",
+          "title": "قراءة التاروت",
+          "developer": "Murat Alagöz",
+          "country": "ae",
+          "niche": "tarot",
+          "score": 0,
+          "ratings": 0,
+          "installs": "+50,000",
+          "histogram": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 0
+          },
+          "star1_ratio": null,
+          "adSupported": true,
+          "offersIAP": true,
+          "IAPRange": "‏2.69 د.إ.‏ - ‏174.99 د.إ.‏ لكل عنصر",
+          "free": true,
+          "updated_iso": "2025-10-28",
+          "low_reviews_count": 6,
+          "sample_low_reviews": [
+            {
+              "date": "2026-04-16",
+              "score": 2,
+              "thumbs": 0,
+              "text": "برنامج فاشل يعني كله ب فلوس وبس مره وحده قرالي بدون فلوس نصيحه لحد ينزله"
+            },
+            {
+              "date": "2025-11-04",
+              "score": 2,
+              "thumbs": 0,
+              "text": "هو جميل لكن ليس مجاني حذفته"
+            },
+            {
+              "date": "2025-03-16",
+              "score": 1,
+              "thumbs": 0,
+              "text": "لا يعمل يظهر لي (FormatException: Unexpected character (at line 460, character 3))"
+            },
+            {
+              "date": "2025-01-09",
+              "score": 1,
+              "thumbs": 2,
+              "text": "كيفيه الاستعمال 🙂"
+            },
+            {
+              "date": "2025-01-03",
+              "score": 1,
+              "thumbs": 4,
+              "text": "برنامج زاي الخرا"
+            },
+            {
+              "date": "2020-10-26",
+              "score": 1,
+              "thumbs": 1,
+              "text": "سيء"
+            }
+          ]
+        },
+        {
+          "appId": "com.didilabs.kaavefali",
+          "title": "Kaave: فال القهوة، التاروت",
+          "developer": "Didilabs BV",
+          "country": "ae",
+          "niche": "tarot",
+          "score": 4.752381,
+          "ratings": 1272741,
+          "installs": "+10,000,000",
+          "histogram": {
+            "1": 33094,
+            "2": 17949,
+            "3": 17949,
+            "4": 90870,
+            "5": 1112035
+          },
+          "star1_ratio": 2.6,
+          "adSupported": true,
+          "offersIAP": true,
+          "IAPRange": "‏2.99 د.إ.‏ - ‏869.99 د.إ.‏ لكل عنصر",
+          "free": true,
+          "updated_iso": "2026-04-26",
+          "low_reviews_count": 11,
+          "sample_low_reviews": [
+            {
+              "date": "2026-05-03",
+              "score": 1,
+              "thumbs": 0,
+              "text": "البرنامج كان احسن من كده بكتير ليه كل شويه يقولي هز واربح وأشوف اعلانات كتير وبرضه الفنجان ميتحملش بجد بقي مزعج وبضطر اقفله"
+            },
+            {
+              "date": "2026-05-03",
+              "score": 1,
+              "thumbs": 0,
+              "text": "التطبيق حاليا لايعمل ولا اعلم سبب توقفه عن العمل"
+            },
+            {
+              "date": "2026-05-01",
+              "score": 1,
+              "thumbs": 0,
+              "text": "حلوه"
+            },
+            {
+              "date": "2026-05-01",
+              "score": 2,
+              "thumbs": 0,
+              "text": "جيده"
+            },
+            {
+              "date": "2026-04-25",
+              "score": 1,
+              "thumbs": 1,
+              "text": "بقالي اكتر من 3 شهور تقولي كمان شهرين جايلك فرحه كبيره مره كمان شهرين ومره كمان اسبوعين ومره هتشتري منزل ولا حاجه من دي حصلت للأسف انه كاذب ولا شيء بيحصل كااااااذب"
+            },
+            {
+              "date": "2026-04-25",
+              "score": 2,
+              "thumbs": 0,
+              "text": "التطبيق جميل ولاكن لماذا فقط تذكره فال واحده فقط ارجو وضع اكثر من فال تذاكر وايضا اوقت القراء جداء يتاخر ارجو معالجه هذه الملاحظات"
+            },
+            {
+              "date": "2026-04-23",
+              "score": 1,
+              "thumbs": 2,
+              "text": "القراءة اصبحت مكررة وغير واقعية ، من سنة كان برنامج يقرأ جيدا والحين يكرر القراءات ،،، وخربتوا البرنامج بالاعلانات .. سيتم حذفه"
+            },
+            {
+              "date": "2026-04-18",
+              "score": 2,
+              "thumbs": 0,
+              "text": "انا جربته ولاكنها كانت تبالغ 🫤"
+            },
+            {
+              "date": "2026-04-14",
+              "score": 1,
+              "thumbs": 2,
+              "text": "التطبيق بقا مش حلو خالص كل ماجي اعمل قراء مش راضي يعمل ويجبلي أن التذاكر خلصت وهز حتي تربح ومبقاش بيجيب مشاهد فديوهات لربح تذكره فال"
+            },
+            {
+              "date": "2026-04-13",
+              "score": 1,
+              "thumbs": 2,
+              "text": "ارجو اصلاح البرنامج واسراعه لانه أمرا مزعجاً"
+            },
+            {
+              "date": "2026-04-13",
+              "score": 2,
+              "thumbs": 1,
+              "text": "لا تفسر بشكل جيد بل تكرر الكلام في كل مرة ودائما تخطأ في التفسير"
+            }
+          ]
+        },
+        {
+          "appId": "com.yobzh.tarot",
+          "title": "Lumi: AI Tarot & Horoscope",
+          "developer": "Volodymyr Dudarenko",
+          "country": "ae",
+          "niche": "tarot",
+          "score": 4.3,
+          "ratings": 11362,
+          "installs": "+1,000,000",
+          "histogram": {
+            "1": 1136,
+            "2": 0,
+            "3": 1136,
+            "4": 1136,
+            "5": 7953
+          },
+          "star1_ratio": 10,
+          "adSupported": true,
+          "offersIAP": true,
+          "IAPRange": "‏4.19 د.إ.‏ - ‏194.99 د.إ.‏ لكل عنصر",
+          "free": true,
+          "updated_iso": "2026-04-27",
+          "low_reviews_count": 0,
+          "sample_low_reviews": []
+        }
+      ]
+    },
+    "manifestation": {
+      "search_term": "قانون الجذب",
+      "competitors": [
+        {
+          "appId": "com.pdf.kanonaljadb",
+          "title": "كتاب قانون الجذب  pdf",
+          "developer": "kitabe",
+          "country": "ae",
+          "niche": "manifestation",
+          "installs": "+50,000",
+          "histogram": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 0
+          },
+          "star1_ratio": null,
+          "adSupported": true,
+          "offersIAP": false,
+          "free": true,
+          "updated_iso": "2022-08-06",
+          "low_reviews_count": 11,
+          "sample_low_reviews": [
+            {
+              "date": "2025-10-23",
+              "score": 2,
+              "thumbs": 0,
+              "text": "جيد حدا"
+            },
+            {
+              "date": "2025-03-14",
+              "score": 2,
+              "thumbs": 8,
+              "text": "دراسه نفسيه تفتح ابواب الوهم على مصراعيه للفاشلين في فهم الحياة بشكلها الصحيح والمثابره والعزم في الوصول إلى مايصبوااليه من النجاح والكفاح في أعمالهم اليوميه ،."
+            },
+            {
+              "date": "2025-03-09",
+              "score": 2,
+              "thumbs": 0,
+              "text": "جيد"
+            },
+            {
+              "date": "2025-02-09",
+              "score": 1,
+              "thumbs": 0,
+              "text": "وين صافحت 18"
+            },
+            {
+              "date": "2024-09-29",
+              "score": 2,
+              "thumbs": 2,
+              "text": "ملائم"
+            },
+            {
+              "date": "2024-06-30",
+              "score": 1,
+              "thumbs": 13,
+              "text": "لمادا لا يتنزل بسرعة ارجو حل هده المشكلة انا وضعت نجمة واحدة عند تحميله وتنزيله اضع 5 نجمات"
+            },
+            {
+              "date": "2024-04-19",
+              "score": 1,
+              "thumbs": 1,
+              "text": "كتاب چذاب لحد اينزله 😅"
+            },
+            {
+              "date": "2022-11-26",
+              "score": 1,
+              "thumbs": 2,
+              "text": "لم اجربه بعد"
+            },
+            {
+              "date": "2022-10-04",
+              "score": 1,
+              "thumbs": 2,
+              "text": "جميل"
+            },
+            {
+              "date": "2022-08-07",
+              "score": 1,
+              "thumbs": 2,
+              "text": "ممتازة"
+            },
+            {
+              "date": "2021-09-12",
+              "score": 1,
+              "thumbs": 4,
+              "text": "كدب كول اعلانة ٠٠٠٠٠٠٠٠٠٠٠٠٠٠٠٠٠٠"
+            }
+          ]
+        },
+        {
+          "appId": "com.ajmkhatib.teleportation",
+          "title": "قانون الجذب والتخاطر",
+          "developer": "AJMKhatib",
+          "country": "ae",
+          "niche": "manifestation",
+          "installs": "+10,000",
+          "histogram": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 0
+          },
+          "star1_ratio": null,
+          "adSupported": true,
+          "offersIAP": false,
+          "free": true,
+          "updated_iso": "2025-10-21",
+          "low_reviews_count": 2,
+          "sample_low_reviews": [
+            {
+              "date": "2026-01-26",
+              "score": 2,
+              "thumbs": 1,
+              "text": "ابغي المواد تجربة جيدة بالنسبة لي على سبيل المثال سوف افعل عده اشياء من ق بل لانني يمكن كرته من هو مؤلف"
+            },
+            {
+              "date": "2025-05-09",
+              "score": 1,
+              "thumbs": 1,
+              "text": "فاشل لا انصح احد بتحميله كلمتين فقط فيه"
+            }
+          ]
+        },
+        {
+          "appId": "com.lawattraction.teleportation",
+          "title": "شرح قانون الجذب و التخاطر",
+          "developer": "ort app",
+          "country": "ae",
+          "niche": "manifestation",
+          "installs": "+500",
+          "histogram": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 0
+          },
+          "star1_ratio": null,
+          "adSupported": true,
+          "offersIAP": false,
+          "free": true,
+          "updated_iso": "2026-04-15",
+          "low_reviews_count": 0,
+          "sample_low_reviews": []
+        }
+      ]
+    },
+    "selfcare": {
+      "search_term": "العناية بالنفس",
+      "competitors": [
+        {
+          "appId": "com.kayfiat.aleinayat.bialdhaat.app714835335",
+          "title": "العناية بالذات : كيفية العناية",
+          "developer": "Rehan as",
+          "country": "ae",
+          "niche": "selfcare",
+          "installs": "+1,000",
+          "histogram": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 0
+          },
+          "star1_ratio": null,
+          "adSupported": true,
+          "offersIAP": false,
+          "free": true,
+          "updated_iso": "2024-08-01",
+          "low_reviews_count": 0,
+          "sample_low_reviews": []
+        },
+        {
+          "appId": "beauty.skin.care.app",
+          "title": "العناية بالبشرة والوجه",
+          "developer": "Rstream Labs",
+          "country": "ae",
+          "niche": "selfcare",
+          "score": 4.12069,
+          "ratings": 27078,
+          "installs": "+5,000,000",
+          "histogram": {
+            "1": 4201,
+            "2": 1400,
+            "3": 466,
+            "4": 1867,
+            "5": 19141
+          },
+          "star1_ratio": 15.5,
+          "adSupported": true,
+          "offersIAP": true,
+          "IAPRange": "‏1.89 د.إ.‏ - ‏229.99 د.إ.‏ لكل عنصر",
+          "free": true,
+          "updated_iso": "2025-12-18",
+          "low_reviews_count": 14,
+          "sample_low_reviews": [
+            {
+              "date": "2026-05-04",
+              "score": 1,
+              "thumbs": 0,
+              "text": "لم يشتغل في جوالي وارجوا ان تحلوا هذه المشكله"
+            },
+            {
+              "date": "2026-04-28",
+              "score": 2,
+              "thumbs": 1,
+              "text": "يستحق الدفع وانا لااملك حساب بنكي😓😓ارجو تحسين هذا تجعلوه بالانترنت ومن غير حساب بنكي هناك بعض الأشخاص لا يمكنهم الدفع الرجاء اصلاح ذللك"
+            },
+            {
+              "date": "2026-04-16",
+              "score": 1,
+              "thumbs": 0,
+              "text": "رائع لا لم يعجبني"
+            },
+            {
+              "date": "2026-04-15",
+              "score": 1,
+              "thumbs": 1,
+              "text": "مش شغال عندي ارجو حل المشكلة"
+            },
+            {
+              "date": "2026-03-19",
+              "score": 1,
+              "thumbs": 1,
+              "text": "وحشه اللعبه دي قوي ما حدش يخش عليها شايفه من اللعبه دي وحشه جدا جدا مش حلوه خالص"
+            },
+            {
+              "date": "2026-03-17",
+              "score": 1,
+              "thumbs": 0,
+              "text": "ليس جميل"
+            },
+            {
+              "date": "2026-03-03",
+              "score": 1,
+              "thumbs": 0,
+              "text": "اريد وصفة"
+            },
+            {
+              "date": "2026-02-19",
+              "score": 1,
+              "thumbs": 0,
+              "text": "جميل جداً"
+            },
+            {
+              "date": "2026-02-10",
+              "score": 1,
+              "thumbs": 0,
+              "text": "سيى"
+            },
+            {
+              "date": "2026-02-02",
+              "score": 1,
+              "thumbs": 9,
+              "text": "مفيهوش اللغة العربية ومش من غير نت"
+            },
+            {
+              "date": "2026-01-28",
+              "score": 1,
+              "thumbs": 0,
+              "text": "بعد التجربة انطيكم رأيي"
+            },
+            {
+              "date": "2026-01-16",
+              "score": 1,
+              "thumbs": 0,
+              "text": "مليح"
+            }
+          ]
+        },
+        {
+          "appId": "com.rstream.beautycare",
+          "title": "وصفات جمال طبيعية للعناية",
+          "developer": "Rstream Labs",
+          "country": "ae",
+          "niche": "selfcare",
+          "installs": "+50,000",
+          "histogram": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 0
+          },
+          "star1_ratio": null,
+          "adSupported": true,
+          "offersIAP": true,
+          "IAPRange": "‏1.89 د.إ.‏ - ‏229.99 د.إ.‏ لكل عنصر",
+          "free": true,
+          "updated_iso": "2025-12-18",
+          "low_reviews_count": 3,
+          "sample_low_reviews": [
+            {
+              "date": "2025-11-08",
+              "score": 1,
+              "thumbs": 2,
+              "text": "تطبيق زباله وحش ومش شغال"
+            },
+            {
+              "date": "2025-06-16",
+              "score": 1,
+              "thumbs": 2,
+              "text": "ماشتغل معي للاسف شو السبب 🥹😭"
+            },
+            {
+              "date": "2022-08-23",
+              "score": 2,
+              "thumbs": 0,
+              "text": "،،"
+            }
+          ]
+        }
+      ]
+    },
+    "couple": {
+      "search_term": "تطبيق الأزواج",
+      "competitors": [
+        {
+          "appId": "com.buzzarab.buzzarab",
+          "title": "buzzArab - زواج وتعارف ودردشة",
+          "developer": "BUZZMEDIA INC.",
+          "country": "ae",
+          "niche": "couple",
+          "score": 4.4259257,
+          "ratings": 111844,
+          "installs": "+5,000,000",
+          "histogram": {
+            "1": 9262,
+            "2": 3054,
+            "3": 5124,
+            "4": 7193,
+            "5": 86913
+          },
+          "star1_ratio": 8.3,
+          "adSupported": true,
+          "offersIAP": false,
+          "free": true,
+          "updated_iso": "2026-02-17",
+          "low_reviews_count": 25,
+          "sample_low_reviews": [
+            {
+              "date": "2026-05-06",
+              "score": 1,
+              "thumbs": 0,
+              "text": "شباب بلغو عن التطبيق التطبيق وهمي تفي عليهم"
+            },
+            {
+              "date": "2026-05-02",
+              "score": 1,
+              "thumbs": 0,
+              "text": "نزل التطبيق وبعد ما. ينزل التطبيق كل فيشار وأستنانه بعد اسبوع لينتحقق من اعصابك خاااااااا تفوووووه"
+            },
+            {
+              "date": "2026-04-28",
+              "score": 1,
+              "thumbs": 0,
+              "text": "يغلق ويوقف الدردشه ف أمور ضروريه احنا ليست ضغار"
+            },
+            {
+              "date": "2026-04-27",
+              "score": 1,
+              "thumbs": 0,
+              "text": "بقالي 3سنين مادخلتش البرنامج كل ما حاول ادخل يقولي انت متزوج الدنيا بتتغير ليه البرنامج ده كده ايه التعالي ده"
+            },
+            {
+              "date": "2026-04-17",
+              "score": 1,
+              "thumbs": 0,
+              "text": "فاشل كلو لعب"
+            },
+            {
+              "date": "2026-04-17",
+              "score": 1,
+              "thumbs": 0,
+              "text": "لا أحد يرد"
+            },
+            {
+              "date": "2026-04-17",
+              "score": 1,
+              "thumbs": 3,
+              "text": "لا أعلم ما به عندما اريد ان اتطلع على الرسائل يتوقف لا يعمل بشكل جيد اتمنى التعديل"
+            },
+            {
+              "date": "2026-04-15",
+              "score": 1,
+              "thumbs": 0,
+              "text": "سيء"
+            },
+            {
+              "date": "2026-04-10",
+              "score": 1,
+              "thumbs": 0,
+              "text": "غير جيد و كذابين"
+            },
+            {
+              "date": "2026-04-09",
+              "score": 1,
+              "thumbs": 0,
+              "text": "تطبيق زفت في اعلانات كثير وفي ناس أصنام مايحكو معاك"
+            },
+            {
+              "date": "2026-04-09",
+              "score": 1,
+              "thumbs": 0,
+              "text": "برنامج رائع شكرا لكم لكن فيه رجال كذابين واستغلاليين لا يريدون الزواج بل يريدون الكذب"
+            },
+            {
+              "date": "2026-04-08",
+              "score": 1,
+              "thumbs": 0,
+              "text": "نصيحة لااحد ينزله كذب كذب وتافه أكثر مما تتخيل لون"
+            }
+          ]
+        },
+        {
+          "appId": "com.muzmatch.muzmatchapp",
+          "title": "Muzz: تطبيق زواج للمسلمين",
+          "developer": "Muzz",
+          "country": "ae",
+          "niche": "couple",
+          "score": 4.4923077,
+          "ratings": 304765,
+          "installs": "+10,000,000",
+          "histogram": {
+            "1": 15705,
+            "2": 5771,
+            "3": 18175,
+            "4": 38043,
+            "5": 226985
+          },
+          "star1_ratio": 5.2,
+          "adSupported": false,
+          "offersIAP": true,
+          "IAPRange": "‏2.99 د.إ.‏ - ‏1,049.00 د.إ.‏ لكل عنصر",
+          "free": true,
+          "updated_iso": "2026-04-22",
+          "low_reviews_count": 38,
+          "sample_low_reviews": [
+            {
+              "date": "2026-05-04",
+              "score": 1,
+              "thumbs": 0,
+              "text": "يجب عليك أن تدفع فلوس في التطبيق هذا سئ جدا"
+            },
+            {
+              "date": "2026-05-04",
+              "score": 1,
+              "thumbs": 0,
+              "text": "سئ جدا ازاي مثلا واحدة منتقبة عايزها تنزل صورة واضحة ليها بشكلها من غير النقاب اومال انا منتقبة ليه 🙄"
+            },
+            {
+              "date": "2026-05-04",
+              "score": 1,
+              "thumbs": 0,
+              "text": "ياريت لو تضاف أثناء البحث من السن الوزن والطول ذي برامج مجانيه كانت موجودة بس اتمني ميزة البحث عن الوزن والطول والسن تكون مجانية"
+            },
+            {
+              "date": "2026-05-04",
+              "score": 1,
+              "thumbs": 0,
+              "text": "كل داخل يشقط مافيش جديه"
+            },
+            {
+              "date": "2026-05-04",
+              "score": 1,
+              "thumbs": 0,
+              "text": "تطبيق لا انصح به بحفظ معلوماتك ومعظم المشتركين موظفين وحسابات وهميه افشل تكبيق لا انصح به نهائي اللهم قد بلغت اللهم فاشهد"
+            },
+            {
+              "date": "2026-05-04",
+              "score": 1,
+              "thumbs": 0,
+              "text": "اصبحت تطبيقات الزواج واجهات براقة لواقع بائس وسوقا لبيع الوهم. مجتمعنا لم يتصالح مع فكرة البحث عن شريك خلف الشاشات مما جعلها مرتعا للعابثين والباحثين عن مصالح مادية. ما يحدث في موقع مز هو قمة الاستغفال حيث يعتمد على تدوير حسابات وهمية وموظفين ليوهم المشتركين بوجود خيارات. ​احذر ك"
+            },
+            {
+              "date": "2026-04-30",
+              "score": 2,
+              "thumbs": 440,
+              "text": "بعد التحديث الاخير اصبح سئ للغايه وغير مجاني إلا 10% من امكانيات التطبيق انما عشان تتحكم في باقي التطبيق 90% لازم تدفع ♦♦ ارجو اضافة ميزة الغاء الماتش (الاعجاب) لانه مش موجود فابنطر نعمل حظر وده مش كويس لان ممكن يحصل أولفه بعد ذلك واعجاب اخر لكن الحظر قاسي + ارجو اضافة وزن الانثى"
+            },
+            {
+              "date": "2026-04-29",
+              "score": 1,
+              "thumbs": 0,
+              "text": "غير فعال"
+            },
+            {
+              "date": "2026-04-28",
+              "score": 1,
+              "thumbs": 0,
+              "text": "فكرته جدا سيئه خاصة أنعم يقولن للمسلمين وهذا ليس من طرق الزواج"
+            },
+            {
+              "date": "2026-04-26",
+              "score": 1,
+              "thumbs": 0,
+              "text": "غير مناسب"
+            },
+            {
+              "date": "2026-04-25",
+              "score": 1,
+              "thumbs": 1,
+              "text": "تطبيق سئ هدفه الأساسي مادي وربحي لا يلتزم بسياسة التطبيق نفسه ويتم حظرك على أقل شي"
+            },
+            {
+              "date": "2026-04-25",
+              "score": 1,
+              "thumbs": 0,
+              "text": "البرنامج جيد لكن هناك من لايرغب ل وضع صورته خاصه برامج التعارف للزواج الأمر يخص الطرفين حين الاتفاق يجب ان يكون اختياري"
+            }
+          ]
+        },
+        {
+          "appId": "app.zawag",
+          "title": "زواج ملتقى القلوب- تطبيق لزواج",
+          "developer": "Zawag.app",
+          "country": "ae",
+          "niche": "couple",
+          "score": 4.46,
+          "ratings": 9452,
+          "installs": "+100,000",
+          "histogram": {
+            "1": 345,
+            "2": 431,
+            "3": 647,
+            "4": 820,
+            "5": 7078
+          },
+          "star1_ratio": 3.7,
+          "adSupported": false,
+          "offersIAP": true,
+          "IAPRange": "‏3.99 د.إ.‏ - ‏384.99 د.إ.‏ لكل عنصر",
+          "free": true,
+          "updated_iso": "2026-03-07",
+          "low_reviews_count": 10,
+          "sample_low_reviews": [
+            {
+              "date": "2026-04-26",
+              "score": 1,
+              "thumbs": 0,
+              "text": "برنامج يتجسس على المحادثة اذا لم تدفع له لا يوجد خصوصية الرجاء عدم التحميل"
+            },
+            {
+              "date": "2026-04-16",
+              "score": 1,
+              "thumbs": 0,
+              "text": "جميل جداً"
+            },
+            {
+              "date": "2026-04-13",
+              "score": 1,
+              "thumbs": 0,
+              "text": "الحقيقيه هذا الموقع يتيح فرصه التواصل والتعارف من أجل هدف عظيم يحبه ويرضاه رب العالمين وهو الزواج بشرع الله وأنا سعدت جدا بلقاء والتعارف علي بعض السيدات المحترمه ولديهم رغبه صادقه وجاده في الزواج وفق الله الجميع لما يحبه ويرضاه ولكن مع الأسف هذا الموقع لم يكمل معي خدماته واغلق حس"
+            },
+            {
+              "date": "2026-04-11",
+              "score": 1,
+              "thumbs": 0,
+              "text": "تطبيق متخلف وسيء للغاية واكثر همهم الفلوس حتى الرسائل العادية محاصرينك فيها يعني كذا تبقى تتفرج بس لاتتكلم صامت ولا ادفع وماهمهم تلقى او لا"
+            },
+            {
+              "date": "2026-03-29",
+              "score": 1,
+              "thumbs": 0,
+              "text": "تحت التجربة"
+            },
+            {
+              "date": "2026-03-28",
+              "score": 1,
+              "thumbs": 0,
+              "text": "التطبيق مش احسن حاجه خالص ومليان ناس مش تمام"
+            },
+            {
+              "date": "2026-03-28",
+              "score": 1,
+              "thumbs": 0,
+              "text": "مو خوش تطبيق كلشي بي بفلوس محد يحاسبهم غايتهم يفسدون لمجتمع وينهبون امواله عن طريق العاطفه"
+            },
+            {
+              "date": "2026-03-24",
+              "score": 1,
+              "thumbs": 4,
+              "text": "مافي مستخدمين حاليا والتطبيق ميت يمكن ارجعلو بآخر 2026, التطبيق بعد مارجعتلو طلع سيى كتير وحتى لما تعمل مطابقة، مابيوصل مسجاتك إلا متأخر، وبيحذف اي رسالة فيها تلميح لوسيلة تواصل بشكل مستفز جدا وبيقلك مافيك تشارك وسيلة تواصل قبل ماتدفع، وسعرهم غالي كتير بالنسبة لتطبيق جديد مافي مس"
+            },
+            {
+              "date": "2026-03-17",
+              "score": 1,
+              "thumbs": 0,
+              "text": "بمبالغ مالية وهذا الشيء مزعج جدا وايضا تفاعل ضعيف وكثير من الموجودين حرصهم الأكبر على دخلك المادي أكثر من الحياة والاستقرار"
+            },
+            {
+              "date": "2026-03-01",
+              "score": 2,
+              "thumbs": 0,
+              "text": "منيح"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

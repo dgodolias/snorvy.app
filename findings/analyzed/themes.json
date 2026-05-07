@@ -315,16 +315,33 @@
   },
   "BR/astrology": {
     "counts": {
-      "pricing_billing": 14,
-      "too_many_ads": 4,
-      "crashes_bugs": 19,
-      "ai_complaint": 1,
-      "refund_denied": 5,
-      "paywall_locked": 8,
-      "inaccurate": 1
+      "pricing_billing": 45,
+      "too_many_ads": 7,
+      "crashes_bugs": 67,
+      "ai_complaint": 2,
+      "refund_denied": 31,
+      "paywall_locked": 104,
+      "inaccurate": 8,
+      "support_unresponsive": 3,
+      "location_tracking": 2
     },
     "top_quotes": {
       "pricing_billing": [
+        {
+          "score": 2,
+          "thumbs": 157,
+          "text": "Já paguei por 2 meses e nesse tempo, fiz alguns mapas astrais, do qual eu tinha direito, agora que é basicamente tudo pago, bloquearam até o acesso aos mapas que eu já havia pago, achei um absurdo; cortaram também o tarô gratuito... Patético! Quem gostava está desapontado, e novo"
+        },
+        {
+          "score": 2,
+          "thumbs": 43,
+          "text": "Excelt App, sempre uso e bate com tudo mesmo. Segundo mês que pago. Mas, hoje o App simplesmente parou, só aparece a arte do fundo e nada mais. E agora vi no aplicativo do meu cartão de crédito que a Astrolink fez a cobrança da mensalidade desse próximo mês. Eu fiz a opção de pag"
+        },
+        {
+          "score": 1,
+          "thumbs": 23,
+          "text": "Péssima experiência. Paguei o plano de 6 meses, w estou na luta para liberarem meu acesso mesmo após 8 dias do pagamento (cartão de crédito que compensou na hora). Único meio de comunicação é e-mail e eles ignoram, respondem para aguardar e mais nada. Não recomendo. Uma estrela p"
+        },
         {
           "score": 1,
           "thumbs": 9,
@@ -332,13 +349,53 @@
         },
         {
           "score": 1,
+          "thumbs": 8,
+          "text": "Assinei o Premium e não recebi acesso aos conteúdos... Vou denunciar no procon e vou fazer BO contra o aplicativo e o Google caso não resolvam o problema ou estornem meu pagamento... Vi que várias pessoas estão passando pelo mesmo problema... Cobrar e não entregar o serviço para "
+        },
+        {
+          "score": 1,
+          "thumbs": 8,
+          "text": "Não comprem! Paguei por 6 meses e antes do fim de um mês enviaram-me nova cobrança e tiraram o me acesso. O contato é impossível, ignoram. O conteúdo é destinado à agradar e viciar com as constantes mensagens, mas é só mais do mesmo: alguém usando o esoterismo para ter lucro fáci"
+        },
+        {
+          "score": 1,
+          "thumbs": 4,
+          "text": "To muito chateada porque tinha minha cota premium com todos os mapas extras derrepente sumiu.tive que cadastrar tudo denovo nao entendi porque mesmo sendo premium voces ficam exigindo login e o valor que eu paguei onde esta?"
+        },
+        {
+          "score": 1,
           "thumbs": 3,
           "text": "Estou decepcionada. Eu paguei o recurso Premium, conferi no meu cartão e foi registrada a compra mas eu fui acessar o recurso Premium não consegui, ficou como se eu não tivesse pago nada. Mas no meu cartão eu tenho o registro da compra 😠"
+        },
+        {
+          "score": 2,
+          "thumbs": 3,
+          "text": "Paguei o app, e nao consigo usar ja faz umas 2 semanas. Sempre da erro, ja desinstalei e instalei e nada."
         },
         {
           "score": 1,
           "thumbs": 2,
           "text": "me roubaram seus fdp, fiz uma instalação paguei e não fiz assinatura para vcs me cobrarem. Depois do segundo mês que eu descobrir essa cobrança já cancelei meu cartão e vou procurar meus direitos. Só fiz uma consulta, não fiz assinatura."
+        },
+        {
+          "score": 1,
+          "thumbs": 2,
+          "text": "O app é uma pegadinha, vc faz a assinatura e mesmo excluindo vão continuar cobrando no seu cartão e ao cancelar, a empresa dificulta ao máximo, pedem pra enviar email pra cancelar, e ficam insistindo com vc. É um lixo tudo, perdem a credibilidade por querer ficar tapeando seus cl"
+        },
+        {
+          "score": 1,
+          "thumbs": 2,
+          "text": "Paguei pelo acesso Premium e não foi liberado"
+        },
+        {
+          "score": 1,
+          "thumbs": 2,
+          "text": "Como cancelo o pagamento??? Não tem nenhum menu, nem em meu perfil. Fiz a assinatura de apenas um mês e continua cobrando recorrente em meu cartão."
+        },
+        {
+          "score": 1,
+          "thumbs": 2,
+          "text": "Cancelei a conta e o serviço e fui cobrada, por gentileza resolvam isso pois não tenho acesso a conta"
         },
         {
           "score": 1,
@@ -354,6 +411,51 @@
           "score": 1,
           "thumbs": 1,
           "text": "Paguei 19,90 e nao recebi nada demais. So mensagens prontas que dariam certo pra toda população. Decepcionada."
+        },
+        {
+          "score": 1,
+          "thumbs": 1,
+          "text": "Dia 17/10 eu fechei o premium semestral. Agora o aplicativo fala que eu não sou mais premium, sendo que eu já paguei há menos de 2 mesesi!!!"
+        },
+        {
+          "score": 2,
+          "thumbs": 1,
+          "text": "Estragaram a plataforma quando tiraram o fórum de discussão sobre astrologia. Muitas infos q a própria plataforma não dá,nos fóruns se encontrava. Tá precisando lançar conteúdo,pois estão cobrando mais caro e por menos tempo de inscrição. Astrologia sabemos bem q é um tema infini"
+        },
+        {
+          "score": 2,
+          "thumbs": 1,
+          "text": "Habilitei a função Premium já que falava que ganhava desconto usando o cartão picpay e que NÃO seria renovado no próximo mês, assim fiz... Ficou 12 reais, gostei a primeiro momento, mas quando o mês de junho chegou, chegou a fatura de 19 reais, sendo que eu NÃO HABILITEI, e o cor"
+        },
+        {
+          "score": 1,
+          "thumbs": 1,
+          "text": "Aplicativo cobra sem autorização"
+        },
+        {
+          "score": 1,
+          "thumbs": 1,
+          "text": "Nunca tive problemas com o app. Mas esse mês paguei pelo Premium e até agora, nada..."
+        },
+        {
+          "score": 1,
+          "thumbs": 1,
+          "text": "Uso a quatro anos, paguei esse mês e não voltou minha assinatura Premium. Quando vou pra assinar novamente ,diz que já sou Premium . Mandei email e não tive resposta. Agora não consigo nem pagar novamente ."
+        },
+        {
+          "score": 1,
+          "thumbs": 1,
+          "text": "Baixei de novo após meses sem utilizar e descobri que tiraram o acesso gratuito a consulta do tarô que já não era lá essas coisas de exata. Desinstalei na mesma hora. Não baixo nunca mais."
+        },
+        {
+          "score": 2,
+          "thumbs": 1,
+          "text": "Esse app era o meu preferido, agora tudo é pago, até a consulta do tarot, não tem mais a gratuita que antes era uma por dia. Agora tudo é pago e tudo muito caro."
+        },
+        {
+          "score": 2,
+          "thumbs": 1,
+          "text": "Boa tarde! Eu fiz a compra da versão Premium a um tempo mas vocês continuam me cobrando. Acabei de ser cobrada novamente e o dinheiro já foi descontado do meu cartão, sendo que n quero continuar com a versão Premium do app. Aguardo retorno"
         },
         {
           "score": 1,
@@ -394,9 +496,74 @@
           "score": 2,
           "thumbs": 0,
           "text": "Era muito bom e completo, mas tudo tem que pagar para saber completamente e o preço é muito caro."
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "Eu paguei a versão premium e estou a dias sem poder usar o app. Eu tento abrir e aparece: \" ops, algo deu errado :(\"."
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "Péssima. Cobram dinheiro sem autorização."
+        },
+        {
+          "score": 2,
+          "thumbs": 0,
+          "text": "Bom dia, solicitei o cancelamento da minha assinatura e estou tentando fazer o reembolso, porém não estou conseguindo. Por favor alguém pode ajudar ? Obrigada"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "Paguei o Premium e não tem revolução solar kkk"
+        },
+        {
+          "score": 2,
+          "thumbs": 0,
+          "text": "Legal, mas o app atualizou e agora quer q eu pague novamente a assinatura, sendo q paguei tem 3 dias, e não localizo suporte no app."
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "Quando vocês vão arrumar a opção de logar com o Facebook? Paguei o premium atoa, já que tem 3 dias que não consigo acessar minha conta. Ajuda nois astrolink!"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "Eu paguei por 3 meses e mal utilizei 1. Me sinto enganada. Pensei até que estava doida, mas vendo os comentários entendi que o problema é do aplicativo. Agora estou com muita raiva disso!!!!!"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "Paguei o pacote Premium e não entrou de jeito nenhum, mas debitou certinho do meu cartão de crédito. Péssimo!"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "Pena que não abre. Paguei e não funciona"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "Fiz um cadastro, e quando loguei, já foi cobrando kkkkkk"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "Empresa com cobrança predatória, cuidado."
         }
       ],
       "too_many_ads": [
+        {
+          "score": 1,
+          "thumbs": 3,
+          "text": "Propaganda enganosa, fala que é gratuito e quando vc instala é pago."
+        },
+        {
+          "score": 1,
+          "thumbs": 2,
+          "text": "Ou é muito mercenário ou pouco inteligente. Põe anúncio, facilita. Os textos não são produzidos individualmente, ganhe na quantidade."
+        },
         {
           "score": 1,
           "thumbs": 1,
@@ -416,6 +583,11 @@
           "score": 2,
           "thumbs": 0,
           "text": "adquiri a versão paga com liberação dos recursos e não foi bem isso . considero uma propaganda enganosa. não aparece uma opção de cancelar no app"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "Propaganda enganosa fala que é grátis e só mostra se pagar."
         }
       ],
       "crashes_bugs": [
@@ -426,6 +598,21 @@
         },
         {
           "score": 1,
+          "thumbs": 9,
+          "text": "Nem entra, quer disse não funciona, logo no primeiro dia de uso"
+        },
+        {
+          "score": 1,
+          "thumbs": 8,
+          "text": "Estou conhecendo. Se for ótimo volto aqui e aumento para 5 estrelas ⭐! **** No primeiro momento ja encontrei algumas falhas e erros no app, tal como: >Erro ortográfico no mapa astral. (printado) >bug na plataforma na parte onde tem o símbolo de mais (+) para abrir as opções das C"
+        },
+        {
+          "score": 2,
+          "thumbs": 7,
+          "text": "Assinei tem quase um ano e trava muito quando vou ver outros mapas e ver outras coisas, muito chateada!!!"
+        },
+        {
+          "score": 1,
           "thumbs": 6,
           "text": "aplicativo tá horrível desde a atualização, travamentos, bugs, horrível, consigo nem entrar que fica em tela branca"
         },
@@ -433,6 +620,61 @@
           "score": 1,
           "thumbs": 5,
           "text": "Não funciona, criei uma conta e só aparece uma imagem roxa com um sol, não dá pra fazer nada, não aparece nada"
+        },
+        {
+          "score": 1,
+          "thumbs": 5,
+          "text": "O app não funciona. A parte do horóscopo diário, que costumava mostrar parte da previsão, não carrega."
+        },
+        {
+          "score": 2,
+          "thumbs": 4,
+          "text": "Não cheguei nem a criar meu mapa, a função de cidade está bugada, sou do DF, aqui tem cidades satélites e sei que se eu colocar Brasília meu mapa não vai sair certo. Tento o modo de selecionar no google maps para pegar as coordenadas e ele retorna um erro de que não encontrou o l"
+        },
+        {
+          "score": 2,
+          "thumbs": 3,
+          "text": "Paguei o app, e nao consigo usar ja faz umas 2 semanas. Sempre da erro, ja desinstalei e instalei e nada."
+        },
+        {
+          "score": 1,
+          "thumbs": 3,
+          "text": "No site pesquisa pelo Google ou pelo app Apresenta o mesmo erro, eu faço login e só aparece erro 404. 🙄"
+        },
+        {
+          "score": 1,
+          "thumbs": 3,
+          "text": "Até ontem eu era super fã do App, porém hoje quando aconteceu uma atualização, ele não abre, aparece uma imagem branca com letras grandes em preto dizendo que deu erro. Já desliguei meu celular, já reinicializei meu celular, já tentei mexer no App com Wi-Fi e nada! Por favor, arr"
+        },
+        {
+          "score": 1,
+          "thumbs": 2,
+          "text": "Dá erro e não abre mais."
+        },
+        {
+          "score": 1,
+          "thumbs": 2,
+          "text": "Não consegui nem entrar no app, falava que eu já tinha uma conta e eu redefi a senha, quando fui tentar entrar com email e senha falava que estava incorreta sendo que eu acabei de refazer. E quando eu tentei entrar com Google e Facebook a tela travava e voltava a tela inicial."
+        },
+        {
+          "score": 1,
+          "thumbs": 2,
+          "text": "Já foi muito bom esse app, mas agora tento usar, e tá travado na última etapa, eles não mandam o código por email pra ver o mapa astral"
+        },
+        {
+          "score": 1,
+          "thumbs": 2,
+          "text": "Odiei! Não consigo fazer login e quando consigo, trava o tempo todo"
+        },
+        {
+          "score": 1,
+          "thumbs": 2,
+          "text": "Era o melhor, mas agora não consigo nem entrar no aplicativo. Dá erro e não entra na conta, fica sempre voltando como se eu não tivesse feito login. Já troquei a senha, desistalei, o instalei novamente, e mesmo assim continua no erro."
+        },
+        {
+          "score": 1,
+          "thumbs": 2,
+          "text": "Não goste! Fiz todo cadastro e depois disse que tinha ocorrido um erro."
         },
         {
           "score": 1,
@@ -448,6 +690,66 @@
           "score": 1,
           "thumbs": 1,
           "text": "aplicativo e site super bugado."
+        },
+        {
+          "score": 2,
+          "thumbs": 1,
+          "text": "Estragaram a plataforma quando tiraram o fórum de discussão sobre astrologia. Muitas infos q a própria plataforma não dá,nos fóruns se encontrava. Tá precisando lançar conteúdo,pois estão cobrando mais caro e por menos tempo de inscrição. Astrologia sabemos bem q é um tema infini"
+        },
+        {
+          "score": 2,
+          "thumbs": 1,
+          "text": "Aplicativo lento , trava o tempo todo ! Passei tanta raiva que desinstalei"
+        },
+        {
+          "score": 1,
+          "thumbs": 1,
+          "text": "Dá erro em todas as tentativas"
+        },
+        {
+          "score": 1,
+          "thumbs": 1,
+          "text": "Baixei e desinstalei, aplicativo apresenta um erro depois de cadastrar a conta,sinto muito pois o aplicativo parece ser tão legal e interessante,uma pena acontecer isso,espero que vocês arrumam para que eu possa baixar novamente."
+        },
+        {
+          "score": 2,
+          "thumbs": 1,
+          "text": "Aplicativo esta dando erro, não abre!"
+        },
+        {
+          "score": 1,
+          "thumbs": 1,
+          "text": "O app (e o site, aparentemente) pararam de funcionar. Só dá erro 404."
+        },
+        {
+          "score": 1,
+          "thumbs": 1,
+          "text": "Péssima experiência. Diz que vai enviar quatro números para o meu e-mail e não chega nunca. Já tentei várias vezes. Não funciona. Desinstalando."
+        },
+        {
+          "score": 1,
+          "thumbs": 1,
+          "text": "O app está com bug. Arrumem isso"
+        },
+        {
+          "score": 1,
+          "thumbs": 1,
+          "text": "Péssimo App, fiz uma conta... entrei duas vezes e troquei de cll e nunca mais consegui entrar.. só dá erro... poderia ter um pouco mais de existência!"
+        },
+        {
+          "score": 1,
+          "thumbs": 1,
+          "text": "Muito ruim, na hora de fazer login só dá erro, partiu desinstalar."
+        },
+        {
+          "score": 1,
+          "thumbs": 1,
+          "text": "App travado em uma tela cinza."
+        },
+        {
+          "score": 1,
+          "thumbs": 1,
+          "text": "Péssimo. Baixei, tentei colocar minha conta, deu erro e fechou. Desinstalei e instalei de novo e não mudou nada. Tentei me cadastrar com outro email e só dava erro. Nem completava o cadastro e fechava sozinho. Desinstalei pra nunca mais baixar"
         },
         {
           "score": 1,
@@ -513,6 +815,116 @@
           "score": 2,
           "thumbs": 0,
           "text": "Aplicativo da erro, abre quando quer, eu so consigo mesmo usar via site. Precisam urgente corrigir isso"
+        },
+        {
+          "score": 2,
+          "thumbs": 0,
+          "text": "Tem alguns dias que tá bugando sempre falam pra tentar mais tarde está horrível 👎🏾"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "O aplicativo é bom, porém ele é muito mercenário se vc não pagar depois de 30 dias ele vai te bloquear o acesso aparecendo o código erro 404"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "O site é muito chato ,eu n sabia como mecher de início até pq nunca mexi com esse negócio de astral,aí eles me mandaram o número mais eu não achei daí eu desinstalei mais para arrumar o meu erro né daí eu abaxei dnv e eles n dão o código daí eu achei o código antigo aí eu pensei "
+        },
+        {
+          "score": 2,
+          "thumbs": 0,
+          "text": "Não apaga ou edita os erros na colocação dos dados"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "Eu sou de 20/04 eu NÃO sou taurino!!!! Se já errou o sol do meu mapa, imagina o resto..."
+        },
+        {
+          "score": 2,
+          "thumbs": 0,
+          "text": "Muitos bugs"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "Não tenho nada a falar 😕 eu instalei e cadastrei mas na hora de fazer o login o app não funciona mais ..."
+        },
+        {
+          "score": 2,
+          "thumbs": 0,
+          "text": "Uso há anos e sou assinante, porém desde ontem dia 16 03 23 não consigo acessar nada. Da erro na página. Já reinstalei e nada. Podem me auxiliar ?"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "App não abre está dando erro"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "Antes ele era bom, mas agr tá com fortes problemas de travar"
+        },
+        {
+          "score": 2,
+          "thumbs": 0,
+          "text": "aplicativo zoado, fica travando e eu não consigo usar direito"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "Estou tendo problemas com erro, já instalei e desinstalei. Sou Premium, mas ele vai funciona mais corretamente"
+        },
+        {
+          "score": 2,
+          "thumbs": 0,
+          "text": "Cheio de bug"
+        },
+        {
+          "score": 2,
+          "thumbs": 0,
+          "text": "trava horrores"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "Tá com um Bug no horóscopo personalizado, não tá legal"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "Erro ao logar"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "Pena que não abre. Paguei e não funciona"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "O app e claro , não errola nas informações sobre astrologia, eu fiquei muito feliz ."
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "Trava muito"
+        },
+        {
+          "score": 2,
+          "thumbs": 0,
+          "text": "Não estou mais conseguindo conectar. Informa que minha senha é inválida, ao tentar redefinir a senha informa que ocorreu um erro. Pelo Facebook consigo entrar mas não aparece quaisquer informações. Sou Premium e exijo o ajuste do acesso com urgência."
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "Trava na primeira tela"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "Errou até meu signo solar mano"
         }
       ],
       "ai_complaint": [
@@ -520,9 +932,34 @@
           "score": 1,
           "thumbs": 0,
           "text": "Estava tudo bem até eu pedir o reembolso após cancelar. E ai fraude no reembolso"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "Tem alguma coisa errada pois em todos os sites tenho ascendência em cancer ai vem esse e coloca gêmeos doidera"
         }
       ],
       "refund_denied": [
+        {
+          "score": 2,
+          "thumbs": 44,
+          "text": "Assinei o Premium porém não consigo incluir fotos e nem mudar a foto de perfil. Fora que a interface do app é muito ruim de mexer. Se continuar assim vou cancelar. Decepcionada"
+        },
+        {
+          "score": 1,
+          "thumbs": 23,
+          "text": "O conteúdo do app é muito bom. Porém durante a utilização o app parou e agora toda vez q entro aparece \"404 not found\". Já desinstalei, instalei, limpei cache e nada. Pago o Premium e gosto do app, mas infelizmente se não conseguir usar vou ter que cancelar assinatura."
+        },
+        {
+          "score": 1,
+          "thumbs": 20,
+          "text": "Não consigo cancelar a assinatura. Para cancelar eles pedem que vc preencha uma lista do motivo pro cancelamento, pra depois cancelar por email. Tô tentando cancelar a um mês e ainda não foi, ficam me enrolando DEMAIS. Deve haver uma forma de cancelamento instantâneo, isso de ter"
+        },
+        {
+          "score": 1,
+          "thumbs": 11,
+          "text": "Não aparece a opção de apagar seus dados do cartão. Não aparece a opção para cancelar assinatura. Para cancelar você precisa mandar email se justificando (???) Isso não faz o menor sentido. É um desrespeito atrás do outros. Não recomendo a ninguém."
+        },
         {
           "score": 1,
           "thumbs": 9,
@@ -530,8 +967,83 @@
         },
         {
           "score": 1,
+          "thumbs": 6,
+          "text": "Estou tentando a meses cancelar minha assinatura e não consigo!!. O app não cumpre o que promete!"
+        },
+        {
+          "score": 1,
+          "thumbs": 5,
+          "text": "O app dificulta o cancelamento da assinatura. É confuso para o cliente não cancelar. Precisa mandar um email. Não assinarei novamente por causa disso. Tentar reter o cliente assim é péssimo."
+        },
+        {
+          "score": 1,
+          "thumbs": 4,
+          "text": "Estou tentando cancelar assinatura que,nem sabia que havia feito e, não consigo!!"
+        },
+        {
+          "score": 1,
+          "thumbs": 4,
+          "text": "O aplicativo saiu do ar e não autorizei descontar no meu cartão de crédito de forma automática, quero cancelamento!"
+        },
+        {
+          "score": 1,
           "thumbs": 2,
           "text": "me roubaram seus fdp, fiz uma instalação paguei e não fiz assinatura para vcs me cobrarem. Depois do segundo mês que eu descobrir essa cobrança já cancelei meu cartão e vou procurar meus direitos. Só fiz uma consulta, não fiz assinatura."
+        },
+        {
+          "score": 1,
+          "thumbs": 2,
+          "text": "O app é uma pegadinha, vc faz a assinatura e mesmo excluindo vão continuar cobrando no seu cartão e ao cancelar, a empresa dificulta ao máximo, pedem pra enviar email pra cancelar, e ficam insistindo com vc. É um lixo tudo, perdem a credibilidade por querer ficar tapeando seus cl"
+        },
+        {
+          "score": 1,
+          "thumbs": 2,
+          "text": "Se vocês usuários não querem ter dor de cabeça com um futuro cancelamento do plano eu aconselho a não aderir e procurar outro aplicativo, eles nao deixam a liberdade da gente cancelar quando tiver vontade, temos que passar um e-mail e aguardar a boa vontade deles de cancelar, tot"
+        },
+        {
+          "score": 1,
+          "thumbs": 2,
+          "text": "Fiz o cancelamento da assinatura, na qual está dentro do prazo e foi debitado o valor da minha conta. Quero estorno."
+        },
+        {
+          "score": 1,
+          "thumbs": 2,
+          "text": "Como cancelo o pagamento??? Não tem nenhum menu, nem em meu perfil. Fiz a assinatura de apenas um mês e continua cobrando recorrente em meu cartão."
+        },
+        {
+          "score": 1,
+          "thumbs": 2,
+          "text": "Cancelei a conta e o serviço e fui cobrada, por gentileza resolvam isso pois não tenho acesso a conta"
+        },
+        {
+          "score": 2,
+          "thumbs": 1,
+          "text": "Estragaram a plataforma quando tiraram o fórum de discussão sobre astrologia. Muitas infos q a própria plataforma não dá,nos fóruns se encontrava. Tá precisando lançar conteúdo,pois estão cobrando mais caro e por menos tempo de inscrição. Astrologia sabemos bem q é um tema infini"
+        },
+        {
+          "score": 2,
+          "thumbs": 1,
+          "text": "Habilitei a função Premium já que falava que ganhava desconto usando o cartão picpay e que NÃO seria renovado no próximo mês, assim fiz... Ficou 12 reais, gostei a primeiro momento, mas quando o mês de junho chegou, chegou a fatura de 19 reais, sendo que eu NÃO HABILITEI, e o cor"
+        },
+        {
+          "score": 1,
+          "thumbs": 1,
+          "text": "Simplesmente não abre só resta cancelar e pedir restituição do valor pago"
+        },
+        {
+          "score": 1,
+          "thumbs": 1,
+          "text": "Estou desde Outubro tentando cancelar minha assinatura, mas não efetiva o cancelamento. Entro em contato com o e-mail que me oferecem, porém dizem que não conseguem cancelar, que teria que ser pelo procedimento (o que não está funcionando)"
+        },
+        {
+          "score": 1,
+          "thumbs": 1,
+          "text": "Muito bom o APP porém quando muda para versao Premium não é possível cancelar 😪"
+        },
+        {
+          "score": 1,
+          "thumbs": 1,
+          "text": "Eu não estou conseguindo cancelar minha assinatura, isso já tá um saco"
         },
         {
           "score": 1,
@@ -547,13 +1059,128 @@
           "score": 2,
           "thumbs": 0,
           "text": "adquiri a versão paga com liberação dos recursos e não foi bem isso . considero uma propaganda enganosa. não aparece uma opção de cancelar no app"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "Nunca vi tanta burocracia desnecessária para cancelar uma assinatura, absurdo! Tem que enviar e-mail e esperar a boa vontade de eles responderem e quererem cancelar."
+        },
+        {
+          "score": 2,
+          "thumbs": 0,
+          "text": "Era muito bom fiz o cadastro para o Premium meu cartão aceitou porém não consigo acessar nada do Premium e também não consigo cancelar."
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "Estou desde o ano passado tentando cancelar minha assinatura e vocês não cancelam, descontaram valores altos em minha conta, sou assinante Premium e quero CANCELAR minha conta e vocês só dificultam!"
+        },
+        {
+          "score": 2,
+          "thumbs": 0,
+          "text": "Bom dia, solicitei o cancelamento da minha assinatura e estou tentando fazer o reembolso, porém não estou conseguindo. Por favor alguém pode ajudar ? Obrigada"
+        },
+        {
+          "score": 2,
+          "thumbs": 0,
+          "text": "Muito fácil de assistinar, muito complicado de cancelar, fica a dica"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "Essa bodega não permite cancelamento da assinatura!"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "Preciso do cancelamento do meu plano. Estou tentando entrar em contato pelo e-mail há quase um mês e não me respondem. Preciso urgente do cancelamento"
         }
       ],
       "paywall_locked": [
         {
+          "score": 2,
+          "thumbs": 157,
+          "text": "Já paguei por 2 meses e nesse tempo, fiz alguns mapas astrais, do qual eu tinha direito, agora que é basicamente tudo pago, bloquearam até o acesso aos mapas que eu já havia pago, achei um absurdo; cortaram também o tarô gratuito... Patético! Quem gostava está desapontado, e novo"
+        },
+        {
+          "score": 2,
+          "thumbs": 44,
+          "text": "Assinei o Premium porém não consigo incluir fotos e nem mudar a foto de perfil. Fora que a interface do app é muito ruim de mexer. Se continuar assim vou cancelar. Decepcionada"
+        },
+        {
+          "score": 2,
+          "thumbs": 43,
+          "text": "Excelt App, sempre uso e bate com tudo mesmo. Segundo mês que pago. Mas, hoje o App simplesmente parou, só aparece a arte do fundo e nada mais. E agora vi no aplicativo do meu cartão de crédito que a Astrolink fez a cobrança da mensalidade desse próximo mês. Eu fiz a opção de pag"
+        },
+        {
+          "score": 2,
+          "thumbs": 41,
+          "text": "Se metade do aplicativo não fosse Premium, seria incrível. Muitos recursos são limitados e isso dificulta para quem gosta do aplicativo, quer mantê-lo na vida e aprender, contudo é desmotivado devido ao preço a se pagar por isso, e nem todos tem condições"
+        },
+        {
+          "score": 1,
+          "thumbs": 23,
+          "text": "Péssima experiência. Paguei o plano de 6 meses, w estou na luta para liberarem meu acesso mesmo após 8 dias do pagamento (cartão de crédito que compensou na hora). Único meio de comunicação é e-mail e eles ignoram, respondem para aguardar e mais nada. Não recomendo. Uma estrela p"
+        },
+        {
+          "score": 1,
+          "thumbs": 23,
+          "text": "O conteúdo do app é muito bom. Porém durante a utilização o app parou e agora toda vez q entro aparece \"404 not found\". Já desinstalei, instalei, limpei cache e nada. Pago o Premium e gosto do app, mas infelizmente se não conseguir usar vou ter que cancelar assinatura."
+        },
+        {
+          "score": 1,
+          "thumbs": 23,
+          "text": "Antes para comentar no fórum era gratuito e até isso tem que pagar para fazer, quase todas as opções gratuitas tão sendo tiradas. Pretendo desinstalar o App"
+        },
+        {
+          "score": 1,
+          "thumbs": 23,
+          "text": "Elitista e capitalista. Pra tudo tem que pagar. E ainda por cima rejeitaram um post que tentei postar no fórum, dizendo que contrariava as regras, sendo que era um simples questionamento sobre como as pessoas reagem a atitudes de deboche e desrespeitos em grupo, um tema útil pra "
+        },
+        {
+          "score": 1,
+          "thumbs": 12,
+          "text": "Apesar de amar o aplicativo e usar há mais de um ano, sinto que precisava vir aqui mostrar a minha frustração com o fato de que bloquearam todas as opções de Tarot para os não assinantes; as consultas me ajudavam muito e eu me contentava com a única opção disponível para quem não"
+        },
+        {
+          "score": 1,
+          "thumbs": 11,
+          "text": "Não aparece a opção de apagar seus dados do cartão. Não aparece a opção para cancelar assinatura. Para cancelar você precisa mandar email se justificando (???) Isso não faz o menor sentido. É um desrespeito atrás do outros. Não recomendo a ninguém."
+        },
+        {
           "score": 1,
           "thumbs": 9,
           "text": "Paguei a promoção de 9,90, e pediu para eu pagar novamente para desbloquear, paguei 2 vezes e deu o preço normal, ou seja, promoção nao tem nada, é só pra fazer de otaria mesmo. Alem de que simplesmente o premium não desbloqueia por NADA, ja tentei de tudo e não sei como pedir re"
+        },
+        {
+          "score": 1,
+          "thumbs": 8,
+          "text": "Assinei o Premium e não recebi acesso aos conteúdos... Vou denunciar no procon e vou fazer BO contra o aplicativo e o Google caso não resolvam o problema ou estornem meu pagamento... Vi que várias pessoas estão passando pelo mesmo problema... Cobrar e não entregar o serviço para "
+        },
+        {
+          "score": 1,
+          "thumbs": 6,
+          "text": "Péssimo, você paga e eles não liberam o acesso. Mesmo com o envio de todos os comprovantes, dizem que a situação foi resolvida mas o acesso Premium pago não é liberado. Dinheiro jogado fora."
+        },
+        {
+          "score": 2,
+          "thumbs": 6,
+          "text": "As informações obtidas (mapas extras e sinastria) com o Premium ativado somem quando o Premium é desativado e isso gera frustração. Acho injusto, uma vez que pagamos por essas informações. O justo seria que tais informações ficassem disponíveis e as novas pesquisas (mapas extras "
+        },
+        {
+          "score": 2,
+          "thumbs": 6,
+          "text": "Já foi melhor...agr os recursos que me fazia permanecer no app são pagos. Isso é um problema..."
+        },
+        {
+          "score": 1,
+          "thumbs": 5,
+          "text": "Comprei o Premium e não liberaram as funções, já mandei e-mail pro suporte, ninguém responde, não comprem desse app, eles não entregam."
+        },
+        {
+          "score": 1,
+          "thumbs": 5,
+          "text": "NÃO PAGUEM PELA VERSÃO PREMIUM. Pela segunda vez, sem nenhuma solicitação minha, ou uma mensagem de renovação, debitaram do meu cartão e nem mesmo liberaram o Premium. Estou pagando por algo que não tenho acesso e nem mais interesse. Estou há dias tentando extorno há dias. Mas, e"
         },
         {
           "score": 1,
@@ -562,13 +1189,218 @@
         },
         {
           "score": 1,
+          "thumbs": 4,
+          "text": "To muito chateada porque tinha minha cota premium com todos os mapas extras derrepente sumiu.tive que cadastrar tudo denovo nao entendi porque mesmo sendo premium voces ficam exigindo login e o valor que eu paguei onde esta?"
+        },
+        {
+          "score": 1,
           "thumbs": 3,
           "text": "Estou decepcionada. Eu paguei o recurso Premium, conferi no meu cartão e foi registrada a compra mas eu fui acessar o recurso Premium não consegui, ficou como se eu não tivesse pago nada. Mas no meu cartão eu tenho o registro da compra 😠"
+        },
+        {
+          "score": 1,
+          "thumbs": 3,
+          "text": "O app é melhor do que site, porém, tá errando as informações sobre o céu do dia, uma hora a gente vê a lua em um signo depois vê a lua ainda terminando o signo anterior e os outros planetas também, acho que aplicativo adianta as informações do céu do dia algumas horas, isso é ina"
+        },
+        {
+          "score": 1,
+          "thumbs": 3,
+          "text": "Ladrões isso sim. Fiz assinatura e não me desbloquearam para nada. Péssimo atendimento."
+        },
+        {
+          "score": 1,
+          "thumbs": 3,
+          "text": "Toda vez pago o plano, e bem antes para de constar o pagamento. Mesmo tendo 2 meses ainda para finalizar o plano, o app fica me dizendo para pagar novamente e bloqueia meu uso dos recursos premium"
+        },
+        {
+          "score": 2,
+          "thumbs": 3,
+          "text": "Sou usuária Premium, minha assinatura trimestral será finalizada somente no final de setembro, porém os recursos Premium não estão disponíveis para mim."
+        },
+        {
+          "score": 1,
+          "thumbs": 3,
+          "text": "Não consigo mais fazer tópicos quando clico em fazer fala que tem que ser Premium. Odiei"
+        },
+        {
+          "score": 1,
+          "thumbs": 3,
+          "text": "Propaganda enganosa, fala que é gratuito e quando vc instala é pago."
+        },
+        {
+          "score": 1,
+          "thumbs": 2,
+          "text": "Se vocês usuários não querem ter dor de cabeça com um futuro cancelamento do plano eu aconselho a não aderir e procurar outro aplicativo, eles nao deixam a liberdade da gente cancelar quando tiver vontade, temos que passar um e-mail e aguardar a boa vontade deles de cancelar, tot"
+        },
+        {
+          "score": 1,
+          "thumbs": 2,
+          "text": "Paguei pelo acesso Premium e não foi liberado"
+        },
+        {
+          "score": 2,
+          "thumbs": 2,
+          "text": "Eu baixei o aplicativo como gratis ,mas não consegui acessar nada . Então pra mim não funcionou ."
+        },
+        {
+          "score": 1,
+          "thumbs": 2,
+          "text": "Ladrões. Assim como outros que comentaram, quando se paga pelo premium, independente da periodicidade, dentro de alguns dias eles desabilitam (e longe do tempo contratado). Nunca mais."
+        },
+        {
+          "score": 1,
+          "thumbs": 2,
+          "text": "Obtive o recurso Premium e não consigo acessar nada, como se eu não tivesse o recurso 😠"
+        },
+        {
+          "score": 1,
+          "thumbs": 2,
+          "text": "que palhaçada é essa de agora o tarot ser pago? Antes tínhamos uma tiragem gratuita!!! Desinstalando, usava há anos"
+        },
+        {
+          "score": 1,
+          "thumbs": 2,
+          "text": "Eu fiz a compra do Plano Premium mensal esta segunda-feira, 23/05/2022, através do Mercado Pago, na opção que aparece no próprio Google Play de pagar por aquele, e até agora não tive o devido acesso ao plano."
+        },
+        {
+          "score": 1,
+          "thumbs": 2,
+          "text": "NÃO ASSINEM O PREMIUM!!! Fui fazer a assinatura de seis meses e NÃO liberaram meu acesso."
+        },
+        {
+          "score": 1,
+          "thumbs": 2,
+          "text": "Horrivel, não pode botar uma data de nascimento acima de 01/02 então não dá pra fazer nada, tentei no site e agora no app e é tudo igual então é inútil e esse é o único gratis"
         },
         {
           "score": 2,
           "thumbs": 1,
           "text": "Uso a versão Premium, mas não consigo abrir o ciclo Lunar na hora que eu quero, já é a terceira vez que tenho que desinstalar e Reinstalar o App pra poder ter acesso ao Ciclo Lunar. melhorem isso que melhoro as notas. dei duas estrelas pra chamar atenção dos desenvolvedores e ele"
+        },
+        {
+          "score": 1,
+          "thumbs": 1,
+          "text": "Dia 17/10 eu fechei o premium semestral. Agora o aplicativo fala que eu não sou mais premium, sendo que eu já paguei há menos de 2 mesesi!!!"
+        },
+        {
+          "score": 1,
+          "thumbs": 1,
+          "text": "Repetição ! Já repetiram varia vezes as previsões do meu signo. Isso é ruim. Como pagar por algo que não é inédito?! Sejam incríveis e façam previsões novas ao invés de copiar e colar um texto do passado."
+        },
+        {
+          "score": 2,
+          "thumbs": 1,
+          "text": "Habilitei a função Premium já que falava que ganhava desconto usando o cartão picpay e que NÃO seria renovado no próximo mês, assim fiz... Ficou 12 reais, gostei a primeiro momento, mas quando o mês de junho chegou, chegou a fatura de 19 reais, sendo que eu NÃO HABILITEI, e o cor"
+        },
+        {
+          "score": 1,
+          "thumbs": 1,
+          "text": "Simplesmente não abre só resta cancelar e pedir restituição do valor pago"
+        },
+        {
+          "score": 1,
+          "thumbs": 1,
+          "text": "Para ver as informações do meu mapa astral tenho que ser premium."
+        },
+        {
+          "score": 1,
+          "thumbs": 1,
+          "text": "A compatibilidade tem q pagar pra ver, eu hein"
+        },
+        {
+          "score": 1,
+          "thumbs": 1,
+          "text": "Nunca tive problemas com o app. Mas esse mês paguei pelo Premium e até agora, nada..."
+        },
+        {
+          "score": 1,
+          "thumbs": 1,
+          "text": "Uso a quatro anos, paguei esse mês e não voltou minha assinatura Premium. Quando vou pra assinar novamente ,diz que já sou Premium . Mandei email e não tive resposta. Agora não consigo nem pagar novamente ."
+        },
+        {
+          "score": 2,
+          "thumbs": 1,
+          "text": "Dps q ficou pago ficou numa dificuldade de mecher aff"
+        },
+        {
+          "score": 1,
+          "thumbs": 1,
+          "text": "Uso o Plano Premium que não é barato. E muitas das vezes o app não quer funcionar. Para de funcionar do nada ou simplesmente não abre. Mesmo estando atualizado."
+        },
+        {
+          "score": 1,
+          "thumbs": 1,
+          "text": "Astrolink, tem problemas com pagamentos , foi descontado da minha conta $19,90 mensalidade Premium. E até agora Não me liberaram acesso ."
+        },
+        {
+          "score": 2,
+          "thumbs": 1,
+          "text": "e eu até daria as 5 estrelas para o app, o chato do aplicativo é que a grande maioria das coisas que tem nele são pagas e isso é chato pra caramba! eu gostaria mais dele se não tivesse tantos recursos premiums no aplicativo. então por conta disto eu avali - o este app com apenas "
+        },
+        {
+          "score": 1,
+          "thumbs": 1,
+          "text": "O app é bom mas tenho gasto dinheiro pelo Premium e nunca é liberado pra mim, já mandei email para contato e não recebi estorno e nem retorno de resposta sobre minha reclamação"
+        },
+        {
+          "score": 2,
+          "thumbs": 1,
+          "text": "Assinei o plano mensal premium e não consigo desbloquear os benefícios! Consta como se eu não tivesse assinatura!"
+        },
+        {
+          "score": 1,
+          "thumbs": 1,
+          "text": "Eu fiz uma assinatura Premium, mas não consigo acesso. Enviei um e-mail pedindo resolução, mas não obtive resposta."
+        },
+        {
+          "score": 2,
+          "thumbs": 1,
+          "text": "Se não fosse pago, seria perfeito, só isso."
+        },
+        {
+          "score": 1,
+          "thumbs": 1,
+          "text": "Mano, é tudo pago! >:^"
+        },
+        {
+          "score": 1,
+          "thumbs": 1,
+          "text": "Tirar tarot agora é pago! Desinstalei"
+        },
+        {
+          "score": 1,
+          "thumbs": 1,
+          "text": "Baixei o app me cadastrei faço o login e n aparece nada apenas o plano d fundo"
+        },
+        {
+          "score": 1,
+          "thumbs": 1,
+          "text": "Muito bom o APP porém quando muda para versao Premium não é possível cancelar 😪"
+        },
+        {
+          "score": 1,
+          "thumbs": 1,
+          "text": "Se nas consultas gratuitas nenhuma acertou nada, pq eu pagaria pra continuar usando os serviços??"
+        },
+        {
+          "score": 1,
+          "thumbs": 1,
+          "text": "Agora o tarot é pago. Mais fácil comprar um deck de uma vez então... Esse app só ta servindo pra consultar uma coisa ou outra do meu mapa pq tá tudo pago. Não recomendo."
+        },
+        {
+          "score": 2,
+          "thumbs": 1,
+          "text": "Esse app era o meu preferido, agora tudo é pago, até a consulta do tarot, não tem mais a gratuita que antes era uma por dia. Agora tudo é pago e tudo muito caro."
+        },
+        {
+          "score": 2,
+          "thumbs": 1,
+          "text": "Boa tarde! Eu fiz a compra da versão Premium a um tempo mas vocês continuam me cobrando. Acabei de ser cobrada novamente e o dinheiro já foi descontado do meu cartão, sendo que n quero continuar com a versão Premium do app. Aguardo retorno"
+        },
+        {
+          "score": 1,
+          "thumbs": 1,
+          "text": "Tem que PAGAR para EXCLUIR um mapa astral que você fez de GRAÇA skskskskks o sentindo"
         },
         {
           "score": 1,
@@ -589,6 +1421,201 @@
           "score": 2,
           "thumbs": 0,
           "text": "Era muito bom e completo, mas tudo tem que pagar para saber completamente e o preço é muito caro."
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "Eu paguei a versão premium e estou a dias sem poder usar o app. Eu tento abrir e aparece: \" ops, algo deu errado :(\"."
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "A minha assinatura está em dia e eu não consigo acessar os benefícios. Estava utilizando desde o dia 03/11 e hoje está o dia inteiro me solicitando virar Premium, sendo que já sou e todos os benefícios seguem bloqueados. Não há um canal rápido para resolver, você envia um e-mail "
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "O aplicativo é bom, porém ele é muito mercenário se vc não pagar depois de 30 dias ele vai te bloquear o acesso aparecendo o código erro 404"
+        },
+        {
+          "score": 2,
+          "thumbs": 0,
+          "text": "Para consultar muitas coisas como o tarot precisa pagar, nem o tradicional vc pode fazer. Só serve para ve o mapa astral"
+        },
+        {
+          "score": 2,
+          "thumbs": 0,
+          "text": "2 problemas sérios quando voce faz um filtro para pesquisa pessoas e volta o app volta para pagina Inicial ae temos que fazer novamento o filtro, e o plano pago onde você faz mapa extra são muito limitado com pouca informações."
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "Gosto bastante do app, tenho assinatura Premium, porém ultimamente tem ficado instável, inclusive tento acessar minha conta e não consigo! Já redefini a senha várias vezes, porém aparece a mensagem que não está correta!"
+        },
+        {
+          "score": 2,
+          "thumbs": 0,
+          "text": "Era muito bom fiz o cadastro para o Premium meu cartão aceitou porém não consigo acessar nada do Premium e também não consigo cancelar."
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "Estou desde o ano passado tentando cancelar minha assinatura e vocês não cancelam, descontaram valores altos em minha conta, sou assinante Premium e quero CANCELAR minha conta e vocês só dificultam!"
+        },
+        {
+          "score": 2,
+          "thumbs": 0,
+          "text": "Tem que pagar para ver tudo.👎"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "Que burocracia para ser premium! Pq não coloca a opção de pagamento por pix?"
+        },
+        {
+          "score": 2,
+          "thumbs": 0,
+          "text": "Estou pagando uma aplicação premium para me dizer que email esta cadastrado mas está invalido, ja mandei um email e ninguem responde e nao tem acesso à minha conta... enfim..."
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "TUDO TEM QUE PAGAR QUE APP HORRÍVEL NADA FUNCIONA FEIJOADA"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "Fiz um pagamento do Premium e até hoje não recebi o acesso, sinceramente não recomendo"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "Ruim tem q pagar"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "Pago a assinatura a próxima mensalidade será debitada no próximo dia 19, contudo não consigo usar a funcionalidade Premium."
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "Paguei o Premium e não tem revolução solar kkk"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "Quando vocês vão arrumar a opção de logar com o Facebook? Paguei o premium atoa, já que tem 3 dias que não consigo acessar minha conta. Ajuda nois astrolink!"
+        },
+        {
+          "score": 2,
+          "thumbs": 0,
+          "text": "Fiz o cadastro para SEr Premium já debitou de minha fatura, e não tenho meus acessos , e não tem nenhuma central de atendimento disponíve l:("
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "Tenho o plano Premium e não consigo acessar nada que o plano oferece, já enviei e-mail e nada de receber retorno sobre quando vão resolver a situação."
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "Paguei o pacote Premium e não entrou de jeito nenhum, mas debitou certinho do meu cartão de crédito. Péssimo!"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "muito complexo, a maior parte é premium"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "Estou tendo problemas com erro, já instalei e desinstalei. Sou Premium, mas ele vai funciona mais corretamente"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "Eu não consigo mudar o horário,e o mês que nasci coloquei errado e só se eu ter o Premium vou poder fazer isso.... Não gostei"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "Ter que ser Premium pra excluir um mapa foi demais...vou ter que ficar com uma mapa astral de um psicopata só pq não sabia disso. Affs...vou excluir a conta e fazer outra :("
+        },
+        {
+          "score": 2,
+          "thumbs": 0,
+          "text": "Absolutamente qualquer coisa que você tentar consultar, é pago."
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "Mno num vou pagar nada"
+        },
+        {
+          "score": 2,
+          "thumbs": 0,
+          "text": "muito bom e bem, porém os mapas astrais de amigos agora é pago . Muita coisa legal é pago 😞"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "Era otimo mas infelizmente virou pago as funcionalidades que ja eram limitadas"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "Valeu por serem escória e gananciosos que nem mais da metade dos seres humanos do mundo e colocarem o tarô para ser pago seus babacas."
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "Adorava usar o tarot, mas agr somente se pagar, tô decepcionada"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "Tem q pagar o tarot agora 👎"
+        },
+        {
+          "score": 2,
+          "thumbs": 0,
+          "text": "Não estou mais conseguindo conectar. Informa que minha senha é inválida, ao tentar redefinir a senha informa que ocorreu um erro. Pelo Facebook consigo entrar mas não aparece quaisquer informações. Sou Premium e exijo o ajuste do acesso com urgência."
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "Preciso do cancelamento do meu plano. Estou tentando entrar em contato pelo e-mail há quase um mês e não me respondem. Preciso urgente do cancelamento"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "Bem que o sinastria poderia ser grátis vey nem todos tem condições para pagar"
+        },
+        {
+          "score": 2,
+          "thumbs": 0,
+          "text": "Tenho uma conta Premium e não estou conseguindo acessar pelo app. Faço o longin pelo Facebook, porém o app não completa a ação. Por favor arrumar isso"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "Propaganda enganosa fala que é grátis e só mostra se pagar."
+        },
+        {
+          "score": 2,
+          "thumbs": 0,
+          "text": "A maior parte das coisas tem que pagar"
+        },
+        {
+          "score": 2,
+          "thumbs": 0,
+          "text": "É bom, mas é pior que club Penguin, tem q pagar pra ter as coisas q seriam precisas '-'"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "Você só pode fazer 2 mapas astral extra e não pode excluir sem pagar. Odiei."
         }
       ],
       "inaccurate": [
@@ -596,13 +1623,77 @@
           "score": 1,
           "thumbs": 1,
           "text": "péssimo um anúncio falso diazi cobrar 1 leal pelo retrato de alma me cobraram mais de 5 reais e detalhe um retrato que nunca recebi"
+        },
+        {
+          "score": 2,
+          "thumbs": 1,
+          "text": "Está mostrando meu signo errado. Tentem corrigir por favor,aí mudo minha avaliação."
+        },
+        {
+          "score": 1,
+          "thumbs": 1,
+          "text": "Eu nao gostei falou mentiras sobre mim, odiei."
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "Eu paguei a versão premium e estou a dias sem poder usar o app. Eu tento abrir e aparece: \" ops, algo deu errado :(\"."
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "Não gostei, o signo saiu errado."
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "Eu não consigo mudar o horário,e o mês que nasci coloquei errado e só se eu ter o Premium vou poder fazer isso.... Não gostei"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "O aplicativo não me deixou botar minha data de nacimento, ele NÃO te deixa botar algum mês depois de março, e eu nasci em abril, no final, me deram um mapa todo errado! Não baixem!"
+        },
+        {
+          "score": 2,
+          "thumbs": 0,
+          "text": "Meu ascendente saiu errado. Deixei de confiar."
+        }
+      ],
+      "support_unresponsive": [
+        {
+          "score": 1,
+          "thumbs": 13,
+          "text": "Irriitante, é o que posso resumir, sou assinante e apesar disso o app é instável e fecha sozinho toda hora... Incrível, já tentei contato com o suporte e não fizeram nada... Como optei pela versão semestral, nem pensar em renovar novamente!"
+        },
+        {
+          "score": 1,
+          "thumbs": 5,
+          "text": "Comprei o Premium e não liberaram as funções, já mandei e-mail pro suporte, ninguém responde, não comprem desse app, eles não entregam."
+        },
+        {
+          "score": 2,
+          "thumbs": 0,
+          "text": "Legal, mas o app atualizou e agora quer q eu pague novamente a assinatura, sendo q paguei tem 3 dias, e não localizo suporte no app."
+        }
+      ],
+      "location_tracking": [
+        {
+          "score": 2,
+          "thumbs": 0,
+          "text": "Não consigo botar o local do meu nascimento diz que não é possível localizar, MDS todo mundo sabe onde fica esse bairro no Rio de janeiro"
+        },
+        {
+          "score": 2,
+          "thumbs": 0,
+          "text": "Legal, mas o app atualizou e agora quer q eu pague novamente a assinatura, sendo q paguei tem 3 dias, e não localizo suporte no app."
         }
       ]
     }
   },
   "TR/tarot": {
     "counts": {
-      "language_gap": 8
+      "language_gap": 4
     },
     "top_quotes": {
       "language_gap": [
@@ -613,16 +1704,6 @@
         },
         {
           "score": 1,
-          "thumbs": 91,
-          "text": "Uygulama çok güzel ama türkçe olmadığı için sürekli çeviri yapmakta zorlanıyorum lütfen türkçe dil seçeneği gelsin"
-        },
-        {
-          "score": 1,
-          "thumbs": 4,
-          "text": "Türkçe çevrimi yok"
-        },
-        {
-          "score": 1,
           "thumbs": 4,
           "text": "Türkçe çevrimi yok"
         },
@@ -630,16 +1711,6 @@
           "score": 1,
           "thumbs": 3,
           "text": "Uygulama türkçe seceneği yok"
-        },
-        {
-          "score": 1,
-          "thumbs": 3,
-          "text": "Uygulama türkçe seceneği yok"
-        },
-        {
-          "score": 1,
-          "thumbs": 2,
-          "text": "Uygulamayi indirdim fakat kullanamıyorum çünkü dili Türkçe değil, malesef silmek zorunda kaldım. İNDİRMEK İSTEYEN ONA GÖRE İNDİRSİN"
         },
         {
           "score": 1,
@@ -651,12 +1722,12 @@
   },
   "TR/couple": {
     "counts": {
-      "crashes_bugs": 12,
-      "paywall_locked": 26,
-      "pricing_billing": 22,
-      "too_many_ads": 3,
-      "inaccurate": 21,
-      "location_tracking": 52,
+      "crashes_bugs": 11,
+      "paywall_locked": 21,
+      "pricing_billing": 19,
+      "too_many_ads": 2,
+      "inaccurate": 17,
+      "location_tracking": 47,
       "refund_denied": 4,
       "support_unresponsive": 1,
       "language_gap": 3
@@ -717,11 +1788,6 @@
           "score": 2,
           "thumbs": 0,
           "text": "konumu yanlış gösteriyor hareker halindeyken bilgi vermiyor göstermiyor da gereksiz fiyatı yüksek ve düzgün şekilde çalışmıyor bile"
-        },
-        {
-          "score": 1,
-          "thumbs": 0,
-          "text": "Rezalet hiçbir premium özelliği çalışmıyor boşa para tuzağı"
         }
       ],
       "paywall_locked": [
@@ -729,11 +1795,6 @@
           "score": 1,
           "thumbs": 28,
           "text": "premium abone olarak kullanıyorum beni gece 6 dk dışarı çıktı olarak gösteriyor 6 dk da gidip gelemeyeceğim konuma götürüp geliyor bildiğim kadarıyla sevgiliminde bir jeti yok 580km hızla evin 10dk ilerisine gittiğini gösteriyor canı sıkılırsa eve girdi çıktı bildirimi geliyor ba"
-        },
-        {
-          "score": 2,
-          "thumbs": 8,
-          "text": "premium üyesi olmamıza rağmen erkek arkadaşımın konumu sürekli yanlış bazen çevrimdışı gözüküyo 1 gun boyunca düzelmiyor yada 10 11 saattir telefona bakmıyormuş gibi gözüküyor evdeyken görüntülü konuşuyoruz ama uygulama da konumu bambaşka yerlerde"
         },
         {
           "score": 2,
@@ -769,11 +1830,6 @@
           "score": 1,
           "thumbs": 3,
           "text": "çok fazla premium almamiz için baskı var. Anladık paralı özellikleriniz daha fazla."
-        },
-        {
-          "score": 1,
-          "thumbs": 2,
-          "text": "uygulama güzel fakat belirli bir süreden sonra giriş çıkışı göstermiyor telefon durumunu göstermiyor premium üyesiyim yani hiçbir şey anlamıyorum"
         },
         {
           "score": 1,
@@ -839,21 +1895,6 @@
           "score": 2,
           "thumbs": 0,
           "text": "Premium gerekiyor çoğu şey için ve gereksiz maliyetli ücretler"
-        },
-        {
-          "score": 1,
-          "thumbs": 0,
-          "text": "Rezalet hiçbir premium özelliği çalışmıyor boşa para tuzağı"
-        },
-        {
-          "score": 1,
-          "thumbs": 0,
-          "text": "Uygulamadaki her ozellik premium ile calismakta para yatirilmadigi surece ise yaramaz."
-        },
-        {
-          "score": 1,
-          "thumbs": 0,
-          "text": "herşey premium abartı şekilde ne konumu doğru gosteriyo son güncellemeden sonra daha kötü oldu uygulama iyice uygulama berbat oldu"
         }
       ],
       "pricing_billing": [
@@ -861,11 +1902,6 @@
           "score": 1,
           "thumbs": 10,
           "text": "Ücret ödeyip de günlük sokak görünümünün 3 defa yapabilmemiz çok saçma"
-        },
-        {
-          "score": 2,
-          "thumbs": 8,
-          "text": "premium üyesi olmamıza rağmen erkek arkadaşımın konumu sürekli yanlış bazen çevrimdışı gözüküyo 1 gun boyunca düzelmiyor yada 10 11 saattir telefona bakmıyormuş gibi gözüküyor evdeyken görüntülü konuşuyoruz ama uygulama da konumu bambaşka yerlerde"
         },
         {
           "score": 2,
@@ -896,11 +1932,6 @@
           "score": 2,
           "thumbs": 3,
           "text": "Kolay gelsin hayırlı çalışmalar, biz 2025 yılı mart ayından Love8 adlı uygulanızdan 1 yıllık üyelik almış bulunmaktayız. Başlarda çok fazla memnunduk ama daha sonrasından konum bilgilerimiz hatalı ve bildirimler yanlış gelmeye başladı ve bizde bu sebeplerden kız arkadaşımla tartı"
-        },
-        {
-          "score": 1,
-          "thumbs": 2,
-          "text": "uygulama güzel fakat belirli bir süreden sonra giriş çıkışı göstermiyor telefon durumunu göstermiyor premium üyesiyim yani hiçbir şey anlamıyorum"
         },
         {
           "score": 1,
@@ -961,11 +1992,6 @@
           "score": 2,
           "thumbs": 0,
           "text": "Premium gerekiyor çoğu şey için ve gereksiz maliyetli ücretler"
-        },
-        {
-          "score": 1,
-          "thumbs": 0,
-          "text": "Evet konumumuzu filan görebiliyoruz ama uygulamada her şey paralı. Bazen konumu yanlış gösteriyor, geriye kalan her şey için üyelik istiyor. Üstelik bazen ödüller için reklam izlediğimizde reklamlar sayılmıyor. Bir kere izlememiz gereken reklamı sevgilim de ben de şakasız beş ker"
         }
       ],
       "too_many_ads": [
@@ -978,11 +2004,6 @@
           "score": 1,
           "thumbs": 0,
           "text": "bence bu uygulamanın yakın arkadaşlar için olanını çıkartasanız daha güzel olur ve nerdeyse her şey premiumdu ben reklamda izledığimde herşey ücretsizdi ricam yakın arkadaşlar için olanını çikartmanız"
-        },
-        {
-          "score": 1,
-          "thumbs": 0,
-          "text": "Evet konumumuzu filan görebiliyoruz ama uygulamada her şey paralı. Bazen konumu yanlış gösteriyor, geriye kalan her şey için üyelik istiyor. Üstelik bazen ödüller için reklam izlediğimizde reklamlar sayılmıyor. Bir kere izlememiz gereken reklamı sevgilim de ben de şakasız beş ker"
         }
       ],
       "inaccurate": [
@@ -995,11 +2016,6 @@
           "score": 1,
           "thumbs": 18,
           "text": "Konum yanlış gösteriyorr telefonda aktif olmadığı zamanlarda çok alakasız yerlere gidip geliyor"
-        },
-        {
-          "score": 2,
-          "thumbs": 8,
-          "text": "premium üyesi olmamıza rağmen erkek arkadaşımın konumu sürekli yanlış bazen çevrimdışı gözüküyo 1 gun boyunca düzelmiyor yada 10 11 saattir telefona bakmıyormuş gibi gözüküyor evdeyken görüntülü konuşuyoruz ama uygulama da konumu bambaşka yerlerde"
         },
         {
           "score": 2,
@@ -1063,11 +2079,6 @@
         },
         {
           "score": 1,
-          "thumbs": 1,
-          "text": "konumu sürekli yanlış gosteriyo evdeyken bile eve geldi bildirimi atiyo surekli sacma sapan konum paylasimi icin indiriyosaniz indirmeyin lanet bi uygulama içindeki salak bi pet var onun içinse indirmeye degmez"
-        },
-        {
-          "score": 1,
           "thumbs": 0,
           "text": "Evet konumumuzu filan görebiliyoruz ama uygulamada her şey paralı. Bazen konumu yanlış gösteriyor, geriye kalan her şey için üyelik istiyor. Üstelik bazen ödüller için reklam izlediğimizde reklamlar sayılmıyor. Bir kere izlememiz gereken reklamı sevgilim de ben de şakasız beş ker"
         },
@@ -1080,16 +2091,6 @@
           "score": 2,
           "thumbs": 0,
           "text": "konumu yanlış gösteriyor hareker halindeyken bilgi vermiyor göstermiyor da gereksiz fiyatı yüksek ve düzgün şekilde çalışmıyor bile"
-        },
-        {
-          "score": 1,
-          "thumbs": 0,
-          "text": "Evet konumumuzu filan görebiliyoruz ama uygulamada her şey paralı. Bazen konumu yanlış gösteriyor, geriye kalan her şey için üyelik istiyor. Üstelik bazen ödüller için reklam izlediğimizde reklamlar sayılmıyor. Bir kere izlememiz gereken reklamı sevgilim de ben de şakasız beş ker"
-        },
-        {
-          "score": 1,
-          "thumbs": 0,
-          "text": "hele şu uygulamaya bişey yapın bazen yanlış yerde gösteriyor bakıyorum bi evde aldatıyor saniyom amk Allah'tan kıza güveniyom"
         }
       ],
       "location_tracking": [
@@ -1117,11 +2118,6 @@
           "score": 1,
           "thumbs": 14,
           "text": "hareket halinde değilken hareket halinde gösteriyor . konum iki saat sonra güncelleniyor . görmediğim yerlere gitmişim gibi gösteriyor konum geçmişinde . kafasına göre takılıyor"
-        },
-        {
-          "score": 2,
-          "thumbs": 8,
-          "text": "premium üyesi olmamıza rağmen erkek arkadaşımın konumu sürekli yanlış bazen çevrimdışı gözüküyo 1 gun boyunca düzelmiyor yada 10 11 saattir telefona bakmıyormuş gibi gözüküyor evdeyken görüntülü konuşuyoruz ama uygulama da konumu bambaşka yerlerde"
         },
         {
           "score": 2,
@@ -1260,11 +2256,6 @@
         },
         {
           "score": 1,
-          "thumbs": 1,
-          "text": "konumu sürekli yanlış gosteriyo evdeyken bile eve geldi bildirimi atiyo surekli sacma sapan konum paylasimi icin indiriyosaniz indirmeyin lanet bi uygulama içindeki salak bi pet var onun içinse indirmeye degmez"
-        },
-        {
-          "score": 1,
           "thumbs": 0,
           "text": "Evet konumumuzu filan görebiliyoruz ama uygulamada her şey paralı. Bazen konumu yanlış gösteriyor, geriye kalan her şey için üyelik istiyor. Üstelik bazen ödüller için reklam izlediğimizde reklamlar sayılmıyor. Bir kere izlememiz gereken reklamı sevgilim de ben de şakasız beş ker"
         },
@@ -1337,21 +2328,6 @@
           "score": 1,
           "thumbs": 0,
           "text": "It was great when I first installed it. My boyfriend and I used it with pleasure. But after the latest update, neither my boyfriend nor I can see each other's location. It is not updated. We have opened everything that needs to be opened, but it is not working. While the biggest "
-        },
-        {
-          "score": 1,
-          "thumbs": 0,
-          "text": "Evet konumumuzu filan görebiliyoruz ama uygulamada her şey paralı. Bazen konumu yanlış gösteriyor, geriye kalan her şey için üyelik istiyor. Üstelik bazen ödüller için reklam izlediğimizde reklamlar sayılmıyor. Bir kere izlememiz gereken reklamı sevgilim de ben de şakasız beş ker"
-        },
-        {
-          "score": 1,
-          "thumbs": 0,
-          "text": "herşey premium abartı şekilde ne konumu doğru gosteriyo son güncellemeden sonra daha kötü oldu uygulama iyice uygulama berbat oldu"
-        },
-        {
-          "score": 1,
-          "thumbs": 0,
-          "text": "konum bambaşka gözüküyor eskiden böyle değildi gittikçe kötü oluyor"
         }
       ],
       "refund_denied": [
@@ -1466,14 +2442,14 @@
   },
   "BR/couple": {
     "counts": {
-      "crashes_bugs": 14,
-      "too_many_ads": 5,
-      "paywall_locked": 28,
-      "location_tracking": 28,
-      "refund_denied": 4,
-      "ai_complaint": 2,
-      "inaccurate": 4,
-      "pricing_billing": 7,
+      "crashes_bugs": 11,
+      "too_many_ads": 4,
+      "paywall_locked": 23,
+      "location_tracking": 23,
+      "refund_denied": 3,
+      "ai_complaint": 1,
+      "inaccurate": 3,
+      "pricing_billing": 6,
       "support_unresponsive": 2,
       "language_gap": 1
     },
@@ -1526,23 +2502,8 @@
         },
         {
           "score": 1,
-          "thumbs": 2,
-          "text": "Em maio faz 1 ano que uso, e recentemente tem dado mais problemas que o normal. Porque, sim, ele dá muitos erros. Infelizmente, não continuarei com o aplicativo, apesar da proposta ser ótima. Não cumpre o que promete."
-        },
-        {
-          "score": 1,
           "thumbs": 1,
           "text": "muito ruim meu namorado mora perto e ele tava ala na Brasília o mapa tava bugado"
-        },
-        {
-          "score": 1,
-          "thumbs": 1,
-          "text": "muito ruim meu namorado mora perto e ele tava ala na Brasília o mapa tava bugado"
-        },
-        {
-          "score": 2,
-          "thumbs": 0,
-          "text": "legal porém disfuncional, você assiste aos anúncios pra receber ou pular as coisas e não funciona, você simplesmente perde tempo e não recebe nada"
         },
         {
           "score": 2,
@@ -1570,11 +2531,6 @@
           "score": 1,
           "thumbs": 0,
           "text": "A interface do aplicativo contém uma série de propagandas e é muito poluída, além disso a maioria das funcionalidades do aplicativo é paga, então não tem muita graça utilizar."
-        },
-        {
-          "score": 2,
-          "thumbs": 0,
-          "text": "legal porém disfuncional, você assiste aos anúncios pra receber ou pular as coisas e não funciona, você simplesmente perde tempo e não recebe nada"
         }
       ],
       "paywall_locked": [
@@ -1620,11 +2576,6 @@
         },
         {
           "score": 1,
-          "thumbs": 7,
-          "text": "Você paga o plano Premium e o app não tem localização exata. A pessoa está em movimento e mostra parada no mesmo lugar por horas e/ou dias. A pessoa está no trabalho e mostra que está em casa. Vc quem tem que colocar manualmente a localização da pessoa, nada funciona em tempo rea"
-        },
-        {
-          "score": 1,
           "thumbs": 4,
           "text": "Muito sem graça, tudo para fazer de interessante no app é pago. Se vocês vê algum vídeo na net sobre esse app não caia nessa"
         },
@@ -1660,11 +2611,6 @@
         },
         {
           "score": 1,
-          "thumbs": 3,
-          "text": "inicialmente eu gostei bastante, por isso assinei o Premium, paguei o de 1 ano, tive um problema com o meu celular e perdi o email, não consegui recuperar o Premium, mesmo estando com o plano assinado ainda, entrei até com a conta onde foi assinado o plano, mas realmente perdi, f"
-        },
-        {
-          "score": 1,
           "thumbs": 2,
           "text": "o aplicativo finge ser gratuito mas é completamente pago."
         },
@@ -1692,21 +2638,6 @@
           "score": 2,
           "thumbs": 1,
           "text": "o aplicativo seria maravilhoso se não fosse a cada clique ter que pagar. No app tudo tem que pagar, a única coisa que tinha era acompanhar pela localização, porém agora já não consigo mais."
-        },
-        {
-          "score": 2,
-          "thumbs": 1,
-          "text": "no começo tava ate bom, mais ai ficou ruim O app não está mostrando a localização em tempo real,nem porcentagem da bateria,dentre outros. mostra que a pessoa está parada sendo que a pessoa está em movimento,ta bem complicado desse jeito, é pq estou pagando o Premium."
-        },
-        {
-          "score": 1,
-          "thumbs": 0,
-          "text": "o aplicativo ta me roubando, eu decidi pagar o plano anual do segundo dia de app, pq a localização do meu marido tava desatualizada, sobre depois q ele ja tinha saido do app nesse momento e nao fui notificada. desistalei o app logo em seguida e solicitei o cancelamento mas nao qu"
-        },
-        {
-          "score": 1,
-          "thumbs": 0,
-          "text": "É pago"
         },
         {
           "score": 1,
@@ -1752,11 +2683,6 @@
         },
         {
           "score": 1,
-          "thumbs": 7,
-          "text": "Você paga o plano Premium e o app não tem localização exata. A pessoa está em movimento e mostra parada no mesmo lugar por horas e/ou dias. A pessoa está no trabalho e mostra que está em casa. Vc quem tem que colocar manualmente a localização da pessoa, nada funciona em tempo rea"
-        },
-        {
-          "score": 1,
           "thumbs": 5,
           "text": "app bom, mas ele nunca mostra a localização certa, e sempre esta bugando. O pet, pra qm paga o app eu não sei, mas pra qm n paga, ele é fútil e atrapalha a ver a tela do app com suas mensagens fúteis tbm."
         },
@@ -1789,11 +2715,6 @@
           "score": 2,
           "thumbs": 3,
           "text": "A localização no widget não mostra o mapa, não é tão útil assim. Volto assinar o premium somente quando tiver essa funcionalidade. Mostra somente se está em um local de alerta, pois o mapa é de outras ruas"
-        },
-        {
-          "score": 1,
-          "thumbs": 3,
-          "text": "mostra a localização, mas pensa em um aplicativo com poluição visual. não deixa nada agradável o uso. e uma vez o gps colocou que eu estava em outro lugar totalmente errado, causando confusão. entao não recomendo."
         },
         {
           "score": 1,
@@ -1836,16 +2757,6 @@
           "text": "The app does a great job with its main function of location sharing between couples, but the additional feature of taking care of a PET is disappointing. While it's a fun idea, the penalty for not frequently checking in to care for the PET is unnecessary and frustrating. The PET "
         },
         {
-          "score": 2,
-          "thumbs": 1,
-          "text": "no começo tava ate bom, mais ai ficou ruim O app não está mostrando a localização em tempo real,nem porcentagem da bateria,dentre outros. mostra que a pessoa está parada sendo que a pessoa está em movimento,ta bem complicado desse jeito, é pq estou pagando o Premium."
-        },
-        {
-          "score": 2,
-          "thumbs": 1,
-          "text": "ele é bem ruimzinho pra localização e também a ideia dos bichinhos que é a mais legal tem muita coisa paga"
-        },
-        {
           "score": 1,
           "thumbs": 0,
           "text": "o aplicativo ta me roubando, eu decidi pagar o plano anual do segundo dia de app, pq a localização do meu marido tava desatualizada, sobre depois q ele ja tinha saido do app nesse momento e nao fui notificada. desistalei o app logo em seguida e solicitei o cancelamento mas nao qu"
@@ -1854,11 +2765,6 @@
           "score": 2,
           "thumbs": 0,
           "text": "at first everything went well and everything was great, but now the app has done nothing with anything, the location gets terrible and even the net and everything else"
-        },
-        {
-          "score": 1,
-          "thumbs": 0,
-          "text": "o aplicativo ta me roubando, eu decidi pagar o plano anual do segundo dia de app, pq a localização do meu marido tava desatualizada, sobre depois q ele ja tinha saido do app nesse momento e nao fui notificada. desistalei o app logo em seguida e solicitei o cancelamento mas nao qu"
         }
       ],
       "refund_denied": [
@@ -1876,19 +2782,9 @@
           "score": 1,
           "thumbs": 0,
           "text": "o aplicativo ta me roubando, eu decidi pagar o plano anual do segundo dia de app, pq a localização do meu marido tava desatualizada, sobre depois q ele ja tinha saido do app nesse momento e nao fui notificada. desistalei o app logo em seguida e solicitei o cancelamento mas nao qu"
-        },
-        {
-          "score": 1,
-          "thumbs": 0,
-          "text": "o aplicativo ta me roubando, eu decidi pagar o plano anual do segundo dia de app, pq a localização do meu marido tava desatualizada, sobre depois q ele ja tinha saido do app nesse momento e nao fui notificada. desistalei o app logo em seguida e solicitei o cancelamento mas nao qu"
         }
       ],
       "ai_complaint": [
-        {
-          "score": 2,
-          "thumbs": 1,
-          "text": "no começo tava ate bom, mais ai ficou ruim O app não está mostrando a localização em tempo real,nem porcentagem da bateria,dentre outros. mostra que a pessoa está parada sendo que a pessoa está em movimento,ta bem complicado desse jeito, é pq estou pagando o Premium."
-        },
         {
           "score": 2,
           "thumbs": 1,
@@ -1900,11 +2796,6 @@
           "score": 1,
           "thumbs": 9,
           "text": "APLICATIVO SUPER FALSO! disse que dá pra desenhar na tela inicial e não dá"
-        },
-        {
-          "score": 1,
-          "thumbs": 3,
-          "text": "mostra a localização, mas pensa em um aplicativo com poluição visual. não deixa nada agradável o uso. e uma vez o gps colocou que eu estava em outro lugar totalmente errado, causando confusão. entao não recomendo."
         },
         {
           "score": 1,
@@ -1932,11 +2823,6 @@
           "score": 1,
           "thumbs": 4,
           "text": "Eu odiei, fui cobrada duas vezes sendo que não assinei! Péssimo, nem mostra com exatidão no GPS!"
-        },
-        {
-          "score": 1,
-          "thumbs": 3,
-          "text": "inicialmente eu gostei bastante, por isso assinei o Premium, paguei o de 1 ano, tive um problema com o meu celular e perdi o email, não consegui recuperar o Premium, mesmo estando com o plano assinado ainda, entrei até com a conta onde foi assinado o plano, mas realmente perdi, f"
         },
         {
           "score": 1,
@@ -1977,12 +2863,15 @@
   },
   "MX/couple": {
     "counts": {
-      "too_many_ads": 7,
-      "paywall_locked": 20,
-      "pricing_billing": 4,
-      "crashes_bugs": 9,
+      "too_many_ads": 6,
+      "paywall_locked": 53,
+      "pricing_billing": 8,
+      "crashes_bugs": 12,
       "support_unresponsive": 3,
-      "ai_complaint": 1
+      "ai_complaint": 1,
+      "refund_denied": 1,
+      "location_tracking": 2,
+      "language_gap": 1
     },
     "top_quotes": {
       "too_many_ads": [
@@ -2014,12 +2903,7 @@
         {
           "score": 1,
           "thumbs": 0,
-          "text": "horrible , en la publicidad ofrece características que no tiene al momento de usarla con mi pareja"
-        },
-        {
-          "score": 1,
-          "thumbs": 0,
-          "text": "la instalé por un anuncio y no cumple lo que promete, nunca pude poner el coso para dibujar en la pantalla de bloqueo, 0/10"
+          "text": "publicidad falsa, no da lo que promete"
         }
       ],
       "paywall_locked": [
@@ -2045,8 +2929,58 @@
         },
         {
           "score": 2,
+          "thumbs": 18,
+          "text": "Quise reemplazar life360 por esta app pq era mas del tipo pareja y eso pero la ubicación nunca es exacta mi pareja siempre llega de un lugar a otro y no muestra el camino ni si fue caminando o en auto, lo que mas me enoja es que pague el plan anual solo por algo que no sirve bien"
+        },
+        {
+          "score": 1,
+          "thumbs": 10,
+          "text": "llevo tiempo intentando comunicarme con servicio al cliente o alguien que trabaje aquí pero nada de atención pagué una suscripción de un año para que mi pareja y yo pudiéramos usar la versión premium ya que al inicio nos permitía usar la versión premium cuando yo la y ahora que l"
+        },
+        {
+          "score": 1,
+          "thumbs": 10,
+          "text": "Descubrí esta app porque mi novio maneja y eso siempre me preocupa así que pagué para tener el premium y estar tranquila. Antes ya fallaba. A cada rato tenía que entrar a actualizar mi ubicación, pero sin embargo funcionaba \"bien\", mi novio y yo recibíamos notificaciones de llega"
+        },
+        {
+          "score": 2,
           "thumbs": 8,
           "text": "en todo hay que pagar y eso se vuelve aburrido"
+        },
+        {
+          "score": 1,
+          "thumbs": 8,
+          "text": "La aplicación estaba muy bien antes de que llegase la actualización nueva. Ya no hay recompensa diaria sin tener que pagar, demás decir que las cosas están muy caras y sin esa pequeña ayuda es muy difícil tener feliz a tu mascota. Además, la aplicación tiene bugs, a veces se pill"
+        },
+        {
+          "score": 1,
+          "thumbs": 8,
+          "text": "Todas las funciones son de pago, la mascota es una función barata sólo para llamar a descargas, la aplicación se para sola en iphone aún con todos los permisos, y funciona bastante mal o lent a veces. Cualquier alternativa del mercado es mejor, incluso life360"
+        },
+        {
+          "score": 1,
+          "thumbs": 8,
+          "text": "El primer par de horas funcionar9n bien sus opciones gratis dentro de la app, pero de ayer a ahora me iestra otras ubicaciones en la distancia.. aún cuando estámls juntos con la.otra persona la muestra lejos o en movimiento...."
+        },
+        {
+          "score": 1,
+          "thumbs": 6,
+          "text": "no vale la pena pagar por lo poco que te dan, la app se traba mucho y no está bien echa es más para parejas tóxicas y en lo personal me incomoda mucho que mi pareja pueda ver bastantes datos de mi telefono, incluyendo mi ubicación en tiempo real que es algo que no se necesita, la"
+        },
+        {
+          "score": 1,
+          "thumbs": 5,
+          "text": "No es tan precisa. Dice que mi pareja y yo estamos en la casa cuando llevamos trabajando mas de 10 hrs. Ya tengo Premium y todo activado y no funciona. Espero que arreglen eso que es lo más importante ya que esa debe de ser su función. Si esto no lo arreglan en 1 mes la borro aun"
+        },
+        {
+          "score": 1,
+          "thumbs": 4,
+          "text": "no sé puede ver nada , ni ubicación ni que está haciendo ni NADA todo es premium nada que ver , hay que pagar todo , que asco de aplicación, mejor es life360 , solo pongo una estrella xq me obliga , Pero ni una estrella le doy"
+        },
+        {
+          "score": 2,
+          "thumbs": 4,
+          "text": "Estaría bien que implantarán más idiomas"
         },
         {
           "score": 1,
@@ -2057,6 +2991,21 @@
           "score": 1,
           "thumbs": 3,
           "text": "Pésima aplicación, no me gusta nada, ya me eh comunicado con ellos pero nunca responden, y me parece absurdo pagar por separado el premiun 🙄"
+        },
+        {
+          "score": 2,
+          "thumbs": 2,
+          "text": "No era lo que esperaba la verdad no puedes hacer mucho ya que todo es premium y es muy repetitivo con otras app esperaba algo más original"
+        },
+        {
+          "score": 1,
+          "thumbs": 2,
+          "text": "Si es bonito poder criar una mascota pero no me gusta que cada cosita se tiene que pagar si quieres saber algunas cosas de tu pareja se tiene que pagar"
+        },
+        {
+          "score": 1,
+          "thumbs": 2,
+          "text": "Very bad experience not even worth it those 30 dollars per year, if you haven't upgraded to premium don't do it, and even better, uninstall the app, location no accurate, the time on the location is not even right, if you downloaded this to avoid problems careful, it's gonna get "
         },
         {
           "score": 1,
@@ -2076,7 +3025,37 @@
         {
           "score": 1,
           "thumbs": 1,
-          "text": "ultimamente tiene muchos bugs, no me sale los recorridos de mi pareja y tengo premium"
+          "text": "¿Qué es eso que pagó el premium mi pareja y yo no lo tengo? ¿tenemos que pagar los 2? entonces me parece extremadamente caro"
+        },
+        {
+          "score": 2,
+          "thumbs": 1,
+          "text": "solucionen los problemas, esta horrible que todo sea tan impreciso, en especial si pagas por la versión premium, deben esforzarce más si quieren que sus consumidores no esten quejándose"
+        },
+        {
+          "score": 1,
+          "thumbs": 1,
+          "text": "No tuve una buena experiencia, mi pareja tampoco. La app solo se basa en paga, aparte de estar muy caro, te limitan demasiadas cosas que deberían ser gratis, porque eso es lo que atrae la atención de las personas."
+        },
+        {
+          "score": 1,
+          "thumbs": 1,
+          "text": "la app en si es muy buena, pero el premium es una exageración de precio y te limitan muchas cosas ⭐👎🏻"
+        },
+        {
+          "score": 2,
+          "thumbs": 1,
+          "text": "todavia no lo he probado pero espero que sea gratis"
+        },
+        {
+          "score": 1,
+          "thumbs": 1,
+          "text": "no funciona es imprecisa y cara, no la recomiendo ojalá nadie la descargue y mucho menos pague el premium (me siento estafado)"
+        },
+        {
+          "score": 1,
+          "thumbs": 1,
+          "text": "Una basura para todo toca pagar"
         },
         {
           "score": 2,
@@ -2122,6 +3101,76 @@
           "score": 1,
           "thumbs": 0,
           "text": "Pésima app, jamás muestra mi ubicación donde debería, me muestra casi 500km lejos de donde estoy, lo reporte demaciadas veces y aun así no responden, contrate el pase premium y no se corrige, estoy apunto de desisntalar y probar otras app"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "hay que pagar para usar muchas de las opciones"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "te venden la aplicación con que es gratis y que tiene todo lo que tú quieras, pero apenas terminas de inscribirte te quita todas esas opciones y te pide pagar, decepcionante."
+        },
+        {
+          "score": 2,
+          "thumbs": 0,
+          "text": "muy buena app solo q las cosas mejores estan wn premium"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "más fome, no puedes hacer nada si no teni el premium life360 es mejor"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "tiene muchi premium y no deja entrar"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "no me sirve aparte tienes que pagar por todo 😃 a menos que quieras estar pagando mejor uso mi ubicación del Google esto ,no sirve para nada no se actualiza no la recomiendo😤."
+        },
+        {
+          "score": 2,
+          "thumbs": 0,
+          "text": "consume un montón de batería y no he instalado otra cosa además de esto, para usar las funciones gratis está muy bien: la ubicación rara vez me falló pero se actualizo al momento y las historias y mensajes todo bien PERO VUELVO A REVALCALCAR: SE CHUPA LA BATERIA como si fuera agu"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "Puej no nada es gratis apagar"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "porq premium? 😭💔 pero está muy chida"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "antes la aplicación era buena pero ya las cosas que se dan gratis después de un tiempo para las mascotas ya es mucho tiempo de espera aveces tengo que esperar 3 días para poder bañarlo y mi pareja le sale lo mismo"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "Sin premium no tenes nada"
+        },
+        {
+          "score": 2,
+          "thumbs": 0,
+          "text": "todo es de pago"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "muy caro el premium"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "No está mal solo que hay que pagar para todo y plata es lo que no hay 😞"
         }
       ],
       "pricing_billing": [
@@ -2129,6 +3178,21 @@
           "score": 1,
           "thumbs": 4,
           "text": "Estoy muy molesta... Todos los finales de mes se cuelga y ahora no deja completar tareas... La verdad q decepción... Esta incluso pagado el año y no sirve 🤨 aparte d eso me quitaron todas mis monedas..."
+        },
+        {
+          "score": 1,
+          "thumbs": 1,
+          "text": "¿Qué es eso que pagó el premium mi pareja y yo no lo tengo? ¿tenemos que pagar los 2? entonces me parece extremadamente caro"
+        },
+        {
+          "score": 1,
+          "thumbs": 1,
+          "text": "No tuve una buena experiencia, mi pareja tampoco. La app solo se basa en paga, aparte de estar muy caro, te limitan demasiadas cosas que deberían ser gratis, porque eso es lo que atrae la atención de las personas."
+        },
+        {
+          "score": 1,
+          "thumbs": 1,
+          "text": "no funciona es imprecisa y cara, no la recomiendo ojalá nadie la descargue y mucho menos pague el premium (me siento estafado)"
         },
         {
           "score": 2,
@@ -2143,7 +3207,12 @@
         {
           "score": 2,
           "thumbs": 0,
-          "text": "ni pagando la suscripción sirve bien, muchos fallos de ubicación, muchos errores, me Arrepiento de haber pagado sinceramente."
+          "text": "cobra muchas cosas"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "muy caro el premium"
         }
       ],
       "crashes_bugs": [
@@ -2154,18 +3223,33 @@
         },
         {
           "score": 1,
+          "thumbs": 8,
+          "text": "La aplicación estaba muy bien antes de que llegase la actualización nueva. Ya no hay recompensa diaria sin tener que pagar, demás decir que las cosas están muy caras y sin esa pequeña ayuda es muy difícil tener feliz a tu mascota. Además, la aplicación tiene bugs, a veces se pill"
+        },
+        {
+          "score": 1,
           "thumbs": 6,
           "text": "El apartado de misiones por dados y de ver anuncios para multiplicar los dados esta bugeado, hago una tarea y me la cambian por otra o no me la cuentan, arreglen eso, asi no da gusto jugar sus eventos"
         },
         {
           "score": 1,
+          "thumbs": 5,
+          "text": "No es tan precisa. Dice que mi pareja y yo estamos en la casa cuando llevamos trabajando mas de 10 hrs. Ya tengo Premium y todo activado y no funciona. Espero que arreglen eso que es lo más importante ya que esa debe de ser su función. Si esto no lo arreglan en 1 mes la borro aun"
+        },
+        {
+          "score": 1,
+          "thumbs": 4,
+          "text": "Cuando intento abrir la aplicación, se cierra automáticamente, es la primera vez que lo descargo y ya tiene un error. Incluso me salio que la app tiene un error y que espere al desarrollador a que arregle el error. Habrá alguna manera de solucionar esto o solo me toca esperar?"
+        },
+        {
+          "score": 1,
           "thumbs": 1,
           "text": "ultimamente tiene muchos bugs, no me sale los recorridos de mi pareja y tengo premium"
         },
         {
           "score": 1,
           "thumbs": 1,
-          "text": "ultimamente tiene muchos bugs, no me sale los recorridos de mi pareja y tengo premium"
+          "text": "no funciona es imprecisa y cara, no la recomiendo ojalá nadie la descargue y mucho menos pague el premium (me siento estafado)"
         },
         {
           "score": 2,
@@ -2188,9 +3272,9 @@
           "text": "q asco de app es muy lento no te da ubicación exacta aparte pasa más 4 horas y nada no te da nada y probé con liff , liff es mejor"
         },
         {
-          "score": 2,
+          "score": 1,
           "thumbs": 0,
-          "text": "ni pagando la suscripción sirve bien, muchos fallos de ubicación, muchos errores, me Arrepiento de haber pagado sinceramente."
+          "text": "Pongo una estrella porque no se puede poner menos Que no se abre la app La instalo y le doy a abrir y no se abre y me dice que no funciona Edit: in 8/7 still not working"
         }
       ],
       "support_unresponsive": [
@@ -2215,6 +3299,32 @@
           "score": 1,
           "thumbs": 24,
           "text": "la app al principio parecía increíble, hasta compramos el premium porque valía mucho la pena, pero ahora que han pasado meses de que la tenemos da muchísimos fallos, aunque la tengas abierta y con la ubicación puesta da errores y casi siempre sale como inactivo, los horarios de d"
+        }
+      ],
+      "refund_denied": [
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "quiero cancelar suscripción"
+        }
+      ],
+      "location_tracking": [
+        {
+          "score": 1,
+          "thumbs": 3,
+          "text": "Localización y demás información que no actualiza, pésimo funcionamiento, no la recomiendo."
+        },
+        {
+          "score": 1,
+          "thumbs": 2,
+          "text": "Very bad experience not even worth it those 30 dollars per year, if you haven't upgraded to premium don't do it, and even better, uninstall the app, location no accurate, the time on the location is not even right, if you downloaded this to avoid problems careful, it's gonna get "
+        }
+      ],
+      "language_gap": [
+        {
+          "score": 2,
+          "thumbs": 4,
+          "text": "Estaría bien que implantarán más idiomas"
         }
       ]
     }
@@ -2402,12 +3512,17 @@
     "counts": {},
     "top_quotes": {}
   },
-  "ID/couple": {
+  "ID/dating": {
     "counts": {
-      "inaccurate": 1
+      "inaccurate": 2
     },
     "top_quotes": {
       "inaccurate": [
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "ga jelas, gabisa daftar, ribet banget, mana harus berbayar lagi, ga masalah bayarnya, ribet nya create new account nya itu loh, nungguin call nya sampe sejaman,"
+        },
         {
           "score": 1,
           "thumbs": 0,
@@ -2429,5 +3544,1662 @@
         }
       ]
     }
+  },
+  "BR/journaling": {
+    "counts": {},
+    "top_quotes": {}
+  },
+  "BR/meditation": {
+    "counts": {
+      "language_gap": 2,
+      "ai_complaint": 1,
+      "crashes_bugs": 3,
+      "too_many_ads": 1,
+      "paywall_locked": 1,
+      "pricing_billing": 1,
+      "refund_denied": 1
+    },
+    "top_quotes": {
+      "language_gap": [
+        {
+          "score": 1,
+          "thumbs": 5,
+          "text": "Aplicativo maravilhoso! 😀 Amando! - Edit 10/07/2025: Continuo gostando muito do aplicativo. Tenho apenas a ressalva relacionada ao conteúdo traduzido, pois notei que alguns cursos que oferecem versão em português, a tradução foi feita por IA e ficou muito ruim, robótica, faltand"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "Lengthy intro. No UI language option, only device default language. Did not bother actually using the app after this user experience."
+        }
+      ],
+      "ai_complaint": [
+        {
+          "score": 1,
+          "thumbs": 5,
+          "text": "Aplicativo maravilhoso! 😀 Amando! - Edit 10/07/2025: Continuo gostando muito do aplicativo. Tenho apenas a ressalva relacionada ao conteúdo traduzido, pois notei que alguns cursos que oferecem versão em português, a tradução foi feita por IA e ficou muito ruim, robótica, faltand"
+        }
+      ],
+      "crashes_bugs": [
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "O aplicativo fica com a tela branca depois de aparecer a frase inicial."
+        },
+        {
+          "score": 2,
+          "thumbs": 0,
+          "text": "muito lento, deveria ser mais dinâmico"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "Gostaria de solicitar o estorno de uma cobrança indevida em meu cartão. Realizei o período de teste de 7 dias entre 16 e 23 de dezembro, porém, ao tentar cancelar o serviço após esse prazo, o sistema apresentou erro. Para evitar a cobrança, cheguei a solicitar o bloqueio temporár"
+        }
+      ],
+      "too_many_ads": [
+        {
+          "score": 2,
+          "thumbs": 1,
+          "text": "O aplicativo se diz sem anúncios, mas todos os anúncios sobre as próprias funções são tão invasivos que vão na contramão da proposta de saúde mental e espiritualidade."
+        }
+      ],
+      "paywall_locked": [
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "Desinstalei o app pois não pensei q era gratuito somente por uma semana. Infelizmente, depois de responder várias perguntas é q veio a informação. É uma pena mas, no momento, não posso pagar. Obrigada."
+        }
+      ],
+      "pricing_billing": [
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "Gostaria de solicitar o estorno de uma cobrança indevida em meu cartão. Realizei o período de teste de 7 dias entre 16 e 23 de dezembro, porém, ao tentar cancelar o serviço após esse prazo, o sistema apresentou erro. Para evitar a cobrança, cheguei a solicitar o bloqueio temporár"
+        }
+      ],
+      "refund_denied": [
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "Gostaria de solicitar o estorno de uma cobrança indevida em meu cartão. Realizei o período de teste de 7 dias entre 16 e 23 de dezembro, porém, ao tentar cancelar o serviço após esse prazo, o sistema apresentou erro. Para evitar a cobrança, cheguei a solicitar o bloqueio temporár"
+        }
+      ]
+    }
+  },
+  "BR/sleep": {
+    "counts": {
+      "refund_denied": 2,
+      "ai_complaint": 1,
+      "paywall_locked": 1
+    },
+    "top_quotes": {
+      "refund_denied": [
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "Minha experiência está sendo péssima, baixei o app, vi que tinha opção de testar por 30 dias e aderi, usei por pouquíssimos dias, porque não me adaptei a usar o app e não senti vantagem em relação ao smartwatch que uso, então parei de usar, mas esqueci de fazer o cancelamento. Co"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "Nao estou conseguindo cancelar, ajuda!"
+        }
+      ],
+      "ai_complaint": [
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "Eu até gostei do app, mas pq q a maioria das coisas é pago? poxa, eu ia ver quem tava tossindo a noite, quem falou dormindo, e fala \"Tá PaGo 🤑🤑🤑\" pô, n faz sentido, pelo mns deixa o negócio de ouvir áudio de graça ou deixa um modo de premium de graça por 1 mês igual uns apps, "
+        }
+      ],
+      "paywall_locked": [
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "Eu até gostei do app, mas pq q a maioria das coisas é pago? poxa, eu ia ver quem tava tossindo a noite, quem falou dormindo, e fala \"Tá PaGo 🤑🤑🤑\" pô, n faz sentido, pelo mns deixa o negócio de ouvir áudio de graça ou deixa um modo de premium de graça por 1 mês igual uns apps, "
+        }
+      ]
+    }
+  },
+  "BR/fitness": {
+    "counts": {
+      "too_many_ads": 1
+    },
+    "top_quotes": {
+      "too_many_ads": [
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "Estou tentando registrar o treino a 1h. E só fica na propaganda e não sai.... desinstalei sem condições."
+        }
+      ]
+    }
+  },
+  "MX/journaling": {
+    "counts": {},
+    "top_quotes": {}
+  },
+  "MX/meditation": {
+    "counts": {
+      "paywall_locked": 1
+    },
+    "top_quotes": {
+      "paywall_locked": [
+        {
+          "score": 1,
+          "thumbs": 2,
+          "text": "Es la quinta vez que instalo esta app y la vuelvo a desinstalar. En mi caso, busco cursos para aprender a meditar totalmente seculares y basados en la ciencia; por desgracia, todos los que me salen son de pago. Y más de una vez, cuando empiezas con un curso gratuito, en la segund"
+        }
+      ]
+    }
+  },
+  "MX/sleep": {
+    "counts": {},
+    "top_quotes": {}
+  },
+  "MX/fitness": {
+    "counts": {},
+    "top_quotes": {}
+  },
+  "TR/journaling": {
+    "counts": {
+      "pricing_billing": 1
+    },
+    "top_quotes": {
+      "pricing_billing": [
+        {
+          "score": 2,
+          "thumbs": 0,
+          "text": "Ücretli. Vazgeçtim"
+        }
+      ]
+    }
+  },
+  "TR/meditation": {
+    "counts": {
+      "pricing_billing": 5,
+      "paywall_locked": 2,
+      "refund_denied": 2,
+      "too_many_ads": 1,
+      "support_unresponsive": 1
+    },
+    "top_quotes": {
+      "pricing_billing": [
+        {
+          "score": 1,
+          "thumbs": 7,
+          "text": "Bu yorumu biraz(aslında bayağı) gecikmeli olarak yazıyorum. 8 Haziran 2025 tarihinde bir tavsiye üzerine bu uygulamayı indirmiştim. Ücretsiz deneme sürecinden yararlanmak isterken bana göre olmadığını anladım ve üyeliğimi o gün iptal ettim. Lakin gelin görün ki 1 yıllık ücret ola"
+        },
+        {
+          "score": 1,
+          "thumbs": 4,
+          "text": "1 hafta ücretsiz dendi. 1 hafta dolmadan Google üzerinden iptal ettiğimde herhangi bir ücret iadesi olmayacağı yazdı. Sakın kanmayın. Ayrıca meditasyonlarda ses seviyesi değiştirince arka plan sesi kapanıyor, konuşma sesleri normal gelmeye devam ediyor. Çok kötü."
+        },
+        {
+          "score": 1,
+          "thumbs": 3,
+          "text": "Eğer uygulamaya para yatırmayacaksanız hiç yüklememenizi tavsiye ederim. Çünkü ücretsiz şekilde kullanabilecek hizmetler çok az. Nerdeyse her şey kilitli, yani ücretli. İçinde masallar, uyku meditasyonları, rahatlatıcı sesler gibi hizmetler var. Fakat hepsinden sadece birer tane "
+        },
+        {
+          "score": 1,
+          "thumbs": 1,
+          "text": "Ücretsiz içerikler neredeyse yok denecek kadar az. Abonelik ücreti de oldukça pahalı. Para vermeye niyetiniz yoksa hiç zahmet edip indirmeyin"
+        },
+        {
+          "score": 1,
+          "thumbs": 1,
+          "text": "bir cok meditasyon kapali büyük bir kısmı ücretliye giriyor ayip degilmi ya para vermezsek pek bir ise yaramiyor uygulama, tamam elbet ki emek vardir ama bu kadari fazla yani resmen ucretsiz olanlari sanki ayip olmasin diye oylesine açık tutulmuş gibi"
+        }
+      ],
+      "paywall_locked": [
+        {
+          "score": 1,
+          "thumbs": 4,
+          "text": "1 hafta ücretsiz dendi. 1 hafta dolmadan Google üzerinden iptal ettiğimde herhangi bir ücret iadesi olmayacağı yazdı. Sakın kanmayın. Ayrıca meditasyonlarda ses seviyesi değiştirince arka plan sesi kapanıyor, konuşma sesleri normal gelmeye devam ediyor. Çok kötü."
+        },
+        {
+          "score": 1,
+          "thumbs": 3,
+          "text": "Eğer uygulamaya para yatırmayacaksanız hiç yüklememenizi tavsiye ederim. Çünkü ücretsiz şekilde kullanabilecek hizmetler çok az. Nerdeyse her şey kilitli, yani ücretli. İçinde masallar, uyku meditasyonları, rahatlatıcı sesler gibi hizmetler var. Fakat hepsinden sadece birer tane "
+        }
+      ],
+      "refund_denied": [
+        {
+          "score": 1,
+          "thumbs": 7,
+          "text": "Bu yorumu biraz(aslında bayağı) gecikmeli olarak yazıyorum. 8 Haziran 2025 tarihinde bir tavsiye üzerine bu uygulamayı indirmiştim. Ücretsiz deneme sürecinden yararlanmak isterken bana göre olmadığını anladım ve üyeliğimi o gün iptal ettim. Lakin gelin görün ki 1 yıllık ücret ola"
+        },
+        {
+          "score": 1,
+          "thumbs": 4,
+          "text": "1 hafta ücretsiz dendi. 1 hafta dolmadan Google üzerinden iptal ettiğimde herhangi bir ücret iadesi olmayacağı yazdı. Sakın kanmayın. Ayrıca meditasyonlarda ses seviyesi değiştirince arka plan sesi kapanıyor, konuşma sesleri normal gelmeye devam ediyor. Çok kötü."
+        }
+      ],
+      "too_many_ads": [
+        {
+          "score": 2,
+          "thumbs": 2,
+          "text": "son zamanlarda reklam ve bildirimlerde sürekli zorla satın almaya yönlendirmesi, uygulamanın ortaya çıkış amacıyla çelişiyor"
+        }
+      ],
+      "support_unresponsive": [
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "Her şeyi paralı yapmış kapitalist o'lar. Güya mentali destekleyecek. Streslisiniz ve dinlendirici ses mi açmak istiyorsunuz? ÖNCE PARA ÖDEYİN."
+        }
+      ]
+    }
+  },
+  "TR/sleep": {
+    "counts": {
+      "language_gap": 7,
+      "support_unresponsive": 1,
+      "paywall_locked": 1,
+      "pricing_billing": 2,
+      "refund_denied": 1
+    },
+    "top_quotes": {
+      "language_gap": [
+        {
+          "score": 1,
+          "thumbs": 11,
+          "text": "Uygulama IOS işletim sisteminde Türkçe ama Android de bir türlü Türkçe olmadığı için 1 yıl önce üyeliği iptal etmiştim ve halen de Türkçe dilinde yapmamak için uğraşmıyorlar ! Türkçe dilimde hizmet vermediğiniz sürece para asla vermeyeceğim ! Tüm insanları uyarıyorum Türkçe'ye sa"
+        },
+        {
+          "score": 2,
+          "thumbs": 7,
+          "text": "Apple ile müthiş uyumluydu. Samsung telefonda ne Healt uygulamasına veri giriyor ne de türkçe. Belli ki geliştirici de apple kullanıyor. Senelik üyeliğim bitince devam ettirmeyeceğim. En azından bu problemlerin çözüldüğünden emin olana kadar."
+        },
+        {
+          "score": 1,
+          "thumbs": 5,
+          "text": "Neden Türkçe dil desteği yok?"
+        },
+        {
+          "score": 1,
+          "thumbs": 5,
+          "text": "İlk gece için berbat Türkçe dil desteği de yok zaten"
+        },
+        {
+          "score": 1,
+          "thumbs": 4,
+          "text": "Türkçe dil desteği yok"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "Türkçe dil desteği yok??"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "Hello, I am using the Sleep Cycle app on Android and really like it. However, there is no Turkish language option. Could you please add Turkish language support in future updates? Thank you."
+        }
+      ],
+      "support_unresponsive": [
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "Hello, I am using the Sleep Cycle app on Android and really like it. However, there is no Turkish language option. Could you please add Turkish language support in future updates? Thank you."
+        }
+      ],
+      "paywall_locked": [
+        {
+          "score": 2,
+          "thumbs": 0,
+          "text": "Wear OS'da bir uygulama açınca hemen bu uygulama tetiklenip öne geçiyor. Premium aldım diye silmiyorum da ama sinir bozuyor. Bir işe de yaramıyor. Horlama takibini zaten Samsung Health yapıyordu, uygulamada bu öneriliyor diye ve akıllı alarm için aldım fakat anlamsız bir uygulama"
+        }
+      ],
+      "pricing_billing": [
+        {
+          "score": 1,
+          "thumbs": 11,
+          "text": "Uygulama IOS işletim sisteminde Türkçe ama Android de bir türlü Türkçe olmadığı için 1 yıl önce üyeliği iptal etmiştim ve halen de Türkçe dilinde yapmamak için uğraşmıyorlar ! Türkçe dilimde hizmet vermediğiniz sürece para asla vermeyeceğim ! Tüm insanları uyarıyorum Türkçe'ye sa"
+        },
+        {
+          "score": 2,
+          "thumbs": 7,
+          "text": "Apple ile müthiş uyumluydu. Samsung telefonda ne Healt uygulamasına veri giriyor ne de türkçe. Belli ki geliştirici de apple kullanıyor. Senelik üyeliğim bitince devam ettirmeyeceğim. En azından bu problemlerin çözüldüğünden emin olana kadar."
+        }
+      ],
+      "refund_denied": [
+        {
+          "score": 1,
+          "thumbs": 11,
+          "text": "Uygulama IOS işletim sisteminde Türkçe ama Android de bir türlü Türkçe olmadığı için 1 yıl önce üyeliği iptal etmiştim ve halen de Türkçe dilinde yapmamak için uğraşmıyorlar ! Türkçe dilimde hizmet vermediğiniz sürece para asla vermeyeceğim ! Tüm insanları uyarıyorum Türkçe'ye sa"
+        }
+      ]
+    }
+  },
+  "TR/fitness": {
+    "counts": {
+      "crashes_bugs": 1,
+      "inaccurate": 1,
+      "refund_denied": 1
+    },
+    "top_quotes": {
+      "crashes_bugs": [
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "Kardeşim yorumumu inşAllah dikkate alırsın. Dün sporumun 2. günüydü ve akşam saatlerinde sağ bacağımda bir anda feci bir ağrı belirdi. Uzun zamandır çalışmıyorum ve hâliyle ham olduğum için istedim ki evde spor yapayım, canlı kalayım. Ancak dün akşam yaşadığım şey beni mahvetti d"
+        }
+      ],
+      "inaccurate": [
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "yanlışlıkla abonelik ödedim deneme süresi içersinde iptal etmek için girdim uygulama içersinde abonelik iptali için bişey yok"
+        }
+      ],
+      "refund_denied": [
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "yanlışlıkla abonelik ödedim deneme süresi içersinde iptal etmek için girdim uygulama içersinde abonelik iptali için bişey yok"
+        }
+      ]
+    }
+  },
+  "ID/journaling": {
+    "counts": {},
+    "top_quotes": {}
+  },
+  "ID/meditation": {
+    "counts": {
+      "pricing_billing": 2,
+      "paywall_locked": 1
+    },
+    "top_quotes": {
+      "pricing_billing": [
+        {
+          "score": 1,
+          "thumbs": 22,
+          "text": "Saya membatalkan berlangganan melalui google tapi ternyata tidak bisa. Padahal saya coba 7 hari dan tidak cocok dg programnya"
+        },
+        {
+          "score": 2,
+          "thumbs": 17,
+          "text": "Saya membatalkan uji coba gratis tapi tidak bisa.lalu bagaimana caranya? Sedangkan di daftar berlangganan juga tidak ada"
+        }
+      ],
+      "paywall_locked": [
+        {
+          "score": 2,
+          "thumbs": 17,
+          "text": "Saya membatalkan uji coba gratis tapi tidak bisa.lalu bagaimana caranya? Sedangkan di daftar berlangganan juga tidak ada"
+        }
+      ]
+    }
+  },
+  "ID/sleep": {
+    "counts": {},
+    "top_quotes": {}
+  },
+  "ID/fitness": {
+    "counts": {
+      "too_many_ads": 2
+    },
+    "top_quotes": {
+      "too_many_ads": [
+        {
+          "score": 2,
+          "thumbs": 0,
+          "text": "tolong lah itu iklan nya kok memancing hasrat mulu"
+        },
+        {
+          "score": 2,
+          "thumbs": 0,
+          "text": "setiap pertengahan ada ikland"
+        }
+      ]
+    }
+  },
+  "VN/astrology": {
+    "counts": {
+      "ai_complaint": 2
+    },
+    "top_quotes": {
+      "ai_complaint": [
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "Bài luận vừa đọc là đã thấy sai, chỉ ai ko rành thì ms bị bịp, biết coi sơ sơ đọc qua để ý là sẽ pik app này luận ko đúng"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "Cái này chưa đủ trình 1/10 với con ChatGPT, bởi vì ChatGPT bảo rằng KHÔNG TIỀN LẤY GÌ SO TỬ VI?"
+        }
+      ]
+    }
+  },
+  "VN/tarot": {
+    "counts": {},
+    "top_quotes": {}
+  },
+  "VN/manifestation": {
+    "counts": {},
+    "top_quotes": {}
+  },
+  "VN/selfcare": {
+    "counts": {},
+    "top_quotes": {}
+  },
+  "VN/couple": {
+    "counts": {},
+    "top_quotes": {}
+  },
+  "PH/astrology": {
+    "counts": {
+      "inaccurate": 1,
+      "crashes_bugs": 1
+    },
+    "top_quotes": {
+      "inaccurate": [
+        {
+          "score": 1,
+          "thumbs": 1,
+          "text": "horoscopes are very inaccurate lol Thai doesn't give u your horoscope it tells you what you wanna hear"
+        }
+      ],
+      "crashes_bugs": [
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "app crashes"
+        }
+      ]
+    }
+  },
+  "PH/tarot": {
+    "counts": {
+      "refund_denied": 1
+    },
+    "top_quotes": {
+      "refund_denied": [
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "TOOK MY MONEY AND DIDNT GIVE ME MY COINS... SOMEONE PLEASE REACH OUT TO ME.. SO I CAN EITHER GET MY COINS.. OR GIVE ME A REFUND... THIS TERRIBLE FOR THE CONSUMERS!! Scammers"
+        }
+      ]
+    }
+  },
+  "PH/manifestation": {
+    "counts": {
+      "crashes_bugs": 1,
+      "too_many_ads": 1
+    },
+    "top_quotes": {
+      "crashes_bugs": [
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "Every time I open the app, a connection error occurs."
+        }
+      ],
+      "too_many_ads": [
+        {
+          "score": 1,
+          "thumbs": 3,
+          "text": "This app is just a showcase, it does not work actually. I installed it but had to get it off because of its lack of response and overburdened ads."
+        }
+      ]
+    }
+  },
+  "PH/selfcare": {
+    "counts": {
+      "crashes_bugs": 1,
+      "paywall_locked": 1,
+      "too_many_ads": 2,
+      "pricing_billing": 1
+    },
+    "top_quotes": {
+      "crashes_bugs": [
+        {
+          "score": 1,
+          "thumbs": 3,
+          "text": "After new update. Still getting the same \"App Not Responding\" message and having to close app over and over. Keeps crashing. Very slow, glitchy and I don't notice any difference."
+        }
+      ],
+      "paywall_locked": [
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "Trying to hard sell me a 50% on premium offer within the first 5 minutes of opening the app for the first time, before I have had any chance of actually using it, and with the threat that the offer will disappear once I close the offer screen is a scumbag business practice and I "
+        }
+      ],
+      "too_many_ads": [
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "it's probably a good app if you need help with getting easy stuff done but the ad made it look like it would keep me doing a good workout routine then after I downloaded and made an account its more for things like getting out of bed and brushing my teeth which I don't struggle t"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "useless application 👇☠️💀 only ads work every 20 seconds with other loan apps ☠️👇 don't waste your time"
+        }
+      ],
+      "pricing_billing": [
+        {
+          "score": 1,
+          "thumbs": 1,
+          "text": "this app charged me 75$ for a year subscription. I got a new phone and had to redownload the app only to find that my subscription that I paid for is no longer active, and it certainly hasn't been a full year since I purchased it. absolute scam."
+        }
+      ]
+    }
+  },
+  "PH/couple": {
+    "counts": {
+      "crashes_bugs": 1,
+      "paywall_locked": 1
+    },
+    "top_quotes": {
+      "crashes_bugs": [
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "unable to register tried for 2 days I get to the stage after email register to choose password ot then says network error"
+        }
+      ],
+      "paywall_locked": [
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "very poor app . pls don't waste time and especially do not purchase Premium version as money will get debited but you won't receive the version."
+        }
+      ]
+    }
+  },
+  "BR/recipes": {
+    "counts": {
+      "paywall_locked": 1
+    },
+    "top_quotes": {
+      "paywall_locked": [
+        {
+          "score": 1,
+          "thumbs": 1,
+          "text": "dou 1 estrela , pois é para pagar, tenho pena, mas instalei e quando vi, desinstalei, não pretendo pagar"
+        }
+      ]
+    }
+  },
+  "BR/photo_editing": {
+    "counts": {},
+    "top_quotes": {}
+  },
+  "BR/video_editing": {
+    "counts": {
+      "paywall_locked": 5,
+      "crashes_bugs": 3,
+      "refund_denied": 1,
+      "ai_complaint": 1
+    },
+    "top_quotes": {
+      "paywall_locked": [
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "N INSTALA MANO, É SIMPLISMENTE INÚTIL PQ TUDO TEM Q PAGAR!!! PRA VC TER UMA NOÇÃO TEM Q PAGAR ATÉ PRA COLOCAR VOZ, COLOCAR IMAGEM POR CIMA E SO TEM COMO GRAVAR ÁUDIO ATÉ 3 VEZES VC TEM Q PAGAR PRA COLOCAR MAIS. EU TE ODEIO CAPCUT! EU QUERIA NEM DAR ESTRELA"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "eu simplesmente não consigo cancelar o plano standart no samsung!!! péssimo, travado, tudo tem que pagar, não recomendo de jeito nenhum!!!!"
+        },
+        {
+          "score": 2,
+          "thumbs": 0,
+          "text": "tem que pagar muita coisa, mas o desempenho do aplicativo é mais o menos"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "APLICATIVO RUIM mano o aplicativo é bom mas tem que pagar quase tudo como que eu vou fazer uma edição boa sendo que eu preciso dois recursos pro O capcut acha que todo mundo tem dinheiro e ele e o pior aplicativo para edição o pior que eu só sei editar nele APLICATIVO GANANCIOSO"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "pq eu tenho que pagar pra exportar um vídeo na qualidade que eu gravei? rebanho de passa fome"
+        }
+      ],
+      "crashes_bugs": [
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "Péssimo, instalei, e coloquei três vídeos para editar ficaram compactando, depois simplesmente não acontecia nada os vídeos não apareciam pra mim editar, desinstalei e instalei novamente e mesmo assim o erro persiste. Uma perda de tempo"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "eu simplesmente não consigo cancelar o plano standart no samsung!!! péssimo, travado, tudo tem que pagar, não recomendo de jeito nenhum!!!!"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "travado demais!!! nao consigo terminar um video, ele fecha sozinho!"
+        }
+      ],
+      "refund_denied": [
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "eu simplesmente não consigo cancelar o plano standart no samsung!!! péssimo, travado, tudo tem que pagar, não recomendo de jeito nenhum!!!!"
+        }
+      ],
+      "ai_complaint": [
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "horrível, essa IA tá ficando cada dia Mas, mas burra não sabe fazer nada ainda passa as coisas errada par gente não abaixa"
+        }
+      ]
+    }
+  },
+  "BR/kids": {
+    "counts": {
+      "pricing_billing": 1,
+      "support_unresponsive": 1,
+      "language_gap": 1,
+      "crashes_bugs": 1,
+      "refund_denied": 1,
+      "paywall_locked": 1
+    },
+    "top_quotes": {
+      "pricing_billing": [
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "Renovei a assinatura e fui roubada! Cobraram DUAS vezes no mesmo dia pela assinatura e não consigo contato com o suporte pra pedir a devolução!!"
+        }
+      ],
+      "support_unresponsive": [
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "Renovei a assinatura e fui roubada! Cobraram DUAS vezes no mesmo dia pela assinatura e não consigo contato com o suporte pra pedir a devolução!!"
+        }
+      ],
+      "language_gap": [
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "Não está traduzido para português"
+        }
+      ],
+      "crashes_bugs": [
+        {
+          "score": 1,
+          "thumbs": 2,
+          "text": "Minha filha de 3 anos liberou todos os jogos acidentalmente. Não há informações de compra ou assinaturas visíveis nos menus do app. Solicito verificação de transações e, se houver, o cancelamento e estorno imediato. O app carece de travas de segurança infantil e de um painel de g"
+        }
+      ],
+      "refund_denied": [
+        {
+          "score": 1,
+          "thumbs": 2,
+          "text": "Minha filha de 3 anos liberou todos os jogos acidentalmente. Não há informações de compra ou assinaturas visíveis nos menus do app. Solicito verificação de transações e, se houver, o cancelamento e estorno imediato. O app carece de travas de segurança infantil e de um painel de g"
+        }
+      ],
+      "paywall_locked": [
+        {
+          "score": 1,
+          "thumbs": 1,
+          "text": "procuro um jogo que possa pagar e usufruir... não pretendo pagar um fortuna numa subscrição. não vale o valor pedido"
+        }
+      ]
+    }
+  },
+  "BR/finance": {
+    "counts": {
+      "paywall_locked": 2,
+      "crashes_bugs": 6,
+      "too_many_ads": 1,
+      "pricing_billing": 1
+    },
+    "top_quotes": {
+      "paywall_locked": [
+        {
+          "score": 1,
+          "thumbs": 1,
+          "text": "usei vários anos e era ótimo, porém nos últimos anos decaiu muito e qualquer app de 5 conto da de 10 a 0 nele, open finance não funciona direito, não salva modelos de lançamentos mas categorias, basicamente se usar planilha do Excel você economiza e tem a mesma coisa, obs: paguei"
+        },
+        {
+          "score": 2,
+          "thumbs": 0,
+          "text": "iniciei o uso hoje aparentemente é OK só alguns bancos que a gente não consegue incluir por exemplo o banco Sicoob, tbm não atualiza conforme o uso. mesmo usando o Premium."
+        }
+      ],
+      "crashes_bugs": [
+        {
+          "score": 2,
+          "thumbs": 1,
+          "text": "sempre dá bug. ele não abre, não dá pra lançar os dados"
+        },
+        {
+          "score": 1,
+          "thumbs": 1,
+          "text": "Aplicativo péssimo, trava entre 16 a 18% no momento que abre o aplicativo para carregar as informações, depois se sair do sistema ele abre com os valores incorretos, tenho o aplicativo a vários anos, mas o aplicativo piorou muito."
+        },
+        {
+          "score": 1,
+          "thumbs": 1,
+          "text": "usei vários anos e era ótimo, porém nos últimos anos decaiu muito e qualquer app de 5 conto da de 10 a 0 nele, open finance não funciona direito, não salva modelos de lançamentos mas categorias, basicamente se usar planilha do Excel você economiza e tem a mesma coisa, obs: paguei"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "infelizmente contratei o app por 1 ano para me ajudar nas finanças pessoas porém a funcionalidade de sincronizar os dados do app com as do banco não funcionaram , abri chamado porém não conseguem resolver, precisei usar outro app"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "muitooo ruim!!! bugado"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "horrível não funciona a open finance abre chamado não tem retorno"
+        }
+      ],
+      "too_many_ads": [
+        {
+          "score": 2,
+          "thumbs": 0,
+          "text": "o app é ótimo e muito útil, o layout é bonito e bem organizado, mas após a última atualização com acréscimo de anúncios (o que nem foi o problema maior, e sim a limitação de transações que podem ser registradas.) agora o app já deixa de ser a comodidade que eu já fazia manualment"
+        }
+      ],
+      "pricing_billing": [
+        {
+          "score": 1,
+          "thumbs": 1,
+          "text": "usei vários anos e era ótimo, porém nos últimos anos decaiu muito e qualquer app de 5 conto da de 10 a 0 nele, open finance não funciona direito, não salva modelos de lançamentos mas categorias, basicamente se usar planilha do Excel você economiza e tem a mesma coisa, obs: paguei"
+        }
+      ]
+    }
+  },
+  "BR/dating": {
+    "counts": {
+      "pricing_billing": 2,
+      "paywall_locked": 1,
+      "support_unresponsive": 1
+    },
+    "top_quotes": {
+      "pricing_billing": [
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "é um absurdo o aplicativo cobrar você pra ouvir áudio eu não digo 2° chances de encontro e procurar perfis específicos mas pra ouvir áudio você ter que comprar pacote pra ser Premium deixou de ser um app acessível pra ser um pay to win"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "pra tudo que faz cobra moedas e pra você conseguir mais tem que assistir vídeos ou seguir o app ou baixar outro app ou completar algumas informações. acaba sendo frustante vc ter que conseguir recompensas pra conversar com alguém."
+        }
+      ],
+      "paywall_locked": [
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "é um absurdo o aplicativo cobrar você pra ouvir áudio eu não digo 2° chances de encontro e procurar perfis específicos mas pra ouvir áudio você ter que comprar pacote pra ser Premium deixou de ser um app acessível pra ser um pay to win"
+        }
+      ],
+      "support_unresponsive": [
+        {
+          "score": 1,
+          "thumbs": 1,
+          "text": "app horrível eu fui banido sem ter feito nada busco apenas amizades , tem homens que usam fotos e mensagens indecentes e nada acontece com eles . mando mensagem ao suporte e eles não resolvem. nota 0"
+        }
+      ]
+    }
+  },
+  "BR/language": {
+    "counts": {
+      "too_many_ads": 3,
+      "paywall_locked": 3,
+      "crashes_bugs": 1,
+      "ai_complaint": 1
+    },
+    "top_quotes": {
+      "too_many_ads": [
+        {
+          "score": 1,
+          "thumbs": 48,
+          "text": "Se pudesse eu dava zero. Gosto do app e entendo que os anúncios são necessários pra manter a opção gratuita, mas acredito que chegou naquele ponto em que fica bem cansativo. O tempo todo te empurram o plano pago ou te fazem assistir ainda mais propagandas. Cada vez mais os anúnci"
+        },
+        {
+          "score": 2,
+          "thumbs": 1,
+          "text": "Duolingo já foi bom uso desde 2021 e esse trem de recarregar energia tá um saco vou desinstalar só atrasa o estudo da gente. esses anúncios só perde usuário e toda vez que vejo tomo ódio do produto anunciado e do aplicativo usado. acaba fazendo a gente perder tempo, é muito ruim "
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "Eu vou para de usar esse app, estão apelando para a gente ter que assinar. Agora, tem que ver um monte de Ads para ter força máxima, pois reduziram para 3 por ads."
+        }
+      ],
+      "paywall_locked": [
+        {
+          "score": 1,
+          "thumbs": 48,
+          "text": "Se pudesse eu dava zero. Gosto do app e entendo que os anúncios são necessários pra manter a opção gratuita, mas acredito que chegou naquele ponto em que fica bem cansativo. O tempo todo te empurram o plano pago ou te fazem assistir ainda mais propagandas. Cada vez mais os anúnci"
+        },
+        {
+          "score": 2,
+          "thumbs": 0,
+          "text": "Esse sistema de energia é uma falta de respeito, querem obrigar as pessoas a comprarem o premium de todo jeito."
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "Completo lixo. mercenários utilizam vozes de inteligência artificial e ainda por cima dificultam a vida de quem não quer pagar"
+        }
+      ],
+      "crashes_bugs": [
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "Ultimamente estou enfrentando um bug onde ao fazer algumas lições, o botão de \"confirmar resposta\" desaparece e tenho que reiniciar o APP para refazer a lição. Estou com esse bug desde fevereiro"
+        }
+      ],
+      "ai_complaint": [
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "Completo lixo. mercenários utilizam vozes de inteligência artificial e ainda por cima dificultam a vida de quem não quer pagar"
+        }
+      ]
+    }
+  },
+  "BR/quiz": {
+    "counts": {
+      "too_many_ads": 10,
+      "pricing_billing": 1,
+      "crashes_bugs": 2
+    },
+    "top_quotes": {
+      "too_many_ads": [
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "O jogo é ótimo, porém os anúncios são longos e induzem a entrar na playstore. infelizmente vou deletar."
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "propagandas longuíssimas! aproveitem melhor o tempo de vocês!!!"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "horrível, já foi bom.. só propaganda, não dá pra jogar em paz"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "anúncio até na alma"
+        },
+        {
+          "score": 2,
+          "thumbs": 0,
+          "text": "muito anúncio, não dá pra jogar sem ter a versão paga (caro)"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "poxa tá complicado a quantidade de anúncios. eu jogava esse jogo quando eu era criança, eu reinstalei o jogo porque tinha boas recordações dele mas com essa quantidade de anúncios qualquer um perde o interesse o que é uma pena porque eu queria muito continuar jogando mas desse je"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "O aplicativo tá com tanto anúncio que se torna chato jogar. As propagandas aparecem em todos os erros. Insuportável! A mensalidade também é cara."
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "Estou dando uma estrela pois não posso dar zero, jogo bem projetado, perguntas boas, porém a cada uma rodada são 450 mil anúncios, não dá para jogar em paz, se eu instalei esse jogo é porque eu quero jogar só ele e não ficar vendo sobre mais 50 jogos, e graças a esses anúncios, e"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "muito anúncio, ficou chato jogar"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "muita propaganda, mais propaganda de tigrinho do que o jogo em si."
+        }
+      ],
+      "pricing_billing": [
+        {
+          "score": 2,
+          "thumbs": 0,
+          "text": "muito anúncio, não dá pra jogar sem ter a versão paga (caro)"
+        }
+      ],
+      "crashes_bugs": [
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "O aplicativo tá com tanto anúncio que se torna chato jogar. As propagandas aparecem em todos os erros. Insuportável! A mensalidade também é cara."
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "Precisa de energia para jogar. Isso interrompe a disputa no jogo. Não vale a pena."
+        }
+      ]
+    }
+  },
+  "MX/recipes": {
+    "counts": {},
+    "top_quotes": {}
+  },
+  "MX/photo_editing": {
+    "counts": {},
+    "top_quotes": {}
+  },
+  "MX/video_editing": {
+    "counts": {},
+    "top_quotes": {}
+  },
+  "MX/kids": {
+    "counts": {
+      "language_gap": 1
+    },
+    "top_quotes": {
+      "language_gap": [
+        {
+          "score": 1,
+          "thumbs": 1,
+          "text": "porque no ponen ke está en inglés"
+        }
+      ]
+    }
+  },
+  "MX/finance": {
+    "counts": {},
+    "top_quotes": {}
+  },
+  "MX/dating": {
+    "counts": {
+      "pricing_billing": 1,
+      "support_unresponsive": 1,
+      "crashes_bugs": 1,
+      "refund_denied": 1
+    },
+    "top_quotes": {
+      "pricing_billing": [
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "me han cobrado 2 meses seguido tunder y no hay como eliminar la suscripción. no me aparece en ningun aplataforma y nisiquiera me deja ocuparla. Lo peor es que no hay a quien reclamarle es un robo."
+        }
+      ],
+      "support_unresponsive": [
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "terrible experiencia con soporte. te contestan automáticamente en loop pidiéndote las mismas pruebas que les acabas de aportar en el mail anterior."
+        }
+      ],
+      "crashes_bugs": [
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "no me deja comprar la suscripción golden me sale error"
+        }
+      ],
+      "refund_denied": [
+        {
+          "score": 1,
+          "thumbs": 1,
+          "text": "No para de salirme el mensaje de unirme a Tinder U aunque lo he cancelado un millón de veces."
+        }
+      ]
+    }
+  },
+  "MX/language": {
+    "counts": {
+      "crashes_bugs": 1,
+      "too_many_ads": 1
+    },
+    "top_quotes": {
+      "crashes_bugs": [
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "No funciona correctamente, muchas veces no puedes avanzar porque los botones de siguiente desaparecen y tienes que cerrar la app, eso hizo que cortara mi racha"
+        }
+      ],
+      "too_many_ads": [
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "No me gustó el que reducieran las vidas a 3 de 5 por anuncio. 🙃 De por si perdía hasta 15 minutos pero jamás me molestó hasta ahora, perderé más tiempo. Prefiero dejar de usar app."
+        }
+      ]
+    }
+  },
+  "MX/quiz": {
+    "counts": {
+      "too_many_ads": 6,
+      "pricing_billing": 1
+    },
+    "top_quotes": {
+      "too_many_ads": [
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "MILES DE ANUNCIOS!! desinstalo"
+        },
+        {
+          "score": 2,
+          "thumbs": 0,
+          "text": "El juego esta muy bien, pero tiene tanta publicidad excesiva que no se puede jugar. pasas más tiempo pasando anuncios que jugando"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "Anuncios perjudican"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "Demasiados anuncios, impertinentes."
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "4 anuncios y pesados por página a resolver"
+        },
+        {
+          "score": 2,
+          "thumbs": 0,
+          "text": "Es muy cansino ver después de cada respuesta cuántas personas han acertado la pregunta con anterioridad o que te pregunten si te ha gustado o no la pregunta formulada. Al margen hay un exceso de anuncios constante."
+        }
+      ],
+      "pricing_billing": [
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "estafa!!! no es un juego!!! no se abre ni se inicia"
+        }
+      ]
+    }
+  },
+  "TR/recipes": {
+    "counts": {
+      "too_many_ads": 10,
+      "pricing_billing": 1
+    },
+    "top_quotes": {
+      "too_many_ads": [
+        {
+          "score": 1,
+          "thumbs": 20,
+          "text": "Gğncelliyorum: reklamlarınızdan bıktım ve sildim. Diğer yemek uygulamasını yükledim son derece de memnunum. Uygulama çok güzel yeni yemek yapmaya başladığım için çok işime yaradı. Ama sürekli güncellememe rağmen hala tarif izlerken ya da okurken programın bir önceki menüye dönmes"
+        },
+        {
+          "score": 1,
+          "thumbs": 5,
+          "text": "altı üstü program yaptınız diye bu kadar reklami gözümüze sokup sonra bir daha hiçbir şekilde kaybolmayan reklam göstermek nedir? tarife gecemiyirum. reklamdan uygulamayı kullanamıyorum sürekli uygulamayı kapatıp açmak istemiyorum. başka yemek tarifi yygulamasi bakmak zorundayım."
+        },
+        {
+          "score": 1,
+          "thumbs": 5,
+          "text": "her tarif sonrası reklam girmeye başladığı için siliyorum uygulamayı. Daha alternatif uygulamalar var. bu kadar reklamlı bir uygulamaya girmek istemiyorum artık"
+        },
+        {
+          "score": 1,
+          "thumbs": 1,
+          "text": "Reklamın biri bitiyor biri başlıyor artık. Uzun süredir keyifle kullanıyordum. Ama vedalaşma vakti"
+        },
+        {
+          "score": 2,
+          "thumbs": 0,
+          "text": "Çok severek yıllardır kullandığım uygulamayı son 1 yıldır aşırı uzun reklamlar yüzünden kullanamaz hale geldik. Basit bir tarif için bile 10 dakika iyun reklamı izlemek zorunda kalıyorsun. 👎"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "Artık reklamlar yüzünden kullanamaz olduk"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "İNTERNETTEN BAKARKEN 1 REKLAM YOK. UYGULAMADA SÜREKLİ REKLAM. ATLAMADAN KENDİ KENDİNE YENİ SAYFA AÇIYOR. KESİNLİKLE GEREKSİZ UYGULAMA...!!!"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "Hadi reklam çıkıyor anladık ama çıkan reklamdaki uygulamayı otomatik telefona yüklüyor. Bu nasıl bir saçmalık?"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "Video başlamadan Reklam başlıyor üstelik reklam geçilmiyor indirdiğim gibi ışık hızında sildim"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "Reklam kısmında istemediğim halde ya play store ye ya da uygulamaya yönlendiriyor. 3 kuruş icin yaptığınıza bakın."
+        }
+      ],
+      "pricing_billing": [
+        {
+          "score": 1,
+          "thumbs": 20,
+          "text": "Gğncelliyorum: reklamlarınızdan bıktım ve sildim. Diğer yemek uygulamasını yükledim son derece de memnunum. Uygulama çok güzel yeni yemek yapmaya başladığım için çok işime yaradı. Ama sürekli güncellememe rağmen hala tarif izlerken ya da okurken programın bir önceki menüye dönmes"
+        }
+      ]
+    }
+  },
+  "TR/photo_editing": {
+    "counts": {
+      "pricing_billing": 4,
+      "too_many_ads": 1,
+      "support_unresponsive": 1
+    },
+    "top_quotes": {
+      "pricing_billing": [
+        {
+          "score": 1,
+          "thumbs": 5,
+          "text": "deneme sürecinde kullanabiliyodum uygulamayı satın aldıktan sonra güncellendi ve hiçbir fotoğrafı tamamlamıyo sürekli görselnoluşturma aşamasında kalıyo. ücretsiz olan uygulamalardan daha berbat halde aşırı yavaş hatta çalışmıyo"
+        },
+        {
+          "score": 1,
+          "thumbs": 1,
+          "text": "ücretsiz olsa çok iyi bir uygulama ama deyil hemen paralı sürümünü indir diyor"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "ücretli ücretsiz hiç bişey yapamıyorsunuz"
+        },
+        {
+          "score": 2,
+          "thumbs": 0,
+          "text": "Merhabalar bu programı yıllardır kullanıyorum pro üyeliğim var ancak son güncellemelerde görüyorum ki sistem çok karışmış. Basit ve anlaşılır durumundan çıkmış. Daha önce yaptıklarımı şuan yapamıyorum. Yerlerini ben mi bulamadım kaldırıldı mı anlayamıyorum da."
+        }
+      ],
+      "too_many_ads": [
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "çok reklamcı"
+        }
+      ],
+      "support_unresponsive": [
+        {
+          "score": 1,
+          "thumbs": 22,
+          "text": "Destek ekibi sayfanız yüklenmedi hatasi veriyor. Eski pro uyeligimi 1 ay kullanmadan 1 yıllık ödemem oldu max a yukselttim ve pro uyeligimin ucret iadesi yapilacagi belirtildi ancak google play bunu onaylamiyor. Ben zaten su an max a yukselttim eski uyelik pro ve o kullanilmiyor "
+        }
+      ]
+    }
+  },
+  "TR/video_editing": {
+    "counts": {
+      "crashes_bugs": 1
+    },
+    "top_quotes": {
+      "crashes_bugs": [
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "Telefon da kullandığım Yapı Kredi, Banka Uygulamasını 2 sefer açmaya zorladı. Bugün de Enpara uygulamasını Telefona yükledi. Bu Uygulama her kullanım sonunda acayip İşler çeviriyor."
+        }
+      ]
+    }
+  },
+  "TR/kids": {
+    "counts": {
+      "too_many_ads": 4
+    },
+    "top_quotes": {
+      "too_many_ads": [
+        {
+          "score": 1,
+          "thumbs": 2,
+          "text": "çok fazla reklam veriyor"
+        },
+        {
+          "score": 1,
+          "thumbs": 1,
+          "text": "çok fazla reklam var"
+        },
+        {
+          "score": 2,
+          "thumbs": 1,
+          "text": "cok reklam var"
+        },
+        {
+          "score": 1,
+          "thumbs": 1,
+          "text": "ya oyun yapıyorsunuz bari reklam koymayın sonuçta çocuklar için oyunu telefondan kaldırdım sizede kötü puan verdim YÜKLEMEYİN ÇOK KÖTÜ"
+        }
+      ]
+    }
+  },
+  "TR/finance": {
+    "counts": {},
+    "top_quotes": {}
+  },
+  "TR/dating": {
+    "counts": {
+      "pricing_billing": 2,
+      "paywall_locked": 1,
+      "refund_denied": 2
+    },
+    "top_quotes": {
+      "pricing_billing": [
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "I am requesting a refund for my Tinder Gold subscription. Despite being a paid member, the service is not working; my profile has zero visibility and no engagement. The application fails to provide the promised premium features. This is a clear case of services not rendered."
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "kesinlikle üye olmayın, tamamen dolandırıcılar lâ dolu bir uygulama, ben üye oldum para yatırdım, bin tane beğeni attım, doğru düzgün eşleştiğim bayanlar olmadı. eşleştiklerimin hepsi de sıkıntılı. kimi faturamı ödeyemedim diyor kimi esc çıkıyor kimi bana maddi yardımcı olur musu"
+        }
+      ],
+      "paywall_locked": [
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "I am requesting a refund for my Tinder Gold subscription. Despite being a paid member, the service is not working; my profile has zero visibility and no engagement. The application fails to provide the promised premium features. This is a clear case of services not rendered."
+        }
+      ],
+      "refund_denied": [
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "I am requesting a refund for my Tinder Gold subscription. Despite being a paid member, the service is not working; my profile has zero visibility and no engagement. The application fails to provide the promised premium features. This is a clear case of services not rendered."
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "Bir kez satın aldığım Tinder uygulamasının ödemesini iptal edemiyorum. Her ay düzenli para çekiyorlar kartımdan. Kartıda kapatmak istemiyorum başka ödemelerim olduğu için. O kadar aradım , google play de aboneliğimi iptal edemedim Tinder için. Bilen varsa lütfen yardım edebilirmi"
+        }
+      ]
+    }
+  },
+  "TR/language": {
+    "counts": {
+      "paywall_locked": 2,
+      "pricing_billing": 2,
+      "inaccurate": 1,
+      "crashes_bugs": 1
+    },
+    "top_quotes": {
+      "paywall_locked": [
+        {
+          "score": 1,
+          "thumbs": 4,
+          "text": "Kuralları ve örneklerini çok kısa örneklerle anlatıp geçiyor bundan dolayı hafızaya yerleşmiyor ve bu da çok sinir bozucu bir hal alıyor. Neden burada bu kural geçerli de başka yerde değil diye sorular birikiyor akılda. Premium almıştım ama bu gidişle iade isteyeceğim. 😮‍💨 Edit"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "tam bi sahtekarsınız. 450 tl ödeyin 1 yıl boyunca kullanın diye öneri geldi. paketi aldım bi kaç cümle çıktı akabinde premium paket al diye her saniye karşıma çıkartıyorsunuz. kelime kontrolü için, 2. seviyeye geçmek için, sertifika için premium almam için zorluyorsunuz. kaç haft"
+        }
+      ],
+      "pricing_billing": [
+        {
+          "score": 2,
+          "thumbs": 1,
+          "text": "Eskiden verilen günlük farklı kelimeler neden artık verilmiyor? Günlük kelime güzel bir uygulamaydı ancak artık yok. Ben daha çok o kelimeler için üyelik oluşturmuştum."
+        },
+        {
+          "score": 2,
+          "thumbs": 0,
+          "text": "ancak dil öğrenmeye yeni başlayanlar için temeli öğrenmeye yardımcı olabilecek bir uygulama. intermediate seviyesinden başladım upper seviyesini bitirdim. 1-2 ay sürdü. şu anda upper mıyım, tabii ki hayır. ve devamı yok. upper üstü yok yani. 1 yıllık üyelik yaptım ve öylece kaldı"
+        }
+      ],
+      "inaccurate": [
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "Komedi Filmi Verilenler (It's a comedy) oyun. sıralamayı düzgün yapmamız beklenmekte. Buraya kadar herşey normal. Fakat cevap yanlış diyor. Bir muhatap da yok ki derdini anlatasın. Bu uygulama insana bildiğini de yanılttırıyor."
+        }
+      ],
+      "crashes_bugs": [
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "kelime ezberleme kısmında yazılı çalışınca ses ten mahrum kalıyorum ayrıca habire donuyor çözün şu durumu 😡😡😡😡"
+        }
+      ]
+    }
+  },
+  "TR/quiz": {
+    "counts": {
+      "inaccurate": 2
+    },
+    "top_quotes": {
+      "inaccurate": [
+        {
+          "score": 2,
+          "thumbs": 4,
+          "text": "Eğlenceli ama birçok soru ve de birçok cevap yanlış, mesela dizi film karakterleri soru olmamalı veya bir padişahın sevdiği herhangi birşey soru değildir...!! Şimdi mesela bu sorunla ilgili mail gönderdim diye beni engellemişler niye bu kadar iğrenç ve ikiyüzlüsünüz mesela...!???"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "lv1,2,ve3 ler çok kötü mesela 889 'dan büyük sayı kaçtır? Diye bir soru var. O soru'da herkes yanlış cevabı buluyordu!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+        }
+      ]
+    }
+  },
+  "ID/recipes": {
+    "counts": {
+      "inaccurate": 1
+    },
+    "top_quotes": {
+      "inaccurate": [
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "untuk saat ini gw kasih bintang 1 karena kg bisa login ke akun google cuma itu doank masalahnya"
+        }
+      ]
+    }
+  },
+  "ID/photo_editing": {
+    "counts": {
+      "too_many_ads": 5,
+      "pricing_billing": 3,
+      "crashes_bugs": 1,
+      "paywall_locked": 1
+    },
+    "top_quotes": {
+      "too_many_ads": [
+        {
+          "score": 2,
+          "thumbs": 1,
+          "text": "kalau gambarnya udah selesai trus kita pencet ✓ pasti ada iklan, kalau kita skip iklannya gambar kita gak bisa di masukin ke galeri padahal aku gakmau dapat apsih namanya aku lupa yg di iklan ahhh pokoknya jelek"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "iklanya x kagak bisa ditekan malah pergi ke play store"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "berguna untuk bayak duit, yang gk punya duit ribet terlalu banyak iklan"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "sekarang udah banyak sampah iklan"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "dulu bagus ,, sekarang sampah .. iklan terus,, lalu di buang ke luar halaman .."
+        }
+      ],
+      "pricing_billing": [
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "padahal saya tidak berlangganan kok bisa kepotong si dari dana saya?"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "aplikasi sialan, saya sudah berhenti berlangganan tahun lalu, tapi saldo saya masih di sedot"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "Apk bangke... bayar ny mahal. ada yg gratis ngapain cari yg mahal"
+        }
+      ],
+      "crashes_bugs": [
+        {
+          "score": 2,
+          "thumbs": 1,
+          "text": "kalau gambarnya udah selesai trus kita pencet ✓ pasti ada iklan, kalau kita skip iklannya gambar kita gak bisa di masukin ke galeri padahal aku gakmau dapat apsih namanya aku lupa yg di iklan ahhh pokoknya jelek"
+        }
+      ],
+      "paywall_locked": [
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "Apk bangke... bayar ny mahal. ada yg gratis ngapain cari yg mahal"
+        }
+      ]
+    }
+  },
+  "ID/video_editing": {
+    "counts": {
+      "crashes_bugs": 1,
+      "paywall_locked": 1,
+      "pricing_billing": 1
+    },
+    "top_quotes": {
+      "crashes_bugs": [
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "jelek"
+        }
+      ],
+      "paywall_locked": [
+        {
+          "score": 2,
+          "thumbs": 0,
+          "text": "Maksudnya apa ya, saya udah download capcut for desktop dan dapat 30 hari fitur pro gratis, tapi keesokan harinya fitur pro tiba tiba berakhir. Saya gamau tau itu fitur harus balik ke saya"
+        }
+      ],
+      "pricing_billing": [
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "gajelas metode pembayaran nya, tiba yang paling mahal ada aris tiba yg 70-an rb ga ada qris"
+        }
+      ]
+    }
+  },
+  "ID/kids": {
+    "counts": {
+      "language_gap": 1
+    },
+    "top_quotes": {
+      "language_gap": [
+        {
+          "score": 1,
+          "thumbs": 2,
+          "text": "gak bisa ganti bahasa Indonesia"
+        }
+      ]
+    }
+  },
+  "ID/finance": {
+    "counts": {},
+    "top_quotes": {}
+  },
+  "ID/language": {
+    "counts": {
+      "pricing_billing": 1,
+      "crashes_bugs": 3,
+      "too_many_ads": 3
+    },
+    "top_quotes": {
+      "pricing_billing": [
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "kenapa sekarang banyak bug nya ya? seperti User Interface tidak berfungsii, tidak bisa masuk ke pelajarann. dan ketika mau berlangganan, tidak dapat terhubung ke Google Play"
+        }
+      ],
+      "crashes_bugs": [
+        {
+          "score": 1,
+          "thumbs": 2,
+          "text": "tolong lah jangan bug masa saat belajar gak bisa lanjut pembelajaran padahal udah 10 keruntuhan ga bisa lanjut dan ulang lagi . Terus karna bug ga bisa nyalain api 🥲"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "kenapa sekarang banyak bug nya ya? seperti User Interface tidak berfungsii, tidak bisa masuk ke pelajarann. dan ketika mau berlangganan, tidak dapat terhubung ke Google Play"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "masih ada bug pas gw kerjain kan iklan y terus pas selesai iklan dari awal lagi belajar bahasanya dari bab 1 🙂 kesel dikit 🫠"
+        }
+      ],
+      "too_many_ads": [
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "banyak iklan judi online slot ,pdahal game bagus."
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "skrg pelit anying developer nya sampah ngasih energinya pelit bgt. ditengah course juga paling 1-3 doang, dulu klo nonton iklan 4 energi dapet skrg cuma 3 dengan durasi iklan 30 detik, buat gift nya juga udh langka bgt. payah developer pelit"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "masih ada bug pas gw kerjain kan iklan y terus pas selesai iklan dari awal lagi belajar bahasanya dari bab 1 🙂 kesel dikit 🫠"
+        }
+      ]
+    }
+  },
+  "ID/quiz": {
+    "counts": {
+      "too_many_ads": 3
+    },
+    "top_quotes": {
+      "too_many_ads": [
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "kita niat belajar please, bukan nontonin iklan🙏"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "GAME BAGUS BANGET, TAPI SAYANG SEKALI BANYAK IKLAN MUNCUL TIBA TIBA, REDUCE OR ELIMINATE THE APPEARANCE OF ADS DURING GAMEPLAY"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "terlalu banyak iklan mending di install aja"
+        }
+      ]
+    }
+  },
+  "TH/astrology": {
+    "counts": {
+      "ai_complaint": 1
+    },
+    "top_quotes": {
+      "ai_complaint": [
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "เป็น app ที่ใช้ Ai ทำนายดวง แบบนี้ใช้แชท Ai ที่อื่นทำนายก็ได้"
+        }
+      ]
+    }
+  },
+  "TH/tarot": {
+    "counts": {},
+    "top_quotes": {}
+  },
+  "TH/manifestation": {
+    "counts": {},
+    "top_quotes": {}
+  },
+  "TH/selfcare": {
+    "counts": {},
+    "top_quotes": {}
+  },
+  "TH/couple": {
+    "counts": {
+      "location_tracking": 1
+    },
+    "top_quotes": {
+      "location_tracking": [
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "ทำไม gpsหลังๆมาไม่อัพเดตครับ"
+        }
+      ]
+    }
+  },
+  "EG/astrology": {
+    "counts": {},
+    "top_quotes": {}
+  },
+  "EG/tarot": {
+    "counts": {},
+    "top_quotes": {}
+  },
+  "EG/manifestation": {
+    "counts": {},
+    "top_quotes": {}
+  },
+  "EG/selfcare": {
+    "counts": {},
+    "top_quotes": {}
+  },
+  "EG/couple": {
+    "counts": {},
+    "top_quotes": {}
+  },
+  "SA/astrology": {
+    "counts": {},
+    "top_quotes": {}
+  },
+  "SA/tarot": {
+    "counts": {},
+    "top_quotes": {}
+  },
+  "SA/manifestation": {
+    "counts": {},
+    "top_quotes": {}
+  },
+  "SA/selfcare": {
+    "counts": {},
+    "top_quotes": {}
+  },
+  "SA/couple": {
+    "counts": {},
+    "top_quotes": {}
+  },
+  "AE/astrology": {
+    "counts": {},
+    "top_quotes": {}
+  },
+  "AE/tarot": {
+    "counts": {},
+    "top_quotes": {}
+  },
+  "AE/manifestation": {
+    "counts": {},
+    "top_quotes": {}
+  },
+  "AE/selfcare": {
+    "counts": {},
+    "top_quotes": {}
+  },
+  "AE/couple": {
+    "counts": {},
+    "top_quotes": {}
   }
 }

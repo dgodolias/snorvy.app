@@ -1,0 +1,323 @@
+{
+  "Love8 (couples)": {
+    "country": "tr",
+    "ios_app": {
+      "appId": "ltd.love8.couples.relationship",
+      "id": 6448163027,
+      "title": "Love8 - App for Couples",
+      "developer": "Chongqing Daole Er Technology Co., Ltd",
+      "score": 4.23488,
+      "ratings": 711,
+      "free": true,
+      "price": 0,
+      "version": "3.0.0",
+      "languages": [
+        "EN",
+        "FR",
+        "DE",
+        "ID",
+        "IT",
+        "JA",
+        "KO",
+        "PT",
+        "ZH",
+        "ES",
+        "TH",
+        "ZH",
+        "TR",
+        "VI"
+      ],
+      "supportedDevices": [
+        "iPhone5s-iPhone5s",
+        "iPadAir-iPadAir",
+        "iPadAirCellular-iPadAirCellular",
+        "iPadMiniRetina-iPadMiniRetina",
+        "iPadMiniRetinaCellular-iPadMiniRetinaCellular"
+      ],
+      "url": "https://apps.apple.com/tr/app/love8-app-for-couples/id6448163027?uo=4"
+    },
+    "recent_reviews_pulled": 50,
+    "low_reviews_count": 22,
+    "low_pct": 44,
+    "sample_low_reviews": [
+      {
+        "score": 1,
+        "title": "Yanlış kişiyi ekledim",
+        "text": "Yanlış kişiyi ekledim nasıl silcem",
+        "version": "2.83.0"
+      },
+      {
+        "score": 1,
+        "title": "Aylık ödemeyi neden kaldırdınız",
+        "text": "Haftalık 50lira nedemek sacmalamayın",
+        "version": "2.82.0"
+      },
+      {
+        "score": 1,
+        "title": ".",
+        "text": "Başka işiniz mi yoktu böyle bi uygulama çıkardınız",
+        "version": "2.82.0"
+      },
+      {
+        "score": 1,
+        "title": "Konum doğru değil",
+        "text": "Kafasına göre konum değiştirdi diye bildirim gönderiyor, ben yanında olmasam bana yalan söylediğini düşünücem yani defalarca tekrarlandı bu. Konum eşzamanlı ilerlemiyor. Para ödediğim bir uygulamanın bu kadar sorunlu çalışması çok saçma",
+        "version": "2.78.0"
+      },
+      {
+        "score": 1,
+        "title": "Hersey paralı",
+        "text": "Uygulama üzerindeki yüzeysel şeyler hariç kalan çoğu şey paralı ve üyelik istiyor daha kullanıcı dostu olmalı",
+        "version": "2.78.0"
+      }
+    ]
+  },
+  "Love8 (couples MX)": {
+    "country": "mx",
+    "ios_app": {
+      "appId": "ltd.love8.couples.relationship",
+      "id": 6448163027,
+      "title": "Love8 - App para parejas",
+      "developer": "Chongqing Daole Er Technology Co., Ltd",
+      "score": 4.53592,
+      "ratings": 487,
+      "free": true,
+      "price": 0,
+      "version": "3.0.0",
+      "languages": [
+        "EN",
+        "FR",
+        "DE",
+        "ID",
+        "IT",
+        "JA",
+        "KO",
+        "PT",
+        "ZH",
+        "ES",
+        "TH",
+        "ZH",
+        "TR",
+        "VI"
+      ],
+      "supportedDevices": [
+        "iPhone5s-iPhone5s",
+        "iPadAir-iPadAir",
+        "iPadAirCellular-iPadAirCellular",
+        "iPadMiniRetina-iPadMiniRetina",
+        "iPadMiniRetinaCellular-iPadMiniRetinaCellular"
+      ],
+      "url": "https://apps.apple.com/mx/app/love8-app-para-parejas/id6448163027?uo=4"
+    },
+    "recent_reviews_pulled": 32,
+    "low_reviews_count": 6,
+    "low_pct": 18.8,
+    "sample_low_reviews": [
+      {
+        "score": 1,
+        "title": "No sirve",
+        "text": "No la descarguen solo es virus",
+        "version": "2.78.0"
+      },
+      {
+        "score": 1,
+        "title": "No se puede cambiar de equipo",
+        "text": "Yo tengo un iPhone y mi pareja un Android. Cambio de equipo y es imposible iniciar sesión en el nuevo equipo 🙄😒 trate de comunicarme a soporte pero solo te manda a una página web con avisos de privacidad e info random 🙄🙄🙄🙄 pésimo para tan cara que es (sin contar que tienes ",
+        "version": "2.76.0"
+      },
+      {
+        "score": 2,
+        "title": "cambio de app",
+        "text": "Esta es la segunda app de esta categoría que uso con mi novio, ya que la anterior también presentaba problemas. La interfaz de esta aplicación es muy bonita y la dinámica de ver los kilómetros de distancia entre ambos me encanta. Lamentablemente, tiene muchos problemas técnicos. ",
+        "version": "2.71.0"
+      },
+      {
+        "score": 1,
+        "title": "False advertising",
+        "text": "They showed you could get to write on your partner’s lock screen but you can’t unless you pay and they never say you have to pay on their ads, its just bait",
+        "version": "2.65.0"
+      },
+      {
+        "score": 1,
+        "title": "Cuidado si eres usuario iPhone‼️‼️‼️",
+        "text": "Me llevé una muy mala experiencia, si eres de iPhone ten cuidado porque te quita condición de batería‼️\nYo tenía una capacidad máxima de %100 (es nuevo), y en cuestión de dos días me quito %2 así que cuidado ‼️",
+        "version": "2.62.2"
+      }
+    ]
+  },
+  "Astrolink (BR astrology)": {
+    "country": "br",
+    "ios_app": {
+      "appId": "com.astrolink.ios",
+      "id": 1598327566,
+      "title": "Astrolink - Mapa Astral",
+      "developer": "ESAPIENS TECNOLOGIA S.A",
+      "score": 4.57705,
+      "ratings": 584,
+      "free": true,
+      "price": 0,
+      "version": "4.3.2",
+      "languages": [
+        "EN"
+      ],
+      "supportedDevices": [
+        "iPhone5s-iPhone5s",
+        "iPadAir-iPadAir",
+        "iPadAirCellular-iPadAirCellular",
+        "iPadMiniRetina-iPadMiniRetina",
+        "iPadMiniRetinaCellular-iPadMiniRetinaCellular"
+      ],
+      "url": "https://apps.apple.com/br/app/astrolink-mapa-astral/id1598327566?uo=4"
+    },
+    "recent_reviews_pulled": 50,
+    "low_reviews_count": 12,
+    "low_pct": 24,
+    "sample_low_reviews": [
+      {
+        "score": 1,
+        "title": "App travando",
+        "text": "O app trava e não abre as abas. Senti que paguei atoa",
+        "version": "4.3.2"
+      },
+      {
+        "score": 1,
+        "title": "A ganância estragou o aplicativo",
+        "text": "Usei por anos ajudou muito mesmo na minha vida em todos os aspectos possíveis, eu o considerava não só o melhor da astrologia como um dos melhores aplicativos de astrologia do Mundo, hoje o aplicativo se tornou genérico, sem profundidade, e sem mais fidelidade ao usuário, agora s",
+        "version": "4.3.0"
+      },
+      {
+        "score": 1,
+        "title": "App com falha",
+        "text": "Os preços das assinaturas são diferentes do site para o app, sendo o app mais barato. Porém, surpreendentemente, o aplicativo apresenta falha na hora de comprar por ele, obrigando o usurário a pagar mais caro pelo site. Achei desonesto.",
+        "version": "1.8.2"
+      },
+      {
+        "score": 1,
+        "title": "Propaganda enganosa",
+        "text": "Eu me cadastrei para o período de teste de 3 dias grátis e o valor foi debitado imediatamente, no aplicativo consta como estornado, porém a Apple recusou o estorno, o valor não voltou pra minha conta",
+        "version": "1.8.2"
+      },
+      {
+        "score": 1,
+        "title": "Ops, algo deu errado :(",
+        "text": "Não consigo entrar no app. Quando clico para entrar, aparece a seguinte mensagem: “ops, algo deu errado”. Clico em “tentar novamente” mas nada acontece. Adorava o app, mas hoje deixa a desejar…",
+        "version": "1.8.2"
+      }
+    ]
+  },
+  "Sleep Cycle TR": {
+    "country": "tr",
+    "ios_app": {
+      "appId": "com.lexwarelabs.goodmorning",
+      "id": 320606217,
+      "title": "Sleep Cycle - Tracker & Sounds",
+      "developer": "Sleep Cycle AB",
+      "score": 4.58927,
+      "ratings": 969,
+      "free": true,
+      "price": 0,
+      "version": "6.26.17",
+      "languages": [
+        "NL",
+        "EN",
+        "FR",
+        "DE",
+        "IT",
+        "JA",
+        "KO",
+        "PT",
+        "RU",
+        "ZH",
+        "ES",
+        "SV",
+        "ZH",
+        "TR"
+      ],
+      "supportedDevices": [
+        "iPhone5s-iPhone5s",
+        "iPadAir-iPadAir",
+        "iPadAirCellular-iPadAirCellular",
+        "iPadMiniRetina-iPadMiniRetina",
+        "iPadMiniRetinaCellular-iPadMiniRetinaCellular"
+      ],
+      "url": "https://apps.apple.com/tr/app/sleep-cycle-tracker-sounds/id320606217?uo=4"
+    },
+    "recent_reviews_pulled": 50,
+    "low_reviews_count": 31,
+    "low_pct": 62,
+    "sample_low_reviews": [
+      {
+        "score": 1,
+        "title": "Hiçbir işe yaramıyor",
+        "text": "Ücretli sürümünü satın aldım ve hiçbir zaman istediğim saatte kaldırmıyor",
+        "version": "6.26.15"
+      },
+      {
+        "score": 1,
+        "title": "izinsiz kamera erişimi ve hatalı veriler",
+        "text": "uygulamanın kamera erişimi OLMADIĞI halde sleep cycle kurduğum her gece pil aktivitesinde arka planda uygulamayla eş zamanlı sürede kamera kullanımı olduğunu fark ettim. siber suçların zirvede olduğu bi dönemde premium aldığım uygulamanın rızam haricinde böyle bi şey yapması ne a",
+        "version": "6.26.14"
+      },
+      {
+        "score": 1,
+        "title": "Mağduriyet ve fırsatçılık",
+        "text": "Free trail süresi bittikten sonra üyeliğimi iptal etmeme rağmen hesabımdan tüm sene ücretini çektiler ve ücret iadesini talebimi de hiç bir açıklama yapmadan kabul etmediler. \nKullanmayacağım bir uygulama için ücret ödemeye zorlanıyorum. Müşteri hakları gereği her ürünün iptal ve",
+        "version": "6.26.4"
+      },
+      {
+        "score": 1,
+        "title": "Yavaş",
+        "text": "On saat tanıtım yapacak bi tuşa basıyon on saat açıcak ruhum daraldı uygulamanın kasti yavaşlığından",
+        "version": "6.26.3"
+      },
+      {
+        "score": 1,
+        "title": "HARD PAYWALL",
+        "text": "hard paywall ile zorunlu abonelik sistemi getirmişler, app kullanilamiyor. Bu applein kurallarina kesinlikle aykiri bir durum umarim bir yaptirimi olur.",
+        "version": "6.25.49"
+      }
+    ]
+  },
+  "Labyrinthos Tarot TR": {
+    "country": "tr",
+    "ios_app": {
+      "appId": "com.labyrinthos.app",
+      "id": 1155180220,
+      "title": "Labyrinthos Tarot Reading",
+      "developer": "Labyrinthos LLC",
+      "score": 4.85714,
+      "ratings": 147,
+      "free": true,
+      "price": 0,
+      "version": "2.70",
+      "languages": [
+        "EN"
+      ],
+      "supportedDevices": [
+        "iPhone5s-iPhone5s",
+        "iPadAir-iPadAir",
+        "iPadAirCellular-iPadAirCellular",
+        "iPadMiniRetina-iPadMiniRetina",
+        "iPadMiniRetinaCellular-iPadMiniRetinaCellular"
+      ],
+      "url": "https://apps.apple.com/tr/app/labyrinthos-tarot-reading/id1155180220?uo=4"
+    },
+    "recent_reviews_pulled": 16,
+    "low_reviews_count": 2,
+    "low_pct": 12.5,
+    "sample_low_reviews": [
+      {
+        "score": 1,
+        "title": "Terrible",
+        "text": "…",
+        "version": "2.70"
+      },
+      {
+        "score": 1,
+        "title": "Aggressive monetization",
+        "text": "Keeps asking you to buy premium on every launch.",
+        "version": "2.70"
+      }
+    ]
+  }
+}

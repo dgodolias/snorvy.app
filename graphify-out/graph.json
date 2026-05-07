@@ -156,13 +156,67 @@
   },
   "nodes": [
     {
+      "label": "extract_d2_themes.py",
+      "file_type": "code",
+      "source_file": "extract_d2_themes.py",
+      "source_location": "L1",
+      "id": "c_users_demosgod_desktop_projects_playstore_app_extract_d2_themes_py",
+      "community": 11,
+      "norm_label": "extract_d2_themes.py"
+    },
+    {
+      "label": "flatten()",
+      "file_type": "code",
+      "source_file": "extract_d2_themes.py",
+      "source_location": "L43",
+      "id": "extract_d2_themes_flatten",
+      "community": 11,
+      "norm_label": "flatten()"
+    },
+    {
+      "label": "app_mentions()",
+      "file_type": "code",
+      "source_file": "extract_d2_themes.py",
+      "source_location": "L66",
+      "id": "extract_d2_themes_app_mentions",
+      "community": 11,
+      "norm_label": "app_mentions()"
+    },
+    {
+      "label": "has_demand()",
+      "file_type": "code",
+      "source_file": "extract_d2_themes.py",
+      "source_location": "L75",
+      "id": "extract_d2_themes_has_demand",
+      "community": 11,
+      "norm_label": "has_demand()"
+    },
+    {
+      "label": "has_migration()",
+      "file_type": "code",
+      "source_file": "extract_d2_themes.py",
+      "source_location": "L84",
+      "id": "extract_d2_themes_has_migration",
+      "community": 11,
+      "norm_label": "has_migration()"
+    },
+    {
       "label": "reddit_b2b_demand.py",
       "file_type": "code",
       "source_file": "reddit_b2b_demand.py",
       "source_location": "L1",
       "id": "c_users_demosgod_desktop_projects_playstore_app_reddit_b2b_demand_py",
-      "community": 17,
+      "community": 23,
       "norm_label": "reddit_b2b_demand.py"
+    },
+    {
+      "label": "reddit_d2_schedule_c.py",
+      "file_type": "code",
+      "source_file": "reddit_d2_schedule_c.py",
+      "source_location": "L1",
+      "id": "c_users_demosgod_desktop_projects_playstore_app_reddit_d2_schedule_c_py",
+      "community": 24,
+      "norm_label": "reddit_d2_schedule_c.py"
     },
     {
       "label": "reddit_gig_demand.py",
@@ -170,8 +224,170 @@
       "source_file": "reddit_gig_demand.py",
       "source_location": "L1",
       "id": "c_users_demosgod_desktop_projects_playstore_app_reddit_gig_demand_py",
-      "community": 18,
+      "community": 25,
       "norm_label": "reddit_gig_demand.py"
+    },
+    {
+      "label": "_d11_analyze.mjs",
+      "file_type": "code",
+      "source_file": "findings\\raw\\_d11_analyze.mjs",
+      "source_location": "L1",
+      "id": "c_users_demosgod_desktop_projects_playstore_app_findings_raw_d11_analyze_mjs",
+      "community": 16,
+      "norm_label": "_d11_analyze.mjs"
+    },
+    {
+      "label": "pct()",
+      "file_type": "code",
+      "source_file": "findings\\raw\\_d11_analyze.mjs",
+      "source_location": "L14",
+      "id": "d11_analyze_pct",
+      "community": 16,
+      "norm_label": "pct()"
+    },
+    {
+      "label": "_explore_analyze.mjs",
+      "file_type": "code",
+      "source_file": "findings\\raw\\play-store\\_explore_analyze.mjs",
+      "source_location": "L1",
+      "id": "c_users_demosgod_desktop_projects_playstore_app_findings_raw_play_store_explore_analyze_mjs",
+      "community": 13,
+      "norm_label": "_explore_analyze.mjs"
+    },
+    {
+      "label": "recentLowPct()",
+      "file_type": "code",
+      "source_file": "findings\\raw\\play-store\\_explore_analyze.mjs",
+      "source_location": "L22",
+      "id": "explore_analyze_recentlowpct",
+      "community": 13,
+      "norm_label": "recentlowpct()"
+    },
+    {
+      "label": "topVerbatim()",
+      "file_type": "code",
+      "source_file": "findings\\raw\\play-store\\_explore_analyze.mjs",
+      "source_location": "L40",
+      "id": "explore_analyze_topverbatim",
+      "community": 13,
+      "norm_label": "topverbatim()"
+    },
+    {
+      "label": "_explore_meta.mjs",
+      "file_type": "code",
+      "source_file": "findings\\raw\\play-store\\_explore_meta.mjs",
+      "source_location": "L1",
+      "id": "c_users_demosgod_desktop_projects_playstore_app_findings_raw_play_store_explore_meta_mjs",
+      "community": 0,
+      "norm_label": "_explore_meta.mjs"
+    },
+    {
+      "label": "_games_analyze.mjs",
+      "file_type": "code",
+      "source_file": "findings\\raw\\play-store\\_games_analyze.mjs",
+      "source_location": "L1",
+      "id": "c_users_demosgod_desktop_projects_playstore_app_findings_raw_play_store_games_analyze_mjs",
+      "community": 26,
+      "norm_label": "_games_analyze.mjs"
+    },
+    {
+      "label": "_t13_compute.mjs",
+      "file_type": "code",
+      "source_file": "findings\\raw\\play-store\\_t13_compute.mjs",
+      "source_location": "L1",
+      "id": "c_users_demosgod_desktop_projects_playstore_app_findings_raw_play_store_t13_compute_mjs",
+      "community": 27,
+      "norm_label": "_t13_compute.mjs"
+    },
+    {
+      "label": "_t18_analyze.mjs",
+      "file_type": "code",
+      "source_file": "findings\\raw\\play-store\\_t18_analyze.mjs",
+      "source_location": "L1",
+      "id": "c_users_demosgod_desktop_projects_playstore_app_findings_raw_play_store_t18_analyze_mjs",
+      "community": 28,
+      "norm_label": "_t18_analyze.mjs"
+    },
+    {
+      "label": "_t7_pull.mjs",
+      "file_type": "code",
+      "source_file": "findings\\raw\\play-store\\_t7_pull.mjs",
+      "source_location": "L1",
+      "id": "c_users_demosgod_desktop_projects_playstore_app_findings_raw_play_store_t7_pull_mjs",
+      "community": 0,
+      "norm_label": "_t7_pull.mjs"
+    },
+    {
+      "label": "pullReviewsAll()",
+      "file_type": "code",
+      "source_file": "findings\\raw\\play-store\\_t7_pull.mjs",
+      "source_location": "L29",
+      "id": "t7_pull_pullreviewsall",
+      "community": 0,
+      "norm_label": "pullreviewsall()"
+    },
+    {
+      "label": "_tick6_analyze.mjs",
+      "file_type": "code",
+      "source_file": "findings\\raw\\play-store\\_tick6_analyze.mjs",
+      "source_location": "L1",
+      "id": "c_users_demosgod_desktop_projects_playstore_app_findings_raw_play_store_tick6_analyze_mjs",
+      "community": 6,
+      "norm_label": "_tick6_analyze.mjs"
+    },
+    {
+      "label": "load()",
+      "file_type": "code",
+      "source_file": "findings\\raw\\play-store\\_tick6_analyze.mjs",
+      "source_location": "L6",
+      "id": "tick6_analyze_load",
+      "community": 6,
+      "norm_label": "load()"
+    },
+    {
+      "label": "arr()",
+      "file_type": "code",
+      "source_file": "findings\\raw\\play-store\\_tick6_analyze.mjs",
+      "source_location": "L7",
+      "id": "tick6_analyze_arr",
+      "community": 6,
+      "norm_label": "arr()"
+    },
+    {
+      "label": "lowPct()",
+      "file_type": "code",
+      "source_file": "findings\\raw\\play-store\\_tick6_analyze.mjs",
+      "source_location": "L9",
+      "id": "tick6_analyze_lowpct",
+      "community": 6,
+      "norm_label": "lowpct()"
+    },
+    {
+      "label": "inWindow()",
+      "file_type": "code",
+      "source_file": "findings\\raw\\play-store\\_tick6_analyze.mjs",
+      "source_location": "L15",
+      "id": "tick6_analyze_inwindow",
+      "community": 6,
+      "norm_label": "inwindow()"
+    },
+    {
+      "label": "analyze()",
+      "file_type": "code",
+      "source_file": "findings\\raw\\play-store\\_tick6_analyze.mjs",
+      "source_location": "L22",
+      "id": "tick6_analyze_analyze",
+      "community": 6,
+      "norm_label": "analyze()"
+    },
+    {
+      "label": "_analyze.mjs",
+      "file_type": "code",
+      "source_file": "findings\\raw\\play-store\\tick11\\_analyze.mjs",
+      "source_location": "L1",
+      "id": "c_users_demosgod_desktop_projects_playstore_app_findings_raw_play_store_tick11_analyze_mjs",
+      "community": 29,
+      "norm_label": "_analyze.mjs"
     },
     {
       "label": "analyze_drill.py",
@@ -179,7 +395,7 @@
       "source_file": "scripts\\analyze_drill.py",
       "source_location": "L1",
       "id": "c_users_demosgod_desktop_projects_playstore_app_scripts_analyze_drill_py",
-      "community": 13,
+      "community": 17,
       "norm_label": "analyze_drill.py"
     },
     {
@@ -188,8 +404,44 @@
       "source_file": "scripts\\analyze_drill.py",
       "source_location": "L26",
       "id": "analyze_drill_classify",
-      "community": 13,
+      "community": 17,
       "norm_label": "classify()"
+    },
+    {
+      "label": "analyze_invoice_3000.mjs",
+      "file_type": "code",
+      "source_file": "scripts\\analyze_invoice_3000.mjs",
+      "source_location": "L1",
+      "id": "c_users_demosgod_desktop_projects_playstore_app_scripts_analyze_invoice_3000_mjs",
+      "community": 14,
+      "norm_label": "analyze_invoice_3000.mjs"
+    },
+    {
+      "label": "classify()",
+      "file_type": "code",
+      "source_file": "scripts\\analyze_invoice_3000.mjs",
+      "source_location": "L51",
+      "id": "analyze_invoice_3000_classify",
+      "community": 14,
+      "norm_label": "classify()"
+    },
+    {
+      "label": "analyzeCountry()",
+      "file_type": "code",
+      "source_file": "scripts\\analyze_invoice_3000.mjs",
+      "source_location": "L61",
+      "id": "analyze_invoice_3000_analyzecountry",
+      "community": 14,
+      "norm_label": "analyzecountry()"
+    },
+    {
+      "label": "analyze_ios_invoice.mjs",
+      "file_type": "code",
+      "source_file": "scripts\\analyze_ios_invoice.mjs",
+      "source_location": "L1",
+      "id": "c_users_demosgod_desktop_projects_playstore_app_scripts_analyze_ios_invoice_mjs",
+      "community": 30,
+      "norm_label": "analyze_ios_invoice.mjs"
     },
     {
       "label": "analyze_tiktok.py",
@@ -197,8 +449,44 @@
       "source_file": "scripts\\analyze_tiktok.py",
       "source_location": "L1",
       "id": "c_users_demosgod_desktop_projects_playstore_app_scripts_analyze_tiktok_py",
-      "community": 19,
+      "community": 31,
       "norm_label": "analyze_tiktok.py"
+    },
+    {
+      "label": "d2_competitor_descriptions.mjs",
+      "file_type": "code",
+      "source_file": "scripts\\d2_competitor_descriptions.mjs",
+      "source_location": "L1",
+      "id": "c_users_demosgod_desktop_projects_playstore_app_scripts_d2_competitor_descriptions_mjs",
+      "community": 18,
+      "norm_label": "d2_competitor_descriptions.mjs"
+    },
+    {
+      "label": "resolveAppId()",
+      "file_type": "code",
+      "source_file": "scripts\\d2_competitor_descriptions.mjs",
+      "source_location": "L21",
+      "id": "d2_competitor_descriptions_resolveappid",
+      "community": 18,
+      "norm_label": "resolveappid()"
+    },
+    {
+      "label": "de_fr_jp_invoicing_scan.mjs",
+      "file_type": "code",
+      "source_file": "scripts\\de_fr_jp_invoicing_scan.mjs",
+      "source_location": "L1",
+      "id": "c_users_demosgod_desktop_projects_playstore_app_scripts_de_fr_jp_invoicing_scan_mjs",
+      "community": 19,
+      "norm_label": "de_fr_jp_invoicing_scan.mjs"
+    },
+    {
+      "label": "pickTop3()",
+      "file_type": "code",
+      "source_file": "scripts\\de_fr_jp_invoicing_scan.mjs",
+      "source_location": "L61",
+      "id": "de_fr_jp_invoicing_scan_picktop3",
+      "community": 19,
+      "norm_label": "picktop3()"
     },
     {
       "label": "final_synthesis.py",
@@ -206,7 +494,7 @@
       "source_file": "scripts\\final_synthesis.py",
       "source_location": "L1",
       "id": "c_users_demosgod_desktop_projects_playstore_app_scripts_final_synthesis_py",
-      "community": 9,
+      "community": 6,
       "norm_label": "final_synthesis.py"
     },
     {
@@ -215,7 +503,7 @@
       "source_file": "scripts\\final_synthesis.py",
       "source_location": "L8",
       "id": "final_synthesis_safe_load",
-      "community": 9,
+      "community": 6,
       "norm_label": "safe_load()"
     },
     {
@@ -224,7 +512,7 @@
       "source_file": "scripts\\final_synthesis.py",
       "source_location": "L33",
       "id": "final_synthesis_tiktok_score_for",
-      "community": 9,
+      "community": 6,
       "norm_label": "tiktok_score_for()"
     },
     {
@@ -233,8 +521,107 @@
       "source_file": "scripts\\final_synthesis.py",
       "source_location": "L38",
       "id": "final_synthesis_tiktok_engagement",
-      "community": 9,
+      "community": 6,
       "norm_label": "tiktok_engagement()"
+    },
+    {
+      "label": "games_flame_scan.mjs",
+      "file_type": "code",
+      "source_file": "scripts\\games_flame_scan.mjs",
+      "source_location": "L1",
+      "id": "c_users_demosgod_desktop_projects_playstore_app_scripts_games_flame_scan_mjs",
+      "community": 10,
+      "norm_label": "games_flame_scan.mjs"
+    },
+    {
+      "label": "safe()",
+      "file_type": "code",
+      "source_file": "scripts\\games_flame_scan.mjs",
+      "source_location": "L64",
+      "id": "games_flame_scan_safe",
+      "community": 10,
+      "norm_label": "safe()"
+    },
+    {
+      "label": "ageDays()",
+      "file_type": "code",
+      "source_file": "scripts\\games_flame_scan.mjs",
+      "source_location": "L68",
+      "id": "games_flame_scan_agedays",
+      "community": 10,
+      "norm_label": "agedays()"
+    },
+    {
+      "label": "pullApp()",
+      "file_type": "code",
+      "source_file": "scripts\\games_flame_scan.mjs",
+      "source_location": "L72",
+      "id": "games_flame_scan_pullapp",
+      "community": 10,
+      "norm_label": "pullapp()"
+    },
+    {
+      "label": "pullReviews()",
+      "file_type": "code",
+      "source_file": "scripts\\games_flame_scan.mjs",
+      "source_location": "L85",
+      "id": "games_flame_scan_pullreviews",
+      "community": 10,
+      "norm_label": "pullreviews()"
+    },
+    {
+      "label": "computeLowPct()",
+      "file_type": "code",
+      "source_file": "scripts\\games_flame_scan.mjs",
+      "source_location": "L110",
+      "id": "games_flame_scan_computelowpct",
+      "community": 10,
+      "norm_label": "computelowpct()"
+    },
+    {
+      "label": "topLowQuotes()",
+      "file_type": "code",
+      "source_file": "scripts\\games_flame_scan.mjs",
+      "source_location": "L118",
+      "id": "games_flame_scan_toplowquotes",
+      "community": 10,
+      "norm_label": "toplowquotes()"
+    },
+    {
+      "label": "themeFreq()",
+      "file_type": "code",
+      "source_file": "scripts\\games_flame_scan.mjs",
+      "source_location": "L142",
+      "id": "games_flame_scan_themefreq",
+      "community": 10,
+      "norm_label": "themefreq()"
+    },
+    {
+      "label": "main()",
+      "file_type": "code",
+      "source_file": "scripts\\games_flame_scan.mjs",
+      "source_location": "L158",
+      "id": "games_flame_scan_main",
+      "community": 10,
+      "norm_label": "main()"
+    },
+    {
+      "label": "ios_invoice_drill.mjs",
+      "file_type": "code",
+      "source_file": "scripts\\ios_invoice_drill.mjs",
+      "source_location": "L1",
+      "id": "c_users_demosgod_desktop_projects_playstore_app_scripts_ios_invoice_drill_mjs",
+      "community": 20,
+      "norm_label": "ios_invoice_drill.mjs"
+    },
+    {
+      "label": "fetchAll()",
+      "file_type": "code",
+      "source_file": "scripts\\ios_invoice_drill.mjs",
+      "source_location": "L17",
+      "id": "ios_invoice_drill_fetchall",
+      "community": 20,
+      "norm_label": "fetchall()"
     },
     {
       "label": "reddit_deep.py",
@@ -242,7 +629,7 @@
       "source_file": "scripts\\reddit_deep.py",
       "source_location": "L1",
       "id": "c_users_demosgod_desktop_projects_playstore_app_scripts_reddit_deep_py",
-      "community": 11,
+      "community": 15,
       "norm_label": "reddit_deep.py"
     },
     {
@@ -251,7 +638,7 @@
       "source_file": "scripts\\reddit_deep.py",
       "source_location": "L31",
       "id": "reddit_deep_fetch_posts",
-      "community": 11,
+      "community": 15,
       "norm_label": "fetch_posts()"
     },
     {
@@ -260,7 +647,7 @@
       "source_file": "scripts\\reddit_deep.py",
       "source_location": "L43",
       "id": "reddit_deep_filter_posts",
-      "community": 11,
+      "community": 15,
       "norm_label": "filter_posts()"
     },
     {
@@ -269,7 +656,7 @@
       "source_file": "scripts\\reddit_extra.py",
       "source_location": "L1",
       "id": "c_users_demosgod_desktop_projects_playstore_app_scripts_reddit_extra_py",
-      "community": 20,
+      "community": 32,
       "norm_label": "reddit_extra.py"
     },
     {
@@ -278,7 +665,7 @@
       "source_file": "scripts\\scan-trends.mjs",
       "source_location": "L1",
       "id": "c_users_demosgod_desktop_projects_playstore_app_scripts_scan_trends_mjs",
-      "community": 2,
+      "community": 0,
       "norm_label": "scan-trends.mjs"
     },
     {
@@ -287,7 +674,7 @@
       "source_file": "scripts\\scan-trends.mjs",
       "source_location": "L6",
       "id": "scan_trends_sleep",
-      "community": 2,
+      "community": 0,
       "norm_label": "sleep()"
     },
     {
@@ -296,7 +683,7 @@
       "source_file": "scripts\\scan-trends.mjs",
       "source_location": "L39",
       "id": "scan_trends_fetchsummary",
-      "community": 2,
+      "community": 0,
       "norm_label": "fetchsummary()"
     },
     {
@@ -305,7 +692,7 @@
       "source_file": "scripts\\synthesize.py",
       "source_location": "L1",
       "id": "c_users_demosgod_desktop_projects_playstore_app_scripts_synthesize_py",
-      "community": 12,
+      "community": 6,
       "norm_label": "synthesize.py"
     },
     {
@@ -314,7 +701,7 @@
       "source_file": "scripts\\synthesize.py",
       "source_location": "L9",
       "id": "synthesize_safe_load",
-      "community": 12,
+      "community": 6,
       "norm_label": "safe_load()"
     },
     {
@@ -323,7 +710,7 @@
       "source_file": "scripts\\synthesize.py",
       "source_location": "L28",
       "id": "synthesize_tiktok_volume_for",
-      "community": 12,
+      "community": 6,
       "norm_label": "tiktok_volume_for()"
     },
     {
@@ -332,7 +719,7 @@
       "source_file": "scripts\\tiktok_deep.py",
       "source_location": "L1",
       "id": "c_users_demosgod_desktop_projects_playstore_app_scripts_tiktok_deep_py",
-      "community": 10,
+      "community": 12,
       "norm_label": "tiktok_deep.py"
     },
     {
@@ -341,7 +728,7 @@
       "source_file": "scripts\\tiktok_deep.py",
       "source_location": "L32",
       "id": "tiktok_deep_fetch_json",
-      "community": 10,
+      "community": 12,
       "norm_label": "fetch_json()"
     },
     {
@@ -350,7 +737,7 @@
       "source_file": "scripts\\tiktok_deep.py",
       "source_location": "L37",
       "id": "tiktok_deep_search_videos",
-      "community": 10,
+      "community": 12,
       "norm_label": "search_videos()"
     },
     {
@@ -359,8 +746,17 @@
       "source_file": "scripts\\tiktok_deep.py",
       "source_location": "L41",
       "id": "tiktok_deep_fetch_comments",
-      "community": 10,
+      "community": 12,
       "norm_label": "fetch_comments()"
+    },
+    {
+      "label": "v9_direction1_competitors.mjs",
+      "file_type": "code",
+      "source_file": "scripts\\v9_direction1_competitors.mjs",
+      "source_location": "L1",
+      "id": "c_users_demosgod_desktop_projects_playstore_app_scripts_v9_direction1_competitors_mjs",
+      "community": 33,
+      "norm_label": "v9_direction1_competitors.mjs"
     },
     {
       "label": "reddit_charai_refugees.py",
@@ -368,7 +764,7 @@
       "source_file": "scripts\\legacy\\reddit_charai_refugees.py",
       "source_location": "L1",
       "id": "c_users_demosgod_desktop_projects_playstore_app_scripts_legacy_reddit_charai_refugees_py",
-      "community": 21,
+      "community": 34,
       "norm_label": "reddit_charai_refugees.py"
     },
     {
@@ -377,7 +773,7 @@
       "source_file": "scripts\\legacy\\reddit_faladdin_validate.py",
       "source_location": "L1",
       "id": "c_users_demosgod_desktop_projects_playstore_app_scripts_legacy_reddit_faladdin_validate_py",
-      "community": 22,
+      "community": 35,
       "norm_label": "reddit_faladdin_validate.py"
     },
     {
@@ -386,7 +782,7 @@
       "source_file": "scripts\\legacy\\reddit_halal_validate.py",
       "source_location": "L1",
       "id": "c_users_demosgod_desktop_projects_playstore_app_scripts_legacy_reddit_halal_validate_py",
-      "community": 23,
+      "community": 36,
       "norm_label": "reddit_halal_validate.py"
     },
     {
@@ -395,7 +791,7 @@
       "source_file": "scripts\\legacy\\reddit_new_niches.py",
       "source_location": "L1",
       "id": "c_users_demosgod_desktop_projects_playstore_app_scripts_legacy_reddit_new_niches_py",
-      "community": 24,
+      "community": 37,
       "norm_label": "reddit_new_niches.py"
     },
     {
@@ -404,7 +800,7 @@
       "source_file": "scripts\\legacy\\reddit_top_trees.py",
       "source_location": "L1",
       "id": "c_users_demosgod_desktop_projects_playstore_app_scripts_legacy_reddit_top_trees_py",
-      "community": 14,
+      "community": 6,
       "norm_label": "reddit_top_trees.py"
     },
     {
@@ -413,7 +809,7 @@
       "source_file": "scripts\\legacy\\reddit_top_trees.py",
       "source_location": "L10",
       "id": "reddit_top_trees_safe_load",
-      "community": 14,
+      "community": 6,
       "norm_label": "safe_load()"
     },
     {
@@ -422,7 +818,7 @@
       "source_file": "scripts\\legacy\\reddit_turkey_couple_validate.py",
       "source_location": "L1",
       "id": "c_users_demosgod_desktop_projects_playstore_app_scripts_legacy_reddit_turkey_couple_validate_py",
-      "community": 25,
+      "community": 38,
       "norm_label": "reddit_turkey_couple_validate.py"
     },
     {
@@ -431,7 +827,7 @@
       "source_file": "scripts\\legacy\\reddit_xpand.py",
       "source_location": "L1",
       "id": "c_users_demosgod_desktop_projects_playstore_app_scripts_legacy_reddit_xpand_py",
-      "community": 26,
+      "community": 39,
       "norm_label": "reddit_xpand.py"
     },
     {
@@ -440,7 +836,7 @@
       "source_file": "scripts\\legacy\\reddit_xpand2.py",
       "source_location": "L1",
       "id": "c_users_demosgod_desktop_projects_playstore_app_scripts_legacy_reddit_xpand2_py",
-      "community": 27,
+      "community": 40,
       "norm_label": "reddit_xpand2.py"
     },
     {
@@ -449,7 +845,7 @@
       "source_file": "scripts\\legacy\\tiktok_phase15.py",
       "source_location": "L1",
       "id": "c_users_demosgod_desktop_projects_playstore_app_scripts_legacy_tiktok_phase15_py",
-      "community": 15,
+      "community": 21,
       "norm_label": "tiktok_phase15.py"
     },
     {
@@ -458,7 +854,7 @@
       "source_file": "scripts\\legacy\\tiktok_phase15.py",
       "source_location": "L19",
       "id": "tiktok_phase15_fetch_json",
-      "community": 15,
+      "community": 21,
       "norm_label": "fetch_json()"
     },
     {
@@ -467,7 +863,7 @@
       "source_file": "scripts\\legacy\\tiktok_xpand.py",
       "source_location": "L1",
       "id": "c_users_demosgod_desktop_projects_playstore_app_scripts_legacy_tiktok_xpand_py",
-      "community": 16,
+      "community": 22,
       "norm_label": "tiktok_xpand.py"
     },
     {
@@ -476,7 +872,7 @@
       "source_file": "scripts\\legacy\\tiktok_xpand.py",
       "source_location": "L27",
       "id": "tiktok_xpand_fetch_json",
-      "community": 16,
+      "community": 22,
       "norm_label": "fetch_json()"
     },
     {
@@ -488,7 +884,7 @@
       "captured_at": "2026-05-06",
       "author": null,
       "contributor": null,
-      "community": 1,
+      "community": 8,
       "norm_label": "findings readme",
       "id": "findings_readme"
     },
@@ -501,7 +897,7 @@
       "captured_at": "2026-05",
       "author": null,
       "contributor": null,
-      "community": 8,
+      "community": 9,
       "norm_label": "market economics: country x niche revenue",
       "id": "market_economics_doc"
     },
@@ -514,7 +910,7 @@
       "captured_at": "2026-05-07",
       "author": null,
       "contributor": null,
-      "community": 6,
+      "community": 5,
       "norm_label": "competitor revenue scrape",
       "id": "competitor_revenues_doc"
     },
@@ -527,7 +923,7 @@
       "captured_at": "2026-05-07",
       "author": null,
       "contributor": null,
-      "community": 3,
+      "community": 8,
       "norm_label": "localization quality audit top 5",
       "id": "localization_audit_doc"
     },
@@ -540,7 +936,7 @@
       "captured_at": "2026-05-07",
       "author": null,
       "contributor": null,
-      "community": 4,
+      "community": 7,
       "norm_label": "maktub cultural validation",
       "id": "maktub_cultural_doc"
     },
@@ -553,7 +949,7 @@
       "captured_at": "2026-05-07",
       "author": null,
       "contributor": null,
-      "community": 3,
+      "community": 1,
       "norm_label": "aso keyword volume research",
       "id": "aso_keyword_doc"
     },
@@ -566,7 +962,7 @@
       "captured_at": "2026-05-07",
       "author": null,
       "contributor": null,
-      "community": 6,
+      "community": 5,
       "norm_label": "competitor backgrounds founder research",
       "id": "competitor_backgrounds_doc"
     },
@@ -579,7 +975,7 @@
       "captured_at": "2026-05-07",
       "author": null,
       "contributor": null,
-      "community": 5,
+      "community": 1,
       "norm_label": "app-radar directions report v3",
       "id": "directions_v3_doc"
     },
@@ -592,7 +988,7 @@
       "captured_at": "2026-05-07",
       "author": null,
       "contributor": null,
-      "community": 3,
+      "community": 8,
       "norm_label": "drill analysis results",
       "id": "drill_analysis_doc"
     },
@@ -605,7 +1001,7 @@
       "captured_at": "2026-05-06",
       "author": null,
       "contributor": null,
-      "community": 1,
+      "community": 8,
       "norm_label": "final verdict matrix",
       "id": "final_verdict_doc"
     },
@@ -618,7 +1014,7 @@
       "captured_at": "2026-05-07",
       "author": null,
       "contributor": null,
-      "community": 2,
+      "community": 0,
       "norm_label": "methodology 2026-05-07",
       "id": "methodology_doc"
     },
@@ -631,7 +1027,7 @@
       "captured_at": "2026-05-07",
       "author": null,
       "contributor": null,
-      "community": 2,
+      "community": 0,
       "norm_label": "morning briefing v2",
       "id": "morning_briefing_doc"
     },
@@ -644,7 +1040,7 @@
       "captured_at": "2026-05-07",
       "author": null,
       "contributor": null,
-      "community": 2,
+      "community": 0,
       "norm_label": "run ledger - evolution log",
       "id": "run_ledger_doc"
     },
@@ -657,7 +1053,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 0,
+      "community": 2,
       "norm_label": "love8 - app for couples",
       "id": "love8_app"
     },
@@ -670,7 +1066,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 0,
+      "community": 2,
       "norm_label": "chongqing daole er technology co ltd",
       "id": "chongqing_daole_er"
     },
@@ -683,7 +1079,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 0,
+      "community": 2,
       "norm_label": "love8 team / love elves",
       "id": "love8_team_brand"
     },
@@ -696,7 +1092,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 7,
+      "community": 4,
       "norm_label": "buzzarab mena dating",
       "id": "buzzarab_app"
     },
@@ -709,7 +1105,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 7,
+      "community": 4,
       "norm_label": "sherif omar (buzzarab founder)",
       "id": "sherif_omar"
     },
@@ -722,7 +1118,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 3,
+      "community": 8,
       "norm_label": "astrolink brazilian astrology",
       "id": "astrolink_app"
     },
@@ -735,7 +1131,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 3,
+      "community": 8,
       "norm_label": "orbe ventures ltda (cnpj 53.277.567/0001-76)",
       "id": "orbe_ventures_ltda"
     },
@@ -748,7 +1144,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 3,
+      "community": 8,
       "norm_label": "fabio principe (astrolink operator)",
       "id": "fabio_principe"
     },
@@ -761,7 +1157,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 6,
+      "community": 5,
       "norm_label": "sleep cycle ab (nasdaq sleep)",
       "id": "sleep_cycle_ab"
     },
@@ -774,7 +1170,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 6,
+      "community": 5,
       "norm_label": "maciej drejak (sleep cycle founder)",
       "id": "maciej_drejak"
     },
@@ -787,7 +1183,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 6,
+      "community": 5,
       "norm_label": "northcube ab",
       "id": "northcube_ab"
     },
@@ -800,7 +1196,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 5,
+      "community": 1,
       "norm_label": "labyrinthos tarot cards",
       "id": "labyrinthos_app"
     },
@@ -813,7 +1209,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 5,
+      "community": 1,
       "norm_label": "tina gong (labyrinthos founder)",
       "id": "tina_gong"
     },
@@ -826,7 +1222,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 5,
+      "community": 1,
       "norm_label": "labyrinthos llc / labyrinthos academy",
       "id": "labyrinthos_llc"
     },
@@ -839,7 +1235,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 6,
+      "community": 5,
       "norm_label": "tinder",
       "id": "tinder_app"
     },
@@ -852,7 +1248,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 6,
+      "community": 5,
       "norm_label": "match group inc (nasdaq mtch)",
       "id": "match_group"
     },
@@ -865,7 +1261,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 3,
+      "community": 1,
       "norm_label": "faladdin (tr tarot/horoscope, 25m users)",
       "id": "faladdin_app"
     },
@@ -878,7 +1274,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 3,
+      "community": 1,
       "norm_label": "yodha astrolojim ve burcum",
       "id": "yodha_app"
     },
@@ -891,7 +1287,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 3,
+      "community": 8,
       "norm_label": "finch self-care pet",
       "id": "finch_app"
     },
@@ -904,7 +1300,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 3,
+      "community": 8,
       "norm_label": "remente self care wellbeing",
       "id": "remente_app"
     },
@@ -917,7 +1313,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 4,
+      "community": 7,
       "norm_label": "mawada halal matrimonial",
       "id": "mawada_app"
     },
@@ -930,7 +1326,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 4,
+      "community": 7,
       "norm_label": "muzz (ex-muzmatch)",
       "id": "muzz_app"
     },
@@ -943,7 +1339,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 4,
+      "community": 7,
       "norm_label": "salams halal matrimonial",
       "id": "salams_app"
     },
@@ -956,7 +1352,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 4,
+      "community": 7,
       "norm_label": "alkhattaba (\u0627\u0644\u062e\u0637\u0627\u0628\u0629) egyptian matrimonial",
       "id": "alkhattaba_app"
     },
@@ -969,7 +1365,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 0,
+      "community": 2,
       "norm_label": "ana wa anta - you and i for married couples",
       "id": "ana_wa_anta_app"
     },
@@ -982,7 +1378,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 4,
+      "community": 7,
       "norm_label": "muslim pro",
       "id": "muslim_pro_app"
     },
@@ -995,7 +1391,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 8,
+      "community": 9,
       "norm_label": "duolingo",
       "id": "duolingo_app"
     },
@@ -1008,7 +1404,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 8,
+      "community": 9,
       "norm_label": "co-star astrology",
       "id": "co_star_app"
     },
@@ -1021,7 +1417,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 8,
+      "community": 9,
       "norm_label": "the pattern",
       "id": "the_pattern_app"
     },
@@ -1034,7 +1430,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 8,
+      "community": 9,
       "norm_label": "photoroom ai editor",
       "id": "photoroom_app"
     },
@@ -1047,7 +1443,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 8,
+      "community": 9,
       "norm_label": "vsco",
       "id": "vsco_app"
     },
@@ -1060,7 +1456,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 8,
+      "community": 9,
       "norm_label": "dramabox / reelshort short drama",
       "id": "dramabox_app"
     },
@@ -1073,7 +1469,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 2,
+      "community": 0,
       "norm_label": "capcut (bytedance)",
       "id": "capcut_app"
     },
@@ -1086,7 +1482,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 0,
+      "community": 2,
       "norm_label": "brazil (br)",
       "id": "country_br"
     },
@@ -1099,7 +1495,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 0,
+      "community": 2,
       "norm_label": "mexico (mx)",
       "id": "country_mx"
     },
@@ -1112,7 +1508,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 5,
+      "community": 1,
       "norm_label": "turkey (tr)",
       "id": "country_tr"
     },
@@ -1125,7 +1521,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 1,
+      "community": 3,
       "norm_label": "indonesia (id)",
       "id": "country_id"
     },
@@ -1138,7 +1534,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 1,
+      "community": 3,
       "norm_label": "vietnam (vn)",
       "id": "country_vn"
     },
@@ -1151,7 +1547,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 1,
+      "community": 3,
       "norm_label": "philippines (ph)",
       "id": "country_ph"
     },
@@ -1164,7 +1560,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 1,
+      "community": 3,
       "norm_label": "thailand (th)",
       "id": "country_th"
     },
@@ -1177,7 +1573,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 7,
+      "community": 4,
       "norm_label": "egypt (eg)",
       "id": "country_eg"
     },
@@ -1190,7 +1586,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 7,
+      "community": 4,
       "norm_label": "saudi arabia (sa)",
       "id": "country_sa"
     },
@@ -1203,7 +1599,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 7,
+      "community": 4,
       "norm_label": "united arab emirates (ae)",
       "id": "country_ae"
     },
@@ -1216,7 +1612,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 0,
+      "community": 2,
       "norm_label": "couple / couples-care apps",
       "id": "niche_couple"
     },
@@ -1229,7 +1625,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 6,
+      "community": 5,
       "norm_label": "dating apps",
       "id": "niche_dating"
     },
@@ -1242,7 +1638,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 3,
+      "community": 1,
       "norm_label": "astrology",
       "id": "niche_astrology"
     },
@@ -1255,7 +1651,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 3,
+      "community": 1,
       "norm_label": "tarot",
       "id": "niche_tarot"
     },
@@ -1268,7 +1664,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 6,
+      "community": 5,
       "norm_label": "sleep tracking",
       "id": "niche_sleep"
     },
@@ -1281,7 +1677,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 3,
+      "community": 8,
       "norm_label": "self-care / habit",
       "id": "niche_selfcare"
     },
@@ -1294,7 +1690,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 3,
+      "community": 1,
       "norm_label": "manifestation",
       "id": "niche_manifestation"
     },
@@ -1307,7 +1703,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 4,
+      "community": 7,
       "norm_label": "halal matrimonial",
       "id": "niche_matrimonial"
     },
@@ -1320,7 +1716,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 0,
+      "community": 2,
       "norm_label": "tr/couple cell (score 17)",
       "id": "cell_tr_couple"
     },
@@ -1333,7 +1729,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 0,
+      "community": 2,
       "norm_label": "mx/couple cell",
       "id": "cell_mx_couple"
     },
@@ -1346,7 +1742,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 0,
+      "community": 2,
       "norm_label": "br/couple cell",
       "id": "cell_br_couple"
     },
@@ -1359,7 +1755,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 1,
+      "community": 3,
       "norm_label": "vn/couple cell",
       "id": "cell_vn_couple"
     },
@@ -1372,7 +1768,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 1,
+      "community": 3,
       "norm_label": "th/couple cell",
       "id": "cell_th_couple"
     },
@@ -1385,7 +1781,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 7,
+      "community": 4,
       "norm_label": "sa/couple cell",
       "id": "cell_sa_couple"
     },
@@ -1398,7 +1794,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 7,
+      "community": 4,
       "norm_label": "ae/couple cell",
       "id": "cell_ae_couple"
     },
@@ -1411,7 +1807,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 7,
+      "community": 4,
       "norm_label": "eg/couple cell",
       "id": "cell_eg_couple"
     },
@@ -1424,7 +1820,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 5,
+      "community": 1,
       "norm_label": "tr/tarot cell",
       "id": "cell_tr_tarot"
     },
@@ -1437,7 +1833,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 5,
+      "community": 1,
       "norm_label": "tr/sleep cell",
       "id": "cell_tr_sleep"
     },
@@ -1450,7 +1846,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 0,
+      "community": 2,
       "norm_label": "br/astrology cell",
       "id": "cell_br_astrology"
     },
@@ -1463,7 +1859,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 1,
+      "community": 3,
       "norm_label": "id/couple cell",
       "id": "cell_id_couple"
     },
@@ -1476,7 +1872,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 0,
+      "community": 2,
       "norm_label": "direction 1: cift - tr couples anti-tracking",
       "id": "direction_1_cift"
     },
@@ -1489,7 +1885,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 0,
+      "community": 2,
       "norm_label": "direction 2: pareja+casal multi-locale latam",
       "id": "direction_2_pareja_casal"
     },
@@ -1502,7 +1898,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 1,
+      "community": 3,
       "norm_label": "direction 3: yeu - vietnam first couples",
       "id": "direction_3_yeu"
     },
@@ -1515,7 +1911,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 7,
+      "community": 4,
       "norm_label": "direction 4: maktub - arab married couples (downgraded)",
       "id": "direction_4_maktub"
     },
@@ -1528,7 +1924,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 5,
+      "community": 1,
       "norm_label": "direction 5: tarot turkce - native tr tarot",
       "id": "direction_5_tarot_turkce"
     },
@@ -1541,7 +1937,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 5,
+      "community": 1,
       "norm_label": "hyp: sleep cycle tr no turkish (falsified)",
       "id": "hyp_sleep_cycle_no_tr"
     },
@@ -1554,7 +1950,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 7,
+      "community": 4,
       "norm_label": "hyp: mena $30-60/mau (falsified, revised $6-15)",
       "id": "hyp_mena_30_60_mau"
     },
@@ -1567,7 +1963,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 5,
+      "community": 1,
       "norm_label": "hyp: labyrinthos machine-translated tr (validated)",
       "id": "hyp_labyrinthos_machine_tr"
     },
@@ -1593,7 +1989,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 6,
+      "community": 5,
       "norm_label": "hyp: sleep cycle $2.25/mau revenue anchor (validated)",
       "id": "hyp_sleep_cycle_anchor"
     },
@@ -1606,7 +2002,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 2,
+      "community": 0,
       "norm_label": "hyp: trends momentum signal (failed 2/2)",
       "id": "hyp_trends_momentum"
     },
@@ -1619,7 +2015,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 1,
+      "community": 3,
       "norm_label": "hyp: revenue dimension critical (validated)",
       "id": "hyp_revenue_dim_critical"
     },
@@ -1632,7 +2028,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 4,
+      "community": 7,
       "norm_label": "hyp: cultural risk mena \u00d7 astrology penalty (validated)",
       "id": "hyp_cultural_risk_filter"
     },
@@ -1645,7 +2041,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 1,
+      "community": 3,
       "norm_label": "hyp: id/astrology tiktok 1.7m = strong (falsified)",
       "id": "hyp_id_astrology_strong"
     },
@@ -1658,7 +2054,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 4,
+      "community": 0,
       "norm_label": "hyp: subjective deliverable-complete stop (prohibited)",
       "id": "hyp_subjective_complete_stop"
     },
@@ -1671,7 +2067,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 2,
+      "community": 0,
       "norm_label": "phase 0: read run ledger",
       "id": "phase_0_read_ledger"
     },
@@ -1684,7 +2080,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 1,
+      "community": 3,
       "norm_label": "phase 1.5: arpu + conversion research",
       "id": "phase_1_5_arpu"
     },
@@ -1697,7 +2093,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 28,
+      "community": 41,
       "norm_label": "phase 10: niche expansion",
       "id": "phase_10_niche_expand"
     },
@@ -1710,7 +2106,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 2,
+      "community": 0,
       "norm_label": "phase 11: country expansion / reflection",
       "id": "phase_11_country_expand"
     },
@@ -1723,7 +2119,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 2,
+      "community": 0,
       "norm_label": "phase 12: validate / self-improvement",
       "id": "phase_12_validate"
     },
@@ -1736,7 +2132,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 5,
+      "community": 1,
       "norm_label": "phase 14: ios cross-check",
       "id": "phase_14_ios"
     },
@@ -1749,7 +2145,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 6,
+      "community": 5,
       "norm_label": "phase 15: founder background research",
       "id": "phase_15_founder"
     },
@@ -1762,7 +2158,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 4,
+      "community": 7,
       "norm_label": "cultural validation subagent (maktub)",
       "id": "subagent_cultural_validation"
     },
@@ -1775,7 +2171,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 3,
+      "community": 8,
       "norm_label": "localization audit subagent",
       "id": "subagent_localization_audit"
     },
@@ -1788,7 +2184,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 3,
+      "community": 1,
       "norm_label": "aso keyword volume subagent",
       "id": "subagent_aso_keyword"
     },
@@ -1801,7 +2197,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 1,
+      "community": 3,
       "norm_label": "country arpu (per user / yr)",
       "id": "metric_arpu"
     },
@@ -1814,7 +2210,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 1,
+      "community": 3,
       "norm_label": "free->paid conversion rate",
       "id": "metric_conversion_rate"
     },
@@ -1827,7 +2223,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 1,
+      "community": 3,
       "norm_label": "niche arpu multiplier",
       "id": "metric_niche_multiplier"
     },
@@ -1840,7 +2236,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 1,
+      "community": 3,
       "norm_label": "$/mau/month",
       "id": "metric_dollar_per_mau"
     },
@@ -1853,7 +2249,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 1,
+      "community": 3,
       "norm_label": "1-star ratio",
       "id": "metric_one_star_pct"
     },
@@ -1866,7 +2262,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 1,
+      "community": 3,
       "norm_label": "recent low_pct",
       "id": "metric_low_pct"
     },
@@ -1879,7 +2275,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 1,
+      "community": 3,
       "norm_label": "composite score",
       "id": "metric_composite_score"
     },
@@ -1892,7 +2288,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 1,
+      "community": 3,
       "norm_label": "tiktok engagement likes",
       "id": "metric_tiktok_likes"
     },
@@ -1905,7 +2301,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 4,
+      "community": 7,
       "norm_label": "cultural validation status",
       "id": "metric_cultural_validation"
     },
@@ -1931,7 +2327,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 0,
+      "community": 2,
       "norm_label": "founder responsiveness score",
       "id": "metric_founder_responsiveness"
     },
@@ -1944,7 +2340,7 @@
       "captured_at": "2024",
       "author": null,
       "contributor": null,
-      "community": 6,
+      "community": 5,
       "norm_label": "sleep cycle fy2024 $24.7m arr / 918k subs",
       "id": "fact_sleep_cycle_24_7m_arr"
     },
@@ -1957,7 +2353,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 6,
+      "community": 5,
       "norm_label": "sleep cycle $2.25/mau/mo anchor",
       "id": "fact_sleep_cycle_2_25_mau"
     },
@@ -1970,7 +2366,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 7,
+      "community": 4,
       "norm_label": "buzzarab ad-only after 10 years (negative paid-sub signal)",
       "id": "fact_buzzarab_ad_only"
     },
@@ -1983,7 +2379,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 0,
+      "community": 2,
       "norm_label": "love8 7m downloads, no public mrr",
       "id": "fact_love8_7m_downloads"
     },
@@ -1996,7 +2392,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 3,
+      "community": 1,
       "norm_label": "faladdin 25m users tr-anchored",
       "id": "fact_faladdin_25m_users"
     },
@@ -2009,7 +2405,7 @@
       "captured_at": "2025-06",
       "author": null,
       "contributor": null,
-      "community": 5,
+      "community": 1,
       "norm_label": "labyrinthos v2.60 (jun 2025) admits machine-translated tr/th",
       "id": "fact_labyrinthos_v260_machine_tr"
     },
@@ -2022,7 +2418,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 7,
+      "community": 4,
       "norm_label": "buzzarab msa-only (no dialect)",
       "id": "fact_buzzarab_msa_only"
     },
@@ -2035,7 +2431,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 5,
+      "community": 1,
       "norm_label": "sleep cycle does support turkish ios+android",
       "id": "fact_sleep_cycle_has_tr"
     },
@@ -2048,7 +2444,7 @@
       "captured_at": "2024",
       "author": null,
       "contributor": null,
-      "community": 7,
+      "community": 4,
       "norm_label": "saudi $393 gaming arpu (highest mena)",
       "id": "fact_sa_393_arpu"
     },
@@ -2061,7 +2457,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 5,
+      "community": 1,
       "norm_label": "love8 tr 20.9% 1-star, 7516 1-star reviews",
       "id": "fact_tr_couple_20_9_one_star"
     },
@@ -2074,7 +2470,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 0,
+      "community": 2,
       "norm_label": "quote: 580km/h phantom trip premium complaint",
       "id": "fact_love8_580kmh_quote"
     },
@@ -2087,7 +2483,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 0,
+      "community": 2,
       "norm_label": "quote: aplicativo da discordia (br love8)",
       "id": "fact_aplicativo_discordia"
     },
@@ -2100,7 +2496,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 0,
+      "community": 2,
       "norm_label": "quote: tengo miedo de que me secuestren (mx safety)",
       "id": "fact_mx_secuestren_quote"
     },
@@ -2113,7 +2509,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 0,
+      "community": 2,
       "norm_label": "mx/couple tiktok 29,783 likes (matrix peak)",
       "id": "fact_mx_29k_tiktok"
     },
@@ -2126,7 +2522,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 4,
+      "community": 7,
       "norm_label": "couples app form factor is korean-american import",
       "id": "fact_couples_form_factor_western"
     },
@@ -2139,7 +2535,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 4,
+      "community": 7,
       "norm_label": "no organic arabic discourse for couples-care app",
       "id": "fact_no_organic_arabic_couples_app"
     },
@@ -2152,7 +2548,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 4,
+      "community": 7,
       "norm_label": "no saudi/uae dev shipped post-marriage couples app",
       "id": "fact_local_devs_avoided_niche"
     },
@@ -2165,7 +2561,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 8,
+      "community": 9,
       "norm_label": "revenuecat global avg dl->paid 30d = 1.7%",
       "id": "fact_revenuecat_1_7_pct"
     },
@@ -2178,7 +2574,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 6,
+      "community": 5,
       "norm_label": "couples multiplier revised 4x -> 3x",
       "id": "fact_couples_multiplier_revision"
     },
@@ -2191,7 +2587,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 3,
+      "community": 1,
       "norm_label": "tr tarot aso volume very high (matrix peak)",
       "id": "fact_tr_tarot_volume_very_high"
     },
@@ -2204,7 +2600,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 3,
+      "community": 1,
       "norm_label": "br mapa astral very high volume (#4 globally)",
       "id": "fact_br_mapa_astral_very_high"
     },
@@ -2217,7 +2613,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 0,
+      "community": 2,
       "norm_label": "anti-tracking / anti-surveillance thesis",
       "id": "thesis_anti_tracking"
     },
@@ -2230,7 +2626,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 0,
+      "community": 2,
       "norm_label": "lifetime unlock (\u20ba149 / r$/peso) pricing",
       "id": "thesis_lifetime_unlock"
     },
@@ -2243,7 +2639,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 5,
+      "community": 1,
       "norm_label": "language localization gap thesis",
       "id": "thesis_language_gap"
     },
@@ -2256,7 +2652,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 7,
+      "community": 4,
       "norm_label": "dialect-native arabic ux thesis",
       "id": "thesis_dialect_native_arabic"
     },
@@ -2269,7 +2665,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 7,
+      "community": 4,
       "norm_label": "landing-page cultural pretest (meta ads)",
       "id": "thesis_landing_page_test"
     },
@@ -2282,7 +2678,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 2,
+      "community": 0,
       "norm_label": "self-evolving methodology",
       "id": "thesis_self_evolving_methodology"
     },
@@ -2295,7 +2691,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 1,
+      "community": 3,
       "norm_label": "revenue \u00d7 vulnerability matrix",
       "id": "thesis_revenue_x_vulnerability"
     },
@@ -2308,7 +2704,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 7,
+      "community": 4,
       "norm_label": "whale market sa/ae hypothesis (revised)",
       "id": "thesis_whale_market_sa_ae"
     },
@@ -2321,7 +2717,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 5,
+      "community": 1,
       "norm_label": "tarot learning vs reading niche pivot",
       "id": "thesis_tarot_learning_vs_reading"
     },
@@ -2334,7 +2730,7 @@
       "captured_at": "2026-05-06",
       "author": null,
       "contributor": null,
-      "community": 2,
+      "community": 0,
       "norm_label": "run 2026-05-06 23:00 (initial scan)",
       "id": "run_2026_05_06"
     },
@@ -2347,7 +2743,7 @@
       "captured_at": "2026-05-07",
       "author": null,
       "contributor": null,
-      "community": 1,
+      "community": 3,
       "norm_label": "run 2026-05-07 07:50 (revenue dim)",
       "id": "run_2026_05_07_morning"
     },
@@ -2360,7 +2756,7 @@
       "captured_at": "2026-05-07",
       "author": null,
       "contributor": null,
-      "community": 4,
+      "community": 0,
       "norm_label": "run 2026-05-07 08:30 (cultural correction)",
       "id": "run_2026_05_07_continuation"
     },
@@ -2373,7 +2769,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 2,
+      "community": 0,
       "norm_label": "project memory system (~/.claude/projects/.../memory)",
       "id": "memory_system"
     },
@@ -2386,7 +2782,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 2,
+      "community": 0,
       "norm_label": "feedback_research_methodology.md",
       "id": "feedback_methodology_md"
     },
@@ -2399,7 +2795,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 5,
+      "community": 0,
       "norm_label": "graphify knowledge graph layer",
       "id": "graphify_layer"
     },
@@ -2412,7 +2808,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 2,
+      "community": 0,
       "norm_label": "google-play-scraper library",
       "id": "google_play_scraper"
     },
@@ -2425,7 +2821,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 2,
+      "community": 0,
       "norm_label": "arctic shift reddit mirror",
       "id": "arctic_shift"
     },
@@ -2438,7 +2834,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 2,
+      "community": 0,
       "norm_label": "google trends api (rate-limited)",
       "id": "google_trends_api"
     },
@@ -2451,7 +2847,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 2,
+      "community": 0,
       "norm_label": "tikwm tiktok mirror",
       "id": "tikwm_tiktok_mirror"
     },
@@ -2464,7 +2860,7 @@
       "captured_at": "2025",
       "author": null,
       "contributor": null,
-      "community": 8,
+      "community": 9,
       "norm_label": "revenuecat state of subscription apps 2025",
       "id": "revenuecat_sosa"
     },
@@ -2477,7 +2873,7 @@
       "captured_at": "2025",
       "author": null,
       "contributor": null,
-      "community": 8,
+      "community": 9,
       "norm_label": "sensor tower 2025 state of mobile consumers",
       "id": "sensor_tower_2025"
     },
@@ -2490,7 +2886,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 4,
+      "community": 7,
       "norm_label": "campaign middle east saudi gen z playbook",
       "id": "campaign_middle_east"
     },
@@ -2503,7 +2899,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 8,
+      "community": 9,
       "norm_label": "appsflyer global arpu averages",
       "id": "appsflyer_global"
     },
@@ -2516,7 +2912,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 0,
+      "community": 2,
       "norm_label": "love8 team ~10-30 people",
       "id": "team_size_chongqing"
     },
@@ -2529,7 +2925,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 0,
+      "community": 2,
       "norm_label": "solo-displacement realism medium (love8)",
       "id": "displacement_medium_love8"
     },
@@ -2542,7 +2938,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 6,
+      "community": 5,
       "norm_label": "solo-displacement zero (tinder)",
       "id": "displacement_zero_tinder"
     },
@@ -2555,7 +2951,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 3,
+      "community": 8,
       "norm_label": "solo-displacement low-med (astrolink)",
       "id": "displacement_low_astrolink"
     },
@@ -2568,7 +2964,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 6,
+      "community": 5,
       "norm_label": "solo-displacement very low (sleep cycle / labyrinthos)",
       "id": "displacement_very_low_sleep"
     },
@@ -2581,7 +2977,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 4,
+      "community": 0,
       "norm_label": "enforcement rule: subjective deliverable-complete stop forbidden",
       "id": "rule_no_subjective_stop"
     },
@@ -2594,7 +2990,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 2,
+      "community": 0,
       "norm_label": "rule: hours = target not ceiling",
       "id": "rule_hours_target"
     },
@@ -2607,12 +3003,276 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 4,
+      "community": 7,
       "norm_label": "rule: cultural validation mandatory before top-5 promotion",
       "id": "rule_cultural_mandatory"
     }
   ],
   "links": [
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "extract_d2_themes.py",
+      "source_location": "L43",
+      "weight": 1.0,
+      "_src": "c_users_demosgod_desktop_projects_playstore_app_extract_d2_themes_py",
+      "_tgt": "extract_d2_themes_flatten",
+      "source": "c_users_demosgod_desktop_projects_playstore_app_extract_d2_themes_py",
+      "target": "extract_d2_themes_flatten",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "extract_d2_themes.py",
+      "source_location": "L66",
+      "weight": 1.0,
+      "_src": "c_users_demosgod_desktop_projects_playstore_app_extract_d2_themes_py",
+      "_tgt": "extract_d2_themes_app_mentions",
+      "source": "c_users_demosgod_desktop_projects_playstore_app_extract_d2_themes_py",
+      "target": "extract_d2_themes_app_mentions",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "extract_d2_themes.py",
+      "source_location": "L75",
+      "weight": 1.0,
+      "_src": "c_users_demosgod_desktop_projects_playstore_app_extract_d2_themes_py",
+      "_tgt": "extract_d2_themes_has_demand",
+      "source": "c_users_demosgod_desktop_projects_playstore_app_extract_d2_themes_py",
+      "target": "extract_d2_themes_has_demand",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "extract_d2_themes.py",
+      "source_location": "L84",
+      "weight": 1.0,
+      "_src": "c_users_demosgod_desktop_projects_playstore_app_extract_d2_themes_py",
+      "_tgt": "extract_d2_themes_has_migration",
+      "source": "c_users_demosgod_desktop_projects_playstore_app_extract_d2_themes_py",
+      "target": "extract_d2_themes_has_migration",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "findings\\raw\\_d11_analyze.mjs",
+      "source_location": "L14",
+      "weight": 1.0,
+      "_src": "c_users_demosgod_desktop_projects_playstore_app_findings_raw_d11_analyze_mjs",
+      "_tgt": "d11_analyze_pct",
+      "source": "c_users_demosgod_desktop_projects_playstore_app_findings_raw_d11_analyze_mjs",
+      "target": "d11_analyze_pct",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "findings\\raw\\play-store\\_explore_analyze.mjs",
+      "source_location": "L22",
+      "weight": 1.0,
+      "_src": "c_users_demosgod_desktop_projects_playstore_app_findings_raw_play_store_explore_analyze_mjs",
+      "_tgt": "explore_analyze_recentlowpct",
+      "source": "c_users_demosgod_desktop_projects_playstore_app_findings_raw_play_store_explore_analyze_mjs",
+      "target": "explore_analyze_recentlowpct",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "findings\\raw\\play-store\\_explore_analyze.mjs",
+      "source_location": "L40",
+      "weight": 1.0,
+      "_src": "c_users_demosgod_desktop_projects_playstore_app_findings_raw_play_store_explore_analyze_mjs",
+      "_tgt": "explore_analyze_topverbatim",
+      "source": "c_users_demosgod_desktop_projects_playstore_app_findings_raw_play_store_explore_analyze_mjs",
+      "target": "explore_analyze_topverbatim",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "findings\\raw\\play-store\\_explore_meta.mjs",
+      "source_location": "L2",
+      "weight": 1.0,
+      "_src": "c_users_demosgod_desktop_projects_playstore_app_findings_raw_play_store_explore_meta_mjs",
+      "_tgt": "google_play_scraper",
+      "source": "c_users_demosgod_desktop_projects_playstore_app_findings_raw_play_store_explore_meta_mjs",
+      "target": "google_play_scraper",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "findings\\raw\\play-store\\_t7_pull.mjs",
+      "source_location": "L8",
+      "weight": 1.0,
+      "_src": "c_users_demosgod_desktop_projects_playstore_app_findings_raw_play_store_t7_pull_mjs",
+      "_tgt": "google_play_scraper",
+      "source": "c_users_demosgod_desktop_projects_playstore_app_findings_raw_play_store_t7_pull_mjs",
+      "target": "google_play_scraper",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "findings\\raw\\play-store\\_t7_pull.mjs",
+      "source_location": "L29",
+      "weight": 1.0,
+      "_src": "c_users_demosgod_desktop_projects_playstore_app_findings_raw_play_store_t7_pull_mjs",
+      "_tgt": "t7_pull_pullreviewsall",
+      "source": "c_users_demosgod_desktop_projects_playstore_app_findings_raw_play_store_t7_pull_mjs",
+      "target": "t7_pull_pullreviewsall",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "findings\\raw\\play-store\\_tick6_analyze.mjs",
+      "source_location": "L6",
+      "weight": 1.0,
+      "_src": "c_users_demosgod_desktop_projects_playstore_app_findings_raw_play_store_tick6_analyze_mjs",
+      "_tgt": "tick6_analyze_load",
+      "source": "c_users_demosgod_desktop_projects_playstore_app_findings_raw_play_store_tick6_analyze_mjs",
+      "target": "tick6_analyze_load",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "findings\\raw\\play-store\\_tick6_analyze.mjs",
+      "source_location": "L7",
+      "weight": 1.0,
+      "_src": "c_users_demosgod_desktop_projects_playstore_app_findings_raw_play_store_tick6_analyze_mjs",
+      "_tgt": "tick6_analyze_arr",
+      "source": "c_users_demosgod_desktop_projects_playstore_app_findings_raw_play_store_tick6_analyze_mjs",
+      "target": "tick6_analyze_arr",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "findings\\raw\\play-store\\_tick6_analyze.mjs",
+      "source_location": "L9",
+      "weight": 1.0,
+      "_src": "c_users_demosgod_desktop_projects_playstore_app_findings_raw_play_store_tick6_analyze_mjs",
+      "_tgt": "tick6_analyze_lowpct",
+      "source": "c_users_demosgod_desktop_projects_playstore_app_findings_raw_play_store_tick6_analyze_mjs",
+      "target": "tick6_analyze_lowpct",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "findings\\raw\\play-store\\_tick6_analyze.mjs",
+      "source_location": "L15",
+      "weight": 1.0,
+      "_src": "c_users_demosgod_desktop_projects_playstore_app_findings_raw_play_store_tick6_analyze_mjs",
+      "_tgt": "tick6_analyze_inwindow",
+      "source": "c_users_demosgod_desktop_projects_playstore_app_findings_raw_play_store_tick6_analyze_mjs",
+      "target": "tick6_analyze_inwindow",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "findings\\raw\\play-store\\_tick6_analyze.mjs",
+      "source_location": "L22",
+      "weight": 1.0,
+      "_src": "c_users_demosgod_desktop_projects_playstore_app_findings_raw_play_store_tick6_analyze_mjs",
+      "_tgt": "tick6_analyze_analyze",
+      "source": "c_users_demosgod_desktop_projects_playstore_app_findings_raw_play_store_tick6_analyze_mjs",
+      "target": "tick6_analyze_analyze",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "findings\\raw\\play-store\\_tick6_analyze.mjs",
+      "source_location": "L23",
+      "weight": 1.0,
+      "_src": "tick6_analyze_analyze",
+      "_tgt": "tick6_analyze_load",
+      "source": "tick6_analyze_load",
+      "target": "tick6_analyze_analyze",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "scripts\\final_synthesis.py",
+      "source_location": "L10",
+      "weight": 1.0,
+      "_src": "final_synthesis_safe_load",
+      "_tgt": "tick6_analyze_load",
+      "source": "tick6_analyze_load",
+      "target": "final_synthesis_safe_load"
+    },
+    {
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "scripts\\synthesize.py",
+      "source_location": "L11",
+      "weight": 1.0,
+      "_src": "synthesize_safe_load",
+      "_tgt": "tick6_analyze_load",
+      "source": "tick6_analyze_load",
+      "target": "synthesize_safe_load"
+    },
+    {
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "scripts\\legacy\\reddit_top_trees.py",
+      "source_location": "L12",
+      "weight": 1.0,
+      "_src": "reddit_top_trees_safe_load",
+      "_tgt": "tick6_analyze_load",
+      "source": "tick6_analyze_load",
+      "target": "reddit_top_trees_safe_load"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "findings\\raw\\play-store\\_tick6_analyze.mjs",
+      "source_location": "L25",
+      "weight": 1.0,
+      "_src": "tick6_analyze_analyze",
+      "_tgt": "tick6_analyze_arr",
+      "source": "tick6_analyze_arr",
+      "target": "tick6_analyze_analyze",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "findings\\raw\\play-store\\_tick6_analyze.mjs",
+      "source_location": "L34",
+      "weight": 1.0,
+      "_src": "tick6_analyze_analyze",
+      "_tgt": "tick6_analyze_lowpct",
+      "source": "tick6_analyze_lowpct",
+      "target": "tick6_analyze_analyze",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "findings\\raw\\play-store\\_tick6_analyze.mjs",
+      "source_location": "L29",
+      "weight": 1.0,
+      "_src": "tick6_analyze_analyze",
+      "_tgt": "tick6_analyze_inwindow",
+      "source": "tick6_analyze_inwindow",
+      "target": "tick6_analyze_analyze",
+      "confidence_score": 1.0
+    },
     {
       "relation": "contains",
       "confidence": "EXTRACTED",
@@ -2623,6 +3283,66 @@
       "_tgt": "analyze_drill_classify",
       "source": "c_users_demosgod_desktop_projects_playstore_app_scripts_analyze_drill_py",
       "target": "analyze_drill_classify",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts\\analyze_invoice_3000.mjs",
+      "source_location": "L51",
+      "weight": 1.0,
+      "_src": "c_users_demosgod_desktop_projects_playstore_app_scripts_analyze_invoice_3000_mjs",
+      "_tgt": "analyze_invoice_3000_classify",
+      "source": "c_users_demosgod_desktop_projects_playstore_app_scripts_analyze_invoice_3000_mjs",
+      "target": "analyze_invoice_3000_classify",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts\\analyze_invoice_3000.mjs",
+      "source_location": "L61",
+      "weight": 1.0,
+      "_src": "c_users_demosgod_desktop_projects_playstore_app_scripts_analyze_invoice_3000_mjs",
+      "_tgt": "analyze_invoice_3000_analyzecountry",
+      "source": "c_users_demosgod_desktop_projects_playstore_app_scripts_analyze_invoice_3000_mjs",
+      "target": "analyze_invoice_3000_analyzecountry",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts\\analyze_invoice_3000.mjs",
+      "source_location": "L71",
+      "weight": 1.0,
+      "_src": "analyze_invoice_3000_analyzecountry",
+      "_tgt": "analyze_invoice_3000_classify",
+      "source": "analyze_invoice_3000_classify",
+      "target": "analyze_invoice_3000_analyzecountry",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts\\d2_competitor_descriptions.mjs",
+      "source_location": "L21",
+      "weight": 1.0,
+      "_src": "c_users_demosgod_desktop_projects_playstore_app_scripts_d2_competitor_descriptions_mjs",
+      "_tgt": "d2_competitor_descriptions_resolveappid",
+      "source": "c_users_demosgod_desktop_projects_playstore_app_scripts_d2_competitor_descriptions_mjs",
+      "target": "d2_competitor_descriptions_resolveappid",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts\\de_fr_jp_invoicing_scan.mjs",
+      "source_location": "L61",
+      "weight": 1.0,
+      "_src": "c_users_demosgod_desktop_projects_playstore_app_scripts_de_fr_jp_invoicing_scan_mjs",
+      "_tgt": "de_fr_jp_invoicing_scan_picktop3",
+      "source": "c_users_demosgod_desktop_projects_playstore_app_scripts_de_fr_jp_invoicing_scan_mjs",
+      "target": "de_fr_jp_invoicing_scan_picktop3",
       "confidence_score": 1.0
     },
     {
@@ -2659,6 +3379,210 @@
       "_tgt": "final_synthesis_tiktok_engagement",
       "source": "c_users_demosgod_desktop_projects_playstore_app_scripts_final_synthesis_py",
       "target": "final_synthesis_tiktok_engagement",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts\\games_flame_scan.mjs",
+      "source_location": "L6",
+      "weight": 1.0,
+      "_src": "c_users_demosgod_desktop_projects_playstore_app_scripts_games_flame_scan_mjs",
+      "_tgt": "google_play_scraper",
+      "source": "c_users_demosgod_desktop_projects_playstore_app_scripts_games_flame_scan_mjs",
+      "target": "google_play_scraper",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts\\games_flame_scan.mjs",
+      "source_location": "L64",
+      "weight": 1.0,
+      "_src": "c_users_demosgod_desktop_projects_playstore_app_scripts_games_flame_scan_mjs",
+      "_tgt": "games_flame_scan_safe",
+      "source": "c_users_demosgod_desktop_projects_playstore_app_scripts_games_flame_scan_mjs",
+      "target": "games_flame_scan_safe",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts\\games_flame_scan.mjs",
+      "source_location": "L68",
+      "weight": 1.0,
+      "_src": "c_users_demosgod_desktop_projects_playstore_app_scripts_games_flame_scan_mjs",
+      "_tgt": "games_flame_scan_agedays",
+      "source": "c_users_demosgod_desktop_projects_playstore_app_scripts_games_flame_scan_mjs",
+      "target": "games_flame_scan_agedays",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts\\games_flame_scan.mjs",
+      "source_location": "L72",
+      "weight": 1.0,
+      "_src": "c_users_demosgod_desktop_projects_playstore_app_scripts_games_flame_scan_mjs",
+      "_tgt": "games_flame_scan_pullapp",
+      "source": "c_users_demosgod_desktop_projects_playstore_app_scripts_games_flame_scan_mjs",
+      "target": "games_flame_scan_pullapp",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts\\games_flame_scan.mjs",
+      "source_location": "L85",
+      "weight": 1.0,
+      "_src": "c_users_demosgod_desktop_projects_playstore_app_scripts_games_flame_scan_mjs",
+      "_tgt": "games_flame_scan_pullreviews",
+      "source": "c_users_demosgod_desktop_projects_playstore_app_scripts_games_flame_scan_mjs",
+      "target": "games_flame_scan_pullreviews",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts\\games_flame_scan.mjs",
+      "source_location": "L110",
+      "weight": 1.0,
+      "_src": "c_users_demosgod_desktop_projects_playstore_app_scripts_games_flame_scan_mjs",
+      "_tgt": "games_flame_scan_computelowpct",
+      "source": "c_users_demosgod_desktop_projects_playstore_app_scripts_games_flame_scan_mjs",
+      "target": "games_flame_scan_computelowpct",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts\\games_flame_scan.mjs",
+      "source_location": "L118",
+      "weight": 1.0,
+      "_src": "c_users_demosgod_desktop_projects_playstore_app_scripts_games_flame_scan_mjs",
+      "_tgt": "games_flame_scan_toplowquotes",
+      "source": "c_users_demosgod_desktop_projects_playstore_app_scripts_games_flame_scan_mjs",
+      "target": "games_flame_scan_toplowquotes",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts\\games_flame_scan.mjs",
+      "source_location": "L142",
+      "weight": 1.0,
+      "_src": "c_users_demosgod_desktop_projects_playstore_app_scripts_games_flame_scan_mjs",
+      "_tgt": "games_flame_scan_themefreq",
+      "source": "c_users_demosgod_desktop_projects_playstore_app_scripts_games_flame_scan_mjs",
+      "target": "games_flame_scan_themefreq",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts\\games_flame_scan.mjs",
+      "source_location": "L158",
+      "weight": 1.0,
+      "_src": "c_users_demosgod_desktop_projects_playstore_app_scripts_games_flame_scan_mjs",
+      "_tgt": "games_flame_scan_main",
+      "source": "c_users_demosgod_desktop_projects_playstore_app_scripts_games_flame_scan_mjs",
+      "target": "games_flame_scan_main",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts\\games_flame_scan.mjs",
+      "source_location": "L73",
+      "weight": 1.0,
+      "_src": "games_flame_scan_pullapp",
+      "_tgt": "games_flame_scan_safe",
+      "source": "games_flame_scan_safe",
+      "target": "games_flame_scan_pullapp",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts\\games_flame_scan.mjs",
+      "source_location": "L90",
+      "weight": 1.0,
+      "_src": "games_flame_scan_pullreviews",
+      "_tgt": "games_flame_scan_safe",
+      "source": "games_flame_scan_safe",
+      "target": "games_flame_scan_pullreviews",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts\\games_flame_scan.mjs",
+      "source_location": "L167",
+      "weight": 1.0,
+      "_src": "games_flame_scan_main",
+      "_tgt": "games_flame_scan_pullapp",
+      "source": "games_flame_scan_pullapp",
+      "target": "games_flame_scan_main",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts\\games_flame_scan.mjs",
+      "source_location": "L173",
+      "weight": 1.0,
+      "_src": "games_flame_scan_main",
+      "_tgt": "games_flame_scan_pullreviews",
+      "source": "games_flame_scan_pullreviews",
+      "target": "games_flame_scan_main",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts\\games_flame_scan.mjs",
+      "source_location": "L174",
+      "weight": 1.0,
+      "_src": "games_flame_scan_main",
+      "_tgt": "games_flame_scan_computelowpct",
+      "source": "games_flame_scan_computelowpct",
+      "target": "games_flame_scan_main",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts\\games_flame_scan.mjs",
+      "source_location": "L175",
+      "weight": 1.0,
+      "_src": "games_flame_scan_main",
+      "_tgt": "games_flame_scan_toplowquotes",
+      "source": "games_flame_scan_toplowquotes",
+      "target": "games_flame_scan_main",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts\\games_flame_scan.mjs",
+      "source_location": "L176",
+      "weight": 1.0,
+      "_src": "games_flame_scan_main",
+      "_tgt": "games_flame_scan_themefreq",
+      "source": "games_flame_scan_themefreq",
+      "target": "games_flame_scan_main",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts\\ios_invoice_drill.mjs",
+      "source_location": "L17",
+      "weight": 1.0,
+      "_src": "c_users_demosgod_desktop_projects_playstore_app_scripts_ios_invoice_drill_mjs",
+      "_tgt": "ios_invoice_drill_fetchall",
+      "source": "c_users_demosgod_desktop_projects_playstore_app_scripts_ios_invoice_drill_mjs",
+      "target": "ios_invoice_drill_fetchall",
       "confidence_score": 1.0
     },
     {

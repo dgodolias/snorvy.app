@@ -1,0 +1,24 @@
+# Graphify local cache (content-hashed, regenerable)
+graphify-out/cache/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Node
+node_modules/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+
+# Env / secrets
+.env
+.env.local
+*.key

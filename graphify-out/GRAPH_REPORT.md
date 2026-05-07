@@ -1,12 +1,12 @@
 # Graph Report - playstore_app  (2026-05-07)
 
 ## Corpus Check
-- 20 files · ~56,866 words
+- 38 files · ~177,465 words
 - Verdict: corpus is large enough that graph structure adds value.
 
 ## Summary
-- 200 nodes · 283 edges · 11 communities detected
-- Extraction: 96% EXTRACTED · 4% INFERRED · 0% AMBIGUOUS · INFERRED: 12 edges (avg confidence: 0.78)
+- 244 nodes · 327 edges · 14 communities detected
+- Extraction: 95% EXTRACTED · 5% INFERRED · 0% AMBIGUOUS · INFERRED: 15 edges (avg confidence: 0.78)
 - Token cost: 0 input · 0 output
 
 ## Community Hubs (Navigation)
@@ -19,8 +19,11 @@
 - [[_COMMUNITY_Community 6|Community 6]]
 - [[_COMMUNITY_Community 7|Community 7]]
 - [[_COMMUNITY_Community 8|Community 8]]
+- [[_COMMUNITY_Community 9|Community 9]]
 - [[_COMMUNITY_Community 10|Community 10]]
-- [[_COMMUNITY_Community 28|Community 28]]
+- [[_COMMUNITY_Community 12|Community 12]]
+- [[_COMMUNITY_Community 14|Community 14]]
+- [[_COMMUNITY_Community 41|Community 41]]
 
 ## God Nodes (most connected - your core abstractions)
 1. `Love8 - App for Couples` - 17 edges
@@ -35,16 +38,16 @@
 10. `buzzArab MENA Dating` - 10 edges
 
 ## Surprising Connections (you probably didn't know these)
+- `safe_load()` --calls--> `load()`  [INFERRED]
+  scripts\final_synthesis.py → findings\raw\play-store\_tick6_analyze.mjs
+- `safe_load()` --calls--> `load()`  [INFERRED]
+  scripts\synthesize.py → findings\raw\play-store\_tick6_analyze.mjs
+- `safe_load()` --calls--> `load()`  [INFERRED]
+  scripts\legacy\reddit_top_trees.py → findings\raw\play-store\_tick6_analyze.mjs
 - `Morning Briefing v2` --references--> `Duolingo`  [INFERRED]
   findings/reports/morning-briefing.md → findings/raw/market_economics.md
 - `Dating Apps` --semantically_similar_to--> `Halal Matrimonial`  [INFERRED] [semantically similar]
   findings/raw/market_economics.md → findings/raw/maktub_cultural_validation.md
-- `$/MAU/month` --conceptually_related_to--> `Lifetime Unlock (₺149 / R$/peso) Pricing`  [INFERRED]
-  findings/raw/market_economics.md → findings/reports/directions.md
-- `Love8 - App for Couples` --references--> `TH/couple cell`  [EXTRACTED]
-  findings/raw/competitor_revenues.md → findings/reports/directions.md
-- `Love8 - App for Couples` --references--> `Love8 TR 20.9% 1-star, 7516 1-star reviews`  [EXTRACTED]
-  findings/raw/competitor_revenues.md → findings/reports/FINAL_VERDICT.txt
 
 ## Hyperedges (group relationships)
 - **v2 to v3 thesis falsification cluster** — hyp_sleep_cycle_no_tr, hyp_mena_30_60_mau, fact_sleep_cycle_has_tr, fact_buzzarab_ad_only, fact_sleep_cycle_2_25_mau, subagent_cultural_validation, subagent_localization_audit, directions_v3_doc [INFERRED 0.92]
@@ -59,69 +62,83 @@
 ## Communities
 
 ### Community 0 - "Community 0"
-Cohesion: 0.12
-Nodes (23): ana wa anta - You and I for Married Couples, BR/astrology cell, BR/couple cell, MX/couple cell, TR/couple cell (score 17), Chongqing Daole Er Technology Co Ltd, Brazil (BR), Mexico (MX) (+15 more)
+Cohesion: 0.1
+Nodes (23): Arctic Shift Reddit Mirror, CapCut (ByteDance), feedback_research_methodology.md, google-play-scraper Library, Google Trends API (rate-limited), Graphify Knowledge Graph Layer, HYP: Subjective deliverable-complete stop (PROHIBITED), HYP: Trends momentum signal (FAILED 2/2) (+15 more)
 
 ### Community 1 - "Community 1"
-Cohesion: 0.11
-Nodes (23): ID/couple cell, TH/couple cell, VN/couple cell, Indonesia (ID), Philippines (PH), Thailand (TH), Vietnam (VN), Direction 3: Yêu - Vietnam First Couples (+15 more)
+Cohesion: 0.12
+Nodes (26): ASO Keyword Volume Research, TR/sleep cell, TR/tarot cell, Turkey (TR), Direction 5: Tarot Türkçe - Native TR Tarot, App-Radar Directions Report v3, BR mapa astral Very High volume (#4 globally), Faladdin 25M users TR-anchored (+18 more)
 
 ### Community 2 - "Community 2"
-Cohesion: 0.13
-Nodes (21): Arctic Shift Reddit Mirror, CapCut (ByteDance), feedback_research_methodology.md, google-play-scraper Library, Google Trends API (rate-limited), HYP: Cross-country Love8 displacement (VALIDATED), HYP: Trends momentum signal (FAILED 2/2), Project Memory System (~/.claude/projects/.../memory) (+13 more)
+Cohesion: 0.11
+Nodes (25): ana wa anta - You and I for Married Couples, BR/astrology cell, BR/couple cell, MX/couple cell, TR/couple cell (score 17), Chongqing Daole Er Technology Co Ltd, Brazil (BR), Mexico (MX) (+17 more)
 
 ### Community 3 - "Community 3"
 Cohesion: 0.13
-Nodes (20): ASO Keyword Volume Research, Astrolink Brazilian Astrology, Solo-Displacement LOW-MED (Astrolink), Drill Analysis Results, Fabio Principe (Astrolink operator), BR mapa astral Very High volume (#4 globally), Faladdin 25M users TR-anchored, TR tarot ASO volume Very High (matrix peak) (+12 more)
+Nodes (21): ID/couple cell, TH/couple cell, VN/couple cell, Indonesia (ID), Philippines (PH), Thailand (TH), Vietnam (VN), Direction 3: Yêu - Vietnam First Couples (+13 more)
 
 ### Community 4 - "Community 4"
-Cohesion: 0.12
-Nodes (18): AlKhattaba (الخطابة) Egyptian Matrimonial, Campaign Middle East Saudi Gen Z Playbook, Couples app form factor is Korean-American import, No Saudi/UAE dev shipped post-marriage couples app, No organic Arabic discourse for couples-care app, HYP: Cultural risk MENA × astrology penalty (VALIDATED), HYP: Subjective deliverable-complete stop (PROHIBITED), Maktub Cultural Validation (+10 more)
-
-### Community 5 - "Community 5"
-Cohesion: 0.17
-Nodes (17): TR/sleep cell, TR/tarot cell, Turkey (TR), Direction 5: Tarot Türkçe - Native TR Tarot, App-Radar Directions Report v3, Labyrinthos v2.60 (Jun 2025) admits machine-translated TR/TH, Sleep Cycle DOES support Turkish iOS+Android, Love8 TR 20.9% 1-star, 7516 1-star reviews (+9 more)
-
-### Community 6 - "Community 6"
-Cohesion: 0.16
-Nodes (16): Competitor Backgrounds Founder Research, Competitor Revenue Scrape, Solo-Displacement VERY LOW (Sleep Cycle / Labyrinthos), Solo-Displacement ZERO (Tinder), Couples multiplier revised 4x -> 3x, Sleep Cycle FY2024 $24.7M ARR / 918K subs, Sleep Cycle $2.25/MAU/mo anchor, HYP: Sleep Cycle $2.25/MAU revenue anchor (VALIDATED) (+8 more)
-
-### Community 7 - "Community 7"
 Cohesion: 0.18
 Nodes (16): buzzArab MENA Dating, AE/couple cell, EG/couple cell, SA/couple cell, United Arab Emirates (AE), Egypt (EG), Saudi Arabia (SA), Direction 4: Maktub - Arab Married Couples (DOWNGRADED) (+8 more)
 
+### Community 5 - "Community 5"
+Cohesion: 0.16
+Nodes (16): Competitor Backgrounds Founder Research, Competitor Revenue Scrape, Solo-Displacement VERY LOW (Sleep Cycle / Labyrinthos), Solo-Displacement ZERO (Tinder), Couples multiplier revised 4x -> 3x, Sleep Cycle FY2024 $24.7M ARR / 918K subs, Sleep Cycle $2.25/MAU/mo anchor, HYP: Sleep Cycle $2.25/MAU revenue anchor (VALIDATED) (+8 more)
+
+### Community 6 - "Community 6"
+Cohesion: 0.17
+Nodes (8): safe_load(), safe_load(), safe_load(), analyze(), arr(), inWindow(), load(), lowPct()
+
+### Community 7 - "Community 7"
+Cohesion: 0.15
+Nodes (15): AlKhattaba (الخطابة) Egyptian Matrimonial, Campaign Middle East Saudi Gen Z Playbook, Couples app form factor is Korean-American import, No Saudi/UAE dev shipped post-marriage couples app, No organic Arabic discourse for couples-care app, HYP: Cultural risk MENA × astrology penalty (VALIDATED), Maktub Cultural Validation, Mawada Halal Matrimonial (+7 more)
+
 ### Community 8 - "Community 8"
+Cohesion: 0.18
+Nodes (12): Astrolink Brazilian Astrology, Solo-Displacement LOW-MED (Astrolink), Drill Analysis Results, Fabio Principe (Astrolink operator), Final Verdict Matrix, Finch Self-Care Pet, Findings README, Localization Quality Audit Top 5 (+4 more)
+
+### Community 9 - "Community 9"
 Cohesion: 0.18
 Nodes (11): AppsFlyer Global ARPU averages, Co-Star Astrology, DramaBox / ReelShort short drama, Duolingo, RevenueCat global avg DL->paid 30d = 1.7%, Market Economics: Country x Niche Revenue, Photoroom AI Editor, RevenueCat State of Subscription Apps 2025 (+3 more)
 
 ### Community 10 - "Community 10"
+Cohesion: 0.42
+Nodes (7): computeLowPct(), main(), pullApp(), pullReviews(), safe(), themeFreq(), topLowQuotes()
+
+### Community 12 - "Community 12"
 Cohesion: 0.83
 Nodes (3): fetch_comments(), fetch_json(), search_videos()
 
-### Community 28 - "Community 28"
+### Community 14 - "Community 14"
+Cohesion: 1.0
+Nodes (2): analyzeCountry(), classify()
+
+### Community 41 - "Community 41"
 Cohesion: 1.0
 Nodes (1): Phase 10: Niche Expansion
 
 ## Knowledge Gaps
 - **49 isolated node(s):** `Findings README`, `Love8 Team / Love Elves`, `Sherif Omar (buzzArab founder)`, `ORBE VENTURES LTDA (CNPJ 53.277.567/0001-76)`, `Fabio Principe (Astrolink operator)` (+44 more)
   These have ≤1 connection - possible missing edges or undocumented components.
-- **Thin community `Community 28`** (1 nodes): `Phase 10: Niche Expansion`
+- **Thin community `Community 14`** (3 nodes): `analyzeCountry()`, `classify()`, `analyze_invoice_3000.mjs`
+  Too small to be a meaningful cluster - may be noise or needs more connections extracted.
+- **Thin community `Community 41`** (1 nodes): `Phase 10: Niche Expansion`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
 
 ## Suggested Questions
 _Questions this graph is uniquely positioned to answer:_
 
-- **Why does `App-Radar Directions Report v3` connect `Community 5` to `Community 0`, `Community 1`, `Community 2`, `Community 6`, `Community 7`?**
-  _High betweenness centrality (0.151) - this node is a cross-community bridge._
-- **Why does `Love8 - App for Couples` connect `Community 0` to `Community 1`, `Community 2`, `Community 3`, `Community 5`, `Community 6`?**
+- **Why does `Run Ledger - Evolution Log` connect `Community 0` to `Community 1`, `Community 3`?**
+  _High betweenness centrality (0.142) - this node is a cross-community bridge._
+- **Why does `App-Radar Directions Report v3` connect `Community 1` to `Community 0`, `Community 2`, `Community 3`, `Community 4`, `Community 5`?**
   _High betweenness centrality (0.128) - this node is a cross-community bridge._
-- **Why does `Run Ledger - Evolution Log` connect `Community 2` to `Community 1`, `Community 4`, `Community 5`?**
-  _High betweenness centrality (0.114) - this node is a cross-community bridge._
+- **Why does `Love8 - App for Couples` connect `Community 2` to `Community 8`, `Community 1`, `Community 3`, `Community 5`?**
+  _High betweenness centrality (0.091) - this node is a cross-community bridge._
 - **What connects `Findings README`, `Love8 Team / Love Elves`, `Sherif Omar (buzzArab founder)` to the rest of the system?**
   _49 weakly-connected nodes found - possible documentation gaps or missing edges._
 - **Should `Community 0` be split into smaller, more focused modules?**
-  _Cohesion score 0.12 - nodes in this community are weakly interconnected._
+  _Cohesion score 0.1 - nodes in this community are weakly interconnected._
 - **Should `Community 1` be split into smaller, more focused modules?**
-  _Cohesion score 0.11 - nodes in this community are weakly interconnected._
+  _Cohesion score 0.12 - nodes in this community are weakly interconnected._
 - **Should `Community 2` be split into smaller, more focused modules?**
-  _Cohesion score 0.13 - nodes in this community are weakly interconnected._
+  _Cohesion score 0.11 - nodes in this community are weakly interconnected._

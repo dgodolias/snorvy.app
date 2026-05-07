@@ -1,4 +1,4 @@
-# D8 Hush — Final Build Brief
+# D8 Snorvey — Final Build Brief
 
 **Date**: 2026-05-07
 **For**: Greek solo dev, Claude Max, $100-200 GCP credits, $350 marketing, 1-month build, no legal/regulatory risk
@@ -42,7 +42,7 @@
    > [r/sleep ↑34, 45 comments] "Are there any sleep trackers that do not require a monthly subscription?"
    > [Sleep Cycle 1★ 75👍] "I don't do rip-off subscriptions. I am more than willing to purchase the app once."
 
-2. **Honest free tier with snore audio playback** — η μέθοδος Hush attack
+2. **Honest free tier with snore audio playback** — η μέθοδος Snorvey attack
    > [ShutEye 1★ 83👍] "the detail of the recorded events is locked, unless a premium subscription is paid"
 
 3. **No login / no account** — Sleep Cycle/ShutEye/Pillow φορτώνουν
@@ -124,7 +124,7 @@ Monthly cost at 5k MAU                                          ~€0
 
 ---
 
-## 4) Τι features θα βάλω εγώ (Hush MVP spec)
+## 4) Τι features θα βάλω εγώ (Snorvey MVP spec)
 
 ### 7 Table Stakes (MUST HAVE — αν λείψει = instant 1★)
 
@@ -364,21 +364,21 @@ TR Couples:
   Strong:15% × $5,000  = $750
   EV ≈ $1,700 Y1
 
-Hush:
+Snorvey:
   Floor: 30% × $600     = $180
   Base:  35% × $6,250   = $2,188
   Strong:25% × $39,000  = $9,750
   Lottery:10% × $175,000= $17,500
   EV ≈ $29,618 Y1
 
-Ratio: Hush ~17× higher expected value
+Ratio: Snorvey ~17× higher expected value
 ```
 
 ### Why the Lottery scenario is real (not hopium)
 
 - **Quest sleep precedent**: 245M views from one TikTok account in 12 months. 65M views from one video. Real, sourced.
 - **Hashtag depth**: #snoring 3.18B cumulative views, 223K creators. Algorithm rewards new creators.
-- **Tomorrow's Quest sleep can be Hush**: same niche, less competition (Quest doesn't sell their app — they do affiliate marketing).
+- **Tomorrow's Quest sleep can be Snorvey**: same niche, less competition (Quest doesn't sell their app — they do affiliate marketing).
 
 ### Why the Floor scenario is real (and how to escape)
 
@@ -389,7 +389,7 @@ Ratio: Hush ~17× higher expected value
 
 ## TL;DR — αν διαβάζεις μόνο αυτό
 
-1. **Gap**: Όλοι οι incumbents pay-walling το ίδιο feature (audio playback). Hush το δίνει δωρεάν, charge για unlimited recording duration μόνο.
+1. **Gap**: Όλοι οι incumbents pay-walling το ίδιο feature (audio playback). Snorvey το δίνει δωρεάν, charge για unlimited recording duration μόνο.
 2. **Stack**: Flutter + flutter_sound + tflite + Drift + in_app_purchase. Zero backend. €0/mo. €100-200 GCP credits μένουν unused.
 3. **Marketing math**: 30% πιθανότητα να βγάλεις $200-1k (floor), 35% για $2.5k-10k (base), 25% για $18-60k (strong), 10% για $100k-250k (lottery).
 4. **EV $29,618 με ~$590 cost = ~50× ROI**.

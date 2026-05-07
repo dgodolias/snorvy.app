@@ -1,6 +1,6 @@
-# D8 Hush — Competitor Feature Matrix (2026-05-07)
+# D8 Snorvey — Competitor Feature Matrix (2026-05-07)
 
-**Subject app:** Hush — sleep recorder / snore tracker. Greek solo dev, $9.99 one-time-pay anti-subscription, Android + iOS.
+**Subject app:** Snorvey — sleep recorder / snore tracker. Greek solo dev, $9.99 one-time-pay anti-subscription, Android + iOS.
 **Method:** Live `google-play-scraper` v10.1.2 metadata pulls (2026-05-07) + official feature pages + 1,900 review dump (existing `findings/raw/play-store/d8_*.json`).
 **Apps audited:**
 
@@ -18,7 +18,7 @@
 
 ## Core Recording Features
 
-| Feature | Sleep Cycle | ShutEye | Sleep as Android | SnoreLab | Pillow | Hush MVP claim |
+| Feature | Sleep Cycle | ShutEye | Sleep as Android | SnoreLab | Pillow | Snorvey MVP claim |
 |---|---|---|---|---|---|---|
 | Sleep audio recording (mic) | ✅ premium | ✅ premium | ✅ free + Unlock | ✅ free + premium | ✅ premium | ✅ free |
 | Snore detection | ✅ premium | ✅ premium | ✅ AI sound recognition (premium) | ✅ core feature, free | ✅ premium | ✅ free |
@@ -35,7 +35,7 @@
 
 ## Insights / Reporting
 
-| Feature | Sleep Cycle | ShutEye | Sleep as Android | SnoreLab | Pillow | Hush MVP claim |
+| Feature | Sleep Cycle | ShutEye | Sleep as Android | SnoreLab | Pillow | Snorvey MVP claim |
 |---|---|---|---|---|---|---|
 | Per-night sleep score | ✅ free | ✅ free (limited) | ✅ free | ✅ "Snore Score" free | ✅ free | ✅ basic stats free |
 | Trends > 7 days (history graph) | ✅ premium | ✅ premium | ✅ free | ✅ premium ("unlimited history") | ✅ premium | ✅ free (full local history) |
@@ -50,7 +50,7 @@
 
 ## Sleep Aid / Sounds (the "bloat creep")
 
-| Feature | Sleep Cycle | ShutEye | Sleep as Android | SnoreLab | Pillow | Hush MVP claim |
+| Feature | Sleep Cycle | ShutEye | Sleep as Android | SnoreLab | Pillow | Snorvey MVP claim |
 |---|---|---|---|---|---|---|
 | White noise / nature sounds | ✅ premium ("Sleep Aid") | ✅ free + premium | ✅ Unlock unlocks more lullabies | ❌ | ❌ | ❌ deliberate |
 | Guided meditations / stories | ✅ premium | ✅ premium ("guided meditation") | ❌ | ❌ | ❌ | ❌ deliberate |
@@ -82,7 +82,7 @@
 | Sleep as Android | full app for 14 days, then alternate-day tracking + ads | $84.99 lifetime Unlock OR $4.99/mo / $49.99/yr | 14-day full trial | $0.99 – $75.00 | Yes (free tier) |
 | SnoreLab | basic Snore Score + full session recording | $39.99/yr (≈ $3.33/mo) or $7.99/mo | 7-day free trial (annual) | $2.99 – $49.99 | Yes |
 | Pillow (iOS) | basic auto-track | ~$4.99/mo or ~$40-50/yr | varies | iOS only | No |
-| **Hush (target)** | **everything** | **$9.99 one-time** | **n/a** | **single SKU** | **No** |
+| **Snorvey (target)** | **everything** | **$9.99 one-time** | **n/a** | **single SKU** | **No** |
 
 ## What is MISSING from all of them — the GAP (informed by 1,900 reviews + low-pct samples)
 
@@ -94,20 +94,20 @@
 6. **Full local-only history (no cloud lock-in)** — competitors gate historical data behind cloud subscriptions; users want offline ownership.
 7. **MP3 / WAV export of nightly recording without paywall** — every competitor gates audio export. A doctor-shareable MP3 is a real unmet need.
 8. **No "VIP / Pro / Premium" upsell prompts mid-session** — free-tier users complain about modal harassment; *"Makes you jump through hoops and then hits you with a subscription notice. START WITH THAT!!!!"* (ShutEye).
-9. **Greek / Turkish / Arabic UI** — the big four ship English-first, machine-translated rest. Hush has a localization wedge for EU + MENA.
+9. **Greek / Turkish / Arabic UI** — the big four ship English-first, machine-translated rest. Snorvey has a localization wedge for EU + MENA.
 10. **A snore-only focused, simple UX** — SnoreLab is the closest, but adds BreathFlow / breathing disturbance bloat. Users want "press start, see graph in morning, listen to audio."
 
-## What is TABLE STAKES — Hush MUST have or get instant 1★
+## What is TABLE STAKES — Snorvey MUST have or get instant 1★
 
 1. **Reliable mic recording with VAD (voice activity detection)** — recording must not drop mid-night; Sleep Cycle 1★: *"it stopped recording. There is no audio available for the last two nights."*
 2. **Doze / battery-optimization handling on Android** — survives screen-off + Doze; SnoreLab and SaA both fight this constantly in reviews.
 3. **Snore Score or equivalent single-number summary** — users expect one number per night.
 4. **Per-event timeline with playback** — tap a peak, hear that 8s clip.
-5. **Smart alarm or at least a normal alarm clock** — even a single non-cyclic alarm. Without ANY alarm Hush looks broken vs all 4 incumbents.
+5. **Smart alarm or at least a normal alarm clock** — even a single non-cyclic alarm. Without ANY alarm Snorvey looks broken vs all 4 incumbents.
 6. **History view that lasts ≥ 30 nights** — cloud not required, but local SQLite must persist.
 7. **Onboarding under 60 seconds** — the SnoreLab "press start, place phone next to bed" UX is the bar. No 6-step questionnaire.
 
-## What is BLOAT — Hush MUST DELIBERATELY skip
+## What is BLOAT — Snorvey MUST DELIBERATELY skip
 
 1. **Sleep stage detection (light/deep/REM)** — accelerometer-based stage classification is provably inaccurate (verbatim ShutEye 1★: *"will literally say I was in REM sleep when I was actively awake, driving, etc."*). Skip it = honesty wedge.
 2. **Sleep apnea / insomnia "risk score"** — medical-liability landmine; ShutEye gets attacked for false positives.
@@ -120,9 +120,9 @@
 9. **Cloud sync / multi-device** — pure cost center for a $9.99 one-time app. Local-only is a feature, not a limitation.
 10. **VIP / Premium / Pro tier** — single SKU is the entire wedge.
 
-## Hush positioning summary (one paragraph)
+## Snorvey positioning summary (one paragraph)
 
-Hush is a **snore-recorder-first**, **stage-detection-free**, **single-screen** Android+iOS app for €9.99 one-time-pay that does the SnoreLab job (record + Snore Score + per-event playback + 30-day local trend) honestly and offline, without forcing the user through ShutEye's paywall maze, Sleep Cycle's account login, or Sleep as Android's $85 Unlock. The **deliberate omissions** (no sleep stages, no apnea risk, no meditation library, no cloud) are the marketing copy.
+Snorvey is a **snore-recorder-first**, **stage-detection-free**, **single-screen** Android+iOS app for €9.99 one-time-pay that does the SnoreLab job (record + Snore Score + per-event playback + 30-day local trend) honestly and offline, without forcing the user through ShutEye's paywall maze, Sleep Cycle's account login, or Sleep as Android's $85 Unlock. The **deliberate omissions** (no sleep stages, no apnea risk, no meditation library, no cloud) are the marketing copy.
 
 ## Sources
 

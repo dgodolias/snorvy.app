@@ -1,4 +1,4 @@
-# D8 Hush — Viral Marketing Evidence (FACT-CHECKABLE)
+# D8 Snorvey — Viral Marketing Evidence (FACT-CHECKABLE)
 
 _Compiled 2026-05-07. Every claim has a source URL. Where a number could not be sourced, the claim is omitted._
 
@@ -15,7 +15,7 @@ _Compiled 2026-05-07. Every claim has a source URL. Where a number could not be 
 - **Revenue**: $1M revenue 4 mo post-launch; ~$8M ARR Dec 2024; $34M ARR by 2025
 - **Mechanism**: Multi-account TikTok strategy with **micro-influencers** (health/food/lifestyle), not top-tier
 - **Sources**: https://www.cnbc.com/2025/09/06/cal-ai-how-a-teenage-ceo-built-a-fast-growing-calorie-tracking-app.html · https://getlatka.com/companies/calai.app · https://growwithplutus.com/blog/cal-ai-app-tiktok-strategy
-- **Relevant to Hush**: micro-influencer seeding > celebrity buys; demo video format wins for utility apps.
+- **Relevant to Snorvey**: micro-influencer seeding > celebrity buys; demo video format wins for utility apps.
 
 ## Case Study 2: Finch (self-care pet)
 
@@ -23,13 +23,13 @@ _Compiled 2026-05-07. Every claim has a source URL. Where a number could not be 
 - **Revenue**: ~$30M ARR (Sparrow Apps blog Apr 2026); ~$4M/mo (X/Arfur Rock citing Sensor Tower)
 - **Mechanism**: Paid Meta + TikTok Ads with **UGC creatives reused across both platforms**; 610 active creatives, 11× scale in 1 yr; "positioned as a game, not a wellness app"
 - **Sources**: https://blog.sparrowapps.io/p/finch-how-a-self-care-app-hit-30m-arr-without-vc-money · https://x.com/ArfurRock/status/1924499333929373958
-- **Relevant to Hush**: UGC reused across Meta+TikTok keeps production cost low; reframe utility as personal entertainment.
+- **Relevant to Snorvey**: UGC reused across Meta+TikTok keeps production cost low; reframe utility as personal entertainment.
 
 ## Case Study 3: Photoroom (AI photo)
 
 - **Revenue**: ~$94M ARR (2024), +89% YoY; raised $43M at $500M valuation
 - **Sources**: https://sacra.com/c/photoroom/ · https://techcrunch.com/2024/02/27/confirmed-photoroom-the-ai-image-editor-raised-43m-at-a-500m-valuation/
-- **Relevant to Hush**: $89.99/yr tier _is_ a subscription — counter-evidence that pure annual sub still wins in image utility. Hush's pay-once thesis must compete against this UX.
+- **Relevant to Snorvey**: $89.99/yr tier _is_ a subscription — counter-evidence that pure annual sub still wins in image utility. Snorvey's pay-once thesis must compete against this UX.
 
 ## Case Study 4: Quest – Sleep Better Tonight (single-format TikTok)
 
@@ -37,7 +37,7 @@ _Compiled 2026-05-07. Every claim has a source URL. Where a number could not be 
 - **Numbers (as of source date)**: 245.2M total views from one TikTok account; one video = 65.1M views, 170,600 comments
 - **Format**: AI body-clip hook + cozy "good night" CTA — same template every video
 - **Sources**: https://www.socialgrowthengineers.com/sleep-tracker-video-hits-65m-views-170k-comments · https://www.tiktok.com/@quest.sleep
-- **Relevant to Hush**: STRONGEST signal in this whole report — sleep niche on TikTok responds to one repeatable, low-effort hook format.
+- **Relevant to Snorvey**: STRONGEST signal in this whole report — sleep niche on TikTok responds to one repeatable, low-effort hook format.
 
 ## Case Study 5: Things 3 (anti-subscription proof)
 
@@ -45,20 +45,20 @@ _Compiled 2026-05-07. Every claim has a source URL. Where a number could not be 
 - **Pricing**: one-time $49.99 (iPad), $9.99 (iPhone), $29.99 (Vision); free updates; no sub
 - **Recognition**: multiple Apple Design Awards
 - **Sources**: https://culturedcode.com/things/pricing/ · https://www.macrumors.com/2024/02/02/things-3-to-do-app-apple-vision-pro/
-- **Relevant to Hush**: 18+ years of profitable indie operation on pure pay-once model — direct precedent for $9.99 thesis.
+- **Relevant to Snorvey**: 18+ years of profitable indie operation on pure pay-once model — direct precedent for $9.99 thesis.
 
 ## Case Study 6: Day One (cautionary tale)
 
 - **History**: Paid up-front through v2 (Feb 2016) → switched to subscription June 28 2017 (Day One Premium)
 - **Sources**: https://www.macrumors.com/2017/06/29/day-one-app-now-a-subscription-service/ · https://dayoneapp.com/guides/premium-subscription/day-one-faq/
-- **Relevant to Hush**: a beloved indie app abandoned pay-once for sub — Hush's positioning will need to address why _it_ won't.
+- **Relevant to Snorvey**: a beloved indie app abandoned pay-once for sub — Snorvey's positioning will need to address why _it_ won't.
 
 ## Case Study 7: Loóna (sleep app, design-led)
 
 - **Funding**: $2M raised; investors include Hoxton Ventures, Natalia Vodianova
 - **Recognition**: Google Play "Best App" 2020 (US); Apple Design Award 2021
 - **Sources**: https://www.crunchbase.com/organization/lo%C3%B3na · https://en.wikipedia.org/wiki/Lo%C3%B3na
-- **Relevant to Hush**: design-award credibility moves sleep apps; revenue numbers not public.
+- **Relevant to Snorvey**: design-award credibility moves sleep apps; revenue numbers not public.
 
 ## Hashtag landscape (LIVE TikTok data via Tikwm, 2026-05-07)
 
@@ -123,10 +123,10 @@ Raw JSON saved to `findings/raw/tiktok/hashtag-*.json`.
 - "PomoFocus went viral on TikTok" — no primary metric found; mentions in creator content only.
 - BeReal viral mechanics ≠ utility-app mechanics; skip the analogy.
 
-## 4-week Hush TikTok content plan (each tied to a proven format)
+## 4-week Snorvey TikTok content plan (each tied to a proven format)
 
 **Week 1 — Hook test**
-- Day 1: Quest-style cozy GN format ("Your FYP says go to sleep" + Hush UI flash) — **proven**: @quest.sleep 245M views
+- Day 1: Quest-style cozy GN format ("Your FYP says go to sleep" + Snorvey UI flash) — **proven**: @quest.sleep 245M views
 - Day 2: Snoring-partner POV comedy ("POV: lawn-mower husband") — **proven**: @autosnore /video/7616512821861436688
 - Day 3: "I recorded myself sleeping and…" — **proven**: @asherintech 13.6K, @dadcamp 16K
 - Day 4: Doctor / sleep-fact opener — **proven**: @cpapreviews 16.7M

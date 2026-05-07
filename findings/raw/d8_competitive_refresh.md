@@ -1,7 +1,7 @@
-# D8 Hush — Competitive Refresh (Tick 34)
+# D8 Snorvey — Competitive Refresh (Tick 34)
 
 Date: 2026-05-07
-Direction: D8 Hush (sleep recorder, snore + audio capture, US/global)
+Direction: D8 Snorvey (sleep recorder, snore + audio capture, US/global)
 
 ## Live IAP — Sleep Cycle (com.northcube.sleepcycle, US)
 

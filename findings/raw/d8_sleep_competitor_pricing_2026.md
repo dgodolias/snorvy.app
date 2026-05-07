@@ -1,4 +1,4 @@
-# D8 Hush Sleep Recorder DEEPER DIG — 2026 competitor refresh
+# D8 Snorvey Sleep Recorder DEEPER DIG — 2026 competitor refresh
 
 **Date**: 2026-05-07
 **Tick**: 34 (re-run after kill)

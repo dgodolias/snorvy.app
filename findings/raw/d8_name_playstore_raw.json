@@ -1,0 +1,504 @@
+{
+  "Snorta": {
+    "total": 10,
+    "exact_name_matches": [],
+    "sleep_positioned": [
+      {
+        "title": "Solitaire - Classic Card Games",
+        "appId": "solitaire.patience.card.games.klondike.free",
+        "dev": "Guru Puzzle Game"
+      },
+      {
+        "title": "SnoreLab : Record Your Snoring",
+        "appId": "com.snorelab.app",
+        "dev": "Reviva Softworks Ltd"
+      }
+    ],
+    "top3": [
+      {
+        "title": "WSOP Poker Texas Holdem Game",
+        "appId": "com.playtika.wsop.gp",
+        "dev": "Playtika"
+      },
+      {
+        "title": "Spiele Solitaire Grand Harvest",
+        "appId": "net.supertreat.solitaire",
+        "dev": "Supertreat - A Playtika Studio"
+      },
+      {
+        "title": "Canasta - Fun & Friends",
+        "appId": "com.gameduell.canasta.treff.kartenspiel",
+        "dev": "GameDuell"
+      }
+    ]
+  },
+  "Sleeptape": {
+    "total": 10,
+    "exact_name_matches": [],
+    "sleep_positioned": [
+      {
+        "title": "SleepTap - Relax & Sleep Sound",
+        "appId": "com.wellnessoapps.sleeptap",
+        "dev": "Wellnesso Apps"
+      },
+      {
+        "title": "Headspace Meditate Sleep Relax",
+        "appId": "com.getsomeheadspace.android",
+        "dev": "Headspace for Meditation, Mindfulness and Sleep"
+      },
+      {
+        "title": "Sleep Sounds & Noise: Napp",
+        "appId": "better.sleep.sounds.white.noise.machine.bedtime.fan.calming.noise.music",
+        "dev": "Saby Baby monitor Ltd"
+      },
+      {
+        "title": "SleepFlō",
+        "appId": "com.mywingy.sleepflow",
+        "dev": "Intuitive Apps LLC"
+      },
+      {
+        "title": "Calm - Sleep, Meditate, Relax",
+        "appId": "com.calm.android",
+        "dev": "Calm.com, Inc."
+      }
+    ],
+    "top3": [
+      {
+        "title": "SleepTap - Relax & Sleep Sound",
+        "appId": "com.wellnessoapps.sleeptap",
+        "dev": "Wellnesso Apps"
+      },
+      {
+        "title": "Headspace Meditate Sleep Relax",
+        "appId": "com.getsomeheadspace.android",
+        "dev": "Headspace for Meditation, Mindfulness and Sleep"
+      },
+      {
+        "title": "Sleep Sounds & Noise: Napp",
+        "appId": "better.sleep.sounds.white.noise.machine.bedtime.fan.calming.noise.music",
+        "dev": "Saby Baby monitor Ltd"
+      }
+    ]
+  },
+  "Nightlog": {
+    "total": 10,
+    "exact_name_matches": [
+      {
+        "title": "NightLog: Offline Baby Tracker",
+        "appId": "com.howdigitalstudio.nightlog",
+        "dev": "Mister Potato"
+      },
+      {
+        "title": "NightLog: Sleep Habit Tracker",
+        "appId": "com.lifesyncth.nightlog",
+        "dev": "Pasathorn Sassananun"
+      }
+    ],
+    "sleep_positioned": [
+      {
+        "title": "NightLog: Offline Baby Tracker",
+        "appId": "com.howdigitalstudio.nightlog",
+        "dev": "Mister Potato"
+      },
+      {
+        "title": "NightLog: Sleep Habit Tracker",
+        "appId": "com.lifesyncth.nightlog",
+        "dev": "Pasathorn Sassananun"
+      },
+      {
+        "title": "Nitetronic",
+        "appId": "com.backrobo.gn03.us",
+        "dev": "AIWORKS GLOBAL, INC"
+      },
+      {
+        "title": "prisma APP",
+        "appId": "com.lmt.sleeppatientapp",
+        "dev": "Löwenstein Medical Technology GmbH + Co.KG"
+      },
+      {
+        "title": "eXciteOSA®",
+        "appId": "com.snoozeal.app",
+        "dev": "eXciteOSA"
+      }
+    ],
+    "top3": [
+      {
+        "title": "NightLog: Offline Baby Tracker",
+        "appId": "com.howdigitalstudio.nightlog",
+        "dev": "Mister Potato"
+      },
+      {
+        "title": "NightLog: Sleep Habit Tracker",
+        "appId": "com.lifesyncth.nightlog",
+        "dev": "Pasathorn Sassananun"
+      },
+      {
+        "title": "Nitelog",
+        "appId": "com.breas.nitelog",
+        "dev": "Breas Medical"
+      }
+    ]
+  },
+  "Murmur": {
+    "total": 10,
+    "exact_name_matches": [
+      {
+        "title": "Murmur - Anonymous Post, Chat",
+        "appId": "com.pranay.murmuranon",
+        "dev": "Kray Inc"
+      }
+    ],
+    "sleep_positioned": [
+      {
+        "title": "A Soft Murmur",
+        "appId": "com.gabemart.asoftmurmur",
+        "dev": "Sleepy Rabbit LLC"
+      },
+      {
+        "title": "Calm - Sleep, Meditate, Relax",
+        "appId": "com.calm.android",
+        "dev": "Calm.com, Inc."
+      },
+      {
+        "title": "Insight Timer - Meditation App",
+        "appId": "com.spotlightsix.zentimerlite2",
+        "dev": "Insight Network Inc"
+      },
+      {
+        "title": "Sleep Cycle: Sleep Tracker",
+        "appId": "com.northcube.sleepcycle",
+        "dev": "Sleep Cycle AB"
+      },
+      {
+        "title": "Headspace Meditate Sleep Relax",
+        "appId": "com.getsomeheadspace.android",
+        "dev": "Headspace for Meditation, Mindfulness and Sleep"
+      }
+    ],
+    "top3": [
+      {
+        "title": "Murmur - Anonymous Post, Chat",
+        "appId": "com.pranay.murmuranon",
+        "dev": "Kray Inc"
+      },
+      {
+        "title": "A Soft Murmur",
+        "appId": "com.gabemart.asoftmurmur",
+        "dev": "Sleepy Rabbit LLC"
+      },
+      {
+        "title": "aMurmur-Voice Chat, Livestream",
+        "appId": "com.play.chat",
+        "dev": "Y Team"
+      }
+    ]
+  },
+  "Hush": {
+    "total": 10,
+    "exact_name_matches": [
+      {
+        "title": "Hush - Express Freely",
+        "appId": "ac.hush.app",
+        "dev": "Hush Express Freely Inc",
+        "score": 2
+      },
+      {
+        "title": "Hush: Real Talks, Deep Chats",
+        "appId": "com.blyynd.app",
+        "dev": "Blyynd",
+        "score": 0
+      },
+      {
+        "title": "HUSH",
+        "appId": "com.hush.live",
+        "dev": "Spheregosh Private Limited"
+      },
+      {
+        "title": "Hush Dating App: Chat & Date",
+        "appId": "com.vb.hush",
+        "dev": "Creatix Technology Limited",
+        "score": 4.29
+      },
+      {
+        "title": "Hush Networks",
+        "appId": "com.nsrlabs.hush",
+        "dev": "nsr.exe"
+      },
+      {
+        "title": "Hush",
+        "appId": "com.hush.sleep",
+        "dev": "SuperWolf"
+      },
+      {
+        "title": "Hush Base",
+        "appId": "com.richmat.hushbase",
+        "dev": "Qingdao Richmat Intelligence Technology Inc"
+      },
+      {
+        "title": "HUSH",
+        "appId": "net.ibizsoftware.hush",
+        "dev": "BERITH KOREA CO.,LTD."
+      }
+    ],
+    "sleep_positioned": [
+      {
+        "title": "Hush Base",
+        "appId": "com.richmat.hushbase",
+        "dev": "Qingdao Richmat Intelligence Technology Inc"
+      }
+    ],
+    "top3": [
+      {
+        "title": "Hush - Express Freely",
+        "appId": "ac.hush.app",
+        "dev": "Hush Express Freely Inc"
+      },
+      {
+        "title": "Hush: Real Talks, Deep Chats",
+        "appId": "com.blyynd.app",
+        "dev": "Blyynd"
+      },
+      {
+        "title": "HUSH",
+        "appId": "com.hush.live",
+        "dev": "Spheregosh Private Limited"
+      }
+    ]
+  },
+  "Polysom": {
+    "total": 10,
+    "exact_name_matches": [],
+    "sleep_positioned": [
+      {
+        "title": "Polyphasic Sleep",
+        "appId": "com.alexeykuzovkov.polyphasicsleep",
+        "dev": "Alexey Kuzovkov"
+      }
+    ],
+    "top3": [
+      {
+        "title": "Polygloss: Learn Languages",
+        "appId": "app.polygloss.polygloss_app",
+        "dev": "Polygloss"
+      },
+      {
+        "title": "Polyphasic Sleep",
+        "appId": "com.alexeykuzovkov.polyphasicsleep",
+        "dev": "Alexey Kuzovkov"
+      },
+      {
+        "title": "Polysys",
+        "appId": "tn.polytecsousse.polysys",
+        "dev": "Imed Boudriga"
+      }
+    ]
+  },
+  "Drowzy": {
+    "total": 10,
+    "exact_name_matches": [],
+    "sleep_positioned": [
+      {
+        "title": "Yahtzee® With Buddies Dice Fun",
+        "appId": "com.scopely.yux",
+        "dev": "Scopely"
+      }
+    ],
+    "top3": [
+      {
+        "title": "Drawsy: AR Draw for Sketching",
+        "appId": "com.ar.draw.paint.drawing.sketch.trace",
+        "dev": "estu"
+      },
+      {
+        "title": "Drawize - Draw and Guess",
+        "appId": "com.drawandguess.dagandroid",
+        "dev": "Lomboos"
+      },
+      {
+        "title": "Simply Draw: Learn to Draw",
+        "appId": "com.hellosimply.simplydraw",
+        "dev": "Simply Ltd"
+      }
+    ]
+  },
+  "Bedtape": {
+    "total": 10,
+    "exact_name_matches": [],
+    "sleep_positioned": [
+      {
+        "title": "Bed Wars",
+        "appId": "com.sandboxol.indiegame.bedwar",
+        "dev": "Blockman GO studio"
+      }
+    ],
+    "top3": [
+      {
+        "title": "Taptap Send: Money Transfer",
+        "appId": "com.taptapsend",
+        "dev": "Taptap Send, Inc."
+      },
+      {
+        "title": "ehamarkets-Trading & Investing",
+        "appId": "com.trade.trade211",
+        "dev": "Hooyacapital"
+      },
+      {
+        "title": "Bed Wars",
+        "appId": "com.sandboxol.indiegame.bedwar",
+        "dev": "Blockman GO studio"
+      }
+    ]
+  },
+  "Snorely": {
+    "total": 10,
+    "exact_name_matches": [],
+    "sleep_positioned": [
+      {
+        "title": "SnoreLab : Record Your Snoring",
+        "appId": "com.snorelab.app",
+        "dev": "Reviva Softworks Ltd"
+      },
+      {
+        "title": "SnoreGym : Reduce Your Snoring",
+        "appId": "com.snorelab.snoregym",
+        "dev": "Reviva Softworks Ltd"
+      },
+      {
+        "title": "SoundSleep: Track your snoring",
+        "appId": "com.passionforlife.snore",
+        "dev": "Passion for Life Healthcare (UK) Ltd"
+      },
+      {
+        "title": "SnoreClock - Do you snore?",
+        "appId": "de.ralphsapps.snorecontrol",
+        "dev": "Ralph Schiffhauer"
+      },
+      {
+        "title": "Snore Free : Stop Snoring Gym",
+        "appId": "me.snorefree",
+        "dev": "Schnarch Frei Therapie"
+      }
+    ],
+    "top3": [
+      {
+        "title": "SnoreLab : Record Your Snoring",
+        "appId": "com.snorelab.app",
+        "dev": "Reviva Softworks Ltd"
+      },
+      {
+        "title": "SnoreGym : Reduce Your Snoring",
+        "appId": "com.snorelab.snoregym",
+        "dev": "Reviva Softworks Ltd"
+      },
+      {
+        "title": "SoundSleep: Track your snoring",
+        "appId": "com.passionforlife.snore",
+        "dev": "Passion for Life Healthcare (UK) Ltd"
+      }
+    ]
+  },
+  "Dorma": {
+    "total": 10,
+    "exact_name_matches": [],
+    "sleep_positioned": [
+      {
+        "title": "Nessun Dorma",
+        "appId": "nessundorma.com.nessun_dorma",
+        "dev": "Nessun Dorma Snc"
+      }
+    ],
+    "top3": [
+      {
+        "title": "Nessun Dorma",
+        "appId": "nessundorma.com.nessun_dorma",
+        "dev": "Nessun Dorma Snc"
+      },
+      {
+        "title": "dormakaba mobile access",
+        "appId": "com.dormakaba.access",
+        "dev": "dormakaba Schweiz AG"
+      },
+      {
+        "title": "dormakaba evolo smart",
+        "appId": "net.comerge.dormakaba.smart",
+        "dev": "dormakaba Schweiz AG"
+      }
+    ]
+  },
+  "Snorvey": {
+    "total": 10,
+    "exact_name_matches": [],
+    "sleep_positioned": [
+      {
+        "title": "ShutEye®: Sleep Tracker",
+        "appId": "health.sleep.sounds.tracker.alarm.calm",
+        "dev": "ENERJOY PTE. LTD."
+      },
+      {
+        "title": "SnoreClock - Do you snore?",
+        "appId": "de.ralphsapps.snorecontrol",
+        "dev": "Ralph Schiffhauer"
+      },
+      {
+        "title": "Snorlytics: Snore Tracker",
+        "appId": "com.snorlytics.app",
+        "dev": "Snorlytics"
+      },
+      {
+        "title": "SnoreLab : Record Your Snoring",
+        "appId": "com.snorelab.app",
+        "dev": "Reviva Softworks Ltd"
+      },
+      {
+        "title": "Snore Free : Stop Snoring Gym",
+        "appId": "me.snorefree",
+        "dev": "Schnarch Frei Therapie"
+      }
+    ],
+    "top3": [
+      {
+        "title": "ShutEye®: Sleep Tracker",
+        "appId": "health.sleep.sounds.tracker.alarm.calm",
+        "dev": "ENERJOY PTE. LTD."
+      },
+      {
+        "title": "SnoreClock - Do you snore?",
+        "appId": "de.ralphsapps.snorecontrol",
+        "dev": "Ralph Schiffhauer"
+      },
+      {
+        "title": "Twitch: Live Streaming",
+        "appId": "tv.twitch.android.app",
+        "dev": "Twitch Interactive, Inc."
+      }
+    ]
+  },
+  "Lullen": {
+    "total": 10,
+    "exact_name_matches": [],
+    "sleep_positioned": [
+      {
+        "title": "ElevenReader: Read Books Aloud",
+        "appId": "io.elevenlabs.readerapp",
+        "dev": "Eleven Labs Inc"
+      }
+    ],
+    "top3": [
+      {
+        "title": "Luulla",
+        "appId": "com.luulla.mobile.android",
+        "dev": "Luulla"
+      },
+      {
+        "title": "Leeloo AAC - Autism Speech App",
+        "appId": "org.dreamoriented.leeloo",
+        "dev": "Assistive Cards"
+      },
+      {
+        "title": "Loecsen – Easy Languages",
+        "appId": "com.loecsen.application",
+        "dev": "Loecsen"
+      }
+    ]
+  }
+}

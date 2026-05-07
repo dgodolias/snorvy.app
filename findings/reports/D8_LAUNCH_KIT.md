@@ -1,6 +1,6 @@
-# D8 Hush — Launch Kit (γυρω-γυρω deliverables)
+# D8 Snorvey — Launch Kit (γυρω-γυρω deliverables)
 
-**Companion to**: `D8_HUSH_FINAL_BRIEF.md`
+**Companion to**: `D8_SNORVEY_FINAL_BRIEF.md`
 **Purpose**: Concrete ready-to-execute launch assets — ASA campaign drafts, TikTok video scripts, ProductHunt copy, Reddit launch posts.
 **Date**: 2026-05-07
 
@@ -31,10 +31,10 @@ Reserve **$50** for boost-the-winner after Day 7 review.
 **Ad copy variants (rotate 3)**:
 
 > **Variant A** (price-anchor):
-> "Pay $9.99 once. Not $69 a year. Hush records your snoring honestly."
+> "Pay $9.99 once. Not $69 a year. Snorvey records your snoring honestly."
 
 > **Variant B** (anti-trial):
-> "No trial trap. No subscription. Hush is sleep tracking you actually own."
+> "No trial trap. No subscription. Snorvey is sleep tracking you actually own."
 
 > **Variant C** (use-case):
 > "Hear your own snoring. $9.99 once. No monthly fee, no account, no bull."
@@ -51,10 +51,10 @@ Reserve **$50** for boost-the-winner after Day 7 review.
 **Ad copy variants**:
 
 > **Variant A** (post-trial-trap framing):
-> "Got charged $80 by another sleep app? Hush is $9.99 once. Forever."
+> "Got charged $80 by another sleep app? Snorvey is $9.99 once. Forever."
 
 > **Variant B** (specific refugee):
-> "Cancelled Sleep Cycle? Hush gives you snore audio without paywalls. $9.99."
+> "Cancelled Sleep Cycle? Snorvey gives you snore audio without paywalls. $9.99."
 
 ### Campaign #3 — Snore-Specific
 
@@ -94,10 +94,10 @@ Reserve **$50** for boost-the-winner after Day 7 review.
 **Ad copy variants**:
 
 > **Variant A** (curiosity):
-> "Find out what you say in your sleep. $9.99 once. Hush records it for you."
+> "Find out what you say in your sleep. $9.99 once. Snorvey records it for you."
 
 > **Variant B** (couple use-case):
-> "Recording your sleep-talking partner is now $9.99 one-time. Hush. No subscription."
+> "Recording your sleep-talking partner is now $9.99 one-time. Snorvey. No subscription."
 
 > **Variant C** (privacy-first):
 > "Sleep talk audio stays on your phone. Forever. $9.99. No cloud. No account."
@@ -137,9 +137,9 @@ Mapped to **proven hook formats** from `d8_viral_marketing_evidence.md` — ever
 ```
 [Open: blank stare, generic millennial filter]
 TEXT: "Sleep apps charged me $80 before my trial ended"
-[Cut to phone screen showing Hush price]
+[Cut to phone screen showing Snorvey price]
 TEXT: "$9.99 ONCE. Never again."
-TEXT (small): "Hush — link in bio"
+TEXT (small): "Snorvey — link in bio"
 [Sound: trending sad/dramatic audio]
 ```
 
@@ -148,16 +148,16 @@ TEXT (small): "Hush — link in bio"
 [POV: hand trying to cancel a subscription, modal after modal]
 TEXT 1: "Trying to cancel my sleep app subscription"
 TEXT 2: "[5 steps later still trying]"
-TEXT 3: "Or I could just buy Hush for $9.99 once"
-[Cut to clean Hush UI, no popups]
+TEXT 3: "Or I could just buy Snorvey for $9.99 once"
+[Cut to clean Snorvey UI, no popups]
 ```
 
 #### Script 3 — Receipt reveal
 ```
 [Show actual sleep app email receipt: $79.99/yr]
 TEXT 1: "What sleep apps cost per year"
-[Crossfade to Hush IAP screen]
-TEXT 2: "What Hush costs. Once. Forever."
+[Crossfade to Snorvey IAP screen]
+TEXT 2: "What Snorvey costs. Once. Forever."
 TEXT 3: "$9.99"
 ```
 
@@ -167,7 +167,7 @@ TEXT 3: "$9.99"
 ```
 [POV camera at bedside, pretending to film someone sleeping]
 TEXT 1: "POV: my husband says he doesn't snore"
-[Cut to Hush playback timeline showing 3hr of red snore peaks]
+[Cut to Snorvey playback timeline showing 3hr of red snore peaks]
 TEXT 2: "The receipts."
 [Sound: laugh/disbelief audio]
 ```
@@ -176,16 +176,16 @@ TEXT 2: "The receipts."
 ```
 [Sleeping silhouette]
 TEXT 1: "He said he 'just breathes loud'"
-[Cut to Hush UI: 47 minutes of snoring detected]
+[Cut to Snorvey UI: 47 minutes of snoring detected]
 TEXT 2: "Forty-seven minutes."
-TEXT 3: "Hush. $9.99 once. Marriage saver."
+TEXT 3: "Snorvey. $9.99 once. Marriage saver."
 ```
 
 #### Script 6 — Roommate exposed
 ```
 [Footage of roommate sleeping, blurred face]
 TEXT 1: "She told me I was being dramatic"
-[Cut to Hush audio waveform with snore peaks]
+[Cut to Snorvey audio waveform with snore peaks]
 TEXT 2: "Played her the audio"
 TEXT 3: "She blocked me."
 ```
@@ -196,8 +196,8 @@ TEXT 3: "She blocked me."
 ```
 [Clip: cozy bedroom, soft lighting]
 TEXT 1: "Your FYP says go to sleep"
-[Show Hush opening with one-tap "Start Recording"]
-TEXT 2: "Hush is here. $9.99 once. No subscription."
+[Show Snorvey opening with one-tap "Start Recording"]
+TEXT 2: "Snorvey is here. $9.99 once. No subscription."
 [Outro: "Sweet dreams 🌙"]
 ```
 
@@ -207,7 +207,7 @@ TEXT 2: "Hush is here. $9.99 once. No subscription."
 TEXT 1: "Recording my sleep tonight"
 [Wake up scene next morning]
 TEXT 2: "I snored 12 minutes"
-[Show Hush insights]
+[Show Snorvey insights]
 TEXT 3: "I knew it."
 ```
 
@@ -217,7 +217,7 @@ TEXT 3: "I knew it."
 ```
 [Talking head]
 "45% of adults snore. 25% snore habitually. Most don't know."
-[Cut to Hush demo]
+[Cut to Snorvey demo]
 "Here's how to find out — $9.99, no subscription."
 ```
 
@@ -225,8 +225,8 @@ TEXT 3: "I knew it."
 ```
 [Talking head]
 "If you snore loudly AND stop breathing — that's apnea. See a doctor."
-[Cut to Hush]
-"Hush records the audio so you can show your doctor. Free MP3 export. $9.99 once."
+[Cut to Snorvey]
+"Snorvey records the audio so you can show your doctor. Free MP3 export. $9.99 once."
 ```
 
 ### Format E — Side-by-side review (proven: @meredithlouden 160K, @demifewkes 1.14M)
@@ -240,7 +240,7 @@ TEXT 2: "Sleep Cycle: $40/yr"
 TEXT 3: "ShutEye: $80/yr (free trial trap)"
 TEXT 4: "SnoreLab: $40/yr"
 TEXT 5: "Sleep As Android: $85 lifetime"
-TEXT 6: "Hush: $10 once"
+TEXT 6: "Snorvey: $10 once"
 TEXT 7: "Winner: obvious"
 ```
 
@@ -249,7 +249,7 @@ TEXT 7: "Winner: obvious"
 [Talking head, glasses on, casual]
 "I'm not paid to say this. I tried Sleep Cycle for 4 years."
 "They keep removing free features. Last month they put smart-alarm behind paywall."
-"I switched to Hush. $9.99. Done."
+"I switched to Snorvey. $9.99. Done."
 ```
 
 ### Format F — Anti-subscription rant (proven: @callsignpoundcake 4.9K likes — emerging label)
@@ -260,7 +260,7 @@ TEXT 7: "Winner: obvious"
 "Why does my SLEEP need a subscription"
 "Why does my CALORIE TRACKER need a subscription"
 "Why does my GROCERY LIST need a subscription"
-[Cut to Hush]
+[Cut to Snorvey]
 "Found one that doesn't. $9.99 once. End of story."
 ```
 
@@ -271,8 +271,8 @@ TEXT 1: "My monthly subscriptions"
 [Highlight ShutEye, Sleep Cycle, Calm]
 TEXT 2: "Three of these are sleep apps."
 TEXT 3: "$15/month for sleep tracking."
-[Cut to Hush IAP]
-TEXT 4: "Or $10. Once. Hush.app"
+[Cut to Snorvey IAP]
+TEXT 4: "Or $10. Once. Snorvey.app"
 ```
 
 ### Format G — Sleep recording revelation (proven: @asherintech 13.6K, @dadcamp 16K)
@@ -283,8 +283,8 @@ TEXT 4: "Or $10. Once. Hush.app"
 "I downloaded an app to record myself sleeping last night"
 [Cut to morning: groggy hair]
 "And… it was wild"
-[Hush playback: 2hr of snoring, garbled sleep talk]
-"You can hear yourself say things. It's terrifying. $9.99 once. No sub. Hush."
+[Snorvey playback: 2hr of snoring, garbled sleep talk]
+"You can hear yourself say things. It's terrifying. $9.99 once. No sub. Snorvey."
 ```
 
 #### Script 16 — Sleep talk
@@ -292,8 +292,8 @@ TEXT 4: "Or $10. Once. Hush.app"
 [Phone playing audio of someone mumbling in sleep]
 TEXT: "What I said in my sleep last night"
 [Audio plays — complete gibberish]
-[Cut to Hush timeline view]
-TEXT: "Hush captured it. $9.99 once."
+[Cut to Snorvey timeline view]
+TEXT: "Snorvey captured it. $9.99 once."
 ```
 
 ### Format H — Builder POV (proven format on r/sleep 2026-01-03 dev post)
@@ -304,7 +304,7 @@ TEXT: "Hush captured it. $9.99 once."
 "Got tired of paying $60/yr for sleep apps that hide the recording feature"
 "So I built one"
 "$9.99 once. Records everything. Plays it back. No paywall."
-"Hush.app. Built it for me. Sharing it with you."
+"Snorvey.app. Built it for me. Sharing it with you."
 ```
 
 #### Script 18 — Code-to-product
@@ -313,8 +313,8 @@ TEXT: "Hush captured it. $9.99 once."
 TEXT: "Day 1: Started building"
 [Time-lapse: Drift schema, TFLite integration]
 TEXT: "Day 28: Shipped"
-[Cut to Hush running on phone]
-TEXT: "Hush. $9.99 forever. Built solo."
+[Cut to Snorvey running on phone]
+TEXT: "Snorvey. $9.99 forever. Built solo."
 ```
 
 ### Format I — Couple comedy (proven format adjacent: @autosnore organic, @lov3charlee 95K likes)
@@ -325,10 +325,10 @@ TEXT: "Hush. $9.99 forever. Built solo."
 HUSBAND (sleeping, snoring loudly): [exaggerated sound]
 WIFE (camera POV, at 3am, exasperated)
 TEXT 1: "Said he doesn't snore"
-[Cut to morning: showing him Hush playback]
-TEXT 2: "Hush has the receipts."
+[Cut to morning: showing him Snorvey playback]
+TEXT 2: "Snorvey has the receipts."
 HUSBAND (slumped): "Fine."
-TEXT 3: "$9.99 once. Hush.app"
+TEXT 3: "$9.99 once. Snorvey.app"
 ```
 
 #### Script 20 — Relationship test
@@ -337,43 +337,43 @@ TEXT 3: "$9.99 once. Hush.app"
 A: "How do you know if you snore?"
 B: "Your partner tells you"
 A: "What if you're single?"
-B: [pause] "Hush. $9.99. Records you. Plays it back."
-[Cut to Hush UI demo]
+B: [pause] "Snorvey. $9.99. Records you. Plays it back."
+[Cut to Snorvey UI demo]
 A: "Mind. Blown."
 ```
 
 ### Format J — Sleep talking content (proven: #sleeptalking 1.94B views, 26K creators)
 
-This is the **second-largest TikTok niche** for Hush (62% of #snoring volume). Add 5 scripts targeting this audience.
+This is the **second-largest TikTok niche** for Snorvey (62% of #snoring volume). Add 5 scripts targeting this audience.
 
 #### Script 21 — "What I said in my sleep last night"
 ```
 [Selfie morning POV, messy hair, holding phone]
 TEXT 1: "I sleep talk. Recorded it last night."
-[Hit play on Hush — audio clip plays through phone speaker]
+[Hit play on Snorvey — audio clip plays through phone speaker]
 [Audio: muffled gibberish, possibly: "...the ducks know..."]
 TEXT 2: "I have NO memory of saying this"
-[Cut to Hush UI showing 4 talk events]
-TEXT 3: "Hush. $9.99 once. Records snore + sleep talk."
+[Cut to Snorvey UI showing 4 talk events]
+TEXT 3: "Snorvey. $9.99 once. Records snore + sleep talk."
 ```
 
 #### Script 22 — Partner caught sleep talking
 ```
 [POV: partner asleep, phone recording]
 TEXT 1: "He talks in his sleep every night"
-[Cut to Hush playback — audio: a clear sentence said in sleep]
+[Cut to Snorvey playback — audio: a clear sentence said in sleep]
 TEXT 2: "Tonight he confessed something"
 [Audio plays: garbled — bleep censored for comedy]
 TEXT 3: "I have questions in the morning."
-TEXT 4: "App: Hush. $9.99. No subscription."
+TEXT 4: "App: Snorvey. $9.99. No subscription."
 ```
 
 #### Script 23 — Roommate exposed via sleep talk
 ```
 [Door cam-style angle, fake "security cam" filter]
 TEXT 1: "My roommate said I'm 'imagining things'"
-TEXT 2: "Set up Hush. Recorded 6 hours."
-[Cut to Hush timeline: 17 talk events highlighted]
+TEXT 2: "Set up Snorvey. Recorded 6 hours."
+[Cut to Snorvey timeline: 17 talk events highlighted]
 TEXT 3: "Played 30 seconds back to her"
 TEXT 4: "She moved out."
 [Soundbite: dramatic music sting]
@@ -382,13 +382,13 @@ TEXT 4: "She moved out."
 #### Script 24 — The compilation
 ```
 [Static frame: "Things I said in my sleep this week"]
-[Quick cut: 5-6 short audio clips played from Hush, one after another]
+[Quick cut: 5-6 short audio clips played from Snorvey, one after another]
 - "...not the cat..."
 - "I told you NO ONIONS..."
 - "[mumbled]... pizza"
 - "STOP IT"
 - [laughter]
-TEXT (overlay full time): "Hush — $9.99 once. No subscription. Records all of this."
+TEXT (overlay full time): "Snorvey — $9.99 once. No subscription. Records all of this."
 ```
 
 #### Script 25 — Dating profile prank
@@ -396,10 +396,10 @@ TEXT (overlay full time): "Hush — $9.99 once. No subscription. Records all of 
 [Selfie, casual]
 "I went on a third date. He asked if I sleep talk."
 "I said no."
-"I went home and used Hush to find out."
-[Cut to Hush playback: clearly audible sleep-speech]
+"I went home and used Snorvey to find out."
+[Cut to Snorvey playback: clearly audible sleep-speech]
 "...I have to tell him."
-TEXT: "Hush. $9.99. Forever. Records everything you'd never know."
+TEXT: "Snorvey. $9.99. Forever. Records everything you'd never know."
 ```
 
 ### Updated posting cadence (5-week launch — sleep talk gets its own week)
@@ -422,16 +422,16 @@ TEXT: "Hush. $9.99. Forever. Records everything you'd never know."
 > "Sleep recorder you actually own. Pay $9.99 once."
 
 ### Description (240 chars)
-> "Hush records your snoring overnight, plays it back in the morning, and never asks for a subscription. No trial trap. No account. No paywall on what you recorded. $9.99. Once. Forever. Built solo. Local-only."
+> "Snorvey records your snoring overnight, plays it back in the morning, and never asks for a subscription. No trial trap. No account. No paywall on what you recorded. $9.99. Once. Forever. Built solo. Local-only."
 
 ### Maker comment (top of thread)
 
 ```
 Hi PH! 👋
 
-I'm a solo dev. Built Hush after 4 years of paying Sleep Cycle, then watching them put smart-alarm behind a paywall last month.
+I'm a solo dev. Built Snorvey after 4 years of paying Sleep Cycle, then watching them put smart-alarm behind a paywall last month.
 
-Hush is the simplest possible sleep recorder:
+Snorvey is the simplest possible sleep recorder:
 - Records your snoring + ambient audio overnight
 - Plays it back in the morning (this is paywalled in EVERY competitor)
 - Snore Score per night
@@ -466,11 +466,11 @@ $9.99 one-time. That's it. AMA.
 >
 > Last month they put smart-alarm behind a paywall. That was the last straw.
 >
-> So I built **Hush** — does what Sleep Cycle/ShutEye/SnoreLab do (record your snoring + show it on a timeline + play it back), but $9.99 one-time. No trial trap, no account, no cloud. Plays back the recording without a paywall (this part is locked in EVERY competitor).
+> So I built **Snorvey** — does what Sleep Cycle/ShutEye/SnoreLab do (record your snoring + show it on a timeline + play it back), but $9.99 one-time. No trial trap, no account, no cloud. Plays back the recording without a paywall (this part is locked in EVERY competitor).
 >
 > Built it in Flutter as a solo dev. Took 4 weeks. Costs me ~$0/month to operate (everything is local).
 >
-> [Link to Hush]
+> [Link to Snorvey]
 >
 > Happy to answer any questions about the build, the math, why I picked one-time pricing, etc.
 
@@ -481,7 +481,7 @@ $9.99 one-time. That's it. AMA.
 **Body**:
 > Hey r/snoring — saw a thread last year asking "is there an app that just records snoring without ads, IAP, or sketchy permissions?" That stuck with me.
 >
-> Built it. Hush.
+> Built it. Snorvey.
 >
 > - Records overnight
 > - Tap to hear specific snore peaks
@@ -498,7 +498,7 @@ $9.99 one-time. That's it. AMA.
 **Body**:
 > Saw the threads here from when SaA jumped from $9.49 to $84.99 lifetime + added a $50/yr sub tier. Many of you said you'd want a cheaper alternative.
 >
-> Built one. Hush — $9.99 one-time, doesn't try to be SaA's sleep-stage detection (those are inaccurate anyway), but does the snore-recording + playback + timeline view at $9.99 forever. No trial trap, no cloud.
+> Built one. Snorvey — $9.99 one-time, doesn't try to be SaA's sleep-stage detection (those are inaccurate anyway), but does the snore-recording + playback + timeline view at $9.99 forever. No trial trap, no cloud.
 >
 > Not trying to spam — felt directly relevant to the recent threads here. Happy to take feedback on what's missing.
 >
@@ -506,7 +506,7 @@ $9.99 one-time. That's it. AMA.
 
 ### r/AndroidApps (general)
 
-**Title**: [Indie] Hush — sleep recorder that doesn't subscription-trap you
+**Title**: [Indie] Snorvey — sleep recorder that doesn't subscription-trap you
 
 **Body**: (shorter, app-launch format expected here)
 > $9.99 one-time. Records snoring overnight. Plays it back without a paywall. No account, no cloud, no monthly fee. Built solo in Flutter.
@@ -522,13 +522,13 @@ $9.99 one-time. That's it. AMA.
 For 30 creators in #snoring / #sleephusband / #couplecomedy with 10K-100K followers.
 
 ```
-Subject: Free lifetime Hush — for your snoring content
+Subject: Free lifetime Snorvey — for your snoring content
 
 Hey [name],
 
 Big fan of [specific video] — your [specific moment] killed me 😂
 
-I'm a solo dev. Built Hush — sleep recorder, $9.99 one-time, no subscription. Designed for exactly the "I want to hear what I sound like at night" content you make.
+I'm a solo dev. Built Snorvey — sleep recorder, $9.99 one-time, no subscription. Designed for exactly the "I want to hear what I sound like at night" content you make.
 
 Sending you a free lifetime code (attached). Zero strings — use it, don't use it, no posting required. If you DO post and want to share the link, your followers get 50% off (code: [creator-name]).
 
@@ -543,7 +543,7 @@ Reply if you want any feature unlocks for testing. I'll ship same day.
 
 Cheers,
 [Name]
-Solo dev, Hush
+Solo dev, Snorvey
 ```
 
 **Targets**: 30 creators. Even 5% conversion (1-2 paid posts at $50-200 each) = better ROI than ASA at this scale.

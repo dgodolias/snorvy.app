@@ -16,18 +16,22 @@ Eliminated: "honest sleep tracker" (low intent), "sleep tracker offline" (mid), 
 
 ## Recommended App Name (40 char Play Store cap, trademark-clean)
 
-**Primary:** `Hush Sleep Recorder: Pay Once` (29 chars)
+**Primary:** `Snorvey — Sleep & Snore Recorder` (32 chars)
 
-Rationale:
-- "Hush" - evocative, original, no trademark conflict (no "Sleep" giant uses it)
-- "Sleep Recorder" - matches winning keyword "snore recorder" + secondary "sleep recorder no subscription"
-- "Pay Once" - hard anti-positioning anchor against ShutEye's $79.99/yr subscription
+> ⚠️ **NAME UPDATED 2026-05-07** — original "Snorvey" was AVOIDED after Tick 35 availability check found 8 collision apps + active USPTO mark by HUSH SLEEP LLC. Other rejected candidates (Murmur, Dorma, Lullen, Nightlog, Drowzy, Snorely) all had Play/App Store collisions. See `findings/raw/d8_name_availability.md`.
+
+Rationale (Snorvey):
+- Zero Play Store collisions, zero App Store collisions, both `snorvey.app` and `snorvey.com` available
+- USPTO trademark search clean
+- Pronunciation: "SNOR-vee"
+- Suggests "snore + survey/journey" — fits the "log/timeline of your night" UX
+- "Sleep & Snore Recorder" descriptor — matches winning keyword "snore recorder" + sleep talk extension
 - AVOIDS: ShutEye, SleepCycle, Pillow, Calm, Sleep-as-Android (all trademark-flagged)
 
-**Backups:**
-- `NightLog: Honest Sleep Tracker` (30 chars)
-- `Drowse: Sleep Recorder No Sub` (29 chars)
-- `Lullen Sleep & Snore Recorder` (29 chars)
+**Backups (also clean per availability check):**
+- `Snorta — Sleep & Snore Recorder` (31 chars) — .com is parked aftermarket only
+- `Bedtape — Pay Once Sleep Recorder` (33 chars) — both TLDs free, but awkward phonetics
+- `Polysom — Honest Sleep Recorder` (31 chars) — clinical/medical feel, niche
 
 ---
 
@@ -43,10 +47,10 @@ Rationale:
 ## Anti-Positioning Hook (legal-safe, attacks ShutEye trial pattern)
 
 **Hero copy (long-form description top):**
-> "Sick of free trials that charge your card on day 2? Hush is a one-time purchase sleep recorder. Record your snores, track your nights, own your data forever. No subscription. No trial. No surprise charges."
+> "Sick of free trials that charge your card on day 2? Snorvey is a one-time purchase sleep recorder. Record your snores, track your nights, own your data forever. No subscription. No trial. No surprise charges."
 
 **Short hook (ad creative / first 80 chars):**
-> "Tired of sleep apps charging $80 before the trial ends? Hush is $9.99 one-time."
+> "Tired of sleep apps charging $80 before the trial ends? Snorvey is $9.99 one-time."
 
 **Legal safety notes:**
 - Never name-drop "ShutEye" or competitors in copy (only in user-facing review-response language).

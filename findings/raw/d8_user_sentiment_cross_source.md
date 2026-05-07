@@ -1,4 +1,4 @@
-# D8 Hush — Cross-Source User Sentiment
+# D8 Snorvey — Cross-Source User Sentiment
 
 Date: 2026-05-07 | Sources: Reddit (Arctic Shift archive), TikTok (Tikwm mirror), existing Play Store JSON in `findings/raw/play-store/`.
 

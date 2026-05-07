@@ -519,11 +519,30 @@ Cross-source legal validation (Agent 4) revealed:
 - **Week 3**: GoBD-compliant local-write logic + 10-year retention storage + revision-safe edit log
 - **Week 4**: ASA listings + Apple/Google Play DE descriptions + 5 Kleinunternehmer beta testers via Reddit/Quora
 
-### Why this might fail
+### Why this might fail (UPDATED v9 post-Agent 11 cultural validation)
 
+**Confidence DOWNGRADED MEDIUM-HIGH → MEDIUM** because:
+- **Papierkram free version partially occupies the "free + German-native" wedge** (with mandatory watermark) — wedge for Direction 4 narrows to "free + NO-watermark + mobile-native"
+- **Sandi Rechnungen** (`de.sandi.rechnpro` / `de.sandi.rechnlite`) — closest existing match, hides USt for §19, local PDF storage, ONE-TIME paid unlock — BUT: 404 from scraper, 0 reviews = near-zero traffic, low-velocity niche player
 - 1 German advisor cannot fully de-risk localization quality (real Greek ↔ German cultural distance)
-- Lexware free tier might intrude into Kleinunternehmer territory in 2026-2027
 - Direction 1 (Invoice Simple displacement) ALSO covers DE if simply translated — risk of "build same product twice"
+
+**Confidence-supporting findings (Agent 11)**:
+- ✅ **Lexware Office has NO permanent free tier** — only 30-day trial + 6-month Gründeredition (new-business only); after that €5.90-€11.90/mo. Confirms wedge for free §19 freelancer is open.
+- ✅ **Mobile-first invoicing for Kleinunternehmer = OPEN NICHE**. Lexware/WISO mobile apps reviewed as "träge" (sluggish); Papierkram mobile is VIEW-ONLY (cannot create invoice from mobile).
+- ✅ **sevDesk "Abo-Falle" reputation**: 7+ r/selbststaendig threads on hidden auto-renewals + contracts locked through 2027.
+- ✅ **Pricing willingness validated** (German freelancer Reddit + forums): floor €0, sweet spot €5-10/mo, ceiling €15-20/mo, **one-time €30-50 unlock model highly attractive** for low-volume users.
+- ✅ **Target persona quote** (r/selbststaendig 1r63qv3, 2024-10-28): *"ich bin Kleinunternehmer und schreibe nur eine Handvoll Rechnungen pro Jahr. Aktuell bilde ich das noch mit Word + Excel ab..."* — exact user we serve.
+
+**Refined wedge for Direction 4 v9** (post-Papierkram revelation):
+- ❌ NOT "we're the only free German invoice app" (Papierkram is also free — but watermarked)
+- ✅ **"Mobile-native (create invoices on phone, not just view), no watermark, true §19 preset, GoBD-compliant local archive, one-time €39 unlock for unlimited"** — the combination Papierkram + Lexware + sevDesk all miss
+
+### Pricing refinement (Agent 11 forum data)
+
+- 🟢 Free tier: 5 invoices/month + §19 disclaimer + watermark-free PDF + local archive
+- 💎 Premium: **€39 one-time** (Reddit-validated sweet spot for "low-volume Kleinunternehmer") OR €4.99/mo
+- ❌ NO yearly subscription auto-renewal (German "Abo-Falle" reputation must be deliberately avoided)
 
 ### Direction 4 sequencing strategy (REVISED v9 with PL data)
 

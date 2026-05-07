@@ -1,0 +1,1783 @@
+{
+  "generated": "2026-05-07T11:45:19.418Z",
+  "country": "us",
+  "niches": [
+    {
+      "id": "A1_handyman",
+      "label": "Handyman/contractor day-tracker",
+      "search": {
+        "handyman job tracker": [
+          {
+            "appId": "com.thehandyx",
+            "title": "HandyX: Handyman Services",
+            "developer": "HandyX Inc.",
+            "summary": "HandyX is an application to connect a handyman and a customer.",
+            "free": false
+          },
+          {
+            "appId": "com.taskrabbit.droid.consumer",
+            "title": "Taskrabbit - Handyman, Errands",
+            "developer": "TaskRabbit Inc",
+            "score": 2.41,
+            "summary": "Furniture assembly, moving, mounting, cleaning, yard work, home repairs &amp; more",
+            "free": false
+          },
+          {
+            "appId": "com.jobtoday.app",
+            "title": "JOB TODAY: Hire & Find Jobs",
+            "developer": "JOB TODAY S.A.",
+            "score": 4.43,
+            "summary": "Connecting Candidates with Employers Hiring Immediately.",
+            "free": false
+          },
+          {
+            "appId": "exchange.ondemand.randstad.worker",
+            "title": "randstad: jobs for workers",
+            "developer": "randstad at work",
+            "summary": "Find jobs near you and temp work in minutes, from your phone.",
+            "free": false
+          },
+          {
+            "appId": "com.studbudd.application_tracker",
+            "title": "Job Applications Tracker",
+            "developer": "Individual Creator",
+            "summary": "Struggling to manage your job applications? We are here for the rescue!!",
+            "free": false
+          },
+          {
+            "appId": "com.thumbtack.consumer",
+            "title": "Thumbtack: Hire Service Pros",
+            "developer": "Thumbtack",
+            "summary": "Hire home service pros near you: handyman, plumber, house cleaning &amp; repair.",
+            "free": false
+          },
+          {
+            "appId": "com.ShMJqnAZKkEl.natively",
+            "title": "HandyMan",
+            "developer": "KVV Satyanarayana",
+            "summary": "Handyman Services, we provide the best solutions ,all your home repair needs.",
+            "free": false
+          },
+          {
+            "appId": "com.application.job_tracker",
+            "title": "Job Application Tracker",
+            "developer": "Aaditya Jagdale",
+            "summary": "Track all your job application from the palm of your hand!",
+            "free": false
+          },
+          {
+            "appId": "be.sodexo.worker",
+            "title": "Job Tracker 2.0",
+            "developer": "Pluxee Belgium",
+            "score": 0,
+            "summary": "Job Tracker allows you to manage your services and customers from your phone",
+            "free": false
+          },
+          {
+            "appId": "com.gsgroup.handyman",
+            "title": "Handyman",
+            "developer": "GSGroup AS",
+            "score": 3.2222223,
+            "summary": "Mobile field service solution for organizations with technicians in the field.",
+            "free": false
+          }
+        ],
+        "contractor daily log": [
+          {
+            "appId": "com.snappii_corp.construction_daily_log_app",
+            "title": "Construction Daily Log App",
+            "developer": "Snappii",
+            "score": 0,
+            "summary": "A construction daily log book always at your fingertips",
+            "free": false
+          },
+          {
+            "appId": "com.xamapps.docplan",
+            "title": "Construction Daily Reports App",
+            "developer": "Business Apps - Development Team",
+            "summary": "Construction Daily Log App - Build Log, Safety Reports, Construction Management",
+            "free": false
+          },
+          {
+            "appId": "com.llb.driversdailylog",
+            "title": "Drivers Daily Log",
+            "developer": "LLB Driver's Daily Log",
+            "summary": "Easy Drivers Daily Log app. Designed to mimic a traditional paper log book.",
+            "free": false
+          },
+          {
+            "appId": "net.fieldwire.app",
+            "title": "Fieldwire - Construction App",
+            "developer": "Fieldwire",
+            "score": 3.8333333,
+            "summary": "Field management, punch list &amp; scheduling app for construction teams.",
+            "free": false
+          },
+          {
+            "appId": "com.snappii_corp.my_daily_report_app",
+            "title": "My Daily Report App",
+            "developer": "Snappii",
+            "score": 0,
+            "summary": "Create daily reports in seconds!",
+            "free": false
+          },
+          {
+            "appId": "com.scriptandgo.sitediary",
+            "title": "Site Diary - Construction",
+            "developer": "Script&Go",
+            "score": 0,
+            "summary": "Create daily reports to keep track of everything that goes on at site",
+            "free": false
+          },
+          {
+            "appId": "com.raken",
+            "title": "Raken Construction Management",
+            "developer": "Raken Construction Daily Reports Software",
+            "summary": "Construction Management App &amp; Field Reporting, Used by Over 30,000 Contractors!",
+            "free": false
+          },
+          {
+            "appId": "contractorplus.app",
+            "title": "Contractor+: Estimate, Invoice",
+            "developer": "Contractor Plus, Inc.",
+            "summary": "Efficiency boosting tools for handyman contractors &amp; construction managers.",
+            "free": false
+          },
+          {
+            "appId": "com.store2phone_corp.construction_manager",
+            "title": "Construction Manager",
+            "developer": "Snappii",
+            "summary": "Ensure an accurate and regular flow of information",
+            "free": false
+          },
+          {
+            "appId": "com.snappii_corp.daily_log_reporting",
+            "title": "Daily Activity&Time Reporting",
+            "developer": "Snappii",
+            "score": 0,
+            "summary": "Make daily log reports in minutes",
+            "free": false
+          }
+        ],
+        "construction job log": [
+          {
+            "appId": "com.snappii_corp.construction_daily_log_app",
+            "title": "Construction Daily Log App",
+            "developer": "Snappii",
+            "score": 0,
+            "summary": "A construction daily log book always at your fingertips",
+            "free": false
+          },
+          {
+            "appId": "net.fieldwire.app",
+            "title": "Fieldwire - Construction App",
+            "developer": "Fieldwire",
+            "score": 3.8333333,
+            "summary": "Field management, punch list &amp; scheduling app for construction teams.",
+            "free": false
+          },
+          {
+            "appId": "com.store2phone_corp.construction_manager",
+            "title": "Construction Manager",
+            "developer": "Snappii",
+            "summary": "Ensure an accurate and regular flow of information",
+            "free": false
+          },
+          {
+            "appId": "com.buildforce",
+            "title": "Buildforce: Construction Jobs",
+            "developer": "Buildforce",
+            "summary": "Buildforce connects skilled tradesmen with the best construction jobs in America",
+            "free": false
+          },
+          {
+            "appId": "com.scriptandgo.sitediary",
+            "title": "Site Diary - Construction",
+            "developer": "Script&Go",
+            "score": 0,
+            "summary": "Create daily reports to keep track of everything that goes on at site",
+            "free": false
+          },
+          {
+            "appId": "com.cembs.dl",
+            "title": "Construction Daily Log",
+            "developer": "CEM Business Solutions",
+            "summary": "CEM’s Daily Log is more than a Construction time and attendance software.",
+            "free": false
+          },
+          {
+            "appId": "com.app.onsite",
+            "title": "Onsite Construction App",
+            "developer": "Abeyaantrix Technology",
+            "score": 0,
+            "summary": "Construction Expense and Project Management App for Contractors and Builders",
+            "free": false
+          },
+          {
+            "appId": "com.ezelogsapp",
+            "title": "Ezelogs Construction Software",
+            "developer": "Ezelogs Invoice, Time, Safety, Daily Logs Software",
+            "summary": "Construction Software AI Field Reports, Project Tracking, Financial Management",
+            "free": false
+          },
+          {
+            "appId": "com.construction.diary",
+            "title": "SiteLogs: Construction Diary",
+            "developer": "apptech_Infotech",
+            "summary": "App replaces your paper diaries, journal where record daily site activities",
+            "free": false
+          },
+          {
+            "appId": "com.getjobber.jobber",
+            "title": "Jobber: Field Service Software",
+            "developer": "Jobber Software",
+            "score": 0,
+            "summary": "Schedule, dispatch, Invoice and get paid. Home service operations, made easy.",
+            "free": false
+          }
+        ]
+      },
+      "candidates": [],
+      "rejected": [
+        {
+          "appId": "com.thehandyx",
+          "title": "HandyX: Handyman Services",
+          "developer": "HandyX Inc.",
+          "reason": "low_installs"
+        },
+        {
+          "appId": "com.taskrabbit.droid.consumer",
+          "title": "Taskrabbit - Handyman, Errands",
+          "developer": "TaskRabbit Inc",
+          "reason": "reject_dev"
+        },
+        {
+          "appId": "com.jobtoday.app",
+          "title": "JOB TODAY: Hire & Find Jobs",
+          "developer": "JOB TODAY S.A.",
+          "reason": "low_installs"
+        },
+        {
+          "appId": "exchange.ondemand.randstad.worker",
+          "title": "randstad: jobs for workers",
+          "developer": "randstad at work",
+          "reason": "low_installs"
+        },
+        {
+          "appId": "com.studbudd.application_tracker",
+          "title": "Job Applications Tracker",
+          "developer": "Individual Creator",
+          "reason": "low_installs"
+        },
+        {
+          "appId": "com.thumbtack.consumer",
+          "title": "Thumbtack: Hire Service Pros",
+          "developer": "Thumbtack",
+          "reason": "reject_dev"
+        },
+        {
+          "appId": "com.ShMJqnAZKkEl.natively",
+          "title": "HandyMan",
+          "developer": "KVV Satyanarayana",
+          "reason": "low_installs"
+        },
+        {
+          "appId": "com.application.job_tracker",
+          "title": "Job Application Tracker",
+          "developer": "Aaditya Jagdale",
+          "reason": "low_installs"
+        },
+        {
+          "appId": "be.sodexo.worker",
+          "title": "Job Tracker 2.0",
+          "developer": "Pluxee Belgium",
+          "reason": "low_installs"
+        },
+        {
+          "appId": "com.gsgroup.handyman",
+          "title": "Handyman",
+          "developer": "GSGroup AS",
+          "reason": "low_installs"
+        },
+        {
+          "appId": "com.snappii_corp.construction_daily_log_app",
+          "title": "Construction Daily Log App",
+          "developer": "Snappii",
+          "reason": "low_installs"
+        },
+        {
+          "appId": "com.xamapps.docplan",
+          "title": "Construction Daily Reports App",
+          "developer": "Business Apps - Development Team",
+          "reason": "low_installs"
+        },
+        {
+          "appId": "com.llb.driversdailylog",
+          "title": "Drivers Daily Log",
+          "developer": "LLB Driver's Daily Log",
+          "reason": "low_installs"
+        },
+        {
+          "appId": "net.fieldwire.app",
+          "title": "Fieldwire - Construction App",
+          "developer": "Fieldwire",
+          "reason": "low_installs"
+        },
+        {
+          "appId": "com.snappii_corp.my_daily_report_app",
+          "title": "My Daily Report App",
+          "developer": "Snappii",
+          "reason": "low_installs"
+        },
+        {
+          "appId": "com.scriptandgo.sitediary",
+          "title": "Site Diary - Construction",
+          "developer": "Script&Go",
+          "reason": "low_installs"
+        },
+        {
+          "appId": "com.raken",
+          "title": "Raken Construction Management",
+          "developer": "Raken Construction Daily Reports Software",
+          "reason": "low_installs"
+        },
+        {
+          "appId": "contractorplus.app",
+          "title": "Contractor+: Estimate, Invoice",
+          "developer": "Contractor Plus, Inc.",
+          "reason": "low_installs"
+        },
+        {
+          "appId": "com.store2phone_corp.construction_manager",
+          "title": "Construction Manager",
+          "developer": "Snappii",
+          "reason": "low_installs"
+        },
+        {
+          "appId": "com.snappii_corp.daily_log_reporting",
+          "title": "Daily Activity&Time Reporting",
+          "developer": "Snappii",
+          "reason": "low_installs"
+        },
+        {
+          "appId": "com.buildforce",
+          "title": "Buildforce: Construction Jobs",
+          "developer": "Buildforce",
+          "reason": "low_installs"
+        },
+        {
+          "appId": "com.cembs.dl",
+          "title": "Construction Daily Log",
+          "developer": "CEM Business Solutions",
+          "reason": "low_installs"
+        },
+        {
+          "appId": "com.app.onsite",
+          "title": "Onsite Construction App",
+          "developer": "Abeyaantrix Technology",
+          "reason": "low_installs"
+        },
+        {
+          "appId": "com.ezelogsapp",
+          "title": "Ezelogs Construction Software",
+          "developer": "Ezelogs Invoice, Time, Safety, Daily Logs Software",
+          "reason": "low_installs"
+        },
+        {
+          "appId": "com.construction.diary",
+          "title": "SiteLogs: Construction Diary",
+          "developer": "apptech_Infotech",
+          "reason": "low_installs"
+        },
+        {
+          "appId": "com.getjobber.jobber",
+          "title": "Jobber: Field Service Software",
+          "developer": "Jobber Software",
+          "reason": "low_installs"
+        }
+      ]
+    },
+    {
+      "id": "A2_plumber",
+      "label": "Plumber/electrician dispatcher solo",
+      "search": {
+        "plumber app self employed": [
+          {
+            "appId": "ru.hands.backoffice",
+            "title": "Руки бэкофис: работа для профи",
+            "developer": "Руки",
+            "score": 0,
+            "summary": "Work for craftsmen and professionals. Orders for repairmen with a flexible schedule.",
+            "free": false
+          },
+          {
+            "appId": "com.freelance.calculator.self.employment",
+            "title": "Self-Employment Tax Calculator",
+            "developer": "DDR Technologies INC",
+            "summary": "Calculate the taxes as self-employed in USA, know how yo will pay in 1099 form",
+            "free": false
+          },
+          {
+            "appId": "com.cargoteleport.plumber",
+            "title": "Master Plumber Test",
+            "developer": "Cargo Teleport",
+            "summary": "Master Your Plumbing Exam and Advance Your Career",
+            "free": false
+          },
+          {
+            "appId": "sergeiv.plumberhandbook",
+            "title": "Plumber's Handbook: Guide",
+            "developer": "SergeyV Apps",
+            "score": 4.55,
+            "summary": "Information about plumbing. Answers to the main questions",
+            "free": false
+          },
+          {
+            "appId": "sa.com.plumberandelectrician.client",
+            "title": "Plumber & Electrician in Kharj",
+            "developer": "Kaiian co.",
+            "summary": "Home Maintenance: Handyman, Repair, Technician Home Service in Saudi Arabia.",
+            "free": false
+          },
+          {
+            "appId": "com.earthview.plumberconnecttwo",
+            "title": "My plumber",
+            "developer": "GNOVATION LTD",
+            "summary": "Online plumber ordering app",
+            "free": false
+          },
+          {
+            "appId": "com.aleosapps.QuizzAppNITC.Journey.Level.Plumber",
+            "title": "Journeyman Plumber Exam 2026",
+            "developer": "Prepia Inc",
+            "summary": "Plumbing practice tests and study tools for exam preparation",
+            "free": false
+          },
+          {
+            "appId": "com.intuit.qbse",
+            "title": "QBSE",
+            "developer": "Intuit Inc",
+            "score": 0,
+            "summary": "Track mileage &amp; expenses. Syncs with TurboTax Self-Employed.",
+            "free": false
+          },
+          {
+            "appId": "com.poolbyengineer.smartplumberapp",
+            "title": "Smart Plumber",
+            "developer": "Pool By Engineer Inc.",
+            "summary": "Design and visualize 3D plumbing routes with cost &amp; obstacle checks.",
+            "free": false
+          },
+          {
+            "appId": "com.earthview.plumberconnect1",
+            "title": "Plumber App",
+            "developer": "GNOVATION LTD",
+            "summary": "Smart plumbing service app for quick fixes, bookings, and professional help.",
+            "free": false
+          }
+        ],
+        "electrician job tracker": [
+          {
+            "appId": "com.ideal.electriciansidekick",
+            "title": "Electrician's Sidekick",
+            "developer": "Ideal Industries, Inc.",
+            "summary": "Simplify every job with this all-in-one electrician's companion",
+            "free": false
+          },
+          {
+            "appId": "com.studbudd.application_tracker",
+            "title": "Job Applications Tracker",
+            "developer": "Individual Creator",
+            "summary": "Struggling to manage your job applications? We are here for the rescue!!",
+            "free": false
+          },
+          {
+            "appId": "com.shockwavegames.electrician.simulator.repair",
+            "title": "Electrician Life Simulator Job",
+            "developer": "Shockwave Games",
+            "score": 0,
+            "summary": "You are the pro electrician, show your skills &amp; fix the issues of electricity",
+            "free": false
+          },
+          {
+            "appId": "mmy.first.myapplication433",
+            "title": "Electrician Handbook",
+            "developer": "SV APPS LTD",
+            "score": 4.7398844,
+            "summary": "Electric circuit diagrams, electrical engineering theory, and calculators",
+            "free": false
+          },
+          {
+            "appId": "com.jobtoday.app",
+            "title": "JOB TODAY: Hire & Find Jobs",
+            "developer": "JOB TODAY S.A.",
+            "score": 4.43,
+            "summary": "Connecting Candidates with Employers Hiring Immediately.",
+            "free": false
+          },
+          {
+            "appId": "com.application.job_tracker",
+            "title": "Job Application Tracker",
+            "developer": "Aaditya Jagdale",
+            "summary": "Track all your job application from the palm of your hand!",
+            "free": false
+          },
+          {
+            "appId": "com.indeed.android.jobsearch",
+            "title": "Indeed Job Search",
+            "developer": "Indeed Jobs",
+            "score": 4.588913,
+            "summary": "We help people get jobs",
+            "free": false
+          },
+          {
+            "appId": "be.sodexo.worker",
+            "title": "Job Tracker 2.0",
+            "developer": "Pluxee Belgium",
+            "score": 0,
+            "summary": "Job Tracker allows you to manage your services and customers from your phone",
+            "free": false
+          },
+          {
+            "appId": "exchange.ondemand.randstad.worker",
+            "title": "randstad: jobs for workers",
+            "developer": "randstad at work",
+            "summary": "Find jobs near you and temp work in minutes, from your phone.",
+            "free": false
+          },
+          {
+            "appId": "com.aleosapps.QuizzAppNASCLA.Journeyman.Electrician",
+            "title": "ELECTRICIAN TEST PRACTICE 2026",
+            "developer": "Prepia Inc",
+            "summary": "Electrician practice tests and study tools for exam preparation",
+            "free": false
+          }
+        ]
+      },
+      "candidates": [],
+      "rejected": [
+        {
+          "appId": "ru.hands.backoffice",
+          "title": "Руки бэкофис: работа для профи",
+          "developer": "Руки",
+          "reason": "low_installs"
+        },
+        {
+          "appId": "com.freelance.calculator.self.employment",
+          "title": "Self-Employment Tax Calculator",
+          "developer": "DDR Technologies INC",
+          "reason": "low_installs"
+        },
+        {
+          "appId": "com.cargoteleport.plumber",
+          "title": "Master Plumber Test",
+          "developer": "Cargo Teleport",
+          "reason": "low_installs"
+        },
+        {
+          "appId": "sergeiv.plumberhandbook",
+          "title": "Plumber's Handbook: Guide",
+          "developer": "SergeyV Apps",
+          "reason": "low_installs"
+        },
+        {
+          "appId": "sa.com.plumberandelectrician.client",
+          "title": "Plumber & Electrician in Kharj",
+          "developer": "Kaiian co.",
+          "reason": "low_installs"
+        },
+        {
+          "appId": "com.earthview.plumberconnecttwo",
+          "title": "My plumber",
+          "developer": "GNOVATION LTD",
+          "reason": "low_installs"
+        },
+        {
+          "appId": "com.aleosapps.QuizzAppNITC.Journey.Level.Plumber",
+          "title": "Journeyman Plumber Exam 2026",
+          "developer": "Prepia Inc",
+          "reason": "low_installs"
+        },
+        {
+          "appId": "com.intuit.qbse",
+          "title": "QBSE",
+          "developer": "Intuit Inc",
+          "reason": "reject_dev"
+        },
+        {
+          "appId": "com.poolbyengineer.smartplumberapp",
+          "title": "Smart Plumber",
+          "developer": "Pool By Engineer Inc.",
+          "reason": "low_installs"
+        },
+        {
+          "appId": "com.earthview.plumberconnect1",
+          "title": "Plumber App",
+          "developer": "GNOVATION LTD",
+          "reason": "low_installs"
+        },
+        {
+          "appId": "com.ideal.electriciansidekick",
+          "title": "Electrician's Sidekick",
+          "developer": "Ideal Industries, Inc.",
+          "reason": "low_installs"
+        },
+        {
+          "appId": "com.studbudd.application_tracker",
+          "title": "Job Applications Tracker",
+          "developer": "Individual Creator",
+          "reason": "low_installs"
+        },
+        {
+          "appId": "com.shockwavegames.electrician.simulator.repair",
+          "title": "Electrician Life Simulator Job",
+          "developer": "Shockwave Games",
+          "reason": "low_installs"
+        },
+        {
+          "appId": "mmy.first.myapplication433",
+          "title": "Electrician Handbook",
+          "developer": "SV APPS LTD",
+          "reason": "low_installs"
+        },
+        {
+          "appId": "com.jobtoday.app",
+          "title": "JOB TODAY: Hire & Find Jobs",
+          "developer": "JOB TODAY S.A.",
+          "reason": "low_installs"
+        },
+        {
+          "appId": "com.application.job_tracker",
+          "title": "Job Application Tracker",
+          "developer": "Aaditya Jagdale",
+          "reason": "low_installs"
+        },
+        {
+          "appId": "com.indeed.android.jobsearch",
+          "title": "Indeed Job Search",
+          "developer": "Indeed Jobs",
+          "reason": "low_installs"
+        },
+        {
+          "appId": "be.sodexo.worker",
+          "title": "Job Tracker 2.0",
+          "developer": "Pluxee Belgium",
+          "reason": "low_installs"
+        },
+        {
+          "appId": "exchange.ondemand.randstad.worker",
+          "title": "randstad: jobs for workers",
+          "developer": "randstad at work",
+          "reason": "low_installs"
+        },
+        {
+          "appId": "com.aleosapps.QuizzAppNASCLA.Journeyman.Electrician",
+          "title": "ELECTRICIAN TEST PRACTICE 2026",
+          "developer": "Prepia Inc",
+          "reason": "low_installs"
+        }
+      ]
+    },
+    {
+      "id": "A3_mechanic",
+      "label": "Mobile mechanic job log",
+      "search": {
+        "mobile mechanic app": [
+          {
+            "appId": "com.yourmechanic.YourMechanic",
+            "title": "YourMechanic Mobile Car Repair",
+            "developer": "Wrench Inc.",
+            "summary": "Instant car repair quotes. Certified mechanics fix your car at you location.",
+            "free": false
+          },
+          {
+            "appId": "com.AutoRepairInvoice",
+            "title": "ARI (Auto Repair Software)",
+            "developer": "uMob LTD",
+            "score": 3.5,
+            "summary": "Manage all aspects of your auto repair business - from diagnosis to invoicing",
+            "free": false
+          },
+          {
+            "appId": "us.modernmechanic",
+            "title": "Modern Mechanic OBD Car repair",
+            "developer": "Modern Mechanic",
+            "summary": "Small startup, big value. DIY repair guides &amp; OBD2 diagnostics with zero ads :)",
+            "free": false
+          },
+          {
+            "appId": "com.themblmechinc.tmmi_residential_app",
+            "title": "The Mobile Mechanic",
+            "developer": "The Mobile Mechanic Inc",
+            "summary": "The Mobile Mechanic Residential Customers",
+            "free": false
+          },
+          {
+            "appId": "com.instant.carfix",
+            "title": "Instant Car Fix - Mechanic app",
+            "developer": "Instant Car Fix",
+            "summary": "Instant Car Fix - The  Mechanic application",
+            "free": false
+          },
+          {
+            "appId": "com.themobilemechanichub.s",
+            "title": "Mobile Mechanic Hub",
+            "developer": "The Mobile Mechanic Service",
+            "summary": "Our CRM is Built For Mobile Mechanics by Mobile Mechanics.",
+            "free": false
+          },
+          {
+            "appId": "app.mechai.mobile",
+            "title": "MECH AI: Diagnostic & Repair",
+            "developer": "MECH.AI LLC",
+            "summary": "AI Powered - Automotive Mechanic Assistant",
+            "free": false
+          },
+          {
+            "appId": "com.howtoo.app",
+            "title": "HowToo - AI Master Mechanic",
+            "developer": "HowToo",
+            "summary": "Learn how to fix, troubleshoot or upgrade any part on any vehicle!",
+            "free": false
+          },
+          {
+            "appId": "com.calculation.automobileengineeringapp",
+            "title": "Auto Mechanic Mate",
+            "developer": "Calculation World",
+            "score": 4.36,
+            "summary": "DIY Car Repair. Learn, maintain, &amp; fix your car with Auto Mechanic Mate.",
+            "free": false
+          },
+          {
+            "appId": "com.tigloos.fixer",
+            "title": "Fixer: Car Mechanic’s Journey",
+            "developer": "Tigloos Games",
+            "summary": "Discover the city, trade, repair and customize cars.",
+            "free": false
+          }
+        ],
+        "auto repair tracker": [
+          {
+            "appId": "com.yourmechanic.YourMechanic",
+            "title": "YourMechanic Mobile Car Repair",
+            "developer": "Wrench Inc.",
+            "summary": "Instant car repair quotes. Certified mechanics fix your car at you location.",
+            "free": false
+          },
+          {
+            "appId": "com.AutoRepairInvoice",
+            "title": "ARI (Auto Repair Software)",
+            "developer": "uMob LTD",
+            "score": 3.5,
+            "summary": "Manage all aspects of your auto repair business - from diagnosis to invoicing",
+            "free": false
+          },
+          {
+            "appId": "com.tunombre.carscanner",
+            "title": "FixioCar - Auto Repair & Scan",
+            "developer": "OmarDevSolutions",
+            "summary": "Scan Your Car for Diagnostics &amp; Repair with AI Mechanic Assistant",
+            "free": false
+          },
+          {
+            "appId": "com.iwtech.autorepairhq",
+            "title": "Auto Repair HQ",
+            "developer": "IW TECH SOFTWARE LLC",
+            "summary": "Auto Repair HQ provides features that simplify tasks for an auto repair shop.",
+            "free": false
+          },
+          {
+            "appId": "mrigapps.andriod.fuelcons",
+            "title": "Simply Auto: Car Maintenance",
+            "developer": "Mobifolio",
+            "score": 4.35,
+            "summary": "Over 0.5 Million trust us to track their fillups, services, reminders &amp; mileage.",
+            "free": false
+          },
+          {
+            "appId": "com.cars.android.carapps.carnotes",
+            "title": "Car service tracker",
+            "developer": "Aleksey Mikheev",
+            "score": 4.3396225,
+            "summary": "Track vehicle maintenance with reminders! Car service record app with analytics",
+            "free": false
+          },
+          {
+            "appId": "app.mechai.mobile",
+            "title": "MECH AI: Diagnostic & Repair",
+            "developer": "MECH.AI LLC",
+            "summary": "AI Powered - Automotive Mechanic Assistant",
+            "free": false
+          },
+          {
+            "appId": "com.aiflow.workflow",
+            "title": "Auto Repair Scheduling",
+            "developer": "Podsokhin Oleg",
+            "summary": "Appointments, bays, reports, invoices, and payouts for auto shops",
+            "free": false
+          },
+          {
+            "appId": "com.car.repairs.problem.carproblemrepairs",
+            "title": "Car Problems and Repairs",
+            "developer": "EMA Developer",
+            "summary": "Car Problem and Repairs App helps you for maintenance and repair of your car",
+            "free": false
+          },
+          {
+            "appId": "vn.advn.automobile",
+            "title": "Auto Repair Documents",
+            "developer": "Auto Repair Doccumnents",
+            "score": 4.625,
+            "summary": "Auto Repair Documents is the most comprehensive car repair lookup application available today",
+            "free": false
+          }
+        ]
+      },
+      "candidates": [],
+      "rejected": [
+        {
+          "appId": "com.yourmechanic.YourMechanic",
+          "title": "YourMechanic Mobile Car Repair",
+          "developer": "Wrench Inc.",
+          "reason": "low_installs"
+        },
+        {
+          "appId": "com.AutoRepairInvoice",
+          "title": "ARI (Auto Repair Software)",
+          "developer": "uMob LTD",
+          "reason": "low_installs"
+        },
+        {
+          "appId": "us.modernmechanic",
+          "title": "Modern Mechanic OBD Car repair",
+          "developer": "Modern Mechanic",
+          "reason": "low_installs"
+        },
+        {
+          "appId": "com.themblmechinc.tmmi_residential_app",
+          "title": "The Mobile Mechanic",
+          "developer": "The Mobile Mechanic Inc",
+          "reason": "low_installs"
+        },
+        {
+          "appId": "com.instant.carfix",
+          "title": "Instant Car Fix - Mechanic app",
+          "developer": "Instant Car Fix",
+          "reason": "low_installs"
+        },
+        {
+          "appId": "com.themobilemechanichub.s",
+          "title": "Mobile Mechanic Hub",
+          "developer": "The Mobile Mechanic Service",
+          "reason": "low_installs"
+        },
+        {
+          "appId": "app.mechai.mobile",
+          "title": "MECH AI: Diagnostic & Repair",
+          "developer": "MECH.AI LLC",
+          "reason": "low_installs"
+        },
+        {
+          "appId": "com.howtoo.app",
+          "title": "HowToo - AI Master Mechanic",
+          "developer": "HowToo",
+          "reason": "low_installs"
+        },
+        {
+          "appId": "com.calculation.automobileengineeringapp",
+          "title": "Auto Mechanic Mate",
+          "developer": "Calculation World",
+          "reason": "low_installs"
+        },
+        {
+          "appId": "com.tigloos.fixer",
+          "title": "Fixer: Car Mechanic’s Journey",
+          "developer": "Tigloos Games",
+          "reason": "low_installs"
+        },
+        {
+          "appId": "com.tunombre.carscanner",
+          "title": "FixioCar - Auto Repair & Scan",
+          "developer": "OmarDevSolutions",
+          "reason": "low_installs"
+        },
+        {
+          "appId": "com.iwtech.autorepairhq",
+          "title": "Auto Repair HQ",
+          "developer": "IW TECH SOFTWARE LLC",
+          "reason": "low_installs"
+        },
+        {
+          "appId": "mrigapps.andriod.fuelcons",
+          "title": "Simply Auto: Car Maintenance",
+          "developer": "Mobifolio",
+          "reason": "low_installs"
+        },
+        {
+          "appId": "com.cars.android.carapps.carnotes",
+          "title": "Car service tracker",
+          "developer": "Aleksey Mikheev",
+          "reason": "low_installs"
+        },
+        {
+          "appId": "com.aiflow.workflow",
+          "title": "Auto Repair Scheduling",
+          "developer": "Podsokhin Oleg",
+          "reason": "low_installs"
+        },
+        {
+          "appId": "com.car.repairs.problem.carproblemrepairs",
+          "title": "Car Problems and Repairs",
+          "developer": "EMA Developer",
+          "reason": "low_installs"
+        },
+        {
+          "appId": "vn.advn.automobile",
+          "title": "Auto Repair Documents",
+          "developer": "Auto Repair Doccumnents",
+          "reason": "low_installs"
+        }
+      ]
+    },
+    {
+      "id": "B4_trainer",
+      "label": "Personal trainer/yoga instructor session log",
+      "search": {
+        "personal trainer client app": [
+          {
+            "appId": "com.gymdone.gymworkouttrainer",
+            "title": "Gym Workout & Personal Trainer",
+            "developer": "BALANCED",
+            "score": 4.56,
+            "summary": "Workout Planner - Workout Plan Bodybuilding, Lifting Weights, Workout routine",
+            "free": false
+          },
+          {
+            "appId": "com.trainerize.Trainerize",
+            "title": "ABC Trainerize",
+            "developer": "Trainerize",
+            "score": 4,
+            "summary": "Leading app for fitness professionals.",
+            "free": false
+          },
+          {
+            "appId": "com.adapt.app",
+            "title": "Fitness Personal Trainer Adapt",
+            "developer": "Stackwize",
+            "score": 0,
+            "summary": "Gym Workout Planner &amp; Tracker",
+            "free": false
+          },
+          {
+            "appId": "com.trainerfu.android",
+            "title": "Trainerfu—For Personal Trainer",
+            "developer": "Trainerfu LLC",
+            "summary": "App for Personal Trainers &amp; Clients. Get clients faster results &amp; grow business.",
+            "free": false
+          },
+          {
+            "appId": "com.liteup.getgains",
+            "title": "Gravl: Personal Trainer",
+            "developer": "GAINS COACH PTY LTD",
+            "score": 4.361111,
+            "summary": "Hypertrophy Fitness Coach",
+            "free": false
+          },
+          {
+            "appId": "com.fitbod.fitbod",
+            "title": "Fitbod: Workout & Gym Planner",
+            "developer": "Fitbod",
+            "score": 4.21,
+            "summary": "Gym &amp; home workout plans with strength training, exercise tracking, HIIT &amp; more.",
+            "free": false
+          },
+          {
+            "appId": "com.bodbot.trainer",
+            "title": "BodBot AI Personal Trainer",
+            "developer": "BodBot",
+            "score": 4.43,
+            "summary": "The most advanced fitness platform ever. Intelligent, adaptive workout planning.",
+            "free": false
+          },
+          {
+            "appId": "com.drmaxmuscle.dr_max_muscle",
+            "title": "Dr. Muscle AI Personal Trainer",
+            "developer": "Dr. Carl Juneau PhD",
+            "score": 2.8,
+            "summary": "Build muscle &amp; get strong with AI workouts that progress automatically with you",
+            "free": false
+          },
+          {
+            "appId": "com.maxworkoutcoach.workouttrainer.workouttrainer",
+            "title": "Personal Training Coach",
+            "developer": "MaxTrainingTech",
+            "score": 4.5510206,
+            "summary": "Get stronger, build muscle, and track workouts with smart progress automation!",
+            "free": false
+          },
+          {
+            "appId": "com.ojam.yptrainer",
+            "title": "YP Trainer",
+            "developer": "YP Trainer",
+            "score": 0,
+            "summary": "YP Trainer connects trainers and clients to exclusive spaces to rent pay per use",
+            "free": false
+          }
+        ],
+        "fitness coach scheduler": [
+          {
+            "appId": "com.fitnessmobileapps.theexercisecoach",
+            "title": "The Exercise Coach Scheduler",
+            "developer": "Branded Apps by MINDBODY",
+            "summary": "Plan and schedule your personal training sessions from your Mobile device.",
+            "free": false
+          },
+          {
+            "appId": "com.bodbot.trainer",
+            "title": "BodBot AI Personal Trainer",
+            "developer": "BodBot",
+            "score": 4.43,
+            "summary": "The most advanced fitness platform ever. Intelligent, adaptive workout planning.",
+            "free": false
+          },
+          {
+            "appId": "fitnesscoach.workoutplanner.weightloss",
+            "title": "Fitness Coach: Weight Loss",
+            "developer": "Leap Fitness Group",
+            "score": 4.889105,
+            "summary": "Exercise app: no equipment home workout planner for effective weight loss.",
+            "free": false
+          },
+          {
+            "appId": "homeworkout.fitness.app",
+            "title": "Workout Planner Gym Log・Fit AI",
+            "developer": "Social Tech.",
+            "score": 4.5343137,
+            "summary": "Workout Tracker for Muscle Build・Weight Loss with Home Workout・AI Gym Exercise",
+            "free": false
+          },
+          {
+            "appId": "com.fitbod.fitbod",
+            "title": "Fitbod: Workout & Gym Planner",
+            "developer": "Fitbod",
+            "score": 4.21,
+            "summary": "Gym &amp; home workout plans with strength training, exercise tracking, HIIT &amp; more.",
+            "free": false
+          },
+          {
+            "appId": "com.FitCraftStudios.FitCraft",
+            "title": "AI Fitness Coach: Home Workout",
+            "developer": "FitCraft Studios Inc",
+            "summary": "FitCraft: AI Fitness Coach, Workout Planner, Technique Fitness, Home Exercise",
+            "free": false
+          },
+          {
+            "appId": "com.lyfta",
+            "title": "Lyfta: Gym Log Workout Tracker",
+            "developer": "Lyfta Gym Workout Tracker",
+            "score": 4.714286,
+            "summary": "Take your workouts to the next level with Lyfta.",
+            "free": false
+          },
+          {
+            "appId": "de.myfitcoach.tim.mfc",
+            "title": "MyFitCoach - Workout Planner",
+            "developer": "MyFitCoach",
+            "score": 4.390244,
+            "summary": "Fitness &amp; Strength Training",
+            "free": false
+          },
+          {
+            "appId": "com.gymdone.gymworkouttrainer",
+            "title": "Gym Workout & Personal Trainer",
+            "developer": "BALANCED",
+            "score": 4.56,
+            "summary": "Workout Planner - Workout Plan Bodybuilding, Lifting Weights, Workout routine",
+            "free": false
+          },
+          {
+            "appId": "com.fadi.myapp",
+            "title": "PrimeCoach: Fitness Coach",
+            "developer": "Grinning Trout",
+            "summary": "AI personal trainer: workout planner, meal plans, macro tracker &amp; food scanner",
+            "free": false
+          }
+        ],
+        "yoga instructor booking": [
+          {
+            "appId": "com.myyogateacher.studentapp",
+            "title": "Yoga Classes & Asanas For Begi",
+            "developer": "MyYogaTeacher Inc",
+            "summary": "Yoga For Back Pain, Weight Loss &amp; Flexibility | Meditation For Stress Relief",
+            "free": false
+          },
+          {
+            "appId": "yogaworkouts.dailyyoga.yogafitness",
+            "title": "YOGA for Beginners",
+            "developer": "Nexoft - Fitness Apps",
+            "score": 4.71875,
+            "summary": "Daily yoga workouts at home to lose weight, build flexibility and feel balanced",
+            "free": false
+          },
+          {
+            "appId": "com.vgfit.yoga",
+            "title": "Yoga - Poses & Classes",
+            "developer": "VGFIT LLC",
+            "score": 3.8118813,
+            "summary": "A true yoga app for beginners to advanced. Join today!",
+            "free": false
+          },
+          {
+            "appId": "com.peliexpo.pelimobile",
+            "title": "YogaRenew",
+            "developer": "YogaRenew",
+            "summary": "Yoga for the Body, Mind &amp; Soul",
+            "free": false
+          },
+          {
+            "appId": "com.homefit.yoga.health",
+            "title": "Daily Yoga Workout+Meditation",
+            "developer": "ZipoApps",
+            "score": 4.84,
+            "summary": "Enjoy daily yoga workouts with the Yoga app! Unique Yoga for beginners!",
+            "free": false
+          },
+          {
+            "appId": "yoga.workout.weightloss",
+            "title": "Yoga App For Beginners",
+            "developer": "Riafy Technologies",
+            "summary": "Yoga for beginners app with yoga exercise for weight loss and flexibility.",
+            "free": false
+          },
+          {
+            "appId": "breakthroughapps.com.hannahbarrett",
+            "title": "Yoga Happy with Hannah Barrett",
+            "developer": "Breakthrough Apps Inc",
+            "score": 0,
+            "summary": "Yoga, Strength, &amp; Transformation | At-home yoga, meditation, breathwork, Pilates",
+            "free": false
+          },
+          {
+            "appId": "net.beginners.weight.loss.workout.women.yoga.go",
+            "title": "Yoga-Go Pilates & Yoga Workout",
+            "developer": "WELLTECH APPS LIMITED",
+            "score": 4.556231,
+            "summary": "Wall Pilates and yoga for beginners. Chair yoga for seniors. Somatic workout",
+            "free": false
+          },
+          {
+            "appId": "net.workoutinc.yoga.beginners.free.workouts.studio",
+            "title": "Yoga for Beginners | Mind&Body",
+            "developer": "7M Limited",
+            "score": 4.32,
+            "summary": "Lower stress, sleep better, lose weight and relax with our easy yoga workout app",
+            "free": false
+          },
+          {
+            "appId": "com.breakthroughapps.MaryOchsnerYoga.android",
+            "title": "Yoga+ Daily Stretching By Mary",
+            "developer": "Breakthrough Apps Inc",
+            "score": 4.9375,
+            "summary": "Yoga For Real Life",
+            "free": false
+          }
+        ]
+      },
+      "candidates": [],
+      "rejected": [
+        {
+          "appId": "com.gymdone.gymworkouttrainer",
+          "title": "Gym Workout & Personal Trainer",
+          "developer": "BALANCED",
+          "reason": "low_installs"
+        },
+        {
+          "appId": "com.trainerize.Trainerize",
+          "title": "ABC Trainerize",
+          "developer": "Trainerize",
+          "reason": "low_installs"
+        },
+        {
+          "appId": "com.adapt.app",
+          "title": "Fitness Personal Trainer Adapt",
+          "developer": "Stackwize",
+          "reason": "low_installs"
+        },
+        {
+          "appId": "com.trainerfu.android",
+          "title": "Trainerfu—For Personal Trainer",
+          "developer": "Trainerfu LLC",
+          "reason": "low_installs"
+        },
+        {
+          "appId": "com.liteup.getgains",
+          "title": "Gravl: Personal Trainer",
+          "developer": "GAINS COACH PTY LTD",
+          "reason": "low_installs"
+        },
+        {
+          "appId": "com.fitbod.fitbod",
+          "title": "Fitbod: Workout & Gym Planner",
+          "developer": "Fitbod",
+          "reason": "low_installs"
+        },
+        {
+          "appId": "com.bodbot.trainer",
+          "title": "BodBot AI Personal Trainer",
+          "developer": "BodBot",
+          "reason": "low_installs"
+        },
+        {
+          "appId": "com.drmaxmuscle.dr_max_muscle",
+          "title": "Dr. Muscle AI Personal Trainer",
+          "developer": "Dr. Carl Juneau PhD",
+          "reason": "low_installs"
+        },
+        {
+          "appId": "com.maxworkoutcoach.workouttrainer.workouttrainer",
+          "title": "Personal Training Coach",
+          "developer": "MaxTrainingTech",
+          "reason": "low_installs"
+        },
+        {
+          "appId": "com.ojam.yptrainer",
+          "title": "YP Trainer",
+          "developer": "YP Trainer",
+          "reason": "low_installs"
+        },
+        {
+          "appId": "com.fitnessmobileapps.theexercisecoach",
+          "title": "The Exercise Coach Scheduler",
+          "developer": "Branded Apps by MINDBODY",
+          "reason": "reject_dev"
+        },
+        {
+          "appId": "fitnesscoach.workoutplanner.weightloss",
+          "title": "Fitness Coach: Weight Loss",
+          "developer": "Leap Fitness Group",
+          "reason": "low_installs"
+        },
+        {
+          "appId": "homeworkout.fitness.app",
+          "title": "Workout Planner Gym Log・Fit AI",
+          "developer": "Social Tech.",
+          "reason": "low_installs"
+        },
+        {
+          "appId": "com.FitCraftStudios.FitCraft",
+          "title": "AI Fitness Coach: Home Workout",
+          "developer": "FitCraft Studios Inc",
+          "reason": "low_installs"
+        },
+        {
+          "appId": "com.lyfta",
+          "title": "Lyfta: Gym Log Workout Tracker",
+          "developer": "Lyfta Gym Workout Tracker",
+          "reason": "low_installs"
+        },
+        {
+          "appId": "de.myfitcoach.tim.mfc",
+          "title": "MyFitCoach - Workout Planner",
+          "developer": "MyFitCoach",
+          "reason": "low_installs"
+        },
+        {
+          "appId": "com.fadi.myapp",
+          "title": "PrimeCoach: Fitness Coach",
+          "developer": "Grinning Trout",
+          "reason": "low_installs"
+        },
+        {
+          "appId": "com.myyogateacher.studentapp",
+          "title": "Yoga Classes & Asanas For Begi",
+          "developer": "MyYogaTeacher Inc",
+          "reason": "low_installs"
+        },
+        {
+          "appId": "yogaworkouts.dailyyoga.yogafitness",
+          "title": "YOGA for Beginners",
+          "developer": "Nexoft - Fitness Apps",
+          "reason": "low_installs"
+        },
+        {
+          "appId": "com.vgfit.yoga",
+          "title": "Yoga - Poses & Classes",
+          "developer": "VGFIT LLC",
+          "reason": "low_installs"
+        },
+        {
+          "appId": "com.peliexpo.pelimobile",
+          "title": "YogaRenew",
+          "developer": "YogaRenew",
+          "reason": "low_installs"
+        },
+        {
+          "appId": "com.homefit.yoga.health",
+          "title": "Daily Yoga Workout+Meditation",
+          "developer": "ZipoApps",
+          "reason": "low_installs"
+        },
+        {
+          "appId": "yoga.workout.weightloss",
+          "title": "Yoga App For Beginners",
+          "developer": "Riafy Technologies",
+          "reason": "low_installs"
+        },
+        {
+          "appId": "breakthroughapps.com.hannahbarrett",
+          "title": "Yoga Happy with Hannah Barrett",
+          "developer": "Breakthrough Apps Inc",
+          "reason": "low_installs"
+        },
+        {
+          "appId": "net.beginners.weight.loss.workout.women.yoga.go",
+          "title": "Yoga-Go Pilates & Yoga Workout",
+          "developer": "WELLTECH APPS LIMITED",
+          "reason": "low_installs"
+        },
+        {
+          "appId": "net.workoutinc.yoga.beginners.free.workouts.studio",
+          "title": "Yoga for Beginners | Mind&Body",
+          "developer": "7M Limited",
+          "reason": "low_installs"
+        },
+        {
+          "appId": "com.breakthroughapps.MaryOchsnerYoga.android",
+          "title": "Yoga+ Daily Stretching By Mary",
+          "developer": "Breakthrough Apps Inc",
+          "reason": "low_installs"
+        }
+      ]
+    },
+    {
+      "id": "B5_tutor",
+      "label": "Tutor/music teacher session tracker",
+      "search": {
+        "tutor invoice app": [
+          {
+            "appId": "com.squareup.apos",
+            "title": "Square Appointments: Scheduler",
+            "developer": "Block, Inc.",
+            "summary": "Book &amp; schedule appointments online. Payments and reminder management made easy.",
+            "free": false
+          },
+          {
+            "appId": "com.zoho.invoice",
+            "title": "Zoho Invoice - Invoicing App",
+            "developer": "Zoho Corporation",
+            "score": 4.83871,
+            "summary": "Online invoicing &amp; billing software to manage your invoices on the go.",
+            "free": false
+          },
+          {
+            "appId": "com.atominvoice.app",
+            "title": "Invoice Maker — Estimate App",
+            "developer": "Atom Invoice",
+            "score": 0,
+            "summary": "Create and send invoices &amp; estimates fast with this simple invoice maker app.",
+            "free": false
+          },
+          {
+            "appId": "bookipi.invoice.maker.estimate.billing",
+            "title": "Invoice Maker & Estimate App",
+            "developer": "Bookipi - Billing Estimate",
+            "score": 4.59,
+            "summary": "Create invoices, estimates &amp; receipts in minute. Fast, reliable invoice maker.",
+            "free": false
+          },
+          {
+            "appId": "com.aadhk.woinvoice",
+            "title": "Invoice Simple: Invoice Maker",
+            "developer": "Invoice Simple",
+            "score": 4.507576,
+            "summary": "Create invoices, bills, receipts, &amp; estimates with Invoice Generator &amp; Creator.",
+            "free": false
+          },
+          {
+            "appId": "io.labhouse.invoicesapp",
+            "title": "Invoice Maker - Invoice Fly",
+            "developer": "Labhouse Mobile",
+            "score": 4.111111,
+            "summary": "Make invoices, bills, receipts &amp; estimates on the go with Invoice Generator.",
+            "free": false
+          },
+          {
+            "appId": "com.joistapp.android.joist",
+            "title": "Joist Invoice & Estimate App",
+            "developer": "Joist Software Inc.",
+            "summary": "Create estimates, invoices &amp; get paid faster—built for contractors",
+            "free": false
+          },
+          {
+            "appId": "com.squareup.invoicesapp",
+            "title": "Square Invoices: Invoice Maker",
+            "developer": "Block, Inc.",
+            "summary": "Manage your business invoicing, bills &amp; estimates. Track expenses &amp; payments.",
+            "free": false
+          },
+          {
+            "appId": "com.invoice2go.invoice2goplus",
+            "title": "Invoice2go: Easy Invoice Maker",
+            "developer": "Invoice2Go",
+            "score": 4.08,
+            "summary": "All-in-one tool to run your business: invoicing, payments, reporting and more.",
+            "free": false
+          },
+          {
+            "appId": "com.tofu.invoices",
+            "title": "Invoice Maker Tofu & Receipts",
+            "developer": "GetPaid Inc.",
+            "score": 3.75,
+            "summary": "Invoice &amp; estimates maker - make invoices, receipts. Invoicing for business app",
+            "free": false
+          }
+        ],
+        "music teacher attendance": [
+          {
+            "appId": "fr.gym.mattnissartdevelopment.attendanceApp",
+            "title": "Attendy - Attendance register",
+            "developer": "Clever.Apps",
+            "score": 4.285714,
+            "summary": "Online attendance list, fast absence management employees, student, class, staff",
+            "free": false
+          },
+          {
+            "appId": "com.swampsend.noteteacher",
+            "title": "Note Teacher",
+            "developer": "MapsiTech Oy",
+            "score": 4.4,
+            "summary": "Learn Sight-Reading and Note Names with Ease!",
+            "free": false
+          },
+          {
+            "appId": "com.binaryguilt.completemusicreadingtrainer",
+            "title": "Complete Music Reading Trainer",
+            "developer": "Binary Guilt Software",
+            "score": 4.82,
+            "summary": "The ultimate music reading training app.",
+            "free": false
+          },
+          {
+            "appId": "app.pg.scalechordprogression",
+            "title": "Music Theory Companion",
+            "developer": "PG App Studio",
+            "score": 4.1875,
+            "summary": "Music theory, scales, chords, ear training &amp; songwriting tool for all musicians",
+            "free": false
+          },
+          {
+            "appId": "com.futuresculptor.maestro",
+            "title": "Maestro - Music Composer",
+            "developer": "FUTURE SCULPTOR",
+            "score": 4.26,
+            "summary": "Write sheet music with various musical notations and symbols. Compose music easy",
+            "free": false
+          },
+          {
+            "appId": "com.jsplash.musictutor",
+            "title": "Music Tutor (Sight Reading)",
+            "developer": "JSplash Apps",
+            "score": 4.061856,
+            "summary": "Improve your sight-reading skills, a perfect tool for people learning music.",
+            "free": false
+          },
+          {
+            "appId": "com.fender.play",
+            "title": "Fender Play: Music Lessons",
+            "developer": "Fender Musical Instruments Corporation",
+            "score": 4.06,
+            "summary": "Guitar, bass &amp; ukulele lessons. Learn music with step-by-step videos by Fender",
+            "free": false
+          },
+          {
+            "appId": "com.musescore.playerlite",
+            "title": "MuseScore: Music Chords & Tabs",
+            "developer": "Musescore Limited",
+            "score": 3.5357144,
+            "summary": "Free sheet music, piano notes, guitar tabs, chords, tuner &amp; metronome app",
+            "free": false
+          },
+          {
+            "appId": "com.musicnotes.xamarin.android.smv",
+            "title": "Musicnotes Sheet Music Player",
+            "developer": "Musicnotes",
+            "score": 3.14,
+            "summary": "Take your entire Musicnotes sheet music library anywhere!",
+            "free": false
+          },
+          {
+            "appId": "com.presonus.notionmobile",
+            "title": "Fender Notion: Music and Tab",
+            "developer": "Fender Musical Instruments Corporation",
+            "score": 3.5,
+            "summary": "Compose anywhere",
+            "free": false
+          }
+        ],
+        "private tutor scheduling": [
+          {
+            "appId": "com.samsung.android.calendar",
+            "title": "Samsung Calendar",
+            "developer": "Samsung Electronics Co.,  Ltd.",
+            "score": 3.8932927,
+            "summary": "Plan your life smartly with Samsung Calendar!",
+            "free": false
+          },
+          {
+            "appId": "com.aworldaway.tutoring",
+            "title": "Tutoring: ripetizioni private",
+            "developer": "Mirafiori Elia",
+            "summary": "Tutoring is the perfect app if you want to give or receive private lessons from tutors",
+            "free": false
+          },
+          {
+            "appId": "com.komorebi.SimpleCalendar",
+            "title": "Simple Calendar - easy planner",
+            "developer": "Komorebi Inc.",
+            "score": 4.7685184,
+            "summary": "Time planner &amp; shared calendar! Make a to do list, work schedule &amp; study planner",
+            "free": false
+          },
+          {
+            "appId": "calendar.agenda.calendarplanner.agendaplanner",
+            "title": "Calendar Planner - Agenda App",
+            "developer": "Dairy App & Notes & Audio Editor & Voice Recorder",
+            "score": 4.548148,
+            "summary": "A daily calendar planner, schedule agenda 2025 with calender widgets, memo app",
+            "free": false
+          },
+          {
+            "appId": "me.proton.android.calendar",
+            "title": "Proton Calendar: Secure Events",
+            "developer": "Proton AG",
+            "score": 3.9607842,
+            "summary": "Private calendar: Reminders, schedule planner, calendar widget, time-management",
+            "free": false
+          },
+          {
+            "appId": "com.faso.tutor",
+            "title": "LT@ Tutor – Private lessons",
+            "developer": "FASO SAS",
+            "summary": "Find your private tutor or your student or your AI teacher , anywhere.",
+            "free": false
+          },
+          {
+            "appId": "com.headway.books",
+            "title": "Headway - Daily Micro Learning",
+            "developer": "Books Made Easy Corp",
+            "score": 3.9593496,
+            "summary": "Turn scrolling hours into improving your knowledge, communication, intelligence",
+            "free": false
+          },
+          {
+            "appId": "com.jonasbernardo.developer.planejamento_semanal",
+            "title": "Weekly Planner - Agenda",
+            "developer": "Weekly Planner",
+            "score": 4.5588236,
+            "summary": "Your schedule planner, as easy as paper. Manage tasks with to-do list, reminders",
+            "free": false
+          },
+          {
+            "appId": "app.TimeFinder.TimeFinder",
+            "title": "TimeFinder: Time Blocking",
+            "developer": "TimeFinder, LLC",
+            "score": 3.5714285,
+            "summary": "Finally, a planner that works how your brain does. Time blocking made easy.",
+            "free": false
+          },
+          {
+            "appId": "com.alison.mobile.flutter",
+            "title": "Alison: Online Learning App",
+            "developer": "Alison eLearning",
+            "score": 4.55,
+            "summary": "Online courses in health, business, coding, AI, marketing &amp; career skills",
+            "free": false
+          }
+        ]
+      },
+      "candidates": [],
+      "rejected": [
+        {
+          "appId": "com.squareup.apos",
+          "title": "Square Appointments: Scheduler",
+          "developer": "Block, Inc.",
+          "reason": "reject_title"
+        },
+        {
+          "appId": "com.zoho.invoice",
+          "title": "Zoho Invoice - Invoicing App",
+          "developer": "Zoho Corporation",
+          "reason": "low_installs"
+        },
+        {
+          "appId": "com.atominvoice.app",
+          "title": "Invoice Maker — Estimate App",
+          "developer": "Atom Invoice",
+          "reason": "low_installs"
+        },
+        {
+          "appId": "bookipi.invoice.maker.estimate.billing",
+          "title": "Invoice Maker & Estimate App",
+          "developer": "Bookipi - Billing Estimate",
+          "reason": "low_installs"
+        },
+        {
+          "appId": "com.aadhk.woinvoice",
+          "title": "Invoice Simple: Invoice Maker",
+          "developer": "Invoice Simple",
+          "reason": "low_installs"
+        },
+        {
+          "appId": "io.labhouse.invoicesapp",
+          "title": "Invoice Maker - Invoice Fly",
+          "developer": "Labhouse Mobile",
+          "reason": "low_installs"
+        },
+        {
+          "appId": "com.joistapp.android.joist",
+          "title": "Joist Invoice & Estimate App",
+          "developer": "Joist Software Inc.",
+          "reason": "low_installs"
+        },
+        {
+          "appId": "com.squareup.invoicesapp",
+          "title": "Square Invoices: Invoice Maker",
+          "developer": "Block, Inc.",
+          "reason": "reject_title"
+        },
+        {
+          "appId": "com.invoice2go.invoice2goplus",
+          "title": "Invoice2go: Easy Invoice Maker",
+          "developer": "Invoice2Go",
+          "reason": "low_installs"
+        },
+        {
+          "appId": "com.tofu.invoices",
+          "title": "Invoice Maker Tofu & Receipts",
+          "developer": "GetPaid Inc.",
+          "reason": "low_installs"
+        },
+        {
+          "appId": "fr.gym.mattnissartdevelopment.attendanceApp",
+          "title": "Attendy - Attendance register",
+          "developer": "Clever.Apps",
+          "reason": "low_installs"
+        },
+        {
+          "appId": "com.swampsend.noteteacher",
+          "title": "Note Teacher",
+          "developer": "MapsiTech Oy",
+          "reason": "low_installs"
+        },
+        {
+          "appId": "com.binaryguilt.completemusicreadingtrainer",
+          "title": "Complete Music Reading Trainer",
+          "developer": "Binary Guilt Software",
+          "reason": "low_installs"
+        },
+        {
+          "appId": "app.pg.scalechordprogression",
+          "title": "Music Theory Companion",
+          "developer": "PG App Studio",
+          "reason": "low_installs"
+        },
+        {
+          "appId": "com.futuresculptor.maestro",
+          "title": "Maestro - Music Composer",
+          "developer": "FUTURE SCULPTOR",
+          "reason": "low_installs"
+        },
+        {
+          "appId": "com.jsplash.musictutor",
+          "title": "Music Tutor (Sight Reading)",
+          "developer": "JSplash Apps",
+          "reason": "low_installs"
+        },
+        {
+          "appId": "com.fender.play",
+          "title": "Fender Play: Music Lessons",
+          "developer": "Fender Musical Instruments Corporation",
+          "reason": "low_installs"
+        },
+        {
+          "appId": "com.musescore.playerlite",
+          "title": "MuseScore: Music Chords & Tabs",
+          "developer": "Musescore Limited",
+          "reason": "low_installs"
+        },
+        {
+          "appId": "com.musicnotes.xamarin.android.smv",
+          "title": "Musicnotes Sheet Music Player",
+          "developer": "Musicnotes",
+          "reason": "low_installs"
+        },
+        {
+          "appId": "com.presonus.notionmobile",
+          "title": "Fender Notion: Music and Tab",
+          "developer": "Fender Musical Instruments Corporation",
+          "reason": "low_installs"
+        },
+        {
+          "appId": "com.samsung.android.calendar",
+          "title": "Samsung Calendar",
+          "developer": "Samsung Electronics Co.,  Ltd.",
+          "reason": "low_installs"
+        },
+        {
+          "appId": "com.aworldaway.tutoring",
+          "title": "Tutoring: ripetizioni private",
+          "developer": "Mirafiori Elia",
+          "reason": "low_installs"
+        },
+        {
+          "appId": "com.komorebi.SimpleCalendar",
+          "title": "Simple Calendar - easy planner",
+          "developer": "Komorebi Inc.",
+          "reason": "low_installs"
+        },
+        {
+          "appId": "calendar.agenda.calendarplanner.agendaplanner",
+          "title": "Calendar Planner - Agenda App",
+          "developer": "Dairy App & Notes & Audio Editor & Voice Recorder",
+          "reason": "low_installs"
+        },
+        {
+          "appId": "me.proton.android.calendar",
+          "title": "Proton Calendar: Secure Events",
+          "developer": "Proton AG",
+          "reason": "low_installs"
+        },
+        {
+          "appId": "com.faso.tutor",
+          "title": "LT@ Tutor – Private lessons",
+          "developer": "FASO SAS",
+          "reason": "low_installs"
+        },
+        {
+          "appId": "com.headway.books",
+          "title": "Headway - Daily Micro Learning",
+          "developer": "Books Made Easy Corp",
+          "reason": "low_installs"
+        },
+        {
+          "appId": "com.jonasbernardo.developer.planejamento_semanal",
+          "title": "Weekly Planner - Agenda",
+          "developer": "Weekly Planner",
+          "reason": "low_installs"
+        },
+        {
+          "appId": "app.TimeFinder.TimeFinder",
+          "title": "TimeFinder: Time Blocking",
+          "developer": "TimeFinder, LLC",
+          "reason": "low_installs"
+        },
+        {
+          "appId": "com.alison.mobile.flutter",
+          "title": "Alison: Online Learning App",
+          "developer": "Alison eLearning",
+          "reason": "low_installs"
+        }
+      ]
+    }
+  ]
+}

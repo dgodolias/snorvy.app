@@ -1,0 +1,63 @@
+{
+  "scope": "v9 Direction 3 — TikTok organic viability for Honest Gig Tracker (US)",
+  "date": "2026-05-07",
+  "method": "tikwm.com /api/challenge/info for 7 hashtags, /api/challenge/posts for top 3 by view_count, /api/comment/list on highest-engagement video",
+  "hashtag_volumes": [
+    { "tag": "doordash",       "challenge_id": "22591392",         "view_count": 13289125210, "user_count": 552527, "viable_100M": true },
+    { "tag": "uberdriver",     "challenge_id": "4425979",          "view_count":  7850609604, "user_count": 363688, "viable_100M": true },
+    { "tag": "doordashdriver", "challenge_id": "1649776773095429", "view_count":  1516017688, "user_count":  95265, "viable_100M": true },
+    { "tag": "rideshare",      "challenge_id": "1607282850794502", "view_count":   725425700, "user_count":  57156, "viable_100M": true },
+    { "tag": "gigworker",      "challenge_id": "1628030355269637", "view_count":   370821704, "user_count":  33321, "viable_100M": true },
+    { "tag": "gigwork",        "challenge_id": "1649664113166342", "view_count":   182996370, "user_count":  22969, "viable_100M": true },
+    { "tag": "1099life",       "challenge_id": "1645395845964805", "view_count":     2440310, "user_count":   1063, "viable_100M": false }
+  ],
+  "top3_by_views": [
+    { "rank": 1, "tag": "doordash",       "view_count_b": 13.29 },
+    { "rank": 2, "tag": "uberdriver",     "view_count_b":  7.85 },
+    { "rank": 3, "tag": "doordashdriver", "view_count_b":  1.52 }
+  ],
+  "top_videos": {
+    "doordash": [
+      { "id": "7635724174199180574", "plays": 13968, "comments": 11, "title": "DoorDash Spanish-language earnings tutorial" },
+      { "id": "7636619046477171999", "plays":  5778, "comments":  2, "title": "Pinned tut Mother's Day discount" },
+      { "id": "7636881767626018061", "plays":  4761, "comments":  2, "title": "DoorDash Wall Street earnings news" }
+    ],
+    "uberdriver": [
+      { "id": "7601287059285789982", "plays": 1393125, "comments": 2099, "title": "$30/hr earnings day-in-the-life" },
+      { "id": "7605766492885503246", "plays":  454942, "comments":  135, "title": "How to set up trip identifier for uber and lyft" },
+      { "id": "7356036629296860458", "plays":  453262, "comments":  537, "title": "Long trip ride accept-or-decline question" }
+    ],
+    "doordashdriver": [
+      { "id": "7636201487453998350", "plays": 10054, "comments": 68, "title": "Pregnant dasher persistence" },
+      { "id": "7636277633675808031", "plays":  5676, "comments":  8, "title": "Deactivation reactivation service" },
+      { "id": "7635150544633384206", "plays":  3488, "comments": 18, "title": "DOORDASH WITH ME ride-along" }
+    ]
+  },
+  "comment_sample_video": {
+    "video_id": "7601287059285789982",
+    "hashtag": "uberdriver",
+    "plays": 1393125,
+    "comments_sampled": 50,
+    "tax_or_mileage_mentioned": false,
+    "top_themes_in_comments": [
+      "gas + insurance + wear-and-tear cost critique",
+      "drivers defending their hustle vs hate comments",
+      "calls for company to pay for gas",
+      "scam framing: 'Uber is such a scam, scams the drivers'",
+      "comparison to Spark/other gig platforms"
+    ],
+    "top_quotes": [
+      "$270 is not a lot money. She still has to buy gas, her insurance will go up...",
+      "Minus gas, car wear ? $10 hr",
+      "Hell no is not worth it",
+      "I hate these gig companies, you use your own car, buy your own gas, no benefits",
+      "It's not worth the wear and tear in your car",
+      "I think they should pay for your gas"
+    ]
+  },
+  "viability_verdict": {
+    "rating": "YES_CONDITIONAL",
+    "reasoning": "Hashtag volumes are massive — #doordash 13.3B, #uberdriver 7.85B, #doordashdriver 1.52B all clear the 100M threshold by 10-130x. Six of seven tested tags are viable. HOWEVER, top videos do NOT discuss tax/mileage tools directly — they discuss earnings, gas costs, deactivation, day-in-the-life. Mileage-tracker content would be a NEW vertical inside an active community, not riding existing creator output. CONDITIONAL on creator-strategy: Mileway has to MAKE the tax/mileage angle relatable (e.g. 'I made $270 today — here's what the IRS sees', 'gas + miles deduction math in 30 seconds'), not search for existing creators in that lane.",
+    "implication_for_d3": "Audience is there at 22B+ cumulative views. Channel: organic short-form videos with earnings + tax math overlays. Cost: $0 (record on phone). Distribution risk: low (tags are not saturated with mileage-app content)."
+  }
+}

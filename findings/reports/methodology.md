@@ -9,23 +9,24 @@ loop_state:
   cap_started_at: 21          # weekly % when run began
   iter_tier: medium           # ~1pp/tick
   iter_burn_pp: 1
-  active_direction: 3         # PIVOTED D2 → D3
-  active_phase_started_at: 2026-05-07T15:30:00+03:00
+  active_direction: 4         # PIVOTED D3 → D4 (EU multi-country, Polish KSeF priority)
+  active_phase_started_at: 2026-05-07T16:00:00+03:00
   active_phase_ticks: 0
   active_phase_dimensions_done: []
   active_phase_dimensions_in_flight: []
   active_phase_dimensions_remaining:
-    - reviews_drill_solo_stride_1500
-    - ios_cross_check_solo_stride
-    - iap_audit_solo_stride
-    - asa_d3_keywords
-    - launch_readiness_d3
-    - tiktok_gig_drivers_validation
-  exhausted_directions: [1, 2]   # D1 pre-loop, D2 after Phase B 3 ticks
+    - ios_cross_check_de_pl_nl_competitors
+    - iap_audit_de_pl_nl
+    - founder_responsiveness_eu_competitors
+    - asa_polish_ksef_keywords
+    - tofu_invoice_fly_drill_500
+    - launch_readiness_d4
+  exhausted_directions: [1, 2, 3]   # D1 pre-loop, D2 Phase B, D3 Phase C
   pivot_history:
     - {from: null, to: 1, at_tick: 0, reason: "loop start, D1 was top scoreboard"}
     - {from: 1, to: 2, at_tick: 0, reason: "D1 already exhausted in main run pre-loop: 11/11 applicable dimensions done"}
     - {from: 2, to: 3, at_tick: 3, reason: "D2 Phase B 3 ticks completed: iOS+IAP+founder resp + Reddit comment-tree + launch readiness. Top finding: SoloLedger app name + Schedule C estimator app ASA #1 + iOS 81.6% recent low. Reddit revealed users prefer free Wave/Xero so wedge repositioned to free-tier-parity + $39 lifetime US-tax differentiation."}
+    - {from: 3, to: 4, at_tick: 2, reason: "D3 Phase C 2 ticks completed: 1500-drill+iOS+IAP combo + ASA+launch+TikTok combo. Top findings: Mileway app name, ASA stride alternative composite 10.0, TikTok #doordash 13.3B viable, Solo last-90d 83.3% (ESCALATING from 68%), Stride iOS-Android delta 36.7pp (Android-locked), Solo IAP $179.99 ceiling. D3 confidence promoted MEDIUM-HIGH → HIGH."}
   start_limits: {session: 16, weekly: 25}
   expected_max_ticks: 10
 ```

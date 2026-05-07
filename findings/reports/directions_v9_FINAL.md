@@ -479,6 +479,35 @@ Loop Phase C Tick 1 drilled Solo + Stride at 1500-review depth:
 
 **Confidence revised**: D3 promoted from MEDIUM-HIGH → **HIGH** based on Solo's 83.3% last-90d acceleration + confirmed active price hikes. Direct migration corridor from Solo paywall-rage (Solo monetizing aggressively pre-shutdown?) AND Stride Android feature-rot.
 
+### v9 LOOP TICK 2 (D3 ASA + launch + TikTok) — recommended pack
+
+- **App name (33 chars)**: `Mileway: Honest Gig Tax Tracker` (trademark-clean vs all 6 incumbents + QBSE/Found/FlyFin)
+- **iOS subtitle (26 chars exact)**: `Mileage. Taxes. No tricks.`
+- **#1 ASA keyword**: `stride alternative` composite **10.00** (Vol 2 × Intent 5 / Comp 1) — pure displacement intent, near-zero competition. Runner-ups tied at 7.50: `gig worker mileage` + `rideshare tax tracker`
+- **TikTok viability VERDICT**: **CONDITIONAL YES** — gig hashtags HOT:
+  - #doordash 13.3B views
+  - #uberdriver 7.85B
+  - #doordashdriver 1.52B
+  - 6 of 7 gig hashtags clear 100M views
+  - Lane for tax/mileage content is OPEN (top videos discuss earnings/gas/wear, NOT apps) — Mileway must CREATE the angle, not surf existing creators
+- **7 EMPTY positioning slots** (no incumbent advertises any of these):
+  1. No-email-required signup
+  2. Auto-tracking guarantee with money-back
+  3. One-time/lifetime pricing
+  4. Schedule C estimator on storefront
+  5. Founder-replies-personally promise
+  6. Local-first privacy (no cloud-required)
+  7. Anti-insurance-upsell stance
+
+**D3 final v9 wedge**:
+- 🆓 Free tier: GPS auto-tracking + manual earnings + monthly report + Schedule C basic estimator
+- 💎 **$39 lifetime ONE-TIME** (vs Solo's $179.99 ceiling subscription) — the unmatched price wedge
+- 📱 Local-first SQLite, optional cloud sync (no mandatory Stride Health insurance funnel)
+- 🚫 NO email required for signup (anti-Solo "deceptive intake" complaint #1)
+- 🔥 TikTok organic: create gig-creator partnerships ("$200/day driving tips" content + Mileway tool mention)
+
+**D3 confidence FINAL**: **HIGH** (was MEDIUM-HIGH after main run; promoted to HIGH after loop Phase C 6/6 dims drilled).
+
 ### Quoted proof
 
 > [Solo 1★ 👍**434**] "The advertising is very misleading. Not until after you fill out the entire sign-up process are you informed that **it is a paid service. False advertising and a deceptive intake.**"

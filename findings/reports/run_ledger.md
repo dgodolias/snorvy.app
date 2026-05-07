@@ -1011,14 +1011,20 @@ These are unvalidated ideas the agent should attempt in future runs:
 | 32 | D10 MY e-Invois (Cepat) | STRONGLY UP — Phase 5 Jul 2026 hard deadline confirmed, govt 100% last-90d, slot unowned | ↑ |
 | 33 | D9 Notebound (Evernote refugee) | DEMOTED URGENT → MEDIUM-HIGH — Obsidian 1.12 mobile **shipped Feb 27, 2026** (vault-bypass capture closed) | ↓↓ |
 | 33 | D4 Faktly (sevDesk DE/PL/NL) | PROMOTED — sevDesk regressing 71.4% in 2025+, §19 UStG keyword 0-comp displacement | ↑ |
-| 34 (KILLED) | D11+D8+D2 batch | NOT integrated — agent stopped at write step to prevent cap breach |
+| 34 (re-run) | D11 HourLog | HOLD — Clockify/Toggl/QB Workforce shipped nothing that closes wedge | = M |
+| 34 (re-run) | D8 Hush Sleep | HOLD-PROMOTE-watch — Sleep As Android lifetime $84.99 (Feb 2026, was $9.49 floor 2022) + $4.99/mo sub tier added → anti-sub wedge WIDENED | ↑ M→M-H |
+| 34 (re-run) | D2 SoloLedger | **PROMOTED** — Intuit 15-25% price hike effective May 1 2026 ("largest in QBO history"), Solopreneur $20→$23-25/mo, iOS rage cluster un-addressed | ↑↑ M→H |
 
-### Ranking after DEEPER DIG (Greek-dev personalized lens)
+### Ranking after DEEPER DIG (Greek-dev personalized lens) — UPDATED post-Tick 34 re-run
 1. **🥇 D13 Bloki — Greek myDATA (9.0)** — Native moat 10/10, urgency 10/10, $0 backend, mandate Oct 1, 2026
-2. 🥈 D10 e-Invois Cepat MY (~6.0, ↑ from 5.8) — Phase 5 Jul 2026 deadline + govt slot unowned
-3. 🥉 D4 Faktly DE/PL/NL (~5.7, ↑ from 5.6) — sevDesk regressing, §19 UStG keyword opportunity
-4. D9 Notebound (5.4, ↓↓ from 6.0) — Obsidian 1.12 mobile shipped, window closing
-5. D7 FaturAki TR (5.4, ↓ from 5.8) — regulatory blockers reduce wedge
+2. 🥈 D2 SoloLedger US (~6.2, ↑↑ from 5.0) — Intuit May 1 2026 price hike "largest in QBO history" creates fresh refugee wave, anti-sub $39 lifetime wedge sharper than ever
+3. 🥉 D10 e-Invois Cepat MY (~6.0, ↑ from 5.8) — Phase 5 Jul 2026 deadline + govt slot unowned
+4. D4 Faktly DE/PL/NL (~5.7, ↑ from 5.6) — sevDesk regressing, §19 UStG keyword opportunity
+5. D8 Hush Sleep (~5.5, ↑ from 5.0) — Sleep As Android $84.99 lifetime + sub-tier widens anti-sub wedge
+6. D9 Notebound (5.4, ↓↓ from 6.0) — Obsidian 1.12 mobile shipped, window closing
+7. D7 FaturAki TR (5.4, ↓ from 5.8) — regulatory blockers reduce wedge
+
+**Note**: D2 jump is the biggest delta of the run — Intuit's biggest-ever QBO price hike happens THIS WEEK (May 1, 2026 already passed). Refugee wave is mid-flight. D2 is now the strongest English-language fallback if Greek market access proves blocked. D13 still #1 because Greek native moat is orthogonal to US dynamics.
 
 ### What worked
 - Stop Sequence engaged at 33% weekly with Tick 34 mid-flight → killed pre-write to prevent breach

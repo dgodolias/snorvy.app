@@ -25,8 +25,9 @@ loop_state:
   cap_reached_at: 2026-05-07T19:25:00+03:00
   cap_reached_pct: 33
   cap_reached_session_pct: 44
-  tick_34_status: KILLED   # Stopped 1 step before D11+D8+D2 file writes to prevent breach
-  deeper_dig_completed: [13, 7, 10, 9, 4]   # 5 of 13 dirs deep-validated post-exploration
+  tick_34_status: COMPLETED_RERUN   # Re-dispatched after user authorized cap breach; all 4 files written
+  tick_34_findings: "D11 HOLD, D8 HOLD-PROMOTE-watch, D2 PROMOTED (Intuit May 1 2026 price hike largest in QBO history)"
+  deeper_dig_completed: [13, 7, 10, 9, 4, 11, 8, 2]   # 8 of 13 dirs deep-validated
   exploration_started_at: 2026-05-07T17:00:00+03:00
   exploration_dimensions:
     - new_country_TR_invoice_market   # Greek dev native country, untouched in v9

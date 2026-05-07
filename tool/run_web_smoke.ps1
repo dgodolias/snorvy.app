@@ -22,9 +22,14 @@ try {
   $serverErr = Join-Path $logDirectory "server.err.log"
   $buildWebDirectory = Join-Path $repoRoot "build\web"
 
-  Get-CimInstance Win32_Process -Filter "name = 'python.exe'" |
-    Where-Object { $_.CommandLine -like "*http.server $Port*" } |
-    ForEach-Object { Stop-Process -Id $_.ProcessId -Force -ErrorAction SilentlyContinue }
+  try {
+    Get-CimInstance Win32_Process -Filter "name = 'python.exe'" |
+      Where-Object { $_.CommandLine -like "*http.server $Port*" } |
+      ForEach-Object { Stop-Process -Id $_.ProcessId -Force -ErrorAction SilentlyContinue }
+  }
+  catch {
+    Write-Host "Skipping stale web smoke server cleanup: $($_.Exception.Message)"
+  }
 
   $serverProcess = Start-Process `
     -FilePath "python" `
@@ -84,8 +89,13 @@ finally {
     Stop-Process -Id $serverProcess.Id -Force -ErrorAction SilentlyContinue
     $serverProcess.WaitForExit(5000) | Out-Null
   }
-  Get-CimInstance Win32_Process -Filter "name = 'python.exe'" |
-    Where-Object { $_.CommandLine -like "*http.server $Port*" } |
-    ForEach-Object { Stop-Process -Id $_.ProcessId -Force -ErrorAction SilentlyContinue }
+  try {
+    Get-CimInstance Win32_Process -Filter "name = 'python.exe'" |
+      Where-Object { $_.CommandLine -like "*http.server $Port*" } |
+      ForEach-Object { Stop-Process -Id $_.ProcessId -Force -ErrorAction SilentlyContinue }
+  }
+  catch {
+    Write-Host "Skipping stale web smoke server cleanup: $($_.Exception.Message)"
+  }
   Pop-Location
 }

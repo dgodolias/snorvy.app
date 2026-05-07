@@ -5,6 +5,7 @@ import re
 import sys
 from dataclasses import dataclass
 from pathlib import Path
+from urllib.parse import urlparse
 
 from PIL import Image, ImageStat
 from playwright.sync_api import TimeoutError as PlaywrightTimeoutError
@@ -73,7 +74,8 @@ def main() -> int:
                 has_touch=viewport.name == "mobile",
                 is_mobile=viewport.name == "mobile",
             )
-            context.grant_permissions(["microphone"], origin=args.base_url)
+            if urlparse(args.base_url).scheme in ("http", "https"):
+                context.grant_permissions(["microphone"], origin=args.base_url)
             page = context.new_page()
             page.on("console", lambda msg: messages.append((msg.type, msg.text)))
             page.on("pageerror", lambda exc: messages.append(("pageerror", str(exc))))

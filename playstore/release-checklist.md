@@ -1,6 +1,6 @@
 # Play Store Release Checklist
 
-Checked against official Google guidance on 2026-05-07.
+Checked against official Google guidance on 2026-05-08.
 
 ## Build Requirements
 
@@ -8,6 +8,8 @@ Checked against official Google guidance on 2026-05-07.
 - Required upload format: Android App Bundle (`.aab`)
 - Current target SDK: API 36
 - Signing: use Play app signing; sign the uploaded bundle with the private upload key
+- Google Play target API requirement: new apps and updates must target Android 15 / API 35 or higher from 2025-08-31. Snorvy currently targets API 36.
+- Source checked: https://support.google.com/googleplay/android-developer/answer/11926878
 
 ## Play Console Setup
 
@@ -47,6 +49,7 @@ Before production release, verify that every permission has user-facing rational
 - Signed app bundle: `build/app/outputs/bundle/release/app-release.aab`
 - Local upload key: `android/app/upload-keystore.jks`
 - Signing config: `android/key.properties`
+- Release build guard: `flutter build appbundle --release` fails if `android/key.properties` is missing, so a debug-signed release bundle is not produced accidentally.
 - Play Store app icon: `playstore/icon-512.png`
 - Phone screenshots: `playstore/screenshots/phone/*.png`
 - Source brand icon: `assets/brand/snorvy-icon-1024.png`

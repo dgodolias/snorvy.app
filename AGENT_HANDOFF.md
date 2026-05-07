@@ -4,7 +4,7 @@ Date: 2026-05-08
 Repo: `C:\Users\demosgod\Desktop\PROJECTS\simplify.app`  
 Branch: `develop`  
 Remote: `https://github.com/dgodolias/snorvy.app.git`  
-Current HEAD: `1e9eaec Fix Android recording codec startup`
+Latest pushed implementation HEAD: `63f0beb Fail release builds without upload key`
 
 This is operational memory for another agent. It contains concrete project state, completed work, verification evidence, product decisions, and next steps. It does not include hidden reasoning.
 
@@ -35,6 +35,10 @@ This is operational memory for another agent. It contains concrete project state
 ## Recent Commits On `develop`
 
 ```text
+63f0beb Fail release builds without upload key
+d99792c Clarify local-only settings copy
+6421c84 Add Play Store phone screenshots
+ba7fc36 Update Snorvy agent handoff
 1e9eaec Fix Android recording codec startup
 b396ce0 Apply midnight Snorvy app design
 635235b Add agent handoff notes
@@ -66,6 +70,9 @@ Earlier MVP commits include foreground recording service, browser smoke verifica
   - `lib/src/features/settings/settings_screen.dart`
   - `lib/src/features/unlock/unlock_sheet.dart`
 - Browser smoke scripts and screenshots.
+- Play Store phone screenshots under `playstore/screenshots/phone/`.
+- Settings privacy rows now describe real MVP behavior instead of fake switches.
+- Release builds now fail if the local upload key config is missing, preventing accidental debug-signed release bundles.
 - Android native smoke verification on emulator.
 
 ## Latest Native Recorder Fix
@@ -86,35 +93,51 @@ Commit `1e9eaec` fixed Android native recorder startup:
 
 ## Verification Evidence
 
-Latest checks after `1e9eaec`:
+Latest final checks after `63f0beb` on 2026-05-08:
 
 ```text
 analyze --fatal-infos: No issues found
 flutter test -r expanded: 14 tests passed
+flutter build web --target tool/web_smoke_main.dart: built successfully
+tool/run_web_smoke.ps1 -SkipBuild: Browser smoke passed
 flutter build apk --debug: built successfully
-flutter build appbundle --release: built app-release.aab (46.4MB)
+flutter build appbundle --release: built app-release.aab (46.3MB)
+jarsigner -verify app-release.aab: jar verified; self-signed upload certificate warnings are expected for a Play upload key
 ```
+
+Release manifest audit:
+
+- Package: `app.snorvy`
+- Target SDK: API 36
+- Current Google Play target API requirement checked on 2026-05-08: API 35+ for new apps and updates from 2025-08-31.
+- Runtime/user-facing permissions in the merged release manifest:
+  - `RECORD_AUDIO`
+  - `FOREGROUND_SERVICE`
+  - `FOREGROUND_SERVICE_MICROPHONE`
+  - `POST_NOTIFICATIONS`
+  - `WAKE_LOCK`
+  - `ACCESS_NETWORK_STATE`
+  - `INTERNET`
+  - `com.android.vending.BILLING`
 
 Native Android smoke on emulator:
 
-- Installed debug APK.
-- Cleared app data.
-- Granted:
+- Installed debug APK and cleared app data.
+- Granted runtime permissions:
   - `android.permission.RECORD_AUDIO`
   - `android.permission.POST_NOTIFICATIONS`
 - Launched `app.snorvy/.MainActivity`.
 - Started recording by tapping the Tonight primary button.
 - Verified active recording UI screenshot:
-  - `build\android-smoke-after-start-clean-service.png`
+  - `build\android-final-active-recording.png`
 - Verified logcat:
   - `startRecorderCompleted: true`
-  - foreground service allowed by Android
   - no `flutter_background_service_android` main-isolate warning
 - Stopped recording.
 - Verified saved recording UI screenshot:
-  - `build\android-smoke-after-stop-clean-service.png`
+  - `build\android-final-saved-recording.png`
 - Verified saved file under app storage:
-  - `app_flutter/recordings/night_1778194874103.m4a`
+  - `app_flutter/recordings/night_1778195804291.m4a`
 - Release artifact:
   - `build\app\outputs\bundle\release\app-release.aab`
 
@@ -154,23 +177,12 @@ emulator-5554
 
 ## Current Working Tree
 
-At the time this handoff was rewritten, only this file is expected to be modified before committing the handoff update. Code was clean after `1e9eaec`.
+At the time this handoff was rewritten, only documentation/checklist files are expected to be modified before committing the handoff update. Code was clean after `63f0beb`.
 
 ## Next Steps
 
-1. Commit/push this updated `AGENT_HANDOFF.md`.
-2. Do a final MVP audit against Play Store readiness:
-   - Android package/signing/versioning
-   - permissions and foreground-service declaration
-   - privacy/data safety wording
-   - Play listing metadata/screenshots
-   - IAP product ID and fallback behavior
-   - local deletion/export/playback flows
-3. Run one final full verification pass:
-   - analyze
-   - full tests
-   - browser smoke
-   - native Android smoke
-   - release appbundle
-4. If any final Play Store blockers are found, fix them in small chunks and commit/push each chunk.
-5. Do not mark the goal complete until the final audit and artifact are clean.
+1. Commit/push this updated `AGENT_HANDOFF.md` and `playstore/release-checklist.md`.
+2. Back up `android/app/upload-keystore.jks` and `android/key.properties` outside the repo.
+3. Publish the privacy policy at `https://snorvy.app/privacy`.
+4. In Play Console, create product `snorvy_lifetime_unlock` before production testing purchases.
+5. Upload `build\app\outputs\bundle\release\app-release.aab` to internal testing first.

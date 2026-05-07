@@ -146,11 +146,21 @@ _Source: 97 synthesized cells + Invoice Simple 3000-review drill (US/GB) + iOS 7
 
 **Expected Y1 ARR: ~€42,000** (HIGHEST expected of all v9 directions)
 
-### Marketing — $350 ad budget
+### Marketing — $350 ad budget (REFINED v9 with ASO research)
 
-- **$200** → US/GB ASA: "invoice simple alternative", "self employed invoice", "invoice app no subscription", "freelancer invoice"
-- **$100** → ProductHunt launch (preparation + day-of)
-- **$50** → Reddit Promoted on r/freelance, r/smallbusiness, r/Entrepreneur
+**Top-3 keyword opportunities** (Agent 8 ASO research):
+1. **"invoice maker no subscription"** — L-M volume (3-10k/mo US), LOW competition. NO app titles target this post-Bookipi paywall change. STRONGEST wedge for Direction 1 ASA.
+2. **"free invoice app" + "self employed invoice"** combo — VH head + M long-tail, no purpose-built winner.
+3. **"invoice app uk small business"** — L volume but UK-localised, weak coverage. Xero/QB own web SEO but Play Store apps rarely localise UK copy.
+
+**Refined budget allocation**:
+- **$120** → US ASA primary: "invoice maker no subscription" + "self employed invoice" + "invoice simple alternative"
+- **$80** → GB ASA primary: "invoice maker UK" + "self employed invoicing" + "invoice app uk small business" (UK-localised copy, since few apps do this)
+- **$80** → ProductHunt launch (high B2B SaaS impact)
+- **$50** → Reddit Promoted on r/freelance + r/Entrepreneur + r/smallbusiness
+- **$20** → Twitter/X reply campaign on @InvoiceSimple complaint threads ("I built X because of this — try it free")
+
+**Avoid**: "invoice maker" head term (VH competition with Bookipi/Invoice Simple/InvoiceBase/Zoho — would burn budget).
 
 **Organic engine**:
 - r/freelance (~600k members) — direct answer to weekly "best invoice app?" threads
@@ -190,10 +200,19 @@ The pricing-rage signal is **unprecedented in this dataset**: 25+ verbatim revie
 
 **Niche × Country**: `tax + invoice combo` × `US`
 
-**Target competitor**: QuickBooks Self-Employed by Intuit
+**Target competitor**: QuickBooks Self-Employed by Intuit — **SUNSET May 2024 → migrated to QuickBooks Solopreneur**
 - `com.intuit.qbse` ★ collapsing — recent 1500-review pool low_pct: **73.4% full window / 85.5% recent 2025+ cohort**
 - 1M+ installs
 - Globally listed (US/GB share the same listing)
+
+### v9 NEW finding: QBSE → Solopreneur transition
+
+Per Agent 8 revenue research: **Intuit sunset QBSE in May 2024**, migrating users to "QuickBooks Solopreneur". This is a **massive keyword churn event** — "quickbooks self-employed alternative" search volume likely spiking as displaced QBSE users seek tools that DON'T require migrating to a different Intuit product. The 85.5% recent low_pct on `com.intuit.qbse` reflects this transition rage. Combined with:
+- Intuit's Small Business + Self-Employed segment = $8B/year (2023 reports)
+- QBSE estimated standalone ~$300-500M/year market before sunset
+- Migrating users explicitly looking for QBSE-replacement, not Intuit-replacement
+
+→ Direction 2's market window is **wider than the 1M Play installs suggest** — ASA the "quickbooks self employed alternative" keyword as it spikes through 2026.
 
 **Schedule C estimator competitor**: Keeper Tax (`com.keepertax`)
 - 100k installs, 4.53★, **$399/year** (web subscription)
@@ -294,6 +313,24 @@ From comment-tree fetch on r/doordash thread "Best mileage tracking app(s)?" (`u
 - 1 thumb: "i am using Hurdlr… Another one I tried is Gridwise"
 
 → **No clear winner** — the market is fragmented across 6 named apps. Replacement opportunity confirmed.
+
+### v9 caveat on Direction 3 TAM (Agent 8 revenue research)
+
+Per Agent 8: **Solo Pave Inc raised $5.3M seed (2021), 8k-150k workers, NO public revenue** — bootstrap-grade. **Stride Health monetizes via insurance commissions through Gusto partnership, NOT via the mileage app directly** — the Stride app is a top-of-funnel acquisition tool, not a revenue product.
+
+→ **Direction 3's TAM is smaller than the 1M+ Solo+Stride install counts suggest**. The angry users exist (434-thumb, 274-thumb verbatim complaints) but they're not currently paying anyone. Realistic Y1 revenue scenario downgraded:
+
+| Scenario | Y1 paid | ARR | Probability (REVISED v9) |
+|---|---|---|---|
+| 🔥 Reddit r/doordash viral + tax-season spike | 1500 × $4.99 × 12 | **$90k** | 7% |
+| 🟢 Strong organic | 400 × $4.99 × 12 | **$24k** | 22% |
+| 🟡 Base | 100 × $4.99 × 12 | **$6k** | 38% |
+| 🟠 Slow | 20 | $1.2k | 25% |
+| 🔴 Stuck | 0 | -€500 | 8% |
+
+**Expected Y1 revised: ~€10,000** (was €20,000 in v8 — reduced because Solo/Stride are not paying-incumbent markets).
+
+The Direction 3 wedge becomes: **build the Schedule C estimator + mileage tool as a FREE viral acquisition flywheel, with $4.99/mo premium for cloud sync + multi-year reports**. Lower paid-conversion expected than Direction 1, but viral organic growth potential is higher (gig workers actively post tools to r/doordash).
 
 ### The idea
 

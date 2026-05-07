@@ -827,6 +827,29 @@ Rationale:
 - **PL**: Headline title bake in `KSeF` AND `JDG` simultaneously. Volume goes to KSeF; conversion goes to "samozatrudniony"-language.
 - **NL**: "Made in EU / Nederlandse app" hook works because Invoice Fly is American/English-translated. Cultural moat = local language + EU data residency.
 
+### v9 LOOP TICK 2 (D4 launch readiness) — recommended pack
+
+- **App name (30 chars)**: `Faktly: Rechnung KSeF Factuur`
+- **Phonetic strategy**: "Faktly" is a novel coinage from `Faktura` (PL/DE) + `Factuur` (NL). Distinctive, phonetic in 3 languages.
+- **Trademark-clean**: no Play Store / EUIPO collision found.
+- **Country-specific subtitles**:
+  - DE: `Kleinunternehmer §19 Rechnung App`
+  - PL: `KSeF Faktura JDG Aplikacja`
+  - NL: `ZZP Factuur EU Made`
+
+**7 EMPTY positioning slots** (no incumbent occupies any):
+1. **"KSeF-native, built for April 2026"** — Tofu doesn't mention KSeF in description. Gov `pl.gov.mf.ksef` is a utility not a daily driver. **OPEN: KSeF-first invoice app.**
+2. **"§19 Kleinunternehmer one-tap toggle"** — Lexware/sevDesk treat §19 as generic flag. **OPEN: onboarding asks "Are you Kleinunternehmer (§19)?" then strips USt entirely.**
+3. **"Made in EU — data stays in Frankfurt/Warsaw/Amsterdam"** — Invoice Fly is American, Tofu US-incorporated, only Moneybird is fully Dutch. **OPEN: explicit EU-data-residency.**
+4. **"One-time price, no Abo"** — every paid competitor is monthly. **OPEN: €39 lifetime — strongest in DE (Abo-Falle hatred) and PL (price-sensitive JDG).**
+5. **"Multi-country same login"** — none of 5 lets a freelancer billing DE+NL+PL clients use one app. **OPEN: cross-border solo-freelancer.**
+6. **"True mobile-first"** — Lexware's web result explicitly: "iPhone needed; Android cannot create invoices in Lexware Office". **OPEN: Android-first invoice creation in DE — alone is a wedge.**
+7. **"Offline-first / no internet required to bill"** — every incumbent assumes always-online. **OPEN: freelancer at client site without WiFi can still write invoice.**
+
+**D4 final v9 wedge**: `Faktly` occupies ALL 7 empty positioning slots. €39 lifetime. EU-data-residency. Mobile-first Android. Offline. KSeF + §19 + KOR all pre-configured. Cross-border same-login.
+
+**D4 confidence FINAL** (post Phase D loop, 10/12 dimensions exhausted): **MEDIUM-HIGH** (stable). Strong vulnerability data + clear positioning slots; cultural+localization risk for solo Greek dev needs €200-400 advisor budget per country.
+
 ### Direction 4 sequencing strategy (REVISED v9 with PL data)
 
 **Recommended sequencing** (12-month roadmap for Direction 4):

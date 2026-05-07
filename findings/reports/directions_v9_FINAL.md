@@ -177,7 +177,38 @@ _Source: 97 synthesized cells + Invoice Simple 3000-review drill (US/GB) + iOS 7
 - **Week 1**: Invoice creation + client database + line items + PDF export (manual) + 4 templates
 - **Week 2**: Expense tracking + monthly reports + recurring invoices + CSV export
 - **Week 3**: Subscription wiring (Google Play Billing + StoreKit) + ASA listings US/GB + privacy policy + landing page
-- **Week 4**: Soft launch — recruit 20 beta users from r/freelance, fix top issues, ProductHunt launch with story angle "I built this after Invoice Simple's $59→$199→$399 price hike"
+- **Week 4**: Soft launch — recruit 20 beta users from r/selfemployed, fix top issues, ProductHunt launch with story angle "I built this after Invoice Simple's $59→$199→$399 price hike"
+
+### Launch-ready intel (Agent 14 v9)
+
+**Recommended app name**: "FairBill: Invoice Maker, No Subscription"
+- Title (Play Store, 40 chars): `FairBill: Invoice Maker, No Subscription`
+- Sub-head (78 chars): `Lifetime invoice app for self-employed. No subscription. Offline. No account.`
+- Anti-positioning hook (legal-safe, doesn't name Invoice Simple): *"Tired of subscription invoice apps tripling their price every year?"*
+
+**Validated key competitor finding**: NONE of the 5 audited Direction 1 competitors (Invoice Simple / Bookipi / Zoho Invoice / Square Invoices / Freebie Invoice Maker) uses "no subscription", "lifetime pricing", or "your data exports anywhere" in their Play Store descriptions. **Direction 1's differentiation lane is wide open in the App Store description battle**.
+
+**ASA keyword priority (composite score = volume × intent ÷ difficulty)**:
+
+| Rank | Keyword | Composite | Notes |
+|---|---|---|---|
+| 🥇 | `invoice simple alternative` | **15.0** | Near-zero organic supply; SERP returns Invoice Simple itself = "alternative" slot is empty |
+| 🥈 | `invoice maker no subscription` | 10.0 | Long-tail wedge, NO app titles target this post-Bookipi paywall change |
+| 🥉 | `self employed invoice` | ~7.0 | M volume, no purpose-built winner |
+| 4 | `freelancer invoice` | ~6.0 | UK skews higher (IPSE article popularity) |
+| 5 | `invoice app uk small business` | ~5.0 | UK-localised, weak coverage by US incumbents |
+
+**ProductHunt launch plan**:
+- Day: **Tuesday 12:01am PST** (highest-attention slot)
+- Hero asset: 60-sec screen recording showing (a) invoice created in 45s with no signup, (b) `$39 lifetime — your price stays` pricing screen, (c) one-tap PDF export
+- Tagline: `One-time-pay invoice app. No subscription. Yours forever.`
+
+**Reddit launch sequence**:
+- 🥇 Primary: **r/selfemployed** (380k+ subs, weekly recurring "invoice simple price" complaint pattern). Title format: `[Tool] I'm a solo dev and I built a one-time-pay invoice app because I got tired of the price hikes`. r/selfemployed tolerates self-promo when framed as scratch-your-own-itch.
+- 🥈 Secondary: **r/UKSmallBusiness** "Tools & Software" megathread (UK angle = easiest geographic moat — UK iOS pricing rage validated at depth)
+- 🥉 Tertiary: **r/sidehustle** (1.5M subs) "cheapest invoicing app" megathread
+
+**Twitter/X reply targets**: search Twitter for @InvoiceSimple complaint threads + DM-mention with "I built X because of this — try it free" format (organic engagement, no paid).
 
 ### Why this WILL work
 

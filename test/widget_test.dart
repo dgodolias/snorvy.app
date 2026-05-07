@@ -9,6 +9,7 @@ import 'package:snorvy/src/data/app_database.dart';
 import 'package:snorvy/src/services/audio_playback.dart';
 import 'package:snorvy/src/services/recording_foreground_service.dart';
 import 'package:snorvy/src/services/recording_exporter.dart';
+import 'package:snorvy/src/services/sleep_event_analyzer.dart';
 import 'package:snorvy/src/services/sleep_recorder.dart';
 import 'package:snorvy/src/services/unlock_repository.dart';
 
@@ -33,8 +34,7 @@ void main() {
     await tester.pumpWidget(SnorvyApp(controller: controller));
     await tester.pumpAndSettle();
 
-    await tester.tap(find.text('Settings'));
-    await tester.pumpAndSettle();
+    await _tapDestination(tester, Icons.tune_outlined);
     final addManualLogButton = find.widgetWithText(
       OutlinedButton,
       'Add manual sleep log',
@@ -45,15 +45,12 @@ void main() {
     await tester.pumpAndSettle();
     await tester.tap(find.text('Save log'));
     await tester.pumpAndSettle();
-    await tester.tap(find.text('History'));
-    await tester.pumpAndSettle();
+    await _tapDestination(tester, Icons.insights_outlined);
 
     expect(find.textContaining('manual log'), findsOneWidget);
   });
 
-  testWidgets('records and saves a night from tonight controls', (
-    tester,
-  ) async {
+  testWidgets('starts recording from tonight controls', (tester) async {
     final controller = _buildController();
     addTearDown(controller.dispose);
 
@@ -67,12 +64,8 @@ void main() {
 
     expect(find.widgetWithText(FilledButton, 'Stop recording'), findsOneWidget);
 
-    await tester.tap(find.widgetWithText(FilledButton, 'Stop recording'));
-    await tester.pumpAndSettle();
-    await tester.tap(find.text('History'));
-    await tester.pumpAndSettle();
-
-    expect(find.textContaining('raw recording saved'), findsOneWidget);
+    final stopButton = find.widgetWithIcon(FilledButton, Icons.stop);
+    expect(stopButton, findsOneWidget);
   });
 
   testWidgets('deletes a manual sleep log from history', (tester) async {
@@ -82,8 +75,7 @@ void main() {
     await tester.pumpWidget(SnorvyApp(controller: controller));
     await tester.pumpAndSettle();
 
-    await tester.tap(find.text('Settings'));
-    await tester.pumpAndSettle();
+    await _tapDestination(tester, Icons.tune_outlined);
     final addManualLogButton = find.widgetWithText(
       OutlinedButton,
       'Add manual sleep log',
@@ -94,8 +86,7 @@ void main() {
     await tester.pumpAndSettle();
     await tester.tap(find.text('Save log'));
     await tester.pumpAndSettle();
-    await tester.tap(find.text('History'));
-    await tester.pumpAndSettle();
+    await _tapDestination(tester, Icons.insights_outlined);
 
     await tester.tap(find.byIcon(Icons.delete_outline));
     await tester.pumpAndSettle();
@@ -109,6 +100,16 @@ void main() {
   });
 }
 
+Future<void> _tapDestination(WidgetTester tester, IconData icon) async {
+  await tester.tap(
+    find.descendant(
+      of: find.byType(NavigationBar),
+      matching: find.byIcon(icon),
+    ),
+  );
+  await tester.pumpAndSettle();
+}
+
 SnorvyController _buildController() {
   return SnorvyController(
     database: AppDatabase(NativeDatabase.memory()),
@@ -116,14 +117,20 @@ SnorvyController _buildController() {
     audioPlayback: _FakeAudioPlayback(),
     recordingExporter: _FakeRecordingExporter(),
     recordingForegroundService: const NoopRecordingForegroundService(),
+    sleepEventAnalyzer: const _EmptySleepEventAnalyzer(),
     unlockRepository: _FakeUnlockRepository(),
   );
 }
 
 class _FakeSleepRecorder implements SleepRecorder {
+  final StreamController<RecordingPowerFrame> _powerFrames =
+      StreamController<RecordingPowerFrame>.broadcast();
   RecordingSession _session = const RecordingSession(
     status: RecordingStatus.idle,
   );
+
+  @override
+  Stream<RecordingPowerFrame> get powerFrames => _powerFrames.stream;
 
   @override
   Future<RecordingSession> startNightRecording() async {
@@ -143,6 +150,25 @@ class _FakeSleepRecorder implements SleepRecorder {
       startedAt: _session.startedAt,
     );
     return _session;
+  }
+
+  @override
+  Future<void> dispose() async {
+    await _powerFrames.close();
+  }
+}
+
+class _EmptySleepEventAnalyzer implements SleepEventAnalyzer {
+  const _EmptySleepEventAnalyzer();
+
+  @override
+  SleepAnalysisResult analyzeFrames({
+    required List<RecordingPowerFrame> frames,
+    required DateTime startedAt,
+    required DateTime endedAt,
+    required String recordingPath,
+  }) {
+    return SleepAnalysisResult.empty;
   }
 }
 

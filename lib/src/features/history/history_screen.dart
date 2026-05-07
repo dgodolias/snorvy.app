@@ -174,7 +174,7 @@ class _NightHistoryTile extends StatelessWidget {
     final eventSummary = night.isManual
         ? 'manual entry'
         : night.events.isEmpty
-        ? 'raw recording saved'
+        ? 'no loud events detected'
         : '${night.events.length} audio events';
 
     return Padding(

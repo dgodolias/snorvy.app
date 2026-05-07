@@ -93,7 +93,17 @@ class _TonightScreenState extends State<TonightScreen> {
         else if (events.isEmpty)
           const _EmptyTimelinePanel()
         else
-          ...events.map((event) => _TimelineEventTile(event: event)),
+          ...events.map(
+            (event) => _TimelineEventTile(
+              event: event,
+              isBusy: widget.isBusy,
+              isPlaying:
+                  event.filePath != null &&
+                  widget.playingPath == event.filePath,
+              onPlayAudio: widget.onPlayAudio,
+              onStopAudio: widget.onStopAudio,
+            ),
+          ),
       ],
     );
   }
@@ -464,12 +474,24 @@ class _EmptyTimelinePanel extends StatelessWidget {
 }
 
 class _TimelineEventTile extends StatelessWidget {
-  const _TimelineEventTile({required this.event});
+  const _TimelineEventTile({
+    required this.event,
+    required this.isBusy,
+    required this.isPlaying,
+    required this.onPlayAudio,
+    required this.onStopAudio,
+  });
 
   final SleepEvent event;
+  final bool isBusy;
+  final bool isPlaying;
+  final Future<void> Function(String filePath) onPlayAudio;
+  final Future<void> Function() onStopAudio;
 
   @override
   Widget build(BuildContext context) {
+    final filePath = event.filePath;
+
     return Padding(
       padding: const EdgeInsets.only(bottom: 10),
       child: Card(
@@ -484,18 +506,19 @@ class _TimelineEventTile extends StatelessWidget {
             '${event.durationLabel} - intensity ${event.intensity}%',
           ),
           trailing: IconButton(
-            tooltip: 'Play event',
-            icon: const Icon(Icons.play_arrow),
-            onPressed: () {
-              ScaffoldMessenger.of(context).showSnackBar(
-                SnackBar(
-                  content: Text(
-                    'Playback preview: ${event.kind.label.toLowerCase()} clip '
-                    '${event.timeLabel}',
-                  ),
-                ),
-              );
-            },
+            tooltip: isPlaying
+                ? 'Stop source recording'
+                : 'Play source recording',
+            icon: Icon(isPlaying ? Icons.stop : Icons.play_arrow),
+            onPressed: isBusy || filePath == null
+                ? null
+                : () async {
+                    if (isPlaying) {
+                      await onStopAudio();
+                    } else {
+                      await onPlayAudio(filePath);
+                    }
+                  },
           ),
         ),
       ),

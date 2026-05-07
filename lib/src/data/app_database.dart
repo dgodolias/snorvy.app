@@ -156,6 +156,17 @@ class AppDatabase extends _$AppDatabase {
     );
   }
 
+  Future<int> updateNightSnoreScore({
+    required int nightId,
+    required int snoreScore,
+  }) {
+    return (update(
+      sleepNightRows,
+    )..where((table) => table.id.equals(nightId))).write(
+      SleepNightRowsCompanion(snoreScore: Value(snoreScore.clamp(0, 100))),
+    );
+  }
+
   Future<List<String>> deleteNight(int nightId) async {
     return transaction(() async {
       final nightRow = await (select(

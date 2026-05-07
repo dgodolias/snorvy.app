@@ -140,7 +140,7 @@ class _SnorvySmokeShellState extends State<_SnorvySmokeShell> {
         startedAt: session.startedAt,
       );
       _nights = [_recordedNight(session), ..._nights];
-      _statusMessage = 'Night recording saved locally.';
+      _statusMessage = 'Night recording saved with 2 local audio events.';
     });
   }
 
@@ -221,9 +221,26 @@ class _SnorvySmokeShellState extends State<_SnorvySmokeShell> {
       date: DateTime(2026, 5, 8),
       startedAt: startedAt,
       endedAt: endedAt,
-      snoreScore: 0,
+      snoreScore: 38,
       recordingPath: session.filePath ?? 'browser://night_$id.ogg',
-      events: const [],
+      events: [
+        SleepEvent(
+          id: id * 10,
+          kind: SleepEventKind.snore,
+          startsAt: startedAt.add(const Duration(minutes: 42)),
+          duration: const Duration(seconds: 12),
+          intensity: 72,
+          filePath: session.filePath ?? 'browser://night_$id.ogg',
+        ),
+        SleepEvent(
+          id: id * 10 + 1,
+          kind: SleepEventKind.talk,
+          startsAt: startedAt.add(const Duration(hours: 2, minutes: 8)),
+          duration: const Duration(seconds: 4),
+          intensity: 81,
+          filePath: session.filePath ?? 'browser://night_$id.ogg',
+        ),
+      ],
     );
   }
 }

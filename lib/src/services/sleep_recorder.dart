@@ -1,3 +1,4 @@
+import 'dart:async';
 import 'dart:io';
 
 import 'package:flutter_sound/flutter_sound.dart';
@@ -15,9 +16,18 @@ class RecordingSession {
   final DateTime? startedAt;
 }
 
+class RecordingPowerFrame {
+  const RecordingPowerFrame({required this.elapsed, required this.decibels});
+
+  final Duration elapsed;
+  final double decibels;
+}
+
 abstract interface class SleepRecorder {
+  Stream<RecordingPowerFrame> get powerFrames;
   Future<RecordingSession> startNightRecording();
   Future<RecordingSession> stopNightRecording();
+  Future<void> dispose();
 }
 
 class FlutterSoundSleepRecorder implements SleepRecorder {
@@ -25,10 +35,16 @@ class FlutterSoundSleepRecorder implements SleepRecorder {
     : _recorder = recorder ?? FlutterSoundRecorder();
 
   final FlutterSoundRecorder _recorder;
+  final StreamController<RecordingPowerFrame> _powerFrames =
+      StreamController<RecordingPowerFrame>.broadcast();
+  StreamSubscription<RecordingDisposition>? _progressSubscription;
 
   RecordingSession _session = const RecordingSession(
     status: RecordingStatus.idle,
   );
+
+  @override
+  Stream<RecordingPowerFrame> get powerFrames => _powerFrames.stream;
 
   @override
   Future<RecordingSession> startNightRecording() async {
@@ -41,6 +57,18 @@ class FlutterSoundSleepRecorder implements SleepRecorder {
     }
 
     await _recorder.openRecorder();
+    await _recorder.setSubscriptionDuration(const Duration(seconds: 1));
+    await _progressSubscription?.cancel();
+    _progressSubscription = _recorder.onProgress?.listen((disposition) {
+      final decibels = disposition.decibels;
+      if (decibels == null) {
+        return;
+      }
+
+      _powerFrames.add(
+        RecordingPowerFrame(elapsed: disposition.duration, decibels: decibels),
+      );
+    });
 
     final directory = await getApplicationDocumentsDirectory();
     final recordingsDirectory = Directory(p.join(directory.path, 'recordings'));
@@ -76,6 +104,8 @@ class FlutterSoundSleepRecorder implements SleepRecorder {
       return _session;
     }
 
+    await _progressSubscription?.cancel();
+    _progressSubscription = null;
     await _recorder.stopRecorder();
     await _recorder.closeRecorder();
 
@@ -86,5 +116,19 @@ class FlutterSoundSleepRecorder implements SleepRecorder {
     );
 
     return _session;
+  }
+
+  @override
+  Future<void> dispose() async {
+    await _progressSubscription?.cancel();
+    await _powerFrames.close();
+    try {
+      if (_session.status == RecordingStatus.recording) {
+        await _recorder.stopRecorder();
+      }
+      await _recorder.closeRecorder();
+    } on Exception {
+      // The native recorder may already be closed by a completed stop flow.
+    }
   }
 }

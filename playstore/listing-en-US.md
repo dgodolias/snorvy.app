@@ -17,6 +17,7 @@ Start recording before bed. Snorvy keeps audio on your phone, saves your night h
 What Snorvy does:
 
 - Records overnight audio on your phone
+- Marks likely snore and talk events locally on the device
 - Lets you listen back to saved recordings
 - Supports manual sleep logs when you do not want to record
 - Keeps sleep history local
@@ -57,4 +58,3 @@ Health & Fitness
 ## Content Notes
 
 Snorvy records microphone audio only after the user starts recording. Audio is stored locally on the device unless the user exports it.
-

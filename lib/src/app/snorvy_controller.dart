@@ -7,6 +7,7 @@ import 'package:snorvy/src/domain/sleep_models.dart';
 import 'package:snorvy/src/services/audio_playback.dart';
 import 'package:snorvy/src/services/recording_foreground_service.dart';
 import 'package:snorvy/src/services/recording_exporter.dart';
+import 'package:snorvy/src/services/sleep_event_analyzer.dart';
 import 'package:snorvy/src/services/sleep_recorder.dart';
 import 'package:snorvy/src/services/unlock_repository.dart';
 
@@ -17,12 +18,14 @@ class SnorvyController extends ChangeNotifier {
     required AudioPlayback audioPlayback,
     required RecordingExporter recordingExporter,
     required RecordingForegroundService recordingForegroundService,
+    required SleepEventAnalyzer sleepEventAnalyzer,
     required UnlockRepository unlockRepository,
   }) : _database = database,
        _recorder = recorder,
        _audioPlayback = audioPlayback,
        _recordingExporter = recordingExporter,
        _recordingForegroundService = recordingForegroundService,
+       _sleepEventAnalyzer = sleepEventAnalyzer,
        _unlockRepository = unlockRepository;
 
   factory SnorvyController.production() {
@@ -32,6 +35,7 @@ class SnorvyController extends ChangeNotifier {
       audioPlayback: FlutterSoundAudioPlayback(),
       recordingExporter: LocalRecordingExporter(),
       recordingForegroundService: createRecordingForegroundService(),
+      sleepEventAnalyzer: const LocalLevelSleepEventAnalyzer(),
       unlockRepository: createUnlockRepository(),
     );
   }
@@ -41,8 +45,11 @@ class SnorvyController extends ChangeNotifier {
   final AudioPlayback _audioPlayback;
   final RecordingExporter _recordingExporter;
   final RecordingForegroundService _recordingForegroundService;
+  final SleepEventAnalyzer _sleepEventAnalyzer;
   final UnlockRepository _unlockRepository;
   StreamSubscription<UnlockState>? _unlockSubscription;
+  StreamSubscription<RecordingPowerFrame>? _powerFrameSubscription;
+  final List<RecordingPowerFrame> _recordingPowerFrames = [];
 
   List<SleepNight> _nights = const [];
   RecordingSession _recordingSession = const RecordingSession(
@@ -106,7 +113,11 @@ class SnorvyController extends ChangeNotifier {
         return;
       }
 
+      await _startCapturingPowerFrames();
       final session = await _recorder.startNightRecording();
+      if (session.status != RecordingStatus.recording) {
+        await _stopCapturingPowerFrames();
+      }
       if (session.status == RecordingStatus.recording) {
         final foregroundStarted = await _startForegroundServiceOrStopRecorder(
           session,
@@ -127,6 +138,7 @@ class SnorvyController extends ChangeNotifier {
         RecordingStatus.idle => null,
       };
     } on Exception {
+      await _stopCapturingPowerFrames();
       _statusMessage = 'Could not start the recorder.';
     } finally {
       _setBusy(false);
@@ -148,6 +160,7 @@ class SnorvyController extends ChangeNotifier {
     }
 
     await _recorder.stopNightRecording();
+    await _stopCapturingPowerFrames();
     _recordingSession = const RecordingSession(status: RecordingStatus.idle);
     return false;
   }
@@ -170,19 +183,31 @@ class SnorvyController extends ChangeNotifier {
       final startedAt = _recordingSession.startedAt;
       final filePath = _recordingSession.filePath;
       final stoppedSession = await _recorder.stopNightRecording();
+      final frames = await _stopCapturingPowerFrames();
       await _stopForegroundNotificationSilently();
       _recordingSession = stoppedSession;
 
       if (startedAt != null && filePath != null) {
-        await _database.createRecordedNight(
+        final endedAt = DateTime.now();
+        final nightId = await _database.createRecordedNight(
           startedAt: startedAt,
-          endedAt: DateTime.now(),
+          endedAt: endedAt,
           recordingPath: filePath,
         );
-        _statusMessage = 'Night recording saved locally.';
+        final analysis = _sleepEventAnalyzer.analyzeFrames(
+          frames: frames,
+          startedAt: startedAt,
+          endedAt: endedAt,
+          recordingPath: filePath,
+        );
+        await _saveAnalysis(nightId: nightId, analysis: analysis);
+        _statusMessage = analysis.events.isEmpty
+            ? 'Night recording saved locally. No loud snore or talk events detected.'
+            : 'Night recording saved with ${analysis.events.length} local audio events.';
         await _loadNights(notify: false);
       }
     } on Exception {
+      await _stopCapturingPowerFrames();
       _statusMessage = 'Could not stop and save the recording.';
     } finally {
       _setBusy(false);
@@ -385,6 +410,40 @@ class SnorvyController extends ChangeNotifier {
     return failures;
   }
 
+  Future<void> _startCapturingPowerFrames() async {
+    _recordingPowerFrames.clear();
+    await _powerFrameSubscription?.cancel();
+    _powerFrameSubscription = _recorder.powerFrames.listen(
+      _recordingPowerFrames.add,
+    );
+  }
+
+  Future<List<RecordingPowerFrame>> _stopCapturingPowerFrames() async {
+    await _powerFrameSubscription?.cancel();
+    _powerFrameSubscription = null;
+    return List.unmodifiable(_recordingPowerFrames);
+  }
+
+  Future<void> _saveAnalysis({
+    required int nightId,
+    required SleepAnalysisResult analysis,
+  }) async {
+    await _database.updateNightSnoreScore(
+      nightId: nightId,
+      snoreScore: analysis.snoreScore,
+    );
+    for (final event in analysis.events) {
+      await _database.addDetectedEvent(
+        nightId: nightId,
+        kind: event.kind,
+        startsAt: event.startsAt,
+        duration: event.duration,
+        intensity: event.intensity,
+        filePath: event.filePath,
+      );
+    }
+  }
+
   Future<void> _loadNights({bool notify = true}) async {
     _nights = await _database.fetchRecentSleepNights();
     _isLoading = false;
@@ -402,7 +461,9 @@ class SnorvyController extends ChangeNotifier {
   @override
   void dispose() {
     unawaited(_unlockSubscription?.cancel());
+    unawaited(_powerFrameSubscription?.cancel());
     unawaited(_stopForegroundNotificationSilently());
+    unawaited(_recorder.dispose());
     unawaited(_unlockRepository.dispose());
     unawaited(_audioPlayback.dispose());
     unawaited(_database.close());

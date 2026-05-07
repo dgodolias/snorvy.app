@@ -16,7 +16,7 @@ Recommended Play Console answer for Snorvy MVP:
 Snorvy creates and stores the following on the user's device:
 
 - Audio files: voice or sound recordings captured after the user starts recording.
-- App activity: sleep log dates, durations, snore score placeholders, and local recording metadata.
+- App activity: sleep log dates, durations, local audio event markers, snore scores, and local recording metadata.
 - Purchases: local lifetime-unlock entitlement state, backed by Google Play Billing restore/purchase events.
 
 ## User-Triggered Export

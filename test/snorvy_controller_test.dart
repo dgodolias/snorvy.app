@@ -5,9 +5,11 @@ import 'package:drift/native.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:snorvy/src/app/snorvy_controller.dart';
 import 'package:snorvy/src/data/app_database.dart';
+import 'package:snorvy/src/domain/sleep_models.dart';
 import 'package:snorvy/src/services/audio_playback.dart';
 import 'package:snorvy/src/services/recording_foreground_service.dart';
 import 'package:snorvy/src/services/recording_exporter.dart';
+import 'package:snorvy/src/services/sleep_event_analyzer.dart';
 import 'package:snorvy/src/services/sleep_recorder.dart';
 import 'package:snorvy/src/services/unlock_repository.dart';
 
@@ -84,6 +86,43 @@ void main() {
     },
   );
 
+  test('saves locally detected audio events and snore score', () async {
+    final database = AppDatabase(NativeDatabase.memory());
+    final recorder = _CountingSleepRecorder();
+    final analyzer = _FakeSleepEventAnalyzer(
+      result: SleepAnalysisResult(
+        snoreScore: 64,
+        events: [
+          AnalyzedSleepEvent(
+            kind: SleepEventKind.snore,
+            startsAt: DateTime(2026, 5, 7, 23, 42),
+            duration: const Duration(seconds: 8),
+            intensity: 72,
+            filePath: 'memory://recording.ogg',
+          ),
+        ],
+      ),
+    );
+    final controller = _buildController(
+      database: database,
+      recorder: recorder,
+      sleepEventAnalyzer: analyzer,
+    );
+    addTearDown(controller.dispose);
+
+    await controller.initialize();
+    await controller.startRecording();
+    recorder.emitPowerFrame(
+      const RecordingPowerFrame(elapsed: Duration(seconds: 12), decibels: 64),
+    );
+    await controller.stopRecording();
+
+    expect(analyzer.framesSeen, hasLength(1));
+    expect(controller.nights.single.snoreScore, 64);
+    expect(controller.nights.single.events.single.kind, SleepEventKind.snore);
+    expect(controller.statusMessage, contains('1 local audio events'));
+  });
+
   test('stops recorder when foreground notification cannot start', () async {
     final database = AppDatabase(NativeDatabase.memory());
     final recorder = _CountingSleepRecorder();
@@ -142,6 +181,7 @@ SnorvyController _buildController({
   required AppDatabase database,
   required _CountingSleepRecorder recorder,
   RecordingForegroundService? foregroundService,
+  SleepEventAnalyzer? sleepEventAnalyzer,
   UnlockRepository? unlockRepository,
 }) {
   return SnorvyController(
@@ -151,16 +191,26 @@ SnorvyController _buildController({
     recordingExporter: _FakeRecordingExporter(),
     recordingForegroundService:
         foregroundService ?? _FakeRecordingForegroundService(),
+    sleepEventAnalyzer: sleepEventAnalyzer ?? const _EmptySleepEventAnalyzer(),
     unlockRepository: unlockRepository ?? _FakeUnlockRepository(),
   );
 }
 
 class _CountingSleepRecorder implements SleepRecorder {
+  final StreamController<RecordingPowerFrame> _powerFrames =
+      StreamController<RecordingPowerFrame>.broadcast(sync: true);
   int startCalls = 0;
   int stopCalls = 0;
   RecordingSession _session = const RecordingSession(
     status: RecordingStatus.idle,
   );
+
+  @override
+  Stream<RecordingPowerFrame> get powerFrames => _powerFrames.stream;
+
+  void emitPowerFrame(RecordingPowerFrame frame) {
+    _powerFrames.add(frame);
+  }
 
   @override
   Future<RecordingSession> startNightRecording() async {
@@ -182,6 +232,43 @@ class _CountingSleepRecorder implements SleepRecorder {
       startedAt: _session.startedAt,
     );
     return _session;
+  }
+
+  @override
+  Future<void> dispose() async {
+    await _powerFrames.close();
+  }
+}
+
+class _EmptySleepEventAnalyzer implements SleepEventAnalyzer {
+  const _EmptySleepEventAnalyzer();
+
+  @override
+  SleepAnalysisResult analyzeFrames({
+    required List<RecordingPowerFrame> frames,
+    required DateTime startedAt,
+    required DateTime endedAt,
+    required String recordingPath,
+  }) {
+    return SleepAnalysisResult.empty;
+  }
+}
+
+class _FakeSleepEventAnalyzer implements SleepEventAnalyzer {
+  _FakeSleepEventAnalyzer({required this.result});
+
+  final SleepAnalysisResult result;
+  List<RecordingPowerFrame> framesSeen = const [];
+
+  @override
+  SleepAnalysisResult analyzeFrames({
+    required List<RecordingPowerFrame> frames,
+    required DateTime startedAt,
+    required DateTime endedAt,
+    required String recordingPath,
+  }) {
+    framesSeen = frames;
+    return result;
   }
 }
 

@@ -54,12 +54,12 @@ This is the **decision-ready reference** for Snorvy — the strategic docs the d
 ```
 Cross-platform UI       Flutter 3.27+
 Audio recording         flutter_sound 9.x
-Audio classification    tflite_flutter + YAMNet (Snoring + Speech + Whispering filter)
+MVP audio events        local recorder level detector (YAMNet/libfvad planned)
 Local DB                Drift (SQLite)
 Charts                  fl_chart
 IAP                     in_app_purchase 3.x
 Background recording    flutter_background_service
-VAD                     libfvad via Flutter FFI
+VAD                     planned libfvad via Flutter FFI
 Backend                 NONE (local-only audio)
 
 Monthly cost @ 5k MAU   ~€0

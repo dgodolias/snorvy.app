@@ -126,14 +126,26 @@ def exercise_mobile_flow(
     failures: list[str],
     screenshots: list[Path],
 ) -> None:
+    if not click_text(page, "Start local recording"):
+        page.mouse.click(viewport.width / 2, 216)
+    wait_for_text(page, "Stop recording", timeout=8000)
+    screenshots.append(capture(page, viewport_dir, "02-recording-active", failures))
+    page.wait_for_timeout(500)
+
+    page.touchscreen.tap(118, 216)
+    page.wait_for_timeout(1000)
+    page.mouse.wheel(0, 320)
+    page.wait_for_timeout(300)
+    screenshots.append(capture(page, viewport_dir, "03-recorded-events", failures))
+
     tap_nav(page, viewport, "Settings", 2)
     page.wait_for_timeout(800)
-    screenshots.append(capture(page, viewport_dir, "02-settings", failures))
+    screenshots.append(capture(page, viewport_dir, "04-settings", failures))
 
     if not click_text(page, "Add manual sleep log"):
         page.mouse.click(viewport.width / 2, 526)
     page.wait_for_timeout(800)
-    screenshots.append(capture(page, viewport_dir, "03-manual-log-sheet", failures))
+    screenshots.append(capture(page, viewport_dir, "05-manual-log-sheet", failures))
 
     if not click_text(page, "Save log"):
         page.mouse.click(viewport.width / 2, viewport.height - 64)
@@ -141,21 +153,21 @@ def exercise_mobile_flow(
 
     tap_nav(page, viewport, "History", 1)
     page.wait_for_timeout(1000)
-    screenshots.append(capture(page, viewport_dir, "04-history-after-log", failures))
+    screenshots.append(capture(page, viewport_dir, "06-history-after-log", failures))
 
     if not click_label(page, "Delete night"):
         page.mouse.click(viewport.width - 48, 430)
     page.wait_for_timeout(600)
-    screenshots.append(capture(page, viewport_dir, "05-delete-confirm", failures))
+    screenshots.append(capture(page, viewport_dir, "07-delete-confirm", failures))
 
     if not click_text(page, "Delete"):
         page.mouse.click(viewport.width - 82, viewport.height / 2 + 118)
     page.wait_for_timeout(900)
-    screenshots.append(capture(page, viewport_dir, "06-history-after-delete", failures))
+    screenshots.append(capture(page, viewport_dir, "08-history-after-delete", failures))
 
     tap_nav(page, viewport, "Tonight", 0)
     page.wait_for_timeout(600)
-    screenshots.append(capture(page, viewport_dir, "07-back-tonight", failures))
+    screenshots.append(capture(page, viewport_dir, "09-back-tonight", failures))
 
 
 def click_text(page, text: str, timeout: int = 1400) -> bool:

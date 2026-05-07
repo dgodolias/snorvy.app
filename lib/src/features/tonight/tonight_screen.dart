@@ -11,8 +11,12 @@ class TonightScreen extends StatefulWidget {
     required this.isBusy,
     required this.isLoading,
     required this.statusMessage,
+    required this.playingPath,
     required this.onStartRecording,
     required this.onStopRecording,
+    required this.onPlayAudio,
+    required this.onStopAudio,
+    required this.onExportAudio,
     required this.onUnlockTap,
     super.key,
   });
@@ -22,8 +26,12 @@ class TonightScreen extends StatefulWidget {
   final bool isBusy;
   final bool isLoading;
   final String? statusMessage;
+  final String? playingPath;
   final Future<void> Function() onStartRecording;
   final Future<void> Function() onStopRecording;
+  final Future<void> Function(String filePath) onPlayAudio;
+  final Future<void> Function() onStopAudio;
+  final Future<void> Function(String filePath) onExportAudio;
   final VoidCallback onUnlockTap;
 
   @override
@@ -56,6 +64,17 @@ class _TonightScreenState extends State<TonightScreen> {
           const SizedBox(height: 14),
           _TonightStats(night: latestNight),
         ],
+        if (latestNight?.recordingPath case final recordingPath?) ...[
+          const SizedBox(height: 14),
+          _FullNightRecordingPanel(
+            recordingPath: recordingPath,
+            isBusy: widget.isBusy,
+            isPlaying: widget.playingPath == recordingPath,
+            onPlayAudio: widget.onPlayAudio,
+            onStopAudio: widget.onStopAudio,
+            onExportAudio: widget.onExportAudio,
+          ),
+        ],
         const SizedBox(height: 18),
         Text(
           'Last night timeline',
@@ -76,6 +95,79 @@ class _TonightScreenState extends State<TonightScreen> {
         else
           ...events.map((event) => _TimelineEventTile(event: event)),
       ],
+    );
+  }
+}
+
+class _FullNightRecordingPanel extends StatelessWidget {
+  const _FullNightRecordingPanel({
+    required this.recordingPath,
+    required this.isBusy,
+    required this.isPlaying,
+    required this.onPlayAudio,
+    required this.onStopAudio,
+    required this.onExportAudio,
+  });
+
+  final String recordingPath;
+  final bool isBusy;
+  final bool isPlaying;
+  final Future<void> Function(String filePath) onPlayAudio;
+  final Future<void> Function() onStopAudio;
+  final Future<void> Function(String filePath) onExportAudio;
+
+  @override
+  Widget build(BuildContext context) {
+    return Card(
+      child: Padding(
+        padding: const EdgeInsets.all(16),
+        child: Column(
+          crossAxisAlignment: CrossAxisAlignment.start,
+          children: [
+            Row(
+              children: [
+                const Icon(Icons.library_music, color: SnorvyTheme.moss),
+                const SizedBox(width: 10),
+                Expanded(
+                  child: Text(
+                    'Full-night recording',
+                    style: Theme.of(context).textTheme.titleMedium?.copyWith(
+                      fontWeight: FontWeight.w800,
+                    ),
+                  ),
+                ),
+              ],
+            ),
+            const SizedBox(height: 12),
+            Wrap(
+              spacing: 8,
+              runSpacing: 8,
+              children: [
+                FilledButton.icon(
+                  onPressed: isBusy
+                      ? null
+                      : () async {
+                          if (isPlaying) {
+                            await onStopAudio();
+                          } else {
+                            await onPlayAudio(recordingPath);
+                          }
+                        },
+                  icon: Icon(isPlaying ? Icons.stop : Icons.play_arrow),
+                  label: Text(isPlaying ? 'Stop' : 'Play'),
+                ),
+                OutlinedButton.icon(
+                  onPressed: isBusy
+                      ? null
+                      : () async => onExportAudio(recordingPath),
+                  icon: const Icon(Icons.ios_share),
+                  label: const Text('Export'),
+                ),
+              ],
+            ),
+          ],
+        ),
+      ),
     );
   }
 }

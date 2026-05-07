@@ -3,6 +3,8 @@ import 'package:flutter_test/flutter_test.dart';
 import 'package:snorvy/src/app/snorvy_app.dart';
 import 'package:snorvy/src/app/snorvy_controller.dart';
 import 'package:snorvy/src/data/app_database.dart';
+import 'package:snorvy/src/services/audio_playback.dart';
+import 'package:snorvy/src/services/recording_exporter.dart';
 import 'package:snorvy/src/services/sleep_recorder.dart';
 
 void main() {
@@ -43,6 +45,8 @@ SnorvyController _buildController() {
   return SnorvyController(
     database: AppDatabase(NativeDatabase.memory()),
     recorder: _FakeSleepRecorder(),
+    audioPlayback: _FakeAudioPlayback(),
+    recordingExporter: _FakeRecordingExporter(),
   );
 }
 
@@ -69,5 +73,23 @@ class _FakeSleepRecorder implements SleepRecorder {
       startedAt: _session.startedAt,
     );
     return _session;
+  }
+}
+
+class _FakeAudioPlayback implements AudioPlayback {
+  @override
+  Future<void> playFile(String filePath) async {}
+
+  @override
+  Future<void> stop() async {}
+
+  @override
+  Future<void> dispose() async {}
+}
+
+class _FakeRecordingExporter implements RecordingExporter {
+  @override
+  Future<String> exportRecording(String sourcePath) async {
+    return 'memory://export.ogg';
   }
 }

@@ -8,11 +8,19 @@ class HistoryScreen extends StatelessWidget {
   const HistoryScreen({
     required this.nights,
     required this.isLoading,
+    required this.isBusy,
+    required this.playingPath,
+    required this.onPlayAudio,
+    required this.onStopAudio,
     super.key,
   });
 
   final List<SleepNight> nights;
   final bool isLoading;
+  final bool isBusy;
+  final String? playingPath;
+  final Future<void> Function(String filePath) onPlayAudio;
+  final Future<void> Function() onStopAudio;
 
   @override
   Widget build(BuildContext context) {
@@ -99,7 +107,15 @@ class HistoryScreen extends StatelessWidget {
             ),
           ),
           const SizedBox(height: 16),
-          ...nights.map((night) => _NightHistoryTile(night: night)),
+          ...nights.map(
+            (night) => _NightHistoryTile(
+              night: night,
+              isBusy: isBusy,
+              isPlaying: night.recordingPath == playingPath,
+              onPlayAudio: onPlayAudio,
+              onStopAudio: onStopAudio,
+            ),
+          ),
         ],
       ],
     );
@@ -132,9 +148,19 @@ class _EmptyHistoryPanel extends StatelessWidget {
 }
 
 class _NightHistoryTile extends StatelessWidget {
-  const _NightHistoryTile({required this.night});
+  const _NightHistoryTile({
+    required this.night,
+    required this.isBusy,
+    required this.isPlaying,
+    required this.onPlayAudio,
+    required this.onStopAudio,
+  });
 
   final SleepNight night;
+  final bool isBusy;
+  final bool isPlaying;
+  final Future<void> Function(String filePath) onPlayAudio;
+  final Future<void> Function() onStopAudio;
 
   @override
   Widget build(BuildContext context) {
@@ -158,12 +184,26 @@ class _NightHistoryTile extends StatelessWidget {
             '${night.duration.inHours}h ${night.duration.inMinutes % 60}m sleep'
             ' - $eventSummary',
           ),
-          trailing: Text(
-            '${night.snoreScore}',
-            style: Theme.of(
-              context,
-            ).textTheme.titleLarge?.copyWith(fontWeight: FontWeight.w900),
-          ),
+          trailing: night.recordingPath == null
+              ? Text(
+                  '${night.snoreScore}',
+                  style: Theme.of(
+                    context,
+                  ).textTheme.titleLarge?.copyWith(fontWeight: FontWeight.w900),
+                )
+              : IconButton(
+                  tooltip: isPlaying ? 'Stop recording' : 'Play recording',
+                  onPressed: isBusy
+                      ? null
+                      : () async {
+                          if (isPlaying) {
+                            await onStopAudio();
+                          } else {
+                            await onPlayAudio(night.recordingPath!);
+                          }
+                        },
+                  icon: Icon(isPlaying ? Icons.stop : Icons.play_arrow),
+                ),
         ),
       ),
     );

@@ -1,0 +1,26 @@
+{
+  "tick": "v9_explore_tick2",
+  "candidate": "F",
+  "niche": "Pomodoro / focus timer",
+  "country": "US",
+  "generated_at": "2026-05-07",
+  "rejected_incumbents": ["Forest (Seekrtech corporate)", "Be Focused"],
+  "apps_analyzed": [
+    {"appId": "com.superelement.pomodoro", "title": "Focus To-Do", "installs": "10M+", "ratings": 277901, "score": 4.62, "recent_low_pct": 16.5, "n_recent": 200, "verdict": "Mid — sync paywalls + reorder feature missing + watch bugs"},
+    {"appId": "com.apps.adrcotfas.goodtime", "title": "Goodtime", "installs": "1M+", "ratings": 21748, "score": 4.60, "recent_low_pct": 6.5, "verdict": "Healthy"},
+    {"appId": "com.engross", "title": "Engross ADHD Focus Timer", "installs": "500k+", "ratings": 13511, "score": 4.42, "recent_low_pct": 4.4, "verdict": "Healthy"},
+    {"appId": "co.zeitic.focusmeter", "title": "Focusmeter", "installs": "100k+", "ratings": 4160, "score": 4.62, "recent_low_pct": 7.8, "verdict": "Healthy"},
+    {"appId": "co.pixo.apps.focuskeeper", "title": "Focus Keeper", "installs": "100k+", "ratings": 1146, "score": 3.94, "overall_low_pct": 41.5, "n_recent": 8, "verdict": "Vulnerable but tiny install base — old Apple-port that didn't translate; opportunity small"}
+  ],
+  "verbatims_top": [
+    {"app": "Focus To-Do", "score": 1, "thumbs": 5, "date": "2026-03-09", "text": "A conceited developer who doesn't answer questions. He doesn't even bother to comment on why he didn't add this reordering feature that's found in every app. A to-do list without reordering."},
+    {"app": "Focus To-Do", "score": 1, "thumbs": 3, "date": "2026-03-30", "text": "such a stupid reasoning from the developer. so the syncing is a premium option. when you're in a group and you focus for hours. it doesn't sync so you're left with 0 minutes!! how stupid is that!! what's the point of groups then??"},
+    {"app": "Focus Keeper", "score": 1, "thumbs": 17, "date": "2025-04-21", "text": "Isn't it counterproductive to have ads on the very screen that is supposed to be a focus screen? The whole point is to avoid distractions and lock in and that can't happen with Ads dancing around the screen."}
+  ],
+  "verdict": {
+    "best_vulnerable_cell": "Focus To-Do (10M+, 16.5% recent low) — but signal is mild and complaints are feature-gap (sync, reorder), not strategic vulnerability",
+    "market_state": "SATURATED — most mid-tier pomodoro apps are healthy (4.4-4.8★, low_pct under 10%). Niche is well-served by indie devs (Goodtime open-source-style 4.8★). New entrant has no obvious wedge.",
+    "build_complexity": "3-5 weeks (truly trivial — countdown + notification + simple stats)",
+    "ranking_vs_v9_top6": "BELOW — saturated, no displacement signal, no monetization angle (users expect free)"
+  }
+}

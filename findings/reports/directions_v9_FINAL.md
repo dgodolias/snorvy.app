@@ -21,6 +21,7 @@ _Source: 97 synthesized cells + Invoice Simple 3000-review drill (US/GB) + iOS 7
 | 6 | **Tycoon Zero (Flutter Flame Idle)** | global | AdVenture Capitalist 52% low / 78% predatory density / ONE-TIME-vs-subscription wedge | 8-12 wk | $5-15k base | MEDIUM-LOW (B2C variability) | Pending Phase E loop drill |
 | 7 | **TR e-SMM (Serbest Meslek Makbuzu)** mobile app | TR | Mikrogrup e-Arşiv 66.7% low + SYSMOND 41.3% low (bait-and-switch tokens) — **e-SMM mobile niche EMPTY** (govt portal only) | 5-7 wk | TBD | **MEDIUM-HIGH** (NEW from EXPLORATION mode Tick 1) |
 | 8 | **Honest Sleep Recorder (ShutEye displace)** | global | ShutEye 61.6% recent low_pct on 10M+ installs, $79.99 IAP ceiling, immediate-charge-on-trial complaint | 4-6 wk | TBD | **MEDIUM** (NEW from EXPLORATION mode Tick 1) |
+| 9 | **Evernote Refugee Notes Vault** (US/EN) | global | Evernote **84.0%** recent low_pct on 100M+ installs, $254.89 IAP ceiling, 181-thumb data-loss complaint, Bending Spoons acquisition collapse | 4-6 wk | TBD | **HIGH** (NEW from EXPLORATION mode Tick 3 — highest single-app rage in research) |
 
 **Key v9 ranking change**: Direction 2 (QBSE+Solopreneur+Schedule C) **promoted from #3 to #2** based on Agent 13 deep drill confirming Solopreneur (the QBSE replacement) is ALSO at 61.4% recent low_pct on 1500 reviews — meaning the displacement market = QBSE refugees + Solopreneur frustrated users (combined 2M+ install base). Direction 4 (EU multi-country) drops to #3.
 
@@ -230,6 +231,41 @@ Full Greek dev checklist: [d1_greek_dev_execution.md](../raw/d1_greek_dev_execut
 - 🥉 Tertiary: **r/sidehustle** (1.5M subs) "cheapest invoicing app" megathread
 
 **Twitter/X reply targets**: search Twitter for @InvoiceSimple complaint threads + DM-mention with "I built X because of this — try it free" format (organic engagement, no paid).
+
+### v9 LOOP EXPLORATION TICK 5 — Billdu playbook (DIRECT analog for Greek dev)
+
+**Case study uncovered** (exploration mode): **Billdu** (Slovakia, founded 2012 by solo freelancer Erik) — exact European-solo-founder → US-market analog. Beat US invoice incumbents via:
+
+- **iOS-first** strategy (premium ARPU)
+- **12-language localization** (covered EU + global markets one codebase)
+- **5 Apple App Store Editorial features** (alongside Asana, Microsoft Teams, Fiverr — proves indie can crack editorial gate)
+- **200K+ paying customers across 30 countries** by 2023
+- **Acquired by team.blue Jan 2024** (exit confirmed)
+
+→ This is the playbook FairBill should lift directly. Slovak founder ≈ Greek founder cultural distance from US market. The Billdu story de-risks Greek-dev → US-Play-Store launch concerns from past runs.
+
+### v9 LOOP EXPLORATION TICK 5 — D1 ASA CPT economics (per Apple Search Ads 2026 benchmarks)
+
+| Keyword | US ASA CPT estimate | Notes |
+|---|---|---|
+| `invoice simple alternative` | **€1.10–€1.85** | CHEAPEST entry — competitor brand keyword with low defense |
+| `invoice maker no subscription` | €2.30–€3.90 | Premium-intent multiplier on Business-category baseline ($1.91) |
+| `invoice app uk small business` | €1.40–€2.50 | UK long-tail — **lowest bidder density × 68.28% CR (highest globally)** |
+| `self employed invoice` | €2.00–€3.50 | Mid-density |
+| `freelancer invoice` | €3.00–€5.00 | Crowded |
+
+**Strategic implication**:
+- **Business category CPT is 2.5× cheaper than Finance** → makes ASA viable on €350 budget
+- **UK long-tail "invoice app uk small business"** is the sweet spot — low bidder density × 68.28% CR (highest globally per ASA benchmarks)
+- **Realistic Y1 D1 MRR target**: **$500–$3K** per 326-project indie maker baseline (vs prior €42k base = ~$45k Y1 ARR ≈ $3.7k MRR end of year — base case is at top of indie-maker realistic range, achievable but not guaranteed)
+
+### v9 EXPLORATION BACKLOG (Tick 4 — did NOT beat v9 top 7)
+
+Two candidates below threshold but worth note for future iterations:
+- **VSCO displacement** (65.3% recent low_pct, 100M+ installs, $29.99 IAP rage on photo editor) — REJECTED due to build complexity (8-12 wk for credible MVP, competes with 1B+ install Picsart)
+- **TR Vocabulary SRS** (anti-Mondly TR 51.5% billing-fraud rage) — REJECTED narrow TAM (vocab learners < freelancers); 4-6wk build feasible but overlaps with D7 TR e-SMM. If user does D7, can bundle vocab as cross-sell module.
+
+Voice recorder REJECTED outright (max 14.4% low_pct, market saturated by built-in OS apps).
 
 ### Why this WILL work
 

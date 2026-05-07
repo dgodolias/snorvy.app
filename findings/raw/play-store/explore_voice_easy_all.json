@@ -1,0 +1,2009 @@
+{
+  "app": "com.coffeebeanventures.easyvoicerecorder",
+  "country": "us",
+  "lang": "en",
+  "total_pulled": 200,
+  "total_after_filter": 200,
+  "reviews": [
+    {
+      "date": "2026-05-06T08:40:29.806Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Hilal Shakarchi",
+      "text": "Can't find anyway to transfer to phone. I have a Galaxy watch 4, and it barely syncs to phone and when it does it doesn't even preserve the date, it sets the date of the recording the same as the sync date. When I tried to use a file explorer to extract the recordings manually, the files weren't accessible. Now I have recordings and no way to sync and preserve dates.",
+      "reply": "Hi Hilal, some quick feedback: a) Please ensure your watch and phone are connected to the same wifi, b) last modified date is unfortunately not able to be set on Android, c) You can also use \"Copy to the music folder\" to make them accessible. We have limited space here so please contact us via Help - Contact Us in the app. Thank you.",
+      "replyDate": "2026-05-06T12:00:30.524Z",
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=c027509b-aff5-49bd-b8ee-5c79ccf37960"
+    },
+    {
+      "date": "2026-05-05T20:14:28.288Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Dave Miller",
+      "text": "I love this app cause I can make my mic so sensitive to sound where you can hear the train, the birds, and so much more, it can hear what I hear, and that makes me happy that's a great way to get background sounds for stuff great for literally everything too, singing, voice acting, sooo much :3 over all 10/10 app, the name isn't lying",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=f0a80b3d-a0c9-482b-9531-47d5241d205d"
+    },
+    {
+      "date": "2026-05-05T16:39:38.157Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Subhadeep Sarkar",
+      "text": "It helps alot in recording audio",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=29728430-435e-42a6-bb14-7ec1e7da35cc"
+    },
+    {
+      "date": "2026-05-05T05:33:22.750Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "whenypoo",
+      "text": "love it.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=9af1a8fe-a5ae-4ee9-9322-fdebe0100281"
+    },
+    {
+      "date": "2026-05-05T01:31:46.479Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Bobby Pirata",
+      "text": "Apparently doesn't work without unlimited access to the microphone. I don't allow that because it's not secure. I tried \"ask every time\" but it wouldn't work that way.",
+      "reply": "Hi Bobby, it really should. I don't have every device, but \"Ask every time\" works on my test devices. If you mean it doesn't ask every single time you tap on the mic button, that's OS behavior, not something we control; it's usually a time limit. Could you please contact us via Help - Contact Us in the app so we can review further? Thank you.",
+      "replyDate": "2026-05-05T12:01:28.377Z",
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=9f1ca721-ae61-452d-9747-eb37ac76356d"
+    },
+    {
+      "date": "2026-05-04T21:22:33.920Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Michal",
+      "text": "simple, intuitive, user friendly, all you need from the recorder",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=44391ba5-90f2-4268-a564-8074ab842997"
+    },
+    {
+      "date": "2026-05-04T20:13:36.931Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "A Google user",
+      "text": "Easy to use",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=4238f6bb-b197-400c-bae5-adee7f1dd2bd"
+    },
+    {
+      "date": "2026-05-04T17:16:35.235Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Reginald Paschal",
+      "text": "Very easy to operate and convenient. Good app!! Still great with this new version 👍😎",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=3af4745e-1cbe-47d9-b4fe-1461a69c6653"
+    },
+    {
+      "date": "2026-05-04T16:14:30.518Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Mike Gross",
+      "text": "always just works as.planned.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=b904ef2b-48b1-4a08-b013-bb46a29bd988"
+    },
+    {
+      "date": "2026-05-04T15:50:35.539Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Music Lover",
+      "text": "I love this Recorder, Simple easy to use and very effective",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=0a0bfe7c-1631-4f40-ba42-4460163ad579"
+    },
+    {
+      "date": "2026-05-04T07:45:32.994Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Oleg Sannikov",
+      "text": "it's a good app, been using it for a couple of years.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=d28fcdc4-16a2-4e74-9578-0999d8c93638"
+    },
+    {
+      "date": "2026-05-04T01:32:09.255Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Gypsy Taub",
+      "text": "always works so well! No glitches, no issues. thank you!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=1e375b03-d88b-4daa-b0ed-5fdfdd12e334"
+    },
+    {
+      "date": "2026-05-04T01:22:09.100Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Judy Pearson",
+      "text": "easy to use. works fine",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=82096397-59de-4c75-b5b9-2dbfd39c85ec"
+    },
+    {
+      "date": "2026-05-03T02:15:24.637Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Elaine Awuah",
+      "text": "I rlly enjoy using this voice app because of its clear high quality voice playback and as someone who enjoys singing, I needed a voice app that serves this purpose while also being free. 100% recommend",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=bec5237b-2930-4257-bd7a-ce7867d91b35"
+    },
+    {
+      "date": "2026-05-03T01:16:58.224Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Yunhua Zhu",
+      "text": "very convenient free software! long recording.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=6fe2922e-d091-4915-82bf-a67f30c079c8"
+    },
+    {
+      "date": "2026-05-02T18:12:31.765Z",
+      "score": 5,
+      "thumbsUp": 24,
+      "user": "Rebecca Ziarati",
+      "text": "Great clarity app well worth installing. Have been using since 2019 until present '26... A word of advice though is to have an card reader and memory card or external harddrive, as a safer way for data transition to other devices and/or flash drives from phone/tablet/pc devices.... Also worth having antivirus/anti-adware/spyware software installed accordingly... Enjoy the experience and see for yourself❣️-‼️❣️🏴󠁧󠁢󠁥󠁮󠁧󠁿🇬🇧🏴󠁧󠁢󠁳󠁣󠁴󠁿 Namaste 🙏❣️🙏🕊️😇",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=b930d1d7-380c-454f-acff-9a4fef60d034"
+    },
+    {
+      "date": "2026-05-02T11:06:44.251Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Susie Pratt",
+      "text": "marvellous for recording bird song",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=addc5a37-0870-4029-8b8a-a8c14ad2c27e"
+    },
+    {
+      "date": "2026-05-01T21:56:35.896Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "tehredmage",
+      "text": "it's easy",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=b9d9245d-ca35-493c-bc9e-d434389c82d7"
+    },
+    {
+      "date": "2026-05-01T21:09:14.119Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Eoghan O'Sullivan",
+      "text": "Perfect for song ideas. Easy to record, easy to listen back. The search function for recordings is super handy.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=98eb4867-1673-412d-885b-2de9a75d6ff3"
+    },
+    {
+      "date": "2026-05-01T13:29:30.531Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "bini d",
+      "text": "Superb 👍👑",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=721bc90a-2afb-4133-ae55-ee76206d81f5"
+    },
+    {
+      "date": "2026-05-01T03:47:21.131Z",
+      "score": 5,
+      "thumbsUp": 2,
+      "user": "Cheryl Hennessey",
+      "text": "This app is awesome and easy to use. I was recording an animal of some sort so it could be identified and I didn't think the recording would turn out well because it was in the distance. When I played it back it was louder than the actual noise and very clear!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=414a0465-7fd4-492d-b2ec-2940ff7f311a"
+    },
+    {
+      "date": "2026-05-01T02:42:08.485Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Kdj Jay",
+      "text": "It works and it's easy to use--and my version is free. You can't beat that. I'm beyond old, and even I can figure it out.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=846b58a9-ef43-4735-b196-d54987cc70f6"
+    },
+    {
+      "date": "2026-04-30T22:36:01.739Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "Dan Dascalescu",
+      "text": "No transcribing features, now in the AI era. 🧐 Uninstalled.",
+      "reply": "Thank you for the feedback!",
+      "replyDate": "2026-04-30T23:50:23.951Z",
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=74589417-0e44-4b92-9b8e-7417d2c6c0ee"
+    },
+    {
+      "date": "2026-04-30T20:44:23.391Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Allan Sustare",
+      "text": "Works like a champ!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=94b7dc6b-81eb-4dbc-be0b-989d61b15252"
+    },
+    {
+      "date": "2026-04-30T10:12:25.280Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Brian Tully",
+      "text": "it's built for clarity and is extremely well designed. thank you for this app",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=b16dc60d-988b-41c9-b52f-4d51deba331c"
+    },
+    {
+      "date": "2026-04-30T09:30:09.589Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Daniel Martinez",
+      "text": "Horrible. I've had this app for years. I've recorded 18 songs that I have written. then one day I logged on and everything was just gone. don't trust this app.",
+      "reply": "Hi Daniel, very sorry to hear about this. This is most likely the OS revoking storage permission. Your files should still be visible in the Files app. To see them again in the app, please re-grant permission from Settings - Files in the app, or contact us via Help - Contact Us in the app, and we will help with priority. Thank you.",
+      "replyDate": "2026-04-30T11:55:29.840Z",
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=93888eb9-46ce-40e7-9edc-94882d8f0d97"
+    },
+    {
+      "date": "2026-04-30T06:59:17.361Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Blessings Mukhuna",
+      "text": "wow wow",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=574c56f0-750c-4268-b436-6c43d55bbfd2"
+    },
+    {
+      "date": "2026-04-30T01:43:56.223Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "PREM SINGH",
+      "text": "Very Good App 👍 👏 👌 😀",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=149570d2-608e-486f-917c-1337cc26a299"
+    },
+    {
+      "date": "2026-04-30T01:07:23.289Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "Vicki Sink",
+      "text": "I use this app to record myself reading children's books for my out of town grandchildren.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=f2d8b8ed-89d9-43c5-961f-2e28de31438a"
+    },
+    {
+      "date": "2026-04-29T23:13:52.260Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "My Google",
+      "text": "bit blurry sound",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=9eafe424-b9db-4c87-9ff0-2409ff623e06"
+    },
+    {
+      "date": "2026-04-29T20:00:30.854Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Shirley Mcpherson",
+      "text": "😀🌹❤️",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=06ff5167-8e72-4b87-9f7e-1a6033623212"
+    },
+    {
+      "date": "2026-04-29T17:48:27.149Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Deon van Biljon",
+      "text": "Awesome app",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=328240da-0bb1-4cc5-859f-0fdce1cc49f2"
+    },
+    {
+      "date": "2026-04-29T14:31:03.538Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Being Tina",
+      "text": "love it",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=a26bb3c4-5b19-457a-852e-47c74a8326d4"
+    },
+    {
+      "date": "2026-04-29T06:25:43.984Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Peter Yakubu",
+      "text": "It's so easy to use, and captures voice in an excellent way.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=5dff55f8-87d6-47c5-a948-1ff7ea1f1185"
+    },
+    {
+      "date": "2026-04-29T01:35:08.270Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "MrDrewseph",
+      "text": "I've used this app for years, I have hundreds of recordings, but just this week my phone completely freaks out when listening to any audio, only on this app. Has anyone encountered this?",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=553d1788-92e4-48b6-88d1-73195e0778eb"
+    },
+    {
+      "date": "2026-04-28T20:18:38.183Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Hodo Ismail",
+      "text": "very good to record",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=0870bd9e-d5be-4919-83a1-4bf22704ac2f"
+    },
+    {
+      "date": "2026-04-28T18:24:21.568Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "TUYISENGE ROBERT",
+      "text": "it's helpful",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=a086dc97-c70a-47fb-82f8-81515774781d"
+    },
+    {
+      "date": "2026-04-28T15:13:14.964Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Victor Mercado",
+      "text": "Great App.. Hands down",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=a5d2ef79-8136-431b-a22b-ac8c4a081823"
+    },
+    {
+      "date": "2026-04-28T12:41:04.535Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Kee Marsh",
+      "text": "Excellent",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=bfed1066-0999-42a9-b1f6-f175859e9046"
+    },
+    {
+      "date": "2026-04-28T11:53:45.828Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "JoAnne Civiletto",
+      "text": "Great tool!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=7c1c0d81-af55-4283-89ff-75bee5d32952"
+    },
+    {
+      "date": "2026-04-28T07:42:40.801Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "sky medias",
+      "text": "it's ok",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=8c9dd8d0-bf6e-4a19-a69d-e6023f1804f9"
+    },
+    {
+      "date": "2026-04-27T09:59:08.517Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Lemlem Tibebu",
+      "text": "wow",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=4bcceee2-1cdf-4231-8ede-01f011c7401c"
+    },
+    {
+      "date": "2026-04-27T08:50:00.299Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Madi",
+      "text": "EASY TO USE I LOVE IT😍😍😍😍",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=6c1f8a62-eee3-4d49-a6b6-adf3276622be"
+    },
+    {
+      "date": "2026-04-27T04:59:04.227Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Мирас Галимов",
+      "text": "хороший диктофон; советую.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=a5a0f03e-dd66-4cf6-8c99-585462467460"
+    },
+    {
+      "date": "2026-04-27T00:02:00.258Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Jennifer Washburn",
+      "text": "this app works wonderful it has really helped me so much I'm so thankful I chose this app. if you need a good reliable recording app this is the best. easy to use an records crystal clear",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=1ce33e81-15d7-4e0e-b360-c99fe69246b5"
+    },
+    {
+      "date": "2026-04-26T15:39:45.290Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Jody Kono",
+      "text": "absolutely have loved this app for years now!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=c5ad0a4e-8cb8-4685-964c-8d52f52df36c"
+    },
+    {
+      "date": "2026-04-26T15:35:20.901Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Cheok Wah Yoon",
+      "text": "easy to use. minimal ads",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=45dcf6c4-ff59-4bd4-b6b0-b51bdf5890d2"
+    },
+    {
+      "date": "2026-04-26T10:02:37.280Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Miss",
+      "text": "works beautifully",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=3ffa969f-97cd-486c-84ff-78bc3248e317"
+    },
+    {
+      "date": "2026-04-26T09:56:56.954Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "New Forest Ninja",
+      "text": "great, useful tool",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=5e9e0752-a079-4ec6-baa6-3010d16e4f4c"
+    },
+    {
+      "date": "2026-04-26T08:42:40.970Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Christian Raahauge",
+      "text": "This app is easy. and it records. so name is correct. Makes user happy.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=d92dd978-80e6-49fb-9445-90cbfa678020"
+    },
+    {
+      "date": "2026-04-26T05:13:56.835Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Rodney Hage",
+      "text": "Does everything I need it to do!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=0dd9563f-5c8a-440c-9f08-f4eb2e6c29df"
+    },
+    {
+      "date": "2026-04-25T18:26:31.900Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Shannon Wilson",
+      "text": "perfect for my needs",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=b43c0e9d-d463-4238-b9f3-cda84f2d3460"
+    },
+    {
+      "date": "2026-04-25T00:00:46.926Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Mike joe",
+      "text": "it works",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=f3a51721-a6b6-4a13-8d7d-3b0813f84d8f"
+    },
+    {
+      "date": "2026-04-24T17:41:53.544Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Ray",
+      "text": "clear recordings each and every time. perfection",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=24fdf59e-ac94-4770-9b74-aaa423206bb4"
+    },
+    {
+      "date": "2026-04-24T13:56:31.174Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Tonia Austin",
+      "text": "Loving this app! it's easy to use and the clarity of the recording is awesome!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=9dacb54c-cdd5-43c7-974a-7d3c3ec63bb9"
+    },
+    {
+      "date": "2026-04-23T22:16:57.743Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Cody Guy",
+      "text": "Should be lightweight but crashed my phone multiple times. Junk.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=7f631fd7-1c1b-4e21-b7e9-b5abc9d62207"
+    },
+    {
+      "date": "2026-04-23T19:09:37.605Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "John Dubock",
+      "text": "it's simple but powerful",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=5c62d130-6836-4aaf-befa-5c5711123cd9"
+    },
+    {
+      "date": "2026-04-23T16:17:02.545Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "James Upshon",
+      "text": "Easy to use recording app.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=9c60b17e-a2d1-4ae8-a9dc-482000951440"
+    },
+    {
+      "date": "2026-04-23T07:17:36.366Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Geoff Ruttan",
+      "text": "it is what it says and nothing more. nice now a days.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=5ae81b8a-294b-4352-8e20-7d1fe6ff18c9"
+    },
+    {
+      "date": "2026-04-23T07:10:58.413Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Mary",
+      "text": "love it works well for what I need",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=88a7d0b7-2fa2-4865-b626-ad30030b487e"
+    },
+    {
+      "date": "2026-04-23T00:20:34.812Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Fred Lokoloko",
+      "text": "I like the app. It's simple and not complicated 👍",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=f688a7ff-3b8c-4e65-b8a6-3e1da6461b75"
+    },
+    {
+      "date": "2026-04-22T22:07:08.532Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Suzanne Bourque",
+      "text": "Very handy!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=42d6810c-7873-47d0-ac11-364097074571"
+    },
+    {
+      "date": "2026-04-22T19:36:18.302Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "J Lawson",
+      "text": "easy to use. Great for dictation!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=9b94a906-977b-4690-861c-ce93557df366"
+    },
+    {
+      "date": "2026-04-22T16:10:39.110Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "s heli",
+      "text": "easy quick access / ez close",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=f39a93e6-8d42-468e-95cb-938cd69f9583"
+    },
+    {
+      "date": "2026-04-22T06:12:04.469Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "Mae Mae",
+      "text": "I can say I'm really satisfied with this recorder. it captures the sound very. clearly, and it's easy to use.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=65b28588-d57a-4c94-bd4c-2b40f8bd1896"
+    },
+    {
+      "date": "2026-04-22T03:19:25.583Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Tony Fresquez",
+      "text": "Easy to record and edit recordings. It's helped me alot!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=6ead12e0-71de-4778-8013-dc40eeba779f"
+    },
+    {
+      "date": "2026-04-22T02:09:21.732Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Jacqueline Martin",
+      "text": "easy to work and clarity of sound is excellent.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=88b02811-39a9-4940-b2fe-e041338c47f7"
+    },
+    {
+      "date": "2026-04-21T22:52:38.870Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Defcin",
+      "text": "Nice",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=cc6fb147-8c3a-4e2d-ba5e-2edb4fe8b7ab"
+    },
+    {
+      "date": "2026-04-21T21:02:04.459Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Judy Wilson",
+      "text": "I'm very satisfied with this app performance",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=ee1a13cd-ca6f-4c1d-b032-97c7e14c15b5"
+    },
+    {
+      "date": "2026-04-21T20:44:53.423Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "DELOIS J. CAL",
+      "text": "This is an excellent and easy recorder, I use it to record my Church choir and services. Thank you!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=cebcec7b-a77c-4a1c-8f9d-db11ec3e1aaf"
+    },
+    {
+      "date": "2026-04-21T18:10:21.701Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Alicia",
+      "text": "Easy to use & super convenient 👍",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=e5f1c0ae-1b15-4223-a7ad-823d847d52e9"
+    },
+    {
+      "date": "2026-04-21T16:15:36.132Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Nick",
+      "text": "have no idea where it stores it and after installing this app I have no way to find it again",
+      "reply": "Hello, please contact us at support@digipom.com and we will be more than happy to assist. Thank you!",
+      "replyDate": "2026-04-22T12:09:14.420Z",
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=b8f299f6-36ad-41ba-805c-38815b4d5ed0"
+    },
+    {
+      "date": "2026-04-21T15:30:19.570Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "John McCord",
+      "text": "Simple and effective",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=002dde8c-ce33-4cb8-bb46-90850dc04eb9"
+    },
+    {
+      "date": "2026-04-21T05:25:02.211Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Manoj Kumar",
+      "text": "Good 👍",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=9568bbdf-c3f9-452d-b211-4a714f5af34d"
+    },
+    {
+      "date": "2026-04-21T04:22:07.166Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Deborah Michael",
+      "text": "love it so easy to use",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=8f075812-2b31-4b8c-993d-0cf83ff9eac3"
+    },
+    {
+      "date": "2026-04-20T22:34:42.666Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Ray Rodriguez",
+      "text": "Perfect for brainstorming. and taking voice notes. I love it.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=5028eec7-0ceb-4d6c-8215-4f33a73d55aa"
+    },
+    {
+      "date": "2026-04-20T15:08:32.693Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "AmeerLook",
+      "text": "very very nice",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=b33ea095-d735-4b65-9671-14d349609bd1"
+    },
+    {
+      "date": "2026-04-20T13:57:16.226Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "G Walker",
+      "text": "good tool for bible study",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=ec8f056f-d23e-4c88-9410-765d74a13ee8"
+    },
+    {
+      "date": "2026-04-20T09:26:10.853Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Earl Lewis",
+      "text": "Easy and prefect jiffy",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=1335658d-be75-4251-8d51-8d674132ca39"
+    },
+    {
+      "date": "2026-04-20T04:07:45.618Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Dominic Shaddick",
+      "text": "very easy to use and the recording quality is very good",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=cbb17940-f6d9-4587-a6c1-42c3c89be463"
+    },
+    {
+      "date": "2026-04-18T15:18:01.535Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "amreen khan",
+      "text": "very good 😊 💯 very. clear voice",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=456c1239-b00f-4b2b-98c3-f1cde92e50ca"
+    },
+    {
+      "date": "2026-04-18T14:42:46.123Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Jackie Crowder",
+      "text": "Excellence and easy to use.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=45ad67ca-ac78-497a-b3e8-369d6077a4fe"
+    },
+    {
+      "date": "2026-04-18T09:21:44.922Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Paul Aspden",
+      "text": "Very easy to use, recordings crystal clear, press one button to record, one button to listen to recording, what more do you need",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=b3b8b942-d5a6-422e-b19e-748a325c5095"
+    },
+    {
+      "date": "2026-04-18T08:48:49.928Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Tina Kuyk'Doll",
+      "text": "fun to record music",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=1bd979d1-1b9e-4a37-b4ce-1ce4d0737c4f"
+    },
+    {
+      "date": "2026-04-18T08:30:38.477Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Rob Kelly",
+      "text": "great little app, love it.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=a95eb18a-7b45-47e8-84af-d4906a00058f"
+    },
+    {
+      "date": "2026-04-18T05:33:20.110Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Graeme Stantiall",
+      "text": "awesome",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=2d67530f-f8c6-46dd-913c-464865299278"
+    },
+    {
+      "date": "2026-04-18T05:21:28.394Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Kevin P.",
+      "text": "works goog don't change anything",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=287dc944-30cf-440f-91fe-e770925052b1"
+    },
+    {
+      "date": "2026-04-18T01:57:13.708Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Irina Tabakov",
+      "text": "I love it!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=c2704b84-d1f8-4a30-ae13-156a49016cae"
+    },
+    {
+      "date": "2026-04-18T00:22:07.451Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Elizabeth Harris",
+      "text": "Very simple to use and play back!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=353bfd3a-511d-408d-8cf7-0791565aeede"
+    },
+    {
+      "date": "2026-04-17T23:54:42.550Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Nathanael Pickles",
+      "text": "needed a simple one, this is it",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=b395542d-5f0b-4ef4-8b8d-99330c0c27c9"
+    },
+    {
+      "date": "2026-04-17T16:26:36.422Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Gary Wu",
+      "text": "Just cool",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=940b6638-ef99-4ffa-bf8d-e60d7f3169ba"
+    },
+    {
+      "date": "2026-04-17T16:06:31.550Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "AYOUB Elminaoui",
+      "text": "the app is good in overall 👌 I recommended it cs it's useful 👍",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=16f39f5a-43be-4b33-9a97-2d114b665549"
+    },
+    {
+      "date": "2026-04-16T20:36:53.187Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "kimberly scott",
+      "text": "not bad it's ok.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=996196af-1c7c-4f0b-b072-98de254a4f64"
+    },
+    {
+      "date": "2026-04-16T18:24:22.624Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Jacobus Cilliers",
+      "text": "Very good recording, best qualty",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=03ad2eff-45da-45c8-b944-5baed8acd7c2"
+    },
+    {
+      "date": "2026-04-16T16:54:06.325Z",
+      "score": 5,
+      "thumbsUp": 2,
+      "user": "ByouLv",
+      "text": "the recording process is great. I do hope when its time to be used it works properly.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=1fbd6be3-f3d0-4b5b-bc84-c8845cd571f8"
+    },
+    {
+      "date": "2026-04-16T11:50:01.993Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Jody M",
+      "text": "been using this app for 4 years now and it's still great. I like being able to edit the length of the recordings.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=7adb6c9f-d51c-45e4-9240-c653eeee46eb"
+    },
+    {
+      "date": "2026-04-16T05:47:13.508Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Monica Malcolm",
+      "text": "beautiful",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=0d54e868-6e29-400f-b95f-d1013ac34b09"
+    },
+    {
+      "date": "2026-04-16T05:43:09.315Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "suseela subrahmanyam pattisapu",
+      "text": "is very useful to singers.i really enjoyed",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=278ff62d-c062-4b83-bc4c-cf122555e3cc"
+    },
+    {
+      "date": "2026-04-16T04:50:06.684Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "Ria Rebel",
+      "text": "One of the most easiest apps I've ever installed. easy to name a file. easy playback. and it picks up really good sound. five stars all the way. I highly recommend it",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=e8781e9d-cdfe-42f5-81f2-81d9ec3af52d"
+    },
+    {
+      "date": "2026-04-16T04:03:04.382Z",
+      "score": 5,
+      "thumbsUp": 2,
+      "user": "Temperance",
+      "text": "I use this to send voicemails to my first crush/love who was an actor in the 70's...works great easy to use... we both ty.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=7f9168fb-33d7-48d9-a02d-a2cec5bef955"
+    },
+    {
+      "date": "2026-04-16T00:20:59.597Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Dolph E. Chiarino",
+      "text": "Great App",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=7cefb48a-ada3-4e15-b15f-3b3af8b41fcb"
+    },
+    {
+      "date": "2026-04-15T23:38:07.565Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Eddie, Christina Nunya",
+      "text": "Crystal Clear recording",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=f5a5f18b-1717-4c7e-a24e-cd92f5d528f9"
+    },
+    {
+      "date": "2026-04-15T16:31:29.780Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Ranjeet Kumar",
+      "text": "best",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=7d7af37e-716c-41dd-8741-4da522e7f3a5"
+    },
+    {
+      "date": "2026-04-14T22:21:08.506Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Maleka Walker",
+      "text": "can this app be used for an IPhone?",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=793db3a1-49ae-4e3b-9859-aa6c04beeba3"
+    },
+    {
+      "date": "2026-04-14T15:05:30.921Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Isidoro Rocchio",
+      "text": "easy to use great app",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=b51320bc-a058-4ee9-8d8b-eee7b7b2da7a"
+    },
+    {
+      "date": "2026-04-14T11:19:06.789Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Deidre Crowley",
+      "text": "love this app",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=22bd8193-3f0a-450b-a036-a7d2b3293ab3"
+    },
+    {
+      "date": "2026-04-14T09:48:03.176Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Buda Bari",
+      "text": "a great App with good options 👌",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=8e972782-0a6c-4c70-8036-9ab5e2a17c2e"
+    },
+    {
+      "date": "2026-04-14T09:16:39.892Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "ayelet lavee",
+      "text": "easy-to-use free reliable",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=50e769d0-906f-4131-b2f4-bc96666ec830"
+    },
+    {
+      "date": "2026-04-13T16:13:33.525Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Sean Pough",
+      "text": "clear audio!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=fe5cfa68-147b-4471-98ad-29fc3012f2d3"
+    },
+    {
+      "date": "2026-04-12T19:17:17.930Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Jose E. Maldonado",
+      "text": "good quality",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=cef555d3-77af-4b32-903e-51527efed7e2"
+    },
+    {
+      "date": "2026-04-12T14:48:59.430Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Amany Sakr",
+      "text": "easy to use, clear voice recording.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=36b236bf-23ca-4d37-93fd-5b495cdbf6ae"
+    },
+    {
+      "date": "2026-04-12T13:36:16.253Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Amy Bullock",
+      "text": "I enjoy the simplicity of this app. I can record while I am participating in the church service.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=87461148-df25-4167-ba3e-7330adde3569"
+    },
+    {
+      "date": "2026-04-12T08:51:02.813Z",
+      "score": 1,
+      "thumbsUp": 5,
+      "user": "bryan m",
+      "text": "Ive had this app for several years. I play guitar and use it to capture riffs and music ideas. I had a lot of stuff recorded. I just open the app to record something and everything that was on it for years is suddenly gone. I did nothing to delete any of the recordings. Just one day everything is gone. Thanks garbage trash app. Un(F'n)believable!",
+      "reply": "Hi, very sorry to hear about this. The app doesn’t have ownership over your recordings so this is most likely an OS permission issue and your recordings are still there, and should be visible via Files. Please re-grant permissions from the app settings or contact us via Help / Contact Us in the app and we’ll help you out with priority. Thank you.",
+      "replyDate": "2026-04-12T11:45:31.565Z",
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=f2a4c298-57b3-463c-a869-3c5fc713f743"
+    },
+    {
+      "date": "2026-04-11T17:13:18.555Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "Stanley Moras",
+      "text": "very performent, updates have not stopped over the years, thank you very much!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=57393f37-f080-4d4d-94d1-e5640c6d52fa"
+    },
+    {
+      "date": "2026-04-11T06:49:11.473Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Sebastian Conway",
+      "text": "recordings randomly stop and i lose my audio",
+      "reply": "Dear user, please check https://dontkillmyapp.com or get in touch with us via Help - Contact Us in the app and we'll help you out with this. Thank you!",
+      "replyDate": "2026-04-11T12:02:27.500Z",
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=4758dc7b-8e9f-4e80-a3a7-f8195654d2f1"
+    },
+    {
+      "date": "2026-04-11T03:02:46.725Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Edward G",
+      "text": "very useful for reading back specific things that you need to remind yourself. for me I use it to read directions back to myself.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=884a3a96-3c4d-4283-81bc-bd7f214f0791"
+    },
+    {
+      "date": "2026-04-11T02:49:24.846Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "CHANDAN KUMAR",
+      "text": "best app",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=3395d559-a036-45df-ad7e-79d2d68901fc"
+    },
+    {
+      "date": "2026-04-11T02:29:58.937Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Glenn Griffiths",
+      "text": "nice app",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=d8c862a0-2f59-405c-9700-25ecfd091258"
+    },
+    {
+      "date": "2026-04-10T20:28:17.462Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Thomas Taylor",
+      "text": "very good app but not enough benefit to pay.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=a8b5c9f2-c4a5-4564-9ee8-c7e94ea1c496"
+    },
+    {
+      "date": "2026-04-10T07:30:41.658Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "S Venki",
+      "text": "nice",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=2568dc1a-1e24-4eb3-b745-f43e09859771"
+    },
+    {
+      "date": "2026-04-10T05:03:57.555Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Uzair Khan",
+      "text": "it's useless or poor voice quality",
+      "reply": "Hello, thanks for your feedback. Please let us know what issues you encountered by contacting us at support@digipom.com. We will be more than happy to assist and try to make things better. Thank you!",
+      "replyDate": "2026-04-15T13:18:40.527Z",
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=b2d75971-e971-4306-86f2-03041d6b35bc"
+    },
+    {
+      "date": "2026-04-10T01:56:52.591Z",
+      "score": 5,
+      "thumbsUp": 2,
+      "user": "clem kadiddlehopper",
+      "text": "THIS ONE !!! THIS MAY BE the one you want! Easy instructions to install. You get an immediate prompt on installation to choose which folder you want to use for storage. Does NOT use your location. Ads are very small banners (NO popups). It will record even while running IHeart and Youtube with NO sound distortion! Very simple and easy to use! I am highly impressed with this one!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=43c42473-3b0d-4646-a773-8500f1e09848"
+    },
+    {
+      "date": "2026-04-09T21:00:26.995Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "CRNewsteam Catchoftheday Video News",
+      "text": "I love this app. tried free version. thank you",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=da30dfa0-a0f5-44b1-82aa-3d0399e25ee3"
+    },
+    {
+      "date": "2026-04-09T13:50:47.202Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Gerson R Santanna",
+      "text": "easy to use and excelent performance.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=e7bb8cd3-f44a-4101-8f62-d61d6ee0f8d8"
+    },
+    {
+      "date": "2026-04-09T06:18:26.887Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Disco Sugar",
+      "text": "🥰",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=13cea3d0-1e91-4d96-aa6d-ec3beed24bad"
+    },
+    {
+      "date": "2026-04-08T19:36:55.190Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Maayan Cohen",
+      "text": "it's very quick and easy to use, it helps for storing voice memos especially. It's just so conveniently simple with not a lot of ads!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=60479a93-3138-463f-be8b-428cc61ca397"
+    },
+    {
+      "date": "2026-04-08T11:27:15.348Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "井口秀賢",
+      "text": "very nice",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=747abee2-cf27-43ef-94d3-322085aa3ec1"
+    },
+    {
+      "date": "2026-04-08T04:52:01.316Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "GK H",
+      "text": "easy set up and play back. Couldn't be easier.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=ebf5eaae-c860-48d4-b444-ab69b868c1bb"
+    },
+    {
+      "date": "2026-04-07T21:24:24.590Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "Joe Crawford",
+      "text": "Goated app, very simple ui and good design.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=49e78a6b-cac3-4abd-8f7d-7e1077e4b8c2"
+    },
+    {
+      "date": "2026-04-07T19:44:13.838Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Donavain Pate",
+      "text": "The audio is clear, and I can hear myself clearly",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=1f186973-9527-49bb-9164-139054eefd1c"
+    },
+    {
+      "date": "2026-04-07T18:09:58.983Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Jimmy",
+      "text": "I'm one of those people who needs to keep track of a lot of things, appointments, prescription meds etc. One click and I record my notes. This is one of the easiest voice recorders around.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=43a13da7-becd-4bd8-9b75-3f5da47ab38e"
+    },
+    {
+      "date": "2026-04-07T16:01:13.634Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Lk Gupta Art",
+      "text": "Super experience. Sound quality is great. And plenty of flexibility for settings - get sound in high, medium quality, wav file supported. Wonderful to record my singing.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=f25a4aab-d700-4476-a874-f4333f531824"
+    },
+    {
+      "date": "2026-04-07T06:09:14.974Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Linda Cisneroz Reyes",
+      "text": "love it",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=53c0ff00-03c7-467e-b238-668e8ae2ccb8"
+    },
+    {
+      "date": "2026-04-07T05:06:25.671Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Phil Glass",
+      "text": "quick and easy to use, great for voice reminders",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=87755020-badb-4240-a040-7c6b67c5735b"
+    },
+    {
+      "date": "2026-04-06T13:07:23.952Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Wm Ewan",
+      "text": "Perfect for simple, quick study of music practice as well as emailing to others for quick feedback. Great at any level of production.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=0f9aba52-c462-42fc-bed4-a04250e0f2e5"
+    },
+    {
+      "date": "2026-04-06T06:27:54.823Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Chalwisha chals",
+      "text": "yes, yes, yes!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=b21014e9-b1d7-495d-82b7-0dd928bd5d92"
+    },
+    {
+      "date": "2026-04-05T23:16:44.796Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Giana Malone",
+      "text": "fantastic",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=ec7bf5d4-8035-4859-b29b-fc78be26b823"
+    },
+    {
+      "date": "2026-04-05T14:52:55.514Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Dilanka samee Vithanage",
+      "text": "Easy",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=a05fa981-d5a1-402b-9171-a96398e9cab2"
+    },
+    {
+      "date": "2026-04-05T12:33:16.613Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Gregory Stringer",
+      "text": "easy to use!! that is super important for me.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=16170456-c211-4874-ba22-25266b98adc7"
+    },
+    {
+      "date": "2026-04-05T07:51:41.356Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "david moore",
+      "text": "Easy to use. Exactly what i want",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=51b347e8-df16-4004-bac8-5f5648e6a7bd"
+    },
+    {
+      "date": "2026-04-05T07:16:05.787Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Dilwar Lxr",
+      "text": "very helpful for small creator ☺️",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=1c7c61a5-3f0d-43f5-88b6-5b367abc42ff"
+    },
+    {
+      "date": "2026-04-05T00:24:12.790Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "HR313 “ROCKZILLA”",
+      "text": "I love the convenience of having the recorder available 24/7 to dictate my song ideas. I have had so many inspired moments of songs that I didn't have time or access to write down at that moment. great app.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=55ff4f4a-27be-4278-8696-2b47c4b65fe0"
+    },
+    {
+      "date": "2026-04-04T23:22:03.502Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Micheal Manawatu",
+      "text": "very good",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=21fea93d-6ff2-46a4-800d-3b744f80f1db"
+    },
+    {
+      "date": "2026-04-04T16:19:54.987Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Gilbert Preciado",
+      "text": "will not let me record! Thanks but NO Thanks!",
+      "reply": "Hi, is there anything we could do to help? You can get in touch with us via Help - Contact Us in the app. We'll help you out with priority. Thank you!",
+      "replyDate": "2026-04-07T15:31:16.883Z",
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=9163b988-2d71-4755-a6c2-607c1193d625"
+    },
+    {
+      "date": "2026-04-04T12:12:49.380Z",
+      "score": 4,
+      "thumbsUp": 9,
+      "user": "Dave Coberly",
+      "text": "The app is pretty solid for the most part but recently has cutoff recording after an extended period of time (the app should and did previously) allow the recording to continue until \"I\" stopped recording. That needs to be corrected. There have been many times when I was trying to record for between 4-8 hours and after going to play it back discovered the recorder stopped after an hour. This is disappointing.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=dfaffe2e-0ecb-47f6-abda-1ad9804cbe90"
+    },
+    {
+      "date": "2026-04-04T08:16:43.704Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Drew Fat",
+      "text": "Easy to use and has quality audio.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=34e0ac22-741e-406e-9313-750953035ed8"
+    },
+    {
+      "date": "2026-04-04T06:22:55.764Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Joel Keitt",
+      "text": "It's EXCELLENT 😁😁😁👍!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=f0570f5b-926d-4abf-b9e1-88f6ba64062a"
+    },
+    {
+      "date": "2026-04-04T05:58:49.380Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Krishna Gour Das",
+      "text": "outstanding!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=eb279d25-a3bb-4faf-bc09-a163c622073c"
+    },
+    {
+      "date": "2026-04-04T00:24:47.542Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "John S.",
+      "text": "very easy and reliable app to use",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=6663b6ba-c941-43f8-8535-9d2cf7035e00"
+    },
+    {
+      "date": "2026-04-03T14:00:13.823Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Truett Joseph",
+      "text": "Very simple to use",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=e6588144-84ae-4ba0-8391-fd3f3b92e2dd"
+    },
+    {
+      "date": "2026-04-03T13:08:46.435Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Forgor jeduah Akati",
+      "text": "excellent",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=bd16a14a-ea48-4ca8-a171-3775baf2fe2f"
+    },
+    {
+      "date": "2026-04-03T00:32:52.891Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Prabhakaran N",
+      "text": "very simple. clear recording no hazzles. After a long search of voice recorders, I found this app extremly useful and user friendly",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=89db53ec-5105-4da6-862d-5311c2181a44"
+    },
+    {
+      "date": "2026-04-03T00:28:31.706Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Quinton Lloyd",
+      "text": "Great app!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=e6a68885-81de-4973-9323-b46d36341e5c"
+    },
+    {
+      "date": "2026-04-02T17:19:38.632Z",
+      "score": 2,
+      "thumbsUp": 1,
+      "user": "Keegan McDonald",
+      "text": "The recordings on my Galaxy Watch 5 say they're synced to my phone but don't appear in the app's library or the file designated for recordings on my phone. I can't find another way to get them off my watch, which is frustrating.",
+      "reply": "Please get in touch with us via Help - Contact Us in the app. We'll help you out with priority. Thank you!",
+      "replyDate": "2026-04-07T15:30:54.908Z",
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=7804300b-6e4c-4e64-8c63-a775a9a9fbd3"
+    },
+    {
+      "date": "2026-04-02T15:34:19.956Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "shiva bellanki",
+      "text": "good",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=09248713-0c1f-4598-b8b5-9393eb17f5f6"
+    },
+    {
+      "date": "2026-04-02T12:21:17.630Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "I Ling Thompson",
+      "text": "exactly the recorder you need to share easily, with nothing else to complicate it.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=e1e63bea-1dce-4bea-8fa7-8c64a749b56f"
+    },
+    {
+      "date": "2026-04-02T10:13:14.750Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "Tomas Burian",
+      "text": "You buy this and still get ads. Save your money.",
+      "reply": "Hi Tomas, the pro version is a separate download and doesn't have ad libraries embedded at all. Please contact us via Help - Contact Us and we'll help you out with priority. Thank you.",
+      "replyDate": "2026-04-02T12:02:31.795Z",
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=f80fe87a-132b-436e-bda1-fe63793b2920"
+    },
+    {
+      "date": "2026-04-02T08:10:47.148Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Dee",
+      "text": "great little app for recording songs that come to mind on the go, you can even double track and create harmonies.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=e40e1727-7782-47aa-8f12-08191938acb6"
+    },
+    {
+      "date": "2026-04-02T05:55:47.450Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "BALANCEDRHINO 78",
+      "text": "High quality recordings even on a Walmart phone lol",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=c716c8df-c685-49b6-a520-6222c48d5356"
+    },
+    {
+      "date": "2026-04-01T23:55:20.529Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Jeff Cichacki",
+      "text": "does a good job recording very sensitive can recording with phone in shirt pocket with mic side up.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=4cc65385-f894-4255-a682-892d79eeda8b"
+    },
+    {
+      "date": "2026-04-01T21:52:31.324Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Bobbi Burk",
+      "text": "Good for a quick reminder or to talk to my mom. lol",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=62259930-f6b3-4704-9bf3-418a74007162"
+    },
+    {
+      "date": "2026-04-01T20:25:35.700Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Chidiebele Modebe",
+      "text": "Its easy to use and efficient",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=04d42d57-6c45-4834-9972-64e244628415"
+    },
+    {
+      "date": "2026-04-01T17:53:34.535Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Jacques Lameck",
+      "text": "Nice app for me",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=c1414c99-730c-47a4-b073-6e0d89403639"
+    },
+    {
+      "date": "2026-04-01T16:53:27.731Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Joan Hattaway",
+      "text": "Easy to record. Crisp sound.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=a2ab5de1-6dd4-454f-9d57-8f7f68f199b8"
+    },
+    {
+      "date": "2026-04-01T15:18:51.523Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Steve Cameron",
+      "text": "It works great, fast and easy .",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=0e9083b1-c5ed-4e72-b343-9cd714a859a3"
+    },
+    {
+      "date": "2026-04-01T15:09:26.550Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Shashindran KV",
+      "text": "Very nice Free app for audio recording.I enjoy it some time singing song and listen through this App.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=de0e081d-480c-41cb-b9f0-ba960d7ab7a3"
+    },
+    {
+      "date": "2026-04-01T11:44:17.950Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Patrick",
+      "text": "it works great",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=315ec773-ed76-4d5e-83b0-c03e71445e6e"
+    },
+    {
+      "date": "2026-04-01T11:03:14.231Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "C Babis",
+      "text": "I've been using it since 2021, mostly to record affirmationsEasy to use. No problems. I use it to practice speeches.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=39182d2a-52ba-4183-8b49-eb1d9aa5dd84"
+    },
+    {
+      "date": "2026-04-01T10:16:59.151Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Ashley El",
+      "text": "it has a clear record",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=5f7a01af-99b5-43d7-a515-e39424b668b9"
+    },
+    {
+      "date": "2026-04-01T09:09:11.457Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Emilia Dazz",
+      "text": "Easy to use, very convenient",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=707ca84e-5917-4f50-8fa5-a33863f1c701"
+    },
+    {
+      "date": "2026-04-01T08:10:52.150Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Ibrahim Eissa",
+      "text": "very good app",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=beeb7e51-11e1-4f38-aba0-d03c47ead25b"
+    },
+    {
+      "date": "2026-04-01T01:09:31.400Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "K J",
+      "text": "easy to record and listen",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=87dd1e49-2c55-4f20-9c3f-9218275a84b0"
+    },
+    {
+      "date": "2026-03-31T15:02:05.514Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "danny harlow",
+      "text": "works perfectly,, highly recommend",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=d94a7823-55c5-4597-937e-d66ce9468e80"
+    },
+    {
+      "date": "2026-03-31T08:16:49.669Z",
+      "score": 4,
+      "thumbsUp": 2,
+      "user": "Michelle McAllister",
+      "text": "it's easy to use. it's pretty simple. able to begin recording with one push of a button. but for all the options as to what else you can do, I'm not fully sure. But I believe you can upgrade for additional features and settings and options to be able to do a lot more with the recording you make. the quality of the recordings and how well it records I'm not fully sure. I barely have just started using it. so I haven't had the chance to do much more yet.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=bf625962-e008-4d3a-93df-088d8bcc8adf"
+    },
+    {
+      "date": "2026-03-31T07:11:46.259Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Hofni Shikongo",
+      "text": "I love it so much!😍",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=434bf36b-1428-42e1-935b-b70c8f24bfe5"
+    },
+    {
+      "date": "2026-03-31T06:45:59.658Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Derick Viviers",
+      "text": "Very simple with no wrestling with the app",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=202f5a89-4149-413f-9473-bd37a7bc2273"
+    },
+    {
+      "date": "2026-03-31T02:11:08.423Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Greg Martin",
+      "text": "I have been using this app for years. Very easy to use, does what your needed it to do. I would highly recommend.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=5ec41e68-438b-4f26-b221-02633cbd3c40"
+    },
+    {
+      "date": "2026-03-31T00:42:44.100Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "Perfectstorm1976",
+      "text": "it's a very easy uncomplicated app to use is exactly what it says it is it does exactly what it says it does with optimal recording space",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=a3846e13-dfbb-4706-b11d-f909976aae0a"
+    },
+    {
+      "date": "2026-03-30T18:48:37.540Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Martine Tandree",
+      "text": "great",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=6e6a544a-370a-45b6-9ccf-c09ca1e438d2"
+    },
+    {
+      "date": "2026-03-30T12:57:25.820Z",
+      "score": 5,
+      "thumbsUp": 4,
+      "user": "Dale Touchstone",
+      "text": "This app allows me to record myself reading an article on my phone (i. e. doing it simultaneously). My previous audio recorder did not have that ability. it has clear recordings. it's very well marked. I can rename my recordings. I like the app.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=51aa3469-ab16-49a8-91f5-8f811fd9b702"
+    },
+    {
+      "date": "2026-03-30T10:19:31.561Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "C RICHARD Spiess",
+      "text": "easy to use. high quality",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=15880fbc-fe87-4a98-9d85-cc0d8b7678c7"
+    },
+    {
+      "date": "2026-03-30T09:32:32.179Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Derek Metz",
+      "text": "It's actually really good sound quality, and I'm very thankful for it. Jesus bless you all.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=8a5c1182-2715-4fef-bafd-3f6317fd25ca"
+    },
+    {
+      "date": "2026-03-30T06:53:32.558Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Xcel",
+      "text": "best app ever",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=053ba218-9804-4ec8-9dca-79ce2daac4bb"
+    },
+    {
+      "date": "2026-03-30T05:19:27.727Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Susan Morris",
+      "text": "serves my purpose well",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=a5bc8bc6-02f7-4b49-8df8-884e9ab59bf7"
+    },
+    {
+      "date": "2026-03-30T02:19:28.320Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Johnson Mullassery Varapuzha",
+      "text": "Yes ! A great choice for recording everything! Congrats Team👍",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=23669036-7ae1-4e4d-91f7-cf376aac715e"
+    },
+    {
+      "date": "2026-03-29T21:27:19.390Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Mmesomachukwu Ezeribe",
+      "text": "wonderful 🎇",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=3ef0010a-8596-454e-b275-7c77c86ccdf9"
+    },
+    {
+      "date": "2026-03-29T19:43:18.115Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "F A",
+      "text": "Best Nusic Studio Record ever ! I like the quality of sound and the function that I can record everything whatever whenever I have a muse to record voice, , when I sing especially. thank you !",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=a52afaf9-03d8-47ad-9888-b0b9b14209fa"
+    },
+    {
+      "date": "2026-03-29T11:58:08.199Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Joel Ishler",
+      "text": "Great free app for voice recordings.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=dc07ff49-d35b-4a6b-b959-b4fa5fa21c46"
+    },
+    {
+      "date": "2026-03-29T00:24:47.500Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Scott T",
+      "text": "The format is similar to the YouTube Music app which is awesome!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=59acf2fa-da5e-49e3-bd3d-ecee38571178"
+    },
+    {
+      "date": "2026-03-28T18:59:40.691Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "jatich ruoth",
+      "text": "very easy to work with,I love it",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=c7f34dc4-1741-43c0-b016-d1d43c98b8f2"
+    },
+    {
+      "date": "2026-03-28T14:29:41.561Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "R. Dacey",
+      "text": "Very easy for a beginner like me.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=5698ee57-a008-4cd6-ae9f-8813c9a568b8"
+    },
+    {
+      "date": "2026-03-28T13:08:25.547Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Azalea Shir (owo)",
+      "text": "still the best, ads not on click they are there but not obstructive opening appstore",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=c863db26-bd6b-48f3-9388-099d3fbf8ccb"
+    },
+    {
+      "date": "2026-03-28T06:47:33.573Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Simon Nartey",
+      "text": "The App is easy to use, it give a clearer recording also.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=60708f35-58d4-4a43-ae2c-7ff9a8368159"
+    },
+    {
+      "date": "2026-03-28T05:18:16.115Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Christine Hall",
+      "text": "what is com. coffeebeanadventures. easyvoicerecorder? it appears to be downloaded to my phone and I'm not granted permission.",
+      "reply": "Hi Christine, it’s this app. Apps can’t download by themselves so I guess it was probably tapped by accident. If you have any questions or need help with uninstalling, please don’t hesitate to contact us at support@digipom.com. Thank you!",
+      "replyDate": "2026-03-28T14:24:58.230Z",
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=cdbb41e9-19d6-4894-b6de-c003d3811916"
+    },
+    {
+      "date": "2026-03-28T00:51:49.671Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "animok player",
+      "text": "cool and easy I love it",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=525ec7f3-ffdb-4a4e-a374-7d0a91be7280"
+    },
+    {
+      "date": "2026-03-27T22:44:13.875Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Jorge Oquendo",
+      "text": "This is just what I needed, very easy to use.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=75dab9b0-4558-4214-a127-a41ef7f2b4df"
+    },
+    {
+      "date": "2026-03-27T19:39:04.209Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Justin",
+      "text": "AMAZING",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=33c463f1-f8d5-44e6-8fd4-90ac61d6e41b"
+    },
+    {
+      "date": "2026-03-27T04:32:20.350Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Ramees Rahumathulla",
+      "text": "You can't delete",
+      "reply": "Dear User,\nCould you please contact us via support@digipom.com? We'd love to hear more about this issue in order to assist you.",
+      "replyDate": "2026-04-07T15:28:02.756Z",
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=42a65224-58e1-4239-aede-b2d6ddd2eded"
+    },
+    {
+      "date": "2026-03-27T03:14:33.489Z",
+      "score": 4,
+      "thumbsUp": 1,
+      "user": "Andy",
+      "text": "Easy to use, no pop up ads, acceptable.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=138fb261-a6c0-43f5-b652-663fcde72fe7"
+    },
+    {
+      "date": "2026-03-27T01:05:20.636Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "George Micallef",
+      "text": "I don't use this app very often as I don't have alot of voice recording to do but it's easy to use once you've used it a couple of times.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=76abfe93-2569-420e-9cf4-db6edb597f51"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "tick": "v9_explore_tick2",
+  "candidate": "E",
+  "niche": "Meditation / anti-subscription mid-tier",
+  "country": "US",
+  "generated_at": "2026-05-07",
+  "rejected_incumbents": ["Headspace", "Calm", "Insight Timer", "Medito (free non-profit)"],
+  "apps_analyzed": [
+    {"appId": "com.meditation.elevenminute", "title": "Let's Meditate", "installs": "1M+", "ratings": 68284, "score": 4.74, "recent_low_pct": 6.7, "n_recent": 30, "verdict": "Healthy — already free-first, no displacement angle"},
+    {"appId": "app.meditasyon", "title": "Meditopia", "installs": "10M+", "ratings": 279615, "score": 4.51, "recent_low_pct": 72.7, "overall_low_pct_n200": 37.0, "verdict": "STRONGLY VULNERABLE — paywall rage + auto-renewal scam + AI-bot support fail"},
+    {"appId": "com.aurahealth", "title": "Aura", "installs": "1M+", "ratings": 15050, "score": 4.55, "recent_low_pct": 26.9, "overall_low_pct": 27.5, "verdict": "Vulnerable — quiz-then-paywall + no-skip onboarding rage"},
+    {"appId": "com.simplehabit.simplehabitapp", "title": "Simple Habit", "installs": "1M+", "ratings": 45189, "score": 4.59, "recent_low_pct": 25.0, "n_recent": 4, "verdict": "Borderline; small recent sample"},
+    {"appId": "uk.co.serenity.guided.meditation", "title": "Serenity", "installs": "1M+", "ratings": 54625, "score": 4.85, "recent_low_pct": 13.8, "verdict": "Healthy"}
+  ],
+  "verbatims_top": [
+    {"app": "Meditopia", "score": 1, "thumbs": 25, "date": "2025-11-17", "text": "THIS IS A SCAM! They offer you a free 7 day trial, and then they charge your credit card immediately for the full amount. There is no easy way to cancel, no website you can use, and their customer service is an AI bot incapable of figuring out what you're saying you need."},
+    {"app": "Meditopia", "score": 1, "thumbs": 10, "date": "2025-08-16", "text": "I rarely used this app, since I didn't find it useful, and to top things off, I got automatically charged for another year. I am not fond of apps that automatically renew even if you only used them once or twice."},
+    {"app": "Aura", "score": 1, "thumbs": 38, "date": "2025-03-29", "text": "Nope. Not the one. Immediately forces you to take their quiz about yourself, and then after, it forces you to create an account before you can do literally anything on the app. No option to skip, no option to try without signing up. needs a skip button."},
+    {"app": "Aura", "score": 2, "thumbs": 18, "date": "2025-02-08", "text": "Kinda wish I didn't download and sign up for this considering that literally everything is locked behind a paywall. I hate this type of bs."}
+  ],
+  "verdict": {
+    "best_vulnerable_cell": "Meditopia (10M+, 37% overall low_pct on 200 reviews) — anti-paywall + cancel-friendly meditation app",
+    "wedge_thesis": "Free-tier meditation library, NO auto-renew, NO quiz wall, real human support email — 'Honest Calm'",
+    "build_complexity": "8-12 weeks if licensing royalty-free guided audio (CC-BY narrators) — content sourcing is the bottleneck not code",
+    "monetization_problem": "Meditation = US-grade ARPU ($5-15/mo) but cornerstone constraint is NO-AI-INFERENCE; can do non-AI subscription. However content licensing is non-trivial cost.",
+    "ranking_vs_v9_top6": "MARGINAL — strong user-voice signal but content-creation cost (record/license meditations) violates $0-cost constraint unless using public-domain audio, which limits quality differentiation"
+  }
+}

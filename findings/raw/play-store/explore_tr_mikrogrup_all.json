@@ -1,0 +1,2009 @@
+{
+  "app": "com.earsivfatura.app",
+  "country": "tr",
+  "lang": "tr",
+  "total_pulled": 200,
+  "total_after_filter": 200,
+  "reviews": [
+    {
+      "date": "2026-04-21T10:03:46.331Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Necdet Kacar",
+      "text": "gayet pratik ve PDF çıktı imkanı telefon için çok rahatlık olmuş , teşekkür",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=a53f208a-e35f-4672-a8d7-143900c8460a"
+    },
+    {
+      "date": "2026-04-20T11:56:32.812Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Sinan arıcan",
+      "text": "guncellendikce kullanilmaz hale geldi malesef eskisi bundan daha iyi calisiyordu",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=59dc34ed-ea53-424a-9100-37eb93aaa839"
+    },
+    {
+      "date": "2026-04-17T17:13:22.901Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Ecevit Uysal",
+      "text": "Güzel bir sistem",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=d3409849-38aa-41ca-a329-c89ea3927c4f"
+    },
+    {
+      "date": "2026-04-12T09:24:52.683Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "Emrah Erdoğan",
+      "text": "şu aralar bı sıkıntı var 2 haftadır ara ara ya girmiyor ya fatura onay mesajı gelmiyor fatura kesemiyoruz acil çözüm bekliyoruz",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=bf9e32e4-818f-4e89-8b1c-882f3e5cb3d7"
+    },
+    {
+      "date": "2026-03-19T12:54:19.647Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Şafak My",
+      "text": "neden ücretsiz diyorsunuz,, daha başından ücret istiyor, bilmediğim programa neden para ödeyelim, yüklemeyin bile",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=5c52da6d-4ce4-448b-bd65-b7ee8175fce7"
+    },
+    {
+      "date": "2026-03-16T11:48:02.201Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Coşkun Kesoğlu",
+      "text": "Kullanılması çok zor",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=63c13a01-0164-4582-991e-eb988267aa1c"
+    },
+    {
+      "date": "2026-02-23T11:26:08.200Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Ahmet biçer Ceylan",
+      "text": "Eski sistem daha kolay, daha anlaşılır ve daha önce kesilen faturalara ulaşım daha kolay idi. Bu uygulamayı hiç beğenmedim.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=ce865891-3da8-4a45-a7a3-046fa0ebf06f"
+    },
+    {
+      "date": "2026-02-22T15:42:30.348Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Kenan Şahinsoy",
+      "text": "eski sürümü daha iyiydi fatura tekrarla yapılmıyor",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=0a712b70-b54d-4094-aca8-c65dc48619c2"
+    },
+    {
+      "date": "2026-02-17T15:12:42.382Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "Serkan Pulurlu",
+      "text": "eskisi daha iyidi",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=5e30c379-444e-464b-b42c-09ef44368366"
+    },
+    {
+      "date": "2026-02-11T12:04:37.440Z",
+      "score": 2,
+      "thumbsUp": 2,
+      "user": "ALİ NACİ ERTÜRK",
+      "text": "Eski sistem daha iyiydi.Fatura kesmek çok zor",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=2cf1f55f-37e3-4750-a367-419d91afdda6"
+    },
+    {
+      "date": "2026-02-04T21:10:01.207Z",
+      "score": 5,
+      "thumbsUp": 3,
+      "user": "Alperen Alper",
+      "text": "en sonunda ihtiyaç duyulan şeyi karşılayan güzel bir mobil uygulama. sade ve anlaşılabilir.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=5418923d-041e-4dd6-8068-f2b1f1c19474"
+    },
+    {
+      "date": "2026-01-22T12:30:04.853Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "Fatih kocabaş",
+      "text": "eski sürüm daha güzeldi",
+      "reply": "Değerli kullanıcımız, geri bildirimleriniz doğrultusunda ürünlerimizi geliştirmeye ve iyileştirmeye devam ediyoruz. Değerlendirmeniz için teşekkür eder, sağlıklı günler dileriz.",
+      "replyDate": "2026-01-28T14:26:01.385Z",
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=6122fac7-13be-4775-a4cf-620cdaa41f8c"
+    },
+    {
+      "date": "2026-01-20T10:39:18.944Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Caner Kurtel",
+      "text": "Diger program gayet kolayfi bu anlamsız olmuş zorlasmis cok bide eski kestigim faturaları nasıl girebileceğim",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=fd0a5f88-c0e2-4d6c-ace3-ede4dd833f0a"
+    },
+    {
+      "date": "2026-01-12T07:19:21.869Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Muratdemirbag Demirbag",
+      "text": "eski versiyonu iyidi çok anlaşılmaz bir portal yapmışsınız",
+      "reply": "Değerli kullanıcımız, geri bildirimleriniz doğrultusunda ürünlerimizi geliştirmeye ve iyileştirmeye devam ediyoruz. Değerlendirmeniz için teşekkür eder, sağlıklı günler dileriz.",
+      "replyDate": "2026-01-15T11:19:54.700Z",
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=5fa29dab-4d71-4172-87dd-606fed7f72c1"
+    },
+    {
+      "date": "2026-01-09T12:36:43.510Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "ATATÜRK",
+      "text": "rakamlar arasındakı noktalar ve sıfırlar kalkmıs boylece kendımız yazdıgımızda karmasalık olmuyor cok ugrastırıyordu guzel olmus elınıze emegımıze saglık basarılarımızın devamını dılerım",
+      "reply": "Değerli kullanıcımız, kıymetli yorumunuz için teşekkür ederiz. Sevgiler.",
+      "replyDate": "2026-01-15T11:19:12.940Z",
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=97e609d4-3118-45cc-8f3e-2d20bff4a77d"
+    },
+    {
+      "date": "2026-01-09T11:56:27.240Z",
+      "score": 5,
+      "thumbsUp": 7,
+      "user": "Kemal Tuna",
+      "text": "Son güncellemeden sonra faturalara not, iban ekleyemiyoruz, her seferinde manuel olarak yeniden yazmamız gerekiyor, şu an için tek sıkıntı bu görünüyor",
+      "reply": "Değerli kullanıcımız, belirttiğiniz not ekleme ile ilgili sorun 1.2.1 versiyonu ile giderilmiştir. Uygulamayı güncelledikten sonra faturalarınıza not ekleme işlemini sorunsuz şekilde gerçekleştirebilirsiniz. Değerlendirmeniz için teşekkür ederiz. Sevgiler.",
+      "replyDate": "2026-01-15T11:18:10.576Z",
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=870b8139-0f2c-49ee-baf3-938e1f3dfca1"
+    },
+    {
+      "date": "2026-01-08T17:07:59.355Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Mustafa Yavuz",
+      "text": "berbat olmuş eski düzen gelsin",
+      "reply": "Değerli kullanıcımız, geri bildirimleriniz doğrultusunda ürünlerimizi geliştirmeye ve iyileştirmeye devam ediyoruz. Değerlendirmeniz için teşekkür eder, sağlıklı günler dileriz.",
+      "replyDate": "2026-01-15T11:20:01.199Z",
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=ed75ff94-0b6f-46c8-bb38-a4613aa2c56f"
+    },
+    {
+      "date": "2026-01-08T15:26:31.269Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Mustafa Seçkin",
+      "text": "berbat olmuş. önceki sürüm daha iyiydi. 8",
+      "reply": "Değerli kullanıcımız, geri bildirimleriniz doğrultusunda ürünlerimizi geliştirmeye ve iyileştirmeye devam ediyoruz. Değerlendirmeniz için teşekkür eder, sağlıklı günler dileriz.",
+      "replyDate": "2026-01-15T11:20:05.987Z",
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=45ea5eac-0e31-49a9-ae6d-aea07e7ef0e6"
+    },
+    {
+      "date": "2026-01-05T10:38:10.713Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Temel Esin",
+      "text": "Kullanımı kolay.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=b0c32cb0-a070-482c-ac0a-81d3bdce2d13"
+    },
+    {
+      "date": "2025-12-30T07:12:13.601Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Bahtiyar Akın",
+      "text": "sisteminiz çok güzel çok beğendim başarılarınızın devamını diliyorum",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=18feea92-9b6f-443b-86b7-6782239f7c9b"
+    },
+    {
+      "date": "2025-12-27T17:55:51.471Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "barış Bulu",
+      "text": "benim için gayet güzel",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=3d20de86-e4ae-42e4-adfa-650b3a590e18"
+    },
+    {
+      "date": "2025-12-25T08:30:47.480Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Ferdi Kapucu",
+      "text": "teşekkürler",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=f1ddd4f8-9d63-4e67-8fcb-1e680aaa740c"
+    },
+    {
+      "date": "2025-12-21T10:32:05.666Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Muhammer Baybure",
+      "text": "çok güzel",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=ef1e7c06-47a9-4996-be73-91b2e1bbbf50"
+    },
+    {
+      "date": "2025-12-09T20:11:18.989Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "BUCA ÜRGÜP ELEKTRİK",
+      "text": "10 numara Kolaylık",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=859e740d-9786-45b1-b9a9-1385391a5078"
+    },
+    {
+      "date": "2025-12-08T13:54:52.882Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Hasan Kalaycı",
+      "text": "iyinin iyisi",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=5826d31c-0ad6-4fea-88f2-ecb5f0cf9572"
+    },
+    {
+      "date": "2025-12-01T16:07:20.142Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Arda Aktepe",
+      "text": "çok iyi",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=a48ecc89-d518-4bc4-8588-26ea1150a569"
+    },
+    {
+      "date": "2025-12-01T10:47:09.864Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "sinan ilhan",
+      "text": "cok güzel",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=05089dba-43ca-46bf-a850-5457fa31ea16"
+    },
+    {
+      "date": "2025-11-25T09:11:41.808Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Kasım Çağin",
+      "text": "harika",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=43733e99-4537-4233-ad69-fd0286f317f3"
+    },
+    {
+      "date": "2025-11-24T07:35:29.627Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Ramazan Usta",
+      "text": "guzel",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=88529317-8343-4b35-82cb-60b714c50972"
+    },
+    {
+      "date": "2025-11-17T12:21:24.323Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Resul Kart",
+      "text": "Süper harika başarılı on numara emeğinize sağlık 👏👏",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=395b7a38-a399-4231-9346-b6f22a85377a"
+    },
+    {
+      "date": "2025-11-04T12:47:00.170Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Mustafa Çamyar",
+      "text": "guzel",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=3593eed9-9fc8-402f-b13f-e0b919d0e8ea"
+    },
+    {
+      "date": "2025-11-03T17:49:40.238Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "Kenan Özdemir",
+      "text": "yükledim ikinci girişiminde hata veriyor silip yeniden yükledim bakalım olacak mı",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=8628a5fc-e833-43b9-8b44-30e99db2cc6e"
+    },
+    {
+      "date": "2025-11-01T07:18:27.523Z",
+      "score": 3,
+      "thumbsUp": 2,
+      "user": "erdi dirhemsiz",
+      "text": "Değerli yoneticiler sistemde sıkıntı var faturaları pdf e dönüştüremiyoruz ve faturayı göremiyoruz daha önce de olmuştu düzeldi son bir haftadır yine aynı sorun acil bir çözüm bekliyoruz merhaba kolay gelsin yeni fatura kesiyoruz onay kısmında msj lar gelmiyor gib ten sebebi nedir acaba",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=b99bf064-9ff6-42e3-aab3-6a452d30129d"
+    },
+    {
+      "date": "2025-10-22T10:38:44.595Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "Murat Alan",
+      "text": "Uygulama aylık ve yıllık kestiğim faturaların toplamını göstermiyor sysmond çok daha iyiydi",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=7c772f54-0c43-4fb8-be32-736cd8cf57e9"
+    },
+    {
+      "date": "2025-10-16T18:57:56.943Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Uğur Bağcı",
+      "text": "çok güzel bir uygulama teşekkürler",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=b0634ccc-180c-4962-83df-70d443afeb25"
+    },
+    {
+      "date": "2025-10-07T18:08:42.210Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Sadık Melek",
+      "text": "uygulama bazen açılıyor bazen açılmıyor beyaz ekran çıkıyor karşımıza lütfen düzeltin!!!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=4fa5bff3-5f34-4d53-bff5-3eb253e96a75"
+    },
+    {
+      "date": "2025-10-07T17:03:48.694Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Mert Açıkgöz",
+      "text": "çok basit teşekkürler",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=cdaa2f96-323a-43fb-a732-91e4022efbdc"
+    },
+    {
+      "date": "2025-10-07T07:17:54.792Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Ferhat Yavuz",
+      "text": "iyileştirmeler gerek",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=0092f0d6-4e38-422a-8d2a-d6590e382da6"
+    },
+    {
+      "date": "2025-10-03T10:26:25.670Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Serhat Aydemir",
+      "text": "super",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=0ec9e5e0-0e64-4e98-aa65-64a60052143e"
+    },
+    {
+      "date": "2025-09-29T18:00:55.149Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Hakan Kaya",
+      "text": "çok pratik ve kolay kullanim",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=1498cc49-a753-42a4-9bb9-9e7de1d87cda"
+    },
+    {
+      "date": "2025-09-16T18:27:48.798Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Bayram Elvan",
+      "text": "teşekkürler",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=d776460f-c3c1-429a-8033-2ba2ef5c4222"
+    },
+    {
+      "date": "2025-09-14T09:51:02.815Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "HASAN YAŞAR",
+      "text": "Kullanışlı gayet güzel",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=4dfdb298-cf3b-4f4b-9dc3-26987baf214f"
+    },
+    {
+      "date": "2025-09-06T12:22:56.336Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Rafet Utki",
+      "text": "uygulamaya giriş yapamıyorum sürekli hata veriyor nedeni ne acaba",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=d5694438-d1e4-49aa-9bad-bb5d2b03f948"
+    },
+    {
+      "date": "2025-08-30T08:48:06.184Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Yücel Okur",
+      "text": "kullanisli ve kolay",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=59832630-68de-405d-ac69-0d7f682286f6"
+    },
+    {
+      "date": "2025-08-19T10:13:18.528Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Onur Genlik",
+      "text": "Kestiğim faturayı paylaşamıyorum.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=4e97999c-8003-4091-9732-26a8fb81983e"
+    },
+    {
+      "date": "2025-08-18T11:01:55.229Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Osman Ünver",
+      "text": "Güzel",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=c7483549-3942-419d-b7b0-81a143df2cd3"
+    },
+    {
+      "date": "2025-08-10T15:55:35.400Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "ÖMER Selçuklu",
+      "text": "5 yıldızı hak ediyor Ama çok fazla pahalı bir program ben yokum 🤔",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=43fc152a-5f17-4238-bb4d-28a5a52794bd"
+    },
+    {
+      "date": "2025-08-01T18:34:16.754Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "selamet Balta",
+      "text": "başarılı buldum",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=7c117cb1-9faf-4fce-a49b-d40c17e76c08"
+    },
+    {
+      "date": "2025-07-25T05:45:23.903Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "nurettin Nemli",
+      "text": "işlemler kolay ve çabuk oluyor",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=de59c513-aec1-4ea0-9797-1a9c49d89cff"
+    },
+    {
+      "date": "2025-06-24T13:15:22.131Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Habib",
+      "text": "çok yahşii",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=2b2c3630-43c6-40c7-aa75-2e4a26cf6326"
+    },
+    {
+      "date": "2025-06-20T16:45:44.903Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "Emrah ÖZYÜREK",
+      "text": "e fatura uygulamanız yokmuş sadece e arşifmi",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=f1c9c3de-f9aa-4afc-83e2-1add550bd224"
+    },
+    {
+      "date": "2025-06-16T10:45:45.733Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "CANKA55 CANKA55",
+      "text": "super",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=d1425b55-ae8c-42ed-b2ce-61e4d54dec08"
+    },
+    {
+      "date": "2025-06-10T19:29:45.680Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Hüseyin Arbc",
+      "text": "basit bir uygulama.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=5e943c7d-3444-453e-8c8c-7a563c5f77c0"
+    },
+    {
+      "date": "2025-05-27T20:42:37.619Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Ali Efeoğlu",
+      "text": "işimi kolaylaştırıyor. iyi bir uygulama",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=b8c22dc6-7cf9-4e54-aaa5-f3fb983ad0ba"
+    },
+    {
+      "date": "2025-05-09T13:59:57.227Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Göksel Eskikoy",
+      "text": "güzel bir uygulama",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=73fa2177-6d35-46b0-8d06-ee5fbb15ce2e"
+    },
+    {
+      "date": "2025-04-08T11:23:44.539Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Hasan Hüseyin CEYHAN",
+      "text": "Muhteşem",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=0f306dec-4bdd-418d-b468-c6126835c001"
+    },
+    {
+      "date": "2025-04-03T08:15:18.944Z",
+      "score": 4,
+      "thumbsUp": 1,
+      "user": "dilaver yetkin",
+      "text": "bazen bağlantı sorunu yaşıyoruz ve adres doldururken otomatik bilgiler eksik geliyor",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=fae0089a-4796-4b9f-8591-d446487a835c"
+    },
+    {
+      "date": "2025-04-02T09:24:16.572Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Ahmet Mihrioğlu",
+      "text": "çok rahat",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=601e012f-3e42-4e0d-b684-d6c96945d221"
+    },
+    {
+      "date": "2025-03-26T19:41:23.735Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "mustafa karabulut",
+      "text": "pdf hata veriyor neden acaba....?",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=6e731533-3ade-4be5-8588-9d34ada9f617"
+    },
+    {
+      "date": "2025-03-26T16:55:32.985Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Can Doğan YILMAZ",
+      "text": "Uygulamanin en buyuk eksiği iptal , itiraz talebi yapamamak. Ayrica bazi uygulamalar kullanicilara logo secenegi sunuyorlar. Bu uygulamada o da.yok. Biraz daha gelistirilebilecehini dusunuyorum.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=22aeddb9-5f88-493d-ab00-2ed3c1521708"
+    },
+    {
+      "date": "2025-03-25T23:58:19.413Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "imam Çobanlı",
+      "text": "tek kelimeyle mükemmel",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=ac889577-211d-4131-95aa-926837d9f211"
+    },
+    {
+      "date": "2025-03-18T15:16:00.262Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Cengiz Yütük",
+      "text": "Basit ve güzel",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=116396b0-4d9b-433f-a40e-f8c132a00ae2"
+    },
+    {
+      "date": "2025-03-06T06:22:49.166Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Hayati UZUN",
+      "text": "Durmadan kasiyor",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=7eafbe4b-adc8-42b2-b5df-6c17215c8c5c"
+    },
+    {
+      "date": "2025-03-04T16:33:37.739Z",
+      "score": 5,
+      "thumbsUp": 2,
+      "user": "Yunus emre Yazıcı",
+      "text": "Güzel ve çok kolay uygulama",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=7fcf09ee-26eb-4955-b385-f4c1f9432654"
+    },
+    {
+      "date": "2025-03-03T11:51:34.176Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Veysi Yuksel",
+      "text": "Çok teşekkürler",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=9c54add4-d8b6-487a-859d-e42db89d2925"
+    },
+    {
+      "date": "2025-02-17T13:43:06.324Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Hakkı Gürdal",
+      "text": "Bu uygulamadan memnunuz",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=ffad8816-8131-45fb-8a7f-679052b69f84"
+    },
+    {
+      "date": "2025-01-26T22:16:25.613Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "savaş zararsız",
+      "text": "Fatura işi çok kolay. Kullanımı çok kolay. Tavsiye ederim.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=ebc69765-bbe9-409c-9bb5-426807724086"
+    },
+    {
+      "date": "2025-01-24T08:18:07.514Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "İsmail Çalış",
+      "text": "Süper bir uygulama çok işe yarıyor pratik",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=40482d89-b76e-4f6e-83ab-ccedf91b3c1f"
+    },
+    {
+      "date": "2025-01-06T18:27:52.420Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Reşat CİVELEK",
+      "text": "Uygulama çok güzel olmuş birde Bluetooth yazıcılarda çıktı alabilirsek süper olur.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=3f81359d-b825-411e-b8ba-c40768088799"
+    },
+    {
+      "date": "2025-01-06T11:32:19.861Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Ümit KLHC",
+      "text": "Kullanımı gayet güzel sadece para birimlerindeki sıfırlar kafa karıştırıyor",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=fa71a124-b928-4f69-a0b0-65ba5393004a"
+    },
+    {
+      "date": "2024-12-28T07:41:37.537Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "seyh samil ozbal",
+      "text": "Çok kullanisli",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=9c896820-893d-46b7-b438-f140765e27ad"
+    },
+    {
+      "date": "2024-12-26T13:52:26.643Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Basalan İletisim",
+      "text": "Ücretsiz yazıyor ama aslında kandırmaca giriş yapmaya çalıştığınız da mali müşaviriniz kullanmadığı için kullanamazsınız diyor zaman kaybı indirmeyi değmez",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=0191100f-1f94-4c22-8a11-8815919ed313"
+    },
+    {
+      "date": "2024-12-23T11:53:51.180Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "HAKAN TAŞPINAR",
+      "text": "güzele devam",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=5ed719fc-17c9-4d5b-a674-2c01be8b4eb3"
+    },
+    {
+      "date": "2024-12-17T16:42:06.558Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "DENETAŞ HARUN BAYRAKTAR",
+      "text": "Uygulama çalışmıyor hata veriyor. Sisteme girmiş gibi gösterip 1 saat kitliyor sistemi. Fatura kesemedim birturlu Error: 28: Timeout was reached: Operation timed out after 30000 milliseconds with 0 bytes received",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=7f62534b-c29d-48b7-b107-001c2f338eb0"
+    },
+    {
+      "date": "2024-12-08T08:58:49.351Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Kahraman Bulut",
+      "text": "Güzle bir uygulama teşekkürler",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=182fa4aa-86e5-4138-8ef5-9a8eea89be56"
+    },
+    {
+      "date": "2024-12-05T17:54:23.705Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Gürsoy Ülgenalp",
+      "text": "Bunu okuyan yetkili bir arkadaş varmı varsa kayıtlı faturalarımda neden hâlâ fatura bilgisini tam kayıt etmiyor",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=434440d5-c496-4736-982c-a0f5b36af062"
+    },
+    {
+      "date": "2024-12-05T13:02:09.359Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Murat Özkan",
+      "text": "İyi",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=3a827a71-be33-42fe-982b-7b5d2fc5fcff"
+    },
+    {
+      "date": "2024-12-02T19:09:03.395Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "yeşil nugget gamer",
+      "text": "Basarili",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=c7d3293d-a340-423d-9e9b-5a4ad18066b0"
+    },
+    {
+      "date": "2024-11-12T07:03:40.627Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Muammer Duman",
+      "text": "Mükemmel bir uygulama, teşekkürler",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=f07ced7e-3458-4a81-9896-253732e875b7"
+    },
+    {
+      "date": "2024-11-09T09:55:36.978Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Alpaslan Ergüden",
+      "text": "Mükemmel bir uygulama çok işimi görüyor teşekkürler",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=d9bb4e25-7632-47ca-b60e-2bfe030d5c99"
+    },
+    {
+      "date": "2024-11-04T14:07:37.373Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Erdem Yumsek",
+      "text": "Çok kullanışlı çok beğendim",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=18e47944-fab3-47b3-98fa-3c91f8a9cd14"
+    },
+    {
+      "date": "2024-10-18T06:02:30.479Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "İbrahim Büyükgüçlü",
+      "text": "Güzel",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=1754dd9d-9898-4339-801d-b319d51ef2c7"
+    },
+    {
+      "date": "2024-10-14T17:20:21.269Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Ibrahim Seker Şeker",
+      "text": "Süper",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=afb2b1db-955d-4b29-9187-9c4685c932ae"
+    },
+    {
+      "date": "2024-10-13T12:28:57.860Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "LEVENT AGIRSOY",
+      "text": "kullanımı kolay . hızlı",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=d2210a6b-20d9-4fa5-934e-ffb2dbce1350"
+    },
+    {
+      "date": "2024-10-02T13:23:48.718Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Faruk Altun",
+      "text": "Ben sildim attım yullık 5400 tl nedir yav herkez fırsatcımı olur yazıklar olsun bu sisteme",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=7426ef1a-2987-4efc-a7d3-fda6a60dfb52"
+    },
+    {
+      "date": "2024-09-27T08:18:28.865Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Mehmet Çelebi",
+      "text": "Basit ve anlaşılır",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=f16c31c3-c448-45b5-8bd1-5ba572af1bd1"
+    },
+    {
+      "date": "2024-09-26T05:49:43.477Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "mehmet KILIÇ",
+      "text": "Pratiş iş olsun diyorsanız burada buluşalım",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=44dea28e-9345-40d8-b8fa-cae81a91e269"
+    },
+    {
+      "date": "2024-09-23T11:00:09.219Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Burak ÜRKER",
+      "text": "Güzel uygulama",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=598b753a-dac6-4ee7-943d-ba522aae8a7a"
+    },
+    {
+      "date": "2024-09-14T07:48:48.807Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Funda Kömürcü",
+      "text": "Çok donuyor",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=7d3cdc86-63ac-4443-96c0-2f3b30db1e23"
+    },
+    {
+      "date": "2024-09-09T14:39:29.144Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Dede Duman",
+      "text": "Masaüstüne gore cok daha kullanisli olmus. Hazır notlari duzenleme ekleme olursa daha kullanışlı olur",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=ed293d6c-4a6b-4fb7-9675-499930eda869"
+    },
+    {
+      "date": "2024-09-09T05:24:24.486Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "oktay turkkol",
+      "text": "Tebrik ediyorum siteyi kuranlara işimizi kolaylaştırdı diğer firmalar gibi reklam da koymuyor teşekkür ediyorum kurucu ve idareci arkadaşlara",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=f11b18b2-51cb-476e-a503-12cae5b3e332"
+    },
+    {
+      "date": "2024-08-27T09:33:25.664Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Halil YILMAZ",
+      "text": "Rahatlık 👍",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=385cf736-8ed7-4a72-8d26-be89dc48572c"
+    },
+    {
+      "date": "2024-08-20T13:47:52.816Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Salih Karataş",
+      "text": "Reklam sız olması önceliğimiz",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=dc52617f-7e5c-49c1-b57a-9c4178d5ed20"
+    },
+    {
+      "date": "2024-08-14T14:33:33.366Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Zeki Kaya",
+      "text": "çok başarılı çok iyi elimize sağlık",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=96af0481-5e79-4e9b-878d-058872c22fdc"
+    },
+    {
+      "date": "2024-08-12T11:48:15.886Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "volkan özdemir",
+      "text": "10 numara bravo",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=032dd3ff-e6c8-49b6-8bbd-df0996b63815"
+    },
+    {
+      "date": "2024-08-09T08:01:08.350Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "H. P.",
+      "text": "Fatura kesme ve ücretsiz oluşu iyi.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=7b60d62e-87af-4967-8d1b-7dd2942b01ca"
+    },
+    {
+      "date": "2024-08-03T18:12:44.505Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "ferdi kapucu",
+      "text": "Faydalı",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=25e0656a-d84c-4a3d-87ad-e1dcee8fe1af"
+    },
+    {
+      "date": "2024-07-31T19:25:52.806Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Uğur Cimbatoglu",
+      "text": "İyi",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=6c66a74e-5139-4a43-965c-e76518d0d245"
+    },
+    {
+      "date": "2024-07-31T12:57:27.741Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Ferhat Güneş",
+      "text": "👍🏼👍🏼",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=05ba2bfa-d561-4c25-ae18-626824ef0642"
+    },
+    {
+      "date": "2024-06-21T11:02:25.275Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Murat Demir",
+      "text": "çok memnunum",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=57c5b822-8cf7-4bd9-8a85-49d1ad0c028a"
+    },
+    {
+      "date": "2024-06-21T09:18:16.312Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Erhan DİNÇ",
+      "text": "Super",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=4bee0a89-a4d1-4ec2-9651-23e1eb8a2be1"
+    },
+    {
+      "date": "2024-06-11T09:06:17.211Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Esref Ustaoglu",
+      "text": "Guzel",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=913558d4-4830-404b-9eb5-197120db032f"
+    },
+    {
+      "date": "2024-06-07T07:09:30.198Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Muharrem Karamert",
+      "text": "Hızlı erişim, kolay kullanım. Emeği geçenlere teşekkürler.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=4658edaf-e758-465d-bf0a-38c5e8154f63"
+    },
+    {
+      "date": "2024-06-02T15:09:47.810Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Derya PAMUKLU",
+      "text": "Gerçekten güzel bir uygulama",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=2123384a-6819-48b9-8aa5-d475298931b0"
+    },
+    {
+      "date": "2024-05-27T05:17:53.160Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Hoşlar simit",
+      "text": "Kullanımı basit yalın 👍",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=9a534e66-f501-4c12-acea-f77fdd064fdd"
+    },
+    {
+      "date": "2024-05-17T16:40:54.500Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "isa çiftçi",
+      "text": "İyi",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=36486578-8b4f-411a-b802-ca318f0ed480"
+    },
+    {
+      "date": "2024-04-24T13:17:45.620Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Kürşat Yücel",
+      "text": "Çok iyi",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=6dfdd5ee-a8c1-48d3-a41d-f3758dc37d79"
+    },
+    {
+      "date": "2024-04-24T04:26:39.411Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "gökhan şahindokuyucu",
+      "text": "💯",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=216041ce-e4c4-48e2-8ce6-a17c8bac066f"
+    },
+    {
+      "date": "2024-04-23T18:02:13.616Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Ynow Sodeep",
+      "text": "Harika bir uygulama kullanımı da sonderece kolay emeği geçenlere teşekkür ederim",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=4d7d67f3-d91e-4ad1-913b-6cb2ea571d9c"
+    },
+    {
+      "date": "2024-04-23T11:47:11.380Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Abdullah Sezer",
+      "text": "En hem de en en Süper uygulama 5 Yıldız",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=b85ec7e2-87ef-40ed-be33-b85f22dbbdcb"
+    },
+    {
+      "date": "2024-04-16T18:33:47.735Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Muhammet Artam",
+      "text": "Anlaşılır ve kolay sistem basarili",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=4f39aed9-6ed6-4770-8cb3-9a4f40cc6363"
+    },
+    {
+      "date": "2024-04-16T13:05:45.446Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "kadir Savas",
+      "text": "Çok güzel uygulama",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=5318b199-d025-48dd-84ea-de62b35e2719"
+    },
+    {
+      "date": "2024-04-16T06:38:52.567Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "SERDAR UĞURLU",
+      "text": "Kullanımı rahat ve her ortamda fatura duzenleyebiliyoruz teşekkür ederiz",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=63564403-fc21-4569-aded-8e07dc396895"
+    },
+    {
+      "date": "2024-04-12T05:46:16.910Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "İmdat Sağlık",
+      "text": "Bağlantı sorunu çok fazla",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=2b97290b-e23a-437d-9997-0b8a85ef21b7"
+    },
+    {
+      "date": "2024-04-08T07:48:12.344Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Ergun Aydemir",
+      "text": "Akıcı kolay kullanım",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=9856afb2-4bc9-4651-9261-2d117b7d41a8"
+    },
+    {
+      "date": "2024-04-06T06:05:10.469Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "VEDAT TIGIT3",
+      "text": "1 haftadır rezil etti program bizi",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=d8bdd95b-8de4-49dc-a1f5-b651d25e0aa6"
+    },
+    {
+      "date": "2024-04-05T08:26:45.726Z",
+      "score": 3,
+      "thumbsUp": 1,
+      "user": "Emre Bilir",
+      "text": "Bir haftadır gib ve program kaynaklı sorunlar yaşanıyor. Hata mesajı alıyorum. Destek rica ediyorum.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=23c4a42a-28e5-4daf-9097-34675ea819a1"
+    },
+    {
+      "date": "2024-04-04T23:25:37.729Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Gülcan Yılmaz",
+      "text": "Fatura kesiliyor fakat paylaşılmıyor",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=898bec0e-6f17-4e00-a160-f8b81c8286cf"
+    },
+    {
+      "date": "2024-04-04T19:34:20.203Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Mustafa Karal",
+      "text": "İsteğim hiç birseyi yapamıyorum",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=a1b945f0-26a8-42ce-a08e-362bc0d87372"
+    },
+    {
+      "date": "2024-04-04T09:42:19.741Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Ali Akyüz",
+      "text": "E portaldan faturayı kestim bu uygulamaya girilmiyor hata veriyor hata 6 daha başka şeylerde yaziyor",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=2942cd0f-4b8c-483b-aec4-1123449b29f6"
+    },
+    {
+      "date": "2024-04-04T08:43:57.558Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Yunus emre Samur",
+      "text": "1 haftadır sisteme giremiyoruz berbat",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=80d6f97e-a0a6-4a47-a321-a0debe787613"
+    },
+    {
+      "date": "2024-04-03T20:20:54.500Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Kadir Karakaya",
+      "text": "Faturlari indirme yapmiyor son guncellemeden sonra fatura paylaşım çok zor oluyor",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=0f6aa415-bb62-4b36-bb00-d04b068fc005"
+    },
+    {
+      "date": "2024-04-03T13:47:41.125Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "murat koparıcı",
+      "text": "Hata veriyor sürekli",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=83cf60e6-ed2f-46e1-8976-dd65e84188cb"
+    },
+    {
+      "date": "2024-04-03T13:15:02.582Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Talat Keskin",
+      "text": "Son birkaç gündür uygulama çalışmıyor...",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=977a8817-7ef0-4fa0-a871-8b872f01dc36"
+    },
+    {
+      "date": "2024-04-03T10:58:34.300Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Zafer Özer",
+      "text": "Pratik",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=c60c0207-de96-46d0-8b4b-ad6a8a072793"
+    },
+    {
+      "date": "2024-04-03T09:13:52.229Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Ercan Ceylan",
+      "text": "Surekli sorun halinde son 1 haftadır ne kesiliyor faturalar ne atılabiliyor hep hata veriyor",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=a5c1d7fb-afe5-444e-b086-252a19593384"
+    },
+    {
+      "date": "2024-04-03T07:50:30.000Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "melik korkmaz",
+      "text": "Fatura onaylamıyorum çok bozmuşlar şuan giriş yapamıyorum",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=9d862f69-3e6c-4181-9db8-80eb7439208c"
+    },
+    {
+      "date": "2024-04-03T03:01:25.331Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Hatice Alioğlu",
+      "text": "Berbat bir haftayı aşkındır sorun düzelmez mi ya fatura kesiyorsun ama gönderemiyorsun",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=ea6582dd-93ca-4947-9922-b976acd01141"
+    },
+    {
+      "date": "2024-04-02T21:07:12.897Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "fatih mehmet cankut",
+      "text": "Son 10 gündür uygulama hata veriyor fatura kesemiyorum kesilen faturayı görüntüleyemiyorum",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=b474556d-e37c-4994-ae8e-bab1c2d2bdcd"
+    },
+    {
+      "date": "2024-04-02T19:54:10.284Z",
+      "score": 1,
+      "thumbsUp": 7,
+      "user": "ali parmaklioglu",
+      "text": "1 haftadır fatura kesemiyorum. Arayüz çalışmıyor. Onay mesajları gelmiyor. Verileri göstermiyor. Paylaşım sorunu var. Bir önce ilgilenin lütfen.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=7f60b8a7-d48a-470d-b2bc-79d267d4252f"
+    },
+    {
+      "date": "2024-04-02T19:11:01.182Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "sefa yıldız",
+      "text": "Sistem surekli hata veriyor adam gibi yapacaksaniz yapin magdur oluyo binlerce kisi",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=8a25a9d5-d0d0-47a8-81f3-8cf1856f7ff1"
+    },
+    {
+      "date": "2024-04-02T16:22:14.110Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Janya Aslan",
+      "text": "Uygulama çok yavaş faturaları onaylamama rağmen günlerce imzasız bekliyor düzeldin artık şu sorunu",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=ead17145-97f0-4d6c-a4af-8a0836d3ab51"
+    },
+    {
+      "date": "2024-04-02T06:37:46.346Z",
+      "score": 5,
+      "thumbsUp": 17,
+      "user": "Kamil Karabıyık",
+      "text": "Fatura kesebiliyorum fakat PDF paylaşım yapamıyorum HTML den paylaşım yapın diye uyarı geliyor HTML Deniyorum o da olmuyor sorun nedir acaba bilgisi olan varmıdır. 1 sene olacak kullanıyorum hiç bir sıkıntı yaşamadım bu geçtiğimiz haftadan belli bu sorunu yaşıyorum Yardımcı olursan sevinirim iyi çalışmalar",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=3a899348-5988-4d0a-9573-5002503f4444"
+    },
+    {
+      "date": "2024-04-01T21:10:01.779Z",
+      "score": 1,
+      "thumbsUp": 6,
+      "user": "gökhan akgül",
+      "text": "Son zamanlarda kesilen faturayı PDF veya html olarak paylaşmıyor hem web sitesinde hemde android uygulamada destek lütfen daha sonra tekrar deneyiniz diye hata veriyor",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=df2bf1c4-278d-461c-aff9-aa5df57f7949"
+    },
+    {
+      "date": "2024-04-01T19:11:41.853Z",
+      "score": 1,
+      "thumbsUp": 4,
+      "user": "öylebiri",
+      "text": "fatura paylaşma sorunu düzeltildi demişsiniz ama sorun halen devam ediyor fatura ne paylaşılıyor ne de indiriliyor sorunu çözün lütfen",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=f5fa1cb2-9705-45d1-bf40-cfe58b3ee908"
+    },
+    {
+      "date": "2024-04-01T15:08:12.173Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Murat Kara",
+      "text": "Hiç bir işe yaramaz bir program Hala aynı 5 para etmez bir uygulama",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=5927ba7a-ee75-45ec-bfbf-38f98df7e97e"
+    },
+    {
+      "date": "2024-04-01T10:27:38.714Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Adil Sapmaz",
+      "text": "4 gündür faturamı kesiyorum onaylıyorum ama kestin faturayı göremiyorum indiremiyorum paylaşamıyorum bir yardımcı olursanız",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=a9f52375-cf3e-44eb-85c1-cd6b7bcca279"
+    },
+    {
+      "date": "2024-03-30T20:42:03.917Z",
+      "score": 1,
+      "thumbsUp": 4,
+      "user": "Nuri Aslan",
+      "text": "Fatura paylaşımı hata veriyor pdf paylaşıyorum gene hata veriyor html gene hata onay sürekli görünmüyor sildim geri yükledim uygulama düzgün çalışmıyor",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=3a4a4791-141a-4ffa-afc1-6e368d3f65c1"
+    },
+    {
+      "date": "2024-03-30T17:23:45.194Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "Ali Şanal",
+      "text": "Sıkıntı var bu günlerde",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=36d4590e-ba89-4d5f-9ca5-07331f825f41"
+    },
+    {
+      "date": "2024-03-30T14:42:18.312Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "muharrem capar",
+      "text": "İndirme ve paylaşım hala olmuyor neden bi muhatabımızda yok nasıl olucak bu iş..",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=8311dd3a-7b1a-475a-a109-ca82a4ee95b5"
+    },
+    {
+      "date": "2024-03-30T12:47:06.778Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Ethem Açar",
+      "text": "Birinci sınıf",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=f347a099-e2e1-4a94-a0ad-b1de172c15a9"
+    },
+    {
+      "date": "2024-03-29T21:37:57.451Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "SATIR 36",
+      "text": "Sistem bir açılıyor bir açılmıyor Pdf paylaşmıyor 4.gundur",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=a418a447-9904-40a4-9fc3-f8fec34eff47"
+    },
+    {
+      "date": "2024-03-29T14:51:17.252Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "BEŞİR AÇAR",
+      "text": "Çok iyu",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=43d71334-86bc-4448-a4ac-73391345096e"
+    },
+    {
+      "date": "2024-03-29T12:23:01.334Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Faruk Oğuz",
+      "text": "Çok kullanışlı ve pratik bir uygulama",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=8be00eb2-ed73-43dc-953b-2f6ff8e42621"
+    },
+    {
+      "date": "2024-03-29T00:55:44.523Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Önder yıldız",
+      "text": "Çok güzel",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=4e0710f0-1300-458f-9e85-3ce7a2ead64c"
+    },
+    {
+      "date": "2024-03-28T14:59:12.667Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "ismail mercan",
+      "text": "Uzun zamandır kullanıyorum.gercekten süper.tavsiye ederim. Ellerinize saglık",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=2744f759-8ef4-4030-b273-8aa42064c68c"
+    },
+    {
+      "date": "2024-03-25T13:01:10.229Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Atilla Alptekin",
+      "text": "Kolay ve hızlı",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=8fd46831-219b-4609-b799-878ff01ae19c"
+    },
+    {
+      "date": "2024-03-14T08:36:50.662Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Ramazan Seven",
+      "text": "Güzel",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=1f569a52-622e-4809-8929-a46868a7dc23"
+    },
+    {
+      "date": "2024-03-07T16:08:59.553Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Orkun Küçük",
+      "text": "Sürekli donuyor ve hata veriyor",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=ee6c049b-98e5-49eb-b8c8-32c837115cc3"
+    },
+    {
+      "date": "2024-02-28T19:24:53.346Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Servet Araz",
+      "text": "Çok güzel bir uygulama ellerinize sağlık",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=0d8b8e16-4150-4d7f-a6db-e070f7467d7c"
+    },
+    {
+      "date": "2024-02-27T07:55:46.954Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "oktay Türkkol",
+      "text": "Daha yeni kullanıcıyım güzel bir programa benziyor umarım daha güzel yenilik ler olur",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=59df6281-e9bf-40cf-85d5-7dc21fb80989"
+    },
+    {
+      "date": "2024-02-26T09:57:13.656Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "TAMER ULUDAĞ",
+      "text": "Cok iyi",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=5ae4e11f-028f-493f-a566-7265a0ab9f8b"
+    },
+    {
+      "date": "2024-02-09T06:44:44.165Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Ekrem Coşkun",
+      "text": "Çok güzel kullanımı tek sorun adet ve birim fiyatlardaki gereksiz sıfır fazlalığı",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=c22fcc38-8a72-45f8-a210-a7091d291808"
+    },
+    {
+      "date": "2024-02-06T11:57:29.909Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Tahir Yerlikaya",
+      "text": "Güzel",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=3b08c134-3faa-488e-ac48-636e4618f039"
+    },
+    {
+      "date": "2024-02-03T12:56:15.395Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Nadir Doğan",
+      "text": "cok memnun kaldım",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=91e5542e-9340-4b08-ba21-ec4845530104"
+    },
+    {
+      "date": "2024-01-29T17:53:42.383Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Fark Mali Müşavirlik",
+      "text": "Hiç bir işe yaramıyorum ücretli olduğu önceden belirtmeli",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=bc3d0263-8d73-4b43-a762-070098291932"
+    },
+    {
+      "date": "2024-01-25T10:11:17.763Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Kemal",
+      "text": "çok kullanışlı ihtiyacınıza karşılık veren kullanımı basit bir program 3 yıldır kullanıyorum herkeze tavsiye ederim",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=8648e847-70e4-43e2-922d-7afd1424f98e"
+    },
+    {
+      "date": "2024-01-15T17:05:47.538Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Öner Arslan",
+      "text": "Gayet iyi",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=c8d075f7-8f01-4079-853a-eebdaa8fb272"
+    },
+    {
+      "date": "2024-01-15T13:32:00.439Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Şakir ŞAHİNGÖZ",
+      "text": "Çok güzel bir uygulama",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=cd5df6d7-be6a-4e8c-9d1e-14e3dec5d202"
+    },
+    {
+      "date": "2024-01-09T14:06:42.170Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Hasan Sanga",
+      "text": "On numara",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=4a08331b-9659-4b98-b5d6-4e5575148bc7"
+    },
+    {
+      "date": "2023-12-30T15:11:56.803Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "mustafa ozdemir",
+      "text": "Çok güzel işimizi görüyor",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=2afee18c-12c2-43a1-a56e-b1adc44a5957"
+    },
+    {
+      "date": "2023-12-25T17:45:15.651Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "İsmail Akar",
+      "text": "Çok güzel emeği geçen herkese teşekkürler",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=b96f65cb-6e9a-450c-87a2-18117d410e5e"
+    },
+    {
+      "date": "2023-12-17T15:14:31.690Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Mehmet Gögebakan",
+      "text": "👍🏻👍🏻",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=8581e9e4-b922-474f-8af5-7f80abd39e12"
+    },
+    {
+      "date": "2023-12-07T07:29:34.266Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Bilal Yildiz",
+      "text": "Çok iyi",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=d6df8678-0077-468b-bae2-f2bfcf28e13a"
+    },
+    {
+      "date": "2023-12-06T14:17:11.973Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "İslam Aciksoz",
+      "text": "Harika",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=d4a5b616-9c00-4832-8f43-52b7256c0338"
+    },
+    {
+      "date": "2023-12-01T17:54:24.169Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "PARKECİ İSMAİL GEMLİK",
+      "text": "süper bir uygulama",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=8a6a82b3-7b78-4999-8e20-e96f907af257"
+    },
+    {
+      "date": "2023-11-30T14:27:40.850Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Hasan",
+      "text": "iki yıldır kullanıyorum, kullanışlı ve sorunsuz, ellerinize sağlık.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=f7d3299b-6b76-430a-97df-35fce703d2d3"
+    },
+    {
+      "date": "2023-11-30T09:32:19.700Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "veysel tolun",
+      "text": "Uygulamaya girişte müşteri seçimi olması lazım her müşteri için ayrı ayrı sifre girerek islem yapmak zor oluyor",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=537b8624-2b60-41c9-b49b-f01f268c5dd6"
+    },
+    {
+      "date": "2023-11-18T10:01:36.370Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Hakan Yevgeniya Tanrıkulu",
+      "text": "Çok kullanışlı",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=772155b6-c4f3-4b7c-bbb5-22bb36c78da1"
+    },
+    {
+      "date": "2023-11-16T10:56:00.246Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Efrail Efe",
+      "text": "Süper",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=14b9d9ae-4d6c-46aa-8e9f-0592dcf3e3ad"
+    },
+    {
+      "date": "2023-11-09T11:41:18.687Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "AYŞE KARADENİZ",
+      "text": "İstediğim her yerden programa ulaşım saglayabiliyor olmam benim çalışmalarımı özgürce her ortamda yapabilirligimi sağladı ve büroya bağımlılık biraz daha azaldı iş yükünü hafifletti",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=83832e5b-28e3-4685-8361-202dc0563858"
+    },
+    {
+      "date": "2023-11-02T18:55:36.563Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Serdar Karagöz",
+      "text": "Çok teşekkür ederim o kadar kolaylık ki anlatam",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=dc52de71-4b6f-4500-b08e-13ee766205a3"
+    },
+    {
+      "date": "2023-10-31T15:43:31.250Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Ali Çiftçi",
+      "text": "Çok iyi",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=7ee24c37-7396-4ad5-8df7-772831454f0a"
+    },
+    {
+      "date": "2023-10-25T13:34:59.137Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Şükrü Koç",
+      "text": "Çok güzel uygulama",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=cd2d06af-0dbe-4bc5-910d-b11d357fd049"
+    },
+    {
+      "date": "2023-10-16T10:56:51.386Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "ツAykutツ",
+      "text": "bide ücretsiz diye yorum yapıyorsunuz utanmadan yıllık 2000 TL İSTIYORLAR sanki uçak yapıyorsunuz",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=4b8a0f17-bc7c-452b-a757-3e4d6a001fad"
+    },
+    {
+      "date": "2023-10-14T15:00:30.644Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "THERAPİA VİP TRANSFER İSMAİLERDOĞ",
+      "text": "Kolay pratik ve zamanı efektif kullanmayı sağlıyor. Ben memnunum.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=82cffd82-f12d-42ac-988e-121994fb8076"
+    },
+    {
+      "date": "2023-10-06T21:23:35.557Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "tugrul Kutlu",
+      "text": "Merhabalar program hata vermeye başladı kullanıcı bilgilerimden adres değişikliği yapamıyorum hata veriyor",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=e3ba737a-5ba8-47c3-b814-55531db98aa6"
+    },
+    {
+      "date": "2023-10-05T06:46:52.991Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Ferhat Türkkan",
+      "text": "Son derece kullanışlı bir uygulama",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=ef6f5c20-1044-4a7e-8d45-07aa53c9dfca"
+    },
+    {
+      "date": "2023-09-20T18:30:06.780Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Bostanlı travel Torism",
+      "text": "Kim yapmışsa Allah razı olsun hakkını veren bir uygulama çok teşekkürler 🌹",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=daa12563-befa-4ba2-a73b-433533ed1b3b"
+    },
+    {
+      "date": "2023-09-18T13:01:43.560Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Osman şen",
+      "text": "Sayenizde işimiz kolaylaştı. Teşekkürler ederim",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=6955b2f2-3a8b-4bb3-b241-705cb69f09f4"
+    },
+    {
+      "date": "2023-09-13T08:59:24.130Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Turk Dick",
+      "text": "Mükemmel bir uygulama",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=dd39cdab-ffcd-421c-b3dc-c7b895798a4f"
+    },
+    {
+      "date": "2023-09-11T11:52:28.627Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Serdar Ağardan",
+      "text": "Tavsiye ederim q",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=dde713e2-f065-485e-917c-00271800adc5"
+    },
+    {
+      "date": "2023-09-05T11:46:37.857Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "kenan katmer",
+      "text": "Bu uygulama açılmıyor beyaz ekranda kalıyor kullanıcı adı ve şifre kısmına geçmiyor kaldırıp tekrar yükledim ön belleği sildim tüm izinleri verdim nafile lütfen yardım",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=c3472fc1-72f1-4e41-bc65-33159ee04738"
+    },
+    {
+      "date": "2023-09-04T17:17:12.570Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Aykan Ayna",
+      "text": "Lütfen bu uygulamaya giremiyorum Acil güncelme bekliyorum",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=fdd4cee8-b6fe-4b98-b8f2-707e36527803"
+    },
+    {
+      "date": "2023-09-01T12:53:54.569Z",
+      "score": 1,
+      "thumbsUp": 7,
+      "user": "Mustafa Çağlayan",
+      "text": "Bir kaç gündür uygulama çalışmıyor sorun var android telefonumda yüklü bu uygulama. iPhone marka telefonda açılıyor anlam veremedim. Ben uygulamayı kaldırdım tekrar yükledim yine çalışmıyor sebebi ne olabilir acaba",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=26c0a45f-d78b-4488-a289-ce23fbc68e00"
+    },
+    {
+      "date": "2023-08-25T07:18:48.716Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Ali Güler (Güler İletişim)",
+      "text": "İşimizi kolaylaştıran çok güzel bi uygulama",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=ec2f40ed-be02-4f8d-9134-024b3738634b"
+    },
+    {
+      "date": "2023-08-24T10:07:03.379Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "şahin çekerek",
+      "text": "Çok memnunum",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=01927778-2ae9-43ac-a394-8a094a596a29"
+    },
+    {
+      "date": "2023-08-24T08:11:00.843Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "bayram nazlı",
+      "text": "Gayet iyi",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=1854838e-daff-4543-8dd3-d0e78b369836"
+    },
+    {
+      "date": "2023-08-23T10:31:41.559Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Mehmet Şireli",
+      "text": "Kayıtlı olan firmalarda aradıklarımızı yazarak bulursak daha iyi olur bir de vergi numarasını yazdığımızda bizde kayıtlı mı değil mi bulabilsin isteriz",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=425eaf62-3c25-4c0d-8924-7ff2ceef932d"
+    },
+    {
+      "date": "2023-08-21T13:17:34.458Z",
+      "score": 5,
+      "thumbsUp": 3,
+      "user": "Kemal Tuna",
+      "text": "Onaylanmış faturalar imzasız görünmeye devam ediyor uzun bi süre! Kestiğimiz faturayı gönderemiyoruz düzeltin şunu acil bi zahmet ya:((",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=7898e56b-04b1-4b14-ac2a-408c405c86b1"
+    },
+    {
+      "date": "2023-08-21T05:48:24.825Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Volkan aygüneş",
+      "text": "mükemmel bir uygulama kolay öğrenme yönünden iyi",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=3baa6857-3946-4811-ab4f-1803a921aaf5"
+    },
+    {
+      "date": "2023-08-21T04:29:56.275Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "S. Quandour",
+      "text": "Gib portalına göre oldukça pratik",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=ab013c20-1c2f-4601-a09b-80c19a474c91"
+    },
+    {
+      "date": "2023-08-09T16:43:58.183Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Tuncay Seçkin",
+      "text": "Kullanımı çok rahat ve çok kolay, başarılı Bir uygulama.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=550185ec-a35a-4b35-9098-094fbe759d25"
+    },
+    {
+      "date": "2023-08-07T06:25:50.535Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "AliBirgül kuyumcu",
+      "text": "Çok iyi",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=17ef2de7-8cff-4766-8df8-71bf403dd62b"
+    },
+    {
+      "date": "2023-08-06T11:27:01.870Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "mahmut çağran",
+      "text": "Çok güzel bir uygulama işimi kolaylaştırdı",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=bc6100df-9675-4e96-8737-f44bcc82b7c8"
+    },
+    {
+      "date": "2023-07-28T07:49:31.579Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Hürdoğan Otomobil Temizlik",
+      "text": "Teşekkürler süper uygulama tekrarla ugulaması ve düzenleme seçenekleri efsane tebrikler elinize sağlık",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=f080edfd-1f8a-483e-817d-cbf62740565d"
+    },
+    {
+      "date": "2023-07-25T06:01:54.131Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Ali Karapilit",
+      "text": "Çok kolaylik",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=587037b2-7844-49e9-bb5e-cd57b5e94f04"
+    },
+    {
+      "date": "2023-07-20T08:35:35.845Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Kenan Çınar",
+      "text": "Çok iyi",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=6e5d451f-65d4-4d09-b701-599ee2474f3c"
+    },
+    {
+      "date": "2023-07-19T18:41:03.600Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "adil öner",
+      "text": "Malesef sistem zayif..güncellenmeli ve daha saglikli birseyler yapilmali...yogunluk oldumu sisiyor...acmiyor....insani hep geri koyuyor....vb....",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=0187bcae-121e-4972-8cee-bec7df438cbf"
+    },
+    {
+      "date": "2023-07-19T11:49:50.707Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Hakan Taş",
+      "text": "Faturayı göstermiyor. Sorunun acilen düzeltin.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.earsivfatura.app&reviewId=3782cf14-4e67-4556-aa5a-827bab1594c7"
+    }
+  ]
+}

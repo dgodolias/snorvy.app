@@ -1,0 +1,649 @@
+{
+  "app": "com.uyumsoft.ebelge",
+  "country": "tr",
+  "lang": "tr",
+  "total_pulled": 64,
+  "total_after_filter": 64,
+  "reviews": [
+    {
+      "date": "2026-02-25T15:18:13.878Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Larande",
+      "text": "GİB onayını uygulama üzerinden nasıl vereceğim. Anlayamadım.",
+      "reply": "Merhaba, değerli yorumunuz için teşekkür ederiz. Fatura onayından bahsediyorsanız faturayı oluşturup gönderdiğinizde, tanımlı telefon numaranıza iletilen SMS doğrulama kodunu girerek işlemi tamamlayabilirsiniz. Bu adımın ardından belgeniz GİB’e başarıyla iletilir. Detaylı görüşme için chat veya destek@e-belge.com mail üzerinden görüşebiliriz.",
+      "replyDate": "2026-04-02T11:03:53.440Z",
+      "url": "https://play.google.com/store/apps/details?id=com.uyumsoft.ebelge&reviewId=91694a12-9e19-4b7e-8c98-a5a5c99f365a"
+    },
+    {
+      "date": "2026-02-11T14:55:51.215Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Sezen Er",
+      "text": "buton yok vakit kaybı",
+      "reply": "Merhaba, değerli yorumunuz için teşekkür ederiz. Bahsettiğiniz butonla ilgili biraz daha detay paylaşabilir misiniz? Dilerseniz uygulama içi chat üzerinden ya da destek@e-belge.com adresine mail ileterek bizimle iletişime geçebilirsiniz. Bu kanallar üzerinden konuyu daha detaylı değerlendirebiliriz.",
+      "replyDate": "2026-04-02T10:59:50.728Z",
+      "url": "https://play.google.com/store/apps/details?id=com.uyumsoft.ebelge&reviewId=e121175b-2169-4714-8cc3-36bbf308cb3c"
+    },
+    {
+      "date": "2025-11-22T17:40:54.545Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "Ömer Külekci",
+      "text": "kesilen faturayı pdf vb şekilde gönderemiyorum",
+      "reply": "Merhaba Ömer Bey, Değerli yorumunuz çok teşekkür ederiz. Uygulamada kesilen faturaları PDF veya XML formatında indirebilir, dilerseniz bu dosyaları iletebilir ya da PDF’i e-Posta Gönderimi yoluyla paylaşabilirsiniz. Konuyu destek@e-belge.com e-posta adresi üzerinden bizimle paylaşabilirseniz daha detaylı yardımcı olabiliriz. İyi günler dileriz.",
+      "replyDate": "2025-12-09T09:10:16.913Z",
+      "url": "https://play.google.com/store/apps/details?id=com.uyumsoft.ebelge&reviewId=38e0cf45-e10f-468c-8206-f10a37bd8fd7"
+    },
+    {
+      "date": "2025-10-13T16:44:43.806Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Ezel Bayraktar",
+      "text": "giriş yapamıyorum sebebi ne hesap bilgilerini bulamıyorum",
+      "reply": "Merhaba, Değerli yorumlarınız, ilginiz ve anlayışınız için çok teşekkür ederiz. Sizlere yardımcı olmamızı istediğiniz konuyu destek@e-belge.com e-posta adresi üzerinden bizimle paylaşabilir misiniz. İyi günler dileriz.",
+      "replyDate": "2025-11-07T13:05:42.875Z",
+      "url": "https://play.google.com/store/apps/details?id=com.uyumsoft.ebelge&reviewId=83c3b393-f1f7-436b-8fb0-27c9c4586835"
+    },
+    {
+      "date": "2025-09-24T16:29:43.337Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Silber Aktepe",
+      "text": "BELKI ????????????????????????????????????????????????????????????????????????????????????????????? .?...??????? ?????????? ??????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????",
+      "reply": "Merhaba, Değerli yorumlarınız, ilginiz ve anlayışınız için çok teşekkür ederiz. Sizlere yardımcı olmamızı istediğiniz bir konu olduğunda destek@e-belge.com e-posta adresi üzerinden bizimle iletişime geçebilirsiniz. İyi günler dileriz.",
+      "replyDate": "2025-11-07T13:04:48.591Z",
+      "url": "https://play.google.com/store/apps/details?id=com.uyumsoft.ebelge&reviewId=c41b1748-044f-4b71-8eb3-75ccb73e64e2"
+    },
+    {
+      "date": "2025-06-23T17:49:42.460Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Murat Öz",
+      "text": "üyelik iptali nasıl yapılıyor",
+      "reply": "Merhaba, Değerli yorumlarınız, ilginiz ve anlayışınız için çok teşekkür ederiz. destek@e-belge.com e-posta adresi üzerinden bizimle iletişime geçebilirsiniz. İyi günler dileriz.",
+      "replyDate": "2025-11-07T13:04:21.319Z",
+      "url": "https://play.google.com/store/apps/details?id=com.uyumsoft.ebelge&reviewId=737c14a1-8e47-4d99-ada8-a2a1d340e207"
+    },
+    {
+      "date": "2025-03-02T05:00:46.424Z",
+      "score": 2,
+      "thumbsUp": 1,
+      "user": "Yasemin Yıldırım",
+      "text": "Uygulamayı biraz önce yükledim kayıt oldum ancak bu TC başka bir kişi ile kayıplı diyor yardımcı olur musunuz",
+      "reply": "Merhaba Yasemin Hanım, Değerli yorumlarınız, ilginiz ve anlayışınız için çok teşekkür ederiz. Sizlere yardımcı olmamızı istediğiniz bir konu olduğunda destek@e-belge.com e-posta adresi üzerinden bizimle iletişime geçebilirsiniz. İyi günler dileriz.",
+      "replyDate": "2025-03-03T09:52:35.307Z",
+      "url": "https://play.google.com/store/apps/details?id=com.uyumsoft.ebelge&reviewId=4380003f-ccbd-462d-a92b-ad8e3e0fd186"
+    },
+    {
+      "date": "2025-01-29T13:04:15.502Z",
+      "score": 1,
+      "thumbsUp": 2,
+      "user": "Nürettin Bayar",
+      "text": "Aylar sonra yine indirdim, yorumumu güncelliyorum berbat bir uygulama",
+      "reply": "Merhaba Nürettin Bey, Değerli yorumlarınız, ilginiz ve anlayışınız için çok teşekkür ederiz. Sizlere yardımcı olmamızı istediğiniz bir konu olduğunda destek@e-belge.com e-posta adresi üzerinden bizimle iletişime geçebilirsiniz. İyi günler dileriz.",
+      "replyDate": "2025-03-03T09:51:41.210Z",
+      "url": "https://play.google.com/store/apps/details?id=com.uyumsoft.ebelge&reviewId=92c231fd-e8fd-4c3c-b3dc-519fa319d140"
+    },
+    {
+      "date": "2025-01-08T09:58:33.410Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "Şahin Döner",
+      "text": "Fatura tipini tevkikatlı yapmama rağmen tevkikat kodunu çıkmıyor canlı destek vesaire muhattap bulamıyorum afıma kesilen faturaları görğnmüyor",
+      "reply": "Merhaba Şahin Bey, tevkifat kodunuzu eklemek için Fatura Tipini \"Tevkifat\" olarak seçtikten sonra, Mal/Hizmet Bilgileri alanındaki \"Vergi Ekle\" sütunundan ekleyebilirsiniz. Chat desteğimiz hafta içi 09:00-18:30 saatleri arasında aktif bir şekilde hizmet vermektedir.",
+      "replyDate": "2025-03-03T10:07:53.421Z",
+      "url": "https://play.google.com/store/apps/details?id=com.uyumsoft.ebelge&reviewId=86f9b8a5-6772-4377-a744-fc26975c9ebf"
+    },
+    {
+      "date": "2024-10-06T07:41:57.800Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Enes YARDIM",
+      "text": "Hepsiburada e faturam altyapısıda size ait neden kullanamıyoruz uygulamayı",
+      "reply": "Merhaba, Değerli yorumlarınız, ilginiz ve anlayışınız için çok teşekkür ederiz. Sizlere yardımcı olmamızı istediğiniz bir konu olduğunda destek@e-belge.com e-posta adresi üzerinden bizimle iletişime geçebilirsiniz. İyi günler dileriz.\n\n",
+      "replyDate": "2024-10-14T09:10:26.747Z",
+      "url": "https://play.google.com/store/apps/details?id=com.uyumsoft.ebelge&reviewId=3c256089-0794-47e6-b492-2b9cdce23f1b"
+    },
+    {
+      "date": "2024-10-04T20:49:35.128Z",
+      "score": 5,
+      "thumbsUp": 8,
+      "user": "Berk",
+      "text": "Uygulama normalde başarılı ve pratik ancak ufak bir hata var. Kestiğimiz faturayı pdf olarak indiremiyoruz \"Bu işlem için lütfen dosyalara erişim izni verin\" uyarı veriyor fakat ayarlarda tam dosya erişimi isteyen uygulamalar arasında ebelge uygulaması çıkmıyor. Yine uygulama izinlerinde uygulamaya ait tüm izinler açık olmasına rağmen dosya erişimi için bi seçenek çıkmıyor.",
+      "reply": "Berk Bey Merhaba, Değerli yorumlarınız, ilginiz ve anlayışınız için çok teşekkür ederiz. Sizlere yardımcı olmamızı istediğiniz bir konu olduğunda destek@e-belge.com e-posta adresi üzerinden bizimle iletişime geçebilirsiniz. İyi günler dileriz.\n\n",
+      "replyDate": "2024-10-14T09:09:53.499Z",
+      "url": "https://play.google.com/store/apps/details?id=com.uyumsoft.ebelge&reviewId=35c53028-5d8c-49f9-826b-19f87264da9f"
+    },
+    {
+      "date": "2024-09-17T12:18:33.161Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Serkan Erol",
+      "text": "Patates bir yıldız bile çok",
+      "reply": "Serkan Bey Merhaba, Değerli yorumlarınız, ilginiz ve anlayışınız için çok teşekkür ederiz. Sizlere yardımcı olmamızı istediğiniz bir konu olduğunda destek@e-belge.com e-posta adresi üzerinden bizimle iletişime geçebilirsiniz. İyi günler dileriz.",
+      "replyDate": "2024-09-27T08:00:15.274Z",
+      "url": "https://play.google.com/store/apps/details?id=com.uyumsoft.ebelge&reviewId=d87c5050-737f-4667-8748-53b75385ed26"
+    },
+    {
+      "date": "2024-08-05T17:16:02.972Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "şanlıurfa merkez",
+      "text": "Yanış uygulama indirdim ve kayıt yaptım nasıl çıkış yapabilirim bu uygulamadan",
+      "reply": "Merhaba, Değerli yorumlarınız, ilginiz ve anlayışınız için çok teşekkür ederiz. Sizlere yardımcı olmamızı istediğiniz bir konu olduğunda destek@e-belge.com e-posta adresi üzerinden bizimle iletişime geçebilirsiniz. İyi günler dileriz.",
+      "replyDate": "2024-09-11T07:56:44.935Z",
+      "url": "https://play.google.com/store/apps/details?id=com.uyumsoft.ebelge&reviewId=756f5971-b9d7-4e20-85b5-0a8d94d36a72"
+    },
+    {
+      "date": "2024-06-25T09:36:37.909Z",
+      "score": 3,
+      "thumbsUp": 1,
+      "user": "Muhammed Ünveran",
+      "text": "Uygulamanın mantığı çok güzel herşeyi güzel tek problem şuan pdf İndiremiyorum Dosya Erişim izni verin diyor ama Program öyle Bi izin talep etmiyor düzeltilir ise çok güzel olacak",
+      "reply": "Muhammed Bey Merhaba, Değerli yorumlarınız, ilginiz ve anlayışınız için çok teşekkür ederiz. Sizlere yardımcı olmamızı istediğiniz bir konu olduğunda destek@e-belge.com e-posta adresi üzerinden bizimle iletişime geçebilirsiniz. İyi günler dileriz.\n\n",
+      "replyDate": "2024-07-11T07:26:41.778Z",
+      "url": "https://play.google.com/store/apps/details?id=com.uyumsoft.ebelge&reviewId=05aeb080-33ee-4cc8-9e06-282271e155f4"
+    },
+    {
+      "date": "2024-06-21T04:14:29.662Z",
+      "score": 1,
+      "thumbsUp": 2,
+      "user": "Simge Cimcime",
+      "text": "açılmıyor hep yanlış TC yanlış şifre diyor değiştirmek için Gmail İ bile onaylamıyor yada yeni ne telefon numara si yada Gmail ekleyip te açılmıyor çok saçma sapan bir uygulama gerçekten hiç memnun değilim",
+      "reply": "Simge Hanım Merhaba, Değerli yorumlarınız, ilginiz ve anlayışınız için çok teşekkür ederiz. Sizlere yardımcı olmamızı istediğiniz bir konu olduğunda destek@e-belge.com e-posta adresi üzerinden bizimle iletişime geçebilirsiniz. İyi günler dileriz.\n\n",
+      "replyDate": "2024-07-11T07:28:28.610Z",
+      "url": "https://play.google.com/store/apps/details?id=com.uyumsoft.ebelge&reviewId=bf9b18c0-c805-4f1a-bbb2-7d1a3f628130"
+    },
+    {
+      "date": "2024-06-06T09:07:36.564Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "Dowmora Digital",
+      "text": "Uygulama ücretsiz ve gib fatura sisteminden çok daha fazla özellik sunuyor. Faturalarımı toplu pdf olarak alabiliyorum. Kolaylıkla gönderebiliyorum. Gib uygulamasına göre çok daha işlemleri kolaylaştırıyor. Herkese tavsiye ederim.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.uyumsoft.ebelge&reviewId=ab47fd94-b726-4365-877a-04ae8fe1e8da"
+    },
+    {
+      "date": "2024-05-29T09:45:27.453Z",
+      "score": 1,
+      "thumbsUp": 6,
+      "user": "Hilmi",
+      "text": "Program güzeldi ancak Android güncellemesinden sonra dosya izin problemi var. Yani programın güncellenmesi lazım. Ama yayıncı programı terk etmiş galiba.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.uyumsoft.ebelge&reviewId=be076e39-c1c6-4c8b-a90e-8f04f421c134"
+    },
+    {
+      "date": "2024-05-24T12:36:51.155Z",
+      "score": 5,
+      "thumbsUp": 2,
+      "user": "Hakan Güler",
+      "text": "kayıt yapamıyorum tckimlik numarısına ait kimlik kaydı vardır deniyor şifre almak istiyorum e postayı kabul etmiyor görünsün diye beş yıldız verdim ama çöp",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.uyumsoft.ebelge&reviewId=e4e2ccc5-121b-4b33-b25b-d4ada2104ad3"
+    },
+    {
+      "date": "2024-04-25T18:39:41.401Z",
+      "score": 5,
+      "thumbsUp": 9,
+      "user": "Huseyin Asigbulmus",
+      "text": "Uygulama guzel ama suan soyle sıkıntı yaşıyorum pdf olarak paylaşım yapamıyorum faturayi izin veremiyorum oyle bir seçenek yok 2.si eger fatura yanlış keislmisse bursan iptal gonderemiyorsun lutfen acil duzeltin bu durumları haricinde cok guzel uygulama",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.uyumsoft.ebelge&reviewId=41d3eb0a-d365-4014-a33e-abab8a0d74ed"
+    },
+    {
+      "date": "2024-04-10T06:48:29.158Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "ELMAS BAKIR",
+      "text": "PEPEEAĞLIYOR...",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.uyumsoft.ebelge&reviewId=c40075c5-c50a-42c0-8a02-7064d2e52a58"
+    },
+    {
+      "date": "2023-09-02T22:28:20.362Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Sevinç Zeybek",
+      "text": "🇹🇷",
+      "reply": "Sevinç Hanım Merhaba, Değerli yorumlarınız, ilginiz ve anlayışınız için çok teşekkür ederiz. Sizlere yardımcı olmamızı istediğiniz farklı bir konu olduğunda destek@e-belge.com e-posta adresi üzerinden bizimle iletişime geçebilirsiniz. İyi günler dileriz.",
+      "replyDate": "2023-09-04T11:18:28.348Z",
+      "url": "https://play.google.com/store/apps/details?id=com.uyumsoft.ebelge&reviewId=829da17b-4b32-4532-bf39-614f52d7c8b0"
+    },
+    {
+      "date": "2023-06-26T10:45:05.475Z",
+      "score": 1,
+      "thumbsUp": 6,
+      "user": "“Murat ÖZDEMİR” Murat ÖZDEMİR",
+      "text": "Yıllık 399 +KDV ücreti olan bir uygulama ancak bu bilgi en son sizden tüm kişisel bilgilerinizi ve tüm izinleri aldıktan sonra veriliyor. Bu son derece alçakça bir durum.",
+      "reply": "Merhaba Murat Bey, Geri bildiriminiz için çok teşekkür ederiz. Sizlere daha iyi hizmet verebilmemiz için destek@e-belge.com e-posta adresi üzerinden bizimle iletişime geçmenizi rica ederiz. İyi günler dileriz.",
+      "replyDate": "2023-06-26T10:50:29.595Z",
+      "url": "https://play.google.com/store/apps/details?id=com.uyumsoft.ebelge&reviewId=23c9fac8-462e-4173-9d0a-a06df8a739c4"
+    },
+    {
+      "date": "2023-05-29T21:18:53.963Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "I am benjami",
+      "text": "Merhaba lütfen yardım edin kayıt oluşturup 450 tl yakın ücret ödedim ancak uygulama bana şifre göndermedi epostamla kayıt olduğuma rağmen tanımlı eposta bulunamadı diyor lütfen yardım edin bana geri bildirim gönderrmedim.",
+      "reply": "Merhaba, Geri bildiriminiz için çok teşekkür ederiz. Sizlere daha iyi hizmet verebilmemiz için destek@e-belge.com e-posta adresi üzerinden bizimle iletişime geçmenizi rica ederiz. İyi günler dileriz.",
+      "replyDate": "2023-05-30T06:28:49.756Z",
+      "url": "https://play.google.com/store/apps/details?id=com.uyumsoft.ebelge&reviewId=75dec0b8-415f-4e22-af25-9f8fee6fadfb"
+    },
+    {
+      "date": "2023-02-23T07:22:48.163Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "Onur Can Zülami",
+      "text": "Giriş yapamıyorum",
+      "reply": "Merhaba Onur Bey, Geri bildiriminiz için çok teşekkür ederiz. Sizlere daha iyi hizmet verebilmemiz için destek@e-belge.com e-posta adresi üzerinden bizimle iletişime geçmenizi rica ederiz. İyi günler dileriz.",
+      "replyDate": "2023-02-24T10:53:59.394Z",
+      "url": "https://play.google.com/store/apps/details?id=com.uyumsoft.ebelge&reviewId=a68e9b5c-2a2d-42cb-b8f7-22bd83b74d59"
+    },
+    {
+      "date": "2023-02-01T10:35:00.885Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Oğuz Akın",
+      "text": "Beş para etmez sıfreyı onaylıyo fakat faturaları ımzalamıyo",
+      "reply": "Merhaba Oğuzhan Bey, Geri bildiriminiz için çok teşekkür ederiz. Sizlere daha iyi hizmet verebilmemiz için destek@e-belge.com e-posta adresi üzerinden bizimle iletişime geçmenizi rica ederiz. İyi günler dileriz.",
+      "replyDate": "2023-02-02T15:00:42.359Z",
+      "url": "https://play.google.com/store/apps/details?id=com.uyumsoft.ebelge&reviewId=8a8d624f-f586-4054-8e2f-d1eb0d21840c"
+    },
+    {
+      "date": "2022-12-28T11:23:11.569Z",
+      "score": 5,
+      "thumbsUp": 9,
+      "user": "zeynep toprak",
+      "text": "Uygulamayı yükledim. Kayıt olduğum. Atıver etmek için link gelmiyor. Aynı maille tekrar deniyorum bu mail kayıtlı diyor. Şifre unuttum kısmına giriyorum bu mail kayıtlı değil diyor. Mail adresinize yazdım ama cevap gelmedi. Çözüm bekliyorum.",
+      "reply": "Merhaba Zeynep Hanım, Geri bildiriminiz için çok teşekkür ederiz. Sizlere daha iyi hizmet verebilmemiz için destek@e-belge.com e-posta adresi üzerinden bizimle iletişime geçmenizi rica ederiz. İyi günler dileriz.",
+      "replyDate": "2023-01-11T10:35:09.418Z",
+      "url": "https://play.google.com/store/apps/details?id=com.uyumsoft.ebelge&reviewId=33adce38-b108-4bc3-bb45-b150da7ad01d"
+    },
+    {
+      "date": "2022-12-06T05:12:07.910Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Doğan Küçükaslan",
+      "text": "Bir yıldız bile çok fazla programın hatasız çalıştığına henüz denk gelmedim.",
+      "reply": "Merhaba Doğan Bey, Geri bildiriminiz için çok teşekkür ederiz. Sizlere daha iyi hizmet verebilmemiz için destek@e-belge.com e-posta adresi üzerinden bizimle iletişime geçmenizi rica ederiz. İyi günler dileriz.",
+      "replyDate": "2023-01-11T10:34:58.621Z",
+      "url": "https://play.google.com/store/apps/details?id=com.uyumsoft.ebelge&reviewId=2b96f748-8306-4159-846d-72c2ff971be6"
+    },
+    {
+      "date": "2022-11-19T18:23:03.318Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Elif Bayram",
+      "text": "Sürekli bana ücret belirterek bi mesaj gonderiyorsunuz ne ücretidir?",
+      "reply": "Merhaba Elif Hanım, Geri bildiriminiz için çok teşekkür ederiz. Sizlere daha iyi hizmet verebilmemiz için destek@e-belge.com e-posta adresi üzerinden bizimle iletişime geçmenizi rica ederiz. İyi günler dileriz.",
+      "replyDate": "2022-11-28T13:43:03.491Z",
+      "url": "https://play.google.com/store/apps/details?id=com.uyumsoft.ebelge&reviewId=3e5d7941-d367-45f2-9a9e-d236a49e5cb6"
+    },
+    {
+      "date": "2022-10-22T18:13:43.276Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Cahit Helvaci",
+      "text": "Ebelge nasıl iptal edilir.",
+      "reply": "Merhaba Cahit Bey, Geri bildiriminiz için çok teşekkür ederiz. Sizlere daha iyi hizmet verebilmemiz için destek@e-belge.com e-posta adresi üzerinden bizimle iletişime geçmenizi rica ederiz. İyi günler dileriz.",
+      "replyDate": "2022-11-04T07:12:49.865Z",
+      "url": "https://play.google.com/store/apps/details?id=com.uyumsoft.ebelge&reviewId=d6e008ea-fbe5-4ac4-a4ae-abbc820b1b21"
+    },
+    {
+      "date": "2022-10-20T09:29:53.250Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "Yusuf ERYILMAZ",
+      "text": "Normal",
+      "reply": "Yusuf Bey Merhaba, Değerli yorumlarınız, ilginiz ve anlayışınız için çok teşekkür ederiz. Sizlere yardımcı olmamızı istediğiniz farklı bir konu olduğunda destek@e-belge.com e-posta adresi üzerinden bizimle iletişime geçebilirsiniz. İyi günler dileriz.",
+      "replyDate": "2023-01-27T07:33:21.640Z",
+      "url": "https://play.google.com/store/apps/details?id=com.uyumsoft.ebelge&reviewId=b2f80d06-7e13-44d4-8881-b298b7c97016"
+    },
+    {
+      "date": "2022-10-15T04:02:36.446Z",
+      "score": 1,
+      "thumbsUp": 16,
+      "user": "Nursen KURT",
+      "text": "Şifremi kabul etmiyor E postami ekliyorum kayıtlı adres bulunamadı diyor. TC no ile tekrar kayıt olmak istiyorum bu TC kayıtlı diyor. Yani velhasıl kullanilmamak üzere ayarlanmış.",
+      "reply": "Merhaba Nurşen Hanım, Geri bildiriminiz için çok teşekkür ederiz. Sizlere daha iyi hizmet verebilmemiz için destek@e-belge.com e-posta adresi üzerinden bizimle iletişime geçmenizi rica ederiz. İyi günler dileriz.",
+      "replyDate": "2022-11-04T07:12:18.972Z",
+      "url": "https://play.google.com/store/apps/details?id=com.uyumsoft.ebelge&reviewId=3521c9da-a9b7-46d3-93a2-f1f0abfb33f1"
+    },
+    {
+      "date": "2022-10-04T14:55:16.603Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Şükrü Dikel",
+      "text": "Slm ben bu yeni projeler le mikrofondan konuşsak yaziyoemu",
+      "reply": "Merhaba Şükrü Bey, Geri bildiriminiz için çok teşekkür ederiz. Sizlere daha iyi hizmet verebilmemiz için destek@e-belge.com e-posta adresi üzerinden bizimle iletişime geçmenizi rica ederiz. İyi günler dileriz.",
+      "replyDate": "2022-11-04T07:12:33.758Z",
+      "url": "https://play.google.com/store/apps/details?id=com.uyumsoft.ebelge&reviewId=fc59134f-dbe4-4be0-97c9-82f63b751f97"
+    },
+    {
+      "date": "2022-09-22T11:09:28.927Z",
+      "score": 3,
+      "thumbsUp": 4,
+      "user": "Sero 06",
+      "text": "Apptan kayıt oldum şifremi belirledim ancak sisteme giriş yapamıyorum hatalı kullanıcı adı ve şifre hatası veriyor lütfen bu hatayı düzeltiniz proğramı kullanamıyorum bilgilerinize.",
+      "reply": "Merhaba, Geri bildiriminiz için çok teşekkür ederiz. Sizlere daha iyi hizmet verebilmemiz için destek@e-belge.com e-posta adresi üzerinden bizimle iletişime geçmenizi rica ederiz. İyi günler dileriz.",
+      "replyDate": "2022-11-04T07:11:27.999Z",
+      "url": "https://play.google.com/store/apps/details?id=com.uyumsoft.ebelge&reviewId=4313241c-edb7-4299-9adb-012f43a3c8b3"
+    },
+    {
+      "date": "2022-09-18T16:11:08.726Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Alper KOZAEKER",
+      "text": "Beğendim çok iyi. Tavsiye ederim.",
+      "reply": "Alper Bey Merhaba, Değerli yorumlarınız, ilginiz ve anlayışınız için çok teşekkür ederiz. Sizlere yardımcı olmamızı istediğiniz farklı bir konu olduğunda destek@e-belge.com e-posta adresi üzerinden bizimle iletişime geçebilirsiniz. İyi günler dileriz.",
+      "replyDate": "2023-01-27T07:33:06.716Z",
+      "url": "https://play.google.com/store/apps/details?id=com.uyumsoft.ebelge&reviewId=893b7481-88bf-4717-a6a4-73adf936ae5d"
+    },
+    {
+      "date": "2022-09-04T20:01:55.134Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Nuri Erdal",
+      "text": "Teşekkürler",
+      "reply": "Nuri Bey Merhaba, Değerli yorumlarınız, ilginiz ve anlayışınız için çok teşekkür ederiz. Sizlere yardımcı olmamızı istediğiniz farklı bir konu olduğunda destek@e-belge.com e-posta adresi üzerinden bizimle iletişime geçebilirsiniz. İyi günler dileriz.",
+      "replyDate": "2023-01-27T07:32:53.689Z",
+      "url": "https://play.google.com/store/apps/details?id=com.uyumsoft.ebelge&reviewId=12604392-5b6f-47d0-9688-d3ec6dfdfb2d"
+    },
+    {
+      "date": "2022-08-28T01:57:13.584Z",
+      "score": 1,
+      "thumbsUp": 2,
+      "user": "Bilge Coksen",
+      "text": "gmailimi kabul edemedi....",
+      "reply": "Merhaba, Geri bildiriminiz için çok teşekkür ederiz. Sizlere daha iyi hizmet verebilmemiz için destek@e-belge.com e-posta adresi üzerinden bizimle iletişime geçmenizi rica ederiz. İyi günler dileriz.",
+      "replyDate": "2022-09-04T06:46:15.400Z",
+      "url": "https://play.google.com/store/apps/details?id=com.uyumsoft.ebelge&reviewId=0540598e-77f8-43d3-bb2c-711130aa29b0"
+    },
+    {
+      "date": "2022-07-25T15:22:52.417Z",
+      "score": 5,
+      "thumbsUp": 15,
+      "user": "Yasemin Karaca",
+      "text": "Uygulamayı idirdim kayıt oldum. Giriş yapıyorum hata veriyor kullanıcı kayıtlı değil diyor. Tekrar kayıt olmaya gidiyorum bu tckn kayıt var diyor. Nasıl çözülecek anlamadım",
+      "reply": "Merhaba, Geri bildiriminiz için çok teşekkür ederiz. Sizlere daha iyi hizmet verebilmemiz için destek@e-belge.com e-posta adresi üzerinden bizimle iletişime geçmenizi rica ederiz.\nİyi günler dileriz.",
+      "replyDate": "2022-07-27T12:48:57.976Z",
+      "url": "https://play.google.com/store/apps/details?id=com.uyumsoft.ebelge&reviewId=6c37affb-44d8-47f0-b9f4-322d5434033a"
+    },
+    {
+      "date": "2022-07-06T20:07:00.969Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "murat erturan",
+      "text": "Yuklenmiyo",
+      "reply": "Merhaba, Geri bildiriminiz için çok teşekkür ederiz. Sizlere daha iyi hizmet verebilmemiz için destek@e-belge.com e-posta adresi üzerinden bizimle iletişime geçmenizi rica ederiz. İyi günler dileriz.",
+      "replyDate": "2022-07-19T06:35:00.160Z",
+      "url": "https://play.google.com/store/apps/details?id=com.uyumsoft.ebelge&reviewId=4449e62d-6067-4df2-8731-18402b0c0148"
+    },
+    {
+      "date": "2022-07-04T14:40:28.440Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "Hayday",
+      "text": "Bu uygulama ucretlimi",
+      "reply": "Merhaba,\n\nGeri bildiriminiz için çok teşekkür ederiz.\n\nSizlere daha iyi hizmet verebilmemiz için destek@e-belge.com e-posta adresi üzerinden bizimle iletişime geçmenizi rica ederiz.\n\nİyi günler dileriz.",
+      "replyDate": "2022-07-06T13:33:18.118Z",
+      "url": "https://play.google.com/store/apps/details?id=com.uyumsoft.ebelge&reviewId=bbb13741-073e-4866-a59d-df846636ba63"
+    },
+    {
+      "date": "2022-05-17T09:53:39.850Z",
+      "score": 1,
+      "thumbsUp": 12,
+      "user": "pilshopp gazikent",
+      "text": "Muhtemelen önümüzdeki yıl e fatura olacağız hazırlık olarak Benzer enaz 10 program denedim en kötüsü diyebilirim birde tüm programları sorunlu en son eko cari deneyemedim çünkü guncelleyecgiz diyorlar bu gün yarın derken 1 aydır tam olarak kullanılır hale getiremediler bazi ücretsiz programlar dahi daha iyi tek bildikleri özür dileriz bugün şu saatte yada yarın olacak ama haftalardır tık yok",
+      "reply": "Merhaba,\n\nGeri bildiriminiz için çok teşekkür ederiz.\n\nSizlere daha iyi hizmet verebilmemiz için 0destek@e-belge.com e-posta adresi üzerinden bizimle iletişime geçmenizi rica ederiz.\n\nİyi günler dileriz.",
+      "replyDate": "2022-07-06T13:34:01.289Z",
+      "url": "https://play.google.com/store/apps/details?id=com.uyumsoft.ebelge&reviewId=fbd4e953-83ea-4e5e-a6da-6dc28bf3c178"
+    },
+    {
+      "date": "2022-05-14T12:55:17.431Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Duygu Gumusoglu",
+      "text": "Bu uygulama ile Eko cari de kestigimiz faturaları buradan kesebiliyor muyuz.Yada Eko cari nin bu şekilde bir uygulaması var mı",
+      "reply": "Merhaba,\n\nGeri bildiriminiz için çok teşekkür ederiz.\n\nSizlere daha iyi hizmet verebilmemiz için destek@e-belge.com e-posta adresi üzerinden bizimle iletişime geçmenizi rica ederiz.\n\nİyi günler dileriz.",
+      "replyDate": "2022-07-06T13:34:12.558Z",
+      "url": "https://play.google.com/store/apps/details?id=com.uyumsoft.ebelge&reviewId=080359ae-5fc3-45b3-a460-186c84e8a743"
+    },
+    {
+      "date": "2022-03-26T09:28:40.527Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "Caner POLATCAN",
+      "text": "Başarılı bir uygulama. Sorunsuz ve güzel çalışıyor teşekkürler.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.uyumsoft.ebelge&reviewId=1e03110f-1f6e-4d5d-a388-778d2f732581"
+    },
+    {
+      "date": "2022-03-14T08:46:54.828Z",
+      "score": 5,
+      "thumbsUp": 2,
+      "user": "bilge yılmaz",
+      "text": "Çok kolay bir şekilde e arşiv faturalarımı kesebiliyorum. Teşekkürler Uyumsoft 👏💖",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.uyumsoft.ebelge&reviewId=00eac865-206e-4058-9423-ffd0bd410a59"
+    },
+    {
+      "date": "2022-03-09T15:52:28.645Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "Eylem Özge",
+      "text": "Kolay ve hızlı uygulama.Tavsiye ederim 👏",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.uyumsoft.ebelge&reviewId=b2b78c2b-693f-4e1d-9b62-0285c696137c"
+    },
+    {
+      "date": "2022-03-09T11:35:50.481Z",
+      "score": 5,
+      "thumbsUp": 13,
+      "user": "Zeynep Ceyhan",
+      "text": "İşlemlerimi sorunsuz bir şekilde, istediğim her yerden gerçekleştiriyorum. Kullanımı kolay, pratik bir uygulama. Teşekkürler Uyumsoft.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.uyumsoft.ebelge&reviewId=17825780-b737-4b26-8ef9-a30563a0c78c"
+    },
+    {
+      "date": "2022-03-08T14:29:22.631Z",
+      "score": 5,
+      "thumbsUp": 6,
+      "user": "emine korkmaz",
+      "text": "Kullanıcı dostu, pratik ve bir o kadar basit bir uygulama ile anında faturam cebimde",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.uyumsoft.ebelge&reviewId=2436a1de-b993-43f9-bf7d-a1a61c929e23"
+    },
+    {
+      "date": "2022-03-08T14:12:37.699Z",
+      "score": 5,
+      "thumbsUp": 6,
+      "user": "Sena Baysal",
+      "text": "Hızlı kolay kullanım memnuniyetle tavsiye ederim",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.uyumsoft.ebelge&reviewId=bed4fe52-82c9-4583-a9fa-33938e054994"
+    },
+    {
+      "date": "2022-03-08T06:15:36.894Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "ceren taşkıran",
+      "text": "kullanışlı fatura kesimi kolay tavsiye ederim",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.uyumsoft.ebelge&reviewId=76808657-0ac2-4b9e-b2ba-9fbd23989f01"
+    },
+    {
+      "date": "2022-03-08T05:07:05.948Z",
+      "score": 5,
+      "thumbsUp": 4,
+      "user": "SEMİH OLGUN",
+      "text": "Kalite tesadüf değildir. Yine Uyumsoft'a yakışan bir uygulama. İstediğim yerden e-arşiv faturalarımı kesebiliyorum. Teşekkürler Uyumsoft.👏👏",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.uyumsoft.ebelge&reviewId=b3277f39-ed41-4201-a385-d8979987cdec"
+    },
+    {
+      "date": "2022-03-07T21:10:20.379Z",
+      "score": 5,
+      "thumbsUp": 5,
+      "user": "Ömer Burak Koçak",
+      "text": "Gördüğüm en içerikli, en kolay uygulama. Beklediğimize değmiş, teşekkürler Uyumsoft.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.uyumsoft.ebelge&reviewId=c158172a-897b-4315-9634-edb5df3d81c3"
+    },
+    {
+      "date": "2022-03-07T18:41:15.302Z",
+      "score": 5,
+      "thumbsUp": 16,
+      "user": "Mahir Taymur",
+      "text": "Sonunda kaliteli bir uygulama işlemlerimi hemen gerçekleştirebiliyorum hızlı pratik ve sorunsuz emeği geçenlerin ellerine sağlık her anlamda süper 👏",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.uyumsoft.ebelge&reviewId=d041dadf-21f6-40ce-a967-f13938588803"
+    },
+    {
+      "date": "2022-03-07T18:20:11.968Z",
+      "score": 5,
+      "thumbsUp": 6,
+      "user": "Sevda Bayer",
+      "text": "Kolay, hızlı ve kullanışlı uyumsoft kalitesine yakışır bir uygulama.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.uyumsoft.ebelge&reviewId=5bd0c8fe-9378-46a5-a49a-1bd71f2ea08d"
+    },
+    {
+      "date": "2022-03-07T18:11:57.940Z",
+      "score": 5,
+      "thumbsUp": 5,
+      "user": "Esra Altuntaş",
+      "text": "Kolay ve hızlı bir uygulama teşekkür ederiz uyumsoft 👏",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.uyumsoft.ebelge&reviewId=59321291-dad2-42cd-81be-775571b62e60"
+    },
+    {
+      "date": "2022-03-07T18:11:31.401Z",
+      "score": 5,
+      "thumbsUp": 3,
+      "user": "Merve Oyulmaz",
+      "text": "Kullanışlı ve hızlı bir uygulama olmuş emeği geçenlerin eline sağlık",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.uyumsoft.ebelge&reviewId=f63efee0-09b4-414f-9ca4-a35ee0f9d10b"
+    },
+    {
+      "date": "2022-03-07T18:05:20.848Z",
+      "score": 5,
+      "thumbsUp": 19,
+      "user": "Utku Gurbuz",
+      "text": "Çok kullanışlı ve güzel bir uygulama olmuş, emeklerinize sağlık. Şuanda çok ihtiyaç olan herkesin kolaylıkla kullanabileceği bir uygulama.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.uyumsoft.ebelge&reviewId=e641982c-592a-4b67-9653-a58f1c9e230a"
+    },
+    {
+      "date": "2022-03-07T17:39:22.845Z",
+      "score": 5,
+      "thumbsUp": 5,
+      "user": "Yusuf Demir",
+      "text": "Çok şükür düzgün e-arşiv fatura kesecek bir uygulama bulduk herkese önereceğim teşekkürler Uyumsoft.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.uyumsoft.ebelge&reviewId=2c9cd539-b885-4d81-8c8f-f0bd2bb453b4"
+    },
+    {
+      "date": "2022-03-07T17:08:10.141Z",
+      "score": 5,
+      "thumbsUp": 5,
+      "user": "Seren Yeter",
+      "text": "Uygulama kolay ve kullanışlı e fatura ve e arşiv faturalarımı kolayca kesebiliyorum teşekkür ederim bu kadar güzel bir uygulama çıkardığınız için",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.uyumsoft.ebelge&reviewId=cc094a10-b92e-4d8b-9336-dd5c35443ad7"
+    },
+    {
+      "date": "2022-03-07T16:18:05.398Z",
+      "score": 5,
+      "thumbsUp": 5,
+      "user": "İsmail Güneş",
+      "text": "Uyumsoft kalitesine yakışır bir uygulama daha çıkarmış ben indirdim kullandım kolay kullanım sağlıyor indirmenizi tavsiye ediyorum",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.uyumsoft.ebelge&reviewId=c04b9403-6cd8-4779-b92c-e1f07a5d064c"
+    },
+    {
+      "date": "2022-03-07T15:50:50.200Z",
+      "score": 5,
+      "thumbsUp": 4,
+      "user": "emre kartal",
+      "text": "Uyumsoftun kalitesine yakışır bir uygulama olmuş emeğinize sağlık e arşiv faturalarımızı kolayca dilediğim yerden kesebiliyorum",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.uyumsoft.ebelge&reviewId=e49ad0c0-41ef-4da9-9e81-5c890cbc788b"
+    },
+    {
+      "date": "2022-03-07T15:42:38.845Z",
+      "score": 5,
+      "thumbsUp": 4,
+      "user": "Sumeyra Guner",
+      "text": "Uyumsoft kalitesine yakışır kullanışlı bi uygulama. Emeğinize sağlık..",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.uyumsoft.ebelge&reviewId=08232590-2df6-4ef3-a642-3d111ede2382"
+    },
+    {
+      "date": "2022-03-07T15:33:43.426Z",
+      "score": 5,
+      "thumbsUp": 4,
+      "user": "Cemal SAĞIN",
+      "text": "Uyumsoft kalitesine yakışan bir uygulama olmuş.Kalite tesadüf değildir.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.uyumsoft.ebelge&reviewId=5abcfd4e-c6dc-41b9-b65d-4001536f198c"
+    },
+    {
+      "date": "2022-03-07T15:27:06.979Z",
+      "score": 5,
+      "thumbsUp": 5,
+      "user": "Mert Erkaya",
+      "text": "Uygulama kolay ve kullanışlı e fatura ve e arşiv faturalar kolayca kesilebiliyor.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.uyumsoft.ebelge&reviewId=59956763-de62-495d-8068-4fb969c4928b"
+    },
+    {
+      "date": "2022-03-07T14:19:22.352Z",
+      "score": 5,
+      "thumbsUp": 5,
+      "user": "Sevtap burcu Çam",
+      "text": "Kullanım kolaylığı açısından çok güzel pratik bir uygulama",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.uyumsoft.ebelge&reviewId=dbbddb99-9bf9-4726-9c3c-c1dfe732bae4"
+    },
+    {
+      "date": "2022-03-07T14:18:36.115Z",
+      "score": 5,
+      "thumbsUp": 5,
+      "user": "NURSENA ERDOĞAN",
+      "text": "Hızlı uygulama, zamandan tasarruf için herkese tavsiye ediyorum",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.uyumsoft.ebelge&reviewId=6871c6c4-3c5a-40e5-9916-3161d31d4383"
+    }
+  ]
+}

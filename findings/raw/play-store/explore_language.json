@@ -1,0 +1,734 @@
+{
+  "generated_at": "2026-05-07T13:22:51.393Z",
+  "tick": "tick4_language_vocab",
+  "cells": [
+    {
+      "appId": "com.lingodeer",
+      "country": "us",
+      "title": "LingoDeer - Learn Languages",
+      "developer": "LingoDeer - Learn Languages Apps",
+      "installs": "10,000,000+",
+      "minInstalls": 10000000,
+      "score": 4.4457307,
+      "ratings": 449192,
+      "reviews_total": 16246,
+      "free": true,
+      "offersIAP": true,
+      "IAPRange": "$0.99 - $299.99 per item",
+      "histogram": {
+        "1": 29768,
+        "2": 13779,
+        "3": 18589,
+        "4": 51347,
+        "5": 335681
+      },
+      "pulled_reviews": 200,
+      "recent_total": 200,
+      "recent_low": 16,
+      "recent_low_pct": 8,
+      "low_samples": [
+        {
+          "date": "2026-05-04T06:47:07.688Z",
+          "score": 1,
+          "text": "starve for money"
+        },
+        {
+          "date": "2026-05-04T01:12:36.316Z",
+          "score": 1,
+          "text": "Relentless XP-Farming & Cheating. On reporting, this increases manifold. Tier 5 language, scores increase within 5-10 minutes by 10,000 to 11,000. Competition among best Cheaters. Best Cheater Wins. Overpriced & Overcharging."
+        },
+        {
+          "date": "2026-05-01T22:30:40.287Z",
+          "score": 1,
+          "text": "I take back what I originally said, after the first unit you have to pay for Lingodeer Plus, I don't wanna do that, fix this issue."
+        },
+        {
+          "date": "2026-04-29T11:55:17.399Z",
+          "score": 1,
+          "text": "this is just another subscription-based app. it's time to revolt against this sucking model. The answer to the problem: offer BOTH, pay once, AND subscription. Also, take a look at the data it collects. Files, IDs, messages,... WHY?!?! Oh, it's a Chi-Nah app. Just say NO."
+        },
+        {
+          "date": "2026-04-27T21:23:30.450Z",
+          "score": 1,
+          "text": "only 1 lesson is free then you have to pay £14pm or £79 for the year. in that lesson you lean to say you are Amrican or Chinese"
+        }
+      ]
+    },
+    {
+      "appId": "com.atistudios.mondly.languages",
+      "country": "us",
+      "title": "Mondly: Learn 41 Languages",
+      "developer": "Mondly by Pearson",
+      "installs": "50,000,000+",
+      "minInstalls": 50000000,
+      "score": 4.5303884,
+      "ratings": 923826,
+      "reviews_total": 14208,
+      "free": true,
+      "offersIAP": true,
+      "IAPRange": "$0.49 - $249.90 per item",
+      "histogram": {
+        "1": 44169,
+        "2": 18193,
+        "3": 44169,
+        "4": 114109,
+        "5": 703132
+      },
+      "pulled_reviews": 200,
+      "recent_total": 200,
+      "recent_low": 68,
+      "recent_low_pct": 34,
+      "low_samples": [
+        {
+          "date": "2026-05-05T16:50:11.860Z",
+          "score": 2,
+          "text": "The pesky bugs are still alive and thriving! The speech to text recognition is very poor, they really need to work on recognising the speaking and pronunciation part, I find the app very frustrating to use - sometimes it can't even recognise \" Yes\" or \"No\". I have a good quality smartphone and alway"
+        },
+        {
+          "date": "2026-05-05T13:31:51.229Z",
+          "score": 1,
+          "text": "Monetization and lack of options.. Only the very first lesson is free, and then everything needs payments. Advertising would offset this issue, but it just isn't a user-friendly way of doing things. You might as well ask for an upfront cost."
+        },
+        {
+          "date": "2026-05-03T06:52:44.460Z",
+          "score": 1,
+          "text": "This app automatically renews your subscription without asking for consent nor informing you, and obfuscates ways to cancel the renewal. This is basically a scam."
+        },
+        {
+          "date": "2026-05-02T09:40:51.988Z",
+          "score": 1,
+          "text": "you need to pay from day 3"
+        },
+        {
+          "date": "2026-05-02T08:11:59.105Z",
+          "score": 1,
+          "text": "holy ai slop, uninstaled after 2 min"
+        }
+      ]
+    },
+    {
+      "appId": "com.languagedrops.drops.international",
+      "country": "us",
+      "title": "Drops: Language Learning Games",
+      "developer": "Drops Languages",
+      "installs": "10,000,000+",
+      "minInstalls": 10000000,
+      "score": 4.3505654,
+      "ratings": 315078,
+      "reviews_total": 13703,
+      "free": true,
+      "offersIAP": true,
+      "IAPRange": "$0.99 - $269.99 per item",
+      "histogram": {
+        "1": 21983,
+        "2": 11704,
+        "3": 19540,
+        "4": 42450,
+        "5": 219378
+      },
+      "pulled_reviews": 200,
+      "recent_total": 200,
+      "recent_low": 39,
+      "recent_low_pct": 19.5,
+      "low_samples": [
+        {
+          "date": "2026-05-05T04:11:47.935Z",
+          "score": 1,
+          "text": "I've used many language apps and this is by far the most buggy and poorly maintained. WeChat login hasn't worked for over a year. When it was working the app would regularly freeze up."
+        },
+        {
+          "date": "2026-05-04T17:43:39.130Z",
+          "score": 2,
+          "text": "i really love this app but please remove the AI made pictures of the lessons. It truly looks awful 😔"
+        },
+        {
+          "date": "2026-05-02T04:51:37.450Z",
+          "score": 1,
+          "text": "it used to be great and as usual, they tried to add useless features instead of fixing the already known bugs. Now session last forever because the timer does not change. This is just ridiculous that something this simple cannot be tested and handled automatically."
+        },
+        {
+          "date": "2026-05-01T11:03:27.876Z",
+          "score": 1,
+          "text": "I got charged early I've cancelled and now the money is gone and it's ending tomorrow great"
+        },
+        {
+          "date": "2026-04-26T01:13:52.225Z",
+          "score": 1,
+          "text": "I love the design and the concept, but for languages that have gendered nouns there is no point learning the noun without the article, not wasting any more of my time on this."
+        }
+      ]
+    },
+    {
+      "appId": "com.hellotalk",
+      "country": "us",
+      "title": "HelloTalk - Learn Languages",
+      "developer": "HelloTalk Learn Languages App",
+      "installs": "10,000,000+",
+      "minInstalls": 10000000,
+      "score": 3.387783,
+      "ratings": 231057,
+      "reviews_total": 7435,
+      "free": true,
+      "offersIAP": true,
+      "IAPRange": "$0.49 - $399.99 per item",
+      "histogram": {
+        "1": 69295,
+        "2": 15855,
+        "3": 13944,
+        "4": 19816,
+        "5": 112118
+      },
+      "pulled_reviews": 200,
+      "recent_total": 200,
+      "recent_low": 87,
+      "recent_low_pct": 43.5,
+      "low_samples": [
+        {
+          "date": "2026-05-06T12:37:47.770Z",
+          "score": 1,
+          "text": "it's not responding, and it requires excellent connection which I lacked. I wanna aquire this to change to lower connection needed."
+        },
+        {
+          "date": "2026-05-06T03:39:33.867Z",
+          "score": 1,
+          "text": "it's great but the limit is too much, just from translating I have to buy VIP? lmao."
+        },
+        {
+          "date": "2026-05-05T18:36:36.104Z",
+          "score": 1,
+          "text": "لم يعجبني التطبيق و سيء جدا ولا يتم الرد فيه فقط يدعم تعلم لغة جديدة ولاكن تكلم مع الفتيات شيء مستحيل حملته منذ شهر واحد ولم اتلقى أي رد من فتات ما"
+        },
+        {
+          "date": "2026-05-05T07:16:32.322Z",
+          "score": 2,
+          "text": "good"
+        },
+        {
+          "date": "2026-05-05T07:10:20.582Z",
+          "score": 1,
+          "text": "really exploitative"
+        }
+      ]
+    },
+    {
+      "appId": "com.simyasolutions.ling.universal",
+      "country": "us",
+      "title": "Language Learning - Ling",
+      "developer": "Ling Learn Languages",
+      "installs": "1,000,000+",
+      "minInstalls": 1000000,
+      "score": 4.506596,
+      "ratings": 29488,
+      "reviews_total": 1130,
+      "free": true,
+      "offersIAP": true,
+      "IAPRange": "$0.99 - $349.99 per item",
+      "histogram": {
+        "1": 1553,
+        "2": 776,
+        "3": 855,
+        "4": 4276,
+        "5": 22017
+      },
+      "pulled_reviews": 200,
+      "recent_total": 200,
+      "recent_low": 27,
+      "recent_low_pct": 13.5,
+      "low_samples": [
+        {
+          "date": "2026-05-06T08:09:48.225Z",
+          "score": 1,
+          "text": "Its not good the service is not good"
+        },
+        {
+          "date": "2026-05-06T04:48:45.450Z",
+          "score": 1,
+          "text": "the app is well structured to learn a language, BUT it is so buggy and it seems like the subscription offers are not working... edited review after the issue has been resolved with a manual workaround. still does not change the fact that the app seems to be unstable. edit2 apparently I got confirmat"
+        },
+        {
+          "date": "2026-05-05T08:24:36.388Z",
+          "score": 2,
+          "text": "The app keep crushing. I've got the paid subscription and for the first couple of weeks it was working fine but now it seems to crush almost every day"
+        },
+        {
+          "date": "2026-05-05T06:59:42.876Z",
+          "score": 1,
+          "text": "it used to be a 5-star app, then recently Ling was downgraded to mimic the failed downgrade the modern duolingo. Ling is now totally worthless, just as duolingo is now. This used to be the best language learning app we had left, but those days are over thanks to whatever out-of-touch CEOs are making"
+        },
+        {
+          "date": "2026-05-04T12:03:58.790Z",
+          "score": 2,
+          "text": "Arabic speaking practice does not work yielding a zero every time. This is not the case with other typically hard to learn languages eg (simplified) and Chinese. Some of the languages throw you in at the deep end instead of teaching you to sound out the syllables. Slowing the word or phrase down is "
+        }
+      ]
+    },
+    {
+      "appId": "com.moymer.falou",
+      "country": "us",
+      "title": "Falou - Fast language learning",
+      "developer": "Moymer",
+      "installs": "10,000,000+",
+      "minInstalls": 10000000,
+      "score": 4.733948,
+      "ratings": 859448,
+      "reviews_total": 3823,
+      "free": true,
+      "offersIAP": true,
+      "IAPRange": "$1.99 - $149.99 per item",
+      "histogram": {
+        "1": 31072,
+        "2": 12178,
+        "3": 12484,
+        "4": 42671,
+        "5": 760948
+      },
+      "pulled_reviews": 200,
+      "recent_total": 200,
+      "recent_low": 43,
+      "recent_low_pct": 21.5,
+      "low_samples": [
+        {
+          "date": "2026-05-02T17:47:03.345Z",
+          "score": 2,
+          "text": "i speak sentence but its not working like it not listening anything just making me stuck there"
+        },
+        {
+          "date": "2026-05-01T23:22:37.443Z",
+          "score": 1,
+          "text": "your voice recorder sucked bros."
+        },
+        {
+          "date": "2026-05-01T16:01:01.683Z",
+          "score": 2,
+          "text": "free version has ridiculous amount of adds."
+        },
+        {
+          "date": "2026-05-01T02:34:50.665Z",
+          "score": 1,
+          "text": "after a few words you have to pay to continue"
+        },
+        {
+          "date": "2026-04-29T21:31:17.450Z",
+          "score": 2,
+          "text": "Drops you right in in a near-immersion fashion, which is great. The problem I am having is that in the Swedish course, the demand to use the microphone and proper pronunciation. The very first word the app asks me to say is the greeting, \"hej\" (hello), pronounced like \"hay\" in English, but the syste"
+        }
+      ]
+    },
+    {
+      "appId": "com.david.android.languageswitch",
+      "country": "us",
+      "title": "Beelinguapp Language Learning",
+      "developer": "Beelinguapp Languages",
+      "installs": "5,000,000+",
+      "minInstalls": 5000000,
+      "score": 4.1245284,
+      "ratings": 80879,
+      "reviews_total": 2646,
+      "free": true,
+      "offersIAP": true,
+      "IAPRange": "$1.99 - $398.00 per item",
+      "histogram": {
+        "1": 11139,
+        "2": 5035,
+        "3": 2899,
+        "4": 5341,
+        "5": 56462
+      },
+      "pulled_reviews": 200,
+      "recent_total": 84,
+      "recent_low": 34,
+      "recent_low_pct": 40.5,
+      "low_samples": [
+        {
+          "date": "2026-05-05T01:12:23.516Z",
+          "score": 1,
+          "text": "my experience has been horrible. the vocabulary sound does not work. it has never worked. repeated calls to help desk have elicited one unhelpful response. please save yourself some money, and a lot of frustration and use a different language learning app. Many calls to app administrators, but still"
+        },
+        {
+          "date": "2026-05-03T04:20:44.349Z",
+          "score": 1,
+          "text": "incredibly scummy pricing. forces you to make a decision in the first 30 minutes, before you can even try the app. total waste. use anki. lingq offers a free trial. this is a manipulative app."
+        },
+        {
+          "date": "2026-05-02T05:25:13.887Z",
+          "score": 1,
+          "text": "It was a great product, but I've had issues with the journey section not allowing me to continue forward. I reached out to Beelinguapp support several times with no answer or resolution."
+        },
+        {
+          "date": "2026-04-28T00:57:18.656Z",
+          "score": 1,
+          "text": "When I click on \"Start here\" it takes me to an ad that wants me to pay for it. I can't get past it."
+        },
+        {
+          "date": "2026-04-26T23:15:54.130Z",
+          "score": 1,
+          "text": "Makes you feel like a product more than a learner"
+        }
+      ]
+    },
+    {
+      "appId": "com.hrd.vocabulary",
+      "country": "us",
+      "title": "Vocabulary - Learn words daily",
+      "developer": "Monkey Taps LLC",
+      "installs": "5,000,000+",
+      "minInstalls": 5000000,
+      "score": 4.6630435,
+      "ratings": 107996,
+      "reviews_total": 1832,
+      "free": true,
+      "offersIAP": true,
+      "IAPRange": "$2.99 - $149.99 per item",
+      "histogram": {
+        "1": 4205,
+        "2": 1721,
+        "3": 2552,
+        "4": 9247,
+        "5": 90248
+      },
+      "pulled_reviews": 200,
+      "recent_total": 200,
+      "recent_low": 77,
+      "recent_low_pct": 38.5,
+      "low_samples": [
+        {
+          "date": "2026-05-04T17:58:38.980Z",
+          "score": 1,
+          "text": "I didnt realise it was paid for"
+        },
+        {
+          "date": "2026-05-04T11:10:09.000Z",
+          "score": 2,
+          "text": "I can't find the user id to request a refund"
+        },
+        {
+          "date": "2026-05-04T05:35:10.574Z",
+          "score": 1,
+          "text": "I did not ask for a yearly subscription and they took out the yearly subscription."
+        },
+        {
+          "date": "2026-05-02T15:11:52.631Z",
+          "score": 1,
+          "text": "Too many ads. Keeps asking you to upgrade to pay. \"Are you sure?\" \"Last chance.\" Friggin annoying."
+        },
+        {
+          "date": "2026-05-02T08:31:05.500Z",
+          "score": 1,
+          "text": "hidden fees. subscription based not free as an app of this level of simplicity should be"
+        }
+      ]
+    },
+    {
+      "appId": "co.wordupapp.app",
+      "country": "us",
+      "title": "WordUp | AI Vocabulary Builder",
+      "developer": "Geeks Ltd",
+      "installs": "5,000,000+",
+      "minInstalls": 5000000,
+      "score": 4.6235156,
+      "ratings": 186763,
+      "reviews_total": 1894,
+      "free": true,
+      "offersIAP": true,
+      "IAPRange": "$4.49 - $189.99 per item",
+      "histogram": {
+        "1": 5302,
+        "2": 1308,
+        "3": 7521,
+        "4": 29929,
+        "5": 142612
+      },
+      "pulled_reviews": 200,
+      "recent_total": 126,
+      "recent_low": 19,
+      "recent_low_pct": 15.1,
+      "low_samples": [
+        {
+          "date": "2026-05-03T12:07:54.817Z",
+          "score": 1,
+          "text": "waste application.."
+        },
+        {
+          "date": "2026-05-01T07:40:09.897Z",
+          "score": 1,
+          "text": "does what it's supposed to do"
+        },
+        {
+          "date": "2026-04-26T16:52:01.162Z",
+          "score": 1,
+          "text": "no delete account option. I dont plan on using this device for the foreseeable future. please delete account."
+        },
+        {
+          "date": "2026-04-24T19:07:22.477Z",
+          "score": 1,
+          "text": "In recent update. The downloading program failed and showed \"something went wrong\" when I use sign-in with Google and it blocked me to access the App. Tired clearing cache and reinstall already. Really frustrating and wanna unsubscribe this App after years... It was a fixed problem and now it backs "
+        },
+        {
+          "date": "2026-04-24T13:16:13.331Z",
+          "score": 1,
+          "text": "All the time it's showing technical error"
+        }
+      ]
+    },
+    {
+      "appId": "com.quizlet.quizletandroid",
+      "country": "us",
+      "title": "Quizlet: More than Flashcards",
+      "developer": "Quizlet Inc.",
+      "installs": "50,000,000+",
+      "minInstalls": 50000000,
+      "score": 4.7005973,
+      "ratings": 885988,
+      "reviews_total": 58463,
+      "free": true,
+      "offersIAP": true,
+      "IAPRange": "$1.99 - $44.99 per item",
+      "histogram": {
+        "1": 28346,
+        "2": 8929,
+        "3": 22180,
+        "4": 80717,
+        "5": 745804
+      },
+      "pulled_reviews": 200,
+      "recent_total": 200,
+      "recent_low": 52,
+      "recent_low_pct": 26,
+      "low_samples": [
+        {
+          "date": "2026-05-06T04:24:12.587Z",
+          "score": 1,
+          "text": "I always used this app to revise for my quizzes and competitions. It was very helpful for me even if it was limited since the quizlet plus costs a lot. Now the app turned into an AI junk. You almost can't even make your own cards, you have to input everything in AI for it to generate the cards. This"
+        },
+        {
+          "date": "2026-05-05T00:25:59.407Z",
+          "score": 1,
+          "text": "your fire test is stupid"
+        },
+        {
+          "date": "2026-05-03T20:38:24.385Z",
+          "score": 2,
+          "text": "Was great, but now I am met with an advertisement literally every 30 seconds. 30 seconds of using the app shouldn't constitute having to watch a 1 minute advertisement. If you want money just make it a paid only app. Since this is the app my target uses I'll have to suck it up and pay. I wouldn't mi"
+        },
+        {
+          "date": "2026-05-03T17:10:24.153Z",
+          "score": 1,
+          "text": "it used to be free i don't want to pay to have access to my old flash cards"
+        },
+        {
+          "date": "2026-05-03T16:33:12.749Z",
+          "score": 1,
+          "text": "not free anymore 😔"
+        }
+      ]
+    },
+    {
+      "appId": "com.brainscape.mobile.portal",
+      "country": "us",
+      "title": "Brainscape: Study Flashcards",
+      "developer": "Brainscape",
+      "installs": "1,000,000+",
+      "minInstalls": 1000000,
+      "score": 4.65233,
+      "ratings": 13345,
+      "reviews_total": 1286,
+      "free": true,
+      "offersIAP": true,
+      "IAPRange": "$19.99 - $199.99 per item",
+      "histogram": {
+        "1": 573,
+        "2": 95,
+        "3": 286,
+        "4": 1480,
+        "5": 10904
+      },
+      "pulled_reviews": 200,
+      "recent_total": 112,
+      "recent_low": 6,
+      "recent_low_pct": 5.4,
+      "low_samples": [
+        {
+          "date": "2026-05-03T11:13:40.315Z",
+          "score": 1,
+          "text": "i have subscribed for monthly basis.. then why it is asking for payment after every 15 days"
+        },
+        {
+          "date": "2026-05-03T04:13:09.546Z",
+          "score": 1,
+          "text": "unbelievably overpriced. no trial. just use anki"
+        },
+        {
+          "date": "2026-04-04T18:57:56.190Z",
+          "score": 2,
+          "text": "The flashcards say that it's for the NEC 2026 edition. It's still referring to the 2023 edition. The information is out of date for my purposes. The answers tell me to go to places that don't even exist in the book. I've had to use Gemini to get the correct location of the answers. This part of the "
+        },
+        {
+          "date": "2026-03-25T18:29:26.990Z",
+          "score": 1,
+          "text": "25€ a month for pro? Seriously? Thats absurd. I'll gladly pay you a couple bucks so I can brush up on geography, but 25 a month is ridiculous"
+        },
+        {
+          "date": "2026-02-25T23:03:41.350Z",
+          "score": 1,
+          "text": "You can't delete an account you made on the website, you have to download the app to delete it—even if you created the account on the website. BUT then you can't delete your subscription on the app, you have to use the website. Terrible UI. Anki is better and FREE. \"Sometimes a user has created mult"
+        }
+      ]
+    },
+    {
+      "appId": "com.duocards.app",
+      "country": "us",
+      "title": "DuoCards - Vocabulary Builder",
+      "developer": "DuoCards",
+      "installs": "5,000,000+",
+      "minInstalls": 5000000,
+      "score": 4.4917126,
+      "ratings": 50881,
+      "reviews_total": 645,
+      "free": true,
+      "offersIAP": true,
+      "IAPRange": "$6.70 - $108.33 per item",
+      "histogram": {
+        "1": 2801,
+        "2": 1120,
+        "3": 2241,
+        "4": 6724,
+        "5": 37936
+      },
+      "pulled_reviews": 200,
+      "recent_total": 98,
+      "recent_low": 19,
+      "recent_low_pct": 19.4,
+      "low_samples": [
+        {
+          "date": "2026-05-02T13:42:12.196Z",
+          "score": 1,
+          "text": "The practice mode is absolute wasted. It shows the answers in the sentences. What's the point of practice that way? too many bugs and wrong functioning. Purchased the paid version the last year, and probably the last time."
+        },
+        {
+          "date": "2026-04-30T11:40:11.307Z",
+          "score": 1,
+          "text": "stop advertising it as free, as it is not. stop wasting people's time."
+        },
+        {
+          "date": "2026-04-25T18:51:48.674Z",
+          "score": 1,
+          "text": "You can just use the app some times a day."
+        },
+        {
+          "date": "2026-04-22T11:24:08.716Z",
+          "score": 1,
+          "text": "I have paid for the subscription but lost all access to premium features randomly. Wish I never started using this app and I always advise anyone against using this one"
+        },
+        {
+          "date": "2026-04-21T14:20:47.883Z",
+          "score": 1,
+          "text": "I wanted to practice English, but this app for some reason wanted to know my native language. Ok, I told it, and after that it started showing me content in my native language, which I never asked it to do. Idk why you guys think that I need to see anything in my native language if my device is clea"
+        }
+      ]
+    },
+    {
+      "appId": "com.duolingo",
+      "country": "tr",
+      "title": "Duolingo: Dil Dersleri",
+      "developer": "Duolingo",
+      "installs": "500.000.000+",
+      "minInstalls": 500000000,
+      "score": 4.7534776,
+      "ratings": 44961331,
+      "reviews_total": 366137,
+      "free": true,
+      "offersIAP": true,
+      "IAPRange": "Öğe başına ₺7,39-₺3.599,99",
+      "histogram": {
+        "1": 682374,
+        "2": 278526,
+        "3": 1150494,
+        "4": 5217772,
+        "5": 37632067
+      },
+      "pulled_reviews": 200,
+      "recent_total": 200,
+      "recent_low": 30,
+      "recent_low_pct": 15,
+      "low_samples": [
+        {
+          "date": "2026-05-06T12:55:07.469Z",
+          "score": 1,
+          "text": "son zamanlarda hata veriyor. güncel dersleri yaptığım halde tekrar dene diyor. Puanlarımı ve serimi saymıyor."
+        },
+        {
+          "date": "2026-05-06T12:13:00.150Z",
+          "score": 1,
+          "text": "kuş sürekli Dırdır yapıyor"
+        },
+        {
+          "date": "2026-05-06T05:22:57.530Z",
+          "score": 1,
+          "text": "aslında sıfır hata robotsan söyle bilelim diyor ya hani Duolingo kuşu 🦜 keşke konuşma eklense"
+        },
+        {
+          "date": "2026-05-06T02:15:28.809Z",
+          "score": 1,
+          "text": "Güncellemeden sonra reklam izlesemde enerji gelmiyor, reklam başına 5 enerjiden 3 enerjiye düşmesi öğrenme hevesimi kırdı. Kurslar arasında geçiş yapamıyorum uygulamadan çıkıp tekrar giriş yapmam gerekiyor."
+        },
+        {
+          "date": "2026-05-05T22:14:44.610Z",
+          "score": 1,
+          "text": "birkaç gğn yapmayınca bütün serin gidiyo"
+        }
+      ]
+    },
+    {
+      "appId": "com.atistudios.mondly.languages",
+      "country": "tr",
+      "title": "41 dil öğren - Mondly",
+      "developer": "Mondly by Pearson",
+      "installs": "50.000.000+",
+      "minInstalls": 50000000,
+      "score": 4.492126,
+      "ratings": 923823,
+      "reviews_total": 25598,
+      "free": true,
+      "offersIAP": true,
+      "IAPRange": "Öğe başına ₺10,99-₺4.719,99",
+      "histogram": {
+        "1": 55427,
+        "2": 16287,
+        "3": 43197,
+        "4": 112159,
+        "5": 696721
+      },
+      "pulled_reviews": 200,
+      "recent_total": 33,
+      "recent_low": 17,
+      "recent_low_pct": 51.5,
+      "low_samples": [
+        {
+          "date": "2026-05-03T21:01:50.395Z",
+          "score": 1,
+          "text": "Yeni üye oldum iptal etmek istiyorum 7 gün dene yazıyor ama 2027 kadar üyelik deniyor bu ne saçma"
+        },
+        {
+          "date": "2026-05-02T14:09:19.557Z",
+          "score": 2,
+          "text": "Arnavutça ne zaman gelecek ?"
+        },
+        {
+          "date": "2026-04-30T14:30:34.180Z",
+          "score": 1,
+          "text": "abonelik yapmadım sadece uygulama telefonumda kalmış bir hafta sonra benden bir yıllık abonelik parası kesilmiş onaysız resmen dolandırıcılık bu"
+        },
+        {
+          "date": "2026-04-24T14:28:36.119Z",
+          "score": 2,
+          "text": "merhaba ilk seviyeden sonra premyum üyeliği istiyor bu normal mi"
+        },
+        {
+          "date": "2026-04-22T14:11:46.730Z",
+          "score": 1,
+          "text": "Test sorularının cevabı genelde birinci şık oluyor. Burada hata olduğunu düşünüyorum. Lütfen bu hatayı düzeltin. The answer of question generally first option (a). I think that it have a error. Please fix this error."
+        }
+      ]
+    }
+  ]
+}

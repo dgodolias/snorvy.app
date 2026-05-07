@@ -1,0 +1,519 @@
+{
+  "app": "sleeptrakcer.sleeprecorder.sleepapp.sleep",
+  "country": "us",
+  "lang": "en",
+  "total_pulled": 200,
+  "total_after_filter": 51,
+  "reviews": [
+    {
+      "date": "2026-04-27T06:29:19.657Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Saurabh Upadhyay",
+      "text": "capturing wrong data",
+      "reply": "Hello! Sorry for the inconvenience. Could you please tell us which data is inaccurate? This will greatly help us to optimize the tracking function in future releases! Our developers will try their best to improve the accuracy of the tracking in future releases to better manage your sleep. Welcome to share us more details via \"Me - Feedback\"! 💗\n",
+      "replyDate": "2026-04-28T06:20:16.278Z",
+      "url": "https://play.google.com/store/apps/details?id=sleeptrakcer.sleeprecorder.sleepapp.sleep&reviewId=ffe7e823-4a72-4064-8594-00fa3e620431"
+    },
+    {
+      "date": "2026-04-25T07:31:54.121Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "Crystal Compton",
+      "text": "What a shame. After a year or so of using Sleep Tracker, it stopped working, so I reinstalled it. I tried to log in and find my account, but it turns out all my data is gone or I never had any saved, and now you have to pay for the app. Firstly, the stats weren't accurate. However, it gave me an idea of what was going on during my sleep and I really liked the gentle gradual wake alarm, I loved creating my own sounds to drift off to, etc. But it isn't worth £18pm right now.",
+      "reply": "Hi! May I ask if all your previous sleep data has been synced to the cloud? If you have synced the data before, then even if you uninstalled and reinstalled the app, you can also sync the data back while you log into the same account! But if you haven't previously synced on your phone, there is currently no way to restore the previous data.\n\n",
+      "replyDate": "2026-04-27T10:26:14.899Z",
+      "url": "https://play.google.com/store/apps/details?id=sleeptrakcer.sleeprecorder.sleepapp.sleep&reviewId=1308e786-502f-4212-8102-d6014e4067ef"
+    },
+    {
+      "date": "2026-04-22T23:07:18.536Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Kevin",
+      "text": "I cant click away the ads:/",
+      "reply": "Hello Kevin, we're very sorry for the inconvenience. Could you kindly share the screen recording or link to the ad you saw at sleeptrackerfeedback@gmail.com? This will help us investigate and take action as soon as possible. We truly appreciate your support and understanding!\n",
+      "replyDate": "2026-04-23T10:24:54.725Z",
+      "url": "https://play.google.com/store/apps/details?id=sleeptrakcer.sleeprecorder.sleepapp.sleep&reviewId=0976d894-00d2-4e5e-a0b1-6b5495ed869c"
+    },
+    {
+      "date": "2026-04-19T05:03:19.270Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Alexander Dudin",
+      "text": "lately have been getting unskippable ads when starting the app (clicking the close button,but nothing happens), so gonna uninstall and look for alternative",
+      "reply": "Hello, we're very sorry for the inconvenience. Could you kindly share the screen recording or link to the ad you saw at sleeptrackerfeedback@gmail.com? This will help us investigate and take action as soon as possible. We truly appreciate your support and understanding!\n",
+      "replyDate": "2026-04-20T10:02:40.475Z",
+      "url": "https://play.google.com/store/apps/details?id=sleeptrakcer.sleeprecorder.sleepapp.sleep&reviewId=e35d07da-5e63-44cf-b186-14f425286cc3"
+    },
+    {
+      "date": "2026-04-18T02:33:28.909Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Chloe",
+      "text": "useless just another app that wants you to pay a subscrition fee to see 75% of what the app can do the snoring recordings Isnt me or my partner either",
+      "reply": "Please rest assured that we’ll keep your thoughts in mind as we work to enhance the app to bring more free content in the future! We are actively working on improving the audio classification feature. You can edit the tags of the recordings. Simply click the icon on the right side of each recording to choose and edit the tag for recording clips.",
+      "replyDate": "2026-04-21T07:30:29.770Z",
+      "url": "https://play.google.com/store/apps/details?id=sleeptrakcer.sleeprecorder.sleepapp.sleep&reviewId=33cff59f-b0b8-4799-b1e4-2ae9e6a28679"
+    },
+    {
+      "date": "2026-04-17T07:41:51.298Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "Farang Ding Dong",
+      "text": "Started off as a great app as it tracked sleeping patterns. Now it seems to track more background noise. Absolutlety hate the 20 second splash screen when opening the app - too long. My biggest gripe is that the app auto updated without my permission/consent as the UI is different. It's my phone - not yours! Now I have too many unwanted notifications during the day and battery use of minimum 35% per night. Thinking of uninstalling until a different app is found.",
+      "reply": "Hello! Sorry for the inconvenience. We’ll actively work on improving.Please note that automatic app updates are controlled by your device system, not the app itself—you can disable them in Google Play settings. Kindly note that you can also go to your device’s settings - App Management - select our app - and turn off notifications.Hope it helps! 🌹",
+      "replyDate": "2026-04-17T09:53:17.688Z",
+      "url": "https://play.google.com/store/apps/details?id=sleeptrakcer.sleeprecorder.sleepapp.sleep&reviewId=447fc8ea-b80f-4325-a653-e1111e2b98fa"
+    },
+    {
+      "date": "2026-04-16T17:04:40.415Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "Norah Hill",
+      "text": "I used to use this almost every night and loved it. But it updated and now it won't let me listen to my recordings, access the smart alarm or anything without upgrading to premium which used to be standard. Made it useless. I'm not paying every single year for it. I would buy it outright once for 10-20 bucks because it's been great but it's getting deleted.",
+      "reply": "Hi, we understand your concern regarding the paid features. To keep the app sustainable in the long term, we had to make the difficult decision to move some content to Premium plan. Also, we remain committed to offering plenty of free content for users. We'll make sure to pass your request on the team. Feel free to contact us via \"Me - Feedback\". ✨",
+      "replyDate": "2026-04-17T02:15:16.870Z",
+      "url": "https://play.google.com/store/apps/details?id=sleeptrakcer.sleeprecorder.sleepapp.sleep&reviewId=f5cf2cd4-71e2-4303-91a8-2d3c1845636f"
+    },
+    {
+      "date": "2026-04-15T14:40:49.572Z",
+      "score": 2,
+      "thumbsUp": 4,
+      "user": "LINDA MASSIE",
+      "text": "DO NOT TRUST THIS APP WHEN IT COMES TO SLEEP APNEA. It kept saying mine was low. But a test at a sleep center reveals I have moderate sleep apnea. What else is inaccurate with it?",
+      "reply": "Hello! We’re sorry for any concern caused. These data can be helpful indicators of sleep patterns, but the app is not intended for medical diagnosis. Rest assured that we highly value your feedback, and the team will work hard to improve. We also recommend updating to the latest version, as sleep tracking features are continuously being improved.",
+      "replyDate": "2026-04-16T08:42:25.448Z",
+      "url": "https://play.google.com/store/apps/details?id=sleeptrakcer.sleeprecorder.sleepapp.sleep&reviewId=01787317-7046-4707-9508-781639117c73"
+    },
+    {
+      "date": "2026-04-13T13:53:44.563Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "Rachael Koschak",
+      "text": "this app says i have a great night sleep when my sleep is light and I wake up exhausted.",
+      "reply": "Hello! Thanks for your feedback. The sleep quality score depends on several factors, such as sleep duration of sleep and deep sleep, and your wake-up mood. You can access the instructions in the application via \"Me -> FAQ -> How does app calculate your sleep quality score\". We will continue to improve the application. Hope you have a nice day!\n\n",
+      "replyDate": "2026-04-14T03:30:25.377Z",
+      "url": "https://play.google.com/store/apps/details?id=sleeptrakcer.sleeprecorder.sleepapp.sleep&reviewId=6acbc4ba-72df-40df-9a7b-ad01bc842925"
+    },
+    {
+      "date": "2026-04-11T08:59:13.319Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Roman Vert",
+      "text": "1. This app asks too much and does it annoyingly. But I just wanted to record me snoring. 2. It recorded everything except my snoring. But I 100% snored. I know it because I have another recording in parallel. Total waste of time. I remove it from my device rn.",
+      "reply": "Hi, sorry for the inconvenience. We highly value your feedback and our development team will work hard to solve the problem in future releases. Thanks for your understanding! Any questions, feel free to contact us via \"Me - Feedback\". We will help you as soon as possible. All the best. ❤️",
+      "replyDate": "2026-04-13T09:05:54.846Z",
+      "url": "https://play.google.com/store/apps/details?id=sleeptrakcer.sleeprecorder.sleepapp.sleep&reviewId=34ece23e-43f5-404f-976a-674f81797c4d"
+    },
+    {
+      "date": "2026-04-11T08:11:07.487Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "The Shape show officialTM",
+      "text": "cash grab, hardly usable without payin",
+      "reply": "Hi! Apologies for any inconvenience! We understand you may seek free solutions! The subscription function is just to help maintain our team so that we can keep providing top-class services to everyone. You can also try a 7-day free trial. We will do our best to optimize the pricing accordingly. Best wishes. ❤️",
+      "replyDate": "2026-04-13T09:06:39.635Z",
+      "url": "https://play.google.com/store/apps/details?id=sleeptrakcer.sleeprecorder.sleepapp.sleep&reviewId=1133d8bc-9f30-446e-ac2a-e12d093f2482"
+    },
+    {
+      "date": "2026-04-07T02:50:40.616Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "M Marcotte",
+      "text": "paid for no ads back in the day. They've changed to subscription based monthly payments and didn't Grandfather historical purchases. reached out, no response yet.",
+      "reply": "Sorry for confusion. To clarify, the app offers a lifetime purchase option only for removing ads permanently. All other premium features are available through the annual subscription, as there is no monthly purchase option to unlock them. Your lifetime purchase will continue to remove ads. Please drop us feedback in the app if you have any issues!",
+      "replyDate": "2026-04-08T03:47:18.144Z",
+      "url": "https://play.google.com/store/apps/details?id=sleeptrakcer.sleeprecorder.sleepapp.sleep&reviewId=40d7548c-20cc-4c14-8d6e-21fd39de332b"
+    },
+    {
+      "date": "2026-04-06T05:34:43.657Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Jacobel Barfi",
+      "text": "horrible and lying bc u have to pay extra for stuff that it comes with",
+      "reply": "Hi! Sorry for this! Our objective is to offer top-notch products and to sustain continuous development and upgrades, so some features are accessible through payment. This guarantees a superior experience for every user. We still provide sleep tracking, daily sleep reports, and basic sleep-aid sounds free! You can also try a 7-day free trial!🌷",
+      "replyDate": "2026-04-07T10:21:48.669Z",
+      "url": "https://play.google.com/store/apps/details?id=sleeptrakcer.sleeprecorder.sleepapp.sleep&reviewId=d81cc076-1335-4f1e-866b-210dc108f418"
+    },
+    {
+      "date": "2026-04-03T14:34:32.530Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Deborah Marshall",
+      "text": "not pleased with this app",
+      "reply": "Hi! Apologies for any inconvenience! Do you think something should be improved? We'd like to learn more about the specific situation so that we can help you effectively. If possible, please contact us via \"Me - Feedback\" in our app. Thank you for your support.❤️",
+      "replyDate": "2026-04-07T10:34:15.235Z",
+      "url": "https://play.google.com/store/apps/details?id=sleeptrakcer.sleeprecorder.sleepapp.sleep&reviewId=6b787de0-0470-4006-b0a4-b6c620c7c36d"
+    },
+    {
+      "date": "2026-04-03T02:36:18.740Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "John Eichman",
+      "text": "OH MY GOD I WANTED TO KEEP MY RECORDING BUT I BROKE MY PHONE IN A TRIP FOR THANKSGIVING, AND STILL WANTED TO KEEP MY RECORDING, HOWEVER I HATED APPS KEPT ON CLOSING ON MY MOTOROLA, AND GOT MY NEW PHONE A51 5G (NOT 5G), AND NOW I LOST MY RECORDING ALL GREAT!!!!, WOULD I GET MY NEW SLEEPING RECORDING SOMEDAY?",
+      "reply": "Hello! Due to Android limitations, app interruptions can’t be fully avoided. To reduce this, keep the app in the foreground and avoid manually locking your screen. Sync only works for sleep data, not audio recordings, so reinstalling the app cannot restore old recordings. But the new sleep sessions will save your audio recordings normally.",
+      "replyDate": "2026-04-03T07:27:19.244Z",
+      "url": "https://play.google.com/store/apps/details?id=sleeptrakcer.sleeprecorder.sleepapp.sleep&reviewId=973ed974-131d-4f2b-b323-4612530414be"
+    },
+    {
+      "date": "2026-04-02T23:05:28.484Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Martin Lee Østergaard",
+      "text": "Why would you possibly ever have a loud, high pitched voice repeat \"HAPPY APRIL FOOLS DAY. GOODNIGHT!\" every 20 seconds in an app made for people who struggle with sleeping when it's 2 days past April Fool's Day??? If I put Forest Whisper on Sounds this \"\"\"hilarious\"\"\" joke repeats several times a minute, highly unserious app.",
+      "reply": "Hello, thanks for reaching out to us! We'll take your feedback into deep consideration and will try to optimize this feature to bring you a better experience. Any other questions, please feel free to contact us via \"Me - Feedback\". Have a nice day! ❤️",
+      "replyDate": "2026-04-03T07:31:34.370Z",
+      "url": "https://play.google.com/store/apps/details?id=sleeptrakcer.sleeprecorder.sleepapp.sleep&reviewId=1f19eae4-1080-4c66-b9be-7bb21dba5c94"
+    },
+    {
+      "date": "2026-04-02T08:49:06.925Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Marion Rackliff Thurston",
+      "text": "it was a great app, until 3 days ago. The alarm sropped going off. Ive been waking up on my own, but that's not always possible. I've been using this app for a long time, now I have to find one that actually works.",
+      "reply": "Hi! Due to the Android system's limitations, app interruptions cannot be avoided completely. We suggest keeping the app running in the foreground and not locking the screen. The app will automatically darken the screen. If the issue still exists, please contact us via \"Me - Feedback\" in the app. All the best! ❤️",
+      "replyDate": "2026-04-03T09:52:47.633Z",
+      "url": "https://play.google.com/store/apps/details?id=sleeptrakcer.sleeprecorder.sleepapp.sleep&reviewId=d1f4b9e7-0ec5-4ada-bb97-cb824d7af079"
+    },
+    {
+      "date": "2026-04-02T03:16:07.850Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Zach Shaw",
+      "text": "has plenty of interesting tools but aggressively pushes premium features at every turn",
+      "reply": "Hi! We provide sleep tracking, daily sleep reports, and sleep sounds free! You can skip the payment screen by tapping the “X” button of the offer. The Free Edition of Sleep Tracker will start automatically. New subscription function is just to help maintain our team to provide top-class services. You can also try a 7-day free trial! ❤️",
+      "replyDate": "2026-04-02T07:21:27.170Z",
+      "url": "https://play.google.com/store/apps/details?id=sleeptrakcer.sleeprecorder.sleepapp.sleep&reviewId=61a3fb31-2243-45f7-825b-a250b43ad8c4"
+    },
+    {
+      "date": "2026-03-29T06:01:27.488Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Sasha D.",
+      "text": "one night I'm supposedly awake for 5 hours. and one night I supposedly spent 5 hours in 100% deep sleep without lighter phases or REM. I know these apps are guessing at best but this one is just giving nonsense.",
+      "reply": "Hello! Apologies for any inconvenience! We'll do our best to improve the accuracy of the tracking in future releases. In addition, we suggest you sleep in a quiet, low-noise environment to prevent noise from disrupting your sleep results. Any questions, welcome to contact us again via \"Me - Feedback\"! Your satisfaction is very important to us! 💗",
+      "replyDate": "2026-03-30T08:56:48.970Z",
+      "url": "https://play.google.com/store/apps/details?id=sleeptrakcer.sleeprecorder.sleepapp.sleep&reviewId=e9bb3edf-994b-499d-aa3f-5a10530712aa"
+    },
+    {
+      "date": "2026-03-29T00:07:39.998Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "yusuf talha erdem",
+      "text": "login takes a min, no skipping",
+      "reply": "Hi, sorry for the inconvenience. We highly value your feedback and have shared your opinion with our developers! Our team will work hard to optimize the loading time in future versions as soon as possible to bring you a better experience! Please drop us feedback in the app if you have any other issues! Thanks for your patience! 💫",
+      "replyDate": "2026-03-30T08:58:21.772Z",
+      "url": "https://play.google.com/store/apps/details?id=sleeptrakcer.sleeprecorder.sleepapp.sleep&reviewId=48922120-ac9b-4431-93b7-dcaa3cf78c23"
+    },
+    {
+      "date": "2026-03-28T06:11:54.387Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Caitlin Dawson",
+      "text": "It was completely inaccurate and could not even record the times I knew I was awake. I can only assume the rest of the data is also incorrect or completely made up.",
+      "reply": "Hello! We've shared your issue with our team to look into! Our team is working on improving the app's tracking function! Thanks for sharing your experience! We will bring you a better experience in future releases! If you have more feedback, do not hesitate to share it with us via \"Me - Feedback\" in the app. 💗",
+      "replyDate": "2026-03-30T09:46:27.613Z",
+      "url": "https://play.google.com/store/apps/details?id=sleeptrakcer.sleeprecorder.sleepapp.sleep&reviewId=9ba42a3b-00cc-457b-84fa-dac94a878195"
+    },
+    {
+      "date": "2026-03-28T05:02:10.657Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "Kerry",
+      "text": "I paid for a lifetime subscription a couple of of years ago, I've just upgraded my phone and now they want a yearly subscription of $37. I've tried restoring the purchase and it keeps failing it, I've tried uninstalling and reinstalling on different accounts and it is not working. As far I can tell the developers now want you to pay yearly for this. I gave it two stars because it's worked quite well up until now but I won't be paying a yearly fee for an app I bought a lifetime subscription to.",
+      "reply": "Sorry for confusion. To clarify, the app offers a lifetime purchase option only for removing ads permanently. All other premium features are available through the annual subscription, as there is no one-time purchase option to unlock them. Your lifetime purchase will continue to remove ads. Please drop us feedback in the app if you have any issues!",
+      "replyDate": "2026-03-30T09:54:39.689Z",
+      "url": "https://play.google.com/store/apps/details?id=sleeptrakcer.sleeprecorder.sleepapp.sleep&reviewId=18a1920a-2780-4bb8-92a9-a039840be7bb"
+    },
+    {
+      "date": "2026-03-23T18:03:35.387Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "Ed Janiszewski",
+      "text": "Free but then pesters user to sign up for subscription. Not entirely accurate. Records sounds (snoring/pets etc) but doesn't give access to all without subscription. As a novelty, it's interesting for a few nights but that's about it.",
+      "reply": "Hello! We understand your concern about paid features, but the paid features support continued improvements and added content. Please rest assured that we’ll keep your thoughts in mind as we work to enhance the app to bring more free content in the future! 🙌\n",
+      "replyDate": "2026-03-24T06:55:10.400Z",
+      "url": "https://play.google.com/store/apps/details?id=sleeptrakcer.sleeprecorder.sleepapp.sleep&reviewId=a6304bff-6d57-45f3-9695-739c3fee9eb4"
+    },
+    {
+      "date": "2026-03-17T07:33:54.100Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Marnie rae Oseman",
+      "text": "it kept saying I was awake",
+      "reply": "Hi! Please rest assured that our team is continuously working to improve the accuracy and reliability of our sleep analysis. Sleep detection is based on sound patterns and movement signals, and in some cases, certain background noises or subtle sounds may be misinterpreted. We sincerely apologize for the inconvenience and appreciate your patience.",
+      "replyDate": "2026-03-17T07:40:56.747Z",
+      "url": "https://play.google.com/store/apps/details?id=sleeptrakcer.sleeprecorder.sleepapp.sleep&reviewId=2fcadef7-0b34-4387-94e1-0596998a653e"
+    },
+    {
+      "date": "2026-03-14T07:36:59.670Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Brett Miller",
+      "text": "used to like this app. now Bs game ads that wont close. so disappointed",
+      "reply": "Hello, we're very sorry for the inconvenience. Could you kindly share the screen recording or link to the ad you saw at sleeptrackerfeedback@gmail.com? This will help us investigate and take action as soon as possible. We truly appreciate your support and understanding!\n",
+      "replyDate": "2026-03-16T10:26:39.464Z",
+      "url": "https://play.google.com/store/apps/details?id=sleeptrakcer.sleeprecorder.sleepapp.sleep&reviewId=1bb0440e-96f0-498b-b99b-022a10469a37"
+    },
+    {
+      "date": "2026-03-14T06:42:07.960Z",
+      "score": 2,
+      "thumbsUp": 3,
+      "user": "Trinity Taylor",
+      "text": "Okay, so it's not bad, but it's definitely not good. I got it because I was curious to see if I was sleeping talking (I don't), but of course there's a paywall behind that section. The snoring is accurate but everything else really isn't. The \"Animals section\" is just my bed creaking when I roll over. The \"environment\" was my phone buzzing on silent. There were other instances on \"Other\" where it was literally nothing, just a blank recording. Personally I don't think it's worth it but it's cool.",
+      "reply": "Hello! Thank you for your valuable feedback! Please be assured that we are actively working on improving the audio classification feature. In the meantime, you can edit the tags of the recordings. Simply click the icon on the right side of each recording to choose and edit the tag for the recording clips. All the best!\n\n",
+      "replyDate": "2026-03-17T07:27:37.158Z",
+      "url": "https://play.google.com/store/apps/details?id=sleeptrakcer.sleeprecorder.sleepapp.sleep&reviewId=b2e0b67a-2d02-4605-888f-94f1628f75a8"
+    },
+    {
+      "date": "2026-03-12T14:53:19.353Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Jacqueline Koch Sr",
+      "text": "I work graveyards and it won't let me put in what time I goto sleep in the morning or even let me get past that part....Lame",
+      "reply": "Hello! We apologize for any confusion. Please kindly note that you can set any bedtime as you want. Just make sure that your bedtime and alarm time should be 1-20 hours apart. Bedtime outside this time frame will not be set successfully. Any other questions, please contact us via \"Me -> Feedback\". We are always here to help you. Best wishes! ❤️",
+      "replyDate": "2026-03-13T07:28:46.810Z",
+      "url": "https://play.google.com/store/apps/details?id=sleeptrakcer.sleeprecorder.sleepapp.sleep&reviewId=bcf3cbe2-b1fe-4a5e-a54b-50596395461a"
+    },
+    {
+      "date": "2026-03-11T15:05:27.882Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Mark",
+      "text": "I tried the so called 7 day free trial and deleted app after a few days and then it tried to charge my account after it was deleted. so beware",
+      "reply": "Deleting the app does not cancel a subscription. If you start a free trial and don't wish to continue, the subscription needs to be cancelled at least 24 hours before the trial period ends to avoid renewal. Please open the Play Store app, tap your profile picture in the top right, go to Payments & Subscriptions, and select “Cancel subscription”.",
+      "replyDate": "2026-03-12T01:55:11.707Z",
+      "url": "https://play.google.com/store/apps/details?id=sleeptrakcer.sleeprecorder.sleepapp.sleep&reviewId=915cd9f1-6d68-47cc-b3cb-58fbe18f4eae"
+    },
+    {
+      "date": "2026-03-11T10:10:50.931Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Becky Lynn",
+      "text": "not free",
+      "reply": "Hi, sorry for the inconvenience. We rovide sleep tracking, daily sleep reports, and sleep-aid sounds free! The subscription function is just to help maintain our team to provide top-class services. You can also try a 7-day free trial. We will also do our best to optimize the pricing accordingly. Have a nice day! ❤️",
+      "replyDate": "2026-03-12T07:54:57.670Z",
+      "url": "https://play.google.com/store/apps/details?id=sleeptrakcer.sleeprecorder.sleepapp.sleep&reviewId=c2007570-4ee8-4744-9aa1-4123b6f29f0e"
+    },
+    {
+      "date": "2026-03-09T04:26:05.478Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Lu Ci",
+      "text": "Stupid app doesn't allow me to set 8am as my sleep time in the starting config. Nightshifters don't exist apparently.",
+      "reply": "Hello! We apologize for any confusion. Please kindly note that you can set any bedtime as you want. Just make sure that your bedtime and alarm time should be 1-20 hours apart. Bedtime outside this time frame will not be set successfully. Any other questions, please contact us via \"Me -> Feedback\". We are always here to help you. Best wishes! ❤️",
+      "replyDate": "2026-03-10T07:18:47.757Z",
+      "url": "https://play.google.com/store/apps/details?id=sleeptrakcer.sleeprecorder.sleepapp.sleep&reviewId=1d805973-8ffe-41e0-8ac0-eceb1cb2e618"
+    },
+    {
+      "date": "2026-03-07T09:45:20.945Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Brittany P",
+      "text": "Cancell my membership... uselessapp",
+      "reply": "Hi! We're sorry for the inconvenience. Are you having problems using our app? To manage your subscription, please open the Play Store app, tap your profile picture in the top right, go to Payments & Subscriptions, and select Cancel subscription to stop automatic renewal. If you need further assistance, feel free to contact us via \"Me - Feedback\".",
+      "replyDate": "2026-03-09T01:36:57.164Z",
+      "url": "https://play.google.com/store/apps/details?id=sleeptrakcer.sleeprecorder.sleepapp.sleep&reviewId=f0b6be14-46b2-4b9b-844e-0aa9cab2c960"
+    },
+    {
+      "date": "2026-03-06T00:36:46.492Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "My Google Name",
+      "text": "what is the price of this app? the info in the app makes no sense: x amount lifetime?! why the obviously designed impregnated confusion? we have enough IQ to understand confusing marketing tactics and we hate it ! you can be better than that !",
+      "reply": "Hello! Sorry for the inconvenience! Currently, the app only supports an annual subscription. It’s possible that some other information was mistaken for in-app content. We would greatly appreciate it if you could send us a screenshot via \"Me → Feedback\" in the app so we can better understand and assist you.",
+      "replyDate": "2026-03-06T06:35:00.955Z",
+      "url": "https://play.google.com/store/apps/details?id=sleeptrakcer.sleeprecorder.sleepapp.sleep&reviewId=4057f359-b510-4f92-82a2-58956c8943fc"
+    },
+    {
+      "date": "2026-03-04T20:39:13.767Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "аня",
+      "text": "удалили любимый звук, под который я всегда засыпаю. теперь не могу заснуть..",
+      "reply": "Мы прекрасно понимаем, насколько важны знакомые звуки для сна. Чтобы помочь нам разобраться в ситуации, пожалуйста, сообщите, какой именно звук или контент, по вашему мнению, был удален. Если возможно, мы будем очень признательны, если вы также свяжетесь с нами через раздел «Обратная связь» в приложении, предоставив более подробную информацию.",
+      "replyDate": "2026-03-05T07:52:48.983Z",
+      "url": "https://play.google.com/store/apps/details?id=sleeptrakcer.sleeprecorder.sleepapp.sleep&reviewId=aff52897-1955-4219-8461-168d0cbc0a20"
+    },
+    {
+      "date": "2026-03-03T14:24:34.636Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Nichaya Chawnatai",
+      "text": "I initially recommended this app to my mother, but after she downloaded it, someone stole her data. I'm confused. Don't use this app how can you protect? What is your policy? Recheck it and protect your app better than now!!!!",
+      "reply": "Hi, thanks for your comment. You have our guarantee that your data would not be leaked. We always strictly adhere to the user privacy policy. All the data we get access to is for you to analyze your sleep cycle. Any questions, please feel free to contact us via \"Me - Feedback\" in our app. Best wishes. 😊",
+      "replyDate": "2026-03-04T06:44:37.179Z",
+      "url": "https://play.google.com/store/apps/details?id=sleeptrakcer.sleeprecorder.sleepapp.sleep&reviewId=ce0715bc-6bc1-4754-af02-c92f99d697f7"
+    },
+    {
+      "date": "2026-03-03T12:57:12.815Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": ":Jesse-Daniel: Johnson.",
+      "text": "DO NOT USE!! Now they want to charge a yearly subscription for what was included in the free version for at least 8 years since I started using this? Nope. They already have my sleep recordings since the app went all cloud based. Now they want to charge me for access to recording of my sleep. What kind of twisted, demented psychos do that?!?!?!",
+      "reply": "Sorry about that. Kindly note that Premium version adds richer features like full sleep reports, all-night audio playback, extra sleep sounds, alarm ringtones and wall papers, plus snore and apnea insights to better track your sleep. We’d like to clarify that your recordings are stored locally on your device—they are not synced to the cloud. 🥰\n",
+      "replyDate": "2026-03-04T06:55:29.442Z",
+      "url": "https://play.google.com/store/apps/details?id=sleeptrakcer.sleeprecorder.sleepapp.sleep&reviewId=fcbf9c40-374e-42b7-902e-a6dcefb766d8"
+    },
+    {
+      "date": "2026-03-02T22:29:12.836Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "santhosh k",
+      "text": "not happy with this app",
+      "reply": "Hi, sorry to see your 1-star rating. May I know if you have encountered any problems when using our app? If convenient, please share with us more details via \"Me - Feedback\" in the app. We are always here to help you. Looking forward to hearing from you. 🌹",
+      "replyDate": "2026-03-03T05:42:21.659Z",
+      "url": "https://play.google.com/store/apps/details?id=sleeptrakcer.sleeprecorder.sleepapp.sleep&reviewId=c63f2612-941d-4566-897d-71a1ae5d8753"
+    },
+    {
+      "date": "2026-03-02T06:52:04.688Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Kripasindhu Sarkar",
+      "text": "* Didn't record the scream of my toddler - the reason I installed this app. * No way to see my subscription plan from inside the app and cancel or change if needed. Thank God Google play centralized this so that you can see and unsubscribe from Google and not through the app! Absolutely scammy!",
+      "reply": "Hi! The app monitors your sounds the whole night, but will select the highest-quality recordings to display. Therefore, the number and the time of recordings per night may vary. Plus, to manage your subscription, please open the Play Store, tap your profile picture in the top right, go to Payments & Subscriptions, and select Cancel subscription🌹\n\n",
+      "replyDate": "2026-03-02T07:30:18.930Z",
+      "url": "https://play.google.com/store/apps/details?id=sleeptrakcer.sleeprecorder.sleepapp.sleep&reviewId=4310f873-1f77-4296-a737-9041da30cb76"
+    },
+    {
+      "date": "2026-02-28T14:32:13.220Z",
+      "score": 1,
+      "thumbsUp": 2,
+      "user": "Chris Huggins",
+      "text": "was fine for years, now forced adds and push notifications are too much.",
+      "reply": "Hi! We will work harder to optimize the frequency of ads to provide better services. Also, the notifications are designed to help you not miss important moments in your tracking. If you prefer not to receive them, you can go to your device’s settings - App Management - select our app - and turn off notifications. We will work harder to improve.",
+      "replyDate": "2026-03-02T07:59:02.716Z",
+      "url": "https://play.google.com/store/apps/details?id=sleeptrakcer.sleeprecorder.sleepapp.sleep&reviewId=f91205d6-4eb5-4f6c-98e0-8ec97ee47fb7"
+    },
+    {
+      "date": "2026-02-27T12:24:55.709Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "PixelPirate45",
+      "text": "try to sync my fitbit account with this app but cant, I try to recover my password but I get nothing sent to my email, both apps and the fitbit website are so bad, iv already tried everything i can, its been 2ys!",
+      "reply": "Hi! From your description, it seems like you’re having trouble logging into your Fitbit account.Could you please clarify whether the issue is that you cannot log in to your Fitbit account at all, or if you can log in but the app still cannot sync with your Fitbit? This will help us better assist you.Please drop us feedback in the app if possible!🥰",
+      "replyDate": "2026-02-28T09:12:48.859Z",
+      "url": "https://play.google.com/store/apps/details?id=sleeptrakcer.sleeprecorder.sleepapp.sleep&reviewId=07801b3b-7893-4678-919a-81b093d5866f"
+    },
+    {
+      "date": "2026-02-27T04:23:34.324Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Jermicia Mcclinton",
+      "text": "this app is ok just ok but if u dnt watch them they will take money out ur account multiple time they have took money 30 jus in 2 month not good",
+      "reply": "Hi! We can assure you that our app charges for only one subscription at a time. To check your current subscriptions and ensure there are no duplicate charges, please follow these steps: Open the Google Play store - Tap your name - Tap Payments & Subscriptions. All your subscriptions will be displayed there. Pls drop us feedback if you have issues!",
+      "replyDate": "2026-02-27T06:06:33.846Z",
+      "url": "https://play.google.com/store/apps/details?id=sleeptrakcer.sleeprecorder.sleepapp.sleep&reviewId=9c82697d-6858-4a4d-9882-571bf813afbf"
+    },
+    {
+      "date": "2026-02-23T18:23:30.308Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Dr. SsanjayKumar Thanki",
+      "text": "The App covers most idiot advertisement (Google Cloud) which could not allow to access the App. This is very bad for the App.",
+      "reply": "Hi, sorry for the inconvenience. Ads play a significant role in maintaining the service you enjoy. We will work harder to optimize the frequency of ads to provide better services. You could also choose to pay to remove ads via \"Me - Remove ads\". Any further suggestions, please feel free to contact us via \"Me - Feedback\". Best wishes. 💗",
+      "replyDate": "2026-02-25T08:33:14.620Z",
+      "url": "https://play.google.com/store/apps/details?id=sleeptrakcer.sleeprecorder.sleepapp.sleep&reviewId=001a2d85-9fea-42ff-a4ea-b2837ff3f474"
+    },
+    {
+      "date": "2026-02-20T15:36:18.364Z",
+      "score": 2,
+      "thumbsUp": 1,
+      "user": "Norfolk N. Waypal",
+      "text": "This was a perfectly good app until the latest update. Now I get very annoying notifications going off at least once an hour telling me to review my sleep logs, or yay, you used the app last night, or 25% off full version. Not putting up with that. Uninstalled.",
+      "reply": "Hi! Thanks for sharing your thoughts. The notifications are designed to help you keep a regular sleep schedule and not miss important moments in your tracking. If you prefer not to receive them, you can go to your device’s settings - App Management - select our app - and turn off notifications. We will work hard to make notifications more helpful.",
+      "replyDate": "2026-02-25T08:59:26.340Z",
+      "url": "https://play.google.com/store/apps/details?id=sleeptrakcer.sleeprecorder.sleepapp.sleep&reviewId=8314a045-93c9-4841-a06d-7fdfb8dea1d5"
+    },
+    {
+      "date": "2026-02-18T19:02:10.621Z",
+      "score": 2,
+      "thumbsUp": 3,
+      "user": "Breanna Mulligan",
+      "text": "Used to like this app a lot more, but the numerous notifications throughout the day are really annoying. Especially the ones that are trying to get me to purchase the paid version. If you think annoying me is going to make me pay money, instead of just deleting the app and getting a different one, you're in for a real surprise.",
+      "reply": "Hi! Thanks for sharing your thoughts. The notifications are designed to help you keep a regular sleep schedule and not miss important moments in your tracking. If you prefer not to receive them, you can go to your device’s settings - App Management - select our app - and turn off notifications. We will work hard to make notifications more helpful.",
+      "replyDate": "2026-02-25T09:07:02.307Z",
+      "url": "https://play.google.com/store/apps/details?id=sleeptrakcer.sleeprecorder.sleepapp.sleep&reviewId=a012b0aa-1b86-4a38-9ec5-2a39b5cb38d7"
+    },
+    {
+      "date": "2026-02-18T12:58:49.311Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "Sherry Ballard",
+      "text": "Snorelab is better.",
+      "reply": "Hi! Thanks for downloading! We’ve dedicated a lot to developing and improving our app. If you have any questions or suggestions, please feel free to contact us via \"Me - Feedback\". We will help you as soon as possible. Have a nice day. ☀️",
+      "replyDate": "2026-02-25T09:08:37.957Z",
+      "url": "https://play.google.com/store/apps/details?id=sleeptrakcer.sleeprecorder.sleepapp.sleep&reviewId=5854be63-5ae5-4467-b6d4-eaaad37199c2"
+    },
+    {
+      "date": "2026-02-15T01:05:38.281Z",
+      "score": 1,
+      "thumbsUp": 2,
+      "user": "Cassondra",
+      "text": "NOT FREE - the \"x\" just goes to the previous screen. you can NOT proceed/use the app unless you pay",
+      "reply": "Sorry for any inconvenience. We still provide sleep tracking, daily sleep reports, and sleep sounds free! The subscription is just an option. You can also skip the payment screen by tapping“X” button of the offer. The Free Edition of Sleep Tracker will start automatically. If you still need guidance, pls contact us via Me - Feedback in the app!\n",
+      "replyDate": "2026-02-25T09:49:07.555Z",
+      "url": "https://play.google.com/store/apps/details?id=sleeptrakcer.sleeprecorder.sleepapp.sleep&reviewId=3b64da44-2f85-4276-9c41-20d9684415b1"
+    },
+    {
+      "date": "2026-02-06T20:37:48.882Z",
+      "score": 1,
+      "thumbsUp": 5,
+      "user": "Collide oliver",
+      "text": "scummy trial phase. said it would remind you to cancel trial 2 days in advance. didn't do so, just charged me with the year plan. also there is no way in the menu to cancel the subscription... at least none that is obvious to figure out.",
+      "reply": "Hello! We're sorry for the inconvenience. To manage your subscription, please open the Play Store app, tap your profile picture in the top right, go to Payments & Subscriptions, and select Cancel subscription to stop automatic renewal. If you need further assistance, feel free to contact us via \"Me - Feedback\". We’re always here for you! 🌹\n",
+      "replyDate": "2026-02-09T08:50:17.446Z",
+      "url": "https://play.google.com/store/apps/details?id=sleeptrakcer.sleeprecorder.sleepapp.sleep&reviewId=d4b4dc32-bbf2-4bbc-9794-3970491f2e6a"
+    },
+    {
+      "date": "2026-02-06T09:12:03.232Z",
+      "score": 1,
+      "thumbsUp": 8,
+      "user": "Becky Kirkton",
+      "text": "I gave the app another go after having issues before. I went as far as paying the full-year subscription. For the first 3 nights it was very helpful, tracking my sleep and allowing me to listen back through. But after 3 nights, it's decided to stop tracking me completely, and only records my alarm going off in the morning. this app is flawed beyond words and I feel cheated out of my money. disappointed.... DON'T PAY FOR THIS APP.",
+      "reply": "Due to the Android system's limitations, app interruptions cannot be avoided completely. We suggest keeping the app running in the foreground and not locking the screen. The app will automatically darken the screen. If the issue still exists, please contact us via \"Me - Feedback\". We hope to find your problem faster with the logs from your email!",
+      "replyDate": "2026-02-09T10:06:38.292Z",
+      "url": "https://play.google.com/store/apps/details?id=sleeptrakcer.sleeprecorder.sleepapp.sleep&reviewId=53e84f9d-970b-40f5-9f7b-80229d14cff6"
+    },
+    {
+      "date": "2026-02-06T08:05:07.434Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "C",
+      "text": "left it recording all night to then have to pay to listen to the recordings! not happy at all!",
+      "reply": "Hi! Apologies for any inconvenience! We understand you may seek free solutions! The subscription function is just to help maintain our team so that we can keep providing top-class services to everyone. You can also try a 7-day free trial, and you will not be charged during the 7 days. We will do our best to optimize the pricing accordingly. ❤️",
+      "replyDate": "2026-02-09T09:07:27.935Z",
+      "url": "https://play.google.com/store/apps/details?id=sleeptrakcer.sleeprecorder.sleepapp.sleep&reviewId=1d6a3d57-2993-4d21-82a6-ace5a739df43"
+    },
+    {
+      "date": "2026-02-05T11:22:03.309Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Gigi",
+      "text": "I used to love this app but now it's just a cash grab, I deleted it to free up space but then immediately downloaded it again and now in the span of 30 seconds it turned into a cash grab. I used to love this app, it was apart of my routine but I guess I should just die. I will not be using this app anymore.",
+      "reply": "Hi! We provide sleep tracking, daily sleep reports, and sleep sounds free! You can skip the payment screen by tapping the “X” button of the offer. The Free Edition of Sleep Tracker will start automatically. New subscription function is just to help maintain our team to provide top-class services. You can also try a 7-day free trial! ❤️",
+      "replyDate": "2026-02-06T03:33:07.503Z",
+      "url": "https://play.google.com/store/apps/details?id=sleeptrakcer.sleeprecorder.sleepapp.sleep&reviewId=51908894-33fe-4b23-9948-4d4d4b575da0"
+    },
+    {
+      "date": "2026-02-05T05:29:50.485Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Mike Hennessy",
+      "text": "I used to like this but now it's full of ads and unusable. It puts up ads you can't avoid and they don't stop. You have to wait several minutes for them to time out. I uninstalled the app.",
+      "reply": "Hi, sorry for the inconvenience. Ads play a significant role in maintaining the service you enjoy. We will work harder to optimize the frequency of ads to provide better services. You could also choose to pay to remove ads via \"Me - Remove ads\". Any further suggestions, please feel free to contact us via \"Me - Feedback\". Best wishes. 💗",
+      "replyDate": "2026-02-05T09:06:17.462Z",
+      "url": "https://play.google.com/store/apps/details?id=sleeptrakcer.sleeprecorder.sleepapp.sleep&reviewId=7861669c-2b11-4d9b-a7d8-320acc5eff38"
+    },
+    {
+      "date": "2026-02-04T17:38:32.822Z",
+      "score": 1,
+      "thumbsUp": 15,
+      "user": "Stephen Hurley",
+      "text": "Remove the forced notifications popup. I don't want them, I don't need 3 bloody notifications trying to sell me something I don't want, and I don't care about the analytics until I look at them. The ads are bad enough, f off with the annoying notifications. I don't care. Edit to response: I don't want to have to skip granting permission every time I try use it after disabling. The size of the skip button is annoyingly small and close to home button.",
+      "reply": "Hello, thanks for reaching out to us! We'll take your feedback into deep consideration and will try to optimize this feature in future versions to bring you a better experience. Any other questions, please feel free to contact us via \"Me - Feedback\". Have a nice day! ❤️",
+      "replyDate": "2026-02-05T09:13:03.485Z",
+      "url": "https://play.google.com/store/apps/details?id=sleeptrakcer.sleeprecorder.sleepapp.sleep&reviewId=d9089062-6629-425c-991e-3c5eba6183ef"
+    }
+  ]
+}

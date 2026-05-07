@@ -1,0 +1,35 @@
+{
+  "tick": "v9_explore_tick2",
+  "candidate": "D",
+  "niche": "BR MEI invoicing/DAS management",
+  "country": "BR",
+  "generated_at": "2026-05-07",
+  "regulatory_facts": {
+    "mei_count_brazil_2026": "~14M+ active MEIs",
+    "das_2026_value_brl": "R$ 81,05/mo (commerce/industry MEI), R$ 202,42/mo (truckers); rose from R$75,90 with min wage hike",
+    "nfse_nacional_mandatory_for_mei": "Already mandatory since Sept 2023; Simples Nacional ME/EPP must use Emissor Nacional from Sep 1, 2026 (Res. 189/2026)",
+    "free_govt_emissor": "gov.br offers free Emissor Nacional (NFSe Mobile br.gov.nfsemobileemissor app) — no need for third-party emitters",
+    "tax_reform_impact_on_mei": "MEI not affected by IBS/CBS in 2026 (delayed to 2027); only DAS value rises",
+    "legal_risk_for_third_party_emitters": "HIGH — invalid NFS-e = client fines + invalidated documents; full NFS-e emission requires municipal certificate integration (varies per município)",
+    "adjacent_zero_risk_niche": "DAS reminder/payment-tracking + MEI revenue-tracking + benefits dashboard (INSS, aposentadoria) — no fiscal-document liability"
+  },
+  "apps_analyzed": [
+    {"appId": "com.supermei.supermei", "title": "MaisMei", "installs": "5M+", "ratings": 142894, "score": 4.80, "recent_low_pct_n200": 29.5, "primary_pain": "DAS payments not registered with govt; user paid app, govt didn't receive; invoice emitter broken; no support"},
+    {"appId": "com.totalmei", "title": "Total MEI", "installs": "1M+", "ratings": 7218, "score": 4.46, "recent_low_pct": 25.0, "overall_low_pct": 18.0, "primary_pain": "CNPJ binding errors, can't switch CNPJ"},
+    {"appId": "com.dasmei", "title": "DAS MEI (Total MEI dev)", "installs": "500k+", "ratings": 20290, "score": 4.73, "recent_low_pct": 30.4, "primary_pain": "Generated wrong boleto, paid via app but govt never received, ads block UI"},
+    {"appId": "br.com.emitte", "title": "Emitte", "installs": "100k+", "ratings": 1000, "score": 3.47, "recent_low_pct": 87.5, "n_recent": 8, "primary_pain": "Paid invoice emitter — pure NFe legal-risk zone; rejected"},
+    {"appId": "com.meidigital.appmei", "title": "MEI Digital", "installs": "100k+", "ratings": 641, "score": 4.40, "recent_low_pct": 18.8, "primary_pain": "Limited reach"}
+  ],
+  "verbatims_top": [
+    {"app": "MaisMei", "score": 2, "thumbs": 9, "date": "2026-03-31", "text": "Sempre me atendeu muito bem, infelizmente não consigo emitir mais notas, tentei contato diversas vezes durante 4 meses não obtive nenhum retorno. Concluo que não precisam do cliente ou não se importam. Desisto."},
+    {"app": "DAS MEI", "score": 1, "thumbs": 19, "date": "2025-07-08", "text": "O aplicativo gerou um boleto completamente diferente do que está disponível na receita. Usei o app para fazer o pagamento por quase um ano e isso nunca havia acontecido. Até que o pagamento do mês passado não entrou e só agora me dei conta que foi para um banco completamente diferente. Não caiam no..."},
+    {"app": "DAS MEI", "score": 1, "thumbs": 2, "date": "2025-08-19", "text": "não consigo abrir meu daas mensal, as propagandas tomam todo espaço sem ter como fechá-las."},
+    {"app": "MaisMei", "score": 1, "thumbs": 1, "date": "2026-04-14", "text": "Pessimo, não baixem, fiz o parcelamento da dívida do mei e eles não deram baixa. nao respondem os e-mail."}
+  ],
+  "verdict": {
+    "feasibility_full_nfe": "NO-GO — gov.br already provides free Emissor Nacional NFSe Mobile app; municipal cert integration + fiscal liability = high legal risk for solo Greek dev",
+    "feasibility_adjacent_das_tracker": "GO-CONDITIONAL — DAS reminder + revenue tracker + INSS-benefits dashboard is $0-cost, simple-build (8wk), low-legal. But MaisMei (5M+) already dominates this — wedge is unclear unless paywall-free + no-ads + offline-only",
+    "best_wedge": "Pure ads-free no-paywall DAS reminder + MEI revenue ledger + INSS benefit calculator. But signal weaker than v9 top 6 because dominant incumbent has 4.80★ aggregate (only 29.5% recent low) and BR market = low ARPU.",
+    "ranking_vs_v9_top6": "BELOW — incumbent loyalty is sticky (5M+ installs at 4.80★) and BR ARPU low; not worth displacing v9 cells"
+  }
+}

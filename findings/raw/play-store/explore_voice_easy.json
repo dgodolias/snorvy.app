@@ -1,0 +1,149 @@
+{
+  "app": "com.coffeebeanventures.easyvoicerecorder",
+  "country": "us",
+  "lang": "en",
+  "total_pulled": 200,
+  "total_after_filter": 14,
+  "reviews": [
+    {
+      "date": "2026-05-06T08:40:29.806Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Hilal Shakarchi",
+      "text": "Can't find anyway to transfer to phone. I have a Galaxy watch 4, and it barely syncs to phone and when it does it doesn't even preserve the date, it sets the date of the recording the same as the sync date. When I tried to use a file explorer to extract the recordings manually, the files weren't accessible. Now I have recordings and no way to sync and preserve dates.",
+      "reply": "Hi Hilal, some quick feedback: a) Please ensure your watch and phone are connected to the same wifi, b) last modified date is unfortunately not able to be set on Android, c) You can also use \"Copy to the music folder\" to make them accessible. We have limited space here so please contact us via Help - Contact Us in the app. Thank you.",
+      "replyDate": "2026-05-06T12:00:30.524Z",
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=c027509b-aff5-49bd-b8ee-5c79ccf37960"
+    },
+    {
+      "date": "2026-05-05T01:31:46.479Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Bobby Pirata",
+      "text": "Apparently doesn't work without unlimited access to the microphone. I don't allow that because it's not secure. I tried \"ask every time\" but it wouldn't work that way.",
+      "reply": "Hi Bobby, it really should. I don't have every device, but \"Ask every time\" works on my test devices. If you mean it doesn't ask every single time you tap on the mic button, that's OS behavior, not something we control; it's usually a time limit. Could you please contact us via Help - Contact Us in the app so we can review further? Thank you.",
+      "replyDate": "2026-05-05T12:01:28.377Z",
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=9f1ca721-ae61-452d-9747-eb37ac76356d"
+    },
+    {
+      "date": "2026-04-30T22:36:01.739Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "Dan Dascalescu",
+      "text": "No transcribing features, now in the AI era. 🧐 Uninstalled.",
+      "reply": "Thank you for the feedback!",
+      "replyDate": "2026-04-30T23:50:23.951Z",
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=74589417-0e44-4b92-9b8e-7417d2c6c0ee"
+    },
+    {
+      "date": "2026-04-30T09:30:09.589Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Daniel Martinez",
+      "text": "Horrible. I've had this app for years. I've recorded 18 songs that I have written. then one day I logged on and everything was just gone. don't trust this app.",
+      "reply": "Hi Daniel, very sorry to hear about this. This is most likely the OS revoking storage permission. Your files should still be visible in the Files app. To see them again in the app, please re-grant permission from Settings - Files in the app, or contact us via Help - Contact Us in the app, and we will help with priority. Thank you.",
+      "replyDate": "2026-04-30T11:55:29.840Z",
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=93888eb9-46ce-40e7-9edc-94882d8f0d97"
+    },
+    {
+      "date": "2026-04-23T22:16:57.743Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Cody Guy",
+      "text": "Should be lightweight but crashed my phone multiple times. Junk.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=7f631fd7-1c1b-4e21-b7e9-b5abc9d62207"
+    },
+    {
+      "date": "2026-04-21T16:15:36.132Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Nick",
+      "text": "have no idea where it stores it and after installing this app I have no way to find it again",
+      "reply": "Hello, please contact us at support@digipom.com and we will be more than happy to assist. Thank you!",
+      "replyDate": "2026-04-22T12:09:14.420Z",
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=b8f299f6-36ad-41ba-805c-38815b4d5ed0"
+    },
+    {
+      "date": "2026-04-12T08:51:02.813Z",
+      "score": 1,
+      "thumbsUp": 5,
+      "user": "bryan m",
+      "text": "Ive had this app for several years. I play guitar and use it to capture riffs and music ideas. I had a lot of stuff recorded. I just open the app to record something and everything that was on it for years is suddenly gone. I did nothing to delete any of the recordings. Just one day everything is gone. Thanks garbage trash app. Un(F'n)believable!",
+      "reply": "Hi, very sorry to hear about this. The app doesn’t have ownership over your recordings so this is most likely an OS permission issue and your recordings are still there, and should be visible via Files. Please re-grant permissions from the app settings or contact us via Help / Contact Us in the app and we’ll help you out with priority. Thank you.",
+      "replyDate": "2026-04-12T11:45:31.565Z",
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=f2a4c298-57b3-463c-a869-3c5fc713f743"
+    },
+    {
+      "date": "2026-04-11T06:49:11.473Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Sebastian Conway",
+      "text": "recordings randomly stop and i lose my audio",
+      "reply": "Dear user, please check https://dontkillmyapp.com or get in touch with us via Help - Contact Us in the app and we'll help you out with this. Thank you!",
+      "replyDate": "2026-04-11T12:02:27.500Z",
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=4758dc7b-8e9f-4e80-a3a7-f8195654d2f1"
+    },
+    {
+      "date": "2026-04-10T05:03:57.555Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Uzair Khan",
+      "text": "it's useless or poor voice quality",
+      "reply": "Hello, thanks for your feedback. Please let us know what issues you encountered by contacting us at support@digipom.com. We will be more than happy to assist and try to make things better. Thank you!",
+      "replyDate": "2026-04-15T13:18:40.527Z",
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=b2d75971-e971-4306-86f2-03041d6b35bc"
+    },
+    {
+      "date": "2026-04-04T16:19:54.987Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Gilbert Preciado",
+      "text": "will not let me record! Thanks but NO Thanks!",
+      "reply": "Hi, is there anything we could do to help? You can get in touch with us via Help - Contact Us in the app. We'll help you out with priority. Thank you!",
+      "replyDate": "2026-04-07T15:31:16.883Z",
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=9163b988-2d71-4755-a6c2-607c1193d625"
+    },
+    {
+      "date": "2026-04-02T17:19:38.632Z",
+      "score": 2,
+      "thumbsUp": 1,
+      "user": "Keegan McDonald",
+      "text": "The recordings on my Galaxy Watch 5 say they're synced to my phone but don't appear in the app's library or the file designated for recordings on my phone. I can't find another way to get them off my watch, which is frustrating.",
+      "reply": "Please get in touch with us via Help - Contact Us in the app. We'll help you out with priority. Thank you!",
+      "replyDate": "2026-04-07T15:30:54.908Z",
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=7804300b-6e4c-4e64-8c63-a775a9a9fbd3"
+    },
+    {
+      "date": "2026-04-02T10:13:14.750Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "Tomas Burian",
+      "text": "You buy this and still get ads. Save your money.",
+      "reply": "Hi Tomas, the pro version is a separate download and doesn't have ad libraries embedded at all. Please contact us via Help - Contact Us and we'll help you out with priority. Thank you.",
+      "replyDate": "2026-04-02T12:02:31.795Z",
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=f80fe87a-132b-436e-bda1-fe63793b2920"
+    },
+    {
+      "date": "2026-03-28T05:18:16.115Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Christine Hall",
+      "text": "what is com. coffeebeanadventures. easyvoicerecorder? it appears to be downloaded to my phone and I'm not granted permission.",
+      "reply": "Hi Christine, it’s this app. Apps can’t download by themselves so I guess it was probably tapped by accident. If you have any questions or need help with uninstalling, please don’t hesitate to contact us at support@digipom.com. Thank you!",
+      "replyDate": "2026-03-28T14:24:58.230Z",
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=cdbb41e9-19d6-4894-b6de-c003d3811916"
+    },
+    {
+      "date": "2026-03-27T04:32:20.350Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Ramees Rahumathulla",
+      "text": "You can't delete",
+      "reply": "Dear User,\nCould you please contact us via support@digipom.com? We'd love to hear more about this issue in order to assist you.",
+      "replyDate": "2026-04-07T15:28:02.756Z",
+      "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&reviewId=42a65224-58e1-4239-aede-b2d6ddd2eded"
+    }
+  ]
+}

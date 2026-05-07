@@ -1,0 +1,624 @@
+{
+  "niche": "habit",
+  "generated_at": "2026-05-07T13:22:33.160Z",
+  "apps": [
+    {
+      "country": "us",
+      "lang": "en",
+      "meta": {
+        "appId": "com.habitnow",
+        "title": "HabitNow Daily Routine Planner",
+        "summary": "To-do list, Habit Tracker, Routine Planner and Reminders. All in just one app!",
+        "developer": "HabitNow",
+        "genre": "Productivity",
+        "installs": "5,000,000+",
+        "minInstalls": 5000000,
+        "score": 4.6931963,
+        "ratings": 89502,
+        "reviews": 2794,
+        "histogram": {
+          "1": 2633,
+          "2": 793,
+          "3": 2403,
+          "4": 9649,
+          "5": 73986
+        },
+        "free": true,
+        "priceText": "Free",
+        "offersIAP": true,
+        "IAPRange": "$0.99 - $11.99 per item",
+        "adSupported": false,
+        "released": "May 17, 2019",
+        "updated": 1764388903000,
+        "version": "2.5.3f",
+        "description": "Maximize Your Productivity with HabitNow: Your Ultimate Todo List and Habit Tracker! 🚀\nKeeping your life organized has never been easier! With HabitNow, efficiently manage your school schedule, house chores, work, and more, all while building strong habits. Enter your routine, record progress, and seamlessly integrate habit-building into your daily life.  Additionally, HabitNow stands out as a comprehensive calendar app, offering a seamless blend of task management and time organization.\n\nFlexible and Comprehensive Scheduling System 🔄📆\nHabitNow stands out as a top choice for todo lists, featuring a flexible and complete scheduling system. Tailor tasks and events with precision, ensuring your schedule adapts to your unique needs effortlessly.\n\nDefine and Customize Your Habits 📋🏆\nTailor habits and to-dos to your specific needs. Set daily, weekly, or monthly goals, and organize priorities and activities across different categories and lists.\n\nEnhance Your Focus with Timer Functionality ⏲️🍅\nTake your productivity to the next level with HabitNow's timer functionality. Track timed activities seamlessly with a versatile stopwatch, countdown timer, and interval timer. Stay in control"
+      },
+      "stats": {
+        "n": 200,
+        "low_pct_overall": 4,
+        "recent_n": 200,
+        "recent_low_pct": 4,
+        "top_low_quotes": [
+          {
+            "score": 1,
+            "date": "2026-05-06T12:18:07.630Z",
+            "thumbsUp": 0,
+            "text": "I purchased the Premium version of your app on my old phone, but after switching to a new device, my account is showing as a free version. Because of this, I cannot restore my data from the cloud backup, as the app prompts me to pay for Premium again. Please help me restore my Premium access on this new device."
+          },
+          {
+            "score": 2,
+            "date": "2026-05-06T03:48:55.264Z",
+            "thumbsUp": 0,
+            "text": "it good but want more easy to use clear options for user or do not suggest right way if use this app , first time I am confuse and it takes many time to understand aslo dint no I am using right Way or not 🙂"
+          },
+          {
+            "score": 1,
+            "date": "2026-04-12T20:28:24.611Z",
+            "thumbsUp": 0,
+            "text": "have to pay to fully get to use it helpful if you need bare minimum reminders of things"
+          },
+          {
+            "score": 2,
+            "date": "2026-04-11T18:44:15.885Z",
+            "thumbsUp": 0,
+            "text": "Great but the widget is on android is completely broken, will change to 5 stars again when fixed"
+          },
+          {
+            "score": 1,
+            "date": "2026-04-11T06:08:19.592Z",
+            "thumbsUp": 0,
+            "text": "Too many flaws. 1. When multiple reminders are set for a single habit for a single day, the widget & the app shows only the first scheduled time (i.e the time that comes first within the day) even after that time has passed. 2. Cannot edit the \"define\" habit properties after a day passes, so if my habit goal changes, i cannot edit it later. 3. Once I select \"Replace\" function when inputting data, "
+          }
+        ]
+      }
+    },
+    {
+      "country": "us",
+      "lang": "en",
+      "meta": {
+        "appId": "com.alt.goodmorning",
+        "title": "Routine Planner, Habit Tracker",
+        "summary": "Daily Habit Tracker for Focus &amp; ADHD — structured planner, reminder, to do list",
+        "developer": "Routinery",
+        "genre": "Productivity",
+        "installs": "1,000,000+",
+        "minInstalls": 1000000,
+        "score": 4.567944,
+        "ratings": 17485,
+        "reviews": 1178,
+        "histogram": {
+          "1": 547,
+          "2": 425,
+          "3": 912,
+          "4": 2250,
+          "5": 13337
+        },
+        "free": true,
+        "priceText": "Free",
+        "offersIAP": true,
+        "IAPRange": "$0.99 - $72.00 per item",
+        "adSupported": false,
+        "released": "Jan 31, 2019",
+        "updated": 1777367370000,
+        "version": "VARY",
+        "description": "⚡ Switch on your action — with Routinery\nAn all-in-one habit tracker, planner, and reminder that helps you follow your routine with timers and reminders — no willpower needed.\n\nYou know what to do — but getting started is the hardest part.\nRoutinery combines a habit tracker, structured planner, and timer system to help you take action and stay consistent, without overthinking what to do next.\n\n🧠 Why it works for ADHD & focus\n\nIf you have ADHD — or simply struggle with focus, time, or consistency — the challenge isn’t knowing what to do, but actually starting and staying on track.\n\nRoutinery is designed around those challenges.\n\n• Hard to start → the timer gives you a clear starting point  \n• Time feels unclear → each step runs with a timer so you can feel time passing  \n• Focus drops quickly → short routines like focus pomodoro keep you engaged  \n• Too many tasks feel overwhelming → small steps make it easier to take action  \n\nWith a habit tracker, structured planner, and reminders, you don’t rely on motivation — you follow a system.\n\nThis is not just for ADHD — it’s for anyone who struggles to follow through.\n\n🎯 When you struggle to follow through\n\n👉 You plan but never start  \n"
+      },
+      "stats": {
+        "n": 200,
+        "low_pct_overall": 22.5,
+        "recent_n": 105,
+        "recent_low_pct": 18.1,
+        "top_low_quotes": [
+          {
+            "score": 1,
+            "date": "2025-12-26T10:09:30.289Z",
+            "thumbsUp": 12,
+            "text": "I've used the app for several years and used to love it but bugs in the recent updates have become so bad I've given up and deleted the app despite having 3 months of premium left. The final straw was an alarm going off at 6am on holiday after I had disabled alarms and notifications for that routine. This is a problem I shared with the developers 7 months ago but has not been fixed. Other recent i"
+          },
+          {
+            "score": 2,
+            "date": "2025-12-04T19:30:54.170Z",
+            "thumbsUp": 6,
+            "text": "This would be so good if it were good. Unfortunately it's the experience of an alpha version, whether any particular thing works today is toss of a coin. Sometimes I'll get alarms that freeze my entire phone. Sometimes no alarm at all. As far as I can tell nowhere to undo or delete a task completion, if I test some changes I made to a routine, whoop, I've \"done\" it for the day and there's no going"
+          },
+          {
+            "score": 1,
+            "date": "2025-11-30T13:17:07.141Z",
+            "thumbsUp": 3,
+            "text": "I paid for lifetime subscription and it disappeared. I tried emailing for support and the address isn't real. They just stole my money."
+          },
+          {
+            "score": 1,
+            "date": "2025-11-25T14:02:54.300Z",
+            "thumbsUp": 3,
+            "text": "Theory is Great. Too cumbersome to use. Please delete files & data. Please cancel."
+          },
+          {
+            "score": 2,
+            "date": "2026-02-04T10:58:36.975Z",
+            "thumbsUp": 2,
+            "text": "LOVED this app until the notifications stopped working. I've tried a milliom different things, including checking the task settings (push and alarm) and checking my phone's internal alarm/ app settings. Yes I've reinstalled. This app is not useful to me without the alarm."
+          }
+        ]
+      }
+    },
+    {
+      "country": "us",
+      "lang": "en",
+      "meta": {
+        "appId": "com.apalon.to.do.list",
+        "title": "Productive - Habit tracker",
+        "summary": "Create habit list and build good habits easily with Productive tasks tracker.",
+        "developer": "Mosaic Srl",
+        "genre": "Productivity",
+        "installs": "1,000,000+",
+        "minInstalls": 1000000,
+        "score": 3.7310345,
+        "ratings": 20597,
+        "reviews": 578,
+        "histogram": {
+          "1": 4964,
+          "2": 851,
+          "3": 1418,
+          "4": 851,
+          "5": 12497
+        },
+        "free": true,
+        "priceText": "Free",
+        "offersIAP": true,
+        "IAPRange": "$0.99 - $91.99 per item",
+        "adSupported": false,
+        "released": "Sep 30, 2019",
+        "updated": 1763125163000,
+        "version": "1.24.7",
+        "description": "Productive is a free and easy-to-use habit tracker that helps you build a routine of positive, life changing habits. Set personal goals, track your progress, and motivate yourself to achieve new heights!\n\nProductive habit tracker is here to help you make the most of your task management and get things done. Whether you want to break bad, arrange a good habits list, or set task reminder, our app will guide and motivate you on a daily basis. Achieve your goals with our task tracker!\n\nWhat can you do with the Productive habit tracker?\n\n★ Plan your habits and tasks with an easy-to-use interface\n★ Schedule tasks for any time of the day\n★ Set smart reminders for your habit list for each time of the day\n★ Stay on track with useful statistics\n\nWhy should you download the Productive habit tracker?\n\nSIMPLICITY:\nThe clear and beautiful interface that will help you build customised habits lists, based on our handy habit presets. \n\nCUSTOMIZATION:\nThe app is fully customizable - you can name your habit, choose a unique icon and even pick its color. It is easy to create a task list that is perfect for you.\n\nSTATISTICS:\nTrack your habits and analyze progress for a task - build motivating chains wh"
+      },
+      "stats": {
+        "n": 200,
+        "low_pct_overall": 29.5,
+        "recent_n": 26,
+        "recent_low_pct": 19.2,
+        "top_low_quotes": [
+          {
+            "score": 1,
+            "date": "2024-09-22T12:53:17.652Z",
+            "thumbsUp": 46,
+            "text": "My yearly subscription is up and I will not be renewing. I LOVE the app, but the alerts/reminders stopped working very early on, and to me that's the whole point! I need an app to help me track things because I can't remember on my own! I reached out to support and they are very slow to reply (like weeks) and all they do is say to uninstall the app, clear cache and data, and check permissions. I'v"
+          },
+          {
+            "score": 1,
+            "date": "2025-03-01T16:26:09.281Z",
+            "thumbsUp": 27,
+            "text": "Honestly, It was good at 1st but then I couldn't add any more tasks for any day or any time after the 1st time I'm very annoyed that it forces you to pay can't it be free? I REPEAT THE APP IS AMAZING but why paying??? I'm not the one yo plan for your app but...atleat consider age...I'm 15 no job, no money I needed this app but now I can't even use it anymore....thank you for reading"
+          },
+          {
+            "score": 1,
+            "date": "2025-10-03T15:42:50.247Z",
+            "thumbsUp": 11,
+            "text": "Original review from 2021: Absolutely one of the least useful tools ever. It's a to do list that you pay money for. Google calender serves the same function. Complete with reminders. I regret purchasing a subscription so badly. Updated after trying it again in 09/2025: Still the same experience. This app offers absolutely nothing other than good marketing for you to purchase the subscription. You "
+          },
+          {
+            "score": 1,
+            "date": "2025-04-09T15:17:35.470Z",
+            "thumbsUp": 8,
+            "text": "Does not let you even look at the app before it forces you to sign up for a free trial (which will expire in a week and then automatically charge you a monthly subscription cost). This is a VERY predatory practice to build into an app that is meant for people having issues staying on task. Immediately uninstalled and will not be coming back."
+          },
+          {
+            "score": 1,
+            "date": "2025-03-27T11:54:21.798Z",
+            "thumbsUp": 5,
+            "text": "No widget which is a major missing feature for this purpose, and tries to get me to lock in a subscription before even letting me try it? That's a deceptive pattern intended to take advantage of people that forget to cancel, which would be many ADHD peeps that might be looking to use apps like this. No I never agree to subscription up front, a free trial can stop working and Ask to subscribe to co"
+          }
+        ]
+      }
+    },
+    {
+      "country": "us",
+      "lang": "en",
+      "meta": {
+        "appId": "app.disciplined.productive.structured.habit.tracker",
+        "title": "Disciplined - Habit Tracker",
+        "summary": "Daily habit tracker for streaks, routines &amp; consistency. Trusted by 1M+ people.",
+        "developer": "Tip Tap Apps",
+        "genre": "Productivity",
+        "installs": "500,000+",
+        "minInstalls": 500000,
+        "score": 4.338983,
+        "ratings": 10820,
+        "reviews": 267,
+        "histogram": {
+          "1": 913,
+          "2": 175,
+          "3": 820,
+          "4": 1282,
+          "5": 7609
+        },
+        "free": true,
+        "priceText": "Free",
+        "offersIAP": true,
+        "IAPRange": "$1.99 - $29.99 per item",
+        "adSupported": false,
+        "released": "Jan 1, 2024",
+        "updated": 1774088240000,
+        "version": "1.0.48",
+        "description": "Over 1,000,000 people use Disciplined to build habits that stick.\n\nNamed one of the best apps of 2024. No complicated systems, no bloat. Just build your daily habit streak — and don't break it.\n\n━━━━━━━━━━━━━━━━━━━━━━\n\nWHAT MAKES DISCIPLINED DIFFERENT\n\nMost habit trackers overwhelm you with features you never use. Disciplined does one thing well: it keeps your habit streak alive and makes breaking it feel painful.\n\nSimple daily checklist → check off your habits → watch your streak grow.\n\nThat's it. No productivity system to learn. No onboarding maze. Open the app, check your habits, close it.\n\n━━━━━━━━━━━━━━━━━━━━━━\n\nKEY FEATURES\n\n✅ Daily Habit Tracking\nBuild any habit — fitness, reading, meditation, hydration, cold showers. Check it off in seconds.\n\n✅ Streak Tracking\nYour streak counter is visible the moment you open Disciplined. The longer it grows, the harder it is to stop. That's intentional.\n\n✅ Smart Reminders\nSet a custom reminder for each habit. Get notified at exactly the right time, not at random.\n\n✅ Progress & Statistics\nWeekly and monthly views. See your habit completion rate, your longest streak, and exactly where you're slipping.\n\n✅ Flexible Scheduling\nDaily habits, we"
+      },
+      "stats": {
+        "n": 200,
+        "low_pct_overall": 14,
+        "recent_n": 49,
+        "recent_low_pct": 16.3,
+        "top_low_quotes": [
+          {
+            "score": 1,
+            "date": "2025-12-05T17:15:41.331Z",
+            "thumbsUp": 15,
+            "text": "This looked like a good app but there was very little value in the free version. No widgets, no stats. The subscription price isn't terrible but I'm not buying something that doesn't have enough in the free version to even base an opinion on."
+          },
+          {
+            "score": 1,
+            "date": "2026-02-07T14:56:33.326Z",
+            "thumbsUp": 12,
+            "text": "please fix that \"streaks\" do not work unless it is a daily habit. Such as a goal set for 3x a week or MWF etc do not keep count as a \"streak\". I love this app otherwise, but feel disappointed for paying for it because many of my goals are not daily goals so it isn't very useful. I will update my review if you let me know it is fixed."
+          },
+          {
+            "score": 1,
+            "date": "2025-12-26T23:17:15.999Z",
+            "thumbsUp": 10,
+            "text": "1 minute review: The free version doesn't let you set a time for a reminder so it's pretty difficult to try the app out. You'd basically have to use this app in tandem with something like an alarm which really removes my motivation to try it out."
+          },
+          {
+            "score": 2,
+            "date": "2025-11-21T09:22:43.610Z",
+            "thumbsUp": 8,
+            "text": "This is a very basic but good looking Habit Tracker, in which almost all the features are paid. I don't understand why should I pay, if I want an advanced habit tracker I'll go with HabitNow, & if I want a basic Tracker then I've Way of Life (which is Free & good looking & provide all of the paid features of this app for free), I've a free advice for the developer, first build a robust app, place "
+          },
+          {
+            "score": 1,
+            "date": "2025-12-05T21:17:46.278Z",
+            "thumbsUp": 5,
+            "text": "No trial. Everything's behind a paywall. Had to pay $2 to basically figure out that it doesn't meet my needs"
+          }
+        ]
+      }
+    },
+    {
+      "country": "us",
+      "lang": "en",
+      "meta": {
+        "appId": "com.roehl.habitkit",
+        "title": "Habit Tracker - HabitKit",
+        "summary": "Build habits and achieve your goals by tracking your progress.",
+        "developer": "Sebastian Röhl",
+        "genre": "Productivity",
+        "installs": "500,000+",
+        "minInstalls": 500000,
+        "score": 4.8103447,
+        "ratings": 10592,
+        "reviews": 280,
+        "histogram": {
+          "1": 273,
+          "2": 0,
+          "3": 91,
+          "4": 728,
+          "5": 9489
+        },
+        "free": true,
+        "priceText": "Free",
+        "offersIAP": true,
+        "IAPRange": "$0.99 - $37.99 per item",
+        "adSupported": false,
+        "released": "Nov 25, 2022",
+        "updated": 1776688942000,
+        "version": "1.15.0",
+        "description": "HabitKit is the perfect app for anyone looking to form new habits or break old ones. With HabitKit, you can track your progress with beautiful tile-based grid charts. Whether you're trying to quit smoking, eat healthier, or exercise more, HabitKit can help you achieve your goals. You can customize your dashboard by adjusting colors, icons and descriptions. Draw motivation from growing the amount of colored tiles on your habit dashboard.\n\n---\n\nCREATE HABITS\nAdd your habits you want to track in a fast and easy way. Provide a name, description, icon and color and you're good to go.\n\nDASHBOARD\nAll your habits are displayed on your dashboard represented by a cool looking grid chart. Every filled out square show a day where you kept up with your habit.\n\nSTREAKS\nGet motivation from streaks. Tell the app how often you would like to complete a habit (3/week, 20/month, daily, ...) and see how your streak count grows!\n\nREMINDERS\nNever miss a completion again and add reminders to your habits. You'll get a notification at your specified time.\n\nCALENDAR\nThe calendar provides a fast and easy way to manage past completions. Simply tap a day to remove or add a completion.\n\nARCHIVE\nDo you need a bre"
+      },
+      "stats": {
+        "n": 200,
+        "low_pct_overall": 16,
+        "recent_n": 52,
+        "recent_low_pct": 17.3,
+        "top_low_quotes": [
+          {
+            "score": 1,
+            "date": "2026-01-01T16:30:43.494Z",
+            "thumbsUp": 9,
+            "text": "the app seems promising, but is quite unusable in my opinion. can't add more than one habit and can't even have a widget for that one habit. and half the time I don't get notifications reminding me about the habit too"
+          },
+          {
+            "score": 1,
+            "date": "2026-01-30T03:55:00.706Z",
+            "thumbsUp": 4,
+            "text": "What the hell? How you gon' make an app for tracking habits and only allow users to track up to 4?? I'm not gonna waste my money on some stupid app just to be consistent!! What a disappointment 🤦🤦🤦🚫"
+          },
+          {
+            "score": 1,
+            "date": "2025-12-20T19:59:46.120Z",
+            "thumbsUp": 4,
+            "text": "Very basic, pricy app, no option to mark skip, no option to track time, even basic backup & restore is a paid feature, I feel HabitNow is far better option than this."
+          },
+          {
+            "score": 2,
+            "date": "2025-10-27T23:02:36.490Z",
+            "thumbsUp": 4,
+            "text": "You cannot rely on the notifications. One day they work, the next they don't. My earlier in the day ones won't but my evening ones do. It's ridiculous."
+          },
+          {
+            "score": 1,
+            "date": "2025-09-25T00:44:14.920Z",
+            "thumbsUp": 4,
+            "text": "About 10 seconds into using this app, I literally do 1 thing and this app is already asking for a review so by default I am rating it a 1 star. Now it's up to the app to impress enough to make me want to change my reivew. If it doesn't, I will delete this app and move on."
+          }
+        ]
+      }
+    },
+    {
+      "country": "us",
+      "lang": "en",
+      "meta": {
+        "appId": "com.habitrpg.android.habitica",
+        "title": "Habitica: Gamify Your Tasks",
+        "summary": "Treat your life like a game to stay motivated and organized!",
+        "developer": "HabitRPG, Inc.",
+        "genre": "Productivity",
+        "installs": "5,000,000+",
+        "minInstalls": 5000000,
+        "score": 4.683544,
+        "ratings": 72949,
+        "reviews": 3859,
+        "histogram": {
+          "1": 2016,
+          "2": 688,
+          "3": 2134,
+          "4": 8655,
+          "5": 59444
+        },
+        "free": true,
+        "priceText": "Free",
+        "offersIAP": true,
+        "IAPRange": "$0.99 - $47.99 per item",
+        "adSupported": true,
+        "released": "Dec 10, 2015",
+        "updated": 1777391762000,
+        "version": "4.9.5",
+        "description": "Habitica is a free habit-building and productivity app that uses retro RPG elements to gamify your tasks and goals.\nUse Habitica to help with ADHD, self care, New Year’s resolutions, household chores, work tasks, creative projects, fitness goals, back-to-school routines, and more!\n\nHow it works:\nCreate an avatar then add tasks, chores, or goals you’d like to work on. When you do something in real life, check it off in the app and receive gold, experience, and items that can be used in-game!\n\nFeatures:\n  • Automatically repeating tasks scheduled for your daily, weekly, or monthly routines\n  • Flexible habit tracker for tasks you want to do multiple times a day or only once in awhile\n  • Traditional to do list for tasks that only need to be done once\n  • Color coded tasks and streak counters help you see how you’re doing at a glance\n  • Leveling system to visualize your overall progress\n  • Tons of collectable gear and pets to suit your personal style\n  • Inclusive avatar customizations: wheelchairs, hair styles, skin tones, and more\n  • Regular content releases and seasonal events to keep things fresh\n  • Parties let you team up with friends for extra accountability and battle fierc"
+      },
+      "stats": {
+        "n": 200,
+        "low_pct_overall": 13.5,
+        "recent_n": 147,
+        "recent_low_pct": 16.3,
+        "top_low_quotes": [
+          {
+            "score": 1,
+            "date": "2026-04-30T19:09:46.547Z",
+            "thumbsUp": 16,
+            "text": "Constantly breaking. I'm tired of my chore app being worse than my chores."
+          },
+          {
+            "score": 1,
+            "date": "2026-02-07T13:00:56.439Z",
+            "thumbsUp": 10,
+            "text": "02/07/2026 Broke yet again..., an offline mode is needed. A TODO list you can't use at any point is worthless... App no longer works, just says \"server connection lost\". Worce, not better, now it just says no tasks."
+          },
+          {
+            "score": 1,
+            "date": "2026-02-27T03:51:20.800Z",
+            "thumbsUp": 6,
+            "text": "this game rewards you for doing your daily tasks. with experience You can go on a little side quest in this app And it's okay until you die. then you lose all of your gold If you were saving. yeah that sucks to suck. You lose a level which later levels. I was around 104. takes a really long time to grind out a level And is extremely discouraging. on top of that, you break a piece of armor. reward "
+          },
+          {
+            "score": 1,
+            "date": "2026-02-16T21:33:09.697Z",
+            "thumbsUp": 6,
+            "text": "I love the look and feel of this app, which makes it all the more sad that it is functionally unusable because it doesn't sync the start and end of day with your timezone. It will be the middle of the afternoon and it's asking me to start a new day, or I will wake up and none of the goals from yesterday have reset. I'm never sure if I checked off took meds today, yesterday, or forgot to check it a"
+          },
+          {
+            "score": 1,
+            "date": "2026-05-03T07:04:06.800Z",
+            "thumbsUp": 5,
+            "text": "Update 2026: After so many years, I finally got tired of the server issues. I still have 6 months in my yearly subscription, but I can't rely on it anymore to use it further. New day won't update, completed dailies and habits get uncompleted, delays or just inability to register any clicks/changes, constantly getting server errors, on both Android and web. I'm done."
+          }
+        ]
+      }
+    },
+    {
+      "country": "br",
+      "lang": "pt-BR",
+      "meta": {
+        "appId": "com.habitnow",
+        "title": "HabitNow - Rotina e Hábitos",
+        "summary": "Planejador de hábitos, lista de tarefas e rotina diária. Tudo em apenas um app!",
+        "developer": "HabitNow",
+        "genre": "Produtividade",
+        "installs": "5.000.000+",
+        "minInstalls": 5000000,
+        "score": 4.8643866,
+        "ratings": 89503,
+        "reviews": 5119,
+        "histogram": {
+          "1": 1002,
+          "2": 369,
+          "3": 1107,
+          "4": 4799,
+          "5": 82218
+        },
+        "free": true,
+        "priceText": "Free",
+        "offersIAP": true,
+        "IAPRange": "R$ 3,79 – R$ 57,99 por item",
+        "adSupported": false,
+        "released": "17 de mai. de 2019",
+        "updated": 1764388903000,
+        "version": "2.5.3f",
+        "description": "Maximize Sua Produtividade com o HabitNow: Sua Lista de Tarefas Definitiva e Rastreador de Hábitos! 🚀 \nManter sua vida organizada nunca foi tão fácil! Com o HabitNow, gerencie eficientemente sua grade escolar, tarefas domésticas, trabalho e muito mais, tudo enquanto desenvolve hábitos sólidos. Insira sua rotina, registre progressos e integre de maneira contínua a construção de hábitos em sua vida diária. Além disso, o HabitNow destaca-se como uma excelente aplicação de calendário, oferecendo uma fusão perfeita entre gerenciamento de tarefas e organização do tempo.\n\nSistema de Agendamento Flexível e Abrangente 🔄📆 \nO HabitNow destaca-se como uma excelente escolha para listas de tarefas, apresentando um sistema de agendamento flexível e completo. Adapte tarefas e eventos com precisão, garantindo que sua grade se ajuste às suas necessidades exclusivas sem esforço.\n\nDefina e Personalize Seus Hábitos 📋🏆 \nAdapte hábitos e afazeres às suas necessidades específicas. Estabeleça metas diárias, semanais ou mensais e organize prioridades e atividades em diferentes categorias e listas.\n\nAumente Sua Concentração com a Funcionalidade de Temporizador ⏲️🍅 \nLeve sua produtividade para o próximo"
+      },
+      "stats": {
+        "n": 200,
+        "low_pct_overall": 2,
+        "recent_n": 163,
+        "recent_low_pct": 2.5,
+        "top_low_quotes": [
+          {
+            "score": 2,
+            "date": "2026-02-23T07:01:21.375Z",
+            "thumbsUp": 1,
+            "text": "O aplicativo tem limite máximo de tarefas que você pode colocar se estiver no plano gratuito. Não faz sentido nenhum ter isso."
+          },
+          {
+            "score": 2,
+            "date": "2026-04-28T19:37:04.881Z",
+            "thumbsUp": 0,
+            "text": "Eu acho que é um bom app, mas... eu acredito que pelo menos, no mínimo, não deveria ter limite de hábitos."
+          },
+          {
+            "score": 2,
+            "date": "2026-03-31T13:59:45.540Z",
+            "thumbsUp": 0,
+            "text": "widget premium, its frustrating"
+          }
+        ]
+      }
+    },
+    {
+      "country": "br",
+      "lang": "pt-BR",
+      "meta": {
+        "appId": "com.apalon.to.do.list",
+        "title": "Productive: Lista de hábitos",
+        "summary": "Crie bons hábitos com o rastreador de listas de tarefas e organizador Productive",
+        "developer": "Mosaic Srl",
+        "genre": "Produtividade",
+        "installs": "1.000.000+",
+        "minInstalls": 1000000,
+        "score": 4.6062994,
+        "ratings": 20597,
+        "reviews": 724,
+        "histogram": {
+          "1": 1374,
+          "2": 161,
+          "3": 404,
+          "4": 1293,
+          "5": 17346
+        },
+        "free": true,
+        "priceText": "Free",
+        "offersIAP": true,
+        "IAPRange": "R$ 4,19 – R$ 459,99 por item",
+        "adSupported": false,
+        "released": "30 de set. de 2019",
+        "updated": 1763125163000,
+        "version": "1.24.7",
+        "description": "Productive é um rastreador de hábitos grátis e fácil de usar, para te ajudar a construir uma rotina de hábitos positivos e transformadores. Crie listas de hábitos pessoais, acompanhe seu progresso e motive você mesmo para alcançar novos patamares!\n\nO rastreador de hábitos Productive está aqui para ajudá-lo a aproveitar ao máximo o seu gerenciamento de tarefas e colocar as coisas em prática. Se você deseja quebrar maus hábitos, compor uma lista de bons hábitos, ou definir um lembrete de hábitos, alcance seus objetivos com o nosso rastreador de tarefas!\n\nO que você pode fazer com o rastreador de hábitos Productive?\n\n★ Planeje seus hábitos e tarefas com uma interface fácil de usar\n★ Programe hábitos e tarefas para qualquer hora do dia\n★ Crie lembretes inteligentes na sua lista de hábitos para cada hora do dia\n★ Permaneça no caminho certo com estatísticas úteis\n\nPor que você deveria baixar o rastreador de hábitos Productive?\n\nSIMPLICIDADE:\nA interface limpa e bonita que irá te ajudar a construir listas de hábitos customizadas, baseadas em nossos práticos hábitos predefinidos. \n\nPERSONALIZAÇÃO:\nO app é completamente personalizável - você pode nomear o seu hábito ou tarefa, escolher um í"
+      },
+      "stats": {
+        "n": 200,
+        "low_pct_overall": 18,
+        "recent_n": 6,
+        "recent_low_pct": 0,
+        "top_low_quotes": [
+          {
+            "score": 2,
+            "date": "2023-08-03T23:24:32.152Z",
+            "thumbsUp": 82,
+            "text": "Melhor app de todos para fazer check list e criar hábitos, só faltaria widget pra ser top!!!!! O problema é que tem limite de habitos/tarefa que pode criar, que são 3 depois disso tem q se inscrever e a inscrição é mensal, ou seja, só pode fazer 3 cards, basicamente te obrigam a fazer a inscrição, bem absurdo. se a compra fosse vitalícia pelomenos... Aí é complicado...Uma pena, pois o app é realme"
+          },
+          {
+            "score": 1,
+            "date": "2024-07-05T00:12:15.301Z",
+            "thumbsUp": 3,
+            "text": "O app só permite 4 programações na versão gratuita e a versão premium é um valor totalmente fora da realidade. Se não permite criar uma programação, o app se torna inútil, nos faz perder tempo criando uma programação para no fim saber que é possível adicionar 4 apenas."
+          },
+          {
+            "score": 1,
+            "date": "2023-11-16T11:33:23.943Z",
+            "thumbsUp": 3,
+            "text": "Em momento algum diz que é pago na play store, somente quando abre o APP q você descobre que o gratis é por tempo limitado."
+          },
+          {
+            "score": 2,
+            "date": "2022-09-14T15:06:18.563Z",
+            "thumbsUp": 3,
+            "text": "o App realmente tem uma interfaçe linda, mais tem um porém, que a assinatura é muito cara! Meu deus. é muito cara mesmo, e pra criar um hábito tem que pagar, seja hábito que você mesmo escreve, ou que o aplicicativo já mostra, isso realmente é inadimicivel, espero que corrigam isso, porque o app tem tudo pra ser excelente, bem completo e bonito, mais os planos são bem caros."
+          },
+          {
+            "score": 1,
+            "date": "2024-06-06T02:57:24.112Z",
+            "thumbsUp": 2,
+            "text": "É muito ruim pouco espaço para as tarefas e aí tem que pagar"
+          }
+        ]
+      }
+    },
+    {
+      "country": "br",
+      "lang": "pt-BR",
+      "meta": {
+        "appId": "com.habitrpg.android.habitica",
+        "title": "Habitica: Gamify Your Tasks",
+        "summary": "Trate sua vida como um jogo para se manter motivado e organizado!",
+        "developer": "HabitRPG, Inc.",
+        "genre": "Produtividade",
+        "installs": "5.000.000+",
+        "minInstalls": 5000000,
+        "score": 4.8476906,
+        "ratings": 72949,
+        "reviews": 1679,
+        "histogram": {
+          "1": 540,
+          "2": 720,
+          "3": 1269,
+          "4": 4185,
+          "5": 66207
+        },
+        "free": true,
+        "priceText": "Free",
+        "offersIAP": true,
+        "IAPRange": "R$ 1,59 – R$ 184,99 por item",
+        "adSupported": true,
+        "released": "10 de dez. de 2015",
+        "updated": 1777391762000,
+        "version": "4.9.5",
+        "description": "Trate sua vida como um jogo para se manter motivado e organizado! Habitica facilita a diversão ao cumprir suas metas. Insira seus Hábitos, seus objetivos Diários, sua lista de Afazeres e então crie um personagem personalizado. \n\nMarque como feitas suas tarefas para subir de nível e desbloqueie recursos como armaduras, mascotes, habilidades e até mesmo missões! Combata monstros com amigos para manter todos na linha enquanto usa seu ouro em recompensas dentro do jogo, como equipamento, ou prêmios personalizados como assistir a um episódio de sua série preferida. Flexível, social, e divertido, o Habitica é a maneira perfeita de se motivar para cumprir qualquer coisa.\n\nCaracterísticas:\n  • Repetir automaticamente tarefas agendadas para suas rotinas diárias, semanais ou mensais\n  • Rastreador de hábitos flexível para tarefas que você deseja realizar várias vezes ao dia ou apenas de vez em quando\n  • Lista de tarefas tradicional para tarefas que só precisam ser realizadas uma vez\n  • Tarefas codificadas por cores e contadores de sequências ajudam você a ver rapidamente como está seu desempenho\n  • Sistema de nivelamento para visualizar seu progresso geral\n  • Toneladas de equipamentos co"
+      },
+      "stats": {
+        "n": 200,
+        "low_pct_overall": 5,
+        "recent_n": 29,
+        "recent_low_pct": 0,
+        "top_low_quotes": [
+          {
+            "score": 2,
+            "date": "2026-01-09T15:11:44.727Z",
+            "thumbsUp": 3,
+            "text": "é... continua sendo meu jogo favorito mas levei um golpe nele antes eu comprava as gemas e realmente elas chegavam só que a pouco tempo (aproximadamente novembro de 2025), onde vim aqui pois me lembrei disso agora, comprei um pack de 14 gemas, eu acho só sei que eu comprei o negócio, gastei meu dinheiro, chegou até e-mail do Google comprovando minha compra, e as gemas até hoje não chegaram, com ce"
+          },
+          {
+            "score": 1,
+            "date": "2025-07-25T20:26:22.750Z",
+            "thumbsUp": 2,
+            "text": "não gostei muito do aplicativo não deu nem de usar é uma enrolação todinha só para colocar senha e e-mail."
+          },
+          {
+            "score": 1,
+            "date": "2025-05-24T13:18:54.703Z",
+            "thumbsUp": 2,
+            "text": "Até parece legalzinho, mas o design é contra intuitivo, não achei funcional."
+          },
+          {
+            "score": 2,
+            "date": "2026-02-04T16:22:21.984Z",
+            "thumbsUp": 0,
+            "text": "o único problema desse app é que as notificações não tem um som próprio então quando vem um alarme deste aplicativo você não tem como saber se é realmente dele ou de outro app, infelizmente isso atrapalha muito, se o som da notificação fosse distinto do som de notificaçoes do proprio sistema, quanda dá um alarme eu saberia que é uma tarefa que eu tenho que concluir ao invés de apenas uma notificaç"
+          },
+          {
+            "score": 1,
+            "date": "2026-01-20T03:17:31.384Z",
+            "thumbsUp": 0,
+            "text": "você perdeu vida se não cumprir um hábito semanal todos os dias, e caso morra você perde um item lendário, nível, Gold. isso é cruel demais, nem todo hábito é diário."
+          }
+        ]
+      }
+    }
+  ]
+}

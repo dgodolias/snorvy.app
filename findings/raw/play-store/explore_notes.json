@@ -1,0 +1,423 @@
+{
+  "niche": "notes",
+  "generated_at": "2026-05-07T13:22:16.558Z",
+  "apps": [
+    {
+      "country": "us",
+      "lang": "en",
+      "meta": {
+        "appId": "com.evernote",
+        "title": "Evernote - Note Organizer",
+        "summary": "Notepad &amp; Planner: Take notes, create daily tasks and organize to-do lists.",
+        "developer": "Evernote by Bending Spoons",
+        "genre": "Productivity",
+        "installs": "100,000,000+",
+        "minInstalls": 100000000,
+        "score": 3.5423179,
+        "ratings": 1849445,
+        "reviews": 197452,
+        "histogram": {
+          "1": 533942,
+          "2": 80172,
+          "3": 75535,
+          "4": 168528,
+          "5": 991258
+        },
+        "free": true,
+        "priceText": "Free",
+        "offersIAP": true,
+        "IAPRange": "$1.00 - $254.89 per item",
+        "adSupported": true,
+        "updated": 1777908618000,
+        "version": "11.15.2",
+        "description": "Capture ideas when inspiration strikes. Bring your notes, to-dos, and schedule together to tame life’s distractions and accomplish more—at work, at home, and everywhere in between. \n\nEvernote syncs to all your devices, so you can stay productive on the go. Tackle your to-do list with Tasks, connect your Google Calendar to stay on top of your schedule, and see your most relevant information quickly with a customizable Home dashboard.\n\n\"Use Evernote as the place you put everything … Don’t ask yourself which device it’s on—it’s in Evernote\" – The New York Times\n \n“When it comes to taking all manner of notes and getting work done, Evernote is an indispensable tool.” – PC Mag\n \n---\n\nCAPTURE IDEAS\n• Write, collect, and capture ideas as searchable notes, notebooks, and to-do lists.\n• Clip interesting articles and web pages to read or use later. \n• Add different types of content to your notes: text, docs, PDFs, sketches, photos, audio, web clippings, and more.\n• Use your camera to scan and organize paper documents, business cards, whiteboards, and handwritten notes.\n \nGET ORGANIZED\n• Manage your to-do list with Tasks—set due dates and reminders, so you never miss a deadline.\n• Connect Ever"
+      },
+      "stats": {
+        "n": 200,
+        "low_pct_overall": 84,
+        "recent_n": 200,
+        "recent_low_pct": 84,
+        "top_low_quotes": [
+          {
+            "score": 1,
+            "date": "2026-03-29T04:32:31.791Z",
+            "thumbsUp": 181,
+            "text": "Went from being really good to being absolutely unusable. None of the notes I've made are even viewable, which led to a lot of lost data. All it does is spin the loading bar, without showing the note I made. Used to be very good, but now no longer functions. Also, a few previously-accessible functions are locked behind paywalls, like deleting multiple notes at a time. Update 08 August 2024: I wish"
+          },
+          {
+            "score": 1,
+            "date": "2026-04-26T22:09:50.816Z",
+            "thumbsUp": 89,
+            "text": "***\"Final Update April 2026 Reached my limit with their scamming BS. Canceled Migrated to UpNote. Below in response to my feedback $79 to $119 “ We have decided to moderate the impact of this increase by increasing the Annusl price by a set rate of $20 per year for 6 years\" *Update: November 2024** Back to 1 star. The company continuously adds features that are unnecessary and not wanted without a"
+          },
+          {
+            "score": 1,
+            "date": "2026-04-16T15:23:52.768Z",
+            "thumbsUp": 49,
+            "text": "Evernote probably got bought out by a private equity company guys. That's why it sucks now, they're intentionally trying to run it into the ground to make as much money as possible before they destroy the company"
+          },
+          {
+            "score": 2,
+            "date": "2026-03-23T21:56:43.135Z",
+            "thumbsUp": 28,
+            "text": "I still like the app, and had used it for many years for free, but the asking price from the popups every time you open the app is horrendous. And asking £150 a year is insulting and insanity, maybe you can ask that for business users that need the bandwidth and top tear features, but asking more than £20 for users that want to make some notes is robbery. Ive many very useful and extremely feature"
+          },
+          {
+            "score": 1,
+            "date": "2026-04-05T02:58:07.940Z",
+            "thumbsUp": 21,
+            "text": "Switching to Obsidian. Evernote keeps logging me out and prompting me to start a new subscription, and I keep ending up with multiple simultaneous tiers of paid subscription to this service. It's bad enough that Bending Spoons brought their head-empty \"add AI to everything\" plague upon us longtime users of the service and had the nerve to nearly double the cost for features most of the user base a"
+          }
+        ]
+      }
+    },
+    {
+      "country": "us",
+      "lang": "en",
+      "meta": {
+        "appId": "notion.id",
+        "title": "Notion: Notes, Tasks, AI",
+        "summary": "Notion Agent simplifies your needs. Write notes, plan projects &amp; organize tasks",
+        "developer": "Notion Labs, Inc.",
+        "genre": "Productivity",
+        "installs": "10,000,000+",
+        "minInstalls": 10000000,
+        "score": 4.589248,
+        "ratings": 355040,
+        "reviews": 4622,
+        "histogram": {
+          "1": 17290,
+          "2": 6261,
+          "3": 11626,
+          "4": 34580,
+          "5": 285251
+        },
+        "free": true,
+        "priceText": "Free",
+        "offersIAP": true,
+        "IAPRange": "$11.99 - $214.99 per item",
+        "adSupported": false,
+        "released": "Jun 5, 2018",
+        "updated": 1777924477000,
+        "version": "0.6.3836",
+        "description": "Notion is an AI-powered all-in-one workspace that helps individuals and teams write notes, manage tasks, organize projects, and collaborate in one place. Whether you’re tracking personal to-do lists, writing and organizing class notes, or managing projects with a team, Notion helps users plan work, stay organized, and achieve goals.\n\n\"AI's everything app\" — Forbes\n\nNotion is a productivity app where you can write, plan, and organize your notes, projects, tasks and more. Ask Notion AI about project updates, upcoming tasks, and suggestions for a more streamlined workflow.\n\nSimplify writing notes, project and task management, and collaboration. Whether for personal, student or professional use, Notion scales to meet your individual needs with customization tools for everyone.\n\nNEW features:\n• AI Meeting Notes: Perfect meeting memory. Your notetaker catches every detail and delivers actionable summaries, right where you work.\n• Maps View: Turn databases into interactive maps. Use the new Place property to pin restaurants, trips, offices, clients, and more.\n\nFREE FOR PERSONAL USE\nIndividuals manage day-to-day tasks, notes, and personal organization.\n• Create as many notes, docs, and con"
+      },
+      "stats": {
+        "n": 200,
+        "low_pct_overall": 33.5,
+        "recent_n": 200,
+        "recent_low_pct": 33.5,
+        "top_low_quotes": [
+          {
+            "score": 2,
+            "date": "2026-04-19T14:51:36.630Z",
+            "thumbsUp": 94,
+            "text": "Editing and the actual notes experience is ok, but it has some annoyances. It's also now trying to be \"helpful\" by detecting Microsoft Intune and offering to log in through it. I say no but Notion doesn't remember or respect that answer. I'd prefer it not to sniff other apps on my device at all."
+          },
+          {
+            "score": 2,
+            "date": "2026-04-12T13:30:20.787Z",
+            "thumbsUp": 6,
+            "text": "Freezes/crashes too much. The screen doesn't show anything while scrolling. When editing a spreadsheet, a view, or anything the time response between a click and something happens is too low. Notion doesn't work well on mobile..."
+          },
+          {
+            "score": 2,
+            "date": "2026-04-23T20:27:26.554Z",
+            "thumbsUp": 5,
+            "text": "I love Notion but the latest mobile update broke the cut/copy function. The app now also constantly thinks it is offline and needs to be restarted. Also, some actions are just aggravating on the mobile app. Notion would be useless if I didn't have the PC app for major content additions/edits. -Return key acts as \"enter\" while in a text box so there is no native way to create paragraphs. -Phones ba"
+          },
+          {
+            "score": 2,
+            "date": "2026-04-21T20:46:46.379Z",
+            "thumbsUp": 4,
+            "text": "Notion is great on desktop, but not so much on mobile. It's incredibly difficult to drag content around, pages become unscrollable, the keyboard blocks the content I'm writing, can't press enter to do a line break, and getting rid of the keyboard (pressing back) takes me off the page completely. I'm sure there are other things I'm missing, but the experience has been rough"
+          },
+          {
+            "score": 1,
+            "date": "2026-04-21T02:14:20.966Z",
+            "thumbsUp": 4,
+            "text": "Absolutely nonfunctional, a dismal intro for someone interested in engaging a new notes and organizing app. You get an empty gray screen with nothing in it but the AI chat field at the bottom. No framework. Created notes aren't visible. The templates are pointless. There's no library. Content loads painfully slow. It created TWO identical (empty) \"spaces\" for my account. Notes I tried to create di"
+          }
+        ]
+      }
+    },
+    {
+      "country": "us",
+      "lang": "en",
+      "meta": {
+        "appId": "com.getupnote.android",
+        "title": "UpNote - notes, diary, journal",
+        "summary": "The most pleasant app for writing and organizing notes",
+        "developer": "UpNote Pte. Ltd.",
+        "genre": "Productivity",
+        "installs": "100,000+",
+        "minInstalls": 100000,
+        "score": 4.7389164,
+        "ratings": 18178,
+        "reviews": 566,
+        "histogram": {
+          "1": 529,
+          "2": 170,
+          "3": 260,
+          "4": 1517,
+          "5": 15663
+        },
+        "free": true,
+        "priceText": "Free",
+        "offersIAP": true,
+        "IAPRange": "$1.99 - $39.99 per item",
+        "adSupported": false,
+        "released": "Apr 12, 2021",
+        "updated": 1777767227000,
+        "version": "9.18.5",
+        "description": "UpNote is an elegant and powerful note app that works seamlessly across platforms: iOS, Mac, Windows and Android.\n\nUpNote is designed to help you take notes easily and stay focused on what matters most.\n\nUpNote has beautiful fonts and elegant themes that you can adjust to make your writing experience most comfortable and pleasant.\n\nYou can immerse yourself in writing with focus mode. The design is clean and minimal which helps you stay free from any distraction. You could also enable typewriter mode to focus on your writing.\n\nUpNote is an ideal place to keep your diary and journal. It has a powerful lock feature so that you can rest assured that your notes stay private and secure.\n\nUpNote’s intuitive organizing system will keep your note space neat and light. There are many ways to organize your notes: putting them into notebooks, pinning your notes to the top of the note list, bookmarking them for quick reference or linking to other notes. You can also close any notebooks to focus on only most important one.\n\nUpNote’s rich editor makes it perfect for planning and managing your tasks. Simply write down your to-do list and have them synced to all your devices.\n\nUpNote offers highlig"
+      },
+      "stats": {
+        "n": 200,
+        "low_pct_overall": 11,
+        "recent_n": 110,
+        "recent_low_pct": 14.5,
+        "top_low_quotes": [
+          {
+            "score": 1,
+            "date": "2026-02-12T07:06:52.909Z",
+            "thumbsUp": 8,
+            "text": "I have been using upnote premium for years and have been very happy with it, so i was EXTREMELY disappointed to learn that 'for security reasons', future versions of the app will apparently not run on non-standard setups such as rooted devices. this is shockingly excessive for a notetaking app, and i'm extremely displeased that after the years of work I've put into curating my workspaces on upnote"
+          },
+          {
+            "score": 1,
+            "date": "2026-01-15T08:16:16.303Z",
+            "thumbsUp": 6,
+            "text": "No local backup, premium upgrade price is ridiculously High @ $35.99 ...... Conclusion: look for a different note taking app!"
+          },
+          {
+            "score": 1,
+            "date": "2026-01-13T17:29:52.582Z",
+            "thumbsUp": 3,
+            "text": "Although this app is well designed and has so much potential, its synching issue forced me to drop it at ONCE. I keep losing my work on my tablet once I open the app on my PC. Instead of synching to the latest status, it reverts back and makes me lose my work. This never happened to me with G.Keep. It's sad."
+          },
+          {
+            "score": 1,
+            "date": "2026-04-17T01:31:09.876Z",
+            "thumbsUp": 2,
+            "text": "just a small problem that if i change device or login another device the settings gets reset and doesn't sync to other devices,, I'll give this 5 ⭐ it's the perfect note taking app anyone can shift on it without thinking ❤️"
+          },
+          {
+            "score": 1,
+            "date": "2026-01-18T08:24:20.394Z",
+            "thumbsUp": 2,
+            "text": "Why is signing in the most difficult thing??? I tried signing in multiple times on my PC - it just would not take. I have a premium account and it is useless. I tried reinstalling the app and my password won't work now and I have no idea what my reset code is - which leaves me stuck because the screen is stuck on that single window with ONLY a password field and nothing elses! What an utterly stup"
+          }
+        ]
+      }
+    },
+    {
+      "country": "us",
+      "lang": "en",
+      "meta": {
+        "appId": "com.socialnmobile.dictapps.notepad.color.note",
+        "title": "ColorNote Notepad Notes",
+        "summary": "Take a quick note, organize notes, and manage to-do lists with color notepad",
+        "developer": "Notes",
+        "genre": "Productivity",
+        "installs": "100,000,000+",
+        "minInstalls": 100000000,
+        "score": 4.8795877,
+        "ratings": 3944601,
+        "reviews": 258906,
+        "histogram": {
+          "1": 40909,
+          "2": 13414,
+          "3": 32010,
+          "4": 207067,
+          "5": 3651189
+        },
+        "free": true,
+        "priceText": "Free",
+        "offersIAP": true,
+        "IAPRange": "$1.99 - $15.99 per item",
+        "adSupported": false,
+        "updated": 1771756060000,
+        "version": "4.8.2",
+        "description": "ColorNote® is a simple and awesome notepad app. It gives you a quick and simple notepad editing experience when you write notes, memos, e-mails, messages, shopping lists and to-do lists. Taking notes with ColorNote® Notepad is easier than any other notepad or memo pad app.\n\n* Notice *\n- If you cannot find the widget, then please read the FAQ below.\n- When you're finished using the notepad, an automatic save command preserves your individual note.\n\n* Product Description *\nColorNote® features two basic note taking formats, a lined-paper styled text option, and a checklist option. Add as many as you want to your master list, which appears on the app's home screen each time the program opens. This list may be viewed in traditional ascending order, in grid format, or by note color.\n\n- Taking a Note -\nServing as a simple word processing program, the text option allows for as many characters as you're willing to type. Once saved, you can edit, share, set a reminder, or check off or delete the note through your device's menu button. When checking off a text note, the app places a slash through the list's title, and this will be displayed on the main menu.\n\n- Making To-do List or Shopping L"
+      },
+      "stats": {
+        "n": 200,
+        "low_pct_overall": 3,
+        "recent_n": 200,
+        "recent_low_pct": 3,
+        "top_low_quotes": [
+          {
+            "score": 1,
+            "date": "2026-05-05T12:48:34.145Z",
+            "thumbsUp": 0,
+            "text": "For unlock file update biometric or pattern please"
+          },
+          {
+            "score": 2,
+            "date": "2026-05-04T07:11:38.546Z",
+            "thumbsUp": 0,
+            "text": "I use this a lot and I'm mostly happy with it. One thing that would make it better is if you could copy or paste a list into the checklist and have each line of the text you paste a separate check item. I'm also deducting a star for lack of developers interest in reading these reviews and acting on them to better the app. Not one review has been replied to be the developer."
+          },
+          {
+            "score": 1,
+            "date": "2026-05-03T19:56:14.801Z",
+            "thumbsUp": 0,
+            "text": "the dampening won't download on my tablet."
+          },
+          {
+            "score": 2,
+            "date": "2026-05-03T17:41:49.260Z",
+            "thumbsUp": 0,
+            "text": "Can you please reset the password without deleting the locked notes. I'm very frustrated remembering passwords that I've forgotten 😭😔"
+          },
+          {
+            "score": 1,
+            "date": "2026-04-30T23:49:51.470Z",
+            "thumbsUp": 0,
+            "text": "automatically my notes deleted gmail account login with problem no recovery my notes"
+          }
+        ]
+      }
+    },
+    {
+      "country": "us",
+      "lang": "en",
+      "meta": {
+        "appId": "notes.notepad.checklist.calendar.todolist.notebook",
+        "title": "Notepad, Notes, Easy Notebook",
+        "summary": "Simple notepad &amp; memo. Take notes, to-do list, shopping list with reminders.",
+        "developer": "Simple Design Ltd.",
+        "genre": "Productivity",
+        "installs": "10,000,000+",
+        "minInstalls": 10000000,
+        "score": 4.772009,
+        "ratings": 431453,
+        "reviews": 13525,
+        "histogram": {
+          "1": 14824,
+          "2": 3238,
+          "3": 4977,
+          "4": 19367,
+          "5": 389022
+        },
+        "free": true,
+        "priceText": "Free",
+        "offersIAP": true,
+        "IAPRange": "$3.99 - $30.99 per item",
+        "adSupported": true,
+        "released": "Apr 8, 2022",
+        "updated": 1776425149000,
+        "version": "1.4.1.98",
+        "description": "Want an easy-to-use notepad for quick note-taking? \nWant a sticky notes widget to organize your tasks right on your screen?\nWant a handy memo pad to make to do lists, shopping lists with reminders?\n\nThis free note-taking app, notebook, and memo pad app meets all your needs! No ads!\n\nNotein - Notepad, Notes, Lists is an awesome notes app for Android. You can write notes with colorful backgrounds for easy notes management. Sticky notes widgets, note reminders, note lock, etc., all make note-taking so simple, quick, and safe. Take notes just like using pen and paper.\n\n✍️Handy Note Taking App\nNotein, the free notepad app and note widget app provides two note-taking modes, text mode (lined paper style), and checklist mode. Notein will automatically save notes as you type. \n- Take quick notes, school notes, meeting notes, anytime, anywhere.\n- Write memos, to do lists, shopping lists, tasks, etc. to better organize your life.\n- Quickly view, add, check, and edit notes through the notes widget.\nCheck off, archive, edit, delete, share notes easily with this good notes app. \n\n📅Calendar Notes and Memos\nAwesome notepad app allows you to add notes to the calendar! Use Notein to create notes, t"
+      },
+      "stats": {
+        "n": 200,
+        "low_pct_overall": 4,
+        "recent_n": 200,
+        "recent_low_pct": 4,
+        "top_low_quotes": [
+          {
+            "score": 1,
+            "date": "2026-05-02T19:24:42.302Z",
+            "thumbsUp": 0,
+            "text": "ADD BATCH EXPORTS. ADD BATCH EXPORTS. I GOT A NEW PHONE AND A YEAR'S WORTH OF NOTES ARE GONE. ADD BATCH EXPORTS. WHERE ARE THE FILES KEPT ANYWAY?"
+          },
+          {
+            "score": 1,
+            "date": "2026-05-02T09:07:51.989Z",
+            "thumbsUp": 0,
+            "text": "this app is so dumb.I made alot of notes and all the notes were erased and it's the third time it happened.Its doesn't save the notes and too many ads."
+          },
+          {
+            "score": 1,
+            "date": "2026-05-01T20:20:51.161Z",
+            "thumbsUp": 0,
+            "text": "too many ads. Why do I have to accept a privacy policy does the app connect to a server. id like to keep my notes personal. Installed and immediately bombarded with ads. click continue which isnt a part of an ad but it opens the ad link anyways. Then get offered exclusive background. Finally get given an \"exclusive offer\" an ad by the app devs themselves with a little X. hadn't even taken any note"
+          },
+          {
+            "score": 1,
+            "date": "2026-04-29T08:28:41.480Z",
+            "thumbsUp": 0,
+            "text": "As soon as you open the app you're asked for payment. I saw no mention of this being a a commercial app otherwise I wouldn't have downloaded it."
+          },
+          {
+            "score": 1,
+            "date": "2026-04-26T20:12:13.666Z",
+            "thumbsUp": 0,
+            "text": "The ads slow down the app and the premium purchasing pop ups are irritating. If you buy premium, but have multiple emails tied to your device, you're wasting your money because it won't work and you'll still have ads. No other apps/games I've purchased premium/no ads for have ever had this issue, and its inexcusable in my opinion. I will not be removing accounts from my phone for one note taking a"
+          }
+        ]
+      }
+    },
+    {
+      "country": "us",
+      "lang": "en",
+      "meta": {
+        "appId": "md.obsidian",
+        "title": "Obsidian",
+        "summary": "Plain-text personal knowledge base on the go",
+        "developer": "Dynalist Inc.",
+        "genre": "Productivity",
+        "installs": "1,000,000+",
+        "minInstalls": 1000000,
+        "score": 4.1150794,
+        "ratings": 16807,
+        "reviews": 1225,
+        "histogram": {
+          "1": 2132,
+          "2": 666,
+          "3": 1266,
+          "4": 1799,
+          "5": 10935
+        },
+        "free": true,
+        "priceText": "Free",
+        "offersIAP": false,
+        "adSupported": false,
+        "released": "Jul 7, 2021",
+        "updated": 1773930663000,
+        "version": "1.12.7",
+        "description": "Obsidian is a powerful knowledge base that works on top of\na local folder of plain text Markdown files.\n\nIt is a second brain, for you, forever. Now available on the go for Android!\n\nFeatures include:\n- Customizable toolbar\n- Pull down quick actions\n- Graph view\n- Share to and from Obsidian\n- Community plugins\n- Themes\n- Sidebar pinning for tablet"
+      },
+      "stats": {
+        "n": 200,
+        "low_pct_overall": 22,
+        "recent_n": 200,
+        "recent_low_pct": 22,
+        "top_low_quotes": [
+          {
+            "score": 2,
+            "date": "2026-04-14T07:22:45.267Z",
+            "thumbsUp": 39,
+            "text": "The battery drain is absurd. And my phone is constantly overheating. I can't use this app for more than 10 minutes. I know this phone is old, but Obsidian drains and overheats my battery more than opening a video player and a browser app at the same time. Also, I've lost changes to documents before. It wouldn't hurt to add a manual save option, because automatic save does not always work."
+          },
+          {
+            "score": 2,
+            "date": "2026-03-22T11:55:11.957Z",
+            "thumbsUp": 7,
+            "text": "Yes it can do anything. But it's like you need a house, but you get a lot of Bricks. I've spent weeks to transfer my data and set up Obsidian, but even in a year I have problems doung basil things, like finding recent notes, sorting, linking etc. I'm sure it's all possible and there are a lot of people, who find it suitable for them. But it is not for me. It takes my time instead of giving it to m"
+          },
+          {
+            "score": 1,
+            "date": "2026-04-05T18:32:10.374Z",
+            "thumbsUp": 6,
+            "text": "Lacks widgets (that actually contain text, obviously). Also there's a bug that doesn't let you select more than the text on your screen, since it doesn't auto-scroll when trying to select near the top/bottom of the screen. And apparently this has been a bug for >3yrs so I have little hope of it being fixed by now."
+          },
+          {
+            "score": 1,
+            "date": "2026-03-03T11:31:27.569Z",
+            "thumbsUp": 5,
+            "text": "Most recent update made it impossible to copy paste from my own notes. what's the point of a notes app if it ignores half the text in what you've selected and picks and chooses what to copy? no, I select the entire exact amount of text i want to copy, you don't get to then choose what I \"actually wanted to copy\" bad app functionality. stop making pointless, worse updates."
+          },
+          {
+            "score": 2,
+            "date": "2026-03-13T23:38:48.627Z",
+            "thumbsUp": 4,
+            "text": "The new interface ruined the experience, please move the sidebar, vault title and file sorter/list or whatchamacallit back to its original position or add a switch for that (I haven't found it on the setting at the time of writing). It's mobile, and the thing is something that we rarely interact with, so right now it is BOTHERING ME. If you're doing this for the drop-down navigation, then just adj"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -20,6 +20,7 @@ _Source: 97 synthesized cells + Invoice Simple 3000-review drill (US/GB) + iOS 7
 | 5 | **Smart Receipts displacement** (US) | US | 57% recent low_pct, 1M+ installs, "no local backup" complaint | 6-8 wk | <$5k base (small ceiling) | MEDIUM | (merged into D2 receipt module) |
 | 6 | **Tycoon Zero (Flutter Flame Idle)** | global | AdVenture Capitalist 52% low / 78% predatory density / ONE-TIME-vs-subscription wedge | 8-12 wk | $5-15k base | MEDIUM-LOW (B2C variability) | Pending Phase E loop drill |
 | 7 | **TR e-SMM (Serbest Meslek Makbuzu)** mobile app | TR | Mikrogrup e-Arşiv 66.7% low + SYSMOND 41.3% low (bait-and-switch tokens) — **e-SMM mobile niche EMPTY** (govt portal only) | 5-7 wk | TBD | **MEDIUM-HIGH** (NEW from EXPLORATION mode Tick 1) |
+| 8 | **Honest Sleep Recorder (ShutEye displace)** | global | ShutEye 61.6% recent low_pct on 10M+ installs, $79.99 IAP ceiling, immediate-charge-on-trial complaint | 4-6 wk | TBD | **MEDIUM** (NEW from EXPLORATION mode Tick 1) |
 
 **Key v9 ranking change**: Direction 2 (QBSE+Solopreneur+Schedule C) **promoted from #3 to #2** based on Agent 13 deep drill confirming Solopreneur (the QBSE replacement) is ALSO at 61.4% recent low_pct on 1500 reviews — meaning the displacement market = QBSE refugees + Solopreneur frustrated users (combined 2M+ install base). Direction 4 (EU multi-country) drops to #3.
 

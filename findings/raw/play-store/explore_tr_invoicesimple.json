@@ -1,0 +1,89 @@
+{
+  "app": "com.aadhk.woinvoice",
+  "country": "tr",
+  "lang": "tr",
+  "total_pulled": 140,
+  "total_after_filter": 8,
+  "reviews": [
+    {
+      "date": "2025-08-18T22:14:23.503Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "kemal kara",
+      "text": "uygulamayi 4 Ağustos da yeniden satın aldım ve yaklaşık 4 yıldır kullanıyorum. ve 4 yıldır Google Play üzerinden alıyorum sorunsuz kullandım. ama şuan uygulama bana 4 eylule kadar 1 fatura kesibilrsin diyor!!! neden şimdi bu politika yeniden satın alma yap deniyor. 149 sterline. ben zaten galiba 59 sterlin gibi ciddi bir para verdim. yardım kısmına yazdım ama robot benimle aynı şeyleri konuştu durdu. lütfen yardım!!!!!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.aadhk.woinvoice&reviewId=98d54030-66d8-4ed0-9020-bf169228ac65"
+    },
+    {
+      "date": "2024-12-21T16:02:50.212Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Ramazan Kılıçlı",
+      "text": "Yıllık 5.000 TL veremem kusura bakma",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.aadhk.woinvoice&reviewId=87a734cb-81ac-438e-939f-5dac01be6f38"
+    },
+    {
+      "date": "2024-04-15T16:24:12.510Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Gamze Aydin",
+      "text": "Program şu an yanıt vermiyor",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.aadhk.woinvoice&reviewId=b977dba4-b587-4d8b-b9c8-633f00bd19f9"
+    },
+    {
+      "date": "2022-06-08T20:13:33.696Z",
+      "score": 1,
+      "thumbsUp": 4,
+      "user": "Met Plt",
+      "text": "Bu kadar 5 yıldız verenler .size şaşıyorum. Yav uygulama ne işe yarıyor bı türlü çözemedim. Bu uygulama e fatura falan oluşturmuyor ..sadece sacmalamis . 5 para etmez . Yarım saattir açtım hiç biyeri den bişey anlamadım . 5 yıldız verenler ?!! Heey komiksiniz",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.aadhk.woinvoice&reviewId=831b3930-7080-4c78-83bd-5c3acfc34f32"
+    },
+    {
+      "date": "2021-11-19T15:44:56.665Z",
+      "score": 1,
+      "thumbsUp": 4,
+      "user": "A. D.",
+      "text": "Saçma bi program.",
+      "reply": "Merhaba, bunun için gerçekten üzgünüm! İşlerinizi halletmenize yardımcı olmaktan mutluluk duyarız, lütfen uygulamadaki Destek özelliğini kullanarak bizimle iletişime geçin. Fatura Basit destek ekibi, support@invoicesimple.com",
+      "replyDate": "2021-11-29T07:55:01.571Z",
+      "url": "https://play.google.com/store/apps/details?id=com.aadhk.woinvoice&reviewId=1f4a1b3a-a5be-4369-9372-768491f0139f"
+    },
+    {
+      "date": "2019-07-06T15:09:14.550Z",
+      "score": 2,
+      "thumbsUp": 6,
+      "user": "Google kullanıcısı",
+      "text": "we have written one or two products, but I want to change the ranking, but it does not take care of it, please delete again to write the case and the price of the money is a little more expensive and ultimately may be very expensive !!!!!",
+      "reply": "Hi Deniz, I'm really sorry about this! We're happy to help get things working for you, please contact us using the Support feature in the app.\n​\nAlex, alex@getinvoicesimple.com",
+      "replyDate": "2018-11-15T23:29:33.715Z",
+      "url": "https://play.google.com/store/apps/details?id=com.aadhk.woinvoice&reviewId=db8d4673-651c-4817-82ba-5902baf018bc"
+    },
+    {
+      "date": "2018-07-22T05:37:57.106Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Google kullanıcısı",
+      "text": "İki kişi yükle hemen ücret kısmına geçiyor...",
+      "reply": "Hi Ahmet, I'm really sorry about this! We're happy to help get things working for you, please contact us using the Support feature in the app.\n​\nAlex, alex@getinvoicesimple.com",
+      "replyDate": "2018-07-22T14:43:49.250Z",
+      "url": "https://play.google.com/store/apps/details?id=com.aadhk.woinvoice&reviewId=33f251ac-f0ec-4496-a7df-084299e93289"
+    },
+    {
+      "date": "2018-01-20T08:09:44.330Z",
+      "score": 1,
+      "thumbsUp": 4,
+      "user": "Google kullanıcısı",
+      "text": "2 time I have used 3 th time they wanted 300 tl mean 80$ pehhh",
+      "reply": "Hi Sinan, sorry about that!  Yes Invoice Simple requires a subscription (monthly or annual) after the free trial invoices.\n\nAlex, alex@getinvoicesimple.com",
+      "replyDate": "2018-01-20T23:08:00.555Z",
+      "url": "https://play.google.com/store/apps/details?id=com.aadhk.woinvoice&reviewId=3f90c0c3-3bcf-457a-912e-786490711523"
+    }
+  ]
+}

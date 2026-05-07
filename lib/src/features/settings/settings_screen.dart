@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:snorvy/src/theme/snorvy_theme.dart';
 import 'package:snorvy/src/services/unlock_repository.dart';
 
-class SettingsScreen extends StatefulWidget {
+class SettingsScreen extends StatelessWidget {
   const SettingsScreen({
     required this.isBusy,
     required this.unlockState,
@@ -19,14 +19,6 @@ class SettingsScreen extends StatefulWidget {
   final Future<void> Function() onAddManualLog;
   final Future<void> Function() onDeleteAllSleepData;
   final VoidCallback onUnlockTap;
-
-  @override
-  State<SettingsScreen> createState() => _SettingsScreenState();
-}
-
-class _SettingsScreenState extends State<SettingsScreen> {
-  bool _autoDeleteTalkEvents = true;
-  bool _keepAudioLocalOnly = true;
 
   @override
   Widget build(BuildContext context) {
@@ -48,35 +40,29 @@ class _SettingsScreenState extends State<SettingsScreen> {
         Card(
           child: Column(
             children: [
-              SwitchListTile(
-                value: _keepAudioLocalOnly,
-                onChanged: (value) => setState(() {
-                  _keepAudioLocalOnly = value;
-                }),
-                title: const Text('Local-only audio'),
-                subtitle: const Text('No cloud sync in Snorvy v1.'),
-                secondary: const Icon(Icons.phone_android),
+              const ListTile(
+                leading: Icon(Icons.phone_android),
+                title: Text('Local-only audio'),
+                subtitle: Text(
+                  'Recordings stay on this phone unless you export them.',
+                ),
               ),
               const Divider(height: 1),
-              SwitchListTile(
-                value: _autoDeleteTalkEvents,
-                onChanged: (value) => setState(() {
-                  _autoDeleteTalkEvents = value;
-                }),
-                title: const Text('Auto-delete talk clips'),
-                subtitle: const Text('Default privacy window is 30 days.'),
-                secondary: const Icon(Icons.auto_delete),
+              const ListTile(
+                leading: Icon(Icons.no_accounts_outlined),
+                title: Text('No cloud account'),
+                subtitle: Text('Snorvy v1 has no login or sync backend.'),
               ),
               const Divider(height: 1),
               ListTile(
-                enabled: !widget.isBusy,
+                enabled: !isBusy,
                 leading: const Icon(Icons.delete_forever_outlined),
                 title: const Text('Delete local sleep data'),
                 subtitle: const Text(
                   'Remove history and recordings from this phone.',
                 ),
                 trailing: const Icon(Icons.chevron_right),
-                onTap: widget.isBusy
+                onTap: isBusy
                     ? null
                     : () async {
                         final confirmed = await _confirmDeleteAllData(context);
@@ -84,7 +70,7 @@ class _SettingsScreenState extends State<SettingsScreen> {
                           return;
                         }
 
-                        await widget.onDeleteAllSleepData();
+                        await onDeleteAllSleepData();
                         if (!context.mounted) {
                           return;
                         }
@@ -138,14 +124,14 @@ class _SettingsScreenState extends State<SettingsScreen> {
                         crossAxisAlignment: CrossAxisAlignment.start,
                         children: [
                           Text(
-                            widget.unlockState.isUnlocked
+                            unlockState.isUnlocked
                                 ? 'Lifetime unlock active'
-                                : 'Free: ${widget.recordingsThisMonth}/7 nights used',
+                                : 'Free: $recordingsThisMonth/7 nights used',
                             style: Theme.of(context).textTheme.titleMedium
                                 ?.copyWith(fontWeight: FontWeight.w700),
                           ),
                           Text(
-                            '${widget.unlockState.priceLabel} once unlocks everything.',
+                            '${unlockState.priceLabel} once unlocks everything.',
                             style: Theme.of(context).textTheme.bodySmall
                                 ?.copyWith(
                                   color: Theme.of(
@@ -165,14 +151,12 @@ class _SettingsScreenState extends State<SettingsScreen> {
                     backgroundColor: Theme.of(context).colorScheme.onSurface,
                     foregroundColor: SnorvyTheme.midnight,
                   ),
-                  onPressed: widget.unlockState.isUnlocked
-                      ? null
-                      : widget.onUnlockTap,
+                  onPressed: unlockState.isUnlocked ? null : onUnlockTap,
                   icon: const Icon(Icons.lock_open),
                   label: Text(
-                    widget.unlockState.isUnlocked
+                    unlockState.isUnlocked
                         ? 'Unlocked'
-                        : 'Unlock ${widget.unlockState.priceLabel}',
+                        : 'Unlock ${unlockState.priceLabel}',
                   ),
                 ),
               ],
@@ -185,7 +169,7 @@ class _SettingsScreenState extends State<SettingsScreen> {
             minimumSize: const Size.fromHeight(52),
             foregroundColor: SnorvyTheme.neuralMint,
           ),
-          onPressed: widget.isBusy ? null : () => _showManualLogSheet(context),
+          onPressed: isBusy ? null : () => _showManualLogSheet(context),
           icon: const Icon(Icons.edit_calendar),
           label: const Text('Add manual sleep log'),
         ),
@@ -216,7 +200,7 @@ class _SettingsScreenState extends State<SettingsScreen> {
                 const SizedBox(height: 16),
                 FilledButton.icon(
                   onPressed: () async {
-                    await widget.onAddManualLog();
+                    await onAddManualLog();
                     if (!context.mounted) {
                       return;
                     }

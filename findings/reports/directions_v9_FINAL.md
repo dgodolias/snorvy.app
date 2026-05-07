@@ -9,15 +9,16 @@ _Source: 97 synthesized cells + Invoice Simple 3000-review drill (US/GB) + iOS 7
 - 🟢 Simple build (3-8 weeks solo)
 - 🟢 LOW legal risk (no AI content liability, no marketplace, no government registration, no stalkerware)
 
-## Quick scoreboard (v9 FINAL)
+## Quick scoreboard (v9 FINAL — updated post-Agent 9 EU expansion)
 
-| Rank | Direction | Country | Vulnerability | Build | Confidence | Δ vs v8 |
+| Rank | Direction | Country | Vulnerability | Build | Y1 ARR | Confidence |
 |---|---|---|---|---|---|---|
-| 🥇1 | **Invoice Simple displacement** (cross-platform 4-country) | US/GB primary, CA/AU v2 | Android 23.1% (3000-depth) / iOS 24-33% / IAP ceiling **$399-$599** | 3-5 wk | **VERY HIGH** | confirmed |
-| 🥈2 | **QBSE + Schedule C estimator** combo (US) | US | Android **85.5%** (recent cohort 1500) + estimator gap CONFIRMED | 6-8 wk | **HIGH** | upgraded from #4 |
-| 🥉3 | **Honest Gig Tracker** (Solo + Stride displace) | US | Solo 68% Android / 80% iOS, Stride 69% Android — 434-thumb deceptive sign-up | 5-6 wk | HIGH | confirmed |
-| 4 | **DE Kleinunternehmer §19 Invoice** | DE | sevDesk 78.7% recent low_pct on 300 reviews, 3.5M TAM, regulatory wedge | 4-6 wk | MEDIUM-HIGH | NEW v9 |
-| 5 | **Smart Receipts displacement** (US) | US | 57% recent low_pct, 1M+ installs, "no local backup" complaint | 6-8 wk | MEDIUM | NEW v9 |
+| 🥇1 | **Invoice Simple displacement** (cross-platform 4-country) | US/GB primary, CA/AU v2 | Android 23.1% (3000-depth) / iOS 24-33% / IAP ceiling **$399-$599** | 3-5 wk | **€42k base** | **VERY HIGH** |
+| 🥈2 | **EU Solo-Freelancer Invoice** (DE+PL+NL shared codebase) | DE/PL/NL | sevDesk 78.7% (DE) + KSeF panic (PL Apr 2026) + Invoice Fly 50% (NL) | 4-6 wk DE base + 3-4 wk PL/NL each | **€30-50k combined** | **HIGH** |
+| 🥉3 | **QBSE + Schedule C estimator** combo (US) | US | Android **85.5%** (recent cohort 1500) + QBSE sunset May 2024 → Solopreneur transition rage + Schedule C gap CONFIRMED | 6-8 wk | $25k base | **HIGH** |
+| 4 | **Honest Gig Tracker** (Solo + Stride displace) | US | Solo 68% Android / 80% iOS, Stride 69% Android — 434-thumb deceptive sign-up | 5-6 wk | $10k base (revised — Solo/Stride monetize off-app) | MEDIUM-HIGH |
+| 5 | **Smart Receipts displacement** (US) | US | 57% recent low_pct, 1M+ installs, "no local backup" complaint | 6-8 wk | <$5k base (small ceiling) | MEDIUM |
+| 6 | _placeholder_ — Flutter Flame games OR Solo-Trades CRM (pending Agents 7+12) | TBD | TBD | TBD | TBD | TBD |
 
 **REJECTED v9 / BACKLOG**:
 - ❌ FR invoicing (Sept 2027 PDP mandate kills solo dev)

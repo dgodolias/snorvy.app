@@ -1,0 +1,765 @@
+{
+  "kids": [
+    {
+      "name": "ABCmouse",
+      "meta": {
+        "appId": "com.aofl.abcmouse",
+        "title": "ABCmouse: Kids Learning Games",
+        "developer": "Age of Learning, Inc.",
+        "score": 4.5525293,
+        "ratings": 22697,
+        "reviews": 828,
+        "installs": "1,000,000+",
+        "minInstalls": 1000000,
+        "histogram": {
+          "1": 1221,
+          "2": 573,
+          "3": 911,
+          "4": 1721,
+          "5": 18265
+        },
+        "genre": "Education",
+        "free": true,
+        "price": 0,
+        "priceText": "Free",
+        "offersIAP": true,
+        "IAPRange": "$3.99 - $104.99 per item",
+        "updated": 1777601953000,
+        "version": "1.60.1",
+        "contentRating": "Everyone"
+      },
+      "analysis": {
+        "n_reviews": 200,
+        "n_recent_90d": 200,
+        "n_recent_low": 54,
+        "recent_low_pct": "27.0",
+        "n_all_low": 54,
+        "all_low_pct": "27.0",
+        "sample_low_verbatim": [
+          {
+            "date": "2026-05-04T15:33:29.566Z",
+            "score": 3,
+            "text": "The app was great for my daughter starting out but as she got older she lost interest. I have been a customer for a few years and was doing the yearly subscription as well as the assessment add-on. I was charged today for another year that I won't be using. Since the policy doesn't allow for refunds"
+          },
+          {
+            "date": "2026-05-02T22:43:08.119Z",
+            "score": 1,
+            "text": "Scam site. After canceling, they charged us for 5 months and wouldn't even refund 1 month. Customer service is a bot. The material is overrated, and there are much better options out there. Avoid at all costs."
+          },
+          {
+            "date": "2026-04-30T21:31:16.106Z",
+            "score": 3,
+            "text": "to expensive."
+          },
+          {
+            "date": "2026-04-30T20:08:59.369Z",
+            "score": 1,
+            "text": "I hate it."
+          },
+          {
+            "date": "2026-04-29T23:59:35.370Z",
+            "score": 1,
+            "text": "Material is too difficult. I opened the app to find an abc song for my son, and it has videos about long sentences, onomatopoeias, and word families. No abc song. It also uses false advertising. If the connection drops for half a second, the app does."
+          }
+        ]
+      }
+    },
+    {
+      "name": "LogicLike ABC&Math",
+      "meta": {
+        "appId": "com.logicappkids",
+        "title": "LogicLike: ABC & Math for kids",
+        "developer": "Massiana - Educational Games",
+        "score": 4.450867,
+        "ratings": 74511,
+        "reviews": 318,
+        "installs": "10,000,000+",
+        "minInstalls": 10000000,
+        "histogram": {
+          "1": 4942,
+          "2": 3004,
+          "3": 3004,
+          "4": 6009,
+          "5": 57483
+        },
+        "genre": "Educational",
+        "free": true,
+        "price": 0,
+        "priceText": "Free",
+        "offersIAP": true,
+        "IAPRange": "$1.99 - $199.99 per item",
+        "updated": 1777908265000,
+        "version": "2.120.1",
+        "contentRating": "Everyone"
+      },
+      "analysis": {
+        "n_reviews": 200,
+        "n_recent_90d": 171,
+        "n_recent_low": 53,
+        "recent_low_pct": "31.0",
+        "n_all_low": 62,
+        "all_low_pct": "31.0",
+        "sample_low_verbatim": [
+          {
+            "date": "2026-05-03T07:46:29.706Z",
+            "score": 3,
+            "text": "Can someone help me do a refund My nephew use my phone to subscribe on your apps without me knowing. PLS reply thank you."
+          },
+          {
+            "date": "2026-05-03T04:57:44.178Z",
+            "score": 1,
+            "text": "need constant internet. asking payment in the front."
+          },
+          {
+            "date": "2026-04-28T22:13:14.852Z",
+            "score": 1,
+            "text": "STUPID APP DONT DOWNLOAD OR CLICK THIS APP IT CHARGE ME 1100 PESOS I DID NOT EVEN SUSCRIBE!!! RETURN MY FUNDS I DID NOT EVEN AUTHORIZE YOU TO CHARGE MY GCASH ACCOUNT"
+          },
+          {
+            "date": "2026-04-27T05:53:45.475Z",
+            "score": 1,
+            "text": "really asking money so I don't like this it's really asking money so I don't like this and plus it shows that you need to pay more than million rupees so don't use this app"
+          },
+          {
+            "date": "2026-04-25T17:56:10.886Z",
+            "score": 1,
+            "text": "I just hátě paywalls! So, not for me. Uninstalled!"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Kiddopia",
+      "meta": {
+        "appId": "com.paperboatapps.google.kiddopia",
+        "title": "Kiddopia - Kids Learning Games",
+        "developer": "Kiddopia Inc.",
+        "score": 4.257457,
+        "ratings": 16044,
+        "reviews": 1140,
+        "installs": "5,000,000+",
+        "minInstalls": 5000000,
+        "histogram": {
+          "1": 1937,
+          "2": 375,
+          "3": 981,
+          "4": 1056,
+          "5": 11684
+        },
+        "genre": "Education",
+        "free": true,
+        "price": 0,
+        "priceText": "Free",
+        "offersIAP": true,
+        "IAPRange": "$0.99 - $199.99 per item",
+        "updated": 1777986366000,
+        "version": "26.05.01",
+        "contentRating": "Everyone"
+      },
+      "analysis": {
+        "n_reviews": 200,
+        "n_recent_90d": 54,
+        "n_recent_low": 21,
+        "recent_low_pct": "38.9",
+        "n_all_low": 91,
+        "all_low_pct": "45.5",
+        "sample_low_verbatim": [
+          {
+            "date": "2026-05-02T01:27:13.590Z",
+            "score": 3,
+            "text": "there still available stuff in the game bc u need to pay to play a game"
+          },
+          {
+            "date": "2026-04-30T23:31:18.284Z",
+            "score": 1,
+            "text": "absolutely ridiculous price for this app, who actually pays $20 a month! what happened to just paying once for a game and not having to subscribe to it. very frustrating. I feel you'd make much more money if it wasn't a subscription because more people would get it! very rude to ask that for a toddl"
+          },
+          {
+            "date": "2026-04-30T08:14:36.131Z",
+            "score": 1,
+            "text": "atleast make a few things free if you make 1 free kids wont enjoying the game like atleast make 5 things free and the subscription is annoying and the download resource is absolutly pointless like why do you need a download page? kids dont want to wait for eternities just to play 1 singular game wha"
+          },
+          {
+            "date": "2026-04-27T05:19:51.160Z",
+            "score": 1,
+            "text": "this game is locked and kiddopia is the only thing"
+          },
+          {
+            "date": "2026-04-27T05:00:54.464Z",
+            "score": 1,
+            "text": "when I was like 6 I used this app the first time. had a fire tablet and I wanted to go back to it why do you have to pay for every single thing :("
+          }
+        ]
+      }
+    },
+    {
+      "name": "SplashLearn",
+      "meta": {
+        "appId": "com.splash.kids.education.learning.games.free.multiplication.reading.math.grade.app.splashmath",
+        "title": "SplashLearn: Kids Learning App",
+        "developer": "StudyPad, Inc.",
+        "score": 4.6368423,
+        "ratings": 3124,
+        "reviews": 467,
+        "installs": "1,000,000+",
+        "minInstalls": 1000000,
+        "histogram": {
+          "1": 147,
+          "2": 97,
+          "3": 64,
+          "4": 114,
+          "5": 2694
+        },
+        "genre": "Education",
+        "free": true,
+        "price": 0,
+        "priceText": "Free",
+        "offersIAP": true,
+        "IAPRange": "$7.99 - $144.00 per item",
+        "updated": 1776355004000,
+        "version": "7.3.2",
+        "contentRating": "Everyone"
+      },
+      "analysis": {
+        "n_reviews": 200,
+        "n_recent_90d": 67,
+        "n_recent_low": 22,
+        "recent_low_pct": "32.8",
+        "n_all_low": 68,
+        "all_low_pct": "34.0",
+        "sample_low_verbatim": [
+          {
+            "date": "2026-05-04T18:29:08.304Z",
+            "score": 2,
+            "text": "doesn't load fully. glitches out"
+          },
+          {
+            "date": "2026-05-04T03:27:22.761Z",
+            "score": 3,
+            "text": "Painting colors scroll has issues, it's resetting to top. Color is not selecting correctly after scroll."
+          },
+          {
+            "date": "2026-04-29T21:27:21.452Z",
+            "score": 1,
+            "text": "wont open keeps crashing terribble app don't download"
+          },
+          {
+            "date": "2026-04-28T14:03:50.100Z",
+            "score": 1,
+            "text": "I can't rate this app any further than, not to be able to login it! In other words, when I login, it immediately told be to re-download it. Some awful virus possible or just reject me. I don't get it!"
+          },
+          {
+            "date": "2026-04-25T21:49:26.420Z",
+            "score": 1,
+            "text": "Ived tried uninstalling and reinstalling many times. The app doesn't even open. It just crashes"
+          }
+        ]
+      }
+    }
+  ],
+  "budget": [
+    {
+      "name": "Wallet (BudgetBakers)",
+      "meta": {
+        "appId": "com.droid4you.application.wallet",
+        "title": "Wallet: Budget Expense Tracker",
+        "developer": "BudgetBakers",
+        "score": 4.6060944,
+        "ratings": 376447,
+        "reviews": 7479,
+        "installs": "10,000,000+",
+        "minInstalls": 10000000,
+        "histogram": {
+          "1": 20434,
+          "2": 6247,
+          "3": 10628,
+          "4": 26476,
+          "5": 312627
+        },
+        "genre": "Finance",
+        "free": true,
+        "price": 0,
+        "priceText": "Free",
+        "offersIAP": true,
+        "IAPRange": "$0.99 - $144.99 per item",
+        "updated": 1776859894000,
+        "version": "9.2.15",
+        "contentRating": "Everyone"
+      },
+      "analysis": {
+        "n_reviews": 200,
+        "n_recent_90d": 200,
+        "n_recent_low": 44,
+        "recent_low_pct": "22.0",
+        "n_all_low": 44,
+        "all_low_pct": "22.0",
+        "sample_low_verbatim": [
+          {
+            "date": "2026-05-06T07:05:20.422Z",
+            "score": 1,
+            "text": "I paid for the premium and it has never been activated. No one is returning my emails either. Frustrated 🫤"
+          },
+          {
+            "date": "2026-05-02T02:22:10.600Z",
+            "score": 1,
+            "text": "मेरे पास इस ऐप का प्रीमियम वर्जन है मेरे SBI bank में 2 खाते है । दोनों का बैलेंस सही दिखता है मगर खाता 1 की ट्रांजेक्शन हिस्ट्री खाता 2 में और 2 की ट्रांजेक्शन हिस्ट्री गायब है दिखाई ही नहीं दे रही । सब फिल्टर चेक कर लिये कोई फायदा नहीं । में बस दोनों खाते का बैलेंस चेक कर सकता हूं। ट्रांजेक्शन हिस"
+          },
+          {
+            "date": "2026-05-01T13:10:58.388Z",
+            "score": 1,
+            "text": "Not suitable for Indian Banks, and UI is very lagging"
+          },
+          {
+            "date": "2026-05-01T07:55:11.395Z",
+            "score": 2,
+            "text": "max 3 account"
+          },
+          {
+            "date": "2026-05-01T04:21:34.836Z",
+            "score": 1,
+            "text": "try the free version and/or check bank availability before you buy premium. have had this app for bank synk and tracking expenses automatically. have been trying to add bbva and banamex both for México accounts for months.. no succes yet.."
+          }
+        ]
+      }
+    },
+    {
+      "name": "EveryDollar (Ramsey)",
+      "meta": {
+        "appId": "com.everydollar.android",
+        "title": "EveryDollar: Budget Management",
+        "developer": "Ramsey Solutions",
+        "score": 4.33643,
+        "ratings": 15255,
+        "reviews": 6727,
+        "installs": "1,000,000+",
+        "minInstalls": 1000000,
+        "histogram": {
+          "1": 1507,
+          "2": 455,
+          "3": 555,
+          "4": 1609,
+          "5": 11124
+        },
+        "genre": "Finance",
+        "free": true,
+        "price": 0,
+        "priceText": "Free",
+        "offersIAP": true,
+        "IAPRange": "$7.99 - $129.99 per item",
+        "updated": 1778014736000,
+        "version": "2026.5.50",
+        "contentRating": "Everyone"
+      },
+      "analysis": {
+        "n_reviews": 200,
+        "n_recent_90d": 94,
+        "n_recent_low": 42,
+        "recent_low_pct": "44.7",
+        "n_all_low": 95,
+        "all_low_pct": "47.5",
+        "sample_low_verbatim": [
+          {
+            "date": "2026-05-06T12:27:36.751Z",
+            "score": 2,
+            "text": "has been great until now, transactions stopped importing. deleted , reinstalled unchanged"
+          },
+          {
+            "date": "2026-05-04T14:22:23.890Z",
+            "score": 3,
+            "text": "I like the app- when it works. It always needs to connect to the Internet first and prohibits me from using it a lot of the time. And now with this update, it won't let me edit anything from a couple of months ago, which completely ruins my experience. inconsistent updates, buggy when they roll out,"
+          },
+          {
+            "date": "2026-05-03T21:52:01.396Z",
+            "score": 1,
+            "text": "My wife and I have used this for a few years and loved it until today. The free app would not let me in until I answered personal questions about my finances. I finally started to answer their questions hoping it wouldn't go too deeply. When I felt like this was going to ask for more than I thought "
+          },
+          {
+            "date": "2026-05-03T14:14:54.537Z",
+            "score": 3,
+            "text": "What's going on with this app? I can't get to my budget without answering a bunch of financial questions. I'm beyond \"figuring it out,\" just want to enter things in my budget. Is this because of the update??? Please fix it! Love the app! But will you ever add a search feature? Sometimes I can't reme"
+          },
+          {
+            "date": "2026-05-03T13:32:46.189Z",
+            "score": 1,
+            "text": "You give your information to set up the app, and when the app opens you can start your \"FREE TRIAL\". Sorry, I'm not spending one red cent on this app... (uninstall) when there are so many free budgeting apps out there."
+          }
+        ]
+      }
+    },
+    {
+      "name": "Goodbudget",
+      "meta": {
+        "appId": "com.dayspringtech.envelopes",
+        "title": "Goodbudget: Budget & Finance",
+        "developer": "Dayspring Partners",
+        "score": 3.3115385,
+        "ratings": 19255,
+        "reviews": 4873,
+        "installs": "1,000,000+",
+        "minInstalls": 1000000,
+        "histogram": {
+          "1": 4369,
+          "2": 2740,
+          "3": 2294,
+          "4": 2220,
+          "5": 7627
+        },
+        "genre": "Finance",
+        "free": true,
+        "price": 0,
+        "priceText": "Free",
+        "offersIAP": true,
+        "IAPRange": "$0.99 - $69.99 per item",
+        "updated": 1773076605000,
+        "version": "2.22.25023",
+        "contentRating": "Everyone"
+      },
+      "analysis": {
+        "n_reviews": 200,
+        "n_recent_90d": 10,
+        "n_recent_low": 6,
+        "recent_low_pct": "60.0",
+        "n_all_low": 119,
+        "all_low_pct": "59.5",
+        "sample_low_verbatim": [
+          {
+            "date": "2026-04-27T17:34:42.892Z",
+            "score": 1,
+            "text": "It's quick to usher you into paying for a subscription. It's basic. I don't get it. I'm unistalling it now."
+          },
+          {
+            "date": "2026-04-24T10:30:46.448Z",
+            "score": 2,
+            "text": "It's hard to edit anything when the web version doesnt reflect what the app has. I have 9 envelopes on the app, but some how only 5 on the web. This app should be more user friendly."
+          },
+          {
+            "date": "2026-04-23T17:02:41.544Z",
+            "score": 2,
+            "text": "The app shows these totally useless and annoying pop up bubbles. on my phone it sits right over my navigation controls."
+          },
+          {
+            "date": "2026-04-07T06:56:18.680Z",
+            "score": 3,
+            "text": "goodbservice"
+          },
+          {
+            "date": "2026-02-25T12:38:04.255Z",
+            "score": 1,
+            "text": "Worst app for budgeting! I've tried over and over to edit and change envelopes to no avail! I considered paying for this but if I can't get it to comply with simple actions there is no way I'd pay for this!"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Money Manager (Realbyte)",
+      "meta": {
+        "appId": "com.realbyteapps.moneymanagerfree",
+        "title": "Money Manager Expense & Budget",
+        "developer": "Realbyte Inc.",
+        "score": 4.629048,
+        "ratings": 453432,
+        "reviews": 5863,
+        "installs": "10,000,000+",
+        "minInstalls": 10000000,
+        "histogram": {
+          "1": 13783,
+          "2": 4891,
+          "3": 17782,
+          "4": 62728,
+          "5": 354187
+        },
+        "genre": "Finance",
+        "free": true,
+        "price": 0,
+        "priceText": "Free",
+        "offersIAP": true,
+        "IAPRange": "$2.49 - $20.99 per item",
+        "updated": 1777983615000,
+        "version": "4.11.1 GF",
+        "contentRating": "Everyone"
+      },
+      "analysis": {
+        "n_reviews": 200,
+        "n_recent_90d": 200,
+        "n_recent_low": 22,
+        "recent_low_pct": "11.0",
+        "n_all_low": 22,
+        "all_low_pct": "11.0",
+        "sample_low_verbatim": [
+          {
+            "date": "2026-05-03T22:08:39.857Z",
+            "score": 3,
+            "text": "It's very frustrating when a simple copy and paste isn't available. Even editing directly on the account amount requires typing all the figures again instead of just a few digits."
+          },
+          {
+            "date": "2026-05-03T17:45:57.832Z",
+            "score": 1,
+            "text": "unfortunately this app doesn't have the function of automatic entry of income/expense from sms/bank account etc."
+          },
+          {
+            "date": "2026-05-03T12:09:19.341Z",
+            "score": 3,
+            "text": "doesn't meet my needs, cannot import .CSV files from Credit card to track monthly expenses."
+          },
+          {
+            "date": "2026-05-02T15:07:27.177Z",
+            "score": 2,
+            "text": "After 7 years I've changed my review from 4 stars to 2 due to poor support from the developers and the inability to manage accounts in multiple currencies. Having accounts in a single currency is fine but managing multiple becomes extremely cumbersome. A huge flaw is the inability to easily change y"
+          },
+          {
+            "date": "2026-05-01T10:13:06.451Z",
+            "score": 2,
+            "text": "I feel like this app is not as organized as it should be. Just add one income, that is all you need. Once you add income, it should show ALL THE CATEGORY IN ONE! the typing digits sucks! fix it! you made it so nobody can't delete 1 digits. instead you delete whole number. you know what, I almost got"
+          }
+        ]
+      }
+    }
+  ],
+  "period": [
+    {
+      "name": "Period Calendar (Simple Design)",
+      "meta": {
+        "appId": "com.popularapp.periodcalendar",
+        "title": "Period Calendar Period Tracker",
+        "developer": "Simple Design Ltd.",
+        "score": 4.8824496,
+        "ratings": 4857994,
+        "reviews": 115119,
+        "installs": "100,000,000+",
+        "minInstalls": 100000000,
+        "histogram": {
+          "1": 53863,
+          "2": 21454,
+          "3": 45444,
+          "4": 200306,
+          "5": 4536902
+        },
+        "genre": "Health & Fitness",
+        "free": true,
+        "price": 0,
+        "priceText": "Free",
+        "offersIAP": true,
+        "IAPRange": "$0.99 - $59.99 per item",
+        "updated": 1778150210000,
+        "version": "VARY",
+        "contentRating": "Everyone"
+      },
+      "analysis": {
+        "n_reviews": 200,
+        "n_recent_90d": 200,
+        "n_recent_low": 8,
+        "recent_low_pct": "4.0",
+        "n_all_low": 8,
+        "all_low_pct": "4.0",
+        "sample_low_verbatim": [
+          {
+            "date": "2026-05-06T08:20:50.430Z",
+            "score": 3,
+            "text": "very useful...easy to use"
+          },
+          {
+            "date": "2026-05-06T07:50:50.544Z",
+            "score": 2,
+            "text": "Doesn't work without a phone app and therefore you can't input a sudden change of your period."
+          },
+          {
+            "date": "2026-05-04T07:04:13.164Z",
+            "score": 1,
+            "text": "I really was enjoying this app, especially being able to share things with my partner. wanted to try out their paid version, so i signed up for the 7 day free trial and it charged me. What's worse is it's not any different than the free version."
+          },
+          {
+            "date": "2026-05-03T22:32:38.739Z",
+            "score": 3,
+            "text": "good more prove"
+          },
+          {
+            "date": "2026-05-01T19:22:43.721Z",
+            "score": 1,
+            "text": "loved it, but recently had an update and it just changes anything you input, it's now messed everything up! I will have to delete and find another"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Stardust",
+      "meta": {
+        "appId": "com.stardust.app",
+        "title": "Stardust Period Tracker",
+        "developer": "Stardust App Inc",
+        "score": 4.4402037,
+        "ratings": 20803,
+        "reviews": 2822,
+        "installs": "1,000,000+",
+        "minInstalls": 1000000,
+        "histogram": {
+          "1": 871,
+          "2": 791,
+          "3": 1111,
+          "4": 3545,
+          "5": 14477
+        },
+        "genre": "Health & Fitness",
+        "free": true,
+        "price": 0,
+        "priceText": "Free",
+        "offersIAP": true,
+        "IAPRange": "$2.99 - $39.99 per item",
+        "updated": 1777987050000,
+        "version": "5.20.0",
+        "contentRating": "Everyone"
+      },
+      "analysis": {
+        "n_reviews": 200,
+        "n_recent_90d": 200,
+        "n_recent_low": 62,
+        "recent_low_pct": "31.0",
+        "n_all_low": 62,
+        "all_low_pct": "31.0",
+        "sample_low_verbatim": [
+          {
+            "date": "2026-05-05T12:06:02.876Z",
+            "score": 1,
+            "text": "me parece pésimo que alardeen de cuidar la privacidad de los datos, cuando no podes crear una aplicación si no vinculas la aplicación con google, pesimo"
+          },
+          {
+            "date": "2026-05-04T23:38:09.684Z",
+            "score": 2,
+            "text": "This is the 3rd time this app has bugged out and I can't get past the loading screen. I'm only giving 2 stars because I enjoy the user interface and find it helpful, but I can't enjoy an app if it doesn't work."
+          },
+          {
+            "date": "2026-04-30T16:44:20.500Z",
+            "score": 2,
+            "text": "the app is good but recently the app has been not taking my logins at all, I've tried it out several times, updated the app, restarted my phone and everything. please fix it"
+          },
+          {
+            "date": "2026-04-29T22:07:02.134Z",
+            "score": 1,
+            "text": "The app alters quotes from studies calling Women \"menstruating people\". They can't even call me a female in a cycle tracking app. Absolutely despicable"
+          },
+          {
+            "date": "2026-04-29T08:58:09.376Z",
+            "score": 1,
+            "text": "i don't like apps telling me how i should feel, especially when they are so wrong."
+          }
+        ]
+      }
+    },
+    {
+      "name": "drip period & cycle tracker",
+      "meta": {
+        "appId": "com.drip",
+        "title": "drip period & cycle tracker",
+        "developer": "drip team",
+        "score": 4.109375,
+        "ratings": 402,
+        "reviews": 36,
+        "installs": "50,000+",
+        "minInstalls": 50000,
+        "histogram": {
+          "1": 25,
+          "2": 25,
+          "3": 43,
+          "4": 94,
+          "5": 213
+        },
+        "genre": "Health & Fitness",
+        "free": true,
+        "price": 0,
+        "priceText": "Free",
+        "offersIAP": false,
+        "updated": 1761419493000,
+        "version": "1.2510.25",
+        "contentRating": "Everyone"
+      },
+      "analysis": {
+        "n_reviews": 115,
+        "n_recent_90d": 6,
+        "n_recent_low": 3,
+        "recent_low_pct": "50.0",
+        "n_all_low": 27,
+        "all_low_pct": "23.5",
+        "sample_low_verbatim": [
+          {
+            "date": "2026-03-25T14:40:06.952Z",
+            "score": 1,
+            "text": "Used to be good. But now it crashes everytime I try to add data for that day. Sad"
+          },
+          {
+            "date": "2026-03-07T05:41:45.297Z",
+            "score": 3,
+            "text": "Simplistic and genderless. 3 stars only because you can't exclude entire outlier cycles from the statistics, the average covers the whole record (does not slide) and it always looks at bleed and non-bleed time together. Thus 3 outliers crash the average for my 40 cycle tracking while slow shifts don"
+          },
+          {
+            "date": "2026-02-12T22:56:03.000Z",
+            "score": 1,
+            "text": "The app used to work perfectly but now every time I enter data it crashes. It has almost become unusable."
+          }
+        ]
+      }
+    },
+    {
+      "name": "Ovulation Tracker (Leap Fitness)",
+      "meta": {
+        "appId": "periodtracker.pregnancy.ovulationtracker",
+        "title": "Ovulation & Period Tracker",
+        "developer": "Leap Fitness Group",
+        "score": 4.8410506,
+        "ratings": 449851,
+        "reviews": 7933,
+        "installs": "10,000,000+",
+        "minInstalls": 10000000,
+        "histogram": {
+          "1": 9314,
+          "2": 1695,
+          "3": 4805,
+          "4": 19422,
+          "5": 414550
+        },
+        "genre": "Health & Fitness",
+        "free": true,
+        "price": 0,
+        "priceText": "Free",
+        "offersIAP": true,
+        "IAPRange": "$2.99 - $59.99 per item",
+        "updated": 1773318783000,
+        "version": "1.120",
+        "contentRating": "Everyone"
+      },
+      "analysis": {
+        "n_reviews": 200,
+        "n_recent_90d": 200,
+        "n_recent_low": 10,
+        "recent_low_pct": "5.0",
+        "n_all_low": 10,
+        "all_low_pct": "5.0",
+        "sample_low_verbatim": [
+          {
+            "date": "2026-04-29T16:23:06.164Z",
+            "score": 2,
+            "text": "The ads OMG. It's so frustrating to have to see at least 2 ads before you can see you upcoming periods date. WHY???"
+          },
+          {
+            "date": "2026-04-19T18:27:01.547Z",
+            "score": 1,
+            "text": "Everytime I go to use this app and ad plays and I cant click off of it to continue to the app. Very frustrating."
+          },
+          {
+            "date": "2026-04-18T12:19:04.520Z",
+            "score": 2,
+            "text": "make it more attractive"
+          },
+          {
+            "date": "2026-04-18T00:29:06.400Z",
+            "score": 1,
+            "text": "Advertisement at the start that goes to it when clicking X, could be malware, the malaria of computers."
+          },
+          {
+            "date": "2026-04-16T03:56:10.387Z",
+            "score": 3,
+            "text": "I'm using it for the first time but I believe it different from the others"
+          }
+        ]
+      }
+    }
+  ]
+}

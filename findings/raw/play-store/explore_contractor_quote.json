@@ -1,0 +1,77 @@
+{
+  "tick": 11,
+  "niche": "contractor_construction_quote_apps",
+  "country": "us",
+  "date": "2026-05-07",
+  "rejected_marketplaces": ["Houzz Pro", "Thumbtack", "HomeAdvisor", "Angi"],
+  "candidates": [
+    {
+      "appId": "com.joistapp.android.joist",
+      "title": "Joist Invoice & Estimate App",
+      "developer": "Joist Software Inc.",
+      "installs": "1,000,000+",
+      "score": 4.61,
+      "ratings": 12867,
+      "recent_n": 61,
+      "recent_low_n": 24,
+      "recent_low_pct": 39.3,
+      "verbatim_top_low": "The app is great ! The main issue I have is that when I have a problem you cannot get help ..Once every couple of years ,my payment has an issue ..It is like pulling teeth to get help to fix something..When I message the help desk or AI ,Noone can help ..The app is not showing up on subscriptions...",
+      "verbatim_thumbs": 7,
+      "vulnerability_thesis": "Incumbent (1M installs) but recent reviews show 39% low-rating rate driven by support black-hole + subscription billing breakage. Single-pro contractors stuck."
+    },
+    {
+      "appId": "com.getjobber.jobber",
+      "title": "Jobber: Field Service Software",
+      "developer": "Jobber Software",
+      "installs": "1,000,000+",
+      "score": 4.43,
+      "ratings": 6296,
+      "recent_n": 81,
+      "recent_low_n": 41,
+      "recent_low_pct": 50.6,
+      "verbatim_top_low": "Regret getting Jobber Was great at first but they keep adding more and more to the app and it's all paid subscription stuff. Now i am bombarded with texts and calls of people trying to sell me stuff and buttons all over my quote and invoice screen with a lock symbol to remind me I need to pay more. I am a small company. I don't need their top tier plan but the sales pressure persists.",
+      "verbatim_thumbs": 11,
+      "vulnerability_thesis": "MOST VULNERABLE CELL across both niches. 50.6% recent low_pct on n=81 — highest in study. Solo trades feel upsell-pressured and gated. Monetization moat is also UX moat."
+    },
+    {
+      "appId": "contractorplus.app",
+      "title": "Contractor+: Estimate, Invoice",
+      "developer": "Contractor Plus, Inc.",
+      "installs": "100,000+",
+      "score": 4.6,
+      "ratings": 640,
+      "recent_n": 5,
+      "recent_low_n": 1,
+      "recent_low_pct": 20.0,
+      "verbatim_top_low": "Maybe not fair for me to only give one star but this is the slowest app I have ever used. I couldn't even get my profile set up. Every click takes about 10 seconds, and no it's not my phone.",
+      "verbatim_thumbs": 0,
+      "vulnerability_thesis": "Small recent n. Performance complaints. Not strong vulnerability."
+    },
+    {
+      "appId": "com.gizwood",
+      "title": "Contractor Estimate & Invoice (GetCost)",
+      "developer": "GetCost",
+      "installs": "100,000+",
+      "score": 4.63,
+      "ratings": 2879,
+      "recent_n": 6,
+      "recent_low_n": 0,
+      "recent_low_pct": 0.0,
+      "vulnerability_thesis": "Healthy. Old historical complaints about forced sign-in but no recent low signal. NOT vulnerable."
+    },
+    {
+      "appId": "com.contractorforeman",
+      "title": "Contractor Foreman (CMS + CRM)",
+      "developer": "Construction Contractor Services, LLC",
+      "installs": "50,000+",
+      "score": 4.31,
+      "ratings": 887,
+      "recent_n": 13,
+      "recent_low_n": 3,
+      "recent_low_pct": 23.1,
+      "verbatim_top_low": "Don't use this app. Awful experience, they don't keep logs of your hours, your foreman controls account and can remove you at any time, no way to access past hours and schedules.",
+      "verbatim_thumbs": 0,
+      "vulnerability_thesis": "Moderate. Note: this is multi-trade CMS, not single-pro estimating. Below 100k install threshold."
+    }
+  ]
+}

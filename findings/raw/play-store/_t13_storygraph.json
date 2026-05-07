@@ -1,0 +1,2008 @@
+{
+  "app": "com.thestorygraph.thestorygraph",
+  "country": "us",
+  "total_pulled": 200,
+  "total_after_filter": 200,
+  "reviews": [
+    {
+      "date": "2026-05-01T12:54:45.213Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Izyan",
+      "text": "The best thing about this is I can add all the versions of the same book I have under owned. One for digital kindle, one for physical books with correct ISBN & cover art. Also not to forget that I can add books under owned, but still not choose to put it under TBR. So it won't clutter by TBR list for what I want to read next. Hope this app is just getting better !",
+      "reply": "Hi Izyan! Thank you for your review and rating. Yes, the plan is to keep making this app better! :-D",
+      "replyDate": "2026-05-02T07:31:45.490Z",
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=60cfd7e6-1326-4d61-8cdf-fcee163d12e0"
+    },
+    {
+      "date": "2026-04-30T14:55:42.314Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Ralph Bates",
+      "text": "Been using StoryGraph for a while now and it is without a doubt one of the best book tracking apps around.",
+      "reply": "Aww, so lovely to hear this, Ralph. Thank you!! Still many more improvements to come.",
+      "replyDate": "2026-05-01T08:42:39.713Z",
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=e3e3bf59-4dfb-45d4-bc6f-a0a61b5eee5d"
+    },
+    {
+      "date": "2026-04-30T08:43:33.468Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "celestine",
+      "text": "love the app, but i wish you could see in your TL when you/your friends add something to their \"to read\" list.",
+      "reply": "Thank you for your rating and feedback!",
+      "replyDate": "2026-04-30T14:48:20.523Z",
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=e1936c12-7164-4dc9-a99b-9e83696e7996"
+    },
+    {
+      "date": "2026-04-29T11:03:33.670Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Meghan Gattignolo",
+      "text": "If you're like me and don't want to hand all your reading data to Amazon on a platter, The Story Graph is a great alternative. Easy and smooth to use, features a lot of community reading challenges, and helps keep track of how fast you're reading. The look is an upgrade from Goodreads. Clean, straightforward and *gasp* no ads!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=be02fbd7-fcd2-4194-a94b-81d5b725824f"
+    },
+    {
+      "date": "2026-04-28T19:02:58.560Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Joshua Marshall (Pakman)",
+      "text": "I would like to know what has changed recently with this app. My usage of it is the same it has always been, yet somehow, the app has used twice as much data in the last week as it did in the previous 3 months!",
+      "reply": "Hi Joshua! I'm sorry. There was a bug with broken images. A fix has just gone live and so usage levels should drop back to normal from now.",
+      "replyDate": "2026-04-28T16:31:40.429Z",
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=30b2ced3-d4b4-4ca8-8980-9de2e0549bfc"
+    },
+    {
+      "date": "2026-04-28T14:47:10.384Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "Diego Trujillo",
+      "text": "it's kinda laggy",
+      "reply": "Hi Diego. Please can you send a screen recording to support@thestorygraph.com? Thank you.",
+      "replyDate": "2026-04-28T16:13:09.549Z",
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=110f061d-3d1a-470c-8e4a-839b090a3df7"
+    },
+    {
+      "date": "2026-04-27T18:03:49.233Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "peter",
+      "text": "we don't have wifi which means we rely on mobile data and i've noticed the app is using alot? i don't remember it being like this, if it's a problem i hope it gets fixed :)",
+      "reply": "Hi peter. I'm sorry. There was a bug with broken images. A fix has just gone live and so usage levels should drop back to normal from now.",
+      "replyDate": "2026-04-28T16:31:32.670Z",
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=578f55cd-5ca8-4894-9c2c-59cf2d12eb2d"
+    },
+    {
+      "date": "2026-04-26T14:04:23.633Z",
+      "score": 2,
+      "thumbsUp": 1,
+      "user": "Анастасия Азизова",
+      "text": "I really enjoy using this app, adding new books is easier than in GoodReads. However, the app is unstable, sometimes it just won't open, all I see is lower interface (home, profile etc.), and the rest is white screen :(",
+      "reply": "Please email us at support@thestorygraph.com with device info and screen recordings. Thank you!",
+      "replyDate": "2026-04-27T06:59:54.844Z",
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=1237c008-0184-43a7-8a93-29a205835710"
+    },
+    {
+      "date": "2026-04-24T07:35:55.976Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Sara Sunley",
+      "text": "uses machine learning: ew. cant add previously read books to up next: kbye i can track reading stats more easily in a notebook ETA: hi storygraph. okay, it wasnt a deal breaker on its own, but clunky UI is when i have other book tracking apps that work how i would like them to, without requiring extra steps for simple, everyday reading actions. your stat tracking is the only thing you offer that differs from your competition. your other features make switching to or including you not worth it.",
+      "reply": "Hi Sara! If you're referring to our Reader Preview feature, please check this video out: https://www.instagram.com/reel/DDXf3R_AgzL/. UPDATE: I'm mid a big UI/UX overhaul, so maybe check back in some months. I'm a one-person dev team so things can take a while. :-D [We do also have a lot of other great features though: thestorygraph.com]",
+      "replyDate": "2026-04-25T12:54:51.922Z",
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=4ce6cb6d-b45d-41eb-b486-bfaeae9cd702"
+    },
+    {
+      "date": "2026-04-24T06:36:37.200Z",
+      "score": 4,
+      "thumbsUp": 1,
+      "user": "Heather Schmidt",
+      "text": "I love this app. However, when I mark a book as DNF, I wish it affected the star rating of the book.",
+      "reply": "I've just deployed the fix now. Sorry about that! v1.27 should be out soon. If it's not/you can't wait, uninstall and you will be offered v1.25 since I've halted the release of 1.26.",
+      "replyDate": "2025-08-21T13:10:16.973Z",
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=afed7de0-02b3-4b69-8d49-ce5bc72ff0de"
+    },
+    {
+      "date": "2026-04-20T19:12:17.386Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "Martin",
+      "text": "A good app but you can't delete a book from the to-read list. You can mark a book as read and then select remove but it won't go.",
+      "reply": "Hi Martin. You can remove a book from your to-read list. Please email us at support@thestorygraph.com so we can look at what's going wrong here.",
+      "replyDate": "2026-04-21T07:05:46.280Z",
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=6c850996-5059-48d8-8924-b63f45b00e9b"
+    },
+    {
+      "date": "2026-04-19T23:40:25.638Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "magdalena",
+      "text": "i've been using this app for years, and I find it a lot more user friendly than goodreads. the ui is clean and nice to look at. however, while this app does have social features, that isn't the focus. this is something I appreciate though. I like not seeing the rating on a book unless I scroll to the bottom bc it allows me to start a book with only my own opinions. one feature I wish they would add is the ability to follow authors. this would make it easier for me to find who i'm looking for.",
+      "reply": "Hi magdalena. Thank you for your review, rating, and feedback. We'll definitely be adding the ability to follow authors at some point.",
+      "replyDate": "2026-04-20T06:59:19.976Z",
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=826b6627-483f-44bd-99b1-c5289dcea99e"
+    },
+    {
+      "date": "2026-04-16T06:31:42.130Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Mini M",
+      "text": "Just wasn't the right app for me",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=092a7e8c-f6ce-403e-919f-26d3787ac5bb"
+    },
+    {
+      "date": "2026-04-14T06:33:44.666Z",
+      "score": 4,
+      "thumbsUp": 7,
+      "user": "fartcar3",
+      "text": "I'm still waiting on an option to have a filter option as randomly filtering the books everytime I refresh. The books I add to my to read list I don't want to see mixed with the books I haven't read yet so the 20 random books on the home page isn't enough. I'm just asking for a randomize option so I can see all the educational and action and comics and so on and so forth randomly instead of having to pinpoint. Will change to 5 stars after it's done. App will be perfect.",
+      "reply": "Hello. Thank you for your review and feedback. In the meantime, at least for your to-read books, the homepage shows a random twenty every time you refresh. Not quite the same thing, but it's something to get some variety!",
+      "replyDate": "2024-09-30T07:10:37.603Z",
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=39cee502-a2f5-4832-92dd-470b821d7b16"
+    },
+    {
+      "date": "2026-04-12T15:17:10.434Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Sanja Simić",
+      "text": "Delete it after one day. Not fan od design. Super annoying when you finished edit and try to go back, but that \"back\" doesn't work properly. For one book it didn't show in my list, assumed didn't import it from Goodreads. Tried to find it in StpryGraph, but wasn't there, so I added it manually. However, it turned the book already exist in the app (to be precise, 6 edition of it). Got really annoyed, so ended the journey here. Just not the app for me, I guess.",
+      "reply": "Aww. I'm sorry you had a bad first experience, Sanja. Perhaps check back in a few months or next year when I've done a lot more work on the UI and UX.",
+      "replyDate": "2026-04-13T07:17:13.485Z",
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=be241f17-a5ba-4272-9b10-815fd974fc63"
+    },
+    {
+      "date": "2026-04-12T12:25:57.207Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Marti Soccol",
+      "text": "it's always a beautiful experience and always developing!! I have been using it for two years and I'm never disappointed. Make sure that this is a book tracking app with graphs!!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=e8d1e618-430a-48fd-8194-0ee3755925ee"
+    },
+    {
+      "date": "2026-04-12T05:58:18.834Z",
+      "score": 5,
+      "thumbsUp": 3,
+      "user": "Victoria Greene",
+      "text": "I have been using this app for months. For a free app, it's awesome and I have not gone back to good reads since. I am unsure why more people do not use it. The personal book recs, the in depth literary tracking (with graphs!), and the detailed book reviews (if a book is more plot/character driven; if there is a diverse cast of characters; if the book is slow, fast, or medium paced are just some examples of what you will find in the book review section) make this app 5 stars. take the survey!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=99271e2f-c223-4f89-8484-556ee75ef97b"
+    },
+    {
+      "date": "2026-04-11T17:13:27.848Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Aaron",
+      "text": "hey, really great app. Just a feedback : Idk abt others but i personally feel I'm not able to give correct rating to a book i read. like sometimes it's a 4.6 and idk wt to choose from 4.5 or 4.75 from the drop down list.. which feels kinda unfair to how i felt to rate it genuinely. I understand you might have your reasons to keep it that way but please give it a thought of allowing accurate rating for the books. thank you for listening abt the like button last time.. you're doing a great job.",
+      "reply": "Haha, thank you, Aaron, for your feedback and rating.",
+      "replyDate": "2026-04-13T07:16:33.112Z",
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=76b26db2-d132-453e-8527-3d0ceedf7ebb"
+    },
+    {
+      "date": "2026-04-11T17:11:21.662Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Mehrunnisha Khan",
+      "text": "so much better than Goodreads",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=bd194f81-b093-46a9-b2b8-6082daffe1d7"
+    },
+    {
+      "date": "2026-04-11T01:56:39.784Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Thomas C",
+      "text": "Storygraph has made an everyday hobby into an amazingly fun self-challenge and finally helped me see how large my audiobook \"shelf\" truly is!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=b7e23407-3d11-4e84-8c8d-fe7f55248645"
+    },
+    {
+      "date": "2026-04-10T22:07:00.784Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Beth Crocker",
+      "text": "This is seriously the best tracking app. I was never able to get into Goodreads, but Storygraph is so easy to use. I love the tracking progress through my books, highlighting my favorites, and marking things I want to read is super easy. Highly recommend!!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=a71078a9-2a16-47e8-a64a-7792ef8a2331"
+    },
+    {
+      "date": "2026-04-10T19:43:42.782Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Laura Fleming",
+      "text": "Great app, I'm now obsessed with daily tracking and the stats! I've also won loads of free books in the giveaways which are amazing.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=506f7d3c-50c9-4d62-8e15-f06f9ab92b19"
+    },
+    {
+      "date": "2026-04-10T18:54:02.497Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Logan Ashley",
+      "text": "The best book app by far. It's the only one I use! all the statistics and organization of the app are phenomenal. Having the opportunity to create your own challenges is so incredible. Cannot recommend it enough. Thank you for creating the book app of my dreams!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=bb5cad5c-a09b-4096-899f-8c9aa2845314"
+    },
+    {
+      "date": "2026-04-10T18:15:32.936Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Tyler Simonson",
+      "text": "I thought I'd never use something other than goodreads as my primary reading app but storygraph has become my main. I love it. pay the 5 bucks a month to get access to all the special stats. so worth it, especially because it supports this amazing Amazon alternative",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=982ef162-3d21-439c-928e-f09d4e5160c5"
+    },
+    {
+      "date": "2026-04-10T18:14:17.636Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Philip Witzman",
+      "text": "This is by far the best app for tracking books owned and read.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=23254663-5c14-4bbd-ba25-5ae805bd7dcc"
+    },
+    {
+      "date": "2026-04-10T17:42:26.451Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Mishel Crowe",
+      "text": "best place for book stats and you can find different editions easily",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=4a4c5880-a0af-43e1-8c4b-aeb2eaea4a55"
+    },
+    {
+      "date": "2026-04-10T15:43:38.599Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Chloe Jensen",
+      "text": "I absolutely love Storygraph! I've been using it since 2024, when I started tracking my books, and really prefer it as an alternative to Goodreads. I love how many options there are when rating books, and it's super easy to dnf/re-read a book. Exploring books based on tags, length, and mood is also super helpful! My only complaint is that there is an occasional lag (but it's really not terrible - my phone is ancient!). Otherwise, I love this app!! I use it every day :)",
+      "reply": "Hi Chloe! We hope to eventually get rid of all lags. Thank you for your support and patience!",
+      "replyDate": "2026-04-13T07:14:46.512Z",
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=ad10697f-4178-421f-925e-bf991b854754"
+    },
+    {
+      "date": "2026-04-10T15:42:04.761Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Maria Moyles",
+      "text": "Worlds better than goodreads and you can import your whole goodreads list so easily when you move over! Love it! You can see a lot of stats about the books you read and also the UI is so much nicer and easier to use.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=8705eefc-4734-480d-aa02-5c097633d545"
+    },
+    {
+      "date": "2026-04-10T15:40:04.982Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Zack Lovatt",
+      "text": "Excellent app, site, & service for tracking your reading progress & book collection! Love the stats pages and annual review graphs. The human-centric rating system is novel and refreshing, and the team is receptive and responsive to user feedback. With data import being so simple, Storygraph is an attractive alternative to harmful tech monopolies– I'm glad to be a Plus member & to support a growing, glowing app that I use near-daily.",
+      "reply": "Thank you so much, Zack!",
+      "replyDate": "2026-04-13T07:14:25.474Z",
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=26f9d6af-7f0a-4e0e-9056-4b6ad07ea03a"
+    },
+    {
+      "date": "2026-04-10T13:19:30.459Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "Zach Tamer",
+      "text": "This app is so much better than Goodreads. There are great visualizations, great ways to connect with other readers, a much better UI/UX, and the list goes on. I tell everyone to drop Goodreads not only b/c it's an Amazon product but b/c this app is far better. You can transfer your library over from Goodreads, too, so you won't lose anything!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=48f4969c-3db1-443b-8bff-9621759cbf72"
+    },
+    {
+      "date": "2026-04-10T13:05:27.660Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Alexandria Ganger",
+      "text": "I love this app! Storygraph is excellent for tracking, organizing, and planning my reading. I love the \"up next\" and \"rereading\" options especially. The monthly recaps are also incredibly helpful to review.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=052c5c97-2ad0-4eed-a555-35cac9f6cc71"
+    },
+    {
+      "date": "2026-04-10T11:43:48.409Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Alana Kelly",
+      "text": "a great app that continues to be updated and adapted. very easy to use and i love the monthly stats and yearly wrap up. you can access these anytime.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=1d3ea5fe-2e3b-43b9-98bd-cbe101a68e55"
+    },
+    {
+      "date": "2026-04-10T11:06:37.199Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Grant Schmechel",
+      "text": "the best app for tracking your reading, with an easy layout and the end of year recap is the best!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=2828e40f-acb6-4a6c-a126-bb417fae70d5"
+    },
+    {
+      "date": "2026-04-10T10:27:32.436Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Rebecca Wakefield-Rees",
+      "text": "I've been using StoryGraph for a couple of years now and will never use another tracking app. While I do find some of the interface a bit clunky (getting stuck in going back and ending up in loops, selecting certain filters and hitting the Filter button but having to manually close the filter dropdown) it is still by far the best range of statistics I've found, and I've put several friends and family onto the app!",
+      "reply": "Hi Rebecca! Thank you for your review and rating. I'll definitely be working on the interface and user flows soon! (The filter menu one though is not something anybody has ever complained about before; it staying open is intentional. But we'll review that in any case.)",
+      "replyDate": "2026-04-10T11:12:10.321Z",
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=5c44bcc0-fb44-4d89-981b-70694079bc50"
+    },
+    {
+      "date": "2026-04-10T10:25:05.425Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Erin Hudecek",
+      "text": "love all the graphs and data. and they are always improving. been using this so for a while and can't recommend enough",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=c63ba098-ca57-42e2-bf63-b051a52c05b4"
+    },
+    {
+      "date": "2026-04-10T10:24:32.202Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Katie Wainwright",
+      "text": "I love this app! Having used it for more than a year, it is clear that the developer really cares about Storygraph and is constantly bringing valuable features. Its a fun way to track reading and find new reading suggestions, and has a nice way to interact with your friends. Massive respect to the small team making this app.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=270acee0-cc82-4c90-b352-e05f2c1e2deb"
+    },
+    {
+      "date": "2026-04-10T10:20:17.715Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "meags",
+      "text": "highly highly recommend",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=f434b42a-952c-4766-ae7a-0250e8303ae7"
+    },
+    {
+      "date": "2026-04-10T09:51:08.907Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Marta Górecka",
+      "text": "I love it. one app where I'm not the product, I'm the customer.",
+      "reply": "Awww! Thank you, Marta!",
+      "replyDate": "2026-04-10T11:12:24.595Z",
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=20920bb4-e0dc-46a7-a0df-aadf4f3280b5"
+    },
+    {
+      "date": "2026-04-10T09:27:23.513Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Clodagh Flynn",
+      "text": "The perfect app to track reading, has every edition of each book, shows the trigger warnings for books, has brilliant graphs to show your stats, and has a community feature!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=bbb9db17-ccef-49ab-9999-82c1dcf4b318"
+    },
+    {
+      "date": "2026-04-10T09:15:06.712Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "amyizzylou",
+      "text": "This app has actually gotten me back into reading after a 2+ year slump. I started using it in lockdown and transferred from Goodreads at that point, then redownloaded it last summer. It's hugely helpful in tracking my reads and letting me geek out with the data it provides. There are tools I don't think are great at the moment (recs feel quite static and US-focused, the barcode scanner never seems to work) but I would still rate it 5* as it does everything I need it to very well.",
+      "reply": "Hello! Thank you for your review and rating. We are always working on improving things, including the recommendations. Please email us at support@thestorygraph.com re the barcode scanner. It should always be working!",
+      "replyDate": "2026-04-10T11:13:10.157Z",
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=2a0a3fee-7300-4d54-a532-98149421b8bf"
+    },
+    {
+      "date": "2026-04-10T07:57:55.383Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "hessel bultsma",
+      "text": "A great reading tracking app, that is still getting better everyday!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=8d664fe8-fc8e-4f30-885a-bc15e7daa544"
+    },
+    {
+      "date": "2026-04-10T07:29:37.820Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Anna Clark",
+      "text": "I love StoryGraph and the service they provide!! the app works excellently and if anything is ever not working they are so quick to take care of it.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=a021785c-cf8c-49dc-8646-6681219dd5d0"
+    },
+    {
+      "date": "2026-04-10T07:28:31.888Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "TW C",
+      "text": "Switched from Goodreads to this indie app and have not and will never regret it.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=8ad89965-0d53-495d-9036-9a03704e4698"
+    },
+    {
+      "date": "2026-04-10T06:22:29.714Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "LozzieEliza05",
+      "text": "Such a amazing book tracking app. it's so seamless and easy to put what books i am reading or ones i like to read. Can set reading goals, review books and find others which might be reading the same book to buddy read. the recommended section is great finding other books which might be like ones you have read. Updating progress of your book and rereading button is so easy to use. So glad it was suggested to me in 2025",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=5c532bc2-4576-4fc9-b619-f6f890d033c5"
+    },
+    {
+      "date": "2026-04-10T04:41:43.158Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Justine Pvl",
+      "text": "I have been a daily user of Storygraph for a while now. The reading tracking is amazing and the recommendations too. They are truly tailored to my tastes, sometimes they're book I have never heard of, Storygraph doesn't just recommend what's most popular right now. I have also used the buddy read feature with an IRL friend for reading a book together at the same time and it's so fun to comment on the book ! The tracking of pages/hours is the best of any app I've used too.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=ab12833d-8548-4460-8e9d-8e1f1492039a"
+    },
+    {
+      "date": "2026-04-10T03:36:05.467Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Djuna Skye",
+      "text": "I love this app so much! I always recommend this to anyone looking for a book tracking and reviewing app. And for the stats!! I love the wrap up graphics we get every month as well as every year. The various types of reading challenges and book club features are amazing as well!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=84c4b414-00ef-4a6b-9a13-dccee98511f1"
+    },
+    {
+      "date": "2026-04-10T03:27:29.893Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Kayla Wizinsky",
+      "text": "the statistics are very pleasing and I love the various ways to showcase. my top book tracking app!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=a99a1cf1-348d-4c4f-b14a-e4df0636f732"
+    },
+    {
+      "date": "2026-04-10T02:51:44.745Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Jessi Robinson",
+      "text": "I tried a couple apps when I decided to leave Goodreads, and StoryGraph was the clear winner. It's sleek and clean with great visuals about my reading and highly customised reviews. And the ability to create/follow multiple goals & challenges is totally off the hook!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=f1fd5f78-8a5b-49ef-9623-21e928b60adc"
+    },
+    {
+      "date": "2026-04-10T02:40:36.889Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Diana Browning",
+      "text": "StoryGraph is my fav tracker. Importing my Goodreads data was quick and painless and the stats moods pacing and custom tags make tracking actually fun. It handles rereads DNFs, listens, and owned books, and the interface is clean and clutter‑free. Monthly and yearly graphics can be easily generated for your social media. Less social, more focused, perfect if you want data without the noise. They have always been helpful when i sent questions. It has challenges you can join and even setup streak",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=b54b138f-1b75-4806-9c79-eba1abe867a0"
+    },
+    {
+      "date": "2026-04-10T02:32:50.800Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "Xandy Peterson",
+      "text": "love love love this app!!! easy to use, great visualizations. my favorite features (ahem, Goodreads could NEVER) are the options to give half stars (and quarter starts even!), the ability to mark the mode of reading (I love seeing audio vs ebook vs physical), and the stats visualizations, not to mention the recommendations are top tier and actually are things I would read but hadn't heard of before. so so much better than Goodreads",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=ba2f2650-691e-4af2-9bdb-a7d85328b78c"
+    },
+    {
+      "date": "2026-04-10T02:01:23.196Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Stephanie Abram",
+      "text": "Love the app! The UI is great and easy to navigate. I especially love the charts and graphs giving me insight into the types/moods of books I've read ❤️",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=8ef6bd9c-61e3-4dda-897c-6824575dcc6c"
+    },
+    {
+      "date": "2026-04-10T01:46:40.600Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "KJ Rich",
+      "text": "Great small-business alternative to corporate giant Goodreads! Fun graphs, tracking tools, and giveaways.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=064bed96-1687-428a-87a4-cb512662c56d"
+    },
+    {
+      "date": "2026-04-10T01:29:44.845Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Le'Andrea Lewis",
+      "text": "Easy to use, and I love the data it keeps. I also appreciate reviews and ratings from other users for many books.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=69948f59-4dc0-45e0-94a7-7d4d3c7fd5e2"
+    },
+    {
+      "date": "2026-04-10T01:28:23.912Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Katherine Moen",
+      "text": "This is the best book tracking app!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=fde3931f-21cb-4f87-af8f-60dccebae033"
+    },
+    {
+      "date": "2026-04-10T01:23:19.609Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Eve",
+      "text": "The best book tracking app! Very easy to use (android user) and provides so much insight with detailed reading stats through cool graphs and very customizable book tagging options. The end of year wrap us so well done, i love using the book cover collage as phone wallpaper. The buddy reads are fun, and the giveaway contests are a great perk. I really appreciate that the developer shares timeline of upcoming enhancements and crowd sources improvement ideas.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=1fa0d679-cba0-4296-b625-115662432c56"
+    },
+    {
+      "date": "2026-04-10T01:10:37.202Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Wendy Hung",
+      "text": "I love this app! I love the infographics for the wrap ups and all the details it gives my stat loving brain. they're constantly rolling out new features and always listen to readers! Their buddy read feature is also my personal favorite!!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=f76240a0-ebeb-4020-82de-1a48ddb4aaff"
+    },
+    {
+      "date": "2026-04-10T00:29:44.708Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Robin Hampton",
+      "text": "Easy to track books. The reading streaks are motivational, the buddy reads are great to prevent spoilers, and the stats you can view are awesome. My favorite book tracking app.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=66a9da6b-7796-4c27-90ce-4487ed4d7d9f"
+    },
+    {
+      "date": "2026-04-10T00:13:38.617Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Deborah Snyder-Peters",
+      "text": "If you're on the fence, just do it! I made the switch from Goodreads at the top of the year and I'm never looking back. I love how much visibility I have on what I'm reading, and all of the tracking options for different additions such as digital or audiobook. But what I love most of all is the suggestions feature. It can take my general preferences, or even just a handful of books whose vibe I'm looking for and recommend me a book. I have found 2 great series so far and it's only been 4 months!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=072e323c-e769-4b88-80fb-fa2d9fae2953"
+    },
+    {
+      "date": "2026-04-10T00:13:01.440Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Terra Smith",
+      "text": "I switched over from a different system years ago and never looked back. I love keeping tabs on what I'm reading and getting new suggestions, and StoryGraph has been perfect. I love my end of year recaps and setting book and page goals!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=da29273b-865f-4898-ad54-ef1b40398648"
+    },
+    {
+      "date": "2026-04-10T00:08:00.389Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Max",
+      "text": "I've been using Storygraph for years and I still love it and it continues to improve. There are bugs occasionally and sometimes can be slow to open or load, but the issues are usually resolved quickly so it's not an issue to me. It makes my personal reading even more fun and is definitely the biggest reason I've been able to get back into reading regularly as a hobby I enjoy again. Especially the streak function. Really love it.",
+      "reply": "Hi Max! Thank you for your review and rating. Hope to sort all of the bugs and performance issues this year to make your experience even better.",
+      "replyDate": "2026-04-10T11:14:56.746Z",
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=585b8b84-7546-4c89-bf9a-6e754ae208c1"
+    },
+    {
+      "date": "2026-04-09T23:56:10.337Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Megan Boice",
+      "text": "storygraph is the best book tracking app out there! Data, data, data and easy to use interface!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=59de1863-9f86-43cc-afef-accf8ecdaa2b"
+    },
+    {
+      "date": "2026-04-09T23:37:26.614Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Hannah Burke",
+      "text": "2022: Great app for tracking reading with tons of nerdy features!! UPDATE: still using this in 2026 and they keep adding great new features!! Very smooth user experience.",
+      "reply": "Yay!! UPDATE: Yayyyy!! Thank you!!",
+      "replyDate": "2026-04-10T10:50:22.286Z",
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=7f8d0728-978d-455e-a8b8-a0ac2a8d64d9"
+    },
+    {
+      "date": "2026-04-09T23:32:36.733Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Corinna N",
+      "text": "Superior book tracker in every way, premium subscription not required to be functional but totally worth the yearly fee.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=c8dc00ea-164b-410d-bdf0-52e81c72f3a0"
+    },
+    {
+      "date": "2026-04-09T23:05:07.875Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Krystal Bloom",
+      "text": "Love this app! It has so many fun graphs and ways to track your reading, plus they are always adding new things. MAKE THE SWITCH and thank me later 😁 In case you thought I was kidding, it's now 4/9/2026 and I still LOVE this app. GR could never.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=7f4cb7fe-83c5-47bc-9f87-3b31a1eb0c18"
+    },
+    {
+      "date": "2026-04-09T23:00:55.489Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "ana rita",
+      "text": "with a sleek and acessible design, it's the most complete book tracking app available! it tracks all the data and compiles it once a month in a generated wrap up that scratches the itch. i just wish more people were using it so i could drop goodreads already :(",
+      "reply": "Hi ana!! One day. :-D Thank you for your review and rating.",
+      "replyDate": "2026-04-10T11:15:24.973Z",
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=0e75b75f-ae04-4314-bfca-97b9a251fb3e"
+    },
+    {
+      "date": "2026-04-09T22:48:48.138Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Marsha Jacobs",
+      "text": "This app has become my 1st choice when tracking my books.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=18daebc5-9cbb-45c0-8c29-5f5675de317c"
+    },
+    {
+      "date": "2026-04-09T22:45:24.780Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Amanda Taber",
+      "text": "Love this app for tracking my reads and TBR! They're always working on making the app better and are constantly incorporating things their users ask for. Recommend it to all my bookish friends!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=bbf87e7d-fd32-4409-8791-b88b838f3f31"
+    },
+    {
+      "date": "2026-04-09T22:42:58.584Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Jessica Ens",
+      "text": "The graphs, moods, and categories are what finally had me move to an online format for tracking my reading. I've been very happy with summaries and tracking tools, and am impressed with the updates and responsiveness of the app developers. I'll continue to recommend.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=cbf29cd4-4e39-4bd0-8c1e-790456125892"
+    },
+    {
+      "date": "2026-04-09T22:38:38.686Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Natalia Urbina",
+      "text": "I love tracking my reading in this app, it's so easy and I love the stats and charts. Best part is it is totally free and has no ads!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=32c34aaa-6817-436c-94ba-ca3d2647ad90"
+    },
+    {
+      "date": "2026-04-09T22:30:40.460Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Philippa Octoman",
+      "text": "Love the ease of being able to log the exact edition of the book I am reading to then get accurate data on my reading. being able to give stars in .25 increments for more thoughtful rating. monthly and annually exports of stat's. Being able to create or join reading challenges and being able to select which book to read to meet the challenge, not being dictated which books another provider wants to sell.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=f2694fc2-9d58-4e2e-b66b-2ec65db7e40e"
+    },
+    {
+      "date": "2026-04-09T21:55:16.589Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Jasmine Krause",
+      "text": "this is the best reading tracking app out there! the data is fantastic, and it is always improving and making the ux better. my friends and I run our book club off of this app and it makes it so easy to organize things!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=1cfb6303-d478-44dd-9040-1c4d9f738ede"
+    },
+    {
+      "date": "2026-04-09T21:54:45.250Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Sierra Frauen",
+      "text": "I love using StoryGraph! It is easy to track what I'm reading and add books to my TBR. They have some fun challenges that encouraged me to read outside of my usual genres. The rating system and reviews are so so helpful. I've found them to be more reliable than GoodReads tbh. When adding a book, I can click editions to switch to audiobook or ebook. I love being able to see my progress throughout the year and where I'm spending my reading time.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=7b65f4a7-4002-4c46-8832-2481432380b6"
+    },
+    {
+      "date": "2026-04-09T21:52:55.690Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Lindsey Foltyn",
+      "text": "So obsessed with this app, I basically shove the wrap-up graphics and the statistics in the faces of every reader I know. DON'T YOU ALSO LIKE NICE THINGS?!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=b285ad11-4056-46c1-babd-2b85b734c86b"
+    },
+    {
+      "date": "2026-04-09T21:20:27.910Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Lyarna Creek",
+      "text": "So much fun to use and packed with so many hidden features (could you one day please create a site map or tutorial pages that can be accessed from a central location?)",
+      "reply": "Hi Lyarna! Rather than a site map or tutorial (which most people won't read and will go out of date quickly) the goal is to improve the UI and UX such that it's all intuitive and obvious! Thank you so much for your review and rating.",
+      "replyDate": "2026-04-10T11:16:28.801Z",
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=2a5a79f4-b167-4322-98cd-bdfc11293c61"
+    },
+    {
+      "date": "2026-04-09T21:17:26.447Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Jenna Reehl",
+      "text": "This app is literally perfect. The creator works tirelessly to add new features and fix bugs.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=72831b1f-d542-463b-8ca6-a62f5e263bdf"
+    },
+    {
+      "date": "2026-04-09T21:09:18.757Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Lauren Harrington",
+      "text": "Such a great way to track books, with tons of features constantly being released, and user suggested updates!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=02f98ab1-d162-4cbe-adb9-af98ad0e1dcc"
+    },
+    {
+      "date": "2026-04-09T20:54:30.548Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Lauren Crowe",
+      "text": "10/10 love this app. It functions very well, easy to use, great navigation. so many interesting stats to look at your reading habits and a great way to find communities around books!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=6b997880-9c9f-458f-9f32-ccc38d3ef7aa"
+    },
+    {
+      "date": "2026-04-09T20:32:35.721Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "John Nash",
+      "text": "Fantastic tracking app, no doubt!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=ad92cde4-e8a1-4a0a-9c6b-9947f16e0f74"
+    },
+    {
+      "date": "2026-04-09T20:22:49.438Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Emily",
+      "text": "My favourite book tracking app! Lots of good options for filtering your tbr, cool stats, great recommendations. All of the desktop features are usable on the app too which is really nice 💚",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=07047211-d13f-4e3c-bb01-a95570e0a2fb"
+    },
+    {
+      "date": "2026-04-09T20:22:02.990Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Renad Alotaibi",
+      "text": "my favorite app for tracking my books I love all the graphs",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=3a8f34b6-8c6b-4cba-8f2a-ee3863d72ff9"
+    },
+    {
+      "date": "2026-04-09T20:18:20.500Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Hannah Mock",
+      "text": "amazing way to track books read and get fun graphs!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=426cb4d1-221d-48f0-b0f3-c269c121631b"
+    },
+    {
+      "date": "2026-04-09T20:16:22.980Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Caro van Egmond",
+      "text": "I've been using the app for 2 years now and I'm loving it. I never leave reviews on apps myself but thought this one deserves it. You can easily track your reading and it has loads of stats like monthly wrap-ups and custom tags (note: I am a plus member but most options are also available for non-plus members). But mostly I love how the founder listens to feedback from the users & keeps working on improving the app and adding or changing things for the better. It still gets better every day!",
+      "reply": "Aww, thank you so much, Caro!!",
+      "replyDate": "2026-04-10T11:05:02.284Z",
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=78e5fd04-f281-4a37-b6ad-eca27dc8bff4"
+    },
+    {
+      "date": "2026-04-09T20:12:20.402Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Amanda De Jong",
+      "text": "I've tried a handful of other book tracking apps and this one is hands down my favorite! Even better, they're always listening to user feedback and constantly making improvements.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=07afc423-e481-40d1-94c9-245bfa16a3f8"
+    },
+    {
+      "date": "2026-04-09T19:53:45.706Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Leanne Wilton",
+      "text": "I love the Storygraph app, it's easy to use and updated frequently with new features.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=ac788d8a-bc58-4e24-9fb8-d158ad1453f7"
+    },
+    {
+      "date": "2026-04-09T19:47:24.965Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Peggy-Rae Carswell",
+      "text": "Absolutely love this app! So easy to use to keep track of both books I want to read and have read. Super responsive if there is an issue. Highly recommend",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=0629a303-0c95-4ea6-86ad-97c8ced65084"
+    },
+    {
+      "date": "2026-04-09T19:33:56.740Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Grace Cooke",
+      "text": "I love storygraph! it takes a little while to get accustomed with it but the stats are excellent, and its an independent business you're supporting, who actively listen to your suggestions 🤓🥳",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=651bf4ba-060b-4e02-8970-991576fde6ce"
+    },
+    {
+      "date": "2026-04-09T19:27:15.338Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Valerie Wakeman",
+      "text": "I love this app! It has so many unique features, customizable charts, and cute graphics. I especially love the ability to hold buddy reads and book challenges with your friends. There are no ads, and in my opinion, the app works very well without the Premium version. Highly recommend this app, especially as an alternative to Amazon!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=d3dec413-3e48-47f4-a6ba-9d8690658eb5"
+    },
+    {
+      "date": "2026-04-09T19:18:37.253Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Rachel Nightingale",
+      "text": "I really love this app to track my reading, there are so many different challenges to take part in, and graphs and stats to see my reading profile, highly recommend, both the free and paid versions are great.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=b83bc58f-d074-4f85-9646-8078e57d0136"
+    },
+    {
+      "date": "2026-04-09T19:17:52.516Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Erika Wilson",
+      "text": "I absolutely love this app! my favorite thing is keeping track of all my reading stats. I also appreciate the option to mark books that I own, so I no longer buy books that I have forgotten that I own lol.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=b5d30948-8a22-4a60-8c1f-bdb9d8b7cd19"
+    },
+    {
+      "date": "2026-04-09T19:04:35.290Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Sabrina Osborn",
+      "text": "Truly prefer Storygraph's features to GoodReads. The monthly (and yearly) reading wrap-up graphics are some of the best, and the ratings and review features are superior. Highly recommend.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=401853ac-2f1a-4b52-883b-b4b4245827d9"
+    },
+    {
+      "date": "2026-04-09T18:32:47.126Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Hallie Kratzer",
+      "text": "Storygraph is hands down my favorite reading tracker app. The built-in statistics are so satisfying to look through. Storygraph does a wonderful job adding new elements to the app, and I'm always excited to see what new updates bring.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=cf349c58-3c87-4da6-9930-19cd21a757ba"
+    },
+    {
+      "date": "2026-04-09T18:13:26.400Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Katelyn Lee",
+      "text": "I absolutely love this app. I have never tried tracking my reading before until my friend introduced me to storygraph. Now I tell everyone who will listen. I love the buddy read, giveaways, and that I can add my friends to follow their reading journeys also! Could not recommend this independently owned app more!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=05637dbf-7420-496d-af2c-a5e93e4ae445"
+    },
+    {
+      "date": "2026-04-09T18:12:17.905Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Jesy Boales",
+      "text": "I absolutely love this app. It allows me to log book types - audio, digital, physical - as well as pages and time read! I love all the graphs, normal AND custom and I'd recommend it to everyone who read!!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=67112683-b438-4752-b7d1-723fbd095a48"
+    },
+    {
+      "date": "2026-04-09T18:07:36.520Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "G",
+      "text": "Great replacement for goodreads",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=501eb4cc-901f-41a6-a91c-6ce56cd411b6"
+    },
+    {
+      "date": "2026-04-09T18:02:02.238Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "palvi virdi",
+      "text": "I love the design, the wrap ups at the end of each month that can be downloaded are also amazing. I can keep track of everything I read, and in the reviews you can actually add how it made you feel, if you liked the characters and so on. Definitely recommend it.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=5f3be25a-7d12-46b4-8c62-08c0995999bd"
+    },
+    {
+      "date": "2026-04-09T18:01:39.537Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Elma Menzil",
+      "text": "Been using StoryGraph for a couple of years now and I really enjoy it! The app keeps adding more features that I love to explore. I love the challenges by both the app itself as well as other users. Highly recommend!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=3a79b6ec-6049-43e3-a45e-357c4de75af6"
+    },
+    {
+      "date": "2026-04-09T18:00:04.210Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Alycia Egan",
+      "text": "The best app for tracking reading and reviewing your stats. Love setting up buddy reads for our online book club and tracking my reading streak.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=da204912-21e3-4efe-be54-13285c15691e"
+    },
+    {
+      "date": "2026-04-09T17:57:29.299Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Siiri Lassila",
+      "text": "love this app. I've always loved stats and this app helps me keep track of my reading in a way that makes my nerd heart happy. ❤️ also appreciate the dev who listens to the wants and needs of the user base and takes them into account when adding new features",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=09f03510-f872-45c1-9c59-3fcabac0a630"
+    },
+    {
+      "date": "2026-04-09T17:44:44.354Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Emanuela Buizza",
+      "text": "Best app ever. I've discovered so many great books thanks to it. It's so easy to use and track your reading. I love TheStoryGraph challenges and the stats!! The stats graphs are amazing. I've recommended it to all my friends.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=5ab88b42-6433-4e6e-8b02-cbc0836893de"
+    },
+    {
+      "date": "2026-04-09T17:42:37.618Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Erin Kennelly",
+      "text": "I've been using this app for 5 years now and I absolutely love it! The app is continuously developing/ taking community feedback. It's free with no ads, has great data graphics, buddy read options, filters, and much more. Highly, highly recommended!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=0c538a96-5cf0-4d93-b62a-920571d3f5d2"
+    },
+    {
+      "date": "2026-04-09T17:42:28.998Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Katrina Tait",
+      "text": "Great app, I love seeing all the stats and using the challenges. The only feature I wish there was is if you open a task on a challenge it would be nice if it put already added books on your tbr at the top of the list",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=ce89f4a4-857f-4c63-984c-61b6cd759b04"
+    },
+    {
+      "date": "2026-04-09T17:39:15.808Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Jonna Cox",
+      "text": "I started using StoryGraph at the beginning of 2025. Positive experience all around, any questions or issues I've had have been addressed quickly. 10/10 recommend.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=b5f44551-99ee-4bc5-9e86-89616b05ad45"
+    },
+    {
+      "date": "2026-04-09T17:38:14.146Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "lex f",
+      "text": "I love storygraph and using it to track what I'm reading (and how). The features are constantly being updated, the interface is simple, and support is extremely responsive. Tagging systems on storygraph are often substantially more thorough than tagging systems through the insititutions where I purchase or borrow books. I am glad that there is a reading tracker that is not owned by selfish billionaires, and instead cares about its community and improving the experience of users.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=30d2e3f3-5654-4127-b195-422ea1021bfb"
+    },
+    {
+      "date": "2026-04-09T17:37:39.804Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Stefania C",
+      "text": "the perfect book tracking app. and the dev is constantly working on it and improving it!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=d35e0b64-9eee-419f-a6a6-e5f45afd5a72"
+    },
+    {
+      "date": "2026-04-09T16:52:38.428Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Kaitlyn Holman",
+      "text": "I've really enjoyed using this app for the last few years! Transferring my data from GoodReads (10+ years worth) was fast with minimal corrections needed. I love seeing my reading stats on the different graphs and charts. One of my favorite things about the app is how friendly and approachable the team is behind the app. They are VERY responsive to questions/comments from users posted on different social platforms and they are always coming out with great updates. 10/10",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=0a36777e-90f8-494e-bcb3-b2dd1fd11746"
+    },
+    {
+      "date": "2026-04-09T16:16:33.634Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Sarah Young",
+      "text": "I love this app so much! It's a million times better than Goodreads, and I love that it's not affiliated with Amazon. They're continuously updating and improving the app. The stats, recs, and personalized summaries are beyond useful. You won't be disappointed!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=dbeaf3a7-7ace-490a-aea5-285c11cdcb5b"
+    },
+    {
+      "date": "2026-04-09T16:01:53.100Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Kate Brady",
+      "text": "This is the app I wanted Goodreads to be. I love that you can leave private notes on what you're reading. I've only been using the app for a few months but even in that amount of time, it's constantly getting better. I'm encouraging all my friends to switch from good reads to this.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=056d19fd-ccab-4ea5-95e2-3bb12aa09c75"
+    },
+    {
+      "date": "2026-04-09T16:00:04.469Z",
+      "score": 5,
+      "thumbsUp": 10,
+      "user": "Shelby Arnold",
+      "text": "This app is EXCELLENT for tracking, ranking, and cataloguing books, e-books, audiobooks and all things reading! There are monthly giveaways, friend/group reads (perfect for a book club) and more features than I can possibly include here. My fav has been the \"pages read\" and \"books read\" charts and graphs you can utilize to be really proud and impressed with yourself. Thanks Storygraph ❤️",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=39e7fd4b-4917-4f5c-8690-fb088777041c"
+    },
+    {
+      "date": "2026-04-09T15:50:43.580Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Tea Fueled Writer",
+      "text": "Love this app so much for tracking reading. Places for your to-read, read, and top favorites. Leave and see reviews, set goals, get awesome graphs of your progress, and interact with friends. Everything you need in one easy to use app. I love how you can get really detailed or keep things really simple.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=9483a891-5ad7-4280-b0b8-b83b8a9b8155"
+    },
+    {
+      "date": "2026-04-09T15:48:50.320Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Meike Visel",
+      "text": "I love StoryGraph to track my reading. It might take a moment to get used to it after switching from another app but after I did I never looked back. importing my previous reads was easy, too.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=34f47c32-2f52-4a77-8912-c9bbf79879f9"
+    },
+    {
+      "date": "2026-04-09T15:42:36.493Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Vanessa Lobato",
+      "text": "My favorite reading tracker! Love that you can easily add books and rate with half or quarter stars. Also love the monthly wrap up's and goal trackers. I tell all my friends to use Storygraph!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=41df36e4-4e07-470f-a6c8-1bd2af5ac278"
+    },
+    {
+      "date": "2026-04-09T15:39:03.157Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Lisa Betker",
+      "text": "I really enjoy using this app. It's easy to choose from different editions and you can swap to a different edition if you enter the first one incorrectly (eg you just type in the name and select the first available, then go back in to select the correct one). It's easy to connect with other users and I find that the challenges keep me motivated to read new books (I am a chronic re-reader).",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=8fb62562-ddf0-4939-8268-5226d5a11bf9"
+    },
+    {
+      "date": "2026-04-09T15:37:14.308Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Emilie Kroboth",
+      "text": "I love storygraph! I love all of the different options for books, especially the pause and dnf feature. I often read multiple books at a time, so being able to \"pause\" a book and not have it count days I'm not reading it is a great feature for me. I also love all of the statistics you get even without the subscription! AND you can have more than just a book goal you can do pages and listening hours! So thankful I made the switch a couple years ago! I recommend this app to all my book friends!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=e42c093e-0337-48df-a290-15a8fe2e7367"
+    },
+    {
+      "date": "2026-04-09T15:29:45.644Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "India Bruce",
+      "text": "No other reading apps compare. Storygraph is the best. As well as being great for tracking my reads and regular statistics, I also love the challenges, the suggested books and competitions.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=0809d80b-ab64-49d6-a5f3-03defbf8e2c1"
+    },
+    {
+      "date": "2026-04-09T15:27:12.590Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Bama Johnson",
+      "text": "My preferred book tracking app! I tried a few of the other apps to track my reading and kept Storygraph (unpaid version) because it's easy to use and has great features such as shareable charts, detailed statistics and recommended reading based on what I may like. I also appreciate the content warnings and filters. I have also won a couple of books through their giveaways and joined a few reading challenges that have made reading more enjoyable.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=76162166-eda6-4d70-b8ff-eb637ef793ce"
+    },
+    {
+      "date": "2026-04-09T15:20:45.169Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Samantha Wilson",
+      "text": "Easy to use, lots of stats to track. Also includes social features if desired but they aren't in the way of the tracking features. Included downloadable stats images for sharing.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=a99a42ab-9ebe-4a8e-9062-11eace53cd39"
+    },
+    {
+      "date": "2026-04-09T15:20:08.650Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "Gabrielle Lemaigre",
+      "text": "The best app out there! I've been using Storygraph for over a year and it still amazes me how good this is. From tracking your current readings, the various status (between DNF, Pause ..) or all the graphs to have tone of insights of our readings throughout the months. And I keep converting more and more friends to use it. the only detail is it's a mostly English library that is available. So it's a little bit more manual for those who read in other languages.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=fb29875d-8210-40f6-a3d2-1276c343ee1a"
+    },
+    {
+      "date": "2026-04-09T15:20:03.245Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Robyn M",
+      "text": "I've been using Storygraph for a few years and it just keeps getting better! I love all the stats and charts you can get, and buddy reads are so much fun. The developer is also really responsive to user feedback. She regularly posts on social media to ask what updates we want to see next or to give us the chance to vote on design decisions. Love a company that actually listens!!",
+      "reply": "Aww, thank you so much, Robyn!!",
+      "replyDate": "2026-04-10T11:07:22.460Z",
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=ac7d8ceb-acb3-46ce-b06a-17f737772447"
+    },
+    {
+      "date": "2026-04-09T15:18:24.735Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "maya",
+      "text": "I'm NEVER leaving, this is my favourite app ever. Every time I think of something that could be improved I just wait it out and it comes on the next update bc the team's always prioritising user experience. It's wonderful. Only thing I don't appreciate is the genAI related feature. I know it's optional and I have it off, but, still. I foolishly though that StoryGraph, as an art/literary related business, wouldn't cave out of principle...",
+      "reply": "Hi maya. Thank you for your 5-star rating, despite your feedback on our AI feature. If you haven't seen it already, please check out this video on it: https://www.instagram.com/reel/DDXf3R_AgzL/ . I hope that makes it clear why we even have it in the first place. It's nothing to do with \"caving\". It's what made sense for the feature vision.",
+      "replyDate": "2026-04-10T11:10:44.902Z",
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=010b9846-26ec-4247-8c4d-7538000822c6"
+    },
+    {
+      "date": "2026-04-09T15:09:12.508Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Lynne Dewhurst",
+      "text": "I switched to StoryGraph about a year and a half ago, and I don't miss the old app whatsoever. This is super easy to use, helps me track what I've read/what I want to read/what my friends are reading, and I love the fact that new features are being released all the time. I've never seen devs so engaged with their user base.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=77465cdb-9734-46e4-ab83-5f3905242c47"
+    },
+    {
+      "date": "2026-04-09T15:06:31.000Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Sarah C",
+      "text": "This app works really well for tracking my reads! I love the AI summaries, as well as the buddy read feature. If I had one gripe, it's that although the system lets you add multiple pronouns, their appearance on the feed only shows the first pronoun, and doesn't cycle through them. Otherwise, a pretty perfect app!",
+      "reply": "Hi Sarah! Thank you for your feedback. I'll see if I can eventually update it to cycle through all the used pronouns.",
+      "replyDate": "2026-04-10T11:04:36.572Z",
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=af42f231-33ec-45f2-a339-27295583ac1c"
+    },
+    {
+      "date": "2026-04-09T15:00:49.360Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Alyssa Snow",
+      "text": "Absolutely love this app. No complaints at all and I love all the stats and graphs to break down my reads! There are custom goals, custom challenges, everything about this app is designed for the reader. You will never go back to those other book tracking apps!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=cea44865-2ae0-4742-93a5-1de5f13efa02"
+    },
+    {
+      "date": "2026-04-09T14:59:45.194Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Natalya Heisey",
+      "text": "I cannot recommend this reading tracker enough! I left goodreads a couple of years ago to try this app and never went back. It has kept reading exciting.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=e715f402-2500-4509-99d0-b5bb7ec33441"
+    },
+    {
+      "date": "2026-04-09T14:52:32.567Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Jessica Nottingham",
+      "text": "I've used a lot of different reading tracking apps over the years and this one is by far my favorite. The admins are so helpful and responsive. They really listen to what the users want and do their best to implement that. Highly recommend!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=53f5f341-46d7-4bb7-8979-1da91405d9d8"
+    },
+    {
+      "date": "2026-04-09T14:51:31.982Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Hannah Allbrooke",
+      "text": "this is a far superior book tracking app to any others I've used. So easy to switch over from Goodreads and the user experience is far superior.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=afd988fe-d060-4435-b8ad-e74d9e0a7854"
+    },
+    {
+      "date": "2026-04-09T14:43:33.359Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Triantafyllia Orfanidou",
+      "text": "I love this app. It is my favorite bookish app. Its stats are amazing and help me organize my reading! Simple to use as well.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=04d12894-a05b-4194-a14a-93bc776c7387"
+    },
+    {
+      "date": "2026-04-09T14:33:40.780Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Natasja G.",
+      "text": "Great app which is constantly updated with new features. The maker of this app truly listens to what the users want changed or added.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=52b4b68f-88c8-462b-aa25-99f8e7f48668"
+    },
+    {
+      "date": "2026-04-09T14:24:42.879Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Annie B",
+      "text": "I love & recommend StoryGraph for tracking what I read! User since 2022, never any issues (Android). Had paid subscription (allows you to get creative with custom tracking) and free version (which includes amazing features and no ads ever). I love setting reading Challenges, then watching my progress and viewing daily Reading Stats. It's easy to add and filter books in my To-Read Pile list. The monthly and annual Wrap-up Graphics are a beautiful recap of my reads. Tracking helps me read more!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=4b4e37d7-3b5b-4a26-827d-f06ee4f9c521"
+    },
+    {
+      "date": "2026-04-09T14:19:28.945Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Claire Marge",
+      "text": "I've been using Storygraph for a couple of years now and it's by far my favourite way of tracking my reading!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=e996f0f3-fdc7-46eb-a8be-a589538fa856"
+    },
+    {
+      "date": "2026-04-09T14:15:28.164Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Shruti Singhal",
+      "text": "I like the simple UI, but the app lags a lot. On both ios and android devices the lag is there. please fix it soon.",
+      "reply": "Hi Shruti! I'm focusing on performance issues this month so hopefully you see an improvement soon!",
+      "replyDate": "2026-04-10T11:03:07.491Z",
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=047192ee-ea1f-4882-a39f-be772b630931"
+    },
+    {
+      "date": "2026-04-09T14:10:43.622Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Lucy Schagen",
+      "text": "Absolutely fantastic app. It's great being able to keep track of my reading and books I want to read. Love that I can track my audiobooks in minutes and that you can add editions yourself if they're not yet in their catalogue. The stats are amazing and being able to use tags to track anything I want is incredible. Also the team behind the app may be tiny but they are great at responding to questions and feedback. The app gets improved all the time based on what users want. All in all, I love it!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=5bf6f733-47e3-4aac-a454-aebcc62849e1"
+    },
+    {
+      "date": "2026-04-09T14:10:00.750Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Lakshmi",
+      "text": "The best book tracking app I've ever used.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=5c464b31-6d7e-4024-b6d5-2ae184cd090a"
+    },
+    {
+      "date": "2026-04-09T13:56:40.850Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Natasha",
+      "text": "Best reading/book tracking app I've ever used. Super user-friendly & beautiful UI. The monthly reading wrapups are my favorite, and I love that you can generate a calendar with your stats! I also enjoy the challenges you can join or create.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=e9051fd6-7a22-4e00-9360-cf9e5b706129"
+    },
+    {
+      "date": "2026-04-09T13:53:29.955Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Faith Neale",
+      "text": "I used to use Goodreads, then both Goodreads and StoryGraph, and now I just use StoryGraph. I enjoy the stats and the challenges. I love that the app is Black woman-owned, as opposed to Goodreads which is owned by Amazon. I can't recall any major issues with the app since I downloaded it over a year ago. It feels like the team is always thinking about ways to improve the app and make the app (and reading) more enjoyable for users. It's safe to say that I'm a happy customer!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=5154e206-79f2-47ea-bce0-958bcb4062d7"
+    },
+    {
+      "date": "2026-04-09T13:52:20.949Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Jessica",
+      "text": "I've been using StoryGraph for a couple of months now and love it! I switched from Goodreads and the data import worked seamlessly. Above all, I appreciate the flexibility it gives me in tracking my reading - I can edit reading dates, editions, tags, etc. Reading feels rewarding, especially thanks to the streak and buddy read feature. Development is based on the community's feedback and happens in a very transparent manner. Highly recommend!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=d913fa1f-eb5a-4983-9e7f-3a161219edcc"
+    },
+    {
+      "date": "2026-04-09T13:45:29.655Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Grecia Tures",
+      "text": "I love this app. From the Reading Challenges feature to the graphs and giveaways. Everything has been great!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=1ddcece2-eb40-4e2b-aab3-3c8285a0fd07"
+    },
+    {
+      "date": "2026-04-09T13:45:16.486Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "charlie x",
+      "text": "the developers listen to their user base and constantly update storygraph to reflect what users want. I've upgraded to plus membership because of how much I've enjoyed this app.",
+      "reply": "Aww, that's awesome, charlie. Thank you!",
+      "replyDate": "2026-04-10T11:02:25.460Z",
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=c6a0973b-9c0a-45f5-93c4-1e8ed9b367de"
+    },
+    {
+      "date": "2026-04-09T13:43:17.536Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Eric Ballew",
+      "text": "I love this app for tracking which books I have read. it is so much better than good reads for showing nerds like me data associated with each book. there are also a ton of features that allow you to set reading challenges, and join other users challenges. the visual stimulation of lie and bar charts to show your reading journey is great. they even have a feature to create a graphic that summarizes your reading journey for the month into a picture formatted specifically for sharing on social.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=30836220-643a-4ba1-b07a-ae84d6cc2c42"
+    },
+    {
+      "date": "2026-04-09T13:42:50.582Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Melissa McCreight",
+      "text": "A great app for tracking books. I love the monthly wrap up and collage",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=29daed5c-834c-4fb6-961c-336a00c6e098"
+    },
+    {
+      "date": "2026-04-09T13:39:04.643Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Tam Eastley",
+      "text": "I've been a StoryGraph user for years now and it is the absolute best. Continuous improvements, unique features, as well as the kind and transparent communication from the small (amazing) team makes this app a must-have for me.",
+      "reply": "Hello there, Tam! Thank you so much! Thank you for being one of our earliest users! 🥰",
+      "replyDate": "2026-04-10T11:02:08.740Z",
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=94d2afd5-57fb-43eb-8afa-77310655e365"
+    },
+    {
+      "date": "2026-04-09T13:37:36.274Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Ava Dooley",
+      "text": "I use this app to track my reading. I love analytics, and look forward to the end of every month when I can see a summary of my reading. It's easy to track both physical and audio books. Other great features are book giveaways, buddy reads, & custom recommedations. My only complaint is the app can lag slightly at times, and I didn't find the interface to be 100% intuitive at first. But in my opinion, this is not worth removing a full star, especially when I know the dev team is a 1 woman show 😊",
+      "reply": "Hello Ava! Thank you for the review and rating. I'll definitely be working on the issues that you've raised here. :-D",
+      "replyDate": "2026-04-10T11:01:41.592Z",
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=ae564bc1-e5b0-4215-81be-961184e1f00d"
+    },
+    {
+      "date": "2026-04-09T13:36:03.469Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Isobel Brady",
+      "text": "I've literally never been able to consistently track my reading until I downloaded this app a few years ago. I love the stats and the app works great",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=53921c00-41f6-4f41-8e62-37f08da17582"
+    },
+    {
+      "date": "2026-04-09T13:35:20.138Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "M",
+      "text": "This is not a app you use to read books. But it IS a app that you use to keep track of all the things! TBR, DNF, Read, Owned Books....so so much more. It FAR exceeds what Goodreads could ever try to do. It's updated regularly and when there are hiccups this team FIXES them. Everything you want is here and if it isn't there's a good chance it will be soon. They listen to us and what we want/need and make it happen. I LOVE it.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=8ee4d11a-7d18-43f0-a34d-e348a1d012ec"
+    },
+    {
+      "date": "2026-04-09T13:26:34.957Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Evan May",
+      "text": "Hands down the best book related app out there. Such a breath of fresh air to actually have support and new features constantly as opposed to some other stagnant apps.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=ae2f610f-fa3f-4c21-8835-6d60ee82e325"
+    },
+    {
+      "date": "2026-04-09T13:15:54.200Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Ditte Sayers",
+      "text": "I've been using StoryGraph for a few years now and couldn't be happier with my switch from Goodreads. To name a few favorites - I love being able to adjust journal entries when I miss a few days of recording and need to catch up, being able to switch between editions (audio, digital, paperback, different translations, etc.)... and most of all, I love love love the monthly and year-end Wrapup infographics!!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=bc8aec87-fc96-4854-a7c3-6615a89eaf78"
+    },
+    {
+      "date": "2026-04-09T13:14:29.368Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Jen Meineke",
+      "text": "Excellent and very easy to use. I love that I can change the edition of the book so it matches exactly the version I read. I also love how relevant the recommended books are to what I actually read and enjoy being able to visualize all my reading stats through different types of graphs and charts. Overall, A+!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=19845136-78bb-46ae-9c3e-ef995eb3ff8f"
+    },
+    {
+      "date": "2026-04-09T13:14:11.515Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Florine Aulas",
+      "text": "Just really the best to get your stats, organise your shelves and keep you on your toes with your reading with streaks! Less of a social app and more a true book tracking app. Highly recommend.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=8764565c-fa5c-4498-bbd0-5f1524121f02"
+    },
+    {
+      "date": "2026-04-09T13:09:16.628Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Kate Thompson",
+      "text": "Great way to track books you're reading and want to read.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=9cdc3af5-d26a-45eb-9ee5-1ab7dc865679"
+    },
+    {
+      "date": "2026-04-09T13:06:44.199Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "M Anderson",
+      "text": "Love this app! Wonderful way to track my reading. My favorite part is the Buddy Read. The Buddy Read allows you to read with your friends but at your own speed. You can leave comments or have discussions while you read but it's always labeled with a page number and hidden until you're ready to read it. I also love that the Giveaways don't automatically add the book to your TBR like Goodreads does. Goodereads totally messed up my TBR with that feature.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=41526397-2389-42cf-8d8b-8ba131010b7f"
+    },
+    {
+      "date": "2026-04-09T13:03:19.490Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Sofie Lea",
+      "text": "Love love love this app! Functionality is so much better and more flexible than other similar and more popular reading tracker apps. I genuinely think that keeping track of my reading on Storygraph has made me a more habitual reader as I love the feeling of accomplishment when logging activities in my reading journal. I read digital, physical, and audio books and the variety offered in how to track your reading is phenomenal.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=206b1a9c-362e-449b-ab0c-4992601073bd"
+    },
+    {
+      "date": "2026-04-09T13:01:53.125Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Charlotte Fournier",
+      "text": "Great app for keeping track of your books (read and to be read). The trackers are helping me increase how much I read in a year. I've learned about more books through the app that I don't think I would've heard about otherwise. The summaries and reviews are really helpful when looking for new books to read.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=4d4a56d3-c9b2-4ec1-9b0f-34f4089226cd"
+    },
+    {
+      "date": "2026-04-09T12:59:45.141Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Dani",
+      "text": "My fav book tracker app! I've been a faithful user of Storygraph since '23 after transferring from Good Reads. Even though you cannot read books in the app (like the kindle app),It's still very user friendly, frequent updates, and can enter legit giveaways! My favorite features are the reading stats and book challenges that encourage me to read outside my normal genre. Not to mention you'll be supporting an independent, black woman-owned reading business! I would highly recommend Storygraph!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=8abe42ea-4f85-447a-a032-8151101ac94a"
+    },
+    {
+      "date": "2026-04-09T12:53:13.323Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "J S",
+      "text": "I've used this as my reading tracking app for YEARS. I love the many visuals, showing how many books I've read in a year (you can also compare years), see how many books each month you've read, pages, write reviews, all sorts of fun stuff. AND giveaways you can sign up for a chance to win.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=b592b302-136c-409d-bb45-81f5c5676fc7"
+    },
+    {
+      "date": "2026-04-09T12:52:42.970Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Yasmin",
+      "text": "Been a storygraph user for over a year now and upgraded to the paid version almost straight away. Would not consider using any other app to track my reading, storygraph is perfect for it and the January reading challenge in 2025 led to me starting to read every single day and still going now. Thoroughly enjoyed the big buddy read for project Hail Mary but do wish the book clubs feature was more well known, as most of my clubs are on another app. Storygraph is perfect for tracking reading!",
+      "reply": "We will make the book club feature more well known for sure! Thank you for your review and rating. :-D",
+      "replyDate": "2026-04-10T10:58:30.842Z",
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=90adef73-300b-488d-9714-84ad6ad53ac1"
+    },
+    {
+      "date": "2026-04-09T12:49:53.685Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Brandy Smith",
+      "text": "I used this app every day!!! i love the feature where you can add a book. If it's not on storygraph.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=38736112-8985-4a04-ad14-c3c9257ec7e0"
+    },
+    {
+      "date": "2026-04-09T12:47:35.803Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Danielle S",
+      "text": "Moved from Goodreads a few years ago and love it! Easy to use, nice graphics to download, and I've found loads of books for my tbr 😊",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=03df278b-dc15-4e43-8125-291ad6831407"
+    },
+    {
+      "date": "2026-04-09T12:47:24.606Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Jenn R",
+      "text": "The best reading tracking app out there. Consistent updates and improvements and does what it is supposed to.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=7416e563-b099-4d03-b527-536077f22065"
+    },
+    {
+      "date": "2026-04-09T12:45:58.515Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Lucky Deol",
+      "text": "I switched from goodreads to the story graph a couple of yrs ago and haven't looked back. the app is so much easier to use and the user experience is excellent. I love stats and charts and being able to see different parts of my reading habits for the year is so fun! any time someone asks me for a book tracking app, im 100% recommending this.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=4bedd377-08f9-4a2a-bb21-7d41a3040147"
+    },
+    {
+      "date": "2026-04-09T12:41:00.915Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "David Frew",
+      "text": "The best reading tracking app around",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=544d3c50-4301-4b9f-8cc8-1b161c0a1e48"
+    },
+    {
+      "date": "2026-04-09T12:35:59.282Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Jessy Nightingale-Randazzo",
+      "text": "I adore this app so much!! not least because it's a woman owned alternative to Goodreads, but the stats, the ease of tracking, the challenges and givesaways 10/10 not notes",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=14f3d45e-b508-4d5c-b2e4-9cff33571d0a"
+    },
+    {
+      "date": "2026-04-09T12:34:30.727Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Maegan Stuart",
+      "text": "Best rebook tracking app of all time. I love that storygraph is constantly listening to its users and adding features that we suggest. This app is user friendly & I will never use anything else.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=3d673884-2de0-45d8-8a2f-3b49ffe56c69"
+    },
+    {
+      "date": "2026-04-09T12:32:15.572Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Lauren Tomlinson",
+      "text": "I made the switch to Storygraph last year and I will never go back. the Storygraph app is so good. Its easy to update my reading amd get to everything I would normally use on the web version. No complaints, I love it!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=689887a5-283e-4add-bf30-c4517d4c4da4"
+    },
+    {
+      "date": "2026-04-09T12:28:52.960Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Rachael Coleman",
+      "text": "Best app--I absolutely love the stats and the monthly/yearly summaries!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=4747a6d8-f8b7-4f59-b9d7-6e3efb728d85"
+    },
+    {
+      "date": "2026-04-09T12:23:34.980Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Shona Gillies",
+      "text": "If you're looking for a good reading tracker this is for you, especially if you currently use the very popular one beginning with G, this is a million times better. I love how much customization is available. There are so so many stats which i find so interesting! Super user friendly and I'm always recommending to friends.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=1c2bfea3-a008-49be-9263-71f40003555a"
+    },
+    {
+      "date": "2026-04-09T12:20:18.700Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "A. L.",
+      "text": "android user- storygraph is a user friendly app to log books, connect with friends who read, and each month your wrap up is a really cute graphic!!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=dbd29f61-61ec-4b6d-ade7-1f9decdc4ad9"
+    },
+    {
+      "date": "2026-04-09T12:19:53.417Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "William Faust",
+      "text": "This is the ultimate app for tracking the books you read. also a fantastic recommendation engine to figure out what to read next. Vastly superior to goodreads. if you read books, you need this app!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=36dd1c9d-7335-4419-8ba2-dfbc146da5f9"
+    },
+    {
+      "date": "2026-04-09T12:16:35.288Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Skylar Alexander",
+      "text": "Storygraph is a wonderful app! I used to have Goodreads and Fable as well but now I only use Storygraph. I enjoy the different charts and trackers that give me feedback on what I've been reading. I love being able to choose what edition of a book I'm reading since I'm often switching between physical books, ebooks, or audiobooks. There are reading challenges, buddy reads, read alongs, and book clubs you can join. Just overall a fantastic app, highly recommend!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=126f349e-7fa6-4519-9a10-559da326f1e7"
+    },
+    {
+      "date": "2026-04-09T12:14:04.679Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Sharon Sheffy-Levin",
+      "text": "I love this app for tracking my reading: It is data driven and has so many options to analyze your reading. I love the monthly/yearly wrap-up info as well",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=5a5c185f-768f-471c-b913-aea6ed178093"
+    },
+    {
+      "date": "2026-04-09T12:13:44.779Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Karen Gillespie",
+      "text": "How do I love thee, Storygraph? Let me count the ways! It is hands down the best app for reading tracking and stats. Super user friendly, very customizable with your own tags, and they are so responsive with suggestions and comments on the app functionality. Best of all, the app was created and is run by an absolutely lovely and brilliant woman!",
+      "reply": "Awww, thank you, Karen!! 🥰",
+      "replyDate": "2026-04-10T10:57:03.439Z",
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=cdb838cc-62b1-473f-b1e6-dd5bdf0cf552"
+    },
+    {
+      "date": "2026-04-09T12:06:04.623Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Samantha Finch",
+      "text": "My favourite book tracking app, I love all the data and stats about what I'm reading so this app is perfect for me!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=4b1d1294-70ba-4141-adff-41017e7e3f26"
+    },
+    {
+      "date": "2026-04-09T12:01:33.628Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Kaylee Conti",
+      "text": "love this app! love that you can customize which stats you are measuring. I create tags personally for mine to see how many different tropes I read 😅 easy to use!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=dde2b0b3-57c6-4cd1-9de3-9f37aca58020"
+    },
+    {
+      "date": "2026-04-09T11:54:54.534Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Tijs Boussier",
+      "text": "This is a great app if you're looking for a way to keep track of your reading, personal book collection or TBR pile. The ability to filter the TBR list and have some of my TBR titles suggested to me is especially great. The charts and challenges are not essential to me, but a nice bonus. On top of all this, the developer is very transparent about the development priorities and timeline and any issues that arise. In the few years I have used the app I have honestly only seen it get better.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=eb8c5190-6fb2-46c3-88bb-53f4c0c03471"
+    },
+    {
+      "date": "2026-04-09T11:50:25.384Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Shona Grimes",
+      "text": "I love this app so much. I love the data I can pull, which makes my spreadsheet brain happy!The paid membership gives you even better deep dives if that floats your boat. It can be slow and buggy occasionally, but it's constantly improving, and adding elements. I'd love to see an ability to be more community based; being able to comment on others' reviews would be great but the buddy reads and readalongs do help here. Transporting everything over from GR was sort easy.",
+      "reply": "Hello Shona! These improvements are coming. Thank you for your review and rating!",
+      "replyDate": "2026-04-10T10:56:40.881Z",
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=1f66d971-f8d1-420a-83f8-50b19251bcd5"
+    },
+    {
+      "date": "2026-04-09T11:50:24.683Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Melissa V",
+      "text": "Great app to track the books you read! I love that the app is free with no ads! Easy to navigate.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=66a04771-8573-4749-b083-5a2b1f14a095"
+    },
+    {
+      "date": "2026-04-09T11:47:12.752Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Jacqueline Bateman",
+      "text": "a great way to track reading stats",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=c2bd0de9-a93a-4d32-a2d6-4fd8dee926fd"
+    },
+    {
+      "date": "2026-04-09T11:45:13.732Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Putri M. H.",
+      "text": "I love being able to view my stats! Helps me to progress in reading. in 2026 and still using this app even though I am not reading as much. I love keeping tracks and seeing recommendations from my reading preferences",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=df470ee3-6a94-413a-a1e5-6cfbae98635e"
+    },
+    {
+      "date": "2026-04-09T11:42:10.550Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Cecilia",
+      "text": "Love this app! It's great for tracking reading and reviewing books. The charts and stats are fantastic, and it was super easy to import my data from another app when I stopped using that one. The best part is how responsive the creators are. They listen to users to fix bugs quickly and deliver new features that we actually want! <3",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=8a2afab6-3f4f-4248-b9af-f913f961b31c"
+    },
+    {
+      "date": "2026-04-09T11:35:42.313Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "sabriena",
+      "text": "This app is amazing for keeping track of my reading. They listen to the users and add new features all the time!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=516c5a3d-87cf-4f48-b40f-1a2fe3f0af65"
+    },
+    {
+      "date": "2026-04-09T11:30:25.416Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Theo Zivanovic",
+      "text": "athis is the best book app I've ever used. Its simple and easy to engage with, and I love how it's not overwhelming to look at.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=478a3265-96c4-4404-9384-4a449283a620"
+    },
+    {
+      "date": "2026-04-09T11:29:26.963Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Shannon Murphy",
+      "text": "The best app there is for tracking your books read! So many different data points available, plus leaving personal notes related to each book are my favorite features. The ability to choose which edition you're reading, especially having the distinction between physical, digital, and audio is exactly what I wanted.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=f9336647-e60a-433c-961d-d7590ac5bfc6"
+    },
+    {
+      "date": "2026-04-09T11:27:36.453Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Lochlyn Hejl",
+      "text": "LOVE The Storygraph! I've been user since around 2021 and upgraded to Plus about a year ago. I love being able to track and organize all my reading. The monthly and annual wrap ups are fantastic! I've slowly gotten my whole book club to start using the app, and I love checking to see if any of them have reviewed a book I'm interested in before I pick it up. The developer is constantly working on improvements and seriously takes the user experience into consideration. Literally my favorite app!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=d197fe82-48f0-4771-8f74-e4f890d2a653"
+    },
+    {
+      "date": "2026-04-09T11:26:02.237Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Stuart Frost",
+      "text": "I love using StoryGraph and it's so good that it's actively being developed and improved all the time. I much prefer it to GoodReads and it's independently built and not owned by billionaires",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=fb7cb380-77b5-4b5d-b5d5-43a08c3db11b"
+    },
+    {
+      "date": "2026-04-09T11:23:40.631Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Anne Slater",
+      "text": "Update - A year in and it keeps getting better. Such a good app and they keep you updated on instagram! THE BEST READING TRACKER APP. - Easy to log reading - Great end of month infographics - Reviews and book info is well set out with interesting subheadings - Easy to use app. Most importantly it isn't connected to a giant multi-national company to flog their wares.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=8ad4da36-f231-4033-a33d-c53e06086e33"
+    },
+    {
+      "date": "2026-04-09T11:21:50.416Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Matilda Tomlins",
+      "text": "Best book tracking app I've used! very intuitive features, and I love how reviews are broken down into themes rather than just stars. It's easy to track different editions (audio/print/digital). my absolute favourite feature is the monthly wrap up - you get so much cool data on your reading habits!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=f9cc64b8-dcd2-4229-ad10-ebecdf8f00fc"
+    },
+    {
+      "date": "2026-04-09T11:17:57.121Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Paul",
+      "text": "Best book tracking app out there by a mile. I love all the stats and graphics. Plus, it's super easy to use",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=4df78071-3d82-4bb3-9929-d18968d6ef68"
+    },
+    {
+      "date": "2026-04-09T11:17:33.107Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Sam M",
+      "text": "I love this app. It is so easy to use, and I love all the stats. Highly recommend!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=2b41cf0f-1c08-4618-8175-5a6694a8bfa0"
+    },
+    {
+      "date": "2026-04-08T19:10:35.255Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Corey Compton",
+      "text": "I really like the features that you're trying to offer. I am dealing with some frustrations tho, on Android 16 on a Google pixel 9 Pro. Mainly that my settings reverted to \"not allow\" for receiving friend requests, buddy reads, and the other community toggle. The app also feels a little bit clunky, so I'm really hoping for some fine-tuning soon. Navigating through the menus feels like I will sometimes get nested in that menu and then it's not clear how many times I have to go back.",
+      "reply": "Hello. You have to hit \"Update\" for the settings to save. I added a second \"Update\" button up top but on mobile I realised recently this is still buried below all of the notification settings. I'm also going to be doing a lot of work on the UI and UX over the coming months.",
+      "replyDate": "2026-04-09T07:12:43.867Z",
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=d5b5acdd-78d3-441c-b6be-75b952cab562"
+    },
+    {
+      "date": "2026-04-08T07:06:36.577Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Bob the Noob",
+      "text": "I LOOKED EVERYWHERE TO FIGURE HOW TO READ BUT NO IT'S ALWAYS DATA THIS BUDDY READ THAT NO I WANT TO READ BY MY SELF?! IS THAT SO HARD TO ASK.",
+      "reply": "You can track and read by yourself on StoryGraph, but you cannot actually read the books on there. You'll have to source the content elsewhere.",
+      "replyDate": "2026-04-08T13:22:19.442Z",
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=fc2d0ca8-dde2-4792-8fd7-479c48addb41"
+    },
+    {
+      "date": "2026-04-07T23:14:42.749Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Yordy",
+      "text": "Nunca dejó importar el archivo desde goodreads, y sin haberse modificado o incluso abierto",
+      "reply": "Goodreads changed the format of their export file yesterday. We've since updated our importer so it'll work now.",
+      "replyDate": "2026-04-08T13:21:42.101Z",
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=df445ca4-0b3a-4bc9-965f-c6450f899a8f"
+    },
+    {
+      "date": "2026-04-07T19:21:02.491Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Daniel Fauchier",
+      "text": "Uninstalled this immediately as soon as the advanced configuration options at setup revealed that the app is running your reading requests through an LLM. Explicit instructions are given to not mention anything you want to avoid, a shortcoming of LLM models. Algorithms are fundamental to a product like this, but I'm not going to let this thing just soullessly spit out recommendations I can just use a Google search for. Hard pass. Try harder.",
+      "reply": "Our machine learning recommendations algorithm was created in-house in 2019. It is completely local and we don't share data with or use any third party. Other apps use machine learning to generate recommendations. By giving you the ability to type in specific themes, topics, and tropes we're aiming to unlock far more personalised recommendations.",
+      "replyDate": "2026-04-08T13:21:20.380Z",
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=bd9d9250-a32f-44fa-903f-21a9e48427eb"
+    },
+    {
+      "date": "2026-04-06T13:17:51.293Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "Allen Huang",
+      "text": "I typed \"perfection\" to search for the book with the title and I have to scroll through hundreds of romances and smuts that contain the word \"perfect\" in their titles to finally find the actual book. This is the second biggest book website??",
+      "reply": "Hi Allen. I need to work on the search algorithm, but if you put it at least a little bit of the author's name, what you're looking for will come up top.",
+      "replyDate": "2026-04-07T17:38:23.501Z",
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=994477d2-d6e5-4c3c-8e27-cc8303dacb35"
+    },
+    {
+      "date": "2026-04-04T15:45:04.104Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "Chris MacDonnell",
+      "text": "I like the app, but all of the sudden the camera to look up books no longer works",
+      "reply": "Please email us at support@thestorygraph.com.",
+      "replyDate": "2026-04-07T17:37:33.790Z",
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=e0b6273a-25bd-4342-acea-042d73df1b05"
+    },
+    {
+      "date": "2026-04-04T14:42:35.610Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "Ugonma Emeruem",
+      "text": "I tried Goodreads, Fable and Storygraph. I can say that Storygraph is the winner. The promotional content from Fable is too much and Goodreads is just not got for stats. Storygraph offers what I need from a book app. I like the stats, buddyreads and ability to pause a book I am reading. It is also beautiful and I like the e-book giveaways that I am enter from my region in Africa.",
+      "reply": "Hi Ugonma, that's awesome to read! We're so glad you love the app. Thank you for your review and rating.",
+      "replyDate": "2026-04-07T17:37:21.483Z",
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=a2d5a0be-1697-4b10-afeb-f902d5081633"
+    },
+    {
+      "date": "2026-04-04T07:16:13.669Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "Katie Steel",
+      "text": "Really useful app, it motivates me to read every day to keep up my streak. I contacted customer service about a broken streak a few months ago and the response was really sympathetic and helpful, the best app of it's kind and I really enjoy the graphs and breakdowns of my reading style.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=6d005228-560e-4de7-ae5e-032aa25dbe86"
+    },
+    {
+      "date": "2026-04-02T20:02:00.449Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "Izzy Wallace",
+      "text": "Such a cute and user-friendly app! I really like the breakdowns of book genres and themes you've read, that you can filter through. I hope more users come to it, it's absolutely worth a download.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=4c82587b-b70b-4d2c-a279-878a6a5ad3b3"
+    },
+    {
+      "date": "2026-04-01T18:24:31.765Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "Alexandra Ziemer",
+      "text": "Simple to use app and I like being able to track where I am in a book and see the percent complete. I have noticed tho that some books total page count is much higher than the actual story because the app is including bibliography, acknowledgements, and sometimes even sample chapters from other books by the author. Overall I enjoy the app.",
+      "reply": "Hi Alexandra. Thank you for your review and rating. You can adjust your journal entries after reading the book if you think your read page count is inflated. Email us at support@thestorygraph.com for more info on how to do this.",
+      "replyDate": "2026-04-02T12:49:19.471Z",
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=03713cd5-91fe-4408-9f99-2ccc076020fe"
+    },
+    {
+      "date": "2026-04-01T17:43:11.806Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "Tehreem Faisal",
+      "text": "I started using this app in January and its honestly the best when it comes to stats and tracking. The UI is simple and easy to use. My favorite feature so far is the monthly wrap-up graphics which i can share or save.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=13025546-0a7f-4337-90ee-5371a0efaa86"
+    },
+    {
+      "date": "2026-04-01T16:55:32.660Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "Pritesh Meshram",
+      "text": "An Absolutely Amazing experience. Love all the features!!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=3583a829-94a5-49bf-a0a2-01dac355bc61"
+    },
+    {
+      "date": "2026-04-01T06:28:11.479Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Lisa Marie Zammit",
+      "text": "READ.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=2838408b-cb50-4aeb-ac00-b2add78dfb44"
+    },
+    {
+      "date": "2026-03-31T22:54:27.330Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Stephanie Jones",
+      "text": "Absolutely fantastic app. It has all the stats a big reader likes to see, ways for people to challenge their reading habits, suggestions on new books, and giveaways to enter. Highly recommended this app!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph&reviewId=345bf077-13b5-41af-87e5-862710a80ae8"
+    }
+  ]
+}

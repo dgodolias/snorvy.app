@@ -1,0 +1,170 @@
+{
+  "tick": 13,
+  "date": "2026-05-07",
+  "territories": ["water_tracker_us", "reading_tracker_us", "pet_activity_us"],
+  "candidates": [
+    {
+      "niche": "water",
+      "appId": "com.northpark.drinkwater",
+      "name": "Water Drink Reminder",
+      "developer": "Leap Fitness Group",
+      "installs": "10,000,000+",
+      "ratings": 509393,
+      "score": 4.60,
+      "low_pct_recent": 15.0,
+      "iap_range": "$2.99/item",
+      "released": "2011-07-02",
+      "reject_reason": null
+    },
+    {
+      "niche": "water",
+      "appId": "com.fourdesire.plantnanny2",
+      "name": "Plant Nanny - Water Tracker",
+      "developer": "SPARKFUL",
+      "installs": "5,000,000+",
+      "ratings": 177832,
+      "score": 4.65,
+      "low_pct_recent": 6.0,
+      "iap_range": "$1.99-$99.99",
+      "released": "2019-06-03",
+      "reject_reason": null
+    },
+    {
+      "niche": "water",
+      "appId": "ascendik.drinkwaterreminder.hydration.watertracker.drinkwater",
+      "name": "Drink Water Reminder & Tracker",
+      "developer": "Better Life",
+      "installs": "1,000,000+",
+      "ratings": 23417,
+      "score": 4.62,
+      "low_pct_recent": 18.0,
+      "iap_range": "$2.99-$7.99",
+      "released": "2019-01-22",
+      "reject_reason": null
+    },
+    {
+      "niche": "water",
+      "appId": "com.vgfit.waterbalance",
+      "name": "Water Reminder - Daily Tracker",
+      "developer": "VGFIT LLC",
+      "installs": "500,000+",
+      "ratings": 6966,
+      "score": 4.64,
+      "low_pct_recent": 12.5,
+      "iap_range": "$4.99/item",
+      "released": "2018-11-21",
+      "reject_reason": null
+    },
+    {
+      "niche": "book",
+      "appId": "net.tonysoft.bookmory",
+      "name": "Bookmory",
+      "developer": "Tony soft",
+      "installs": "1,000,000+",
+      "ratings": 76097,
+      "score": 4.77,
+      "low_pct_recent": 3.0,
+      "iap_range": "$2.99-$79.99",
+      "released": "2020-05-31",
+      "reject_reason": "low_pct_too_low_users_love_it"
+    },
+    {
+      "niche": "book",
+      "appId": "com.twodoor.bookly",
+      "name": "Bookly - Book Tracker Library",
+      "developer": "TwoDoor Games",
+      "installs": "500,000+",
+      "ratings": 8375,
+      "score": 4.19,
+      "low_pct_recent": 20.0,
+      "iap_range": "$2.99-$149.99",
+      "released": "2018-12-07",
+      "reject_reason": null
+    },
+    {
+      "niche": "book",
+      "appId": "com.thestorygraph.thestorygraph",
+      "name": "StoryGraph",
+      "developer": "The StoryGraph",
+      "installs": "1,000,000+",
+      "ratings": 6506,
+      "score": 4.53,
+      "low_pct_recent": 3.5,
+      "iap_range": "$4.99-$49.99",
+      "released": "2021-06-22",
+      "reject_reason": "users_love_it_low_displacement"
+    },
+    {
+      "niche": "book",
+      "appId": "co.fable.fable",
+      "name": "Fable: Track & Discuss Books",
+      "developer": "Scribd, Inc.",
+      "installs": "1,000,000+",
+      "ratings": 24069,
+      "score": 4.65,
+      "low_pct_recent": 27.0,
+      "iap_range": "$5.99-$69.99",
+      "released": "2021-01-12",
+      "reject_reason": "scribd_corp_moat_caution"
+    },
+    {
+      "niche": "pet",
+      "appId": "dogcat.app.android",
+      "name": "Pet Care Tracker - DogCat",
+      "developer": "Nova Pet Health",
+      "installs": "100,000+",
+      "ratings": 6095,
+      "score": 4.33,
+      "low_pct_recent": 12.0,
+      "iap_range": "$1.99-$39.99",
+      "released": "2021-02-14",
+      "reject_reason": null
+    },
+    {
+      "niche": "pet",
+      "appId": "com.mobikode.dog",
+      "name": "DogLog",
+      "developer": "Lynn Marks",
+      "installs": "100,000+",
+      "ratings": 1209,
+      "score": 4.56,
+      "low_pct_recent": 28.0,
+      "iap_range": "$3.99-$39.99",
+      "released": "2017-07-29",
+      "reject_reason": null
+    },
+    {
+      "niche": "pet",
+      "appId": "app.kidplay.doggytime",
+      "name": "Doggy Time: Dog Training Log",
+      "developer": "Kidplay Technologies",
+      "installs": "50,000+",
+      "ratings": 1251,
+      "score": 4.45,
+      "low_pct_recent": 20.0,
+      "iap_range": "$2.99-$79.99",
+      "released": "2020-06-02",
+      "reject_reason": "below_100k_threshold_borderline"
+    }
+  ],
+  "niche_summary": {
+    "water_tracker_us": {
+      "saturation": "very_high",
+      "leader_lock": "Leap Fitness Group 10M+ + Plant Nanny 5M+ duopoly",
+      "avg_low_pct": 12.9,
+      "verdict": "saturated_commodity_low_differentiation_potential"
+    },
+    "reading_tracker_us": {
+      "saturation": "moderate",
+      "leader_lock": "Goodreads (Amazon) + Bookmory loved + StoryGraph loved",
+      "avg_low_pct_excl_corp": 11.5,
+      "verdict": "top_3_loved_remaining_corp_owned"
+    },
+    "pet_activity_us": {
+      "saturation": "low_fragmented",
+      "leader_lock": "no_clear_leader_each_under_500k",
+      "avg_low_pct": 20.0,
+      "verdict": "thin_market_install_ceiling_under_150k"
+    }
+  }
+}

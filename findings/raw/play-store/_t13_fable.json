@@ -1,0 +1,2008 @@
+{
+  "app": "co.fable.fable",
+  "country": "us",
+  "total_pulled": 200,
+  "total_after_filter": 200,
+  "reviews": [
+    {
+      "date": "2026-05-06T06:02:42.930Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Hannah Goldsworthy",
+      "text": "An overall good alternative for those who hate the graphic design of goodreads (like me)! I like the quoting mechanism and the feed is fun to scroll through, making reading more social. Very glitchy, as is quite optimised for Apple phones, but the report a bug team seem to be effective and overall I would recommend this app.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=ccfa66d7-f768-4c28-b430-a4ffe675ce06"
+    },
+    {
+      "date": "2026-05-05T12:37:17.271Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Denilson Manu",
+      "text": "Amazing app quality is good just utilize it.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=c0ae2c57-be61-4953-ad3a-276c3024f584"
+    },
+    {
+      "date": "2026-05-05T11:59:36.329Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Emma C",
+      "text": "I thought I was just getting a way to track my books but instead I also found a charming little community.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=dec7962e-a824-4c4b-8d15-5a857c71c883"
+    },
+    {
+      "date": "2026-05-04T17:57:27.319Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "Rishay Raghav",
+      "text": "the only thing good about this app is the streaks feature and better social features. no dark mode, downloaded free classics only show one page, frequent crashes. if using an ISBN import from goodreads, it doesn't merge the data with every other edition or publication of the book but treats it as a different book.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=de855ff7-9107-4c35-ac98-28a0cdc3de29"
+    },
+    {
+      "date": "2026-05-03T22:18:50.551Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Joni Murray",
+      "text": "as soon as I signed up for the free trial of fable plus, everything plus disappeared and the option is gone so I'm not getting my free trial. this sucks.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=a1c6afbc-91e7-43f1-8e48-b7ee1530042f"
+    },
+    {
+      "date": "2026-05-03T13:24:32.111Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Sarah A",
+      "text": "Adding to the lists suck. I'm trying to add books to my list of books I own and it won't add the books. I have to do it over and over again until it FINALLY adds one book.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=7f3893c2-7998-4453-92e9-d2874d4f025c"
+    },
+    {
+      "date": "2026-04-30T10:16:53.439Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "Rachel Hendry",
+      "text": "like the app but they should add a more satisfying button to click once you've finished a book.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=bca96140-667e-48c4-8871-b1438d8129d6"
+    },
+    {
+      "date": "2026-04-29T20:57:00.213Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "Tihana Gray",
+      "text": "The author I read cannot be added to my most read list because the title in the app has a typo (created by the app). I reported it to support and their \"expert team\" can't fix the problem. They can't remove space between two letters. Insanity.",
+      "reply": "We’re really sorry for the slow performance you experienced. We had especially high traffic around the New Year that impacted the speed of the app, and we know how frustrating that is. Our team has implemented improvements to increase stability and speed. If you’re still seeing issues, please contact us at support@fable.co so we can help directly.",
+      "replyDate": "2026-01-05T23:04:41.245Z",
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=fc350799-d3a7-4148-9e5a-4ce5567cc2c2"
+    },
+    {
+      "date": "2026-04-29T18:17:12.304Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Lauren Zafar",
+      "text": "love the app but the widget doesn't work. it only displays anything if you've recently opened the app... which defeats the purpose.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=84152a4c-b596-4005-9c65-35ac3a09bc40"
+    },
+    {
+      "date": "2026-04-29T00:48:15.618Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Madison Yakstis",
+      "text": "loved the look the first time I logged in... then it wouldn't let me login again so I tried the tried and true. Uninstall and reinstall a few times, tried changing battery limiting settings, didn't work. and browser on phone doesn't let you load in books only through app. tried changing wifi, tried on mobile data and someone's hotspot. Disappointed as it looked good but not wanting to keep up with this.",
+      "reply": "We apologize for the issue you are having. Please reach out to us at support@fable.co so we can see if we can better help you resolve the issue.",
+      "replyDate": "2026-04-29T17:26:58.370Z",
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=9a1d708a-2d71-4472-9d77-e6f828463860"
+    },
+    {
+      "date": "2026-04-28T16:06:56.980Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Candice Creach",
+      "text": "I really tried to like this app, but it has numerous issues. My biggest problem is it crashes often. Book lists can't be searched by author name. Or if a book has several additions they are listed like they are different books & don't show up in your count for that author. Example J A Huss series Mister has 7 books but each book on the app has several different listings. I found it very difficult to get all 7 listed with same author on my read list. Some were listed JA, J.A. or J A so confusing.",
+      "reply": "We are so sorry you are experiencing this issue. We hope to have a fix for this crash soon.",
+      "replyDate": "2026-04-29T17:29:41.925Z",
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=c3f5cd46-6581-486f-9394-d98c8ca9f83e"
+    },
+    {
+      "date": "2026-04-27T01:12:29.939Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "Samantha Hance",
+      "text": "the app is so bugged. hardly ever updates when I'm adding books I just finished. I have to stop the app and go back in. its super annoying. its almost not world the handle. needs an update or something.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=2196abad-6854-4712-90a6-1c1c5544e590"
+    },
+    {
+      "date": "2026-04-26T11:19:41.283Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "Azure Oblivion",
+      "text": "Not user friendly at all. Until the interface is as intuitive as Goodreads, I won't be using this app. Also it's a shame there's no browser version.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=efe928e3-19c7-4adb-bf09-d196c06f1e39"
+    },
+    {
+      "date": "2026-04-26T08:39:53.130Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Amy Wilson",
+      "text": "gonna love when you have to manually delete all the books when you connect both apps together and it has doubled your reading list to over 500+",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=deee6e06-0e4a-4d5f-96c8-40bf12e4d5bc"
+    },
+    {
+      "date": "2026-04-25T17:48:46.938Z",
+      "score": 5,
+      "thumbsUp": 4,
+      "user": "Amanda",
+      "text": "Bugs, I have asked about the streak log not working for over a month now and fable still has not gotten it fixed. Having streaks was literally the only thing keeping me from deleting the app. I'm not sure how much longer I'm gonna hold out before I delete the app.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=43a99afb-73a2-4d11-a34b-5cb3399078ef"
+    },
+    {
+      "date": "2026-04-24T22:36:40.590Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Lala",
+      "text": "Buns app. Literally the WORST search function I've ever seen. And forget adding the books on your own, because it has to be reviewed, and who knows how long that takes. Because I don't think I've ever been notified that it was successfully uploaded. By the time it's uploaded, I've already finished the book and am on to the next. Also, If I put in the exact name of the book and authors full government name, why are you showing me 1000 other books that have nothing to do with what I've searched?",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=235dc067-5ecb-4313-a568-85b90dbce324"
+    },
+    {
+      "date": "2026-04-24T19:19:16.408Z",
+      "score": 1,
+      "thumbsUp": 9,
+      "user": "Peanut Head",
+      "text": "They are missing a lot of titles on this app and It's very hard to get books added. Even if you go through their Google form with the isbn and info it won't be added for months. There's a series that's been out for a year and the third book still isn't available to track. A popular author just released a book and I can't track it because, shocker, it's not registered on the app. Also the emojis they use for rating are very limited and don't express any negative feelings. Post likes are glitched",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=483e770b-e266-4a3b-9fb1-a1bef9bd0ef4"
+    },
+    {
+      "date": "2026-04-24T14:48:51.993Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "Apostle Charles B. McCarthy",
+      "text": "Greatly inspired by reading the urge",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=85043c6c-e3bc-490d-ae91-0808bad49fd1"
+    },
+    {
+      "date": "2026-04-24T11:09:34.193Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "VCR Nitharsan",
+      "text": "The app just keeps getting better with each update...the community is good and it's nice to know the developers add stuff the community asks.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=6b8a934c-9664-43e4-a4fe-c240da1fcfd5"
+    },
+    {
+      "date": "2026-04-24T08:35:34.200Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Clarissa M",
+      "text": "This app has encouraged me to read so much more! I love it, the streaks keep me motivated and now there's an android widget?! Yes please!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=929f86ee-acd2-47bd-a817-af23f0ce620c"
+    },
+    {
+      "date": "2026-04-24T08:32:49.640Z",
+      "score": 2,
+      "thumbsUp": 2,
+      "user": "Evan Reynolds",
+      "text": "app stuck on loading screen for days now",
+      "reply": "We just released a fix for users who were experiencing issues loading their profile and lists. We also shipped additional stability improvements focused on preventing crashes and making the app more reliable. We hope to continue this work, so if you're still experiencing issues, please reach out to us at support@fable.co.",
+      "replyDate": "2026-02-13T22:56:31.160Z",
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=bdc2200a-16b2-4713-b4d3-6779ab8d44d8"
+    },
+    {
+      "date": "2026-04-24T05:06:06.387Z",
+      "score": 2,
+      "thumbsUp": 1,
+      "user": "Emma Louise",
+      "text": "New widget doesn't work. Stuck on 2x2 size which is just stupid, image is squashed and not readable. Doesn't let you change it/make it bigger.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=5abf0566-7358-4caf-baf6-562925f6367f"
+    },
+    {
+      "date": "2026-04-24T02:30:12.916Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Mikayla Donahue",
+      "text": "Overall I enjoy it, just downloaded it so getting used to it. But I keep hitting a wall, I'm adding TV shows and books to my shelves and sometimes it just won't work. It will not add it to the shelf and I retry it and it so won't show up until I've been off the app for a few hours and then it works again. Other than that I find it to be a pretty good app.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=c50d59b6-95be-4085-a6f9-e6743d271df8"
+    },
+    {
+      "date": "2026-04-23T02:50:21.686Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Rhian Candaza",
+      "text": "Dark mode would be nice.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=0be00057-71ea-4ac9-af87-8c35ef854e8a"
+    },
+    {
+      "date": "2026-04-22T14:10:48.765Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Angela P",
+      "text": "Buggy. It duplicated all the books I read after I imported from Goodreads. I thought this app is good. (edit: I received an email from support. they are basically suggesting that I edit all the books I read manually to fix the issue. mind you, this was a second bug for today.)",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=2c3b3f4a-9680-4cca-9b84-9705792ff5e1"
+    },
+    {
+      "date": "2026-04-22T02:01:19.273Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Bianca Jimmerson",
+      "text": "Can someone post a tutorial or some instructions on how to share your stats? I paid for the upgrade of Fable Plus, and I love having all of the charts and data, but when I hit the share button, all that happens is the chart becomes a smaller pop up box. Very frustrating.",
+      "reply": "Once you get the smaller pop up box, if you long press the image, it should bring up your system options to manage the image file. If you are still having issues, please feel free to reach out to us at support@fable.co.",
+      "replyDate": "2026-04-22T05:13:59.446Z",
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=6957e850-4a36-4a82-b47f-8e309989ea43"
+    },
+    {
+      "date": "2026-04-21T03:17:56.764Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Lyle Kornek",
+      "text": "Love your app, but your website suddenly stopped opening in Russia and therefore my Stats stopped loading in the app. It is so frustrating, I wish it could be changed because I can't see my Stats without vpn now :((( If only there could be some built-in proxy in your app that would allow people in restrictive countries enjoy your app, it would be amazing. All we want is to share reading experience with friends all over the world in your app, if your developers could help us with it 🙏",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=afa3284c-7a0b-457c-883d-f8ae303cb825"
+    },
+    {
+      "date": "2026-04-20T05:55:14.508Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "kapil rajoria",
+      "text": "App is so laggy and notifications doesn't open, keeps loading. UI is so bad.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=20e00f4b-4bf0-4fa9-8ee5-2c09d39db0a6"
+    },
+    {
+      "date": "2026-04-19T16:43:40.391Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "Emilly Estrada Alvarado",
+      "text": "SO worth it. I connect with all my friends and stalk their reads. I love how it gives suggestions based on your history, notifies new releases, finds books that both you and friends might enjoy based on your lists, & gives full descriptions of books you're considering, rating, reviews. It makes rating & reviewing books SUPER fun and easy. This is my first and only book tracking app and I don't feel the need to find anything else, super satisfied.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=8e98e4c0-03a8-4c2e-83e5-211bae15c128"
+    },
+    {
+      "date": "2026-04-18T20:32:04.894Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Rita Lozano",
+      "text": "i keep wanting to love this app but it keeps crashing. Even after updates ,app keep giving me a \"app not responding do you want to close or wait\". I have an android note10+ phone. My phone ends up putting it into deep sleep d/t app not responding. isthere anymore updates.",
+      "reply": "We just released a fix for users who were experiencing issues loading their profile and lists. We also shipped additional stability improvements focused on preventing crashes and making the app more reliable. We hope to continue this work, so if you're still experiencing issues, please reach out to us at support@fable.co.",
+      "replyDate": "2026-02-13T22:41:14.780Z",
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=aa362337-b016-48b9-ba0b-c87ff0c29458"
+    },
+    {
+      "date": "2026-04-17T01:53:29.845Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "Sylvia Montemayor",
+      "text": "it's glitchy",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=6a8a4a6e-15ab-4523-932a-8b71c021d549"
+    },
+    {
+      "date": "2026-04-16T13:21:35.646Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Aubrey DeMoux",
+      "text": "Such a fun way to track your reading!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=d4a0caaf-0a65-4928-8db4-dd0cbd8c0ac9"
+    },
+    {
+      "date": "2026-04-16T10:59:38.167Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Tara Woolard",
+      "text": "I am loving this app and the way I can keep track of my reading. I makes me want to read more and I love seeing the profiles and how they have groups for book clubs. I also like how they have a way to post about books and just be able to be social about books. I am enjoying this app. It definitely has increased my reading 📚",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=28f66ab8-9c59-4c2a-9204-f3426eb04411"
+    },
+    {
+      "date": "2026-04-16T09:49:14.915Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Vaya Fitria",
+      "text": "cool app!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=c386fa09-fe2a-4999-9859-3f0e7ea54d69"
+    },
+    {
+      "date": "2026-04-15T07:40:15.343Z",
+      "score": 2,
+      "thumbsUp": 2,
+      "user": "Katherine",
+      "text": "I am so sad to say that this app has turned into a subscription and ad based revenue monster like all the rest. I found this app years ago, thinking it was better than goodreads. Sadly, I'm being proven wrong. It also still doesn't have a dark mode. The app wants to charge $5.99 a month and can't even have a night mode. Also, several of the \"book clubs\" are now charging fees to vote on the next book. Everything is just so terrible these days. Sad this went the same way.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=b3be0eba-5caf-4cea-8723-43ce77c78006"
+    },
+    {
+      "date": "2026-04-15T06:25:28.936Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Chloe Hernes",
+      "text": "This is my favorite app ever! It is just like an Instagram for books! Recommended for book lovers 100 %",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=906b1867-4ec4-4d7d-a70d-6131aec02608"
+    },
+    {
+      "date": "2026-04-15T05:25:34.950Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "Ebinezer",
+      "text": "I'm using dark theme in my phone and your app is not friendly with that theme. contents are not visible.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=d7550bb2-4ffc-4815-b2f1-8ada6caf1072"
+    },
+    {
+      "date": "2026-04-14T22:13:36.633Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Samantha C (Prompt_Critical)",
+      "text": "no options to see content in preferred language so I'm constantly seeing posts in multiple languages that I don't speak. the majority of the rest is woke ideology.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=31d72661-1614-4376-988d-1ab2cc9bee2e"
+    },
+    {
+      "date": "2026-04-14T13:57:26.204Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "kyla",
+      "text": "The App is good, but two additions would make it 5-stars: 1. ​ TV PROGRESS TRACKER: Please add an episode tracker for the TV show list. It’s hard to keep track when watching multiple series simultaneously. 2. ​ RELEASE NOTIFICATIONS: I’d love alerts for when an author of a book I’ve read releases a sequel, or when a show I’m tracking announces a new season. ​Implementing these would greatly improve the user experience!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=5f1416a9-52de-46e3-baac-a04841a07457"
+    },
+    {
+      "date": "2026-04-14T06:08:06.713Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Nina Cruz",
+      "text": "The best app for book obsessed people to connect",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=bc45c5d4-8e1d-44bc-8cb8-9276c6a03765"
+    },
+    {
+      "date": "2026-04-14T04:58:33.960Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Steven Hicks",
+      "text": "actually a great social platform. good for tracking reading. I like the annual wrapped feature",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=0fb63fa3-5aad-49f5-a351-beda501cf4fa"
+    },
+    {
+      "date": "2026-04-13T13:54:01.855Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "Missy M",
+      "text": "I really love the profile and stats page. The interface is prettier than Goodreads. However there are some glaring issues. 1. Multiples of books. There should be ONE page for a book. 2. No working Author page that clearly links them to all of their work. 3. The organization features are lacking. I want to be able to filter the finished lists of others with more options, like \"date read\" not just \"date added\". 4. sonetimes has a Slow lag time",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=bb5c1f5c-2ea4-42e2-a809-de9408b23b3d"
+    },
+    {
+      "date": "2026-04-13T04:12:44.192Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Ellah Marie Dabajo",
+      "text": "Great app. I wish they would put a feature where you can upload your storygraph data.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=d1f1f4f7-3957-4ef0-8b29-c9f6e803fe42"
+    },
+    {
+      "date": "2026-04-11T18:06:51.682Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Hiraka Kenshiro",
+      "text": "Overall a good app but idk if other people are having this problem but when I try to pick the date I read a book it just gives me a random date😔😔😔😔 Editt: it's fixed it's such a good app for readers to connect love ittt x",
+      "reply": "We just fixed this issue and released a new update today. Please go to the Play Store and download the latest version of the app. Feel free to us at support@fable.co if you're still experiencing issues.",
+      "replyDate": "2024-11-12T19:13:54.264Z",
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=c28b598f-6eb3-475a-bbd6-a7277bff2ee7"
+    },
+    {
+      "date": "2026-04-10T19:38:36.225Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Fabienne Gilbert",
+      "text": "whole reason I left goodread for Fable was Scout and the graphs and now after a month or so away Scout has gone and you now have to pay for half the features, beyond upset",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=8e2fbe4a-f90b-4b11-855c-d98cb65e0e57"
+    },
+    {
+      "date": "2026-04-10T01:43:31.271Z",
+      "score": 2,
+      "thumbsUp": 4,
+      "user": "Bradford Wight",
+      "text": "This app has numerous bugs and other issues. Just found a book that I read two months ago listed under DNF. Wth? Another example: The way finishing a book works is dumb. If you update it to the last page or 100 % it doesn't trigger the review stuff that comes up when you click the 'finished' button.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=f0b1656a-8d80-4c3b-9454-0a8d2246edb0"
+    },
+    {
+      "date": "2026-04-08T22:30:55.890Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Yossra Adel",
+      "text": "Where is the Dark Mode for Android?",
+      "reply": "We are currently working on Dark Mode for Android and hope to have it out soon. Thank you for your patience.",
+      "replyDate": "2026-04-09T20:14:31.928Z",
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=ec5403ad-8921-4a49-8a4e-72d6b742af51"
+    },
+    {
+      "date": "2026-04-08T12:24:32.268Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Megan Lebo",
+      "text": "Would be 5 stars if their platform for Android was up to speed.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=77ffddd4-6d12-4155-aed1-27f6a4be230d"
+    },
+    {
+      "date": "2026-04-07T17:49:40.903Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "corrine soriano",
+      "text": "love this app. my new goodreads",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=0b74c9cd-954c-43b0-8835-6a6b9567cf5e"
+    },
+    {
+      "date": "2026-04-07T13:04:38.670Z",
+      "score": 2,
+      "thumbsUp": 2,
+      "user": "Candice Creach",
+      "text": "Really wanted to love this app but too many problems. It freezes & crashes a lot, when sorting lists not all books show up, you can't sort books on your lists by author. Books with multiple editions are not syncing as the same book, example JA Huss has several editions of the books in The Mister Series and I had to change my read list multiple times to get the whole series to show up on most read author list.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=9c0f311e-2d34-428c-9b97-5b2382d1e0aa"
+    },
+    {
+      "date": "2026-04-07T04:44:21.551Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Zoe Petersen",
+      "text": "overall I've been really enjoying using this app to track my reading streak and how many books I've read. However when I tried to do the free trial of fable plus it wouldn't let me because it thinks I'm a minor. There is no way for me to change this in the app, and I think it's pulling this information from my Google account. My younger sister also tried to download fable but it wouldn't let her since she had a youth Google account. I don't see why there is an age limit on this app.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=7fe0e934-e27b-4af6-bcd8-17bb652334ae"
+    },
+    {
+      "date": "2026-04-06T21:12:49.512Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Elisha Cyr",
+      "text": "love it! obsessed with tracking my stats and connecting with other readers who have similar interests",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=b34b8023-2ab3-420b-9765-386e9b32fd57"
+    },
+    {
+      "date": "2026-04-06T11:09:37.991Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Brooke Perryma n",
+      "text": "I have found myself utterly obsessed with Sally Rooney ever since reading Normal People. I absolutely loved this book and it made me feel such a wide range of emotions. It has so much raw real beauty of life to it and in a way I feel like a more insightful person for having read it.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=6a250a93-1ea7-4129-9f58-0c09c5b86f34"
+    },
+    {
+      "date": "2026-04-06T06:24:55.326Z",
+      "score": 2,
+      "thumbsUp": 1,
+      "user": "Alon RZ",
+      "text": "after getting stuck on an error page trying to import from Goodreads, I just don't get what's so good about this app. found some challenges and options to make lists. failed to see the appeal",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=2aaba42e-5352-417e-884a-827f9dd7ca4a"
+    },
+    {
+      "date": "2026-04-05T19:18:34.494Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Tammy",
+      "text": "I love the community and i love the system. there's room for tiny improvements but its so kuch more than what goodness was giving me",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=f22f8727-f6af-4f9b-8b20-f6dd5699e8e6"
+    },
+    {
+      "date": "2026-04-05T18:39:46.443Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Zainab Shaikh",
+      "text": "I love this app . It's like a social media for readers",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=4c16e5ad-d0a7-4a4f-ab55-435afca7bf2b"
+    },
+    {
+      "date": "2026-04-05T12:24:50.490Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "Art Libris",
+      "text": "Seems better for book clubs and community than for cataloging your library and tracking your reading solo. I was looking for an app for the latter and not the former, so it's not for me. But from what little I saw of the book club aspect, it seems a lot better setup and has a nicer community than GoodReads ever did. So if that's what you're looking for, this would probably be a great fit.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=75dfd3f1-7625-4d1a-a3f8-08c1d8c65ed5"
+    },
+    {
+      "date": "2026-04-05T07:57:49.832Z",
+      "score": 5,
+      "thumbsUp": 6,
+      "user": "Maria Shaikh",
+      "text": "This is not a review but a suggestion to the developerssss. Please please please add a way to sort our \"want to read\" list of books in a grid view instead of it appearing as a list. and possibly you could add a way to share that list on our social medias so we get to share are TBR books without having to create it as a post. This will do you numbers. I assure you. and there maybe readers preferring the list as it is now that's why I'm requesting you add it as an option within the sort.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=9f1e03e0-5408-4310-b966-3bf63c6db02a"
+    },
+    {
+      "date": "2026-04-05T04:13:16.305Z",
+      "score": 2,
+      "thumbsUp": 5,
+      "user": "Jenna Ostlund",
+      "text": "I love it except that finding some books is so hard. Normally, when you start typing in a search bar, results come up that include the letters or words you're typing. Sometimes, I get completely random and unrelated books come up. I've typed out entire book titles before, and the book does not come up. I often have to type in the entire book title and authors first and last name to get a book to come up. That's not normal.",
+      "reply": "We have recently made improvements to our search algorithm so please give it a try and let us know if you have any suggestions on searches that aren't working for you at support@fable.co so we can better understand the issues our users are experiencing.",
+      "replyDate": "2025-09-19T23:32:01.114Z",
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=e061cb65-f1ce-468c-af47-88190aabffcd"
+    },
+    {
+      "date": "2026-04-05T02:02:07.520Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Kristen",
+      "text": "Bummed. I have done everything in my power to join Plus, and still unable.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=2016af23-03e3-49b8-8d27-51cef72bf68a"
+    },
+    {
+      "date": "2026-04-04T20:13:16.962Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Elicia Williams",
+      "text": "BLESSSSSSSS THEY BROUGHT FABLE PLUS TO ANDROID! 3⭐️ to 5⭐️. LOVE the Fable + stats so much! My favorite reading app, hands down!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=51b376eb-320b-4ed8-933f-09aab505da8d"
+    },
+    {
+      "date": "2026-04-04T17:08:56.433Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "Aishah Hassan",
+      "text": "This is beautiful app. Please add an edit button for comments! It would also be helpful if our own comments didn't show up as new comments.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=1dddfd2e-811d-4521-afa0-e7bc5611586e"
+    },
+    {
+      "date": "2026-04-03T22:57:40.350Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Meagan Hansen",
+      "text": "My virtual home.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=04dc378f-f38b-4c8f-a746-dff43f8572f4"
+    },
+    {
+      "date": "2026-04-03T19:41:48.592Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "anya Gartner",
+      "text": "I found this fascinating while it was set in Iran. T hen it switched to sci fi and lost me. It started as a 5 and yet I didn't finish it.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=cf277fd3-2683-4970-8613-607c7b1064bd"
+    },
+    {
+      "date": "2026-04-03T19:33:30.741Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Linda Wilson",
+      "text": "fantastic app, I will give a 5th star when you can edit comments.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=5fa9f760-ea05-486c-aa23-b1c4e493836c"
+    },
+    {
+      "date": "2026-04-03T18:24:49.969Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "ATHARVA. DS",
+      "text": "this app is greattt",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=6d105812-a535-4822-8f88-7ec6950e99f9"
+    },
+    {
+      "date": "2026-04-01T17:37:45.420Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Bethany Lynch",
+      "text": "I'm in love with the community that I have found.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=2edcdfc2-bc2b-43c0-9691-e3c38e65a492"
+    },
+    {
+      "date": "2026-04-01T12:42:53.898Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Madeleine Rebholz Kraus",
+      "text": "love this app. wish they could track audiobooks along with boom percentage and pages !",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=e92e3089-7292-402b-b075-9e2e5d91a367"
+    },
+    {
+      "date": "2026-03-31T12:21:34.773Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Sara",
+      "text": "best app ever",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=f5c0ec34-ce0f-4562-9b4c-a3cfd20fa733"
+    },
+    {
+      "date": "2026-03-31T07:58:31.545Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Robin Fischer",
+      "text": "I absolutely love Fable. It's so easy to keep my Kindle reads in order and see how many books I've read!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=7d43055a-3e4b-4bf2-b0cb-d837605a8fb9"
+    },
+    {
+      "date": "2026-03-31T05:45:01.747Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "diptanjan sarma purkayastha",
+      "text": "Great app for readers! Looks great on my tab 😀",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=33a71521-33f9-40ad-95f6-70a5bbfd8766"
+    },
+    {
+      "date": "2026-03-31T02:38:33.767Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "Amber",
+      "text": "App definitely needs work. I'll stick with storygraph for now.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=496940bc-56fb-452d-9576-a10f9f4023e2"
+    },
+    {
+      "date": "2026-03-30T18:29:55.669Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Honey",
+      "text": "loving the app so far. the only problem is it's slow",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=f1c4e839-e135-4275-a249-d4d794b50cab"
+    },
+    {
+      "date": "2026-03-30T17:01:00.862Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Miryll Hasan",
+      "text": "The absolute best book/reading app.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=bb9fb8d7-69f2-4ff3-bedb-7dbb881dc94a"
+    },
+    {
+      "date": "2026-03-30T13:46:24.490Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "tanujja Chaudhary",
+      "text": "i just want to ask how to start reading books i can't find chapters 😭",
+      "reply": "Please reach out to us at support@fable.co and we'd be happy to help you with your issue.",
+      "replyDate": "2026-04-01T20:29:16.914Z",
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=d82a6c98-84c9-4b10-b0a9-c20e5a7ee510"
+    },
+    {
+      "date": "2026-03-30T13:35:12.503Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Withscissors Irun",
+      "text": "Fable is great! You can buy books, track your reading or TBR and DNF books, create lists, have friends and see what they're reading, leave reviews and even have book clubs!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=413ce6b0-0013-4999-96a0-f5dedff21d58"
+    },
+    {
+      "date": "2026-03-30T06:12:37.282Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "Tafena Campos-Macon",
+      "text": "some functions don't work (like sharing Books So Far This Year)..tried on both my phone and my tablet...it just gets dark but no share options pop up...other than that, I like the app...just wish it would fix this. I use bookmory for this stuff, but would prefer to use fable",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=27406064-4bc0-4fc2-bb17-02d4e532d374"
+    },
+    {
+      "date": "2026-03-30T02:12:57.948Z",
+      "score": 1,
+      "thumbsUp": 4,
+      "user": "Emily Macdonald",
+      "text": "Needs Work, it keeps crashing. Literally have had to uninstall and reinstall just to mark a book as finished. Not a lot of description choices, you get to put in a limited summary and that's all YOU get to choose, the rest are pre-chosen emotes or tags (if the tags even work, they won't show up half the time). Editions is still under construction. There's more off with it tbh but those are the worst bits so far.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=0cdb7d6d-3193-48b3-8b19-a70f4635f30e"
+    },
+    {
+      "date": "2026-03-29T20:26:13.103Z",
+      "score": 1,
+      "thumbsUp": 17,
+      "user": "Jennie M.",
+      "text": "Update 5: Love the look, love the stats. Can't believe they've added Fable Plus w/so many issues still, tho. Crashes EVERY time I have it open but navigate to something else like my gallery, goodreads...or attempting to upgrade to Fable Plus, LOL. It literally crashes. Clear cache/uninstall doesn't help, has never helped. Lists still rewrite themselves, books I've put on them changing categories willy-nilly. Can't scroll lists without it jumping to the top or crashing, again. Come on, y'all.",
+      "reply": "We are so sorry for this issue you are experiencing. Could you please reach out to us at support@fable.co so we can look into your issue?",
+      "replyDate": "2025-06-06T21:22:33.330Z",
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=5223e8dc-a14a-4145-a248-06872ebada67"
+    },
+    {
+      "date": "2026-03-29T10:43:22.578Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Anna Kálmán",
+      "text": "The absolute best book tracking app! I adore how easy it is to track my daily reading and rate books. I also feel like their community is the most interactive out of all the book apps I've used, please continue fostering this! The only downside is that I still use Goodreads to see general reviews. Perhaps it's because there's much less Fable users, but i trust the average rating and reviews on Goodreads much more than Fable - but i guess with more users this problem will solve itself!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=6bcf0f18-25c6-4b60-aa44-2783e73a1253"
+    },
+    {
+      "date": "2026-03-29T07:33:46.715Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "Alexis Brown",
+      "text": "this was a good app I liked it, but recently my stats started to not load. I'll still keep it as I like to post quotes and read other people posts, but pls fix my stats.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=49599ebe-1c8c-4a90-b348-7d1714073fcb"
+    },
+    {
+      "date": "2026-03-28T04:53:26.879Z",
+      "score": 1,
+      "thumbsUp": 2,
+      "user": "Hell Hound Baby",
+      "text": "Well...it's certainly looking like fable is following the path of most good book platforms and becoming a \"pay to have the best experience\" experience. How unfortunate. I hope I'm wrong :/",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=09be0bae-cb70-4db2-9dc5-284947567ce6"
+    },
+    {
+      "date": "2026-03-27T22:12:32.997Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Gothiqueapd Sweetnitemare",
+      "text": "I love this app",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=55eb9d34-0dc1-4b19-8d7f-0447c0eb5a60"
+    },
+    {
+      "date": "2026-03-27T03:28:01.668Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Felicia Alfieri",
+      "text": "You have to get the app to view a list and then the link I was shared to the list doesn't work. When I search the exact name of the group in the app, it doesn't come up.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=5a5c47af-113e-4f25-8dd4-e8771d66db1a"
+    },
+    {
+      "date": "2026-03-25T14:53:59.326Z",
+      "score": 3,
+      "thumbsUp": 2,
+      "user": "ZEKYLL",
+      "text": "Changing my 5 stars to 3 stars. I feel like the developer doesn't care about android users. Whenever they have updates and new features, it's only for ios. I'm slowly wanting to uninstall this app for real",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=c6fbb451-4a56-4ff3-af9a-78e657d0c4d7"
+    },
+    {
+      "date": "2026-03-25T12:53:50.873Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Kathryn Eckman",
+      "text": "the best place to track your reading and tbr and find even more books to add to the ever growing tbr list",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=f670866e-d97c-4d7d-b83b-2dbea06bc1b2"
+    },
+    {
+      "date": "2026-03-25T00:30:57.554Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "dorren",
+      "text": "Edit: Updated from 2 to 3 stars. I appreciate getting my profile back. I'm also looking forward to the improvement of the Chrome Extension to record books. I think it's a good way to quickly expand the database, or give readers individual access to specific versions of books (which is particularly important to me). The extension isn't working right now, so maybe a manual process by which the user enters the ISBN number would be more functional?",
+      "reply": "We just released a fix for users who were experiencing issues loading their profile and lists. We also shipped additional stability improvements focused on making the app more reliable. If you're still experiencing issues with the app, please reach out to us at support@fable.co.",
+      "replyDate": "2026-02-13T22:49:35.409Z",
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=31a46abb-0d51-44eb-8007-ed7f5cbd1ad1"
+    },
+    {
+      "date": "2026-03-24T18:12:14.822Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "liophy",
+      "text": "very annoying spaming and unconvenient unsubscribing",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=36a29081-52cf-4886-a7ce-79ad418fcc6c"
+    },
+    {
+      "date": "2026-03-24T10:59:42.399Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "Lakshita Thakur",
+      "text": "I REALLY LOVE THIS APP...PLS BRING BACK DMS!! ITS GREAT TO CONVERSE WITH PEOPLE AND NOT HAVING TO ADD THEM TO OUR PERSONAL SOCIAL MEDIAS...JUST BOOKS TALKS ARE GREAT!! HOPE YOU TAKE MY REQUEST INTO CONSIDERATION",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=cdc8f8a1-672e-4e44-9683-08ba703d8f13"
+    },
+    {
+      "date": "2026-03-24T06:58:54.708Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Sarah Alhussain",
+      "text": "it's great but there's no scanning feature to upload new books into lists without searching for them. I've just started using this app so I'm not sure if this feature is available or not, I can't seem to find it so correct me if I'm wrong by pointing me in the right direction.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=7a811b98-b0ad-43b7-8cba-466f11b31f19"
+    },
+    {
+      "date": "2026-03-24T03:58:16.700Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Marya Vanzandt",
+      "text": "Love keeping track of my reads. This app creates a sense of accountability for me daily. The tabs to keep track of read and want to read books are tranquil. The posting of ratings and reviews that can be shared creates a beautiful community within the book world. A couple of fixes, but enjoying.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=ef675e14-73d5-4fae-aaf2-713d358ff4eb"
+    },
+    {
+      "date": "2026-03-24T02:54:52.276Z",
+      "score": 1,
+      "thumbsUp": 4,
+      "user": "Ashli Alfaro",
+      "text": "I got this app when I had an apple phone and it was great! Once I transferred over to an Android not so much. This app does not like Android users. I just discovered they have dark mode because I still have my apple phone. When I use my Android phone, dark mode does not exist. Im still getting notifications on things that are already seen &that's been going on for at least a year. When I tell you this app is not like android users! It's sad because I like this app! But it's not android friendly!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=d49238bf-4c5c-4a9c-941c-bd3360d54b93"
+    },
+    {
+      "date": "2026-03-24T00:56:38.416Z",
+      "score": 2,
+      "thumbsUp": 2,
+      "user": "Simon Jenkin",
+      "text": "overall kinda fine but there are so many easy fixes which would vastly improve the user experience. namely: 1. ability to see friends reviews of a book when i am on that book's page. there is only the option to see popular/new/etc reviews which means if i've read or am considering reading a book, i have no idea if my friend has reviewed it. 2. editing streaks log: this function is a mess, why do i have to manually add books already in my currently reading list?! bizarre",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=57f2e710-67ed-452a-89b0-ef4bac021c68"
+    },
+    {
+      "date": "2026-03-23T18:06:36.333Z",
+      "score": 3,
+      "thumbsUp": 1,
+      "user": "Kendra Snow",
+      "text": "It's a decent app, better than Goodreads, but I wish Android was given the same updates as iOS.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=c0686943-ba0b-4413-8509-3dd95bf3abf6"
+    },
+    {
+      "date": "2026-03-23T15:39:10.435Z",
+      "score": 4,
+      "thumbsUp": 1,
+      "user": "Colt",
+      "text": "love the app but everytime I try to change my profile picture the app crashes",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=6b7c848b-be05-4328-a036-b6ace5eb034d"
+    },
+    {
+      "date": "2026-03-23T13:13:45.485Z",
+      "score": 1,
+      "thumbsUp": 3,
+      "user": "Kat",
+      "text": "equally support android users!! 😠😠😠 no widget or dark mode for us? also that notification dot on the bell icon is still there!!!!!! even after I read all my fable notifications its always still there whenever I reopen the app. like what are you paying your workers to freaking do all day",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=e5b00a8a-5059-4d4c-8376-0aebe114330d"
+    },
+    {
+      "date": "2026-03-23T01:56:30.178Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Yolande Mari Prain",
+      "text": "inaccurate count on books - I added a bunch of older read books to my finished list, went to add dates into them and suddenly they counted double or triple in the summary page",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=670d90b3-2732-438a-aedf-145c63737fb7"
+    },
+    {
+      "date": "2026-03-22T21:25:13.117Z",
+      "score": 1,
+      "thumbsUp": 3,
+      "user": "Cherise Isabella",
+      "text": "Not a great app. I have an android. Fable works and then it doesn't. All my other apps work fine. I keep wanting to give this app a permanent place in my phone. However, it keeps disappointing me. Despite the developers saying they \"fixed\" the issue. It won't even load for me to delete my account. Uninstalled.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=751fec2a-7f04-407d-a3b0-56de6517a251"
+    },
+    {
+      "date": "2026-03-22T18:27:44.670Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Bianca Mihaela",
+      "text": "it makes my reading journey so much easier and entertaing. i enjoy this app a lot",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=bf99f080-2fc4-48ef-a560-5d38d324522b"
+    },
+    {
+      "date": "2026-03-22T11:49:20.335Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Megan Brenckman",
+      "text": "It took me a little while for this app to grow on me. Now I really do enjoy it. The one thing I think that could really make it better would be if they allowed you to differentiate what kind of book you're reading, whether it be an audiobook, e-reader, or physical book.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=ad6c1724-40fa-46a5-9624-427d425fc56d"
+    },
+    {
+      "date": "2026-03-22T07:03:09.723Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Hannah",
+      "text": "I love this app, it's honestly super amazing and quite intuitive. the only drawback for me is that it doesn't have a desktop version. it can be rather difficult to write well thought out reviews (or even longer ones) on my phone as compared to an actual keyboard. if we ever get a desktop version I'll definitely change my review to 5 stars!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=d13c5748-b56b-4451-a0d0-b3ac0eb0183f"
+    },
+    {
+      "date": "2026-03-22T06:55:54.856Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Teddy Evans",
+      "text": "love this app... has a great interface... much better than goodreads",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=3be8937b-8c3a-4443-ad4d-72ef4de868ab"
+    },
+    {
+      "date": "2026-03-22T01:20:47.434Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Kandy Eslinger",
+      "text": "I absolutely love this app. Helps keep track of how many books I've read and daily progress, and so much more. Highly recommend.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=08695260-7d00-40d9-ae06-0ae9ac1ab1fb"
+    },
+    {
+      "date": "2026-03-21T13:15:52.242Z",
+      "score": 4,
+      "thumbsUp": 1,
+      "user": "Hannah Goldsworthy",
+      "text": "great graphic design and a great improvement compared to good reads, though I wish it had a landscape mode!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=2ec7cb48-607f-411c-bff7-2fbc58b9187c"
+    },
+    {
+      "date": "2026-03-21T11:29:28.895Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Sage D",
+      "text": "well designed and presumably less evil than Amazon owned Goodreads, but they have a beta feature for an ai \"assistant\" which is unnecessary and unethical considering the enviornmental impact. if they remove the ai, I'd give a 5 star",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=1f6641bc-5abd-40c9-b149-219702c5a5ef"
+    },
+    {
+      "date": "2026-03-18T16:33:48.722Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Crystal Gail",
+      "text": "dark mode for android?",
+      "reply": "Great news, our team is currently working on dark mode for Android. Thanks so much for your patience as we work on this feature and stay tuned for further updates!",
+      "replyDate": "2026-03-18T21:26:24.893Z",
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=4b89ad5c-98bf-4a0e-b04d-39e80960d723"
+    },
+    {
+      "date": "2026-03-18T16:33:15.143Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Anagha Ate",
+      "text": "Best book tracking app out there!!!!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=2bf537b7-ff53-4ad8-bd05-07e51e671e70"
+    },
+    {
+      "date": "2026-03-18T13:12:47.559Z",
+      "score": 3,
+      "thumbsUp": 2,
+      "user": "Vanessa “Toast”",
+      "text": "I do enjoy this app better than goodreads. That being said, you can tell when they are working on it because it freezes and doesn't function very well. Add to the fact everything is done for iOS and everything for Android is left lacking, 3 stars. Hopefully at some point they catch it up.",
+      "reply": "We are ramping up our Android team and hope to fix some of these stability issues and catch up on some features. Thank you for your patience as we work on this!",
+      "replyDate": "2026-03-18T21:27:53.304Z",
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=4fdeda04-e08b-4610-8d15-296e3bf962c1"
+    },
+    {
+      "date": "2026-03-18T12:00:16.433Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Tamika94",
+      "text": "I put a lot of heart into decorating my book captures to help people support authors, but it feels like a shadowban for being too creative. I haven’t done anything wrong, but I’m done wasting my effort on an app that hides creative work. I’ve realized I don’t need a digital space that can be easily shut down and take my progress with it. My work is in a journal that will stay beautiful forever. I'm finding my own motivation now.",
+      "reply": "If you feel like something has been incorrectly shadowbanned, please reach out to us at support@fable.co so we can further review. Thanks.",
+      "replyDate": "2026-03-18T21:27:07.460Z",
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=386c303f-04dc-456c-ad4f-667e19a77a24"
+    },
+    {
+      "date": "2026-03-17T23:23:23.344Z",
+      "score": 3,
+      "thumbsUp": 4,
+      "user": "Lovely Malrin",
+      "text": "I use the app everyday, it's very useful but I'm fed up of android users being an after thought. There should be feature parity between both operating systems as it's available on BOTH platforms. In this day and age it's unacceptable.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=88b5885c-e12e-415a-911f-3ce16b4f4f44"
+    },
+    {
+      "date": "2026-03-16T21:14:52.250Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Gustav",
+      "text": "My only critiques are that updating your book progress doesn't automatically update your reading streak and also that there isn't a bar chart that shows how many pages you read each day over the course of a book",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=9e88df9e-71c3-46fa-b336-d36350b45b79"
+    },
+    {
+      "date": "2026-03-16T16:59:02.300Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Jerah Murungi",
+      "text": "how can I read these books as if you're giving us review",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=c8cbeb0a-fa42-4ea6-b9c9-caa607492716"
+    },
+    {
+      "date": "2026-03-15T22:33:53.190Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "Karan Kumar",
+      "text": "Please make app responsive for tablets.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=04b55feb-630a-42f5-8ee1-b937fd87d86a"
+    },
+    {
+      "date": "2026-03-15T16:13:27.660Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Patrice Murphy",
+      "text": "wonderful app",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=095d7446-8e6d-44bb-959c-2d869b257b49"
+    },
+    {
+      "date": "2026-03-15T13:33:52.600Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Ghofran Serag",
+      "text": "so goooddd best book app ever",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=ebb5b424-ce70-40bb-9474-613047afc1bc"
+    },
+    {
+      "date": "2026-03-14T20:16:15.667Z",
+      "score": 3,
+      "thumbsUp": 2,
+      "user": "Larissa Hankey",
+      "text": "I really enjoy this app. However, it is very easy to accidentally touch the finished button when updating pages read. Once you press that button, even if you remove it from your finished books, it still shows up in your finished books stats which can only be removed through customer support. Seems like a bug that could be easily fixed...",
+      "reply": "Thank you for the feedback. We will forward this to the product team so they can take this into consideration.",
+      "replyDate": "2026-03-18T21:28:26.743Z",
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=5e004fed-d5b4-4c39-8e82-0ac584c5ff35"
+    },
+    {
+      "date": "2026-03-14T01:13:56.231Z",
+      "score": 5,
+      "thumbsUp": 5,
+      "user": "abby gray",
+      "text": "I just managed to subscribe to Fable Plus, so my question is: is Fable Plus now available for Androids as well? Because it let me subscribe to Fable Plus when I have an Android. Besides that, the website's amazing. I love it. I've been using it for a year, and it's fantastic. I can connect with some great people, read amazing books, and I really enjoy what I do on Fable.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=1d109c82-5a9f-4742-a228-d8fb84032ac3"
+    },
+    {
+      "date": "2026-03-13T16:26:17.100Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Tarini Gupta",
+      "text": "This is far better than GoodReads. The community is bigger and the UI/UX is so smooth",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=823b48b1-c60f-4d18-bc87-2b0d0e168503"
+    },
+    {
+      "date": "2026-03-13T04:07:45.372Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Poornima Arunachalam",
+      "text": "I love that",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=ac546661-b8db-4fea-b2bf-139d694dc1c8"
+    },
+    {
+      "date": "2026-03-13T03:14:11.217Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Pao Cap",
+      "text": "goodreads' younger fun sister but defs has a bit of bugs that needs fixing but definitely happy I made the move",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=9ad4baa3-5238-4afd-87e9-a64ab1ea4da9"
+    },
+    {
+      "date": "2026-03-12T14:24:42.413Z",
+      "score": 2,
+      "thumbsUp": 36,
+      "user": "Ari K",
+      "text": "Fine for joining clubs & seeing what friends are reading. But there are 2 versions of almost every book, so if I mark one as read the other stays unmarked. There is no author page like Goodreads, so you can't fully see an authors works. There are very limited ways to organize, all you can do is make lists. The stats & clubs are cool, but the actual helpful features are lacking. You can't even repost others posts! The app constantly lags, or doesn't load. VERY simple reading app.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=88542f1f-d4e3-43cd-a9bf-e60a333df82d"
+    },
+    {
+      "date": "2026-03-12T05:47:48.444Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Ema Kovaříková",
+      "text": "Very good app. I do read a lot of fanfiction, and it sucks that I can't track them.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=e3980c87-ef4c-4956-b602-514f068092dd"
+    },
+    {
+      "date": "2026-03-12T05:10:57.268Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Tiffany Clarke",
+      "text": "wish you could sort your library by author but other than that, love every part of it!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=16361558-b5ca-401d-96c1-8e0e4905b0f8"
+    },
+    {
+      "date": "2026-03-12T01:10:49.804Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "Ben Butler",
+      "text": "Unpleasant to use. It takes 7-8+ actions to do anything that I want to do. When I want to get lost in a journey I want to do it in a book, not an app. The app aversion gets in the way of collaboration and community.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=91bffb35-8347-42d3-be51-b1841ce06685"
+    },
+    {
+      "date": "2026-03-11T16:10:27.985Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Zelle B",
+      "text": "This app can be exhausting to use sometimes as it doesn't load. Gives an error that my account has been disabled and then logs back in, it's giving me whiplash. Please optimize this app. Haven't been able to log in on the apps both tablet and phone but I can log in properly on the website.",
+      "reply": "Please reach out to us at support@fable.co so we can help you into your account.",
+      "replyDate": "2026-03-18T21:29:23.370Z",
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=98dc7808-3ffb-46c6-a87a-0251603546e4"
+    },
+    {
+      "date": "2026-03-11T04:22:14.718Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Nikki Burch",
+      "text": "OMG! Holly nailed her first cowboy romance. 😍 So freaking good. I loved everything about it. I never was big on single Dad or second chance but she made me love it! The chemistry between Colt and Blair is everything. And Ruby just made me love Colt more. Now I cant wait to get the real scoop on Hunter & Maggie!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=1b82f67d-8904-4597-bd4c-bba35477ff11"
+    },
+    {
+      "date": "2026-03-10T16:33:05.000Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Maria Restrepo",
+      "text": "would be 10 times better if it had an option for widgets",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=94bca053-897b-4d42-a7c3-a616b172ec09"
+    },
+    {
+      "date": "2026-03-10T07:55:25.174Z",
+      "score": 1,
+      "thumbsUp": 2,
+      "user": "E.C. Pollick Byrnes",
+      "text": "I changed my review from 5 star to 1 and deleted my account. I love what this app is trying to do, but it allows toxic people to ruin your experience. the profile privacy settings and options for how you interact with other users are basically non-existent, which feels so wild to me that they doesn't exist for a social media/community app.",
+      "reply": "So sorry to hear about your experience. We aim to make Fable a safe and welcoming community. Please reach out to us at support@fable.co so we can learn more and make it right.",
+      "replyDate": "2026-03-12T17:13:42.589Z",
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=ae5fcc83-a0f8-4ab8-a40e-6c188324a170"
+    },
+    {
+      "date": "2026-03-10T05:17:40.550Z",
+      "score": 2,
+      "thumbsUp": 5,
+      "user": "Jessi Peevyhouse",
+      "text": "Used to love it but it just keeps getting more problematic. They seem to love the apple users more & leave android users further behind & super glitchy or always failing to load, they've had a long time to put some kind of easier \"add book\" feature to mobile but haven't AND NOW they take away the option for direct messaging & private group messaging?! it was one of the main reasons I switched so I could DM book friends & chat 😭 oh & my holiday/seasonal themes NEVER work properly.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=19706dad-2654-4837-b0e6-399b5b4704be"
+    },
+    {
+      "date": "2026-03-09T08:59:46.798Z",
+      "score": 5,
+      "thumbsUp": 15,
+      "user": "Jamie Porter",
+      "text": "my go-to book tracking app. I love everything about it!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=5e06b1ec-918b-4089-ac5e-07e38a1d1c8a"
+    },
+    {
+      "date": "2026-03-07T23:56:40.860Z",
+      "score": 4,
+      "thumbsUp": 1,
+      "user": "Bailey De Tierra",
+      "text": "i absolutely love Fable and am so glad i switched over from Goodreads, & its so easy to transfer data. the rating system is great and the community is fantastic, i love that i get a mix of popular posts and random posts! my one issue is that i've decided to stop rating the books i'm reading to focus on my written reviews, but Fable doesn't allow reviews unless you first assign the book a star rating. i wish you could just write a review and log it without a star rating.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=b614b754-d8ba-4da2-892d-fbe483f71016"
+    },
+    {
+      "date": "2026-03-07T18:16:38.694Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "Corey Jennings",
+      "text": "not super intuitive. i only downloaded to try and find book recommendations based on books ive read already. i hate having the enter start and end dates just to get some history going and i still cant find the section for recommendations. the search functionality is super slow. the sort options on the library are not ideal. i want to be able to sort by author and series so all the books are in order. overall not loving the app. there are so many ways it could be better",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=3c5b0a6c-3abe-407f-8c42-71bce68a2f47"
+    },
+    {
+      "date": "2026-03-07T14:13:42.242Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Tammy Jackson Johnson",
+      "text": "Great",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=ed9720c7-d584-4f1e-b9d4-8b8bec3b0ffc"
+    },
+    {
+      "date": "2026-03-06T21:19:38.901Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "April Astralla",
+      "text": "I'm loving this app so far. my only suggestions are in the book reviews. there's not enough options. sometimes I'm not joyful but I'm excited to turn the page, sometimes I'm heartbroken, sometimes I'm heartfelt. that and the tags, I think there should be more tags or custom tags or a tag library and let me search because sometimes the suggested ones don't fit",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=885e014b-63cf-4b1e-8484-d46a54afee26"
+    },
+    {
+      "date": "2026-03-06T09:30:16.566Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Nicole Scurlock",
+      "text": "i quite enjoy this app!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=93e67a4f-2e23-45f3-942b-1febbce90773"
+    },
+    {
+      "date": "2026-03-06T08:48:53.211Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Favour Ouko",
+      "text": "loveee it,tge community and the book suggestions so wholesome",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=417b9514-2d26-407f-9381-31ae404aa0c7"
+    },
+    {
+      "date": "2026-03-05T14:11:44.446Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "Michaela Farmer",
+      "text": "I would love to give a higher rating but as of late the app is just constantly crashing. I have uninstalled and reinstalled the app and the same issue.",
+      "reply": "We are sorry you are experiencing this - could you please reach out to us at support@fable.co so we can further look into this issue? Any further details about your session would help us identify the issue.",
+      "replyDate": "2026-03-10T00:09:19.190Z",
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=b6b92cb5-ca85-4fa8-beb0-849699da5fc8"
+    },
+    {
+      "date": "2026-03-05T00:34:53.244Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "B Z",
+      "text": "very buggy",
+      "reply": "We are sorry you are experiencing this - could you please reach out to us at support@fable.co so we can further look into this issue? Any further details about your session would help us identify the issue.",
+      "replyDate": "2026-03-10T00:09:23.494Z",
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=357a91b7-5d38-424c-b340-57cb732b1d27"
+    },
+    {
+      "date": "2026-03-03T14:38:34.604Z",
+      "score": 4,
+      "thumbsUp": 4,
+      "user": "Amina Chikhou",
+      "text": "really good but im just really disappointed that i cant paste text in the \"create a quote\" feature of book clubs. it's extremely inconvenient to have to type out the whole quote manually. Also, you cant open a book's description/ link directly through a quote from a user posts.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=6a638c89-fb1e-485e-83d0-2601c6cc3037"
+    },
+    {
+      "date": "2026-03-03T06:08:26.247Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Danielle Miller",
+      "text": "such an improvement on goodreads!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=8ca1a39d-521c-405c-8c3b-3b767fc22216"
+    },
+    {
+      "date": "2026-03-03T05:39:48.280Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Janine Khuele",
+      "text": "love it",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=bb2ebf0a-9dfb-4b2e-836d-79e71f2101d9"
+    },
+    {
+      "date": "2026-03-02T15:31:03.610Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Kaija Schnabel",
+      "text": "I absolutely love fable. it's user extremely user friendly and I love how it tracks all my books",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=feacae4c-cba6-4924-a2ea-81ec8b951276"
+    },
+    {
+      "date": "2026-03-01T22:56:10.859Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Jayna Casey",
+      "text": "I bought a book and it said it would immediately be available in my \"bookshelf\" in the app.. I can't find the \"bookshelf\" anywhere.. when I go straight to the book I purchased it only shows the cover of the book. that's it... I also can't update my progress in my reading, I can't update pages I've read, I can't leave reviews.. this app kinda sucks for Android.. I'm extremely disappointed...",
+      "reply": "There is a known issue where some users cannot progress through the books at the end of a chapter. In order to get to the next chapter, you have to go to Table of Contents and click on the next chapter. It sounds like this is the issue you are having. Please reach out to us at support@fable.co so we can provide you a refund for this book.",
+      "replyDate": "2026-03-10T00:11:06.140Z",
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=f1aa016b-1216-4508-a111-6af9181d4a73"
+    },
+    {
+      "date": "2026-03-01T15:06:56.208Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "Ashley G",
+      "text": "I honestly love this app but I have had so many issues lately! Hardly anything loads properly, whether that is just my profile, trying to add books to lists. I don't have access to the Monthly Wrap, there is no option anywhere for me. It is getting really frustrating because I enjoyed Fable so much when I first downloaded it.",
+      "reply": "Hi Ashley, we are sorry you are experiencing this issue. We had recently made a fix to resolve this issue where profile and lists are not loading. However it seems like it is still happening for you. If you could please reach out to us at support@fable.co with your account information we can look into getting more details from your account. Thanks!",
+      "replyDate": "2026-03-02T17:10:15.396Z",
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=f0cfe024-cac9-49a8-bb64-3e8744474120"
+    },
+    {
+      "date": "2026-02-28T23:20:34.340Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Arielle Rubinstein",
+      "text": "My friends and I use this for our book group and we are obsessed!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=cad2be28-5ab9-4fc5-9818-ee787e408729"
+    },
+    {
+      "date": "2026-02-28T01:54:43.527Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Kris Kunkle",
+      "text": "Fun and easy way to track what you read with lots of stats. Also connect with others and see others reviews.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=11afe7fe-f5fd-4641-9bf9-043055db0835"
+    },
+    {
+      "date": "2026-02-27T08:33:35.692Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "nature lover",
+      "text": "get all the books from everand app. app interface in Indian languages pls.",
+      "reply": "Thank you for your suggestions. We are always working to improve the app and hope to make some of these improvements in the future.",
+      "replyDate": "2024-09-18T16:14:46.490Z",
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=54d5e9df-b84e-4acb-8a38-93b65a526155"
+    },
+    {
+      "date": "2026-02-26T17:10:33.313Z",
+      "score": 2,
+      "thumbsUp": 1,
+      "user": "Alisha Bilquis",
+      "text": "The glitch is so annoying. I love this app. I love the book clubs and the stats and everything. but I'm considering uninstalling it because it keeps glitching. \"Error retrieving user information\" seems like someone is vibe-coding this thing",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=8eb2699a-81f5-43b4-b3ea-55ec86cd3629"
+    },
+    {
+      "date": "2026-02-26T01:44:40.803Z",
+      "score": 1,
+      "thumbsUp": 2,
+      "user": "Fernando",
+      "text": "The interface is laggy as hell which makes the navigation of the app quite clunky. Makes you feel like you're using one of those super slow dial-up connections of the past. Not to mention they removed the ability to send messages overnight, without any warning. I'm kinda stuck here because there's a couple of book clubs I'm part of that are hosted here but I wouldn't be using this app if it wasn't for that.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=03c23ecd-da42-4e78-ad0a-05f7ba742cc7"
+    },
+    {
+      "date": "2026-02-26T00:18:41.864Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "A louis",
+      "text": "fable is fantastic for tracking your reading and book clubs. but they took away direct messaging and I met so many friends on there through being able to message them on the app so that's a bit of a letdown, otherwise a great app.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=b9f072fd-a06b-4ea7-a122-6dcfa462a3a7"
+    },
+    {
+      "date": "2026-02-25T23:22:12.134Z",
+      "score": 3,
+      "thumbsUp": 1,
+      "user": "Nika",
+      "text": "it is a great app but they removed the chat feature so I lost all my conversations with my friends. I wish there was a warning",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=45161930-2c61-459d-8292-ab1aa2150fe1"
+    },
+    {
+      "date": "2026-02-24T23:22:33.790Z",
+      "score": 1,
+      "thumbsUp": 2,
+      "user": "Nic Johnson",
+      "text": "The app will not open. My phone keeps telling me that the app is not responding. I already purchased an ebook and joined a club but I have absolutely no accessibility for this app. I can't even ask a question because the app keeps freezing.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=5d691a02-ee9a-4d7a-8ed3-2413c9edde62"
+    },
+    {
+      "date": "2026-02-24T19:05:46.962Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Leslie Huebner",
+      "text": "So far my only complaint is that it doesn't show if a book is part of a series. You also can't search by series to find the next book. It's as though series just don't exist.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=9b071fb1-fba0-4519-80fc-f0cc08524a52"
+    },
+    {
+      "date": "2026-02-24T03:22:38.597Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Elizabeth Walker",
+      "text": "love this app. I've been using this over Goodreads. it has more options and way better profile set up IMO.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=a20e49dd-e730-4a2d-a7c4-1eca666cc87f"
+    },
+    {
+      "date": "2026-02-23T16:39:43.147Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "Grace Dove",
+      "text": "Found it pretty slow. Loved the story but found I got bored a bit!",
+      "reply": "Hi There, this looks like a review to a book while this section is for reviews of the Fable app itself. We recommend you moving this review into the book review section in the app itself. If you have any questions on how to do this please reach out to us at support@fable.co.",
+      "replyDate": "2026-02-24T18:51:27.351Z",
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=2d65498f-bf01-4760-b155-cd54dd6a4edb"
+    },
+    {
+      "date": "2026-02-23T00:29:12.271Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Nur Khusnin",
+      "text": "hi teams, how do I find the book shelfie option for my Android phone? or is it Just available on Apple only? thx for making this beautiful app....",
+      "reply": "Shelfie can be found in Profile > Settings > Build your Shelfie. If you're still having issues locating it, please reach out to us at support@fable.co",
+      "replyDate": "2026-02-24T18:52:30.616Z",
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=699068ea-2a4b-4cc8-ad7e-c3b4ab06b1f4"
+    },
+    {
+      "date": "2026-02-22T14:40:06.136Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "Katrina Jones",
+      "text": "Just wasn't for me. too much romance novel, not enough historical fiction.",
+      "reply": "Hi There, this looks like a review to a book while this section is for reviews of the Fable app itself. We recommend you moving this review into the book review section in the app itself. If you have any questions on how to do this please reach out to us at support@fable.co.",
+      "replyDate": "2026-02-24T18:52:35.919Z",
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=a17ffe21-4d78-4bc0-90c5-eaede765e463"
+    },
+    {
+      "date": "2026-02-21T04:54:37.761Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "tiffany washington",
+      "text": "This app use to work great. After the update I try to login my account but all it say is error can't loaded",
+      "reply": "We’re really sorry for the slow performance you experienced. We had especially high traffic around the New Year that impacted the speed of the app, and we know how frustrating that is. Our team has implemented improvements to increase stability and speed. If you’re still seeing issues, please contact us at support@fable.co so we can help directly.",
+      "replyDate": "2026-01-05T23:01:03.576Z",
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=7846656f-0da5-435b-8e14-9654c6252d66"
+    },
+    {
+      "date": "2026-02-20T23:05:27.644Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "Stephanie Sowers",
+      "text": "The new update is awful. Everytime I open the app its just blank white page. Horrible update! fix it please!",
+      "reply": "We are sorry you're experiencing this issue. Could you please reach out to us at support@fable.co so we can better understand the issue?",
+      "replyDate": "2026-02-24T18:53:13.113Z",
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=93f07231-4474-43b3-a97e-864b488426af"
+    },
+    {
+      "date": "2026-02-20T06:07:02.990Z",
+      "score": 3,
+      "thumbsUp": 1,
+      "user": "Andrea Victoria Peñaredondo",
+      "text": "The algorithm for the feed needs work. I've tried muting books and updating my library to try to curate my feed, but it is still positively awash with an endless parade of romantasy posts. To each their own, but I'd like a feed that shows me relevant content.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=63c85463-e708-44a4-b6fc-a25176618075"
+    },
+    {
+      "date": "2026-02-20T04:38:27.389Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Jinx white",
+      "text": "wonderful app, love the social aspect",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=5ea1f061-4d09-44a6-a93e-dd7ad9745d58"
+    },
+    {
+      "date": "2026-02-19T23:35:54.100Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Daniel Ku - 顧仲文",
+      "text": "why were DM's removed?",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=a41f4492-96de-4214-b527-751480ead82e"
+    },
+    {
+      "date": "2026-02-19T18:25:39.512Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Erica Findlay",
+      "text": "Great way to track your reading!!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=7b1b7bd1-f930-43dc-852e-1abc843da6ad"
+    },
+    {
+      "date": "2026-02-19T15:07:51.830Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Saad Khalid",
+      "text": "excellent for people who read books",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=a17d2bce-54c3-43ab-b26f-84553c4d642b"
+    },
+    {
+      "date": "2026-02-19T14:29:46.884Z",
+      "score": 4,
+      "thumbsUp": 1,
+      "user": "Caitlyn M",
+      "text": "A little frustrated right now...I've been doing fable for nearly a year, I'm religious in tracking my reading, and have started wanting to post finally...but I can't idk what's up with it but it breaks my fable every time! (I've cleared cache, data, uninstalled/reinstalled, and still breaking.) It also breaks when I try to report a bug...hence why I'm posting here. I've loved the app until now when I've had this problem. Please help!",
+      "reply": "We are sorry you're experiencing this issue. Could you please reach out to us at support@fable.co so we can better understand the issue?",
+      "replyDate": "2026-02-26T22:46:24.944Z",
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=08cb70ca-0114-442e-9890-b60162f81274"
+    },
+    {
+      "date": "2026-02-17T11:29:56.175Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Erin",
+      "text": "This is by FAR the best book app out there, I've been looking for something that feels like an actual community (which I didn't get from Goodreads) and this is it. ALSO as a classics reader it is a goldmine through their free ebook downloads 10/10 would recommend.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=97fece41-a7dd-4577-9006-b3b9adfa5547"
+    },
+    {
+      "date": "2026-02-17T06:58:31.567Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Kelsey",
+      "text": "I love this app so much. it's so cute and easy to use I tell everyone about it 😂 I never enjoyed using reading apps until I got Fable. I also love that you can edit the streak log because sometimes I forget to mark that I've read in time or I'm busy and can't.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=883dac5e-8e33-4d9a-bf12-a35ff90a0cf9"
+    },
+    {
+      "date": "2026-02-16T23:49:05.872Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "KathrynM Harrington",
+      "text": "A well written, thrilling crime story with many twists and turns. Very satisfying read.",
+      "reply": "Hi There, this looks like a review to a book while this section is for reviews of the Fable app itself. We recommend you moving this review into the book review section in the app itself. If you have any questions on how to do this please reach out to us at support@fable.co.",
+      "replyDate": "2026-02-24T18:54:45.751Z",
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=ce2d94ab-2032-4157-ba42-0975c576b5d2"
+    },
+    {
+      "date": "2026-02-16T13:39:18.434Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Elisé",
+      "text": "I really don't understand how people are rating these apps as good or the best they used!! don't you see anything you're looking at? the app; you can't see the cover of the book or the name if you don't click it. the site isn't usable at all, just for the show to say that they have sites and it's only to sell book. UI is bad at both sides. if you're a site for selling things why are you directing people to it as its to Track books?! you people are so misleading!!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=7306cc70-4d17-4fcf-a53d-70dacc906407"
+    },
+    {
+      "date": "2026-02-15T23:55:39.652Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Andjela Lisanin Milanovic",
+      "text": "please fix bugs, because i dont want to change the app for books, this one is cute. Update: five stars, very very cute app, bugs fixed.",
+      "reply": "We just released a fix for users who were experiencing issues loading their profile and lists. We also shipped additional stability improvements focused on making the app more reliable. If you're still experiencing issues with the app, please reach out to us at support@fable.co.",
+      "replyDate": "2026-02-13T22:49:30.261Z",
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=613524de-5eaf-43b3-891c-77493bdfeb17"
+    },
+    {
+      "date": "2026-02-15T12:10:40.940Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Derren Roberts",
+      "text": "Over the past week ive found the app wont load my profile. Ive had multiple instances now where it is literally unusable",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=cae3c396-70bd-4a83-a933-a90381e6afbd"
+    },
+    {
+      "date": "2026-02-14T06:26:47.121Z",
+      "score": 4,
+      "thumbsUp": 3,
+      "user": "Paul Gardiner",
+      "text": "Works well now. only gripe is when opening a notification, the post/review relating to the notification doesn't open, it just freezes while loading.",
+      "reply": "We just released a fix for users who were experiencing issues loading their profile and lists. We also shipped additional stability improvements focused on preventing crashes and making the app more reliable. We hope to continue this work, so if you're still experiencing issues, please reach out to us at support@fable.co.",
+      "replyDate": "2026-02-13T22:56:22.438Z",
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=c55c198f-046f-4c18-a553-363e5e3c81df"
+    },
+    {
+      "date": "2026-02-14T04:41:17.306Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Delilah W",
+      "text": "such a good app to track reading! it is very cute, fun to use, and easy to connect with other readers. it is a bit buggy, and searching up books for me personally does have some issues but otherwise its great!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=d5ccbd81-b367-4b10-b08a-f8e411a94175"
+    },
+    {
+      "date": "2026-02-14T04:32:28.151Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Fatma",
+      "text": "I LOVE IT BUT I WISH IT WORKED OFFLINE.STILL A REALLY GREAT APP",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=5f518b2b-f175-4fb6-a4be-e89d0acd7f1e"
+    },
+    {
+      "date": "2026-02-14T03:05:44.148Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Stephanie Lott",
+      "text": "Edited 2/13/26: The recent update makes for a much improved experience. I really enjoyed this app prior to the most recent issues, but if I want to update any of my lists, I have to uninstall and reinstall the program each time. It's incredibly frustrating. I hope they fix this issue soon.",
+      "reply": "We just released a fix for users who were experiencing issues loading their profile and lists. We also shipped additional stability improvements focused on making the app more reliable. If you're still experiencing issues with the app, please reach out to us at support@fable.co.",
+      "replyDate": "2026-02-13T22:45:43.345Z",
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=5e71934c-d157-495d-9381-74a84cd0434d"
+    },
+    {
+      "date": "2026-02-13T22:25:38.665Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Jonie Blackburn",
+      "text": "I love using this app. One issue I have though is the lists that people have of their books. They are always out of order no matter how I sort them.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=7f7e260d-bfe8-443f-8cc4-447064e79394"
+    },
+    {
+      "date": "2026-02-13T18:12:26.980Z",
+      "score": 3,
+      "thumbsUp": 1,
+      "user": "Courtney Dodson",
+      "text": "I want to love this app and not go back to goodreads, but is anyone else finding this app super glitchy. Also, they aren't really improving and adding features regularly either.",
+      "reply": "We just released a fix for users who were experiencing issues loading their profile and lists. We also shipped additional stability improvements focused on preventing crashes and making the app more reliable. We hope to continue this work, so if you're still experiencing issues, please reach out to us at support@fable.co.",
+      "replyDate": "2026-02-13T22:36:10.356Z",
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=66376d27-fa58-4ff6-b080-94485d52e4ee"
+    },
+    {
+      "date": "2026-02-11T15:01:31.580Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "CJ Daria",
+      "text": "Great app! I can read free e-books and also I can organize my tbr and track my progress. But I wish they’ll allow to open the app without WiFi‚ because what’s the point of downloading the book to read offline? You need to open the app with network before you access the offline mode. Please fix it! Overall it’s great!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=194015b9-7d61-42c5-86d3-2521de4b11d4"
+    },
+    {
+      "date": "2026-02-11T07:44:02.684Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Akitha Siyaguna",
+      "text": "pretty good for people wanting to get some book recommendations and to join some clubs",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=91e3f845-d574-4644-b646-2124a7d24a0a"
+    },
+    {
+      "date": "2026-02-11T05:36:58.940Z",
+      "score": 5,
+      "thumbsUp": 11,
+      "user": "R R",
+      "text": "PLEASE PUT A DARK/NIGHT FEATURE ON THIS APP IT IS BLINDING ME. UPDATE, FIXED: I've only been using this app for a month. Ever since their \"1 hour maintenance\", it's constantly glitchy and never working. It also tracked 1 of the books I was reading as being read 2x a day on the daily reading calendar. So while other book covers showed up once, this specific book was showing the cover 2x in 1 day. I'm about to look for another app.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=d2c4bd50-3b0a-4065-aedc-788ca0ca9f6c"
+    },
+    {
+      "date": "2026-02-10T15:03:53.827Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Mason Hiebert",
+      "text": "customer service is so fast and helpful. the ability to have chapters in your book club is so helpful to have good discussions about a book without spoiling it for other people",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=b9246e18-5d76-4ef2-9165-3386384c8215"
+    },
+    {
+      "date": "2026-02-10T04:15:47.220Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Alyssa Highley",
+      "text": "Love the app but not a big fan of not being able to have everything in dark screen mode. I'm not able to update my progress during migraines and that's what I love about reading is that it isn't a trigger for migraines.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=e273ed8d-d9dc-4b93-a4e5-7fe05204d3e6"
+    },
+    {
+      "date": "2026-02-09T22:33:17.216Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Robert Beeney",
+      "text": "Loved this book!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=3ea664ed-e99b-4719-8a64-98608571a253"
+    },
+    {
+      "date": "2026-02-09T19:23:09.694Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Mike",
+      "text": "👌",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=b500817e-a51d-4eee-948c-69b521098b60"
+    },
+    {
+      "date": "2026-02-09T17:03:58.157Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Laura",
+      "text": "a fun and engaging book social media app that I feel is better than Goodreads and my only complaint is that there's no streak score system for tv shows, like why have tv shows on the app if there's no streak but other than that I highly recommend this app if you enjoy books.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=28a187b6-4562-475a-8f34-3fc674d5ff9b"
+    },
+    {
+      "date": "2026-02-09T15:11:21.700Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Rich Reeve",
+      "text": "By far the best app I've used for reading related content. It's what Goodreads should and could be if it actually got updated... I primarily now use Fable and stay clear of Goodreads.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=cdb70961-a5b2-4971-a576-52d477135691"
+    },
+    {
+      "date": "2026-02-07T23:42:23.680Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Michael Mccollum",
+      "text": "very good app",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=8c523d87-a277-4a56-b16b-e0bcb201c44e"
+    },
+    {
+      "date": "2026-02-07T21:03:45.605Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Arnab Baidya",
+      "text": "\"Four Stars Of Destiny\" !!!!!! Scammer App!!!!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=41ceb54d-9a5f-4209-bcd6-f82227808e94"
+    },
+    {
+      "date": "2026-02-07T05:14:45.661Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Holly C.",
+      "text": "I love this app it is so interactive so much more fun to rate and review your books on this app than Goodreads I love it so much I just deleted my Goodreads account",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=e64ebd1e-2f86-45a3-bad5-db9eae869149"
+    },
+    {
+      "date": "2026-02-07T00:04:56.103Z",
+      "score": 4,
+      "thumbsUp": 1,
+      "user": "ETheKitchenator",
+      "text": "I love the app, it's great for tracking and staying on top of reading, especially if you're like me and read multiple books at once. It is a little buggy, especially when cresting lists, and I wish I could reorder them manually. It would also be great to have an audio book tracking feature where you could add in time listened against overall time (much like the page count). Like a lot of others too, dark mode would be awesome.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=86d19196-154a-4ac8-886c-724ea742a6bf"
+    },
+    {
+      "date": "2026-02-06T20:58:21.367Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Rebekah Malyon",
+      "text": "Really like the ease of use of this app. Would be cool if messaging was a little different to comments, as it gets a tad confusing! Other than that the book club feature is really cool when you find an active one!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=05bcac3c-530c-49ce-a89a-0a15ce63c8dd"
+    },
+    {
+      "date": "2026-02-06T15:46:36.502Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Ruth Vitale",
+      "text": "love this app",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=2e923d8a-f4df-4dd4-998e-28cd9561e66a"
+    },
+    {
+      "date": "2026-02-06T14:15:13.707Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Tammy Smith",
+      "text": "So far I love Fable. The calendar showing books read is especially cool.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=4f88534b-ab18-4eec-b2e8-d49f3d70d274"
+    },
+    {
+      "date": "2026-02-06T11:25:28.971Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "TruBlu Luv",
+      "text": "It crashes a lot and not as user-friendly as I would like.",
+      "reply": "We just released a fix for users who were experiencing issues loading their profile and lists. We also shipped additional stability improvements focused on making the app more reliable. If you're still experiencing issues with the app, please reach out to us at support@fable.co.",
+      "replyDate": "2026-02-13T22:43:08.580Z",
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=4fa17f91-47d8-4c7c-9ba5-485a7a1b8d58"
+    },
+    {
+      "date": "2026-02-05T05:58:28.520Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Hinata Bakugo",
+      "text": "good so far just wish that you can add books through the ISBN bar code",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=5cc42599-6d2d-4617-96d9-9ba769adce19"
+    },
+    {
+      "date": "2026-02-04T18:40:46.900Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Matthew Broome",
+      "text": "Better interface than Goodreads, and is more community-focused which I LOOOOVVEE!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=cd29db4e-c764-4046-9bb6-4d75debb0b7e"
+    },
+    {
+      "date": "2026-02-04T17:47:30.292Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Tuoyo Anderson",
+      "text": "I enjoy reading with the app. Just wish it was possible to buy books outside the US. and could the option for a dark theme or mode be added? Maybe then I'll give it a 5 star",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=0fa12311-181a-4b00-96ac-ae8bbec8dccc"
+    },
+    {
+      "date": "2026-02-04T13:44:01.800Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "fatima sharifi",
+      "text": "I love this app so much💖 please add dark mode.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=ddb0adc6-cf72-4a47-b471-e0420b322274"
+    },
+    {
+      "date": "2026-02-03T22:45:48.620Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Jayne Marriott",
+      "text": "excellent choice of variety of club genres. update of personal reading and also daily streak, would recommend",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=6bed300d-0896-4781-8348-320e6a72e0eb"
+    },
+    {
+      "date": "2026-02-03T21:40:04.435Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Dani McEathron",
+      "text": "love it!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=co.fable.fable&reviewId=ef0eeea3-37b3-4f26-beed-e0837edbfb6f"
+    }
+  ]
+}

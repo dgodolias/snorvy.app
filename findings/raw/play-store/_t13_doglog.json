@@ -1,0 +1,2008 @@
+{
+  "app": "com.mobikode.dog",
+  "country": "us",
+  "total_pulled": 200,
+  "total_after_filter": 200,
+  "reviews": [
+    {
+      "date": "2026-04-12T15:57:31.626Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Rheanna",
+      "text": "I've been using DogLog for a couple months to track my dog's allergy symptoms & treatments. I love it—super helpful and easy! Biggest issue: Events page is cluttered with default actions (potty, tooth brushing, etc.) I don't use. No option to hide/remove them.I'd also love custom default fields for events like immunotherapy shots (mix #, dose, strength, location) and food trials to avoid repetitive typing.These tweaks would make it perfect! Still 5 stars though, it's been very helpful!!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=82105ea5-895a-49f1-b7b5-3c3bd734ec2d"
+    },
+    {
+      "date": "2026-04-01T14:42:20.575Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "dot dodd",
+      "text": "I can appreciate a bare bones app. For the last week, this worked to log the events in my dog's day: not too stylish, but gets the job done. However, this morning I discovered that I'd have to pay $40 A YEAR to SEARCH events I've already logged? I'd gladly consider a one time fee, but putting a basic search feature behind a paywall feels like a blatant cash grab.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=dd01ca28-9d82-492a-a139-37fe8b756c90"
+    },
+    {
+      "date": "2026-03-24T03:19:42.544Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Will",
+      "text": "Forces you to SignUp & login using either your Google account or Facebook account - no other option. Clearly just a method to hijack your account details. Uninstalled.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=0cec8b42-8350-445e-8b13-f490cdf590e3"
+    },
+    {
+      "date": "2026-02-21T04:08:54.810Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Charlie Ziese",
+      "text": "App is not working now. would allow to add photos but now many issues. I like this app, quick and simple to keep track of pet care, especially for pets with health issues where you ha e yo monitor. Using it for my cat. :)",
+      "reply": "Hello Charlie, I'm sorry you're experiencing this issue. If you would like to further troubleshoot the issue with us, please email us at support@doglogapp.com\n\n",
+      "replyDate": "2026-03-04T19:38:53.296Z",
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=928bc567-f4d4-4f39-bbf2-b92a3804bf64"
+    },
+    {
+      "date": "2026-02-05T21:22:16.985Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "Nick Adams",
+      "text": "works ok but can't delete reminders. the options for the tasks don't make any sense like distance for bathroom tasks. Seems to be a very low effort not very well thought out app",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=56fac144-6ceb-49a3-9c01-9889cc8db21d"
+    },
+    {
+      "date": "2026-01-17T20:19:41.800Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Laureen Gischel (Laurie)",
+      "text": "Excellent App!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=eba61d21-0ddc-4d2b-9c9e-ac676a34168f"
+    },
+    {
+      "date": "2026-01-08T06:42:14.111Z",
+      "score": 4,
+      "thumbsUp": 1,
+      "user": "Petr Bednář",
+      "text": "all I was hoping for at beginning of my live with puppy. I am staying with this app, because others come worse to me and too needy for my personal data. Home screen widgets to log an events are missing for perfection. instead of 3 clicking (app, +log, event) there could be only one for the most used during the day (event).",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=c351b85c-c194-43af-83d6-76ed6fbfd2ad"
+    },
+    {
+      "date": "2026-01-05T10:04:17.923Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Bhushan shirsath",
+      "text": "Nice App !",
+      "reply": "Hi Bhushan, Thanks for your review! Please recommend our app to your friends, and don’t hesitate to shoot us a note at support@doglogapp.com if you have any questions.\n",
+      "replyDate": "2026-01-06T21:42:03.180Z",
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=aa50b4e8-ec13-4665-bde1-fc5af8323c34"
+    },
+    {
+      "date": "2025-11-24T02:14:26.350Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "Vanessa B",
+      "text": "loving this for my new puppy but for yhe life of me can't figure out how to edit an event if entered incorrectly",
+      "reply": "Hi Vanessa, to edit a logged event, go to the Log, swipe left on the event you would like to edit, and you should see the option.",
+      "replyDate": "2026-01-06T21:47:36.630Z",
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=e4059a1c-7e24-49d6-a09c-b91e4c1fb572"
+    },
+    {
+      "date": "2025-11-20T13:45:22.990Z",
+      "score": 5,
+      "thumbsUp": 3,
+      "user": "Tiffany DeBarr",
+      "text": "DogLog is one of those few, rare apps where even in its limited format is highly helpful to support pets and their parents. With a dog with unique needs, I've been able to track unique events and keep count of medicines/supplements with relative ease.",
+      "reply": "Hi Tiffany, Thanks for your review! Please recommend our app to your friends, and don’t hesitate to shoot us a note at support@doglogapp.com if you have any questions or feature requests.\n",
+      "replyDate": "2026-01-06T21:49:00.514Z",
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=80f47c5c-f310-4a58-83f9-ef3d00171712"
+    },
+    {
+      "date": "2025-11-17T16:55:29.310Z",
+      "score": 3,
+      "thumbsUp": 1,
+      "user": "Margarita Ryzhova",
+      "text": "The premium features state that one can \"export all of your pets' data\", but in the app I can download only monthly reports. How can I download all data entries for the whole usage period, or at least for the past year?",
+      "reply": "Hi Margarita, if this is still an issue, can you please email us more details at support@doglogapp.com",
+      "replyDate": "2026-01-06T22:10:32.977Z",
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=ba838b0b-3dc1-47c7-bc76-e8e6e623dedc"
+    },
+    {
+      "date": "2025-11-15T00:17:25.465Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Willie Teacher",
+      "text": "DogLog is a helpful tool when you have multiple dog walkers. It allows you to keep track of all the essentials, food medicine and the quality time spent with your furry family member. I really enjoy it's ease of operation and expandability. definitely worth a look.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=4e3a5436-433d-4df6-971f-bc7867038a88"
+    },
+    {
+      "date": "2025-11-06T17:49:38.479Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Ian Sealey",
+      "text": "Excellent even on the basic level",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=43efee9e-e305-41cd-ab3e-7e5ebb19a2fd"
+    },
+    {
+      "date": "2025-11-05T02:53:05.236Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Heather Cochrane",
+      "text": "great app! It keeps me and my other half on the same page with the dogs.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=aa1d0b7e-95f0-4b4b-a38d-6012229182a1"
+    },
+    {
+      "date": "2025-10-25T00:26:35.870Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "K & E",
+      "text": "Brilliant app. Improves communication and record-keeping. Vast improvement over paper or using a shared online calendar. Very easy to use. Also appreciate the developer's responsiveness to requests.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=2f5fcec0-26c9-4687-b133-33314e5b0021"
+    },
+    {
+      "date": "2025-10-23T09:37:42.521Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Gina",
+      "text": "Especially helpful if you have more than 1 pet - you don't need to remember if both pooped or just 1, etc. Also really helpful for tracking training activities and weight.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=c56e79f4-9e6a-4bc7-8c44-c8b0e5a45248"
+    },
+    {
+      "date": "2025-10-13T03:16:11.631Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "laura black",
+      "text": "unable to log any information, just create a pack",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=56c3bde2-e13a-45b1-8fc5-2c3d1b13b6cb"
+    },
+    {
+      "date": "2025-08-20T11:55:48.378Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "Hanna Holm",
+      "text": "It has the features I need for free, including being able to invite another family member to the pack. The one big downside is the synchronization. Sometimes I have notifications before I can see entries in the app or have to restart the app. My partner logs and sometimes those entries disappear altogether.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=c5d2829c-bc39-4a94-a6ea-a9185119e75d"
+    },
+    {
+      "date": "2025-08-12T18:16:53.287Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Lauren Cole",
+      "text": "love this app! working on potty training a baby that also has a UTI. this feels much more organized than using a notes app and I love my husband and pet sitter can join my pack and let me know how things are going. highly recommend!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=b8ff04c2-b842-4c30-a764-beefca3d7eca"
+    },
+    {
+      "date": "2025-08-08T21:07:13.893Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "IvannaBeSpanked",
+      "text": "We have 3 people and 4 dogs, so that means one of two things happened, they would get forgotten and not taken out because everyone thinks someone else took them out, or they go out over and over because everyone takes them out. This app has been a lifesaver.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=0e49bad5-3d02-47c8-834f-803e4558b2cf"
+    },
+    {
+      "date": "2025-07-31T12:43:08.826Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Emma Davidson",
+      "text": "nothing fancy in the free version but does the job with two of us able to add to the log for one pup.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=0400c145-aa3f-45e8-a0cb-f1a53b618ede"
+    },
+    {
+      "date": "2025-07-22T02:17:13.660Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Karen Meza",
+      "text": "This app is making tracking our senior dog's daily activities and medications so easy. I tried tracking things on a spreadsheet, this is so much easier. Our dog is taking a new medication that was not on the medication list. I followed the instructions and contacted Dog Log to add this medication. It was done the next day. The app and customer service are great.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=fa6e8b26-332f-415f-920d-d43305c273c4"
+    },
+    {
+      "date": "2025-07-06T07:46:11.517Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Rebecca Clarke",
+      "text": "fantastic, highly recommend",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=6ac0491f-0e32-4a9b-b189-db02dd64e7f6"
+    },
+    {
+      "date": "2025-06-03T19:27:02.988Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Sanita Dhaubanjar",
+      "text": "been using this app since we first got our pup 2 years ago. the free version has everything I need w tracking basics about my dogs feeding, pooping and various activity timing. and the app has a nifty feature allowing you to create your own event category. so it is easy to track thing that aren't on the app by default. it is amazing",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=796deb19-fb83-4716-9b6f-a96463decbc3"
+    },
+    {
+      "date": "2025-05-20T03:01:27.000Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Alexander Benn",
+      "text": "really useful app and has great free features, highly recommended. my only request would be that if someone else logs an event, there should be an option for it to trigger my reminders. currently, if he poops for someone else my poop reminder only times from when I last put in poop. this would be an excellent feature if not already included in premium 😊",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=54463818-e00b-4cfd-9848-e65739942beb"
+    },
+    {
+      "date": "2025-05-04T16:09:31.444Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Mariana Murray",
+      "text": "five stars! me and my cousin use this app for our dogs and it's very helpful because I'm new to being a pet's owner and I'll know when to do stuff with him now because I have this app.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=5234358d-0e18-42db-9c75-c901e671da30"
+    },
+    {
+      "date": "2025-04-29T22:01:12.137Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Sam",
+      "text": "terrible use interface, i downloaded to track ingredients in my dogs food and treats but u can only pick one type of food...",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=5e98a16d-0f3f-4625-b89e-b85fab78f95d"
+    },
+    {
+      "date": "2025-04-11T16:45:00.700Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Ronald P. George Jr.",
+      "text": "I wish there was a trial instead of paying for a month to find out it doesn't meet my needs. This came recommended for tracking digestive issues but don't waste your time or money because it's not customizable. Poopi is a much better app for that.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=acf2ff93-1875-4e85-bde3-9565a3a791ff"
+    },
+    {
+      "date": "2025-03-23T02:09:42.382Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Sherri Magness",
+      "text": "this helps me log my dogs seizures for the vet to see patterns",
+      "reply": "Hi Sherri, Thanks for your review! Please recommend our app to your friends, and don’t hesitate to shoot us a note at support@doglogapp.com if you have any questions.\n\n",
+      "replyDate": "2025-04-09T03:42:03.147Z",
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=0c3768b4-e797-4965-b92e-845b8bda6a0f"
+    },
+    {
+      "date": "2025-03-21T01:55:46.676Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Kayden Gould",
+      "text": "great for puppy training",
+      "reply": "Hi Kayden, We are pleased that you enjoyed the app. If there is anything we can do for you, just let us know at support@doglogapp.com!\nHave a wonderful day!",
+      "replyDate": "2025-04-09T03:42:31.817Z",
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=768c2aed-8fae-46f4-b753-c1b06819f40b"
+    },
+    {
+      "date": "2025-03-15T00:13:27.158Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Oracle Infamous",
+      "text": "Wouldn't allow me to connect to Facebook or choose a Google account when prompted to sign up.",
+      "reply": "Hi, I'm sorry this happened to you. Feel free to email us more details or screenshots to support@doglogapp.com so we can troubleshoot.",
+      "replyDate": "2025-04-09T03:44:57.811Z",
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=ed3677c2-ab2c-4061-a641-aaa63cf594c1"
+    },
+    {
+      "date": "2025-03-14T01:14:17.986Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "CV",
+      "text": "I use it daily to look back to details I need to recall.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=95a77a24-89a2-4bf6-adce-73aa8a80f128"
+    },
+    {
+      "date": "2025-03-13T07:25:16.866Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Peter Squibb (Shagsby)",
+      "text": "Tap and go. Excellent app well thought out and user friendly",
+      "reply": "Hi Pete, Thanks for your review! Please recommend our app to your friends, and don’t hesitate to shoot us a note at support@doglogapp.com if you have any questions.\n\n",
+      "replyDate": "2025-04-09T03:45:32.127Z",
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=63a25482-3d40-4ee7-bad6-a42c0d5ae63b"
+    },
+    {
+      "date": "2025-03-02T16:41:27.966Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "William Bright",
+      "text": "Vaccination tracking is an add on fee. Tell me that before I install!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=559419eb-a5db-4b05-a07b-0e8be25adddb"
+    },
+    {
+      "date": "2025-02-22T17:33:31.979Z",
+      "score": 5,
+      "thumbsUp": 4,
+      "user": "Scott Newman",
+      "text": "Truly fantastic app! We recently got another puppy bringing our pack to 3, so being able to track potty time for my wife and I has been very useful. Few minor nits: 1. Often when I attempt to log an event on my device, it seemingly doesn't sync until after closing/reopening or navigating to Log view. Might be a device issue since it works for my wife 🤷‍♂️ 2. Custom events need the option for custom icons / custom categories (maybe premium?) 3. NEED a Droid widget to quick add potty events!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=dd2c83df-275b-402e-b79a-6e1cbc93fc50"
+    },
+    {
+      "date": "2025-02-10T01:19:40.447Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Hannah Hewitt",
+      "text": "we've been using this app every day for 1 year now and counting!",
+      "reply": "Hi Hannah, Thanks for your review! Please recommend our app to your friends, and don’t hesitate to shoot us a note at support@doglogapp.com if you have any questions.\n\n",
+      "replyDate": "2025-04-09T03:45:47.310Z",
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=49e1a344-f7c3-4731-8e80-be4473401c90"
+    },
+    {
+      "date": "2025-02-08T20:18:00.663Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Adam Eiker",
+      "text": "Love this app! It really helps me keep track of what I'm doing and how often for my pups. Also, it would be really nice if dark mode was added.",
+      "reply": "Hi Adam, Thanks for your review! Please recommend our app to your friends, and don’t hesitate to shoot us a note at support@doglogapp.com if you have any questions.\n\n",
+      "replyDate": "2025-04-09T03:46:14.824Z",
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=98b75975-2b75-4e2f-a87b-5397c8567206"
+    },
+    {
+      "date": "2025-01-29T08:12:24.799Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "Richard Baker",
+      "text": "I just wanted something to track a couple of things about my dog, but for £35 a year I can just use a calendar. At least it was easy to delete my account.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=6f3e2fdf-6b8e-4b91-aa6c-b25433d5a28d"
+    },
+    {
+      "date": "2025-01-23T18:57:40.514Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Jenna Rose",
+      "text": "Every time I add pet photo app crashes I start over and same thing over and over",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=3ca6e116-0ff3-4cd5-b650-ba932d239ca6"
+    },
+    {
+      "date": "2025-01-23T05:18:02.854Z",
+      "score": 2,
+      "thumbsUp": 2,
+      "user": "Micah Auerbach",
+      "text": "I really wanted to use this app, but one thing killed it for me: the timers were too inaccurate. I would get notifications anywhere from 10 minutes to an hour late. That makes it useless for potty training. The pup also doesn't appreciate getting her lunch late! I'll use this app if they can make the notifications run on time.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=a93ff7c8-5902-4eb1-a962-a03659edea73"
+    },
+    {
+      "date": "2025-01-19T14:35:30.871Z",
+      "score": 2,
+      "thumbsUp": 1,
+      "user": "Ryan",
+      "text": "Do not like that I cannot make an account using email. You must use Google or Facebook account",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=1f9a4747-8692-40da-bb49-a400650cac54"
+    },
+    {
+      "date": "2025-01-05T20:44:12.847Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Emily Riordan",
+      "text": "Pretty good, would love to be able to edit entries. Edit: thanks for the clarification on how to edit entries! This is a great app that handles all my needs as a new dog owner! Very thorough with the types of entires and looking up trends, it's intuitive and simple.",
+      "reply": "Hi Emily, To edit or delete a logged event, go to the Log and swipe left on the event you want to change. Please let me know if you have any additional questions by emailing support@doglogapp.com. Thanks!\n",
+      "replyDate": "2025-01-03T22:08:27.728Z",
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=6a58d57d-f006-4255-b6b2-95822f3cea60"
+    },
+    {
+      "date": "2024-12-16T10:53:27.108Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Ingrid Rodríguez",
+      "text": "I love the app. I have already use it for multiple pets. I just wish the filter to the log worked and being able to archive a dog log after passing away. It was hard to delete it completely",
+      "reply": "Hi Ingrid, I'm sorry to hear about your pup :( If you still have any questions or would like help to archive your old dog's data, feel free to reach out to support@doglogapp.com",
+      "replyDate": "2025-01-03T22:10:43.318Z",
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=de8114fc-24bc-41d5-90a9-055d9944f9e8"
+    },
+    {
+      "date": "2024-11-21T00:52:41.659Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "John",
+      "text": "It's pretty good. I think what would make it great is if they could add shortcuts when you long press the app icon. Things like poop, feed, etc... That way you can quickly add entries without always having to open the app for mundane things.",
+      "reply": "Hi John, thanks for the feedback. We plan on implementing the feature you requested this year.",
+      "replyDate": "2025-01-03T22:11:15.706Z",
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=130dbcb9-c262-484c-b89f-f21dabc3e37c"
+    },
+    {
+      "date": "2024-11-03T21:44:33.558Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "Jenny G",
+      "text": "All I wanted it for was poop tracking, and it's paywalled.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=4bfa7495-39af-446a-a286-2d576132200c"
+    },
+    {
+      "date": "2024-10-30T23:43:23.287Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Gina and Jonny",
+      "text": "So good! Easy to track new puppy things. Simple and clean interface.",
+      "reply": "Thanks for your review! Please recommend our app to your friends, and don’t hesitate to shoot us a note at support@doglogapp.com if you have any questions.",
+      "replyDate": "2025-01-03T22:11:32.637Z",
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=94b63134-39b4-43a7-b995-e2a26c9540db"
+    },
+    {
+      "date": "2024-10-16T13:24:45.200Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Alex Cendecki",
+      "text": "Love the app for keeping track of my dogs' food schedule, medications, stools, and medical events. really a lifesaver for high-needs pets.",
+      "reply": "Hi Alex, Thanks for your review! Please recommend our app to your friends, and don’t hesitate to shoot us a note at support@doglogapp.com if you have any questions.",
+      "replyDate": "2025-01-03T22:11:40.962Z",
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=1c36073e-26ca-4a25-af13-2c534ad11f8c"
+    },
+    {
+      "date": "2024-10-09T19:16:13.184Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Jamie & Nina",
+      "text": "it's a great way to keep tract of activities, training, nutrition & expelling patterns for myself & our other caregivers. we ❤️ this app!",
+      "reply": "Thanks for your review! Please recommend our app to your friends, and don’t hesitate to shoot us a note at support@doglogapp.com if you have any questions.",
+      "replyDate": "2025-01-03T22:11:50.805Z",
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=163e157a-cb7d-453a-9039-a09775ed2398"
+    },
+    {
+      "date": "2024-10-08T00:01:08.367Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "K C",
+      "text": "Love the concept of the app as it helps the family know when the dog has been last out. Only reason I gave it a 3 star is logs will disappear after putting them in.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=c031fcbb-4626-4916-99a1-147e6cae3e9b"
+    },
+    {
+      "date": "2024-10-01T19:11:35.880Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Keslea Fredrick",
+      "text": "I was trying to write all this down and said I didn't need an app. I was wrong, this is so much easier! The app itself functions beautifully.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=e3075106-9536-4c58-a852-c9b1cd8b1ff4"
+    },
+    {
+      "date": "2024-09-21T17:43:17.974Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Sean “EXcellence4Sure” Cooper",
+      "text": "What an awesome app! As much as I love it. My log would randomly disappear. Still love it tho. It is very helpful for our family to track our cute dogs day. 😁 🖖",
+      "reply": "Hi Sean, thank you for your review! If you have any suggestions on how we could improve and enhance your user experience, please don't hesitate to share them with us at support@doglogapp.com",
+      "replyDate": "2024-05-30T10:44:02.728Z",
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=73fe9b15-cad0-4105-92aa-ab8f374aeb93"
+    },
+    {
+      "date": "2024-08-25T12:29:58.880Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Avner Elizarov",
+      "text": "Very intuitive to use and the option to share a pack with other users is super helpful.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=83c7f5bb-e38e-4e41-a1da-1ff583675eb8"
+    },
+    {
+      "date": "2024-08-19T19:18:44.855Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Marc Seiler",
+      "text": "App is great just need to be able to log oz for those smaller doggies 😁",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=5afb1cc4-b949-426f-b6ff-eafde0716a16"
+    },
+    {
+      "date": "2024-08-12T05:29:21.300Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Kevin Ngo",
+      "text": "Amazing app with great features that work. I just wish the custom events also had custom icons and that the notifications/reminders would have sound and activate based on member's events too. E.g. reminders would be active on all \"wake up\" events inputted by everyone and not just yourself.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=79414f9c-39fb-4fdf-8d53-600a725d30dd"
+    },
+    {
+      "date": "2024-08-08T09:24:56.344Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Jared Hare",
+      "text": "App currently not working.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=3e69af04-e95b-4625-a62f-dd673e3e3147"
+    },
+    {
+      "date": "2024-07-22T19:43:51.696Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Mika Puma",
+      "text": "no information stuck, no events registered, no background info stayed. I got this app to keep tabs on pet activity with the household and I liked the simple design. it just doesn't work with multiple people",
+      "reply": "Hello Mike, I'm sorry that you're experiencing this issue. If you can provide us more information/screenshots of where you are seeing problems, we will be able to help you get the app up and running as DogLog should work for multiple people. Our email is support@doglogapp.com.",
+      "replyDate": "2024-07-22T20:05:21.635Z",
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=43e7613f-4980-4f71-bc23-0a7658a69fa5"
+    },
+    {
+      "date": "2024-07-22T11:47:52.909Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Tonia Malloy",
+      "text": "Jake.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=a3c1080e-e9b5-4c12-a024-73fa68d5e8bd"
+    },
+    {
+      "date": "2024-07-13T15:14:41.175Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "Kevin A",
+      "text": "Desperately needs widget support for quick logging. Otherwise I like it.",
+      "reply": "Thanks for your feedback! We deeply respect your advice will try to add a widget in an upcoming release. If you have other feature requests or questions, feel free to email at support@doglogapp.com",
+      "replyDate": "2024-07-29T02:51:18.239Z",
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=d0f44493-46f9-4b79-8eab-6b9382842c13"
+    },
+    {
+      "date": "2024-07-11T15:49:07.499Z",
+      "score": 4,
+      "thumbsUp": 1,
+      "user": "Samantha Turner",
+      "text": "GREAT app to keep track of EVERYTHING dog related. The custom category lets us track our senior dogs' seizures. We can track who gives her her medicine and when, how often she's drinking water, how often she poops and its quality. Missing 1 star because a home or lock screen widget for quick tracking of most common things without having to go all the way into the app would make this app perfect.",
+      "reply": "Thanks for your feedback, Samantha! We deeply respect your advice will try to add a widget in an upcoming release. If you have other feature requests or questions, feel free to email at support@doglogapp.com",
+      "replyDate": "2024-07-29T02:51:40.255Z",
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=0064e6e6-3837-487c-a7cd-b812beebb6fe"
+    },
+    {
+      "date": "2024-07-06T10:52:30.884Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Yary Quinn",
+      "text": "This is the best app to keep track of your pet activities of the day.",
+      "reply": "Hi Yary! Thanks for your review! Please recommend our app to your friends, and don’t hesitate to shoot us a note at support@doglogapp.com if you have any questions.",
+      "replyDate": "2024-07-29T02:52:10.934Z",
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=b7c11364-b970-4207-b63f-1853e8e2f1fa"
+    },
+    {
+      "date": "2024-06-27T06:54:16.384Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Stephanie Mills",
+      "text": "I love this app, I've been using it for almost 2 weeks for a golden retriever puppy. I love how customizable it is and will be upgrading for extra stats!",
+      "reply": "Hi Stephanie! Thanks for your review! Please recommend our app to your friends, and don’t hesitate to shoot us a note at support@doglogapp.com if you have any questions.",
+      "replyDate": "2024-07-29T02:52:19.409Z",
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=4457dd9c-a185-4cd9-ba58-a6bcfdcf5b76"
+    },
+    {
+      "date": "2024-06-16T20:16:20.600Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "elle Lenor",
+      "text": "Can't use the app without being invited. Created a 'pack' and can't use any features until someone joins mine or I'm invited to someone elses. That sucks",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=4361a45e-9324-4455-af33-72141213dbda"
+    },
+    {
+      "date": "2024-05-30T11:42:52.437Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Krista Sibery",
+      "text": "I like this app for tracking. It is helpful for us to know the puppy's habits. I just wish you could edit a log after it is added. [Update to add u can edit logs, thank you for the response! Maybe I missed the how to article.]",
+      "reply": "Hi Krista, thank you for your review! You can edit a logged event by going to the log and swiping left on the event you want to delete or edit.\nIf you have any suggestions on how we could improve and enhance your user experience, please don't hesitate to share them with us at support@doglogapp.com",
+      "replyDate": "2024-05-30T10:45:49.478Z",
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=314824be-e75e-41b9-8e3b-3e86e9a5a314"
+    },
+    {
+      "date": "2024-05-26T05:03:30.962Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "J",
+      "text": "Great for tracking and logging. So far I love this app for our new puppy. A few glitches with adding pics and deleting events. I have to close out app completely to try again. Other wise super helpful to be able to add family to help with tracking and logging.",
+      "reply": "Hi, thank you for your review! If you have any suggestions on how we could improve and enhance your user experience, please don't hesitate to share them with us at support@doglogapp.com. And please feel free to share more info about when you're seeing the glitches with us in email.",
+      "replyDate": "2024-05-30T10:44:49.190Z",
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=c90b5243-5dd6-4012-ad9e-cb45f59fceda"
+    },
+    {
+      "date": "2024-05-18T07:37:34.890Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Scarlett Pavlova",
+      "text": "Need to create an online account to use the app. Uninstalled immediately.",
+      "reply": "Hi Rubi, I'm sorry you had a bad experience. DogLog requires an account to be created so we can store the logged events for your pet to your account.",
+      "replyDate": "2024-05-30T10:43:38.199Z",
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=1532a0de-3faa-4d8d-b331-4b53fbc87ea0"
+    },
+    {
+      "date": "2024-05-05T13:58:34.680Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Alice",
+      "text": "Every time I open the app it says DogLog isn't working",
+      "reply": "Hi Alice, I'm sorry you're experiencing this issue. If you are able to provide more information on if this has always occurred or if it only started recently, as well as a screenshot of the error, I'll be able to start troubleshooting. Feel free to email me this at support@doglogapp.com. Thanks",
+      "replyDate": "2024-05-05T17:50:19.454Z",
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=3f5f7226-a2ef-465f-b5ab-a80597ea0abb"
+    },
+    {
+      "date": "2024-05-04T14:15:49.608Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "S P",
+      "text": "Great app. Only complaint is it would be nice to have more space to enter in all the things I add to my dogs daily food. I keep running out of space and have to put the rest as an additional comment to the daily food log. Also unable to edit the food log once posted so again I have to leave a secondary comment if I forgot to add something. Would also love to see an export feature so I can print a PDF with his diet and provide it to his vet, rather than asking them to scroll through the app.",
+      "reply": "Hello, thanks for the feedback.\n1) Regarding not having enough characters to type, how much more space do you think you would need?\n2) The app has a premium version where you can export and email the data. You can find more info in the Settings tab under DogLog Premium Features.\nIf you have more questions, feel free to email support@doglogapp.com",
+      "replyDate": "2024-05-05T17:48:42.390Z",
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=8fef95e0-e530-43f1-b911-29f7bf0bd141"
+    },
+    {
+      "date": "2024-04-14T11:32:53.894Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Alexander Kunitz",
+      "text": "Super easy and useful tool to help us keep track of all our pets!",
+      "reply": "Hi Alexender, thank you for your review! If you have any suggestions on how we could improve and enhance your user experience, please don't hesitate to share them with us at support@doglogapp.com",
+      "replyDate": "2024-04-30T03:39:13.968Z",
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=c53df9d6-5f3c-4903-bd38-ce5952747ac7"
+    },
+    {
+      "date": "2024-03-31T11:16:23.972Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Georgina",
+      "text": "I downloaded the free version to help keep track whilst puppy sitting for a friend. It was extremely helpful in getting the puppy on a schedule and helped me to improve his house breaking as well as figure out what was happening when he was overtired, playful or hungry. I will be recommending this app to the owner and hopefully it'll still be available in a year or two when I hope to get a dog of my own. I am shattered but this app helped to expedite the process of learning the puppy's needs.",
+      "reply": "Hi Georgina, Thank you very much for your 5-star review and thanks for saying that you'll recommend DogLog to your friend.",
+      "replyDate": "2024-04-01T16:08:42.890Z",
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=43d1fd04-65f9-4ea7-aabd-4cb20c2aae47"
+    },
+    {
+      "date": "2024-03-28T08:43:21.453Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Georgi Koemdzhiev",
+      "text": "The app is great but it uses too many taps to accomplish an entry. For example for enter a \"pee\" I have to tap twise. If would be great if I can simple long-press on the \"pee\" button and that enters the current time into the diary.",
+      "reply": "Hi Georgi, thanks for the feedback. This is something we've been thinking about for quite some time but haven't implemented yet. Do you think the long press is a common press used in Android apps?",
+      "replyDate": "2024-04-01T16:25:11.983Z",
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=a4c063d0-6d2f-44dc-bc49-6c0f74e5486b"
+    },
+    {
+      "date": "2024-03-22T01:39:15.888Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Carmen Eguez",
+      "text": "Amazing app. Is perfect for my puppy so I can quickly keep track of his daily routine without having to find my notebook and pen. I love the simplicity and the customization options.",
+      "reply": "Hi Carmen, thanks so much for your review. If you have any questions or feature suggestions, please feel free to email us at support@doglogapp.com. Thanks, Lynn, DogLog Founder",
+      "replyDate": "2024-04-01T16:29:09.260Z",
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=3c45123f-9a58-49a6-9520-75079854ddd5"
+    },
+    {
+      "date": "2024-03-19T12:56:45.237Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Santa Claus",
+      "text": "Works as described, once I got pack set up. Just have to get my wife updating daily.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=50d6301e-d6a7-4088-8feb-32e4f047d4e8"
+    },
+    {
+      "date": "2024-03-16T23:09:26.178Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Susana Maria Silveira Johnson",
+      "text": "Hell no",
+      "reply": "Hi Susana, could you please tell us more about your issue? Please get in touch with us at support@doglogapp.com. Thanks.",
+      "replyDate": "2024-04-01T16:29:38.134Z",
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=39b30b42-9f77-4aa1-a5f7-52f0665e6c2c"
+    },
+    {
+      "date": "2024-02-27T13:17:16.919Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Ashawndra Edwards (KawaiiSenshi)",
+      "text": "Very much enjoy this app to help manage furry family members across multiple. members of the family",
+      "reply": "Hi Kawaii, thanks so much for your review. If you have any questions or feature suggestions, please feel free to email us at support@doglogapp.com. Thanks, Lynn, DogLog Founder\n\n",
+      "replyDate": "2024-04-01T18:25:46.392Z",
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=d4be8c5b-867d-4b29-8903-af1728d60ffd"
+    },
+    {
+      "date": "2024-02-23T03:49:31.876Z",
+      "score": 4,
+      "thumbsUp": 3,
+      "user": "Elie Shiro",
+      "text": "I like this app, however, I wish there was a way to view the events in a calendar form. That way I don't have to scroll so far to look at past things if I'm concerned about something and bringing it to the vet or tracking the durations etc.",
+      "reply": "Hi thanks for your feedback! This is a feature we plan on implementing in the near future. If you have any additional details you would like to share on how you would like to interact with the calendar feature, please feel free to email us at support@doglogapp.com",
+      "replyDate": "2024-04-01T18:27:22.203Z",
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=26bdb1de-1afa-4c87-b2cb-2f2790938992"
+    },
+    {
+      "date": "2024-02-10T05:01:41.291Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Dan Cranmer",
+      "text": "Great app, use it all the time.",
+      "reply": "Hi Dan, thanks so much for your review. If you have any questions or feature suggestions, please feel free to email us at support@doglogapp.com. Thanks, Lynn, DogLog Founder",
+      "replyDate": "2024-04-01T18:27:34.991Z",
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=24ceb316-3f8e-4e14-b69c-40c39fe717ff"
+    },
+    {
+      "date": "2024-02-06T20:01:18.975Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Andrew",
+      "text": "Easy to use tracker for food/walks/poops etc.",
+      "reply": "Hi Andrew, thanks so much for your review. If you have any questions or feature suggestions, please feel free to email us at support@doglogapp.com. Thanks, Lynn, DogLog Founder",
+      "replyDate": "2024-04-01T18:27:42.487Z",
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=b37948cc-ba88-4863-a63f-f75b6db9a851"
+    },
+    {
+      "date": "2024-01-26T11:24:06.896Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "Irene Wong",
+      "text": "it's ok. i don't like that there isn't a way to edit entries once they're in, not even a way to delete if i wanted to",
+      "reply": "Hello Irene! To edit and delete logged events, go to the Log and swipe left on the event. You should see buttons to delete and edit. We're adding more help text in the app for this in the new version of the app which will be out in February. If you have additional questions, feel free to reach out to us at support@doglogapp.com",
+      "replyDate": "2024-01-29T21:22:11.299Z",
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=4ed370b5-f629-4437-9e5c-0b3da3fe3b29"
+    },
+    {
+      "date": "2024-01-26T09:30:33.617Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Chris Shaw",
+      "text": "Really great app that helps to log your dogs day which is especially helpful when house training",
+      "reply": "We are pleased that DogLog is helping you with your pups. If there is anything we can do for you, just let us know at support@doglogapp.com! Have a wonderful day!",
+      "replyDate": "2024-01-29T21:22:55.105Z",
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=60f65a96-531e-4f2b-b9a0-a7a1dbb08ace"
+    },
+    {
+      "date": "2024-01-22T17:00:04.861Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Wolf Dusk",
+      "text": "Edit: Thank you for getting back and letting me know about that I guess my phone was just refusing to show that. With everything now known, amazing app definitely love using it",
+      "reply": "Hello! To edit and delete logged events, go to the Log and swipe left on the event. You should see buttons to delete and edit.",
+      "replyDate": "2024-01-17T22:59:28.657Z",
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=6dc34a1d-4101-4ba3-9164-e96564e019b1"
+    },
+    {
+      "date": "2024-01-19T08:03:32.911Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Lauren Peters",
+      "text": "I absolutely love this app. It's made house training super easy (by tracking when she has water, I can better estimate when to take her out). Tracking medical, and appointments for her is a breeze. This app is absolutely one I plan to use every day as I raise my pup.",
+      "reply": "Hi Lauren, thanks for your feedback! To edit or delete logged events, go to the Log and swipe left on the event. You should see buttons to delete and edit. If you have additional questions or feature requests, feel free to email us at support@doglogapp.com",
+      "replyDate": "2024-01-18T19:16:46.441Z",
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=61499f75-563d-4c95-a4b3-760a8ab7f31f"
+    },
+    {
+      "date": "2024-01-10T20:03:31.938Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "Chrissy Kaylor",
+      "text": "Too bad blood sugar tracking isn't included...I am not paying extra. Uninstalled",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=4ac6d9a5-f3a3-4767-aa00-293f5ecdcb40"
+    },
+    {
+      "date": "2024-01-01T17:56:47.794Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Angel Booth",
+      "text": "I love this app! It makes care and potty training so much easier!",
+      "reply": "We are pleased that you enjoyed the app, Angel. If there is anything we can do for you, just let us know at support@doglogapp.com!\nHave a wonderful day!",
+      "replyDate": "2024-01-02T15:55:01.310Z",
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=6eff7ef6-77e0-4959-9ce8-5ee80a1525d3"
+    },
+    {
+      "date": "2023-12-11T10:13:53.957Z",
+      "score": 5,
+      "thumbsUp": 10,
+      "user": "Chris B",
+      "text": "Wow this app is wonderful! It has functionality that I didn't know I needed. It is very well thought out and designed! I've repurposed it to include tracking my mother's stuff too! Since my brother and I take care of her after she had a stroke this really helps us log and share info about her care. I could see the designer extending it to be able to include kids/parents or anyone else that needs care. Until then, I can use it for that as is! Simply Awesome!",
+      "reply": "Hey Chris! Thanks for your review! Please recommend our app to your friends, and don’t hesitate to shoot us a note at support@doglogapp.com if you have any questions or feature requests.",
+      "replyDate": "2024-01-02T15:55:31.728Z",
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=4f3b0bdc-783c-4851-9f41-254cbd71ddad"
+    },
+    {
+      "date": "2023-12-11T05:52:29.124Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "Rolly John",
+      "text": "Features are good but forming a pack is a hassle for beginners. If you can do it at a later part of registration would be better.",
+      "reply": "Dear Rolly, really appreciate your suggestion. We will consider it and improve our app in the new version. If you have questions or additional suggestions please contact us at support@doglogapp.com",
+      "replyDate": "2024-01-02T15:56:02.180Z",
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=84b7a8f3-7f0f-4654-a765-c341159ae42c"
+    },
+    {
+      "date": "2023-12-06T10:50:42.515Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Shawn Scott",
+      "text": "Very nice for tracking schedules",
+      "reply": "Hey Shawn! Thanks for your review! Please recommend our app to your friends, and don’t hesitate to shoot us a note at support@doglogapp.com if you have any questions or feature requests.",
+      "replyDate": "2024-01-02T15:56:24.190Z",
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=2f215a49-384d-479d-92ba-2dc1ea42e4be"
+    },
+    {
+      "date": "2023-11-28T08:37:01.160Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "Gregory Higbee",
+      "text": "Incredibly easy to set up and use except for one MAJOR problem. Backing out on the packs page will lock you out of your packs homepage and force you to create a new pack or join an existing one. You cannot get back into the same pack unless another pack member gives an update and you click on the notification",
+      "reply": "Hi Gregory I'm sorry you're having this issue. If you email us at support@doglogapp.com with more details on the issue you're experiencing, we can get you back into your Packs. Thanks,",
+      "replyDate": "2023-11-28T15:09:04.368Z",
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=f57b4137-bfbb-47de-9449-edad1276a617"
+    },
+    {
+      "date": "2023-11-09T14:51:09.796Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Eileen Shine",
+      "text": "The records system is not helpful cos there is no way I can record my dog vomited which is very important and there is no way like \"others\" option for me to add by myself.",
+      "reply": "Hi Eileen, you can create a custom event by going to the Events tab and clicking on the + sign in the upper right corner. You'll be able to create a custom reusable event called Vomit and log it whenever is needed. Please let me know if you have any additional questions.",
+      "replyDate": "2023-11-09T15:19:24.787Z",
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=5bdea3d5-3e09-408c-8213-221b38652066"
+    },
+    {
+      "date": "2023-11-05T16:31:56.263Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "M. Groves (MJG229)",
+      "text": "Just got app, but so far very happy. My granddaughter this week got a brand new puppy, and Monday thru Friday we have the baby with us while she works. This app is great for the village that's raising the brand new puppy! BTW, his name is Diesel, dohberman/Pitt mix. Awesome pup so far!!!",
+      "reply": "Hi Mary, really glad to hear DogLog is helping you! If you have any questions or feature suggestions, feel free to email us at support@doglogapp.com. Thanks Lynn, DogLog Founder :)",
+      "replyDate": "2023-11-05T22:51:46.710Z",
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=7dac897c-75d9-476a-9955-5bfadd7d9257"
+    },
+    {
+      "date": "2023-11-03T18:44:37.581Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Fiona Chaplin",
+      "text": "Really good app, exactly what I was looking for. Downloaded it recently as our puppy started being sick, so want to track when this was happening and what daily intake and output was incase we need to take this information to the vet. The one thing I would like to see improved is to add multiple photos to individual logs. Also can't seem to click and zoom into any photos.",
+      "reply": "Hi Fiona, really appreciate your feedback on enhancing our photo capabilities. If you have any additional feature requests or questions about the app, feel free to email us at support@doglogapp.com",
+      "replyDate": "2023-11-05T23:29:18.292Z",
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=9f29ab8b-37ea-452e-9824-4aa7fd04e4ad"
+    },
+    {
+      "date": "2023-11-02T12:24:48.245Z",
+      "score": 4,
+      "thumbsUp": 3,
+      "user": "Yousaf Shaikh",
+      "text": "I initially rated this app 2 stars. The app developer (Lynn) replied to my initial review & offered me 2 months free. Unfortunately, both Promo Codes were expired (and didn't work). But I opted to keep the app & continue using the Free version. I've taken a liking to the app now, and while I won't pay $50.99/year for the Premium version, it's still a fairly decent app. It would be nice if the Free version allowed more features, but for the price (Free), it's definitely worth checking out.",
+      "reply": "Hi Yousaf, sorry that the promo code didn't work - if you want to hop on a quick call with me I'm happy to make sure the code works for you. Otherwise, feel free to email us at support@doglogapp.com if you have any other questions or feature requests.",
+      "replyDate": "2023-11-05T23:43:20.487Z",
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=3518ff6a-43c1-4abb-8317-424d20520aa1"
+    },
+    {
+      "date": "2023-10-24T18:06:00.453Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Micha",
+      "text": "Great interface and a better alternative than me keeping track on notes. I would make a tiny suggestion to switch Medical section from orange to green, just for a bit more contrast between the other sections like food and outdoors.",
+      "reply": "Hey Micha, thanks for the suggestion about the colors. The reason we made it orange is because if you add custom events and store them in the \"Custom\" section, they are green. I'll look into if there are colors better than orange. If you have any other suggestions or questions, please email us at support@doglogapp.com",
+      "replyDate": "2023-11-05T23:31:11.872Z",
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=74a3f52c-bdaa-472d-a7e6-322267ebb399"
+    },
+    {
+      "date": "2023-10-22T19:07:02.179Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "J Carpenter",
+      "text": "I love the idea of this, but I found the app somewhat difficult to navigate and when I needed a med added it instructed me to email a certain email address and it came back as an error. Generally was a frustrating experience.",
+      "reply": "Hey, we're sorry you had this issue and really appreciate your feedback. I'm happy to help add your medicine to the list and answer any additional questions if you email me at support@doglogapp.com",
+      "replyDate": "2023-10-23T02:49:15.997Z",
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=f5cd0bac-8bbb-4339-a0cc-205093127fe9"
+    },
+    {
+      "date": "2023-10-02T08:02:41.984Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "Samantha Fury",
+      "text": "Loved it",
+      "reply": "Hi Samantha! Thanks for the love. If you have any questions or feature requests, please contact us at support@doglogapp.com",
+      "replyDate": "2023-10-06T01:33:15.270Z",
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=27dd0b08-b694-4457-b390-2ac226a8c36f"
+    },
+    {
+      "date": "2023-10-02T04:41:03.716Z",
+      "score": 4,
+      "thumbsUp": 1,
+      "user": "Autumn Rose",
+      "text": "Helps me and my roommates keep track of care for our pets! It's the only app we've found like it. My only complaint is that the events can get a little cluttered because you can't delete the base events, but everything else is great!",
+      "reply": "Hi Autumn, I really appreciate your feedback. We plan on adding the feature where you can delete unneeded default events. If you email us at support@doglogapp.com, I'd love to get your feedback on our design for this feature so we can meet your needs.",
+      "replyDate": "2023-10-06T01:39:35.650Z",
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=caa7fe5b-1c7b-456a-a152-2076f62be694"
+    },
+    {
+      "date": "2023-10-01T20:24:51.858Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Eran Tal",
+      "text": "Joining a pack doesn't work",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=e31de75a-90b5-48bf-9758-cd3652a5aebf"
+    },
+    {
+      "date": "2023-09-24T10:11:10.602Z",
+      "score": 5,
+      "thumbsUp": 2,
+      "user": "Bobby M",
+      "text": "Great app. Vey helpful",
+      "reply": "Hi Bogdan! Thanks for the love. If you have any questions or feature requests, please contact us at support@doglogapp.com",
+      "replyDate": "2023-10-06T01:40:00.570Z",
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=b6f3922d-9f5d-4556-a0f8-788457fd140d"
+    },
+    {
+      "date": "2023-09-19T21:37:15.184Z",
+      "score": 4,
+      "thumbsUp": 1,
+      "user": "shane",
+      "text": "its very limited on free version but a good app I suppose",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=d7eb2443-595c-45f4-a746-c15717640751"
+    },
+    {
+      "date": "2023-09-15T01:26:18.686Z",
+      "score": 5,
+      "thumbsUp": 4,
+      "user": "Eva K",
+      "text": "Little bugs here and there, but overall a GREAT app! It's been super helpful in tracking all our dog's medication after surgery and when she was having stomach issues. It's really nice not having to rely on my memory to keep track of how long it's been since she peed/pooped. And I love that my partner and I, plus our dog walker can all contribute to the same log!",
+      "reply": "Hi Eva! Thanks for the feedback - if you do see reoccurring bugs, feel free to email us the details at support@doglogapp.com",
+      "replyDate": "2023-09-15T12:35:21.323Z",
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=f65872a1-b0c9-4436-ab45-9e52941de7de"
+    },
+    {
+      "date": "2023-09-13T03:24:58.414Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "Eric Malone",
+      "text": "I have had the best time using this but you have to buy premium for the best fetchers.😍🏆BEST APP AWARD",
+      "reply": "Hey Eric! Thanks for your review! Please recommend our app to your friends, and don’t hesitate to shoot us a note at support@doglogapp.com if you have any questions or feature suggestions",
+      "replyDate": "2023-09-15T12:35:55.320Z",
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=bcab2120-e005-47f6-a93c-fe83a1976317"
+    },
+    {
+      "date": "2023-09-13T02:56:32.664Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Drew S (truth999)",
+      "text": "No longer works. Rarely, maybe one out of 5 log additions actually stick.",
+      "reply": "Hi Drew, we apologize for any issue you might be having! Could you send details of what you are experiencing to us at support@doglogapp.com? We'll get you up and running.",
+      "replyDate": "2023-09-15T12:37:16.650Z",
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=dd129de8-0d99-4968-8094-103490ff4765"
+    },
+    {
+      "date": "2023-09-09T16:24:52.674Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "Nicole Slade",
+      "text": "I love this app it has helped me in rescue keep track of everything!!!",
+      "reply": "Hi Nicole! Thanks for your review! Please recommend our app to your friends, and don’t hesitate to shoot us a note at support@doglogapp.com if you have any questions.",
+      "replyDate": "2023-09-10T18:18:26.556Z",
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=ea62c79c-9d62-4f08-8828-a7e2eafaeda5"
+    },
+    {
+      "date": "2023-09-03T00:49:41.197Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "Sophie Besl",
+      "text": "Meh. Can't export data",
+      "reply": "Hi Sophie, thanks for the feedback. If you email us at support@doglogapp.com, I'm happy to talk further about this and give you access to the premium features where you can export data. Thanks!",
+      "replyDate": "2023-09-11T12:18:42.126Z",
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=08c3f634-478b-4c82-a2bf-9fb955ac077d"
+    },
+    {
+      "date": "2023-08-13T18:11:05.244Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "Maria Bandy",
+      "text": "I love this app and my clients too",
+      "reply": "Hi Maria, I'm glad to hear you're enjoying DogLog, and if you would like to speak with me on how we can improve the experience for you and your clients, please let me know. If you have any other feedback or questions, please contact us at support@doglogapp.com.",
+      "replyDate": "2023-08-14T04:34:02.463Z",
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=9a2ff4ff-76ca-4607-83d7-ad26332c23a4"
+    },
+    {
+      "date": "2023-07-30T02:11:45.234Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Sarah Lee",
+      "text": "too much stuff locked behind paywall",
+      "reply": "Hi Sarah, please let me know if you would like a promo code to try the premium features for free. Feel free to email me at support@doglogapp.com",
+      "replyDate": "2023-08-14T04:35:03.125Z",
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=192311ba-876b-4218-814a-a4bac9041cce"
+    },
+    {
+      "date": "2023-07-28T22:08:10.838Z",
+      "score": 2,
+      "thumbsUp": 1,
+      "user": "Kolton Meier",
+      "text": "Any useful analytical data is locked behind a premium fee that does not justify its cost. I can do the same stuff with a free Google form and spreadsheet",
+      "reply": "Hi Kolton, we are always looking to improve the experience for our users, and really appreciate the feedback. If there is anything specific we can look into, please contact us at support@doglogapp.com.",
+      "replyDate": "2023-08-14T04:35:37.115Z",
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=ff71c001-6098-4ef2-bb2d-485d4cf076c8"
+    },
+    {
+      "date": "2023-07-24T01:10:56.854Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "Rebecca Garnham",
+      "text": "Fantastic app for monitoring your pet's day-to-day life. We had a cat with several health issues and DogLog allowed us to track her health and daily routine easily and effectively. As a result, we were fully prepared for vet appointments with a concise record of her progress and, in turn, the vet could provide more effective medical care for her. Highly recommend this all for any pet owner.",
+      "reply": "Hi Rebecca, I'm really glad to hear that DogLog is helping you! If you have any questions or feature requests, please let us know at support@doglogapp.com",
+      "replyDate": "2023-08-14T04:40:50.490Z",
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=fc52a522-735e-4a3b-b18f-1fca3fb9d71a"
+    },
+    {
+      "date": "2023-07-23T13:41:41.243Z",
+      "score": 5,
+      "thumbsUp": 25,
+      "user": "Amanda Pennington",
+      "text": "Have been using doglog for a couple years now, it's one of the few apps that I use every single day. I'd be lost without it. There've been a few bugs along the way but they are always responsive and fixed quickly. I especially like some of the recent changes to the events like the drop-down in Medicine to specify the type. It's a lifesaver for multi-carer packs & dogs with health issues, being able to easily create a log of everything to share with the vet is priceless.",
+      "reply": "Hi Amanda, nice to hear from you again and thanks for your review! Please recommend our app to your friends, and don’t hesitate to shoot us a note at support@doglogapp.com if you have any questions or suggestions.",
+      "replyDate": "2023-08-14T04:46:41.728Z",
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=4be057a7-1f65-4785-8225-5ffc157a862f"
+    },
+    {
+      "date": "2023-07-04T12:15:42.173Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "A J",
+      "text": "Very useful app!",
+      "reply": "Hi AJ, we're really pleased to hear that you enjoyed the app. If there is anything we can do for you, just let us know at support@doglogapp.com! Have a wonderful day!",
+      "replyDate": "2023-08-14T04:42:20.632Z",
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=1b3af632-8286-4e2f-8f78-f28711c784c6"
+    },
+    {
+      "date": "2023-07-01T15:07:28.458Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Maria",
+      "text": "The application doesn't allow me to put in the breed of my dog from my profile. Also, all info I inserted got deleted the moment I pressed 'back'button even though I had saved it. I'm deleting this app and finding a working one!",
+      "reply": "Hi, we would like to fix this. As we don't have your email address, can you please write to us at support@doglogapp.com so that we can help you better. We look forward to your email.",
+      "replyDate": "2023-08-14T04:41:39.571Z",
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=7e260fd5-1b59-4c0b-857a-94eebcc3d39e"
+    },
+    {
+      "date": "2023-06-15T05:44:24.180Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Melanie Darby",
+      "text": "Perfect for keeping track of toilet routines. Can adapt new icons for other things to track. Very useful",
+      "reply": "Thanks for your review! Please recommend our app to your friends, and don’t hesitate to shoot us a note at support@doglogapp.com if you have any questions.",
+      "replyDate": "2023-08-14T04:41:22.499Z",
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=7a12a7c3-c357-479f-9a90-2d880d94fbd9"
+    },
+    {
+      "date": "2023-06-09T10:03:00.890Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Joanna Collins",
+      "text": "It's such a brilliant app for keeping records of everything about you dog, especially useful if they are regularly poorly so you can easily track records.",
+      "reply": "Hi Joanna! We are pleased that you enjoyed the app. If there is anything we can do to improve DogLog, let us know at support@doglogapp.com! Thanks",
+      "replyDate": "2023-06-05T18:18:11.325Z",
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=ce84955c-7966-49d9-b885-94e45425aa69"
+    },
+    {
+      "date": "2023-06-07T16:20:40.737Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "T Terry",
+      "text": "does exactly what I need it to: helps clear up confusion about who took the dog for a walk and when to help us avoid messy accidents and be aware of our pooch's schedule. the ONE reason this isn't 5 stars for me is the lack of dark mode because this app blinds me every night i take my dog for s walk. otherwise, perfect little simple app.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=93ea02c2-4912-42b9-be62-43725ed367df"
+    },
+    {
+      "date": "2023-06-05T16:40:23.106Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Laurie Bernadel",
+      "text": "It's pretty good. I've been using it for about 1 yr now. No ads everywhere and I like that I can filter by event categories. Only problem I have is that I can't delete entries when clicking the delete button. Edit button works but not delete",
+      "reply": "Hi Laurie, thanks for providing feedback on not being able to delete logged events. To clarify, you swipe left on a logged event but nothing happens when you click on the Delete button? Feel free to answer here or email us at support@doglogapp.com. Thanks!",
+      "replyDate": "2023-06-07T06:08:31.660Z",
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=544b0f65-aa74-4f2b-a51b-839d94879852"
+    },
+    {
+      "date": "2023-06-03T12:53:49.125Z",
+      "score": 4,
+      "thumbsUp": 1,
+      "user": "Emily Jalbert",
+      "text": "Great and simple way to track daily activities, as well as medications. I added my dogs exact medication by name (custom) and a few other things specific to her. I decided to get premium so I can view the usual time or day we do certain things, and it has really helped me plan out schedules. It's super easy to use and pretty inexpensive for the information you get access to.",
+      "reply": "Hello, We're really glad that you enjoyed the app. If there is anything we can do to improve DogLog, let us know at support@doglogapp.com! Thanks!",
+      "replyDate": "2023-06-05T18:18:39.385Z",
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=170bf464-facf-48c6-9b52-03044ba0b242"
+    },
+    {
+      "date": "2023-05-30T00:57:33.231Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Bec Grace",
+      "text": "Was charged for the trial of the premium version. Unsubscribed immediately. Have emailed the developer asking for the money to be refunded. Waiting for a response.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=333989ba-b0c1-49cc-8ca1-3b0288c7f2ce"
+    },
+    {
+      "date": "2023-05-23T21:58:36.211Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Melody Trevitazzo",
+      "text": "love this app.",
+      "reply": "Hi Melody! We are pleased that you enjoyed the app. If there is anything we can do to improve DogLog, let us know at support@doglogapp.com! Thanks",
+      "replyDate": "2023-06-05T18:18:00.179Z",
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=fc15f724-e53d-4945-81e2-d966d45c6413"
+    },
+    {
+      "date": "2023-05-22T01:19:01.551Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Dane Jensen",
+      "text": "This app has helped me so much with tracking everything my new puppy. It had made potty training so much easier! One of the best free apps I've tried!",
+      "reply": "Hi Dane! We are pleased that you enjoyed the app. If there is anything we can do to improve DogLog, let us know at support@doglogapp.com! Thanks",
+      "replyDate": "2023-06-05T18:17:47.550Z",
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=99468697-0226-4889-a03d-09ef7cf8be55"
+    },
+    {
+      "date": "2023-05-14T22:28:53.200Z",
+      "score": 4,
+      "thumbsUp": 1,
+      "user": "Tonja Kelly",
+      "text": "This seems like a fairly helpful app and I love that you can share with a pack. I need to monitor blood sugar checks, urine checks, etc. You can make the categories but I really need a graph like the temp feature. I'm using a diabetic pet specific app but it is not stable. If this app grows to that level I would likely pay as the other features seem solid.",
+      "reply": "Hi Tonja, thanks for the feedback. I'd love to get more details on the additional metrics you want to monitor. Like what are you monitoring in the urine checks, or what other metrics would like to monitor? Feel free to answer here or email me at support@doglogapp.com. Thanks!",
+      "replyDate": "2023-05-15T00:29:28.108Z",
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=901d7802-8b20-4fbd-82a6-1b21d911c1b8"
+    },
+    {
+      "date": "2023-05-09T23:17:41.253Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Morris Stemp",
+      "text": "Easy to use and great support with the few questions I had.",
+      "reply": "Thank you so much for your review!",
+      "replyDate": "2023-05-15T00:29:37.191Z",
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=f576b08a-e755-4ba6-b3bd-83a2e2e63e1b"
+    },
+    {
+      "date": "2023-05-06T21:48:07.750Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Tanka Jahari",
+      "text": "Didn't really get to try it tried to add my brother's dogs total of four, after entering three pets I was greeted with a yearly payment plan option. Instantly uninstalled",
+      "reply": "Hi Mike, we believe that 3 pets is usually enough for the typical pet owner. If you would still like to try the app, I'm happy to provide you with a promo code. Feel free to email me at support@doglogapp.com",
+      "replyDate": "2023-05-15T00:30:35.546Z",
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=340c10f2-ecbf-4129-adf4-384f91944900"
+    },
+    {
+      "date": "2023-05-03T04:30:59.889Z",
+      "score": 4,
+      "thumbsUp": 13,
+      "user": "Josef Foureaux Daelander",
+      "text": "I like the app as it is very useful to be able to quickly make notes about your dog that will be organised and sorted in a nice way so you can easily go back to it. However a few things could be improved. One thing is the weight curve. The X-axis should be your pet's age, not the number increment of your measurement. If you don't weigh your pet continuously you will not see the slopes of weight gain/loss as realistic in the time dimension.",
+      "reply": "Hi Josef, thank you for your feedback about the weight chart. I'll update it in the next release.",
+      "replyDate": "2022-08-12T04:32:42.258Z",
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=6fed2037-e3ea-49fa-b5c9-c1005c0c0113"
+    },
+    {
+      "date": "2023-04-18T21:05:01.731Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Breawna Barr",
+      "text": "Super glitchy and slow.",
+      "reply": "Hi Breawna, I'm sorry you're experiencing this issue. If you're able to provide any more info about which screens you're experiencing glitches or slowness, we can look into solving it. Feel free to answer here or to support@doglogapp.com. Thanks!",
+      "replyDate": "2023-04-18T21:13:24.694Z",
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=547d46d6-a268-4eb6-a876-799a8368dfa0"
+    },
+    {
+      "date": "2023-04-06T01:43:52.113Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Elaine Hunter",
+      "text": "awesome works really well",
+      "reply": "Thank you for your review! If you have any suggestions on how we could improve and enhance your user experience, please don't hesitate to share them with us at support@doglogapp.com",
+      "replyDate": "2023-05-15T00:31:11.950Z",
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=184847a2-01e4-4003-81f8-7aea38506256"
+    },
+    {
+      "date": "2023-04-01T11:38:08.914Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "miriam jimenez",
+      "text": "this is a GREAT app. never had any problems whatsoever and it helps me keep track of my dogs and their growth, issues, when feed, how often they drink, etc. I LOVE IT!!!",
+      "reply": "Thank you for your review! If you have any suggestions on how we could improve and enhance your user experience, please don't hesitate to share them with us at support@doglogapp.com\n\n",
+      "replyDate": "2023-05-15T00:31:27.172Z",
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=905fb135-99de-4ec7-ac36-6a5969e00382"
+    },
+    {
+      "date": "2023-03-30T21:11:29.365Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "nikki jeffery",
+      "text": "Fj y f Ninja Turtle videos",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=0f441a00-8e16-49ac-ba99-35d8882b7ced"
+    },
+    {
+      "date": "2023-03-29T23:46:24.162Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Queen Bell",
+      "text": "I don't understand this app",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=f2957c54-953c-4081-9707-40f8e351a5f3"
+    },
+    {
+      "date": "2023-03-28T03:28:27.313Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "Quinn Russell (Quinn)",
+      "text": "could include more features and could have an easier to navigate/use interface",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=dbeb16d3-dccd-4620-b1b9-e9a9ba54c0e3"
+    },
+    {
+      "date": "2023-03-09T19:44:27.400Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "M Nawaz Ts",
+      "text": "Ok",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=d18baec0-527a-4029-982a-5924fa646dd8"
+    },
+    {
+      "date": "2023-03-05T22:11:34.303Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "L M",
+      "text": "I like the app generally so far but it won't allow me to enter certain information.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=09db2b7f-28dd-4d25-8383-630b4a335976"
+    },
+    {
+      "date": "2023-02-21T13:32:03.116Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Kim Austin",
+      "text": "does exactly what I needed for our new puppy to see if I can get her on a schedule",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=396921f0-8bc3-4a7a-b5ab-8ec251cc603e"
+    },
+    {
+      "date": "2023-02-19T22:41:18.240Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Courtney Mackey",
+      "text": "Zuma",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=bbbddfca-7b06-492b-acd3-12d1c4e4e2e8"
+    },
+    {
+      "date": "2023-02-19T16:42:16.620Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Naturally Greenhat",
+      "text": "awesome amazing app. one of the best in Google play. realllly helps with spiritual trends and changes in your pets and can even be used to help track yourself or other humans as well",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=39e82f3b-1095-4747-a1a5-6be6e309ed98"
+    },
+    {
+      "date": "2023-02-18T07:06:04.209Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Shaun Collier",
+      "text": "Can't even add an amount of food when logging feeds without being asked to pay. Not even a free trial offered so I can see if it's worth it. Uninstalled.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=f37ac250-5185-4040-b0a7-34e86fbc04b3"
+    },
+    {
+      "date": "2023-02-07T17:27:03.406Z",
+      "score": 1,
+      "thumbsUp": 10,
+      "user": "Katie Knauer",
+      "text": "Good tracking tool but the exporting data function is very basic and does not allow you to choose specific filters on the data you want exported. Update 2/7/23: App has been extremely buggy the last month and does not allow me to view all tracked events /only shows 1 dog per action even if the action was marked for multiple dogs. I've contacted doglog support multiple times but have not received a response back to my last two emails outlining issues experienced.",
+      "reply": "Hi Katie, thank you for your feedback. If you have specific filters you would like us to add, feel free to email us at support@doglogapp.com",
+      "replyDate": "2022-03-16T17:52:44.209Z",
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=14626091-e44d-42cf-954e-f3cf8dc14330"
+    },
+    {
+      "date": "2023-02-06T21:38:22.800Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Jen",
+      "text": "I cant actually add in my dogs breed or their food type. The app seems to thinks its a listbox field but it returns no options ans clears anything i have entered!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=d846cbfb-7b5e-442a-bd94-64e083005049"
+    },
+    {
+      "date": "2023-02-04T21:12:29.535Z",
+      "score": 3,
+      "thumbsUp": 1,
+      "user": "Maria Kartasheva",
+      "text": "It's not a bad app, but it's crashing all the time for me. I can't log anything - I need to try at least 3 times before I'm able to log anything without the app crashing on me. Also I don't understand why they stopped showing the weight history that we had since day 1 of us getting a puppy. For a couple of weeks it started showing only the latest logged wright event, but now it says \"No events\" logged - it's very upsetting :( I have the latest version of the app, but it still doesn't work.",
+      "reply": "Hi Maria, I'm really sorry that you've been experiencing this issue. Can you pls provide more info here or by emailing support@doglogapp.com so we can troubleshoot. When did these issues begin? Does it only crash when opening the app or also some other time? Is there anyone else in your Pack? if yes do they see the weight data? Thanks\n",
+      "replyDate": "2023-02-05T02:02:57.928Z",
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=9711ad1f-7123-422b-a7bc-98ac334b5144"
+    },
+    {
+      "date": "2023-02-01T22:09:50.288Z",
+      "score": 1,
+      "thumbsUp": 2,
+      "user": "Jamie Hamilton",
+      "text": "Just keeps freezing over and over again at the page where you add pictures of your dog. It doesn't matter if you use a pre existing one or take a new one so I can't use it at all. If I could give it zero stars I would. Downloaded new version as instructed and still doesn't work. Freezes every time on the upload picture of pet page.",
+      "reply": "Hi Jamie,\nI'm sorry you're still experiencing this issue. If you can email us at support@doglogapp.com with additional info, we can investigate why it's crashing. Info that can help is: Did the app ever work properly for you? If yes, when did it stop working? Are you using DogLog with anyone else? if yes, do they have similar issues?",
+      "replyDate": "2023-02-01T23:34:24.890Z",
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=a451c3b1-563d-4161-b8fb-6eb1da48049a"
+    },
+    {
+      "date": "2023-01-31T16:18:28.181Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "JumpyVAS",
+      "text": "Loved it until recently. 1. The filter used to work. Now, when I select a dog and/or an event, it is telling me, \"No events logged for your dog yet.\" If I first scroll through the log first, then the filter will show me only those events that I scrolled through. Nothing from the events that I hadn't scrolled through. This is very annoying since I have A LOT of events logged. 2. Not getting notifications anymore 3. Log doesn't show year 4. Can't edit custom event types 5. Reminder time frame...",
+      "reply": "Hi, I'm really sorry you're experiencing these issues. Regarding #1 and #2, do you know around when this started happening? Also, are is there anyone else in your Pack? If yes, do they experience the same issues? For #3 and #4, we plan on adding those features. Can you provide more details about #5? Feel free to answer here or support@doglogapp.com",
+      "replyDate": "2023-02-01T23:38:23.609Z",
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=8c91a0e4-32d0-422e-9d37-c12e8790a3ec"
+    },
+    {
+      "date": "2023-01-25T00:46:17.708Z",
+      "score": 3,
+      "thumbsUp": 2,
+      "user": "Liz Skorski",
+      "text": "Nice UI with everything we want to track for our puppy, but the stats are broken which makes the app a bit useless. The only stat reported is daily counts of events. There are options for weekly/monthly averages but those only report total counts. I love the simple UI and would consider buying the full version if not for the broken stats.",
+      "reply": "Hi Liz, can you please provide more details into what you mean that the stats are broken? What specifically is not working as you expect? Feel free to answer here or email us at support@doglogapp.com. Thank you!",
+      "replyDate": "2023-02-01T23:35:28.630Z",
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=673fb685-bf03-41b3-9b77-9e58e9917d9c"
+    },
+    {
+      "date": "2023-01-20T21:18:50.561Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Mr. Mosi",
+      "text": "This app is beyond GREAT and easy to use. It had a small glitch, but the developer was very quick in patching it, now is back to perfection!!! I LOVE IT!!!!!!!!!!!!!!! ❤️",
+      "reply": "Hi Mosi, I'm sorry you're dealing with this issue. The engineers have figured out the cause of the crashes and will release a new version by end of day Wednesday. I'll keep you updated and apologize again for the inconvenience. I'll also provide you with a code for a free month of premium tomorrow after the issue is resolved.\n",
+      "replyDate": "2023-01-18T05:33:33.384Z",
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=dad720ea-920f-4aae-8938-d50354c24c19"
+    },
+    {
+      "date": "2023-01-19T01:02:18.842Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "Chris Stockley",
+      "text": "Since the last update the log no longer accurately records or displays what is entered.",
+      "reply": "Hi Chris,\nHope your weekend is going well. We released a new version yesterday so please download it if your phone didn't automatically download it. Once again, we're really sorry you weren't able to use the app for a couple days. Please let me know if you have any questions or concerns in the future.",
+      "replyDate": "2023-01-22T01:59:13.317Z",
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=f0d8b6d3-5e36-4681-9279-3d554d96209f"
+    },
+    {
+      "date": "2023-01-18T13:01:32.138Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Kathleen Daly (Katy)",
+      "text": "I really like this app. But it seems to have crashed. I hope it's fixed soon.",
+      "reply": "Hi Kathleen,\nHope your weekend is going well. We released a new version yesterday so please download it if your phone didn't automatically download it. Once again, we're really sorry you weren't able to use the app for a couple days. Please let me know if you have any questions or concerns in the future.",
+      "replyDate": "2023-01-22T02:00:02.263Z",
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=90dff0a1-1b34-4819-8c95-573086674b86"
+    },
+    {
+      "date": "2023-01-18T00:14:58.927Z",
+      "score": 2,
+      "thumbsUp": 22,
+      "user": "Elliot Love",
+      "text": "Update 1/17/23 - Suddenly cannot use the app; it won't open, despite uninsta/reinstall. :( Really like being able to log when she went potty, when she ate, etc - very helpwful if you have ADHD! I also track when we train, go for a walk, any health issues that concern me (e.g. scratching a lot), and when she takes meds. I do wish there were more icons or you could add your own, because I have to repeat them a lot for what I track because there are so few and a limited variety.",
+      "reply": "Hi Elliot,\nHope your weekend is going well. We released a new version yesterday so please download it if your phone didn't automatically download it. Once again, we're really sorry you weren't able to use the app for a couple days. Please let me know if you have any questions or concerns in the future.",
+      "replyDate": "2023-01-22T02:00:21.833Z",
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=664ee1bb-2bed-4fa3-8a2b-117d5a75ef8b"
+    },
+    {
+      "date": "2023-01-09T05:56:26.164Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Christina Cambie",
+      "text": "Excellent, now that I know how to use it a bit better. Just a little bit of a learning curve to display data and use the app. Looks like it has everything I need.",
+      "reply": "Hi Christina\n1) To delete/edit a logged entry, go to the Log and swipe left on the event you want to edit\n2) Regarding the 2nd issue, did you add both dogs in one Pack? If both are in one Pack, you should see both photos. When you click on the Pack, you'll be taken to the Log with both pets' data. Email support@doglogapp.com so I can assist further",
+      "replyDate": "2023-01-09T05:38:53.997Z",
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=380da808-e677-42b8-beb7-319bf2faa2e7"
+    },
+    {
+      "date": "2022-12-25T13:48:42.650Z",
+      "score": 2,
+      "thumbsUp": 9,
+      "user": "Adam Doyle",
+      "text": "Needs a lot of work. Can't edit/delete a record once you submit it. Can't mark an accident. Have to manually enter the start time twice. No \"now\" button for the end time to use it like a stopwatch; you instead have to manually input the end time. Default units are arbitrary. (e.g. for \"poop\" it defaults to a quantity of \"miles\") Back button on my phone always takes me to the dog chooser screen instead of screen I was previously on. Lack of stopwatch functionality is a deal-breaker for me",
+      "reply": "Hi Adam,\n1) To delete/edit a logged entry, go to the Log and swipe left on the event you want to edit.\n2) When you click on the start or end time, it should default to 'now'. Is that not what you're seeing? If you can send additional info about the issues to support@doglogapp.com, I can help further. Thanks,\n",
+      "replyDate": "2023-01-09T05:41:01.280Z",
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=443ccf93-f796-4afd-bf0b-802c34115869"
+    },
+    {
+      "date": "2022-12-16T13:21:00.654Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Jacky",
+      "text": "Filters doesn't seem to work",
+      "reply": "Hi Jacky, I'm sorry that you're experiencing this issue. If you can send more details about the issue to support@doglogapp.com, I'm happy to help you. Thank you, Lynn, DogLog founder",
+      "replyDate": "2023-01-03T01:38:40.197Z",
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=57743ae9-cf2f-445c-92a7-e05f52b20db6"
+    },
+    {
+      "date": "2022-12-08T23:21:19.240Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Ravi Sajnani",
+      "text": "Excellent, useful app.",
+      "reply": "Hi Ravi! Thank you for your review! If you have any suggestions on how we could improve and enhance your user experience, please don't hesitate to share them with us at support@doglogapp.com.\n\n",
+      "replyDate": "2023-01-03T01:37:41.494Z",
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=873ad0f0-b6e0-443f-9e22-73efd7f2115b"
+    },
+    {
+      "date": "2022-12-03T07:28:06.424Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Charlene “SNARLZ” Toone",
+      "text": "So far as good - will know more when I can look back on previous outings and progress with my adopted greyhound!",
+      "reply": "Hi Charlene! Thank you for your review! If you have any suggestions on how we could improve and enhance your user experience, please don't hesitate to share them with us at support@doglogapp.com.",
+      "replyDate": "2023-01-03T01:37:15.675Z",
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=33080a7d-3def-4c2a-9e22-2f7bc6e1f854"
+    },
+    {
+      "date": "2022-11-22T11:09:58.188Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "William Brady",
+      "text": "Easy interface. Great tool.",
+      "reply": "Hi William, Thanks for your review! Please recommend our app to your friends, and don’t hesitate to shoot us a note at support@doglogapp.com if you have any questions.",
+      "replyDate": "2022-11-23T01:14:30.553Z",
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=2105f94d-318f-4b59-9653-3f1e1f9d8829"
+    },
+    {
+      "date": "2022-11-20T15:46:28.355Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Gina Delgado",
+      "text": "Our pup has pancreatitis and this app has helped us so much! Tracking when he eats, poops, etc has allowed us to reduce fair ups DRAMATICALLY! If you have a dog with digestive or other issues, this app is for you!",
+      "reply": "Hi Gina, Thanks for your review and I'm so glad to hear your pup is doing better! Please recommend our app to your friends, and don’t hesitate to shoot us a note at support@doglogapp.com if you have any questions or feature suggestions.",
+      "replyDate": "2022-11-23T01:14:59.232Z",
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=352dafb7-f700-455e-b9d5-b793caf47877"
+    },
+    {
+      "date": "2022-11-08T21:20:59.185Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Dmitrii Kartashev",
+      "text": "All good!",
+      "reply": "Hi Dmitrii, swipe left on the event in the Log to delete or edit a logged event. Please let me know if you have any additional questions or feature requests.",
+      "replyDate": "2022-11-08T21:20:01.942Z",
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=73ef311c-4be6-42d3-99d9-7514a3be56ff"
+    },
+    {
+      "date": "2022-10-31T02:17:27.768Z",
+      "score": 5,
+      "thumbsUp": 4,
+      "user": "Cady Lu",
+      "text": "Been using this app for a year, since shortly after we adopted our first cat and love it! Pretty easy to learn how it works, no obtrusive ads, and a great system for sharing access to the whole family. The only thing that could make it better to me would be the ability to hide certain actions from the \"Log Events\" screen because I don't plan to use some of them for kitty, such as \"water\" and \"pee\".",
+      "reply": "Hi Cady, thanks so much for the feedback. We do plan on adding the ability to hide unneeded actions at the beginning of next year. After you hide an action, would you never want to use them again or there is a chance you would want to use them?",
+      "replyDate": "2022-11-02T16:15:43.390Z",
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=ef24f640-1e7d-43b1-bfee-b3deafec9a86"
+    },
+    {
+      "date": "2022-10-28T02:54:46.626Z",
+      "score": 4,
+      "thumbsUp": 1,
+      "user": "Lexy Marquith",
+      "text": "I have had doglog for a while now and I can't personally find any issues with having the app. I do wish they had widgets for people like me who hate having to open a full app to log things. Widgets just make for quick shortcuts. If that got integrated, it would be the perfect app for me.",
+      "reply": "Hi Lexy, thanks for the feedback! What sorts of widgets would you want to have? Feel free to respond here or to support@doglogapp.com",
+      "replyDate": "2022-10-28T20:06:55.293Z",
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=8c546154-7b3f-4b27-a60d-1998a0bfb4ad"
+    },
+    {
+      "date": "2022-10-21T23:03:41.713Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Isawkwasi Modo",
+      "text": "Love this app let's you keep track of all your dogs details while being very organized and easy to use.",
+      "reply": "Hi Isawkwasi! Thanks for your review! Please recommend our app to your friends, and don’t hesitate to shoot us a note at doglogapp@gmail.com if you have any questions.",
+      "replyDate": "2022-10-28T20:07:12.973Z",
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=d5acde2b-9be2-47be-9643-589cb02f4999"
+    },
+    {
+      "date": "2022-10-16T19:12:11.576Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Sara Madero",
+      "text": "works great so far!",
+      "reply": "Hi Sara, Thank you for your review! If you have any suggestions on how we could improve and enhance your user experience, please don't hesitate to share them with us here or at support@doglogapp.com",
+      "replyDate": "2022-10-28T20:08:13.630Z",
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=c127d008-7045-47d1-a96c-702c290033e3"
+    },
+    {
+      "date": "2022-10-08T20:06:20.691Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Lynn Yantz",
+      "text": "It will not allow me to create a pack",
+      "reply": "Hi Lynn, I'm sorry you experience this issue. Please contact us at support@doglogapp.com so we can further assist you.",
+      "replyDate": "2022-10-28T20:08:46.687Z",
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=624a309e-95ce-45d7-b20b-9145e7623677"
+    },
+    {
+      "date": "2022-09-19T23:13:21.727Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "Beth E",
+      "text": "Loved the app! However it just stopped working. Nothing fixed it. Great app prior to that.",
+      "reply": "Hi Beth, we apologize for any issue you might be having! Could you send details of what you are experiencing to our customer support at support@doglogapp.com? We'll get you up and running.",
+      "replyDate": "2022-10-29T04:26:49.411Z",
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=a6ea9fa6-6892-4694-9183-79796b61b101"
+    },
+    {
+      "date": "2022-09-19T19:41:34.273Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Jolette Genarella",
+      "text": "Was not satisfied at all. Don't waste your time or money with this app.",
+      "reply": "Hi Jolette. I’m sorry you were not satisfied with the app. If you provide us with more details on how we can improve your experience, please message here or email us at support@doglogapp.com",
+      "replyDate": "2022-09-19T20:01:46.780Z",
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=cc0de912-9a0e-4b10-84d8-db8b6d3ffcb7"
+    },
+    {
+      "date": "2022-09-15T18:35:32.870Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Ana Wise",
+      "text": "I desperately want to use this app, but I don't use Facebook and Google knows too much about me already, but it seems there's no way to register without using one or the other. I'd be happy to create a new email address for my phone if I could use it to register my spouse and I for DogLog. (I don't do email on my phone, I'd lose my mind.)",
+      "reply": "Hi Ana, thanks for the feedback. We plan on adding the ability to log in with email early next year.",
+      "replyDate": "2022-10-29T04:27:26.757Z",
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=1803e509-78ac-45d7-9e23-4fb1c2c42085"
+    },
+    {
+      "date": "2022-09-10T14:53:42.343Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Jake",
+      "text": "A great app which we use religiously to log our new puppies activities! The only thing I'd suggest us being able to log events via Apple watch ect!",
+      "reply": "Hi Jake, thanks for the feedback. If you have additional ideas, feel free to message us at support@doglogapp.com",
+      "replyDate": "2022-10-29T04:28:05.423Z",
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=4ec67c78-e517-49a4-b995-cda840918444"
+    },
+    {
+      "date": "2022-09-10T11:53:41.669Z",
+      "score": 3,
+      "thumbsUp": 1,
+      "user": "Lorna Haywood",
+      "text": "Good but a few annoyances. 2 of my dogs profiles work fine. The 3rd will not allow me to edit the fields for chip number and address making the app useless for me as I wanted all the chip numbers to hand should any of our dogs go missing while we are away from home.",
+      "reply": "Hi Lorna, thanks for the feedback. Are you still having the issue of not being able to edit some fields in the Pet Profile?",
+      "replyDate": "2022-10-29T04:29:57.316Z",
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=1d91f955-ad7e-4183-86aa-acb52e3285f2"
+    },
+    {
+      "date": "2022-09-06T23:07:54.705Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "LineUpFaster",
+      "text": "Wish this would be a one time fee. The monthly/yearly for an app like this is not necessary",
+      "reply": "Thank you for providing your valuable feedback. Please reach out to us at support@doglogapp.com, if you have other suggestions.",
+      "replyDate": "2022-10-29T04:30:55.610Z",
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=1b086143-532c-4419-9753-3398e017ba3d"
+    },
+    {
+      "date": "2022-08-28T21:11:29.543Z",
+      "score": 2,
+      "thumbsUp": 1,
+      "user": "Cry.7n3 micrft",
+      "text": "when reopening app it reverts back to lbs and doesn't save my preference of kg. would have liked a line chart for weight tracking rather than column graph and for it to be broken down into percentage of weight increase or loss. very basic app",
+      "reply": "Hi, really appreciate your feedback and we will make sure to make the changes in an upcoming version. If you have additional feedback, please email us at support@doglogapp.com",
+      "replyDate": "2022-08-29T02:45:19.356Z",
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=81105831-72dd-41c0-9967-99d7a87cf639"
+    },
+    {
+      "date": "2022-08-28T14:08:01.260Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Kimberly Nicholson",
+      "text": "Wonderful app to keep track of your pet's habits.",
+      "reply": "Thanks for your review, Kimberly! Please recommend our app to your friends, and don’t hesitate to shoot us a note at support@doglogapp.com if you have any questions.",
+      "replyDate": "2022-08-29T02:53:03.201Z",
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=8b0fb431-3f12-4871-8c11-6cc85605edc2"
+    },
+    {
+      "date": "2022-08-27T06:42:37.960Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Daniel Gershuni",
+      "text": "just what our family needed to stay on top of training and maintaining our new poodle puppy. I have some ideas to make it even more usable for kids who can't yet read.",
+      "reply": "Hi Daniel! Thank you for your feedback. If you would like to provide us your ideas on how to make the app easier for kids who can't read yet, or any other ideas you have on how to improve the app, feel free to email us at support@doglogapp.com. Thanks!",
+      "replyDate": "2022-08-29T02:53:59.892Z",
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=3e039bba-7649-4ac1-a78d-b5c24f9ed36f"
+    },
+    {
+      "date": "2022-08-27T02:17:44.740Z",
+      "score": 5,
+      "thumbsUp": 6,
+      "user": "Marisa Ripley",
+      "text": "I really love this app. I always end up with orphaned kittens that people bring me, and I often do the record-keeping on paper. This is even smarter. There are options for potty going and feeding. I do wish there was a way to keep records about temperature and body weight and the option to have records for cats as well as dogs. Also, a widget of some of the info would be awesome, too. Over all, it mostly filled the requirement I need in a tracking app.",
+      "reply": "Hi Marisa! We're really glad to hear the app has been useful for your kittens. The app does have events for you to log weight and temperature in the Events tab and you can view the data in charts in the Info tab. What kind of widget would you like to see? Feel free to email us more information at support@doglogapp.com",
+      "replyDate": "2022-08-29T03:03:59.000Z",
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=1698e297-1b02-4bc2-a0a2-c6b45ba4ef47"
+    },
+    {
+      "date": "2022-08-02T12:37:36.455Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "Eric Trieu",
+      "text": "The app Reminders don't share across my pack. I can see it on my phone since I created but my partner cannot see it on her app.",
+      "reply": "Hi Eric, thanks for the feedback. We plan on adding reminder sharing in an upcoming release. Please let me know if you have any other questions.",
+      "replyDate": "2022-08-12T04:30:13.905Z",
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=865b1987-ee85-4eb4-b3c6-f1fa3fd68fcb"
+    },
+    {
+      "date": "2022-08-01T21:47:11.125Z",
+      "score": 5,
+      "thumbsUp": 9,
+      "user": "Nace Gerhart",
+      "text": "Updating my last review from a 1 to a 5. An update came out back in November that caused some issues for us but they've been resolved. Other than those few days, we've had no issues and the developers continue to make improvements. We have 2 dogs. 1 has been a medical case since we adopted him 4 years ago and the app has been super helpful for keeping up with all his meds. Also serves as a handy quick reference for when you go to the vet.",
+      "reply": "Hi Nace, thank you for the feedback. I responded to your email about your concerns.",
+      "replyDate": "2021-11-17T19:14:16.418Z",
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=70af1622-15c5-47d2-bc54-5347982d8b66"
+    },
+    {
+      "date": "2022-08-01T01:37:52.710Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "kurt sonnenburg",
+      "text": "Not User Friendly",
+      "reply": "Hi Kurt, I'm sorry you're having a hard time with the app. Can you please share which features you find difficult to use? Please contact us at support@doglogapp.com",
+      "replyDate": "2022-08-12T04:22:13.691Z",
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=b4773775-060b-4b87-97bd-59f99a6d61a2"
+    },
+    {
+      "date": "2022-07-16T01:04:19.676Z",
+      "score": 5,
+      "thumbsUp": 2,
+      "user": "Lucy Gubbins",
+      "text": "Works perfectly for tracking poops/pees between myself and my husband! No issues ever.",
+      "reply": "Hi Lucy! We are pleased that you enjoyed the app. If there is anything we can do for you, just let us know at support@doglogapp.com\nHave a wonderful day!",
+      "replyDate": "2022-08-12T04:23:27.530Z",
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=c7cb9dbd-7409-4075-906a-f550a1f47349"
+    },
+    {
+      "date": "2022-07-11T13:09:05.865Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Darkeila “LilWifey” Thompson",
+      "text": "Boring and useless for my liking. Not what I was looking for.",
+      "reply": "We apologize for the inconvenience. Can you be more specific please so that we can identify the issue? Don't hesitate to reach out to us at support@doglogapp.com.\n\n",
+      "replyDate": "2022-08-12T04:26:04.884Z",
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=aa9236a6-e2ec-4154-b61a-940c1d313d05"
+    },
+    {
+      "date": "2022-07-05T23:12:50.685Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "M. Dee Guillory",
+      "text": "Glitchy and Unreliable",
+      "reply": "We apologize for the inconvenience. Can you be more specific please so that we can identify the issue? Don't hesitate to reach out to us at support@doglogapp.com.",
+      "replyDate": "2022-08-12T04:25:49.899Z",
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=cc9fb7ef-0bda-4a7a-800c-0aeaed4e7b05"
+    },
+    {
+      "date": "2022-06-29T15:27:10.858Z",
+      "score": 3,
+      "thumbsUp": 1,
+      "user": "Emma Doy",
+      "text": "Good but offline issues - If you're out of the house without the internet & switch to a different app, when it goes to reload, it won't, and then when you get back home again & connect to the internet, all the information you added when out the house disappears. Just lost all the walk, pee, poop, drink, eating, treats, vet appointment logs etc I made when I was out. It's very annoying. It could at least store information on my phone to sync up later if I'm offline. I subscribe too.",
+      "reply": "Hi, thank you for your great feedback, Emma, and we will definitely look into this issue. If you have additional questions or suggestions, feel free to reach out to us on support@doglogapp.com",
+      "replyDate": "2022-07-03T22:00:56.691Z",
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=e6182b84-13b8-4bcc-832c-73ddae105c10"
+    },
+    {
+      "date": "2022-06-29T13:21:53.900Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Cassondra Leathers",
+      "text": "Can't form a pack?",
+      "reply": "Hi Cassie, I'm sorry you're experiencing this issue. please contact us at support@doglogapp.com so we can further assist you.",
+      "replyDate": "2022-07-03T22:01:27.726Z",
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=8eff173f-e864-43d7-95d6-cc0729f54ecd"
+    },
+    {
+      "date": "2022-06-29T03:41:11.627Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Erin Maria",
+      "text": "awesome app, and i use it for my Dogs AND my Cat! really nice way to log everything. the premium is very reasonably priced, and you get a lot outta it, so i highly reccommend upgrading as soon as you decide you like it, because it is worth it to have the extra features! thank you! God Bless!",
+      "reply": "Thanks for your review Erin! Please recommend our app to your friends, and if you have additional questions or suggestions, feel free to reach out to us on support@doglogapp.com",
+      "replyDate": "2022-07-03T22:02:15.650Z",
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=fec52c8e-2fa3-4ae7-b0ea-d530900b9647"
+    },
+    {
+      "date": "2022-06-22T14:10:15.456Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Carol McPherson",
+      "text": "You have to upload or take a photo of your pet to proceed. The app does not allow me to do this. A complete waste of time.",
+      "reply": "Hi Carol, I'm sorry you're experiencing this issue. please contact us at support@doglogapp.com so we can further assist you.\n\n",
+      "replyDate": "2022-07-03T22:02:53.204Z",
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=99a4824a-b39a-41dd-9907-be8859915390"
+    },
+    {
+      "date": "2022-06-21T19:32:17.528Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Chelsea K",
+      "text": "I love this app! It is so helpful to have a way for more than one person to know what's going on in our dog's life since we both take her out or feed her. Since using this app, we no longer wonder when was the last time she went out or if it's time for her dinner and the other person hasn't fed her yet. I especially love that I can add custom items to track!",
+      "reply": "Thanks for your review Chelsea! Please recommend our app to your friends, and if you have additional questions or suggestions, feel free to reach out to us on support@doglogapp.com\n\n",
+      "replyDate": "2022-07-03T22:03:11.360Z",
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=9a234a73-f20a-40db-93fc-66f616c66aa7"
+    },
+    {
+      "date": "2022-06-11T02:31:42.785Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Tori Webber",
+      "text": "This app is perfect for anyone who has multiple people looking after an animal (dog or otherwise!), especially for multiple people trying to train one! HUGE help in making sure my daughter's dog is well taken care of.",
+      "reply": "Thanks for your review Tori! Please recommend our app to your friends, and if you have additional questions or suggestions, feel free to reach out to us on support@doglogapp.com",
+      "replyDate": "2022-07-03T22:04:05.910Z",
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=54f3874e-9fb5-40a2-94c1-17871b1353a5"
+    },
+    {
+      "date": "2022-06-10T16:18:51.210Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Lisa Thompson",
+      "text": "Rarely used but good if you have a dog not a cat.",
+      "reply": "Thanks for your review Lisa! Please recommend our app to your friends, and if you have additional questions or suggestions, feel free to reach out to us on support@doglogapp.com\n\n",
+      "replyDate": "2022-07-03T22:03:21.445Z",
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=9bfbaf9d-a7c3-4f8e-b1e0-37aa5bc2206f"
+    },
+    {
+      "date": "2022-06-08T19:57:35.550Z",
+      "score": 3,
+      "thumbsUp": 1,
+      "user": "Kitty Cake",
+      "text": "Its great.. i use it every day to log my puppies activities. But theres a HUGE flaw. Randomly, it will delete events i had last logged so i lose track of when it happened. Its why I'm only giving this 3 stars. Ill give 5 if they somehow fix the problem though.",
+      "reply": "Hi Tearah, I'm sorry you're experiencing this issue. please contact us at support@doglogapp.com so we can further assist you.\n\n",
+      "replyDate": "2022-07-03T22:03:48.971Z",
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=29dd9172-c172-430c-b686-f4366564df20"
+    },
+    {
+      "date": "2022-06-02T16:17:14.472Z",
+      "score": 4,
+      "thumbsUp": 7,
+      "user": "st",
+      "text": "We're a family of 5 with a new puppy so I needed something to log what each person was doing and make sure we are all on the same page. The app in wonderful in this regard, hence the four stars; however, the app is glitchy and sometimes you have to kill the app and pull it back up to get a screen to load. The biggest disappointment is the export function which you get with the subscription; I found it exports the data inaccurately to include creating entries that don't exist.",
+      "reply": "Thanks for your review and feedback. Please recommend our app to your friends, and if you have additional questions or suggestions, feel free to reach out to us on support@doglogapp.com\n\n",
+      "replyDate": "2022-07-03T22:04:42.973Z",
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=3605cf86-ff89-4550-99a8-15168d23f611"
+    },
+    {
+      "date": "2022-05-31T12:29:19.272Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "wufeisgirl",
+      "text": "I loved it at first, but the app has a habit of simply deleting entries, which is really frustrating because I can't memorize every event in my dogs day. :(",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=d9ccf485-2f49-4b4c-a679-b17a6f83d150"
+    },
+    {
+      "date": "2022-05-29T12:06:10.529Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Steph",
+      "text": "this is exactly what I was looking for! a dog diary that allows you to record walks, feedings, and bowel movements to track any correlations. this has been helpful in tracking if our pup has any run to foods she's tried.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=93970fdd-f538-42a5-8529-fb5815119a94"
+    },
+    {
+      "date": "2022-05-23T23:15:04.678Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Mike G",
+      "text": "This has been super helpful while my dog is sick. I've been asked to track a ton of stuff and this app is capable of doing that. I do wish there was misc option though. Like, if the dog puked or something like that. Ice been putting it under grooming...",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=da62cbfc-c1e4-412b-ac02-aa5a0715892a"
+    },
+    {
+      "date": "2022-05-18T13:11:19.909Z",
+      "score": 3,
+      "thumbsUp": 3,
+      "user": "Elizabeth Gadsby",
+      "text": "This is a pretty good app and it works well for tracking pet activities and learning a routine. The reminders reset for 2 months out instead of 1 month when on a monthly repeat (maybe the 1st of the month glitches?). On newer phones, notifications of pet activity don't come through, posing an issue for pets with multiple caretakers. It's not just my phone, my husband no longer receives notifications since getting a new phone as well.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=99028bf8-e511-4710-bffa-1ec2213fcdff"
+    },
+    {
+      "date": "2022-05-11T17:34:55.330Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "Jacob Burgo",
+      "text": "Great app to log activities and keep track of pees and poos to start to build a good bathroom schedule for your pup. Great if your dog requires medications regularly! Suggestions: Having the ability to disable the SVG Icons and just have the list item adjust it's height if \"Duration\" & \"Quantity\" are present to fit more content on my screen. Add ability to edit what stats appear at top of log. Bug: When you edit an existing log, AM/PM sets to local time's AM/PM without actually editing anything.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=2a380318-a046-497b-8728-e12d97827fdf"
+    },
+    {
+      "date": "2022-05-09T02:43:08.390Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Ashley Phillipy",
+      "text": "My only complaint so far is needing a longer comment length. I'm using this to track behavior changes and eating habits for my vet due to some stomach issues my dog is having. I need to be really detailed but I don't have enough room. Currently using a second app that allows longer comments and putting a note in this one to check the other app for more details",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=ab96214d-f356-4c82-8224-e78719a5a39e"
+    },
+    {
+      "date": "2022-05-08T23:04:19.868Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Amanda Grabenhofer",
+      "text": "Everytime I try to add a photo of my pet it logs out of the app.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=8067840b-c4aa-4633-9276-a4f2b61db6ef"
+    },
+    {
+      "date": "2022-05-08T04:54:26.362Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "De-Leon Chen",
+      "text": "App does not launch without a data connection. Would be good if there was support for predefined activity templates so we don't need to enter the same set of activities each day.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=51f2edbe-3a0a-4b37-aa58-6a24e2a6742b"
+    },
+    {
+      "date": "2022-05-08T01:19:28.350Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "Kelsea Potter",
+      "text": "App Developer: thank you so much for the feedback on deleting events! Here's some more feedback: Would love to see the year show beside the date on the log! Helps us to see the date with year when filtering for all of our dog's past health episodes",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=e2136d4d-bf2d-4012-a12e-ee4ecf9c1dfd"
+    },
+    {
+      "date": "2022-05-05T10:12:59.968Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Becky",
+      "text": "Has helped alot just from the tracking of potty and food so I can judge my puppy needs and keep an eye out when she is due for a potty break when time gets away from me",
+      "reply": "Thanks for your review and feedback, Becky! Please recommend our app to your friends, and don’t hesitate to shoot us a note at support@doglogapp.com if you have any questions.",
+      "replyDate": "2022-06-09T06:17:39.735Z",
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=ebd264df-41db-41e2-9b37-3a015f895eed"
+    },
+    {
+      "date": "2022-04-26T22:57:54.873Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Desi Segundo III",
+      "text": "It wouldn't let me sign up with either Google or fb. It just kept spinning. Disappointed",
+      "reply": "Hello Desi, Really sorry you had a bad experience with DogLog. We will keep working on it.\n\n",
+      "replyDate": "2022-06-09T06:17:08.253Z",
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=c53373b5-028c-4bfd-b9a8-32f05bf45fd6"
+    },
+    {
+      "date": "2022-04-25T23:05:33.306Z",
+      "score": 1,
+      "thumbsUp": 3,
+      "user": "Sorsa",
+      "text": "I love this app, very useful. However my pack no longer gives me notifications since the last update. I've fixed everything and the app still does not give me notifications. Also you should be able to leave a pack or remove someone from a pack when they are no longer needed",
+      "reply": "Thanks for the feedback, Sorsa. We will keep on working on the notification issue.",
+      "replyDate": "2022-06-09T06:15:20.890Z",
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=ed23e578-db78-4792-896b-8886e37c17f2"
+    },
+    {
+      "date": "2022-04-22T08:01:27.252Z",
+      "score": 4,
+      "thumbsUp": 6,
+      "user": "A V",
+      "text": "This is an amazing app and actually worth the 3.99$ for analytics. I would give 5 stars if not for 2 things. Please give us the ability to take weight and temperature off the main screen since it's not something I take every day. It would be awesome to choose what we want. Also for times of the day under the last 14 days having it brokendown to hour would be better.",
+      "reply": "Thanks for your review! Feel free to send us additional requests to support@doglogapp.com.",
+      "replyDate": "2022-06-09T06:13:39.527Z",
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=487fc5ff-8b48-4981-a2a0-e7a0e994074b"
+    },
+    {
+      "date": "2022-04-20T04:05:34.150Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Allison M.J Brooks",
+      "text": "I couldn't even get past the Sign Up. It was so excruciatingly s-l-o-w ! I think I may have aged an additional 3 years waiting and then I decided to uninstall.",
+      "reply": "Really sorry you had a bad experience with DogLog. We will keep working on it.",
+      "replyDate": "2022-06-09T06:12:42.173Z",
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=505b7a23-312c-4a5d-a7eb-86e3c9dff00a"
+    },
+    {
+      "date": "2022-04-10T17:32:28.963Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "Amy Adkins",
+      "text": "Great app and fantastic help for my husband and me while raising our brand new 8 week old puppy. Def worth the $ for premium! We've just found the \"alert after event\" feature which is awesome and crucial for housetraining. But, it seems that alerts aren't shared across people/devices, and so they happen only for the person/device that entered the event. We are looking forward to an update that will allow all events and alerts to be shared across people/devices or a workaround tip to do it now!",
+      "reply": "Thanks for your review and feedback, Amy! Please recommend our app to your friends, and don’t hesitate to shoot us a note at support@doglogapp.com if you have any questions.",
+      "replyDate": "2022-06-09T06:14:37.560Z",
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=785f2454-815c-4f19-b979-a60025ff6a9e"
+    },
+    {
+      "date": "2022-04-03T16:42:04.270Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Taylor Hendricks",
+      "text": "Easy to use and excellent for collaboration in raising your pup!",
+      "reply": "Thanks for your review Taylor! Please recommend our app to your friends, and don’t hesitate to shoot us a note at support@doglogapp.com if you have any questions.",
+      "replyDate": "2022-06-09T06:11:17.673Z",
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=2f4eb107-e42b-4aa1-9a0d-0a509087f745"
+    },
+    {
+      "date": "2022-03-16T17:50:35.973Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "DD",
+      "text": "Comfusing",
+      "reply": "Hi Diane, I'm sorry that the app is confusing. If you have specific questions, I am happy to provide more information through email or on a call. Feel free to email me at support@doglogapp.com with questions",
+      "replyDate": "2022-03-16T17:55:33.182Z",
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=10700317-0f2d-4a39-835d-a8697ae38862"
+    },
+    {
+      "date": "2022-02-28T12:10:50.284Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Anthony Bravo",
+      "text": "Play Lenka Diamond always use it for my dog",
+      "reply": "Thank you for downloading our app! We will keep working on it!",
+      "replyDate": "2022-06-09T06:10:48.423Z",
+      "url": "https://play.google.com/store/apps/details?id=com.mobikode.dog&reviewId=0da6d324-3464-4e5b-8476-39371609abd1"
+    }
+  ]
+}

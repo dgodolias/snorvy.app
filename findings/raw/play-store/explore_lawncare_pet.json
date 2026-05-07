@@ -1,0 +1,76 @@
+{
+  "tick": 11,
+  "niche": "lawn_landscape_pet_singlepro",
+  "country": "us",
+  "date": "2026-05-07",
+  "rejected_marketplaces": ["TaskEasy", "LawnStarter", "Wag", "Rover", "GreenPal", "LawnGuru", "Plowz", "PetBacker", "HiredHelpr"],
+  "rejected_consumer_DIY": ["My Lawn (Scotts)", "Yard Mastery", "Sunday Lawn", "Lawn Care Log"],
+  "candidates": [
+    {
+      "appId": "com.app.yardbook",
+      "title": "Yardbook",
+      "developer": "Yardbook",
+      "installs": "100,000+",
+      "score": 4.55,
+      "ratings": 1943,
+      "recent_n": 12,
+      "recent_low_n": 0,
+      "recent_low_pct": 0.0,
+      "vulnerability_thesis": "Healthy. Strong loyalty. NOT vulnerable. Free-tier moat well loved."
+    },
+    {
+      "appId": "com.sweetss.timetopet",
+      "title": "Time To Pet - Pet Care App",
+      "developer": "Time To Pet",
+      "installs": "100,000+",
+      "score": 3.74,
+      "ratings": 355,
+      "recent_n": 15,
+      "recent_low_n": 9,
+      "recent_low_pct": 60.0,
+      "verbatim_top_low": "They claim to have updated the app so it wouldn't freeze when you send the report. The problem got worse. I could have my uploads go through and once it gets to finalizing it doesn't go through. I have to close and try again. And that's if I can get through that. It has gotten to the point I have to restart my phone entirely to make a report go through.",
+      "verbatim_thumbs": 4,
+      "vulnerability_thesis": "STRONG cell — 60% recent low on n=15. Pet-care pro CRM with chronic Android stability issues (freeze on report send). Pet sitters/walkers stuck because client base is locked to the platform."
+    },
+    {
+      "appId": "com.dsi.pet",
+      "title": "DaySmart Pet Software",
+      "developer": "DaySmart",
+      "installs": "10,000+",
+      "score": 3.31,
+      "ratings": 410,
+      "recent_n": 1,
+      "recent_low_n": 1,
+      "recent_low_pct": 100.0,
+      "verbatim_top_low": "it won't open on my phone thru the shortcut no matter how many times I reinstall. I have to go to the app store EVERY time and open it from there. I wish the owners here would ditch this dumb non functioning app.",
+      "verbatim_thumbs": 0,
+      "vulnerability_thesis": "Tiny n=1 recent. Historic 3.3★ score signals long-term unhappiness but no recent reviews flow."
+    },
+    {
+      "appId": "com.scoutforpets.staff",
+      "title": "Scout for Dog Walkers",
+      "developer": "PetMethod LLC",
+      "installs": "10,000+",
+      "score": 3.35,
+      "ratings": 65,
+      "recent_n": 0,
+      "recent_low_n": 0,
+      "recent_low_pct": null,
+      "vulnerability_thesis": "Dead. No recent reviews. Likely abandoned by users."
+    },
+    {
+      "appId": "com.lawnprosoftware.lawnproapp",
+      "title": "Lawn Pro",
+      "developer": "LawnPro Software",
+      "installs": "10,000+",
+      "score": 3.46,
+      "ratings": 117,
+      "recent_n": 1,
+      "recent_low_n": 1,
+      "recent_low_pct": 100.0,
+      "verbatim_top_low": "Used this app for several years, just attempted to log in and was informed my account had been deleted, by them, not me. A whole lot of data and customer information just vanished by their mess up. I'd give it zero stars if I could",
+      "verbatim_thumbs": 0,
+      "vulnerability_thesis": "Tiny n=1 recent but verbatim is catastrophic — account-wipe + data loss. Plus 3.46★ historical = chronic unhappiness."
+    }
+  ]
+}

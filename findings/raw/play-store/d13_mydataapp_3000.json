@@ -1,0 +1,1239 @@
+{
+  "app": "gr.aade.mydataapp",
+  "country": "gr",
+  "lang": "el",
+  "total_pulled": 123,
+  "total_after_filter": 123,
+  "reviews": [
+    {
+      "date": "2026-05-02T14:04:34.362Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "Maria Anna Nomikou",
+      "text": "μπορείτε να προσθέσετε και την επιλογή απόδειξη παροχής υπηρεσιών εκτός από τιμολόγιο;;;;;",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=gr.aade.mydataapp&reviewId=34e9d774-239f-42ba-9057-54dfc7127d32"
+    },
+    {
+      "date": "2026-04-29T18:50:09.303Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "Dimtiris Kiriakakis",
+      "text": "Σημειωστε τα bugs για να τα διορθωσετε. Δεν αποθηκευει τους φιλικους κωδικους . διαχειριζομαι 4 λογαριασμους. ετσι ωστε απο ενα κινητο να μπαινουμε ευκολα με αποθηκευμενα τα στοιχεια ολων των λογαριασμών. το ΦΠΑ του προιοντος δεν το φερνει στο παρατατικο!! τη μοναδα μετρησης δεν φερνει τον τιτλο και τον ζηταει καθε φορα ενω τον εχω περάσει στη καταχωρηση του ειδους",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=gr.aade.mydataapp&reviewId=a3bef903-9990-4123-9b5b-90b7925b783f"
+    },
+    {
+      "date": "2026-04-24T03:15:39.750Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "ΑΝΑΣΤΆΣΙΟΣ ΔΑΒΟΣ",
+      "text": "πολύ καλή",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=gr.aade.mydataapp&reviewId=a5dbfd79-46f2-40f3-8f7d-9f189614211d"
+    },
+    {
+      "date": "2026-04-23T15:20:46.960Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "niki karasman",
+      "text": "σάς παρακαλώ φτιάξτε την συσχέτιση δελτίων με τιμολόγιο. δύο μέρες τώρα δεν δουλεύει",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=gr.aade.mydataapp&reviewId=dd3699c9-3b72-4d8c-a4e3-4d528afc55eb"
+    },
+    {
+      "date": "2026-04-12T12:20:05.400Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "teo iliou",
+      "text": "Δεν λειτουργεί",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=gr.aade.mydataapp&reviewId=1947743b-5988-40a8-9778-67a6b73d192c"
+    },
+    {
+      "date": "2026-04-02T15:03:18.230Z",
+      "score": 5,
+      "thumbsUp": 6,
+      "user": "Νικόλαος Μαστρογιώργης",
+      "text": "πολύ καλό για ενημερώσεις από την εφορεία.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=gr.aade.mydataapp&reviewId=0f47a63d-a9d2-48ea-92b8-7aabd7f10d66"
+    },
+    {
+      "date": "2026-03-29T04:19:37.516Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Γεώργιος Μπανασάκης",
+      "text": "καλο",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=gr.aade.mydataapp&reviewId=726b07fd-f6b2-494a-84b3-8a8fe4253e26"
+    },
+    {
+      "date": "2026-03-26T01:23:03.458Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Triantafyllos Plagianos",
+      "text": "Perfect ❤️",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=gr.aade.mydataapp&reviewId=f5ddaa73-a181-4682-b030-e6df901ae2a6"
+    },
+    {
+      "date": "2026-03-22T17:58:43.462Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "Valantis Ζark",
+      "text": "Προσθέστε επιλογή για απόδειξη είσπραξης.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=gr.aade.mydataapp&reviewId=88ccf541-333c-44cf-bc2a-0d78673a65ef"
+    },
+    {
+      "date": "2026-03-08T15:43:01.337Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Lefteris Goulas",
+      "text": "poli kalo",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=gr.aade.mydataapp&reviewId=e987a05e-b1c7-4960-9c0c-dce510cb294e"
+    },
+    {
+      "date": "2026-03-07T11:30:52.460Z",
+      "score": 1,
+      "thumbsUp": 5,
+      "user": "Παναγιώτης Κονδάκης",
+      "text": "Δεν λειτουργεί, δεν μπορούμε να εκδώσουμε παραστατικό !",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=gr.aade.mydataapp&reviewId=2fdb79c2-f27c-4848-9479-60e45da21d86"
+    },
+    {
+      "date": "2026-02-10T20:13:32.648Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "ΚΥΡΙΑΚΟΣ",
+      "text": "μια χαρά",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=gr.aade.mydataapp&reviewId=381a8867-11e8-4e72-bced-f6c226bfa9e1"
+    },
+    {
+      "date": "2026-02-05T09:22:30.692Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "ENTELA HOXHALLI",
+      "text": "telio",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=gr.aade.mydataapp&reviewId=4e71c0a8-60a6-43c1-a63c-8ac192bad26d"
+    },
+    {
+      "date": "2026-01-30T11:53:37.335Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "NCH",
+      "text": "Μετά την τελευταία ενημέρωση παρουσιάζει πρόβλημα στην εισαγωγή προϊόντων και υπηρεσιών μέσω του data app.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=gr.aade.mydataapp&reviewId=c9994697-ac48-470d-9a96-818a0da0290e"
+    },
+    {
+      "date": "2026-01-25T20:45:35.571Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Thanasis M",
+      "text": "Δεν υπάρχει η προσωρινή αποθήκευση.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=gr.aade.mydataapp&reviewId=3cd3505b-4677-40f5-83f2-5ed643c8800c"
+    },
+    {
+      "date": "2026-01-25T19:55:42.835Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Petros Tsaros",
+      "text": "OK OK",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=gr.aade.mydataapp&reviewId=c4025763-bd1d-43aa-a686-d470f200b37a"
+    },
+    {
+      "date": "2026-01-24T12:36:19.961Z",
+      "score": 5,
+      "thumbsUp": 6,
+      "user": "Κώστας Βλαστάρης",
+      "text": "Θα ήταν χρήσιμο για μικρές επιχειρήσεις στον κλάδο των κουφωμάτων και κατασκευών να μπορούν να επεμβαίνουν στην περιγραφή του προϊόντος ή να υπάρχει 2ο κενό πεδίο από κάτω πχ ένα παράθυρο αλουμινίου είναι προϊόν, άλλη διάσταση 50 Χ 50 .. άλλη 60 Χ 100 και γενικά λεπτομέρειες που διευκολύνουν καί στο δελτίο αποστολής",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=gr.aade.mydataapp&reviewId=f095dbb5-5fb9-4e72-8f67-e8ae47442397"
+    },
+    {
+      "date": "2026-01-23T23:09:00.430Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "LIA TAKIDOU",
+      "text": "οκ",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=gr.aade.mydataapp&reviewId=7cfc043e-46a4-4e09-a348-e38bcfa09f73"
+    },
+    {
+      "date": "2026-01-23T13:18:12.693Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "Leart Toska",
+      "text": "Θα υπάρχει δυνατότητα έκδοσης Δελτίου Ποσοτικής Παραλαβής σε επόμενη εκδοση της εφαρμογής? Αν ναι πότε αναμένεται?",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=gr.aade.mydataapp&reviewId=53bb0033-6833-4d30-bc11-d76168817987"
+    },
+    {
+      "date": "2026-01-21T15:34:10.960Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "ΠΈΤΡΟΣ ΤΣΆΡΟΣ",
+      "text": "Οκ",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=gr.aade.mydataapp&reviewId=483f9ccb-6ef7-45eb-8d53-0b0af01a4784"
+    },
+    {
+      "date": "2026-01-16T18:55:50.430Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Dim Ior",
+      "text": "Η εφαρμογή (πελατολόγιο) λειτουργούσε κανονικά με σκανάρισμα αποδείξεων από ΦΗΜ. Δε λειτουργούσε με σκαν από το e-timologio (με έγκυρος ΜΑΡΚ λέει). Σήμερα η συσκευή μου, έκανε αναβάθμιση στην έκδοση 1.0.15.26 και εμφανίζει μόνο δυο εκκρεμείς εργασίες, δεν εμφανίζει τις ολοκληρωμένες εργασίες ενώ διέγραψε και όλο το ιστορικό. Κάτι που μισο-δούλευε, χάλασε κι αυτό!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=gr.aade.mydataapp&reviewId=89e26053-655a-4973-9ceb-da370b22afc6"
+    },
+    {
+      "date": "2026-01-16T14:44:18.114Z",
+      "score": 5,
+      "thumbsUp": 2,
+      "user": "Grigoris Gri",
+      "text": "Εύκολη στη χρήση",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=gr.aade.mydataapp&reviewId=b9a9f880-d487-4299-ae53-7068325e86e1"
+    },
+    {
+      "date": "2026-01-15T09:58:00.574Z",
+      "score": 2,
+      "thumbsUp": 2,
+      "user": "Maria Lilli",
+      "text": "δυσλειτουργικο σε απλά θεματα",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=gr.aade.mydataapp&reviewId=5613d167-1631-4ab5-b0a2-85ce70ee68a2"
+    },
+    {
+      "date": "2026-01-15T09:10:50.822Z",
+      "score": 5,
+      "thumbsUp": 2,
+      "user": "Chr1st0sK",
+      "text": "Γενικά καλή εφαρμογή ,πρέπει να προστεθεί η δυνατότητα αποστολής του καταστατικού",
+      "reply": "Σας ενημερώνουμε με τη νέα έκδοση της εφαρμογής myDATAapp έχετε τη δυνατότητα λήψης του παραστατικού σε μορφή pdf στη συσκευή σας.",
+      "replyDate": "2025-02-21T10:29:28.315Z",
+      "url": "https://play.google.com/store/apps/details?id=gr.aade.mydataapp&reviewId=e14bc6cf-82d6-4672-b1be-28351a11b5eb"
+    },
+    {
+      "date": "2026-01-13T21:10:53.505Z",
+      "score": 4,
+      "thumbsUp": 2,
+      "user": "Stathis Kalotantanos",
+      "text": "13/01/26: \"+ΠΛΕΟΝ\" = θετική αλλαγή. \"+\"= θετική & \"-\"= αρνητική. -Δεν υπάρχει προσωρινή αποθήκευση παραστατικού. -Στην επιλογή \"Διακίνηση\" ο \"τόπος φόρτωσης\" να συμπληρώνεται ως αποθηκευμένος. +ΠΛΕΟΝ δεν επιλέγω τον ΦΠΑ κάθε φορά που τιμολογώ ένα προϊόν. +ΠΛΕΟΝ υπάρχει προσθήκη νέου προϊόντος στις ρυθμίσεις. +Το παραστατικό αποστέλλεται ως Pdf στο mail του παραλήπτη αυτόματα. +Για κάθε είδος παραστατικού εμφανίζονται τα προϊόντα που σχετίζονται μόνο με το είδος παραστατικού και όχι όλα μαζί.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=gr.aade.mydataapp&reviewId=253b57f1-6061-49a3-8ed6-4d85a3fdbd8b"
+    },
+    {
+      "date": "2025-12-29T16:59:53.298Z",
+      "score": 5,
+      "thumbsUp": 3,
+      "user": "Sofia Gkouvelou",
+      "text": "Πολύ καλή εφαρμογή κ παραδόξως είναι δωρεάν!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=gr.aade.mydataapp&reviewId=65a81eac-bae6-4d88-bef9-d3bf972be85f"
+    },
+    {
+      "date": "2025-12-29T05:00:28.273Z",
+      "score": 4,
+      "thumbsUp": 4,
+      "user": "Georgiadis Christos",
+      "text": "θεωρώ ότι θα έπρεπε να υπάρχει και η επιλογή ΤΙΜΟΛΟΓΙΟ ΔΕΛΤΙΟ ΑΠΟΣΤΟΛΗΣ για πώληση αγαθών στα ειδη παραστατικών και όχι μόνο σκέτο ΤΙΜΟΛΟΓΙΟ και ύστερα να επιλέγουμε δελτίο διακίνησης γιατί έτσι στον τίτλο του παραστατικού γραφει μόνο ΤΙΜΟΛΟΓΙΟ",
+      "reply": "Ευχαριστούμε για την ενημέρωση. Tο πρόβλημα που αναφέρετε έχει επιλυθεί.",
+      "replyDate": "2025-03-26T10:53:44.633Z",
+      "url": "https://play.google.com/store/apps/details?id=gr.aade.mydataapp&reviewId=ea22d050-b41c-4b5e-b893-dff3ab06831f"
+    },
+    {
+      "date": "2025-12-19T13:56:00.470Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Sifis Kiki",
+      "text": "καλή περίπτωση...",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=gr.aade.mydataapp&reviewId=40db865b-75b9-4a22-bf3a-d66b478840dc"
+    },
+    {
+      "date": "2025-12-16T21:56:18.570Z",
+      "score": 1,
+      "thumbsUp": 4,
+      "user": "ΗΛΙΑΣ ΔΟΥΡΙΔΑΣ",
+      "text": "Ήθελα να ήξερα ένας δεν κοιτάει τα τόσα αρνητικά σχόλια των υποψήφιων χρηστών να διορθώσει την εφαρμογή ώστε να είναι συμβατή και με τα tablet;;; Ελπίζω να δωθεί λύση άμεσα.",
+      "reply": "Σας ευχαριστούμε για την επισήμανση. Η σχετική διόρθωση για τη συμβατότητα με tablets έχει ήδη ενσωματωθεί στη νεότερη έκδοση της εφαρμογής. Παρακαλούμε, ελέγξτε για ενημερώσεις της εφαρμογής myDATAapp στο Google Play Store και δοκιμάστε ξανά.",
+      "replyDate": "2025-12-24T12:27:37.940Z",
+      "url": "https://play.google.com/store/apps/details?id=gr.aade.mydataapp&reviewId=e94fb93e-2615-47e3-aafc-558a80c33763"
+    },
+    {
+      "date": "2025-12-12T11:44:25.276Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Nikos Elegance",
+      "text": "Δημιουργήστε την εφαρμογή να είναι συμβατή και με τάμπλετ Android. Σε κινητά τηλέφωνα δουλεύει άψογα. Τα περισσότερα γραφεία έχουν τάμπλετ πλέον.",
+      "reply": "Σας ευχαριστούμε για την επισήμανση. Η σχετική διόρθωση για τη συμβατότητα με tablets έχει ήδη ενσωματωθεί στη νεότερη έκδοση της εφαρμογής. Παρακαλούμε, ελέγξτε για ενημερώσεις της εφαρμογής myDATAapp στο Google Play Store και δοκιμάστε ξανά.",
+      "replyDate": "2025-12-24T12:27:47.388Z",
+      "url": "https://play.google.com/store/apps/details?id=gr.aade.mydataapp&reviewId=31c31efc-a933-4db3-897b-759b2911d8a2"
+    },
+    {
+      "date": "2025-12-11T17:49:11.133Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "tommy mall",
+      "text": "Αναφέρεται πρώτα πώς ή εφαρμογή χρειάζεται παραμετροποίηση στοιχείων στο e τιμολόγιο πρώτα,και ύστερα μπορείς να την χρησιμοποιήσεις.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=gr.aade.mydataapp&reviewId=749a2f8e-bb2d-4e69-b4b6-ba0045a45569"
+    },
+    {
+      "date": "2025-12-06T15:42:53.440Z",
+      "score": 1,
+      "thumbsUp": 2,
+      "user": "Dim Zev",
+      "text": "ΑΠΑΡΆΔΕΚΤΟ... δεν κατεβάζει το τιμολόγιο... Δεν λειτουργούν τα φίλτρα για ημερομηνίες παραστατικων κλπ Δεν διευκολύνει πουθενά και μόνο προσθέτει προβλήματα στην ήδη προβληματική διαδικασία Ντροπή!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=gr.aade.mydataapp&reviewId=cfbf109b-9ea0-40c6-a4b5-57242d4bb06e"
+    },
+    {
+      "date": "2025-12-04T08:50:57.766Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Eftihios",
+      "text": "den leitourgeu",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=gr.aade.mydataapp&reviewId=d452280c-ff1a-41f9-b891-0f3cf39b9b42"
+    },
+    {
+      "date": "2025-12-03T17:43:18.350Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Rev8 Vero",
+      "text": "Καλό",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=gr.aade.mydataapp&reviewId=aeed6a3e-46e0-4189-9d3b-22cf940c0eeb"
+    },
+    {
+      "date": "2025-11-28T05:17:33.890Z",
+      "score": 1,
+      "thumbsUp": 8,
+      "user": "ΓΕΩΡΓΙΟΣ ΒΕΛΟΥΔΗΣ",
+      "text": "τα συγχαρητήρια μου στον προγραμματιστή...1 μηνα μετα την εγκατασταση του δεν λειτουργεί σε samsung tablet A9+ ed.2025!",
+      "reply": "Σας ευχαριστούμε για την επισήμανση. Η σχετική διόρθωση για τη συμβατότητα με tablets, συμπεριλαμβανομένου του Samsung Galaxy Tab A9+, έχει ήδη ενσωματωθεί στη νεότερη έκδοση της εφαρμογής. Παρακαλούμε, ελέγξτε για ενημερώσεις της myDATAapp στο Google Play Store και δοκιμάστε ξανά.",
+      "replyDate": "2025-12-24T12:39:18.869Z",
+      "url": "https://play.google.com/store/apps/details?id=gr.aade.mydataapp&reviewId=8a34d0e4-eef0-4147-80b6-83830bf08d00"
+    },
+    {
+      "date": "2025-11-22T15:19:23.132Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Sophie Nikos",
+      "text": "Ενώ έχω περάσει, τα αγαθά στην εφαρμογή my data στο web, δεν μου τα εμφανίζει στο my data app. Γιατί; Και επίσης τι νόημα έχει να μπαίνουμε στο web για να περνάμε προϊόντα και μετά να το κόβουμε από το κίνητο, το θέμα είναι όλα να γίνονται από την εφαρμογή!!!",
+      "reply": "Σας ενημερώνουμε ότι η δημιουργία προϊόντων και υπηρεσιών γίνεται πλέον απευθείας και μέσα από το myDATAapp. Παρακαλούμε βεβαιωθείτε ότι έχετε την τελευταία έκδοση και δοκιμάστε να κάνετε ανανέωση στη λίστα αγαθών για να δείτε τα δεδομένα σας.",
+      "replyDate": "2025-12-24T12:49:55.457Z",
+      "url": "https://play.google.com/store/apps/details?id=gr.aade.mydataapp&reviewId=d2bc5d6e-d491-459c-b015-e82c0760d924"
+    },
+    {
+      "date": "2025-11-21T20:28:18.249Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Νικολας Πικουνης",
+      "text": "καταπληκτική οργάνωση",
+      "reply": "Σας ευχαριστούμε θερμά για τα καλά σας λόγια! Είμαστε στη διάθεσή σας για οτιδήποτε χρειαστείτε",
+      "replyDate": "2025-12-24T12:53:44.954Z",
+      "url": "https://play.google.com/store/apps/details?id=gr.aade.mydataapp&reviewId=86779bde-5407-49e9-b45e-c43b28b0afb5"
+    },
+    {
+      "date": "2025-11-20T19:39:56.405Z",
+      "score": 2,
+      "thumbsUp": 2,
+      "user": "sofia t",
+      "text": "Δεν ανοίγει τα παραστατικά ως pdf εδώ και 1 μήνα ,ενώ πριν δεν υπήρχε πρόβλημα.Δεν έχω αλλάξει κάτι στις ρυθμίσεις,έχω κάνει ενημέρωση κι έχω απενεργοποιήσει την ασφάλεια για αυτό το application",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=gr.aade.mydataapp&reviewId=93a5a128-efce-49e3-bbe7-1a15d10ac2f5"
+    },
+    {
+      "date": "2025-11-19T08:51:32.314Z",
+      "score": 1,
+      "thumbsUp": 9,
+      "user": "Andreas Anagnostopoulos",
+      "text": "Θα έπρεπε να είναι διαθέσιμη και σε ταμπλετ",
+      "reply": "Σας ευχαριστούμε για την επισήμανση. Η σχετική διόρθωση για τη συμβατότητα με tablets έχει ήδη ενσωματωθεί στη νεότερη έκδοση της εφαρμογής. Παρακαλούμε, ελέγξτε για ενημερώσεις της εφαρμογής myDATAapp στο Google Play Store και δοκιμάστε ξανά.",
+      "replyDate": "2025-12-24T12:52:22.599Z",
+      "url": "https://play.google.com/store/apps/details?id=gr.aade.mydataapp&reviewId=36f0e955-cd58-46ea-906a-257cbc90f41d"
+    },
+    {
+      "date": "2025-11-18T20:59:16.803Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Giannis Mitou",
+      "text": "με τους φιλικούς κωδικούς δεν μπορώ να μπω από το app. από laptop ok.. φτιάξτε το παρακαλώ.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=gr.aade.mydataapp&reviewId=83e9331b-d752-4791-8af6-dfa1e8bb54c7"
+    },
+    {
+      "date": "2025-10-24T09:46:36.981Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "mrk sm",
+      "text": "Μαύρο χάλι",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=gr.aade.mydataapp&reviewId=bd7cecaf-560f-456a-bb6b-7cdac6757e37"
+    },
+    {
+      "date": "2025-10-22T05:08:42.796Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "George Papapanagiotou",
+      "text": "Αφού εκδώσουμε τιμολόγιο δεν κατεβάζει το pdf και απλά κολλάει μένει να φορτώνει τη σελίδα.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=gr.aade.mydataapp&reviewId=cab9803b-6f28-4945-bc2d-f90e52b80703"
+    },
+    {
+      "date": "2025-10-21T21:08:56.173Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "Apisteytos",
+      "text": "κάνω είσοδο με φιλικούς κωδικούς και μ λεει οτι απαγορεύεται η πρόσβαση. για πιο λόγο????",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=gr.aade.mydataapp&reviewId=e3c70346-4c5d-4318-b34e-11f5e4ca36ad"
+    },
+    {
+      "date": "2025-10-09T12:52:58.940Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Εργαστήρι Ραπτικής ΛΥΧΑΝΙΔΗ",
+      "text": "Η εφαρμογή γενικά πολύ καλή. θέλει να προσέξετε κάποιες λεπτομέρειες που έχουμε εμείς οι χρήστες. 1. επιλογή αποστολής σε email το τιμολόγιο που κόβουμε πριν την έκδοση. (επειδή κάποια τιμολόγια πρέπει να πληρωθούν πρώτα και μετά αποστέλλονται στους πελάτες, επισης αλλα δεν έχουν καταχωρημένα email και άλλα τα περνουν άμεσα επί τόπου) 2. Στις εκπτώσεις κάνουμε έκπτωση ανά προϊόν ξεχωριστά, ενώ δεν έχει επιλογή για το σύνολο του τιμολογίου. π.χ. 8€ ή 10% με ποσοστό στο σύνολο Ευχαριστώ",
+      "reply": "Ευχαριστούμε πολύ για την κριτική σας και τις παρατηρήσεις σας.",
+      "replyDate": "2025-10-16T08:04:42.718Z",
+      "url": "https://play.google.com/store/apps/details?id=gr.aade.mydataapp&reviewId=af5295dc-d9d5-40a8-aa1d-d61df3f08bae"
+    },
+    {
+      "date": "2025-10-07T22:05:22.185Z",
+      "score": 5,
+      "thumbsUp": 8,
+      "user": "mike kydonakis",
+      "text": "Αν μπορείτε να επιλύσετε άλλο ένα μικρό πρόβλημα είναι ότι το έξυπνο pin μετά από κάποιο διάστημα βγαίνει εκτός και ζητάει τους κωδικούς που έχεις κάνει την εγγραφή στην εφαρμογή. Δεν υπάρχει η δυνατότητα αυτόματης συμπλήρωσης έτσι ώστε να μην χάνουμε χρόνο να βρούμε τους κωδικούς. Μιλάω για συσκευές android",
+      "reply": "Ευχαριστούμε πολύ για την κριτική σας. Θα συνεχίσουμε να βελτιώνουμε την εφαρμογή προς όφελος του χρήστη. Η έκδοση παραστατικού από το myDATAapp προϋποθέτει να έχετε ήδη καταχωρήσει χαρακτηρισμούς στα προϊόντα/υπηρεσίες σας.",
+      "replyDate": "2025-10-05T21:04:26.728Z",
+      "url": "https://play.google.com/store/apps/details?id=gr.aade.mydataapp&reviewId=77a5e1bc-7df1-4d97-b34b-8b6582ab086a"
+    },
+    {
+      "date": "2025-10-06T18:58:02.771Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Engin Molla G4",
+      "text": "όταν επιλέγω έκδοση τιμολόγιο παροχής υπηρεσιών δεν μου επιτρέπει να κάνω προσθήκη αγαθών υπηρεσιών γιατί;; ενώ στην επιλογή ΑΠΥ μου επιτρέπει να συμπληρώσω.",
+      "reply": "Για να κάνετε προσθήκη αγαθών/υπηρεσιών σε τιμολόγιο παροχής υπηρεσιών από το myDATAapp ώστε να κάνετε έκδοση, θα πρέπει πρώτα μέσω της web εφαρμογής timologio, να έχετε καταχωρήσει στα αγαθά/υπηρεσίες σας χαρακτηρισμούς και για το συγκεκριμένο τύπο παραστατικού.",
+      "replyDate": "2025-10-07T08:06:43.648Z",
+      "url": "https://play.google.com/store/apps/details?id=gr.aade.mydataapp&reviewId=975753ac-fd65-4479-9f51-0dc953143f07"
+    },
+    {
+      "date": "2025-10-05T08:01:04.647Z",
+      "score": 5,
+      "thumbsUp": 13,
+      "user": "Dimitris Stamboulidis",
+      "text": "Πολύ ωραία εφαρμογή. Μια απαραίτητη συμπλήρωση που πρέπει να κάνετε κατά την γνώμη μου είναι η προεπισκόπηση παραστατικού, όπως ακριβώς υπάρχει και στο etimologio. Επίσης να υπάρχει η δυνατότητα αποθήκευσης ενός παραστατικού σε περίπτωση που θέλω να το ολοκληρώσω αργότερα.",
+      "reply": "Ευχαριστούμε πολύ για την κριτική σας!",
+      "replyDate": "2025-04-08T12:56:55.820Z",
+      "url": "https://play.google.com/store/apps/details?id=gr.aade.mydataapp&reviewId=7e4f1847-7366-4958-b33b-7488ec8c747c"
+    },
+    {
+      "date": "2025-10-01T12:25:22.873Z",
+      "score": 4,
+      "thumbsUp": 3,
+      "user": "ΜΑΡΚΟΣ ΜΑΚΡΙΝΟΣ",
+      "text": "Θέλει δουλειά ακόμα καλή εφαρμογή",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=gr.aade.mydataapp&reviewId=94f5b375-07bc-4111-b431-ec9eece23ec8"
+    },
+    {
+      "date": "2025-09-28T16:59:42.156Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "Vassilis Athanassiadis",
+      "text": "Αίτηση εφαρμογή, δεν δουλεύει...",
+      "reply": "Παρακαλούμε κάντε ενημέρωση (update) και δοκιμάστε ξανά. Είμαστε στη διάθεσή σας για οποιαδήποτε βοήθεια χρειαστείτε.",
+      "replyDate": "2025-12-24T13:09:08.767Z",
+      "url": "https://play.google.com/store/apps/details?id=gr.aade.mydataapp&reviewId=8aa9a901-1619-49bf-be86-37616da9f91b"
+    },
+    {
+      "date": "2025-09-25T13:13:41.550Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "Εμμανουήλ Καρανικόλας (taxissman)",
+      "text": "μετά την τελευταία αναβάθμιση δεν φέρνει καθόλου στοιχεία στην εικόνα my data στα έσοδα κ στα έξοδα.",
+      "reply": "Το συγκεκριμένο πρόβλημα έχει επιλυθεί. Η ενημέρωση της νέας έκδοσης θα γίνει κατά την είσοδο σας στην εφαρμογή.",
+      "replyDate": "2025-09-29T12:50:18.161Z",
+      "url": "https://play.google.com/store/apps/details?id=gr.aade.mydataapp&reviewId=6a66e240-32d5-4876-a6e8-f6bcfdbec81d"
+    },
+    {
+      "date": "2025-09-25T07:09:07.361Z",
+      "score": 1,
+      "thumbsUp": 14,
+      "user": "chiptronic",
+      "text": "δεν λειτουργεί σε tablet xiaomi pad 2 νέο μοντέλο ,γιατί αυτό ?Δεν υπάρχει υποστήριξη στην εφαρμογή για ένα τόσο σοβαρό πρόβλημα?",
+      "reply": "Σας ευχαριστούμε για την επισήμανση. Η σχετική διόρθωση για τη συμβατότητα με tablets έχει ήδη ενσωματωθεί στη νεότερη έκδοση της εφαρμογής. Παρακαλούμε, ελέγξτε για ενημερώσεις της εφαρμογής myDATAapp στο Google Play Store και δοκιμάστε ξανά.",
+      "replyDate": "2025-12-24T13:10:53.528Z",
+      "url": "https://play.google.com/store/apps/details?id=gr.aade.mydataapp&reviewId=631961d1-75b2-43d6-84fa-751b925ee247"
+    },
+    {
+      "date": "2025-09-25T07:04:32.721Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "Tasos Mais",
+      "text": "Μετα την ενημέρωση, δεν βλέπω την σύνοψη του μήνα",
+      "reply": "Το συγκεκριμένο πρόβλημα έχει επιλυθεί. Η ενημέρωση της νέας έκδοσης θα γίνει κατά την είσοδο σας στην εφαρμογή.",
+      "replyDate": "2025-09-29T12:50:35.333Z",
+      "url": "https://play.google.com/store/apps/details?id=gr.aade.mydataapp&reviewId=f66f54a8-3127-4505-9c5e-cb4a9b5bde01"
+    },
+    {
+      "date": "2025-09-25T06:48:40.456Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "Panos Daskalopoulos",
+      "text": "Δεν λειτουργεί η εικόνα mydata μετά την τελευταία αναβάθμιση...Τιμολόγιο και πελάτες κανονικά",
+      "reply": "Το συγκεκριμένο πρόβλημα έχει επιλυθεί. Η ενημέρωση της νέας έκδοσης θα γίνει κατά την είσοδο σας στην εφαρμογή.",
+      "replyDate": "2025-09-29T12:50:42.852Z",
+      "url": "https://play.google.com/store/apps/details?id=gr.aade.mydataapp&reviewId=f100e683-eeca-4293-ba50-0521f6114b11"
+    },
+    {
+      "date": "2025-09-25T01:11:19.318Z",
+      "score": 3,
+      "thumbsUp": 2,
+      "user": "Dj Wolf",
+      "text": "μετά την αναβάθμιση δεν λειτουργεί σωστά",
+      "reply": "Το συγκεκριμένο πρόβλημα έχει επιλυθεί. Η ενημέρωση της νέας έκδοσης θα γίνει κατά την είσοδο σας στην εφαρμογή.",
+      "replyDate": "2025-09-29T12:51:04.307Z",
+      "url": "https://play.google.com/store/apps/details?id=gr.aade.mydataapp&reviewId=9e3cb6da-ed8e-4d37-a8a8-1444b4aca654"
+    },
+    {
+      "date": "2025-09-24T23:03:11.639Z",
+      "score": 1,
+      "thumbsUp": 2,
+      "user": "Spyros Andreatos",
+      "text": "φτιαξτε το",
+      "reply": "Το συγκεκριμένο πρόβλημα έχει επιλυθεί. Η ενημέρωση της νέας έκδοσης θα γίνει κατά την είσοδο σας στην εφαρμογή.",
+      "replyDate": "2025-09-29T12:51:10.416Z",
+      "url": "https://play.google.com/store/apps/details?id=gr.aade.mydataapp&reviewId=5ae1ea00-018e-443d-b09a-ff753819fb7e"
+    },
+    {
+      "date": "2025-09-24T07:06:34.186Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "giannhs afx",
+      "text": "Είναι καλό αλλά μερικές φορές κολλάει ειδικά με τα τιμολόγια Ευρ. Ένωσης. Επίσης καλό θα ήταν να είχε στη φόρμα γραμμή για τραπεζικό λογαριασμό.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=gr.aade.mydataapp&reviewId=85e01478-7a03-43f2-9e69-a94b0bfb6ae8"
+    },
+    {
+      "date": "2025-09-15T12:38:23.752Z",
+      "score": 1,
+      "thumbsUp": 10,
+      "user": "Giannis Galanos",
+      "text": "Μα είναι δυνατόν να μην μπορεί να εγκατασταθεί σε τάμπλετ; Απευθείας ανάθεση να τολμήσω να πω;",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=gr.aade.mydataapp&reviewId=8dd4ddf1-4e5a-4273-a3a4-29cc7ba4318b"
+    },
+    {
+      "date": "2025-09-02T10:51:24.699Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "tasos liakos",
+      "text": "Αυτό που χρειάζεται άμεσα η εφαρμογή είναι προεπισκόπηση πριν την έκδοση, σίγουρα θα μπορούσε να γίνει καλύτερη, εκδίδω για τιμολόγια από smartphone.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=gr.aade.mydataapp&reviewId=3a024a71-c858-41c2-a237-f52c3b39b3b6"
+    },
+    {
+      "date": "2025-08-25T06:27:04.145Z",
+      "score": 4,
+      "thumbsUp": 1,
+      "user": "Dimitrios Grammatikopoulos",
+      "text": "Η εφαρμογή γίνεται πιο εύχρηστη από το περιβάλλον υπολογιστή. Παρακαλώ να προστεθεί στον τόπο φόρτωσης σε δελτίο αποστολής κουμπί που να συμπληρώνει τη διεύθυνση του καταστήματος ανάλογο με αυτό του τόπου προορισμού. Σ περίπτωση δελτίου αποστολής και όταν το συσχετίσεις με κάποιο τιμολόγιο, στα αγαθά στο τιμολόγιο δεν συμπληρώνεται αυτόματα ο ΦΠΑ και πρέπει να τον συμπληρώσεις εσύ, δλδ πχ να επιλέξεις το 24%.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=gr.aade.mydataapp&reviewId=422cb2b0-cc2d-4462-bce5-418c77f93689"
+    },
+    {
+      "date": "2025-08-12T15:35:33.546Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "George Gerontis",
+      "text": "Καλή προσπάθεια. Θέλει λίγη δουλίτσα ακόμα. Δεν εμφανίζονται τα προσωρινά αποθηκευμένα τιμολόγια που δημιουργούνται στην εφαρμογή e-timologio μέσω web.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=gr.aade.mydataapp&reviewId=84bc0865-eee6-4001-bd20-3d34ca289c9a"
+    },
+    {
+      "date": "2025-07-25T04:54:28.736Z",
+      "score": 1,
+      "thumbsUp": 6,
+      "user": "Spyros Barbatis",
+      "text": "Είναι δυνατόν να μην είναι διαθέσιμη σε tablet....;;;",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=gr.aade.mydataapp&reviewId=dd944e1c-af52-4296-aed6-52534dcb6384"
+    },
+    {
+      "date": "2025-07-23T21:38:15.747Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Saprikis P.C.",
+      "text": "Απλά εξυπηρετεί τις ανάγκες σου…",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=gr.aade.mydataapp&reviewId=28a62a53-e272-49dd-b0da-690662cbbd7b"
+    },
+    {
+      "date": "2025-07-17T20:06:56.509Z",
+      "score": 1,
+      "thumbsUp": 4,
+      "user": "Art Fineas",
+      "text": "αν είχε 0 αστέρια τόσα θα έβαζα....δεν συνδέεται... απαγορεύεται η πρόσβαση...με τους φιλικούς κωδικούς ενώ στο web μπαίνει κανονικά....",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=gr.aade.mydataapp&reviewId=77feb862-f9a6-471d-9907-4e095c49e417"
+    },
+    {
+      "date": "2025-07-16T13:22:56.308Z",
+      "score": 1,
+      "thumbsUp": 4,
+      "user": "maria siachami",
+      "text": "Δεν μπορώ να συνδεθώ με τους φιλικούς κωδικούς. Η δε υποστήριξη, ανύπαρκτη.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=gr.aade.mydataapp&reviewId=0f631644-d59c-40eb-93af-0acc99fdc4ad"
+    },
+    {
+      "date": "2025-07-16T11:52:00.280Z",
+      "score": 1,
+      "thumbsUp": 3,
+      "user": "ΝΙΚΟΣ ΠΑΤΣΑΣ",
+      "text": "δε λειτουργεί τίποτα",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=gr.aade.mydataapp&reviewId=ef54e9c0-95f1-4029-af07-843c419d257c"
+    },
+    {
+      "date": "2025-07-15T05:07:33.631Z",
+      "score": 1,
+      "thumbsUp": 8,
+      "user": "xanthos chatz",
+      "text": "δεν συνδέεται με τους φιλικούς κωδικούς . λέει ότι δεν έχω εξουσιοδότηση . η υποστήριξη είναι για κλάματα . πεταμένα λεφτά .",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=gr.aade.mydataapp&reviewId=9f2e1256-b727-4330-8904-c3343cca31d8"
+    },
+    {
+      "date": "2025-07-14T19:31:41.569Z",
+      "score": 1,
+      "thumbsUp": 3,
+      "user": "Terys Skartados",
+      "text": "Σαν τα δημόσια έργα είναι η εφαρμογή. Ο εργολάβος θέλει κι άλλα λεφτά για να συνεχίσει το έργο.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=gr.aade.mydataapp&reviewId=ec15bcf4-c7f6-40db-a884-3733855866c6"
+    },
+    {
+      "date": "2025-07-14T15:56:50.722Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Spyros Ofart",
+      "text": "ΔΕΝ λειτουργεί σε redmi (xiaomi) Tableτ Tab2 - 2025 -με android 15 ......λειτουργεί ομως στο παλιο multimedia android ηχοσυστημα που εχω στο αυτοκινητο ..... μεγαλη αποτυχια απο τους προγραμματιστες της Ελληνικης κυβερνησης",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=gr.aade.mydataapp&reviewId=374990cc-bb63-4882-be28-e28aed025ea4"
+    },
+    {
+      "date": "2025-07-14T15:01:14.670Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Lampros.Christos Kostopoulos",
+      "text": "Δεν βλέπω ούτε προϊόντα ούτε υπηρεσίες. Εκδίδω τιμολόγια μέσω άλλης εφαρμογής και όχι μέσω εφαρμογής timologio",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=gr.aade.mydataapp&reviewId=dfd128c8-6ee2-461f-aa49-9a733529948a"
+    },
+    {
+      "date": "2025-07-12T14:38:57.880Z",
+      "score": 1,
+      "thumbsUp": 9,
+      "user": "Παναγιώτης Βελονάς",
+      "text": "ενώ εχω δημιουργήσει φιλικούς κωδικούς, οταν τους βάζω μ βγάζει το εξής μήνυμα: απαγορευμένη ενέργεια, δεν εχετε άδεια πρόσβασης.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=gr.aade.mydataapp&reviewId=7d5700f0-b0e6-44c2-9385-e5216a4a8d85"
+    },
+    {
+      "date": "2025-07-11T09:34:02.490Z",
+      "score": 1,
+      "thumbsUp": 2,
+      "user": "Μάνθος Ρουσσέτος",
+      "text": "Δεν ειναι συμβατή με tab A9 ενος έτους",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=gr.aade.mydataapp&reviewId=5ef1d145-9cd9-470f-a1da-66548e359c06"
+    },
+    {
+      "date": "2025-07-11T09:32:01.756Z",
+      "score": 1,
+      "thumbsUp": 4,
+      "user": "Μητσος Κολιτσας",
+      "text": "Δεν είναι συμβατή με ταμπλετ ρε σεις πηγαίνετε να γίνετε ζαχαροπλαστες αφού δεν το έχετε με τα προγράμματα",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=gr.aade.mydataapp&reviewId=4d120003-6b10-4680-bf38-5f3ec304df25"
+    },
+    {
+      "date": "2025-07-10T21:21:18.852Z",
+      "score": 1,
+      "thumbsUp": 4,
+      "user": "Andre BL",
+      "text": "Δεν μου δείχνει τα προιοντα/υπηρεσίες για να επιλέξω ώστε να κόψω τιμολόγιο ενώ στο σαιτ όλα καλά. Εννοείται ότι τα έχω δημιουργήσει στο σαιτ Edit: Ακομα και σημερα μήνες μετά καμία υποστήριξη καθώς με ρωτούν όσα έχω ήδη γράψει εδώ. Δυστυχώς άχρηστη εφαρμογή για εμένα χωρίς τα απαραίτητα",
+      "reply": "Αν δεν εμφανίζονται τα προϊόντα/υπηρεσίες στην εφαρμογή myDATAapp, βεβαιωθείτε ότι τα έχετε δημιουργήσει στη web εφαρμογή timologio. Σημειώνεται ότι σε επόμενη έκδοση θα είναι δυνατή η προσθήκη προϊόντων/υπηρεσιών απευθείας από το myDATAapp.",
+      "replyDate": "2025-02-07T08:54:13.480Z",
+      "url": "https://play.google.com/store/apps/details?id=gr.aade.mydataapp&reviewId=79b82f5a-ea2d-493b-9628-92bbb8e4ecd2"
+    },
+    {
+      "date": "2025-07-10T14:59:46.565Z",
+      "score": 3,
+      "thumbsUp": 5,
+      "user": "George Chalkitis",
+      "text": "Δεν μπορώ να το εγκαταστήσω στο tablet Galaxy tab active 5 / SM-300X. Στο τηλέφωνο,Galaxy Xcover7, έχει εγκατασταθεί. ο λόγος είναι ότι το ταμπλετ πρέπει να έχει σύνδεση 4 ή 5g είτε με sim είτε με esim.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=gr.aade.mydataapp&reviewId=16840e03-a600-4608-ac6a-77880baecfda"
+    },
+    {
+      "date": "2025-06-30T19:43:17.696Z",
+      "score": 1,
+      "thumbsUp": 4,
+      "user": "Βικτωρία Μανιφαβα",
+      "text": "Δεν είναι συμβατή με tablet.....",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=gr.aade.mydataapp&reviewId=ce2c68ee-8216-4974-875e-57fa50cf735d"
+    },
+    {
+      "date": "2025-06-21T15:56:40.510Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "George Anagnostou",
+      "text": "για έκδοση τιμολογίου ίσως να λειτουργεί για έκδοση λιανικής πώλησης πρέπει να κάνεις προσευχές που δεν θα εισακουστούν εκεί οι ειδικοί τεχνοκράτες που ταλαιπωρούν τον κόσμο ας το πάρουν λίγο αλλιώς",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=gr.aade.mydataapp&reviewId=23d6c93b-47e6-445f-ba10-a3053b45147f"
+    },
+    {
+      "date": "2025-06-20T05:55:55.590Z",
+      "score": 1,
+      "thumbsUp": 2,
+      "user": "ΑΠΟΣΤΟΛΟΣ ΜΩΥΣΙΔΗΣ",
+      "text": "Άλλη μια εφαρμογή που πετάμε τα λεφτά μας οι φορολογούμενοι πολίτες δεν ανοίγει καν με τους κωδικούς taxis το περίφημο ψηφιακό κράτος αξιολόγηση 0",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=gr.aade.mydataapp&reviewId=96ac5882-5e4c-457e-a9e4-4d3c1a443a51"
+    },
+    {
+      "date": "2025-06-15T06:01:51.124Z",
+      "score": 2,
+      "thumbsUp": 2,
+      "user": "ΔΗΜΟΣ ΚΟΥΤΑΝΤΕΛΙΑΣ",
+      "text": "δεν έχει περαστεί ακόμα το νέο τέλος ανθεκτικότητας στην κλιματική κρίση που τουλάχιστον για τα ενοικιαζόμενα δωμάτια που με ενδιαφέρει είναι για τους μήνες Μάιο έως Οκτώβριο 2ευρω. και αναρωτιέμαι αν δεν έχει περαστεί τώρα που κόβουμε παραστατικά για τους μήνες αυτούς πότε θα περαστεί το χειμώνα;",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=gr.aade.mydataapp&reviewId=1cfc5bea-f092-4f6c-8612-b197045cf8eb"
+    },
+    {
+      "date": "2025-06-05T11:24:08.147Z",
+      "score": 1,
+      "thumbsUp": 7,
+      "user": "Θεόδωρος Βάρελης",
+      "text": "Αφού δεν δουλεύει ούτε σε τάμπλετ, ουτε σε κινητό γιατί μας αναγκάζετε να τρώμε το χρόνο μας?????",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=gr.aade.mydataapp&reviewId=c9dfec5c-ef6c-4050-9cb2-732d8fef721e"
+    },
+    {
+      "date": "2025-05-17T10:55:16.241Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Αλέξανδρος Σταματάς",
+      "text": "Χάνει γρήγορα την επιλογή για να μπεις με PIN",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=gr.aade.mydataapp&reviewId=33e32029-93fd-42d9-a9ea-9a174e664782"
+    },
+    {
+      "date": "2025-05-11T16:19:15.386Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "leo leonIdas",
+      "text": "Ακόμα είναι πολύ ελλιπής εφαρμογή... Περιορισμένες δυνατότητες μέσω κινητού..",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=gr.aade.mydataapp&reviewId=d30cbceb-a0df-4a05-9fa7-95161f8c0888"
+    },
+    {
+      "date": "2025-05-08T16:59:54.590Z",
+      "score": 3,
+      "thumbsUp": 2,
+      "user": "vasilis hatzimihailidis",
+      "text": "Και εγώ αντιμετωπίζω πρόβλημα με κωδικούς. Πρέπει να κάνω κάθε φορά την διαδικασία. Και επίσης όσο και αν ψάχνω κουμπί pdf δεν το βρίσκω πουθενά. Μόνο QR code βρισκω. Για να τυπώσω μπαίνω στο τιμολόγιο. Αυτά",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=gr.aade.mydataapp&reviewId=ac202469-9257-4292-b19f-4a1b9eca8240"
+    },
+    {
+      "date": "2025-05-05T13:07:14.849Z",
+      "score": 2,
+      "thumbsUp": 1,
+      "user": "Theodosis Fotiou",
+      "text": "επιλέγω να κατεβάσω το τιμολόγιο σε pdf και δεν προχωράει, απλά μια μαύρη οθόνη. Βάλτε προεπισκοπιση.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=gr.aade.mydataapp&reviewId=1ae9b430-7532-4071-9447-38e8971210f8"
+    },
+    {
+      "date": "2025-04-28T12:59:57.600Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "EK Electric",
+      "text": "Χρήσιμη και εύκολη στη χρήση εφαρμογή .",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=gr.aade.mydataapp&reviewId=366d522a-022f-4984-a8cc-fe76af365b66"
+    },
+    {
+      "date": "2025-04-27T10:25:24.807Z",
+      "score": 5,
+      "thumbsUp": 5,
+      "user": "Pelasgos 7",
+      "text": "Φιλική εφαρμογή ,καμία σχεση με το περιβάλλον web , οπου ευκολα μπορούσες να κάνεις το λάθος σε μια παράμετρο. Μπράβο σας",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=gr.aade.mydataapp&reviewId=0cf3a55f-7a2e-4252-b8e8-57272aeed755"
+    },
+    {
+      "date": "2025-04-22T19:29:58.547Z",
+      "score": 1,
+      "thumbsUp": 8,
+      "user": "DENNIS Z",
+      "text": "δεν μου δέχεται τους κωδικούς μου ενώ στις άλλες εφαρμογές του gov περνάνε κανονικά! κρίμα...φαινόταν καλή εφαρμογή στις φωτό...",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=gr.aade.mydataapp&reviewId=ea235628-2b66-479b-87a8-4ca01eba2535"
+    },
+    {
+      "date": "2025-04-18T20:26:18.467Z",
+      "score": 1,
+      "thumbsUp": 6,
+      "user": "Dimitrios Chatzis",
+      "text": "Δεν μου δέχεται τους κωδικούς μου ενώ, σε όλες όλες τις άλλες εφαρμογές του gov μου τους δέχεται και ανοίγουν όλες κανονικά, κάνω κάτι εγώ λάθος;",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=gr.aade.mydataapp&reviewId=04b3b10d-4586-42f0-a1a7-2365e3e7d64f"
+    },
+    {
+      "date": "2025-04-17T22:07:54.787Z",
+      "score": 3,
+      "thumbsUp": 2,
+      "user": "Dimitris Paliaris",
+      "text": "Όλα καλά αλλά ένα πλαίσιο για λογαριασμούς πληρωμών IBAN δεν έχετε βάλει όπως έχουν όλες οι άλλες εφαρμογές τιμολογίων, σας έχω στείλει και email από την αρχή λειτουργίας του timologio αλλά πέρα βρέχει....",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=gr.aade.mydataapp&reviewId=72eb3536-987c-4e9a-8116-d38116aab710"
+    },
+    {
+      "date": "2025-04-17T07:48:45.135Z",
+      "score": 4,
+      "thumbsUp": 16,
+      "user": "Constantinos Parissis",
+      "text": "Πρόταση (που ισχύει και για τη web εφαρμογή): να υπάρχει δυνατότητα εμφάνισης / απόκρυψης είδους παραστατικών. Είμαι ελ. επαγγελματίας κι εκδίδω μόνο παραστατικά υπηρεσιών. Κάθε φορά πρέπει να κάνω scroll down για να τα βρω κάτω από όλα τα παραστατικά πωλήσεων. Πολύς χαμένος χρόνος, και μεγάλη πιθανότητα λάθους.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=gr.aade.mydataapp&reviewId=958386ad-a124-4871-9a57-7c3709d06d0b"
+    },
+    {
+      "date": "2025-04-16T11:40:55.440Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Theodoros Marulis",
+      "text": "Πολύ καλό μπράβο.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=gr.aade.mydataapp&reviewId=1f59d8df-1e65-4c25-be3a-c950e4a8efb9"
+    },
+    {
+      "date": "2025-04-16T10:31:47.335Z",
+      "score": 2,
+      "thumbsUp": 3,
+      "user": "Christos Goulopoulos",
+      "text": "Ωραία προσπάθεια αλλά αυτή τη στιγμή δε λειτουργεί τίποτα εντός της εφαρμογής. Στα περισσότερα πεδία δεν μπορείς να κάνεις scroll μεταξύ των τίτλων των παρεχόμενων υπηρεσιών. Εμφανίζονται οι τελευταίες τρεις επιλογές μόνο χωρίς τη δυνατότητα scroll μεταξύ των επιλογών. Ελπίζω να διορθωθεί...",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=gr.aade.mydataapp&reviewId=e669c5ba-d0fa-47de-8311-0f4eb56968da"
+    },
+    {
+      "date": "2025-04-11T18:45:41.900Z",
+      "score": 4,
+      "thumbsUp": 1,
+      "user": "Pantelis Kolakis",
+      "text": "Αρκετά καλή. ένα μειονέκτημα είναι ότι δεν μπορώ να εκτυπώσω συνολική/μηνιαία καρτέλα παραστατικών πελάτη. Πράγμα που πολλές φορές χρειάζεται",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=gr.aade.mydataapp&reviewId=a7971ffd-a0c3-4030-bba7-f6ddd79046c5"
+    },
+    {
+      "date": "2025-04-10T18:05:07.208Z",
+      "score": 1,
+      "thumbsUp": 9,
+      "user": "panos grv",
+      "text": "φτιάξτε την εφαρμογή δεν λειτουργεί σωστά!!!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=gr.aade.mydataapp&reviewId=e5f753a0-9a8a-4bc2-be3e-db8281fc7c80"
+    },
+    {
+      "date": "2025-04-08T17:49:58.356Z",
+      "score": 5,
+      "thumbsUp": 2,
+      "user": "Σπύρος Γλυμακόπουλος",
+      "text": "πάρα πολύ καλό και βολικό δεν παίζει όμως σε ταμπλετ",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=gr.aade.mydataapp&reviewId=09553a60-7468-45d3-bb98-f9fc64378670"
+    },
+    {
+      "date": "2025-04-07T15:46:23.150Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "dimitris leonid",
+      "text": "poly kalo",
+      "reply": "Ευχαριστούμε πολύ για την κριτική σας!",
+      "replyDate": "2025-04-08T12:50:49.760Z",
+      "url": "https://play.google.com/store/apps/details?id=gr.aade.mydataapp&reviewId=e917720c-83db-4a36-98bb-1eb5cd7f4fa6"
+    },
+    {
+      "date": "2025-03-26T18:18:34.100Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Γιάννης Κοκκινίδης",
+      "text": "πολύ καλό καί πρακτικό",
+      "reply": "Ευχαριστούμε πολύ για την κριτική σας!",
+      "replyDate": "2025-04-08T12:49:49.496Z",
+      "url": "https://play.google.com/store/apps/details?id=gr.aade.mydataapp&reviewId=55dda5f6-37f2-49e1-9eec-4a003c828a0d"
+    },
+    {
+      "date": "2025-03-21T12:37:37.727Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Xaralampos Tentsidhs",
+      "text": "δεν συνδέεται παρουσιάστηκε σφάλμα λέει",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=gr.aade.mydataapp&reviewId=8610566c-445e-4d25-a876-8a2a2393b1f0"
+    },
+    {
+      "date": "2025-03-16T12:53:51.842Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Nikolas Chatzis",
+      "text": "Χρήσιμο app. Προσθέστε την είσοδο με φιλικούς κωδικούς και στην web εφαρμογή",
+      "reply": "Ευχαριστούμε πολύ για την κριτική σας! Πλέον οι φιλικοί κωδικοί που δημιουργήσατε μπορούν να χρησιμοποιηθούν και για είσοδο στη web εφαρμογή timologio.",
+      "replyDate": "2025-04-08T12:52:35.643Z",
+      "url": "https://play.google.com/store/apps/details?id=gr.aade.mydataapp&reviewId=f91a101b-aae5-44bb-bdb4-20f7fdb22b1f"
+    },
+    {
+      "date": "2025-03-10T16:49:18.912Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "George Karageorgos (GIO)",
+      "text": "Εύκολη έκδοση και αναζήτηση παραστατικών. Προσθέστε όμως και τη δημιουργία προϊόντων.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=gr.aade.mydataapp&reviewId=d985d945-002e-46b7-8e45-7b66ce42f9ef"
+    },
+    {
+      "date": "2025-02-28T14:53:24.237Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Πάνος Μακρής",
+      "text": "Χρήσιμη εφαρμογή! Σκεφτείτε σε επόμενη έκδοση να προσθέσετε την προσωρινή αποθήκευση παραστατικών.",
+      "reply": "Ευχαριστούμε για την πρότασή σας! Η δυνατότητα προσωρινής αποθήκευσης παραστατικών θα ληφθεί υπόψη για μελλοντική νέα έκδοση της εφαρμογής. Συνεχίζουμε να βελτιώνουμε το myDATAapp με γνώμονα τις ανάγκες των χρηστών.",
+      "replyDate": "2025-03-19T13:25:55.550Z",
+      "url": "https://play.google.com/store/apps/details?id=gr.aade.mydataapp&reviewId=64651b0c-408e-4c83-8895-74f7e6688ab0"
+    },
+    {
+      "date": "2025-02-28T11:31:18.981Z",
+      "score": 2,
+      "thumbsUp": 2,
+      "user": "Kostas Nestoras",
+      "text": "Σε κάθε αναβάθμιση πρεπει κάθε φορά να βάζεις username και password. Δεν δέχεται ούτε το pin ούτε το δακτυλικό αποτύπωμα",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=gr.aade.mydataapp&reviewId=1c336da4-4d6e-451a-bc96-a7ed4b16bcce"
+    },
+    {
+      "date": "2025-02-22T11:14:39.564Z",
+      "score": 4,
+      "thumbsUp": 6,
+      "user": "giannis k.",
+      "text": "Θα ηταν χρησιμο εκτος απο την καταχωρηση νεων πελατων να μπορουμε να καταχωρουμε και νεα αγαθα της επιχειρησης και να τα σκαναρουμε μεσω barcode στην εφαρμογη και να μην αναγκαζομαστε να τα καταχωρουμε μονο μεσω ηλεκτρονικου υπολογιστη",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=gr.aade.mydataapp&reviewId=cae3c368-5c96-4edd-9b1c-03da206ba897"
+    },
+    {
+      "date": "2025-02-21T17:25:39.939Z",
+      "score": 5,
+      "thumbsUp": 3,
+      "user": "Efstathios Efstathiadis",
+      "text": "Εύκολη αναζήτηση πελάτη & παραστατικων. Πολύ βολικό που με την έκδοση του παραστατικού στέλνεται με mail PDF στον παραληπτη. Θα ήταν πρακτικό ομωςνα μπορώ να το ξαναεκτυπώσω και απο το app. Στα συν η γρήγορη πρόσβαση με pin/ βιομετρικά, για λόγους ασφαλείας σωστά οι κωδικοί δεν αποθηκεύονται στο κινητό. Συν που στη νέα έκδοση προσθέσατε γρήγορη πρόσβαση για φιλικούς κωδικούς, ερωτοαπαντήσεις, οδηγίες. 4 & όχι 5 γιατί περιμένω προσθήκες..Update 21/02 Σημαντική προσθήκη η λήψη παραστατικών σε pdf!",
+      "reply": "Σας ενημερώνουμε με τη νέα έκδοση της εφαρμογής myDATAapp έχετε τη δυνατότητα λήψης του παραστατικού σε μορφή pdf στη συσκευή σας.",
+      "replyDate": "2025-02-21T10:30:39.692Z",
+      "url": "https://play.google.com/store/apps/details?id=gr.aade.mydataapp&reviewId=b27eba8c-b307-4bf3-aeb4-05864220fd71"
+    },
+    {
+      "date": "2025-02-21T11:56:05.936Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "dimitris filopoulos",
+      "text": "Καλή προσπάθεια. Σίγουρα η έλλειψη back button είναι μια αδυναμία της",
+      "reply": "Σας ενημερώνουμε με τη νέα έκδοση της εφαρμογής myDATAapp έχετε τη δυνατότητα λήψης του παραστατικού σε μορφή pdf στη συσκευή σας.",
+      "replyDate": "2025-02-21T10:28:32.407Z",
+      "url": "https://play.google.com/store/apps/details?id=gr.aade.mydataapp&reviewId=ee1864a5-a390-4741-829e-e7a4d2b7064e"
+    },
+    {
+      "date": "2025-02-21T11:27:47.803Z",
+      "score": 1,
+      "thumbsUp": 11,
+      "user": "George N",
+      "text": "Έφτιαξα φιλικούς κωδικούς αλλά μου βγαίνει το μήνυμα: «Απαγορευμένη ενέργεια. Δεν έχετε άδεια πρόσβασης» ΟΚ",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=gr.aade.mydataapp&reviewId=31a831e2-c1a7-4057-a9dc-e27cd47bdc77"
+    },
+    {
+      "date": "2025-02-21T10:56:49.785Z",
+      "score": 5,
+      "thumbsUp": 7,
+      "user": "thanasis karavidas",
+      "text": "Παρακαλώ βάλτε την δυνατότητα μετατροπής σε pdf για αποστολή ή εκτύπωση. Θα βοηθούσε πολύ. Update.. Ευχαριστώ για την απάντηση και την άμεση ικανοποίηση του αιτήματος.",
+      "reply": "Σας ενημερώνουμε με τη νέα έκδοση της εφαρμογής myDATAapp έχετε τη δυνατότητα λήψης του παραστατικού σε μορφή pdf στη συσκευή σας.",
+      "replyDate": "2025-02-21T10:28:50.388Z",
+      "url": "https://play.google.com/store/apps/details?id=gr.aade.mydataapp&reviewId=0682f064-ca5a-4696-8b0b-5e69e87c5581"
+    },
+    {
+      "date": "2025-02-21T10:31:26.789Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Spiros Pirgioglis",
+      "text": "Άδικος κοπος να χρησιμοποιήσουμε την εφαρμογή οταν δεν μπορούμε να εκτυπωσουμε το παραστατικο. 21/2 Επανέρχομαι μετα απο αναβάθμιση της εφαρμογής για αποθήκευση παραστατικών σε PDF. Ηταν κατι που χρειαζόταν!",
+      "reply": "Σας ενημερώνουμε με τη νέα έκδοση της εφαρμογής myDATAapp έχετε τη δυνατότητα λήψης του παραστατικού σε μορφή pdf στη συσκευή σας.",
+      "replyDate": "2025-02-21T10:28:45.172Z",
+      "url": "https://play.google.com/store/apps/details?id=gr.aade.mydataapp&reviewId=6fd6b6d3-cc5b-4ecc-a5d5-9ff8b3523aef"
+    },
+    {
+      "date": "2025-02-18T21:23:13.504Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "Giorgos Kanavakis",
+      "text": "Χρήσιμο αλλά... εάν δε μπορείς να το κατεβάσεις ή να το στείλεις ή να το κοινοποιήσεις το παραστατικό, δεν είναι πλήρως αξιοποιήσιμο.",
+      "reply": "Σας ενημερώνουμε με τη νέα έκδοση της εφαρμογής myDATAapp έχετε τη δυνατότητα λήψης του παραστατικού σε μορφή pdf στη συσκευή σας.",
+      "replyDate": "2025-02-21T10:27:37.249Z",
+      "url": "https://play.google.com/store/apps/details?id=gr.aade.mydataapp&reviewId=8eee91ae-f290-4560-8a55-f7991c512524"
+    },
+    {
+      "date": "2025-02-17T20:28:23.125Z",
+      "score": 2,
+      "thumbsUp": 3,
+      "user": "Γιωργος Πουλογλου",
+      "text": "Μια χαρά βολική εφαρμογή ,αλλα άντε και έκοψες τιμολόγιο η απόδειξη ...πως θα το στείλεις στον πελάτη αφού δεν μπορείς να το εξάγεις σε pdf???πάλι μισή δουλειά έκαναν!",
+      "reply": "Σας ενημερώνουμε με τη νέα έκδοση της εφαρμογής myDATAapp έχετε τη δυνατότητα λήψης του παραστατικού σε μορφή pdf στη συσκευή σας.",
+      "replyDate": "2025-02-21T10:27:49.121Z",
+      "url": "https://play.google.com/store/apps/details?id=gr.aade.mydataapp&reviewId=3f2c8d33-ce44-44d0-9e9d-beb5df0ffa57"
+    },
+    {
+      "date": "2025-02-13T14:23:30.680Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "Γεράσιμος Γιουλατος",
+      "text": "Είναι πολυ καλη ,φτανει να ολοκληρωθει , εκτυπωση και αποστολη .",
+      "reply": "Σας ενημερώνουμε με τη νέα έκδοση της εφαρμογής myDATAapp έχετε τη δυνατότητα λήψης του παραστατικού σε μορφή pdf στη συσκευή σας.",
+      "replyDate": "2025-02-21T10:28:23.717Z",
+      "url": "https://play.google.com/store/apps/details?id=gr.aade.mydataapp&reviewId=fa73b86f-80ab-4234-a91c-e30e46ebf896"
+    },
+    {
+      "date": "2025-02-13T11:18:42.713Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Αγιογραφίες Ιωάννινα",
+      "text": "Παρακαλώ τη βοήθειά σας. Χθες κατέβασα την εφαρμογή, έκανα φιλικούς κωδικούς, ΑΛΛΆ δεν μπορώ να μπω στην εφαρμογή, μου βγάζει μήνυμα, λάθος όνομα χρήστη ή κωδικός. Σήμερα το έλεγξε ο λογιστής μου, οι κωδικοί οκ, από το δικό του κινητό μπαίνει κανονικά. Έχω διαγράψει και ξανακατεβάσει την εφαρμογή πάνω από 5-6 φορές αλλά το πρόβλημα παραμένει το ίδιο. Λάθος όνομα χρήστη ή κωδικός. Πώς μπορεί να λήθη αυτό το πρόβλημα.???? Υ.Γ. οι υπόλοιπες εφαρμογές (myaadeapp, govgr, govgr Wallet) λειτουργούν",
+      "reply": "Για την επίλυση του προβλήματός σας, δοκιμάστε τα εξής:\n\n1. Βεβαιωθείτε ότι έχετε σταθερή σύνδεση Wi-Fi ή δεδομένα κινητής τηλεφωνίας.\n\n\n2. Εισαγάγετε χειροκίνητα το όνομα χρήστη και τον κωδικό, χωρίς αυτόματη συμπλήρωση.\n\n\n3. Αν μπορείτε να συνδεθείτε από άλλη συσκευή, το πρόβλημα μπορεί να σχετίζεται με τη συμβατότητα της εφαρμογής με τη συσκευή",
+      "replyDate": "2025-02-14T15:24:31.634Z",
+      "url": "https://play.google.com/store/apps/details?id=gr.aade.mydataapp&reviewId=b358e8da-2a2f-4e84-84d6-f31fb242d11c"
+    },
+    {
+      "date": "2025-02-06T15:45:45.912Z",
+      "score": 3,
+      "thumbsUp": 1,
+      "user": "Γιώργος Τζιανουδάκης",
+      "text": "Το έχουν προτείνει και άλλοι, να έχεις δυνατότητα να κατεβάσεις το παραστατικό σε pdf ώστε να το στείλεις η να το εκτυπώσεις και 2ο σε συσκευή oneplus Nord 4 android 15 ενώ έχω ενεργοποιήσει το πιν & το δακτυλικό υπάρχει μόνο η επιλογή \"διαπιστευτήρια\". Σε μία πιό παλιά συσκευή που δοκίμασα έχει και τις 3 επιλογές κανονικά ... Edit: Μπράβο σας, αμεσότατα διορθώθηκε με το update το pin & το δακτυλικό !! Κάτι ακόμη ,δεν μπορώ να φύγω από την εφαρμογή με back button ...",
+      "reply": "Σας ενημερώνουμε με τη νέα έκδοση της εφαρμογής myDATAapp έχετε τη δυνατότητα λήψης του παραστατικού σε μορφή pdf στη συσκευή σας.",
+      "replyDate": "2025-02-21T10:29:07.500Z",
+      "url": "https://play.google.com/store/apps/details?id=gr.aade.mydataapp&reviewId=d734be71-6492-43c2-849a-607a0a1eb5c3"
+    },
+    {
+      "date": "2025-02-06T08:29:07.312Z",
+      "score": 1,
+      "thumbsUp": 5,
+      "user": "ΝΙΚΟΛΑΟΣ ΓΕΩΡΓΙΑΔΗΣ",
+      "text": "Δεν είναι συμβατή με samsung tab s6 lite",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=gr.aade.mydataapp&reviewId=1b767100-17df-4834-8ff2-53aab56f13f2"
+    },
+    {
+      "date": "2025-02-04T16:58:43.848Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "danis",
+      "text": "Στην έκδοση παραστατικού/αγαθά υπηρεσίες η λίστα είναι κενή και αν δεν επιλέξουμε δεν μας αφήνει να συνεχίσουμε😒",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=gr.aade.mydataapp&reviewId=97eda195-ab71-49a9-96b5-b00b2c6c4cd7"
+    },
+    {
+      "date": "2025-02-02T16:03:50.220Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Tony Vasileiou",
+      "text": "Λυπάμαι αλλά αυτή η εφαρμογή δεν έχει να προσφέρει τίποτα παραπάνω από τα προγράμματα τιμολόγησης που όλοι έχουμε. Να μην πω πως είναι τζάμπα ταλαιπωρία. Δε μου δείχνει τα τιμολόγια που κόπηκαν σε μένα ούτε σε πελάτες αν δεν ξέρω τον αφμ τους κλπ. Τζάμπα χρόνος κ τζάμπα δημιουργία κωδικών έξτρα",
+      "reply": "Σας ευχαριστούμε για την κριτική σας. Η εφαρμογή myDATAapp είναι μια δωρεάν λύση που επιτρέπει την έκδοση παραστατικών και την ταυτόχρονη διαβίβασή τους στο myDATA, διευκολύνοντας τις επιχειρήσεις. Κατανοούμε τις προτάσεις σας και θα τις λάβουμε υπόψη για μελλοντικές βελτιώσεις.",
+      "replyDate": "2025-02-03T07:11:04.485Z",
+      "url": "https://play.google.com/store/apps/details?id=gr.aade.mydataapp&reviewId=6bcee8b4-ce26-47fe-ab9f-bb165aa3bafd"
+    },
+    {
+      "date": "2025-01-31T10:36:21.383Z",
+      "score": 5,
+      "thumbsUp": 2,
+      "user": "Ioannis Doutsirelis",
+      "text": "Έχετε δίκιο. Πολύ καλό και γρήγορο να κάνεις είσοδο με πιν η βιομετρικά στοιχεία. Θα ήταν καλό για τους νέους χρήστες να τους ενημερώνει κατά την πρώτη εισαγωγή για αυτή την επιλογή. 😁",
+      "reply": "Κατανοούμε την ανησυχία σας. Οι \"Φιλικοί Κωδικοί\" σχεδιάστηκαν για να διασφαλίζουν την ασφάλεια των φορολογικών σας δεδομένων, γι' αυτό και απαιτούν συγκεκριμένες προδιαγραφές​. Για γρήγορη πρόσβαση, μπορείτε να ενεργοποιήσετε τη σύνδεση με PIN ή βιομετρικά δεδομένα (δακτυλικό αποτύπωμα/αναγνώριση προσώπου) μέσω των ρυθμίσεων της εφαρμογής​.",
+      "replyDate": "2025-01-31T10:15:26.454Z",
+      "url": "https://play.google.com/store/apps/details?id=gr.aade.mydataapp&reviewId=d07fb180-cf4a-40b8-a7b4-d7e53583b205"
+    },
+    {
+      "date": "2025-01-30T21:24:07.232Z",
+      "score": 5,
+      "thumbsUp": 4,
+      "user": "Athanasios Floros",
+      "text": "Είναι μία εξαιρετική προσπάθεια η οποία λύνει χέρια... σίγουρα χρειάζονται βελτιώσεις, οι οποίες είμαι σίγουρος ότι σιγά-σιγά θα έρθουν και θα προστεθούν και καινούργια χαρακτηριστικά. Να ξεκινήσω με μία αστεία διόρθωση: τρέχΩν μήνας. Με Ωμέγα 😂",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=gr.aade.mydataapp&reviewId=02dddbb0-6308-447f-8f18-9e00d2277cf0"
+    },
+    {
+      "date": "2025-01-30T06:51:50.130Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Panagiotis Symeonidis",
+      "text": "Ωραία η εφαρμογή να βλέπεις αποτελέσματα και να κόβεις τιμολόγια αλλά δεν αποθηκεύει τους κωδικούς και κάθε φορά πρέπει να τους γράφεις.",
+      "reply": "Ευχαριστούμε για τα σχόλιά σας! Η ασφάλεια των δεδομένων σας είναι προτεραιότητά μας, γι’ αυτό η εφαρμογή δεν αποθηκεύει αυτόματα τους κωδικούς. Ωστόσο, μπορείτε να ενεργοποιήσετε τη σύνδεση με PIN ή βιομετρικά δεδομένα (δακτυλικό αποτύπωμα/αναγνώριση προσώπου) μέσα από τις ρυθμίσεις, για πιο γρήγορη πρόσβαση​.",
+      "replyDate": "2025-01-31T10:33:51.459Z",
+      "url": "https://play.google.com/store/apps/details?id=gr.aade.mydataapp&reviewId=4396e8d0-3b0f-4a45-83ce-c39137771c4e"
+    },
+    {
+      "date": "2025-01-29T21:15:01.653Z",
+      "score": 1,
+      "thumbsUp": 7,
+      "user": "JIM MICH",
+      "text": "Ποιός \"φωστήρας\" την έφτιαξε;;; Ποιός ο λόγος για τόση δυσκολία δημιουργίας του λογαριασμού και μη αποθήκευση των κωδικών;;; Το e banking έχει ευκολότερη είσοδο. Σοβαρευτείτε και κάντε την ποιο εύκολη.",
+      "reply": "Η είσοδος στην εφαρμογή myDATAapp απαιτεί τη δημιουργία \"Φιλικών Κωδικών\" μέσω της εφαρμογής myDATAusers για λόγους ασφαλείας​. Παράλληλα, υποστηρίζεται η δημιουργία PIN και βιομετρικής σύνδεσης για ευκολότερη πρόσβαση​. Θα συνεχίσουμε να βελτιώνουμε τη λειτουργικότητα για μια πιο ομαλή εμπειρία χρήσης.",
+      "replyDate": "2025-01-31T10:31:22.929Z",
+      "url": "https://play.google.com/store/apps/details?id=gr.aade.mydataapp&reviewId=94c3fa7b-d336-4bac-8ba7-07a58cd64374"
+    },
+    {
+      "date": "2025-01-29T11:05:42.373Z",
+      "score": 4,
+      "thumbsUp": 2,
+      "user": "Αδάμ Τραϊανόπουλος",
+      "text": "Πολύ χρήσιμη μας λύνει τα χέρια κάποιες διορθώσεις ίσως μετά την έκδοση απόδειξης η τιμολογίου καλό θα είναι να υπάρχει η λήψη τις απόδειξης η του τιμολογίου σε μορφή pdf με επιλογές κοινοποίησης προς email και εκτύπωσης Επίσης η Κοιτάξτε λίγο την λειτουργία ημέρας δεν αποθηκεύεται,όταν ξανανοίξουν την εφαρμογή πάλι σε σκοτεινή μπαίνει",
+      "reply": "Σας ενημερώνουμε ότι με τη νέα έκδοση της εφαρμογής myDATAapp έχετε τη δυνατότητα λήψης του παραστατικού σε μορφή pdf στη συσκευή σας.",
+      "replyDate": "2025-02-21T10:32:57.465Z",
+      "url": "https://play.google.com/store/apps/details?id=gr.aade.mydataapp&reviewId=3b33bb92-0cda-4fa5-b404-79b27a3adfa4"
+    },
+    {
+      "date": "2025-01-28T17:56:42.137Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "Panos p",
+      "text": "Ωραία αλλά θέλουμε αμεσα και εκδοση b2g γιατί 1 6 2025 ληγει η παραταση",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=gr.aade.mydataapp&reviewId=75b19238-14d3-47b0-b63f-762069c1b920"
+    },
+    {
+      "date": "2025-01-28T17:21:44.416Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "SP FIT",
+      "text": "Δεν έχει δυνατότητα να κατεβάσεις το Παραστατικό σε pdf ώστε να το στείλεις η να το εκτυπώσεις. Οπότε άχρηστο",
+      "reply": "Σας ενημερώνουμε ότι με τη νέα έκδοση της εφαρμογής myDATAapp έχετε τη δυνατότητα λήψης του παραστατικού σε μορφή pdf στη συσκευή σας.",
+      "replyDate": "2025-02-21T10:32:12.393Z",
+      "url": "https://play.google.com/store/apps/details?id=gr.aade.mydataapp&reviewId=8fccc581-d1f5-4e7c-b2a4-ed8964f8b594"
+    },
+    {
+      "date": "2025-01-28T12:43:33.100Z",
+      "score": 5,
+      "thumbsUp": 2,
+      "user": "Νικος Κουνδουρακης",
+      "text": "Εύχρηστη/ Εύκολη",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=gr.aade.mydataapp&reviewId=c35419d0-33b1-43eb-9733-843fcc7aa2b6"
+    }
+  ]
+}

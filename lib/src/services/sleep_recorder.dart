@@ -8,6 +8,13 @@ import 'package:permission_handler/permission_handler.dart';
 
 enum RecordingStatus { idle, permissionDenied, recording }
 
+class _RecordingFormat {
+  const _RecordingFormat({required this.codec, required this.extension});
+
+  final Codec codec;
+  final String extension;
+}
+
 class RecordingSession {
   const RecordingSession({required this.status, this.filePath, this.startedAt});
 
@@ -31,6 +38,12 @@ abstract interface class SleepRecorder {
 }
 
 class FlutterSoundSleepRecorder implements SleepRecorder {
+  static const List<_RecordingFormat> _preferredFormats = [
+    _RecordingFormat(codec: Codec.aacMP4, extension: '.m4a'),
+    _RecordingFormat(codec: Codec.aacADTS, extension: '.aac'),
+    _RecordingFormat(codec: Codec.pcm16WAV, extension: '.wav'),
+  ];
+
   FlutterSoundSleepRecorder({FlutterSoundRecorder? recorder})
     : _recorder = recorder ?? FlutterSoundRecorder();
 
@@ -77,14 +90,15 @@ class FlutterSoundSleepRecorder implements SleepRecorder {
     }
 
     final startedAt = DateTime.now();
+    final format = await _firstSupportedFormat();
     final filePath = p.join(
       recordingsDirectory.path,
-      'night_${startedAt.millisecondsSinceEpoch}.ogg',
+      'night_${startedAt.millisecondsSinceEpoch}${format.extension}',
     );
 
     await _recorder.startRecorder(
       toFile: filePath,
-      codec: Codec.opusOGG,
+      codec: format.codec,
       sampleRate: 16000,
       numChannels: 1,
     );
@@ -96,6 +110,16 @@ class FlutterSoundSleepRecorder implements SleepRecorder {
     );
 
     return _session;
+  }
+
+  Future<_RecordingFormat> _firstSupportedFormat() async {
+    for (final format in _preferredFormats) {
+      if (await _recorder.isEncoderSupported(format.codec)) {
+        return format;
+      }
+    }
+
+    throw Exception('No supported audio encoder is available.');
   }
 
   @override

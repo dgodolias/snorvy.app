@@ -53,6 +53,8 @@ class FlutterSoundAudioPlayback implements AudioPlayback {
 
   Codec _codecFor(String filePath) {
     return switch (p.extension(filePath).toLowerCase()) {
+      '.aac' => Codec.aacADTS,
+      '.m4a' || '.mp4' => Codec.aacMP4,
       '.ogg' => Codec.opusOGG,
       '.caf' => Codec.opusCAF,
       '.mp3' => Codec.mp3,

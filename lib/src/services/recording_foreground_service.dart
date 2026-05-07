@@ -1,5 +1,4 @@
 import 'dart:async';
-import 'dart:ui';
 
 import 'package:flutter/foundation.dart';
 import 'package:flutter_background_service/flutter_background_service.dart';
@@ -95,14 +94,11 @@ class FlutterRecordingForegroundService implements RecordingForegroundService {
 
 @pragma('vm:entry-point')
 Future<bool> snorvyIosBackground(ServiceInstance service) async {
-  DartPluginRegistrant.ensureInitialized();
   return true;
 }
 
 @pragma('vm:entry-point')
 void snorvyForegroundServiceOnStart(ServiceInstance service) {
-  DartPluginRegistrant.ensureInitialized();
-
   if (service is AndroidServiceInstance) {
     unawaited(service.setAsForegroundService());
     unawaited(

@@ -760,6 +760,36 @@ Cross-source legal validation (Agent 4) revealed:
 - 💎 Premium: **€39 one-time** (Reddit-validated sweet spot for "low-volume Kleinunternehmer") OR €4.99/mo
 - ❌ NO yearly subscription auto-renewal (German "Abo-Falle" reputation must be deliberately avoided)
 
+### v9 LOOP TICK 1 (D4 EU drill+iOS+IAP+founder responsiveness) — REVISED launch order
+
+Loop Phase D Tick 1 drilled 8 EU competitors at 500-review depth + iOS cross-check + IAP audit + founder responsiveness scoring:
+
+| App | Country | low_pct (recent) | Reply rate (low) | IAP ceiling | iOS low_pct |
+|---|---|---|---|---|---|
+| **Invoice Fly NL** | NL | 8.4% (n=500) | **0%** (0/56) | €299.99 | TBD |
+| **sevDesk DE** | DE | **78.6%** | 64.7% (11/17) | €370.80 | **78%** (n=50) |
+| Lexware Office DE | DE | n/a (rated 4.72) | 70.0% (7/10) | NO IAP (web only) | 32% (n=50) |
+| Accountable DE | DE | n/a (rated 4.57) | 77.8% (14/18) | €849.99 | TBD |
+| Faktura Proste PL (Invoice Simple) | PL | 18% (200) | **26.8%** (34/127) | **1.8K PLN ≈ €430** | TBD |
+| Fakturownia PL | PL | n/a (rated 4.94) | 0% (0/1, sparse) | 109.99 PLN | TBD — **already KSeF-native** |
+| **Tofu PL** | PL | 22.2% (334) | **98.9%** (87/88) | ~€118 | iOS not found |
+| Bookipi NL | NL | n/a (rated 4.81) | 95.5% (147/154) | €299.99 | TBD |
+
+**Key findings**:
+- **NL = highest vulnerability** for solo dev: **Invoice Fly NL 0% reply rate** (fully abandoned support) + 8.4% low rising + anti-foreign sentiment quote validates "Dutch dev wins" thesis
+- **DE = strong vulnerability**: sevDesk **78% on iOS + 78.6% on Android** = broken on BOTH platforms uniformly. Reply rate 64.7% (mid). Verbatim 101-thumb DE Reddit: *"einfach nur dreist und schlecht"* (just brazen and bad). Active 2025 price-hike: *"kosten für Buchhaltung 2025 um 440 Euro gestiegen"*.
+- **PL = HARDER than expected**: Faktura Proste vulnerable at €430 ceiling + 26.8% reply (low) BUT **Fakturownia already KSeF-native** — defensive moat. Tofu well-defended (98.9% reply). KSeF wedge is being captured by local incumbents BEFORE the Apr 2026 deadline.
+
+### Direction 4 sequencing strategy (REVISED v9 LOOP — launch order swapped to NL→DE→PL)
+
+**Old order (pre-loop)**: DE → PL → NL → CZ
+**New order (post-loop Tick 1)**: **NL → DE → PL** (by vulnerability + opening)
+
+Rationale:
+1. **NL FIRST**: Invoice Fly 0% reply + Bookipi NL English-only + anti-foreign quote = solo Greek dev positioned as European fellow-citizen wins easily. Smallest TAM (1.5M ZZP) but easiest entry.
+2. **DE SECOND**: sevDesk uniformly broken (iOS+Android) + active Abo-Falle price-hike rage + Lexware free tier doesn't cover Kleinunternehmer §19 cohort. 3.5M Kleinunternehmer TAM.
+3. **PL THIRD (delayed/repositioned)**: Fakturownia owns KSeF-native space; Faktura Proste vulnerable but pre-Apr 2026 window narrowing. Better to ENTER after Apr 2026 with "post-KSeF Tofu alternative" positioning vs trying to win the migration wave directly.
+
 ### Direction 4 sequencing strategy (REVISED v9 with PL data)
 
 **Recommended sequencing** (12-month roadmap for Direction 4):

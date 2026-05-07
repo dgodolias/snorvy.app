@@ -1,0 +1,19 @@
+{
+  "app": "com.tofu.invoices",
+  "country": "pl",
+  "lang": "pl",
+  "total_pulled": 1,
+  "total_after_filter": 1,
+  "reviews": [
+    {
+      "date": "2026-02-08T22:23:28.415Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Krzysztof Marek Judek",
+      "text": "l łatwe sympatyczne miłe w obsłudze",
+      "reply": "Cześć! Bardzo się cieszymy, że podoba Ci się nasza aplikacja. Zauważyliśmy, że Twoja opinia nie do końca pokrywa się z oceną — jeśli jest coś, co możemy poprawić, aby zasłużyć na 5 gwiazdek, chętnie poznamy Twoją opinię!",
+      "replyDate": "2026-02-18T17:56:10.631Z",
+      "url": "https://play.google.com/store/apps/details?id=com.tofu.invoices&reviewId=bf93aeba-9cc9-4fa4-9073-ec4e222277bb"
+    }
+  ]
+}

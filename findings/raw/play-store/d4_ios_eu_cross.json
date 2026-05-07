@@ -1,0 +1,178 @@
+{
+  "pl_tofu_invoices_pl": {
+    "not_found": true
+  },
+  "de_lexware_office_de": {
+    "country": "de",
+    "name": "Lexware Office DE",
+    "search": "Lexware Office",
+    "appId": "com.lexware.lexoffice",
+    "id": 622526440,
+    "title": "Lexware",
+    "developer": "Lexware",
+    "score": 4.71963,
+    "ratings": 11442,
+    "version": "9.2.1",
+    "price": 0,
+    "free": true,
+    "reviews_pulled": 50,
+    "low_count": 16,
+    "low_pct": 32,
+    "low3_count": 23,
+    "low3_pct": 46,
+    "sample_low": [
+      {
+        "score": 2,
+        "title": "Ich mag die App wirklich, aber…",
+        "text": "verschiedene Dinge sind einfach unfassbar nervig seit dem letzten großen Update! Wenn ich ein Angebot auf dem Mobiltelefon anfertige und zb. in einer Email etwas nachschaue ist anschließend das ganze Angebot wieder weg was wirklich unfassbar nervig i",
+        "date": "2026-05-04T23:20:13-07:00"
+      },
+      {
+        "score": 2,
+        "title": "App läuft nicht auf Mac??!",
+        "text": "Habe das Angebot mit 50% angenommen und mir anschließend die App auf mein Macbook geladen. \nLeider funktioniert diese nicht. Es wird nur ein graues Fenster angezeigt und das wars…",
+        "date": "2026-04-29T09:42:12-07:00"
+      },
+      {
+        "score": 2,
+        "title": "Funktioniert seit Update nicht mehr",
+        "text": "Seit dem aktuellen Update habe ich nur noch einen schwarzen Bildschirm. Programm nicht nutzbar. IphoneXR",
+        "date": "2026-04-29T09:13:13-07:00"
+      },
+      {
+        "score": 1,
+        "title": "null Support",
+        "text": "Die App ist so unzuverlässig wie man es eben von Lexoffice gewöhnt ist. Bekannt und mehrfach gemeldete Fehler werden JAHRE lang nicht behoben. Der Support ist erbärmlich, das Produkt viel zu teuer und die Abomodelle nicht fair. Man muss das größte Pa",
+        "date": "2026-04-28T22:23:57-07:00"
+      },
+      {
+        "score": 1,
+        "title": "Fehler ohne Ende im Programm",
+        "text": "Erstellt auf dem IPhone eine komplette Rechnung, gehe in meine Galerie um was nachzuschauen und alles ist weg es wird dann nicht als Entwurf zwischen gespeichert was ist das ?",
+        "date": "2026-04-26T06:53:01-07:00"
+      }
+    ]
+  },
+  "de_sevdesk_de": {
+    "country": "de",
+    "name": "sevDesk DE",
+    "search": "sevDesk",
+    "appId": "de.sevenit.sevdesk",
+    "id": 731738076,
+    "title": "sevdesk Buchhaltung & Rechnung",
+    "developer": "sevDesk GmbH",
+    "score": 4.34539,
+    "ratings": 7157,
+    "version": "9.6.4",
+    "price": 0,
+    "free": true,
+    "reviews_pulled": 50,
+    "low_count": 39,
+    "low_pct": 78,
+    "low3_count": 43,
+    "low3_pct": 86,
+    "sample_low": [
+      {
+        "score": 1,
+        "title": "Funktioniert nicht",
+        "text": "Die App funktioniert nicht auf meinem Iphone 12 nach dem Anmelden hab ich nur einen weissen Bildschirm.",
+        "date": "2026-04-30T00:59:28-07:00"
+      },
+      {
+        "score": 1,
+        "title": "Finger weg",
+        "text": "…nicht nur das diese App nur noch ausgaben  verwalten kann.  Hat es die Anwendung der App wegen Updates ,sowie tagelange ausfälle. Ein mehr an aufwand erzeugt das meine kosten für  die Buchhaltung 2025 , um 440 Euro gestiegen sind ,bei meinem Steuerb",
+        "date": "2026-04-27T13:20:46-07:00"
+      },
+      {
+        "score": 1,
+        "title": "App geht nicht",
+        "text": "Die App funktioniert nicht, sobald ich auf anmelden gehe bleibt die App weiß. Selbst nach neu installation.",
+        "date": "2026-04-24T09:19:45-07:00"
+      },
+      {
+        "score": 1,
+        "title": "Funktioniert nicht!",
+        "text": "Die App funktioniert nun seit einem Monat gar nicht mehr (aktuellestes Update, da automatisches Update). Also wirklich unter aller sau sowas. AUF GAR KEINEN FALL BENUTZEN!!!",
+        "date": "2026-04-22T00:42:50-07:00"
+      },
+      {
+        "score": 1,
+        "title": "iOS App funktioniert nicht",
+        "text": "Leider hängt sich die App nach dem Login auf und es passiert nichts. Die Desktop-Version im Browser läuft super aber hier gibt es nicht mal eine mobile Ansicht deshalb nicht nutzbar für Geräte wie IPhone.",
+        "date": "2026-04-20T09:13:27-07:00"
+      }
+    ]
+  },
+  "nl_holvi_nl": {
+    "country": "nl",
+    "name": "Holvi NL",
+    "search": "Holvi",
+    "appId": "com.holvi.HolviApp",
+    "id": 1006642625,
+    "title": "Holvi - Business banking",
+    "developer": "Holvi",
+    "score": 4.3617,
+    "ratings": 94,
+    "version": "25.3.0",
+    "price": 0,
+    "free": true,
+    "reviews_pulled": 1,
+    "low_count": 0,
+    "low_pct": 0,
+    "low3_count": 0,
+    "low3_pct": 0,
+    "sample_low": []
+  },
+  "nl_moneybird_nl": {
+    "country": "nl",
+    "name": "Moneybird NL",
+    "search": "Moneybird",
+    "appId": "com.moneybird.Moneybird",
+    "id": 1169487040,
+    "title": "Moneybird - Boekhouding",
+    "developer": "Moneybird B.V.",
+    "score": 4.53615,
+    "ratings": 2960,
+    "version": "4.16.5",
+    "price": 0,
+    "free": true,
+    "reviews_pulled": 50,
+    "low_count": 20,
+    "low_pct": 40,
+    "low3_count": 29,
+    "low3_pct": 58,
+    "sample_low": [
+      {
+        "score": 1,
+        "title": "Privé betalingen kunnen niet verwerkt worden",
+        "text": "Door de knop “openen” (van de geüploade pdf) kan ik niet op “registreren” klikken als ik privé betalen wil registreren voor een factuur of bon. Test alsjeblieft je software/update voordat je een release doorvoert.",
+        "date": "2026-04-15T15:02:36-07:00"
+      },
+      {
+        "score": 1,
+        "title": "Onduidelijk",
+        "text": "Het is onduidelijk en heeft u veel stappen nodig zodat het gebeurt",
+        "date": "2026-03-17T16:54:19-07:00"
+      },
+      {
+        "score": 1,
+        "title": "Administration/Billing.",
+        "text": "Is it impossible to extract a simple annual invoice for a subscription and expect your administration to be working properly? Disappointing app. And they never respond.",
+        "date": "2026-01-28T10:12:15-07:00"
+      },
+      {
+        "score": 1,
+        "title": "Poor User Interface",
+        "text": "Im on my laptop and cant update the app,the browser version keeps sending me to the desktop app. This is annoying. Why can’t I just call with somebody ?",
+        "date": "2026-01-16T02:54:11-07:00"
+      },
+      {
+        "score": 1,
+        "title": "Geen support",
+        "text": "Bij problemen kun je geen contact krijgen. Je krijgt een soort AI maar dat helpt niet. Geen maatwerk",
+        "date": "2026-01-08T23:20:10-07:00"
+      }
+    ]
+  }
+}

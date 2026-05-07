@@ -1,0 +1,5008 @@
+{
+  "app": "io.labhouse.invoicesapp",
+  "country": "nl",
+  "total_pulled": 500,
+  "total_after_filter": 500,
+  "reviews": [
+    {
+      "date": "2026-05-06T12:21:59.667Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Jugc06",
+      "text": "I love it and clients too!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=08b14216-5204-4d12-828d-1a05cebbdedb"
+    },
+    {
+      "date": "2026-05-06T03:27:23.513Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Miguel",
+      "text": "that's great",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=d2839ac6-b819-457d-b55e-af2e0756563d"
+    },
+    {
+      "date": "2026-05-06T00:33:43.921Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Ko Layn",
+      "text": "thank",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=e6816a6c-e854-4b66-8207-bf6d30c23d24"
+    },
+    {
+      "date": "2026-05-04T13:28:27.525Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Andy Smith",
+      "text": "excellent love it",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=d23aeddd-75ef-40ae-9f2c-aa94167d9f7e"
+    },
+    {
+      "date": "2026-05-03T13:20:08.748Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Grace Perez",
+      "text": "is better for my work schedule",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=a851bd97-2b25-422d-afff-2c531818ebf6"
+    },
+    {
+      "date": "2026-05-02T12:53:29.709Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "JA JAMARA",
+      "text": "perfect for creating A bill",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=0cd00bfb-29ff-4e61-a3ad-87e41b92e81a"
+    },
+    {
+      "date": "2026-05-02T06:26:51.754Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Robert Dewese",
+      "text": "great invoice app",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=6f8d8c75-fde7-4974-9b11-c686325bdb16"
+    },
+    {
+      "date": "2026-04-29T13:46:53.428Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Chris Allen",
+      "text": "a hundred dollars a year or 40 a month are the pricing options? I'll just take the time to do it myself. no thanks",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=7bb783e1-a780-4a74-81fb-2293c8d5ab87"
+    },
+    {
+      "date": "2026-04-29T12:16:40.980Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "Mr Cavaliere",
+      "text": "Game Changer !!, absolutely fantastic app so far, well worth the monthly fee, very clean amd professional app, perfect for a busy schedule and fast invoice & receipts on the spot, highly recommended 😀",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=1af69c60-3315-446c-995d-5bcc90c09c37"
+    },
+    {
+      "date": "2026-04-29T02:49:14.820Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Zoe Aman",
+      "text": "super easy to use!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=6afbfcee-7f21-4db3-8f61-d2b111ed9a66"
+    },
+    {
+      "date": "2026-04-28T01:48:59.912Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Delia Ramirez",
+      "text": "Don't use this app. i was supposed to get 3 days free trial instead they charged you at the moment. THIEVES",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=ec2ba8f5-4453-496a-9681-0a138a09dd76"
+    },
+    {
+      "date": "2026-04-27T19:36:06.400Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Sean Würzburg",
+      "text": "Way to expensive for something so simple. just use QuickBooks at this point",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=d1d12173-65e3-488b-b5e0-cc7edce1cf71"
+    },
+    {
+      "date": "2026-04-24T20:11:11.655Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Osvaldo Polanco",
+      "text": "nice app and easy to work",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=6ac6b2d7-9625-4a73-a8a0-05f9a5484662"
+    },
+    {
+      "date": "2026-04-24T12:01:57.693Z",
+      "score": 4,
+      "thumbsUp": 1,
+      "user": "boosted durango",
+      "text": "great app wish it had an inventory side to it and as you sale merchandise it deducted it from your inventory.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=c345c1ce-fd95-4af4-9067-40d083f918f9"
+    },
+    {
+      "date": "2026-04-23T19:40:28.880Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Nelson Martinez",
+      "text": "great app. easy to use",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=e33d7ae3-533c-450a-9b1f-ac1cb2eec1db"
+    },
+    {
+      "date": "2026-04-23T12:24:27.156Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "Amo Barkad",
+      "text": "i really like the app but after the last update why is it now I have the data collecting pop up as soon as I get in the app? and it doesn’t even have a reject all option. I didn't pay to not be given a choice. Will this stay on the app or can I get my refund?.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=6190c043-47ee-4c6b-91d6-10188bb60d90"
+    },
+    {
+      "date": "2026-04-22T22:54:43.309Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Ray Bloom",
+      "text": "3 day trial... stupid",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=8c81b337-a17b-49e9-b392-a0e2e45576ce"
+    },
+    {
+      "date": "2026-04-22T06:17:09.911Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Pablo Benitez",
+      "text": "the worst expensive app haven't ever used 8.99 for invoice",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=6628e137-c914-4c33-be58-04e62d706095"
+    },
+    {
+      "date": "2026-04-20T22:31:15.675Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Obed Gonzalez",
+      "text": "nice app thank you 🙏",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=4629ae42-a61a-49c8-81d0-84d6e2b5616d"
+    },
+    {
+      "date": "2026-04-20T20:38:43.665Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Richard Hernandez",
+      "text": "awesome app",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=a3fbe42a-90a5-4abb-a486-821a9a215c97"
+    },
+    {
+      "date": "2026-04-20T13:01:01.727Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Jeremy Fulco",
+      "text": "Good operating system easy to use",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=f18bafd2-df0d-4cb6-a57b-a9e7a2a13e7b"
+    },
+    {
+      "date": "2026-04-19T20:30:46.874Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Danger Management",
+      "text": "Works great!!!!! Professional Invoices!!!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=e81607b1-666e-4341-9deb-bb46e33accac"
+    },
+    {
+      "date": "2026-04-19T02:00:26.578Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Big Daddy1966",
+      "text": "good i like it thank you",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=d6a4e04f-1fe5-42a4-90d4-169567e6842d"
+    },
+    {
+      "date": "2026-04-18T22:06:16.843Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Jude Wamae",
+      "text": "cool",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=b27bb4f0-463e-4c83-bdda-9e2e9671efff"
+    },
+    {
+      "date": "2026-04-18T17:08:07.398Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Dyggs",
+      "text": "very helpful",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=b7494f06-0d0a-40b4-ab36-f830e9b36d2d"
+    },
+    {
+      "date": "2026-04-18T12:25:37.871Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Dustyn",
+      "text": "great app",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=1106f632-71fe-4c52-8c65-e9e78a8b355f"
+    },
+    {
+      "date": "2026-04-17T09:50:11.567Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "David Mcdonald",
+      "text": "great app make life alot easier",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=6ec69693-2f19-4e10-9970-20fdd4e4b83b"
+    },
+    {
+      "date": "2026-04-17T04:35:33.610Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Juan Gonzalez",
+      "text": "👍",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=e2ec4eea-8405-4cbf-ba77-9a99c0ec4840"
+    },
+    {
+      "date": "2026-04-17T00:17:11.110Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Bruce",
+      "text": "it hasn't been installed long. enough too know.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=39338240-0093-44a8-976e-e82569c2ffce"
+    },
+    {
+      "date": "2026-04-16T20:02:02.928Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Faizel Patel",
+      "text": "Put is not working for me",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=90fecd12-f363-4611-961b-a18546a49eb5"
+    },
+    {
+      "date": "2026-04-16T03:28:57.897Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "John Smith",
+      "text": "Not free at all!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=cec7bc64-ca09-4b08-b111-1f4f9def14ce"
+    },
+    {
+      "date": "2026-04-16T02:25:55.807Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Curtis Roberson",
+      "text": "please help me 🙏😭 and I thank you God bless you ❤️🙏 and thank you so much",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=b05366ad-9d7d-42c6-a112-752a73892425"
+    },
+    {
+      "date": "2026-04-15T14:35:44.986Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Erick Santos",
+      "text": "that app help me to have more organized my landscaping business",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=40d87354-ca8b-402f-893b-4500d5ce7dc4"
+    },
+    {
+      "date": "2026-04-15T05:40:05.498Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Daniell Goggins",
+      "text": "clean and remodel",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=44caa547-0760-4565-9b9e-69e528145677"
+    },
+    {
+      "date": "2026-04-14T20:23:38.336Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Michael Torres",
+      "text": "great",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=b2a936f0-5d67-4b59-8c3a-01fe0200726f"
+    },
+    {
+      "date": "2026-04-14T20:20:49.550Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Brandon",
+      "text": "Awesome app really should look into this one.This is a good one",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=b1692e1d-e582-47e3-a1e6-3644126b15d4"
+    },
+    {
+      "date": "2026-04-14T18:21:10.842Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Wellington Sanchez",
+      "text": "looks professional and easy",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=d06f80a3-14b6-480b-9f29-5b570c74b1fd"
+    },
+    {
+      "date": "2026-04-14T16:14:15.808Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Sanchez Beeilyn",
+      "text": "great!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=bb61fe95-3291-468a-ba83-c5c0c5b91bf9"
+    },
+    {
+      "date": "2026-04-14T05:07:32.814Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "Eric Lopez",
+      "text": "unsure have tryed the app",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=f10fdb27-ad31-4353-9fc6-05dec69e3b9f"
+    },
+    {
+      "date": "2026-04-14T04:30:46.646Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Cesar Peralta",
+      "text": "loved",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=faaba93d-fe48-40d9-8dfa-6262d072ce90"
+    },
+    {
+      "date": "2026-04-13T13:49:55.440Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "JOSE. Pérez",
+      "text": "I like 👍",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=f7b3fd3c-bf0d-4aaf-b2bb-465281e7516d"
+    },
+    {
+      "date": "2026-04-13T00:13:15.888Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Jonathan Goodman III",
+      "text": "Nice, so far, so good",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=4e5349ce-8e4a-4c23-8dfc-c19c5fefcfbd"
+    },
+    {
+      "date": "2026-04-12T19:25:27.233Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Edward Espinoza",
+      "text": "Excellent tool",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=7631d36c-2445-4110-97dc-ac9770969e29"
+    },
+    {
+      "date": "2026-04-12T11:13:44.447Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Rabbi Sholomo Grimmage Jr",
+      "text": "this resource is by far the best I have used. it saves me so much time trying to figure out prices and keep everything organized.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=9d27b70a-50e1-46f3-8a6d-9dbfddef5ef4"
+    },
+    {
+      "date": "2026-04-12T01:24:33.962Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Ian Woodard",
+      "text": "best app😇 I personal have use",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=8bb5b004-b5e8-4164-b583-0be9ce1b201a"
+    },
+    {
+      "date": "2026-04-11T10:21:02.639Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Edmundo Lopez",
+      "text": "love it",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=e73edecd-9bbc-4bb5-9e17-110a2718b0d7"
+    },
+    {
+      "date": "2026-04-11T05:31:42.185Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Samuel Graves",
+      "text": "looks good so far.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=1c17aa05-eb33-4563-bb73-e46d5a11bbd9"
+    },
+    {
+      "date": "2026-04-11T04:53:10.851Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Jorge Enriquez",
+      "text": "I really like it",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=6347c4fb-300d-4b47-956f-48e3b32efed6"
+    },
+    {
+      "date": "2026-04-10T23:21:35.810Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Homero Guevara",
+      "text": "me gusta la application",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=518e00a2-8f9a-46f3-ae79-7c17c29b38d6"
+    },
+    {
+      "date": "2026-04-10T18:44:01.300Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "James Jenkins",
+      "text": "the best",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=af410591-8a97-4426-8182-5c5c6198cfb5"
+    },
+    {
+      "date": "2026-04-10T14:05:44.842Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Long Family",
+      "text": "nice",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=6875c170-b16b-4ac5-8075-24b585570d77"
+    },
+    {
+      "date": "2026-04-10T11:10:57.378Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Andrew Arnold",
+      "text": "so far so good... the key is how much is the cost",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=fe0bae51-7d4e-4e7c-a300-6bf6827650a9"
+    },
+    {
+      "date": "2026-04-10T09:49:54.536Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Jina Curtis",
+      "text": "love love love",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=69d91ce4-41ee-4704-973d-d8b4ecb50d16"
+    },
+    {
+      "date": "2026-04-10T02:31:03.416Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Scott Dees",
+      "text": "Nice",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=b13ef6d7-0033-4e42-b006-7e47012d21a0"
+    },
+    {
+      "date": "2026-04-09T23:30:46.258Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Alf_ Alfaro",
+      "text": ",👍",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=9c67dc68-d0b9-4990-9245-d9dbd7e55809"
+    },
+    {
+      "date": "2026-04-09T22:52:23.188Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "King Valentene",
+      "text": "OUTSTANDING",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=c5eda9e0-a119-4087-b8ef-29ab23dc283c"
+    },
+    {
+      "date": "2026-04-09T19:32:26.689Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Robert Schone Jr",
+      "text": "interesting what they can do",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=afd2784b-a069-41db-8862-99cd7b7c2a8a"
+    },
+    {
+      "date": "2026-04-09T14:35:54.760Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "James EDDY Blakely",
+      "text": "so gar seems pretty cool and helpful",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=86efb194-bb21-463a-bb15-f3bc2942f113"
+    },
+    {
+      "date": "2026-04-09T04:11:45.427Z",
+      "score": 3,
+      "thumbsUp": 1,
+      "user": "salim Aljabar",
+      "text": "When I changed my phone and tried to login to my account they asked me to choose a name and logo again. And I couldn't see my old invoices even with the same password and email. So frustrating and not recommend it",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=bfa7385b-9c4e-4c58-97a6-6e0094243889"
+    },
+    {
+      "date": "2026-04-09T01:46:31.971Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Mundo Miranda",
+      "text": "👍 goood",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=f13a2a5e-1ac6-4112-badb-8a5026888253"
+    },
+    {
+      "date": "2026-04-08T14:09:33.969Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "martin quiros",
+      "text": "really good app with prices and upgrades",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=d72c5900-0976-43d7-aa25-2b91c222ae49"
+    },
+    {
+      "date": "2026-04-08T05:06:21.936Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "David Shrum",
+      "text": "Very much needed in the car repair business.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=a5b98e16-db53-466a-9989-199ac1bb16f2"
+    },
+    {
+      "date": "2026-04-08T00:34:49.285Z",
+      "score": 5,
+      "thumbsUp": 4,
+      "user": "Blaine Goodrich III",
+      "text": "A professional easy to use app. you can customize the layout of your invoices and estimates then send them to the customer right from the app.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=77bfc591-dd83-4e77-a0eb-c35059a6f5da"
+    },
+    {
+      "date": "2026-04-07T15:34:19.400Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Mala loka",
+      "text": "nice",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=786ca9a8-8a2b-4e40-b7b1-17fdedc8c85e"
+    },
+    {
+      "date": "2026-04-07T00:38:04.346Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "casimiro armenta",
+      "text": "I like this app",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=3368609d-bca4-462b-b232-7113e238182b"
+    },
+    {
+      "date": "2026-04-06T21:36:40.200Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Alex frank De Leon",
+      "text": "Great",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=c4735f6b-1210-402c-95e3-00d0fc332fc2"
+    },
+    {
+      "date": "2026-04-06T17:16:54.446Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "mark galvin",
+      "text": "brilliant app",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=b5be22f4-c8eb-4878-9137-3530a5eb2483"
+    },
+    {
+      "date": "2026-04-05T19:03:19.479Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Allan Caceres",
+      "text": "Great app and helpful, and really easy to work it, I totally recommended.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=7b313126-b2e4-4828-be3b-f3c34d0442f4"
+    },
+    {
+      "date": "2026-04-05T16:17:01.433Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Joe Rios",
+      "text": "👍",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=05bd8302-3344-43c9-ac12-5446fd216552"
+    },
+    {
+      "date": "2026-04-04T19:33:11.382Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Shaun Polston",
+      "text": "going to try this out hope it works well",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=e15e29bf-3151-45e4-a4ce-152ddd614bda"
+    },
+    {
+      "date": "2026-04-04T18:17:15.846Z",
+      "score": 2,
+      "thumbsUp": 1,
+      "user": "Abel Gamino",
+      "text": "The app is great, what I don't like is that if I the owner or one of my managers creates an invoice we can't share it through the app to our employees so they can go and get the work done. They need to change that and let the employees have access to read every invoice created and send to customer when job is complete.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=655b63e8-dd14-4866-9a05-5b4d01b59f62"
+    },
+    {
+      "date": "2026-04-04T11:11:04.700Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Mondy Marcelin",
+      "text": "best app ever",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=a30ba703-7d4b-4b87-a2f6-e501a8c5548e"
+    },
+    {
+      "date": "2026-04-04T00:33:24.173Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "henry rivera",
+      "text": "ease to use. one less thing worry about",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=c2d06ad9-f9c5-469c-9eb9-dd7bfe0502d8"
+    },
+    {
+      "date": "2026-04-03T22:35:32.346Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Miguel Hipolito",
+      "text": "great application, fully recommended! thank you for your business, I'm so happy with the application, keep it up, thanks!!!!!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=96871b10-c630-4d72-853b-636cb7c213bf"
+    },
+    {
+      "date": "2026-04-03T20:31:36.773Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Juan Manuel Garza Silva",
+      "text": "muy facil y sin tanto arguendo",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=f3cff506-c2f6-4afb-8386-e8e484130981"
+    },
+    {
+      "date": "2026-04-03T19:00:22.150Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Cesar NAPA",
+      "text": "excellent app",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=c8193874-5253-42d3-9e76-d2a5ab9ba2f6"
+    },
+    {
+      "date": "2026-04-03T17:19:44.475Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Richard Bullivant",
+      "text": "good so far",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=40a104f4-6880-44f2-88e6-f332987fb249"
+    },
+    {
+      "date": "2026-04-03T16:21:56.279Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "josue david santos",
+      "text": "good",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=f2f5c16d-b8d5-4039-99be-95dab8c23c9f"
+    },
+    {
+      "date": "2026-04-03T02:27:22.714Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "sara arrazola",
+      "text": "very convenient",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=7a716e26-022b-4aa2-9d11-343214a1f536"
+    },
+    {
+      "date": "2026-04-03T01:49:59.130Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "JFur 2480",
+      "text": "good stuff helps me with my payment and keeping track of my clients 👌",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=63f2a493-b5c3-47d1-84a4-714af9291e90"
+    },
+    {
+      "date": "2026-04-02T17:49:26.345Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Jose Ramirez",
+      "text": "perfect app!! please fix the pixelated images that get uploaded",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=59ee9888-cd15-458a-9868-33f9291efb48"
+    },
+    {
+      "date": "2026-04-02T17:45:39.670Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Rodrick McGowan",
+      "text": "this seems to be a good company",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=9ec89399-283b-4344-816a-0dd8f425e84b"
+    },
+    {
+      "date": "2026-04-02T14:24:06.157Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Lavert Buchanan",
+      "text": "cool n simple",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=ee49abb9-39b0-4a68-addb-45e051ee41ac"
+    },
+    {
+      "date": "2026-04-02T13:31:58.102Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Michael Saunders",
+      "text": "so far it is easy and straight forward!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=a3f77f2a-2d4d-49b3-9a18-d7a57f2a378c"
+    },
+    {
+      "date": "2026-04-02T13:11:47.592Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Thomas Davis",
+      "text": "really nice",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=bc17b46e-d554-48aa-bb74-8cf7e3ac02d0"
+    },
+    {
+      "date": "2026-04-01T20:01:42.553Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "SISFA IT",
+      "text": "excellent",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=ebdc7730-2741-4769-a93b-e14734e28974"
+    },
+    {
+      "date": "2026-04-01T18:26:02.957Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "David sanchez",
+      "text": "really good app.for any contractors",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=6bf8d5ed-0aa8-4b6a-8a42-be556e974222"
+    },
+    {
+      "date": "2026-04-01T13:05:57.663Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Saul Lance",
+      "text": "amazing",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=ee171b8c-deee-4f3e-96af-d9a012bffeb8"
+    },
+    {
+      "date": "2026-04-01T09:53:40.240Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Yubel Ribot",
+      "text": "amazing",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=6656fecf-5049-4047-821d-f27e80214fd8"
+    },
+    {
+      "date": "2026-04-01T08:45:58.273Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Francis Samuel",
+      "text": "great app",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=ed8dce2b-22e1-4608-8f15-567bb0d8ebdb"
+    },
+    {
+      "date": "2026-04-01T07:06:18.356Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "lobomerecido",
+      "text": "right on time!!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=95b0659d-8e20-4101-9385-5210a1405c9c"
+    },
+    {
+      "date": "2026-03-31T23:16:33.971Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Haroldo Soto",
+      "text": "great app",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=a7b87088-889f-4205-8767-91b9a04fa48d"
+    },
+    {
+      "date": "2026-03-31T17:11:03.983Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Marshall Dyer",
+      "text": "makes it easy to get paid",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=0eea8ed5-8d50-46cc-8048-491e34734d60"
+    },
+    {
+      "date": "2026-03-31T15:34:47.145Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Alhassan Haruna",
+      "text": "great app",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=f01c9d69-590a-4b57-abd5-aae3024ca9fc"
+    },
+    {
+      "date": "2026-03-31T15:07:15.780Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Derek Mcelmurry",
+      "text": "perfect thing for projects",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=ff0c8845-b03d-4049-be8c-d1ca26e1e960"
+    },
+    {
+      "date": "2026-03-30T17:29:44.620Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Stanley Sweatt",
+      "text": "good",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=0d8b2717-0bbf-4b2f-93b2-0970509195a0"
+    },
+    {
+      "date": "2026-03-30T02:15:33.542Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "phuoc nguyen",
+      "text": "easy to used and clear",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=2a35922b-e79d-4674-a0fb-b772e6b412e3"
+    },
+    {
+      "date": "2026-03-29T16:31:37.620Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Aaron Montgomery",
+      "text": "I own and operate Aaron's Tree Service Davenport Wa I have been using invoicefly for a few years now and I love it, so do my costumes. very professional.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=45d4c069-27fd-400e-b221-6b820bf0c52a"
+    },
+    {
+      "date": "2026-03-29T11:57:25.439Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "GOVIND MUNDE",
+      "text": "very bad",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=97c3da94-cbbd-4a81-8538-c750b77699dd"
+    },
+    {
+      "date": "2026-03-29T10:49:24.433Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Angel Castro",
+      "text": "great ap",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=9fb8525b-1044-4ce7-938b-875075eae30d"
+    },
+    {
+      "date": "2026-03-28T23:07:25.974Z",
+      "score": 5,
+      "thumbsUp": 3,
+      "user": "Sucmadic Babcock",
+      "text": "GREAT app I have to be completely honest 💯 it's the best app on Google play. EASy and really simple very straightforward. I suggest more self employed people us it",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=df4d0b88-6dd4-41ce-bd6e-45310385ced8"
+    },
+    {
+      "date": "2026-03-28T20:31:09.510Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Michael Nienaber",
+      "text": "app is \"no longer compatible with me device\" yet have no way to contact developers. still getting charged 6 bucks a week. what a joke",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=71c6b189-0cb1-4d7f-8152-ce656bf265a8"
+    },
+    {
+      "date": "2026-03-28T14:16:32.336Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Longsdale roofing",
+      "text": "excellent service highly recommended 👌",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=43a24b0b-b397-455e-aff7-8922b9bb2f58"
+    },
+    {
+      "date": "2026-03-26T23:10:56.573Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Robert Williams",
+      "text": "Very needed And helpful",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=8c3114e4-6445-4862-8226-96ecc3f84ad4"
+    },
+    {
+      "date": "2026-03-25T09:53:50.243Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Matthew Spears",
+      "text": "excellent app",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=d3fe91ed-3593-48eb-a5da-b4f5dc16fea1"
+    },
+    {
+      "date": "2026-03-25T02:09:27.175Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Derrick Wickline",
+      "text": "easy to write and I can customize the invoices",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=991c2cb9-201a-4370-9bed-36fe171481b0"
+    },
+    {
+      "date": "2026-03-24T21:23:40.797Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Sergio Castro",
+      "text": "es vuena",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=5057f74d-7d45-4232-9db2-44057ed68a88"
+    },
+    {
+      "date": "2026-03-24T17:40:25.856Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Social media pro",
+      "text": "Parece buana app",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=125f172e-a043-4848-a9db-05df60eb7fc7"
+    },
+    {
+      "date": "2026-03-24T15:49:41.340Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Rodney Hill",
+      "text": "simple and easy way to make invoices for your services",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=d54f2ede-28b5-48fe-8138-9fc9eb453a48"
+    },
+    {
+      "date": "2026-03-24T02:28:49.904Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "juan agustin natera hernandez",
+      "text": "genial",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=ca2cb2a3-c7e5-40a3-9f93-3d7f090cb471"
+    },
+    {
+      "date": "2026-03-23T15:12:07.122Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Gonzalez painting LLC",
+      "text": "esbueno",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=8f6a5f8a-11b7-4de3-a896-49ae8ac89a42"
+    },
+    {
+      "date": "2026-03-23T06:13:49.550Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Angela Wade",
+      "text": "Great ptoduct",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=dda0b8d5-e03e-41c0-ae43-be68a4b929c3"
+    },
+    {
+      "date": "2026-03-23T02:56:37.837Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Fermin Mendoza",
+      "text": "muy bueno",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=6240cce5-7877-4cc2-90a2-4c0b431bdc4e"
+    },
+    {
+      "date": "2026-03-22T01:11:16.100Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Greicy Castellano",
+      "text": "Awesome",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=c7364ae1-20dd-4dab-830a-5e2729b99bfe"
+    },
+    {
+      "date": "2026-03-20T22:30:57.382Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Joae Martinez",
+      "text": "excelente",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=c3d51f47-395e-41ef-9cec-2f422230b74a"
+    },
+    {
+      "date": "2026-03-20T17:21:01.876Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Erick Javier Rondón Irizarry",
+      "text": "the best app",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=0f269c87-07cd-41f9-870d-d974d1a23c78"
+    },
+    {
+      "date": "2026-03-20T07:36:02.531Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Matthew",
+      "text": "badass",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=6386ef36-4d12-4206-b2be-2ce125e9d085"
+    },
+    {
+      "date": "2026-03-20T05:44:30.925Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Benjamin N, Sawyer Petis (Sawyer petis)",
+      "text": "awesome app",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=76bb82f5-c2ec-41b3-b8c8-74e8ab7ecd08"
+    },
+    {
+      "date": "2026-03-20T05:30:09.338Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Xolile S Nyathi",
+      "text": "good",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=582b6889-e0cf-4e9c-b89d-02713ba7b3f6"
+    },
+    {
+      "date": "2026-03-19T23:53:46.715Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Joni Lund",
+      "text": "I like the way I was able to put together an invoice quickly and send it.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=0a9af80b-7bfb-4b51-9e09-e7db69289046"
+    },
+    {
+      "date": "2026-03-18T18:48:47.274Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Leo Flo",
+      "text": "nice app",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=99fc91a6-5d3a-4439-9293-6c2220433d1c"
+    },
+    {
+      "date": "2026-03-18T17:22:50.476Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Harold Jackson jr",
+      "text": "best thing going",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=6a479fec-f708-4edd-824c-8002e31e9cf8"
+    },
+    {
+      "date": "2026-03-18T00:40:57.563Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Antonio Dossantos",
+      "text": "fast, accurate and easy",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=678dad90-be16-4e68-8d40-f3310bcea4ce"
+    },
+    {
+      "date": "2026-03-18T00:34:12.150Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Daniel Castellanos",
+      "text": "👍 I can tell.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=7b908882-cdad-45a5-8fdf-75caf79e1ca4"
+    },
+    {
+      "date": "2026-03-17T23:08:03.968Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Terell Howard",
+      "text": "Great app",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=6aa65acb-e7c2-438d-b312-515b0fbcadd8"
+    },
+    {
+      "date": "2026-03-17T22:26:22.724Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Luis Lira",
+      "text": "the best app",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=85a39b6e-b629-4687-b110-4026ed502acc"
+    },
+    {
+      "date": "2026-03-17T19:09:47.479Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Jeff Gabbard",
+      "text": "it's great so far!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=93f62a85-8379-4b38-b395-be38801f31ba"
+    },
+    {
+      "date": "2026-03-17T19:02:53.889Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "tony Torres",
+      "text": "poor",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=91c39ffe-7ebc-44d0-8312-ecffcf828f01"
+    },
+    {
+      "date": "2026-03-17T10:28:36.490Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "Paul",
+      "text": "i don't know yet",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=ca8dd83f-2077-4005-a1ef-aab05010b453"
+    },
+    {
+      "date": "2026-03-17T03:17:12.240Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Johnnie",
+      "text": "he goes over and beyond what he's supposed to do he does a great job",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=d38d1f0f-7a79-427d-bf23-af59adaa1a45"
+    },
+    {
+      "date": "2026-03-16T23:53:50.450Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Willie Jackson",
+      "text": "awesome",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=2e0de0f6-29bf-44f8-886d-bd20fe97dac4"
+    },
+    {
+      "date": "2026-03-16T21:30:02.144Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Muhammad Umair Akhtar",
+      "text": "Good",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=ca089226-0878-4ee8-9e63-2fa267e64d45"
+    },
+    {
+      "date": "2026-03-16T19:34:44.283Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "frazaboi Frazier",
+      "text": "good app",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=365983d4-a65d-47f8-94d5-00167ec23fc7"
+    },
+    {
+      "date": "2026-03-16T15:06:50.386Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Big Boss Ross Sr. 1 R&F Mobile Mechanic Services",
+      "text": "Looking forward to getting the proper quote on services I provide",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=bd317aac-76b2-4e5b-aaed-161ce6fb8915"
+    },
+    {
+      "date": "2026-03-15T14:35:17.544Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Martin Cereceres",
+      "text": "seems to be very helpful 🙂 love it 😍",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=908eba27-0c52-411c-a275-1a62a31315e6"
+    },
+    {
+      "date": "2026-03-14T23:30:28.795Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Augustine Marquez",
+      "text": "works wonders.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=d0eafc79-1e5d-44b8-8c60-d47383129b98"
+    },
+    {
+      "date": "2026-03-14T15:46:29.246Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Billy Turner",
+      "text": "fast and cool let's go",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=091e7f5a-919e-44de-8fa6-bae4dc9f2ae3"
+    },
+    {
+      "date": "2026-03-14T14:03:26.911Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "File Ramirez",
+      "text": "nice. professional",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=d7159719-1402-412e-8f52-b3bf488172fe"
+    },
+    {
+      "date": "2026-03-13T20:33:44.584Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Ashley Roberts",
+      "text": "easy-to-use, so far so good.. still learning to use this app.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=3169688e-a4da-4c24-ab60-3cf5138bceb5"
+    },
+    {
+      "date": "2026-03-13T17:28:05.280Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Noe Gonzalez",
+      "text": "good",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=212124ac-be9f-44c9-a12c-1d4ab42fa2b3"
+    },
+    {
+      "date": "2026-03-13T07:47:25.628Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "William Uzhca",
+      "text": "100 💯",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=1c3c04dc-a20a-487c-a99a-db32fa05c6fc"
+    },
+    {
+      "date": "2026-03-13T05:06:44.377Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "marcelino segura",
+      "text": "excellent app",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=fe5eef03-dbca-4072-a4e9-f0341747d2da"
+    },
+    {
+      "date": "2026-03-13T04:35:11.201Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Miguel Valadez",
+      "text": "good app",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=89edb9cd-1585-44ee-92eb-18ba7c221817"
+    },
+    {
+      "date": "2026-03-13T02:41:13.316Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "wayne Kirchmeier",
+      "text": "great",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=4a3fed62-ffdc-4484-85da-c34cbf3c4b11"
+    },
+    {
+      "date": "2026-03-13T00:00:34.412Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Tony Rose",
+      "text": "so far so good",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=64c7ad6f-0301-43c4-8203-1c3d31878cfe"
+    },
+    {
+      "date": "2026-03-12T15:43:27.281Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "shane cambre",
+      "text": "did it cancel my subscription? will I get a bill next week that I will have to do something about? These guys sure don't want you to know. God forbid someone makes anything clear these days.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=c0f0c8dc-c61a-49ac-8150-779acdb1b32f"
+    },
+    {
+      "date": "2026-03-11T22:33:11.931Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "SGT WEBB",
+      "text": "great easy to use",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=0911ff11-22d3-48b5-8809-01880962a65f"
+    },
+    {
+      "date": "2026-03-11T19:44:19.313Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Mariana Valentin",
+      "text": "this is Great",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=8eec8ee5-d5cb-4286-8370-4cd078d022e6"
+    },
+    {
+      "date": "2026-03-11T17:12:06.597Z",
+      "score": 3,
+      "thumbsUp": 3,
+      "user": "Javonne Hall",
+      "text": "Where is the take a photo and it makes a quote for you function? Also, the advertisement has a technician working on cars as a mechanic, but the app doesn't have automotive repair as an option to choose! Make no sense at all! in deleting this. 🤦🏾‍♂️",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=75ab23df-3ccd-442a-90cb-9db15609d786"
+    },
+    {
+      "date": "2026-03-11T14:51:11.403Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Williams Portillo",
+      "text": "nice",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=ac0c76a0-4bc1-4681-a284-b5a599757464"
+    },
+    {
+      "date": "2026-03-11T06:38:48.940Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Robert Pineda",
+      "text": "good",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=900ef438-bce8-4e95-8d1f-53f3a313e355"
+    },
+    {
+      "date": "2026-03-11T06:28:12.109Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Art Rivera",
+      "text": "awesome app",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=42563be6-ca07-4099-96a9-5e2b33677ec4"
+    },
+    {
+      "date": "2026-03-11T06:24:22.901Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "Jesus Roberto Martinez",
+      "text": "De prueba",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=aad84122-eaaf-4fe9-a9f2-0c5ec94a5b3d"
+    },
+    {
+      "date": "2026-03-10T23:27:27.104Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Jonathan Miranda",
+      "text": "nice",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=e413d830-a3d2-4d1a-bcbf-549c7d60c85f"
+    },
+    {
+      "date": "2026-03-10T22:13:48.178Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Scotto",
+      "text": "good app",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=3361da41-b25d-4588-a29a-67e9bdb326a4"
+    },
+    {
+      "date": "2026-03-10T21:32:22.683Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Teresa",
+      "text": "easy and fast 💪",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=c1f0bda0-adde-4187-98e1-fa1096b0acac"
+    },
+    {
+      "date": "2026-03-10T18:25:23.329Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "Vince Mazzie",
+      "text": "will update soon after I figure out how it works but the logo part is pretty cool",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=84ab04f8-070d-4846-8fdc-5f31e0ed68be"
+    },
+    {
+      "date": "2026-03-10T07:58:05.920Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Ali (Mossnoon)",
+      "text": "Should have the option to transfer accounts from IOS coming from a paid subscription to nothing",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=f26f4c33-da36-41f5-bab8-8c9fcb2d22f2"
+    },
+    {
+      "date": "2026-03-10T06:14:11.393Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Randal. Lee Shanks",
+      "text": "I love it",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=5d934611-3cd0-43b3-9c79-61264b384401"
+    },
+    {
+      "date": "2026-03-10T02:48:20.404Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Ed L-R",
+      "text": "great easy to use",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=250ae6cd-e189-4003-a3a5-100dfba0c2ad"
+    },
+    {
+      "date": "2026-03-10T02:09:25.287Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Enrique Barillas",
+      "text": "really good .. easy to use",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=7b54a7ad-20b0-4916-a2d7-6bd47f5c72e7"
+    },
+    {
+      "date": "2026-03-10T01:57:46.546Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "Jonathon Davis",
+      "text": "haven't used it yet but we'll see if I get a better review hopefully",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=cae8fdee-00ad-4e69-8045-8bd503e4f89d"
+    },
+    {
+      "date": "2026-03-09T02:13:54.876Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Johnny Ratliff",
+      "text": "great help with bids",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=fb18ce43-a5ee-4ecd-a2a0-5b179e05647b"
+    },
+    {
+      "date": "2026-03-08T00:59:44.600Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Yorleny Bollat",
+      "text": "muy útil!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=ecc0cbe3-01b9-433b-a410-1ed38796d365"
+    },
+    {
+      "date": "2026-03-07T19:32:24.404Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "Troy Shellenbaum",
+      "text": "so far it's cool",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=6c53d59b-dc74-4dd4-9e17-5f6a098158de"
+    },
+    {
+      "date": "2026-03-07T16:54:48.111Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Shubham Singh",
+      "text": "nice",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=7acccedb-6d5b-46c9-8289-b5e1b8d91d01"
+    },
+    {
+      "date": "2026-03-07T03:12:18.491Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "D",
+      "text": "love the app!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=6a41e777-7d8b-4f58-a7d5-726736f2648b"
+    },
+    {
+      "date": "2026-03-06T15:27:27.602Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Tanner Cowart",
+      "text": "This is better than Company Cam by far. A must have for any Small Business Owner.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=c7f038df-02a1-4358-9963-389c540754ae"
+    },
+    {
+      "date": "2026-03-06T14:42:13.635Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Francisco jesus Martinez",
+      "text": "fast and practical to work with",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=907823f2-b3d2-452c-8845-90c5ad41a7b8"
+    },
+    {
+      "date": "2026-03-05T19:02:18.478Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Drikus Jonk",
+      "text": "good",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=fbfd9fa4-71fe-4e79-b48f-05931f335134"
+    },
+    {
+      "date": "2026-03-05T15:08:00.184Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Chris Leon",
+      "text": "good app looks professional",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=a4b05e09-faa9-485b-8dcc-0daa57380f2f"
+    },
+    {
+      "date": "2026-03-05T14:06:28.930Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Luis Cuevas",
+      "text": "super easy to use.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=4bbe3e8a-9b81-4c8c-a466-17cc25b48a99"
+    },
+    {
+      "date": "2026-03-05T13:05:04.298Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Jared “Jarry” Frear",
+      "text": "Ezy invoice maker",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=b6d6e15b-afde-4c94-9976-d794f581adae"
+    },
+    {
+      "date": "2026-03-05T06:43:53.413Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "jason Don't care",
+      "text": "not enough phone memory not enough slace",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=2ef63dea-98c0-4d9e-b7ae-27f68ea72b03"
+    },
+    {
+      "date": "2026-03-05T05:44:36.517Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Jorge Gomez",
+      "text": "I recommend it; it's a good app where they can help you with any invoice.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=62a5800f-7715-4ff8-8c7e-f175229f6ec9"
+    },
+    {
+      "date": "2026-03-04T15:12:51.596Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Ricky Danville",
+      "text": "cool",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=a069ac82-5e04-460b-bf9f-b24c52363467"
+    },
+    {
+      "date": "2026-03-04T01:48:57.315Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Marcelino Hernandez",
+      "text": "very easy to work with it",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=0def3fee-d19d-4308-90ba-ad7f505d1fde"
+    },
+    {
+      "date": "2026-03-03T20:54:38.398Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Sarah Creedon",
+      "text": "so far awesome!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=842a0281-ab30-41ae-80f7-b71766530076"
+    },
+    {
+      "date": "2026-03-03T06:22:57.543Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Dani Coronado",
+      "text": "👍",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=16b5b77e-1d36-435b-9c80-3352020cdcd1"
+    },
+    {
+      "date": "2026-03-03T01:29:09.262Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Ricardo Vazquez",
+      "text": "Excellent",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=89c01a90-6522-4055-848a-3d20dc3d22b4"
+    },
+    {
+      "date": "2026-03-03T00:38:38.616Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "J- Rod",
+      "text": "cool",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=d8b4f730-5c8b-4c9b-9a6a-7bd9e501a0f6"
+    },
+    {
+      "date": "2026-03-02T17:13:48.169Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Jasonp Robinson",
+      "text": "love love love",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=3173c7a5-b726-4904-9380-dc4d663f3991"
+    },
+    {
+      "date": "2026-03-02T16:33:45.652Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Tomeka Grissett",
+      "text": "easy understanding 👌",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=e32f014a-23de-47b3-9e13-bbf1fe22e980"
+    },
+    {
+      "date": "2026-03-02T10:56:36.504Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "tremaine Robertson",
+      "text": "it's nice",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=afd445e6-0965-4465-868e-73028fc6b03e"
+    },
+    {
+      "date": "2026-03-02T03:55:00.780Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "nick white",
+      "text": "good",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=018b89c1-d457-496e-8038-79abb8c3237a"
+    },
+    {
+      "date": "2026-03-01T19:22:11.108Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Gonzalo Gomez",
+      "text": "Handyman Services and more: Satisfactory service and quality within and outside the area. We offer you the best price.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=7338f343-c631-45fe-9415-97cfb3a8b274"
+    },
+    {
+      "date": "2026-03-01T18:57:58.640Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Marlon Martinez",
+      "text": "easy to use",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=fb255a00-f570-49d7-813d-7314826d2d91"
+    },
+    {
+      "date": "2026-03-01T00:09:49.584Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "guillermo ocampo",
+      "text": "Nice app to use",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=f134aaac-08f8-4f83-b38c-e581c423883b"
+    },
+    {
+      "date": "2026-02-28T22:47:55.253Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "ankit",
+      "text": "it's good",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=807bef1c-3b4b-46d5-b21d-8af177072bea"
+    },
+    {
+      "date": "2026-02-28T09:59:26.451Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Jamie Zook",
+      "text": "fire 🔥 so far as is expected",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=e270b96f-d6bc-4ae8-9914-339c0b926ff3"
+    },
+    {
+      "date": "2026-02-27T04:59:26.960Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Keith Lindsay",
+      "text": "get service for anyone",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=af6ac3fa-7c04-4b93-ab23-76c1de29bd4e"
+    },
+    {
+      "date": "2026-02-27T02:48:17.652Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Jake Kroecker",
+      "text": "they charge 12.99 weekly or 129.99 yearly.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=ed394333-7a86-4997-af19-afb9fe9e25b2"
+    },
+    {
+      "date": "2026-02-26T03:35:26.751Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Jesus alberto Chacon",
+      "text": "💪🙌 good aplicaciont",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=cce00533-25b2-4b49-a996-f69dd424eaed"
+    },
+    {
+      "date": "2026-02-25T23:55:46.667Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Antonio Garcia",
+      "text": "great 👍",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=10e6ef2e-1e89-417b-8fa4-83924223f055"
+    },
+    {
+      "date": "2026-02-25T19:14:18.393Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Hassan El-shabazz",
+      "text": "Great",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=861bf729-fbed-49ad-82ce-5ba0d85a1537"
+    },
+    {
+      "date": "2026-02-25T17:14:48.137Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Ramon Esquilin",
+      "text": "excelente",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=a79053b8-4c74-4643-aa87-742c75382751"
+    },
+    {
+      "date": "2026-02-24T17:46:46.725Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "perfection Jay drev",
+      "text": "amazing work",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=70bddb07-64c6-4bbd-ae6c-da4a1c9d67f4"
+    },
+    {
+      "date": "2026-02-24T09:08:43.222Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Victor Mirazo",
+      "text": "very good 👍",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=34e1a76e-d711-418b-b47e-d5462f2ffa00"
+    },
+    {
+      "date": "2026-02-24T07:57:33.447Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Jeremy Howard",
+      "text": "I love it man..",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=3e54f1b0-334c-463f-9507-c1f360781b2e"
+    },
+    {
+      "date": "2026-02-24T07:14:38.592Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Walter Edgeworth",
+      "text": "My first time using invoice fly what do yall think about it",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=ccc38da3-2600-45bf-b27a-c50632481460"
+    },
+    {
+      "date": "2026-02-23T22:11:55.813Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Whitney Stewart",
+      "text": "just down loaded havent used it yet",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=589e9f5b-360e-45bd-9f77-6c13a45a42db"
+    },
+    {
+      "date": "2026-02-23T21:28:50.100Z",
+      "score": 5,
+      "thumbsUp": 5,
+      "user": "Cornelius Wilkins",
+      "text": "seems very simplified. easy to navigate on whatever you want the app to highlight, in a professional detailed fashion.👌",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=bf6b2170-4259-4ad8-aa97-17839aa1c183"
+    },
+    {
+      "date": "2026-02-23T20:06:04.330Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Moises Armenta",
+      "text": "good trying it out first time working good will see how it holds up",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=98b861ca-793c-4971-ae34-2c277737ed09"
+    },
+    {
+      "date": "2026-02-23T16:53:44.271Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Junior Barrientos",
+      "text": "goid",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=ccef1d7c-2f8c-4fa8-b540-141017e01606"
+    },
+    {
+      "date": "2026-02-23T13:04:38.810Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "The chud Has aura",
+      "text": "good 👍",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=510b4367-6432-4780-a750-34a539a5da44"
+    },
+    {
+      "date": "2026-02-23T04:16:42.170Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Dorian Pozos",
+      "text": "great app!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=d2a72101-2239-4be8-bab2-288070b87492"
+    },
+    {
+      "date": "2026-02-23T00:55:42.735Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Luis Lopez",
+      "text": "best app👍👍",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=58e0df4c-4600-4261-9dc0-d9ac2eafd7dc"
+    },
+    {
+      "date": "2026-02-22T21:00:29.927Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Dellron Rose",
+      "text": "Great app",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=af54adf8-9007-48de-a036-d80507a268be"
+    },
+    {
+      "date": "2026-02-22T20:50:07.891Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Robert Can",
+      "text": "great options",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=da1af2f4-395f-4b8b-b837-5b4a8629abb6"
+    },
+    {
+      "date": "2026-02-22T17:10:00.525Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Fernando Estrivero",
+      "text": "Great app 👌",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=78eb21be-e8b0-4a42-a6ed-e5163d9f2e0a"
+    },
+    {
+      "date": "2026-02-22T16:37:17.576Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Oscar Flores",
+      "text": "muy bueno",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=52c590a0-94ea-4fce-b31e-392354edd2ea"
+    },
+    {
+      "date": "2026-02-22T02:56:40.925Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Nemecio Maldonado",
+      "text": "the very best that beats the rest really helped my business",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=75be2ff0-a035-4302-89a6-cc2e060c3781"
+    },
+    {
+      "date": "2026-02-21T23:17:19.840Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Sequoia Tree service",
+      "text": "best app for invoices get it now don hesitate",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=a8458a31-5f8a-42b2-91bf-f8ddbfe9d396"
+    },
+    {
+      "date": "2026-02-21T18:38:37.294Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Paul Dominic",
+      "text": "nice",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=4409f24c-a2ed-4bef-ab1e-a2743009389d"
+    },
+    {
+      "date": "2026-02-21T08:21:16.734Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Celestino Mangue",
+      "text": "very easy to use",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=531aa956-fc05-4a2d-84ce-3a54dffd608c"
+    },
+    {
+      "date": "2026-02-20T20:36:26.823Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Johnathon Jenkins",
+      "text": "great",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=34d844df-1b93-408c-bb5f-4bbc60caf652"
+    },
+    {
+      "date": "2026-02-20T13:11:55.687Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Jumping Lol",
+      "text": "Perfect",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=becfadd8-5c50-4f9f-89f2-a42c52137556"
+    },
+    {
+      "date": "2026-02-20T11:41:01.516Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Travis Becker",
+      "text": "Easily maneuvered and approachable. (app) made the whole estimation/invoice part of the job streamlined.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=c70b4efb-5e70-411c-abc3-c041785d0da5"
+    },
+    {
+      "date": "2026-02-20T01:21:48.429Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Regina Sanchez",
+      "text": "It's easy to use",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=f78c48bd-6ae1-429b-8c46-b0fbb246de8e"
+    },
+    {
+      "date": "2026-02-19T23:28:46.153Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Herbert Dorsey (Matt)",
+      "text": "it's great so far. I'm about to use it to give a customer for running his sound system in his car now as we speak",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=3967c747-053f-4c35-a1a0-9b963a6b6df5"
+    },
+    {
+      "date": "2026-02-19T19:02:21.275Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Larry Walls jr",
+      "text": "Just getting started will reply more later",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=d8c09da4-bb78-482c-a04c-8b69836dfdba"
+    },
+    {
+      "date": "2026-02-19T17:45:19.682Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Arturo bustos",
+      "text": "good",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=7173093e-1bc1-48ac-8498-4088790b301f"
+    },
+    {
+      "date": "2026-02-19T15:29:10.672Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Brian Stafford",
+      "text": "great service. low prices",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=a3cf593e-c32f-4bc9-a30e-f984bd5a7b12"
+    },
+    {
+      "date": "2026-02-19T14:58:00.281Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "miguel angel baeza",
+      "text": "looks good",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=533bf342-671d-4554-b7b9-d22ddda56037"
+    },
+    {
+      "date": "2026-02-18T22:53:51.404Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Angel Orozco",
+      "text": "Looks great",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=3e748778-b5d8-427d-9b60-7e24b783d91a"
+    },
+    {
+      "date": "2026-02-18T03:29:28.352Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Aaron Eutsay",
+      "text": "great tool to help keep you're business finances in order and in one convenient location. I recommend for any business owner.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=29d4e648-029f-4b6a-b8c1-234dd3cf68af"
+    },
+    {
+      "date": "2026-02-18T03:22:19.491Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Chris Dawson",
+      "text": "looks Great",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=7301315a-2fa4-4548-a0b6-045aca1ed92a"
+    },
+    {
+      "date": "2026-02-18T01:34:22.502Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "ADR Services, LLC",
+      "text": "all issues I've had have been easily and promptly resolved.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=962a5a46-6084-485f-9aa9-96602049158f"
+    },
+    {
+      "date": "2026-02-17T20:59:41.160Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Felix arredondo",
+      "text": "perfect",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=c34ebfb6-802e-42aa-b666-6064cdfb878c"
+    },
+    {
+      "date": "2026-02-17T18:37:52.438Z",
+      "score": 1,
+      "thumbsUp": 5,
+      "user": "Marcia Almeida",
+      "text": "There's no trial period; to use the app, you have to enter your payment information and select a plan, and your account is immediately charged. When I started using it, I tried to create an estimate, and it froze. I haven't been able to use it since. You get what you pay for!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=6e34303d-6b36-4dfd-93ca-9aeda334d6bc"
+    },
+    {
+      "date": "2026-02-17T13:42:22.630Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Ronnie Blount",
+      "text": "works great",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=730c6273-0ab9-455d-9448-f51ba93774f3"
+    },
+    {
+      "date": "2026-02-17T09:09:57.482Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "David Jones",
+      "text": "still new to the app but so far pretty amazing",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=e23dc3e7-8a3c-4fa6-8228-3877b648b2c1"
+    },
+    {
+      "date": "2026-02-17T01:41:18.204Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Gregory Cottman",
+      "text": "Great app.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=c8f9ddfa-d0a1-45e3-afff-c476fe4e8934"
+    },
+    {
+      "date": "2026-02-16T22:53:39.385Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Luke wilson",
+      "text": "Easy to work with. Very good to work with.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=ab61b700-7140-416a-8b4f-fd2be2bb12b3"
+    },
+    {
+      "date": "2026-02-16T11:34:02.760Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "David Camarena",
+      "text": "very helpful",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=3713451f-5fd1-45db-9008-c57739ba2d60"
+    },
+    {
+      "date": "2026-02-15T16:30:34.773Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Byan Rodriguez",
+      "text": "I like it",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=e05cd08e-4cba-44b3-8703-5a0a5966a3a6"
+    },
+    {
+      "date": "2026-02-15T16:02:57.468Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Devon Smartt",
+      "text": "👍",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=0dc4d62a-e9e7-488d-8709-1016235a7650"
+    },
+    {
+      "date": "2026-02-15T14:18:33.600Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "james Williams",
+      "text": "it's good to use",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=00cab762-f0a6-46f1-8bc7-1caf5a5236c5"
+    },
+    {
+      "date": "2026-02-15T09:44:37.579Z",
+      "score": 5,
+      "thumbsUp": 2,
+      "user": "A HM",
+      "text": "easy to use , quick invoices , I was trying to find good ones , this the right one for tradies",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=d20a760e-badb-44dd-b9ac-279dd674eef0"
+    },
+    {
+      "date": "2026-02-14T00:51:37.368Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Cruz Pedro",
+      "text": "Awesome app",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=642c38da-224d-471d-b405-4dca28c4191e"
+    },
+    {
+      "date": "2026-02-12T23:31:34.710Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "Toua Tom Doura",
+      "text": "Ever ready invoice making things easier, saving time and looking familiar.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=c66b516d-db7d-49be-9f03-3d3a3f8fcab1"
+    },
+    {
+      "date": "2026-02-12T21:04:55.549Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Mike Samudio",
+      "text": "very easy and fast love it thanks.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=83277041-5365-4e0a-9076-186ab40c9b3a"
+    },
+    {
+      "date": "2026-02-12T21:01:05.939Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "Precision Auto Repairs",
+      "text": "absolutely the best app and for the yearly price this is an amazing deal",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=e4ebc01b-81f3-4d51-95a1-64d4a28ef5ec"
+    },
+    {
+      "date": "2026-02-12T17:01:09.540Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Alejandro Rodriguez",
+      "text": "excelent",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=4d3c425d-8883-4af1-ab3f-680d8a8a30cb"
+    },
+    {
+      "date": "2026-02-12T16:46:04.732Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Gary Simpson",
+      "text": "I think it's very good",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=0ade4b8b-57f8-497b-b46b-26d1fcc2e7a2"
+    },
+    {
+      "date": "2026-02-12T15:53:16.777Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Car Service",
+      "text": "awesome,",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=c4fc1f9d-30bb-48fb-9a21-01646dd5389f"
+    },
+    {
+      "date": "2026-02-12T15:06:38.170Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Lucio Tafoya",
+      "text": "can't go wrong with appropriate helpful app they provide to our service's",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=dc66dc76-28ed-4bc5-bdfa-df578d884740"
+    },
+    {
+      "date": "2026-02-12T14:29:32.748Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "JOEL Reber",
+      "text": "Cheap and affordable Great work",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=0825213f-96de-4c1d-a15d-4017e03de393"
+    },
+    {
+      "date": "2026-02-12T05:40:51.570Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "WILLIAM B. B. REED",
+      "text": "I like the setup from the app",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=a4e89ee7-8031-4274-a040-62b3c20d8de7"
+    },
+    {
+      "date": "2026-02-12T02:56:18.950Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "thomas mcneil",
+      "text": "app when you really need it when time is tough a great app",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=a893d2e2-405d-4342-a0aa-a1f55d34dbeb"
+    },
+    {
+      "date": "2026-02-11T04:06:21.000Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Jose Hernandez",
+      "text": "gorgeous",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=3abf685e-e0bc-4c02-953b-512fd467bf59"
+    },
+    {
+      "date": "2026-02-10T04:24:07.411Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Mark Pitt",
+      "text": "best thing i did for business",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=447d1c41-7f92-45cd-8aa8-b33981f8b922"
+    },
+    {
+      "date": "2026-02-09T02:25:15.903Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Kay Jackson",
+      "text": "great app",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=5801d009-956a-409f-88ab-1b0ce058f5ee"
+    },
+    {
+      "date": "2026-02-09T01:41:48.696Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "alex Soucek",
+      "text": "still waiting to get to use",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=4f2577fe-ecc5-462f-8658-b0c1852cb053"
+    },
+    {
+      "date": "2026-02-08T16:27:28.889Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Ivette Echevarria",
+      "text": "very Good 👍",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=e7aeb61b-59bb-4328-9ddd-1a0aa48b2583"
+    },
+    {
+      "date": "2026-02-08T03:35:30.450Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "ALBERT VICENTE",
+      "text": "great app",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=04cd01ee-80e6-43d4-94b2-6e835759d367"
+    },
+    {
+      "date": "2026-02-08T02:35:36.661Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Billy Vicente",
+      "text": "The abs look like it's a good one and it can help me with my business",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=32637997-e266-4e0c-9c28-84c7cee116d7"
+    },
+    {
+      "date": "2026-02-07T15:14:45.000Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "New Device",
+      "text": "it nice",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=425aa449-b6fc-48fe-b60e-f467f09eff3c"
+    },
+    {
+      "date": "2026-02-06T23:30:02.161Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Paige Ainsworth",
+      "text": "wonderful",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=7bb7ef2c-c472-4853-a1e9-91d05353e4cf"
+    },
+    {
+      "date": "2026-02-06T23:04:24.210Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Roger Osborn",
+      "text": "works great",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=b5a50777-9fe0-40cf-b16e-1bd298a7cb53"
+    },
+    {
+      "date": "2026-02-06T17:55:31.568Z",
+      "score": 2,
+      "thumbsUp": 7,
+      "user": "Edgar Estrada",
+      "text": "I didn’t want to do this but I dont have a choice. Please dont use this app. I currently use it and i am looking to change it for new one. They dont have a phone number for support, they have a chat box but it takes them up to 7 days or more for them to reply to your texts. There are so many errors with the app. The app does not sync well with the computer version. I am sick and tired of texting them and they tell me we will fix it and nothing. App doesn't do Updates well.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=fb78693c-e5c4-4620-836b-236430ad9a22"
+    },
+    {
+      "date": "2026-02-06T16:39:24.696Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "matthew blevins",
+      "text": "its ok",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=295bcb4d-a593-4e88-b7b7-30eb5ba5fa56"
+    },
+    {
+      "date": "2026-02-06T15:18:37.578Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "letmy nuttshang",
+      "text": "Great app",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=0d8c82df-7069-4ec8-8cb8-a480c4dfdd68"
+    },
+    {
+      "date": "2026-02-06T07:45:31.195Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "Claudia Tobar",
+      "text": "I love it",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=3371abf8-c72e-4716-87b4-62949f6ccb76"
+    },
+    {
+      "date": "2026-02-05T19:53:24.602Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Franky Banderas",
+      "text": "not sure right this minute I just started using this app",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=3c24d66b-ad51-4083-8770-53b95144d21a"
+    },
+    {
+      "date": "2026-02-05T17:35:14.690Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Christopher Wilton",
+      "text": "sneaky app grabbed 14$ without me knowing until too late. be ware!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=87d2f580-861b-4ab0-a07c-2db217c735ff"
+    },
+    {
+      "date": "2026-02-05T17:29:24.751Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Steve Barrios",
+      "text": "Amazing",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=fabfc965-980f-409e-a0b5-b742f4c1b30d"
+    },
+    {
+      "date": "2026-02-05T12:21:48.720Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Joey Bussey",
+      "text": "works great",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=e2559c47-711e-4abb-bc71-0d395c0579ae"
+    },
+    {
+      "date": "2026-02-05T00:32:59.499Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "jack smith",
+      "text": "awesome",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=3ade330c-4bd7-4f6e-accf-29ac77179c1e"
+    },
+    {
+      "date": "2026-02-04T23:17:06.998Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Robert Gormley",
+      "text": "awesome",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=a9708ca0-ee2c-4e69-ad01-9da17b389a0b"
+    },
+    {
+      "date": "2026-02-04T17:47:36.150Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Bryan Snipes",
+      "text": "fast and easy very efficient",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=5bfafa74-7446-4403-b3c7-0d8b92753459"
+    },
+    {
+      "date": "2026-02-04T15:55:37.476Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Raul Bello",
+      "text": "super ezy to use!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=13c14455-9e9b-43c0-8b45-90e15ad41640"
+    },
+    {
+      "date": "2026-02-04T07:34:44.224Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "bill perkins",
+      "text": "looks easy to set up I'm new here I hope it works out great we offer low rate and do quality work we offer many services thank you",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=cd6a6ee1-1b57-4612-a7b8-79d19113b3e0"
+    },
+    {
+      "date": "2026-02-04T05:10:15.645Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Emmit Andrews",
+      "text": "cost to much and pdf fill didn't download",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=6c36ce84-84ab-4498-98a2-1db67e9f2769"
+    },
+    {
+      "date": "2026-02-04T04:10:55.698Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "S Richmond",
+      "text": "just what I need",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=0177b1c3-5d43-42e6-ace5-6cf2fcd71afa"
+    },
+    {
+      "date": "2026-02-04T02:48:40.926Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "John Nouri",
+      "text": "😡👎This app took an hour of my time, and then it told me I had to pay. It doesn't work for free on Android phones. What you're doing is terrible and you're wasting people's time. 👎👎👎👎👎👎👎👎👎😡😡😡",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=4f50ab92-8543-4f8d-922b-37bd09c78cae"
+    },
+    {
+      "date": "2026-02-03T23:12:18.456Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "margarito cruz",
+      "text": "pretty, very interesting and easy to make your invoice quickly.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=7b28a6a2-ff9d-4fd4-866c-eb47cc5e9fd1"
+    },
+    {
+      "date": "2026-02-03T17:07:30.725Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Suavey SoFocused",
+      "text": "best app hands down...",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=b649790a-749b-475a-80b8-016f188df4e7"
+    },
+    {
+      "date": "2026-02-03T16:10:03.630Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Jackeem Garris",
+      "text": "great!!!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=9c64ef49-9833-4568-8ce8-99fba6fb8b65"
+    },
+    {
+      "date": "2026-02-03T15:46:27.287Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Danny Willingham",
+      "text": "the best app hands down. thank you so much",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=53cde20e-9ac3-445c-82ba-dd1a95cf82e1"
+    },
+    {
+      "date": "2026-02-03T07:30:24.734Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Potro Zapata",
+      "text": "goodap",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=fc63b631-ab97-45a4-867a-cb3ecc081a22"
+    },
+    {
+      "date": "2026-02-03T05:03:10.503Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Sheila Whitmore",
+      "text": "I like this invoice app because it makes you understand it better",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=86960d40-fc3c-4236-9181-ff5d25fe5f06"
+    },
+    {
+      "date": "2026-02-02T19:17:04.473Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "George Dugar",
+      "text": "love it",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=906d620d-1fd3-4122-a317-3d9b2391372f"
+    },
+    {
+      "date": "2026-02-02T18:42:47.290Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "El padre Zorro",
+      "text": "beautiful 😍",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=06d0907d-fc19-4a8a-bc48-744245ebbde6"
+    },
+    {
+      "date": "2026-02-02T15:18:17.368Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Ashley Warren",
+      "text": "I'm just checking it out will let you know",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=60239a4a-5bad-4072-86fb-fb63aab21a92"
+    },
+    {
+      "date": "2026-02-02T14:35:19.648Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Franso Thelot",
+      "text": "good",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=ffa7a497-b665-4dcb-9835-e3ea2833b7db"
+    },
+    {
+      "date": "2026-01-31T18:38:09.975Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Felipe Velasquez",
+      "text": "great app",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=2faa260c-acab-4649-abc9-dc30991bca5d"
+    },
+    {
+      "date": "2026-01-31T01:26:52.915Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Craig Dudley",
+      "text": "looks awesome",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=a171943c-98d4-4c96-a1e5-63eb79968c73"
+    },
+    {
+      "date": "2026-01-30T18:56:50.983Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Magaly Martinez",
+      "text": "very nice and helpful app",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=9581ec57-fa1c-41b1-8008-02834441f0ea"
+    },
+    {
+      "date": "2026-01-30T18:16:26.888Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "lewis oliver",
+      "text": "I've only just join this app but I can honestly say this is one of the best invoice apps so far",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=ea51b8a0-98fc-4622-aa29-68fb5668cfef"
+    },
+    {
+      "date": "2026-01-30T16:47:22.610Z",
+      "score": 1,
+      "thumbsUp": 5,
+      "user": "Taylor E",
+      "text": "It worked for a few weeks but now all it does is freeze and won't load. Can't even make it to the home screen. I've re-downloaded it several times. What makes matters worse, is I pay the weekly price and still can't use the app. 😠😠",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=04533b99-3c21-4b53-aca5-7d1dfe5c87fe"
+    },
+    {
+      "date": "2026-01-30T12:16:55.968Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Gilberto Cortes",
+      "text": "this is my first time let see how is running",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=3b5335c0-05de-4a0e-bd7b-78891eaa3ba1"
+    },
+    {
+      "date": "2026-01-29T14:38:36.710Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Wayne Davis",
+      "text": "Its fast and easy to work with. It definitely makes your business look professional and more established.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=f777d919-e0e7-4aed-afe2-23025f190f0c"
+    },
+    {
+      "date": "2026-01-29T11:15:11.754Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Osmildo Ramos",
+      "text": "nice I love it",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=1f17b7ad-3ac0-47cd-85e9-5fbf3cd5a542"
+    },
+    {
+      "date": "2026-01-29T10:53:16.889Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Paapa Hutchison",
+      "text": "unsuscribed for months after paying to use ,still charges a monthly fee even though app isn't available for use",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=33b0b346-e7b1-4ef5-90f7-2f1b5925a13b"
+    },
+    {
+      "date": "2026-01-29T01:59:10.661Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Oscar Vazquez",
+      "text": "very good",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=4ec4375c-d3bb-4479-ac69-05bee089294d"
+    },
+    {
+      "date": "2026-01-29T00:05:17.511Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Jonathan Harden",
+      "text": "very professional",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=7bd7f2cb-25bb-4aa5-b92d-49c930691ecd"
+    },
+    {
+      "date": "2026-01-28T21:49:54.724Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "sam cromwell",
+      "text": "looking good",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=f838e030-bf0b-469e-b9ce-db3055d6bfe4"
+    },
+    {
+      "date": "2026-01-28T18:52:40.150Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Sean Brown",
+      "text": "Been using it for some time now. I don't have any complaints. It does what I needed to do. I'm happy.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=7e9ea752-6962-4499-a90d-adf6245ccf58"
+    },
+    {
+      "date": "2026-01-28T18:39:17.593Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "James McHenry",
+      "text": "so far it's a great app for free",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=2ed03c0f-8cc5-423e-b472-012b4fc3facf"
+    },
+    {
+      "date": "2026-01-28T17:02:45.769Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Kendall Wilkes",
+      "text": "love this app",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=c2ddac23-a789-44b0-a0c4-be1b0b2eab8b"
+    },
+    {
+      "date": "2026-01-28T15:45:27.243Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Burnett Bates",
+      "text": "it's awesome",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=8c827e09-c623-4f86-a413-fe86a3fe4b1f"
+    },
+    {
+      "date": "2026-01-27T21:56:33.917Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "David Almanza",
+      "text": "its my first day using this app they see how it goes",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=f7f584c0-2afe-455a-a1a9-84579da70cb6"
+    },
+    {
+      "date": "2026-01-27T18:34:34.694Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Anthony “Reek” Cowan",
+      "text": "awesome app ...Just getting started but I love the layout as well as the simplicity",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=4d5b9956-2759-428d-b7d4-b45c68af37c6"
+    },
+    {
+      "date": "2026-01-27T18:24:03.989Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "denoel ferreira",
+      "text": "very nice cleaning",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=d056a9ff-0bd5-4855-ba5d-64019a4e7096"
+    },
+    {
+      "date": "2026-01-27T18:10:43.520Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Maria Codreanu",
+      "text": "perfect",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=4ce66e70-144a-4261-bd99-1651b1a93dcf"
+    },
+    {
+      "date": "2026-01-27T15:23:41.401Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Felix Saucedo",
+      "text": "exelente for jobs you are managing and more",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=d0cb37c5-c54a-4422-abd9-246f64034386"
+    },
+    {
+      "date": "2026-01-27T06:27:31.668Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Sir Boss",
+      "text": "Game changed Nice one",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=2658490d-71d3-4c32-be59-5762fcd2dd57"
+    },
+    {
+      "date": "2026-01-27T04:24:11.866Z",
+      "score": 1,
+      "thumbsUp": 11,
+      "user": "PJ",
+      "text": "I got double charged and I don't know for how long, I sent them a message with a screenshot of the receipts that went through. they replied \"Thanks for sharing the receipts with us. We’ve checked your account and can see that the extra subscription has already been canceled, so there should be no further double charges going forward.\" how about investigate and offer a refund? yeah I canceled because I dont need a 2 subscription.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=c41972ff-03b9-4d30-b410-5e4d8f447f17"
+    },
+    {
+      "date": "2026-01-27T02:10:25.755Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Quino Olvera",
+      "text": "perfec",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=e64ea9c1-9063-4800-9fac-77d0eb4aab97"
+    },
+    {
+      "date": "2026-01-26T20:13:47.271Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Jeremiah RoufsMaxwell",
+      "text": "Absolute Gratitude, Thank you Again",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=933d1b7a-280f-4d3b-8db8-480d86be6516"
+    },
+    {
+      "date": "2026-01-26T16:29:20.254Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "865 farm",
+      "text": "nice",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=09b0e226-f330-49a3-9853-2592d05b0ab0"
+    },
+    {
+      "date": "2026-01-26T16:26:22.820Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "jonathan ervin",
+      "text": "this app is absolutely amazing it is so helpful im so glad I came across it!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=7095ff0c-37a1-42ff-9d8b-5b1267e0d744"
+    },
+    {
+      "date": "2026-01-26T15:26:02.824Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Donald Carey",
+      "text": "so good so far",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=bf4f533f-4e40-4ccc-bafb-fb30ef7a7fec"
+    },
+    {
+      "date": "2026-01-26T08:18:23.190Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Arturo montaño",
+      "text": "good",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=71ce6c3d-12e8-4092-a351-3dd81c1d8202"
+    },
+    {
+      "date": "2026-01-26T05:23:16.975Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Miguel Fuentes",
+      "text": "the best way to start ..getting better",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=cbd9abcf-ec32-4426-bf97-69be1dfefd90"
+    },
+    {
+      "date": "2026-01-25T22:01:10.164Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Michael Mirabal",
+      "text": "I love it",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=b7cc880b-f5d6-4232-9ee4-c0ca94892908"
+    },
+    {
+      "date": "2026-01-25T19:34:11.202Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "Aaa Gozz",
+      "text": "Green horn here. this will update by March.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=0eb72417-60d4-4fcd-8a6c-7261d2eb9073"
+    },
+    {
+      "date": "2026-01-25T05:05:02.377Z",
+      "score": 1,
+      "thumbsUp": 2,
+      "user": "Sage Peace",
+      "text": "canceled. and they continue to keep charging me I've blocked the from both my banks and somehow they found my credit card and are charging that now when I canceled my subscription twice now!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=6984a5eb-2396-4cf0-8b0a-d10e3e74b8fc"
+    },
+    {
+      "date": "2026-01-24T20:34:14.644Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Angelo Acevedo",
+      "text": "great app. thank you",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=449345fe-c8a6-4dfb-8539-71ba5450b2fa"
+    },
+    {
+      "date": "2026-01-24T15:16:25.732Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "john hilt",
+      "text": "awesome app",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=3d291ae1-9d8b-4a4e-8da2-5de6324b70fb"
+    },
+    {
+      "date": "2026-01-24T14:02:30.899Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Kyle Holliday",
+      "text": "it's accurate and very helpful and time consuming",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=f500543b-66c2-4b9e-bc60-27474d4302ba"
+    },
+    {
+      "date": "2026-01-23T18:03:55.382Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Nate MrInk",
+      "text": "works perfectly as described. Pricing is a bit high for how often i use it",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=652c9911-5073-4abf-a0d6-73e4f3b31868"
+    },
+    {
+      "date": "2026-01-23T09:23:08.537Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Wil Maldonado",
+      "text": "good",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=61975d6f-3e6d-4901-963f-3f0fbc04f08f"
+    },
+    {
+      "date": "2026-01-23T01:49:01.729Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Kaunaoa Helekahi",
+      "text": "alsome",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=8c0d954b-3d7c-4313-b4fe-bffda097e2c9"
+    },
+    {
+      "date": "2026-01-22T22:31:56.262Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Juan Carlos Mosco",
+      "text": "sorry, I'm still not having any experience jet that is my next step. thank you.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=cbff6377-1c12-4f8b-b081-8583e1821f9b"
+    },
+    {
+      "date": "2026-01-22T15:32:34.178Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Lukas Jaworski",
+      "text": "Great app, highly recommended.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=078a66ff-45b4-4ed0-ac9e-48d28ead42de"
+    },
+    {
+      "date": "2026-01-22T04:56:44.472Z",
+      "score": 5,
+      "thumbsUp": 9,
+      "user": "Carlos",
+      "text": "Easiest to use, no problem to set clients invoices, job estimate. great app. price for a year is the best price I tried it for a week, I love it my clients are happy that I make estimates on the inside, send it by text, PDF, email or just printed great app",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=3db232d0-d498-4eea-8b18-6896b88485ad"
+    },
+    {
+      "date": "2026-01-21T15:33:07.949Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Hamisu Musah",
+      "text": "this is a great app for you. any one can used this app",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=f86b03b8-5ae2-4739-83a4-838d7c82313c"
+    },
+    {
+      "date": "2026-01-21T05:27:56.540Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Carl Franks",
+      "text": "well I just started on this app I just downloaded it. and so far so good",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=112a6995-f72e-4de0-ab71-feab1a38a06f"
+    },
+    {
+      "date": "2026-01-21T04:57:05.470Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "John Adeboyejo",
+      "text": "Simply Amazing",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=f1dc2156-0e30-4525-93f5-28e6097b23dd"
+    },
+    {
+      "date": "2026-01-21T03:33:47.501Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Alex",
+      "text": "amazin and professional",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=9f25c4b0-4b3f-4e6e-8ad7-8d5da8c26f25"
+    },
+    {
+      "date": "2026-01-20T20:43:55.754Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Blanket Cover's yu",
+      "text": "awesome app",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=898dca04-f49c-4006-a427-2b5b324945b7"
+    },
+    {
+      "date": "2026-01-20T15:35:17.205Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Joseph Madson",
+      "text": "so far so good",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=4ae70bf1-7fd4-49d2-8155-c43120c12229"
+    },
+    {
+      "date": "2026-01-18T08:19:21.216Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Nita Lovesmy2",
+      "text": "misleading",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=4213b090-3739-4f89-ab4b-6431bc6dba01"
+    },
+    {
+      "date": "2026-01-17T22:31:04.832Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Food bee's LOVE",
+      "text": "great",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=4596994b-6381-46ed-8132-a2bcb19416d9"
+    },
+    {
+      "date": "2026-01-17T18:47:54.320Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Nick Shedd",
+      "text": "PERFECT APP!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=85ca63c8-b59b-4733-8f11-ab15091f03d0"
+    },
+    {
+      "date": "2026-01-16T21:16:29.937Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Richard Allen",
+      "text": "I think it takes a lot of guess work out of the process.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=9a006cca-26a6-443d-bc3e-7d515cabb677"
+    },
+    {
+      "date": "2026-01-16T10:57:07.613Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Romeo Lc",
+      "text": "good👍",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=916f5a40-14af-4487-8d1c-4b2d803ad510"
+    },
+    {
+      "date": "2026-01-16T07:46:50.135Z",
+      "score": 4,
+      "thumbsUp": 7,
+      "user": "Derek “Droc” Spencer",
+      "text": "Fast,easy and a professional look. Saves time and paperwork. Time is money!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=c85ba23a-6289-4714-9e59-ed4e2fb8d0fd"
+    },
+    {
+      "date": "2026-01-16T00:43:10.150Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Jason Maulden",
+      "text": "excellent",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=eb7f4169-b9ba-41e0-ac7f-534d5e21aac8"
+    },
+    {
+      "date": "2026-01-16T00:05:41.792Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Mike Ross",
+      "text": "😍🤩 amazing",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=84a8622e-7d7c-42f1-8f84-9cd8ea01f709"
+    },
+    {
+      "date": "2026-01-15T20:01:05.798Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Edwin Garcia",
+      "text": "nice and easy",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=0bbcede8-029c-4aea-9e07-7b5a29c5029d"
+    },
+    {
+      "date": "2026-01-15T03:41:15.301Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Gardy Jean",
+      "text": "I'm greatfull for everything",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=e100ecdb-62f1-483d-811b-b663d4b689bc"
+    },
+    {
+      "date": "2026-01-14T12:16:16.870Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Diego zurita",
+      "text": "very good 👍",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=506365ef-5c5d-4d79-9f46-ac33ddec58d6"
+    },
+    {
+      "date": "2026-01-13T19:15:40.641Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Charles Richards",
+      "text": "don't know yet.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=65167fb0-6e00-4a1d-b694-3280018d743a"
+    },
+    {
+      "date": "2026-01-13T15:22:08.597Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Kerry Montgomery",
+      "text": "very user friendly",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=167a664c-cddd-452f-83c0-34a828f6af0b"
+    },
+    {
+      "date": "2026-01-13T12:38:14.972Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Angelita Sherman",
+      "text": "Easy and fast to get started.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=b34fce98-de26-4d8a-aa38-339d37f688e4"
+    },
+    {
+      "date": "2026-01-13T11:13:05.236Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Acosta",
+      "text": "Great day for the inconvenience and upkeep to go",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=8eb81599-ed37-485f-b667-9e2372f569e5"
+    },
+    {
+      "date": "2026-01-13T04:46:32.596Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Jack Briggs (JU6ST6JA6CK)",
+      "text": "best invoice app, the simplicity used makes it compatible for any user.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=af935dc9-0119-4e67-8884-eeb7460284f7"
+    },
+    {
+      "date": "2026-01-13T02:38:39.645Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "jorge acajabon",
+      "text": "dosent work right",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=ea7c542d-314d-4cc3-92fd-1884c64be9b9"
+    },
+    {
+      "date": "2026-01-13T01:30:55.653Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "David Finn",
+      "text": "easy to work with",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=823a601b-8337-45d4-b891-6ba281423d95"
+    },
+    {
+      "date": "2026-01-12T21:22:42.879Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "BK All day (BK)",
+      "text": "great and useful",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=216223cb-88bf-4704-8f13-6aff7ef7b97d"
+    },
+    {
+      "date": "2026-01-12T04:07:14.338Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "ASK A PRO Cool spray deck",
+      "text": "the best app",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=77c388aa-f5fc-4671-8830-82c0d0905d49"
+    },
+    {
+      "date": "2026-01-11T22:53:27.728Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Miguel D Valdés",
+      "text": "i didn't use it yet",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=8744630f-4a71-4e50-8529-ca0cbca2555a"
+    },
+    {
+      "date": "2026-01-11T21:59:31.312Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Musa Mhlaba",
+      "text": "Help alot",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=f9d0fcc8-0fae-4cbb-8c7c-b5fa5bea488a"
+    },
+    {
+      "date": "2026-01-11T19:45:38.295Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Enos Moaning",
+      "text": "thank you",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=9d302d2d-d88c-4110-98ab-8693228cab33"
+    },
+    {
+      "date": "2026-01-10T22:41:09.289Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "raymond mccullerssr",
+      "text": "very helpful",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=ac1ed8bc-122d-48aa-8c70-46fa76141c12"
+    },
+    {
+      "date": "2026-01-10T09:25:40.714Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Vickie Aaron",
+      "text": "just got started easy so far",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=b8fd6e7e-60b5-4a6b-81bf-edea75345942"
+    },
+    {
+      "date": "2026-01-10T08:44:22.738Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Victor John",
+      "text": "cool",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=a7cfe44a-489b-4a16-94c2-c4836ec886e3"
+    },
+    {
+      "date": "2026-01-10T00:27:44.630Z",
+      "score": 5,
+      "thumbsUp": 5,
+      "user": "Kenneth Ofarrell",
+      "text": "easy to use, good suggestions. using the AI estimator is damn good at pricing and wording is spot on. Adds the expenses some might not think of.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=758a2e51-97b0-4013-abe7-e5fd3aa56be5"
+    },
+    {
+      "date": "2026-01-09T23:15:58.115Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Chad Nix",
+      "text": "This is the best tool for contractors ever ever invented 👏 🙌 👌",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=68ad322f-220f-41b3-b7e8-65f2fadb6a17"
+    },
+    {
+      "date": "2026-01-09T17:33:07.134Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Jani Gorden",
+      "text": "looks perfect😁",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=1d7295e4-9dce-44ef-a7c8-1c9fc623f83f"
+    },
+    {
+      "date": "2026-01-09T16:13:07.900Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Fast Eddie Williams in smoke",
+      "text": "really enjoy this app",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=a107367a-900f-4cf0-b158-4c4c8a41abb5"
+    },
+    {
+      "date": "2026-01-09T11:13:51.140Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Todd Tyler",
+      "text": "lets see how it goes",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=e4be1ba5-14e7-4509-b0a0-71b4704009f9"
+    },
+    {
+      "date": "2026-01-09T03:27:34.140Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Juan Castro",
+      "text": "good very good",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=972c28bf-e638-45e6-8c2e-d8e5994a9125"
+    },
+    {
+      "date": "2026-01-08T21:14:10.461Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Yofren Sarmiento",
+      "text": "beautiful",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=d88b4a2f-dc80-474d-ad93-4083fe612020"
+    },
+    {
+      "date": "2026-01-08T20:57:34.711Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "Gbemi Alfred",
+      "text": "still exploring the app but nice interface and easy to use",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=49855fab-24d8-467a-b89a-d35cb8c0bb4b"
+    },
+    {
+      "date": "2026-01-08T18:27:59.411Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "A-Tino General Services LLC",
+      "text": "excellent estimate",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=15211134-8b43-440e-97e1-b755fd19e56c"
+    },
+    {
+      "date": "2026-01-08T14:03:46.616Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Jose Guerrero",
+      "text": "not allowed to send then via message",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=50568c40-f7bd-47dc-8362-a48b0d6da9bc"
+    },
+    {
+      "date": "2026-01-08T02:26:58.774Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Rick",
+      "text": "very professional",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=7d3f71ce-cd0c-4fd7-bff5-975ca9437941"
+    },
+    {
+      "date": "2026-01-08T01:12:28.603Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Jonathan Assee",
+      "text": "So far so good",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=eb41e853-1cf0-4818-8c8d-1478c96d6371"
+    },
+    {
+      "date": "2026-01-07T11:07:49.470Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Netty slogan",
+      "text": "Great",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=f7490f28-abc2-4ce8-ba6f-52355219bb74"
+    },
+    {
+      "date": "2026-01-07T08:35:31.707Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Selina Amanin Asare",
+      "text": "Great App...am now professional",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=189d1aa9-97b0-40d6-9bb2-11dbfa9d55b9"
+    },
+    {
+      "date": "2026-01-06T22:35:26.809Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Anays Garcia",
+      "text": "muy buena idea, espero podamos durar largo tiempo con su servicio",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=ceb32d88-b23f-4dab-b999-978907b9385b"
+    },
+    {
+      "date": "2026-01-06T21:25:12.812Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Mike m",
+      "text": "Housewashing, Softwashing & Pressure washing available, driveways, homes etc! Weekly Lawn Maintenance Commercial, & Residential Spring and Fall clean ups, Shrub Trimming, Flowers, Plants, Shrubs installed. Exterior & Interior , painting, Deck staining. Garage, Basement Epoxy floor painting ETC..... Family owned & operated for 15 Years. Macomb, Oakland, Wayne County.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=a1a0520c-b743-472f-804a-d8da820ef46b"
+    },
+    {
+      "date": "2026-01-06T18:18:20.410Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Ferro Saffold",
+      "text": "a must have for Business",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=f9a5a084-6adc-4259-9743-c3417fa80347"
+    },
+    {
+      "date": "2026-01-06T12:52:32.434Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Matt Olson",
+      "text": "great",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=d84e55ec-6344-4724-9f69-5bc00f5f950f"
+    },
+    {
+      "date": "2026-01-06T09:29:49.275Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Javier Arce",
+      "text": "amazing",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=9424e95c-1e59-4775-ae0d-bc312c3f4008"
+    },
+    {
+      "date": "2026-01-06T08:45:26.517Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Baris",
+      "text": "This is a awesome tool . It makes the process easier",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=85aabeae-6198-453c-8fb9-4f581fa84345"
+    },
+    {
+      "date": "2026-01-06T06:55:12.235Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Octavio Alvarado",
+      "text": "good app love it",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=77835ada-8e42-4a8a-a81e-fe546d980721"
+    },
+    {
+      "date": "2026-01-06T03:27:34.508Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Angel",
+      "text": "nice side",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=4ad113dd-e1e8-47fc-804e-9d72cd7eb1f8"
+    },
+    {
+      "date": "2026-01-06T02:44:48.720Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Jorge Santiago",
+      "text": "good",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=7feba8e9-e282-4020-a3da-50087bc3cc69"
+    },
+    {
+      "date": "2026-01-05T19:54:30.628Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "Gustavo Perez",
+      "text": "best",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=d2f942b8-6c9f-49fc-b552-8ceb2e69e141"
+    },
+    {
+      "date": "2026-01-05T19:25:37.489Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Michael Locke",
+      "text": "great app",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=9416a66e-3fe9-4ff3-a243-9c4bb118a29f"
+    },
+    {
+      "date": "2026-01-05T18:50:26.257Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Pablo Ruiz",
+      "text": "Such a wonderful app to have!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=5a7c4a88-1d27-4a2c-943f-95dfaf832767"
+    },
+    {
+      "date": "2026-01-05T18:44:13.391Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Casey Kolmer",
+      "text": "decent",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=5f832cb3-f45a-44b2-8184-b91f305eb6d0"
+    },
+    {
+      "date": "2026-01-04T20:31:10.200Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Uriel Mondragon",
+      "text": "𝒈𝒓𝒆𝒂𝒕 𝒂𝒑𝒑 𝒇𝒐𝒓 𝒃𝒖𝒔𝒊𝒏𝒆𝒔𝒔",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=9714b8bb-64b5-4266-9ac0-d42236a20f10"
+    },
+    {
+      "date": "2026-01-04T16:09:46.495Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Robert Zavala",
+      "text": "it's easy and fast.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=d3ed0456-625a-4837-a3e8-cc87f3c99f1c"
+    },
+    {
+      "date": "2026-01-04T13:03:41.970Z",
+      "score": 5,
+      "thumbsUp": 10,
+      "user": "Cody Gann",
+      "text": "This is a great app for someone with a side business, it is well worth it to just pay for the year if you are making any kind of decent money through your side work. Nice, professional looking invoices and able to track all the money moving around in one clean layout. Also being able to take card payments is amazing!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=d5465603-42db-4fed-8cc2-3f5c2887691c"
+    },
+    {
+      "date": "2026-01-04T09:07:41.882Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "LR",
+      "text": "😍😍😍😍",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=55ea347e-9805-4244-a638-4f757563b74c"
+    },
+    {
+      "date": "2026-01-03T16:38:14.973Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Kikin Tom",
+      "text": "its cool",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=d5462280-2718-477a-a03d-13af7f245b96"
+    },
+    {
+      "date": "2026-01-03T13:08:42.909Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Dwayne Harley",
+      "text": "I think this is so amazing to keep things rolling",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=2de885c8-2a9c-48dc-9eec-79ccd9a02a4b"
+    },
+    {
+      "date": "2026-01-02T21:09:23.145Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Cedric Word",
+      "text": "I tried the free portion of the app but there is no way to cancel my subscription I've tried contacting someone but poor customer service no contact info for anyone. eventually I just removed any payment info so if they try to charge my account or say I didn't cancel subscription they won't take my money that's for sure.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=cd8f2341-ddba-499c-a807-3c06c86ee068"
+    },
+    {
+      "date": "2026-01-02T03:40:22.483Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Chris Power washing solutions LLC",
+      "text": "great app I used for a year but it's time to upgrade to an CRM i highly recommend this app",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=44522348-9c96-4288-be18-1c7f53c038dc"
+    },
+    {
+      "date": "2026-01-01T23:34:14.327Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Alejandro Munoz",
+      "text": "is easy junk, only use PayPal and app is not free is just temporary",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=a4ede6d4-c947-4ab0-82de-bd3646c71073"
+    },
+    {
+      "date": "2026-01-01T05:51:57.945Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Franchel Williams",
+      "text": "very good app",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=1a43073c-3c59-4d05-8f0f-08e230aa9466"
+    },
+    {
+      "date": "2025-12-30T14:19:13.141Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Mac Jay",
+      "text": "better then having an assistant manager",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=451f0aa8-1e9e-4e6e-8665-6619f3fdaadc"
+    },
+    {
+      "date": "2025-12-29T15:00:21.109Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Robert Graham",
+      "text": "Easy to use, quick and simple",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=d1ec9610-3021-4cb5-a56c-fcb20952aacd"
+    },
+    {
+      "date": "2025-12-29T02:42:36.626Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "S",
+      "text": "it's great!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=4374713b-b125-4c77-a670-012118f4829b"
+    },
+    {
+      "date": "2025-12-28T17:23:20.591Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Vary Cota",
+      "text": "well!!!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=aa2218e3-1703-425d-b4d5-ffb85ac98b5d"
+    },
+    {
+      "date": "2025-12-28T03:16:52.717Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Maria Richardson",
+      "text": "mad everything's gone",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=0bb8a5ba-12e2-4392-a41d-a5340ad56050"
+    },
+    {
+      "date": "2025-12-28T01:01:59.771Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "C409 VIGIL",
+      "text": "goor",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=d174c25d-bf3c-4753-9f3a-e29f779dbdb7"
+    },
+    {
+      "date": "2025-12-27T05:04:23.930Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Corea Bush Sr.",
+      "text": "great",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=a3a35d22-0bb2-41c4-b53a-d0617bcf2ac3"
+    },
+    {
+      "date": "2025-12-25T16:55:49.307Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Jc Briseno",
+      "text": "Samsung a36/JC/Nice",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=6ab90d7a-9329-4a12-9eaf-b882c7d430eb"
+    },
+    {
+      "date": "2025-12-25T16:12:16.147Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Kyle Wilber",
+      "text": "saves time, and money great app",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=a4c8294e-be65-46f8-8d8b-5e4d1839f528"
+    },
+    {
+      "date": "2025-12-25T12:23:30.752Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Mario Arevalo",
+      "text": "se mira bien ahora falta usarlo y ver cusnto cobran",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=386f5db9-0591-49a4-b597-4d690a1a2278"
+    },
+    {
+      "date": "2025-12-25T06:04:55.533Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Andrew Beaty",
+      "text": "Awesome 👍🏿😎",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=309ae102-f616-4ab6-bc47-f84360ab1b35"
+    },
+    {
+      "date": "2025-12-25T02:49:16.343Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "JAMES BOLGER",
+      "text": "Is it so simple to use?",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=42029773-1b5b-495c-b972-42c0e32e2a69"
+    },
+    {
+      "date": "2025-12-24T18:27:29.551Z",
+      "score": 1,
+      "thumbsUp": 10,
+      "user": "dreazy",
+      "text": "so 9$ i didnt mind paying 6$ for convenience but a extra 3$ a week? to do less then Microsoft 365? i dont like recommending crossing the sea but when the developer is more greedy then Microsoft its time to explore the sea. 432$ a year if you leave it on my accident. its a good app but for that price you can purchase all of 365 services and save 300$.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=2f814bf7-a9b3-45e7-b977-0310972f7bc6"
+    },
+    {
+      "date": "2025-12-24T15:51:34.507Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Oscar Perales",
+      "text": "sucks",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=03eb9f90-7eae-4bd9-a8c2-3f3abe65b933"
+    },
+    {
+      "date": "2025-12-23T22:15:27.144Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Francisco Navarro",
+      "text": "good",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=ebcaac95-acde-436a-9398-54055888c913"
+    },
+    {
+      "date": "2025-12-23T17:07:27.507Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Edgardo Anaya",
+      "text": "the app it seams to be ready going",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=cba89d9d-d54b-483b-9e7c-8486932ae817"
+    },
+    {
+      "date": "2025-12-23T16:33:12.226Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Erwin Ojastro",
+      "text": "my goal is to make costumer satisfied and happy so next time coming up for repair and maybe recommend me to their friends & family",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=fff484be-3e14-4ee4-a737-c9343a04282a"
+    },
+    {
+      "date": "2025-12-23T14:49:41.951Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Jose Carbajal",
+      "text": "looks professional",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=01ebe226-b370-48c5-b52e-d9cb3578bcfa"
+    },
+    {
+      "date": "2025-12-23T01:53:42.265Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "craig sullivan",
+      "text": "wouldn't let me add bills to invoice. doesnt work",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=100169ec-dfec-4592-80ca-0bdecf260e1f"
+    },
+    {
+      "date": "2025-12-22T04:04:56.210Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Ariel Escandon",
+      "text": "just started..I can say much",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=d00d0f47-92c5-4343-b7a9-f238adfe160f"
+    },
+    {
+      "date": "2025-12-22T02:21:35.353Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Robert Pin",
+      "text": "great service 👏",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=45b69728-f643-4400-8c3d-7a823d25a130"
+    },
+    {
+      "date": "2025-12-21T19:03:19.416Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "danny gonzalez",
+      "text": "very good",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=e4bbf2e8-c593-4b2c-bd8d-b20549b9c0d8"
+    },
+    {
+      "date": "2025-12-21T14:15:24.291Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Juan Rivera",
+      "text": "ok",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=e8815d20-a127-41a7-95f0-c6977065ef9b"
+    },
+    {
+      "date": "2025-12-21T11:24:17.166Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Cynthia Lewis",
+      "text": "lovely",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=97aab363-246d-48b2-b331-4c1cd32b930c"
+    },
+    {
+      "date": "2025-12-21T01:12:50.530Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Dion McGuinness",
+      "text": "so far it seems simple and user friendly",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=90c18c89-3415-487f-8a9d-75c10ca2d8ef"
+    },
+    {
+      "date": "2025-12-20T08:02:44.103Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Pamela Eastman",
+      "text": "easy and very set up process",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=b21af1d4-02fc-40d6-8d88-91ff221b927c"
+    },
+    {
+      "date": "2025-12-20T04:15:47.321Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "J.T. Blackshire",
+      "text": "seem innovative for the moment, time will tell, and I will update rest assure",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=2cbfbc98-089a-4b7d-a109-c7e3af30da04"
+    },
+    {
+      "date": "2025-12-19T16:07:23.191Z",
+      "score": 1,
+      "thumbsUp": 2,
+      "user": "MRC",
+      "text": "trust trust. trying to un-subscribe but failed several times. waste of money",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=f27cc755-4c1b-4200-8869-ebd8803c08fb"
+    },
+    {
+      "date": "2025-12-19T15:03:25.134Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "aRiZa pHoEnIcIaN",
+      "text": "what's a great app it doesn't exactly what it says it's supposed to do.. help you out to make money easy..",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=37df0d43-12ad-4680-8f76-df562dfd528d"
+    },
+    {
+      "date": "2025-12-19T14:59:07.194Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Roderick moreland",
+      "text": "excellent",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=f03e6556-d2fa-43a4-aadd-f3f0541b8564"
+    },
+    {
+      "date": "2025-12-19T14:53:01.601Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "William Preston",
+      "text": "haven't complete my invoice and asking for review",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=3832d42e-528c-463b-9194-4a24d0c901c2"
+    },
+    {
+      "date": "2025-12-19T08:06:27.967Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Reliable R.V. Repair",
+      "text": "love this app",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=c8408661-53ff-4ad1-8a10-0dfe3ad0eb8f"
+    },
+    {
+      "date": "2025-12-19T01:56:54.731Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Richard Freeman",
+      "text": "awesome",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=7f6c0ed2-ce1c-4361-8920-e80f082f98ed"
+    },
+    {
+      "date": "2025-12-19T00:27:58.730Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "James Duckett",
+      "text": "Pretty easy to manage everything on this app.., i'm actually extremely impressed with this app is handy as a shirt pocket",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=4156171f-5c9a-4591-a5bd-6ac172691d04"
+    },
+    {
+      "date": "2025-12-18T11:34:06.956Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Earl Myers",
+      "text": "very good service",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=d6162aed-e1e0-437c-bb71-bc4e5c1d07f6"
+    },
+    {
+      "date": "2025-12-18T09:27:19.594Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "ralph foster",
+      "text": "fantastic application",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=d4c29f1b-5783-4229-9021-a767c4ef82de"
+    },
+    {
+      "date": "2025-12-18T04:46:23.925Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Amecco Watkins",
+      "text": "Great app",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=6021168b-c9dd-4aae-ad91-f8abc0d2f3fa"
+    },
+    {
+      "date": "2025-12-18T04:46:01.855Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "Al Kiefer",
+      "text": "I've only downloaded this app so far. until I have a chance to use it and develop a n option, the rating may go up or down.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=baa9ba49-3a49-40e7-8eb5-1e99be4e5814"
+    },
+    {
+      "date": "2025-12-18T00:39:31.571Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Darren Horan",
+      "text": "straight forward, easy to us",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=c6fdd44e-00dc-47c8-8d6d-a74ee7a308a3"
+    },
+    {
+      "date": "2025-12-17T16:03:46.446Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Mike Ramirez",
+      "text": "good app",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=86d1075f-5169-404e-b617-09ee72006a77"
+    },
+    {
+      "date": "2025-12-17T15:19:05.712Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Armando Morales",
+      "text": "they charge without used",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=2f421acf-040e-47dd-92c4-27ab978bc934"
+    },
+    {
+      "date": "2025-12-17T13:33:49.428Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Nicole Lynne Price",
+      "text": "so handy and convenient",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=77e15d57-5086-4243-afbc-98c4744a57a6"
+    },
+    {
+      "date": "2025-12-17T12:16:22.152Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Chukwuma Uchella",
+      "text": "Simply amazing",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=6a60f0db-5b48-409f-a553-0cb7a4bd990e"
+    },
+    {
+      "date": "2025-12-17T00:52:31.874Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Carlos Lopez",
+      "text": "great app 👌 👏",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=96fb983d-f2d0-4aa9-9ce3-4d4df5a57265"
+    },
+    {
+      "date": "2025-12-16T18:57:35.945Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "jorge urbiola",
+      "text": "Great app",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=77eb6ec8-7743-4295-b722-3d9a404182d2"
+    },
+    {
+      "date": "2025-12-16T17:06:54.930Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Jesús Duràn",
+      "text": "Muy buena App.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=216c6b1c-01b7-4cbb-8ed9-bd57aa6e7e82"
+    },
+    {
+      "date": "2025-12-16T00:01:55.820Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Brandon Hernandez",
+      "text": "first time doing it and its good",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=917149cb-b688-4042-ab4d-50a53b4fcd84"
+    },
+    {
+      "date": "2025-12-15T22:47:44.359Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "lozano arreola",
+      "text": "good job",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=7e2a0ea4-2cd6-4352-8965-a1ce6b068eff"
+    },
+    {
+      "date": "2025-12-15T19:10:33.571Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "Justin Hemphill",
+      "text": "great",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=b5158ebf-1adb-4b5f-9f4a-97d89a7c9232"
+    },
+    {
+      "date": "2025-12-15T16:09:20.820Z",
+      "score": 1,
+      "thumbsUp": 6,
+      "user": "Myzta Hamblen",
+      "text": "id give it 0 stars if I could because of the lack of help I received. I paid for a year, and im STILL getting charged weekly! When I asked for help with it I was told Google play handles all their payments so they would have to fix it. ive tried FOR MONTHS to reach out to Google play to get it fixed and no one has responded. I AGAIN reached out to invoice fly and explained what's happening. They told me how sorry they were for the inconvenience...and STILL said id have to go to Google play...",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=7c634483-24fd-4e9d-82a0-b92a063526e9"
+    },
+    {
+      "date": "2025-12-15T16:00:21.144Z",
+      "score": 5,
+      "thumbsUp": 5,
+      "user": "Ryan Raynor",
+      "text": "love this app! can't imagine running my business without it. I did have a problem with pulling up some invoices, I emailed the help support email, and they had me back up and going immediately. 5-Star +",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=99b260c1-2524-46f3-b03a-6166d775d0cb"
+    },
+    {
+      "date": "2025-12-15T00:15:43.419Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Mountain Shakur",
+      "text": "you guys are 👍 great",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=189cf574-006d-471f-9eb2-7c4a7d484ffb"
+    },
+    {
+      "date": "2025-12-14T22:23:10.868Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Jerrett H",
+      "text": "I have deactivated my account weeks ago and im still being charged every week. Have to change my bank card because of this",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=396f631d-8fce-47de-8f3b-95a3c380ca06"
+    },
+    {
+      "date": "2025-12-14T15:34:45.243Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "alejandro ramirez",
+      "text": "not sure I am going to start soon using it",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=d760da71-7e2b-4d47-a005-0dd4cca848af"
+    },
+    {
+      "date": "2025-12-14T13:29:41.713Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Kreep Matsaung",
+      "text": "Great app. not hectic. easy .",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=da18565e-3eaf-46ea-a534-5199f2d13760"
+    },
+    {
+      "date": "2025-12-14T07:31:24.912Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Big Scott",
+      "text": "it's easy to use and an amazing app too, made productivity a whole lot faster.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=f0d0c249-2d1c-44da-9452-8f8d18de0ddb"
+    },
+    {
+      "date": "2025-12-13T17:31:02.418Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Ruben Dueñez",
+      "text": "this site is incredible it really elevated my business",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=49ef6cbf-7113-40db-a98c-dfa88aa38c6a"
+    },
+    {
+      "date": "2025-12-13T10:30:31.189Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "William Basulto",
+      "text": "best invoice maker ever!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=ecac7a21-2927-495f-86f0-218f6a5730aa"
+    },
+    {
+      "date": "2025-12-13T10:24:50.420Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "WINN PRO TURF MANAGEMENT LLC (WINN PRO)",
+      "text": "amazing invoiceing app",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=8d4a4c42-86a1-4a96-a32f-657b50a636bc"
+    },
+    {
+      "date": "2025-12-13T09:15:18.352Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Elpidio Taveras",
+      "text": "All good.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=a084185c-2ea3-43c3-8290-3341b7090372"
+    },
+    {
+      "date": "2025-12-13T04:35:12.210Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "John D",
+      "text": "great does under price you or overprice your customers simple on the go time saver.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=93327e79-fb5a-4945-ba9c-3c884a68c17f"
+    },
+    {
+      "date": "2025-12-13T04:21:20.850Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Kenvie Donaldson",
+      "text": "this is the one",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=c874ed60-d67e-4580-92af-61d691a11841"
+    },
+    {
+      "date": "2025-12-13T02:25:33.255Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Elmer Bagley",
+      "text": "just started not sure",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=cf9766d8-3c36-4f12-9bcf-9ad44d49a421"
+    },
+    {
+      "date": "2025-12-12T19:47:13.912Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Osheonna House",
+      "text": "Can't wait to boost my business 😌",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=f1c6d8e3-c5c0-4c8c-aac0-b06ad7d0eb6a"
+    },
+    {
+      "date": "2025-12-12T15:41:12.602Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Reinaldo Quiros",
+      "text": "it's really good to use",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=969a092c-b9b6-45d7-9fd5-d8282287ebae"
+    },
+    {
+      "date": "2025-12-12T13:47:03.606Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Dominique Deriso",
+      "text": "I'm going to go ahead and give five stars I'm going to give it a try I'll be back to give a real review so far it is going great",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=620b92db-4c17-470c-9d14-5f16cde1499e"
+    },
+    {
+      "date": "2025-12-12T11:32:20.245Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Jay Moore",
+      "text": "app is amazing",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=42585eef-6f94-4a02-a1b6-255e87730f90"
+    },
+    {
+      "date": "2025-12-12T08:01:30.959Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Ernesto Palomino",
+      "text": "👍",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=81dbecbe-4a73-4989-85ac-f1f590abb1fd"
+    },
+    {
+      "date": "2025-12-11T22:55:43.442Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Jason Belshaw",
+      "text": "two thumbs up",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=2a096c59-e9cd-424b-a090-41a80752289a"
+    },
+    {
+      "date": "2025-12-11T16:28:11.434Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Marbe G",
+      "text": "loving the easy flow",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=563490e5-efb1-493b-9217-0881b08e1324"
+    },
+    {
+      "date": "2025-12-11T10:08:41.290Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Taylor Parker",
+      "text": "very easy to set up and very easy to use",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=b9ddd583-f2ab-4ddc-80d5-446b9df0eee4"
+    },
+    {
+      "date": "2025-12-11T10:05:58.755Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Juan Lopez",
+      "text": "👑is back",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=d89a4163-da93-47bf-a530-2825ce370b0d"
+    },
+    {
+      "date": "2025-12-11T08:13:50.748Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Yorkson Plumbing",
+      "text": "great",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=4bce10b3-90ef-494f-aa10-1f1e08f09ae1"
+    },
+    {
+      "date": "2025-12-11T03:52:55.656Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Peter Cretu",
+      "text": "so far so good 👍",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=c3f49fc3-63d5-4d45-bbd8-c30f2d8256be"
+    },
+    {
+      "date": "2025-12-10T13:44:46.524Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Jonathan Gonzalez",
+      "text": "easy-to-use",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=26f1e6c3-b8c0-4151-86bb-896ee7c58ede"
+    },
+    {
+      "date": "2025-12-10T06:15:56.970Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Osman Lubira",
+      "text": "Easy to use",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=0d948225-63a3-434b-9e74-b07b7283559e"
+    },
+    {
+      "date": "2025-12-09T19:27:54.429Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Logan Arnold",
+      "text": "awesome for work",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=911fd10d-5674-4e6b-93dc-79e9dc3d2cb8"
+    },
+    {
+      "date": "2025-12-09T12:52:55.729Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Stefanie Wright",
+      "text": "Great app! Would recommend to anyone!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=785d5ccb-400d-4715-a6e1-4cfe2ab68bb0"
+    },
+    {
+      "date": "2025-12-09T10:21:05.576Z",
+      "score": 2,
+      "thumbsUp": 13,
+      "user": "Dan",
+      "text": "customer service or lack of way of reaching them is non existent. I was accidentally charged for a year and im jumping through hoops to get refunded, which now basically involves going through my bank. there is no phone number to call, just stupid Ai chat which is worthless. even if this is a good product, their communication stinks, sketchy and a turn off. there are many other apps similar.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=e2fc90ce-bfdd-417e-96fe-5340258a885b"
+    },
+    {
+      "date": "2025-12-09T05:28:06.279Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Deanna Beer",
+      "text": "so far so good",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=3bcf7345-765c-480d-8ffe-155fd3d0fbcd"
+    },
+    {
+      "date": "2025-12-08T12:55:40.436Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Jesus Azuaje",
+      "text": "I really good 👍",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=e665edec-8e12-472b-922b-e95e5b342ede"
+    },
+    {
+      "date": "2025-12-08T06:28:30.966Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "simon morris",
+      "text": "no support when needed , they come on when they want",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=886a3241-92d5-47bb-9eba-c8e28b20e200"
+    },
+    {
+      "date": "2025-12-08T02:49:43.612Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Zsp Erez",
+      "text": "this app is excellent download it",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=c55e199b-74c3-4f56-a153-8f21b1ed4b5c"
+    },
+    {
+      "date": "2025-12-08T02:29:06.805Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Joshua Bordelon",
+      "text": "awesome 👌",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=686bd8b8-0dbf-4b3c-86a9-9379c7b521a3"
+    },
+    {
+      "date": "2025-12-07T22:04:38.100Z",
+      "score": 1,
+      "thumbsUp": 2,
+      "user": "Brandon Wilson",
+      "text": "Many of times I have canceled their subscription money out of my account. beware of spam",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=36e41deb-cfae-4a12-9ec1-a1aaba6d0dff"
+    },
+    {
+      "date": "2025-12-07T21:44:22.659Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Ricardo Jimenez",
+      "text": "very good app.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=4ed62e96-4b42-4fef-a2ce-8b8384e08b82"
+    },
+    {
+      "date": "2025-12-07T14:31:31.130Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Ferdie Gudinni",
+      "text": "fantastic y professional I love ❤️",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=2515432e-7309-40c6-a64b-3d55b375bfc2"
+    },
+    {
+      "date": "2025-12-07T10:03:31.621Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Left Lane",
+      "text": "time saving operation",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=79bf6975-379b-47a8-b891-16fb80248747"
+    },
+    {
+      "date": "2025-12-07T07:38:50.430Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Dan O",
+      "text": "Awesome if it's free of it isn't then it sucks",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=46385c25-87dc-4147-850e-150ed98c1d42"
+    },
+    {
+      "date": "2025-12-07T05:43:47.142Z",
+      "score": 2,
+      "thumbsUp": 2,
+      "user": "Amir Abdulla",
+      "text": "my customers invoice just plain disappeared the first day using it. also an estimate i just sent out. good concept horrible app. also only one address per customer is a no go",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=a02339aa-6b41-4581-9b9f-5bfe49b217a0"
+    },
+    {
+      "date": "2025-12-06T16:27:01.880Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Steve Burbano",
+      "text": "fantastic",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=a027d56f-aec9-4660-8524-78ef6dc14e52"
+    },
+    {
+      "date": "2025-12-06T07:45:07.589Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Altaf Sheikh",
+      "text": "very good App",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=c8e927ff-afe7-4630-b021-4095a7da8a74"
+    },
+    {
+      "date": "2025-12-06T07:25:45.597Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Jimmy Rodriguez",
+      "text": "I'm still learning about the app,because I just downloaded, but it looks good.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=21b73615-a75f-4dcb-bb22-2ea033cb66f9"
+    },
+    {
+      "date": "2025-12-06T00:34:14.452Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "fordracingchick96 ilysb4e",
+      "text": "very useful.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=a2682c24-153b-4af0-bcfc-d0275d1401fa"
+    },
+    {
+      "date": "2025-12-05T23:16:24.920Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Shaun Russell",
+      "text": "it's right on with the price and looks good",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=9989b7d9-1546-4ea7-92f8-bf9b44f44769"
+    },
+    {
+      "date": "2025-12-05T18:14:17.751Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Santos Guerra",
+      "text": "good 👍",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=fe888813-125c-4e94-b391-25275a4001b6"
+    },
+    {
+      "date": "2025-12-05T02:36:02.349Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Manuel Puente",
+      "text": "this App is awesome 👌 easy-to-use",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=f3d3aec0-16b7-4efe-bbd1-707b37fdd9b2"
+    },
+    {
+      "date": "2025-12-05T02:04:16.695Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "James Bycinthe",
+      "text": "efficient",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=57d14c8c-fb8b-43b9-8757-586bcf0c5b0f"
+    },
+    {
+      "date": "2025-12-05T00:43:59.307Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Nellie Montalvo",
+      "text": "great",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=5f7ba193-e53d-4a36-8680-a4c957131e6a"
+    },
+    {
+      "date": "2025-12-04T19:42:56.380Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Santos Nieto",
+      "text": "thank you",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=06ab1de4-3c50-466e-bdb7-126bc7e0e110"
+    },
+    {
+      "date": "2025-12-04T16:02:22.290Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Randall Johnson",
+      "text": "everything they said it would be",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=9d4a7ec5-08d2-4581-b578-2964d2bdb606"
+    },
+    {
+      "date": "2025-12-04T08:22:44.462Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Julius Mcgraw",
+      "text": "great jobs",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=67500927-6451-4dd4-a5fa-954db0c9aab1"
+    },
+    {
+      "date": "2025-12-04T04:16:03.880Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "ROXANA ELENA PACHECO CALDERON",
+      "text": "greatest best app all",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=eda4192b-ec10-4952-8e21-b74207b53154"
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "Lexware Office DE": {
+    "name": "Lexware Office DE",
+    "appId": "de.lexoffice.android",
+    "country": "de",
+    "title": "Lexware - Online Buchhaltung",
+    "installs": "100,000+",
+    "ratings": 5166,
+    "score": 4.716243,
+    "priceText": "Free",
+    "free": true,
+    "offersIAP": false,
+    "developer": "Lexware",
+    "updated": 1774934947000,
+    "released": "Apr 11, 2018",
+    "reviews_scanned": 17,
+    "low3_sampled": 10,
+    "reply_count": 7,
+    "reply_rate_pct": 70,
+    "sample_replies": [
+      {
+        "score": 2,
+        "text": "Leute wollt ihr vielleicht NICHT ein kleinen rotes Icon mit einem weißen X Lexware Logo bei pop up information enblenden, das jedesmal aussi",
+        "reply": "Guter Punkt - besten Dank MicL."
+      },
+      {
+        "score": 2,
+        "text": "Wenn sie mal läuft, sehr gut, weil im browser kein batch upload von scans geht. Mobile app: komplett unzuverlässig. Bin jetzt bei weniger al",
+        "reply": "Das ist ärgerlich und Ihr Frust voll verständlich. Damit wir uns gezielt Ihren Fall anschauen können, schicken Sie uns bitte Ihre Diagnosedaten mit Fehlerbeschreibung über help@lex"
+      }
+    ]
+  },
+  "Accountable DE": {
+    "name": "Accountable DE",
+    "appId": "com.hivearts.accountable",
+    "country": "de",
+    "title": "Accountable: for independents",
+    "installs": "500,000+",
+    "ratings": 4710,
+    "score": 4.57047,
+    "priceText": "Free",
+    "free": true,
+    "offersIAP": true,
+    "IAPRange": "€11.99 - €849.99 if billed through Play",
+    "developer": "Accountable",
+    "updated": 1777570060000,
+    "released": "Dec 9, 2018",
+    "reviews_scanned": 104,
+    "low3_sampled": 18,
+    "reply_count": 14,
+    "reply_rate_pct": 77.8,
+    "sample_replies": [
+      {
+        "score": 1,
+        "text": "My account is being logged out constantly every few weeks causing me to miss important notifications like tax deadlines.",
+        "reply": "Hey Syd, can you reach out to us at support@accountable.eu? We will sort this out together.\nSimon from Accountable"
+      },
+      {
+        "score": 1,
+        "text": "My main bank account stopped syncing over two weeks ago, and support still hasn’t fixed it. They call it a “hard problem to solve”, which ma",
+        "reply": "Hi Pavel,\nafter reaching out to you directly, the team was able to solve this with you.\nIf you have any questions or issues going forward, please reach out directly to tax-coach@ac"
+      }
+    ]
+  },
+  "Bookipi NL": {
+    "name": "Bookipi NL",
+    "appId": "bookipi.invoice.maker.estimate.billing",
+    "country": "nl",
+    "title": "Invoice Maker & Estimate App",
+    "installs": "1,000,000+",
+    "ratings": 66018,
+    "score": 4.810127,
+    "priceText": "Free",
+    "free": true,
+    "offersIAP": true,
+    "IAPRange": "€8.49 - €199.99 if billed through Play",
+    "developer": "Bookipi - Billing Estimate",
+    "updated": 1777366216000,
+    "released": "Aug 21, 2018",
+    "reviews_scanned": 450,
+    "low3_sampled": 154,
+    "reply_count": 147,
+    "reply_rate_pct": 95.5,
+    "sample_replies": [
+      {
+        "score": 1,
+        "text": "Been using it for years now it's perfect. I just have one grievance... When i first started using Bookipi it was advertised as free forever ",
+        "reply": "Hi there, thank you for your support and your feedback! Our updated free plan allows up to 3 invoices per month. After that, a subscription is required. This change helps us improv"
+      },
+      {
+        "score": 2,
+        "text": "its a decent record keeper, been using it for years. but photos aren't kept clear and legible through their app alone. making me feel not sa",
+        "reply": "Hi Des Tarlinton, thanks for your feedback. We understand you’ve contacted support and received guidance. Please note Bookipi Invoice is a separate app from Bookipi Expense, so fea"
+      }
+    ]
+  },
+  "Faktura Proste PL": {
+    "name": "Faktura Proste PL",
+    "appId": "com.aadhk.woinvoice",
+    "country": "pl",
+    "title": "Invoice Simple: Invoice Maker",
+    "installs": "5,000,000+",
+    "ratings": 167133,
+    "score": 4.65,
+    "priceText": "Free",
+    "free": true,
+    "offersIAP": true,
+    "IAPRange": "17,49 PLN - 1.819,99 PLN if billed through Play",
+    "developer": "Invoice Simple",
+    "updated": 1777658410000,
+    "released": "Mar 22, 2014",
+    "reviews_scanned": 450,
+    "low3_sampled": 127,
+    "reply_count": 34,
+    "reply_rate_pct": 26.8,
+    "sample_replies": [
+      {
+        "score": 1,
+        "text": "This used to be a great app, but now they charge you an unreasonable fee and it feels like every so often they want to move the pricing up, ",
+        "reply": "Hi Alma! We understand the pain of seeing a price increase for a service that you've used for so long. While we continue to invest further into our service by adding features and i"
+      },
+      {
+        "score": 1,
+        "text": "I used to suggest this app to all small business owners. It was incredibly easy to use but anytime now that I need help I get stuck talking ",
+        "reply": "Hi there - we're sorry to hear your experience with our support didn't meet your expectations. We strive for speed and high quality answers, but sometimes we fall short of this wit"
+      }
+    ]
+  },
+  "Fakturownia PL": {
+    "name": "Fakturownia PL",
+    "appId": "pl.fakturownia",
+    "country": "pl",
+    "title": "Fakturownia - faktury w KSeF",
+    "installs": "100,000+",
+    "ratings": 2052,
+    "score": 4.3854165,
+    "priceText": "Free",
+    "free": true,
+    "offersIAP": true,
+    "IAPRange": "15,99 PLN - 109,99 PLN if billed through Play",
+    "developer": "Fakturownia",
+    "updated": 1774625673000,
+    "released": "Apr 25, 2019",
+    "reviews_scanned": 2,
+    "low3_sampled": 1,
+    "reply_count": 0,
+    "reply_rate_pct": 0,
+    "sample_replies": []
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "app": "io.labhouse.invoicesapp",
+  "country": "nl",
+  "lang": "nl",
+  "total_pulled": 2,
+  "total_after_filter": 2,
+  "reviews": [
+    {
+      "date": "2024-04-08T21:46:53.630Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Thijs van Vreedendaal",
+      "text": "Works great! I'm only missing the option to change the language of the invoice to Dutch or the Netherlands. It would really help me if my clients could understand my invoices better. I hope you guys from Invoice Fly will change that in the next version.",
+      "reply": "Hi Thijs! We are very pleased of hearing that you are happy with the app! We definitively look forward to making Invoice Fly available on as many languages as possible! We take your suggestion into account!\nBest regards, Invoice Fly Team",
+      "replyDate": "2024-04-23T10:47:35.142Z",
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=8d6a2a14-1773-414b-909e-2d7dfc29ca43"
+    },
+    {
+      "date": "2024-03-20T06:27:08.736Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Jesse Katuin",
+      "text": "Best wel prijzig voor beginnende indernemers",
+      "reply": "Thank you for your feedback. We offer a free trial so you can experience the value firsthand. Give it a try and reach out if you have questions. We're here to help!",
+      "replyDate": "2024-03-21T09:28:01.135Z",
+      "url": "https://play.google.com/store/apps/details?id=io.labhouse.invoicesapp&reviewId=6b2e23f6-f82c-464c-a18d-1ba9f14254f2"
+    }
+  ]
+}

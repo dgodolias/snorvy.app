@@ -1,6 +1,7 @@
 import 'dart:async';
 
 import 'package:drift/native.dart';
+import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:snorvy/src/app/snorvy_app.dart';
 import 'package:snorvy/src/app/snorvy_controller.dart';
@@ -33,7 +34,13 @@ void main() {
 
     await tester.tap(find.text('Settings'));
     await tester.pumpAndSettle();
-    await tester.tap(find.text('Add manual sleep log'));
+    final addManualLogButton = find.widgetWithText(
+      OutlinedButton,
+      'Add manual sleep log',
+    );
+    await tester.ensureVisible(addManualLogButton);
+    await tester.pumpAndSettle();
+    await tester.tap(addManualLogButton);
     await tester.pumpAndSettle();
     await tester.tap(find.text('Save log'));
     await tester.pumpAndSettle();
@@ -41,6 +48,39 @@ void main() {
     await tester.pumpAndSettle();
 
     expect(find.textContaining('manual log'), findsOneWidget);
+  });
+
+  testWidgets('deletes a manual sleep log from history', (tester) async {
+    final controller = _buildController();
+    addTearDown(controller.dispose);
+
+    await tester.pumpWidget(SnorvyApp(controller: controller));
+    await tester.pumpAndSettle();
+
+    await tester.tap(find.text('Settings'));
+    await tester.pumpAndSettle();
+    final addManualLogButton = find.widgetWithText(
+      OutlinedButton,
+      'Add manual sleep log',
+    );
+    await tester.ensureVisible(addManualLogButton);
+    await tester.pumpAndSettle();
+    await tester.tap(addManualLogButton);
+    await tester.pumpAndSettle();
+    await tester.tap(find.text('Save log'));
+    await tester.pumpAndSettle();
+    await tester.tap(find.text('History'));
+    await tester.pumpAndSettle();
+
+    await tester.tap(find.byIcon(Icons.delete_outline));
+    await tester.pumpAndSettle();
+    await tester.tap(find.text('Delete'));
+    await tester.pumpAndSettle();
+
+    expect(
+      find.text('No nights saved yet. Record or add a manual log.'),
+      findsOneWidget,
+    );
   });
 }
 

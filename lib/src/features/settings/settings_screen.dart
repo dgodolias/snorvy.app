@@ -8,6 +8,7 @@ class SettingsScreen extends StatefulWidget {
     required this.unlockState,
     required this.recordingsThisMonth,
     required this.onAddManualLog,
+    required this.onDeleteAllSleepData,
     required this.onUnlockTap,
     super.key,
   });
@@ -16,6 +17,7 @@ class SettingsScreen extends StatefulWidget {
   final UnlockState unlockState;
   final int recordingsThisMonth;
   final Future<void> Function() onAddManualLog;
+  final Future<void> Function() onDeleteAllSleepData;
   final VoidCallback onUnlockTap;
 
   @override
@@ -66,6 +68,35 @@ class _SettingsScreenState extends State<SettingsScreen> {
                 title: const Text('Auto-delete talk clips'),
                 subtitle: const Text('Default privacy window is 30 days.'),
                 secondary: const Icon(Icons.auto_delete),
+              ),
+              const Divider(height: 1),
+              ListTile(
+                enabled: !widget.isBusy,
+                leading: const Icon(Icons.delete_outline),
+                title: const Text('Delete local sleep data'),
+                subtitle: const Text(
+                  'Remove history and recordings from this phone.',
+                ),
+                trailing: const Icon(Icons.chevron_right),
+                onTap: widget.isBusy
+                    ? null
+                    : () async {
+                        final confirmed = await _confirmDeleteAllData(context);
+                        if (!confirmed) {
+                          return;
+                        }
+
+                        await widget.onDeleteAllSleepData();
+                        if (!context.mounted) {
+                          return;
+                        }
+
+                        ScaffoldMessenger.of(context).showSnackBar(
+                          const SnackBar(
+                            content: Text('Local sleep data deleted.'),
+                          ),
+                        );
+                      },
               ),
             ],
           ),
@@ -180,5 +211,31 @@ class _SettingsScreenState extends State<SettingsScreen> {
         );
       },
     );
+  }
+
+  Future<bool> _confirmDeleteAllData(BuildContext context) async {
+    final confirmed = await showDialog<bool>(
+      context: context,
+      builder: (context) {
+        return AlertDialog(
+          title: const Text('Delete all local data?'),
+          content: const Text(
+            'This removes every saved night and recording from this phone.',
+          ),
+          actions: [
+            TextButton(
+              onPressed: () => Navigator.of(context).pop(false),
+              child: const Text('Cancel'),
+            ),
+            FilledButton(
+              onPressed: () => Navigator.of(context).pop(true),
+              child: const Text('Delete all'),
+            ),
+          ],
+        );
+      },
+    );
+
+    return confirmed ?? false;
   }
 }

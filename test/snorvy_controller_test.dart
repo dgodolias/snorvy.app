@@ -1,4 +1,5 @@
 import 'dart:async';
+import 'dart:io';
 
 import 'package:drift/native.dart';
 import 'package:flutter_test/flutter_test.dart';
@@ -56,6 +57,36 @@ void main() {
 
     expect(recorder.startCalls, 1);
     expect(controller.recordingSession.status, RecordingStatus.recording);
+  });
+
+  test('deletes a saved night and its local recording file', () async {
+    final database = AppDatabase(NativeDatabase.memory());
+    final recorder = _CountingSleepRecorder();
+    final controller = _buildController(database: database, recorder: recorder);
+    final tempDirectory = await Directory.systemTemp.createTemp('snorvy_test_');
+    addTearDown(() async {
+      controller.dispose();
+      if (await tempDirectory.exists()) {
+        await tempDirectory.delete(recursive: true);
+      }
+    });
+
+    final recordingFile = File(
+      '${tempDirectory.path}${Platform.pathSeparator}night.ogg',
+    );
+    await recordingFile.writeAsString('fake audio');
+    await database.createRecordedNight(
+      startedAt: DateTime(2026, 5, 6, 23),
+      endedAt: DateTime(2026, 5, 7, 7),
+      recordingPath: recordingFile.path,
+    );
+
+    await controller.initialize();
+    await controller.deleteNight(controller.nights.single);
+
+    expect(controller.nights, isEmpty);
+    expect(await recordingFile.exists(), isFalse);
+    expect(controller.statusMessage, 'Night deleted from this phone.');
   });
 }
 

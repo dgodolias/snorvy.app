@@ -219,6 +219,61 @@ class SnorvyController extends ChangeNotifier {
     }
   }
 
+  Future<void> deleteNight(SleepNight night) async {
+    if (_isBusy) {
+      return;
+    }
+
+    _setBusy(true);
+    try {
+      await _stopAudioIfPlaying({
+        ?night.recordingPath,
+        for (final event in night.events) ?event.filePath,
+      });
+
+      final filePaths = await _database.deleteNight(night.id);
+      final failedDeletes = await _deleteLocalFiles(filePaths);
+      _statusMessage = failedDeletes == 0
+          ? 'Night deleted from this phone.'
+          : 'Night deleted, but some audio files could not be removed.';
+      await _loadNights(notify: false);
+    } on Exception {
+      _statusMessage = 'Could not delete this night.';
+    } finally {
+      _setBusy(false);
+    }
+  }
+
+  Future<void> deleteAllSleepData() async {
+    if (_isBusy) {
+      return;
+    }
+    if (_recordingSession.status == RecordingStatus.recording) {
+      _statusMessage = 'Stop the active recording before deleting all data.';
+      notifyListeners();
+      return;
+    }
+
+    _setBusy(true);
+    try {
+      if (_playingPath != null) {
+        await _audioPlayback.stop();
+        _playingPath = null;
+      }
+
+      final filePaths = await _database.deleteAllNights();
+      final failedDeletes = await _deleteLocalFiles(filePaths);
+      _statusMessage = failedDeletes == 0
+          ? 'All local sleep data deleted.'
+          : 'Sleep history deleted, but some audio files could not be removed.';
+      await _loadNights(notify: false);
+    } on Exception {
+      _statusMessage = 'Could not delete local sleep data.';
+    } finally {
+      _setBusy(false);
+    }
+  }
+
   Future<void> buyLifetimeUnlock() async {
     if (_isBusy) {
       return;
@@ -247,6 +302,38 @@ class SnorvyController extends ChangeNotifier {
     } finally {
       _setBusy(false);
     }
+  }
+
+  Future<void> _stopAudioIfPlaying(Set<String> filePaths) async {
+    if (_playingPath == null || !filePaths.contains(_playingPath)) {
+      return;
+    }
+
+    await _audioPlayback.stop();
+    _playingPath = null;
+  }
+
+  Future<int> _deleteLocalFiles(List<String> filePaths) async {
+    var failures = 0;
+    for (final filePath in filePaths.toSet()) {
+      if (filePath.contains('://') && !filePath.startsWith('file://')) {
+        continue;
+      }
+
+      final file = filePath.startsWith('file://')
+          ? File.fromUri(Uri.parse(filePath))
+          : File(filePath);
+
+      try {
+        if (await file.exists()) {
+          await file.delete();
+        }
+      } on FileSystemException {
+        failures += 1;
+      }
+    }
+
+    return failures;
   }
 
   Future<void> _loadNights({bool notify = true}) async {

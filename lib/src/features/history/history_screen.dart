@@ -12,6 +12,7 @@ class HistoryScreen extends StatelessWidget {
     required this.playingPath,
     required this.onPlayAudio,
     required this.onStopAudio,
+    required this.onDeleteNight,
     super.key,
   });
 
@@ -21,6 +22,7 @@ class HistoryScreen extends StatelessWidget {
   final String? playingPath;
   final Future<void> Function(String filePath) onPlayAudio;
   final Future<void> Function() onStopAudio;
+  final Future<void> Function(SleepNight night) onDeleteNight;
 
   @override
   Widget build(BuildContext context) {
@@ -114,6 +116,7 @@ class HistoryScreen extends StatelessWidget {
               isPlaying: night.recordingPath == playingPath,
               onPlayAudio: onPlayAudio,
               onStopAudio: onStopAudio,
+              onDeleteNight: onDeleteNight,
             ),
           ),
         ],
@@ -154,6 +157,7 @@ class _NightHistoryTile extends StatelessWidget {
     required this.isPlaying,
     required this.onPlayAudio,
     required this.onStopAudio,
+    required this.onDeleteNight,
   });
 
   final SleepNight night;
@@ -161,6 +165,7 @@ class _NightHistoryTile extends StatelessWidget {
   final bool isPlaying;
   final Future<void> Function(String filePath) onPlayAudio;
   final Future<void> Function() onStopAudio;
+  final Future<void> Function(SleepNight night) onDeleteNight;
 
   @override
   Widget build(BuildContext context) {
@@ -184,14 +189,22 @@ class _NightHistoryTile extends StatelessWidget {
             '${night.duration.inHours}h ${night.duration.inMinutes % 60}m sleep'
             ' - $eventSummary',
           ),
-          trailing: night.recordingPath == null
-              ? Text(
-                  '${night.snoreScore}',
-                  style: Theme.of(
-                    context,
-                  ).textTheme.titleLarge?.copyWith(fontWeight: FontWeight.w900),
+          trailing: Row(
+            mainAxisSize: MainAxisSize.min,
+            children: [
+              if (night.recordingPath == null)
+                SizedBox(
+                  width: 44,
+                  child: Text(
+                    '${night.snoreScore}',
+                    textAlign: TextAlign.center,
+                    style: Theme.of(context).textTheme.titleLarge?.copyWith(
+                      fontWeight: FontWeight.w900,
+                    ),
+                  ),
                 )
-              : IconButton(
+              else
+                IconButton(
                   tooltip: isPlaying ? 'Stop recording' : 'Play recording',
                   onPressed: isBusy
                       ? null
@@ -204,8 +217,48 @@ class _NightHistoryTile extends StatelessWidget {
                         },
                   icon: Icon(isPlaying ? Icons.stop : Icons.play_arrow),
                 ),
+              IconButton(
+                tooltip: 'Delete night',
+                onPressed: isBusy
+                    ? null
+                    : () async {
+                        final confirmed = await _confirmDeleteNight(context);
+                        if (confirmed) {
+                          await onDeleteNight(night);
+                        }
+                      },
+                icon: const Icon(Icons.delete_outline),
+              ),
+            ],
+          ),
         ),
       ),
     );
+  }
+
+  Future<bool> _confirmDeleteNight(BuildContext context) async {
+    final confirmed = await showDialog<bool>(
+      context: context,
+      builder: (context) {
+        return AlertDialog(
+          title: const Text('Delete this night?'),
+          content: const Text(
+            'This removes the sleep log and any saved audio from this phone.',
+          ),
+          actions: [
+            TextButton(
+              onPressed: () => Navigator.of(context).pop(false),
+              child: const Text('Cancel'),
+            ),
+            FilledButton(
+              onPressed: () => Navigator.of(context).pop(true),
+              child: const Text('Delete'),
+            ),
+          ],
+        );
+      },
+    );
+
+    return confirmed ?? false;
   }
 }

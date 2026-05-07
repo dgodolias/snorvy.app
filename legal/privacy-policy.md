@@ -24,9 +24,8 @@ Snorvy is not a medical device. Snorvy does not diagnose sleep apnea or any othe
 
 ## Deleting Your Data
 
-You can remove Snorvy's local data by clearing app data or uninstalling the app. In-app recording deletion controls should be added before the public production release.
+You can delete individual nights from History or delete all local sleep data from Settings. You can also remove Snorvy's local data by clearing app data or uninstalling the app.
 
 ## Contact
 
 Contact: support@snorvy.app
-

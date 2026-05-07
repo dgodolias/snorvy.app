@@ -147,8 +147,61 @@ class AppDatabase extends _$AppDatabase {
     );
   }
 
+  Future<List<String>> deleteNight(int nightId) async {
+    return transaction(() async {
+      final nightRow = await (select(
+        sleepNightRows,
+      )..where((table) => table.id.equals(nightId))).getSingleOrNull();
+      if (nightRow == null) {
+        return const <String>[];
+      }
+
+      final eventRows = await (select(
+        sleepEventRows,
+      )..where((table) => table.nightId.equals(nightId))).get();
+      final filePaths = _filePathsFor(nightRow, eventRows);
+
+      await (delete(
+        sleepNightRows,
+      )..where((table) => table.id.equals(nightId))).go();
+
+      return filePaths;
+    });
+  }
+
+  Future<List<String>> deleteAllNights() async {
+    return transaction(() async {
+      final nightRows = await select(sleepNightRows).get();
+      final eventRows = await select(sleepEventRows).get();
+      final filePaths = <String>{};
+
+      for (final nightRow in nightRows) {
+        filePaths.addAll(
+          _filePathsFor(
+            nightRow,
+            eventRows.where((eventRow) => eventRow.nightId == nightRow.id),
+          ),
+        );
+      }
+
+      await delete(sleepNightRows).go();
+      return filePaths.toList(growable: false);
+    });
+  }
+
+  List<String> _filePathsFor(
+    SleepNightRow nightRow,
+    Iterable<SleepEventRow> eventRows,
+  ) {
+    return {
+      ?nightRow.recordingPath,
+      for (final eventRow in eventRows) ?eventRow.filePath,
+    }.toList(growable: false);
+  }
+
   SleepNight _mapNight(SleepNightRow nightRow, List<SleepEventRow> eventRows) {
     return SleepNight(
+      id: nightRow.id,
       date: nightRow.date,
       startedAt: nightRow.startedAt,
       endedAt: nightRow.endedAt,

@@ -65,6 +65,7 @@ class SleepEvent {
 
 class SleepNight {
   const SleepNight({
+    required this.id,
     required this.date,
     required this.startedAt,
     required this.endedAt,
@@ -74,6 +75,7 @@ class SleepNight {
     this.recordingPath,
   });
 
+  final int id;
   final DateTime date;
   final DateTime startedAt;
   final DateTime endedAt;

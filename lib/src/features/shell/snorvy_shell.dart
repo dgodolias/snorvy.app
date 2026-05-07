@@ -49,12 +49,14 @@ class _SnorvyShellState extends State<SnorvyShell> {
             playingPath: widget.controller.playingPath,
             onPlayAudio: widget.controller.playAudio,
             onStopAudio: widget.controller.stopAudio,
+            onDeleteNight: widget.controller.deleteNight,
           ),
           SettingsScreen(
             isBusy: widget.controller.isBusy,
             unlockState: widget.controller.unlockState,
             recordingsThisMonth: widget.controller.recordingsThisMonth,
             onAddManualLog: widget.controller.addDefaultManualLog,
+            onDeleteAllSleepData: widget.controller.deleteAllSleepData,
             onUnlockTap: () => showSnorvyUnlockSheet(
               context,
               state: widget.controller.unlockState,

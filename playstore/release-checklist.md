@@ -53,7 +53,6 @@ The upload key and signing config are ignored by Git. Back them up in a secure p
 ## Remaining Before Production Track
 
 - Add persistent foreground notification for overnight recording.
-- Add in-app delete controls for recordings/history.
 - Add real app icon and Play Store 512x512 icon.
 - Back up the upload keystore and credentials outside the repo.
 - Upload to internal testing first.

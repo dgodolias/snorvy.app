@@ -9,16 +9,16 @@ _Source: 97 synthesized cells + Invoice Simple 3000-review drill (US/GB) + iOS 7
 - 🟢 Simple build (3-8 weeks solo)
 - 🟢 LOW legal risk (no AI content liability, no marketplace, no government registration, no stalkerware)
 
-## Quick scoreboard (v9 FINAL — updated post-Agent 13 Solopreneur evidence)
+## Quick scoreboard (v9 FINAL — updated post-LOOP MODE Phase B+C completion)
 
-| Rank | Direction | Country | Vulnerability | Build | Y1 ARR | Confidence |
-|---|---|---|---|---|---|---|
-| 🥇1 | **Invoice Simple displacement** (cross-platform 4-country) | US/GB primary, CA/AU v2 | Android 23.1% (3000-depth) / iOS 24-33% / IAP ceiling **$399-$599** | 3-5 wk | **€42k base** | **VERY HIGH** |
-| 🥈2 | **QBSE + Solopreneur + Schedule C** combo (US) | US | QBSE legacy 85.5% + **Solopreneur 61.4% recent low (1500 reviews)** + 9 verbatim quotes 50-201 thumbs + Schedule C gap CONFIRMED | 6-8 wk | $25-35k base | **HIGH** |
-| 🥉3 | **EU Solo-Freelancer Invoice** (DE+PL+NL shared codebase) | DE/PL/NL | sevDesk 78.7% (DE) + KSeF panic (PL Apr 2026) + Invoice Fly 50% (NL) + Tofu precedent (1M installs <2yrs) | 4-6 wk DE base + 3-4 wk PL/NL each | **€30-50k combined** | MEDIUM-HIGH |
-| 4 | **Honest Gig Tracker** (Solo + Stride displace) | US | Solo 68% Android / 80% iOS, Stride 69% Android — 434-thumb deceptive sign-up | 5-6 wk | $10k base (revised — Solo/Stride monetize off-app) | MEDIUM-HIGH |
-| 5 | **Smart Receipts displacement** (US) | US | 57% recent low_pct, 1M+ installs, "no local backup" complaint | 6-8 wk | <$5k base (small ceiling) | MEDIUM |
-| 6 | **Flutter Flame Idle Tycoon ("Tycoon Zero")** (offline-first, $2.99 one-time) | global | AdVenture Capitalist 52% low / 78% predatory density on 10M+ installs — ONE-TIME-vs-subscription wedge | 8-12 wk | $5-15k base (uncertain — game ARPDAU low) | MEDIUM-LOW (B2C variability) |
+| Rank | Direction | Country | Vulnerability | Build | Y1 ARR | Confidence | Δ from main run |
+|---|---|---|---|---|---|---|---|
+| 🥇1 | **FairBill (Invoice Simple displacement)** | US/GB primary, CA/AU v2 | Android 23.1% (3000) / iOS 24-33% / IAP $399-$599 / NONE of 5 competitors uses "no subscription" | 3-5 wk | **€42k base** | **VERY HIGH** | Stable |
+| 🥈2 | **SoloLedger (QBSE+Solopreneur+Schedule C combo)** | US | QBSE 85.5% + Solopreneur 61.4% Android / **iOS 81.6% / 65% pure 1★** / IAP **$420 ceiling** / 99.3% canned-template replies | 6-8 wk | $10-25k base (lowered post-Reddit free-incumbent finding) | **MEDIUM-HIGH** | ↓ from HIGH (Reddit users prefer free Wave/Xero) |
+| 🥉3 | **Mileway (Honest Gig Tracker — Solo+Stride displace)** | US | Solo last-90d **83.3%** (escalating from 68%), Stride iOS-Android Δ 36.7pp (Android-locked), Solo IAP $179.99 ceiling, TikTok #doordash 13.3B | 5-6 wk | $10-15k base | **HIGH** | ↑ from MEDIUM-HIGH (loop drill confirmed acceleration) |
+| 4 | **EU Solo-Freelancer Invoice** (DE+PL+NL shared codebase) | DE/PL/NL | sevDesk **78.6% confirmed at 500-depth** + KSeF panic (PL Apr 2026) + Tofu PL well-defended (99% replies — go AROUND not AT) | 4-6 wk DE base + 3-4 wk PL/NL each | **€30-50k combined** | MEDIUM-HIGH | Stable (loop in progress) |
+| 5 | **Smart Receipts displacement** (US) | US | 57% recent low_pct, 1M+ installs, "no local backup" complaint | 6-8 wk | <$5k base (small ceiling) | MEDIUM | (merged into D2 receipt module) |
+| 6 | **Tycoon Zero (Flutter Flame Idle)** | global | AdVenture Capitalist 52% low / 78% predatory density / ONE-TIME-vs-subscription wedge | 8-12 wk | $5-15k base | MEDIUM-LOW (B2C variability) | Pending Phase E loop drill |
 
 **Key v9 ranking change**: Direction 2 (QBSE+Solopreneur+Schedule C) **promoted from #3 to #2** based on Agent 13 deep drill confirming Solopreneur (the QBSE replacement) is ALSO at 61.4% recent low_pct on 1500 reviews — meaning the displacement market = QBSE refugees + Solopreneur frustrated users (combined 2M+ install base). Direction 4 (EU multi-country) drops to #3.
 

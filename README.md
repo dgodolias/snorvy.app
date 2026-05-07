@@ -54,7 +54,7 @@ This is the **decision-ready reference** for Snorvy — the strategic docs the d
 ```
 Cross-platform UI       Flutter 3.27+
 Audio recording         flutter_sound 9.x
-MVP audio events        local recorder level detector (YAMNet/libfvad planned)
+MVP audio events        local recorder level detector + tiny neural classifier (YAMNet/libfvad planned)
 Local DB                Drift (SQLite)
 Charts                  fl_chart
 IAP                     in_app_purchase 3.x

@@ -65,6 +65,41 @@ void main() {
     expect(result.snoreScore, 0);
     expect(result.events, isEmpty);
   });
+  test('neural classifier separates sustained snore from short talk', () {
+    const classifier = TinyLevelNeuralSleepClassifier();
+
+    final snore = classifier.classify(
+      const SleepClusterFeatures(
+        duration: Duration(seconds: 8),
+        frameCount: 8,
+        peakLift: 15,
+        averageLift: 11,
+        variability: 1,
+      ),
+    );
+    final talk = classifier.classify(
+      const SleepClusterFeatures(
+        duration: Duration(seconds: 3),
+        frameCount: 3,
+        peakLift: 18,
+        averageLift: 13,
+        variability: 4,
+      ),
+    );
+    final noise = classifier.classify(
+      const SleepClusterFeatures(
+        duration: Duration(seconds: 3),
+        frameCount: 3,
+        peakLift: 4,
+        averageLift: 1,
+        variability: 9,
+      ),
+    );
+
+    expect(snore, SleepEventKind.snore);
+    expect(talk, SleepEventKind.talk);
+    expect(noise, SleepEventKind.noise);
+  });
 }
 
 RecordingPowerFrame _frame(int second, double decibels) {

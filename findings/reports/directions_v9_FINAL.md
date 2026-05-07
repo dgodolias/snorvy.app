@@ -404,10 +404,18 @@ The Direction 3 wedge becomes: **build the Schedule C estimator + mileage tool a
 
 **The case for Poland-first**:
 - **Apr 1 2026 KSeF deadline = TODAY's active panic**. Every Polish JDG must switch invoicing systems by April. Migration window is 11 months from now.
-- **Tofu app launched Dec 2023, scaled to 1M+ installs in <2 years** — proves market share is winnable, fast.
-- **Invoice Simple has 5M+ installs in PL with 18% recent low_pct** — large displacement target.
+- **Tofu app (`com.tofu.invoices`) launched Dec 2023, scaled to 1M+ installs in <2 years** — concrete precedent that a clean app can win 1M+ share fast in this market.
+- **Existing PL invoice apps already KSeF-positioned**: "Fakturownia - faktury w KSeF" (Polish-built, score 4.94) + "Invoice.app: Faktury KSeF" — market understands the wave; not too late to enter.
+- **Invoice Simple PL** ("Faktura Proste") at 5M+ installs / 18% recent low_pct — verbatim quote: *"150€ za 10 Rachunków, to jakiś żart!"* (150€ for 10 invoices — a joke!). Same pricing-rage pattern as US/GB.
+- **Bookipi PL** at 1M+ installs / 4% recent low — but quote *"wszystko bylo super dopóki nie wprowadzili opłaty"* (great until they added fees) confirms Bookipi defection extends to PL too.
 - VAT exemption rises to 240k zł in 2026 = larger Kleinunternehmer-equivalent cohort.
 - Polish freelancer Quora/Reddit forums actively discussing KSeF migration tools.
+
+**NL secondary opportunity (Direction 4c)**:
+- **Invoice Fly / Labhouse** (`io.labhouse.invoicesapp`) — 1M+ installs / **50% recent low_pct on 200 reviews**. Verbatim quote: *"Best wel prijzig voor beginnende ondernemers"* (pricing too high for starting entrepreneurs).
+- **Invoice2Go** NL — 1M+ installs / 23% recent low. Killer verbatim: *"dit is een bedrijf uit de VS. dus niet meer doen. nu een Nederlands bedrijf genomen"* (this is a US company. so don't anymore. now I switched to a Dutch company.) — explicit anti-foreign-sentiment cohort.
+- **NL KOR (Kleineondernemersregeling, €20k/yr threshold)** requires exact invoice text: *"factuur vrijgesteld van OB o.g.v. artikel 25 Wet OB"* — specific compliance feature.
+- ~1.5M ZZP TAM. Greek dev positioned as European fellow-citizen vs US incumbents = cultural fit advantage.
 
 **The PL-specific MVP** (4-6 weeks beyond Direction 1 codebase):
 1. KSeF API integration (Polish e-invoicing system) — primary feature

@@ -19,7 +19,9 @@ Checked against official Google guidance on 2026-05-08.
 - Ads: no ads
 - Content rating: complete questionnaire
 - Data safety: local-only; no collection/shared data by developer
-- Privacy policy URL: publish `legal/privacy-policy.md` to `https://snorvy.app/privacy`
+- Privacy policy URL: `https://gist.github.com/dgodolias/f02725dd83693fc2486fd44169238a04`
+  - Verified 2026-05-08: HTTP 200 and contains Snorvy policy/contact text.
+  - In-app policy text is available from Settings > Privacy policy.
 - In-app product:
   - Product ID: `snorvy_lifetime_unlock`
   - Type: one-time product / non-consumable

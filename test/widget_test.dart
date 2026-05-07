@@ -35,11 +35,8 @@ void main() {
     await tester.pumpAndSettle();
 
     await _tapDestination(tester, Icons.tune_outlined);
-    final addManualLogButton = find.widgetWithText(
-      OutlinedButton,
-      'Add manual sleep log',
-    );
-    await tester.ensureVisible(addManualLogButton);
+    final addManualLogButton = find.text('Add manual sleep log');
+    await _scrollUntilVisible(tester, addManualLogButton);
     await tester.pumpAndSettle();
     await tester.tap(addManualLogButton);
     await tester.pumpAndSettle();
@@ -76,11 +73,8 @@ void main() {
     await tester.pumpAndSettle();
 
     await _tapDestination(tester, Icons.tune_outlined);
-    final addManualLogButton = find.widgetWithText(
-      OutlinedButton,
-      'Add manual sleep log',
-    );
-    await tester.ensureVisible(addManualLogButton);
+    final addManualLogButton = find.text('Add manual sleep log');
+    await _scrollUntilVisible(tester, addManualLogButton);
     await tester.pumpAndSettle();
     await tester.tap(addManualLogButton);
     await tester.pumpAndSettle();
@@ -98,6 +92,33 @@ void main() {
       findsOneWidget,
     );
   });
+
+  testWidgets('opens privacy policy text from settings', (tester) async {
+    final controller = _buildController();
+    addTearDown(controller.dispose);
+
+    await tester.pumpWidget(SnorvyApp(controller: controller));
+    await tester.pumpAndSettle();
+
+    await _tapDestination(tester, Icons.tune_outlined);
+    final privacyPolicyRow = find.text('Privacy policy');
+    await tester.ensureVisible(privacyPolicyRow);
+    await tester.pumpAndSettle();
+    await tester.tap(privacyPolicyRow);
+    await tester.pumpAndSettle();
+
+    expect(find.text('Snorvy Privacy Policy'), findsOneWidget);
+    expect(find.textContaining('local-only sleep recorder'), findsOneWidget);
+    expect(find.textContaining('support@snorvy.app'), findsOneWidget);
+  });
+}
+
+Future<void> _scrollUntilVisible(WidgetTester tester, Finder finder) async {
+  await tester.scrollUntilVisible(
+    finder,
+    160,
+    scrollable: find.byType(Scrollable).first,
+  );
 }
 
 Future<void> _tapDestination(WidgetTester tester, IconData icon) async {

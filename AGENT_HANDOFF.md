@@ -72,6 +72,9 @@ Earlier MVP commits include foreground recording service, browser smoke verifica
 - Browser smoke scripts and screenshots.
 - Play Store phone screenshots under `playstore/screenshots/phone/`.
 - Settings privacy rows now describe real MVP behavior instead of fake switches.
+- Settings includes an in-app privacy policy dialog with the same local-only policy text.
+- Public Play Console privacy policy URL is a public gist:
+  - `https://gist.github.com/dgodolias/f02725dd83693fc2486fd44169238a04`
 - Release builds now fail if the local upload key config is missing, preventing accidental debug-signed release bundles.
 - Android native smoke verification on emulator.
 
@@ -93,11 +96,11 @@ Commit `1e9eaec` fixed Android native recorder startup:
 
 ## Verification Evidence
 
-Latest final checks after `63f0beb` on 2026-05-08:
+Latest final checks after the in-app privacy policy fix on 2026-05-08:
 
 ```text
 analyze --fatal-infos: No issues found
-flutter test -r expanded: 14 tests passed
+flutter test -r expanded: 15 tests passed
 flutter build web --target tool/web_smoke_main.dart: built successfully
 tool/run_web_smoke.ps1 -SkipBuild: Browser smoke passed
 flutter build apk --debug: built successfully
@@ -138,6 +141,8 @@ Native Android smoke on emulator:
   - `build\android-final-saved-recording.png`
 - Verified saved file under app storage:
   - `app_flutter/recordings/night_1778195804291.m4a`
+- Verified Settings privacy policy row/dialog after the final privacy fix:
+  - `build\android-privacy-dialog.png`
 - Release artifact:
   - `build\app\outputs\bundle\release\app-release.aab`
 
@@ -181,8 +186,6 @@ At the time this handoff was rewritten, only documentation/checklist files are e
 
 ## Next Steps
 
-1. Commit/push this updated `AGENT_HANDOFF.md` and `playstore/release-checklist.md`.
-2. Back up `android/app/upload-keystore.jks` and `android/key.properties` outside the repo.
-3. Publish the privacy policy at `https://snorvy.app/privacy`.
-4. In Play Console, create product `snorvy_lifetime_unlock` before production testing purchases.
-5. Upload `build\app\outputs\bundle\release\app-release.aab` to internal testing first.
+1. Back up `android/app/upload-keystore.jks` and `android/key.properties` outside the repo.
+2. Upload `build\app\outputs\bundle\release\app-release.aab` to internal testing first.
+3. In Play Console, create product `snorvy_lifetime_unlock` before testing real purchases.

@@ -172,12 +172,31 @@ _Source: 97 synthesized cells + Invoice Simple 3000-review drill (US/GB) + iOS 7
 - Twitter/X — reply to @InvoiceSimple complaints with "I built X because of this"
 - LinkedIn personal branding
 
-### 30-day plan
+### 30-day plan (REVISED v9 with Greek dev execution intel)
 
-- **Week 1**: Invoice creation + client database + line items + PDF export (manual) + 4 templates
+- **Week 0 ⚠️ URGENT (before May 11)**: Register Ατομική Επιχείρηση via myAADE Form Δ211 (KAD 62.01.21 software dev). Cost €0, 1 day. **WHY URGENT**: AADE platform OFFLINE 01-10 March 2026 for KAD remapping — register before window closes or get blocked. Opt into small-business VAT-exempt regime (revenue <€10k = zero ΦΠΑ filings; Apple/Google handle EU VAT MOSS as merchant-of-record).
+- **Week 1**: Invoice creation + client database + line items + PDF export + 4 templates. Apple Dev account €114 (incl 24% VAT) + Google Play €23 + domain €12.
 - **Week 2**: Expense tracking + monthly reports + recurring invoices + CSV export
-- **Week 3**: Subscription wiring (Google Play Billing + StoreKit) + ASA listings US/GB + privacy policy + landing page
-- **Week 4**: Soft launch — recruit 20 beta users from r/selfemployed, fix top issues, ProductHunt launch with story angle "I built this after Invoice Simple's $59→$199→$399 price hike"
+- **Week 3**: Subscription wiring (Google Play Billing + StoreKit) + ASA listings US/GB + privacy policy (Termly.io free) + landing page
+- **Week 4**: Soft launch — recruit 20 beta users from r/selfemployed, fix top issues, ProductHunt launch (Tuesday 12:01am PST) with story angle "I built this after Invoice Simple's $59→$199→$399 price hike"
+
+### Greek dev Y0 setup cost reality
+
+| Item | Cost |
+|---|---|
+| Greek business reg (Ατομική Επιχείρηση Form Δ211) | €0 |
+| Apple Developer Program (incl 24% VAT) | €114 |
+| Google Play Console (one-time) | €23 |
+| Domain registration | €12 |
+| Privacy policy (Termly.io free template) | €0 |
+| **App-related total** | **~€150** |
+| **e-EFKA Class 1 social security (MANDATORY ~€250/mo)** | **~€3,000/yr** ⚠️ |
+| Ad budget (Direction 1 launch) | €350 |
+| **Y0 TOTAL realistic** | **~€3,500** |
+
+**⚠️ Critical gotcha**: e-EFKA Class 1 = ~€250/mo mandatory social security. The 31/01/2026 opt-in deadline for cheaper class already passed → Class 1 is locked for 2026. Deductible from taxable income but unavoidable cash drain. Greek IBAN receives Apple+Google payouts directly via SEPA — **NO Stripe Atlas / Delaware LLC needed**, that's pure overhead.
+
+Full Greek dev checklist: [d1_greek_dev_execution.md](../raw/d1_greek_dev_execution.md)
 
 ### Launch-ready intel (Agent 14 v9)
 

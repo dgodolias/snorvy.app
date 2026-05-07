@@ -850,6 +850,36 @@ Rationale:
 
 **D4 confidence FINAL** (post Phase D loop, 10/12 dimensions exhausted): **MEDIUM-HIGH** (stable). Strong vulnerability data + clear positioning slots; cultural+localization risk for solo Greek dev needs €200-400 advisor budget per country.
 
+### v9 LOOP TICK 2 — DUAL launch strategy (DE-first vs PL-first)
+
+The two Phase D ticks surfaced **two valid launch sequences** depending on optimization target:
+
+**Strategy A: DE-first (sustained TAM optimization)**:
+- Biggest market: 3.5M Kleinunternehmer §19
+- Most vulnerable: sevDesk dual-platform 78% + Lexware Android-mobile invoice gap + €440 active price-hike
+- Permanent legal wedge (§19 doesn't sunset)
+- TikTok DE: #kleinunternehmer 248M views BUT only <5 active creators → **needs creator partnership, not organic**
+- Recommended for: solo dev who wants long-term sustainable market
+
+**Strategy B: PL-first (deadline-driven panic optimization)**:
+- Active deadline: April 1 2026 KSeF mandatory e-invoicing for JDG (TODAY's panic)
+- Tofu precedent: 1M+ installs in <2 yrs proves market winnable fast
+- TikTok PL: #ksef 101M views + only **4.2K creators** = HIGH intent + LOW competition (perfect for organic)
+- Active creators: `@zmija.w.podatkach`, `@bogusz_o_finansach` already explain KSeF
+- Government `pl.gov.mf.ksef` app is thin utility — clear "polished daily-driver" wedge
+- Recommended for: solo dev who wants riding the deadline wave for fast traction
+
+**TikTok EU freelancer viability** (Tick 2):
+- 🇳🇱 **NL**: #zzp + #ondernemer = **658M views / 80K creators** — MOST MATURE EU freelancer TikTok community; STRONG organic
+- 🇵🇱 **PL**: #ksef 101M views, 4.2K creators — STRONG conditional (deadline-driven, perfect time)
+- 🇩🇪 **DE**: #kleinunternehmer 248M views BUT <5 active creators — needs partnership/paid placement
+
+**Recommendation** (synthesizing both ticks): **Sequence as PL-first → DE-second → NL-third** to capture KSeF deadline window while fundamentals build for DE long-term.
+
+OR: **Sequence as DE-first → NL-second → PL-third** if user prefers durable market over deadline-driven sprint.
+
+The user picks based on risk profile. Both are validated.
+
 ### Direction 4 sequencing strategy (REVISED v9 with PL data)
 
 **Recommended sequencing** (12-month roadmap for Direction 4):

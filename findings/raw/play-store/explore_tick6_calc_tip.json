@@ -1,0 +1,104 @@
+[
+  {
+    "appId": "com.skollabs.tipcalc",
+    "title": "Tip Calculator",
+    "developer": "Skol Games LLC",
+    "score": 4.1,
+    "scoreText": "4.1",
+    "free": false,
+    "price": null,
+    "summary": "Tip Calculator splits the bill fast, great for dining and drinks with friends!",
+    "icon": "https://play-lh.googleusercontent.com/BDOHXb1CxF_b1h76X-atLeuzsR7a6lvSWMVXs4kAwAqtHsb_H9CPABBkv9VXW1sSZw"
+  },
+  {
+    "appId": "com.alliumsystems.tipcalculator",
+    "title": "Tip Calculator",
+    "developer": "Grant Gibson",
+    "score": 0,
+    "scoreText": "0.0",
+    "free": false,
+    "price": null,
+    "summary": "Quickly calculate tips &amp; split bills. Simple &amp; fast!",
+    "icon": "https://play-lh.googleusercontent.com/OQN1IB-vmNbhfwobMbrroFXRaOp9jJClJJ_QoXX1pQQev4if0n2j1C-o9ma7ekYtGio8WjhPW2pPhvVtT0pZjw"
+  },
+  {
+    "appId": "com.vednovak.flutter_tip_calculator",
+    "title": "Tip Calculator",
+    "developer": "Flatiron Apps",
+    "score": 4.818182,
+    "scoreText": "4.8",
+    "free": false,
+    "price": null,
+    "summary": "The Tip Calculator for the 21st century",
+    "icon": "https://play-lh.googleusercontent.com/cH0-5TtV1RE5_y3RmojV0l2yWHkN80oXQyhp7A3kX-S8pKyZGt91Iq0y_pavFDO_8w"
+  },
+  {
+    "appId": "com.handyapps.tipnsplit",
+    "title": "Tip N Split Tip Calculator",
+    "developer": "Handy Apps",
+    "score": 4,
+    "scoreText": "4.0",
+    "free": false,
+    "price": null,
+    "summary": "Calculate tips and split bills in 5 seconds. Download Tip N Split now!",
+    "icon": "https://play-lh.googleusercontent.com/ekpIfLepApV7Hd3QntB_LhANBHIADAVCDR_WNApw4FmIIhGXdqKKo8wEdCaq40l0"
+  },
+  {
+    "appId": "com.chimbori.milliways",
+    "title": "Tip Calculator — Clean, Simple",
+    "developer": "Chimbori",
+    "score": 4.6,
+    "scoreText": "4.6",
+    "free": false,
+    "price": null,
+    "summary": "Clean Modern Tip Calculator, also for Wear OS",
+    "icon": "https://play-lh.googleusercontent.com/2cTkXDmzrOb4rHLcut0IzJ_usuzOpo6DcfQyVHUV3HJigVqBuVeCYcFm7nsCcxWrsg"
+  },
+  {
+    "appId": "com.jarfernandez.tipcalculator",
+    "title": "Tip Calculator",
+    "developer": "TuriApps",
+    "score": 4,
+    "scoreText": "4.0",
+    "free": false,
+    "price": null,
+    "summary": "Tip calculator that easily calculates the tip and splits the bill",
+    "icon": "https://play-lh.googleusercontent.com/XjhI9eGA0L3aNPXNYv82Ahn0hiQypXXQJaHmIKnUqBeBvdhIbpzyQJ2aamvuusrcXyTM"
+  },
+  {
+    "appId": "com.aBakosMaster.TipCalc2",
+    "title": "Tip Calculator",
+    "developer": "Edison Largo",
+    "free": false,
+    "price": null,
+    "summary": "Calculate tips effortlessly!",
+    "icon": "https://play-lh.googleusercontent.com/kNODo_-kWzlmyLmEMiBJqdk4kYiMkZVxsYhZW04Z_F_PX1oIPLzW-PEaihRh3xOblig"
+  },
+  {
+    "appId": "com.dennymathew.tipcalculator",
+    "title": "Tip Calculator",
+    "developer": "Denny Oommen Mathew",
+    "free": false,
+    "price": null,
+    "summary": "A simple and robust Tip Calculator App for calculating share totals with tip.",
+    "icon": "https://play-lh.googleusercontent.com/sb-HxRLTbx5-A2ZIyXfnBlDc1zFkd3QpggFkmZ3bJEZtZcsXNM_G1uctAbSXiqYowArg"
+  },
+  {
+    "appId": "com.altsyslab.tipcalculator",
+    "title": "Tip Calculator",
+    "developer": "AltsysLab",
+    "free": false,
+    "price": null,
+    "summary": "Quickly calculate tips and split bills with ease using this calculator app.",
+    "icon": "https://play-lh.googleusercontent.com/_H_poTQbsLOKueNAcN88X4kgA0MYHqJzuHYgdBlRIZLl96WmMimqCxx3kX7VivKwDR4"
+  },
+  {
+    "appId": "com.jee.calc.tip",
+    "title": "Tip Calculator",
+    "developer": "LemonClip",
+    "free": false,
+    "price": null,
+    "summary": "Calculate tip per person easily.",
+    "icon": "https://play-lh.googleusercontent.com/T3FMwqpefKKi_U88POF9P0UILAV4WyGCqJ7Nyq0qqb0njhB6Gugi2nMgStfPTVEGbyo"
+  }
+]

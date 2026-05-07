@@ -1,0 +1,2008 @@
+{
+  "app": "net.cozic.joplin",
+  "country": "us",
+  "total_pulled": 200,
+  "total_after_filter": 200,
+  "reviews": [
+    {
+      "date": "2026-05-04T16:18:57.611Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Gaurav Raj",
+      "text": "horizontal folder, no backup , small word",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=14c5ecc5-14c7-4d90-815f-0bb3ed607935"
+    },
+    {
+      "date": "2026-05-04T04:59:01.434Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "FIRAT",
+      "text": "Bir babadır bizim için.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=780c008a-70e2-4269-a314-07e7e7f45958"
+    },
+    {
+      "date": "2026-05-04T01:00:36.832Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Kanga Blue",
+      "text": "great",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=2a4f3c5c-ea28-4d3d-9399-fa307ddafed6"
+    },
+    {
+      "date": "2026-05-03T10:27:44.380Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Lucy Gales",
+      "text": "Seems like a good app but unfortunately it doesn't have the features I'm looking for",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=3ea18735-47c6-4c32-92f0-e89768bc7968"
+    },
+    {
+      "date": "2026-05-03T07:55:51.357Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Ehsan Iranmahboub",
+      "text": "one of best note taking app",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=fe378eff-15c1-460a-833b-7af8204943ad"
+    },
+    {
+      "date": "2026-05-01T19:11:59.805Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Mike Bird",
+      "text": "Awesome app! Such a great - free - replacement for EverNote.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=7495ebf0-ff15-4b02-8785-fde5cc6fcef1"
+    },
+    {
+      "date": "2026-05-01T08:37:05.978Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "R. Osinga",
+      "text": "it messed up my webdav folder with a dozen of files and folders. the markdown files it creates just have random generated filenames. This makes it horrible to integrate it with other products.... what are standards for?",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=f39969fb-fd95-43ce-95f1-a6c051c6eb06"
+    },
+    {
+      "date": "2026-05-01T00:35:53.776Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Issam Harrag",
+      "text": "Best app of the year!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=d3241db3-ddf2-45c3-b4d9-8c6f57d875b1"
+    },
+    {
+      "date": "2026-04-29T06:07:50.255Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Harsha Salgunan",
+      "text": "i am unable to sync with OneDrive. I looked it up online and it says version 6.14 works but it seems that update is not there in playstore?",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=3fea9d97-9e9f-4a8f-90f2-e4c7f43c08ff"
+    },
+    {
+      "date": "2026-04-26T16:24:03.633Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "Jorki Rasalas",
+      "text": "having spent a lot of time transferring my OneNotes to Joplin (as they consistently broke on PC synch after an MS update!) I find there is no wysiswyg editor on Android tablet to update them. Since I do most of my notes creation and update on the tablet I'm less than impressed",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=97547f36-7d91-4671-9eef-0a4f721a59be"
+    },
+    {
+      "date": "2026-04-25T15:34:24.273Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Emma Atkinson",
+      "text": "I cannott find a way to create a notebook on a TCL NEXT PAPER 14 tablet. There is no way to enter a CR because the keyboard only offers a tick where the RETURN button would be. Irritatingly minor problem. I'll keep looking for workarounds. M Found one. press the save symbol above the entry field.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=8005bba1-0405-4ca9-abb3-755f1d44ccee"
+    },
+    {
+      "date": "2026-04-23T10:46:35.573Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Bekarys Abdibekov",
+      "text": "ugly app",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=85cc3c1b-b38c-492f-9c67-bd7ba21fb57b"
+    },
+    {
+      "date": "2026-04-21T05:37:22.616Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Yesudass Moses",
+      "text": "I have tried tens of note taking apps.. But Joplin is the only app that suits my needs best. I have used only Desktop version and new to Mobile version. One small suggestion: I want hierarchical grouping for tags too.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=07fc47be-f6be-4444-b3c7-c8c3701b1112"
+    },
+    {
+      "date": "2026-04-20T05:33:16.840Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Alfredo Ulloa",
+      "text": "Beloved like janis joplin",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=d3fe8d20-c741-4ac6-89e5-21c8daaa53ef"
+    },
+    {
+      "date": "2026-04-17T21:56:58.505Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "J T",
+      "text": "I've been using Joplin for a while now and find it is a great experience for making and collating my notes.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=8dacda5d-395d-4cf8-bbd0-9464d2fc2dc7"
+    },
+    {
+      "date": "2026-04-16T01:03:14.766Z",
+      "score": 1,
+      "thumbsUp": 2,
+      "user": "Bart",
+      "text": "No native Google Drive sync, so an app to sync files is required. Can't sync with Google Drive folder on SD card, only internal storage. There's no file navigation in sync setup, so a file manager is needed to get the path. Fussy requirements make syncing slower and less reliable. Navigation is awkward and unintuitive, relying too much on the menu and back buttons. There's more, but I just want to uninstall this junk and get on with my life. I'm sorry I wasted my time on this app.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=961cbf58-c10f-4dd4-9f38-77c5fca871b9"
+    },
+    {
+      "date": "2026-04-15T22:53:57.720Z",
+      "score": 1,
+      "thumbsUp": 2,
+      "user": "Peri (Smoppet)",
+      "text": "Trying to be patient but the initial import and sync of my OneNote notebooks has made both the desktop app and Android app crash/freeze. Finally, the desktop imported the OneNote zip, but then kept crashing as I tried to organize. It's kind of fine now, but tell that to the Android app. Still under the trial for Joplin Cloud and the experience has been underwhelming and a bit frustrating...",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=63d0924a-6d54-4b96-8613-13b2b51204f3"
+    },
+    {
+      "date": "2026-04-14T21:10:36.756Z",
+      "score": 1,
+      "thumbsUp": 2,
+      "user": "Brian Batch",
+      "text": "No monthly payment option. $40/yr for a notes app is crazy. Got locked out of my account for not paying their bounty. ZERO CUSTOMER SUPPORT. Terrible app n",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=1f3cd777-9cc6-413d-8ecb-6cc62bb0c690"
+    },
+    {
+      "date": "2026-04-14T12:36:04.741Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "dogu",
+      "text": "Thanks for saving me from paid and not open source notetaking apps",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=2ead3cb8-b42b-4a8c-90c0-f25a182c61b5"
+    },
+    {
+      "date": "2026-04-12T07:05:40.724Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Pavel",
+      "text": "perfect. open source is better for privacy",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=6698ee09-bd53-4af0-9735-077b50b6039b"
+    },
+    {
+      "date": "2026-04-11T09:28:28.423Z",
+      "score": 5,
+      "thumbsUp": 3,
+      "user": "Astra Keelin",
+      "text": "a truly offline notes app that synchronizes using free cloud storage. I've had some issues with syncing, but I was able to fix them with a bit of effort, and I have full control over my data. i love it, I've fully switched over to it. side note: you gotta wait for the synchronization API link to be accepted. don't exit it prematurely, you'll have to reinstall the app.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=3b64e4ff-47cc-4791-9205-c669bca86537"
+    },
+    {
+      "date": "2026-04-10T05:55:58.560Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "yur voyt",
+      "text": "Can't copy link.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=ad6a8254-e0b8-4678-b21b-bc7f0e647a3f"
+    },
+    {
+      "date": "2026-04-06T03:51:28.838Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "S",
+      "text": "great, but the ui can be a little annoying at times when it comes to organization.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=4b2529c3-c328-4054-b8a6-e165ff29aaf4"
+    },
+    {
+      "date": "2026-04-06T01:39:28.973Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "Chad Austin",
+      "text": "just what I've been looking for to help me keep track of thoughts and references/resources for various projects. no distractions, no social media nonsense to divide and redirect attention, no frills, no ads. love it!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=46989c25-6937-46a0-b637-eefa2acf1e8a"
+    },
+    {
+      "date": "2026-04-05T21:56:10.750Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Julie Farrow",
+      "text": "Just made the switch from Evernote after 15 years. I'd put it off because I thought it would be too difficult to move everything, but it wasn't. I chose Joplin because I wanted something simple and user friendly to be able to store notes. Evernote had become bloated, hard to navigate, and not worth the yearly fee at all. It took me about 4 hours to set Joplin up on 3 devices, and I chose Dropbox to use to sync across all of them. Really happy with Joplin and would recommend to anyone.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=94c728b6-cf7b-450b-beae-35c800a415b8"
+    },
+    {
+      "date": "2026-04-04T14:26:04.521Z",
+      "score": 1,
+      "thumbsUp": 2,
+      "user": "Pete Stubbs",
+      "text": "awful app. difficult to navigate, wanted to test the email to note function, had to sign up for a paid account (on a 14 day trial) still wouldnt allow emails, tried to upgrade to pro account, they tried to charge me. eventual took out another 14 day trial for the pro account, still wouldn't allow me to send a note by email. 2 hours in and I'm getting nowhere, so attempted to contact them. no contact, just a forum, for which I would have to set up yet another account. waste of space and time.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=39a309b4-8055-4e22-b4fe-b1aa391275f6"
+    },
+    {
+      "date": "2026-04-03T07:29:39.724Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Trust in Synchronicity",
+      "text": "Neat and tidy app. Now I don't have to SMS myself for note-taking!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=8da6bc32-930a-481f-ad9a-ae11fc90884d"
+    },
+    {
+      "date": "2026-04-02T05:40:02.863Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "Lukas Moravek",
+      "text": "Encrypted replacement for One Note. If you need secure replacement for One Note, Joplin is ideal. also the performance is better :)",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=8b62ce93-6d28-485e-84ad-0399b5a4b5a3"
+    },
+    {
+      "date": "2026-04-02T02:24:24.294Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "hoenexus 37",
+      "text": "text editor, notepad, no ads, no nonsense.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=121f783d-b671-4f55-9a27-91b6e7252b1c"
+    },
+    {
+      "date": "2026-04-01T19:56:23.648Z",
+      "score": 2,
+      "thumbsUp": 2,
+      "user": "Zadron Xion",
+      "text": "Hitting the edit button should open at the position I'm looking at so I don't have to scroll down for 10 minutes every time I want to edit my notes. Instead, I have to carry my 10 lb laptop with me instead of just being able to do this easily on my iPad with a Bluetooth keyboard or on my phone for simple edits.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=bc70d7c5-3207-4fbe-944d-3078eb614ad1"
+    },
+    {
+      "date": "2026-03-31T23:24:47.189Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Paulo",
+      "text": "Excelente!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=15ea7d2a-59ff-45a0-82bb-9e006f56d9b8"
+    },
+    {
+      "date": "2026-03-31T11:47:30.765Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "zainalabdeen ahmed",
+      "text": "sensationell",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=a2bad4db-bcb7-4948-9638-7a57884375cd"
+    },
+    {
+      "date": "2026-03-29T13:59:15.333Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "pink bog",
+      "text": "very useful if your phone system doesnt have a notes app no ads",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=c2fb21a5-8229-47d4-afd6-673718fd6286"
+    },
+    {
+      "date": "2026-03-29T01:49:53.898Z",
+      "score": 4,
+      "thumbsUp": 10,
+      "user": "Dark Blue Om",
+      "text": "Lots of features and options but Android version is missing some seemingly basic must-haves like local autobackups, view/restore revisions, widgets & creating a homescreen shortcut directly to specific notes. Some of this can be solved with plugins but most plugins only work on PC. I love the sync options especially WebDav. Unfortunately my 3rd party dictionaries don't appear when I highlight text in Joplin.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=f4685c0d-5523-4426-9b90-7e8c7533e5a7"
+    },
+    {
+      "date": "2026-03-27T22:25:28.341Z",
+      "score": 3,
+      "thumbsUp": 1,
+      "user": "Dedi Ananto",
+      "text": "please add table in toolbar",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=d5b90cf9-f8b2-4d52-8f91-9876f5a9789a"
+    },
+    {
+      "date": "2026-03-24T23:37:22.320Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Avery Johnson",
+      "text": "It's a great note-taking app that can be used across devices. Needs Android widgets so I can notes at a glance on my home screen.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=2b0beb8e-8b66-409f-97e0-b0febd9e140f"
+    },
+    {
+      "date": "2026-03-22T13:25:24.518Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "BHUVAN Kaushal",
+      "text": "app is so good but it's cloud is so expensive",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=74e95c8c-2e1c-4de6-acf7-f28708b9ff5c"
+    },
+    {
+      "date": "2026-03-22T05:16:50.267Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "无邪",
+      "text": "缺点非常非常多，多如牛毛。优点也非常多，至少暂时没有替代品。有个下作的手段，电脑上有新版本但是不更新时，就开始各种功能错误。比如表格用不了了，比如拼音打出来的汉字不对，会拼接拼音，乱七八糟。只要这个时候检查必定有更新，更新后就正常了。这公司非常下头，一旦有替代赶紧走",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=93854675-5a4b-4990-8996-56e2d573e718"
+    },
+    {
+      "date": "2026-03-20T19:43:09.456Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Mr. Sunku",
+      "text": "great opensource app",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=c101a0e2-8532-4a61-bbad-a19920fd9481"
+    },
+    {
+      "date": "2026-03-20T12:15:33.981Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "G1000",
+      "text": "Great app I am using this for notes for at least 2 years now but lately facing spontaneous crashes and unresponsive ness which weird since this has never happened before.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=80482d33-fd8b-4c74-b4d4-7e9a0e919738"
+    },
+    {
+      "date": "2026-03-19T13:51:51.243Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Everton da Silva",
+      "text": "Incredible private note aplication. Simple and lightweight.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=267c8203-ac59-494e-a486-af73b702da06"
+    },
+    {
+      "date": "2026-03-17T04:27:17.677Z",
+      "score": 5,
+      "thumbsUp": 11,
+      "user": "Cj Rhen",
+      "text": "Joplin is the best note app that's also very approachable. i did give it one star because of sync issues but as of Feb 2026 that is fully resolved and the experience is seemless. if you want the best note app especially self hosted, get Joplin.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=af35a3c4-820b-41d4-9ddd-35edbea9bc72"
+    },
+    {
+      "date": "2026-03-15T16:00:50.106Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Jeff Bradway",
+      "text": "Great alternative to OneNote. After Microsoft decided to devote all its attention to Copilot and blatantly abusing its PAYING CUSTOMER's data, work processes, and voices, I found Joplin. I can host my own server on my NAS. The Android app is solid. I love being able to draw with freeform lines on my Samsung Note and with straight arrows, perfect for sketching engineering concept designs. Syncing is instant (at least to my self hosted server). Take a minute to learn the diff's from ON, worth it!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=452c92f3-9646-4897-b561-a655406943b3"
+    },
+    {
+      "date": "2026-03-15T15:58:31.603Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Khalifah",
+      "text": "thanks 👍 i found my best",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=38368b89-8ff5-4afc-94b5-5701a087788c"
+    },
+    {
+      "date": "2026-03-15T02:56:13.362Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Daisuke Oh",
+      "text": "Very solid note-taking app useful for people who have hundreds of notes that need to be grouped by folder hierarchy or tag. Easy syncing to Windows or iPad via Dropbox. I switched over from Notion recently as their app has become bloated, with unnecessary AI features, a buggy mobile experience, and large line spacing that can't be changed.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=875fbe49-c379-455f-8ec9-5bfc9aa871fe"
+    },
+    {
+      "date": "2026-03-13T02:12:33.486Z",
+      "score": 1,
+      "thumbsUp": 2,
+      "user": "Edward Thimblehands",
+      "text": "It is supposed to work with markdown files but it doesn't actually let you import it from the application version only the desktop version. So I'm stuck not being able to put my markdown files into this application except by a link that just gives me the option to open it up in a different application. They do have instructions to import markdown files and again that's on desktop only but for some reason they have that link in the mobile application version. Add markdown next to JEX import.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=5a938910-e860-4e4e-9129-6dd9ec2939c0"
+    },
+    {
+      "date": "2026-03-05T05:25:57.320Z",
+      "score": 5,
+      "thumbsUp": 6,
+      "user": "snooziestStuff",
+      "text": "I finally found the perfect alternative to OneNote. Being open-source and having end-to-end encryption gives me total peace of mind. I love that I can choose my own sync target (Dropbox/OneDrive) and that it uses Markdown. It’s fast, reliable, and completely free of ads. If you value your data and want a powerful organizer, this is it.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=a2afb852-bded-4d12-aaed-9a50e490a881"
+    },
+    {
+      "date": "2026-03-03T20:18:15.134Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Lukas Cech",
+      "text": "Very versatile, awesome markdown editing. Easy to setup sync between my linux laptop and phone, behaves fast, nice little touches (like the save button). this isn't a ttpical app, I get the feeling the author takes pride in it and, I'm very happy I found it! If it works well over time, if be happy to be a paid contributor.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=765482cd-ed5e-4535-b230-4518a4ab2be4"
+    },
+    {
+      "date": "2026-03-02T17:42:59.978Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Rafael John Pomida",
+      "text": "Im just paying respects and giving thank you for this wonderful app",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=7d6bab41-da7f-4ed6-9732-3f8f5cf7efc7"
+    },
+    {
+      "date": "2026-03-02T15:47:46.395Z",
+      "score": 3,
+      "thumbsUp": 6,
+      "user": "Chee- “Nickname” Rex",
+      "text": "I hope I'm not too harsh. I appreciate this free app. the \"share to\" feature, that lets you share text from another app to Joplin, is broken because instead of creating a new note, it'll replace an existing note at random which deletes all the text from said note. Big bug! Otherwise, the app is nicely designed with folders and text formatting options. It feels like the design could be faster to use. To need to open the sidebar constantly to change folders is perhaps harder than a pop up menu.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=b2172dff-675e-4b6c-96e4-534bbf70167e"
+    },
+    {
+      "date": "2026-02-28T22:23:56.945Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Clyphe",
+      "text": "Can't sync OneDrive. What's even the point",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=548f08ca-73d6-4647-91e7-6ba3676fbd09"
+    },
+    {
+      "date": "2026-02-28T19:06:19.601Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Sarhad B Yaqo",
+      "text": "Best app ever",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=8acb6114-0a73-424f-ae08-de9243ad6166"
+    },
+    {
+      "date": "2026-02-26T18:19:42.575Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Alfredo Ulloa",
+      "text": "highly interconnected and ad advanced! super helpful with support and syncing",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=2791e014-012f-4333-8246-acdff62591fe"
+    },
+    {
+      "date": "2026-02-26T10:31:50.289Z",
+      "score": 2,
+      "thumbsUp": 1,
+      "user": "Divyansh Soni",
+      "text": "What an idiotic app it doesn't even have option to deleted the notes at once from trash",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=f355325b-1cf3-4327-916a-80d24148d965"
+    },
+    {
+      "date": "2026-02-25T19:09:10.609Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Linda Winger",
+      "text": "outstanding app",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=ed614cbd-496c-4a76-b2d2-58b2b7974995"
+    },
+    {
+      "date": "2026-02-25T17:19:05.308Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "Zeeshan Riaz",
+      "text": "You should also add the \"Copy Markdown Link\" to folders also instead of only to notes. Because the future of searches updates to LINKS, so at some point in my notebooks I've to copy link of folders to my notes. Real GEM for you if want to stand out from the crowd. If done, will give 5 out of 5.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=263bed00-c9e2-4918-a2a7-3e68d81cfdba"
+    },
+    {
+      "date": "2026-02-24T20:00:42.587Z",
+      "score": 1,
+      "thumbsUp": 2,
+      "user": "GunjarX",
+      "text": "A nightmare to setup if you are using File System with Google Drive. I spent 13 hours over 2 days of troubleshooting this. I did get it to work, but still had problems with errors and duplicating files from PC to Android. I never got those images error fixed. Tech support doesn't exist. In the end, I uninstalled it.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=49e910ce-5776-450a-a37e-f60d418fe3ba"
+    },
+    {
+      "date": "2026-02-24T16:54:43.456Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "RX Sh",
+      "text": "🔐",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=c6511e27-4cc8-4852-83bb-f1b7766e803d"
+    },
+    {
+      "date": "2026-02-23T10:55:40.678Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Cyril Janda",
+      "text": "it \"offers\"syncing on other than joplin.cloud(eg. OneDrive), but it doesn't work.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=1dbeab4c-772d-48ed-bdf4-b79154456210"
+    },
+    {
+      "date": "2026-02-18T23:33:11.275Z",
+      "score": 4,
+      "thumbsUp": 6,
+      "user": "Jo M",
+      "text": "PLEASE ADD A WIDGET FOR THIS APP. Otherwise... I love Joplin and it's the only note app I genuinely trust. It has most of the same functionality as other apps like Keep and OneNote and then some... but allows you to host your own cloud data and encrypt your backups. There's a plug-in for encrypting local data, as well. I love it!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=d075213b-61c3-4133-9157-144d05a875c8"
+    },
+    {
+      "date": "2026-02-14T18:57:59.543Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Niklas Bengtsson",
+      "text": "using it daily. fantastic service. Syncing using TailScale to my NAS. works perfectly.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=11461a74-45cc-454e-b22e-63313afaf543"
+    },
+    {
+      "date": "2026-02-14T17:20:25.387Z",
+      "score": 3,
+      "thumbsUp": 2,
+      "user": "yashar",
+      "text": "can't use UserStyle like in the desktop app - Viewer doesn't support RTL. can't use Google fonts. UI is so unattractive and old. No built-in outlines feature.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=99384bd6-0977-44b7-b622-0a876eedf030"
+    },
+    {
+      "date": "2026-02-13T23:03:08.866Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "Ashish Alexander",
+      "text": "good: - WYSIWYG view for editing works problems: - cannot select multiple lines to move or copy - collapsible sections plugin is buggy on mobile. everytime you edit and save the same list, a new list is created on top which cannot be deleted.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=ae8fc44e-df7d-41c0-b523-21804a3fd505"
+    },
+    {
+      "date": "2026-02-13T07:35:53.178Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Nekobibu Von Bibu",
+      "text": "Does everything I need and more.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=d8df3a8d-0be7-47d7-9526-a61f69503a84"
+    },
+    {
+      "date": "2026-02-11T02:26:05.148Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Md Abeg Mia",
+      "text": "Adding graph view like Logseq is good.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=172b8e56-1101-4c90-ac2e-12a3e96e2276"
+    },
+    {
+      "date": "2026-02-10T23:02:36.572Z",
+      "score": 1,
+      "thumbsUp": 5,
+      "user": "Freyja Sfx",
+      "text": "overly complicated, relying on a forum like every other POS application out there rather than actual support and information in the initial docs, is just such a cop-out. I can't honestly Express how regretful I am that I actually paid for a year of using the app before realising just how unusable it really is in its current state",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=7f2d1697-090d-4dbb-b0cc-83b15e1dc1d4"
+    },
+    {
+      "date": "2026-02-09T20:40:26.965Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Fawad Bilgrami",
+      "text": "I have just started using this and am amazed how well this app is. I didn't find many apps that would let you jot notes with the physical keyboard.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=e7d1cc43-3045-4e9f-8de2-c9d12c248ad3"
+    },
+    {
+      "date": "2026-02-09T17:18:43.333Z",
+      "score": 5,
+      "thumbsUp": 4,
+      "user": "Steve Griffiths",
+      "text": "I've tried a few note-taking apps over the years but Joplin is my favourite. I only need basic notes - text, headings, lists - and I like that it's based on Markdown, so the formatting can be done with the keyboard (I'm a big keyboard fan). Syncing is also vital for me, because I've always run a number of devices (Android phone, iPad, Windows, MacBook and most recently, Linux) and it works fine on all of them - the website has the necessary command line info for Linux. Brilliant!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=170ae7a2-baff-489c-8e18-36de30b359d9"
+    },
+    {
+      "date": "2026-02-09T04:51:07.800Z",
+      "score": 1,
+      "thumbsUp": 3,
+      "user": "D",
+      "text": "no widget or quick note? get with the times",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=6de46a50-3e0a-4696-8fc4-fbdc772d7353"
+    },
+    {
+      "date": "2026-02-07T23:07:31.269Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Petr Vacha",
+      "text": "Use it for my notes and it syncs with app on MacBook.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=0075ec6d-ae97-4f20-86e6-99271341c019"
+    },
+    {
+      "date": "2026-02-05T00:43:04.882Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "John Neumann",
+      "text": "Tried to use to make a new notebook on Lenovo Tab Pro Plus but it looks like that functionality is broken :(",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=67226075-47cf-42c1-afd7-3bad3d30c528"
+    },
+    {
+      "date": "2026-01-31T09:59:54.456Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "N",
+      "text": "Very good quality. Open source and the best alternative for Evernote",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=5d2184e5-0ff1-4f16-bcb2-3b993a0653b9"
+    },
+    {
+      "date": "2026-01-31T06:59:56.617Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Amir Shachar",
+      "text": "Best note taking free app I use it all the time to sync between my PC , Laptop and phone, could use slightly better UI",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=1bb8acf5-009b-4ea6-8ace-72d3eb4b6d29"
+    },
+    {
+      "date": "2026-01-29T18:20:27.755Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "M.M. Nawaf",
+      "text": "life changing app, best app for notes and todo tasks. the most interesting part is that all the data is stored on my cloud",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=01227d3e-3067-4a3f-907f-54b691a81da8"
+    },
+    {
+      "date": "2026-01-26T15:06:21.533Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "Deedar Singh",
+      "text": "I love this app and still use it, but it needs improvement. Shortcuts are difficult; basic tasks like tables, lists, and indents are a struggle compared to OneNote. Note loading is slow and I’d love native Google Drive sync. Hoping for a more finished feel like Obsidian. Keeping faith for updates!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=b36e8cd7-10df-4db2-811d-2b21b235a1ef"
+    },
+    {
+      "date": "2026-01-24T10:02:11.370Z",
+      "score": 1,
+      "thumbsUp": 4,
+      "user": "Ecil Ving",
+      "text": "Almost good. no way of disabling the trash bin. I'm forced to delete everything twice if I really want to delete it. trash bin on phone apps is a really low intelligence idea. and on top of that it's forced on you without the option to disable it.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=0af352a9-5fe7-4c84-85e7-83ff2e4c1db5"
+    },
+    {
+      "date": "2026-01-23T20:28:57.585Z",
+      "score": 5,
+      "thumbsUp": 13,
+      "user": "Pigeon",
+      "text": "This is exactly what I was looking for! Offline, hierarchy, simple, easy to organize, free and no mandatory account! Amazing app, very excited to use this and clean up some paper clutter! There are multiple dark theme variations but the bright white font is pretty straining to me. Light has the opposite, but solarized light is great. Could opacity or a couple options be added to slightly adjust font and BG for themes like Dracula, Light or OL dark? zoom out would be nice for app, tables cut off",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=ab31f667-afa0-44b4-9386-510817fa79a6"
+    },
+    {
+      "date": "2026-01-21T16:49:37.950Z",
+      "score": 1,
+      "thumbsUp": 15,
+      "user": "Oy Yew",
+      "text": "Only offers 3 ways to sync: Joplin Cloud (paid), Dropbox or One Drive. No other way.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=341f7e38-8c47-4a8b-8c2e-ff8a7f5e91c3"
+    },
+    {
+      "date": "2026-01-16T03:44:42.834Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Arti",
+      "text": "Great note taking app and open source.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=fe50148e-75e2-4fff-b06c-1c8569f25aa1"
+    },
+    {
+      "date": "2026-01-15T04:48:27.600Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "BHUVAN KAUSHAL",
+      "text": "best for notes making",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=78c2791b-b2ef-4fb2-847c-aa40a4b799b0"
+    },
+    {
+      "date": "2026-01-14T06:52:46.510Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Goose Byte",
+      "text": "Amazing app, need a way to tell it I am not on my network to avoid force closing to get syncing working once I remember to start my vpn, also having the ability to make a specific note into an always up to date widget would be huge! Otherwise this does everything I need for a notes and knowledgebase app.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=371b8263-066f-43b3-8483-d3807d436eb8"
+    },
+    {
+      "date": "2026-01-14T04:23:17.287Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Wagdy Soliman",
+      "text": "excellent",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=85b7f7ec-c869-45a3-ad4f-64e57383bc48"
+    },
+    {
+      "date": "2026-01-12T21:07:39.363Z",
+      "score": 5,
+      "thumbsUp": 18,
+      "user": "John Hoyne",
+      "text": "Here I'm using Joplin synced with Dropbox (notes encrypted), on Linux, Windows, and Android phone. I'm very impressed with this app and find the community on its forum very helpful. Important to me is a robust backup format. I played around with imports from other sources before committing to new work. I tested clearing all the data a few times from Dropbox, and backups imported flawlessly. Edit: Since subscribed to Joplin Cloud for an even better experience. Happy user!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=b70d922c-2a2c-434d-a7e5-c6b782c3f54f"
+    },
+    {
+      "date": "2026-01-12T18:01:24.938Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "Alan Ramsay",
+      "text": "good app but when I tried to set up biometric unlocking it would initially lock/unlock but as soon as it was unlocked it remains open and won't lock again, I don't know if it's a bug with the app or if it's because I'm running graphene although from what I've seen they're supposed to be compatible.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=2b110a53-165b-4fdd-b937-c37cda8b7b0a"
+    },
+    {
+      "date": "2026-01-12T05:48:04.531Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Bikram Das",
+      "text": "the privacy level is top class",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=dd77caf5-6b1b-4a10-be33-7ecb17f67e6d"
+    },
+    {
+      "date": "2026-01-07T07:12:35.999Z",
+      "score": 1,
+      "thumbsUp": 2,
+      "user": "James Perrett",
+      "text": "No local markdown files, on android. So stuck with epsilon. or others less featured",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=0bc8a3dc-6713-415f-a0ee-be85ec1fe2ec"
+    },
+    {
+      "date": "2026-01-04T20:15:33.604Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Chris Machin",
+      "text": "excellent replacement for Onenote. only problem is you can only search in Reddit rather than a browser.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=783b4ec7-b974-4588-8c9e-43f83a104532"
+    },
+    {
+      "date": "2026-01-04T09:12:53.231Z",
+      "score": 2,
+      "thumbsUp": 1,
+      "user": "Sean McSherry",
+      "text": "Notes work well, but unable to share to app from other apps which is sort of a necessary feature for a mobile phone.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=92204b5c-9162-4c31-90ad-f1d042f07b43"
+    },
+    {
+      "date": "2026-01-04T01:36:41.555Z",
+      "score": 3,
+      "thumbsUp": 1,
+      "user": "Alan Campbell",
+      "text": "The app itself is great, the problems start when syncing files. If you use Google Drive instead of Microsoft Onedrive, you are not going to love this.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=d289bcb3-84b7-451f-aa84-8d543e8177a4"
+    },
+    {
+      "date": "2025-12-31T04:24:22.653Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "Naren CS",
+      "text": "excellent. a minor issue is that it struggles with large notes. and no gdrive backup. this app is now my favourite.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=199577ab-b12b-4e59-9c71-403934a38050"
+    },
+    {
+      "date": "2025-12-30T15:00:17.752Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "A. F. F.",
+      "text": "sync not working on android with onedrive + encryption",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=89c6e424-4b8e-47ae-a228-89bd06d1d18f"
+    },
+    {
+      "date": "2025-12-27T23:24:57.677Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Erick Carrillo",
+      "text": "🔥",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=d10feb8a-d3ee-470d-8362-0de7e7d08b50"
+    },
+    {
+      "date": "2025-12-27T17:50:43.145Z",
+      "score": 5,
+      "thumbsUp": 11,
+      "user": "Lloyd Waithe",
+      "text": "This software makes it unnecessary to compose and type in notes from scratch. You can cut and paste text and images from the web, import URLs (images, text, and videos) and embed them as links anywhere in your notes. This makes for very comprehensive (and elegant) note-taking with very little effort. It also adapts very well to a wide range of note taking situations.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=bdd3fde4-577f-4db1-9271-e263a0c1350d"
+    },
+    {
+      "date": "2025-12-25T18:36:58.524Z",
+      "score": 5,
+      "thumbsUp": 3,
+      "user": "Shukrit",
+      "text": "Bug: In version 3.4.5, unable to save setting when toggle on \"Markdown editor:Render images\". A good privacy friendly open source markdown note app👍. App is taking too much time to load when encryption is on. Feature suggestions : 1️⃣Separate app password lock. 2️⃣Stop using android system webview to render. 3️⃣Option to change E2EE password.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=bc4488be-d0ba-4cd3-9729-f422eb6e05c1"
+    },
+    {
+      "date": "2025-12-19T04:18:54.990Z",
+      "score": 4,
+      "thumbsUp": 1,
+      "user": "Brent Smith",
+      "text": "Excellent App, Poor Chromebook Intergration This app is a fantastic alternative to OneNote (your data is yours, in a format that is easily exportable and read by other programs) and Obsidian (much less complicated while retaining the core features that the average user needs + free and easy sync methods). Unfortunately, the app is not optimized for Chromebooks. It appears as a mobile app, and attempting to resize the app either results in display issues or crashes the app.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=3fcdb60f-108a-4761-a917-9840d4f04558"
+    },
+    {
+      "date": "2025-12-18T17:31:13.718Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Leah Kenney",
+      "text": "What a great app, and it's so easy to use. I installed it on my Linux Mint and my Chromebook. It's terrific! Bye bye Evernote! Joplin has you beat. Thank you again for this.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=5cb3f818-42ef-4992-b9c0-486c48ceffe9"
+    },
+    {
+      "date": "2025-12-18T12:03:35.742Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Alan Dowdeswell",
+      "text": "looks great",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=5781d53f-1f57-43df-8f99-4b7ef97af64f"
+    },
+    {
+      "date": "2025-12-17T21:14:19.693Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "oMaMori TTV",
+      "text": "Great open soirce app!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=18e3c494-996e-4eb1-a0cd-03595d48f2fb"
+    },
+    {
+      "date": "2025-12-15T09:48:03.963Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Mike L",
+      "text": "outstanding, ultra easy to manage, various and very simple ways to synchronize across platforms , full support of drawing and attachments, imo the best tool like this on Android, much better and efficient than obsidian",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=c5ba333c-0a41-40b3-880a-124d65a1f3c5"
+    },
+    {
+      "date": "2025-12-12T22:45:53.420Z",
+      "score": 2,
+      "thumbsUp": 2,
+      "user": "Couch Potatoe",
+      "text": "Interface sucks. Uninstalled after 2 minutes because of it.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=c76f62f5-bb07-4d90-a256-9ff47680a257"
+    },
+    {
+      "date": "2025-12-12T16:00:15.472Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Mohammad Nafis Fuad",
+      "text": "One of the most sophisticated notes apps with full plugin support. it even has markdown format. Dropbox synchronization works perfectly with any device. I would highly recommend it to someone who takes notes every now and then.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=edc64b27-5195-415c-823e-fb7543da5b3d"
+    },
+    {
+      "date": "2025-12-12T09:37:06.299Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "light go",
+      "text": "this app is same as I wish. I like it very much",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=6c6a22ad-4e13-46d8-a7f8-99acf06669b1"
+    },
+    {
+      "date": "2025-12-10T15:04:14.237Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "Callum Oldfield",
+      "text": "on my device some of the menu items are behind the navigation bar",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=56120234-1587-41b9-aa45-d7bb417d8aed"
+    },
+    {
+      "date": "2025-12-10T12:18:22.220Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Paramjeet Kumar",
+      "text": "best app for webtoon, manga, script and light novel writing. sync feature is also good and fast. Using Dropbox as sync medium.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=4e56375e-c50b-4f1b-ae8a-32b1851bdb36"
+    },
+    {
+      "date": "2025-12-10T05:39:46.990Z",
+      "score": 3,
+      "thumbsUp": 1,
+      "user": "Thales Vinicius Gomes Pereira",
+      "text": "Good for taking notes, but syncing files from a directory is not working for me. Even though the directory is synced, none of the notebooks I created on my computer shows on the phone.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=473566bd-8c7e-4f33-9b8c-e64348504c2d"
+    },
+    {
+      "date": "2025-12-09T06:25:48.772Z",
+      "score": 2,
+      "thumbsUp": 1,
+      "user": "Matoro Zeliph",
+      "text": "No Google Drive Sync? What!? That makes it frustrating that I have to manually export and import my Joplin notebook from my phone to my pc and vise versa. I wish there was Google Drive sync support!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=ced5d7ee-7bad-4e5c-af30-2fc84aea13bb"
+    },
+    {
+      "date": "2025-12-07T05:51:11.228Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Vishal Turukmane",
+      "text": "its a request to make the note editable by just tapping on the opend note but not by pressing the edit button",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=b2007bf9-f1bc-463e-a535-2c7807af36c8"
+    },
+    {
+      "date": "2025-12-06T22:37:49.118Z",
+      "score": 1,
+      "thumbsUp": 5,
+      "user": "Tomasz Fiszer",
+      "text": "Doesn't work as expected. Sync via webdav always ends up with 409 error, because it doesn't have the option to sync to whatever is there! It overwrites the info.json and hangs! Not fit for purpose, wasted hours trying to get it working.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=25bd4fca-6a00-451a-af68-715c01cdef22"
+    },
+    {
+      "date": "2025-12-06T11:39:36.954Z",
+      "score": 3,
+      "thumbsUp": 2,
+      "user": "Ruomu Hou",
+      "text": "repeatedly share screenshots to Joplin will result in the same picture duplicated although different screenshots were shared.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=54d66282-1a6f-41a4-8e8c-5848769456e4"
+    },
+    {
+      "date": "2025-12-04T00:21:41.544Z",
+      "score": 2,
+      "thumbsUp": 1,
+      "user": "Bones of Dust Studio",
+      "text": "any app that requires payment, whether it's to be able to cross use it on different devices or it's just an individualized app. it needs to be better than the rest that are free as simple as that",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=1969e56b-3228-4a45-9edb-89302ecd958d"
+    },
+    {
+      "date": "2025-12-03T20:25:58.171Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Herczeg Szilard",
+      "text": "Really like it",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=b1bfecac-215f-44cb-b46e-60f9cd984806"
+    },
+    {
+      "date": "2025-12-03T19:38:01.173Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Devesh Kamath",
+      "text": "This is my primary note taking app. I sync through OneDrive and it works perfectly fine. I've been using it for two years now and no mishaps of data corruption. It has its own database scheme to contain the notes unlike obsedian which just stores pure md but with the added benefit that you can view old versions of a note. Full backup does contain md files but not with the same name or directory structure, rather it's purely for the app to understand metadata and restore the backup. Overall 👌",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=b084536c-f26b-4a49-868a-dd0cf0baa59b"
+    },
+    {
+      "date": "2025-12-03T12:16:37.308Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "Anurakt Srivastav",
+      "text": "to do list does not have word wrap and words go beyond my phone boundary, can't even send the words below because key to send below change to save key. no way I found to contact the developer to get help regarding this.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=13fedcd6-1573-4f7c-bc07-ee890712fd7f"
+    },
+    {
+      "date": "2025-12-02T18:28:37.115Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Dennis Hanmer",
+      "text": "This is an excellent note taking storage app, similar to what Evernote used to be before it got bloated and virtually unusable behind a paywall. The developers have kept the user experience easy-to-use without sacrificing useful features. Device synchronization is supported along with import and export. Notes are fully searchable and tags can be added.Hints and tips are plentiful with links etc",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=6f695818-b6ab-4024-bf22-376aa8cfc0a4"
+    },
+    {
+      "date": "2025-12-01T09:33:09.000Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Jubaaer Taalha",
+      "text": "It is working slowly after installation of some plugin and disappeared some of them in plugin list .",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=5646eca6-ccd1-48a2-8f26-a7da896af1cf"
+    },
+    {
+      "date": "2025-11-30T03:27:57.602Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Joe Hanger",
+      "text": "This app provides everything I need with a notes app with markdown capabilities.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=a87ea9f2-fc6a-4842-bc83-2c866e109667"
+    },
+    {
+      "date": "2025-11-29T07:51:34.323Z",
+      "score": 5,
+      "thumbsUp": 3,
+      "user": "Sai Sasank Vindamuri",
+      "text": "Absolutely wonderful app. Although I mostly use the desktop version, having this on the go in my phone is always nice when I want to make quick notes. It is very good for things that you want to keep private, like my personal diary, which is what I use this for. 10/10, would recommend to anyone who wants a note taking app. It takes a bit of setup, especially for cloud sync, but beyond that, amazing app.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=45ad2879-5d90-4da8-bc39-f8b5f358bfd4"
+    },
+    {
+      "date": "2025-11-27T14:26:43.645Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Asgeir (Xian)",
+      "text": "A very clean and straightforward experience.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=b461213a-1446-4b58-8175-a25658b174e6"
+    },
+    {
+      "date": "2025-11-25T06:33:20.404Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "M Mina",
+      "text": "brilliant, if it had FUNDAMENTAL sticky notes android widgets, mindmap, full android support - desktop app is way more powerful. I'd also like delete without trash for some notes, notes count per notebook, version view&delete. 5 stars cos it's foss.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=3cbdda4f-2a09-4f7d-b3a7-db97ff2d9371"
+    },
+    {
+      "date": "2025-11-23T03:23:29.489Z",
+      "score": 4,
+      "thumbsUp": 12,
+      "user": "Janko Dera",
+      "text": "I switched to Joplin from Notes Plus, where programmer didn't maintain his app and finally simply abandoned the payed app. He left the app in state it constantly asked to be payed again. I converted the thousands of my notes by hacking his app and managed to migrate successfully to Joplin. What a relief! Missing: underline, Missing: colors. Missing: individual file encryption. However overall excellent app.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=333e2b66-5809-4e58-8911-3b826cf444de"
+    },
+    {
+      "date": "2025-11-23T00:39:54.614Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "Michael Blackwell",
+      "text": "Generally love the app, mobile and desktop. But the mobile app just does not sync.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=8e414651-e6cd-4c5a-bac0-9388b3f024d7"
+    },
+    {
+      "date": "2025-11-22T18:03:19.130Z",
+      "score": 1,
+      "thumbsUp": 2,
+      "user": "Cristian",
+      "text": "doesn't work, syncing is broken I reinstalled the app and resynced, and it still doesn't properly load all notes and folders",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=b4d935ee-50a5-4192-bd0a-3e598c93051d"
+    },
+    {
+      "date": "2025-11-19T08:09:33.744Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Anjanay Vaibhbh",
+      "text": "not good",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=54c15b55-89a3-4107-b485-a123539c29d2"
+    },
+    {
+      "date": "2025-11-18T18:59:10.398Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Nindy Karona",
+      "text": "I've tried many similar writing apps before but I must say, this one is the best in functionality. And the pricing is perfectly reasonable.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=56ba8802-b246-4342-a0e9-855da765e18b"
+    },
+    {
+      "date": "2025-11-16T15:58:54.833Z",
+      "score": 2,
+      "thumbsUp": 1,
+      "user": "Google User",
+      "text": "It's a great app really. But I upgraded my android tablet to an S11 Ultra. Now when I try and sync my thousands of notes the app crashes after syncing about 1000 notes. Works fine on my iPad, and Android phone, but I have tried many times and the result is the same on this S11 tablet",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=6356ce6e-f0bb-49f7-9bd0-ed57e5a7d804"
+    },
+    {
+      "date": "2025-11-16T05:29:53.468Z",
+      "score": 5,
+      "thumbsUp": 6,
+      "user": "Abhijith",
+      "text": "A few UI tweaks could greatly enhance its usability 📇 Add a card-based view like Google Keep 🎨 Support color-coded notes for better organization 📌 Enable pinning important notes to the top 🔄 Offer a list/grid toggle option 🖱️ Add quick action icons (edit, delete, share) on each note card These updates would make Joplin more visual, modern, and beginner-friendly for all users.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=9c4b3087-ec1f-44c7-b4ba-2bce421b0d7d"
+    },
+    {
+      "date": "2025-11-14T13:59:11.464Z",
+      "score": 3,
+      "thumbsUp": 3,
+      "user": "Shubham Tariyal",
+      "text": "To search inside a note we have to first select edit option which is really inconvenient. A note is written once but read multiple times so please show search at easily accessible places.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=9722a8d0-5d9f-4ce5-9e89-6c905be78702"
+    },
+    {
+      "date": "2025-11-08T09:39:59.390Z",
+      "score": 5,
+      "thumbsUp": 4,
+      "user": "Sobhan Kohanpour",
+      "text": "This app is fantastic! I use it on both my Android phone and Windows PC, and the synchronization between devices is seamless. Best of all, it's completely free — which makes it even more amazing.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=29f033af-9cd5-424d-a47f-90d5ff89bb42"
+    },
+    {
+      "date": "2025-11-06T08:06:31.139Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Michael Fries",
+      "text": "PLEASE add a word count for the mobile version. great app for organizing my writing otherwise.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=f3b69d95-963d-4678-a6ca-b65d6198ce15"
+    },
+    {
+      "date": "2025-10-28T13:36:56.850Z",
+      "score": 2,
+      "thumbsUp": 1,
+      "user": "Aleksandar Micic",
+      "text": "couldn't find a way to simply import a markdown file even after reading official docs on on phone... confusing though the authors claim the app supports this",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=d722769e-48c0-4fde-a060-42478e8de0e4"
+    },
+    {
+      "date": "2025-10-24T23:40:30.200Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Jonathan Bojorquez",
+      "text": "insanely laggy idk why, and lacking in basic features like locking certain notes with a password or pin",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=6867b7bb-792d-4bb7-b7f6-e3d7962b2569"
+    },
+    {
+      "date": "2025-10-24T23:35:37.796Z",
+      "score": 1,
+      "thumbsUp": 2,
+      "user": "David Mills",
+      "text": "was using the app fine for a couple of weeks but now the pictures load for a couple of seconds then disappear,WHY is this happening please as I can no longer see what's in my note",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=d8c05dc7-258b-4a9a-9f56-4c3515324221"
+    },
+    {
+      "date": "2025-10-23T21:40:44.889Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "hamid mousavi",
+      "text": "Thank you dear Joplin developers 🌟 This is an excellent app, but there's one issue for Persian/Farsi users: Lists and checkboxes are displayed left-to-right while Persian text requires right-to-left display. Please add the ability to: · Display lists automatically in right-to-left direction · OR add a setting option to enable RTL for lists This change would create a much better user experience for Persian, Arabic, and Hebrew users. Thank you for your attention 🙏",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=8c9e5bd2-a064-4e70-bdb4-2c67b8d73882"
+    },
+    {
+      "date": "2025-10-21T06:20:51.389Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "Alexandru Ignat",
+      "text": "Great app! I've installed it on my android, iOS, Windows and Linux devices and everything syncs to my NAS. I successfully replaced my dependency of OnNote! oh, and did I mentioned that it is easy to use? It is!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=58d89de3-e4c8-4d2a-91c0-89071885c7a0"
+    },
+    {
+      "date": "2025-10-20T13:04:21.703Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Bobby Absher",
+      "text": "After a long time using every app and website devoted to note taking, I have come full circle back to Joplin realizing just how amazing this app is. Hands down the best period.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=0dc321fc-9682-418e-a114-04a676fff8be"
+    },
+    {
+      "date": "2025-10-17T07:49:00.915Z",
+      "score": 3,
+      "thumbsUp": 1,
+      "user": "Rasmus R",
+      "text": "Bug report: 1. Bold doesn’t work for Japanese characters! 2. The toolbar doesn't always work unless you press search fist. Good markdown app. Completely free and no ads! Syncing with Dropbox is a bit tricky, but once I got it to work it's great.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=859bc8e2-283e-45f5-8b7b-9ae99a5ebcd1"
+    },
+    {
+      "date": "2025-10-15T00:20:18.644Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Vicky Hsu",
+      "text": "Excellent!! Thank you. What else could you ask for a open source philanthropic free cloud-synced note app?",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=5b8bf7b7-0b63-4f95-8631-4b0907148ccb"
+    },
+    {
+      "date": "2025-10-09T21:54:44.908Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Dominic Charlton",
+      "text": "Privacy focus, are you kidding? Notesnook do it better.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=1867521d-d0bb-4435-9eed-94e0d00cab5a"
+    },
+    {
+      "date": "2025-10-08T14:59:28.555Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "Theodore",
+      "text": "An amazing all in one note app!!! The only thing i would like to see, better synchronisation (because it gets stuck sometimes and it's not syncing in the background you have to be in the app with screen on to sync) and a revamp to the ui to be a bit more pleasant and user friendly! Then 5 stars from me!!!! Keep up the great work!!!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=ab84b240-7166-4c7e-a782-8db741e8a129"
+    },
+    {
+      "date": "2025-10-05T07:02:26.491Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Wayne Dean",
+      "text": "3Rev: 5* This new \"open in new window\" is a game changer, it's been missing since switching from Evernote. 2Rev: 5* It needs some more dev on the app, seems like it could be a lot better. More gesture based navigation would be very welcome. 1Rev: Great app and works well with the docker self hosting. More of a request, I would ask the app have more guester based navigation, as in swiping left and right to change depth, as a suggestion. Happy to make this a 5* if this is added.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=09e3d8b1-d890-42f7-9649-4b6ee09a0bb2"
+    },
+    {
+      "date": "2025-10-05T00:14:43.651Z",
+      "score": 1,
+      "thumbsUp": 9,
+      "user": "Bas Korsmit",
+      "text": "I like the app, but it doesn't ever synchronize correctly, so for me this renders the app useless. Also synchronization (if it works) is so slow, it will take several hours for under a 100 items.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=64a9fbef-96cf-43ce-9bc2-3a693dce6d1b"
+    },
+    {
+      "date": "2025-10-04T03:16:11.408Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Md. Abdullah Al Shahid",
+      "text": "Your apps is best apps. you should more develop. try to edit more function. explore it social media. 🥰🥰🥰🥰🥰❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=e9024ae6-2dd5-4b98-81d6-dab83086ede5"
+    },
+    {
+      "date": "2025-10-02T15:44:38.957Z",
+      "score": 1,
+      "thumbsUp": 6,
+      "user": "Michael Lin",
+      "text": "Unable to sync with CIFS Document Provider to my NAS. Reportedly this is a problem that has existed since 3 years ago (ACTION_OPEN_DOCUMENT). This makes it useless for self-hosted sync without additional server software.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=34636832-6872-4e22-8e7f-9807229b0609"
+    },
+    {
+      "date": "2025-10-01T11:54:41.313Z",
+      "score": 5,
+      "thumbsUp": 2,
+      "user": "Ambrose Adokwu",
+      "text": "best not app but up till now, no way to search notes in view mode only in edit mode, i keep updating app but not yet fixed",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=471cd370-6a15-4cab-97a1-a69b7a83e375"
+    },
+    {
+      "date": "2025-09-29T02:08:26.843Z",
+      "score": 3,
+      "thumbsUp": 47,
+      "user": "daniel anderson",
+      "text": "This Is practically unusable once you start getting more notes. The developers claim this isn't due to Joplin itself but to how Android is implementing the file system API, but I find this hard to believe. I've found no satisfactory answer despite probing a lot, and the whole issue is ignored for over a year. Synching your notes shouldn't take days, but that's what you're looking at. Update Sept 2025: it's working better these days",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=f7618701-4cf3-4f39-b971-60d49014f64c"
+    },
+    {
+      "date": "2025-09-27T23:49:00.993Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Amari",
+      "text": "Is it possible to add cute colors? Like pink and purple?",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=cd215c48-8669-4a24-8cc9-3d9225f7331b"
+    },
+    {
+      "date": "2025-09-26T07:18:49.161Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Chuspa Voj",
+      "text": "Easy to use, simple, and works perfectly. I much prefer it to Simplenote.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=837f86bb-9e71-4b53-8458-e23f3857c5e5"
+    },
+    {
+      "date": "2025-09-24T16:41:58.997Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "KULDEEP SINGH",
+      "text": "Best app I had ever seen in my life",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=56e7e36f-d3b8-4ecd-adc9-393c58d0aab5"
+    },
+    {
+      "date": "2025-09-22T21:28:02.490Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Jose Coelho",
+      "text": "does not easily import notes from other apps such as Keep. No plugins available. Most of us are lazy and not providing an easy way to do certain things like working with your current notes is an auto deal breaker. For me it's useless",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=1a4f8d64-3abb-43b9-b152-908670e8506e"
+    },
+    {
+      "date": "2025-09-22T05:19:16.355Z",
+      "score": 4,
+      "thumbsUp": 1,
+      "user": "Joe",
+      "text": "Is there a way to remove the code? I do not want code and it's everywhere. There's more code than my words. Its taking me such a long time to delete the code also. I have disabled ALL markdowns. Should I use a different app? Thank you, amazing app apart from that huge gripe that is turning me away and maybe others.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=3ae9e79c-0545-4318-95b6-31ca06df6483"
+    },
+    {
+      "date": "2025-09-20T03:15:23.133Z",
+      "score": 4,
+      "thumbsUp": 4,
+      "user": "حامد حق پرست",
+      "text": "its very good app. in add tag for note, There is a problem with searching tags. it only shows tags whose first letter starts with the searched letter, and if there is no word in the tags at the beginning, it will not be shown.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=ee57b8cd-baac-40ce-9ae7-a6a57c3f3d57"
+    },
+    {
+      "date": "2025-09-19T05:50:57.994Z",
+      "score": 1,
+      "thumbsUp": 2,
+      "user": "Na Cl",
+      "text": "trash app dont use. will not syncronise new folders and just deletes them. DONOT TRUST THIS APP WITH YOUR DATA!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=9070bb67-6b33-49b9-81dc-6d27b7051bd4"
+    },
+    {
+      "date": "2025-09-19T01:54:31.670Z",
+      "score": 5,
+      "thumbsUp": 6,
+      "user": "Tyler hutek",
+      "text": "I use this for syncing notes across devices. I appreciate the freedom to use WebDAV for my syncing so I don't have to worry about relying on a single server. Admittedly, this isn't the most beautiful app but it's very functional. Honestly, my biggest issue is that I can't donate money using Google store credit. This app should definitely cost money for how useful it is.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=54131389-7752-4c3e-9f25-4d1bab47eab9"
+    },
+    {
+      "date": "2025-09-18T15:19:35.956Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "multi purpose word",
+      "text": "Excellent replacement for OneNote. Syncing with Dropbox was straightforward.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=7b90dd73-0d6f-49db-9f56-3cc5eb61dea3"
+    },
+    {
+      "date": "2025-09-18T09:13:11.669Z",
+      "score": 5,
+      "thumbsUp": 2,
+      "user": "Octavian Petrescu",
+      "text": "Reliable and free daily driver across all platforms. Way better mobile experience than Obsidian. Does the basics extremely well. Failed to sync to my OneDrive once in the span of one year... but it was my fault :)",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=0dbaac37-5f13-475a-8698-6682ccc1679c"
+    },
+    {
+      "date": "2025-09-16T17:11:22.659Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "Jay",
+      "text": "Joplin is the best. Finally, I found something I can use on both desktop and mobile, which actually functions. And synchs between devices without forcing me to pay! Thank god ...",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=0e8916d2-a67c-4cd8-a665-a43b4eb172ed"
+    },
+    {
+      "date": "2025-09-15T18:05:02.398Z",
+      "score": 1,
+      "thumbsUp": 4,
+      "user": "A M",
+      "text": "I tried this for 5 minutes and it's not great I know it's FOSS so I'm sorry but the basics don't even work. it's a coin toss to get the toolbar working for a note, there's no consistency with the icons, navigation is confusing and awkward.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=6953917f-108c-48c8-9b1d-4f3f0ee4dde0"
+    },
+    {
+      "date": "2025-09-15T08:20:05.970Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "genali1",
+      "text": "i already have easy note, but this in high level. Good job bro",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=e629e20d-7e31-45d6-ac42-59e5cb89429c"
+    },
+    {
+      "date": "2025-09-15T08:08:37.805Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Tuhin Sheikh",
+      "text": "No Ads, brilliant note taking open source software. it has mermaid support for adding diagrams. sync using OneDrive, Google drive or others! Thanks a lot to the Devs.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=3852ebb5-bb5c-4781-a98e-28cc87bdd5b1"
+    },
+    {
+      "date": "2025-09-15T00:38:25.128Z",
+      "score": 5,
+      "thumbsUp": 4,
+      "user": "15_Adi Setiawan H",
+      "text": "opens source with AGPL-3.0 license, that means the code derivative is always open and can be improved by the community. making it a good long term note taking app. also has a lot of features",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=6a88edaa-d03e-4536-b156-84084f21e90f"
+    },
+    {
+      "date": "2025-09-14T20:24:53.695Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Niel",
+      "text": "👍",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=76738e57-f415-4338-9c8e-7c836124614e"
+    },
+    {
+      "date": "2025-09-14T15:35:54.866Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Ron “Ronnie” Kolman",
+      "text": "I'm enjoying Joplin; it's great. One star was lost to the \"disappearance\" of a critical note—it's just gone. Joplin is nicely featured. Devs seem like decent people.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=4e3960bf-c58c-48aa-b9b3-a8a775a79493"
+    },
+    {
+      "date": "2025-09-14T15:33:10.831Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "908 897",
+      "text": "This app needs to be the highest rated note taking app. I only came here to say the icon is a bit bland on my device. But I can edit that with themes I guess. Really no ads I don't know how they do it!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=a4815407-761f-4bcc-929f-8d3d05cb23fe"
+    },
+    {
+      "date": "2025-09-14T08:20:02.969Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Yukino Luciella",
+      "text": "whoever coded the trashbin functions is an absolute moron. let say all conflicts files deleted in trash bin cannot be selected to deletes multiple and you have to click on each to delete. good job",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=a47a5886-ded5-4314-a0dc-12f26c74c35a"
+    },
+    {
+      "date": "2025-09-13T08:04:58.282Z",
+      "score": 4,
+      "thumbsUp": 1,
+      "user": "Ric Watson",
+      "text": "A lot of amazing programming seems to have gone into this app, but it lacks the simple feature to jump to start / end of a long note.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=207f4dcb-f37d-4dce-a803-a7a98bc1c006"
+    },
+    {
+      "date": "2025-09-12T18:14:06.166Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "John Kinsella",
+      "text": "nothing gets even close to joplin",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=383d58af-7359-4457-b281-64d88529733c"
+    },
+    {
+      "date": "2025-09-11T14:29:39.800Z",
+      "score": 4,
+      "thumbsUp": 52,
+      "user": "Russ Draper",
+      "text": "As far as to it's usefulness as a note keeper, I think it's good. My issue with it is in the setting it up on another phones. It should be as easy as something like Colornotes which works on as many phones as you have and the syncing simultaneously on all of them is easy. I have yet been able to transfer my notes from one phone to another although I've done everything the instructions say to do. This is the main drawback. If you just need an app to store notes on one phone, by all means get it.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=1395367d-ba0e-44ce-8f5f-25c53df76864"
+    },
+    {
+      "date": "2025-09-11T10:07:21.335Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "Ali Taimor",
+      "text": "how to export notes to PDF, mark down or JSON format. only jex option is available",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=eb8f85d6-c02b-42b6-b103-698fdfdd8f46"
+    },
+    {
+      "date": "2025-09-09T14:08:36.885Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Giorgio Torres",
+      "text": "Best alternative to Apple Notes, ridiculously simple to use yet very powerful!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=a2aa12fc-d62f-402f-bb86-234706e51d75"
+    },
+    {
+      "date": "2025-09-09T03:35:28.615Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Bruno da Silva",
+      "text": "Best open source notes app out there.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=d82f55a8-e12e-4636-9732-c8bd4987c281"
+    },
+    {
+      "date": "2025-09-08T10:09:49.510Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Drift RacerR8",
+      "text": "Absolutely amazing app, if you want full privacy but also customization I fully recommend this app.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=5e3f4b5e-c728-4717-841e-8d5e88edb9c0"
+    },
+    {
+      "date": "2025-09-06T17:03:54.637Z",
+      "score": 1,
+      "thumbsUp": 2,
+      "user": "Tracy Wells",
+      "text": "I liked this app at first, but it started getting glitchy and now it just erased all my notes. Will never use this app again",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=7f598151-7e5a-4e59-b0ab-c5ecc188bf87"
+    },
+    {
+      "date": "2025-09-06T11:30:32.269Z",
+      "score": 1,
+      "thumbsUp": 3,
+      "user": "Deborah Preuss",
+      "text": "The \"improved\" add-tag interface is worse, not better. Why is it case-sensitive? That's insane: I want to add tag \"AI\" but you don't autocomplete \"ai\" to \"AI\"? Do better :-(",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=6734431e-795d-495f-8c2e-cebffed9fcd2"
+    },
+    {
+      "date": "2025-09-05T14:07:07.839Z",
+      "score": 3,
+      "thumbsUp": 6,
+      "user": "Jay Maramag",
+      "text": "If you were to search something and want to edit the note, it should go directly to the one you were searching since it doesn't highlight the word anymore making you spend time countless hours and it doesn't make sense. Also you should add an option where the cursor should go to the chosen word directly instead of clicking edit button and the cursor goes to the start (upmost part) of the note and you have to find the word you want to edit again. Therefore, UI/UX for this should be improved.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=876a0b25-2065-4c5f-8c98-0d41e98cce56"
+    },
+    {
+      "date": "2025-09-05T03:26:53.971Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Emil Axelsson",
+      "text": "This is a fantastic app! I use it everyday to share notes between my phone and PC.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=cf3753a6-8782-4df2-811c-daf63dbe0eb3"
+    },
+    {
+      "date": "2025-09-03T03:10:24.799Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Nan Aung Oo",
+      "text": "I love",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=187126fa-c7c0-471f-a76a-84984a25747b"
+    },
+    {
+      "date": "2025-09-02T19:48:28.834Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Rojo Salas",
+      "text": "Full Stack Dev here! No complaints! I just want a better (modern) UI 😅",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=646a78e4-0b0a-47e3-9f2d-160d023844c2"
+    },
+    {
+      "date": "2025-09-02T18:37:21.423Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Surajit Pal",
+      "text": "very useful app for students",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=1cefa3e2-2328-4e77-a9dd-747dd37cded9"
+    },
+    {
+      "date": "2025-09-02T10:49:18.574Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Mohammad Heyatzadeh",
+      "text": "I love the minimal look and feel of this app but I don't like the way it syncs the data. Also it'd be great if you added other cloud services like Mega.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=ee4b5892-82df-4a91-b4e8-d705d7673a41"
+    },
+    {
+      "date": "2025-08-31T10:50:57.239Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Zachary Mathe (Ira)",
+      "text": "reliable and with good support",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=16e719e3-73b8-47f1-accc-a35cef77bdfd"
+    },
+    {
+      "date": "2025-08-30T21:32:02.543Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Anton S",
+      "text": "amazing for PC. OK for android. sync works perfectly",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=a627bccb-36f7-43f8-85c0-a025b6341354"
+    },
+    {
+      "date": "2025-08-28T20:33:39.400Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "APP 55",
+      "text": "Thank you, better than Obsidian 👌😁",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=428dfce9-8ee4-49c8-b255-d1c1ccd8f21f"
+    },
+    {
+      "date": "2025-08-25T08:07:02.336Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "R A",
+      "text": "Awesome and simple note-taking application After being with Evernote for many, many years in 2023 when Bending Spoons purchased the application I left. Their prices kept increasing to the point where it simply was not affordable for me any longer. Furthermore, their customer service became absolutely atrocious! I just take simple text notes in general so Joplin was the perfect match for my needs. Keep up the great work Joplin!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=8a624728-4896-4cf0-9115-e7c06a55726f"
+    },
+    {
+      "date": "2025-08-23T19:26:38.781Z",
+      "score": 4,
+      "thumbsUp": 1,
+      "user": "Nomad",
+      "text": "I really like this app, but man, I wish they redesign the interface at some point. They need to take some \"notes\" from Notesnook on that regard. 😁",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=0765c911-0110-4ce7-a6e4-ca25dcc8a18b"
+    },
+    {
+      "date": "2025-08-23T16:53:24.539Z",
+      "score": 3,
+      "thumbsUp": 1,
+      "user": "Zain Hassan Bhatti",
+      "text": "app is great i have started usin it now but i really need a widget on Android and seein people been askin for it for years idk why tf u wont listen and give us that",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=b9d62571-08ec-4f9d-8889-e79ad29bed10"
+    },
+    {
+      "date": "2025-08-22T13:01:56.235Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "un known",
+      "text": "importing instructions are wrong. doesn't work.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=469d2466-19d9-467a-8dcb-69bc024cd2fd"
+    },
+    {
+      "date": "2025-08-20T22:29:00.855Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "Neel Knight",
+      "text": "I discovered this gem of an app recently. It has everything but a widget. Can we please get a widget? It helps to look at notes at a glance. If this is open source, I am even willing to contribute.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=6575b339-3061-40fc-be8c-7a8b21fb4441"
+    },
+    {
+      "date": "2025-08-17T18:12:37.950Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Wood Spirit",
+      "text": "Awesome app 👌",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=520024fd-c50a-484f-902c-4e5dc89cf6d7"
+    },
+    {
+      "date": "2025-08-17T00:54:22.829Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Tori Tighe Allred",
+      "text": "Where has this app been all my life, I have tried and paid for 5 of the top note taking premium apps and everytime have some horrible disappointment of some basic features to work properly for simple note taking and organizing. Some apps I feel like I'm battling trying to use and get so distracted fighting the features. This app however is exactly what i've ever wanted, I am so greatful it exists. If there is a way I could easily donate, I would.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=b1a7c209-ee52-4b98-b604-f5e012c78219"
+    },
+    {
+      "date": "2025-08-16T16:15:57.520Z",
+      "score": 5,
+      "thumbsUp": 2,
+      "user": "Rick Chandler",
+      "text": "I love being able to use a markdown notes app that easily syncs between my 3 different platforms using a 3rd party cloud storage.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=d8d6d5ca-0570-4f1b-8705-213bece5ab6c"
+    },
+    {
+      "date": "2025-08-16T05:14:28.563Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Bangau Penjelajah",
+      "text": "Open source, multi-platform, and complete features make note-writing easy and secure",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=bb37d3fa-549c-4ad3-be24-fdbfd6a563e4"
+    },
+    {
+      "date": "2025-08-09T23:06:18.637Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "jay sharma",
+      "text": "Hi joplin team thank you for giving such a wonderful blessed application just please add reminder feature which will help me and others like me who are fan of joplin more",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=8736a2df-57ea-44d6-bb41-c5fd0a3abed6"
+    },
+    {
+      "date": "2025-08-09T20:33:29.466Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "William Melchor",
+      "text": "what is this trash",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=822955aa-bfe1-49d5-bc95-cf54b7225069"
+    },
+    {
+      "date": "2025-08-09T10:40:23.515Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "SnappiAlli Gator (Snappi Alligator)",
+      "text": "Joplin is maturing into an awesome app! Highly recommended for personal and business. The future looks even better as the developer makes it even better and the open source community gets behind it.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=9675b136-9227-47ba-b35e-576a935fa60f"
+    },
+    {
+      "date": "2025-08-08T06:03:28.413Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "N. Paulo de Almeida C.",
+      "text": "revolutionary",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=024e4f16-322d-44ce-9d94-d1a4aa806338"
+    },
+    {
+      "date": "2025-08-07T19:18:01.937Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "• ArTxSpAz •",
+      "text": "Instant 5 stars. Clean aesthetic but packed with well-made features so it doesn't feel too minimalistic, works perfectly and has a great layout no matter the device.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=f7e23ce4-95f6-498a-8f08-51f7141662ca"
+    },
+    {
+      "date": "2025-08-07T06:16:40.557Z",
+      "score": 4,
+      "thumbsUp": 1,
+      "user": "Orwa Kassab",
+      "text": "Good, but it needs some visual enhancement, especially for colors of notes",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=d7bbc42f-7c21-4adf-966d-5ac0c0ea3a9e"
+    },
+    {
+      "date": "2025-08-07T03:33:29.475Z",
+      "score": 4,
+      "thumbsUp": 1,
+      "user": "Mainak Dutta",
+      "text": "I am premium user for joplin cloud. but how can I reach customer support. kindly give contact details like email. and the all is good but almost all things is in beta like biometric. update the app for new like UI",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=6f8469aa-5db0-42bf-a6c6-b6a2af8bf1e3"
+    },
+    {
+      "date": "2025-08-07T02:39:54.171Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "AAKASH KUMAR",
+      "text": "Not online options",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=16a3b8de-622e-46b9-a9db-154788ea3105"
+    },
+    {
+      "date": "2025-08-07T01:12:04.193Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Chris D.",
+      "text": "You can import your notes from another device now!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin&reviewId=56d0773b-d53c-49ec-8d06-f4a79340328f"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+[
+  {
+    "appId": "com.getupnote.android",
+    "title": "UpNote - notes, diary, journal",
+    "developer": "UpNote Pte. Ltd.",
+    "score": 4.61,
+    "scoreText": "4.6",
+    "free": false,
+    "price": null,
+    "summary": "The most pleasant app for writing and organizing notes",
+    "icon": "https://play-lh.googleusercontent.com/WaS68PBRsOybSsVHwV6trkLR0f4lyfVCg7xYXbn_vrbBSq1LahUNM-HBxnV_7537Ig"
+  },
+  {
+    "appId": "com.primets.upnoteclassplus",
+    "title": "Upnote Class+",
+    "developer": "Platão Upnote",
+    "free": false,
+    "price": null,
+    "summary": "Upnote Class + is the new version of the school and teacher app.",
+    "icon": "https://play-lh.googleusercontent.com/uAboJWMebfJqlK0nodJqD5Vr_i8WFW3WboRFEjnJ4nOcDJYy708Zgn3wXo1Wsup28ga1"
+  },
+  {
+    "appId": "com.evernote",
+    "title": "Evernote - Note Organizer",
+    "developer": "Evernote by Bending Spoons",
+    "score": 2.9513466,
+    "scoreText": "3.0",
+    "free": false,
+    "price": null,
+    "summary": "Notepad &amp; Planner: Take notes, create daily tasks and organize to-do lists.",
+    "icon": "https://play-lh.googleusercontent.com/dVQlfnQ_Fp-wNfKv2eI9XxbLymV6oGW_0ywIw3pxhYyKhjC0Lk8y6Ru_-sUc1fq2akADzAN7QWn8nPvcw6Ck"
+  },
+  {
+    "appId": "com.google.android.keep",
+    "title": "Google Keep - Notes and lists",
+    "developer": "Google LLC",
+    "score": 4.3902154,
+    "scoreText": "4.4",
+    "free": false,
+    "price": null,
+    "summary": "Google Keep",
+    "icon": "https://play-lh.googleusercontent.com/9bJoeaPbGTB8Tz_h4N-p-6ReRd8vSS-frZb2tmJulaGIoTKElKj3zpmcFJvnS96ANZP5"
+  },
+  {
+    "appId": "com.microsoft.office.onenote",
+    "title": "Microsoft OneNote: Save Notes",
+    "developer": "Microsoft Corporation",
+    "score": 4.373152,
+    "scoreText": "4.4",
+    "free": false,
+    "price": null,
+    "summary": "Powerful notepad to capture ideas &amp; save notes. Easily organize &amp; share notes",
+    "icon": "https://play-lh.googleusercontent.com/et2mBcPlX10BHjyvlUCf90wAPbdIuaB_o1JhI4q3wHXcEq8MwKfsOYwpRW7aG2iXr_K05LVq6_LqUsNUWUt9BhM"
+  }
+]

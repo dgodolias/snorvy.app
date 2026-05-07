@@ -1,0 +1,112 @@
+[
+  {
+    "appId": "com.foodient.whisk",
+    "title": "Samsung Food: Meal Planner",
+    "developer": "SamsungFood",
+    "score": 4.14,
+    "scoreText": "4.1",
+    "free": false,
+    "price": null,
+    "summary": "Meal planner, recipes, grocery lists &amp; nutrition — all in one smart app",
+    "icon": "https://play-lh.googleusercontent.com/LPEKXAassn2wdVZrdWrM76V701Z7gu76eLy4U0M0iddcSL91SoG_ll2BY1AuOiyCNLc"
+  },
+  {
+    "appId": "meal.planner",
+    "title": "Meal Planner - Weekly Plan",
+    "developer": "youmealplan.com",
+    "score": 4.44,
+    "scoreText": "4.4",
+    "free": false,
+    "price": null,
+    "summary": "The Weekly Meal Planner app designed to enhance your meal planning experience",
+    "icon": "https://play-lh.googleusercontent.com/-QSVORGEOvVQ_36bRFuAf8_PHwjuKumF5de9Q4P_Z-Y5w8mlqQ3byoX41XRVBUEcLiQ2"
+  },
+  {
+    "appId": "com.yinqs.weeklymealplanner",
+    "title": "Meal Planner & Grocery List",
+    "developer": "JoJo Apps: Meal Planner and Shopping List",
+    "score": 4.6064515,
+    "scoreText": "4.6",
+    "free": false,
+    "price": null,
+    "summary": "Weekly menu organizer, family shopping list &amp; recipe keeper for any diet.",
+    "icon": "https://play-lh.googleusercontent.com/665OIOXO23FozjkFJeTuNC0A8wcDPHaMx76Zxe8tNuZUS_a108gyJ2QiBJMs1HWfOzc"
+  },
+  {
+    "appId": "com.mealime",
+    "title": "Mealime Meal Plans & Recipes",
+    "developer": "Mealime Meal Plans Inc",
+    "score": 4.37,
+    "scoreText": "4.4",
+    "free": false,
+    "price": null,
+    "summary": "Healthy recipes, meal plans for any diet.  Auto grocery list w all ingredients.",
+    "icon": "https://play-lh.googleusercontent.com/WWviQxIEoRtPycY3aI0AetX7KnqSnOnDiOeA5VsryvccdAfyg-6u5DGVXpVHGkyTABI"
+  },
+  {
+    "appId": "com.eatthismuch",
+    "title": "Eat This Much - Meal Planner",
+    "developer": "Eat This Much, Inc.",
+    "score": 4.18,
+    "scoreText": "4.2",
+    "free": false,
+    "price": null,
+    "summary": "Automatic meal planner with personalized diets, grocery lists, calories &amp; macros",
+    "icon": "https://play-lh.googleusercontent.com/_7nDHuFScI1ksZpoPEeA5e9UdGAACA3aMaoTxCA2Zf0LH3e4H7w74N4bdNAjl4zJlXA"
+  },
+  {
+    "appId": "com.plantoeat.mobile",
+    "title": "Plan to Eat: Meal Planner",
+    "developer": "Plan to Eat",
+    "score": 3.5294118,
+    "scoreText": "3.5",
+    "free": false,
+    "price": null,
+    "summary": "Recipe storage, meal planning calendar, and automated grocery lists.",
+    "icon": "https://play-lh.googleusercontent.com/NlwXsTRc0PXFh3sR8K7e_gE7HBrtr-q2FJqcVxvvcUBjOHFlr_6eNEMKNGjmfCevw44"
+  },
+  {
+    "appId": "com.stashbox.stashcook",
+    "title": "Meal Planner & Recipe Keeper",
+    "developer": "Stashcook",
+    "score": 4.051948,
+    "scoreText": "4.1",
+    "free": false,
+    "price": null,
+    "summary": "Stashcook: save recipes, plan the week, and shop smarter",
+    "icon": "https://play-lh.googleusercontent.com/t9UXW771yU2htT-9PsviZDobIhD1vymJt7bUVdX6RDpdrhzzWdUCwKnosM2QpAjfsl8"
+  },
+  {
+    "appId": "com.zils.weeklymenu",
+    "title": "Weekly Menu - Meal Planner",
+    "developer": "Silvia Tebon - Eating Coach",
+    "score": 0,
+    "scoreText": "0.0",
+    "free": false,
+    "price": null,
+    "summary": "Meal planner with grocery list | Weekly menu maker - Save and organize recipes",
+    "icon": "https://play-lh.googleusercontent.com/kgMtGk-9nFDcpqYmf3MUQwIwTzKWxv16S-JUrlv1r-gccedkE7bL11tVVFRphNjx4v9H1A1EKWRI1oIZWqmb43U"
+  },
+  {
+    "appId": "com.nibbleapps.meal_prep_pro",
+    "title": "MealPrepPro Meal Planner",
+    "developer": "Nibble Apps",
+    "score": 3.3,
+    "scoreText": "3.3",
+    "free": false,
+    "price": null,
+    "summary": "Healthy meal planner with 1000’s of easy recipes personalized to your goals.",
+    "icon": "https://play-lh.googleusercontent.com/dNJnzOB7STaXJny18L-Ik6Hwtru4ZtMedCGlAKYW9TdMCQO48n0Sk8lWldjzYvw22g"
+  },
+  {
+    "appId": "com.recime.app",
+    "title": "ReciMe: Recipes & Meal Planner",
+    "developer": "ReciMe",
+    "score": 4.3136096,
+    "scoreText": "4.3",
+    "free": false,
+    "price": null,
+    "summary": "The ultimate app to save recipes from Instagram, TikTok, Facebook &amp; more.",
+    "icon": "https://play-lh.googleusercontent.com/cmtQy_j_cu11XE_h-r6hKthvvPiEKmRF2f_hdX0lhGA9Sjyd4JPwnBwKTZI_T3VTz_A9iSyiRZZNQOP-kFCMeA"
+  }
+]

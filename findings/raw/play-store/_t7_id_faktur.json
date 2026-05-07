@@ -1,0 +1,155 @@
+[
+  {
+    "appId": "com.invoiceapp",
+    "title": "Faktur dan Penerimaan  Invoice",
+    "developer": "Tacktile Systems Private Limited",
+    "score": 4.5959597,
+    "scoreText": "4,6",
+    "free": false,
+    "price": null,
+    "summary": "Faktur &amp; Estimasi. Rekam Pembayaran &amp; mengirim tanda terima",
+    "icon": "https://play-lh.googleusercontent.com/rmPrDQdU6P_iAqIf9KFOr6uT7CERQjuWQau-66GpD1bVqS2QomaizLGe5XTSFiEqEk_X-FLBfpNmmlwncrAnXw"
+  },
+  {
+    "appId": "com.vincent.efaktur",
+    "title": "Scan e-Faktur",
+    "developer": "PT. Idemas Solusindo Sentosa",
+    "free": false,
+    "price": null,
+    "summary": "Scan Barcode eFaktur Pajak Masukan untuk di export kedalam format csv",
+    "icon": "https://play-lh.googleusercontent.com/C1HcG7X11ssrVFGfgxaI7tYSmpOcWnAYXdG7DaNzofOEuTvhFXoqJsaVAqr6QYtz_JK1PG656Q4dT9QSbS7P3A"
+  },
+  {
+    "appId": "bookipi.invoice.maker.estimate.billing",
+    "title": "Invoice & Quotation - Faktur",
+    "developer": "Bookipi - Billing Estimate",
+    "score": 4.59,
+    "scoreText": "4,6",
+    "free": false,
+    "price": null,
+    "summary": "Generator faktur sederhana dengan estimasi, pembayaran, dan kuitansi.",
+    "icon": "https://play-lh.googleusercontent.com/ZK1xGfa1xP7nN18nKyWRKCWInH4yG_zenrOPdy8m2fL9RuNPLJe0utLuUoSVv1WidQ"
+  },
+  {
+    "appId": "com.invoicemaker.code.line.dynamic.estimatemaker.app",
+    "title": "Invoice Maker - Quick Invoice",
+    "developer": "CodeLine Dynamics INC",
+    "free": false,
+    "price": null,
+    "summary": "Invoice Generator &amp; Creator – Easily make invoices, bills, receipts &amp; estimates!",
+    "icon": "https://play-lh.googleusercontent.com/TXesplJx20zKUmw5d8iC0WES9FhTNEgmbbusHOFvYOepPzdqJqzXIzdSathJkzXifg"
+  },
+  {
+    "appId": "com.aadhk.woinvoice",
+    "title": "Faktur Sederhana",
+    "developer": "Invoice Simple",
+    "score": 4.507576,
+    "scoreText": "4,5",
+    "free": false,
+    "price": null,
+    "summary": "Buat dan kirim faktur kepada klien - apl penagihan sempurna untuk usaha kecil.",
+    "icon": "https://play-lh.googleusercontent.com/lm5SpiPX5imsqx-5LjChyMOEW9qN7EyoF_NIHnL2KsOlQragRvvaXLK8CLGX5GuJzQ"
+  },
+  {
+    "appId": "invoice.invoicemaker.estimatemaker.billingapp",
+    "title": "Invoice Maker - InvoiceBase",
+    "developer": "Gulooloo Tech Co., Ltd.",
+    "score": 4.68,
+    "scoreText": "4,7",
+    "free": false,
+    "price": null,
+    "summary": "My Invoice Maker with Invoice Template to Make Invoices Fast, Invoicing Easily",
+    "icon": "https://play-lh.googleusercontent.com/A8WqBkH_X6O_5NSGXMQ_wDwzCMARu4PpmekopGTyCmFPpgJs17vRWvI8w9R7uTGVemw"
+  },
+  {
+    "appId": "com.squareup.invoicesapp",
+    "title": "Square Invoices: Invoice Maker",
+    "developer": "Block, Inc.",
+    "free": false,
+    "price": null,
+    "summary": "Kelola faktur, tagihan &amp; perkiraan bisnis Anda. Lacak pengeluaran &amp; pembayaran.",
+    "icon": "https://play-lh.googleusercontent.com/gCyyBvrSQ1jiiZxgBu4Mm2wgH7F5rBRXE2H-Uji9wnRHcnDwxx6kMp3kEy8TWlKvsg"
+  },
+  {
+    "appId": "com.isnet.nettefatura",
+    "title": "NetteFatura",
+    "developer": "İşNet",
+    "free": false,
+    "price": null,
+    "summary": "Buat e-Dokumen Anda di ponsel dengan NetteFatura.",
+    "icon": "https://play-lh.googleusercontent.com/JWiGL903H7xOaiINYhWk8qRCWk_DQSy5ld233SHD3TTATPyL1RmdC_poKHz2u8GrXEU"
+  },
+  {
+    "appId": "com.joistapp.android.joist",
+    "title": "Joist Invoice & Estimate App",
+    "developer": "Joist Software Inc.",
+    "free": false,
+    "price": null,
+    "summary": "Buat estimasi, faktur &amp; dapatkan pembayaran lebih cepat—dirancang untuk kontraktor.",
+    "icon": "https://play-lh.googleusercontent.com/NtY-X2_j7YSPeiITON0eDAKRc21s1mS8zTZsaZQfDuIO3gTfFmPoa077szf0LuwKMFgO"
+  },
+  {
+    "appId": "com.zoho.invoicegenerator",
+    "title": "Pembuat Faktur - Zoho",
+    "developer": "Zoho Corporation",
+    "score": 4.73,
+    "scoreText": "4,7",
+    "free": false,
+    "price": null,
+    "summary": "Buat faktur profesional dalam hitungan detik.",
+    "icon": "https://play-lh.googleusercontent.com/NaJT76aJAZiuUY1pOAAXYvPk-LZ_N9-vHC1HPatgv1jr0y1dDNWUg2YYHhnS0k6E-Sw"
+  },
+  {
+    "appId": "com.invoice.makerpro",
+    "title": "Faktur: Kwitansi dan Tagihan",
+    "developer": "Applications Hub.",
+    "score": 4.3333335,
+    "scoreText": "4,3",
+    "free": false,
+    "price": null,
+    "summary": "Buat tagihan dan faktur Anda menggunakan Pembuat dan Pembuat Faktur",
+    "icon": "https://play-lh.googleusercontent.com/H8MqK1z_lpZ4kulYWLiirAU1sSyBbIGyTgX0RFZdAys0-skVbOpH89CfmIF8E6x_LMg"
+  },
+  {
+    "appId": "com.squareup",
+    "title": "Square Point of Sale - POS",
+    "developer": "Block, Inc.",
+    "score": 3.8888888,
+    "scoreText": "3,9",
+    "free": false,
+    "price": null,
+    "summary": "Run your business from the point of sale that's simple, powerful and free.",
+    "icon": "https://play-lh.googleusercontent.com/e_TGMFjziCV5DYSF_a4fDNS7E63S378Fa5Qlfx0xpwLn74dt6Kpa7idl4S_Fl2NIgg"
+  },
+  {
+    "appId": "com.shopify.pos",
+    "title": "Shopify Point of Sale (POS)",
+    "developer": "Shopify Inc.",
+    "score": 3.5384614,
+    "scoreText": "3,5",
+    "free": false,
+    "price": null,
+    "summary": "Tempat penjualan, sistem persediaan dan mesin kasir.",
+    "icon": "https://play-lh.googleusercontent.com/prw-BHV5viz2sm60us9YaBdkDYTb3V1jT1tPsC38GxXLzAvrXM3K4_l1C5-ygjCStpua"
+  },
+  {
+    "appId": "com.invoice.maker",
+    "title": "Invoice Maker, Template & Bill",
+    "developer": "Cards",
+    "free": false,
+    "price": null,
+    "summary": "Buat Pro Invoice dengan Invoice Template di Invoice Maker kami, Invoice Anywhere",
+    "icon": "https://play-lh.googleusercontent.com/mNypg3irwgdayvhjeaxdIdppzfCEXPOyCt-vtczKBovdxKSX5l1cSNsmlUbrjYG5KqA"
+  },
+  {
+    "appId": "com.bookkeeper",
+    "title": "GST Invoice Billing Inventory",
+    "developer": "Just Apps Pvt. Ltd.",
+    "score": 0,
+    "scoreText": "0,0",
+    "free": false,
+    "price": null,
+    "summary": "Faktur, Inventaris, Pengeluaran, dan Akuntansi untuk bisnis kecil.",
+    "icon": "https://play-lh.googleusercontent.com/7JSR_v17Nj12LbUgxL6fNttrnLJCsD0JHGm8t6b-PM0m-dHIhyk09yEzi12yj2smc5s"
+  }
+]

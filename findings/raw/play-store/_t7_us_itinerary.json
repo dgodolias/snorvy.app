@@ -1,0 +1,110 @@
+[
+  {
+    "appId": "com.tripit",
+    "title": "TripIt: Travel Planner",
+    "developer": "TripIt, Inc.",
+    "score": 4.118812,
+    "scoreText": "4.1",
+    "free": false,
+    "price": null,
+    "summary": "TripIt® from Concur instantly organizes all your travel plans in one place.",
+    "icon": "https://play-lh.googleusercontent.com/Q5MO1O16dA5Bg22LIcNsmeyJYT8smqyRblAnUbJ7fJOCZsYrea_2khF0_XZvBo4f6NM"
+  },
+  {
+    "appId": "com.wanderlog.android",
+    "title": "Wanderlog - Trip Planner App",
+    "developer": "Wanderlog",
+    "score": 4.45,
+    "scoreText": "4.4",
+    "free": false,
+    "price": null,
+    "summary": "Map &amp; organize your road trip and travel itinerary: TripIt, Roadtrippers in 1",
+    "icon": "https://play-lh.googleusercontent.com/UPCPofy2GzRCOSvrJh1Vf03KJ-yoZlzPn9F8X3wmZ3Q8Ja2cFSgMVTW9RzISEKLJ9us"
+  },
+  {
+    "appId": "com.stippl.stippl",
+    "title": "Stippl: The Travel Planner",
+    "developer": "Stippl",
+    "score": 4,
+    "scoreText": "4.0",
+    "free": false,
+    "price": null,
+    "summary": "Itineraries, budgets &amp; packing",
+    "icon": "https://play-lh.googleusercontent.com/3Zvz89nymFlUiQZq-AGS819JfQDkfugja3MHG4GPGqUTwTK_ZtgxuyL90rKz5Mcxvxo"
+  },
+  {
+    "appId": "com.blahovici.itinerate",
+    "title": "Itinerate - Travel planner",
+    "developer": "Sean Blahovici",
+    "score": 4.875,
+    "scoreText": "4.9",
+    "free": false,
+    "price": null,
+    "summary": "Experience seamless travel planning and real-time collaboration with Itinerate.",
+    "icon": "https://play-lh.googleusercontent.com/JPqVdg9FPnr5CPC4mTIJPpePOXaA4HZh3t2hUnVnoh-TiFtbFNGHPJpv9yrfZHjMuA"
+  },
+  {
+    "appId": "com.tripadvisor.tripadvisor",
+    "title": "Tripadvisor: Plan & Book Trips",
+    "developer": "Tripadvisor",
+    "score": 4.4747825,
+    "scoreText": "4.5",
+    "free": false,
+    "price": null,
+    "summary": "Guidance from millions of travelers on hotels, tours, activities, restaurants.",
+    "icon": "https://play-lh.googleusercontent.com/Yw28Cb4N-qjXcOHlrOA3y5oUfc0CtXvL64ZuPQqKwsNSelH9XPzDiBKFnr379_nw5BAj"
+  },
+  {
+    "appId": "com.tripomatic",
+    "title": "Tripomatic Planner & Maps",
+    "developer": "Tripomatic s.r.o.",
+    "score": 4.059406,
+    "scoreText": "4.1",
+    "free": false,
+    "price": null,
+    "summary": "Plan your trips and create your own travel guide. Get offline maps.",
+    "icon": "https://play-lh.googleusercontent.com/MGBolONrNry8Qy0LzD_QnTojRaefQZmNJxz0qvLyxQ_sIRmxqiG6mSQCITuWGzRYw7c"
+  },
+  {
+    "appId": "ai.iplan.app",
+    "title": "iplan.ai - Travel Planner",
+    "developer": "Voyage AI Inc",
+    "score": 3.735294,
+    "scoreText": "3.7",
+    "free": false,
+    "price": null,
+    "summary": "We’ll create your smart itinerary with the help of artificial intelligence",
+    "icon": "https://play-lh.googleusercontent.com/Vy8s_1NgS-8jlGp1OvnvfUrwZ6h8BNXN3C1ReA3aVnbhyMzoZG2BAnwZpdBolVFoeq9y"
+  },
+  {
+    "appId": "com.roadtrippers",
+    "title": "Roadtrippers - Trip Planner",
+    "developer": "Roadtrippers",
+    "score": 3.088889,
+    "scoreText": "3.1",
+    "free": false,
+    "price": null,
+    "summary": "With over 38 million trips planned, Roadtrippers makes your trip an adventure.",
+    "icon": "https://play-lh.googleusercontent.com/gw8yvnJYkEbJrmY74zv7UZuinvB3FAUZDapM1HjqWAczOpbCQCN87aurE5CZEBI48w"
+  },
+  {
+    "appId": "com.holicay.app",
+    "title": "Holicay – Travel Planner",
+    "developer": "Holicay Pte Ltd",
+    "free": false,
+    "price": null,
+    "summary": "AI Travel planner, Trip Manager, Flight and Weather tracker and Expense splitter",
+    "icon": "https://play-lh.googleusercontent.com/qxXSyRkM4OPQ3SvAqtwWMVUz78HadcvpbmRp0JbP7pro8o4sXnRUze3BIvURAVTTv6ALysB-4Kfe1vmzBnUhHQ"
+  },
+  {
+    "appId": "com.rome2rio.www.rome2rio",
+    "title": "Rome2Rio: Trip Planner",
+    "developer": "Rome2Rio Pty Ltd",
+    "score": 4.18,
+    "scoreText": "4.2",
+    "free": false,
+    "price": null,
+    "summary": "Plan your trip by train, ferry, bus, plane, or car anywhere in the world.",
+    "icon": "https://play-lh.googleusercontent.com/a024hUcWexzK5buEeu7tXevB3vEWxzDzfZ7TLpXzBPXFdFB3mwGHFUdz0IOhVXO-1Q"
+  }
+]

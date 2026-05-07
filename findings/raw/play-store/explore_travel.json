@@ -1,0 +1,411 @@
+[
+  {
+    "appId": "com.wanderlog.android",
+    "title": "Wanderlog - Trip Planner App",
+    "developer": "Wanderlog",
+    "installs": "1,000,000+",
+    "minInstalls": 1000000,
+    "score": 4.7452087,
+    "ratings": 32211,
+    "histogram": {
+      "1": 1306,
+      "2": 326,
+      "3": 253,
+      "4": 1487,
+      "5": 28833
+    },
+    "free": true,
+    "offersIAP": true,
+    "IAPRange": "$1.99 - $79.99 per item",
+    "adSupported": false,
+    "released": "Aug 21, 2019",
+    "updated": 1777955191000,
+    "summary": "Map &amp; organize your road trip and travel itinerary: TripIt, Roadtrippers in 1",
+    "pulled_reviews": 200,
+    "recent_90d_count": 200,
+    "recent_low_count": 50,
+    "recent_low_pct": 25,
+    "sample_low_reviews": [
+      {
+        "date": "2026-05-05T14:17:50.849Z",
+        "score": 1,
+        "text": "didn't like the app"
+      },
+      {
+        "date": "2026-05-04T15:08:50.432Z",
+        "score": 1,
+        "text": "Very buggy right from the get go. error messages everywhere."
+      },
+      {
+        "date": "2026-05-02T21:40:47.923Z",
+        "score": 2,
+        "text": "Can't get past select a language after opening the app again recently \"continue\" button doesn't work"
+      },
+      {
+        "date": "2026-04-30T09:47:35.630Z",
+        "score": 1,
+        "text": "free 7 day trial but wants my details now forget it"
+      },
+      {
+        "date": "2026-04-30T05:36:13.237Z",
+        "score": 1,
+        "text": "worst ever travel app, cannot link places that you want to visit that is missing from wanderlog. There is so many places and activities that i want to connect to itinerary, that wanderlog doesn't even know it exist"
+      },
+      {
+        "date": "2026-04-29T12:23:21.577Z",
+        "score": 2,
+        "text": "Functionality is there, but the UI is overloaded with useless stuff, they're constantly trying to push some AI stuff on you and the amount of notifications and unasked for tutorials are a dealbreaker. An app like this should make things easier, not be annoying all the time."
+      }
+    ]
+  },
+  {
+    "appId": "com.stippl.stippl",
+    "title": "Stippl: The Travel Planner",
+    "developer": "Stippl",
+    "installs": "100,000+",
+    "minInstalls": 100000,
+    "score": 3.7128713,
+    "ratings": 2023,
+    "histogram": {
+      "1": 300,
+      "2": 200,
+      "3": 200,
+      "4": 400,
+      "5": 921
+    },
+    "free": true,
+    "offersIAP": true,
+    "IAPRange": "$4.49 - $28.99 per item",
+    "adSupported": false,
+    "released": "Dec 22, 2022",
+    "updated": 1776791653000,
+    "summary": "Itineraries, budgets &amp; packing",
+    "pulled_reviews": 200,
+    "recent_90d_count": 16,
+    "recent_low_count": 12,
+    "recent_low_pct": 75,
+    "sample_low_reviews": [
+      {
+        "date": "2026-05-04T00:31:45.365Z",
+        "score": 2,
+        "text": "Has so much potential but need to fix the bugs. I can't complete more than 1 or 2 tasks before it glitches out again. I'll shelve it for now and come back in a few months to see if it's improved."
+      },
+      {
+        "date": "2026-04-30T07:03:26.538Z",
+        "score": 1,
+        "text": "Updated - having lots of issues with the app it freezes up frequently and now the document uploading is not working via email. Nothing is coming through on app. Pretty disappointing considering I've paid for PRO. And support were relpying to me then Nothing... slack."
+      },
+      {
+        "date": "2026-04-27T09:49:58.414Z",
+        "score": 1,
+        "text": "Very laggy. Also, the search is terrible, it feels like it completely ignores what I type and tries to force random suggestions."
+      },
+      {
+        "date": "2026-04-23T09:56:07.624Z",
+        "score": 2,
+        "text": "The app is slow, it takes some seconds to add a new place after I click the add button. It looks like there are some bugs and there is NOT the possibility to remove AI buttons, like optimize the trip etc"
+      },
+      {
+        "date": "2026-04-11T23:12:47.684Z",
+        "score": 1,
+        "text": "this app literally just gets stuck on a loading screen and can't get past it"
+      },
+      {
+        "date": "2026-04-10T14:01:23.154Z",
+        "score": 1,
+        "text": "I spent 10 minutes just trying to figure out how to add a flight. Contacting support gave me an AI response that offered a nonexistent solution. if you want simple, this is NOT the app for you. It asks to add a destination and then gives no option (that I could see) to edit the dates. This may be behind a pay wall which I'm open to do, but make me enjoy the "
+      }
+    ]
+  },
+  {
+    "appId": "com.blahovici.itinerate",
+    "title": "Itinerate - Travel planner",
+    "developer": "Sean Blahovici",
+    "installs": "50,000+",
+    "minInstalls": 50000,
+    "score": 4.19,
+    "ratings": 636,
+    "histogram": {
+      "1": 55,
+      "2": 37,
+      "3": 30,
+      "4": 104,
+      "5": 395
+    },
+    "free": true,
+    "offersIAP": true,
+    "IAPRange": "$3.49 - $17.99 per item",
+    "adSupported": false,
+    "released": "Dec 8, 2020",
+    "updated": 1774282867000,
+    "summary": "Experience seamless travel planning and real-time collaboration with Itinerate.",
+    "pulled_reviews": 170,
+    "recent_90d_count": 2,
+    "recent_low_count": 0,
+    "recent_low_pct": 0,
+    "sample_low_reviews": []
+  },
+  {
+    "appId": "com.tripomatic",
+    "title": "Tripomatic Planner & Maps",
+    "developer": "Tripomatic s.r.o.",
+    "installs": "1,000,000+",
+    "minInstalls": 1000000,
+    "score": 4.3,
+    "ratings": 18287,
+    "histogram": {
+      "1": 2182,
+      "2": 361,
+      "3": 541,
+      "4": 1821,
+      "5": 13335
+    },
+    "free": true,
+    "offersIAP": true,
+    "IAPRange": "$3.99 - $29.99 per item",
+    "adSupported": false,
+    "released": "Apr 16, 2013",
+    "updated": 1777990009000,
+    "summary": "Plan your trips and create your own travel guide. Get offline maps.",
+    "pulled_reviews": 200,
+    "recent_90d_count": 13,
+    "recent_low_count": 12,
+    "recent_low_pct": 92.3,
+    "sample_low_reviews": [
+      {
+        "date": "2026-04-12T22:27:30.610Z",
+        "score": 1,
+        "text": "I cancelled the account within a half hour of signing up. I just couldn't get comfortable using it. Despite my immediate cancellation well within the trial period, a week later I have been charged an annual subscription fee. How do I get this unauthorised charged refunded? So angry 😠."
+      },
+      {
+        "date": "2026-04-11T20:45:31.169Z",
+        "score": 1,
+        "text": "I have a premium membership and my first trip created on then Sygic was in 2015. The new app now is so difficult to use, with very little tailoring (of the interface) you can do. The map shows sop many places making your daily itinerary very difficult to see; you can no longer have your itinerary optimised automatically based on travel time; once you set one"
+      },
+      {
+        "date": "2026-03-29T04:17:52.154Z",
+        "score": 1,
+        "text": "I paid for this app and with the new 2026 update the UI is not user friendly like it use to be. it's hard to navigate. Too many prompts between search & difficult to move items on calendar between dates. Thankfully the older version is on my other phone because the new one is horrible."
+      },
+      {
+        "date": "2026-03-28T20:07:18.809Z",
+        "score": 1,
+        "text": "I have a pro version for years. But now it is almost useless. Sygic maps are not as good as google. App cant find adresses of AirBnb and forced me into hotels. The POI's are old and a lot of them are without pictures. The app feels outdated and even if I'm trying to use it for my trips then I drop into Wanderlog free version which is way better. Pity."
+      },
+      {
+        "date": "2026-03-23T20:11:21.855Z",
+        "score": 1,
+        "text": "absolutely useless, can't set up a trip longer than 4 days. I used to use sygic all the time for planning, but this is trash"
+      },
+      {
+        "date": "2026-03-21T22:39:47.356Z",
+        "score": 1,
+        "text": "I actually LOVED this app when I used it in 2022 and 2023, so what changed? AI. This app used to be easy and intuitive and now it is difficult to navigate and you can't input anything you have already planned, all it wants is to give you AI suggestions. What a loss, save your time and definitely save your money, when I loved this app I didn't have to pay any"
+      }
+    ]
+  },
+  {
+    "appId": "com.YRH.PackPoint",
+    "title": "PackPoint travel packing list",
+    "developer": "Wawwo",
+    "installs": "1,000,000+",
+    "minInstalls": 1000000,
+    "score": 4.4299674,
+    "ratings": 41886,
+    "histogram": {
+      "1": 2587,
+      "2": 1227,
+      "3": 2587,
+      "4": 4634,
+      "5": 30828
+    },
+    "free": true,
+    "offersIAP": true,
+    "IAPRange": "$2.99 per item",
+    "adSupported": false,
+    "released": "Jan 6, 2014",
+    "updated": 1772864390000,
+    "summary": "A packing list app that helps you remember what to pack for a trip.",
+    "pulled_reviews": 200,
+    "recent_90d_count": 15,
+    "recent_low_count": 4,
+    "recent_low_pct": 26.7,
+    "sample_low_reviews": [
+      {
+        "date": "2026-03-23T18:20:28.767Z",
+        "score": 1,
+        "text": "I purchased your premium app for my last trip and created multiple packing lists (which took hours). Now, I've opened the app for my latest trip to discover all my items are missing! Only one item is showing per category, when I added many.  I contacted you on 6th March about this but yet to receive a response."
+      },
+      {
+        "date": "2026-03-23T10:28:09.760Z",
+        "score": 1,
+        "text": "Just not fit for purpose. Paid for upgrade then couldn't like to TripIt account. Poor"
+      },
+      {
+        "date": "2026-03-19T05:34:26.314Z",
+        "score": 2,
+        "text": "Does not keep my list up to date..things delete off randomly!"
+      },
+      {
+        "date": "2026-02-06T18:26:20.430Z",
+        "score": 2,
+        "text": "Inadequate packing lists lacking detail. For example the app does not detail types of shirts - - collared, t shirt or what? I will stick with the back of a napkin for my packing lists"
+      }
+    ]
+  },
+  {
+    "appId": "com.ouji.packmate",
+    "title": "Travel Packing List - PackMate",
+    "developer": "Ouji Studio",
+    "installs": "10,000+",
+    "minInstalls": 10000,
+    "score": 4.075,
+    "ratings": 252,
+    "histogram": {
+      "1": 25,
+      "2": 18,
+      "3": 6,
+      "4": 63,
+      "5": 138
+    },
+    "free": true,
+    "offersIAP": true,
+    "IAPRange": "$0.99 - $8.99 per item",
+    "adSupported": false,
+    "released": "Mar 26, 2024",
+    "updated": 1776727256000,
+    "summary": "Create the perfect trip packing lists. Sync, share, and pack!",
+    "pulled_reviews": 68,
+    "recent_90d_count": 5,
+    "recent_low_count": 0,
+    "recent_low_pct": 0,
+    "sample_low_reviews": []
+  },
+  {
+    "appId": "com.tnx.packed",
+    "title": "Packing List Travel Packlist",
+    "developer": "TNX Apps",
+    "installs": "50,000+",
+    "minInstalls": 50000,
+    "score": 3.875,
+    "ratings": 331,
+    "histogram": {
+      "1": 24,
+      "2": 33,
+      "3": 57,
+      "4": 57,
+      "5": 157
+    },
+    "free": true,
+    "offersIAP": true,
+    "IAPRange": "$0.99 - $4.99 per item",
+    "adSupported": false,
+    "released": "Jan 30, 2019",
+    "updated": 1745066637000,
+    "summary": "Pack your luggage for your holiday with us and you will not miss anything!",
+    "pulled_reviews": 42,
+    "recent_90d_count": 1,
+    "recent_low_count": 1,
+    "recent_low_pct": 100,
+    "sample_low_reviews": [
+      {
+        "date": "2026-03-04T00:50:20.660Z",
+        "score": 1,
+        "text": "where did my list go? the whole purpose of a packing list is to see the list. used this app for 5 years never had a problem til today. uninstalled and re installed"
+      }
+    ]
+  },
+  {
+    "appId": "com.roadtrippers",
+    "title": "Roadtrippers - Trip Planner",
+    "developer": "Roadtrippers",
+    "installs": "1,000,000+",
+    "minInstalls": 1000000,
+    "score": 2.328125,
+    "ratings": 8725,
+    "histogram": {
+      "1": 4804,
+      "2": 902,
+      "3": 425,
+      "4": 527,
+      "5": 2061
+    },
+    "free": true,
+    "offersIAP": true,
+    "IAPRange": "$6.99 - $59.99 per item",
+    "adSupported": true,
+    "released": "Nov 25, 2013",
+    "updated": 1776365055000,
+    "summary": "With over 38 million trips planned, Roadtrippers makes your trip an adventure.",
+    "pulled_reviews": 200,
+    "recent_90d_count": 30,
+    "recent_low_count": 25,
+    "recent_low_pct": 83.3,
+    "sample_low_reviews": [
+      {
+        "date": "2026-04-30T20:20:58.248Z",
+        "score": 1,
+        "text": "I paid $39 to get nothing. we have driven for days and the app keeps saying I have to upgrade to pro to find out more information or get the directions for anything interesting. There are way less landmarks than hoped for at $39. this is a big waste of money. I get more from Google maps. they won't give my money back either so don't waste your money even on "
+      },
+      {
+        "date": "2026-04-30T12:11:44.618Z",
+        "score": 1,
+        "text": "I used the app for 2 days and it charged me 60 dollars for not canceling the subscription after I already uninstalled the app before the free trial ended"
+      },
+      {
+        "date": "2026-04-27T02:57:23.130Z",
+        "score": 1,
+        "text": "Haven't used the app in a while only to find that it is now completely unusable without a ridiculous subscription"
+      },
+      {
+        "date": "2026-04-25T16:24:38.419Z",
+        "score": 2,
+        "text": "Attractive interface but leaves much to be desired. Paid for premium but it's simply too unintuitive to use and the Ai interface is not accurate. Slow to upload updates to profile or won't update at all, then selects route I don't want with no simple way to revise route. Too many suggestions that are not close to main route. Great idea, but poor experou. Uni"
+      },
+      {
+        "date": "2026-04-24T01:24:26.213Z",
+        "score": 1,
+        "text": "This app is not compatible with Android Auto for navigation. The membership is a waste of money because of this major lack."
+      },
+      {
+        "date": "2026-04-16T19:47:14.374Z",
+        "score": 1,
+        "text": "this was a very frustrating application to use. This really felt like it was made by AI and not tested for user's ease of use. the concept is nice and would have been lovely if it worked, as it is, buttons malfunction, the ai freezes, inputs don't work. This is the UI, the base functionality of the product. if the core buttons don't work then this app is jus"
+      }
+    ]
+  },
+  {
+    "appId": "app.getroadie.android",
+    "title": "Roadie: road trip planner & rv",
+    "developer": "Ori App Studio",
+    "installs": "100,000+",
+    "minInstalls": 100000,
+    "score": 4.3,
+    "ratings": 2078,
+    "histogram": {
+      "1": 225,
+      "2": 20,
+      "3": 143,
+      "4": 184,
+      "5": 1494
+    },
+    "free": true,
+    "offersIAP": true,
+    "IAPRange": "$1.49 - $39.99 per item",
+    "adSupported": false,
+    "released": "Nov 10, 2020",
+    "updated": 1757070004000,
+    "summary": "Plan a road trip route, map out your trip itinerary, save points of interest.",
+    "pulled_reviews": 185,
+    "recent_90d_count": 3,
+    "recent_low_count": 1,
+    "recent_low_pct": 33.3,
+    "sample_low_reviews": [
+      {
+        "date": "2026-04-24T19:50:14.919Z",
+        "score": 1,
+        "text": "HORRIBLE APP. TRIED TO UNSUBSCRIBE BUT IT LITERALLY WILL NOT STOP TRYING TO CHARGE MY CARD!! CHANGED THE CARD TO ANOTHER ONE WITH NO MONEY SO I WASN'T PAYING FOR IT. TRIED TO UNSUBSCRIBE THROUGH THIS APP AND GOOGLE PLAY, WHERE IT DOESN'T EXIST ON MY SUBSCRIPTIONS, YET IT'S STILL TRYING TO CHARGE ME. BE AWARE!!!"
+      }
+    ]
+  }
+]

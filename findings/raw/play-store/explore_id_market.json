@@ -1,0 +1,452 @@
+[
+  {
+    "appId": "com.invoiceapp",
+    "title": "Faktur dan Penerimaan  Invoice",
+    "developer": "Tacktile Systems Private Limited",
+    "installs": "5.000.000+",
+    "minInstalls": 5000000,
+    "score": 4.903226,
+    "ratings": 35745,
+    "histogram": {
+      "1": 341,
+      "2": 113,
+      "3": 227,
+      "4": 1265,
+      "5": 33784
+    },
+    "free": true,
+    "offersIAP": true,
+    "IAPRange": "Rp 30.000 - Rp 239.000 per item",
+    "adSupported": false,
+    "released": "21 Agu 2014",
+    "updated": 1777381337000,
+    "summary": "Faktur &amp; Estimasi. Rekam Pembayaran &amp; mengirim tanda terima",
+    "pulled_reviews": 200,
+    "recent_90d_count": 38,
+    "recent_low_count": 1,
+    "recent_low_pct": 2.6,
+    "sample_low_reviews": [
+      {
+        "date": "2026-02-13T18:08:49.341Z",
+        "score": 2,
+        "text": "ternyata berbayar setelah trial klo ga bayar berkas gbs dibuka"
+      }
+    ]
+  },
+  {
+    "appId": "bookipi.invoice.maker.estimate.billing",
+    "title": "Invoice & Quotation - Faktur",
+    "developer": "Bookipi - Billing Estimate",
+    "installs": "1.000.000+",
+    "minInstalls": 1000000,
+    "score": 4.672377,
+    "ratings": 66018,
+    "histogram": {
+      "1": 3949,
+      "2": 413,
+      "3": 698,
+      "4": 3108,
+      "5": 57804
+    },
+    "free": true,
+    "offersIAP": true,
+    "IAPRange": "Rp 119.000 - Rp 2.790.000 per item",
+    "adSupported": false,
+    "released": "21 Agu 2018",
+    "updated": 1777366216000,
+    "summary": "Generator faktur sederhana dengan estimasi, pembayaran, dan kuitansi.",
+    "pulled_reviews": 200,
+    "recent_90d_count": 7,
+    "recent_low_count": 2,
+    "recent_low_pct": 28.6,
+    "sample_low_reviews": [
+      {
+        "date": "2026-02-17T06:41:25.215Z",
+        "score": 1,
+        "text": "kenapa gak bisa dipakai buat invoice yaa? sebenarnya masih bisa dipakai gak ini aplikasinya?"
+      },
+      {
+        "date": "2026-02-14T02:52:03.750Z",
+        "score": 1,
+        "text": "Dulu iklannya gratis selamanya tanpa batas, sekarang dibatasi dan mesti langganan."
+      }
+    ]
+  },
+  {
+    "appId": "com.aadhk.woinvoice",
+    "title": "Faktur Sederhana",
+    "developer": "Invoice Simple",
+    "installs": "5.000.000+",
+    "minInstalls": 5000000,
+    "score": 4.81,
+    "ratings": 167143,
+    "histogram": {
+      "1": 3247,
+      "2": 1515,
+      "3": 0,
+      "4": 13206,
+      "5": 148739
+    },
+    "free": true,
+    "offersIAP": true,
+    "IAPRange": "Rp 45.058 - Rp 6.790.000 per item",
+    "adSupported": false,
+    "released": "22 Mar 2014",
+    "updated": 1777658410000,
+    "summary": "Buat dan kirim faktur kepada klien - apl penagihan sempurna untuk usaha kecil.",
+    "pulled_reviews": 200,
+    "recent_90d_count": 0,
+    "recent_low_count": 0,
+    "recent_low_pct": 0,
+    "sample_low_reviews": []
+  },
+  {
+    "appId": "invoice.invoicemaker.estimatemaker.billingapp",
+    "title": "Invoice Maker with Templates",
+    "developer": "Gulooloo Tech Co., Ltd.",
+    "installs": "1.000.000+",
+    "minInstalls": 1000000,
+    "score": 4.8995943,
+    "ratings": 51534,
+    "histogram": {
+      "1": 521,
+      "2": 205,
+      "3": 416,
+      "4": 1617,
+      "5": 48763
+    },
+    "free": true,
+    "offersIAP": true,
+    "IAPRange": "Rp 27.000 - Rp 1.990.000 per item",
+    "adSupported": false,
+    "released": "29 Jan 2021",
+    "updated": 1777908570000,
+    "summary": "My Invoice Maker : Invoice template to make invoice simple, invoicing anywhere",
+    "pulled_reviews": 200,
+    "recent_90d_count": 81,
+    "recent_low_count": 6,
+    "recent_low_pct": 7.4,
+    "sample_low_reviews": [
+      {
+        "date": "2026-05-06T06:53:49.255Z",
+        "score": 1,
+        "text": "Langganan berbayar, tapi tamplate cuma hitam putih tanpa logo perusahaan"
+      },
+      {
+        "date": "2026-04-13T06:11:22.644Z",
+        "score": 2,
+        "text": "mantap"
+      },
+      {
+        "date": "2026-04-06T01:50:24.876Z",
+        "score": 1,
+        "text": "sy sudah bayar langganan 1 thun. baru pakai seminggu kok eror. ga bisa di pakai lagi. aplikasi tidak berfungsi dg baik.tdk ada kontak center yg BS dihubungi.. parah banget sih!!!! jangan suruh bayar aplikasi sampah gini dong!"
+      },
+      {
+        "date": "2026-03-20T21:28:21.270Z",
+        "score": 1,
+        "text": "aplikasi biadab ga mutu sama sekali tidak sesuai dengan keinginannya"
+      },
+      {
+        "date": "2026-02-16T01:14:04.498Z",
+        "score": 1,
+        "text": "hanya cuma 1 kali free nya, setelah itu berbayar"
+      },
+      {
+        "date": "2026-02-08T13:02:30.900Z",
+        "score": 1,
+        "text": "blm sy coba tapi insaallah ngak mengecewakan"
+      }
+    ]
+  },
+  {
+    "appId": "com.zoho.invoicegenerator",
+    "title": "Pembuat Faktur - Zoho",
+    "developer": "Zoho Corporation",
+    "installs": "1.000.000+",
+    "minInstalls": 1000000,
+    "score": 4.94702,
+    "ratings": 36667,
+    "histogram": {
+      "1": 0,
+      "2": 0,
+      "3": 242,
+      "4": 1456,
+      "5": 34967
+    },
+    "free": true,
+    "offersIAP": false,
+    "adSupported": false,
+    "released": "15 Feb 2016",
+    "updated": 1766403830000,
+    "summary": "Buat faktur profesional dalam hitungan detik.",
+    "pulled_reviews": 200,
+    "recent_90d_count": 1,
+    "recent_low_count": 0,
+    "recent_low_pct": 0,
+    "sample_low_reviews": []
+  },
+  {
+    "appId": "com.bukuwarung",
+    "title": "BukuWarung - Aplikasi UMKM",
+    "developer": "PT Buku Usaha Digital",
+    "installs": "5.000.000+",
+    "minInstalls": 5000000,
+    "score": 3.1944034,
+    "ratings": 94632,
+    "histogram": {
+      "1": 32905,
+      "2": 6614,
+      "3": 6624,
+      "4": 6144,
+      "5": 42338
+    },
+    "free": true,
+    "offersIAP": false,
+    "adSupported": false,
+    "released": "20 Agu 2019",
+    "updated": 1770607203000,
+    "summary": "Agen Pembayaran, EDC, PPOB diawasi oleh OJK",
+    "pulled_reviews": 200,
+    "recent_90d_count": 200,
+    "recent_low_count": 146,
+    "recent_low_pct": 73,
+    "sample_low_reviews": [
+      {
+        "date": "2026-05-06T09:04:13.999Z",
+        "score": 1,
+        "text": "tolong ya ini kok saya mau unduh laporan keuangan kok tidak bisa ini perbaiki dong padahal jaringan udah bagus"
+      },
+      {
+        "date": "2026-05-05T01:38:26.801Z",
+        "score": 1,
+        "text": "saya mau bayar token listrik, gak bisa terus, kemudian semua saldo saya mau tak ambil, eh tidak mau, ada kata2 maaf ada gangguan dari provider, masak gangguan itu terus menerus, kan ya aneh,"
+      },
+      {
+        "date": "2026-05-04T09:22:30.220Z",
+        "score": 2,
+        "text": "dalam pengiriman ke bank lama banget pending terussss, sedangkan customer yang pengen buru2 juga harus gimana.. tolong dong di tingkatkan lagi 🥲"
+      },
+      {
+        "date": "2026-05-03T14:08:29.686Z",
+        "score": 1,
+        "text": "aplikasi sering gangguan ,ribet"
+      },
+      {
+        "date": "2026-05-03T08:44:46.938Z",
+        "score": 1,
+        "text": "developer bego benerin aplikasi ketutup tombol navigasi aja gak beres2"
+      },
+      {
+        "date": "2026-05-02T10:04:02.394Z",
+        "score": 1,
+        "text": "nge bug di android 12 .... tidak pas dengan tombol"
+      }
+    ]
+  },
+  {
+    "appId": "com.akunquumkm.pos_umkm",
+    "title": "APLIKASI KASIR - POS UMKM",
+    "developer": "Software House UMKM",
+    "installs": "1.000+",
+    "minInstalls": 1000,
+    "score": 4.7894735,
+    "ratings": 19,
+    "histogram": {
+      "1": 0,
+      "2": 1,
+      "3": 0,
+      "4": 1,
+      "5": 17
+    },
+    "free": true,
+    "offersIAP": false,
+    "adSupported": false,
+    "released": "30 Jan 2026",
+    "updated": 1778109016000,
+    "summary": "Aplikasi kasir UMKM dengan QRIS, stok, laporan, dan cetak nota",
+    "pulled_reviews": 14,
+    "recent_90d_count": 13,
+    "recent_low_count": 1,
+    "recent_low_pct": 7.7,
+    "sample_low_reviews": [
+      {
+        "date": "2026-04-06T02:10:11.666Z",
+        "score": 2,
+        "text": "1. masukin diskon cuma bisa persentase, ga bisa jumlah nominal 2. semua produk harus pakai stok walaupun kategori jasa 3. semua harus pakai barcode 4. Tidak ada fitur batal atau hapus transaksi"
+      }
+    ]
+  },
+  {
+    "appId": "com.mboisdev.catatankeuanganusaha",
+    "title": "Catatan Keuangan Usaha UMKM",
+    "developer": "Ogestudio",
+    "installs": "100.000+",
+    "minInstalls": 100000,
+    "score": 4.6153846,
+    "ratings": 1957,
+    "histogram": {
+      "1": 50,
+      "2": 50,
+      "3": 110,
+      "4": 180,
+      "5": 1565
+    },
+    "free": true,
+    "offersIAP": true,
+    "IAPRange": "Rp 10.000 - Rp 100.000 per item",
+    "adSupported": true,
+    "released": "23 Mar 2019",
+    "updated": 1722322217000,
+    "summary": "Catatan Keuangan Untuk Usaha Toko Online dan Toko Offline",
+    "pulled_reviews": 200,
+    "recent_90d_count": 8,
+    "recent_low_count": 1,
+    "recent_low_pct": 12.5,
+    "sample_low_reviews": [
+      {
+        "date": "2026-05-01T22:32:16.120Z",
+        "score": 2,
+        "text": "banyakkkk iklannnn"
+      }
+    ]
+  },
+  {
+    "appId": "com.retas.bon",
+    "title": "Bon - Aplikasi Keuangan UMKM",
+    "developer": "PT. Solusi Siber Teknologi",
+    "installs": "100+",
+    "minInstalls": 100,
+    "score": 4.875,
+    "ratings": 8,
+    "histogram": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 1,
+      "5": 7
+    },
+    "free": true,
+    "offersIAP": false,
+    "adSupported": false,
+    "released": "11 Mar 2022",
+    "updated": 1657769133000,
+    "summary": "Solusi cerdas untuk memenuhi kebutuhan usaha",
+    "pulled_reviews": 0,
+    "recent_90d_count": 0,
+    "recent_low_count": 0,
+    "recent_low_pct": 0,
+    "sample_low_reviews": []
+  },
+  {
+    "appId": "com.fastwork.app",
+    "title": "Fastwork - Freelancer & Jasa",
+    "developer": "Fastwork Engineer",
+    "installs": "1.000.000+",
+    "minInstalls": 1000000,
+    "score": 4.422449,
+    "ratings": 9190,
+    "histogram": {
+      "1": 881,
+      "2": 148,
+      "3": 373,
+      "4": 580,
+      "5": 7201
+    },
+    "free": true,
+    "offersIAP": false,
+    "adSupported": false,
+    "released": "13 Agu 2016",
+    "updated": 1777548592000,
+    "summary": "Fastwork is the largest freelancing platform in SEA.",
+    "pulled_reviews": 200,
+    "recent_90d_count": 25,
+    "recent_low_count": 7,
+    "recent_low_pct": 28,
+    "sample_low_reviews": [
+      {
+        "date": "2026-05-04T15:41:51.152Z",
+        "score": 1,
+        "text": "Tolong di fix dong ini gua mau lamar kerja ga kekirim² padahal sinyal bagus, bug udah dari gua sma sampe skrg semester 4 ga beres beres, tolong dong gua mau kerja ini ah elah"
+      },
+      {
+        "date": "2026-04-06T11:29:07.463Z",
+        "score": 1,
+        "text": "setelah saya edit judul iklan akun fastwork saya krna dianggap melanggar aturan, muncul notifikasi iklan saya telah disetujui...tapi pas saya cek iklan ternyata masih dihentikan..saya lapor ke admin via WA...saya tanya jdi yg mesti saya percaya itu notifikasi atau admin WA? sampai saya berdebat panjang...tidak ada jawaban yg memuaskan sama sekali dri adminny"
+      },
+      {
+        "date": "2026-03-18T07:40:42.264Z",
+        "score": 2,
+        "text": "pajak nya lumayan ini, mohon disesuaikan"
+      },
+      {
+        "date": "2026-03-11T08:43:29.721Z",
+        "score": 1,
+        "text": "semenjak update saya rasa ga worth it harga jasa ada minimalnya yang saya rasa cukup mahal untuk klien. kemudian potongan freelancer terlalu tinggi. kategori jenis jasa tidak bebas lagi. Sudah bergabung dari tahun 2021. thanks deh sudah mengisi dompet kecil ku. 😂😂😂"
+      },
+      {
+        "date": "2026-03-08T15:04:03.904Z",
+        "score": 2,
+        "text": "Bug bug bug"
+      },
+      {
+        "date": "2026-03-05T04:16:17.890Z",
+        "score": 1,
+        "text": "biaya nya sekrng mahal2. semenjak perubahan tarif kita susah buat nyari freelance"
+      }
+    ]
+  },
+  {
+    "appId": "com.sribu.app",
+    "title": "Sribu: Pilih Jasa Freelance",
+    "developer": "PT Sribu Digital Kreatif",
+    "installs": "100.000+",
+    "minInstalls": 100000,
+    "score": 2.77,
+    "ratings": 775,
+    "histogram": {
+      "1": 341,
+      "2": 62,
+      "3": 62,
+      "4": 54,
+      "5": 255
+    },
+    "free": true,
+    "offersIAP": false,
+    "adSupported": false,
+    "released": "12 Agu 2024",
+    "updated": 1775125461000,
+    "summary": "Tempat tepat untuk bisnis temukan jasa freelancer terkurasi dengan mudah &amp; cepat",
+    "pulled_reviews": 200,
+    "recent_90d_count": 9,
+    "recent_low_count": 5,
+    "recent_low_pct": 55.6,
+    "sample_low_reviews": [
+      {
+        "date": "2026-04-24T03:14:29.245Z",
+        "score": 1,
+        "text": "Aplikasi tidak jelas, tidak rekomendasi bagi freelance."
+      },
+      {
+        "date": "2026-04-21T10:47:19.347Z",
+        "score": 1,
+        "text": "saya mau melengkapi data aja nggak bisa, upload foto udah dibawah 500 kb sesuai ketentuan juga nggak bisa. itu tombul button nya nggak aktif. tolong dong itu dibenerin, kayaknya tombol buttonnya lupa belum diatur deh. input data jasa juga gitu permasalahan yang sama tombol button."
+      },
+      {
+        "date": "2026-04-20T10:13:36.196Z",
+        "score": 1,
+        "text": "SAYA KESAL DENGAN AKTIVITAS DI SRIBU, BENAR² TIDAK HARGAI PERJUANGAN FREELANCE, UDAH DOWNLOAD APLIKASI, IKUT UJIAN 3 KALI, KE 4 BARU LOLOS, TIAP KALI BUAT DESAIN LANGSUNG DI ELIMINASI, TIAP KALI BUAT LANGSUNG ELIMINASI, PADAHAL DARI 500 YANG IKUT KONTES HANYA 1 YANG TERPILIH, ITUPUN KALAU JADI, SARAN SAYA, MAU PAKAI AI ATAU TIDAK BIARIN AJA KAN BIKIN RAME, I"
+      },
+      {
+        "date": "2026-04-04T15:00:50.701Z",
+        "score": 1,
+        "text": "pernah d persulit mau pasang sebagai freelance harus test dulu n gagal tanpa di jelaskan penyebab detailnya. sepihak bangat!"
+      },
+      {
+        "date": "2026-04-04T08:16:43.584Z",
+        "score": 1,
+        "text": "belum di cba Semoga work dan bisa"
+      }
+    ]
+  }
+]

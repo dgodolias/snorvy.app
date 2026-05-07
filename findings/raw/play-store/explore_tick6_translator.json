@@ -1,0 +1,112 @@
+[
+  {
+    "appId": "com.microsoft.translator",
+    "title": "Microsoft Translator",
+    "developer": "Microsoft Corporation",
+    "score": 4.1952596,
+    "scoreText": "4.2",
+    "free": false,
+    "price": null,
+    "summary": "Translate text, voice, images, and conversations into 100+ languages",
+    "icon": "https://play-lh.googleusercontent.com/bRjTZMyBedKMBdcUa4NjVl055n4oN7vY4ZxXYrxgwefHHGmSC_TpV1mmzL_akKVIlw"
+  },
+  {
+    "appId": "com.google.android.apps.translate",
+    "title": "Google Translate",
+    "developer": "Google LLC",
+    "score": 4.18223,
+    "scoreText": "4.2",
+    "free": false,
+    "price": null,
+    "summary": "The world is closer than ever with over 100 languages",
+    "icon": "https://play-lh.googleusercontent.com/ZrNeuKthBirZN7rrXPN1JmUbaG8ICy3kZSHt-WgSnREsJzo2txzCzjIoChlevMIQEA"
+  },
+  {
+    "appId": "com.translate.talkingtranslator",
+    "title": "Talking Translator - Languages",
+    "developer": "idealappcenter",
+    "score": 4.3970037,
+    "scoreText": "4.4",
+    "free": false,
+    "price": null,
+    "summary": "A fast translator created professor, supports more than 100 languages.",
+    "icon": "https://play-lh.googleusercontent.com/XOAvpJwnTob352ShdIoM7q8LBZMyMAqZnjcH_i3m8q8YJpZz-C_Yj5GMnYLE_EsIXQI"
+  },
+  {
+    "appId": "at.nk.tools.iTranslate",
+    "title": "iTranslate Translator",
+    "developer": "Mosaic Srl",
+    "score": 3.3966346,
+    "scoreText": "3.4",
+    "free": false,
+    "price": null,
+    "summary": "Translate text, voice and photos in up to 100 languages. Translator &amp; Dictionary",
+    "icon": "https://play-lh.googleusercontent.com/s0p4-o1FHMQz8ufo8lpexulqP22mbXBEXe061JhlI0KqGoN_flXsSNp_q647v5fVNmg"
+  },
+  {
+    "appId": "com.live.translator.ai",
+    "title": "Live Translator: AI translate",
+    "developer": "TERASsoft",
+    "score": 4.078652,
+    "scoreText": "4.1",
+    "free": false,
+    "price": null,
+    "summary": "Translate seamlessly across languages, anytime, anywhere.",
+    "icon": "https://play-lh.googleusercontent.com/OsSt46K0YU7ZnIzHOzFWOYuCkULIBU9FyL02-riy3a1ZF_K_qRgtqNd7gSQUwG6KqhjOqxEYBBq4bjrQX8BB"
+  },
+  {
+    "appId": "com.erudite.translator",
+    "title": "Instant Voice Translate",
+    "developer": "Erudite",
+    "score": 4.717569,
+    "scoreText": "4.7",
+    "free": false,
+    "price": null,
+    "summary": "AI-powered voice, image &amp; text translator designed for face-to-face chat!",
+    "icon": "https://play-lh.googleusercontent.com/wp-oSi-A9yL_riTOxHmcXnyHQW96qxPEYMZRaYHZxauiNYJSS9VzWVG-tMJ_OPU1yP0"
+  },
+  {
+    "appId": "com.deepl.mobiletranslator",
+    "title": "DeepL Translate",
+    "developer": "DeepL SE",
+    "score": 4.6915503,
+    "scoreText": "4.7",
+    "free": false,
+    "price": null,
+    "summary": "Translate into 100+ languages with the world’s most accurate AI translator.",
+    "icon": "https://play-lh.googleusercontent.com/0IH4L3pX-jqQXKYCDmxTM5t3Tvak2cb_zUuIs9nKCHPeOqkaRJ_bRTq1qKawsSvunw"
+  },
+  {
+    "appId": "co.appnation.aivoicetranslator",
+    "title": "Translate AI - Live Translate",
+    "developer": "HEYOS",
+    "score": 4.2244897,
+    "scoreText": "4.2",
+    "free": false,
+    "price": null,
+    "summary": "Text, Photo, Offline Translator for 100+ languages!",
+    "icon": "https://play-lh.googleusercontent.com/-nxhSykdlwrh7xUFWJCAVMfvZJu4gjJXyrM2nme0xxc23S5Q8TMAsngNl9XPcbE9P3s"
+  },
+  {
+    "appId": "translate.speech.text.translation.voicetranslator",
+    "title": "Translate- Language Translator",
+    "developer": "Imagination AI",
+    "score": 4.3012986,
+    "scoreText": "4.3",
+    "free": false,
+    "price": null,
+    "summary": "Translate text and voice in all languages, translate chat and word translate",
+    "icon": "https://play-lh.googleusercontent.com/F7jVWbu-5huXMH1a-TPasl0kTfC2Ob3pcv3nf2JcDvtUUvCPWSAd7cvYgtwMT79290i2"
+  },
+  {
+    "appId": "com.languagetranslator.translatorapp.smartscanner.dictionary.translation.voicetranslator",
+    "title": "Translate Now: Translator App",
+    "developer": "DigiGen Apps",
+    "score": 4.182857,
+    "scoreText": "4.2",
+    "free": false,
+    "price": null,
+    "summary": "Translate any text, voice &amp; document into 100+ languages via language translator",
+    "icon": "https://play-lh.googleusercontent.com/ZyG0VK8SPkk4ItZ_Zhe1nP40kAdqXR3yTWzfHCTyt4E4E32m9WN7c-5pg4UZRhTx40Y1EmX9noW1wqfThUSd"
+  }
+]

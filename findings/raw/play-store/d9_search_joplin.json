@@ -1,0 +1,57 @@
+[
+  {
+    "appId": "net.cozic.joplin",
+    "title": "Joplin",
+    "developer": "Laurent Cozic",
+    "score": 4.14,
+    "scoreText": "4.1",
+    "free": false,
+    "price": null,
+    "summary": "The open source and secure note taking app",
+    "icon": "https://play-lh.googleusercontent.com/6FVKy9WcrHA2FMUOqbPTwe4k4id2_ZeZLShINyju36F7QyJfjWtzEdNP6aGP2RdD87ok"
+  },
+  {
+    "appId": "com.streetwriters.notesnook",
+    "title": "Notesnook Secure Private Notes",
+    "developer": "Streetwriters (Private) Limited",
+    "score": 4.32,
+    "scoreText": "4.3",
+    "free": false,
+    "price": null,
+    "summary": "Secure notepad and note taking tool | Make daily memos, color notes, to do lists",
+    "icon": "https://play-lh.googleusercontent.com/VOgPCYE_-xC2p8sCdEEJoThIxlKa8kgGC7WZkjvCRDUv3pBr0nSkXbgZeRdoBA_GKAE"
+  },
+  {
+    "appId": "com.evernote",
+    "title": "Evernote - Note Organizer",
+    "developer": "Evernote by Bending Spoons",
+    "score": 2.9513466,
+    "scoreText": "3.0",
+    "free": false,
+    "price": null,
+    "summary": "Notepad &amp; Planner: Take notes, create daily tasks and organize to-do lists.",
+    "icon": "https://play-lh.googleusercontent.com/dVQlfnQ_Fp-wNfKv2eI9XxbLymV6oGW_0ywIw3pxhYyKhjC0Lk8y6Ru_-sUc1fq2akADzAN7QWn8nPvcw6Ck"
+  },
+  {
+    "appId": "com.myscript.nebo",
+    "title": "MyScript Notes: AI Note Taking",
+    "developer": "MyScript",
+    "score": 4.32,
+    "scoreText": "4.3",
+    "free": false,
+    "price": null,
+    "summary": "Smart note taking with PDF, handwriting to text &amp; AI notes — perfect for study.",
+    "icon": "https://play-lh.googleusercontent.com/JhoCJb1GwfiPTf2kgJ7xOV1C2rrLTKp-ynye53dVUqVtsNspu_z97FX4egYF7wzflpg"
+  },
+  {
+    "appId": "notion.id",
+    "title": "Notion: Notes, Tasks, AI",
+    "developer": "Notion Labs, Inc.",
+    "score": 4.5454545,
+    "scoreText": "4.5",
+    "free": false,
+    "price": null,
+    "summary": "Notion Agent simplifies your needs. Write notes, plan projects &amp; organize tasks",
+    "icon": "https://play-lh.googleusercontent.com/vaxxIC1qaXOd1q1hmL7c66N-Mp4LXuQIuBZGM0dPIbwmyWcJAXbhIIZ8hNBWvar54c_j"
+  }
+]

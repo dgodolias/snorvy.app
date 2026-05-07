@@ -1,0 +1,110 @@
+[
+  {
+    "appId": "com.pixelbrewstudio.quickpack",
+    "title": "Trip Packing List: QuickPack",
+    "developer": "PixelBrew Studio",
+    "score": 0,
+    "scoreText": "0.0",
+    "free": false,
+    "price": null,
+    "summary": "Road Trip &amp; Luggage Planner",
+    "icon": "https://play-lh.googleusercontent.com/CxFIj-I9XNuSES03Z_Y-2_d9DbPmTUp7ow7Kv20yOt9dR-sOi2Iy70G4-umeu1IcWQ"
+  },
+  {
+    "appId": "com.YRH.PackPoint",
+    "title": "PackPoint travel packing list",
+    "developer": "Wawwo",
+    "score": 4.3081393,
+    "scoreText": "4.3",
+    "free": false,
+    "price": null,
+    "summary": "A packing list app that helps you remember what to pack for a trip.",
+    "icon": "https://play-lh.googleusercontent.com/Ij0tFNTWaQPXP-ynb4ues46ApfW9kOa2oDY7hMYpVtIIPPNJG8mE3h6gQiA7-SZzcZZB"
+  },
+  {
+    "appId": "com.ouji.packmate",
+    "title": "Travel Packing List - PackMate",
+    "developer": "Ouji Studio",
+    "score": 3.1363637,
+    "scoreText": "3.1",
+    "free": false,
+    "price": null,
+    "summary": "Create the perfect trip packing lists. Sync, share, and pack!",
+    "icon": "https://play-lh.googleusercontent.com/E2bvn61zs5PGEip5V_vSrtqgwBEydKvWTZBRZz-jc-1bEpUD8XjVrkmjmwN8wBRpaw"
+  },
+  {
+    "appId": "com.wanderlog.android",
+    "title": "Wanderlog - Trip Planner App",
+    "developer": "Wanderlog",
+    "score": 4.45,
+    "scoreText": "4.4",
+    "free": false,
+    "price": null,
+    "summary": "Map &amp; organize your road trip and travel itinerary: TripIt, Roadtrippers in 1",
+    "icon": "https://play-lh.googleusercontent.com/UPCPofy2GzRCOSvrJh1Vf03KJ-yoZlzPn9F8X3wmZ3Q8Ja2cFSgMVTW9RzISEKLJ9us"
+  },
+  {
+    "appId": "com.onebag.travel",
+    "title": "One Bag: Travel Packing List",
+    "developer": "Aycan Merve GÜNEŞ",
+    "free": false,
+    "price": null,
+    "summary": "Smart packing list. Track luggage weight. Never forget your passport.",
+    "icon": "https://play-lh.googleusercontent.com/LrP7CWxMlDh0Ve1971s5dGo-PCX-tR_8W350Zkdjhgh3rWInQhWGj--KB902ImuecrMABLhCSp3xYRqS4gKINw"
+  },
+  {
+    "appId": "com.tnx.packed",
+    "title": "Packing List Travel Packlist",
+    "developer": "TNX Apps",
+    "score": 4.25,
+    "scoreText": "4.2",
+    "free": false,
+    "price": null,
+    "summary": "Pack your luggage for your holiday with us and you will not miss anything!",
+    "icon": "https://play-lh.googleusercontent.com/OzaHVDgg4LWHogRHKSQjIwDonf7wiVEDzYZUGNwngCUXBqhCgiGQfi6dwTqf_aHTI46D"
+  },
+  {
+    "appId": "com.packparty.app",
+    "title": "PackParty: Group Packing List",
+    "developer": "Christopher Schrewing Software",
+    "score": 4.9157896,
+    "scoreText": "4.9",
+    "free": false,
+    "price": null,
+    "summary": "Shared packing list for group trips. Bring it together!",
+    "icon": "https://play-lh.googleusercontent.com/JR33-vNhbJOw-ezVu06KhaQfxPLgv9U5P-PUjToT9JKlU9Hh6QPjD4tafCLrwIR3Qgu4WKYxIuAAjZIfoK_0bg"
+  },
+  {
+    "appId": "com.tripit",
+    "title": "TripIt: Travel Planner",
+    "developer": "TripIt, Inc.",
+    "score": 4.118812,
+    "scoreText": "4.1",
+    "free": false,
+    "price": null,
+    "summary": "TripIt® from Concur instantly organizes all your travel plans in one place.",
+    "icon": "https://play-lh.googleusercontent.com/Q5MO1O16dA5Bg22LIcNsmeyJYT8smqyRblAnUbJ7fJOCZsYrea_2khF0_XZvBo4f6NM"
+  },
+  {
+    "appId": "com.acquasys.smartpack",
+    "title": "SmartPack - packing lists",
+    "developer": "Acquasys",
+    "score": 4.2352943,
+    "scoreText": "4.2",
+    "free": false,
+    "price": null,
+    "summary": "SmartPack is an easy to use, powerful and fully customizable packing assistant.",
+    "icon": "https://play-lh.googleusercontent.com/oaqwfwxym-aZ1tljuypdPVaDpeFtXLTgQnkWsuUPh-6d1AhBhYLx-_Zuxh2J4cwSvryP"
+  },
+  {
+    "appId": "com.tripadvisor.tripadvisor",
+    "title": "Tripadvisor: Plan & Book Trips",
+    "developer": "Tripadvisor",
+    "score": 4.4747825,
+    "scoreText": "4.5",
+    "free": false,
+    "price": null,
+    "summary": "Guidance from millions of travelers on hotels, tours, activities, restaurants.",
+    "icon": "https://play-lh.googleusercontent.com/Yw28Cb4N-qjXcOHlrOA3y5oUfc0CtXvL64ZuPQqKwsNSelH9XPzDiBKFnr379_nw5BAj"
+  }
+]

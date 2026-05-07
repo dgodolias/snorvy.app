@@ -1,0 +1,112 @@
+[
+  {
+    "appId": "com.foodient.whisk",
+    "title": "Samsung Food: Meal Planner",
+    "developer": "SamsungFood",
+    "score": 4.14,
+    "scoreText": "4.1",
+    "free": false,
+    "price": null,
+    "summary": "Meal planner, recipes, grocery lists &amp; nutrition — all in one smart app",
+    "icon": "https://play-lh.googleusercontent.com/LPEKXAassn2wdVZrdWrM76V701Z7gu76eLy4U0M0iddcSL91SoG_ll2BY1AuOiyCNLc"
+  },
+  {
+    "appId": "com.mealime",
+    "title": "Mealime Meal Plans & Recipes",
+    "developer": "Mealime Meal Plans Inc",
+    "score": 4.37,
+    "scoreText": "4.4",
+    "free": false,
+    "price": null,
+    "summary": "Healthy recipes, meal plans for any diet.  Auto grocery list w all ingredients.",
+    "icon": "https://play-lh.googleusercontent.com/WWviQxIEoRtPycY3aI0AetX7KnqSnOnDiOeA5VsryvccdAfyg-6u5DGVXpVHGkyTABI"
+  },
+  {
+    "appId": "com.supercook.app",
+    "title": "SuperCook - Recipe Generator",
+    "developer": "SuperCook",
+    "score": 4.5,
+    "scoreText": "4.5",
+    "free": false,
+    "price": null,
+    "summary": "Grocery to Recipe - make recipes with ingredients you already have at home.",
+    "icon": "https://play-lh.googleusercontent.com/yoSRLlXmNslsibpFsON5SJ_4DbRgMGnJmZLt1i_7sCkUZrDHRJsqhKyZMztwUIRmKxA"
+  },
+  {
+    "appId": "fr.icuisto.icuisto",
+    "title": "KitchenPal: Pantry Inventory",
+    "developer": "iCuisto Pte Ltd",
+    "score": 3.8367348,
+    "scoreText": "3.8",
+    "free": false,
+    "price": null,
+    "summary": "Fridge Scanner. Shared Grocery List. Ingredient to Recipe. Expiry, Waste Tracker",
+    "icon": "https://play-lh.googleusercontent.com/ysX-AQVO5UFpDPmDbgJONiuJUxvgbplUkGJSjgThunusVVs6N6Zmb7hiY3U59i5i9amy"
+  },
+  {
+    "appId": "com.headcode.ourgroceries",
+    "title": "Our Groceries Shopping List",
+    "developer": "OurGroceries, Inc.",
+    "score": 4.74,
+    "scoreText": "4.7",
+    "free": false,
+    "price": null,
+    "summary": "The easiest app to share your family grocery list and simplify grocery shopping!",
+    "icon": "https://play-lh.googleusercontent.com/IlwqXVMqjKDKoddmpESb1XjuY62AiURQXHKzae63KReDHIxNczYeG5jPbqF5FeN4h8iU"
+  },
+  {
+    "appId": "com.recime.app",
+    "title": "ReciMe: Recipes & Meal Planner",
+    "developer": "ReciMe",
+    "score": 4.3136096,
+    "scoreText": "4.3",
+    "free": false,
+    "price": null,
+    "summary": "The ultimate app to save recipes from Instagram, TikTok, Facebook &amp; more.",
+    "icon": "https://play-lh.googleusercontent.com/cmtQy_j_cu11XE_h-r6hKthvvPiEKmRF2f_hdX0lhGA9Sjyd4JPwnBwKTZI_T3VTz_A9iSyiRZZNQOP-kFCMeA"
+  },
+  {
+    "appId": "com.purplecover.anylist",
+    "title": "AnyList: Grocery Shopping List",
+    "developer": "AnyList",
+    "score": 4.77,
+    "scoreText": "4.8",
+    "free": false,
+    "price": null,
+    "summary": "Share shopping lists, organize your recipes, and do meal planning",
+    "icon": "https://play-lh.googleusercontent.com/s0SZJr1WNT3UCzp267c9oV_HxuhJS4A_M9Xp_9zQfWEH4nCFC3NcDldMMyARTRTWa_3w"
+  },
+  {
+    "appId": "com.l",
+    "title": "Shopping List - Listonic",
+    "developer": "Listonic - Smart Grocery Shopping",
+    "score": 4.509621,
+    "scoreText": "4.5",
+    "free": false,
+    "price": null,
+    "summary": "Grocery list app for quick and easy shopping list creation and management",
+    "icon": "https://play-lh.googleusercontent.com/KOf6GhCEOhes2UPckSOyP7v90AtAeYyzmFGAg1KTIWSRP2WFqQ5NOtfv_y33mL2Hfs4"
+  },
+  {
+    "appId": "ch.publisheria.bring",
+    "title": "Bring! Grocery Shopping List",
+    "developer": "Bring! Labs AG",
+    "score": 4.3328433,
+    "scoreText": "4.3",
+    "free": false,
+    "price": null,
+    "summary": "Create shared grocery lists &amp; sync the shopping list organizer with your family.",
+    "icon": "https://play-lh.googleusercontent.com/UXXc2d4_TgHS-ca6PpRyQTbr4CN_nuodm_Suc6xA7uwSFCEeU6gVh2SdZGvss0MsFT0"
+  },
+  {
+    "appId": "com.yinqs.weeklymealplanner",
+    "title": "Meal Planner & Grocery List",
+    "developer": "JoJo Apps: Meal Planner and Shopping List",
+    "score": 4.6064515,
+    "scoreText": "4.6",
+    "free": false,
+    "price": null,
+    "summary": "Weekly menu organizer, family shopping list &amp; recipe keeper for any diet.",
+    "icon": "https://play-lh.googleusercontent.com/665OIOXO23FozjkFJeTuNC0A8wcDPHaMx76Zxe8tNuZUS_a108gyJ2QiBJMs1HWfOzc"
+  }
+]

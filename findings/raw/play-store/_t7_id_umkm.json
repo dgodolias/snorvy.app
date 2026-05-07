@@ -1,0 +1,94 @@
+[
+  {
+    "appId": "id.go.umkm.sapa",
+    "title": "SAPA UMKM",
+    "developer": "KEMENTERIAN USAHA MIKRO, KECIL, DAN MENENGAH",
+    "free": false,
+    "price": null,
+    "summary": "SAPA UMKM Platform digital terintegrasi",
+    "icon": "https://play-lh.googleusercontent.com/vsqipmif4S5NpL2qafLFgjfR3-58j6by988KRIq6AydvyBMQ4zG4PYhnZc2xGjwaihm-Mi_llrhwbrluoXftNAg"
+  },
+  {
+    "appId": "com.bukuwarung",
+    "title": "BukuWarung - Aplikasi UMKM",
+    "developer": "PT Buku Usaha Digital",
+    "score": 0,
+    "scoreText": "0,0",
+    "free": false,
+    "price": null,
+    "summary": "Agen Pembayaran, EDC, PPOB diawasi oleh OJK",
+    "icon": "https://play-lh.googleusercontent.com/JOQf9ASzm_yVi1BY3Y12A4Nf-YT3wgIHHCCtLvmo1tYO70jcf2tPxpsjI47eNA9kwVA"
+  },
+  {
+    "appId": "com.naksirumkm",
+    "title": "Naksir UMKM",
+    "developer": "Rumah BUMN",
+    "free": false,
+    "price": null,
+    "summary": "Tidak perlu lagi merasa kesulitan dalam memajukan bisnis lokal!",
+    "icon": "https://play-lh.googleusercontent.com/fFZP1cTjp3HOmLOC9lMGkJKFE0tcqRrsnRC3eUSR1vuymaxPPnFzFc8blP6OVCwP1Zw"
+  },
+  {
+    "appId": "com.linkumkmv3.apps",
+    "title": "Link UMKM",
+    "developer": "PT Bank Rakyat Indonesia (Persero) Tbk.",
+    "free": false,
+    "price": null,
+    "summary": "Platform Pemberdayaan terintegrasi yang dapat membawa UMKM Naik Kelas",
+    "icon": "https://play-lh.googleusercontent.com/rjmfMI5U_p2dCy5cTArrl5qcqpy0-gZ_5WR9S-ft5AZdIl64qKFW8QNuqL4zP_igd0hX5CbsDTB6YW7EcwvlfA"
+  },
+  {
+    "appId": "com.akunquumkm.pos_umkm",
+    "title": "APLIKASI KASIR - POS UMKM",
+    "developer": "Software House UMKM",
+    "free": false,
+    "price": null,
+    "summary": "Aplikasi kasir UMKM dengan QRIS, stok, laporan, dan cetak nota",
+    "icon": "https://play-lh.googleusercontent.com/yYZkzI6kmAGK5DZigyRVT9ZTaMjkSFAmD8GtM14IkHJQeDQvZNfiUvgin399-8fM5ltyughD2YUyyyFKeL2DaQ"
+  },
+  {
+    "appId": "com.umkmnusantara.online",
+    "title": "UMKM NUSANTARA",
+    "developer": "DCN Indonesia",
+    "free": false,
+    "price": null,
+    "summary": "Aplikasi multifungsi untuk semua umkm di Indonesia",
+    "icon": "https://play-lh.googleusercontent.com/66OfJiw3PmrCQ4cdiUPAMX9Ummfwn13-4hhhnJ_Q9DtdiZluvfjrZO4hCqG80-VtgptG"
+  },
+  {
+    "appId": "com.telkom.padiumkm",
+    "title": "PaDi UMKM",
+    "developer": "PT. Telkom Indonesia, Tbk.",
+    "free": false,
+    "price": null,
+    "summary": "Aplikasi belanja yang menghubungkan BUMN dan UMKM lewat transaksi B2B.",
+    "icon": "https://play-lh.googleusercontent.com/h12XgZUW3mCkD3a9y15hFEkULog1CgpB5WGBEQAmQwTzHwrhAtPm_UeqzzdLYxXeYeg"
+  },
+  {
+    "appId": "com.mboisdev.catatankeuanganusaha",
+    "title": "Catatan Keuangan Usaha UMKM",
+    "developer": "Ogestudio",
+    "free": false,
+    "price": null,
+    "summary": "Catatan Keuangan Untuk Usaha Toko Online dan Toko Offline",
+    "icon": "https://play-lh.googleusercontent.com/U7Q66SDL4vevQ4azwVxzIdRKVkM0krrByBhPoNzvn80CevBWyuKiUf9VShTg2wGxZ2k"
+  },
+  {
+    "appId": "com.klik.klikUMKM",
+    "title": "KlikUMKM",
+    "developer": "PT Pinjaman Kemakmuran Rakyat",
+    "free": false,
+    "price": null,
+    "summary": "KlikUMKM - P2P Lending Berizin OJK",
+    "icon": "https://play-lh.googleusercontent.com/CSM-4j5UQreq00xhvMjYldJ3QLGQ-CHhtLyptGQo57I-Z1tC7ucXuQReKCSBe1X9gvfx2DsMvuMtSfBNNiq0sA"
+  },
+  {
+    "appId": "com.retas.bon",
+    "title": "Bon - Aplikasi Keuangan UMKM",
+    "developer": "PT. Solusi Siber Teknologi",
+    "free": false,
+    "price": null,
+    "summary": "Solusi cerdas untuk memenuhi kebutuhan usaha",
+    "icon": "https://play-lh.googleusercontent.com/1ntaqSnnInZQSEnZFTX5Rg3tdi8nNT5T2aYJS_yr3mkT-GgpYc2Qe0IA-QiZZMEMdQ"
+  }
+]

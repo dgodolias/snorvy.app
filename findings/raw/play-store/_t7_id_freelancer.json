@@ -1,0 +1,102 @@
+[
+  {
+    "appId": "com.freelancer.android.messenger",
+    "title": "Freelancer: Hire & Find Jobs",
+    "developer": "Freelancer.com",
+    "score": 3.49,
+    "scoreText": "3,5",
+    "free": false,
+    "price": null,
+    "summary": "Freelancer, pasar freelancing terbesar di dunia, sekarang di Android!",
+    "icon": "https://play-lh.googleusercontent.com/Aiu6THertYxFL1TNW2H51cyQvjpmOg61DTVXlg1u2rH4aOqdjUoCroy9AnotX2SvUw"
+  },
+  {
+    "appId": "com.fiverr.fiverr",
+    "title": "Fiverr - Freelance Service",
+    "developer": "Fiverr",
+    "score": 4.007614,
+    "scoreText": "4,0",
+    "free": false,
+    "price": null,
+    "summary": "Satu pasar. Ratusan layanan. Kemungkinan tak terbatas. Semua di Fiverr.",
+    "icon": "https://play-lh.googleusercontent.com/AKm3yudrEyrdvy9YmPUJjRkb0p0tyCed8tE1xXcsp6_uyeZhSoUSj41T-l9-dsMuxFY"
+  },
+  {
+    "appId": "com.upwork.android.apps.main",
+    "title": "Upwork",
+    "developer": "Upwork Global Inc.",
+    "score": 3.8,
+    "scoreText": "3,8",
+    "free": false,
+    "price": null,
+    "summary": "Menghubungkan klien dengan pekerja lepas yang sangat terampil dari seluruh dunia.",
+    "icon": "https://play-lh.googleusercontent.com/PgAl0V1pWvER7X9ViFrBaT9Pxye4pRH5Nr9JlD5RbKjNX0bcMRp007dQhd17b0Y28Rwv"
+  },
+  {
+    "appId": "tj.alif.tech.freelance",
+    "title": "Freelance",
+    "developer": "Alif Tech LLC",
+    "score": 0,
+    "scoreText": "0,0",
+    "free": false,
+    "price": null,
+    "summary": "Freelance: kolaborasi antara klien dan pekerja lepas dalam perjalanan menuju proyek ideal.",
+    "icon": "https://play-lh.googleusercontent.com/pWL-YAD7MmDrrLrV0J9DWV4NpbW1hHYRGKZ2GMt2HCxu-408frDR9WAIrpF-Dy0Dga8"
+  },
+  {
+    "appId": "com.ifreelance.app",
+    "title": "IFreelance: Freelancer Service",
+    "developer": "PT. IFree Technologies",
+    "free": false,
+    "price": null,
+    "summary": "Freelancer Marketplace Terlengkap &amp; Terpercaya",
+    "icon": "https://play-lh.googleusercontent.com/zN2FkGgzVIvs1NLp-4Up0dRjPwc_GiDur3dBFi-yMlTzOC2ojrlw-pKzLn-UGK0lMLzX"
+  },
+  {
+    "appId": "com.appdevelopersai",
+    "title": "Freelancer AI- Hire Upwork Dev",
+    "developer": "GreeLogix",
+    "free": false,
+    "price": null,
+    "summary": "Temukan pengembang lepas teratas dengan cepat menggunakan AI Upwork, Fiverr, dan seterusnya",
+    "icon": "https://play-lh.googleusercontent.com/c-FCd25GntLJfgUubjqonTR9_rTx14xpKVi3lichsch1D8X0O19szsUH1uJNqUyx5d8"
+  },
+  {
+    "appId": "com.feedcoyote.app",
+    "title": "Feedcoyote – Freelance Jobs",
+    "developer": "Feedcoyote",
+    "free": false,
+    "price": null,
+    "summary": "Find freelance jobs, gigs &amp; collaborators. Turn connections into income.",
+    "icon": "https://play-lh.googleusercontent.com/qD_Y2YqBxZbLrh7E-B9Ho6qVFkHo3U1IIrQ9g4X88L7adTnuSZwIFEg4dR_4272qMkQ"
+  },
+  {
+    "appId": "com.techorg.freelancer",
+    "title": "Freelancer - فري لانسر",
+    "developer": "TechOrg.",
+    "free": false,
+    "price": null,
+    "summary": "Freelancer - Aplikasi Freelancer yang menghubungkan penyedia layanan dan klien.",
+    "icon": "https://play-lh.googleusercontent.com/Fj0BbdjcC0TKegum8hZQcy9gKBukg7Vf3LFRY-2WeVhS4La_iaFsnHN12k2275cKqCRITelDUZXcA_gNq-Pp6VM"
+  },
+  {
+    "appId": "com.fastwork.app",
+    "title": "Fastwork - Freelancer & Jasa",
+    "developer": "Fastwork Engineer",
+    "score": 4,
+    "scoreText": "4,0",
+    "free": false,
+    "price": null,
+    "summary": "Fastwork is the largest freelancing platform in SEA.",
+    "icon": "https://play-lh.googleusercontent.com/yv0V_QmpdtJB5CIY6iUL3ieHLcOv2-PlxwTFVZp6ofbzSQdUJpYe-Yt6lIQJ0BB8g0xH"
+  },
+  {
+    "appId": "com.sribu.app",
+    "title": "Sribu: Pilih Jasa Freelance",
+    "developer": "PT Sribu Digital Kreatif",
+    "free": false,
+    "price": null,
+    "summary": "Tempat tepat untuk bisnis temukan jasa freelancer terkurasi dengan mudah &amp; cepat",
+    "icon": "https://play-lh.googleusercontent.com/OQo7J4H3in5hFYfUyvOM961JszaR9hRb1sWXwwaxDPSJklw9dcNXaz6xI7TM8bERru_At_SgXFW3IScWk0S5tQ"
+  }
+]

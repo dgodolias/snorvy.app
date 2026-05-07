@@ -1,0 +1,57 @@
+[
+  {
+    "appId": "md.obsidian",
+    "title": "Obsidian",
+    "developer": "Dynalist Inc.",
+    "score": 4.56,
+    "scoreText": "4.6",
+    "free": false,
+    "price": null,
+    "summary": "Plain-text personal knowledge base on the go",
+    "icon": "https://play-lh.googleusercontent.com/0WzNnQJyEuOyvkZvYVpGkQJEvOfEF9kBnbLnLQioqUAX_DlV6wP8hyH8BgVBHQa1V9A"
+  },
+  {
+    "appId": "com.azhard.taskforge",
+    "title": "TaskForge - Obsidian Tasks",
+    "developer": "Azhar Dewji",
+    "score": 4.7916665,
+    "scoreText": "4.8",
+    "free": false,
+    "price": null,
+    "summary": "Manage Obsidian vault tasks with widgets, notifications, calendar &amp; kanban views",
+    "icon": "https://play-lh.googleusercontent.com/TdIl9GV4vMOgQ6xJ6lctgup9djI_kmZjIDKSuRiw3EBfYhwg9KTnaQ-LFEE5dgxxBk8"
+  },
+  {
+    "appId": "com.microsoft.office.onenote",
+    "title": "Microsoft OneNote: Save Notes",
+    "developer": "Microsoft Corporation",
+    "score": 4.373152,
+    "scoreText": "4.4",
+    "free": false,
+    "price": null,
+    "summary": "Powerful notepad to capture ideas &amp; save notes. Easily organize &amp; share notes",
+    "icon": "https://play-lh.googleusercontent.com/et2mBcPlX10BHjyvlUCf90wAPbdIuaB_o1JhI4q3wHXcEq8MwKfsOYwpRW7aG2iXr_K05LVq6_LqUsNUWUt9BhM"
+  },
+  {
+    "appId": "notion.id",
+    "title": "Notion: Notes, Tasks, AI",
+    "developer": "Notion Labs, Inc.",
+    "score": 4.5454545,
+    "scoreText": "4.5",
+    "free": false,
+    "price": null,
+    "summary": "Notion Agent simplifies your needs. Write notes, plan projects &amp; organize tasks",
+    "icon": "https://play-lh.googleusercontent.com/vaxxIC1qaXOd1q1hmL7c66N-Mp4LXuQIuBZGM0dPIbwmyWcJAXbhIIZ8hNBWvar54c_j"
+  },
+  {
+    "appId": "com.google.android.keep",
+    "title": "Google Keep - Notes and lists",
+    "developer": "Google LLC",
+    "score": 4.3902154,
+    "scoreText": "4.4",
+    "free": false,
+    "price": null,
+    "summary": "Google Keep",
+    "icon": "https://play-lh.googleusercontent.com/9bJoeaPbGTB8Tz_h4N-p-6ReRd8vSS-frZb2tmJulaGIoTKElKj3zpmcFJvnS96ANZP5"
+  }
+]

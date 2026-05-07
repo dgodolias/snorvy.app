@@ -1,0 +1,662 @@
+[
+  {
+    "appId": "com.foodient.whisk",
+    "title": "Samsung Food: Meal Planner",
+    "developer": "SamsungFood",
+    "installs": "1,000,000+",
+    "minInstalls": 1000000,
+    "score": 4.52693,
+    "ratings": 22482,
+    "histogram": {
+      "1": 1430,
+      "2": 583,
+      "3": 522,
+      "4": 2097,
+      "5": 17839
+    },
+    "free": true,
+    "offersIAP": true,
+    "IAPRange": "$6.99 - $59.99 per item",
+    "adSupported": false,
+    "released": "Dec 16, 2019",
+    "updated": 1775658963000,
+    "summary": "Meal planner, recipes, grocery lists &amp; nutrition — all in one smart app",
+    "pulled_reviews": 200,
+    "recent_90d_count": 137,
+    "recent_low_count": 44,
+    "recent_low_pct": 32.1,
+    "sample_low_reviews": [
+      {
+        "date": "2026-05-05T02:13:50.810Z",
+        "score": 1,
+        "text": "Edit: I don't know if Samsung quit supporting the app or what has happened, but it's now unusable. Literally. Networking errors. Having to cleared cache, logout, delete saved data, and now, you can't even login. Easy to use and organize recipes. Cuts out having to read the dumb stories and unnecessary info people put in their recipes. Just copy the link and "
+      },
+      {
+        "date": "2026-05-04T23:14:06.150Z",
+        "score": 1,
+        "text": "I've used this app for years. I was using it just yesterday. I go to pull up a recipe today and I'm kicked out of my account. It says I need a Samsung Account to get it but that doesn't bring me to my established account, just a new one. Sure, I could create a new account but my established one has years of recipes saved. Very annoying."
+      },
+      {
+        "date": "2026-05-01T08:58:54.788Z",
+        "score": 1,
+        "text": "Awful app, infested with ads"
+      },
+      {
+        "date": "2026-04-30T16:38:21.887Z",
+        "score": 1,
+        "text": "This doesn't work anymore. Blocked to the login screen and infinite loading..."
+      },
+      {
+        "date": "2026-04-30T02:37:09.534Z",
+        "score": 1,
+        "text": "ads won't let you see the instruction"
+      },
+      {
+        "date": "2026-04-28T22:15:17.737Z",
+        "score": 1,
+        "text": "It changes recipes and does not allow them to be corrected. Do not use."
+      }
+    ]
+  },
+  {
+    "appId": "com.mealime",
+    "title": "Mealime Meal Plans & Recipes",
+    "developer": "Mealime Meal Plans Inc",
+    "installs": "1,000,000+",
+    "minInstalls": 1000000,
+    "score": 4.561042,
+    "ratings": 26599,
+    "histogram": {
+      "1": 1443,
+      "2": 432,
+      "3": 808,
+      "4": 2987,
+      "5": 20927
+    },
+    "free": true,
+    "offersIAP": true,
+    "IAPRange": "$2.99 - $49.99 per item",
+    "adSupported": false,
+    "released": "May 30, 2016",
+    "updated": 1774366420000,
+    "summary": "Healthy recipes, meal plans for any diet.  Auto grocery list w all ingredients.",
+    "pulled_reviews": 200,
+    "recent_90d_count": 64,
+    "recent_low_count": 23,
+    "recent_low_pct": 35.9,
+    "sample_low_reviews": [
+      {
+        "date": "2026-05-02T21:49:38.929Z",
+        "score": 2,
+        "text": "One of my saved recipes that I took time to make, doesn't show up in 'My Recipes'. Seems like a design flaw."
+      },
+      {
+        "date": "2026-04-26T14:04:05.104Z",
+        "score": 1,
+        "text": "I used to use this app all the time: 5 stars, great app. I got a new phone and have tried to use it and now I can't get past the set up reminders screen, so I can't even begin to use the app anymore. It is essentially bricked."
+      },
+      {
+        "date": "2026-04-26T01:23:39.443Z",
+        "score": 1,
+        "text": "can't even create an account. app is broken."
+      },
+      {
+        "date": "2026-04-25T18:07:33.316Z",
+        "score": 1,
+        "text": "helpful for staying organized but there are two big issues. One there's a glitch when typing recipes yourself where the keyboard covers what you are writing. and the second thing is when uploading your own recipes they do not show the ingredients with each step after you are finished which can make it confusing to keep up with. otherwise great app"
+      },
+      {
+        "date": "2026-04-23T21:11:23.391Z",
+        "score": 1,
+        "text": "I downloaded the app maybe 20 minutes ago and I can't get past the page that asks you. if you want to set up a reminder, I tried closing the app five times. I tried selecting my preferences and not selecting any preferences. it's frozen on that page. it won't let me go forwards only back"
+      },
+      {
+        "date": "2026-04-23T00:42:28.189Z",
+        "score": 1,
+        "text": "the app pooped me out without letting me finish the registration. worthless🤷‍♂️"
+      }
+    ]
+  },
+  {
+    "appId": "com.eatthismuch",
+    "title": "Eat This Much - Meal Planner",
+    "developer": "Eat This Much, Inc.",
+    "installs": "1,000,000+",
+    "minInstalls": 1000000,
+    "score": 4.7031875,
+    "ratings": 10302,
+    "histogram": {
+      "1": 164,
+      "2": 82,
+      "3": 306,
+      "4": 1538,
+      "5": 8207
+    },
+    "free": true,
+    "offersIAP": true,
+    "IAPRange": "$0.99 - $84.99 per item",
+    "adSupported": false,
+    "released": "Apr 6, 2016",
+    "updated": 1776397053000,
+    "summary": "Automatic meal planner with personalized diets, grocery lists, calories &amp; macros",
+    "pulled_reviews": 200,
+    "recent_90d_count": 12,
+    "recent_low_count": 5,
+    "recent_low_pct": 41.7,
+    "sample_low_reviews": [
+      {
+        "date": "2026-04-15T13:48:02.319Z",
+        "score": 2,
+        "text": "The generator ignores recurring foods and is very hard to use for meal prepping. Hopefully they make the app more usable in the future."
+      },
+      {
+        "date": "2026-04-03T19:31:09.367Z",
+        "score": 1,
+        "text": "it won't filter recipes by pantry, which makes it pretty useless"
+      },
+      {
+        "date": "2026-03-13T05:47:22.506Z",
+        "score": 2,
+        "text": "this is most frustrating! I thought this app would give me the fat ,calories etc...nope! UNLESS...you sign up for the premium plan. (didn't want to do that) waste of my time. I also had a hard time navigating because every thing I clicked on said to sign up for the premium plan if you want to use that"
+      },
+      {
+        "date": "2026-03-02T15:10:20.400Z",
+        "score": 1,
+        "text": "You can't change the metric system, so it's completely useless to me"
+      },
+      {
+        "date": "2026-03-02T14:11:28.188Z",
+        "score": 1,
+        "text": "couldn't sign in. tried to retrieve password but could not. have uninstalled"
+      }
+    ]
+  },
+  {
+    "appId": "com.plantoeat.mobile",
+    "title": "Plan to Eat: Meal Planner",
+    "developer": "Plan to Eat",
+    "installs": "100,000+",
+    "minInstalls": 100000,
+    "score": 4.7366414,
+    "ratings": 3263,
+    "histogram": {
+      "1": 136,
+      "2": 49,
+      "3": 24,
+      "4": 112,
+      "5": 2939
+    },
+    "free": true,
+    "offersIAP": false,
+    "adSupported": false,
+    "released": "May 31, 2018",
+    "updated": 1776873369000,
+    "summary": "Recipe storage, meal planning calendar, and automated grocery lists.",
+    "pulled_reviews": 200,
+    "recent_90d_count": 29,
+    "recent_low_count": 3,
+    "recent_low_pct": 10.3,
+    "sample_low_reviews": [
+      {
+        "date": "2026-05-02T17:01:51.100Z",
+        "score": 1,
+        "text": "Another app you need a subscription for"
+      },
+      {
+        "date": "2026-04-29T18:01:49.824Z",
+        "score": 1,
+        "text": "pay wall. you can't use without a subscription which isnt made obvious until you have already installed and provided your data"
+      },
+      {
+        "date": "2026-04-20T06:57:28.976Z",
+        "score": 1,
+        "text": "wont let me sign up with google"
+      }
+    ]
+  },
+  {
+    "appId": "com.stashbox.stashcook",
+    "title": "Meal Planner & Recipe Keeper",
+    "developer": "Stashcook",
+    "installs": "500,000+",
+    "minInstalls": 500000,
+    "score": 4.471526,
+    "ratings": 12861,
+    "histogram": {
+      "1": 658,
+      "2": 189,
+      "3": 834,
+      "4": 1918,
+      "5": 9256
+    },
+    "free": true,
+    "offersIAP": true,
+    "IAPRange": "$3.99 - $139.99 per item",
+    "adSupported": false,
+    "released": "Jul 8, 2020",
+    "updated": 1777726563000,
+    "summary": "Stashcook: save recipes, plan the week, and shop smarter",
+    "pulled_reviews": 200,
+    "recent_90d_count": 200,
+    "recent_low_count": 79,
+    "recent_low_pct": 39.5,
+    "sample_low_reviews": [
+      {
+        "date": "2026-05-06T13:01:51.403Z",
+        "score": 1,
+        "text": "paywall"
+      },
+      {
+        "date": "2026-05-06T03:02:30.232Z",
+        "score": 2,
+        "text": "it would be a handy app to have but I am so sick of everything having subscriptions. I'm NOT paying I'm just going to continue as I have been."
+      },
+      {
+        "date": "2026-05-04T12:36:52.414Z",
+        "score": 2,
+        "text": "EDIT 4 May 2026: [I was] really happy with this - the best recipe storage system I'd ever used. Clipping was seamless (mostly!) ; tweaks to recipes were easy [and] adding images didn't take long. I thanked the developers for such an elegant app and took a paid subscription - but in May 2026: WHAT HAPPENED? App name changed; deleted collections reappeared; re"
+      },
+      {
+        "date": "2026-05-03T03:12:49.135Z",
+        "score": 1,
+        "text": "can't open app sometimes, so uninstalled it and downloaded it again and signed back in and it lost almost all the recipes I had in it. So my opinion is find another and don't waste your time or money on this one."
+      },
+      {
+        "date": "2026-05-02T10:27:51.202Z",
+        "score": 1,
+        "text": "Was there any update made with the app. I can't open it."
+      },
+      {
+        "date": "2026-05-02T10:21:59.581Z",
+        "score": 1,
+        "text": "gives you the option between yearly with a 7 day free trial and monthly. I got get my free trial out only pulls up monthly and I can't change it. I'm not paying 120 a year when I can get it for 30. I'll find another recipe app that's cheaper and doesn't try to trick you into paying more"
+      }
+    ]
+  },
+  {
+    "appId": "com.recime.app",
+    "title": "ReciMe: Recipes & Meal Planner",
+    "developer": "ReciMe",
+    "installs": "1,000,000+",
+    "minInstalls": 1000000,
+    "score": 4.654211,
+    "ratings": 70994,
+    "histogram": {
+      "1": 1642,
+      "2": 454,
+      "3": 2988,
+      "4": 10630,
+      "5": 55274
+    },
+    "free": true,
+    "offersIAP": true,
+    "IAPRange": "$6.99 - $69.99 per item",
+    "adSupported": false,
+    "released": "May 1, 2023",
+    "updated": 1777651955000,
+    "summary": "The ultimate app to save recipes from Instagram, TikTok, Facebook &amp; more.",
+    "pulled_reviews": 200,
+    "recent_90d_count": 200,
+    "recent_low_count": 68,
+    "recent_low_pct": 34,
+    "sample_low_reviews": [
+      {
+        "date": "2026-05-05T07:57:06.331Z",
+        "score": 1,
+        "text": "You have to subscribe. Why would I do that?"
+      },
+      {
+        "date": "2026-05-04T20:11:51.730Z",
+        "score": 2,
+        "text": "looking for free"
+      },
+      {
+        "date": "2026-05-04T14:52:17.138Z",
+        "score": 1,
+        "text": "can't believe this is a pay app. I'll judy keep saving to my messenger"
+      },
+      {
+        "date": "2026-05-04T14:16:43.869Z",
+        "score": 1,
+        "text": "they failed to tell you in the description that it is a paid thing. I really look forward to using this but after seeing that you only get a 7-Day free trial I can't do it."
+      },
+      {
+        "date": "2026-05-03T19:53:11.753Z",
+        "score": 1,
+        "text": "bought a 7 day trial and on the 2nd day it said that I could not import any more recipes"
+      },
+      {
+        "date": "2026-05-03T17:09:54.261Z",
+        "score": 1,
+        "text": "This application presents a compelling concept, and I was sufficiently impressed to proceed with a purchase, despite the limited trial period. However, I have encountered significant operational issues, specifically the frequent inability to download recipes and persistent, unsolicited logouts. The subsequent login process is unduly protracted due to recurri"
+      }
+    ]
+  },
+  {
+    "appId": "com.tudorspan.recipekeeper",
+    "title": "Recipe Keeper",
+    "developer": "Tudorspan Limited",
+    "installs": "1,000,000+",
+    "minInstalls": 1000000,
+    "score": 4.732497,
+    "ratings": 18849,
+    "histogram": {
+      "1": 628,
+      "2": 215,
+      "3": 313,
+      "4": 1240,
+      "5": 16444
+    },
+    "free": true,
+    "offersIAP": true,
+    "IAPRange": "$19.99 per item",
+    "adSupported": false,
+    "released": "Nov 10, 2014",
+    "updated": 1774973081000,
+    "summary": "Your recipes, shopping list and meal planner - synced across all your devices",
+    "pulled_reviews": 200,
+    "recent_90d_count": 136,
+    "recent_low_count": 20,
+    "recent_low_pct": 14.7,
+    "sample_low_reviews": [
+      {
+        "date": "2026-05-03T18:33:45.876Z",
+        "score": 2,
+        "text": "wish you didn't have to export to sync"
+      },
+      {
+        "date": "2026-04-25T19:50:01.500Z",
+        "score": 2,
+        "text": "I purchased this app years ago and used it in my phone and laptop however it will now not let me log into it with my laptop and continues to ask me to buy the app. in order to log in which I already have! I've lowered my trading does to this as I not be forced to buy something I've already purchased!"
+      },
+      {
+        "date": "2026-04-22T11:43:01.162Z",
+        "score": 1,
+        "text": "cant access on laptop anymore"
+      },
+      {
+        "date": "2026-04-15T23:41:45.979Z",
+        "score": 1,
+        "text": "Don't buy if you are hoping to sync between multiple devices, while it says that is a feature it doesn't work between different divice types like android and pc or iPhone unless you purchase it a second time"
+      },
+      {
+        "date": "2026-04-13T11:12:53.398Z",
+        "score": 1,
+        "text": "Only 20 recipes for free use."
+      },
+      {
+        "date": "2026-04-06T08:55:45.262Z",
+        "score": 1,
+        "text": "Great until you reach 20 recipes then realised its a paid app! Annoying that this isnt mentioned at the start and I wouldnt of wasted an hour sorting through my insta saved recipes (and deleted them as I went through and saved on your app!)"
+      }
+    ]
+  },
+  {
+    "appId": "com.supercook.app",
+    "title": "SuperCook - Recipe Generator",
+    "developer": "SuperCook",
+    "installs": "1,000,000+",
+    "minInstalls": 1000000,
+    "score": 4.6685843,
+    "ratings": 18228,
+    "histogram": {
+      "1": 418,
+      "2": 123,
+      "3": 670,
+      "4": 2640,
+      "5": 14366
+    },
+    "free": true,
+    "offersIAP": false,
+    "adSupported": false,
+    "released": "Sep 23, 2019",
+    "updated": 1760628069000,
+    "summary": "Grocery to Recipe - make recipes with ingredients you already have at home.",
+    "pulled_reviews": 200,
+    "recent_90d_count": 93,
+    "recent_low_count": 3,
+    "recent_low_pct": 3.2,
+    "sample_low_reviews": [
+      {
+        "date": "2026-04-03T23:21:16.962Z",
+        "score": 1,
+        "text": "it gave me 1 recipe repeated 100 times...chips made outta cheese."
+      },
+      {
+        "date": "2026-03-14T17:53:42.949Z",
+        "score": 2,
+        "text": "There are WAY too many options!!!! I can only eat certain things, so I wish this app was also more vague! (Limited to fruits and vegetables or spices, as opposed to naming every single one under the sun!) If I were to enter (or even remember) all the spices, veggies, and oils I had, I'd be entering my ingredients for HOURS!!! I wish we could enter things lik"
+      },
+      {
+        "date": "2026-02-20T00:23:15.171Z",
+        "score": 2,
+        "text": "this software is a good idea but it doesn't live up to its potential. first it doesn't remove stuff from your pantry once you make a recipe. second, which I think is actually worse, if you tell it you have grated cheese it insists on giving you recipes for shredded cheese even though they're not interchangeable. this could be a great app if you put just a li"
+      }
+    ]
+  },
+  {
+    "appId": "com.purplecover.anylist",
+    "title": "AnyList: Grocery Shopping List",
+    "developer": "AnyList",
+    "installs": "1,000,000+",
+    "minInstalls": 1000000,
+    "score": 4.844324,
+    "ratings": 29319,
+    "histogram": {
+      "1": 189,
+      "2": 221,
+      "3": 268,
+      "4": 2598,
+      "5": 26036
+    },
+    "free": true,
+    "offersIAP": true,
+    "IAPRange": "$9.99 - $14.99 per item",
+    "adSupported": false,
+    "released": "Apr 29, 2019",
+    "updated": 1777927386000,
+    "summary": "Share shopping lists, organize your recipes, and do meal planning",
+    "pulled_reviews": 200,
+    "recent_90d_count": 200,
+    "recent_low_count": 5,
+    "recent_low_pct": 2.5,
+    "sample_low_reviews": [
+      {
+        "date": "2026-05-03T20:45:15.560Z",
+        "score": 2,
+        "text": "I'll stick to ourgroceries as it has a better layout and syncing with family, friends. this app would work ok if it wasn't so expensive and had better options"
+      },
+      {
+        "date": "2026-04-28T20:10:52.261Z",
+        "score": 2,
+        "text": "It's got some weird ideas of which category to put things into. Regularly loses items even though double click is turned on. Pity I paid for it. And developer, no, I don't want a refund, I want you to fix it. (Grapes are NOT vegetables! And I'm fed up with items disappearing halfway round the supermarket.)"
+      },
+      {
+        "date": "2026-04-16T21:26:28.797Z",
+        "score": 1,
+        "text": "Gone Sour. App used to be brilliant at organising shopping Iists. It offers you credit to use in store only in the USA but continues to nag you to subscribe to it even though you can't use it. They then reply to say they dont provide credit for any store and yet there was a $20 credit to use in a list of US Stores. Apears that they don't know what their own "
+      },
+      {
+        "date": "2026-04-09T14:09:10.872Z",
+        "score": 1,
+        "text": "Where is Data Import & Export.?"
+      },
+      {
+        "date": "2026-03-31T12:06:16.696Z",
+        "score": 1,
+        "text": "no demo just requires account from startup"
+      }
+    ]
+  },
+  {
+    "appId": "com.headcode.ourgroceries",
+    "title": "Our Groceries Shopping List",
+    "developer": "OurGroceries, Inc.",
+    "installs": "1,000,000+",
+    "minInstalls": 1000000,
+    "score": 4.6997356,
+    "ratings": 55605,
+    "histogram": {
+      "1": 1139,
+      "2": 992,
+      "3": 1690,
+      "4": 5772,
+      "5": 46005
+    },
+    "free": true,
+    "offersIAP": true,
+    "IAPRange": "$0.99 - $17.99 per item",
+    "adSupported": true,
+    "updated": 1775027516000,
+    "summary": "The easiest app to share your family grocery list and simplify grocery shopping!",
+    "pulled_reviews": 200,
+    "recent_90d_count": 152,
+    "recent_low_count": 8,
+    "recent_low_pct": 5.3,
+    "sample_low_reviews": [
+      {
+        "date": "2026-04-28T03:18:54.460Z",
+        "score": 1,
+        "text": "Lies about the list. We get random items added that say someone in the house add this. But only my wife and I have access and did not add it."
+      },
+      {
+        "date": "2026-04-23T15:23:35.444Z",
+        "score": 2,
+        "text": "Works pretty well as lists go, but it adds items proactively that I did not select. That is really annoying. I might have to find a new shopping list app. Also, it is constantly attempting to get me to set up an account--not interested, but it keeps bugging me. But I really, REALLY object to the app adding items to my list without my consent."
+      },
+      {
+        "date": "2026-04-06T22:00:42.245Z",
+        "score": 1,
+        "text": "Was a solid 5, best groceries app I used... then they decided to add AI. edit: can I ignore all the socioeconomical damage AI does too?"
+      },
+      {
+        "date": "2026-03-15T07:04:52.416Z",
+        "score": 2,
+        "text": "Been using this app for a long time. Really appreciate that the devs are still updating & not going down the dishonest route many developers are these days by releasing a 2.0 version then charging full price again. But, & this is just me, the recent GUI changes aren't nice. The colour-contrast is far too jarring, the spacing/header is too much and the whole "
+      },
+      {
+        "date": "2026-03-13T19:26:03.260Z",
+        "score": 2,
+        "text": "Can we add prices?"
+      },
+      {
+        "date": "2026-03-09T15:00:30.313Z",
+        "score": 1,
+        "text": "Still no pricing feature?! 030826, the search feature is almost non-existent... Waiting for the prices upgrade before I buy the premium... Looking forward to switching from my old grocery app. Love that the net version keeps my changes from the app! Anxiously awaiting the update... Fear the update may not be coming. A previous review says they used this for "
+      }
+    ]
+  },
+  {
+    "appId": "ch.publisheria.bring",
+    "title": "Bring! Grocery Shopping List",
+    "developer": "Bring! Labs AG",
+    "installs": "10,000,000+",
+    "minInstalls": 10000000,
+    "score": 4.1670237,
+    "ratings": 143696,
+    "histogram": {
+      "1": 17842,
+      "2": 4290,
+      "3": 8908,
+      "4": 17514,
+      "5": 95065
+    },
+    "free": true,
+    "offersIAP": true,
+    "IAPRange": "$0.99 - $8.99 per item",
+    "adSupported": true,
+    "released": "Aug 31, 2014",
+    "updated": 1776345278000,
+    "summary": "Create shared grocery lists &amp; sync the shopping list organizer with your family.",
+    "pulled_reviews": 200,
+    "recent_90d_count": 34,
+    "recent_low_count": 11,
+    "recent_low_pct": 32.4,
+    "sample_low_reviews": [
+      {
+        "date": "2026-05-01T02:24:26.912Z",
+        "score": 1,
+        "text": "Alexa no Brasil não tem bring."
+      },
+      {
+        "date": "2026-04-20T00:48:06.770Z",
+        "score": 1,
+        "text": "This is not a voice shopping list!!!!"
+      },
+      {
+        "date": "2026-04-17T09:56:34.361Z",
+        "score": 2,
+        "text": "5 stars before, now 2 stars. Does not work with the Chefkoch app anymore."
+      },
+      {
+        "date": "2026-04-03T21:36:26.827Z",
+        "score": 1,
+        "text": "Hi, this app DOES NOT share AT ALL. Wverytime you send the invite link to someone even after they download it, it doesn't share the list Glad this is free, cause it would be a BIG waste of money. FIX your app before posting it anywhere"
+      },
+      {
+        "date": "2026-04-02T06:34:28.262Z",
+        "score": 1,
+        "text": "Not working"
+      },
+      {
+        "date": "2026-03-07T18:13:17.410Z",
+        "score": 1,
+        "text": "Highly inaccessible to neurodiverse users. This app is a carnival of colors, fonts, text sizes, blocks, and just an incredible amount of noise and distraction. If you need a marching band with you just to grab groceries, this is the app for you. If peace and quiet is more your thing, this ain't it. At all."
+      }
+    ]
+  },
+  {
+    "appId": "com.yinqs.weeklymealplanner",
+    "title": "Meal Planner & Grocery List",
+    "developer": "JoJo Apps: Meal Planner and Shopping List",
+    "installs": "1,000,000+",
+    "minInstalls": 1000000,
+    "score": 4.553398,
+    "ratings": 21483,
+    "histogram": {
+      "1": 624,
+      "2": 312,
+      "3": 832,
+      "4": 4475,
+      "5": 15217
+    },
+    "free": true,
+    "offersIAP": true,
+    "IAPRange": "$0.49 - $19.99 per item",
+    "adSupported": false,
+    "released": "May 6, 2021",
+    "updated": 1778136952000,
+    "summary": "Weekly menu organizer, family shopping list &amp; recipe keeper for any diet.",
+    "pulled_reviews": 200,
+    "recent_90d_count": 51,
+    "recent_low_count": 5,
+    "recent_low_pct": 9.8,
+    "sample_low_reviews": [
+      {
+        "date": "2026-04-23T07:08:19.277Z",
+        "score": 1,
+        "text": "US centric app as only with imperial units and no way to switch to metric in the settings. Response to autor : Just checked again to be sure and NO it can not be changed in settings. Plus Belgium ( and even EU) is NOT using imperial units."
+      },
+      {
+        "date": "2026-04-21T08:08:29.198Z",
+        "score": 1,
+        "text": "You have to type out each dish and the ingredients for each dish to be able to get the grocery list. Setting up the app, adding all the dishes you cook, and their ingredients may take a week, or may be even a months time."
+      },
+      {
+        "date": "2026-04-12T15:37:30.282Z",
+        "score": 1,
+        "text": "useless app that doesn't save my weekly menu. deleted."
+      },
+      {
+        "date": "2026-04-04T13:07:44.135Z",
+        "score": 1,
+        "text": "This is a scam! I can't log into my account, it says that my partner should have premium access before I can log into my account. And btw I already paid twice because it automatically deducted the 2nd payment. Now I don't know how to use the app without back up. This app is such a waste of time and money. Edited: I already cancelled my subscription but the a"
+      },
+      {
+        "date": "2026-03-01T14:12:42.704Z",
+        "score": 1,
+        "text": "paid for the full version . the recipes generated are not great"
+      }
+    ]
+  }
+]

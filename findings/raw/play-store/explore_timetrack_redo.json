@@ -1,0 +1,483 @@
+{
+  "scan_date": "2026-05-07T13:44:39.462Z",
+  "country": "us",
+  "apps": [
+    {
+      "appId": "com.toggl.giskard",
+      "title": "Toggl Track - Time Tracking",
+      "installs": "1,000,000+",
+      "minInstalls": 1000000,
+      "score": 4.631707,
+      "ratings": 25302,
+      "histogram": {
+        "1": 735,
+        "2": 554,
+        "3": 922,
+        "4": 2835,
+        "5": 20241
+      },
+      "offersIAP": false,
+      "released": "Jul 12, 2018",
+      "updated": 1774454966000,
+      "recent_count": 115,
+      "low_count": 36,
+      "low_pct": 31.3,
+      "sample_low_reviews": [
+        {
+          "score": 1,
+          "date": "2026-04-20T17:46:16.454Z",
+          "text": "could not get past the sign up process. broken app."
+        },
+        {
+          "score": 1,
+          "date": "2026-04-15T04:28:04.482Z",
+          "text": "Still has issues with creating empty time entries (and not actually stopping the timer) if you stop and then quickly start the timer again (y'know, the system's PRIMARY function). Issue seems to be worse with more devices being synced maybe? Happens on all platforms, and has been an issue for over 3"
+        },
+        {
+          "score": 1,
+          "date": "2026-04-06T14:14:37.332Z",
+          "text": "log in, no thanks"
+        },
+        {
+          "score": 1,
+          "date": "2026-04-05T18:56:33.268Z",
+          "text": "So many glitches with a Google account, I couldn't get it to work at all even with troubleshooting through AI. Not worth the headache."
+        },
+        {
+          "score": 2,
+          "date": "2026-03-19T18:55:02.839Z",
+          "text": "The lack of customization available for the app's appearance makes this app unusable. I can't stand the purple and pink junk. Terrible decision by the devs, the app looks like it would be very useful otherwise."
+        },
+        {
+          "score": 1,
+          "date": "2026-03-12T22:52:50.637Z",
+          "text": "Disappointingly bad after five years of enshittification."
+        },
+        {
+          "score": 1,
+          "date": "2026-02-12T00:13:53.190Z",
+          "text": "Newly downloaded and cant Log in."
+        },
+        {
+          "score": 1,
+          "date": "2026-02-08T06:02:31.489Z",
+          "text": "trial and useless AI"
+        }
+      ]
+    },
+    {
+      "appId": "me.clockify.android",
+      "title": "Clockify — Time Tracker",
+      "installs": "1,000,000+",
+      "minInstalls": 1000000,
+      "score": 3.15,
+      "ratings": 2532,
+      "histogram": {
+        "1": 629,
+        "2": 505,
+        "3": 149,
+        "4": 324,
+        "5": 910
+      },
+      "offersIAP": false,
+      "released": "Jul 6, 2020",
+      "updated": 1777468139000,
+      "recent_count": 57,
+      "low_count": 23,
+      "low_pct": 40.4,
+      "sample_low_reviews": [
+        {
+          "score": 2,
+          "date": "2026-05-01T19:14:07.352Z",
+          "text": "It used to work ok (not perfect), but lately I've been getting a message about an invite to a workspace that's clearly a scam. I got a quick response from the help team but they didn't really solve anything. I can't access my account anymore."
+        },
+        {
+          "score": 2,
+          "date": "2026-04-29T20:07:30.640Z",
+          "text": "This app is way too confusing Just make it easy lol"
+        },
+        {
+          "score": 2,
+          "date": "2026-03-10T14:11:05.365Z",
+          "text": "It's extremely annoying that I can't even name my own employees in the app, especially when I pay for their licenses. Clockify says it's a \"security\" issue if they let me put a name on an account, which is of course ridiculous. While the employees can do it themselves, most don't or can't figure it "
+        },
+        {
+          "score": 1,
+          "date": "2026-03-07T10:24:36.697Z",
+          "text": "Why I cant pause pomodoro timers? I have to stop it and finish? who designed it so poorly? @edit: pomodors will shut down when phone goes to sleep. I spent 50 minutes on a task not realizing clockify just stopped the pomodoro. also after last pomodoro I was logged out from the app. This is a sign to"
+        },
+        {
+          "score": 2,
+          "date": "2026-02-28T19:47:59.121Z",
+          "text": "why do I always have to login?"
+        },
+        {
+          "score": 2,
+          "date": "2026-02-23T12:44:31.515Z",
+          "text": "Mostly works fine. Had a recent issue where uploaded expense photos did not save which defeats the purpose of the app. Turns out it was a known issue and there was zero communication to customers. Update: After deleting/reinstalling the app, it appears to me working. I was not able to recover expens"
+        },
+        {
+          "score": 2,
+          "date": "2026-02-16T18:27:43.797Z",
+          "text": "I have some unique tracking needs and this app is to cookie cutter for my needs."
+        },
+        {
+          "score": 2,
+          "date": "2026-02-13T01:24:39.496Z",
+          "text": "there is a bug in time calculation, when you track time b/w two days like, from 12/2/2026 , 11:30pm to 13/2/2026 6:30 am , instead of showing time on both days it just show it on previous day therefore extending total no. of hours in a day , > 24 hrs , which makes no sense"
+        }
+      ]
+    },
+    {
+      "appId": "com.netsoft.Hubstaff",
+      "title": "Hubstaff Time Tracker",
+      "installs": "100,000+",
+      "minInstalls": 100000,
+      "score": 3.1,
+      "ratings": 938,
+      "histogram": {
+        "1": 336,
+        "2": 44,
+        "3": 93,
+        "4": 99,
+        "5": 353
+      },
+      "offersIAP": false,
+      "released": "Mar 20, 2016",
+      "updated": 1767188461000,
+      "recent_count": 5,
+      "low_count": 3,
+      "low_pct": 60,
+      "sample_low_reviews": [
+        {
+          "score": 1,
+          "date": "2026-03-03T11:48:35.970Z",
+          "text": "This app was working fine on my android tablet and from yesterday it has stopped working. I have done all troubshooting steps but still nothing worked. The support team is also not responding to the emails."
+        },
+        {
+          "score": 1,
+          "date": "2026-02-12T05:58:06.271Z",
+          "text": "app just keeps on loading. useless"
+        },
+        {
+          "score": 1,
+          "date": "2025-12-03T14:39:09.195Z",
+          "text": "was freezing first time I went to use it. once it started working, the reason I got it for, says I have to use the desktop version."
+        }
+      ]
+    },
+    {
+      "appId": "co.trackingtime",
+      "title": "TrackingTime | Time Tracker",
+      "installs": "50,000+",
+      "minInstalls": 50000,
+      "score": 3.7547169,
+      "ratings": 520,
+      "histogram": {
+        "1": 56,
+        "2": 56,
+        "3": 56,
+        "4": 117,
+        "5": 224
+      },
+      "offersIAP": false,
+      "released": "Jul 2, 2015",
+      "updated": 1777031259000,
+      "recent_count": 1,
+      "low_count": 1,
+      "low_pct": 100,
+      "sample_low_reviews": [
+        {
+          "score": 2,
+          "date": "2025-10-21T01:58:03.193Z",
+          "text": "Unless you have a large team, this app will suck more time than it saves. Also to unsubscribe means you are immediately degraded to free version and what you have paid for is lost. My advice is to avoid this unless you have a very specific need. Better to cancel subscription and take the loss than l"
+        }
+      ]
+    },
+    {
+      "appId": "desktime.main",
+      "title": "DeskTime Mobile Time Tracker",
+      "installs": "10,000+",
+      "minInstalls": 10000,
+      "score": 3,
+      "ratings": 166,
+      "histogram": {
+        "1": 48,
+        "2": 0,
+        "3": 48,
+        "4": 0,
+        "5": 48
+      },
+      "offersIAP": false,
+      "released": "Aug 29, 2011",
+      "updated": 1756182722000,
+      "recent_count": 0,
+      "low_count": 0,
+      "low_pct": 0,
+      "sample_low_reviews": []
+    },
+    {
+      "appId": "com.foruslabs.timebloc",
+      "title": "TimeBloc: Visual Daily Planner",
+      "installs": "100,000+",
+      "minInstalls": 100000,
+      "score": 2.93,
+      "ratings": 1517,
+      "histogram": {
+        "1": 574,
+        "2": 149,
+        "3": 103,
+        "4": 164,
+        "5": 513
+      },
+      "offersIAP": true,
+      "IAPRange": "$14.99 - $299.99 per item",
+      "released": "Aug 19, 2019",
+      "updated": 1758610332000,
+      "recent_count": 15,
+      "low_count": 7,
+      "low_pct": 46.7,
+      "sample_low_reviews": [
+        {
+          "score": 1,
+          "date": "2026-02-15T09:15:34.993Z",
+          "text": "bought premium still showing basic and the contact support button just flashes an error do not waste time or money on this product"
+        },
+        {
+          "score": 1,
+          "date": "2026-02-08T18:41:43.884Z",
+          "text": "spent the 60 bucks to upgrade this app and nothing happened. it still says I need to upgrade and I can't do more than one routine. really would like my money back or for it to work."
+        },
+        {
+          "score": 2,
+          "date": "2025-12-28T05:24:55.292Z",
+          "text": "I love the app, but I purchased a lifetime membership, and the app still shows basic and continues to tell me to upgrade to premium. I don't know how to get this resolved."
+        },
+        {
+          "score": 1,
+          "date": "2025-12-02T07:51:48.891Z",
+          "text": "Payed RM73.99 but app never upgraded to premium 😡"
+        },
+        {
+          "score": 1,
+          "date": "2025-11-23T17:40:01.627Z",
+          "text": "This app seems nice but the payment is not registering that I have the pro plan and every time I try to refresh it give me an error message and will not let me proceed or use the pro features that I've just paid for. There is nowhere to login on the app so I can't \"restore\" the purchase. The contact"
+        },
+        {
+          "score": 1,
+          "date": "2025-11-20T07:05:46.618Z",
+          "text": "NOT WORKING, and I paid 15$ for the upgrade"
+        },
+        {
+          "score": 1,
+          "date": "2025-10-17T20:10:09.837Z",
+          "text": "Already paid for this and trying to get me to pay for it again. When I restore purchases, nothing happens but I can't buy it either as it gives an error saying I already own it"
+        }
+      ]
+    },
+    {
+      "appId": "com.razeeman.util.simpletimetracker",
+      "title": "Simple Time Tracker",
+      "installs": "500,000+",
+      "minInstalls": 500000,
+      "score": 4.6261683,
+      "ratings": 6921,
+      "histogram": {
+        "1": 254,
+        "2": 124,
+        "3": 189,
+        "4": 770,
+        "5": 5556
+      },
+      "offersIAP": false,
+      "released": "Jul 2, 2020",
+      "updated": 1776063783000,
+      "recent_count": 200,
+      "low_count": 5,
+      "low_pct": 2.5,
+      "sample_low_reviews": [
+        {
+          "score": 2,
+          "date": "2026-04-06T14:20:51.181Z",
+          "text": "no list view to see all the entries I've logged"
+        },
+        {
+          "score": 2,
+          "date": "2026-04-05T08:28:41.722Z",
+          "text": "Cannot run from watch alone unless it's connecting to phone that turns the watch app useless and a waste disappointedly"
+        },
+        {
+          "score": 1,
+          "date": "2026-02-13T10:02:20.440Z",
+          "text": "UPD#2: Going to find an alternate app. This app was good until the scroll date banner was changed. It's now near impossible to navigate. Finding another app. Sorry. UPD#1: Scrolling date banner on bottom of 2nd screen is clunky. Don't like it. ORIG: I really enjoy using this app. I wish I could impo"
+        },
+        {
+          "score": 1,
+          "date": "2026-02-12T09:29:02.684Z",
+          "text": "overly complicated. Not easily functional. deleting it!"
+        },
+        {
+          "score": 1,
+          "date": "2026-01-15T07:44:15.416Z",
+          "text": "I have a connection with WiFi but it says I don't"
+        }
+      ]
+    },
+    {
+      "appId": "com.aloggers.atimeloggerapp",
+      "title": "aTimeLogger - Time Tracker",
+      "installs": "1,000,000+",
+      "minInstalls": 1000000,
+      "score": 4.735119,
+      "ratings": 26595,
+      "histogram": {
+        "1": 474,
+        "2": 312,
+        "3": 787,
+        "4": 2606,
+        "5": 22397
+      },
+      "offersIAP": true,
+      "IAPRange": "$1.99 - $8.49 per item",
+      "released": "Sep 26, 2013",
+      "updated": 1763656492000,
+      "recent_count": 47,
+      "low_count": 5,
+      "low_pct": 10.6,
+      "sample_low_reviews": [
+        {
+          "score": 2,
+          "date": "2026-04-06T14:07:57.100Z",
+          "text": "hate to be negative on small indie apps but this is truly awful UI/UX, jumbled and confusing. am I recording time now? how are these entries organized? why is it so easy to delete a whole day's hours when you wanted to just delete one event? I just want to log time for a gig but it seems like a whol"
+        },
+        {
+          "score": 1,
+          "date": "2026-03-05T14:49:54.980Z",
+          "text": "no tagging option"
+        },
+        {
+          "score": 1,
+          "date": "2026-01-07T20:09:51.457Z",
+          "text": "They have downgraded the app after lunch of paid version . Sync doesn't work anymore"
+        },
+        {
+          "score": 1,
+          "date": "2025-12-24T17:53:06.380Z",
+          "text": "UI/UX horrível. Atividades logadas desapareceram no dia seguinte. Infelizmente o app não é confiável"
+        },
+        {
+          "score": 1,
+          "date": "2025-11-04T19:37:21.690Z",
+          "text": "This app is officially trash. The so called developer(s) is telling me to download a newer version of this app; which in and of itself is another app. Add to that, there's a subscription cost just for the basic functions of this app. The developer(s) clearly got greedy. Will be switching to another "
+        }
+      ]
+    },
+    {
+      "appId": "com.tsheets.android.hammerhead",
+      "title": "QuickBooks Workforce",
+      "installs": "5,000,000+",
+      "minInstalls": 5000000,
+      "score": 4.6829796,
+      "ratings": 60539,
+      "histogram": {
+        "1": 2272,
+        "2": 558,
+        "3": 1783,
+        "4": 4854,
+        "5": 51067
+      },
+      "offersIAP": false,
+      "released": "Oct 1, 2013",
+      "updated": 1777693605000,
+      "recent_count": 200,
+      "low_count": 95,
+      "low_pct": 47.5,
+      "sample_low_reviews": [
+        {
+          "score": 1,
+          "date": "2026-05-05T22:24:38.829Z",
+          "text": "This app used to load so quickly, even offline. Now I'm having to mess with it for minutes trying to clock in and out. It won't load for minutes at a time. Undo the last update. Update 5 May 26. The app is still horribly broken. I got a new phone (unrelated to this issue) and the app still sucks. Ri"
+        },
+        {
+          "score": 2,
+          "date": "2026-05-04T01:38:26.902Z",
+          "text": "It used to work fine but they did updates a couple months ago and everyone with Android phones at my workplace is having issues with clocking in and out. Please fix this and I'll change my review."
+        },
+        {
+          "score": 2,
+          "date": "2026-05-02T13:32:17.655Z",
+          "text": "App lacks some basic functionality. I forgot to punch out on the last night of the month, now I can't punch in or out because that would be \"editing a timesheet that's already been submitted\". So now according to the app I've been working a 60 hr shift and I'm not allowed to punch out"
+        },
+        {
+          "score": 1,
+          "date": "2026-04-30T21:35:27.161Z",
+          "text": "This app is amazing in that it will invent a new bug nearly every week for you! I only use this app to log my time, clock in and out. Multiple days a month a will not be able to do so for one reason or another. Sometimes it will log me out in the middle of my shift. Right now it's having me refresh "
+        },
+        {
+          "score": 2,
+          "date": "2026-04-30T21:19:55.116Z",
+          "text": "terrible"
+        },
+        {
+          "score": 1,
+          "date": "2026-04-30T18:56:08.107Z",
+          "text": "App will not proceed to next screen after sign in. app remains inoperable"
+        },
+        {
+          "score": 1,
+          "date": "2026-04-29T13:30:57.429Z",
+          "text": "total garbage after the latest update. constantly not changing statues and also gives errors frequently. Half the time it won't clock me in or out. Says status didn't change and gives me a refresh button. after refreshing status isn't changed. constantly unable to clock out. The new user interface i"
+        },
+        {
+          "score": 1,
+          "date": "2026-04-25T12:07:02.966Z",
+          "text": "Time card feature is broken. everything in the app works great. except every single day that I have used it, the app refuses to let me clock out in the time sheet. No replies from support. other than that, would be a great app"
+        }
+      ]
+    },
+    {
+      "appId": "partl.workinghours",
+      "title": "WorkingHours Time Tracker",
+      "installs": "100,000+",
+      "minInstalls": 100000,
+      "score": 4.8,
+      "ratings": 3651,
+      "histogram": {
+        "1": 31,
+        "2": 0,
+        "3": 69,
+        "4": 432,
+        "5": 3097
+      },
+      "offersIAP": true,
+      "IAPRange": "$0.99 - $10.99 per item",
+      "released": "Sep 20, 2017",
+      "updated": 1772788915000,
+      "recent_count": 39,
+      "low_count": 4,
+      "low_pct": 10.3,
+      "sample_low_reviews": [
+        {
+          "score": 1,
+          "date": "2026-02-21T01:48:58.195Z",
+          "text": "I do not earn a set hrly wage and this gave the impression I could add my $ in at the end of each log, you cannot, you have to have a set wage per hr, but I cannot add tips or anything extra to keep a track of better days on average. i paid for a subscription only for it to be a useless app for me. "
+        },
+        {
+          "score": 2,
+          "date": "2026-01-23T14:42:55.182Z",
+          "text": "Premium required for way too basic things like start/stop from notification or widget. There are better alternatives (e.g. simple time tracker)."
+        },
+        {
+          "score": 1,
+          "date": "2025-12-04T11:16:09.450Z",
+          "text": "6 days free trial only, will ask you pay"
+        },
+        {
+          "score": 1,
+          "date": "2025-09-18T10:57:59.878Z",
+          "text": "Very poor implementation. I have requested a refund, why has this been rejected? The app was recommended by a colleague, who is using the windows version. The Android version has IMHO a lot of usability issues. This is the only reason I purchased it. I requested a refund through the Google play stor"
+        }
+      ]
+    }
+  ]
+}

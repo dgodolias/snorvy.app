@@ -1,0 +1,840 @@
+{
+  "territory": "TUTOR_US",
+  "generated": "2026-05-07T13:44:15.425Z",
+  "apps": {
+    "_t18_planbook": {
+      "app": "com.planbook.lessonplanner",
+      "country": "us",
+      "total": 75,
+      "reviews": [
+        {
+          "date": "2026-03-28T03:20:17.790Z",
+          "score": 2,
+          "thumbsUp": 0,
+          "user": "Mandi Borek",
+          "text": "I have been using this app for years, and it is amazing! But I literally bought a new phone this week, and the app will not work with it. Worked fine with Samsung galaxy S24, but the S26 it is incompatible. Hoping for an update or explanation as to why I even tried in both chrome and samsung internet on my phone, and i get the same error message of login or password are incorrect, and no, they aren't, because I can log onto my school computer just fine",
+          "reply": null,
+          "replyDate": null,
+          "url": "https://play.google.com/store/apps/details?id=com.planbook.lessonplanner&reviewId=95d0bf40-bb0a-4b42-a599-7ea74ac0705b"
+        },
+        {
+          "date": "2025-11-23T10:58:46.961Z",
+          "score": 4,
+          "thumbsUp": 0,
+          "user": "Sophie Calow (Ms Calow)",
+          "text": "Very good American product, but mostly customisable for UK schools. Love the google calendar integration.",
+          "reply": null,
+          "replyDate": null,
+          "url": "https://play.google.com/store/apps/details?id=com.planbook.lessonplanner&reviewId=b0031250-779c-430c-a99b-ceba614c223a"
+        },
+        {
+          "date": "2025-10-07T14:50:15.153Z",
+          "score": 5,
+          "thumbsUp": 0,
+          "user": "Tine Willis",
+          "text": "I use this app like my calendar. I would be totally lost without it. All my planning and links to slideshows are in each lesson. I copy the classes from one year to the next so my long term planning gets done fast! Lesson tweaks are easy to do and bumping and swapping lessons is a game changer. My science department use it to order equipment from the lab tech, who checks it every day. I love that I can quickly access it on my phone as it syncs effortlessly.",
+          "reply": null,
+          "replyDate": null,
+          "url": "https://play.google.com/store/apps/details?id=com.planbook.lessonplanner&reviewId=37b4779c-efad-45b0-b7fe-567ce06882c7"
+        },
+        {
+          "date": "2025-09-03T21:37:55.803Z",
+          "score": 5,
+          "thumbsUp": 1,
+          "user": "Kambria McLean",
+          "text": "Awesome app! The price is amazing for the features available. I don't know what I would do without Planbook!",
+          "reply": null,
+          "replyDate": null,
+          "url": "https://play.google.com/store/apps/details?id=com.planbook.lessonplanner&reviewId=84938bdc-f113-4771-a825-419555dded4a"
+        },
+        {
+          "date": "2025-08-31T14:24:57.521Z",
+          "score": 1,
+          "thumbsUp": 1,
+          "user": "Keith Press",
+          "text": "I setup my account using my Gmail, which in a browser is fine. However, I can't sign in on the app with my Gmail, because I get a pop up for 2fa, which I say it was me, then I'm back to the login screen. Rinse and repeat, same thing over and over again, can't get in!",
+          "reply": null,
+          "replyDate": null,
+          "url": "https://play.google.com/store/apps/details?id=com.planbook.lessonplanner&reviewId=58ec0678-03ac-4a40-8f2d-c42981e73171"
+        },
+        {
+          "date": "2025-08-29T17:37:46.243Z",
+          "score": 5,
+          "thumbsUp": 0,
+          "user": "Stevan Flores",
+          "text": "Love the utility of the website app, and this mobile app makes it really handy to view lessons on-the-go without having to print them out.",
+          "reply": null,
+          "replyDate": null,
+          "url": "https://play.google.com/store/apps/details?id=com.planbook.lessonplanner&reviewId=b987d539-e4a0-431c-807d-e3fc06f22bc1"
+        },
+        {
+          "date": "2025-08-17T16:39:40.396Z",
+          "score": 4,
+          "thumbsUp": 1,
+          "user": "Grace Kanini",
+          "text": "great, kindly allow the students to be able to send an attachment while sending messages to the teacher just like the way you have enabled the website",
+          "reply": null,
+          "replyDate": null,
+          "url": "https://play.google.com/store/apps/details?id=com.planbook.lessonplanner&reviewId=27ebe2bd-663a-4f53-ae90-0ba4b6b7ce41"
+        },
+        {
+          "date": "2025-05-28T03:00:52.280Z",
+          "score": 5,
+          "thumbsUp": 0,
+          "user": "M. J. Gols",
+          "text": "Thanks for making productivity available... on my phone. I don't know if that's good or bad.",
+          "reply": null,
+          "replyDate": null,
+          "url": "https://play.google.com/store/apps/details?id=com.planbook.lessonplanner&reviewId=667ac7b5-ea10-4f15-9728-d3074f1ec487"
+        },
+        {
+          "date": "2025-05-15T11:35:28.249Z",
+          "score": 1,
+          "thumbsUp": 1,
+          "user": "Buffy Toose",
+          "text": "The app freezes ALL the time. I have to reinstall it constantly.",
+          "reply": null,
+          "replyDate": null,
+          "url": "https://play.google.com/store/apps/details?id=com.planbook.lessonplanner&reviewId=cb91e046-3dea-4c4b-9854-037936d2fff7"
+        },
+        {
+          "date": "2025-05-03T04:20:07.399Z",
+          "score": 3,
+          "thumbsUp": 1,
+          "user": "MARTIN GITAU",
+          "text": "the interface using the app is different from than using the website. the web is better. poor support is offered when you encounter a problem",
+          "reply": null,
+          "replyDate": null,
+          "url": "https://play.google.com/store/apps/details?id=com.planbook.lessonplanner&reviewId=cba336fd-5a2a-4877-be1e-efc415dd8925"
+        },
+        {
+          "date": "2025-04-09T17:39:01.325Z",
+          "score": 5,
+          "thumbsUp": 1,
+          "user": "Lindsey Buckenham",
+          "text": "Just brilliant",
+          "reply": null,
+          "replyDate": null,
+          "url": "https://play.google.com/store/apps/details?id=com.planbook.lessonplanner&reviewId=44886561-d748-48b8-a127-399ca892276e"
+        },
+        {
+          "date": "2025-03-23T06:20:27.450Z",
+          "score": 5,
+          "thumbsUp": 0,
+          "user": "V 4",
+          "text": "good stuff. easy planning",
+          "reply": null,
+          "replyDate": null,
+          "url": "https://play.google.com/store/apps/details?id=com.planbook.lessonplanner&reviewId=050dd278-9d21-49ec-a775-bd9845a5b6ed"
+        },
+        {
+          "date": "2025-03-14T15:32:20.934Z",
+          "score": 1,
+          "thumbsUp": 0,
+          "user": "Tushar Kathuria",
+          "text": "Why are there no reviews when millions of users are using it as claimed by app",
+          "reply": null,
+          "replyDate": null,
+          "url": "https://play.google.com/store/apps/details?id=com.planbook.lessonplanner&reviewId=51f8f15d-39c0-4eaf-8ab6-32c2f01b50f5"
+        },
+        {
+          "date": "2025-03-03T13:49:49.530Z",
+          "score": 5,
+          "thumbsUp": 0,
+          "user": "Kaiden",
+          "text": "Amazing app it's so organized",
+          "reply": null,
+          "replyDate": null,
+          "url": "https://play.google.com/store/apps/details?id=com.planbook.lessonplanner&reviewId=cf073b31-1e17-4421-8451-8d98d61ae690"
+        },
+        {
+          "date": "2024-12-01T21:21:29.894Z",
+          "score": 5,
+          "thumbsUp": 0,
+          "user": "Kaitlyn Cleary",
+          "text": "Love it",
+          "reply": null,
+          "replyDate": null,
+          "url": "https://play.google.com/store/apps/details?id=com.planbook.lessonplanner&reviewId=f2dfbe95-1bbf-4dc5-af2d-3355f5761d59"
+        },
+        {
+          "date": "2024-10-15T02:42:23.887Z",
+          "score": 4,
+          "thumbsUp": 0,
+          "user": "asti darmawan",
+          "text": "why plan on saturday doesn't appear? i already set saturday is my school day, yet it still doesn't appear",
+          "reply": null,
+          "replyDate": null,
+          "url": "https://play.google.com/store/apps/details?id=com.planbook.lessonplanner&reviewId=9d4ca845-a83f-41c8-af10-40d63bae6248"
+        },
+        {
+          "date": "2024-10-08T20:18:29.849Z",
+          "score": 5,
+          "thumbsUp": 0,
+          "user": "Tiffani Makarewicz",
+          "text": "Best planner on the market",
+          "reply": null,
+          "replyDate": null,
+          "url": "https://play.google.com/store/apps/details?id=com.planbook.lessonplanner&reviewId=72031697-3d05-4c54-83cc-81b2f58dcc36"
+        },
+        {
+          "date": "2024-09-20T14:08:19.183Z",
+          "score": 1,
+          "thumbsUp": 0,
+          "user": "Michael Carney",
+          "text": "unbelieveably not user friendly for non digital natives like me. I'm back to teaching after two years away. Trying to import lessons to a new school year has been impossible!",
+          "reply": null,
+          "replyDate": null,
+          "url": "https://play.google.com/store/apps/details?id=com.planbook.lessonplanner&reviewId=5559f1db-1417-4454-a9d4-95147362c111"
+        },
+        {
+          "date": "2024-09-02T16:53:08.918Z",
+          "score": 5,
+          "thumbsUp": 0,
+          "user": "John Lopez",
+          "text": "I just wish you could copy and paste him your cell phone so I didn't have to write the same things over and over",
+          "reply": null,
+          "replyDate": null,
+          "url": "https://play.google.com/store/apps/details?id=com.planbook.lessonplanner&reviewId=9c6179cf-3cf7-408e-b44a-2a5a58d12b59"
+        },
+        {
+          "date": "2024-07-26T19:48:12.396Z",
+          "score": 2,
+          "thumbsUp": 2,
+          "user": "Stephen Escobedo",
+          "text": "Not very intuitive.",
+          "reply": null,
+          "replyDate": null,
+          "url": "https://play.google.com/store/apps/details?id=com.planbook.lessonplanner&reviewId=ed83e856-60ba-407c-8ebc-9ac6f3109dfd"
+        },
+        {
+          "date": "2024-04-29T09:58:25.645Z",
+          "score": 5,
+          "thumbsUp": 0,
+          "user": "Jeffery Saunders",
+          "text": "This is a lifesaver because I can audible on the go.",
+          "reply": null,
+          "replyDate": null,
+          "url": "https://play.google.com/store/apps/details?id=com.planbook.lessonplanner&reviewId=51bf1763-88dd-49a9-9864-f9c37ab13463"
+        },
+        {
+          "date": "2024-04-28T17:03:39.602Z",
+          "score": 5,
+          "thumbsUp": 0,
+          "user": "Jan Geter Roberson",
+          "text": "I've been using it for almost 10 years. I love it! I've tried a few other digital planners but I like this one the best..",
+          "reply": null,
+          "replyDate": null,
+          "url": "https://play.google.com/store/apps/details?id=com.planbook.lessonplanner&reviewId=18a69723-045a-414f-a10b-4ab90b3ac1cb"
+        },
+        {
+          "date": "2024-04-22T02:37:20.911Z",
+          "score": 5,
+          "thumbsUp": 0,
+          "user": "JulieAnne Johnson",
+          "text": "Love this plan book, worth the money and have been using it for years. It runs my life",
+          "reply": null,
+          "replyDate": null,
+          "url": "https://play.google.com/store/apps/details?id=com.planbook.lessonplanner&reviewId=c2fbe317-aaa5-4956-a226-39f426ee7207"
+        },
+        {
+          "date": "2024-02-25T15:55:14.797Z",
+          "score": 5,
+          "thumbsUp": 0,
+          "user": "Abel Tabufor",
+          "text": "Easy to use. Includes lesson plan objectives and could be updated on any device . It's a master piece",
+          "reply": null,
+          "replyDate": null,
+          "url": "https://play.google.com/store/apps/details?id=com.planbook.lessonplanner&reviewId=e11c0d3c-13a7-48e5-b5cb-267e3b1ce339"
+        },
+        {
+          "date": "2024-02-15T08:49:52.554Z",
+          "score": 4,
+          "thumbsUp": 2,
+          "user": "Tina",
+          "text": "Been using planbook 11 years. This version of the app is way better than the last. It's a lifesaver for me. It is perfect for my needs in terms of functions. My only complaint (and why it lost a star) is that I was using the old app which I was struggling with links not working right for a really long time and finally got curious why it hadn't been fixed in so so long and discovered they made a whole new app. Never got any kind of notification so I suffered for nothing. Love it's companion site",
+          "reply": null,
+          "replyDate": null,
+          "url": "https://play.google.com/store/apps/details?id=com.planbook.lessonplanner&reviewId=6d797af8-c502-475b-8cb0-81c477cf3e2e"
+        },
+        {
+          "date": "2023-11-10T11:30:32.995Z",
+          "score": 5,
+          "thumbsUp": 2,
+          "user": "JoAnn Ziegler",
+          "text": "I have used Planbook for years. After I learned how to use most of the features it became a game changer. The standard and professional practices drop down menus are comprehensive and incredible. The customer service is unmatched. The only feature that I wish was available was a way to share plans with the same QR Code. My admin goes through waves asking for lesson plans to be displayed. I use my plan as a live document. They are too long to print every day.",
+          "reply": null,
+          "replyDate": null,
+          "url": "https://play.google.com/store/apps/details?id=com.planbook.lessonplanner&reviewId=1811320d-fe19-449e-9921-ed2fd7269e2e"
+        },
+        {
+          "date": "2023-11-01T15:50:49.129Z",
+          "score": 4,
+          "thumbsUp": 0,
+          "user": "B McDermott",
+          "text": "Best planner on market but could be better",
+          "reply": null,
+          "replyDate": null,
+          "url": "https://play.google.com/store/apps/details?id=com.planbook.lessonplanner&reviewId=8a41c196-137c-4ca3-80ff-e3eadca32d91"
+        },
+        {
+          "date": "2023-09-13T11:15:57.868Z",
+          "score": 1,
+          "thumbsUp": 0,
+          "user": "Kazia Musial",
+          "text": "Has Potential but Many Major Flaws and Glitches",
+          "reply": null,
+          "replyDate": null,
+          "url": "https://play.google.com/store/apps/details?id=com.planbook.lessonplanner&reviewId=9773c3fb-4aef-42c0-ba17-946af3221f0f"
+        },
+        {
+          "date": "2023-07-31T05:10:25.170Z",
+          "score": 1,
+          "thumbsUp": 0,
+          "user": "Sarah Scorse",
+          "text": "Couldn't even get it set up, app kept saying invalid information and crashing. I tried Uninstalling and downloading again, restarting my phone. Kept having the same error codes over and over",
+          "reply": null,
+          "replyDate": null,
+          "url": "https://play.google.com/store/apps/details?id=com.planbook.lessonplanner&reviewId=4c457f38-575b-4557-98b0-7bff0e6dfd76"
+        },
+        {
+          "date": "2023-06-20T02:10:03.600Z",
+          "score": 5,
+          "thumbsUp": 0,
+          "user": "DeNice Teacher",
+          "text": "Lots of useful applications.",
+          "reply": null,
+          "replyDate": null,
+          "url": "https://play.google.com/store/apps/details?id=com.planbook.lessonplanner&reviewId=29a02d87-d7ba-4101-9245-e351045ef8ef"
+        },
+        {
+          "date": "2023-06-19T17:52:00.750Z",
+          "score": 5,
+          "thumbsUp": 0,
+          "user": "Clare Gilboa",
+          "text": "Wonderful. Simple and efficient and effective.",
+          "reply": null,
+          "replyDate": null,
+          "url": "https://play.google.com/store/apps/details?id=com.planbook.lessonplanner&reviewId=90c94ac5-b50a-47c9-ae20-e8fadd2838e1"
+        },
+        {
+          "date": "2023-05-21T23:16:14.460Z",
+          "score": 5,
+          "thumbsUp": 0,
+          "user": "Lisa Ann Stamper",
+          "text": "Have used for years",
+          "reply": null,
+          "replyDate": null,
+          "url": "https://play.google.com/store/apps/details?id=com.planbook.lessonplanner&reviewId=e3dc01d3-91f9-4fd7-aad9-d16676f6ac76"
+        },
+        {
+          "date": "2023-03-14T16:55:58.490Z",
+          "score": 1,
+          "thumbsUp": 0,
+          "user": "E. W.M.N.",
+          "text": "When I make plans on here half the time they don't show it to my kid.",
+          "reply": null,
+          "replyDate": null,
+          "url": "https://play.google.com/store/apps/details?id=com.planbook.lessonplanner&reviewId=7c2cf1ab-c6b4-4847-8db6-dd8edf4ce5f9"
+        },
+        {
+          "date": "2023-03-07T16:41:07.260Z",
+          "score": 4,
+          "thumbsUp": 1,
+          "user": "alison boros",
+          "text": "Love the display, wish there was an option to input student names or to make it more userfriendly for teachers with caseloads",
+          "reply": null,
+          "replyDate": null,
+          "url": "https://play.google.com/store/apps/details?id=com.planbook.lessonplanner&reviewId=47048adc-9c5c-4b60-ba59-50386b6a9593"
+        },
+        {
+          "date": "2023-02-07T01:47:01.230Z",
+          "score": 2,
+          "thumbsUp": 1,
+          "user": "Jamie Kosters",
+          "text": "In the app, it is incredibly difficult to add to a lesson plan. For some reason it adds a TON of extra space when I go to edit every time, like paragraphs of blank space.",
+          "reply": null,
+          "replyDate": null,
+          "url": "https://play.google.com/store/apps/details?id=com.planbook.lessonplanner&reviewId=eb28712a-6a6c-4ee9-8c3a-ca525f7db1c9"
+        },
+        {
+          "date": "2023-01-03T12:35:00.755Z",
+          "score": 3,
+          "thumbsUp": 10,
+          "user": "Brenley Horrocks",
+          "text": "Overall this app is great. The reason I gave it 3 stars is because it only included standards for reading, writing, and math. It also doesn't have an option to add your own. As a phys ed teacher, I was really looking forward to having an easily accessible planbook in my phone; especially since I don't really have an office. If this is changed/updated, I would be happy to up my rating.",
+          "reply": null,
+          "replyDate": null,
+          "url": "https://play.google.com/store/apps/details?id=com.planbook.lessonplanner&reviewId=c9e8815e-b8f6-4099-99dc-dd15de61b98f"
+        },
+        {
+          "date": "2023-01-02T17:52:24.940Z",
+          "score": 5,
+          "thumbsUp": 2,
+          "user": "Aky Bkk",
+          "text": "Great app to have in the class. Instant notes, registers and marks.",
+          "reply": null,
+          "replyDate": null,
+          "url": "https://play.google.com/store/apps/details?id=com.planbook.lessonplanner&reviewId=fe12d7e1-93e5-4c73-b482-bf36d9623c8a"
+        },
+        {
+          "date": "2022-11-15T14:22:04.900Z",
+          "score": 1,
+          "thumbsUp": 1,
+          "user": "Kellie McMullen",
+          "text": "Not very user friendly. Tried to make a schedule, but couldn't \"confirm\" because there's no \"confirm\" button. There aren't any instructions or suggestions or anything to help set it up. Uninstalling.",
+          "reply": null,
+          "replyDate": null,
+          "url": "https://play.google.com/store/apps/details?id=com.planbook.lessonplanner&reviewId=f217ad37-e83b-493e-82f6-1b4de3b98bc6"
+        },
+        {
+          "date": "2022-10-13T12:57:41.864Z",
+          "score": 5,
+          "thumbsUp": 7,
+          "user": "Megan",
+          "text": "The app itself is pretty decent. But the service as a whole is outstanding! So many more features than Chalk has, it runs faster and is easier to input a large batch of lessons at once. And if you buy their service it is only $15 a year. Which is extremely cheap compared to Chalk's $99.",
+          "reply": null,
+          "replyDate": null,
+          "url": "https://play.google.com/store/apps/details?id=com.planbook.lessonplanner&reviewId=b57d24e7-fa53-4ff1-ab9e-977838809908"
+        },
+        {
+          "date": "2022-09-23T16:32:37.860Z",
+          "score": 5,
+          "thumbsUp": 0,
+          "user": "Milagros Kamil Rivera Reyes",
+          "text": "Excelente!",
+          "reply": null,
+          "replyDate": null,
+          "url": "https://play.google.com/store/apps/details?id=com.planbook.lessonplanner&reviewId=07facc66-4e72-46ea-a2b3-2b538964409f"
+        },
+        {
+          "date": "2022-09-19T11:41:51.720Z",
+          "score": 5,
+          "thumbsUp": 0,
+          "user": "Gregory Romeo",
+          "text": "It makes planning easy and it makes my lessons very accessible. It is a joy to use",
+          "reply": null,
+          "replyDate": null,
+          "url": "https://play.google.com/store/apps/details?id=com.planbook.lessonplanner&reviewId=ab76f329-8114-487a-bc2e-fcef3c11ef5e"
+        },
+        {
+          "date": "2022-09-16T12:27:30.702Z",
+          "score": 5,
+          "thumbsUp": 0,
+          "user": "Juan Lopez",
+          "text": "Great app for organizing my classe.",
+          "reply": null,
+          "replyDate": null,
+          "url": "https://play.google.com/store/apps/details?id=com.planbook.lessonplanner&reviewId=797c9f33-fd3f-4669-841c-fc13e38ada42"
+        },
+        {
+          "date": "2022-09-09T17:06:00.225Z",
+          "score": 4,
+          "thumbsUp": 0,
+          "user": "Debbie Lichtenegger",
+          "text": "Really appreciate it",
+          "reply": null,
+          "replyDate": null,
+          "url": "https://play.google.com/store/apps/details?id=com.planbook.lessonplanner&reviewId=94888307-be33-493d-9f74-be3bf7b09541"
+        },
+        {
+          "date": "2022-08-22T01:30:11.560Z",
+          "score": 5,
+          "thumbsUp": 0,
+          "user": "Tisha Praed",
+          "text": "Love this app!!! So easy to use and maneuver through!!",
+          "reply": null,
+          "replyDate": null,
+          "url": "https://play.google.com/store/apps/details?id=com.planbook.lessonplanner&reviewId=3d41a478-0fc9-4372-a7aa-c8a101ed5595"
+        },
+        {
+          "date": "2022-08-21T21:03:51.820Z",
+          "score": 5,
+          "thumbsUp": 0,
+          "user": "Emily Tighe",
+          "text": "Love that it finds the standards",
+          "reply": null,
+          "replyDate": null,
+          "url": "https://play.google.com/store/apps/details?id=com.planbook.lessonplanner&reviewId=a6667b1d-327f-4e18-b97c-f9e8844355a2"
+        },
+        {
+          "date": "2022-08-20T14:56:40.959Z",
+          "score": 5,
+          "thumbsUp": 0,
+          "user": "Randy Harris",
+          "text": "Easy and convenient",
+          "reply": null,
+          "replyDate": null,
+          "url": "https://play.google.com/store/apps/details?id=com.planbook.lessonplanner&reviewId=635a3415-8d95-41f8-85d6-4c018bcff0ef"
+        },
+        {
+          "date": "2022-08-16T20:15:37.387Z",
+          "score": 5,
+          "thumbsUp": 0,
+          "user": "Jenni Berber",
+          "text": "Using for homeschool and it is so nice to have my lessons all planned out in one place.",
+          "reply": null,
+          "replyDate": null,
+          "url": "https://play.google.com/store/apps/details?id=com.planbook.lessonplanner&reviewId=d4e81ded-14d6-4154-b447-64e20e45878d"
+        },
+        {
+          "date": "2022-07-11T03:54:27.902Z",
+          "score": 4,
+          "thumbsUp": 1,
+          "user": "Rachel March",
+          "text": "I love how you can repeat or bump a lesson forward. For special education, where we alter our plans often, this is a fabulous feature!",
+          "reply": "We're glad to hear, Rachel. Thanks for your review!",
+          "replyDate": "2022-07-11T15:40:51.784Z",
+          "url": "https://play.google.com/store/apps/details?id=com.planbook.lessonplanner&reviewId=4997a5b7-430d-4d52-bca7-7df984c1137f"
+        },
+        {
+          "date": "2022-06-20T23:06:23.132Z",
+          "score": 5,
+          "thumbsUp": 0,
+          "user": "Jen Ahumada",
+          "text": "Definitely makes my life easier having an app to use while lesson planning at home.",
+          "reply": "Thanks for your great review, Jen!",
+          "replyDate": "2022-06-23T17:03:04.891Z",
+          "url": "https://play.google.com/store/apps/details?id=com.planbook.lessonplanner&reviewId=7472a8bc-eb5a-4f98-a033-30ca7f175dfd"
+        },
+        {
+          "date": "2022-06-03T21:49:29.927Z",
+          "score": 1,
+          "thumbsUp": 0,
+          "user": "A Google user",
+          "text": "I've been trying to download the app for two days. It doesn't ever load so that I may open it.",
+          "reply": "Sorry for the trouble. Would you please email us at support@planbook.com? We would like to work together to have this resolved as soon as possible. Thank you!",
+          "replyDate": "2022-06-06T15:00:43.972Z",
+          "url": "https://play.google.com/store/apps/details?id=com.planbook.lessonplanner&reviewId=f336a9e8-5828-46a8-88ad-a041ac970388"
+        },
+        {
+          "date": "2022-05-17T16:13:36.230Z",
+          "score": 1,
+          "thumbsUp": 1,
+          "user": "Cheyenne Fedunok",
+          "text": "I couldn't even test out the app because it continual crashed whenever I clicked something.",
+          "reply": "Hi Cheyenne,\n\nSorry for hear about the trouble. We would like to get this resolved for you. If you can reach out to support@planbook.com, we'll attempt to resolve that as soon as possible. Thank you!",
+          "replyDate": "2022-05-23T13:51:17.411Z",
+          "url": "https://play.google.com/store/apps/details?id=com.planbook.lessonplanner&reviewId=800ae646-8bb7-415c-b917-b29d37bb6240"
+        },
+        {
+          "date": "2022-05-13T01:48:25.889Z",
+          "score": 1,
+          "thumbsUp": 5,
+          "user": "Jason M",
+          "text": "Broken app. Nothing works, just like their website. Don't bother. Edit/update: tried the reinstall, still bugged to hell. Pencil and notepad are honestly faster and more reliable at this point.",
+          "reply": "Hi Jason, we're very sorry for the trouble. We recommend attempting to uninstall, then re-install the app to see if this helps to resolve the problem. If not, please reach out to support@planbook.com and we can investigate further to resolve this issue.",
+          "replyDate": "2022-05-12T19:57:04.694Z",
+          "url": "https://play.google.com/store/apps/details?id=com.planbook.lessonplanner&reviewId=543e2720-e98e-447e-baa6-8e3596324c65"
+        },
+        {
+          "date": "2022-05-09T11:37:28.129Z",
+          "score": 5,
+          "thumbsUp": 1,
+          "user": "Toni Morgan",
+          "text": "I love Planbook. Best thing I've seen for helping me stay balanced and sane. I can access it from my phone and it does everything but make my bed. ;)",
+          "reply": "Thanks for your great review Toni! We appreciate your kind words. Please reach out to us at any time if you have any questions or concerns.",
+          "replyDate": "2022-05-09T13:58:26.649Z",
+          "url": "https://play.google.com/store/apps/details?id=com.planbook.lessonplanner&reviewId=e62c73c0-9716-48e4-905d-9a95e9f5cdf0"
+        },
+        {
+          "date": "2022-03-28T11:56:52.879Z",
+          "score": 3,
+          "thumbsUp": 0,
+          "user": "Kristina Cook",
+          "text": "overcomplicated I wish it counted hours and flowed nicer",
+          "reply": "Thank you for the review Kristina, we really appreciate your feedback. We always want to improve and are always working on making Planbook easier to use.",
+          "replyDate": "2022-03-30T13:51:38.538Z",
+          "url": "https://play.google.com/store/apps/details?id=com.planbook.lessonplanner&reviewId=637823a4-c46f-4b8a-a7c4-6d6c372e899e"
+        },
+        {
+          "date": "2022-03-24T04:42:50.600Z",
+          "score": 5,
+          "thumbsUp": 0,
+          "user": "Amanda Elaine Standifer",
+          "text": "Works well.",
+          "reply": "Thank you for the review Amanda!",
+          "replyDate": "2022-03-24T13:31:17.118Z",
+          "url": "https://play.google.com/store/apps/details?id=com.planbook.lessonplanner&reviewId=780cd2d9-6ec1-46d7-8bea-4108380bfa34"
+        },
+        {
+          "date": "2022-03-02T19:06:30.179Z",
+          "score": 5,
+          "thumbsUp": 0,
+          "user": "Jennie Stretton",
+          "text": "Love it. The digital planner I've always searched for",
+          "reply": "Thanks so much Jennie, we appreciate the great review! Please don't hesitate to reach out to support@planbook.com if we can help with anything.",
+          "replyDate": "2022-03-03T14:18:55.773Z",
+          "url": "https://play.google.com/store/apps/details?id=com.planbook.lessonplanner&reviewId=6ad58a94-5b51-44b5-adba-eb25c27be54e"
+        },
+        {
+          "date": "2021-12-15T21:13:32.361Z",
+          "score": 5,
+          "thumbsUp": 0,
+          "user": "josua van der merwe",
+          "text": "Good",
+          "reply": "Thanks so much!",
+          "replyDate": "2021-12-16T15:29:06.924Z",
+          "url": "https://play.google.com/store/apps/details?id=com.planbook.lessonplanner&reviewId=afd1f25b-496d-4e62-92fe-4ddb2c7c7436"
+        },
+        {
+          "date": "2021-12-12T17:16:33.184Z",
+          "score": 5,
+          "thumbsUp": 0,
+          "user": "Sara Trindade",
+          "text": "Awesome",
+          "reply": "Thanks for your review Sara!",
+          "replyDate": "2021-12-14T17:38:20.618Z",
+          "url": "https://play.google.com/store/apps/details?id=com.planbook.lessonplanner&reviewId=63e03251-ea34-474b-bb46-138dd43d2d41"
+        },
+        {
+          "date": "2021-12-11T19:33:02.936Z",
+          "score": 5,
+          "thumbsUp": 3,
+          "user": "Steve Best",
+          "text": "Very good tool to also help parents keep up with and plan studies for class work & homework. The only improvement I would like to see is a 'Last modified on Date' timestamp on Plan page to help alert parents that something has changed in the original/previous plan. An option SMS/notification/email alert about change would be even better.",
+          "reply": "Thanks so much for the great review and feedback! We'll pass along the timestamp request and alert notification ideas to our team! Please reach out to support@planbook.com with any questions in the future and have a great day!",
+          "replyDate": "2021-12-14T17:38:06.167Z",
+          "url": "https://play.google.com/store/apps/details?id=com.planbook.lessonplanner&reviewId=9994c739-2b58-4440-894c-fb466542f044"
+        },
+        {
+          "date": "2021-11-30T10:46:27.362Z",
+          "score": 5,
+          "thumbsUp": 0,
+          "user": "Sigrid Houston",
+          "text": "This is my go to planning tool. I can see my lesson plans in multiple ways, and I can easily edit any existing plans. I also have access to my plans from previous years. It's a huge time saver!",
+          "reply": "Thank you Sigrid! Saving time is our goal and we love hearing that! Please reach out to us if we can assist with anything in the future and we appreciate you using Planbook!",
+          "replyDate": "2021-12-02T14:57:48.917Z",
+          "url": "https://play.google.com/store/apps/details?id=com.planbook.lessonplanner&reviewId=3cef2e04-6270-45a2-93d7-f09d1cf4b856"
+        },
+        {
+          "date": "2021-11-29T13:33:54.894Z",
+          "score": 5,
+          "thumbsUp": 0,
+          "user": "Haley Hammons",
+          "text": "Sooooo easy! I love that you can input the standards!",
+          "reply": "Thank you Haley! Please reach out to us at support@planbook.com if there are any standards we can get added for you!",
+          "replyDate": "2021-11-29T20:12:57.356Z",
+          "url": "https://play.google.com/store/apps/details?id=com.planbook.lessonplanner&reviewId=2ef4a4b9-0672-4216-a02e-0affaa02be32"
+        },
+        {
+          "date": "2021-11-21T16:48:13.260Z",
+          "score": 4,
+          "thumbsUp": 2,
+          "user": "Leeland Johnson",
+          "text": "This app is amazing and the program is very affordable compared to online lesson planners that are comparable. It's easy to use and helps me keep my lessons together. I hope to get my school on it so lesson plans can be shared easier. Right now I have to save it as a pdf and send the file. It would be nice to be able to share my lessons with working links. Also, be warned that as it stands there is no way to retrieve a lesson of it gets deleted. If not for this I would give the app five stars.",
+          "reply": "Thank you so much for your review! Currently, you may create a link to share your plans on the browser version of Planbook under the \"Sharing Options\" page, and we hope to bring this functionality to the app in a future update. We agree that we need better undo options and we're working on that! Thanks again and have a great day!",
+          "replyDate": "2021-11-23T17:20:41.939Z",
+          "url": "https://play.google.com/store/apps/details?id=com.planbook.lessonplanner&reviewId=980c3656-6def-4e67-88be-b429bbc59a21"
+        },
+        {
+          "date": "2021-11-17T16:58:59.514Z",
+          "score": 5,
+          "thumbsUp": 0,
+          "user": "Kagl Alois",
+          "text": "Hope will help",
+          "reply": "Thank you! If you need any assistance, please don't hesitate to reach out to support@planbook.com!",
+          "replyDate": "2021-11-18T15:19:54.246Z",
+          "url": "https://play.google.com/store/apps/details?id=com.planbook.lessonplanner&reviewId=ea0e9a82-a13a-4b90-8587-6c1f9c46e3cf"
+        },
+        {
+          "date": "2021-11-05T16:44:53.319Z",
+          "score": 5,
+          "thumbsUp": 0,
+          "user": "Lisa Deguire",
+          "text": "Excellent platform for planning has adapted to user needs",
+          "reply": "Thank you Lisa! We really appreciate it! Please reach out to us if we can help with anything in the future.",
+          "replyDate": "2021-11-09T16:18:31.552Z",
+          "url": "https://play.google.com/store/apps/details?id=com.planbook.lessonplanner&reviewId=ed5ada1c-5f41-499c-a052-2c84ef3d643f"
+        },
+        {
+          "date": "2021-11-02T08:53:03.900Z",
+          "score": 5,
+          "thumbsUp": 0,
+          "user": "Chris Daig",
+          "text": "Excellent and thanks for your help.",
+          "reply": "Thank you Christa!",
+          "replyDate": "2021-11-03T17:08:05.142Z",
+          "url": "https://play.google.com/store/apps/details?id=com.planbook.lessonplanner&reviewId=da934d20-8a9f-4bc1-b8c4-6a0fde4c165e"
+        },
+        {
+          "date": "2021-10-26T10:33:18.516Z",
+          "score": 5,
+          "thumbsUp": 1,
+          "user": "Breane Cory",
+          "text": "Like all teachers, I am very busy professionally and personally. After school, I'm running my boys around to soccer, wrestling, tutoring, or a book club. Having easy access to my plans is a life saver.",
+          "reply": "Thank you Breane! Very happy you are enjoying the app. If you need anything in the future, please reach out to us at support@planbook.com!",
+          "replyDate": "2021-10-26T14:22:03.750Z",
+          "url": "https://play.google.com/store/apps/details?id=com.planbook.lessonplanner&reviewId=2e21d048-a780-4dcf-b458-4bbb411496c0"
+        },
+        {
+          "date": "2021-10-19T07:10:26.465Z",
+          "score": 1,
+          "thumbsUp": 1,
+          "user": "WoW I like it",
+          "text": "Worst. It asking lots of 💰💰💰💰💰💰💰 . I am a student its asking money.",
+          "reply": "Hello, sorry for any trouble. The price of a Planbook subscription is $15.00 per year and this includes the website and mobile apps. There is no charge for student accounts. If you are seeing a different price or other charges, please reach out to us at support@planbook.com and we'll look into this right away! Thanks so much!",
+          "replyDate": "2021-10-18T15:44:56.781Z",
+          "url": "https://play.google.com/store/apps/details?id=com.planbook.lessonplanner&reviewId=cc9513fc-5197-4c04-baf3-007c3f0c18c3"
+        },
+        {
+          "date": "2021-09-24T15:39:01.146Z",
+          "score": 5,
+          "thumbsUp": 4,
+          "user": "Jesse",
+          "text": "Excellent application for planning and executing home school. Easy lesson planning and easy to change and update on the fly. Plenty of options for notes and comments. Several advanced features that I have not used yet as my 5 year old does not have a need for the advanced opportunities this app offers. Easy account setup with global login allows both parents to access and ability to update in real time.",
+          "reply": "Thank you Jesse!! We love hearing that Planbook makes things easier for you, and we really appreciate your great review. Please reach out to us in the future if we can help with anything!",
+          "replyDate": "2021-09-29T16:31:16.947Z",
+          "url": "https://play.google.com/store/apps/details?id=com.planbook.lessonplanner&reviewId=a971f602-d225-4f06-9a5f-220ad3d98699"
+        },
+        {
+          "date": "2021-09-22T06:47:57.148Z",
+          "score": 5,
+          "thumbsUp": 5,
+          "user": "Paul Gratrix",
+          "text": "I have always preffered an online planner to a paper one and for years used idoceo on an iPad because there wasn't a pc/android alternative that came close....then I found planbook. At last an app/software that works, obviously developed by a teacher and does everything a teacher needs. Well done developers , your efforts are greatly appreciated!",
+          "reply": "Thanks for your review Paul, we are so happy to hear that!\n\nPlease reach out to us if we can assist with anything in the future!",
+          "replyDate": "2021-09-23T14:55:13.353Z",
+          "url": "https://play.google.com/store/apps/details?id=com.planbook.lessonplanner&reviewId=e2820090-f2a1-41b3-8332-593fb502cf45"
+        },
+        {
+          "date": "2021-08-31T23:21:00.395Z",
+          "score": 5,
+          "thumbsUp": 17,
+          "user": "Brian Cusack",
+          "text": "I have been using this site/app for years and I absolutely love it. It is very well designed and flexible for unique schedules. I share my plans with links for high school students and it is an amazing tool to help them keep organized and informed. I use the phone app for quick checks during my instruction and the website for building my plans. HIGHLY recommended for any teacher! It is well worth the cost instead of buying a physical planner.",
+          "reply": "Thank you Brian, we really appreciate your review and we're happy to hear we're helping to make things easier. Please reach out to support@planbook.com with any questions or concerns in the future!",
+          "replyDate": "2021-09-16T14:54:17.156Z",
+          "url": "https://play.google.com/store/apps/details?id=com.planbook.lessonplanner&reviewId=22778ef5-dcf4-4992-80b8-c4121f8942ea"
+        },
+        {
+          "date": "2021-08-24T09:49:43.283Z",
+          "score": 5,
+          "thumbsUp": 3,
+          "user": "Susan Macintyre",
+          "text": "A few years ago my district used this and it was great. Then there was a change in administration and they got rid of the district license. Then COVID-19 hit and we went hybrid. I changed the way I did my lesson planning, (used Google Slides). It was a pain, but it worked for the situation. Now we are back to being in the classroom and I have decided to use Planbook again and pay for it myself because I think it's worth it. I hope I'm not disappointed.",
+          "reply": "Thanks so much Susan! We really appreciate your review! If you need help with anything in the future, please reach out to support@planbook.com.",
+          "replyDate": "2021-09-16T14:53:02.600Z",
+          "url": "https://play.google.com/store/apps/details?id=com.planbook.lessonplanner&reviewId=f35d3dea-16bb-408c-8a33-f1b7481bd4f4"
+        },
+        {
+          "date": "2021-08-15T22:10:12.178Z",
+          "score": 5,
+          "thumbsUp": 1,
+          "user": "Diana Hernandez",
+          "text": "Amazing! Love the features.",
+          "reply": "Thanks so much Diana! Very happy to hear you are enjoying Planbook and we really appreciate your review.",
+          "replyDate": "2021-09-16T14:52:19.560Z",
+          "url": "https://play.google.com/store/apps/details?id=com.planbook.lessonplanner&reviewId=99700b5c-681e-4c6a-b7ca-77dcc8430626"
+        },
+        {
+          "date": "2021-08-11T10:17:49.720Z",
+          "score": 5,
+          "thumbsUp": 1,
+          "user": "Sharon Stewart",
+          "text": "Fantastic! It makes writing lesson so organized and easy.",
+          "reply": "Thanks so much for your great review Sharon! Please reach out to support@planbook.com if we can help with anything in the future.",
+          "replyDate": "2021-09-16T14:51:53.750Z",
+          "url": "https://play.google.com/store/apps/details?id=com.planbook.lessonplanner&reviewId=394b37ac-782e-4fa1-bf8a-42bbab945940"
+        },
+        {
+          "date": "2021-07-29T02:52:21.644Z",
+          "score": 5,
+          "thumbsUp": 4,
+          "user": "Kevin Giggy",
+          "text": "The best online planbook available. You can tell that this one was developed by either a teacher or someone who has actually talked to a teacher and listened to know what teachers really need. You won't find one better than this.",
+          "reply": "Thanks for the great review Kevin! We really appreciate it and please reach out to us at support@planbook.com if we can help with anything in the future.",
+          "replyDate": "2021-09-16T14:49:53.714Z",
+          "url": "https://play.google.com/store/apps/details?id=com.planbook.lessonplanner&reviewId=7c4332a9-9849-49c5-96d8-297768bfde76"
+        },
+        {
+          "date": "2021-06-10T17:40:30.891Z",
+          "score": 5,
+          "thumbsUp": 5,
+          "user": "Karlee Lewis",
+          "text": "It helps me and my teachers with my grades. It is very organized and I can see my grade at all times no matter what time it is!",
+          "reply": "Hi Karlee, thanks so much for your review! We are so happy to hear you are enjoying the app! If we can help with anything in the future, please don't hesitate to reach out to us at support@planbook.com. Have a great day!",
+          "replyDate": "2021-06-10T18:25:38.147Z",
+          "url": "https://play.google.com/store/apps/details?id=com.planbook.lessonplanner&reviewId=5074a5c0-0735-41ac-afd0-7889e52fe645"
+        }
+      ]
+    },
+    "_t18_tuition": {
+      "app": "odt.com.ozel_ders_takip_uyg",
+      "country": "us",
+      "total": 1,
+      "reviews": [
+        {
+          "date": "2023-11-03T17:10:19.329Z",
+          "score": 1,
+          "thumbsUp": 0,
+          "user": "Bilal Sungur",
+          "text": "Kurum eklenmiyor. App çöküyor kurum ekle deyince. Update gerekli",
+          "reply": "Hocam kurum isminin içinde boşluk veya sayı varsa ondan dolayı olabilir",
+          "replyDate": "2023-11-03T17:11:53.722Z",
+          "url": "https://play.google.com/store/apps/details?id=odt.com.ozel_ders_takip_uyg&reviewId=65fd4605-6b87-4e0f-bee8-3ce2205cd9bb"
+        }
+      ]
+    },
+    "_t18_lestrkr": {
+      "app": "com.LillaBelly.lessontrackerpro.lessontrackerpro",
+      "country": "us",
+      "total": 0,
+      "reviews": []
+    },
+    "_t18_ttrkr": {
+      "app": "com.mhhijab.tutoring_tracker",
+      "country": "us",
+      "total": 1,
+      "reviews": [
+        {
+          "date": "2025-10-18T05:10:36.435Z",
+          "score": 5,
+          "thumbsUp": 0,
+          "user": "Aaliyah Campbell",
+          "text": "Very easy to use and helps keep track of students and money earned. Hassle free and worth the download. My only wish is if I could put the times for lessons on the calendar as appointments and be able to set an appointment for the upcoming month.",
+          "reply": null,
+          "replyDate": null,
+          "url": "https://play.google.com/store/apps/details?id=com.mhhijab.tutoring_tracker&reviewId=6eb43811-9587-48f0-9548-678af50af575"
+        }
+      ]
+    },
+    "_t18_strkr": {
+      "app": "com.teacher.studentrackerapp",
+      "country": "us",
+      "total": 3,
+      "reviews": [
+        {
+          "date": "2025-07-18T02:30:38.341Z",
+          "score": 2,
+          "thumbsUp": 0,
+          "user": "Sanwar Hossain",
+          "text": "need call button",
+          "reply": null,
+          "replyDate": null,
+          "url": "https://play.google.com/store/apps/details?id=com.teacher.studentrackerapp&reviewId=8009c46e-9492-4d6a-9cf2-c6a3a7bbd1b8"
+        },
+        {
+          "date": "2025-03-26T12:47:06.416Z",
+          "score": 3,
+          "thumbsUp": 0,
+          "user": "Sritharan Anathakrishnar",
+          "text": "Excellent app, but student details no edit or delete",
+          "reply": null,
+          "replyDate": null,
+          "url": "https://play.google.com/store/apps/details?id=com.teacher.studentrackerapp&reviewId=1fa9e02b-1fee-441f-9eab-6c27a2d73e62"
+        },
+        {
+          "date": "2025-02-08T12:27:25.607Z",
+          "score": 3,
+          "thumbsUp": 0,
+          "user": "Jason M",
+          "text": "Would be nice if we weren't FORCED to use the father as the main parent. Some of my students no longer have a father. Others are orphans and don't have either parent. Changing this to \"parent/guardian\" would give the app more global diversity. Please don't make all of the fields a MANDATORY field. It may be something used in your country or situation - but almost NONE of these options apply in other countries. Overall, it looks promising, but needs more consideration for globalization.",
+          "reply": null,
+          "replyDate": null,
+          "url": "https://play.google.com/store/apps/details?id=com.teacher.studentrackerapp&reviewId=fa751733-ba2c-4961-91fd-6f4c51b158a4"
+        }
+      ]
+    }
+  }
+}

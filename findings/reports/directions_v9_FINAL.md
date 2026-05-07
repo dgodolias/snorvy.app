@@ -717,15 +717,19 @@ Reasons (refined v9):
 - **$50** → ProductHunt launch (high-impact for B2B SaaS launches)
 - **$50** → Reddit Promoted on r/freelance + r/Entrepreneur
 
-### Sequencing (12-month)
+### Sequencing (12-month, REVISED v9)
 
-- **Month 1-2**: Ship Invoice Simple alt (Direction 1) → US/GB launch
+- **Month 1-2**: Ship Invoice Simple alt (Direction 1) "FairBill" → US/GB launch
 - **Month 3**: If traction (>200 paid), expand to CA + AU (no localization, just ASA)
-- **Month 4-5**: Build Direction 4 (DE Kleinunternehmer) leveraging Direction 1's codebase + German localization
-- **Month 6-8**: Build Direction 2 (QBSE + Schedule C combo) as second product OR add Schedule C module to Direction 1's premium tier
-- **Month 9-12**: Build Direction 3 (Honest Gig Tracker) with shared GPS/Schedule C modules
+- **Month 4-5**: Build Direction 2 (QBSE + Solopreneur + Schedule C combo) — leverage Direction 1's invoice codebase + add Schedule C estimator module + ML Kit OCR receipt module (absorbs Direction 5)
+- **Month 6**: Direction 2 launch coinciding with US Q1 2027 tax filing season prep
+- **Month 7-8**: Build Direction 4a (DE Kleinunternehmer §19) leveraging Direction 1's codebase + German localization + GoBD-compliant local archive
+- **Month 9-10**: Build Direction 4b (PL JDG KSeF) — Polish UI + KSeF API integration **timed for active KSeF migration**. Also assess if Direction 4 launch is "too late" past KSeF panic peak (Apr 2026) — may need to ship Direction 4b earlier if Direction 1 traction is fast.
+- **Month 11-12**: Build Direction 3 (Honest Gig Tracker) with shared GPS/Schedule C modules from Direction 2
 
-This sequencing maximizes shared infrastructure: SQLite schema, PDF generator, Schedule C estimator, Multi-currency UI, GPS tracking — all reusable across Directions 1+2+3+4.
+This sequencing maximizes shared infrastructure: SQLite schema, PDF generator, Schedule C estimator, ML Kit OCR receipts, Multi-currency UI, GPS tracking — all reusable across Directions 1+2+3+4.
+
+**Alternate path — PL-first**: If user has high tolerance for KSeF complexity, ship Direction 4b (Polish KSeF-native) BEFORE Direction 1 to ride the Apr 2026 deadline panic. Higher risk + higher upside (entire Polish JDG market mandatory-migrating in 11 months).
 
 ### Failure mode honesty (UPDATED v9 post-Agent 8)
 
@@ -737,15 +741,19 @@ This sequencing maximizes shared infrastructure: SQLite schema, PDF generator, S
 
 **Revenue confirmation**: Invoice Simple ~**$35M/year** revenue per Sensor Tower preview. 1% capture = $350k/year. TAM validated.
 
-### Quick effort/upside cheat-sheet
+### Quick effort/upside cheat-sheet (REVISED v9)
 
 | If you have... | Pick |
 |---|---|
-| <4 weeks → ship something | 🥇 Direction 1 (Invoice Simple displacement) |
-| 8-10 weeks → highest-ceiling US play | 🥈 Direction 2 (QBSE + Schedule C combo) |
-| Tax season Q1 → highest seasonal upside | 🥉 Direction 3 (Honest Gig Tracker) |
-| Want EU market diversification | Direction 4 (DE Kleinunternehmer §19) |
-| Want a tightly-scoped utility | Direction 5 (Smart Receipts displace) |
+| <4 weeks → ship something | 🥇 Direction 1 ("FairBill" Invoice Simple displacement) |
+| 8-12 weeks → highest-ceiling US play | 🥈 Direction 2 (QBSE+Solopreneur+Schedule C combo) — 2M+ install displacement market |
+| 11-month deadline opportunity (PL KSeF Apr 2026) | 🥉 Direction 4b (Poland JDG KSeF-native) — riding the panic wave |
+| Tax season Q1 2027 → highest seasonal upside | Direction 3 (Honest Gig Tracker) |
+| Want EU multi-country footprint | Direction 4 (DE+PL+NL shared codebase) |
+| Want a tightly-scoped utility | (merge Direction 5 receipt module into Direction 2) |
+| Highest single-niche TAM | Direction 1 ($35M/year market validated) |
+| Highest user-voice intensity (verbatim rage) | Direction 2 (201/125/105 thumb-count Solopreneur quotes) |
+| Highest cross-source validation | Direction 1 (Reddit comment-tree + iOS + Android + 4 countries) |
 
 ---
 

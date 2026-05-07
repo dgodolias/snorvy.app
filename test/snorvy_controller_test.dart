@@ -6,6 +6,7 @@ import 'package:flutter_test/flutter_test.dart';
 import 'package:snorvy/src/app/snorvy_controller.dart';
 import 'package:snorvy/src/data/app_database.dart';
 import 'package:snorvy/src/services/audio_playback.dart';
+import 'package:snorvy/src/services/recording_foreground_service.dart';
 import 'package:snorvy/src/services/recording_exporter.dart';
 import 'package:snorvy/src/services/sleep_recorder.dart';
 import 'package:snorvy/src/services/unlock_repository.dart';
@@ -59,6 +60,53 @@ void main() {
     expect(controller.recordingSession.status, RecordingStatus.recording);
   });
 
+  test(
+    'starts and stops the foreground notification around recording',
+    () async {
+      final database = AppDatabase(NativeDatabase.memory());
+      final recorder = _CountingSleepRecorder();
+      final foregroundService = _FakeRecordingForegroundService();
+      final controller = _buildController(
+        database: database,
+        recorder: recorder,
+        foregroundService: foregroundService,
+      );
+      addTearDown(controller.dispose);
+
+      await controller.initialize();
+      await controller.startRecording();
+      await controller.stopRecording();
+
+      expect(foregroundService.configureCalls, 1);
+      expect(foregroundService.startCalls, 1);
+      expect(foregroundService.stopCalls, greaterThanOrEqualTo(1));
+      expect(controller.nights, hasLength(1));
+    },
+  );
+
+  test('stops recorder when foreground notification cannot start', () async {
+    final database = AppDatabase(NativeDatabase.memory());
+    final recorder = _CountingSleepRecorder();
+    final foregroundService = _FakeRecordingForegroundService(
+      startResult: false,
+    );
+    final controller = _buildController(
+      database: database,
+      recorder: recorder,
+      foregroundService: foregroundService,
+    );
+    addTearDown(controller.dispose);
+
+    await controller.initialize();
+    await controller.startRecording();
+
+    expect(recorder.startCalls, 1);
+    expect(recorder.stopCalls, 1);
+    expect(controller.recordingSession.status, RecordingStatus.idle);
+    expect(controller.nights, isEmpty);
+    expect(controller.statusMessage, contains('notification'));
+  });
+
   test('deletes a saved night and its local recording file', () async {
     final database = AppDatabase(NativeDatabase.memory());
     final recorder = _CountingSleepRecorder();
@@ -93,6 +141,7 @@ void main() {
 SnorvyController _buildController({
   required AppDatabase database,
   required _CountingSleepRecorder recorder,
+  RecordingForegroundService? foregroundService,
   UnlockRepository? unlockRepository,
 }) {
   return SnorvyController(
@@ -100,12 +149,15 @@ SnorvyController _buildController({
     recorder: recorder,
     audioPlayback: _FakeAudioPlayback(),
     recordingExporter: _FakeRecordingExporter(),
+    recordingForegroundService:
+        foregroundService ?? _FakeRecordingForegroundService(),
     unlockRepository: unlockRepository ?? _FakeUnlockRepository(),
   );
 }
 
 class _CountingSleepRecorder implements SleepRecorder {
   int startCalls = 0;
+  int stopCalls = 0;
   RecordingSession _session = const RecordingSession(
     status: RecordingStatus.idle,
   );
@@ -123,12 +175,38 @@ class _CountingSleepRecorder implements SleepRecorder {
 
   @override
   Future<RecordingSession> stopNightRecording() async {
+    stopCalls += 1;
     _session = RecordingSession(
       status: RecordingStatus.idle,
       filePath: _session.filePath,
       startedAt: _session.startedAt,
     );
     return _session;
+  }
+}
+
+class _FakeRecordingForegroundService implements RecordingForegroundService {
+  _FakeRecordingForegroundService({this.startResult = true});
+
+  final bool startResult;
+  int configureCalls = 0;
+  int startCalls = 0;
+  int stopCalls = 0;
+
+  @override
+  Future<void> configure() async {
+    configureCalls += 1;
+  }
+
+  @override
+  Future<bool> startRecordingNotification({DateTime? startedAt}) async {
+    startCalls += 1;
+    return startResult;
+  }
+
+  @override
+  Future<void> stopRecordingNotification() async {
+    stopCalls += 1;
   }
 }
 

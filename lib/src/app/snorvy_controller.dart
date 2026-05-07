@@ -5,6 +5,7 @@ import 'package:flutter/foundation.dart';
 import 'package:snorvy/src/data/app_database.dart';
 import 'package:snorvy/src/domain/sleep_models.dart';
 import 'package:snorvy/src/services/audio_playback.dart';
+import 'package:snorvy/src/services/recording_foreground_service.dart';
 import 'package:snorvy/src/services/recording_exporter.dart';
 import 'package:snorvy/src/services/sleep_recorder.dart';
 import 'package:snorvy/src/services/unlock_repository.dart';
@@ -15,11 +16,13 @@ class SnorvyController extends ChangeNotifier {
     required SleepRecorder recorder,
     required AudioPlayback audioPlayback,
     required RecordingExporter recordingExporter,
+    required RecordingForegroundService recordingForegroundService,
     required UnlockRepository unlockRepository,
   }) : _database = database,
        _recorder = recorder,
        _audioPlayback = audioPlayback,
        _recordingExporter = recordingExporter,
+       _recordingForegroundService = recordingForegroundService,
        _unlockRepository = unlockRepository;
 
   factory SnorvyController.production() {
@@ -28,6 +31,7 @@ class SnorvyController extends ChangeNotifier {
       recorder: FlutterSoundSleepRecorder(),
       audioPlayback: FlutterSoundAudioPlayback(),
       recordingExporter: LocalRecordingExporter(),
+      recordingForegroundService: createRecordingForegroundService(),
       unlockRepository: createUnlockRepository(),
     );
   }
@@ -36,6 +40,7 @@ class SnorvyController extends ChangeNotifier {
   final SleepRecorder _recorder;
   final AudioPlayback _audioPlayback;
   final RecordingExporter _recordingExporter;
+  final RecordingForegroundService _recordingForegroundService;
   final UnlockRepository _unlockRepository;
   StreamSubscription<UnlockState>? _unlockSubscription;
 
@@ -77,6 +82,11 @@ class SnorvyController extends ChangeNotifier {
     });
 
     _unlockState = await _unlockRepository.load();
+    try {
+      await _recordingForegroundService.configure();
+    } on Exception {
+      _statusMessage = 'Overnight recording notification setup failed.';
+    }
     await _loadNights();
   }
 
@@ -97,18 +107,56 @@ class SnorvyController extends ChangeNotifier {
       }
 
       final session = await _recorder.startNightRecording();
+      if (session.status == RecordingStatus.recording) {
+        final foregroundStarted = await _startForegroundServiceOrStopRecorder(
+          session,
+        );
+        if (!foregroundStarted) {
+          _statusMessage =
+              'Could not start the overnight recording notification.';
+          return;
+        }
+      }
+
       _recordingSession = session;
       _statusMessage = switch (session.status) {
         RecordingStatus.permissionDenied =>
           'Microphone permission is needed for overnight recording.',
         RecordingStatus.recording =>
-          'Recording started. Audio stays on device.',
+          'Recording started. Snorvy will keep a visible notification overnight.',
         RecordingStatus.idle => null,
       };
     } on Exception {
       _statusMessage = 'Could not start the recorder.';
     } finally {
       _setBusy(false);
+    }
+  }
+
+  Future<bool> _startForegroundServiceOrStopRecorder(
+    RecordingSession session,
+  ) async {
+    try {
+      final foregroundStarted = await _recordingForegroundService
+          .startRecordingNotification(startedAt: session.startedAt);
+      if (foregroundStarted) {
+        return true;
+      }
+    } on Exception {
+      // The foreground notification is required for a trustworthy overnight
+      // recording. Stop the mic session rather than silently recording without it.
+    }
+
+    await _recorder.stopNightRecording();
+    _recordingSession = const RecordingSession(status: RecordingStatus.idle);
+    return false;
+  }
+
+  Future<void> _stopForegroundNotificationSilently() async {
+    try {
+      await _recordingForegroundService.stopRecordingNotification();
+    } on Exception {
+      _statusMessage = 'Recording saved, but notification cleanup failed.';
     }
   }
 
@@ -122,6 +170,7 @@ class SnorvyController extends ChangeNotifier {
       final startedAt = _recordingSession.startedAt;
       final filePath = _recordingSession.filePath;
       final stoppedSession = await _recorder.stopNightRecording();
+      await _stopForegroundNotificationSilently();
       _recordingSession = stoppedSession;
 
       if (startedAt != null && filePath != null) {
@@ -353,6 +402,7 @@ class SnorvyController extends ChangeNotifier {
   @override
   void dispose() {
     unawaited(_unlockSubscription?.cancel());
+    unawaited(_stopForegroundNotificationSilently());
     unawaited(_unlockRepository.dispose());
     unawaited(_audioPlayback.dispose());
     unawaited(_database.close());

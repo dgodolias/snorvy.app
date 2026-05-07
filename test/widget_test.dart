@@ -7,6 +7,7 @@ import 'package:snorvy/src/app/snorvy_app.dart';
 import 'package:snorvy/src/app/snorvy_controller.dart';
 import 'package:snorvy/src/data/app_database.dart';
 import 'package:snorvy/src/services/audio_playback.dart';
+import 'package:snorvy/src/services/recording_foreground_service.dart';
 import 'package:snorvy/src/services/recording_exporter.dart';
 import 'package:snorvy/src/services/sleep_recorder.dart';
 import 'package:snorvy/src/services/unlock_repository.dart';
@@ -114,6 +115,7 @@ SnorvyController _buildController() {
     recorder: _FakeSleepRecorder(),
     audioPlayback: _FakeAudioPlayback(),
     recordingExporter: _FakeRecordingExporter(),
+    recordingForegroundService: const NoopRecordingForegroundService(),
     unlockRepository: _FakeUnlockRepository(),
   );
 }

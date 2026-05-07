@@ -40,7 +40,7 @@ Current Android permissions:
 
 Plugin-added legacy permissions for storage, phone state, Bluetooth, boot completed, and audio output are removed during Android manifest merge.
 
-Before production release, verify that every permission has user-facing rationale in onboarding and Play Console. The microphone foreground service needs a clear demo video and persistent notification behavior.
+Before production release, verify that every permission has user-facing rationale in onboarding and Play Console. The microphone foreground service needs a clear demo video showing the persistent recording notification.
 
 ## Local Release Artifact
 
@@ -52,7 +52,6 @@ The upload key and signing config are ignored by Git. Back them up in a secure p
 
 ## Remaining Before Production Track
 
-- Add persistent foreground notification for overnight recording.
 - Add real app icon and Play Store 512x512 icon.
 - Back up the upload keystore and credentials outside the repo.
 - Upload to internal testing first.

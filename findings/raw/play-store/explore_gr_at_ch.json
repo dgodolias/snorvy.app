@@ -1,0 +1,108 @@
+{
+  "tick": 23,
+  "date": "2026-05-07",
+  "scope": "GR/AT/CH market scan",
+  "GR": {
+    "legal_finding_2026": {
+      "myDATA_exempt_threshold": "NONE — no entity exempt from myDATA participation",
+      "B2B_einvoicing_mandatory": "2026-02-02 large biz (>€1M 2023 GR), 2026-10-01 ALL OTHER businesses including solo professionals (μπλοκάκι)",
+      "penalties": "€3,928 sample fine upheld 2025; constitutional challenge pending Council of State",
+      "implication": "Every Greek freelancer mandatory in myDATA by Oct 2026 — captive market"
+    },
+    "candidates": [
+      {
+        "appId": "com.myaadeapp",
+        "title": "myAADEapp",
+        "developer": "AADE official",
+        "installs": "500,000+",
+        "score": 4.12,
+        "ratings": 1983,
+        "histogram": {"1": 269, "2": 106, "3": 74, "4": 193, "5": 1335},
+        "low_pct_lifetime": 0.189,
+        "recent_low_pct_sampled": 0.40,
+        "top_complaints": ["login won't persist", "crashes on payment redirect", "no installments", "tablet incompat"]
+      },
+      {
+        "appId": "gr.aade.mydataapp",
+        "title": "myDATAapp",
+        "developer": "AADE official",
+        "installs": "100,000+",
+        "score": 3.31,
+        "ratings": 232,
+        "histogram": {"1": 71, "2": 17, "3": 15, "4": 17, "5": 107},
+        "low_pct_lifetime": 0.379,
+        "recent_low_pct_sampled": 0.579,
+        "top_complaints": [
+          "Last update REMOVED ψηφιακό πελατολόγιο (digital customer list) — risk of fines",
+          "Friendly codes broken at login, can't even log in",
+          "Doesn't work on tablets",
+          "Convoluted, redundant, buggy, slow"
+        ],
+        "user_voice_quotes": [
+          "για άλλη μια φορά το κράτος μας δυσκολεύει την ζωή. μετά το τελευταίο update εξαφανίστηκε το ψηφιακό πελατολόγιο",
+          "Σου βάζει να κάνεις φιλικούς κωδικούς και σου λέει δεν έχεις πρόσβαση, τι εξυπηρετεί ακριβως αυτή η εφαρμογή;",
+          "A monster of a civilian service web ecosystem. Convoluted, redundant, unclever, buggy, slow"
+        ]
+      },
+      {
+        "appId": "com.appodixi",
+        "title": "appodixi",
+        "developer": "AADE official",
+        "installs": "100,000+",
+        "score": 3.09,
+        "ratings": 875,
+        "histogram": {"1": 337, "2": 25, "3": 68, "4": 103, "5": 337},
+        "low_pct_lifetime": 0.413,
+        "top_complaints": ["Camera black screen for 18+ months", "QR not recognized", "Doesn't count toward tax-free threshold"]
+      },
+      {
+        "appId": "gr.lomsoft.timologic",
+        "title": "Timologic Τιμολόγιο με myDATA",
+        "developer": "private/solo",
+        "installs": "10,000+",
+        "score": 4.20,
+        "ratings": 41,
+        "last_update": "2023-09-23",
+        "low_pct_lifetime": 0.171,
+        "note": "STALE — last updated Sept 2023, no maintenance signal. Vulnerable to disruption."
+      }
+    ]
+  },
+  "AT": {
+    "Kleinunternehmer_threshold_2026": "€35,000",
+    "candidates_AT_specific": [
+      {
+        "appId": "at.gv.bmf.bmf2go",
+        "title": "FinanzOnline [+]",
+        "developer": "Bundesministerium für Finanzen",
+        "score": 5.0,
+        "note": "Government tax filing app — not invoicing"
+      }
+    ],
+    "verdict": "Search returned mostly EU/DE Invoice apps (Bookipi, Invoice Simple, Square, Zoho). NO dominant AT-specific Kleinunternehmer invoicing app discovered with ≥10k installs. Low signal — German-language apps already cover AT users via Faktly D4 reachable extension (just need €35k threshold + AT VAT rates 10/13/20%)."
+  },
+  "CH": {
+    "candidates_CH_specific": [
+      {
+        "appId": "ch.magicheidi.app.magic_heidi",
+        "title": "Magic Heidi: Swiss Invoicing",
+        "developer": "Nathan Ganser (solo)",
+        "installs": "1,000+",
+        "score": 4.45,
+        "ratings": 34,
+        "IAP": "CHF 30-300/item",
+        "note": "Solo dev — Swiss QR-bills + AI receipt scan. Direct competitor template. PROOF that Swiss-only solo-dev play VIABLE.",
+        "weakness": "Only 1,000+ installs after 3+ years (released Nov 2022). Market is small."
+      },
+      {
+        "appId": "ch.raciborski.ch_qr_rechnung",
+        "title": "Swiss QR Bill & Invoice",
+        "developer": "c0desurfer",
+        "installs": "50+",
+        "released": "2026-01-13",
+        "note": "Brand new (Jan 2026), tiny, offline-only positioning, CHF 9 IAP. Validates niche but installs prove demand is small."
+      }
+    ],
+    "verdict": "CH market is REAL but TINY. Magic Heidi at 1k installs after 3 years suggests max ceiling ~5-10k installs. NOT lucrative as standalone. Swiss QR-bill is a Faktly extension — if the user adds CHF/QR-bill format, picks up this niche cheaply."
+  }
+}

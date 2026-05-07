@@ -1,11 +1,11 @@
 # Graph Report - playstore_app  (2026-05-07)
 
 ## Corpus Check
-- 14 files · ~47,323 words
+- 18 files · ~52,346 words
 - Verdict: corpus is large enough that graph structure adds value.
 
 ## Summary
-- 194 nodes · 283 edges · 11 communities detected
+- 198 nodes · 283 edges · 11 communities detected
 - Extraction: 96% EXTRACTED · 4% INFERRED · 0% AMBIGUOUS · INFERRED: 12 edges (avg confidence: 0.78)
 - Token cost: 0 input · 0 output
 
@@ -20,7 +20,7 @@
 - [[_COMMUNITY_Community 7|Community 7]]
 - [[_COMMUNITY_Community 8|Community 8]]
 - [[_COMMUNITY_Community 10|Community 10]]
-- [[_COMMUNITY_Community 22|Community 22]]
+- [[_COMMUNITY_Community 26|Community 26]]
 
 ## God Nodes (most connected - your core abstractions)
 1. `Love8 - App for Couples` - 17 edges
@@ -35,16 +35,16 @@
 10. `buzzArab MENA Dating` - 10 edges
 
 ## Surprising Connections (you probably didn't know these)
-- `Duolingo` --references--> `Morning Briefing v2`  [INFERRED]
-  findings/raw/market_economics.md → findings/reports/morning-briefing.md
-- `Halal Matrimonial` --semantically_similar_to--> `Dating Apps`  [INFERRED] [semantically similar]
-  findings/raw/maktub_cultural_validation.md → findings/raw/market_economics.md
-- `Lifetime Unlock (₺149 / R$/peso) Pricing` --conceptually_related_to--> `$/MAU/month`  [INFERRED]
-  findings/reports/directions.md → findings/raw/market_economics.md
-- `TH/couple cell` --references--> `Love8 - App for Couples`  [EXTRACTED]
-  findings/reports/directions.md → findings/raw/competitor_revenues.md
-- `Love8 TR 20.9% 1-star, 7516 1-star reviews` --references--> `Love8 - App for Couples`  [EXTRACTED]
-  findings/reports/FINAL_VERDICT.txt → findings/raw/competitor_revenues.md
+- `Morning Briefing v2` --references--> `Duolingo`  [INFERRED]
+  findings/reports/morning-briefing.md → findings/raw/market_economics.md
+- `Dating Apps` --semantically_similar_to--> `Halal Matrimonial`  [INFERRED] [semantically similar]
+  findings/raw/market_economics.md → findings/raw/maktub_cultural_validation.md
+- `$/MAU/month` --conceptually_related_to--> `Lifetime Unlock (₺149 / R$/peso) Pricing`  [INFERRED]
+  findings/raw/market_economics.md → findings/reports/directions.md
+- `Love8 - App for Couples` --references--> `TH/couple cell`  [EXTRACTED]
+  findings/raw/competitor_revenues.md → findings/reports/directions.md
+- `Love8 - App for Couples` --references--> `Love8 TR 20.9% 1-star, 7516 1-star reviews`  [EXTRACTED]
+  findings/raw/competitor_revenues.md → findings/reports/FINAL_VERDICT.txt
 
 ## Hyperedges (group relationships)
 - **v2 to v3 thesis falsification cluster** — hyp_sleep_cycle_no_tr, hyp_mena_30_60_mau, fact_sleep_cycle_has_tr, fact_buzzarab_ad_only, fact_sleep_cycle_2_25_mau, subagent_cultural_validation, subagent_localization_audit, directions_v3_doc [INFERRED 0.92]
@@ -98,25 +98,25 @@ Nodes (11): AppsFlyer Global ARPU averages, Co-Star Astrology, DramaBox / ReelSh
 Cohesion: 0.83
 Nodes (3): fetch_comments(), fetch_json(), search_videos()
 
-### Community 22 - "Community 22"
+### Community 26 - "Community 26"
 Cohesion: 1.0
 Nodes (1): Phase 10: Niche Expansion
 
 ## Knowledge Gaps
 - **49 isolated node(s):** `Findings README`, `Love8 Team / Love Elves`, `Sherif Omar (buzzArab founder)`, `ORBE VENTURES LTDA (CNPJ 53.277.567/0001-76)`, `Fabio Principe (Astrolink operator)` (+44 more)
   These have ≤1 connection - possible missing edges or undocumented components.
-- **Thin community `Community 22`** (1 nodes): `Phase 10: Niche Expansion`
+- **Thin community `Community 26`** (1 nodes): `Phase 10: Niche Expansion`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
 
 ## Suggested Questions
 _Questions this graph is uniquely positioned to answer:_
 
 - **Why does `App-Radar Directions Report v3` connect `Community 5` to `Community 0`, `Community 1`, `Community 2`, `Community 6`, `Community 7`?**
-  _High betweenness centrality (0.161) - this node is a cross-community bridge._
+  _High betweenness centrality (0.154) - this node is a cross-community bridge._
 - **Why does `Love8 - App for Couples` connect `Community 0` to `Community 1`, `Community 2`, `Community 3`, `Community 5`, `Community 6`?**
-  _High betweenness centrality (0.137) - this node is a cross-community bridge._
+  _High betweenness centrality (0.131) - this node is a cross-community bridge._
 - **Why does `Run Ledger - Evolution Log` connect `Community 2` to `Community 1`, `Community 4`, `Community 5`?**
-  _High betweenness centrality (0.121) - this node is a cross-community bridge._
+  _High betweenness centrality (0.116) - this node is a cross-community bridge._
 - **What connects `Findings README`, `Love8 Team / Love Elves`, `Sherif Omar (buzzArab founder)` to the rest of the system?**
   _49 weakly-connected nodes found - possible documentation gaps or missing edges._
 - **Should `Community 0` be split into smaller, more focused modules?**

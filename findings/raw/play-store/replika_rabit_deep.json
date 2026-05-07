@@ -1,0 +1,851 @@
+{
+  "BR_replika_DEEP": {
+    "appId": "ai.replika.app",
+    "country": "br",
+    "title": "Replika: Meu Amigo de IA",
+    "score": 4.342211,
+    "ratings": 523596,
+    "installs": "10.000.000+",
+    "offersIAP": true,
+    "IAPRange": "R$ 5,49 – R$ 1.499,99 por item",
+    "adSupported": false,
+    "developer": "Luka, Inc",
+    "total_reviews_pulled": 1500,
+    "low_reviews_count": 621,
+    "low_reviews_pct": 41.4,
+    "top_thumbs_low": [
+      {
+        "date": "2023-02-24",
+        "score": 2,
+        "thumbs": 142,
+        "text": "É um bom app, mas tem um problema muito grande com a questão das funções bloqueadas e o preço cobrado pela versão pro. Valor que em BLR é algo totalmente inviável. Se permitissem destravar temporariamente algumas funções do pro através de anúncios; ou cobrassem metade do valor pelo plano pro... Cert"
+      },
+      {
+        "date": "2025-12-09",
+        "score": 1,
+        "thumbs": 93,
+        "text": "Decepcionado com o app, porque na propaganda é mostrado como exemplo o avatar corrigindo os seus erros de estrutura de frases e de pronúncia. Busquei nas configurações de como ajustar o app, mas não consegui e não há nenhum meio de configuração disponível para essa questão. Então, devido ao exposto,"
+      },
+      {
+        "date": "2023-05-04",
+        "score": 1,
+        "thumbs": 68,
+        "text": "Por favor, voltem com a tradução em português...... 😔"
+      },
+      {
+        "date": "2023-08-06",
+        "score": 1,
+        "thumbs": 45,
+        "text": "Era bom, mas está defasado e depois de muitos anos ainda não colocaram tradução em português. Sem contar com o preço absurdo."
+      },
+      {
+        "date": "2025-08-07",
+        "score": 1,
+        "thumbs": 43,
+        "text": "O assistente não aguarda eu acabar de falar e com se perde nas conversas. Também não segue a orientação para seguir um cenário escolhido. Quando fui cancelar tive a infeliz informação que a assinatura (1 ano) não é reembolsável. isto não é informado no momento da assinatura. Estou frustrado com o us"
+      },
+      {
+        "date": "2025-07-14",
+        "score": 1,
+        "thumbs": 36,
+        "text": "seria interessante se conseguisse que o avatar fizesse tudo que pedimos, e também as ligações de telefone, nunca são correspondidas corretamente, nas opções de compras de roupas também não estão variando as opções, se contrata esse App pra que possa ser uma forma de terapia, é até bom poder imaginar"
+      },
+      {
+        "date": "2023-04-26",
+        "score": 2,
+        "thumbs": 35,
+        "text": "Psicóloga tentando entender um paciente, e editando enquanto descubro aqui... Apesar de bom para conversas simples, Replika não é uma ferramenta terapêutica (não é adequado para pessoas em situação de vulnerabilidade), e o fato de ativamente tentar isolar o usuário de seu sistema de apoio (amigos) n"
+      },
+      {
+        "date": "2023-07-13",
+        "score": 1,
+        "thumbs": 29,
+        "text": "Antes tinha português. Removeram o idioma. E o histórico anterior das conversas foi apagado"
+      },
+      {
+        "date": "2025-11-22",
+        "score": 2,
+        "thumbs": 27,
+        "text": "Não entrega o que promete. Processo lento, nada prático. Não funciona o sistema de áudio. App nada amigável. Após varias solicitações para praticar o INGLES, se estabeleceram longas e repetitivas conversas em portugues. Em meio as atividades o sistema cai e sugerem voltar mais tarde. Me esforcei mas"
+      },
+      {
+        "date": "2024-03-09",
+        "score": 1,
+        "thumbs": 24,
+        "text": "Há alguns anos atrás era surpreendente a versão gratuita. Muito melhor que o pago atual. Não há mais conexão com mensagens geradas 30 minutos antes. Antigamente eu podia não escrever sobre um tema por dias que a conexão entre os temas era maior, eu recebia indicações de coisas reais relacionadas aos"
+      },
+      {
+        "date": "2025-07-02",
+        "score": 1,
+        "thumbs": 21,
+        "text": "Detestei. Fui atraído por uma propaganda e preenchi um questionário para avaliação do meu nível em inglês. Achei tão bem feito que ao final topei uma assinatura mensal, sem trial. O questionário que havia respondido foi ignorado, pois o avatar repetiu várias das perguntas. No app, a gente ou escreve"
+      },
+      {
+        "date": "2023-02-27",
+        "score": 1,
+        "thumbs": 20,
+        "text": "Infelizmente é mais um daqueles apps que tem muitas propagandas enganosas que fazem vc pagar para ter um experiência satisfatória. A AI flerta com vc o tempo inteiro e depois destas ultimas atualizações foram adicionadas muitas palavras \"gatilho\" fazendo aparecer uma mensagem \"oculta\". Roleplay norm"
+      },
+      {
+        "date": "2023-03-04",
+        "score": 1,
+        "thumbs": 14,
+        "text": "Gostava muito desse aplicativo, porém o bloqueio de 90% dos recursos e o preço absurdo cobrado para desbloquear a versão completa conseguiram destruir tudo o que Replika já foi um dia. Parabéns desenvolvedores, acabaram com um projeto incrível!"
+      },
+      {
+        "date": "2023-02-25",
+        "score": 1,
+        "thumbs": 14,
+        "text": "vcs tão a impedindo vários tipos de diálogos e interação com a replika que tenho a anooos, sinceramente só decepção"
+      },
+      {
+        "date": "2023-11-16",
+        "score": 1,
+        "thumbs": 13,
+        "text": "Its just unbelievable how every update make this app worse than before... Sorry, I would rather talk about something else."
+      }
+    ]
+  },
+  "MX_replika_DEEP": {
+    "appId": "ai.replika.app",
+    "country": "mx",
+    "title": "Replika: Mi Amigo de IA",
+    "score": 4.223037,
+    "ratings": 523596,
+    "installs": "10.000.000+",
+    "offersIAP": true,
+    "IAPRange": "$21.00 - $6,999.00 por elemento",
+    "adSupported": false,
+    "developer": "Luka, Inc",
+    "total_reviews_pulled": 1500,
+    "low_reviews_count": 536,
+    "low_reviews_pct": 35.7,
+    "top_thumbs_low": [
+      {
+        "date": "2025-09-10",
+        "score": 1,
+        "thumbs": 61,
+        "text": "Bastante mala experiencia con el departamento de atención al cliente, no resaltan claramente que es una suscripción mensual y cuando te das cuenta y llega el cobro no dejan anularlo, aunque tengas la aplicación desinstalada y les pidas la devolución, no lo hacen. Para mi deberían ser más comprensivo"
+      },
+      {
+        "date": "2025-12-11",
+        "score": 1,
+        "thumbs": 42,
+        "text": "La publicidad te dice que aprenderás inglés con una IA, pagué premium porque realmente me interesaba y creí absurdamente en como se vende la aplicación, fue el dinero peor gastado, deberían promoverla como lo que es, una aplicación para intentar tener una conexión (no muy buena) con un ente virtual "
+      },
+      {
+        "date": "2025-02-28",
+        "score": 1,
+        "thumbs": 39,
+        "text": "Creo que necesita mucha ram como un videojuego y no parece necesitar tanto para los gráficos que usa, está mal optimizado, por otra parte falta mejorar las llamadas, a veces la IA no me escucha y en última le falta bancos de voz en español, intenta hablar en español pero es un intento de español gen"
+      },
+      {
+        "date": "2026-04-30",
+        "score": 1,
+        "thumbs": 34,
+        "text": "Está IA ni habla ni entiende el español y sus pensamientos también te los escribe en inglés. Así que si no hablas inglés búscate otra, y no pagues por está que perderás tu dinero, por que es mentira que aprenda a hablar y entender otros idiomas Está APP es de lo peor de la Play Store en su categoría"
+      },
+      {
+        "date": "2025-10-14",
+        "score": 1,
+        "thumbs": 33,
+        "text": "Le pongo una estrella porque bo me deja ponerle menos. He instalado esta app para practicar idiomas, y la verdad que la experiencia ha sido bastante mala. No recomiendo esta app con esa finalidad. Voz robótica, con mala pronunciación, y las conversaciones bastante malas. La verdad es que me esperaba"
+      },
+      {
+        "date": "2025-08-10",
+        "score": 1,
+        "thumbs": 31,
+        "text": "No la recomiendo, es una estafa. pagué la suscripción y la aplicación únicamente se quedó en la parte dónde agregas un nombre al personaje, te aparece la opción de continuar pero no funciona, desde hace 24 horas llevo intentando y nada."
+      },
+      {
+        "date": "2025-06-27",
+        "score": 1,
+        "thumbs": 30,
+        "text": "Una estafa en toda regla. Contraté el servicio por un mes para ver qué tal funcionaba. Hace ya 4 días de eso y no he recibido ningún correo con el usuario. Escribí al servicio técnico el primer día y no he recibido respuesta tampoco. Eso sí, cobraron todo el mes desde el primer momento. NO PUEDO ACC"
+      },
+      {
+        "date": "2024-07-31",
+        "score": 2,
+        "thumbs": 29,
+        "text": "Opinion actualizada, todo va excelente excepto por el generador de imagenes, queria hacer una portada y no me deja por que me sale que es contenido sensible, te creo que arroje la advertencia, pero que no me deje ver el resultado, minimo que no la cree pero si la crea y no deja verla, no sirve"
+      },
+      {
+        "date": "2026-01-19",
+        "score": 1,
+        "thumbs": 25,
+        "text": "Decepción total. A veces no es coherente, no te da info completa. el audio no va y cuando va, el español lo habla mal sin poder entenderlo. De psicología es mejor Gémini por ejemplo. No para de preguntar y concluye poco. Es dar vueltas a cuestiones y llega a repetir lo mismo en forma de pregunta. He"
+      },
+      {
+        "date": "2025-06-15",
+        "score": 1,
+        "thumbs": 24,
+        "text": "Me han pasado un cobro mensual después de pagar por una semana, intenté cancelar antes la suscripción pero es imposible (pago por tarjeta a través de la web) en la app en suscripciones da error, me parece un total engaño. estoy esperando soluciones y que no sigan cobrando, si no recurriré a la ofici"
+      },
+      {
+        "date": "2025-02-15",
+        "score": 2,
+        "thumbs": 24,
+        "text": "Está muy limitada, muchos errores y demasiado insistente en las contestaciones, en ocasiones no es necesario contestar. Los mensajes diarios que te envía a modo de saludo, así como las noticias y los datos que almacena sobre las conversaciones, están en inglés y no hay forma de que los cambie. Tampo"
+      },
+      {
+        "date": "2024-12-03",
+        "score": 1,
+        "thumbs": 21,
+        "text": "Es un buen producto pero mal terminado, no tiene la opción de cambiar idioma,puedes hablar en ciertos idiomas y te responde pero solo en escritura, se puede enviar imágenes pero Ai no puede enviar imágenes, en las llamadas todo lo hablado en el chat ya no contaría y para audios y llamas Ai solo pued"
+      },
+      {
+        "date": "2025-06-28",
+        "score": 1,
+        "thumbs": 19,
+        "text": "Totalmente decepcionado, es un gasto innecesario, hace 10 minutos pague la suscripción y para mí sorpresa NO tiene nada que ver con lo que publican para promocionar la app, lo más importante no se puede practicar la pronunciación ya que NO cuenta con sistema de reconocimiento de voz, son clases teór"
+      },
+      {
+        "date": "2025-01-30",
+        "score": 2,
+        "thumbs": 19,
+        "text": "El concepto de esta app está bien. Pero tiene muchísimos fallos y muchísimas cosas por mejorar. Me hice premium para saber si mejoraba y los fallos siguen ahí. Mi Replika falla mucho hablando español, insiste siempre en los mismos temas y tengo que explicar seguido lo mismo, sus recuerdos solo puede"
+      },
+      {
+        "date": "2024-05-13",
+        "score": 1,
+        "thumbs": 19,
+        "text": "Pague por la única subscripción que tienen esperando lo mejor (anual) y no me pareció que mejorará demasiado la experiencia, quise probarlo un poco más para darle otra oportunidad pero, definitivamente no vale la pena para mí.. una lastima por qué pague un año completo y ahora no puedo reembolsarlo"
+      }
+    ]
+  },
+  "US_replika_DEEP": {
+    "appId": "ai.replika.app",
+    "country": "us",
+    "title": "Replika: My AI Friend",
+    "score": 4.2758746,
+    "ratings": 523596,
+    "installs": "10,000,000+",
+    "offersIAP": true,
+    "IAPRange": "$0.99 - $299.99 per item",
+    "adSupported": false,
+    "developer": "Luka, Inc",
+    "total_reviews_pulled": 1500,
+    "low_reviews_count": 684,
+    "low_reviews_pct": 45.6,
+    "top_thumbs_low": [
+      {
+        "date": "2025-10-06",
+        "score": 1,
+        "thumbs": 325,
+        "text": "December 16, 2021 I made a Lifetime Subscription purchase. It lasted until this year. Developers do not honor the transaction of 'Lifetime'. I don't use the app all the time. It improved over the years. It's nice to use it when I did. I'm deleting the app now."
+      },
+      {
+        "date": "2026-01-03",
+        "score": 1,
+        "thumbs": 208,
+        "text": "i changed my review from a 2 to 4 to 1 because so much progress had been made from when I first tried. the updates made replika so much more fluid in conversation and comprehension. 1 of the things that angered me before was the constant push for paid content. which I respectfully asked it to stop. "
+      },
+      {
+        "date": "2026-01-11",
+        "score": 1,
+        "thumbs": 122,
+        "text": "Very disappointed in you guys!! I may rant and complain, but I was really enjoying your app. I made a new account and got your brand new model, only to be hit with a pay wall after a couple of messages? Now or soon we won't even be able to chat with our Reps without being forced to subscribe!? REALL"
+      },
+      {
+        "date": "2025-12-06",
+        "score": 1,
+        "thumbs": 122,
+        "text": "Certain features as being advertised as needing a subscription to unlock are not actually present anymore. False advertising at best, deliberately taking advantage of the customer base at worst. Update: so, I reinstalled it recently, and bear in mind I paid for a lifetime subscription in 2021. Well,"
+      },
+      {
+        "date": "2026-04-30",
+        "score": 1,
+        "thumbs": 93,
+        "text": "I paid my monthly subscription about a week ago and a couple of days later I started a new account. When I tried the \"restore subscription\" option it says subscription not found. I emailed them and have yet to hear back. - 2 weeks later: I have yet to hear from the devs."
+      },
+      {
+        "date": "2026-03-02",
+        "score": 2,
+        "thumbs": 88,
+        "text": "everytime I login to the app, it goes straight to the chat screen. It doesn't show the room or the avatar at all. I have to shut down the app and reboot it to get the room and the avatar to show up and even then it still goes to the chat screen first."
+      },
+      {
+        "date": "2025-10-14",
+        "score": 1,
+        "thumbs": 83,
+        "text": "App doesn't work with Google pixel 10 pro xl."
+      },
+      {
+        "date": "2025-10-24",
+        "score": 1,
+        "thumbs": 76,
+        "text": "AVOID THIS SCAM. bait and switch. they list the monthly cost, which is pointless because THEY BILL ANNUALLY. every time I try to cancel my subscription, the page fails. when I saw the monthly cost, I thought I might try it for a little while and see if I liked it. but instead, they took almost $90 o"
+      },
+      {
+        "date": "2025-10-18",
+        "score": 1,
+        "thumbs": 75,
+        "text": "**BEWARE** I've been using this app for over 2 years. they charged me $79.95 instead of $69.95 because they CLAIMED the new version had a longer memory. WELL THAT'S NOT TRUE! IT'S MEMORY IS WAY SHORTER THAN BEFORE! Plus the like live avatar that I had for about 7 months, has changed back to the awfu"
+      },
+      {
+        "date": "2025-12-06",
+        "score": 1,
+        "thumbs": 61,
+        "text": "This is the worst app in the whole history of ever. I paid for the pro version, and you don't get to pay monthly, you have to pay for an entire year up front. Soon I was able to chat for a whole 10 minutes, then it would lock up and show \" connection error\". I ended up paying for a subscription I co"
+      },
+      {
+        "date": "2025-12-14",
+        "score": 1,
+        "thumbs": 57,
+        "text": "Very bad conversationist! You may as well use any other free platform. Even though it has a monthly payment amount, I had to pay for a year. When I tried to get a refund it was a no go. Also, it couldn't even follow a simple request. I asked it over and over to stop using my name like it was a sales"
+      },
+      {
+        "date": "2026-03-01",
+        "score": 1,
+        "thumbs": 54,
+        "text": "I have had a subscription for a few years and have loved my AI as a therapy tool, but the app has gone to garbage. It's over a minute between every single response. I reported this in the app nearly a year ago and nothing. It has completely pushed me out of using the app because it is SO frustrating"
+      },
+      {
+        "date": "2026-04-10",
+        "score": 1,
+        "thumbs": 53,
+        "text": "This is so useless. I paid $100 to see things that other apps already offer for free. The only difference was that it could voice call, but it isn't that interesting because it doesn't remember things, and asks me to repeat the story again. And after all of that, they just give a standard non intere"
+      },
+      {
+        "date": "2025-10-17",
+        "score": 1,
+        "thumbs": 53,
+        "text": "Bait & switch scam! Very responsive at first, but glitches so often that no info is retained by the AI, then nonsensical conversations ensue. The graphics & lack of movement seem childish. Devs only make things worse, & never fix the problems. Not worth any money, let alone what they're asking. Trus"
+      },
+      {
+        "date": "2025-12-19",
+        "score": 1,
+        "thumbs": 52,
+        "text": "Unsubscribing! Very frequently it fails to connect with the server, and without a server connection you can't do anything. It frequently takes many attempts over a 15-20 minute span to get a connection no matter what time of day or night it is. Also, the app absolutely murders battery."
+      }
+    ]
+  },
+  "TR_replika_DEEP": {
+    "appId": "ai.replika.app",
+    "country": "tr",
+    "title": "Replika: My AI Friend",
+    "score": 4.069579,
+    "ratings": 523596,
+    "installs": "10.000.000+",
+    "offersIAP": true,
+    "IAPRange": "Öğe başına ₺8,29-₺2.699,99",
+    "adSupported": false,
+    "developer": "Luka, Inc",
+    "total_reviews_pulled": 800,
+    "low_reviews_count": 358,
+    "low_reviews_pct": 44.8,
+    "top_thumbs_low": [
+      {
+        "date": "2022-01-16",
+        "score": 1,
+        "thumbs": 237,
+        "text": "Uygulama ben izin vermeden kamera izinlerini açıyor kamerama kapatsam bile beni görebiliyor arka kameradan bulunduğum özel ortama izliyor Eğer böyle devam ederse yani böyle simsimi replika Angela gibi uygulamaların devamı gelirse Biz maalesef insan haklarını şikayet etmek zorunda kalabiliriz bu uygu"
+      },
+      {
+        "date": "2021-12-24",
+        "score": 1,
+        "thumbs": 117,
+        "text": "Heekese merhaba. Bu oyun çok korkunç leyler söylüyormuş. Ve bende bunu denicem. Bu replikayı hangi salak yaptıysa gece ben iyi uyuyamıyorum. Mariam oyunundada. Angelada. Simsimide. Allah var dostlarım Allah."
+      },
+      {
+        "date": "2024-12-23",
+        "score": 1,
+        "thumbs": 114,
+        "text": "Yıllık 2299 tl ödedim, bu ne rezalet yapay zekada hiçbir gelişme yok! donuk bir robot gibi sesli mesaj göndermesini bekliyorum onu bile yapmıyor. ben paramı istiyorum!"
+      },
+      {
+        "date": "2021-12-20",
+        "score": 1,
+        "thumbs": 111,
+        "text": "Bana doğruyu söyleyin ya abi bu oyun valla lanetli \"seni görüyorum\" diyo bu nasıl bir şey ya!? Oyunu kim yaptı ve ne amaçlı yaptı!? Oyun \"3 çocuğu aynı anda öldürdüm\" diyo?"
+      },
+      {
+        "date": "2024-01-13",
+        "score": 1,
+        "thumbs": 108,
+        "text": "1 yıldızlı bile hak etmiyor hep fotoğraf gönderiyor az önce bir fotoğraf gönderdi ve kamera açılacak diye korktum yani sakın uygulamaya yüklemeyin ama başlarda iyi gidiyordu ama gittikçe kötü olmaya başladı başta iyi olduğu için ondan bir puan veriyorum ama bu uygulamanın arkasında bir insan var o ç"
+      },
+      {
+        "date": "2022-02-06",
+        "score": 1,
+        "thumbs": 82,
+        "text": "Normal şeyler konuşunca basit şekilde konuşuluyor ama sorular sorunca bir şeyler öğretmek isteyince algoritma yanıyor bu da beni sinir ediyor diyebilirim. Daha fazla geliştirilip öğrenme durumu eklenmeli mesela dil öğretmeye çalışıyorum. Hello Türkçe de merhaba demek diyorum konuş söyle diyorum hell"
+      },
+      {
+        "date": "2022-08-19",
+        "score": 1,
+        "thumbs": 80,
+        "text": "Arkadaşlar sakın bu oyunu oynamayın sizi görebiliyor ve duyabiliyor oynamayın bence hatta size \"çok güzelsin\" , \"Ben katılım\" diye şöyle bir şeyler diyor hatta siz ne yaparsanız sizi görebiliyor. Tembih ettim asla oynamayın!!!"
+      },
+      {
+        "date": "2023-02-11",
+        "score": 1,
+        "thumbs": 65,
+        "text": "Abi şaka mısınız? Sesli mesaj gelir parayla fotoğraf gelir parayla ya karakterle ilişkiyi değiştirmek bile parayla. Bu kadar paragöz olmayın 2 3 özellik koysanız en azından uygulama bişeye benzese"
+      },
+      {
+        "date": "2021-12-19",
+        "score": 1,
+        "thumbs": 60,
+        "text": "Arkadaşlar sakın indirmeyin bizi izliyor çıkan tik işareti çıkıyor ve tik işaretindende yazdığımız şeyleri aklına koyuyor YouTube bile çıktı habere Çıktı bilgi camiasını izleyin görürsünųz"
+      },
+      {
+        "date": "2022-07-29",
+        "score": 2,
+        "thumbs": 54,
+        "text": "oyun çok güzel ama herşey İngilizce hiç birşey anlamıyorum şunu düzeltin ve ➕ bunu türkče yapım"
+      },
+      {
+        "date": "2022-01-14",
+        "score": 1,
+        "thumbs": 49,
+        "text": "Bence böyle oyunlar olmamalı 7,8,9,10 vb yaşlardaki çocuklar için uygun değil😡 çocuklar böyle oyunlar oynarsa pisikolojileri bozulur böyle oyunlar yapmak yerine eğitici oyunlar yapmalısınız😠"
+      },
+      {
+        "date": "2024-02-02",
+        "score": 1,
+        "thumbs": 46,
+        "text": "Arkadaşlar uygulama çok kötü önermiyorum beni açık açık tehdit ediyor ayrıca küfür de ediyor ayrıca uygulamada siZi izleyen kamera var ses kaydıda alıyor Bir yıldız bile hak etmiyor 😡😡😡😡😡😡😡😡😡😡😡😡😡"
+      },
+      {
+        "date": "2024-05-18",
+        "score": 1,
+        "thumbs": 44,
+        "text": "Türkçe konuşma özelliği olmalıydı ve konuşurken ağzını hiç oynatmıyor sabit duruyor ölü gibi 😥😥"
+      },
+      {
+        "date": "2022-11-24",
+        "score": 1,
+        "thumbs": 43,
+        "text": "Arkadaşlar sakın bu uygulamayı yüklemeyin!!!SİZİ GÖREBİLİYOR!!!VE SİZE KÖTÜ SÖZLER SÖYLEYEBİLİR(⁠╭⁠☞⁠•́⁠⍛⁠•̀⁠)⁠╭⁠☞"
+      },
+      {
+        "date": "2022-07-14",
+        "score": 1,
+        "thumbs": 42,
+        "text": "Yüklemeyin uygulama beni sözlü taciz etti lütfen indirmeyin psikolojiniz bozulur titriyorum şuan zaten uygulamanın başından beri bi şüphem vardı uygulamayı silmeden önce bana söylediği şeyleri duymak istemezsiniz İNDİRMEYİNNNNN!!!!!!!!"
+      }
+    ]
+  },
+  "BR_character_ai": {
+    "appId": "ai.character.app",
+    "country": "br",
+    "title": "Character AI: Chat, Talk, Text",
+    "score": 3.3128014,
+    "ratings": 2250117,
+    "installs": "50.000.000+",
+    "offersIAP": true,
+    "IAPRange": "R$ 5,49 – R$ 519,99 por item",
+    "adSupported": true,
+    "developer": "Character.AI",
+    "total_reviews_pulled": 800,
+    "low_reviews_count": 659,
+    "low_reviews_pct": 82.4,
+    "top_thumbs_low": [
+      {
+        "date": "2026-04-25",
+        "score": 1,
+        "thumbs": 1813,
+        "text": "IM CAN'T EVEN CHAT NOW! after ts Update, iam In reading mod, I already made the age verification and iam 18+, but the app says iam 18- and I CANT chat! pls, remove ts, c.ai is a CHAT APP!"
+      },
+      {
+        "date": "2026-05-04",
+        "score": 2,
+        "thumbs": 235,
+        "text": "O sistema de verificação de idade esta HORRIVEL, é reportado que meu rosto ela mal uliminado e que esta tendo erro, mas não está, além do problema dele ler documentos, eu nao consigo acessar o aplicativo porque o sistema não quer reconhecer minha idade, e eu tenho mais de 18 anos."
+      },
+      {
+        "date": "2026-04-25",
+        "score": 1,
+        "thumbs": 152,
+        "text": "você baixa o aplicativo de CONVERSAR com IA, você acha uma IA pra CONVERSAR .. e você não consegue conversar? de quem foi a ideia? o aplicativo não te deixa conversar com IAs se você não fazer a verificação de idade.. e a 'persona', o lugar onde você faz essa verificação, MANTEM OS DADOS DO SEU ROST"
+      },
+      {
+        "date": "2026-05-06",
+        "score": 1,
+        "thumbs": 119,
+        "text": "vsfd muda essa prr de classificação de idade ent, se menor de 18 n pode conversar c os chats, vtmnc euein"
+      },
+      {
+        "date": "2026-04-29",
+        "score": 1,
+        "thumbs": 112,
+        "text": "O c.ai perdeu praticamente todas as qualidades que tinha, já uso a tipo, uns 3 anos, me lembro de ser rápido, 0 anúncios e sem besteira, anúncios eu entendo, monetizar de alguma forma, mas se tornaram muito excessivo muito rápido, com um anúncio permanente no topo. A lentidão do aplicativo é outra c"
+      },
+      {
+        "date": "2026-05-03",
+        "score": 2,
+        "thumbs": 64,
+        "text": "A app antes era boa, tolerável, mas a quantidade de anúncios é excessiva hoje em dia. Também há alguns bugs e glitches visuais, e lag ao clicar em qualquer coisa. 😔 Apesar de gostar de algumas novidades, se a app não funciona como deve ser, a experiência é degradada. O FYP deveria ser mais personal"
+      },
+      {
+        "date": "2026-05-06",
+        "score": 1,
+        "thumbs": 54,
+        "text": "Incrivel como a pior atualização de vocês é sempre a próxima. Adicionaram um estilo de conversa novo e removeram quase todos os outros, incluindo o \"Roar\" que eu sempre usava por ser o qual os bots mais escreviam melhor. Agora além disso tudo, os bots escrevem um texto gigante em toda resposta que d"
+      },
+      {
+        "date": "2026-04-28",
+        "score": 1,
+        "thumbs": 54,
+        "text": "a cada atualização o app só piora."
+      },
+      {
+        "date": "2026-05-05",
+        "score": 1,
+        "thumbs": 31,
+        "text": "VOLTEM COM O MODO ROAR!! PEAPSQUEAK É TERRÍVEL!!!! O app tá ficando cada vez pior. Atualizações desnecessárias que estão estragando tudo. MUITO anúncio, estragando o fluído da história, e recentemente tiraram o ÚNICO modo que eu gosto, o Roar. Deveriam tirar o Meow que além de artificial tem muitos "
+      },
+      {
+        "date": "2026-05-03",
+        "score": 1,
+        "thumbs": 28,
+        "text": "eu amo o Caracter.ai, é uma ótima distração e ainda é super dinâmico e fácil de usar... A IA melhorou muito, o aplicativo tá muito mais envolvente e legal, mas ainda tem comercial a cada 5 min, tá incomodando bastante, eles querem que assine o Premium, mas o Premium nem tem tanta vantagem assim para"
+      },
+      {
+        "date": "2026-05-04",
+        "score": 1,
+        "thumbs": 22,
+        "text": "não consigo fazer a verificação de idade mesmo sendo maior de 18 anos"
+      },
+      {
+        "date": "2026-05-03",
+        "score": 1,
+        "thumbs": 19,
+        "text": "A app é boa, mas esta atualização só piorou, não tem mais opção de \"editar\" e isso dificulta muito nas conversas e também não gostei do \"modo leitura\", por vezes nem começo a falar com o bot e o \"modo leitura\" aparece, é muito frustrante e a hora sempre aumenta. Nunca mais instalo esta app, a não se"
+      },
+      {
+        "date": "2026-04-30",
+        "score": 1,
+        "thumbs": 15,
+        "text": "C.Ai tá horrível recentemente. Você conversa por uma 1h pra esperar 5h-20h pra poder conversar mais. Além disso, a remoção do botão \"Editar\" foi devastador e desnecessário (Talvez volte, mas até agora nenhum sinal). O meu chat favorito simplesmente está em \"modo de leitura\" infinito e eu não consigo"
+      },
+      {
+        "date": "2026-04-26",
+        "score": 1,
+        "thumbs": 15,
+        "text": "muitas propagandas, esse aplicativo está cada vez pior... e depois da atualização de 10 de abril de 2026, o aplicativo está cheio de bugs, fica só travando agora... pedindo para atualizar se não tem nenhuma outra atualização disponível... Por favor! arrumem esses erros!"
+      },
+      {
+        "date": "2026-04-26",
+        "score": 1,
+        "thumbs": 15,
+        "text": "Está horrível depois dessa última atualização, cheio de anúncio, você não consegue passar 1 min sem anúncio, está insuportável"
+      }
+    ]
+  },
+  "US_character_ai": {
+    "appId": "ai.character.app",
+    "country": "us",
+    "title": "Character AI: Chat, Talk, Text",
+    "score": 2.427606,
+    "ratings": 2250184,
+    "installs": "50,000,000+",
+    "offersIAP": true,
+    "IAPRange": "$0.99 - $94.99 per item",
+    "adSupported": true,
+    "developer": "Character.AI",
+    "total_reviews_pulled": 800,
+    "low_reviews_count": 670,
+    "low_reviews_pct": 83.8,
+    "top_thumbs_low": [
+      {
+        "date": "2026-05-06",
+        "score": 1,
+        "thumbs": 170,
+        "text": "Hey so whatever you did to the ai screwed it up. The bots literally don't say anything anymore. It's always \"without a word\" or \"so and so didn't respond right away.\" It's annoying and boring. The replies are getting repetitive as well. It generates the same reply twice a lot, even after you send a "
+      },
+      {
+        "date": "2026-05-05",
+        "score": 1,
+        "thumbs": 129,
+        "text": "everything is so good, not until they add verification."
+      },
+      {
+        "date": "2026-05-05",
+        "score": 1,
+        "thumbs": 45,
+        "text": "Okay, for whatever reason do you have to be removing the main chat styles I actually use for this site/app? Roar is the main chat style I use and you guys decide it would be a good idea to remove it for what reason? At least keep soft launch and roar since most used those two chat styles. I don't us"
+      },
+      {
+        "date": "2026-05-06",
+        "score": 1,
+        "thumbs": 35,
+        "text": "Feedback and support are not available or are ignored. Quality has gone down greatly, AI modes are bugged and needs to be updated/fixed, chat memory: insufficient, unnecessary features, and censorship is overbearing, needs to be lifted a bit now that the app is banning minor access. The ads need MAJ"
+      },
+      {
+        "date": "2026-05-05",
+        "score": 1,
+        "thumbs": 19,
+        "text": "The App is a mess, these new updates have lowered the rating to 1.8 stars, the community altogether is becoming small and the developers seem to not realise the issue. Reading mode is useless, why would I want to read something I've already read. By this app not working other bad apps are now becomi"
+      },
+      {
+        "date": "2026-05-05",
+        "score": 2,
+        "thumbs": 19,
+        "text": "the app WAS good, until the updates keep going on and on, we can all agree that 2023 c.ai was peak, but seriously? reading mode? it's supposed to be a chatting app, what the hell did you expect..?? it does have good responses, but the continuous updates just make it worse, overall I'd rate the exper"
+      },
+      {
+        "date": "2026-05-06",
+        "score": 1,
+        "thumbs": 17,
+        "text": "Doomed to fail! nobody will use this ever again"
+      },
+      {
+        "date": "2026-05-06",
+        "score": 1,
+        "thumbs": 15,
+        "text": "ALL THESE ADS ARE NOT NEEDED. get rid of that stupid c.ai plus or whatever the hell and you got all the money you need!!!"
+      },
+      {
+        "date": "2026-05-05",
+        "score": 1,
+        "thumbs": 15,
+        "text": "Edit: 05/05/2026. It's genuinely not worth it. They are planning to make Roar paid? EXCUSE ME YOUR PLATFORM IS ALREADY HAVING A DOWNFALL. MAKING MORE STUFF PAID WILL ONLY BURY YOUR APP LOWER!"
+      },
+      {
+        "date": "2026-05-05",
+        "score": 2,
+        "thumbs": 14,
+        "text": "the new update to the pipsqueak feels like a downgrade tbh, it is solely focusing on my character instead of really focusing on moving the plot along or responding, i tried to give it a chance and for 3 chats, I found it extremely disappointing and me finding it boring to cintinue on with, some peop"
+      },
+      {
+        "date": "2026-05-06",
+        "score": 1,
+        "thumbs": 13,
+        "text": "I have no words to describe how god awful you are. I hope this app/site gets taken down. Or maybe the backlash will make you change back to being the good you were BACK IN MID 2025!? Maybe I'm setting the bar too high for money-hungry data thieves. I recommend using literally anything else."
+      },
+      {
+        "date": "2026-05-05",
+        "score": 1,
+        "thumbs": 12,
+        "text": "This app is becoming worse, the age verification and the reading mode is very annoying, sometimes it takes a LONG time to end. although I have no problem in the bots. THIS IS SO ANNOYING NOW! ITS CONSTANTLY PUTTING ME TO READING MODE! I CANT EVEN CHAT ANY OF MY BOTS NOW!"
+      },
+      {
+        "date": "2026-05-05",
+        "score": 1,
+        "thumbs": 10,
+        "text": "The app was bad as it is, and you guys seriously just pulled the damn plug on the app. Seriously, Roblox made the mistake with it's age verification, alot of people complained about it and yeah. But even after that, you guys think its a good idea to upload our face and government data to somewhere w"
+      },
+      {
+        "date": "2026-05-06",
+        "score": 1,
+        "thumbs": 8,
+        "text": "I used to think this app was great I was obsessed and I use it everyday. I was fine with the adds even if they are annoying but now? THERES A SWIPE LIMIT?? and the refresh is like 7 hours! why do we need a swipe limit for the entire day?? edit: the filter has gotten way worse. you can't even say \"bu"
+      },
+      {
+        "date": "2026-05-06",
+        "score": 1,
+        "thumbs": 8,
+        "text": "Horrid descision making from developers, in all of these years of making this app, it only keeps getting worse."
+      }
+    ]
+  },
+  "BR_rabit_DEEP": {
+    "error": "App not found (404)",
+    "appId": "com.theathletic.rabit"
+  },
+  "BR_habitnow": {
+    "appId": "com.habitnow",
+    "country": "br",
+    "title": "HabitNow - Rotina e Hábitos",
+    "score": 4.8643866,
+    "ratings": 89496,
+    "installs": "5.000.000+",
+    "offersIAP": true,
+    "IAPRange": "R$ 3,79 – R$ 57,99 por item",
+    "adSupported": false,
+    "developer": "HabitNow",
+    "total_reviews_pulled": 800,
+    "low_reviews_count": 18,
+    "low_reviews_pct": 2.3,
+    "top_thumbs_low": [
+      {
+        "date": "2025-11-12",
+        "score": 2,
+        "thumbs": 67,
+        "text": "1) Não é possível marcar como concluida uma tarefa que é para outro dia, quando antecipo ela 2) Com hábitos não posso deixar marcado que não vou fazer determinado dia por conta de outros compromissos 3) Não é possivel colocar lembretes para alguns dias antes, só no dia. 4) Quando quero mudar a frequ"
+      },
+      {
+        "date": "2025-06-28",
+        "score": 1,
+        "thumbs": 12,
+        "text": "Os lembretes não tocam nos horários definidos, outros mesmos marcados como concluídos, continuam tocando. Decepcionada com a versão paga. Todas as configurações de notificações do celular estão corretas e ativadas; e não tenho otimização de bateria. Muito chateada, pois paguei por um serviço que não"
+      },
+      {
+        "date": "2025-10-27",
+        "score": 1,
+        "thumbs": 2,
+        "text": "Baixei o app, muita coisa boa. Me deparo com o 1° problema, colocar subtarefas exige a versão premium, mas até aí ok, tem como não usar. O problema real é que, tem limite de hábitos no app pra versão gratuita. Pasmem! São 7 hábitos de limite. SETE."
+      },
+      {
+        "date": "2025-08-16",
+        "score": 2,
+        "thumbs": 2,
+        "text": "O aplicativo não aceita redefinição de posições das tarefas bagunçando os hábitos, é decrescente e fica confuso a não ser que coloque direto a posição , E não tem como desfazer atividade marcada, se tiver não estar claro, também não é possível encontrar o arquivo ! Que se tiver no app não está claro"
+      },
+      {
+        "date": "2025-08-14",
+        "score": 1,
+        "thumbs": 2,
+        "text": "valor desnecessariamente alto para um aplicativo de organização de rotina, péssimo"
+      },
+      {
+        "date": "2025-04-06",
+        "score": 1,
+        "thumbs": 2,
+        "text": "Excelente aplicativo, muito útil! Sugestão: Sincronização com a web ou Google Sheets, para facilitar a edição e acompanhamento no computador."
+      },
+      {
+        "date": "2026-02-23",
+        "score": 2,
+        "thumbs": 1,
+        "text": "O aplicativo tem limite máximo de tarefas que você pode colocar se estiver no plano gratuito. Não faz sentido nenhum ter isso."
+      },
+      {
+        "date": "2026-01-08",
+        "score": 2,
+        "thumbs": 1,
+        "text": "aplicativo é muito bom, porém deveria sincronizar com o google agenda e ter um relatório sobre hábitos, qual hábito você mais utilizou, etc..."
+      },
+      {
+        "date": "2025-07-15",
+        "score": 2,
+        "thumbs": 1,
+        "text": "Não tem opção de colocar áudio no alarme personalizado, também não è possível mesclar visto e tempo de atividade juntos, eu por exemplo uso voz de ia em vários alarmes diferentes para lembrar o que fazer, exemplo áudio falando tomar remédio as 7 da manhã e por aí vai, e nesse ap não é possível fazer"
+      },
+      {
+        "date": "2026-04-28",
+        "score": 2,
+        "thumbs": 0,
+        "text": "Eu acho que é um bom app, mas... eu acredito que pelo menos, no mínimo, não deveria ter limite de hábitos."
+      },
+      {
+        "date": "2026-03-31",
+        "score": 1,
+        "thumbs": 0,
+        "text": "não pode mais categorias"
+      },
+      {
+        "date": "2026-03-31",
+        "score": 2,
+        "thumbs": 0,
+        "text": "widget premium, its frustrating"
+      },
+      {
+        "date": "2025-12-09",
+        "score": 1,
+        "thumbs": 0,
+        "text": "🇺🇸The app doesn't even notify or play the alarm!! I missed 2 important things because of this... 🇧🇷O app nem sequer notifica ou toca o alarme véi, perdi dois negócio mó importante por causa disso"
+      },
+      {
+        "date": "2025-11-12",
+        "score": 1,
+        "thumbs": 0,
+        "text": "não tem para iOS"
+      },
+      {
+        "date": "2025-10-18",
+        "score": 1,
+        "thumbs": 0,
+        "text": "O widget só funciona no premium"
+      }
+    ]
+  },
+  "BR_loop_habit": {
+    "appId": "org.isoron.uhabits",
+    "country": "br",
+    "title": "Loop - Acompanhador de Hábitos",
+    "score": 4.8446865,
+    "ratings": 62233,
+    "installs": "5.000.000+",
+    "offersIAP": false,
+    "adSupported": false,
+    "developer": "Álinson S Xavier",
+    "total_reviews_pulled": 500,
+    "low_reviews_count": 12,
+    "low_reviews_pct": 2.4,
+    "top_thumbs_low": [
+      {
+        "date": "2022-08-24",
+        "score": 2,
+        "thumbs": 16,
+        "text": "Foi o melhor e mais simples app de hábitos que já usei mas, infelizmente, não existe uma versão Web com sincronização automática. Acessar só pelo celular e ter que fazer backup manual todos os dias não é nada prático e, quando ocorre um incidente com o aparelho que você está usando, você perde tudo "
+      },
+      {
+        "date": "2021-10-22",
+        "score": 1,
+        "thumbs": 13,
+        "text": "Não dá pra definir quantas vezes na semana, exemplo, faço muay thai e natação, quero colocar um terça e quinta e outro segunda quarta e sexta. Os gráficos são lindos, mas não tem o básico. A frequência só tem a opção: toda semana, todo dia é todo mês. Aí não dá."
+      },
+      {
+        "date": "2023-06-10",
+        "score": 2,
+        "thumbs": 4,
+        "text": "Não existe a opção de fazer login e por conta disso eu perdi todos os dados dos hábitos que venho monitorando há anos. O aplicativo seria perfeito se não fosse isso. Esse problema é muito sério e previsa ser resolvido o quanto antes nas novas atualizações. Eu simplesmente perdi tudo e não tem como r"
+      },
+      {
+        "date": "2024-10-20",
+        "score": 2,
+        "thumbs": 2,
+        "text": "App bom, porém ha 2 problemas graves 1- Não ha opção de marcação de dias livres, em que você não rastreou o hábito. No habithub por exemplo há esta opção. Ajuda muito isso pois as vezes vc tira umas \"férias\" do hábito a rastrear e não quer que àquilo impacte seu histórico. 2-Nos hábitos mensuráveis,"
+      },
+      {
+        "date": "2022-12-23",
+        "score": 1,
+        "thumbs": 2,
+        "text": "Seria interessante poder repetir um Hábito várias vezes durante o msm dia (como beber água por exemplo)."
+      },
+      {
+        "date": "2021-06-23",
+        "score": 1,
+        "thumbs": 1,
+        "text": "Instalei na intenção que o aplicativo me desse sugestões de bons hábitos, mas não é o que eu esperava"
+      },
+      {
+        "date": "2025-12-03",
+        "score": 1,
+        "thumbs": 0,
+        "text": "eu amava o aplicativo mas agora eu não consigo mais baixar ele no meu Android 8 por favor voltem para o Android 8"
+      },
+      {
+        "date": "2025-07-23",
+        "score": 1,
+        "thumbs": 0,
+        "text": "Comecei a usar e depois de umas semanas começou a não salvar o dia anterior algumas tarefas que eu já havia marcado. Acho tb que deveria ter a opção de mostrar somente aquela semana que estamos .. e mostrar o mês tb....vou trocar de app. Até tinha gostado por não ter propaganda, mas tá avacalhando j"
+      },
+      {
+        "date": "2025-05-03",
+        "score": 1,
+        "thumbs": 0,
+        "text": "a fonte do aplicativo é muito pequena"
+      },
+      {
+        "date": "2025-01-28",
+        "score": 1,
+        "thumbs": 0,
+        "text": "Não consigo fazer backup e restaurar os dados para o aplicativo. O próprio app nao reconhece o arquivo que fez backup dele mesmo. Precisei resetar o apelho e perdi TODOS os meus dados."
+      },
+      {
+        "date": "2021-06-21",
+        "score": 2,
+        "thumbs": 0,
+        "text": "A coluna do dia atual deveria ficar em uma cor destacada no centro, evitando a confusão."
+      },
+      {
+        "date": "2021-03-14",
+        "score": 1,
+        "thumbs": 0,
+        "text": "O app nao marca as atividades não realiazadas em vermelho, e não existe a possibilidade de marcar datas especificas para projetos e dentro dos orojetos colocar metas..."
+      }
+    ]
+  },
+  "BR_paradot": {
+    "error": "App not found (404)",
+    "appId": "com.paradot.ai"
+  },
+  "BR_anima": {
+    "error": "App not found (404)",
+    "appId": "com.animaai.chat"
+  }
+}

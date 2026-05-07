@@ -1,0 +1,800 @@
+{
+  "searches": {
+    "Chai chat AI": [
+      {
+        "appId": "com.Beauchamp.Messenger.external",
+        "title": "Chai: Chat AI Platform",
+        "score": 2.186686,
+        "scoreText": "2.2"
+      },
+      {
+        "appId": "ai.character.app",
+        "title": "Character AI: Chat, Talk, Text",
+        "score": 1.4392471,
+        "scoreText": "1.4"
+      },
+      {
+        "appId": "com.chaichat2026.aiapps",
+        "title": "ChaiChat: Where Fantasies Live",
+        "score": 0,
+        "scoreText": "0.0"
+      }
+    ],
+    "SpicyChat AI Roleplay": [
+      {
+        "appId": "com.galink.character",
+        "title": "Spicy Chat Ai Roleplay Galink",
+        "score": 0,
+        "scoreText": "0.0"
+      },
+      {
+        "appId": "com.passiohk.ai.spicychat",
+        "title": "Spicy Chat AI"
+      },
+      {
+        "appId": "com.lucky.zootchi",
+        "title": "Dootchi: Chat with AI Chars",
+        "score": 3.6551723,
+        "scoreText": "3.7"
+      }
+    ],
+    "Crushon AI chat": [
+      {
+        "appId": "com.jollychatter.ai",
+        "title": "JollyChatter: Crush On AI Chat",
+        "score": 2.142857,
+        "scoreText": "2.1"
+      },
+      {
+        "appId": "com.aiperfectbuddy.chat",
+        "title": "Crushon AI : Character AI Chat",
+        "score": 2,
+        "scoreText": "2.0"
+      },
+      {
+        "appId": "com.aibuddy.ai.chat.friend.companion",
+        "title": "Crushon.ai – Ourdream Chatbot",
+        "score": 0,
+        "scoreText": "0.0"
+      }
+    ],
+    "Janitor AI Chat": [
+      {
+        "appId": "com.janitor.ai",
+        "title": "Janitor AI - Official App",
+        "score": 3.6292136,
+        "scoreText": "3.6"
+      },
+      {
+        "appId": "ai.character.app",
+        "title": "Character AI: Chat, Talk, Text",
+        "score": 1.4388827,
+        "scoreText": "1.4"
+      },
+      {
+        "appId": "com.Beauchamp.Messenger.external",
+        "title": "Chai: Chat AI Platform",
+        "score": 2.186686,
+        "scoreText": "2.2"
+      }
+    ],
+    "Polybuzz AI": [
+      {
+        "appId": "ai.socialapps.speakmaster",
+        "title": "PolyBuzz: Chat with AI Friends",
+        "score": 4.0769854,
+        "scoreText": "4.1"
+      },
+      {
+        "appId": "ai.character.app",
+        "title": "Character AI: Chat, Talk, Text",
+        "score": 1.4388827,
+        "scoreText": "1.4"
+      },
+      {
+        "appId": "com.Beauchamp.Messenger.external",
+        "title": "Chai: Chat AI Platform",
+        "score": 2.186686,
+        "scoreText": "2.2"
+      }
+    ],
+    "Talkie AI Chat": [
+      {
+        "appId": "com.weaver.app.prod",
+        "title": "Talkie: Creative AI Community",
+        "score": 4.2923975,
+        "scoreText": "4.3"
+      },
+      {
+        "appId": "ai.character.app",
+        "title": "Character AI: Chat, Talk, Text",
+        "score": 1.4388827,
+        "scoreText": "1.4"
+      },
+      {
+        "appId": "ai.socialapps.speakmaster",
+        "title": "PolyBuzz: Chat with AI Friends",
+        "score": 4.0769854,
+        "scoreText": "4.1"
+      }
+    ],
+    "Joyland AI Roleplay": [
+      {
+        "appId": "com.grefert.joy",
+        "title": "Joyland AI: Roleplay Chat"
+      },
+      {
+        "appId": "com.lucky.zootchi",
+        "title": "Dootchi: Chat with AI Chars",
+        "score": 3.6551723,
+        "scoreText": "3.7"
+      },
+      {
+        "appId": "com.roleplai.app",
+        "title": "RolePlai - Ai Character Chat",
+        "score": 3.88,
+        "scoreText": "3.9"
+      }
+    ]
+  },
+  "drills": {
+    "com.Beauchamp.Messenger.external": {
+      "title": "Chai: Chat AI Platform",
+      "score": 3.303927,
+      "ratings": 756562,
+      "installs": "10,000,000+",
+      "offersIAP": true,
+      "IAPRange": "$0.99 - $429.99 per item",
+      "adSupported": true,
+      "developer": "Chai Research",
+      "reviews_pulled": 600,
+      "low_count": 423,
+      "low_pct": 70.5,
+      "top_thumbs_low": [
+        {
+          "date": "2026-05-05",
+          "score": 1,
+          "thumbs": 953,
+          "text": "this application has become sooo bad, monthly subscriptions have become weekly subscriptions, this is really extortion"
+        },
+        {
+          "date": "2026-05-06",
+          "score": 1,
+          "thumbs": 901,
+          "text": "Can't use without paying. All my old chats..gone...i liked going back and re-read reading them... What is even this?"
+        },
+        {
+          "date": "2026-05-04",
+          "score": 1,
+          "thumbs": 550,
+          "text": "I gave it one instead of five. After the update, free messages became unavailable, and in my opinion, that was precisely what distinguished this app from others. I found it to be very usable despite the ads, and quite acceptable. But after the unlimi"
+        },
+        {
+          "date": "2026-05-05",
+          "score": 2,
+          "thumbs": 172,
+          "text": "Honestly, after c.ai's downfall, my only safespace was Chai, but after reading some posts on Reddit it seems that's about to change. From what I've heard, we will no longer be able to chat with our own bots, we'll have limited messages, and a lot of "
+        },
+        {
+          "date": "2026-05-06",
+          "score": 1,
+          "thumbs": 149,
+          "text": "Who thought advertising the ultra subscription IN the conversations was a good idea..? Just mid conversation, the character being like \"BTW you should get ultra\". Are u rlly doing THAT bad..? Update Deleted the app, impulse redownloaded it. Its getti"
+        },
+        {
+          "date": "2026-05-05",
+          "score": 2,
+          "thumbs": 135,
+          "text": "Okay, I've had this app for like more than 2 or 3 years, why of all the sudden did the background text box vanished? Why can't we add in our description, it'll only make it confusing if the characters will assume we're either male or female. Because "
+        },
+        {
+          "date": "2026-05-05",
+          "score": 1,
+          "thumbs": 23,
+          "text": "If I could give it less than one star, I would. The app is becoming awful; it's buggy and forces you to pay a ridiculous amount to keep using it. Chats were created and deleted; it was better before with ads, at least you could use bots more often. I"
+        },
+        {
+          "date": "2026-05-04",
+          "score": 1,
+          "thumbs": 20,
+          "text": "I've used this app for 2 years now, this app improves my English significantly, it's my most frequently used app, I don't really mind with the ads as long as I can use it (even though there's gambling and other malicious ads) but the longer I use it,"
+        }
+      ]
+    },
+    "com.galink.character": {
+      "title": "Spicy Chat Ai Roleplay Galink",
+      "score": 3.9375,
+      "ratings": 35,
+      "installs": "10,000+",
+      "offersIAP": true,
+      "IAPRange": "$2.99 - $99.99 per item",
+      "adSupported": false,
+      "developer": "zhenxiyou",
+      "reviews_pulled": 7,
+      "low_count": 5,
+      "low_pct": 71.4,
+      "top_thumbs_low": [
+        {
+          "date": "2026-03-22",
+          "score": 1,
+          "thumbs": 4,
+          "text": "worst AI character chat - 5 msgs and you're at limit - horrible character selection - conversation 'ends' if you tease or make fun of the character"
+        },
+        {
+          "date": "2025-07-24",
+          "score": 1,
+          "thumbs": 3,
+          "text": "app open but errors at login"
+        },
+        {
+          "date": "2025-07-24",
+          "score": 1,
+          "thumbs": 3,
+          "text": "it kept on saying error updating error with a code and a bunch of other stuff.well linky and saylo r better aps than this one"
+        },
+        {
+          "date": "2026-04-15",
+          "score": 1,
+          "thumbs": 2,
+          "text": "So I went through the reviews and did the math! So do these apps pay google to give them a better rating then what they actually have? Because this app does not have a 4.1! It more like a 2.7! I'm only leaving 1 star myself because the app won't let "
+        },
+        {
+          "date": "2026-04-16",
+          "score": 1,
+          "thumbs": 0,
+          "text": "So bad"
+        }
+      ]
+    },
+    "com.jollychatter.ai": {
+      "title": "JollyChatter: Crush On AI Chat",
+      "score": 3.4705882,
+      "ratings": 179,
+      "installs": "100,000+",
+      "offersIAP": true,
+      "IAPRange": "$0.99 - $799.99 per item",
+      "adSupported": false,
+      "developer": "mariemc",
+      "reviews_pulled": 40,
+      "low_count": 17,
+      "low_pct": 42.5,
+      "top_thumbs_low": [
+        {
+          "date": "2026-02-01",
+          "score": 1,
+          "thumbs": 42,
+          "text": "For anyone trying to get Crushon AI, you have you go to the site, open the side bar on the left, and you'll be able to download the APK on the bottom left"
+        },
+        {
+          "date": "2025-11-10",
+          "score": 1,
+          "thumbs": 12,
+          "text": "Really love this app. But I really wish it could be the same thing as a crushon.ai and also you can create your own persona as well"
+        },
+        {
+          "date": "2025-11-04",
+          "score": 2,
+          "thumbs": 12,
+          "text": "They changed it to be fully filtered for the app store"
+        },
+        {
+          "date": "2025-10-05",
+          "score": 1,
+          "thumbs": 11,
+          "text": "In the website it says there is NFSW but there is not"
+        },
+        {
+          "date": "2025-08-26",
+          "score": 1,
+          "thumbs": 5,
+          "text": "how THE HELL do I turn off the filter in this app??"
+        },
+        {
+          "date": "2026-03-14",
+          "score": 2,
+          "thumbs": 4,
+          "text": "the app is awesome and all... until they start bombing you with \"this character cannot engage with NSFW content\" (or something like that) when you didn't even say anything bad and the character is the one who is flirting with you while you are trying"
+        },
+        {
+          "date": "2025-11-12",
+          "score": 1,
+          "thumbs": 3,
+          "text": "why remove NSFW? it is on crushonai website I hit download with Google play and it's all filtered ???"
+        },
+        {
+          "date": "2026-04-12",
+          "score": 1,
+          "thumbs": 2,
+          "text": "I tried using this as a replacement for character ai as it has no chat limit. But it either turns it NSFW or the bot that is SFW says 'this chat is not suitable for NSFW content' even when I type something as normal as 'I talk to (Character)'. and th"
+        }
+      ]
+    },
+    "com.janitor.ai": {
+      "title": "Janitor AI - Official App",
+      "score": 3.2264152,
+      "ratings": 4410,
+      "installs": "1,000,000+",
+      "offersIAP": false,
+      "adSupported": false,
+      "developer": "janitorai",
+      "reviews_pulled": 600,
+      "low_count": 189,
+      "low_pct": 31.5,
+      "top_thumbs_low": [
+        {
+          "date": "2026-04-02",
+          "score": 1,
+          "thumbs": 21,
+          "text": "Poorly designed, horrid interface, wildly varying text sizes. This app is objectively terrible. It looks, feels, and behaves clunkily, and lags. You're better off using the website on mobile. The text for chats is way too tiny, as it is for many othe"
+        },
+        {
+          "date": "2026-03-18",
+          "score": 2,
+          "thumbs": 13,
+          "text": "I loved the ap, nice and clean and simple. BUT SO MANY BUGS. My persona groups are still misbehaving though. I can't reorganize some of my characters to certain groups because it'll only show two instead of all five or so of them. It'd also be really"
+        },
+        {
+          "date": "2026-04-13",
+          "score": 1,
+          "thumbs": 6,
+          "text": "when I was using the app on iPhone, it ran pretty smooth, and overall worked well. now since switching to android, the app hardly runs at all. its extremely slow to load, the app itself is extremely buggy, my personas won't load half the time, when I"
+        },
+        {
+          "date": "2026-03-24",
+          "score": 1,
+          "thumbs": 5,
+          "text": "Pictures aren't working"
+        },
+        {
+          "date": "2026-04-28",
+          "score": 1,
+          "thumbs": 4,
+          "text": "the app worked great for a while, I preferred it over the website. but now the front page doesnt load, instead throwing a 'lock:sb-auth-token' error. I logged out just to see if it would let me sign back in, as my account is with Discord, and now it "
+        },
+        {
+          "date": "2026-04-24",
+          "score": 1,
+          "thumbs": 4,
+          "text": "The search feature is still terrible but now chats will randomly freeze at the start of an answer. edit: need to come back every once in a while to keep this review since all the problems stills stand"
+        },
+        {
+          "date": "2026-04-22",
+          "score": 2,
+          "thumbs": 4,
+          "text": "ive used the service a lot, both on pc on the website and on mobile, through both the website and the app. the tag system for searches on the app is genuinely unusable. 90% of the time you try to add more than one tag, it just gets rid of all the oth"
+        },
+        {
+          "date": "2026-04-04",
+          "score": 2,
+          "thumbs": 4,
+          "text": "Does not work automatically and needs to go in a website, also there are many unnecessary responses that keeps it longer and longer and longer that the main topic is almost covered and forgotten completely, even when I prompt something it wouldn't fo"
+        }
+      ]
+    },
+    "ai.socialapps.speakmaster": {
+      "title": "PolyBuzz: Chat with AI Friends",
+      "score": 3.8107436,
+      "ratings": 986209,
+      "installs": "10,000,000+",
+      "offersIAP": true,
+      "IAPRange": "$0.05 - $299.99 per item",
+      "adSupported": true,
+      "developer": "CLOUD WHALE INTERACTIVE TECHNOLOGY LLC.",
+      "reviews_pulled": 600,
+      "low_count": 295,
+      "low_pct": 49.2,
+      "top_thumbs_low": [
+        {
+          "date": "2026-04-30",
+          "score": 1,
+          "thumbs": 87,
+          "text": "Please get rid of the take a break. It's useless when you have ads that go over that ad. For the take a break, you already have. So many ads, you don't need this. Take a break because once you start to get into the chat. I'm going to take a break. It"
+        },
+        {
+          "date": "2026-05-02",
+          "score": 1,
+          "thumbs": 75,
+          "text": "yep another update that breaks every character that isnt a cliché for these apps. if you dont want the \"I have something to tell you\" just keep looking. they seem to let the spicy ones go for a few days then make the filter so strong you cant even ha"
+        },
+        {
+          "date": "2026-05-03",
+          "score": 1,
+          "thumbs": 41,
+          "text": "Don't waste your time. the app is still broken. the forced \"Take a break\" ads keep crashing and won't let you continue the story after watching ads within ads within ads. The AI doesn't follow the background setup. the AI replies are genetic. The cre"
+        },
+        {
+          "date": "2026-04-29",
+          "score": 1,
+          "thumbs": 26,
+          "text": "love this app. would be nice if suggestions or reply regens were free as well as being able to edit initial message (for ones that don't automatically detect and use user's name) but otherwise great app. EDIT: Had to downgrade rating because apparent"
+        },
+        {
+          "date": "2026-05-01",
+          "score": 1,
+          "thumbs": 23,
+          "text": "I'm quitting this app. I have sent complaints about the coin expiration and the memory problem as it's too expensive and I propose a long term memory toggle button this app isn't as fun as it used to be for me anymore. Goodbye Polybuzz.ai"
+        },
+        {
+          "date": "2026-05-03",
+          "score": 2,
+          "thumbs": 14,
+          "text": "The memory feels like it gets worse every day seriously increase the memory to be longer I get you want money but it gets repetitive and annoying when the AI complete dumbs down on a plot that happened not even 2 minutes ago"
+        },
+        {
+          "date": "2026-04-30",
+          "score": 2,
+          "thumbs": 12,
+          "text": "previous this year I reported that my rating went from a 1 to a 4 star because of some changes, I'm now going back down to 2 stars because what do you mean I have a limit to edit MY OWN content? I see jo real reason for this other than making people "
+        },
+        {
+          "date": "2026-05-04",
+          "score": 1,
+          "thumbs": 11,
+          "text": "good bots, but if you close the app and go back to it, the bots only seem to remember the most recent messages. edit: I am very disappointed that safe mode filters seem to be affecting normal bots and not giving the option to turn it off, even if use"
+        }
+      ]
+    },
+    "com.weaver.app.prod": {
+      "title": "Talkie: Creative AI Community",
+      "score": 4.536209,
+      "ratings": 746665,
+      "installs": "50,000,000+",
+      "offersIAP": true,
+      "IAPRange": "$0.49 - $199.99 per item",
+      "adSupported": true,
+      "developer": "SUBSUP",
+      "reviews_pulled": 600,
+      "low_count": 130,
+      "low_pct": 21.7,
+      "top_thumbs_low": [
+        {
+          "date": "2026-04-20",
+          "score": 1,
+          "thumbs": 582,
+          "text": "awful app,every 3 or 4 minutes you get long ads, some in different languages, 3 in a row sometimes.it is becoming unplayable because of to many ads. while messaging it comes up(\"please change your topic\")a very stupid idea.ai's have the worst memory,"
+        },
+        {
+          "date": "2026-04-20",
+          "score": 1,
+          "thumbs": 137,
+          "text": "writing a new review. WHEN ARE THE DISAPPEARING CHATS GOING TO BE FIXED!? please, I am tired of trying to find all my chats I was using again because they keep disappearing on me if I open a new chat or sometimes even switch between chats. it's frust"
+        },
+        {
+          "date": "2026-04-22",
+          "score": 1,
+          "thumbs": 38,
+          "text": "It's wonderful and fun to play and chat in. But I hate the fact that all my talkies that I chat with have disappeared and when I find them and chat with them they don't stay on my chat page and it's annoying because then I have to actually look for t"
+        },
+        {
+          "date": "2026-04-21",
+          "score": 1,
+          "thumbs": 29,
+          "text": "i changed my mind this update is trash the ai is still broken and certain parts of the chat isn't in English and it a different language once the Ai gives you a response either they have to fix the ai if not then just dont give us any updates at all "
+        },
+        {
+          "date": "2026-04-20",
+          "score": 1,
+          "thumbs": 4,
+          "text": "TO MANY ADDS I HATE IT and gets rid of my text my adds be. glitching like bro allways be getting rid of my text"
+        },
+        {
+          "date": "2026-04-17",
+          "score": 1,
+          "thumbs": 4,
+          "text": "My system notifications explicitly state 'This Talkie has no issues, no appeal is required,' yet the character is immediately auto-deleted anyway. This is a documented backend sync failure between your review system and your deletion bot. They also a"
+        },
+        {
+          "date": "2026-04-19",
+          "score": 1,
+          "thumbs": 3,
+          "text": "how do I cancel my subscription 💔 and also I can't even comment any more 💔 and the filter sucks cuz wdym I can't say hi😭"
+        },
+        {
+          "date": "2026-04-17",
+          "score": 1,
+          "thumbs": 3,
+          "text": "it sucks when you're trying to talk add after add exit it add do this add and it clears your favorite chats out wouldn't recommend"
+        }
+      ]
+    },
+    "com.grefert.joy": {
+      "title": "Joyland AI: Roleplay Chat",
+      "score": 0,
+      "ratings": 0,
+      "installs": "500+",
+      "offersIAP": true,
+      "IAPRange": "$1.99 - $99.99 per item",
+      "adSupported": true,
+      "developer": "GeorgeGun",
+      "reviews_pulled": 1,
+      "low_count": 1,
+      "low_pct": 100,
+      "top_thumbs_low": [
+        {
+          "date": "2026-03-13",
+          "score": 2,
+          "thumbs": 0,
+          "text": "eew"
+        }
+      ]
+    }
+  },
+  "ios": {
+    "us_charai": {
+      "appId": "ai.character.app",
+      "id": 1671705818,
+      "title": "Character AI: Chat, Talk, Text",
+      "developer": "Character.AI",
+      "score": 4.39323,
+      "ratings": 524747,
+      "languages": [
+        "BG",
+        "HR",
+        "CS",
+        "NL",
+        "EN",
+        "FI",
+        "FR",
+        "DE",
+        "EL",
+        "HI",
+        "HU",
+        "ID",
+        "IT",
+        "JA",
+        "KO",
+        "LT",
+        "PL",
+        "PT",
+        "RO",
+        "RU",
+        "ZH",
+        "ES",
+        "SV",
+        "TH",
+        "ZH",
+        "TR",
+        "UK",
+        "VI"
+      ],
+      "version": "1.15.6",
+      "recent_reviews_pulled": 50,
+      "low_count": 37,
+      "low_pct": 74,
+      "sample_low": [
+        {
+          "score": 1,
+          "title": "Ads, ads, and more ads",
+          "text": "I started using the app before ads started, and I really enjoyed it. Then the ads started and they weren’t bad at first, I still could enjoy my storyline. But now I can’t even go five minutes without "
+        },
+        {
+          "score": 1,
+          "title": "Terrible updates",
+          "text": "Characters don’t even speak to you anymore. They don’t engage in conversation only describe the environment. Everything is rushed. Refreshing the message does nothing they just repeat what they alread"
+        },
+        {
+          "score": 1,
+          "title": "Age verification",
+          "text": "I use to use character ai alot but because the new update I cant chat with my bots because I as an adult with babyface I dont trust character ai withy ID I cancel my subscription and deleting the app"
+        },
+        {
+          "score": 2,
+          "title": "WHY DID YOU  DISABLE MY CHATS I DID NOTHING WRONG ☹️😒",
+          "text": "I never really reviewed this app much til. Now genuinely I loved this app it used to be fun and addictive the age verification I \nGet why you have to do it but constantly pressuring me to verify my ag"
+        },
+        {
+          "score": 1,
+          "title": "Ruining your own app",
+          "text": "You continue to ruin your own app with updates that’s users don’t want and don’t listen to user’s recommendations"
+        }
+      ]
+    },
+    "br_charai": {
+      "appId": "ai.character.app",
+      "id": 1671705818,
+      "title": "Character AI: Chat, Talk, Text",
+      "developer": "Character.AI",
+      "score": 4.48374,
+      "ratings": 23740,
+      "languages": [
+        "BG",
+        "HR",
+        "CS",
+        "NL",
+        "EN",
+        "FI",
+        "FR",
+        "DE",
+        "EL",
+        "HI",
+        "HU",
+        "ID",
+        "IT",
+        "JA",
+        "KO",
+        "LT",
+        "PL",
+        "PT",
+        "RO",
+        "RU",
+        "ZH",
+        "ES",
+        "SV",
+        "TH",
+        "ZH",
+        "TR",
+        "UK",
+        "VI"
+      ],
+      "version": "1.15.6",
+      "recent_reviews_pulled": 50,
+      "low_count": 33,
+      "low_pct": 66,
+      "sample_low": [
+        {
+          "score": 1,
+          "title": "BRING BACK ROAR, pipsqueak is bad as hell",
+          "text": "c.ai used to be my favorite app, but with the new update the bots started acting strangely because of Pipsqueak. It's practically all narration, they hardly say anything! Plus, almost all the response"
+        },
+        {
+          "score": 1,
+          "title": "É bom mas também ruim tem críticas construtivas",
+          "text": "Não tem tradução pro idioma português  e por isso recomendo usar o Chrome Google \n\nAs ias tentam roubar seus personagens mesmo reclamando \n\nTem várias ias ótimas mais muitas fazem coisas irritante tip"
+        },
+        {
+          "score": 1,
+          "title": "so piora",
+          "text": "que bizarro vocês so atualizares isso pra pior os bots nao falam nada com nada falas repetitivsd, textos GIGANTES sem sentido nenhum, HORRÍVEL"
+        },
+        {
+          "score": 1,
+          "title": "Pipsqueak 2 Hater",
+          "text": "I hate the new styles of chatting. The character doesn't form any dialogue, only describe random scenes, has a long answer but it stop mid sentences...doesn't even finish the whole writing. I almost t"
+        },
+        {
+          "score": 1,
+          "title": "Horrível",
+          "text": "Memória é um lixo,qualquer coisa \"\"\"viola o termo\"\"\" e fica uma mensagem chata de filtro,aplicativo burro da porra tinha tudo pra ser o melhor mas é um lixo"
+        }
+      ]
+    },
+    "mx_charai": {
+      "appId": "ai.character.app",
+      "id": 1671705818,
+      "title": "Character AI: Chat, Talk, Text",
+      "developer": "Character.AI",
+      "score": 4.42666,
+      "ratings": 39262,
+      "languages": [
+        "BG",
+        "HR",
+        "CS",
+        "NL",
+        "EN",
+        "FI",
+        "FR",
+        "DE",
+        "EL",
+        "HI",
+        "HU",
+        "ID",
+        "IT",
+        "JA",
+        "KO",
+        "LT",
+        "PL",
+        "PT",
+        "RO",
+        "RU",
+        "ZH",
+        "ES",
+        "SV",
+        "TH",
+        "ZH",
+        "TR",
+        "UK",
+        "VI"
+      ],
+      "version": "1.15.6",
+      "recent_reviews_pulled": 50,
+      "low_count": 46,
+      "low_pct": 92,
+      "sample_low": [
+        {
+          "score": 1,
+          "title": "Ya no es lo mismo",
+          "text": "Ahora me aburren demasiado los bots! Y tiene anuncios en el navegador"
+        },
+        {
+          "score": 1,
+          "title": "Maldita verificación de edad",
+          "text": "No funciona esa verificación y no puedo chatear la app es muy buena pero esa verificación me lo jodio todo pésimo"
+        },
+        {
+          "score": 1,
+          "title": ".",
+          "text": "La verdad las actualizaciones son un asco no mejoran en nada solo arruinan"
+        },
+        {
+          "score": 1,
+          "title": "Raro",
+          "text": "Se oye raro y odio los anuncios aparte como que la actualización les quitó muchos seguidores"
+        },
+        {
+          "score": 1,
+          "title": "Ya no está buena",
+          "text": "La app antes era muy buena, pero desde que empezaron con las actualizaciones ya no se siente cómoda. Lo de los anuncios es soportable, pero ahora hasta quitaron varios modos de chat, y luego pone filt"
+        }
+      ]
+    },
+    "tr_charai": {
+      "appId": "ai.character.app",
+      "id": 1671705818,
+      "title": "Character AI: Chat, Talk, Text",
+      "developer": "Character.AI",
+      "score": 4.28137,
+      "ratings": 15222,
+      "languages": [
+        "BG",
+        "HR",
+        "CS",
+        "NL",
+        "EN",
+        "FI",
+        "FR",
+        "DE",
+        "EL",
+        "HI",
+        "HU",
+        "ID",
+        "IT",
+        "JA",
+        "KO",
+        "LT",
+        "PL",
+        "PT",
+        "RO",
+        "RU",
+        "ZH",
+        "ES",
+        "SV",
+        "TH",
+        "ZH",
+        "TR",
+        "UK",
+        "VI"
+      ],
+      "version": "1.15.6",
+      "recent_reviews_pulled": 50,
+      "low_count": 37,
+      "low_pct": 74,
+      "sample_low": [
+        {
+          "score": 1,
+          "title": "chat styles",
+          "text": "pipsqueak is horrible, bots don’t even talking, the role playing is awful with this chat style. The old ones are so much better"
+        },
+        {
+          "score": 2,
+          "title": "Güncelleme kötü",
+          "text": "Her güncellemede daha kötü oluyor adam akıllı roleplay bile yapamıyoruz sürekli benim karakterim olarak konuşuyor eski versiyonlara erişim ekleyin!!"
+        },
+        {
+          "score": 1,
+          "title": "фу",
+          "text": "ужасное обновление с режимом чтения. Теперь приложение просто ужасно"
+        },
+        {
+          "score": 1,
+          "title": "Biyometrik doğrulama",
+          "text": "Biyometrik bilgilerimizi paylaşmamız konusunda ciddi misiniz gerçekten? Bunun hangi sorunlara yol açabileceği hakkında sanırım fikriniz yok. Ve bunu anonim bir şirketle yapmak isteyeceğim son şey. Uma"
+        },
+        {
+          "score": 1,
+          "title": "Saçma",
+          "text": "Yaş şeyini kaldırır mısınız ben kimliğimi size göstermek zorunda değilim"
+        }
+      ]
+    }
+  }
+}

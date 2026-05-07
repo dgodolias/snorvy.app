@@ -1,0 +1,38 @@
+{
+  "NG_linky_DEEP": {
+    "error": "App not found (404)",
+    "appId": "com.linkyai.app"
+  },
+  "US_linky": {
+    "error": "App not found (404)",
+    "appId": "com.linkyai.app"
+  },
+  "BR_linky": {
+    "error": "App not found (404)",
+    "appId": "com.linkyai.app"
+  },
+  "IN_linky": {
+    "error": "App not found (404)",
+    "appId": "com.linkyai.app"
+  },
+  "BR_pictthis_DEEP": {
+    "error": "App not found (404)",
+    "appId": "cn.danatech.xingseusapp"
+  },
+  "US_pictthis": {
+    "error": "App not found (404)",
+    "appId": "cn.danatech.xingseusapp"
+  },
+  "BR_lovelife": {
+    "error": "App not found (404)",
+    "appId": "com.lovelife.romance"
+  },
+  "BR_attapoll": {
+    "error": "App not found (404)",
+    "appId": "co.attapoll.app"
+  },
+  "MX_zakzak": {
+    "error": "App not found (404)",
+    "appId": "com.zakzak.app"
+  }
+}

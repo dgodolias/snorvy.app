@@ -1,0 +1,773 @@
+{
+  "found": [
+    {
+      "label": "NG_linky",
+      "c": "ng",
+      "lang": "en",
+      "appId": "com.aigc.ushow.ichat",
+      "title": "Linky AI: Chat, Play, Connect"
+    },
+    {
+      "label": "US_linky",
+      "c": "us",
+      "lang": "en",
+      "appId": "com.aigc.ushow.ichat",
+      "title": "Linky AI: Chat, Play, Connect"
+    },
+    {
+      "label": "BR_pictthis",
+      "c": "br",
+      "lang": "pt",
+      "appId": "cn.danatech.xingseus",
+      "title": "PictureThis Identificar Planta"
+    },
+    {
+      "label": "BR_attapoll",
+      "c": "br",
+      "lang": "pt",
+      "appId": "com.requapp.requ",
+      "title": "AttaPoll: ganhar dinheiro"
+    },
+    {
+      "label": "BR_lovelife",
+      "c": "br",
+      "lang": "pt",
+      "appId": "com.atomic.lovelife",
+      "title": "Lovelife: Histórias de Amor"
+    },
+    {
+      "label": "MX_zakzak",
+      "c": "mx",
+      "lang": "es",
+      "appId": "com.live.videochat.india",
+      "title": "ZAKZAK Pro - chat en vivo"
+    },
+    {
+      "label": "BR_chatlife",
+      "c": "br",
+      "lang": "pt",
+      "appId": "com.chatlife2.mlnd",
+      "title": "ChatLife Bate-papo por vídeo"
+    },
+    {
+      "label": "TR_oregl",
+      "c": "tr",
+      "lang": "tr",
+      "appId": "com.bimilyoncu.sscoderr.oregltv",
+      "title": "OreglTV - Rastgele Video Arama"
+    }
+  ],
+  "drill": {
+    "NG_linky": {
+      "appId": "com.aigc.ushow.ichat",
+      "country": "ng",
+      "title": "Linky AI: Chat, Play, Connect",
+      "score": 4.5784316,
+      "ratings": 130570,
+      "installs": "10,000,000+",
+      "offersIAP": true,
+      "IAPRange": "₦448.91 - ₦420,000.00 per item",
+      "adSupported": true,
+      "developer": "Skywork AI Pte. Ltd.",
+      "reviews_pulled": 1000,
+      "low_count": 427,
+      "low_pct": 42.7,
+      "top_thumbs_low": [
+        {
+          "date": "2026-05-01",
+          "score": 1,
+          "thumbs": 141,
+          "text": "The last three plots were miserable. Huge waste of time. One chick went bizarre crazy on me out of nowhere. The pictures suck. The last one, the AI kept interrupting and then refused to continue with the plot I setup. Don't set up a plot and then not let me navigate my own way through it."
+        },
+        {
+          "date": "2026-04-30",
+          "score": 2,
+          "thumbs": 108,
+          "text": "It's my favorite app to use for researching and story building, but even though I'm paying for Pro, some features are not working or seem to be broke. First is Terrible memory, it's as if I'm not paying for Pro, but I am, and I'm not getting the memory I am paying for. And 2, the characters are a bi"
+        },
+        {
+          "date": "2026-04-01",
+          "score": 1,
+          "thumbs": 76,
+          "text": "love the app and the stories are good, but the AI loses track of the storyline and screws up completely. one moment one thing, the next a whole different thing. also, with refreshing of scenarios, the majority is the same, but stated differently. that eats up the refresh uses per day."
+        },
+        {
+          "date": "2026-03-18",
+          "score": 2,
+          "thumbs": 42,
+          "text": "Once one of the best AI chat apps now an overly glorified dating simulator. It's genuinely sad to see the direction it took."
+        },
+        {
+          "date": "2026-04-15",
+          "score": 2,
+          "thumbs": 22,
+          "text": "For every cool storyline you'll get a few that make zero sense. That and there is too much hallucination. Forgetfulness. And some questionable decisions like talking to real people which really doesn't work. I want to play out cool storylines. It is heartbreaking if the AI forgets literally everythi"
+        },
+        {
+          "date": "2026-04-17",
+          "score": 1,
+          "thumbs": 21,
+          "text": "I'm experiencing an issue with the Linky app where the AI doesn't respond to my messages. I've tried updating the app and restarting it, but the issue persists. Can you please look into this and fix the problem? I'm having trouble sending messages.why the app always have a problem like this. If this"
+        },
+        {
+          "date": "2026-05-05",
+          "score": 1,
+          "thumbs": 18,
+          "text": "well the app is good but sometimes when you are getting deep in the conversation it changes the story same thing for NSFW like it was working before but now it's just being boring now ai changes the subjects please fix it what is this Your description contains content that is not appropriate. I cann"
+        },
+        {
+          "date": "2026-05-04",
+          "score": 1,
+          "thumbs": 18,
+          "text": "It used to be great. Ads wrre reasonsble. Now they're comstant. Plus...there is ni longer NSFW content allowed. None. A deep relationship with another is the same as one with Grandma. Please bring it back. I am unistalling this app.. as I'm sure many others are."
+        },
+        {
+          "date": "2026-04-29",
+          "score": 1,
+          "thumbs": 18,
+          "text": "The most recent update has completely ruined any interest I have in the app. Lots of characters just wiped out, far more focus on party rooms and competing than theAI chats. Deleting the app since it's no longer what I originally used it for."
+        },
+        {
+          "date": "2026-04-03",
+          "score": 1,
+          "thumbs": 17,
+          "text": "power crept. try a better one."
+        },
+        {
+          "date": "2026-04-04",
+          "score": 1,
+          "thumbs": 15,
+          "text": "I used this years ago. Safe to say it's definitely gotten a lot worse. If you want to be spammed to high hell with \"real\" people, this is your app. Ads only appear when you leave the app to another one (like accidentally tapping the home button), or when it asks you to turn on notifications. It's su"
+        },
+        {
+          "date": "2026-05-02",
+          "score": 1,
+          "thumbs": 14,
+          "text": "whatever they did in the past 3 days has made it completely boring. went from kinda fun and atleast a little diverse to every character acting the same. think thry are trying to force the filter to hard so no character can even be mischievous or fun now its just full of ultra cringe \"I got to tell y"
+        }
+      ]
+    },
+    "US_linky": {
+      "appId": "com.aigc.ushow.ichat",
+      "country": "us",
+      "title": "Linky AI: Chat, Play, Connect",
+      "score": 3.9718187,
+      "ratings": 130570,
+      "installs": "10,000,000+",
+      "offersIAP": true,
+      "IAPRange": "$0.49 - $269.99 per item",
+      "adSupported": true,
+      "developer": "Skywork AI Pte. Ltd.",
+      "reviews_pulled": 1000,
+      "low_count": 427,
+      "low_pct": 42.7,
+      "top_thumbs_low": [
+        {
+          "date": "2026-05-01",
+          "score": 1,
+          "thumbs": 141,
+          "text": "The last three plots were miserable. Huge waste of time. One chick went bizarre crazy on me out of nowhere. The pictures suck. The last one, the AI kept interrupting and then refused to continue with the plot I setup. Don't set up a plot and then not let me navigate my own way through it."
+        },
+        {
+          "date": "2026-04-30",
+          "score": 2,
+          "thumbs": 108,
+          "text": "It's my favorite app to use for researching and story building, but even though I'm paying for Pro, some features are not working or seem to be broke. First is Terrible memory, it's as if I'm not paying for Pro, but I am, and I'm not getting the memory I am paying for. And 2, the characters are a bi"
+        },
+        {
+          "date": "2026-04-01",
+          "score": 1,
+          "thumbs": 76,
+          "text": "love the app and the stories are good, but the AI loses track of the storyline and screws up completely. one moment one thing, the next a whole different thing. also, with refreshing of scenarios, the majority is the same, but stated differently. that eats up the refresh uses per day."
+        },
+        {
+          "date": "2026-03-18",
+          "score": 2,
+          "thumbs": 42,
+          "text": "Once one of the best AI chat apps now an overly glorified dating simulator. It's genuinely sad to see the direction it took."
+        },
+        {
+          "date": "2026-04-15",
+          "score": 2,
+          "thumbs": 22,
+          "text": "For every cool storyline you'll get a few that make zero sense. That and there is too much hallucination. Forgetfulness. And some questionable decisions like talking to real people which really doesn't work. I want to play out cool storylines. It is heartbreaking if the AI forgets literally everythi"
+        },
+        {
+          "date": "2026-04-17",
+          "score": 1,
+          "thumbs": 21,
+          "text": "I'm experiencing an issue with the Linky app where the AI doesn't respond to my messages. I've tried updating the app and restarting it, but the issue persists. Can you please look into this and fix the problem? I'm having trouble sending messages.why the app always have a problem like this. If this"
+        },
+        {
+          "date": "2026-05-05",
+          "score": 1,
+          "thumbs": 18,
+          "text": "well the app is good but sometimes when you are getting deep in the conversation it changes the story same thing for NSFW like it was working before but now it's just being boring now ai changes the subjects please fix it what is this Your description contains content that is not appropriate. I cann"
+        },
+        {
+          "date": "2026-05-04",
+          "score": 1,
+          "thumbs": 18,
+          "text": "It used to be great. Ads wrre reasonsble. Now they're comstant. Plus...there is ni longer NSFW content allowed. None. A deep relationship with another is the same as one with Grandma. Please bring it back. I am unistalling this app.. as I'm sure many others are."
+        },
+        {
+          "date": "2026-04-29",
+          "score": 1,
+          "thumbs": 18,
+          "text": "The most recent update has completely ruined any interest I have in the app. Lots of characters just wiped out, far more focus on party rooms and competing than theAI chats. Deleting the app since it's no longer what I originally used it for."
+        },
+        {
+          "date": "2026-04-03",
+          "score": 1,
+          "thumbs": 17,
+          "text": "power crept. try a better one."
+        },
+        {
+          "date": "2026-04-04",
+          "score": 1,
+          "thumbs": 15,
+          "text": "I used this years ago. Safe to say it's definitely gotten a lot worse. If you want to be spammed to high hell with \"real\" people, this is your app. Ads only appear when you leave the app to another one (like accidentally tapping the home button), or when it asks you to turn on notifications. It's su"
+        },
+        {
+          "date": "2026-05-02",
+          "score": 1,
+          "thumbs": 14,
+          "text": "whatever they did in the past 3 days has made it completely boring. went from kinda fun and atleast a little diverse to every character acting the same. think thry are trying to force the filter to hard so no character can even be mischievous or fun now its just full of ultra cringe \"I got to tell y"
+        }
+      ]
+    },
+    "BR_pictthis": {
+      "appId": "cn.danatech.xingseus",
+      "country": "br",
+      "title": "PictureThis Identificar Planta",
+      "score": 4.7439904,
+      "ratings": 753594,
+      "installs": "50.000.000+",
+      "offersIAP": true,
+      "IAPRange": "R$ 7,49 – R$ 289,99 por item",
+      "adSupported": true,
+      "developer": "Glority Global Group Ltd.",
+      "reviews_pulled": 1000,
+      "low_count": 262,
+      "low_pct": 26.2,
+      "top_thumbs_low": [
+        {
+          "date": "2024-12-17",
+          "score": 1,
+          "thumbs": 111,
+          "text": "Após a última atualização, quem tem conta grátis pode desinstalar o app, porque bloquearam quase tudo, e quando digo quase tudo, é pra não dizer que está inutilizável. Apresentam agora 2 planos pagos, o que antes dava pra acessar de forma grátis, está agora por R$ 129.99 sob o nome de \"plus\" e o out"
+        },
+        {
+          "date": "2025-12-02",
+          "score": 2,
+          "thumbs": 104,
+          "text": "Gosto muito do app, tinha avaliado com 5 estrelas. Mas resolvi editar, pois tem um mês que venho enviando e-mails para o suporte e não tive retorno. Tenho uma assinatura pro comprada na loja do IOS, troquei para Android e não consigo usar minha assinatura, pedem para eu comprar outra e ainda vou per"
+        },
+        {
+          "date": "2025-04-23",
+          "score": 2,
+          "thumbs": 30,
+          "text": "Estou muito desapontado com a aplicação Picture This, apesar de ser anunciada como gratuita na Google Play, logo após a instalação é necessário ativar a versão premium para que a app funcione, o que considero enganoso.A eficácia na identificação de plantas e as informações úteis sobre cuidados são p"
+        },
+        {
+          "date": "2026-01-19",
+          "score": 1,
+          "thumbs": 25,
+          "text": "Eu fiz os 14 dias de teste e cancelei a assinatura e mesmo assim me cobram no cartão de credito, mesmo cancelando na data!!!! Quero cancelar, não utilizo, entrei somente 1 dia e nunca mais!!! Quero a devolução do meu dinheiro urgente!!!!"
+        },
+        {
+          "date": "2025-11-03",
+          "score": 1,
+          "thumbs": 25,
+          "text": "eu mandei email conforme solicitado mas ainda não tive resposta!!! vcs podem me ajudar? não consigo restaurar a conta paga no meu celular!!!! minha conta está como free, mesmo eu tento pago o plano anual"
+        },
+        {
+          "date": "2025-05-26",
+          "score": 1,
+          "thumbs": 25,
+          "text": "Não existe período de teste, fazem uma baita propaganda do app, falam do período gratuito para teste, mas ao baixar e tentar usar o app já aparece a mensagem para você assinar, depois de várias tentativas consegui bater uma foto da plata gratuitamente, mas adivinha ??? para dar o diagnóstico tinha q"
+        },
+        {
+          "date": "2025-12-08",
+          "score": 1,
+          "thumbs": 20,
+          "text": "Não façam o teste. eles debitam o valor antes de o prazo acabar. o meu era para dia 4, e no próprio dia 4 eles debitaram. resultado 200 reais debitados no meu cartão sem eu querer o serviço, que não é bom. indicou que minha aplanta precisava de bicarbonato quando n a verdade era NPK que precisava. A"
+        },
+        {
+          "date": "2025-12-13",
+          "score": 2,
+          "thumbs": 18,
+          "text": "não sei o que houve. comprei o plano anual, depois de umas semanas, fui usar, ele ficava exigindo atualização, sendo q já estava atualizado, desinstalei e reinstalei e agora das duas uma, ou ele fica travado na abertura do app, ou ele abre e não reconhece o plano adquirido."
+        },
+        {
+          "date": "2025-11-21",
+          "score": 1,
+          "thumbs": 18,
+          "text": "diz que vc tem 7 dias grátis, mas quando vc vai fazer o cadastro dos 7 dias grátis, diz que tem uma taxa de 2 reais. Não é nem pelo valor, pois eu poderia muito bem arcar com esse valor. Mas é pela enganação na propaganda. Grátis é grátis. Não tem interpretação."
+        },
+        {
+          "date": "2025-07-29",
+          "score": 1,
+          "thumbs": 16,
+          "text": "este tipo de apps deveria ser grátis com o apoio dos governos, comecei a ter muito interesse por plantas,flores e tenho ajudado a plantar árvores, sou novo a plantar plantas e como é obvio cometi erros por exemplo na planta espada são Jorge, para resolver o grave problema tenho que gastar imenso din"
+        },
+        {
+          "date": "2025-11-07",
+          "score": 1,
+          "thumbs": 14,
+          "text": "horrível, ele acerta poucas plantas, se tiver bem definida. Plantas nascendo.... é horrível pra saber. todo momento é uma planta diferente. até a parreira que tenho várias mudas nascendo, ele não acerta nenhuma muda. mesmo sendo 100% de certeza que é muda das uvas que coloquei nos copos.🤣🤣🤣 app s"
+        },
+        {
+          "date": "2025-06-25",
+          "score": 1,
+          "thumbs": 14,
+          "text": "o app parece ótimo, mas precisamos pagar até para ter informações mínimas, como a quantidade de rega de cada planta. não tenho problema em pagar por apps, mas desanima quando não conseguimos nem testar nada sem ter que pagar"
+        }
+      ]
+    },
+    "BR_attapoll": {
+      "appId": "com.requapp.requ",
+      "country": "br",
+      "title": "AttaPoll: ganhar dinheiro",
+      "score": 4.455446,
+      "ratings": 333545,
+      "installs": "10.000.000+",
+      "offersIAP": false,
+      "adSupported": true,
+      "developer": "AttaPoll",
+      "reviews_pulled": 1000,
+      "low_count": 325,
+      "low_pct": 32.5,
+      "top_thumbs_low": [
+        {
+          "date": "2026-01-23",
+          "score": 1,
+          "thumbs": 94,
+          "text": "No início o aplicativo estava uma maravilha. Mas agora em janeiro/2026, as pesquisas desclassificam ou se encerram quando já estou quase finalizando. Já teve pesquisas que respondi inteira e não contabilizou os pontos. Acho que os roteadores de pesquisa usam isso pra roubar nossas informações e no f"
+        },
+        {
+          "date": "2026-01-06",
+          "score": 1,
+          "thumbs": 88,
+          "text": "Acredito que algumas pesquisas tentam burlar o pagamento coletando as informações necessárias e cancelando de propósito em algum ponto para que a pessoa não seja paga. Desconfio disso. Uma grande parte das pesquisas é assim. É bastante perda de tempo nesse app, não recomendo. De qualquer forma, dive"
+        },
+        {
+          "date": "2026-01-04",
+          "score": 1,
+          "thumbs": 28,
+          "text": "A experiência com o app até agora tem sido horrível! Logo no início apareciam muitas pesquisas e vc começava a juntar uma graninha, uma semana depois não consigo concluir nenhuma pesquisa, sou desclassificada sem critério nenhum e isso depois de responder várias perguntas. Simplesmente não está apar"
+        },
+        {
+          "date": "2025-11-22",
+          "score": 1,
+          "thumbs": 18,
+          "text": "Gosto do app ! Mas já tem 1 semana que sumiu todas tarefas , pesquisas e jogos ! Pior que na parte de ajuda não tem como falar com o atendimento!"
+        },
+        {
+          "date": "2026-03-31",
+          "score": 1,
+          "thumbs": 17,
+          "text": "NÃO ESTÃO PAGANDO MAIS, ESTÃO DESCLASSIFICANDO AO FINAL OU SIMPLESMENTE NÃO PAGANDO! Não tem suporte. As tarefas não contabilizam. É perda de tempo, quando chegar perto do valor do saque, vão derrubar todas as suas pesquisas respondidas."
+        },
+        {
+          "date": "2026-01-24",
+          "score": 1,
+          "thumbs": 16,
+          "text": "App com poucas pesquisas uma vez na vida outra na morte, utilizei durante alguns anos , fiz uns 2 resgates com muito custo, estava prestes a fazer um terceiro do nada, simplesmente bloquearam a conta, deixando bem claro, que o saldo até o momento já era., é que não aceitavam reinvindicações, ou seja"
+        },
+        {
+          "date": "2025-11-25",
+          "score": 1,
+          "thumbs": 12,
+          "text": "A AttaPoll age de forma desonesta e recorrente. Concluí diversas pesquisas, com provas claras, e mesmo assim a empresa se recusa a pagar. O suporte envia respostas automáticas e genéricas, sem analisar as evidências. Isso acontece todos os dias, com vários usuários sendo prejudicados. A plataforma m"
+        },
+        {
+          "date": "2026-04-08",
+          "score": 1,
+          "thumbs": 9,
+          "text": "Uma plataforma de pesquisa que paga em dólar no Paypal, a partir de $3,00. Gostava de usar, já fiz resgate de mais de $15,00. Pagam de verdade. Agora em 2026 atrapalharam tudo, antes era só pesquisas, agora colocaram jogos e tarefas, e já tem.mais de um mês que minha conta está parada, sem pesquisas"
+        },
+        {
+          "date": "2025-12-29",
+          "score": 2,
+          "thumbs": 9,
+          "text": "No geral dá meia dúzia de cêntimos por cada e quase inexistentes questionários. Depois temos os jogos, que paga meia dúzia de tarefas e depois já não paga o resto. Tenho 1,20€ para receber de um jogo que está completo e não me pagam, já entrei em contato 2 vezes, e nas duas vezes a resposta automáti"
+        },
+        {
+          "date": "2025-08-24",
+          "score": 1,
+          "thumbs": 9,
+          "text": "As \"pesquisas\", sempre vão dizer que não era pra você, que não era o perfil, etc... mesmo após coletar os dados de tudo o que vc tem dentro de casa, dados pessoais, etc. Os \"jogos\" vão te pagar em metas absurdas, exemplo pegar lvl alto, alcançar nível \"x\" de poder, que na maioria vc tem que comprar "
+        },
+        {
+          "date": "2026-04-08",
+          "score": 2,
+          "thumbs": 7,
+          "text": "O app paga direito, por isso as 2 estrelas, pois você terá que ter uma conta internacional pra receber, tipo uma da picpay. Não espere poder viver disso, a não ser que você more na rua, pois as pesquisas pagam pouco e 99% dos jogos são praticamente impossíveis de ganhar dinheiro, você vê 400 propaga"
+        },
+        {
+          "date": "2025-07-16",
+          "score": 1,
+          "thumbs": 7,
+          "text": "Esse aplicativo é uma furada. Primeiro fiz a missão da Wirex tive gastos, comprei cripto moedas e nunca recebi o valor da missão. Depois iniciei o jogo Call of Dragons no qual eu ganharia se tivesse um nível de poder após 70 dias, acontece que me dediquei por 1 mês, também investi no jogo, e quando "
+        }
+      ]
+    },
+    "BR_lovelife": {
+      "appId": "com.atomic.lovelife",
+      "country": "br",
+      "title": "Lovelife: Histórias de Amor",
+      "score": 4.03,
+      "ratings": 626,
+      "installs": "100.000+",
+      "offersIAP": true,
+      "IAPRange": "R$ 5,49 – R$ 569,99 por item",
+      "adSupported": false,
+      "developer": "Atomic Games Limited",
+      "reviews_pulled": 75,
+      "low_count": 19,
+      "low_pct": 25.3,
+      "top_thumbs_low": [
+        {
+          "date": "2026-01-03",
+          "score": 1,
+          "thumbs": 7,
+          "text": "O jogo apresenta instabilidade fiz duas vezes compra de diamantes para continuar a história e simplesmente nao atualizou o saldo dos diamantes."
+        },
+        {
+          "date": "2026-01-10",
+          "score": 1,
+          "thumbs": 3,
+          "text": "Não dão opções legais para jogarem de modo orgânico. Um jogo de flertes e gelo, onde (só é possível dar gelo) esfria um jogo e qualquer interação! É péssimo! Provoca tédio! 🙄🙄🙄🙄🙄🙄🙄🙄🙄🙄🥱🥱🥱🥱🥱🥱🥱🥱"
+        },
+        {
+          "date": "2025-10-06",
+          "score": 2,
+          "thumbs": 3,
+          "text": "FAZENDO FAVOR TRADUZ PRA PORTUGUÊS"
+        },
+        {
+          "date": "2025-07-01",
+          "score": 1,
+          "thumbs": 3,
+          "text": "estou amando o jogo. mais para ganhar diamante são meio difícil para conseguir,mais não tenho que reclamar desse jogo,sou muito fã de história."
+        },
+        {
+          "date": "2025-12-21",
+          "score": 1,
+          "thumbs": 2,
+          "text": "não gostei pois só tem história lgbt para o público feminino"
+        },
+        {
+          "date": "2025-12-01",
+          "score": 2,
+          "thumbs": 2,
+          "text": "simplesmente na categoria LGBTQIAPN+ não tem nada de lgbt está nessa categoria mas é só uma história normal de um homem e uma mulher mesmo tendo 2 homens na capa da história"
+        },
+        {
+          "date": "2026-02-14",
+          "score": 1,
+          "thumbs": 1,
+          "text": "o app é ótimo mais na hora de pagar a gente paga e os diamantes não retornam ao total perdi 16,50 golpe"
+        },
+        {
+          "date": "2026-02-10",
+          "score": 1,
+          "thumbs": 1,
+          "text": "eu nem consegui jogar porque meias acabou carregar pra mim consegui jogar não pode ser assim pelo menos um episódio poderia dá pra mim jogar"
+        },
+        {
+          "date": "2026-01-02",
+          "score": 2,
+          "thumbs": 1,
+          "text": "deveria haver mais formas de conseguir diamante, anunciou... algo"
+        },
+        {
+          "date": "2026-04-18",
+          "score": 2,
+          "thumbs": 0,
+          "text": "gosto do jogo, porém quando eu entro nas historias como um personagem homem, continuo sendo chamado no pronome feminino, tive que desinstalar pois não estava confortavel, ajeitem isso !"
+        },
+        {
+          "date": "2026-04-16",
+          "score": 1,
+          "thumbs": 0,
+          "text": "o jogo é bom mais eu comprei 30 diamante e até agora eu não tô vendo o diamante,gastei 5,45 e não está aparecendo quero meu dinheiro de volta palhaça"
+        },
+        {
+          "date": "2026-04-14",
+          "score": 2,
+          "thumbs": 0,
+          "text": "jogo é 10/10"
+        }
+      ]
+    },
+    "MX_zakzak": {
+      "appId": "com.live.videochat.india",
+      "country": "mx",
+      "title": "ZAKZAK Pro - chat en vivo",
+      "score": 4.6226416,
+      "ratings": 116379,
+      "installs": "10.000.000+",
+      "offersIAP": true,
+      "IAPRange": "$12.00 - $6,699.00 por elemento",
+      "adSupported": false,
+      "developer": "ZAKZAK Pro Labs",
+      "reviews_pulled": 1000,
+      "low_count": 147,
+      "low_pct": 14.7,
+      "top_thumbs_low": [
+        {
+          "date": "2020-04-09",
+          "score": 1,
+          "thumbs": 313,
+          "text": "Hay que pagar por cada cosa que se requiere (una suscripcion, pegatinas, mensajes, videochat), uno a uno, y no un paquete entero. Y la dicha no dura más de una hora. Una magnifica app para dejarse robar. Hay otras app que de verdad valen la pena, y ofrecen un paquete con lo mismo, por 1 mes!!!!!"
+        },
+        {
+          "date": "2020-04-22",
+          "score": 1,
+          "thumbs": 207,
+          "text": "Esta de la verga, como es eso de que tienes que pagar una moneda de oro por mensaje,y terminas pagando mucho dinero, no me gusto la aplicación muy cara, se lucran con la soledad de las personas, pero el concepto esta bueno,"
+        },
+        {
+          "date": "2020-11-04",
+          "score": 1,
+          "thumbs": 172,
+          "text": "Hola me gustaria que los mensajes fueran gratis en otras app los mensajes son gratis aparte todavía que te limitan los mensajes cuando mandas un mensaje se va doble. Actualicen su app me gustaria que tuviera mas cosas no se si pudiera tener traducción que cuando mandes un mensaje a ukraine philipina"
+        },
+        {
+          "date": "2020-03-15",
+          "score": 1,
+          "thumbs": 93,
+          "text": "Tiene un sistema de programación estupendo lo cuál ase que las personas parescan reales lo que intenta esque uno comprá con dinero real ... No le recomiendo no se puede ni mirar una foto sin que le cobre"
+        },
+        {
+          "date": "2020-04-16",
+          "score": 1,
+          "thumbs": 86,
+          "text": "Vengo asta este foro para quejarme de lo estafadores que son puse dinero compre un VIP y luego no me sale las monedas .... devuélvamen el dinero . Y verifiquen a ver si el error ese lo arreglan"
+        },
+        {
+          "date": "2020-03-06",
+          "score": 1,
+          "thumbs": 65,
+          "text": "Es una app muy mala, nisiquiera te deja hacer la prueba, de una vez te dice que debes meterle dinero sin una prueba antes."
+        },
+        {
+          "date": "2020-04-04",
+          "score": 1,
+          "thumbs": 30,
+          "text": "Muy mala solo te dan 5 mensajes después todo es comprar, muy buena al entrar pero mala desde que se te acaban los 5 mensajes"
+        },
+        {
+          "date": "2020-11-19",
+          "score": 1,
+          "thumbs": 20,
+          "text": "Buena aplicación pero los regalos son muy caros y las video llamadas"
+        },
+        {
+          "date": "2020-03-06",
+          "score": 1,
+          "thumbs": 19,
+          "text": "Esta buena la app pero eso de vip es un descaro no me gusta"
+        },
+        {
+          "date": "2020-05-05",
+          "score": 1,
+          "thumbs": 18,
+          "text": "Es un app que no sirve solo te dejan enviar unos 5 msm y despues ya no te dejan por que quieren que conpres sus mogres monedas Eviten la pena de descargar este tipo de app"
+        },
+        {
+          "date": "2020-03-09",
+          "score": 1,
+          "thumbs": 15,
+          "text": "Pesimo si no tienes modenas no haces nada y si no tienes tarjeta para poner una cuenta pero asea esto es paja no sirbe deberian de tener otro metodo de conseguir esas benditas monedas"
+        },
+        {
+          "date": "2022-03-06",
+          "score": 1,
+          "thumbs": 9,
+          "text": "App pagada... para hacer amigos pague. Para iniciar chat pague, para ver estados pague... mal mal mal"
+        }
+      ]
+    },
+    "BR_chatlife": {
+      "appId": "com.chatlife2.mlnd",
+      "country": "br",
+      "title": "ChatLife Bate-papo por vídeo",
+      "score": 3.048387,
+      "ratings": 3676,
+      "installs": "1.000.000+",
+      "offersIAP": true,
+      "IAPRange": "R$ 24,99 por item",
+      "adSupported": true,
+      "developer": "Sekkiz",
+      "reviews_pulled": 42,
+      "low_count": 22,
+      "low_pct": 52.4,
+      "top_thumbs_low": [
+        {
+          "date": "2021-03-25",
+          "score": 1,
+          "thumbs": 13,
+          "text": "Aparece anúncio no meio da ligação."
+        },
+        {
+          "date": "2020-10-17",
+          "score": 1,
+          "thumbs": 12,
+          "text": "Horrível, como posso gostar de um App, onde eu fui banido sem fazer absolutamente nada"
+        },
+        {
+          "date": "2023-01-11",
+          "score": 1,
+          "thumbs": 9,
+          "text": "A intenção do app é boa mas não dura nem 5 segundo é muito rapido q sai do vídeo poderiam acresenta 1 hora ou 2 horas ficaria top demais"
+        },
+        {
+          "date": "2020-11-19",
+          "score": 1,
+          "thumbs": 8,
+          "text": "Ruim so fica homes mostrando o pinto e mulher chupando a pinto do home credo app ruim"
+        },
+        {
+          "date": "2021-12-20",
+          "score": 2,
+          "thumbs": 7,
+          "text": "Só imagens gravadas kkkkkkk👎"
+        },
+        {
+          "date": "2021-06-12",
+          "score": 1,
+          "thumbs": 5,
+          "text": "Não gostei apareceu um monte de homem mostrando o pau crianças não instale"
+        },
+        {
+          "date": "2023-04-21",
+          "score": 1,
+          "thumbs": 4,
+          "text": "O app é bom mais o prém é que a maioria dos homem fica pelado e não tem quase mulher."
+        },
+        {
+          "date": "2022-12-16",
+          "score": 2,
+          "thumbs": 4,
+          "text": "Não sei se eu tô muito confiante não😏😏👀👀👀👀👀👀😜🥉"
+        },
+        {
+          "date": "2021-07-19",
+          "score": 1,
+          "thumbs": 4,
+          "text": "Esse site só tem pessoas doentes"
+        },
+        {
+          "date": "2022-01-09",
+          "score": 1,
+          "thumbs": 3,
+          "text": "Só tem vídeo.. gravado.. não baixe seja inteligente."
+        },
+        {
+          "date": "2020-11-21",
+          "score": 1,
+          "thumbs": 2,
+          "text": "S ó homem mostrando nu não tem mulheres nem se tivesse saia só tem homem nu não tem escolha"
+        },
+        {
+          "date": "2020-08-25",
+          "score": 1,
+          "thumbs": 2,
+          "text": "Não presta"
+        }
+      ]
+    },
+    "TR_oregl": {
+      "appId": "com.bimilyoncu.sscoderr.oregltv",
+      "country": "tr",
+      "title": "OreglTV - Rastgele Video Arama",
+      "score": 3.2871287,
+      "ratings": 5232,
+      "installs": "1.000.000+",
+      "offersIAP": true,
+      "IAPRange": "Öğe başına ₺53,99-₺1.679,99",
+      "adSupported": true,
+      "developer": "Random Video Dating Apps Inc.",
+      "reviews_pulled": 87,
+      "low_count": 32,
+      "low_pct": 36.8,
+      "top_thumbs_low": [
+        {
+          "date": "2025-12-01",
+          "score": 1,
+          "thumbs": 182,
+          "text": "bence oyun çok kötü herkes çıplak halini gösteriyor bence kötü"
+        },
+        {
+          "date": "2026-01-16",
+          "score": 1,
+          "thumbs": 57,
+          "text": "sistemde sıkıntımı var açilmiyor bu kanalın ücretsiz izleyebilirsiniz mümkünse eğer uygunsa bakıp ceva vermisginiz"
+        },
+        {
+          "date": "2025-09-29",
+          "score": 1,
+          "thumbs": 50,
+          "text": "hiç bir halta yaramaz, süreler kısa, arkadaş ekleme var ama arkadaşlar görünmüyor"
+        },
+        {
+          "date": "2025-12-30",
+          "score": 2,
+          "thumbs": 34,
+          "text": "iyi ama jeton sistemi kalksın onun dışında iyi"
+        },
+        {
+          "date": "2025-11-12",
+          "score": 1,
+          "thumbs": 27,
+          "text": "saçma sapan uygulama indirmeyin sakın"
+        },
+        {
+          "date": "2026-01-01",
+          "score": 2,
+          "thumbs": 23,
+          "text": "çok fazla Türkçe konuşan yok"
+        },
+        {
+          "date": "2026-03-19",
+          "score": 1,
+          "thumbs": 14,
+          "text": "uygulamada filtreleme yaptıktan sonra kimse gelmiyor çok uzun sureler bekliyorsun buna bir çözüm bulunsun"
+        },
+        {
+          "date": "2026-01-28",
+          "score": 1,
+          "thumbs": 14,
+          "text": "sapık var"
+        },
+        {
+          "date": "2025-12-03",
+          "score": 2,
+          "thumbs": 11,
+          "text": "jeton yükledim ama kullanamıyorum"
+        },
+        {
+          "date": "2026-02-11",
+          "score": 1,
+          "thumbs": 7,
+          "text": "berbat ve çok uygunsuz bir uygulama"
+        },
+        {
+          "date": "2026-01-31",
+          "score": 1,
+          "thumbs": 7,
+          "text": "uygulama çok kötü herkez orasını burasını açıyor dünden razı"
+        },
+        {
+          "date": "2026-03-19",
+          "score": 1,
+          "thumbs": 6,
+          "text": "uygulama yine güncelleme aldı ve jeton izliyorum 1 jeton veriyor eşleşme olmuyor eski hali daha güzeldi ve basitti bu hiç güzel değil lütfen buna düzeltme yapın severek kullandığım bir uygulama ama bırakıcam böyle olursa"
+        }
+      ]
+    }
+  }
+}

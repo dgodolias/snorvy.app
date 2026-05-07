@@ -1,0 +1,387 @@
+{
+  "search": {
+    "br_budget": {
+      "term": "organizar dinheiro mes",
+      "top_app": {
+        "appId": "ru.innim.my_finance",
+        "title": "Gastos - gestor de orçamento",
+        "developer": "Cleaner + Antivirus + VPN company"
+      },
+      "score": 4.9157305,
+      "ratings": 474337,
+      "installs": "10.000.000+",
+      "offersIAP": true,
+      "IAPRange": "R$ 10,99 – R$ 209,99 por item",
+      "reviews_pulled": 200,
+      "low_count": 2,
+      "low_pct": 1,
+      "top_thumbs_low": [
+        {
+          "score": 1,
+          "thumbs": 1,
+          "text": "Ultimamente, após anos de uso , vejo que não temos atualizações importantes, não tem como lançar para datas futuras e ver no gráfico ou no saldo , usar pagamentos recorrentes não funciona porque só mo"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "precisa criar conta"
+        }
+      ]
+    },
+    "br_shoplist": {
+      "term": "lista de compras",
+      "top_app": {
+        "appId": "com.l",
+        "title": "Lista de compras - Listonic",
+        "developer": "Listonic - Smart Grocery Shopping"
+      },
+      "score": 4.865438,
+      "ratings": 312641,
+      "installs": "10.000.000+",
+      "offersIAP": true,
+      "IAPRange": "R$ 1,39 – R$ 264,99 por item",
+      "reviews_pulled": 200,
+      "low_count": 8,
+      "low_pct": 4,
+      "top_thumbs_low": [
+        {
+          "score": 1,
+          "thumbs": 2,
+          "text": "Eles vendem os dados dos usuários, golpistas! Ainda bem que o Facebook avisou e baniu o app."
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "Poderia ter uma versão vitalícia, mas os desenvolvedores só querem fazer dos outros escravos. Logo logo as IA vai acabar com essa farra de ganhar dinheiro fácil..."
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "era uma boa app. de repente começa a exigir login e mesmo depois de entrar pede login. alem disso, que raio é bróculis?"
+        }
+      ]
+    },
+    "tr_shoplist": {
+      "term": "alışveriş listesi",
+      "top_app": {
+        "appId": "com.l",
+        "title": "Alışveriş Listesi - Listonic",
+        "developer": "Listonic - Smart Grocery Shopping"
+      },
+      "score": 4.748252,
+      "ratings": 312641,
+      "installs": "10.000.000+",
+      "offersIAP": true,
+      "IAPRange": "Öğe başına ₺1,59-₺2.139,99",
+      "reviews_pulled": 200,
+      "low_count": 14,
+      "low_pct": 7,
+      "top_thumbs_low": [
+        {
+          "score": 1,
+          "thumbs": 4,
+          "text": "Listeyi paylaştığım kişiye listeye birşey eklendiğinde bildirim gitmesi gerekiyor. Aksi halde listeyi paylaşmanın ne anlamı var."
+        },
+        {
+          "score": 2,
+          "thumbs": 1,
+          "text": "Çocuk oyunu gibi,menüden menüye geçerken zaman kaybettiren gereksiz fazla görsellik var."
+        },
+        {
+          "score": 1,
+          "thumbs": 1,
+          "text": "Son güncelleme sonrası maalesef açılmıyor. Sürekli kapanıyor."
+        }
+      ]
+    },
+    "br_bills": {
+      "term": "controle contas pagar",
+      "top_app": {
+        "appId": "com.appstorehouse.lcf.app",
+        "title": "Lembrete de Contas a Pagar",
+        "developer": "AppStorehouse"
+      },
+      "score": 4.7518797,
+      "ratings": 3126,
+      "installs": "100.000+",
+      "offersIAP": false,
+      "reviews_pulled": 200,
+      "low_count": 17,
+      "low_pct": 8.5,
+      "top_thumbs_low": [
+        {
+          "score": 1,
+          "thumbs": 1,
+          "text": "Manda criar conta pra ter mais recursos, mas não existe recurso nenhum, é pegadinha. Por conta disso, diminuí minhas estrelas de 3 pra uma. Não gostei. Não paguei a conta e após o dia parou de avisar."
+        },
+        {
+          "score": 2,
+          "thumbs": 0,
+          "text": "parou de enviar as notificações do vencimento das contas."
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "não serve de nada, só cadastra as contas, mas não dá nenhum alarme de vencimento. não percam tempo."
+        }
+      ]
+    },
+    "br_period_alt": {
+      "term": "calculadora menstrual",
+      "top_app": {
+        "appId": "com.lbrc.PeriodCalendar",
+        "title": "Calendário Menstrual - Período",
+        "developer": "SimpleInnovation"
+      },
+      "score": 4.908562,
+      "ratings": 549340,
+      "installs": "10.000.000+",
+      "offersIAP": true,
+      "IAPRange": "R$ 9,99 – R$ 389,99 por item",
+      "reviews_pulled": 200,
+      "low_count": 4,
+      "low_pct": 2,
+      "top_thumbs_low": [
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "achei que era uma coisa mas foi ontem horrível não recomendo"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "tem que pagar"
+        },
+        {
+          "score": 2,
+          "thumbs": 0,
+          "text": "é muito lenta"
+        }
+      ]
+    },
+    "br_workout_log": {
+      "term": "treino academia anotar",
+      "top_app": {
+        "appId": "com.hevy",
+        "title": "Hevy - Treino de Academia Gym",
+        "developer": "Hevy Gym Workout Tracker"
+      },
+      "score": 4.941384,
+      "ratings": 214985,
+      "installs": "5.000.000+",
+      "offersIAP": true,
+      "IAPRange": "R$ 12,90 – R$ 279,00 por item",
+      "reviews_pulled": 200,
+      "low_count": 6,
+      "low_pct": 3,
+      "top_thumbs_low": [
+        {
+          "score": 2,
+          "thumbs": 0,
+          "text": "Está constando toda vez que quero ver a execução dos exercícios \"erro ao baixar mídia do exercício\". Sou iniciante então me prejudica muito. Gostaria de resolver esse problema."
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "Só queria a opção simples de quantificar e anotar meus treinos, mas agora todo app é igual e acha que todo mundo é iniciante querendo vender planos, só quero anotar de forma eficiente."
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "está faltando alguns exercícios aí, então se colocassem todos seria excelente"
+        }
+      ]
+    },
+    "br_booktrack": {
+      "term": "livros lidos lista",
+      "top_app": {
+        "appId": "com.bookshelf.prod",
+        "title": "Bookshelf-Your virtual library",
+        "developer": "SquidBit"
+      },
+      "score": 4.5,
+      "ratings": 19187,
+      "installs": "1.000.000+",
+      "offersIAP": true,
+      "IAPRange": "R$ 13,99 – R$ 369,99 por item",
+      "reviews_pulled": 200,
+      "low_count": 12,
+      "low_pct": 6,
+      "top_thumbs_low": [
+        {
+          "score": 1,
+          "thumbs": 7,
+          "text": "Horrível, não dá pra ler o PDF!!! Enganação!!"
+        },
+        {
+          "score": 1,
+          "thumbs": 5,
+          "text": "No translation into Portuguese."
+        },
+        {
+          "score": 2,
+          "thumbs": 3,
+          "text": "O app é ótimo só dei 2 ★ pq n da pra ler os livros (pelo oq eu entendi), o app é tipo assim, vc comprou o seu livro, vc vai lá procura nesse app e coloca o seu livro na prateleira do app, depois vc va"
+        }
+      ]
+    },
+    "br_pet": {
+      "term": "controle pet vermifugo",
+      "top_app": {
+        "appId": "com.aiden.petcare",
+        "title": "FurDiary – Pet Health Tracker",
+        "developer": "AidenLu"
+      },
+      "installs": "500+",
+      "offersIAP": false,
+      "reviews_pulled": 0,
+      "low_count": 0,
+      "low_pct": null,
+      "top_thumbs_low": []
+    },
+    "br_cartrack": {
+      "term": "manutenção carro km",
+      "top_app": {
+        "appId": "br.com.ctncardoso.ctncar",
+        "title": "Drivvo - Gestão de veículos",
+        "developer": "Drivvo"
+      },
+      "score": 4.834298,
+      "ratings": 112917,
+      "installs": "5.000.000+",
+      "offersIAP": true,
+      "IAPRange": "R$ 2,00 – R$ 2.099,90 por item",
+      "reviews_pulled": 200,
+      "low_count": 30,
+      "low_pct": 15,
+      "top_thumbs_low": [
+        {
+          "score": 1,
+          "thumbs": 2,
+          "text": "Vocês subirem o plano Pro dos clientes que ajudaram vocês a crescer de 5,99/ano para 49,90/ano é uma vergonha. Nunca mais uso e nunca mais indico."
+        },
+        {
+          "score": 1,
+          "thumbs": 1,
+          "text": "O aplicativo era ótimo, porém, na última atualização, removeram a opção de filtro de períodos para abastecimento, deixando o aplicativo muito ruim"
+        },
+        {
+          "score": 1,
+          "thumbs": 1,
+          "text": "Minha assinatura vence só em novembro, e está alertando toda hora pedindo para renovar agora. Já cansei desses alertas, arrumem ou vou cancelar a assinatura."
+        }
+      ]
+    },
+    "br_mood": {
+      "term": "rastreador humor diario",
+      "top_app": {
+        "appId": "net.daylio",
+        "title": "Daylio Diário: Diário de humor",
+        "developer": "Habitics"
+      },
+      "score": 4.8517804,
+      "ratings": 452417,
+      "installs": "10.000.000+",
+      "offersIAP": true,
+      "IAPRange": "R$ 2,99 – R$ 149,99 por item",
+      "reviews_pulled": 200,
+      "low_count": 3,
+      "low_pct": 1.5,
+      "top_thumbs_low": [
+        {
+          "score": 1,
+          "thumbs": 2,
+          "text": "Eu adoro esse app, me ajuda muito! Só que eu já havia feito o pagamento dele e constou que não tenho Premium mais (havia feito pagamento vitalício Premium) e de novo esse não, fiz o mesmo e não consta"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "eu assinei o teste gratuito mas não gostei e tentei cancelar,mas ele não tinha a opção e não aparecia como uma assinatura oficial da Playstore, agora chegou a cobrança no meu cartão e eu não consigo c"
+        },
+        {
+          "score": 1,
+          "thumbs": 0,
+          "text": "o aplicativo era ótimo. a única coisa ruim é que se vc acabar desinstalando o aplicativo ele não salva as suas memórias mesmo com a sua conta no Google"
+        }
+      ]
+    }
+  },
+  "drill": {
+    "BR_mobills_DEEP": {
+      "error": "App not found (404)",
+      "appId": "com.svalero.mywallet"
+    },
+    "BR_zapay_DEEP": {
+      "error": "App not found (404)",
+      "appId": "br.com.zapayapp"
+    },
+    "TR_love8_DEEP": {
+      "appId": "ltd.love8.couples.relationship",
+      "country": "tr",
+      "title": "Love8 - Çiftler için uygulama",
+      "score": 3.8431373,
+      "ratings": 36038,
+      "installs": "5.000.000+",
+      "offersIAP": true,
+      "IAPRange": "Öğe başına ₺40,99-₺3.949,99",
+      "adSupported": true,
+      "total_reviews_pulled": 418,
+      "low_count": 137,
+      "low_pct": 32.8,
+      "top_thumbs_low": [
+        {
+          "date": "2026-01-06",
+          "score": 1,
+          "thumbs": 52,
+          "text": "mrblar ilk başlarda uygulamanın herşeyi doğru bi şekilde gösterilmesinden çok memnundum daha sonra 3. günden beri kullanmaktan sonra haftalık abonelik aldım ama konum bilgileri şarj bilgileri ve telefonun açılıp kapanış durumu iyice bozuldu neyse ded"
+        },
+        {
+          "date": "2026-02-15",
+          "score": 1,
+          "thumbs": 34,
+          "text": "Son güncelleme ile konum hataları ortaya çıktı. iPhone kullanan eşimin konumu sürekli bir yerlere ışınlanıyor, mesafeleri yanlış gösteriyor."
+        },
+        {
+          "date": "2025-09-08",
+          "score": 1,
+          "thumbs": 28,
+          "text": "premium abone olarak kullanıyorum beni gece 6 dk dışarı çıktı olarak gösteriyor 6 dk da gidip gelemeyeceğim konuma götürüp geliyor bildiğim kadarıyla sevgiliminde bir jeti yok 580km hızla evin 10dk ilerisine gittiğini gösteriyor canı sıkılırsa eve gi"
+        },
+        {
+          "date": "2025-09-18",
+          "score": 1,
+          "thumbs": 27,
+          "text": "ilk zaman çok güzeldi ama artık eve geldiği ve çıktığı saatleri hemen bildirmiyor yolda giderken göstermiyor sanırım teknik bir sorun var ilgilenirseniz mutlu oluruz o kadar para verdik bu uygulamaya karşılık bekliyoruz"
+        },
+        {
+          "date": "2025-11-23",
+          "score": 1,
+          "thumbs": 18,
+          "text": "Konum yanlış gösteriyorr telefonda aktif olmadığı zamanlarda çok alakasız yerlere gidip geliyor"
+        },
+        {
+          "date": "2025-09-21",
+          "score": 1,
+          "thumbs": 15,
+          "text": "aylardır kullanıyorduk bir sıkıntı olmuyordu bugün tekrar yükledik uygulama kendi kendine hem erkek arkadaşımı hem beni attı ve silip tekrar yüklemeye vrya Google hesabını degistirmeye ragmen uygulama eror veriyor acilen buna bir çözümle geri dönüş b"
+        },
+        {
+          "date": "2025-06-07",
+          "score": 1,
+          "thumbs": 14,
+          "text": "hareket halinde değilken hareket halinde gösteriyor . konum iki saat sonra güncelleniyor . görmediğim yerlere gitmişim gibi gösteriyor konum geçmişinde . kafasına göre takılıyor"
+        },
+        {
+          "date": "2024-06-05",
+          "score": 1,
+          "thumbs": 12,
+          "text": "çok severek ve beğenerek kullanıyordum. 1 hafta içinde uygulama içinde gelen gğncellemeylebütün mutluluğum gitti. o kadar para ödüyoruz. yapmayın. Son güncellemeden sonra doğru düzgün çalışmamaya başladı ve aldığımız abonelği iptal edeceğiz. mail atm"
+        }
+      ]
+    },
+    "BR_rabit_v2": {
+      "error": "App not found (404)",
+      "appId": "com.theathletic.rabit"
+    }
+  }
+}

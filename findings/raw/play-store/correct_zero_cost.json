@@ -1,0 +1,566 @@
+{
+  "found": {
+    "Mobills Finanças Pessoais": [
+      {
+        "appId": "br.com.gerenciadorfinanceiro.controller",
+        "title": "Mobills: Finanças Pessoais",
+        "score": 3.61,
+        "scoreText": "3,6",
+        "free": false
+      },
+      {
+        "appId": "cicero.minhasfinancas",
+        "title": "Minhas Finanças | Pessoais",
+        "score": 4.357143,
+        "scoreText": "4,4",
+        "free": false
+      },
+      {
+        "appId": "com.minhaseconomias",
+        "title": "Minhas Economias | Finanças",
+        "score": 4.529412,
+        "scoreText": "4,5",
+        "free": false
+      },
+      {
+        "appId": "ru.innim.my_finance",
+        "title": "Gastos - gestor de orçamento",
+        "score": 4.76571,
+        "scoreText": "4,8",
+        "free": false
+      },
+      {
+        "appId": "com.organizze.android",
+        "title": "Organizze Controle financeiro",
+        "score": 4.785714,
+        "scoreText": "4,8",
+        "free": false
+      }
+    ],
+    "Mobills": [
+      {
+        "appId": "br.com.gerenciadorfinanceiro.controller",
+        "title": "Mobills: Finanças Pessoais",
+        "score": 3.61,
+        "scoreText": "3,6",
+        "free": false
+      },
+      {
+        "appId": "se.mobill.parking",
+        "title": "Mobill: Parkering och laddning",
+        "score": 3.25,
+        "scoreText": "3,2",
+        "free": false
+      },
+      {
+        "appId": "com.solidaritiesmobiles",
+        "title": "MOB'îles",
+        "free": false
+      },
+      {
+        "appId": "ru.innim.my_finance",
+        "title": "Gastos - gestor de orçamento",
+        "score": 4.76571,
+        "scoreText": "4,8",
+        "free": false
+      },
+      {
+        "appId": "com.droid4you.application.wallet",
+        "title": "Wallet - Finanças Pessoais",
+        "score": 4.5336785,
+        "scoreText": "4,5",
+        "free": false
+      }
+    ],
+    "Zapay IPVA multas": [
+      {
+        "appId": "br.com.usezapay.app",
+        "title": "Zapay: Pagar IPVA 2026, multas",
+        "score": 4.8,
+        "scoreText": "4,8",
+        "free": false
+      },
+      {
+        "appId": "br.com.gringo",
+        "title": "Gringo: Licenciamento, IPVA +",
+        "score": 4.6666665,
+        "scoreText": "4,7",
+        "free": false
+      },
+      {
+        "appId": "br.com.zigauto.src",
+        "title": "ZigAuto: IPVA, Multas, Boletos",
+        "free": false
+      },
+      {
+        "appId": "br.gov.serpro.cnhe",
+        "title": "CNH do Brasil",
+        "score": 4.8333335,
+        "scoreText": "4,8",
+        "free": false
+      },
+      {
+        "appId": "br.gov.dataprev.carteiradigital",
+        "title": "Carteira de Trabalho Digital",
+        "score": 2.5789473,
+        "scoreText": "2,6",
+        "free": false
+      }
+    ],
+    "Rabit habitos metas": [
+      {
+        "appId": "com.blu.rabito",
+        "title": "Rabit: Hábitos & Metas à risca",
+        "score": 4.06,
+        "scoreText": "4,1",
+        "free": false
+      },
+      {
+        "appId": "com.superbyte.habitrabbit",
+        "title": "Coelho de hábitos",
+        "score": 4.21,
+        "scoreText": "4,2",
+        "free": false
+      },
+      {
+        "appId": "info.intrasoft.habitgoaltracker",
+        "title": "Rastreador de Metas, Hábitos",
+        "score": 4.7704916,
+        "scoreText": "4,8",
+        "free": false
+      },
+      {
+        "appId": "com.apalon.to.do.list",
+        "title": "Productive: Lista de hábitos",
+        "score": 3.87,
+        "scoreText": "3,9",
+        "free": false
+      },
+      {
+        "appId": "com.habitnow",
+        "title": "HabitNow - Rotina e Hábitos",
+        "score": 4.836207,
+        "scoreText": "4,8",
+        "free": false
+      }
+    ],
+    "controle gastos pessoais": [
+      {
+        "appId": "br.com.gerenciadorfinanceiro.controller",
+        "title": "Mobills: Finanças Pessoais",
+        "score": 3.61,
+        "scoreText": "3,6",
+        "free": false
+      },
+      {
+        "appId": "com.freeman.moneymanager",
+        "title": "Gestor de Despesas e Orçamento",
+        "score": 4.8538814,
+        "scoreText": "4,9",
+        "free": false
+      },
+      {
+        "appId": "cicero.minhasfinancas",
+        "title": "Minhas Finanças | Pessoais",
+        "score": 4.357143,
+        "scoreText": "4,4",
+        "free": false
+      },
+      {
+        "appId": "com.droid4you.application.wallet",
+        "title": "Wallet - Finanças Pessoais",
+        "score": 4.5336785,
+        "scoreText": "4,5",
+        "free": false
+      },
+      {
+        "appId": "ru.innim.my_finance",
+        "title": "Gastos - gestor de orçamento",
+        "score": 4.76571,
+        "scoreText": "4,8",
+        "free": false
+      }
+    ],
+    "lembrete despesas": [
+      {
+        "appId": "com.appstorehouse.lcf.app",
+        "title": "Lembrete de Contas a Pagar",
+        "free": false
+      },
+      {
+        "appId": "com.freeman.moneymanager",
+        "title": "Gestor de Despesas e Orçamento",
+        "score": 4.8538814,
+        "scoreText": "4,9",
+        "free": false
+      },
+      {
+        "appId": "br.com.francisco.contasemdia",
+        "title": "Contas em Dia – Contas a Pagar",
+        "free": false
+      },
+      {
+        "appId": "com.blodhgard.easybudget",
+        "title": "Orçamento Fácil - Despesas",
+        "score": 4.646739,
+        "scoreText": "4,6",
+        "free": false
+      },
+      {
+        "appId": "com.giveapps.minhasdespesas",
+        "title": "Minhas Despesas",
+        "free": false
+      }
+    ],
+    "gastos cartao credito": [
+      {
+        "appId": "marcello.dev.cardmanager",
+        "title": "Gestor de Cartões de Crédito",
+        "free": false
+      },
+      {
+        "appId": "com.blodhgard.easybudget",
+        "title": "Orçamento Fácil - Despesas",
+        "score": 4.646739,
+        "scoreText": "4,6",
+        "free": false
+      },
+      {
+        "appId": "ru.innim.my_finance",
+        "title": "Gastos - gestor de orçamento",
+        "score": 4.76571,
+        "scoreText": "4,8",
+        "free": false
+      },
+      {
+        "appId": "com.droid4you.application.wallet",
+        "title": "Wallet - Finanças Pessoais",
+        "score": 4.5336785,
+        "scoreText": "4,5",
+        "free": false
+      },
+      {
+        "appId": "br.com.gerenciadorfinanceiro.controller",
+        "title": "Mobills: Finanças Pessoais",
+        "score": 3.61,
+        "scoreText": "3,6",
+        "free": false
+      }
+    ]
+  },
+  "drill": {
+    "br.com.gerenciadorfinanceiro.controller": {
+      "title": "Mobills: Finanças Pessoais",
+      "score": 4.190485,
+      "ratings": 292165,
+      "installs": "10.000.000+",
+      "offersIAP": true,
+      "IAPRange": "R$ 0,90 – R$ 499,90 por item",
+      "adSupported": true,
+      "developer": "Santander Corretora",
+      "reviews_pulled": 800,
+      "low_count": 231,
+      "low_pct": 28.9,
+      "top_thumbs_low": [
+        {
+          "date": "2026-01-04",
+          "score": 1,
+          "thumbs": 77,
+          "text": "Não comprem. A versão premium apresenta diversos bugs de integração, principalmente com Itaú. O app faz a leitura do limite do cartão, não dá fatura, logo sempre dá uma diferença absurda no balanço. Há também um bug que não permite colocar as entrada"
+        },
+        {
+          "date": "2026-01-19",
+          "score": 1,
+          "thumbs": 46,
+          "text": "Não sou de dar feedbacks, mas gostaria de ter lido um comentário como esse antes de assinar o plano. Para testar o vínculo automático com os varios bancos que oferecem, é necessário o plano premium. a Mobills realmente oferece conexão com quase todos"
+        },
+        {
+          "date": "2026-02-04",
+          "score": 1,
+          "thumbs": 40,
+          "text": "Não é confiável. Não tem a opção para alterar relatório em base de caixa/competência.O relatório de despesas principal (pizza) mistura competência com caixa, então as contas de cartão de crédito ficam todas desajustadas. Quando você inclui uma despes"
+        },
+        {
+          "date": "2026-04-27",
+          "score": 2,
+          "thumbs": 32,
+          "text": "O aplicativo em si é muito bom, ilustra bem seus gastos e vc vê onde tá indo seu dinheiro, o problema é o valor do serviço, 200 reais por ano chega a ser abusivo, valor de um streaming até. Tem a promoção de primeira assinatura que custa 100 que foi "
+        },
+        {
+          "date": "2026-04-05",
+          "score": 1,
+          "thumbs": 31,
+          "text": "Tirei o dia pra ajustar as finanças e simplesmente pela web não loga e quando loga diz que não sou premium (sendo que tenho mais de 1000 dias restantes ainda) e pelo celular nem abre para cadastrar a despesa. Vai ser o último ano desse app se continu"
+        },
+        {
+          "date": "2026-04-25",
+          "score": 1,
+          "thumbs": 25,
+          "text": "Após anos utilizando a versão paga consigo dizer: não vale a pena. App muito bugado, não lê notificações direito, o meu parou há séculos. Apresenta erro ao integrar com o banco... vários bugs e nenhuma solução. Basta pesquisar no Reclame Aqui que ver"
+        },
+        {
+          "date": "2025-12-31",
+          "score": 2,
+          "thumbs": 22,
+          "text": "A versão Premium está apresentando muitos bugs. Lançamentos são feitos duplicados e não é possível apagar, no máximo ignorar, não é possível fazer previsão de gastos mensais item a item, só por categoria. Também está aparecendo misturado despesa de c"
+        },
+        {
+          "date": "2026-03-13",
+          "score": 1,
+          "thumbs": 15,
+          "text": "Comprei a licença premium, este é o primeiro mês, contudo ele sincronizar somente uma vez por dia para receber as atualizações da conta é insuficiente. Para quem quer manter seus registros sob controle esperar a boa vontade do app para categorizar a "
+        }
+      ]
+    },
+    "br.com.usezapay.app": {
+      "title": "Zapay: Pagar IPVA 2026, multas",
+      "score": 4.7474833,
+      "ratings": 240672,
+      "installs": "5.000.000+",
+      "offersIAP": false,
+      "adSupported": false,
+      "developer": "ZAPAY SERVICOS DE PAGAMENTOS SA",
+      "reviews_pulled": 800,
+      "low_count": 213,
+      "low_pct": 26.6,
+      "top_thumbs_low": [
+        {
+          "date": "2026-03-17",
+          "score": 1,
+          "thumbs": 16,
+          "text": "Caro possível usuário! esqueça esse aplicativo! não resolve nada, não existe atendimento específico, só usa atendimento virtual! não atualizou nada do que eu precisava, já estou a mais de dez dias aguardando depois que venceu o prazo, e não existe ne"
+        },
+        {
+          "date": "2026-02-26",
+          "score": 1,
+          "thumbs": 16,
+          "text": "Bom dia. Gostaria de registrar uma reclamação e solicitar atendimento humano, pois a assistente virtual não resolve meu problema. Ontem, realizei o pagamento do meu IPVA via Pix pelo aplicativo. O valor foi debitado da minha conta, mas no app o statu"
+        },
+        {
+          "date": "2026-03-19",
+          "score": 1,
+          "thumbs": 12,
+          "text": "consta um débito que ñ tenho. Resolvi pagar o IPVA em 5 parcelas, consta a de fevereiro, porém tá paga (tenho comprovante). Estamos em março, já paguei 3 parcelas, e tá como se tivesse atrasada. Portanto, cuidado e ñ saiam pagando qualquer valor que "
+        },
+        {
+          "date": "2026-03-06",
+          "score": 1,
+          "thumbs": 12,
+          "text": "O aplicativo não está funcionando, chega na hora de efetuar o pagamento, não carrega a página, está assim faz uma semana."
+        },
+        {
+          "date": "2026-03-10",
+          "score": 1,
+          "thumbs": 11,
+          "text": "então eu também baixei esse app e já vou sair fora pois tudo que estam falando está batendo com cada relato muito complicado faço tudo pra pagar um valor específico no final não bate o valor hoje em dia está difícil confiar em certos aplicativos pode"
+        },
+        {
+          "date": "2026-03-10",
+          "score": 1,
+          "thumbs": 10,
+          "text": "Inúteis. Baixar e se Incomodar. paguei 2 vezes todas as taxas e taxas do serviço e não resolveram as pendências. Fechem as portas. vão enganar em outro lugar. aqui no Play Store achei que era um ambiente seguro . Meu carro foi apreendido."
+        },
+        {
+          "date": "2026-03-11",
+          "score": 1,
+          "thumbs": 9,
+          "text": "Não recomendo. Alguns meses após me cadastrar nesse aplicativo, recebi uma mensagem de golpe em meu WhatsApp contendo todos meus dados que inseri nesse aplicativo. Detalhe: o carro que a tal mensagem afirmava ter multa atrasada foi comprado no final "
+        },
+        {
+          "date": "2026-03-27",
+          "score": 1,
+          "thumbs": 8,
+          "text": "app ruim , não puxa a placa fica só avisando que está puxando débitos mas n puxa! já estou a dois meses na mesma e até agora n puxaram nada e continua a mesma coisa , e no próprio app n se tem nem se quer , algum atendente para resolver a situação em"
+        }
+      ]
+    },
+    "com.blu.rabito": {
+      "title": "Rabit: Hábitos & Metas à risca",
+      "score": 4.0141845,
+      "ratings": 26170,
+      "installs": "1.000.000+",
+      "offersIAP": true,
+      "IAPRange": "R$ 9,99 – R$ 299,99 por item",
+      "adSupported": true,
+      "developer": "blu studios",
+      "reviews_pulled": 800,
+      "low_count": 264,
+      "low_pct": 33,
+      "top_thumbs_low": [
+        {
+          "date": "2024-01-20",
+          "score": 1,
+          "thumbs": 524,
+          "text": "O aplicativo é realmente ótimo, te ajuda a cumprir metas e é muito motivador, mas eu estou dando apenas uma estrela por uma questão que eu entendi: quando você sai do app alguma hora, ele parece reiniciar e você perde tudo que tinha feito. Isso seria"
+        },
+        {
+          "date": "2023-01-02",
+          "score": 2,
+          "thumbs": 346,
+          "text": "Esse app é perfeito de uma forma geral: existe a parte de rotinas e atividades, além da melhoria de hábitos e a parte profissional. Ele é tudo que eu mais desejava em um app. Mas a limitação por conta dos planos financeiros é horrível. Ter só 5 hábit"
+        },
+        {
+          "date": "2024-01-07",
+          "score": 2,
+          "thumbs": 137,
+          "text": "Eu amava o app, até que eles começaram a oferecer a versão premium insistentemente. Tem um anúncio do premium a cada três cliques, tornando o app insuportável e inutilizável na versão grátis. Se as propagands deveriam me fazer querer pagar pelo premi"
+        },
+        {
+          "date": "2025-08-22",
+          "score": 1,
+          "thumbs": 131,
+          "text": "O app é simples, interessante. Mas os anúncios são insuportáveis. Não da nem vontade de abrir para registrar seu avanço nos hábitos. Além de fechar logo o primeiro anúncio assim que abre, cada clique gera um novo. E pra quem pensar \"É só pagar o prem"
+        },
+        {
+          "date": "2022-09-14",
+          "score": 1,
+          "thumbs": 59,
+          "text": "O APP tem uma boa estética e uma boa ideia e tudo o mais, mas vou desinstalar pela falta de notificação, como vamos lembrar dos hábitos se o APP não nos manda nem um lembrete? Sei que o alarme só está disponível para Premium, mas pelo menos a notific"
+        },
+        {
+          "date": "2024-07-20",
+          "score": 1,
+          "thumbs": 28,
+          "text": "Esse aplicativo tinha de tudo para ser perfeito, mas a versão premium estragou tudo. Se você não puder pagar o premium, eles limitam o número de hábitos que você pode colocar, TODA HORA aparecem anúncios oferecendo esse plano premium, e mais um monte"
+        },
+        {
+          "date": "2024-06-07",
+          "score": 2,
+          "thumbs": 24,
+          "text": "Já tive o app, ele realmente é muito bom e fácil de mexer. Mas dessa última vez que instalei ele está dando problema. Monto a minha rotina, e quando entro no app ele reinicia e apaga tudo que eu fiz. por ex: si eu entrar 3 vezes no app no dia, todas "
+        },
+        {
+          "date": "2023-08-15",
+          "score": 2,
+          "thumbs": 17,
+          "text": "App ótimo. De simples entendimento, aparência agradável e funções úteis. Mas,ele está com um bug de reiniciar sozinho! Perco meus hábitos,tarefas,TUDO! Já tentei ver se era meu celular,mas os outros apps que eu uso estão funcionando corretamente. Já "
+        }
+      ]
+    },
+    "com.appstorehouse.lcf.app": {
+      "title": "Lembrete de Contas a Pagar",
+      "score": 4.7518797,
+      "ratings": 3126,
+      "installs": "100.000+",
+      "offersIAP": false,
+      "adSupported": false,
+      "developer": "AppStorehouse",
+      "reviews_pulled": 697,
+      "low_count": 46,
+      "low_pct": 6.6,
+      "top_thumbs_low": [
+        {
+          "date": "2023-12-18",
+          "score": 2,
+          "thumbs": 2,
+          "text": "Gostei do aplicativo, porém, poderiam acrescentar mais coisas neles, por exemplo: Valor total somando todas as despesas que ainda estão para vencer, um atalho para pular para o mês que vem para ver as outras contas .... Aplicativo tem tudo para ser p"
+        },
+        {
+          "date": "2025-09-15",
+          "score": 1,
+          "thumbs": 1,
+          "text": "Manda criar conta pra ter mais recursos, mas não existe recurso nenhum, é pegadinha. Por conta disso, diminuí minhas estrelas de 3 pra uma. Não gostei. Não paguei a conta e após o dia parou de avisar. Passei a usar o Taskito, que só pára de avisar qu"
+        },
+        {
+          "date": "2025-02-10",
+          "score": 1,
+          "thumbs": 1,
+          "text": "Não gostei...não avisa qdo chegarem a data da conta"
+        },
+        {
+          "date": "2023-07-04",
+          "score": 1,
+          "thumbs": 1,
+          "text": "Boa tarde. App bem básico. Não tem leitor de código de barras. Nem lugar de salvar o código de barras para pagamento futuros e simplesmente uma agenda."
+        },
+        {
+          "date": "2026-04-22",
+          "score": 2,
+          "thumbs": 0,
+          "text": "parou de enviar as notificações do vencimento das contas."
+        },
+        {
+          "date": "2026-03-20",
+          "score": 1,
+          "thumbs": 0,
+          "text": "não serve de nada, só cadastra as contas, mas não dá nenhum alarme de vencimento. não percam tempo."
+        },
+        {
+          "date": "2026-01-26",
+          "score": 2,
+          "thumbs": 0,
+          "text": "A intenção é boa porem é muito desorganizado e ad novas inscrições ficam em ordem de edição sem opção de alterar"
+        },
+        {
+          "date": "2025-12-15",
+          "score": 2,
+          "thumbs": 0,
+          "text": "tinha que ter a opção de colocar o tempo de vencimento da contas , tipo por quinzena , mensal , trimestral, tem contas que vence por quinzena,essas e que eu tenho que ficar atenta ."
+        }
+      ]
+    },
+    "marcello.dev.cardmanager": {
+      "title": "Gestor de Cartões de Crédito",
+      "score": 4.6153846,
+      "ratings": 1797,
+      "installs": "100.000+",
+      "offersIAP": true,
+      "IAPRange": "R$ 19,99 por item",
+      "adSupported": true,
+      "developer": "marcello.dev",
+      "reviews_pulled": 394,
+      "low_count": 52,
+      "low_pct": 13.2,
+      "top_thumbs_low": [
+        {
+          "date": "2021-08-03",
+          "score": 2,
+          "thumbs": 36,
+          "text": "Aplicativo útil e com grande potencial. Mas, não consigo inserir minhas compras na fatura correta. A fatura de agosto do meu cartão fechou no dia 26 de julho. Mas, o app continua lançando todas as despesas na fatura fechada. Tudo que comprei do dia 2"
+        },
+        {
+          "date": "2023-09-26",
+          "score": 2,
+          "thumbs": 19,
+          "text": "É bom, mas faltou a opção na área das despesas marca como pago aí invés de excluir."
+        },
+        {
+          "date": "2021-08-08",
+          "score": 1,
+          "thumbs": 12,
+          "text": "O app é muito bom! Mais constante mente para de funcionar! Perdemos um tempão na parte quando entra no app, fica uma tela com cartão escrito \"carrregando\" e tive maior trabalho de cadastrar meus cartões e minhas despesas, pra agora perder tudo!"
+        },
+        {
+          "date": "2023-06-22",
+          "score": 1,
+          "thumbs": 11,
+          "text": "Falta relatorios de despesas, nao dá para ver de forma individual a despesa de cada cartão"
+        },
+        {
+          "date": "2020-08-25",
+          "score": 1,
+          "thumbs": 6,
+          "text": "Não consigo colocar pagamentos. Quando coloco pagamento, exemplo R$ 435,56 - App não acata a virgula e fica 43556 - ai dá bug e valores ficam todos loucos, e eu não consigo cancelar esse pagamento. Apesar de você fornecer dia de pagamento e dia de fe"
+        },
+        {
+          "date": "2023-05-22",
+          "score": 1,
+          "thumbs": 3,
+          "text": "tinha que puxar o registro automaticamente do sms ou das notificações, testei 2 meses não me ajudou."
+        },
+        {
+          "date": "2022-03-27",
+          "score": 1,
+          "thumbs": 3,
+          "text": "Gente, o aplicativo tinha tudo pra ser top, se não fosse pelo fato de quê vc só consegue usar ele uma vez, pq depois q vc instala e cadastra suas contas e precisa entrar novamente ,ele só fica carregando e não abre mais informação nenhuma. Ele só fun"
+        },
+        {
+          "date": "2020-09-01",
+          "score": 1,
+          "thumbs": 3,
+          "text": "POXA É TÃO DIFÍCIL ASSIM PIR UM CAMPO DE PESQUISA POR NOMES NAS FATURAS ?🥺🥺"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,1894 @@
+{
+  "search": {
+    "ID_nikah": [
+      {
+        "appId": "com.muzmatch.muzmatchapp",
+        "title": "Muzz: Muslim Marriage App",
+        "developer": "Muzz",
+        "score": 4.293317,
+        "scoreText": "4,3",
+        "free": false
+      },
+      {
+        "appId": "com.simplynikah.app",
+        "title": "Simply Nikah",
+        "developer": "Simply Nikah",
+        "score": 2.5625,
+        "scoreText": "2,6",
+        "free": false
+      },
+      {
+        "appId": "com.nikah",
+        "title": "Nikah.com® - Muslim Perjodohan",
+        "developer": "Rib Matches Private Limited",
+        "score": 2,
+        "scoreText": "2,0",
+        "free": false
+      },
+      {
+        "appId": "com.cupidmedia.wrapper.muslima",
+        "title": "Muslima - Pernikahan Muslim",
+        "developer": "Cupid Media",
+        "score": 4.154206,
+        "scoreText": "4,2",
+        "free": false
+      },
+      {
+        "appId": "com.et3arraf.Et3arrafApp",
+        "title": "AlKhattaba - Pernikahan Muslim",
+        "developer": "Meet Muslims for Marriage - تعارف وزواج للمسلمين",
+        "score": 4.2708335,
+        "scoreText": "4,3",
+        "free": false
+      },
+      {
+        "appId": "com.freenikah.app",
+        "title": "FreeNikah: Muslim Marriage App",
+        "developer": "Nika Online Pvt. Ltd.",
+        "score": 2.142857,
+        "scoreText": "2,1",
+        "free": false
+      },
+      {
+        "appId": "com.nikahforever",
+        "title": "Muslim Matrimony Nikah Forever",
+        "developer": "NikahForever",
+        "score": 1.8,
+        "scoreText": "1,8",
+        "free": false
+      },
+      {
+        "appId": "net.zawajy",
+        "title": "Zawajy Pernikahan Muslim Nikah",
+        "developer": "AppKraft ltd.",
+        "free": false
+      }
+    ],
+    "ID_taaruf": [
+      {
+        "appId": "com.megabee.taaruf",
+        "title": "Taaruf",
+        "developer": "MEGABEE SAL",
+        "score": 3.8333333,
+        "scoreText": "3,8",
+        "free": false
+      },
+      {
+        "appId": "taarufapp.id",
+        "title": "Taaruf ID : Cari Jodoh Siap Ni",
+        "developer": "Taaruf Indonesia",
+        "score": 0,
+        "scoreText": "0,0",
+        "free": false
+      },
+      {
+        "appId": "com.app.hijra.taaruf",
+        "title": "Hijra Taaruf: Cari Jodoh",
+        "developer": "Hijra Taaruf Indonesia",
+        "free": false
+      },
+      {
+        "appId": "id.taaruf.online",
+        "title": "Ta'aruf Online Indonesia",
+        "developer": "hijrahmedia",
+        "free": false
+      },
+      {
+        "appId": "com.wordpress.vyatri.tlnapp",
+        "title": "TLN - Ta'aruf Lalu Nikah",
+        "developer": "Juanita Vyatri",
+        "free": false
+      },
+      {
+        "appId": "com.taaruf",
+        "title": "Taaruf.com - Cari Jodoh Muslim",
+        "developer": "Tripoin",
+        "free": false
+      },
+      {
+        "appId": "com.muzmatch.muzmatchapp",
+        "title": "Muzz: Muslim Marriage App",
+        "developer": "Muzz",
+        "score": 4.293317,
+        "scoreText": "4,3",
+        "free": false
+      },
+      {
+        "appId": "com.mediataaruf.mobile",
+        "title": "Media Taaruf - Jodoh Islami",
+        "developer": "Dunya Visitor",
+        "free": false
+      }
+    ],
+    "ID_jodoh": [
+      {
+        "appId": "com.muzmatch.muzmatchapp",
+        "title": "Muzz: Muslim Marriage App",
+        "developer": "Muzz",
+        "score": 4.293317,
+        "scoreText": "4,3",
+        "free": false
+      },
+      {
+        "appId": "com.cupidmedia.wrapper.muslima",
+        "title": "Muslima - Pernikahan Muslim",
+        "developer": "Cupid Media",
+        "score": 4.154206,
+        "scoreText": "4,2",
+        "free": false
+      },
+      {
+        "appId": "com.app.hijra.taaruf",
+        "title": "Hijra Taaruf: Cari Jodoh",
+        "developer": "Hijra Taaruf Indonesia",
+        "free": false
+      },
+      {
+        "appId": "com.muslim.social.app.muzapp",
+        "title": "MyMuslim: Temukan jodoh Muslim",
+        "developer": "MyMuslim - Muslim Marriage",
+        "score": 3.7920792,
+        "scoreText": "3,8",
+        "free": false
+      },
+      {
+        "appId": "com.nikah",
+        "title": "Nikah.com® - Muslim Perjodohan",
+        "developer": "Rib Matches Private Limited",
+        "score": 2,
+        "scoreText": "2,0",
+        "free": false
+      },
+      {
+        "appId": "com.et3arraf.Et3arrafApp",
+        "title": "AlKhattaba - Pernikahan Muslim",
+        "developer": "Meet Muslims for Marriage - تعارف وزواج للمسلمين",
+        "score": 4.2708335,
+        "scoreText": "4,3",
+        "free": false
+      },
+      {
+        "appId": "com.wordpress.vyatri.tlnapp",
+        "title": "TLN - Ta'aruf Lalu Nikah",
+        "developer": "Juanita Vyatri",
+        "free": false
+      },
+      {
+        "appId": "au.com.mashaapp",
+        "title": "Masha: Nikah & Pernikahan",
+        "developer": "Masha Muslim Matrimonial",
+        "score": 0,
+        "scoreText": "0,0",
+        "free": false
+      }
+    ],
+    "PK_rishta": [
+      {
+        "appId": "com.dil.ka.rishta",
+        "title": "Dil Ka Rishta",
+        "developer": "DKR PRIVATE LIMITED",
+        "score": 3.6031747,
+        "scoreText": "3.6",
+        "free": false
+      },
+      {
+        "appId": "com.panthernails.myklaticrete",
+        "title": "MYK LATICRETE RISHTA",
+        "developer": "MYK LATICRETE India Pvt. Ltd.",
+        "free": false
+      },
+      {
+        "appId": "com.rishta.app",
+        "title": "Rishta – Matrimonial App",
+        "developer": "sumit kushwah",
+        "free": false
+      },
+      {
+        "appId": "com.simplerishta.app",
+        "title": "Simple Rishta  Matrimonial App",
+        "developer": "Khired Networks",
+        "score": 0,
+        "scoreText": "0.0",
+        "free": false
+      },
+      {
+        "appId": "com.triline.upsrlm.rishta",
+        "title": "RISHTA",
+        "developer": "Triline Infotech Pvt Ltd",
+        "free": false
+      },
+      {
+        "appId": "com.muzmatch.muzmatchapp",
+        "title": "Muzz: Muslim Marriage App",
+        "developer": "Muzz",
+        "score": 4.293317,
+        "scoreText": "4.3",
+        "free": false
+      },
+      {
+        "appId": "rishtadilka.android.app",
+        "title": "Rishta Dil Ka - Matrimony App",
+        "developer": "Webicosoft (Pvt) Ltd.",
+        "free": false
+      },
+      {
+        "appId": "com.imast.E3",
+        "title": "E3 RISHTA",
+        "developer": "Imast Operations Private Limited",
+        "free": false
+      }
+    ],
+    "PK_shaadi": [
+      {
+        "appId": "com.muslimshaadi.android",
+        "title": "Muslim Shaadi Matrimony App",
+        "developer": "People Interactive",
+        "score": 1.5714285,
+        "scoreText": "1.6",
+        "free": false
+      },
+      {
+        "appId": "com.muslimmatrimony",
+        "title": "Muslim Matrimony - Nikah App",
+        "developer": "Matrimony.com Group",
+        "score": 3.5,
+        "scoreText": "3.5",
+        "free": false
+      },
+      {
+        "appId": "com.shaadi.android",
+        "title": "Shaadi.com Matrimony App",
+        "developer": "People Interactive",
+        "score": 3.56,
+        "scoreText": "3.6",
+        "free": false
+      },
+      {
+        "appId": "com.nikahforever",
+        "title": "Muslim Matrimony Nikah Forever",
+        "developer": "NikahForever",
+        "score": 1.8,
+        "scoreText": "1.8",
+        "free": false
+      },
+      {
+        "appId": "com.nikkahmee.nikkahmee",
+        "title": "Muslim Matrimonial App",
+        "developer": "Nikkahmee Ltd",
+        "score": 0,
+        "scoreText": "0.0",
+        "free": false
+      },
+      {
+        "appId": "com.sysol.happy_nikah",
+        "title": "Happy Nikah - Muslim Matrimony",
+        "developer": "SYSOL SYSTEM SOLUTIONS PVT LTD",
+        "score": 0,
+        "scoreText": "0.0",
+        "free": false
+      },
+      {
+        "appId": "com.noblemarriage",
+        "title": "Muslim Matrimony NobleMarriage",
+        "developer": "DYNAMIC IT FZ-LLC",
+        "score": 4,
+        "scoreText": "4.0",
+        "free": false
+      },
+      {
+        "appId": "io.joon.app",
+        "title": "Joon - Muslim Marriage",
+        "developer": "JoonTech LLC",
+        "score": 0,
+        "scoreText": "0.0",
+        "free": false
+      }
+    ],
+    "PK_matrimony": [
+      {
+        "appId": "com.PakistaniMatrimony",
+        "title": "Pakistani Matrimony® - Muslim ",
+        "developer": "Matrimony.com ltd",
+        "score": 3,
+        "scoreText": "3.0",
+        "free": false
+      },
+      {
+        "appId": "com.nikkahmee.nikkahmee",
+        "title": "Muslim Matrimonial App",
+        "developer": "Nikkahmee Ltd",
+        "score": 0,
+        "scoreText": "0.0",
+        "free": false
+      },
+      {
+        "appId": "com.muslimmatrimony",
+        "title": "Muslim Matrimony - Nikah App",
+        "developer": "Matrimony.com Group",
+        "score": 3.5,
+        "scoreText": "3.5",
+        "free": false
+      },
+      {
+        "appId": "com.noblemarriage",
+        "title": "Muslim Matrimony NobleMarriage",
+        "developer": "DYNAMIC IT FZ-LLC",
+        "score": 4,
+        "scoreText": "4.0",
+        "free": false
+      },
+      {
+        "appId": "com.muzmatch.muzmatchapp",
+        "title": "Muzz: Muslim Marriage App",
+        "developer": "Muzz",
+        "score": 4.293317,
+        "scoreText": "4.3",
+        "free": false
+      },
+      {
+        "appId": "shadi.pk.android.app",
+        "title": "Shadi.Pk - Matrimonial App",
+        "developer": "Webicosoft (Pvt) Ltd.",
+        "score": 0,
+        "scoreText": "0.0",
+        "free": false
+      },
+      {
+        "appId": "com.freenikah.app",
+        "title": "FreeNikah: Muslim Marriage App",
+        "developer": "Nika Online Pvt. Ltd.",
+        "score": 2.142857,
+        "scoreText": "2.1",
+        "free": false
+      },
+      {
+        "appId": "com.matrimony.rishta",
+        "title": "Rishta - Pakistan Matrimony",
+        "developer": "Vivah",
+        "free": false
+      }
+    ],
+    "BD_biye": [
+      {
+        "appId": "com.nascenia.biyeta",
+        "title": "বিয়েটা",
+        "developer": "Nascenia Limited",
+        "free": false
+      },
+      {
+        "appId": "eco.biyiud.wallet",
+        "title": "Biyiud",
+        "developer": "Biyiud",
+        "free": false
+      },
+      {
+        "appId": "br.com.app.bylee.twa",
+        "title": "Bylee",
+        "developer": "Neet design",
+        "free": false
+      },
+      {
+        "appId": "com.biebite.app",
+        "title": "Biebite",
+        "developer": "Biebite Technologies LLC FZ",
+        "free": false
+      },
+      {
+        "appId": "com.nekki.shadowfightarena",
+        "title": "Shadow Fight 4: Arena",
+        "developer": "NEKKI",
+        "score": 4.5604167,
+        "scoreText": "৪.৬",
+        "free": false
+      },
+      {
+        "appId": "com.byu.appli",
+        "title": "BYÜ",
+        "developer": "BYÜ",
+        "free": false
+      },
+      {
+        "appId": "org.vechain.byb",
+        "title": "BYB - Build Your Body",
+        "developer": "Vechain Foundation",
+        "free": false
+      },
+      {
+        "appId": "app.bumpy.android",
+        "title": "Bumpy – International Dating",
+        "developer": "Bumpy Inc.",
+        "score": 3.9444444,
+        "scoreText": "৩.৯",
+        "free": false
+      }
+    ],
+    "BD_matrimony": [
+      {
+        "appId": "com.bengalimatrimony",
+        "title": "Bengali Matrimony Marriage App",
+        "developer": "Matrimony.com Ltd.",
+        "score": 4.090909,
+        "scoreText": "৪.১",
+        "free": false
+      },
+      {
+        "appId": "com.bengalishaadi.android",
+        "title": "Bengali Shaadi Matrimony App",
+        "developer": "People Interactive",
+        "score": 0,
+        "scoreText": "০.০",
+        "free": false
+      },
+      {
+        "appId": "com.banglamatrimony",
+        "title": "Bangladeshi Matrimony®",
+        "developer": "Matrimony.com ltd",
+        "score": 4,
+        "scoreText": "৪.০",
+        "free": false
+      },
+      {
+        "appId": "com.ruhulsw.BibahoBangla",
+        "title": "Bibaho Bangla Matrimony App",
+        "developer": "EcomTech",
+        "free": false
+      },
+      {
+        "appId": "com.sangam.bengali",
+        "title": "Bengali Matrimony - Sangam.com",
+        "developer": "People Interactive",
+        "free": false
+      },
+      {
+        "appId": "com.apps.matrimonial",
+        "title": "Matrimonial - Shaadi Matrimony",
+        "developer": "Matrimonial BD",
+        "free": false
+      },
+      {
+        "appId": "get.lokal.westbengalmatrimony",
+        "title": "West Bengal Lokal Matrimony",
+        "developer": "Lokal Made in India Local Updates & Local Jobs app",
+        "free": false
+      },
+      {
+        "appId": "com.matrimony.deshi",
+        "title": "Bengali - Bangladesh Matrimony",
+        "developer": "Vivah",
+        "free": false
+      }
+    ],
+    "IN_muslim": [
+      {
+        "appId": "com.nikahforever",
+        "title": "Muslim Matrimony Nikah Forever",
+        "developer": "NikahForever",
+        "score": 1.8,
+        "scoreText": "1.8",
+        "free": false
+      },
+      {
+        "appId": "com.muslimmatrimony",
+        "title": "Muslim Matrimony - Nikah App",
+        "developer": "Matrimony.com Group",
+        "score": 3.5,
+        "scoreText": "3.5",
+        "free": false
+      },
+      {
+        "appId": "com.nikkahmee.nikkahmee",
+        "title": "Muslim Matrimonial App",
+        "developer": "Nikkahmee Ltd",
+        "score": 0,
+        "scoreText": "0.0",
+        "free": false
+      },
+      {
+        "appId": "com.muslimshaadi.android",
+        "title": "Muslim shaadi matrimony app",
+        "developer": "People Interactive",
+        "score": 1.5714285,
+        "scoreText": "1.6",
+        "free": false
+      },
+      {
+        "appId": "com.muzmatch.muzmatchapp",
+        "title": "Muzz: Muslim Marriage App",
+        "developer": "Muzz",
+        "score": 4.293317,
+        "scoreText": "4.3",
+        "free": false
+      },
+      {
+        "appId": "com.noblemarriage",
+        "title": "Muslim Matrimony NobleMarriage",
+        "developer": "DYNAMIC IT FZ-LLC",
+        "score": 4,
+        "scoreText": "4.0",
+        "free": false
+      },
+      {
+        "appId": "com.ltservices.mashallah",
+        "title": "Mashallah: Halal Muslim dating",
+        "developer": "lt services",
+        "score": 3.94,
+        "scoreText": "3.9",
+        "free": false
+      },
+      {
+        "appId": "com.nikah",
+        "title": "Nikah.com®-Muslim Matchmaking",
+        "developer": "Rib Matches Private Limited",
+        "score": 2,
+        "scoreText": "2.0",
+        "free": false
+      }
+    ],
+    "MY_taaruf": [
+      {
+        "appId": "taarufapp.id",
+        "title": "Taaruf ID : Cari Jodoh Siap Ni",
+        "developer": "Taaruf Indonesia",
+        "score": 0,
+        "scoreText": "0.0",
+        "free": false
+      },
+      {
+        "appId": "com.taarufonlinesakinah",
+        "title": "Taaruf Online-Cari Jodoh Nikah",
+        "developer": "Iskandar Muda SE MSI AK",
+        "free": false
+      },
+      {
+        "appId": "com.nikah",
+        "title": "Nikah.com® - Muslim Perjodohan",
+        "developer": "Rib Matches Private Limited",
+        "score": 2,
+        "scoreText": "2.0",
+        "free": false
+      },
+      {
+        "appId": "com.nikahforever",
+        "title": "Muslim Matrimony Nikah Forever",
+        "developer": "NikahForever",
+        "score": 1.8,
+        "scoreText": "1.8",
+        "free": false
+      },
+      {
+        "appId": "com.app.hijra.taaruf",
+        "title": "Hijra Taaruf: Cari Jodoh Halal",
+        "developer": "Hijra Taaruf Indonesia",
+        "free": false
+      },
+      {
+        "appId": "com.wordpress.vyatri.tlnapp",
+        "title": "TLN - Ta'aruf Lalu Nikah",
+        "developer": "Juanita Vyatri",
+        "free": false
+      },
+      {
+        "appId": "com.megabee.taaruf",
+        "title": "Taaruf",
+        "developer": "MEGABEE SAL",
+        "score": 3.8333333,
+        "scoreText": "3.8",
+        "free": false
+      },
+      {
+        "appId": "id.taaruf.online",
+        "title": "Ta'aruf Online Indonesia",
+        "developer": "hijrahmedia",
+        "free": false
+      }
+    ]
+  },
+  "drill": {
+    "PK_shaadi_com": {
+      "appId": "com.shaadi.android",
+      "country": "pk",
+      "title": "Shaadi.com Matrimony App",
+      "score": 4.5694284,
+      "ratings": 449516,
+      "installs": "10,000,000+",
+      "histogram": {
+        "1": 29334,
+        "2": 6811,
+        "3": 10441,
+        "4": 34604,
+        "5": 368174
+      },
+      "offersIAP": true,
+      "IAPRange": "Rs 29 per item",
+      "adSupported": false,
+      "developer": "People Interactive",
+      "total_reviews_pulled": 400,
+      "low_reviews_count": 157,
+      "low_reviews_pct": 39.3,
+      "low_reviews": [
+        {
+          "date": "2026-05-06",
+          "score": 1,
+          "thumbs": 0,
+          "text": "fake profile banakar request bhejte hain, taaki aap unse baat kar sako...aur baat tabhi hogi jab aap recharge karoge...ek bar recharge kar liya to wo apki profile ko band kar dete hain violence activity bata kar...fraud app.. don't pay"
+        },
+        {
+          "date": "2026-05-06",
+          "score": 1,
+          "thumbs": 0,
+          "text": "I have asked you to make a refund before the 30 days trial and have no response from you! Responded and refused to make a refund although I requested this Before the 30 days of supposedly a trial period. I didn't get my match and you are refusing the refund."
+        },
+        {
+          "date": "2026-05-05",
+          "score": 1,
+          "thumbs": 1,
+          "text": "lot's of matches but fake never respond once lot's of fake phone number that fool you usless perineum all whatsapp number are fake all whatsapp number business account one day chat thn stop responding ur massage"
+        },
+        {
+          "date": "2026-05-05",
+          "score": 1,
+          "thumbs": 0,
+          "text": "They changed my \"about\" according to them, like they are the one that need matches not me."
+        },
+        {
+          "date": "2026-05-05",
+          "score": 1,
+          "thumbs": 0,
+          "text": "i would have given half, they call you after completing the profile, for upgrade plan, if you don't upgrade and want to use for free only, they block your profile"
+        },
+        {
+          "date": "2026-05-05",
+          "score": 1,
+          "thumbs": 0,
+          "text": "it's a bakwas aap it will ask money from you to upgrade and otherwise u can't use this aap u can only scroll. and they will also call u again and again for payment"
+        },
+        {
+          "date": "2026-05-04",
+          "score": 1,
+          "thumbs": 0,
+          "text": "it's very very very bad 😔"
+        },
+        {
+          "date": "2026-05-04",
+          "score": 1,
+          "thumbs": 0,
+          "text": "Simply a scam running in the name of Matrimony App. Fake profiles all over. Even after setting strict filters, not a single matching profile can be found. Everybody is just casually scrolling through profiles like instagram. No profile views even after so many changes. Beware of "
+        },
+        {
+          "date": "2026-05-04",
+          "score": 1,
+          "thumbs": 0,
+          "text": "without recharge bat nahi ho pati hai to premimum kyo lu yadi samane vala pssand kare to number share karane ke liye premimum lagao."
+        },
+        {
+          "date": "2026-05-04",
+          "score": 1,
+          "thumbs": 0,
+          "text": "This app is not suitable matches provide. This app is earning money by different schemes."
+        },
+        {
+          "date": "2026-05-04",
+          "score": 1,
+          "thumbs": 0,
+          "text": "worst app worst service worst costumer service they call you so many time when when I told you give me some time to discussed they removed the offer I personally recommend don't use this app ...its about your life question don't show full profile photos"
+        },
+        {
+          "date": "2026-05-04",
+          "score": 1,
+          "thumbs": 9,
+          "text": "Absolutely rubbish app and process, deleted the profile for no reason."
+        },
+        {
+          "date": "2026-05-04",
+          "score": 1,
+          "thumbs": 0,
+          "text": "Total fraud application don't download it's fake and paid application"
+        },
+        {
+          "date": "2026-05-04",
+          "score": 1,
+          "thumbs": 0,
+          "text": "this is a fake app charges"
+        },
+        {
+          "date": "2026-05-03",
+          "score": 1,
+          "thumbs": 0,
+          "text": "Total Waste of money and time, after paying for subscription. very worst experience."
+        }
+      ]
+    },
+    "IN_shaadi_com": {
+      "appId": "com.shaadi.android",
+      "country": "in",
+      "title": "Shaadi.com Matrimony App",
+      "score": 4.400863,
+      "ratings": 449517,
+      "installs": "10,000,000+",
+      "histogram": {
+        "1": 42248,
+        "2": 8153,
+        "3": 15412,
+        "4": 45035,
+        "5": 338663
+      },
+      "offersIAP": true,
+      "IAPRange": "₹4.00 - ₹25.00 per item",
+      "adSupported": false,
+      "developer": "People Interactive",
+      "total_reviews_pulled": 400,
+      "low_reviews_count": 157,
+      "low_reviews_pct": 39.3,
+      "low_reviews": [
+        {
+          "date": "2026-05-06",
+          "score": 1,
+          "thumbs": 0,
+          "text": "fake profile banakar request bhejte hain, taaki aap unse baat kar sako...aur baat tabhi hogi jab aap recharge karoge...ek bar recharge kar liya to wo apki profile ko band kar dete hain violence activity bata kar...fraud app.. don't pay"
+        },
+        {
+          "date": "2026-05-06",
+          "score": 1,
+          "thumbs": 0,
+          "text": "I have asked you to make a refund before the 30 days trial and have no response from you! Responded and refused to make a refund although I requested this Before the 30 days of supposedly a trial period. I didn't get my match and you are refusing the refund."
+        },
+        {
+          "date": "2026-05-05",
+          "score": 1,
+          "thumbs": 1,
+          "text": "lot's of matches but fake never respond once lot's of fake phone number that fool you usless perineum all whatsapp number are fake all whatsapp number business account one day chat thn stop responding ur massage"
+        },
+        {
+          "date": "2026-05-05",
+          "score": 1,
+          "thumbs": 0,
+          "text": "They changed my \"about\" according to them, like they are the one that need matches not me."
+        },
+        {
+          "date": "2026-05-05",
+          "score": 1,
+          "thumbs": 0,
+          "text": "i would have given half, they call you after completing the profile, for upgrade plan, if you don't upgrade and want to use for free only, they block your profile"
+        },
+        {
+          "date": "2026-05-05",
+          "score": 1,
+          "thumbs": 0,
+          "text": "it's a bakwas aap it will ask money from you to upgrade and otherwise u can't use this aap u can only scroll. and they will also call u again and again for payment"
+        },
+        {
+          "date": "2026-05-04",
+          "score": 1,
+          "thumbs": 0,
+          "text": "it's very very very bad 😔"
+        },
+        {
+          "date": "2026-05-04",
+          "score": 1,
+          "thumbs": 0,
+          "text": "Simply a scam running in the name of Matrimony App. Fake profiles all over. Even after setting strict filters, not a single matching profile can be found. Everybody is just casually scrolling through profiles like instagram. No profile views even after so many changes. Beware of "
+        },
+        {
+          "date": "2026-05-04",
+          "score": 1,
+          "thumbs": 0,
+          "text": "without recharge bat nahi ho pati hai to premimum kyo lu yadi samane vala pssand kare to number share karane ke liye premimum lagao."
+        },
+        {
+          "date": "2026-05-04",
+          "score": 1,
+          "thumbs": 0,
+          "text": "This app is not suitable matches provide. This app is earning money by different schemes."
+        },
+        {
+          "date": "2026-05-04",
+          "score": 1,
+          "thumbs": 0,
+          "text": "worst app worst service worst costumer service they call you so many time when when I told you give me some time to discussed they removed the offer I personally recommend don't use this app ...its about your life question don't show full profile photos"
+        },
+        {
+          "date": "2026-05-04",
+          "score": 1,
+          "thumbs": 9,
+          "text": "Absolutely rubbish app and process, deleted the profile for no reason."
+        },
+        {
+          "date": "2026-05-04",
+          "score": 1,
+          "thumbs": 0,
+          "text": "Total fraud application don't download it's fake and paid application"
+        },
+        {
+          "date": "2026-05-04",
+          "score": 1,
+          "thumbs": 0,
+          "text": "this is a fake app charges"
+        },
+        {
+          "date": "2026-05-03",
+          "score": 1,
+          "thumbs": 0,
+          "text": "Total Waste of money and time, after paying for subscription. very worst experience."
+        }
+      ]
+    },
+    "IN_jeevansathi": {
+      "appId": "com.jeevansathi.android",
+      "country": "in",
+      "title": "Jeevansathi.com® Matrimony App",
+      "score": 4.250523,
+      "ratings": 429616,
+      "installs": "10,000,000+",
+      "histogram": {
+        "1": 43432,
+        "2": 13135,
+        "3": 27043,
+        "4": 54760,
+        "5": 291241
+      },
+      "offersIAP": false,
+      "adSupported": false,
+      "developer": "infoedge.com",
+      "total_reviews_pulled": 400,
+      "low_reviews_count": 150,
+      "low_reviews_pct": 37.5,
+      "low_reviews": [
+        {
+          "date": "2026-05-06",
+          "score": 2,
+          "thumbs": 0,
+          "text": "This App is getting worse day by day.. first of all there are so many fake profiles then You cannot connect with Top Profiles or with recently joined profiles, you cannot view anyone's picture.. JS day by day is simply forcing you to buy a membership."
+        },
+        {
+          "date": "2026-05-06",
+          "score": 1,
+          "thumbs": 0,
+          "text": "horrible"
+        },
+        {
+          "date": "2026-05-06",
+          "score": 1,
+          "thumbs": 1,
+          "text": "Misleading ads about free chats and msgs."
+        },
+        {
+          "date": "2026-05-05",
+          "score": 1,
+          "thumbs": 0,
+          "text": "no match found"
+        },
+        {
+          "date": "2026-05-05",
+          "score": 1,
+          "thumbs": 0,
+          "text": "worst service don't buy"
+        },
+        {
+          "date": "2026-05-05",
+          "score": 1,
+          "thumbs": 0,
+          "text": "Horrible customer service experience. As a pro user also, you can't reach the customer service, unless you have an issue with payment, not even for refunds. And most of the time the app will give 500 response."
+        },
+        {
+          "date": "2026-05-05",
+          "score": 1,
+          "thumbs": 0,
+          "text": "Do not take paid plans 😡 v Bad experience"
+        },
+        {
+          "date": "2026-05-05",
+          "score": 1,
+          "thumbs": 1,
+          "text": "Every profile is top profile which you cannot send request or connect."
+        },
+        {
+          "date": "2026-05-05",
+          "score": 1,
+          "thumbs": 0,
+          "text": "My application is not working at all, so please remove this Jeevansathi, it is a completely useless app for you."
+        },
+        {
+          "date": "2026-05-04",
+          "score": 1,
+          "thumbs": 0,
+          "text": "Not so useful."
+        },
+        {
+          "date": "2026-05-04",
+          "score": 1,
+          "thumbs": 0,
+          "text": "Not right app"
+        },
+        {
+          "date": "2026-05-04",
+          "score": 1,
+          "thumbs": 0,
+          "text": "BAD EXPERIENCE"
+        },
+        {
+          "date": "2026-05-04",
+          "score": 1,
+          "thumbs": 1,
+          "text": "none match from Lucknow"
+        },
+        {
+          "date": "2026-05-04",
+          "score": 1,
+          "thumbs": 1,
+          "text": "very very bad. nobody should take membership of this sight"
+        },
+        {
+          "date": "2026-05-04",
+          "score": 1,
+          "thumbs": 1,
+          "text": "ad me dikhate hai no charge par har chiz ka alag alag charge lete hai."
+        }
+      ]
+    },
+    "IN_bharat": {
+      "appId": "com.bharatmatrimony",
+      "country": "in",
+      "title": "Bharat Matrimony® - Shaadi App",
+      "score": 4.0318847,
+      "ratings": 188979,
+      "installs": "10,000,000+",
+      "histogram": {
+        "1": 29106,
+        "2": 6615,
+        "3": 12668,
+        "4": 21336,
+        "5": 119248
+      },
+      "offersIAP": false,
+      "adSupported": false,
+      "developer": "Matrimony.com Ltd.",
+      "total_reviews_pulled": 400,
+      "low_reviews_count": 126,
+      "low_reviews_pct": 31.5,
+      "low_reviews": [
+        {
+          "date": "2026-05-04",
+          "score": 1,
+          "thumbs": 0,
+          "text": "one of the worst money consuming with lots of fake profiles and with no proper customer care.... totaly waste app and this app intention is to use this app continuosly without getting your match. i am using this all morethan 6 to 8 years. please do not use this app....."
+        },
+        {
+          "date": "2026-05-03",
+          "score": 1,
+          "thumbs": 1,
+          "text": "wrost matrimonial app... first buy membership then you have to pay again for the middleman or broker to connect with partner. and shocking thing is that the account verification team didn't perform any action after the report of fake account."
+        },
+        {
+          "date": "2026-05-03",
+          "score": 1,
+          "thumbs": 0,
+          "text": "very wrost app"
+        },
+        {
+          "date": "2026-05-03",
+          "score": 1,
+          "thumbs": 0,
+          "text": "Bad very worst assistance service.i advise not to take"
+        },
+        {
+          "date": "2026-05-02",
+          "score": 1,
+          "thumbs": 0,
+          "text": "waste of time High price useless app"
+        },
+        {
+          "date": "2026-05-01",
+          "score": 1,
+          "thumbs": 0,
+          "text": "they made fake profiles to attract customers!! fake app"
+        },
+        {
+          "date": "2026-05-01",
+          "score": 1,
+          "thumbs": 1,
+          "text": "Initially, I created a standard profile without uploading a picture. Later, I came across a few profiles that I liked and added them to my wishlist. I then decided to upload my full details, including a photo; however, when I attempted to do so, the system displayed a message sta"
+        },
+        {
+          "date": "2026-04-30",
+          "score": 1,
+          "thumbs": 0,
+          "text": "Unable to register - bug in the app"
+        },
+        {
+          "date": "2026-04-30",
+          "score": 1,
+          "thumbs": 1,
+          "text": "the most worst app, no new paid female profiles , no response against messages because these free profiles are fake and our mobile count and paid money is wasted here. please stop this free members permit us to filter only paid members"
+        },
+        {
+          "date": "2026-04-30",
+          "score": 1,
+          "thumbs": 0,
+          "text": "third class app this app promises a fake matches and all after paying the premium you will get nothing the same as before matches. you will get they promise. everyday you will get five to six matches but at the end nothing will happen in a week or in 2 weeks you will get one new "
+        },
+        {
+          "date": "2026-04-30",
+          "score": 1,
+          "thumbs": 0,
+          "text": "just wastage of your hard earned money. no body and never take the subscription of this app. not at all. subscription sy pehly yeh log khud hee request send karty hai .payment ky bhad dekho toe wo sab fake hoty hai or yeh log khud hee send karty . or hum jesy log pagal ban jaty h"
+        },
+        {
+          "date": "2026-04-29",
+          "score": 1,
+          "thumbs": 0,
+          "text": "you will get lots and lots of calls from bharat matrimony app regarding their packages, but unfortunately you will not find any meaningful response from the matches... don't waste your precious time,"
+        },
+        {
+          "date": "2026-04-28",
+          "score": 1,
+          "thumbs": 0,
+          "text": "Very disappointing experience on Bharat Matrimony too many fake or suspicious profiles, and almost every response comes through agents or mediators instead of genuine people or their families. It feels like profiles are being managed by third parties, which creates serious trust "
+        },
+        {
+          "date": "2026-04-28",
+          "score": 1,
+          "thumbs": 0,
+          "text": "Fraud matrimony app. Tamil matrimony . Don't take any premium membership until anyone accepts your request. Worst customer care. Just put your profile only. Many profiles already got married. So boys be aware."
+        },
+        {
+          "date": "2026-04-27",
+          "score": 2,
+          "thumbs": 0,
+          "text": "not responsive no chat etc"
+        }
+      ]
+    },
+    "IN_nikah_forever": {
+      "appId": "com.nikahforever",
+      "country": "in",
+      "title": "Muslim Matrimony Nikah Forever",
+      "score": 4.503741,
+      "ratings": 17241,
+      "installs": "1,000,000+",
+      "histogram": {
+        "1": 1471,
+        "2": 127,
+        "3": 256,
+        "4": 1762,
+        "5": 13618
+      },
+      "offersIAP": false,
+      "adSupported": false,
+      "developer": "NikahForever",
+      "total_reviews_pulled": 400,
+      "low_reviews_count": 70,
+      "low_reviews_pct": 17.5,
+      "low_reviews": [
+        {
+          "date": "2026-05-05",
+          "score": 1,
+          "thumbs": 0,
+          "text": "this is fraud app I am not interested please app block"
+        },
+        {
+          "date": "2026-05-05",
+          "score": 1,
+          "thumbs": 2,
+          "text": "MUSLIMS DONT FALL FOR THIS USELESS APP . worst experience even have mismatched suggestions and after the subscription was taken they just left us no feed back nothing and when subscription ended the sales team starting bothering again and again ."
+        },
+        {
+          "date": "2026-05-04",
+          "score": 1,
+          "thumbs": 1,
+          "text": "customers care not supportive"
+        },
+        {
+          "date": "2026-05-04",
+          "score": 1,
+          "thumbs": 0,
+          "text": "worst experience i had. it asked for government id verification and by the time they verify it , almost 3 to 4 days are wasted. why the hell should we wait so long even afterpaying so much money just to waste it ????? this needs to be fixed but never using this app again. give me"
+        },
+        {
+          "date": "2026-05-03",
+          "score": 1,
+          "thumbs": 0,
+          "text": "never ever use this app so many fake profiles here they are looting peoples and there pack so high as compared other apps i am using this app from last 18 months spend money on this app but I found 90% fake profiles so be aware"
+        },
+        {
+          "date": "2026-05-03",
+          "score": 2,
+          "thumbs": 0,
+          "text": "The platform is useful, but there is a serious issue that needs attention. Many profiles are still active even after the person is already married. This creates confusion and wastes users’ time and money. Since we have to take a paid subscription to access contact numbers (with l"
+        },
+        {
+          "date": "2026-05-02",
+          "score": 1,
+          "thumbs": 1,
+          "text": "Dear Nikha Forever Team, This is my second review regarding your service. I am extremely disappointed with the support provided. While your team was responsive initially, all communication and follow-up ceased once the payment was made. I have received no response to my inquiries"
+        },
+        {
+          "date": "2026-05-01",
+          "score": 1,
+          "thumbs": 0,
+          "text": "there are fake details about profile, most of the time parents are on the other side and they just force you to buy their membership, there is no response from support after payment"
+        },
+        {
+          "date": "2026-04-30",
+          "score": 1,
+          "thumbs": 1,
+          "text": "don't use the app because this app will not run properly and it have all time hanging and lagging issues in every steps and also it doesn't give you a the profiles which you filter on your partner preference, even after the subscription pack things will not comes in quality 😑 af"
+        },
+        {
+          "date": "2026-04-30",
+          "score": 1,
+          "thumbs": 0,
+          "text": "worst experience, I had paid for the silver plan but my profile has zero visibility. I have sent some requests and there is no response from them and also my profile visit count is zero, so basically there is no profile visibility though being a paid member. Customer service says"
+        },
+        {
+          "date": "2026-04-30",
+          "score": 1,
+          "thumbs": 0,
+          "text": "not good fake"
+        },
+        {
+          "date": "2026-04-29",
+          "score": 1,
+          "thumbs": 0,
+          "text": "all paid channel"
+        },
+        {
+          "date": "2026-04-29",
+          "score": 1,
+          "thumbs": 0,
+          "text": "I have tried this app very carefully, trust me it seemed to be a complete fake, buy the subscription of any such app after careful consideration, I have met a lot of boys who pass their time, I have even reported one boy I'm not satisfied nikah forever"
+        },
+        {
+          "date": "2026-04-28",
+          "score": 1,
+          "thumbs": 0,
+          "text": "good"
+        },
+        {
+          "date": "2026-04-28",
+          "score": 1,
+          "thumbs": 0,
+          "text": "Experienced worst with this app most of the time getting call personal message on WhatsApp just to sell the membership.And App is having bug everytime when I open the app it got stuck and foreclose by itself"
+        }
+      ]
+    },
+    "PK_nikah_forever": {
+      "appId": "com.nikahforever",
+      "country": "pk",
+      "title": "Muslim Matrimony Nikah Forever",
+      "score": 4.009709,
+      "ratings": 17241,
+      "installs": "1,000,000+",
+      "histogram": {
+        "1": 3232,
+        "2": 478,
+        "3": 598,
+        "4": 718,
+        "5": 11853
+      },
+      "offersIAP": false,
+      "adSupported": false,
+      "developer": "NikahForever",
+      "total_reviews_pulled": 400,
+      "low_reviews_count": 70,
+      "low_reviews_pct": 17.5,
+      "low_reviews": [
+        {
+          "date": "2026-05-05",
+          "score": 1,
+          "thumbs": 0,
+          "text": "this is fraud app I am not interested please app block"
+        },
+        {
+          "date": "2026-05-05",
+          "score": 1,
+          "thumbs": 2,
+          "text": "MUSLIMS DONT FALL FOR THIS USELESS APP . worst experience even have mismatched suggestions and after the subscription was taken they just left us no feed back nothing and when subscription ended the sales team starting bothering again and again ."
+        },
+        {
+          "date": "2026-05-04",
+          "score": 1,
+          "thumbs": 1,
+          "text": "customers care not supportive"
+        },
+        {
+          "date": "2026-05-04",
+          "score": 1,
+          "thumbs": 0,
+          "text": "worst experience i had. it asked for government id verification and by the time they verify it , almost 3 to 4 days are wasted. why the hell should we wait so long even afterpaying so much money just to waste it ????? this needs to be fixed but never using this app again. give me"
+        },
+        {
+          "date": "2026-05-03",
+          "score": 1,
+          "thumbs": 0,
+          "text": "never ever use this app so many fake profiles here they are looting peoples and there pack so high as compared other apps i am using this app from last 18 months spend money on this app but I found 90% fake profiles so be aware"
+        },
+        {
+          "date": "2026-05-03",
+          "score": 2,
+          "thumbs": 0,
+          "text": "The platform is useful, but there is a serious issue that needs attention. Many profiles are still active even after the person is already married. This creates confusion and wastes users’ time and money. Since we have to take a paid subscription to access contact numbers (with l"
+        },
+        {
+          "date": "2026-05-02",
+          "score": 1,
+          "thumbs": 1,
+          "text": "Dear Nikha Forever Team, This is my second review regarding your service. I am extremely disappointed with the support provided. While your team was responsive initially, all communication and follow-up ceased once the payment was made. I have received no response to my inquiries"
+        },
+        {
+          "date": "2026-05-01",
+          "score": 1,
+          "thumbs": 0,
+          "text": "there are fake details about profile, most of the time parents are on the other side and they just force you to buy their membership, there is no response from support after payment"
+        },
+        {
+          "date": "2026-04-30",
+          "score": 1,
+          "thumbs": 1,
+          "text": "don't use the app because this app will not run properly and it have all time hanging and lagging issues in every steps and also it doesn't give you a the profiles which you filter on your partner preference, even after the subscription pack things will not comes in quality 😑 af"
+        },
+        {
+          "date": "2026-04-30",
+          "score": 1,
+          "thumbs": 0,
+          "text": "worst experience, I had paid for the silver plan but my profile has zero visibility. I have sent some requests and there is no response from them and also my profile visit count is zero, so basically there is no profile visibility though being a paid member. Customer service says"
+        },
+        {
+          "date": "2026-04-30",
+          "score": 1,
+          "thumbs": 0,
+          "text": "not good fake"
+        },
+        {
+          "date": "2026-04-29",
+          "score": 1,
+          "thumbs": 0,
+          "text": "all paid channel"
+        },
+        {
+          "date": "2026-04-29",
+          "score": 1,
+          "thumbs": 0,
+          "text": "I have tried this app very carefully, trust me it seemed to be a complete fake, buy the subscription of any such app after careful consideration, I have met a lot of boys who pass their time, I have even reported one boy I'm not satisfied nikah forever"
+        },
+        {
+          "date": "2026-04-28",
+          "score": 1,
+          "thumbs": 0,
+          "text": "good"
+        },
+        {
+          "date": "2026-04-28",
+          "score": 1,
+          "thumbs": 0,
+          "text": "Experienced worst with this app most of the time getting call personal message on WhatsApp just to sell the membership.And App is having bug everytime when I open the app it got stuck and foreclose by itself"
+        }
+      ]
+    },
+    "ID_muzz": {
+      "appId": "com.muzmatch.muzmatchapp",
+      "country": "id",
+      "title": "Muzz: Muslim Marriage",
+      "score": 4.5753126,
+      "ratings": 304777,
+      "installs": "10.000.000+",
+      "histogram": {
+        "1": 10664,
+        "2": 4277,
+        "3": 14565,
+        "4": 44757,
+        "5": 230482
+      },
+      "offersIAP": true,
+      "IAPRange": "Rp 6.800 - Rp 2.590.000 per item",
+      "adSupported": false,
+      "developer": "Muzz",
+      "total_reviews_pulled": 400,
+      "low_reviews_count": 104,
+      "low_reviews_pct": 26,
+      "low_reviews": [
+        {
+          "date": "2026-05-05",
+          "score": 1,
+          "thumbs": 0,
+          "text": "apk gajelas Poto profil selalu di tolak"
+        },
+        {
+          "date": "2026-05-04",
+          "score": 1,
+          "thumbs": 0,
+          "text": "ga jelas"
+        },
+        {
+          "date": "2026-05-03",
+          "score": 1,
+          "thumbs": 0,
+          "text": "bad app"
+        },
+        {
+          "date": "2026-05-03",
+          "score": 1,
+          "thumbs": 0,
+          "text": "bintang satu sudah cukup untuk apk ini bagi yg mau dwonload kalian lihat bintang gw lu faham mungkin"
+        },
+        {
+          "date": "2026-05-01",
+          "score": 1,
+          "thumbs": 0,
+          "text": "ampun ga mau lagi, banyak yang modus."
+        },
+        {
+          "date": "2026-05-01",
+          "score": 1,
+          "thumbs": 0,
+          "text": "jangan main muzz ini gesss banyak modus penipuan dan pemerasan."
+        },
+        {
+          "date": "2026-05-01",
+          "score": 1,
+          "thumbs": 0,
+          "text": "Suddenly, without me doing anything that violated the rules, my account was banned by Muzz. My account is new, I haven't even chatted with a single woman yet. Is this how Muzz makes money? What can an account that's less than an hour old and already subscribed to Gold do to get b"
+        },
+        {
+          "date": "2026-04-29",
+          "score": 1,
+          "thumbs": 0,
+          "text": "masak mau chat aja, harus wajib berlangganan, baru bisa ngobrol"
+        },
+        {
+          "date": "2026-04-28",
+          "score": 1,
+          "thumbs": 1,
+          "text": "padahal udah selfi, muka saya juga sama yang seperti di profil, tapi selalu gagal dan di tolak.. ribet banget daftar aja,."
+        },
+        {
+          "date": "2026-04-28",
+          "score": 1,
+          "thumbs": 0,
+          "text": "masalah verifikasi wajah selalu gagal . di fhoto udah bener . eh salah pula verifikasi"
+        },
+        {
+          "date": "2026-04-27",
+          "score": 1,
+          "thumbs": 2,
+          "text": "ini apk kaya udah di setting,,mendingan hapus aja,,buang2 waktu....selesai"
+        },
+        {
+          "date": "2026-04-27",
+          "score": 2,
+          "thumbs": 0,
+          "text": "APK Berbayar 🤣 Katanya Untuk Memudahkan Mencari Jodoh, Tapi Hrs Bayar. Bukan Memudahkan itu mh, Tapi Bisnis 🤣🤣😂😂"
+        },
+        {
+          "date": "2026-04-24",
+          "score": 2,
+          "thumbs": 0,
+          "text": "sekarang banyak iklan & awal obrolan harus 30 karakter huruf"
+        },
+        {
+          "date": "2026-04-23",
+          "score": 1,
+          "thumbs": 1,
+          "text": "Aplikasi aneh .. masa satupun ga ada yang ngelike. harus bayar dulu, baru muncul yang ngelike nya."
+        },
+        {
+          "date": "2026-04-22",
+          "score": 1,
+          "thumbs": 0,
+          "text": "fitnah ini"
+        }
+      ]
+    },
+    "PK_muzz": {
+      "appId": "com.muzmatch.muzmatchapp",
+      "country": "pk",
+      "title": "Muzz: Muslim Rishta & Marriage",
+      "score": 4.360808,
+      "ratings": 304777,
+      "installs": "10,000,000+",
+      "histogram": {
+        "1": 19806,
+        "2": 8490,
+        "3": 25188,
+        "4": 39691,
+        "5": 211578
+      },
+      "offersIAP": true,
+      "IAPRange": "Rs 120 - Rs 55,300 per item",
+      "adSupported": false,
+      "developer": "Muzz",
+      "total_reviews_pulled": 400,
+      "low_reviews_count": 186,
+      "low_reviews_pct": 46.5,
+      "low_reviews": [
+        {
+          "date": "2026-05-06",
+          "score": 1,
+          "thumbs": 0,
+          "text": "kindly hr profile jisny id card dikhaya h NADRA sy verify krn usny apna marital status sahi btaya h? a lot of people r just wadting time there..."
+        },
+        {
+          "date": "2026-05-05",
+          "score": 1,
+          "thumbs": 0,
+          "text": "Fake bila waja e block kr diya mujy ajeeb"
+        },
+        {
+          "date": "2026-05-05",
+          "score": 1,
+          "thumbs": 0,
+          "text": "mostly fake and time people man's are there it's not a good match making app I'm very disappointed"
+        },
+        {
+          "date": "2026-05-05",
+          "score": 1,
+          "thumbs": 0,
+          "text": "get in touch with me muzz team. I recently deleted my muzz gold account but still you guys are deducting gold fee automatically. resolve the issue asap."
+        },
+        {
+          "date": "2026-05-05",
+          "score": 2,
+          "thumbs": 0,
+          "text": "I have an active yearly Muzz Gold subscription (PKR 4,900) charged via Google Play, but it is not activated in the app. I contacted support and shared proof, but my issue is pending for 7+ days. I tried restore purchases, reinstalling, and correct login — nothing worked. This is "
+        },
+        {
+          "date": "2026-05-04",
+          "score": 1,
+          "thumbs": 1,
+          "text": "the worst app I've ever seen don't ever download this kind of apps don't waste your time by downloading this scamming app"
+        },
+        {
+          "date": "2026-05-04",
+          "score": 1,
+          "thumbs": 1,
+          "text": "I found this app to be biased if someone isn’t Muslim, they get banned. I didn’t like that at all and wouldn’t recommend anyone try it."
+        },
+        {
+          "date": "2026-05-04",
+          "score": 1,
+          "thumbs": 1,
+          "text": "horreful"
+        },
+        {
+          "date": "2026-05-04",
+          "score": 1,
+          "thumbs": 0,
+          "text": "Muzz is a disgusting cash grab disguised as a \"religious\" service. The $30/month \"Gold\" fee is predatory, locking basic filters and likes behind an absurd paywall. It punishes you for actually talking to people by capping conversations unless you pay up. It claims to be for serio"
+        },
+        {
+          "date": "2026-05-04",
+          "score": 2,
+          "thumbs": 0,
+          "text": "it's a decent app but the results don't always adhere to the filters, even when you have a paid membership. I have selected to see profiles that are not blurred and still get profiles which are blurred. Even more annoying, is the fact that I am a male who very often gets profiles"
+        },
+        {
+          "date": "2026-05-03",
+          "score": 1,
+          "thumbs": 1,
+          "text": "very baad app don't trust on this app openly cal to everyone"
+        },
+        {
+          "date": "2026-05-03",
+          "score": 1,
+          "thumbs": 2,
+          "text": "Don't follow Islamic guidelines"
+        },
+        {
+          "date": "2026-05-03",
+          "score": 1,
+          "thumbs": 1,
+          "text": "fake accounts, and a month after i deactivated my account, they charged me for subscription renewal"
+        },
+        {
+          "date": "2026-05-02",
+          "score": 1,
+          "thumbs": 1,
+          "text": "parasite app"
+        },
+        {
+          "date": "2026-05-02",
+          "score": 1,
+          "thumbs": 1,
+          "text": "3rd class, cheapest app. Everyone here is just a scammer just a fraud. Married men r flirting here they pretend to be unmarried. I dont know why muzz didn't verify that profiles."
+        }
+      ]
+    },
+    "BD_muzz": {
+      "appId": "com.muzmatch.muzmatchapp",
+      "country": "bd",
+      "title": "Muzz: Muslim Marriage",
+      "score": 4.2206407,
+      "ratings": 304777,
+      "installs": "১০,০০০,০০০+",
+      "histogram": {
+        "1": 17309,
+        "2": 14022,
+        "3": 43383,
+        "4": 39000,
+        "5": 190841
+      },
+      "offersIAP": true,
+      "IAPRange": "৯০.০০৳ - ২৪,০০০.০০৳ আইটেম প্রতি",
+      "adSupported": false,
+      "developer": "Muzz",
+      "total_reviews_pulled": 17,
+      "low_reviews_count": 2,
+      "low_reviews_pct": 11.8,
+      "low_reviews": [
+        {
+          "date": "2021-09-03",
+          "score": 1,
+          "thumbs": 2,
+          "text": "ভালো"
+        },
+        {
+          "date": "2020-05-15",
+          "score": 1,
+          "thumbs": 0,
+          "text": "Very nice"
+        }
+      ]
+    },
+    "IN_muzz": {
+      "appId": "com.muzmatch.muzmatchapp",
+      "country": "in",
+      "title": "Muzz: Muslim Marriage App",
+      "score": 4.1546288,
+      "ratings": 304777,
+      "installs": "10,000,000+",
+      "histogram": {
+        "1": 30974,
+        "2": 7417,
+        "3": 30663,
+        "4": 49906,
+        "5": 185690
+      },
+      "offersIAP": true,
+      "IAPRange": "₹39.00 - ₹16,100.00 per item",
+      "adSupported": false,
+      "developer": "Muzz",
+      "total_reviews_pulled": 400,
+      "low_reviews_count": 186,
+      "low_reviews_pct": 46.5,
+      "low_reviews": [
+        {
+          "date": "2026-05-06",
+          "score": 1,
+          "thumbs": 0,
+          "text": "kindly hr profile jisny id card dikhaya h NADRA sy verify krn usny apna marital status sahi btaya h? a lot of people r just wadting time there..."
+        },
+        {
+          "date": "2026-05-05",
+          "score": 1,
+          "thumbs": 0,
+          "text": "Fake bila waja e block kr diya mujy ajeeb"
+        },
+        {
+          "date": "2026-05-05",
+          "score": 1,
+          "thumbs": 0,
+          "text": "mostly fake and time people man's are there it's not a good match making app I'm very disappointed"
+        },
+        {
+          "date": "2026-05-05",
+          "score": 1,
+          "thumbs": 0,
+          "text": "get in touch with me muzz team. I recently deleted my muzz gold account but still you guys are deducting gold fee automatically. resolve the issue asap."
+        },
+        {
+          "date": "2026-05-05",
+          "score": 2,
+          "thumbs": 0,
+          "text": "I have an active yearly Muzz Gold subscription (PKR 4,900) charged via Google Play, but it is not activated in the app. I contacted support and shared proof, but my issue is pending for 7+ days. I tried restore purchases, reinstalling, and correct login — nothing worked. This is "
+        },
+        {
+          "date": "2026-05-04",
+          "score": 1,
+          "thumbs": 1,
+          "text": "the worst app I've ever seen don't ever download this kind of apps don't waste your time by downloading this scamming app"
+        },
+        {
+          "date": "2026-05-04",
+          "score": 1,
+          "thumbs": 1,
+          "text": "I found this app to be biased if someone isn’t Muslim, they get banned. I didn’t like that at all and wouldn’t recommend anyone try it."
+        },
+        {
+          "date": "2026-05-04",
+          "score": 1,
+          "thumbs": 1,
+          "text": "horreful"
+        },
+        {
+          "date": "2026-05-04",
+          "score": 1,
+          "thumbs": 0,
+          "text": "Muzz is a disgusting cash grab disguised as a \"religious\" service. The $30/month \"Gold\" fee is predatory, locking basic filters and likes behind an absurd paywall. It punishes you for actually talking to people by capping conversations unless you pay up. It claims to be for serio"
+        },
+        {
+          "date": "2026-05-04",
+          "score": 2,
+          "thumbs": 0,
+          "text": "it's a decent app but the results don't always adhere to the filters, even when you have a paid membership. I have selected to see profiles that are not blurred and still get profiles which are blurred. Even more annoying, is the fact that I am a male who very often gets profiles"
+        },
+        {
+          "date": "2026-05-03",
+          "score": 1,
+          "thumbs": 1,
+          "text": "very baad app don't trust on this app openly cal to everyone"
+        },
+        {
+          "date": "2026-05-03",
+          "score": 1,
+          "thumbs": 2,
+          "text": "Don't follow Islamic guidelines"
+        },
+        {
+          "date": "2026-05-03",
+          "score": 1,
+          "thumbs": 1,
+          "text": "fake accounts, and a month after i deactivated my account, they charged me for subscription renewal"
+        },
+        {
+          "date": "2026-05-02",
+          "score": 1,
+          "thumbs": 1,
+          "text": "parasite app"
+        },
+        {
+          "date": "2026-05-02",
+          "score": 1,
+          "thumbs": 1,
+          "text": "3rd class, cheapest app. Everyone here is just a scammer just a fraud. Married men r flirting here they pretend to be unmarried. I dont know why muzz didn't verify that profiles."
+        }
+      ]
+    },
+    "ID_muslima": {
+      "appId": "com.cupidmedia.wrapper.muslima",
+      "country": "id",
+      "title": "Muslima - Pernikahan Muslim",
+      "score": 4.5121484,
+      "ratings": 145472,
+      "installs": "5.000.000+",
+      "histogram": {
+        "1": 6502,
+        "2": 2229,
+        "3": 8554,
+        "4": 21109,
+        "5": 107056
+      },
+      "offersIAP": true,
+      "IAPRange": "Rp 309.000 - Rp 1.771.200 per item",
+      "adSupported": true,
+      "developer": "Cupid Media",
+      "total_reviews_pulled": 400,
+      "low_reviews_count": 105,
+      "low_reviews_pct": 26.3,
+      "low_reviews": [
+        {
+          "date": "2026-04-08",
+          "score": 2,
+          "thumbs": 0,
+          "text": "Notifications are not working in real-time. Messages are already received, but notifications appear late or only after opening the app. This issue makes it difficult to respond quickly. Please improve the notification system."
+        },
+        {
+          "date": "2026-03-31",
+          "score": 1,
+          "thumbs": 0,
+          "text": "Never seen dating app that has to pay just for chat. I don't think you need to charge people just for chat. Def not recommend."
+        },
+        {
+          "date": "2026-03-20",
+          "score": 2,
+          "thumbs": 0,
+          "text": "harus berbayarr"
+        },
+        {
+          "date": "2026-03-09",
+          "score": 1,
+          "thumbs": 0,
+          "text": "udah bayar platinum tpi blm berubah juga status keanggotaan"
+        },
+        {
+          "date": "2026-03-01",
+          "score": 1,
+          "thumbs": 0,
+          "text": "berbayar 😅😅😅"
+        },
+        {
+          "date": "2026-02-26",
+          "score": 1,
+          "thumbs": 0,
+          "text": "blm kenalan udh di suruh bayar aja 1th, mahal bgt pulak.. huaaa"
+        },
+        {
+          "date": "2026-02-23",
+          "score": 1,
+          "thumbs": 4,
+          "text": "saya tidak bisa log in"
+        },
+        {
+          "date": "2026-02-23",
+          "score": 1,
+          "thumbs": 0,
+          "text": "apl ga berbobot blm ap\" aj hrs byr mn mahal lg mending apl sbelah ga perlu byr mlh kt bs kumpulin poin dan dpt duit"
+        },
+        {
+          "date": "2026-02-17",
+          "score": 1,
+          "thumbs": 0,
+          "text": "tiba tiba akunnya di nonaktifkan permanen, padahal nggak ngapa ngapain, nggak berkata kasar,nggak melakukan hal apapun,"
+        },
+        {
+          "date": "2026-02-03",
+          "score": 1,
+          "thumbs": 0,
+          "text": "jangan di persulit"
+        },
+        {
+          "date": "2026-02-01",
+          "score": 1,
+          "thumbs": 0,
+          "text": "bls chat aj harus bayar"
+        },
+        {
+          "date": "2026-01-29",
+          "score": 1,
+          "thumbs": 0,
+          "text": "kenapa sih akunnya bisa keluar sendiri, terus juga nggak bisa login kembali"
+        },
+        {
+          "date": "2026-01-27",
+          "score": 1,
+          "thumbs": 2,
+          "text": "kenapa ini ya? kok tiba-tiba akun di nonaktifkan secara permanen padahal baru diperbaharui. alasannya belum cukup umur, nggak ngerti ini kenapa jadi begitu, jadi nggak nyaman pakai aplikasi ini. apa begitu tiba-tiba log out sendiri dan gak bisa masuk ke akun sendiri ya????"
+        },
+        {
+          "date": "2026-01-22",
+          "score": 2,
+          "thumbs": 3,
+          "text": "aplikasi keluar sendiri, sdh saya uninstall terus masuk akun lagi tidak bisa ada gangguan teknis , itu gimna min"
+        },
+        {
+          "date": "2026-01-09",
+          "score": 2,
+          "thumbs": 0,
+          "text": "kenapa premiumnya mahal banget sih, gak bisa apa sebulan 10k aja, banyak yg chat taoi gue gk bisa bales krena terkendala premium.. gagal deh gue nyari cowok bule"
+        }
+      ]
+    },
+    "PK_muslima": {
+      "appId": "com.cupidmedia.wrapper.muslima",
+      "country": "pk",
+      "title": "Muslima: Muslim Dating",
+      "score": 4.32196,
+      "ratings": 145472,
+      "installs": "5,000,000+",
+      "histogram": {
+        "1": 12977,
+        "2": 3944,
+        "3": 10559,
+        "4": 13740,
+        "5": 104224
+      },
+      "offersIAP": true,
+      "IAPRange": "Rs 3,750 - Rs 17,100 per item",
+      "adSupported": true,
+      "developer": "Cupid Media",
+      "total_reviews_pulled": 400,
+      "low_reviews_count": 175,
+      "low_reviews_pct": 43.8,
+      "low_reviews": [
+        {
+          "date": "2026-05-05",
+          "score": 1,
+          "thumbs": 0,
+          "text": "don't subscribe 90% fake profiles"
+        },
+        {
+          "date": "2026-05-04",
+          "score": 1,
+          "thumbs": 0,
+          "text": "worst app I've ever seen you have to pay to even do anything nothing is free it should have a free version then a premium version with premium feature but it's actually disgusting wouldn't recommend it don't even install it its not worth it"
+        },
+        {
+          "date": "2026-05-04",
+          "score": 1,
+          "thumbs": 0,
+          "text": "The latest update is it's not user friendly and also it feels like the number of people you can look at has been limited. In addition the filters are not working even after paying for. Muslima getting greedy with the price and making it harder to do searches which was previously "
+        },
+        {
+          "date": "2026-05-04",
+          "score": 1,
+          "thumbs": 0,
+          "text": "money desperate"
+        },
+        {
+          "date": "2026-04-30",
+          "score": 1,
+          "thumbs": 0,
+          "text": "one of most useless app..even AI generated profiles along with pic..same filthy guys,liars,, cheaters."
+        },
+        {
+          "date": "2026-04-29",
+          "score": 1,
+          "thumbs": 0,
+          "text": "completely scam! not halal only men there who are married and want a secret wife. not to recommend. price is with over 100 euros too much and very expensive. I never ever recommend this app. also reporting doesn't matter; profiles still missible. the producer is also not a muslim"
+        },
+        {
+          "date": "2026-04-29",
+          "score": 1,
+          "thumbs": 0,
+          "text": "They banned my account even if I didn't do any violation. I included my photos and info there so if ever they do something bad about my info, I'll definitely take action! My brother works in the investigation beauru so if ever they do something unethical about my personal info, I"
+        },
+        {
+          "date": "2026-04-29",
+          "score": 1,
+          "thumbs": 0,
+          "text": "new update is so bad and also its to much slow 😔"
+        },
+        {
+          "date": "2026-04-28",
+          "score": 2,
+          "thumbs": 0,
+          "text": "Overpriced and you get spam bot likes every second from fake accounts"
+        },
+        {
+          "date": "2026-04-24",
+          "score": 1,
+          "thumbs": 1,
+          "text": "the worse app ever , full of scammers and fake accounts, they don't check accounts at all anyone can pretend to be whoever he wants"
+        },
+        {
+          "date": "2026-04-24",
+          "score": 1,
+          "thumbs": 1,
+          "text": "I paid for one month, all girls scammers"
+        },
+        {
+          "date": "2026-04-23",
+          "score": 1,
+          "thumbs": 0,
+          "text": "suck!!! Can't update your profile, or it will suspend the account!!!"
+        },
+        {
+          "date": "2026-04-22",
+          "score": 1,
+          "thumbs": 0,
+          "text": "You haven't even done anything yet, you've just finished registering and are already asking to become a member and of course you have to pay, you should learn from other dating apps."
+        },
+        {
+          "date": "2026-04-21",
+          "score": 1,
+          "thumbs": 2,
+          "text": "yeah it's definitely one of the worst dating apps. you can't really choose people like any other apps (you can only like the page like posts) seems like there's some bots that sent you messages and you need to pay to see the messages"
+        },
+        {
+          "date": "2026-04-21",
+          "score": 1,
+          "thumbs": 0,
+          "text": "i have issue with this app I don't know i subscribe already and pay the bill but still have issue I can't text anyone because they said need yo upgrade but i already upgrade"
+        }
+      ]
+    }
+  }
+}

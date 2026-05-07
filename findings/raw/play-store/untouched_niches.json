@@ -1,0 +1,839 @@
+[
+  {
+    "country": "br",
+    "niche": "music",
+    "search_term": "spotify alternativa",
+    "top_app": {
+      "appId": "com.spotify.music",
+      "title": "Spotify: música e podcasts",
+      "developer": "Spotify AB"
+    },
+    "score": 4.534835,
+    "ratings": 35530310,
+    "installs": "1.000.000.000+",
+    "offersIAP": true,
+    "IAPRange": "R$ 18,90 – R$ 599,00 por item",
+    "adSupported": true,
+    "reviews_pulled": 250,
+    "low_count": 53,
+    "low_pct": 21.2,
+    "top_thumbs_low": [
+      {
+        "score": 1,
+        "thumbs": 156,
+        "text": "Algoritmo desfavorece pequenos artistas e nunca vai permitir que você encontre boa parte das músicas que você gostaria de conhecer. As recomendações insistem em indicar sempre os mesmos artistas e mús"
+      },
+      {
+        "score": 1,
+        "thumbs": 2,
+        "text": "Demasiados anúncios"
+      },
+      {
+        "score": 1,
+        "thumbs": 1,
+        "text": "não estou conseguindo acessar o Spotify, simplesmente não abre nada, eu vou ficar pegando pra não escutar nada?"
+      }
+    ]
+  },
+  {
+    "country": "tr",
+    "niche": "music",
+    "search_term": "müzik dinleme",
+    "top_app": {
+      "appId": "com.spotify.music",
+      "title": "Spotify: Müzik ve Podcast'ler",
+      "developer": "Spotify AB"
+    },
+    "score": 4.300691,
+    "ratings": 35530310,
+    "installs": "1.000.000.000+",
+    "offersIAP": true,
+    "IAPRange": "Öğe başına ₺55,00-₺5.209,99",
+    "adSupported": true,
+    "reviews_pulled": 250,
+    "low_count": 67,
+    "low_pct": 26.8,
+    "top_thumbs_low": [
+      {
+        "score": 1,
+        "thumbs": 16,
+        "text": "ilk kullanmaya başladığında güzel güzel kullanıyorsun Spotify seni alıştırıyor ardından çok fazla reklam çıkmaya başlıyor yine premium almıyoruz reklamların süresi yaklaşık 6 ay sonra 30 sn den 60 sn "
+      },
+      {
+        "score": 1,
+        "thumbs": 15,
+        "text": "Telefondan eklediğim şarkı Windows'ta gözükmüyor. Web sayfanızdan indirdiğim Spotify programında desteğe başvurdum, fakat hiçbir işe yaramadı."
+      },
+      {
+        "score": 1,
+        "thumbs": 3,
+        "text": "Her uygulama açıldığında çevrimdışı olduğumu söyleyip zaman geçtikten sonra bağlantı sağlıyor."
+      }
+    ]
+  },
+  {
+    "country": "br",
+    "niche": "budget",
+    "search_term": "controle financeiro pessoal",
+    "top_app": {
+      "appId": "br.com.gerenciadorfinanceiro.controller",
+      "title": "Mobills: Finanças Pessoais",
+      "developer": "Santander Corretora"
+    },
+    "score": 4.190485,
+    "ratings": 292165,
+    "installs": "10.000.000+",
+    "offersIAP": true,
+    "IAPRange": "R$ 0,90 – R$ 499,90 por item",
+    "adSupported": true,
+    "reviews_pulled": 250,
+    "low_count": 75,
+    "low_pct": 30,
+    "top_thumbs_low": [
+      {
+        "score": 2,
+        "thumbs": 32,
+        "text": "O aplicativo em si é muito bom, ilustra bem seus gastos e vc vê onde tá indo seu dinheiro, o problema é o valor do serviço, 200 reais por ano chega a ser abusivo, valor de um streaming até. Tem a prom"
+      },
+      {
+        "score": 1,
+        "thumbs": 31,
+        "text": "Tirei o dia pra ajustar as finanças e simplesmente pela web não loga e quando loga diz que não sou premium (sendo que tenho mais de 1000 dias restantes ainda) e pelo celular nem abre para cadastrar a "
+      },
+      {
+        "score": 1,
+        "thumbs": 25,
+        "text": "Após anos utilizando a versão paga consigo dizer: não vale a pena. App muito bugado, não lê notificações direito, o meu parou há séculos. Apresenta erro ao integrar com o banco... vários bugs e nenhum"
+      }
+    ]
+  },
+  {
+    "country": "mx",
+    "niche": "budget",
+    "search_term": "control gastos",
+    "top_app": {
+      "appId": "ru.innim.my_finance",
+      "title": "Gestor de gastos - finanzas",
+      "developer": "Cleaner + Antivirus + VPN company"
+    },
+    "score": 4.9323096,
+    "ratings": 474332,
+    "installs": "10.000.000+",
+    "offersIAP": true,
+    "IAPRange": "$46.00 - $839.00 por elemento",
+    "adSupported": true,
+    "reviews_pulled": 250,
+    "low_count": 1,
+    "low_pct": 0.4,
+    "top_thumbs_low": [
+      {
+        "score": 1,
+        "thumbs": 0,
+        "text": "Buena"
+      }
+    ]
+  },
+  {
+    "country": "tr",
+    "niche": "budget",
+    "search_term": "bütçe takip",
+    "top_app": {
+      "appId": "com.blodhgard.easybudget",
+      "title": "Hızlı Bütçe – Gider Yöneticisi",
+      "developer": "AppFer SRL"
+    },
+    "score": 4.581818,
+    "ratings": 129341,
+    "installs": "5.000.000+",
+    "offersIAP": true,
+    "IAPRange": "Öğe başına ₺169,99-₺999,99",
+    "adSupported": true,
+    "reviews_pulled": 250,
+    "low_count": 25,
+    "low_pct": 10,
+    "top_thumbs_low": [
+      {
+        "score": 2,
+        "thumbs": 4,
+        "text": "Pro sürüme yükseltmek için tek seferlik ödeme yeterli ancak simge için ödeme de lazım, bulut hizmeti (senkronizasyon) istiyorsanız bunun için hesabınızı daha da yükseltmeniz lazım ve tek seferlik ödem"
+      },
+      {
+        "score": 1,
+        "thumbs": 4,
+        "text": "Banka bilgilerimi eklemek için, banka senkronizasyonu yapmaya çalıştığımda, \"server hatası bu sağlayıcıya bağlanmak için bu kimlik bilgilerini zaten kullandınız\" hatası alıyorum. Lütfen bu hatanın çöz"
+      },
+      {
+        "score": 2,
+        "thumbs": 3,
+        "text": "Dikkat ...!!! Uygulama olarak güzel ve kullanısli olan bu uygulamaya pro üyelik satın aldım ne olduysa benim üyelik gitti ve reklamlardan uygulamayi goremiyorum bile dikkat edin siz siz olun üyelik sa"
+      }
+    ]
+  },
+  {
+    "country": "br",
+    "niche": "crypto",
+    "search_term": "carteira cripto",
+    "top_app": {
+      "appId": "com.bitcoin.mwallet",
+      "title": "Carteira DeFi Bitcoin e Cripto",
+      "developer": "Bitcoin.com Developer"
+    },
+    "score": 4.580645,
+    "ratings": 84859,
+    "installs": "10.000.000+",
+    "offersIAP": false,
+    "adSupported": true,
+    "reviews_pulled": 250,
+    "low_count": 69,
+    "low_pct": 27.6,
+    "top_thumbs_low": [
+      {
+        "score": 1,
+        "thumbs": 148,
+        "text": "Tomem cuidado estão usando o app para aplicar golpe, cai em um golpe tive um prejuizo muito obrigado"
+      },
+      {
+        "score": 1,
+        "thumbs": 109,
+        "text": "Isso e golpe envetir e nunca recebi. Já fiz de tudo para me devolver o dinheiro e nada isso e golpe dos grande"
+      },
+      {
+        "score": 1,
+        "thumbs": 108,
+        "text": "Gente eu caí no golpe, não baixem esse aplicativo, não acreditem em criptomoedas, ou algo do tipo, leiam e pesquisem bastante antes de usar e fazer qualquer depósito!"
+      }
+    ]
+  },
+  {
+    "country": "tr",
+    "niche": "crypto",
+    "search_term": "kripto cüzdan",
+    "top_app": {
+      "appId": "com.bitcoin.mwallet",
+      "title": "Bitcoin & Kripto DeFi Cüzdanı",
+      "developer": "Bitcoin.com Developer"
+    },
+    "score": 4.5544553,
+    "ratings": 84859,
+    "installs": "10.000.000+",
+    "offersIAP": false,
+    "adSupported": true,
+    "reviews_pulled": 149,
+    "low_count": 57,
+    "low_pct": 38.3,
+    "top_thumbs_low": [
+      {
+        "score": 1,
+        "thumbs": 235,
+        "text": "Kesinlikle tavsiye etmiyorum, yatırdığınız paranın yarısını işlem ücreti olarak oraya buraya kesiyorlar."
+      },
+      {
+        "score": 1,
+        "thumbs": 110,
+        "text": "Türkçe dil desteği olmadığı için sevmedim Türkçe dil desteği nezaman uygulanacak"
+      },
+      {
+        "score": 1,
+        "thumbs": 89,
+        "text": "Beş para etmez bir uygulama. Cüzdan olarak sakın kullanmayın. Sözde BCH ile daha ucuza transfer yapabiliyosunuz. Ne hikmetse ağ ücreti 1 dolarda 30 cent alıyolar. Sakın indirmek gibi bir hataya düşmey"
+      }
+    ]
+  },
+  {
+    "country": "br",
+    "niche": "food",
+    "search_term": "delivery comida",
+    "top_app": {
+      "appId": "com.ubercab.eats",
+      "title": "Uber Eats: Delivery de Comida",
+      "developer": "Uber Technologies, Inc."
+    },
+    "score": 3.8842342,
+    "ratings": 7454743,
+    "installs": "100.000.000+",
+    "offersIAP": false,
+    "adSupported": true,
+    "reviews_pulled": 250,
+    "low_count": 169,
+    "low_pct": 67.6,
+    "top_thumbs_low": [
+      {
+        "score": 1,
+        "thumbs": 11,
+        "text": "Horrível. Funciona mal, é difícil adicionar meios de pagamento diferentes. Deram me cupões, pago a subscrição uber one pelos benefícios. Faço o primeiro carrinho, aquando do pagamento, como que por ma"
+      },
+      {
+        "score": 1,
+        "thumbs": 10,
+        "text": "Experiência cada vez pior. Pagamos mensalidade para ter entregas grátis e criam novas taxas. estive 2 horas (2 horas!) à espera de um pedido de entrega de compras que foi adiando adiando adiando até s"
+      },
+      {
+        "score": 1,
+        "thumbs": 4,
+        "text": "Ontem fiz um pedido de comida pela aplicação, não só não recebi a comida( apesar de na aplicação dizer entregue) como ainda me foi debitado o valor do pedido. Mesmo tentando resolver pela aplicação, e"
+      }
+    ]
+  },
+  {
+    "country": "tr",
+    "niche": "food",
+    "search_term": "yemek sipariş",
+    "top_app": {
+      "appId": "com.inovel.app.yemeksepeti",
+      "title": "Yemeksepeti - Yemek & Market",
+      "developer": "YEMEK SEPETİ ELEKTRONİK İLETİŞİM A.S."
+    },
+    "score": 4.0154586,
+    "ratings": 1502979,
+    "installs": "10.000.000+",
+    "offersIAP": false,
+    "adSupported": false,
+    "reviews_pulled": 250,
+    "low_count": 205,
+    "low_pct": 82,
+    "top_thumbs_low": [
+      {
+        "score": 1,
+        "thumbs": 94,
+        "text": "Uygulamanın üyelik ve hesap ayarlarını güncelleme sorunu var.! Telefon numaramı giriyorum bu numara zaten kullanılmaktadır diyor. işlem yapamıyorum, kim kullanıyor nerde hangi cihazda, ne alakaysa saç"
+      },
+      {
+        "score": 1,
+        "thumbs": 62,
+        "text": "restorandan verdiğim siparişe 1 saattir kurye ataması yapmamaları üzerine. canlı yardıma ulaşmaya çalışmaya çalışıp ulaşamam neticesinde tüm üyelik bilgilerimle beraber applikasyonunu da sildiğim uygu"
+      },
+      {
+        "score": 1,
+        "thumbs": 52,
+        "text": "Yemek sepeti eskiden iyi bir firmaydi, artık müşteri memnuniyeti kalmadı, verileri de kaptırdılar. Bu saatten sonra gözümde hiç değeri kalmadı. Ayrıca iletişim sıfır. Arayüzü de çok kötü, hiçbir şey b"
+      }
+    ]
+  },
+  {
+    "country": "br",
+    "niche": "gameutil",
+    "search_term": "controle joystick",
+    "top_app": {
+      "appId": "com.remotegamepad",
+      "title": "Remote Gamepad",
+      "developer": "SmartFusionLabs"
+    },
+    "score": 3.92,
+    "ratings": 3965,
+    "installs": "1.000.000+",
+    "offersIAP": true,
+    "IAPRange": "R$ 10,99 por item",
+    "adSupported": true,
+    "reviews_pulled": 250,
+    "low_count": 76,
+    "low_pct": 30.4,
+    "top_thumbs_low": [
+      {
+        "score": 1,
+        "thumbs": 72,
+        "text": "perfeito, tudo que eu procurava. Pena que é pago então vale muito mais a pena comprar um controle normal Do que ficar pagando isso, por mais perfeito que seja. deixem o aplicativo Premium pago por um "
+      },
+      {
+        "score": 1,
+        "thumbs": 49,
+        "text": "Caros desenvolvedores do renite gamepad, o fato de que o aplicativo não está funcionando corretamente no meu celular A03 core, fui tentar usar o aplicativo no meu celular conectando o bluetooth, mais "
+      },
+      {
+        "score": 1,
+        "thumbs": 44,
+        "text": "impossível de conectar com a TV mais de 35 min tentando e nada"
+      }
+    ]
+  },
+  {
+    "country": "br",
+    "niche": "gameutil",
+    "search_term": "celular gamer",
+    "top_app": {
+      "appId": "app.gamedeck",
+      "title": "Gamedeck - The Game Launcher",
+      "developer": "Vytron Labs"
+    },
+    "score": 4.3366337,
+    "ratings": 1381,
+    "installs": "500.000+",
+    "offersIAP": true,
+    "IAPRange": "R$ 6,60 – R$ 25,99 por item",
+    "adSupported": false,
+    "reviews_pulled": 123,
+    "low_count": 12,
+    "low_pct": 9.8,
+    "top_thumbs_low": [
+      {
+        "score": 1,
+        "thumbs": 5,
+        "text": "não conseguir jogar tem quer fazer oque alguém me explica por favor eu quero jogar precise de ps4 ou ps5? não entendi foi nada alguém me explica"
+      },
+      {
+        "score": 1,
+        "thumbs": 4,
+        "text": "achei um lixo se for só pra guardar jogos isso o próprio celular já faz blá"
+      },
+      {
+        "score": 2,
+        "thumbs": 3,
+        "text": "3 coisas que precisam melhorar/adicionar: 1. suporte aos idiomas além do inglês; 2. Aplicativo de 2⁰ planos no app em padrão NÃO FECHA, fazendo consumir bateria desnecessariamente - por padrão deveria"
+      }
+    ]
+  },
+  {
+    "country": "br",
+    "niche": "sleep",
+    "search_term": "sono sonhos",
+    "top_app": {
+      "appId": "com.phaser",
+      "title": "LucidMe: Diário de Sonhos",
+      "developer": "REMspace inc."
+    },
+    "score": 4,
+    "ratings": 1413,
+    "installs": "100.000+",
+    "offersIAP": true,
+    "IAPRange": "R$ 56,99 – R$ 389,99 por item",
+    "adSupported": false,
+    "reviews_pulled": 3,
+    "low_count": 1,
+    "low_pct": 33.3,
+    "top_thumbs_low": [
+      {
+        "score": 2,
+        "thumbs": 0,
+        "text": "O aplicativo parece interessante,mas eu não gostaria de ter que compartilhar meus sonhos com milhares de pessoas,poderia ter opção também pra ocultar meus posts, só pra eu ver. Queria tanto usar o app"
+      }
+    ]
+  },
+  {
+    "country": "mx",
+    "niche": "sleep",
+    "search_term": "meditacion sueno",
+    "top_app": {
+      "appId": "com.getsomeheadspace.android",
+      "title": "Headspace: Mindful Meditation",
+      "developer": "Headspace for Meditation, Mindfulness and Sleep"
+    },
+    "score": 4.5850143,
+    "ratings": 339656,
+    "installs": "10.000.000+",
+    "offersIAP": true,
+    "IAPRange": "$85.90 - $2,249.00 por elemento",
+    "adSupported": false,
+    "reviews_pulled": 250,
+    "low_count": 135,
+    "low_pct": 54,
+    "top_thumbs_low": [
+      {
+        "score": 1,
+        "thumbs": 27,
+        "text": "Estuve investigando sobre el programa original y ver la app así... Fue súper decepcionante. Solo hay 1 opción 100% gratuita y es una encuentra, todo es de pago, con una supuesta \"Prueba gratuita\" detr"
+      },
+      {
+        "score": 1,
+        "thumbs": 21,
+        "text": "no puedo darle más estrellas porque me resulta carisimo. no pude tener acceso a ningún contenido. lamentablemente no es para argentinos de clase media, y más viendo las bajas calificaciones que tiene,"
+      },
+      {
+        "score": 1,
+        "thumbs": 20,
+        "text": "La aplicación en general es buena, sin embargo, al reactivar mi suscripción me cobraron y ya no tengo acceso al contenido premium, al darle click en suscribirme otra vez me arroja un mensaje de que ya"
+      }
+    ]
+  },
+  {
+    "country": "pl",
+    "niche": "sleep",
+    "search_term": "medytacja sen",
+    "top_app": {
+      "appId": "app.meditasyon",
+      "title": "Meditopia: Medytacja, Sen",
+      "developer": "Meditopia"
+    },
+    "score": 4.21,
+    "ratings": 279605,
+    "installs": "10 000 000+",
+    "offersIAP": true,
+    "IAPRange": "10,99 zł – 384,99 zł, jeśli rozliczasz s",
+    "adSupported": false,
+    "reviews_pulled": 149,
+    "low_count": 56,
+    "low_pct": 37.6,
+    "top_thumbs_low": [
+      {
+        "score": 1,
+        "thumbs": 43,
+        "text": "Jestem niezadowolony z aplikacji. Jest ona płatna i wymagana jest subskrypcja, ale skandalem jest to, że dowiedziałem się o tym po zmarnowaniu mojego cennego czasu na wypełnienie ankiety. To jest jaki"
+      },
+      {
+        "score": 1,
+        "thumbs": 35,
+        "text": "Po pobraniu u wypełnieniu ankiety okazuje się że płatna. Edit. Nie niektóre funkcje, a wszystkie. Jeżeli do używania jakkolwiek aplikacji wymagana jest płatność, to powinna być umieszczona informacja "
+      },
+      {
+        "score": 1,
+        "thumbs": 19,
+        "text": "Free week only, you should say that at the beginning, not fair"
+      }
+    ]
+  },
+  {
+    "country": "br",
+    "niche": "notes",
+    "search_term": "notas anotacoes",
+    "top_app": {
+      "appId": "com.atomczak.notepat",
+      "title": "Bloco de notas - notas simples",
+      "developer": "atomczak"
+    },
+    "score": 4.564935,
+    "ratings": 87505,
+    "installs": "10.000.000+",
+    "offersIAP": false,
+    "adSupported": true,
+    "reviews_pulled": 250,
+    "low_count": 13,
+    "low_pct": 5.2,
+    "top_thumbs_low": [
+      {
+        "score": 1,
+        "thumbs": 30,
+        "text": "ESTOU ENLOUQUECIDO COM O FATO DE TODAS AS MINHAS ANOTAÇÕES MAIS DE 100 MÚSICAS, SIMPLESMENTE SUMIRAM DO APLICATIVO, NÃO SEI O QUE ACONTECEU, ELAS SUMIRAM DO NADA. ESTOU COM ÓDIO MORTAL!!! NÃO DA PARA "
+      },
+      {
+        "score": 2,
+        "thumbs": 4,
+        "text": "não dá para colocar por ordem alfabética o que está nas notas abertas(por exemplo lista de compras )vamos escrevendo e depois não se consegue colocar a lista por ordem alfabetica"
+      },
+      {
+        "score": 1,
+        "thumbs": 2,
+        "text": "o app estava bom mas estragaram ele quando eu copio alguns textos separado em blocos e quando eu colo no bloco ele cola tudo junto e antes ele não fazia isso se não concertar eu vou ser obrigado a des"
+      }
+    ]
+  },
+  {
+    "country": "tr",
+    "niche": "notes",
+    "search_term": "not alma",
+    "top_app": {
+      "appId": "easynotes.notes.notepad.notebook.privatenotes.note",
+      "title": "Easy Notes: Not Defteri Notlar",
+      "developer": "Gulooloo Tech Co., Ltd."
+    },
+    "score": 4.6885247,
+    "ratings": 405942,
+    "installs": "10.000.000+",
+    "offersIAP": true,
+    "IAPRange": "Öğe başına ₺9,00-₺716,00",
+    "adSupported": true,
+    "reviews_pulled": 250,
+    "low_count": 23,
+    "low_pct": 9.2,
+    "top_thumbs_low": [
+      {
+        "score": 1,
+        "thumbs": 11,
+        "text": "Uygulamanız afedersiniz ama küfür etmek istemiyorum. Çok kötü. Bütün notlarım uygulamaya girmem ile gitti. Cıldırmak üzereyim şu an sıfır olsa sıfır yıldız verecek kıvamdayım. Yakıştıramadım."
+      },
+      {
+        "score": 1,
+        "thumbs": 6,
+        "text": "Son güncellemeden sonra artık paylaş diyerek uygulamayı seçtiğiniz de paylaşmıyor, uygulamada boş sayfa açıyor. Tekara Keep not uygulamasına döndüm. Boş yere zaman kaybettim. Ayrıca silinen notları se"
+      },
+      {
+        "score": 1,
+        "thumbs": 3,
+        "text": "tamamen reklam odaklı bir uygulama geri çıksan reklam aşağı kaydırsan reklam ekranda başka bir şeye bakıp geri dönsen reklam anladık elbette kazanç olması lazım ama bu kadarda değil be rezalet bu konu"
+      }
+    ]
+  },
+  {
+    "country": "br",
+    "niche": "running",
+    "search_term": "corrida treino",
+    "top_app": {
+      "appId": "running.tracker.gps.map",
+      "title": "Corrida e Caminhada - Correr",
+      "developer": "Leap Fitness Group"
+    },
+    "score": 4.9196873,
+    "ratings": 427881,
+    "installs": "10.000.000+",
+    "offersIAP": true,
+    "IAPRange": "R$ 11,99 – R$ 219,99 por item",
+    "adSupported": true,
+    "reviews_pulled": 250,
+    "low_count": 7,
+    "low_pct": 2.8,
+    "top_thumbs_low": [
+      {
+        "score": 1,
+        "thumbs": 1,
+        "text": "só funcionou bem no primeiro dia, depois parou de aferir a distância e calorias gasta, tem propaganda o que é normal para um app grátis"
+      },
+      {
+        "score": 1,
+        "thumbs": 0,
+        "text": "Sinceramente esse aplicativo já foi bem melhor, anda oscilando muito ultimamente em termos de quilometragem/distância, calorias e ritmo. A única coisa que tem acertado é no tempo percorrido mesmo. dia"
+      },
+      {
+        "score": 1,
+        "thumbs": 0,
+        "text": "e pago não presta"
+      }
+    ]
+  },
+  {
+    "country": "br",
+    "niche": "driving",
+    "search_term": "multas carro",
+    "top_app": {
+      "appId": "br.com.usezapay.app",
+      "title": "Zapay: Pagar IPVA 2026, multas",
+      "developer": "ZAPAY SERVICOS DE PAGAMENTOS SA"
+    },
+    "score": 4.7474833,
+    "ratings": 240672,
+    "installs": "5.000.000+",
+    "offersIAP": false,
+    "adSupported": false,
+    "reviews_pulled": 250,
+    "low_count": 94,
+    "low_pct": 37.6,
+    "top_thumbs_low": [
+      {
+        "score": 1,
+        "thumbs": 6,
+        "text": "pessoal, nao baixem esse app . É golpe mesmo, cobram muito caro para baixar com a promessa de que voce vai conseguir fazer tudo e é tudo mentira. nao consigo fazer absolutamente nada, nem ao menos con"
+      },
+      {
+        "score": 1,
+        "thumbs": 4,
+        "text": "infelizmente não tive uma experiência boa com o aplicativo, esperei quase duas semanas para ter os débitos quitados, mesmo assim aparecia que ainda não estava licenciado meu veículo, um absurdo. Tive "
+      },
+      {
+        "score": 1,
+        "thumbs": 2,
+        "text": "Não consigo consultar os débitos do meu veículos, fica mostrando a mensagem \"carregando informações do seu veículo, avisamos quando estiver tudo pronto\" esperei por 2 horas e nada"
+      }
+    ]
+  },
+  {
+    "country": "br",
+    "niche": "vpn",
+    "search_term": "vpn gratis",
+    "top_app": {
+      "appId": "com.free.vpn.super.hotspot.open",
+      "title": "VPN - Super Unlimited Proxy",
+      "developer": "VPN Super Inc"
+    },
+    "score": 4.787091,
+    "ratings": 2085853,
+    "installs": "100.000.000+",
+    "offersIAP": true,
+    "IAPRange": "R$ 19,99 – R$ 454,99 por item",
+    "adSupported": true,
+    "reviews_pulled": 250,
+    "low_count": 5,
+    "low_pct": 2,
+    "top_thumbs_low": [
+      {
+        "score": 1,
+        "thumbs": 1,
+        "text": "Essa VPN e horrível alem de ser inultil dizendo que usa 10G ainda nem pega no 2G n coloquei pra assinar nada e eles sugaram 20R$ meus sem minha permissão agr estou sem o dinheiro e a VPN pq ela e inul"
+      },
+      {
+        "score": 1,
+        "thumbs": 0,
+        "text": "péssimo só tem propaganda , sem condições de mecher"
+      },
+      {
+        "score": 1,
+        "thumbs": 0,
+        "text": "free version. after 24 hrs turns off by itself ! that's bad."
+      }
+    ]
+  },
+  {
+    "country": "id",
+    "niche": "vpn",
+    "search_term": "vpn gratis",
+    "top_app": {
+      "appId": "com.free.vpn.super.hotspot.open",
+      "title": "VPN - Super Unlimited Proxy",
+      "developer": "VPN Super Inc"
+    },
+    "score": 4.8033524,
+    "ratings": 2085853,
+    "installs": "100.000.000+",
+    "offersIAP": true,
+    "IAPRange": "Rp 69.999 - Rp 1.139.538 per item",
+    "adSupported": true,
+    "reviews_pulled": 250,
+    "low_count": 8,
+    "low_pct": 3.2,
+    "top_thumbs_low": [
+      {
+        "score": 2,
+        "thumbs": 1,
+        "text": "ada apa dengan aplikasi ini sekarang,,,,ngga bisa tersambung,,,putus sambung putus sambung begitu terus... apakah aplikasi ini error..??"
+      },
+      {
+        "score": 1,
+        "thumbs": 0,
+        "text": "banyak iklan"
+      },
+      {
+        "score": 1,
+        "thumbs": 0,
+        "text": "saya tidak merasa melakukan transaksi dengan aplikasi ini, tapi mengapa uang 78k saya terkuras dan tercatat melakukan transaksi kepada aplikasi ini, tolong kembali kan uang saya. itu uang tabungan onl"
+      }
+    ]
+  },
+  {
+    "country": "br",
+    "niche": "scanner",
+    "search_term": "scanner pdf",
+    "top_app": {
+      "appId": "com.intsig.camscanner",
+      "title": "CamScanner - scan, criador PDF",
+      "developer": "INTSIG PTE"
+    },
+    "score": 4.726583,
+    "ratings": 5003027,
+    "installs": "500.000.000+",
+    "offersIAP": true,
+    "IAPRange": "R$ 1,49 – R$ 1.499,99 por item",
+    "adSupported": true,
+    "reviews_pulled": 250,
+    "low_count": 44,
+    "low_pct": 17.6,
+    "top_thumbs_low": [
+      {
+        "score": 1,
+        "thumbs": 4,
+        "text": "era muito bom, e com uma quantidade de anúncios coerentes pelo serviço ser gratuito. Porem hoje está impossível de usar, por exemplo gastei 5 minutos para digitalizar 2 documentos onde aproximadamente"
+      },
+      {
+        "score": 2,
+        "thumbs": 4,
+        "text": "Eu comprei esse app há vários anos e sempre recomendei ele pelas facilidades e recursos. Depois que mudaram pro sistema de assinatura continuei usando porque me deram a remoção da marca d'água como co"
+      },
+      {
+        "score": 1,
+        "thumbs": 3,
+        "text": "O app é bom no quesito de scannear as fotos e converter para pdf para compartilhar, mas ter que assistir 1 anúncio de 10 segundos a cada foto tirada é complicado."
+      }
+    ]
+  },
+  {
+    "country": "br",
+    "niche": "aiimage",
+    "search_term": "gerador imagens ia",
+    "top_app": {
+      "appId": "ai.aiart.aiartgenerator.creart",
+      "title": "Gerador de Imagem IA - CreArt",
+      "developer": "Yawai"
+    },
+    "score": 4.268493,
+    "ratings": 101894,
+    "installs": "1.000.000+",
+    "offersIAP": true,
+    "IAPRange": "R$ 21,99 – R$ 419,99 por item",
+    "adSupported": true,
+    "reviews_pulled": 250,
+    "low_count": 68,
+    "low_pct": 27.2,
+    "top_thumbs_low": [
+      {
+        "score": 1,
+        "thumbs": 6,
+        "text": "ficou muito ruim de 5 meses pra cá e só vem piorando. tenho a versão paga, mas não vou renovar. Eles mudaram alguma coisa no formato que as imagens, não estão mais realistas e nem mais criativas. Não "
+      },
+      {
+        "score": 2,
+        "thumbs": 4,
+        "text": "Não gostei. Usou a peça que pedi mas alterou o modelo. Tentei de várias formas alterar. E a cada pedido tinha que abrir um anúncio affs. E se quiser que a foto sai sem a logo tem que pagar."
+      },
+      {
+        "score": 1,
+        "thumbs": 3,
+        "text": "Pessoal nem percam tempo em baixar, ele é muito cru, não tem nada, todas as funções são pagas, as que são gratuitas são as mais básicas das básicas, tem outros apps gratuitos muitoooooo melhor,"
+      }
+    ]
+  },
+  {
+    "country": "tr",
+    "niche": "aiimage",
+    "search_term": "yapay zeka resim",
+    "top_app": {
+      "appId": "com.canva.editor",
+      "title": "Canva: Yapay Zeka Video Foto",
+      "developer": "Canva"
+    },
+    "score": 4.6253176,
+    "ratings": 25243549,
+    "installs": "500.000.000+",
+    "offersIAP": true,
+    "IAPRange": "Öğe başına ₺6,19-₺3.400,00",
+    "adSupported": false,
+    "reviews_pulled": 250,
+    "low_count": 52,
+    "low_pct": 20.8,
+    "top_thumbs_low": [
+      {
+        "score": 1,
+        "thumbs": 60,
+        "text": "KESİNLİKLE TAVSİYE ETMİYORUM. ÇOK İĞRENÇ BİR UYGULAMA.sürekli hata veriyor, uygulamayı kapatıp açınca düzeliyor, fakat yaptığımız tasarım kayboluyor en baştan tekrar düzenliyoruz. insanı yoruyor. Bu y"
+      },
+      {
+        "score": 2,
+        "thumbs": 11,
+        "text": "Eskiden 2 Dakikaya Yükleyen Videoları Şimdi Yüklemiyor Ancak Dönüp Duruyor. Çok Harika Bir Programdı Ama Çok Berbat Hale Getirdiniz. Artık Canva Kullanmayı Bırakıcam Açık Ve Net."
+      },
+      {
+        "score": 2,
+        "thumbs": 9,
+        "text": "Uygulama aslında güzel ancak küfretmemek için zor durdum. İki metin yazmaya çalışıyorum kendi kendine aç kapa yapsam dahi kalın yazıyor, ekranı büyütmek istesem metin kutusunu büyütüyor, metinleri seç"
+      }
+    ]
+  },
+  {
+    "country": "br",
+    "niche": "education",
+    "search_term": "enem questoes",
+    "top_app": {
+      "appId": "dev.mdxco.enem",
+      "title": "Enem 2026 - Provas e Simulados",
+      "developer": "MDX Company"
+    },
+    "score": 4.8481483,
+    "ratings": 2789,
+    "installs": "100.000+",
+    "offersIAP": false,
+    "adSupported": true,
+    "reviews_pulled": 250,
+    "low_count": 10,
+    "low_pct": 4,
+    "top_thumbs_low": [
+      {
+        "score": 2,
+        "thumbs": 4,
+        "text": "Odeio esse app com todas as minhas forças!!!!!!! Já me ocorreu duas vezes, eu estou escrevendo a redação e do nada o app fecha sozinho, eu volto para terminar a redação, porém não encontro a atualizaç"
+      },
+      {
+        "score": 1,
+        "thumbs": 3,
+        "text": "Estava gostando muito desse app para me ajudar na redação, mas depois de pouquíssimo tempo percebi que não está funcionando corretamente, não carrega temas aleatórios para redação do Enem, já tentei r"
+      },
+      {
+        "score": 1,
+        "thumbs": 2,
+        "text": "ao entrar no aplicativo ele trava e fecha sozinho. eu tinha deixado 5 estrelas antes porque as atualizações melhoraram o app, mas agora ele está travando, as teclas não funcionam e o app fecha sozinho"
+      }
+    ]
+  }
+]

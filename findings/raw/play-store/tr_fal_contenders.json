@@ -1,0 +1,713 @@
+{
+  "search": {
+    "Kısmet Kahve Falı Astroloji": [
+      {
+        "appId": "com.pilav.kismet",
+        "title": "Kısmet - Kahve Falı, Astroloji",
+        "developer": "Somon Teknoloji",
+        "score": 4.38,
+        "scoreText": "4,4"
+      },
+      {
+        "appId": "com.mobilboyut.kismet",
+        "title": "Kismet: Kahve Falı, Tarot",
+        "developer": "mobilboyut"
+      },
+      {
+        "appId": "com.didilabs.kaavefali",
+        "title": "Kaave - Falcı Bacı",
+        "developer": "Didilabs BV",
+        "score": 4.6395874,
+        "scoreText": "4,6"
+      },
+      {
+        "appId": "com.rodinya.falabi",
+        "title": "Faladdin - Kahve Falı ve Tarot",
+        "developer": "R&C HEALTH TECHNOLOGİES",
+        "score": 0,
+        "scoreText": "0,0"
+      },
+      {
+        "appId": "com.devemendous.telve",
+        "title": "Telve - Kahve Falı, Astroloji",
+        "developer": "Somon Teknoloji",
+        "score": 4.6796117,
+        "scoreText": "4,7"
+      }
+    ],
+    "Faladdin Yapay Zeka": [
+      {
+        "appId": "com.faladdin.app",
+        "title": "Faladdin: Yapay Zeka, Sohbet",
+        "developer": "Truemium Ou",
+        "score": 4.387097,
+        "scoreText": "4,4"
+      },
+      {
+        "appId": "com.rodinya.falabi",
+        "title": "Faladdin - Kahve Falı ve Tarot",
+        "developer": "R&C HEALTH TECHNOLOGİES",
+        "score": 0,
+        "scoreText": "0,0"
+      },
+      {
+        "appId": "com.didilabs.kaavefali",
+        "title": "Kaave - Falcı Bacı",
+        "developer": "Didilabs BV",
+        "score": 4.6395874,
+        "scoreText": "4,6"
+      },
+      {
+        "appId": "com.falboxx.app",
+        "title": "Faladdin Fal & Burç - Falbox",
+        "developer": "Zyphor Labs"
+      },
+      {
+        "appId": "com.ferdigokdemir.falci_nine",
+        "title": "Falcı Nine - Kahve Falı",
+        "developer": "Nazar Tech",
+        "score": 4.423077,
+        "scoreText": "4,4"
+      }
+    ],
+    "Astopia Astroloji": [
+      {
+        "appId": "com.astopia.app",
+        "title": "Astopia: Astroloji ve Burçlar",
+        "developer": "ASTOPIA",
+        "score": 4.464789,
+        "scoreText": "4,5"
+      },
+      {
+        "appId": "com.feelweel.astro",
+        "title": "Astroscope: Astroloji Rehberi",
+        "developer": "Astroscope App",
+        "score": 4,
+        "scoreText": "4,0"
+      },
+      {
+        "appId": "com.astroid.yodha.pro",
+        "title": "Yodha Astroloji ve Horoskobum",
+        "developer": "Yodha",
+        "score": 4.6086955,
+        "scoreText": "4,6"
+      },
+      {
+        "appId": "com.improvs.inura",
+        "title": "Inura: Astrology & Horoscope",
+        "developer": "Okeksandr",
+        "score": 4,
+        "scoreText": "4,0"
+      },
+      {
+        "appId": "com.astrolink.webapp",
+        "title": "Astrolink - Mapa Astral",
+        "developer": "Astrolink Orbe",
+        "score": 4.12,
+        "scoreText": "4,1"
+      }
+    ],
+    "Falyolu Kahve Falı": [
+      {
+        "appId": "com.falyolu.kahvefali",
+        "title": "Falyolu: Kahve Falı ve Burçlar",
+        "developer": "Falyolu",
+        "score": 4.44,
+        "scoreText": "4,4"
+      },
+      {
+        "appId": "net.emrekoc.fortune.coffee",
+        "title": "Kahve Falı - Burç Yorumları, F",
+        "developer": "Emre KOÇ",
+        "score": 4.49,
+        "scoreText": "4,5"
+      },
+      {
+        "appId": "com.didilabs.kaavefali",
+        "title": "Kaave - Falcı Bacı",
+        "developer": "Didilabs BV",
+        "score": 4.6395874,
+        "scoreText": "4,6"
+      },
+      {
+        "appId": "com.astroskymaster.sanalkahvefali",
+        "title": "Sanal Kahve Falı",
+        "developer": "astroskymaster",
+        "score": 4.259259,
+        "scoreText": "4,3"
+      },
+      {
+        "appId": "com.hkagnmert.deryaabla",
+        "title": "Derya Abla - Kahve Falı",
+        "developer": "FlyBit",
+        "score": 4.5,
+        "scoreText": "4,5"
+      }
+    ],
+    "Derya Abla Kahve Falı": [
+      {
+        "appId": "com.hkagnmert.deryaabla",
+        "title": "Derya Abla - Kahve Falı",
+        "developer": "FlyBit",
+        "score": 4.5,
+        "scoreText": "4,5"
+      },
+      {
+        "appId": "com.didilabs.kaavefali",
+        "title": "Kaave - Falcı Bacı",
+        "developer": "Didilabs BV",
+        "score": 4.6395874,
+        "scoreText": "4,6"
+      },
+      {
+        "appId": "app.faluna.fal.tarot.kahve_fali.card_reading.astro.horoscope.dream.zodiac.sign.fortune.qahwa.tasfir.falci",
+        "title": "Faluna - Kahve Falı ve Tarot",
+        "developer": "First Point",
+        "score": 0,
+        "scoreText": "0,0"
+      },
+      {
+        "appId": "com.zoo.faldelisi",
+        "title": "Falla Bi - Kahve, Rüya Tabiri",
+        "developer": "DreamShow Apps",
+        "score": 0,
+        "scoreText": "0,0"
+      },
+      {
+        "appId": "com.pilav.kismet",
+        "title": "Kısmet - Kahve Falı, Astroloji",
+        "developer": "Somon Teknoloji",
+        "score": 4.38,
+        "scoreText": "4,4"
+      }
+    ],
+    "Tabirhane Rüya": [
+      {
+        "appId": "com.yhn.tabirhanev2",
+        "title": "Tabirhane - Rüya Tabiri",
+        "developer": "Rüya Tabiri Uzmanı",
+        "score": 0,
+        "scoreText": "0,0"
+      },
+      {
+        "appId": "com.zeyahapp.ruyasembolleri",
+        "title": "Rüya Tabirleri",
+        "developer": "zeyahapp",
+        "score": 0,
+        "scoreText": "0,0"
+      },
+      {
+        "appId": "com.bybrawe.ruya_tabirleri",
+        "title": "Rüya Tabirleri & Yorumları",
+        "developer": "BBTR Tech"
+      },
+      {
+        "appId": "com.thekodprogram.theruyatabirleri",
+        "title": "Rüya Tabirleri",
+        "developer": "TheCodeProgram",
+        "score": 0,
+        "scoreText": "0,0"
+      },
+      {
+        "appId": "com.robogon.dream.teller",
+        "title": "Rüya Yorumlat & Tabirini Öğren",
+        "developer": "bigApps",
+        "score": 0,
+        "scoreText": "0,0"
+      }
+    ],
+    "Tarot Falı Kartları Astroloji": [
+      {
+        "appId": "com.accurate.tarot.card.reading.meanings.daily",
+        "title": "Tarot Falı: Aşk ve Gelecek",
+        "developer": "Astrology Tarot Moon Apps",
+        "score": 3.8,
+        "scoreText": "3,8"
+      },
+      {
+        "appId": "com.webelinx.tarot",
+        "title": "Tarot Falı Kartları Astroloji",
+        "developer": "Hive 5 Studio",
+        "score": 3.821782,
+        "scoreText": "3,8"
+      },
+      {
+        "appId": "com.pilav.kismet",
+        "title": "Kısmet - Kahve Falı, Astroloji",
+        "developer": "Somon Teknoloji",
+        "score": 4.38,
+        "scoreText": "4,4"
+      },
+      {
+        "appId": "com.didilabs.kaavefali",
+        "title": "Kaave - Falcı Bacı",
+        "developer": "Didilabs BV",
+        "score": 4.6395874,
+        "scoreText": "4,6"
+      },
+      {
+        "appId": "app.tarot.cards",
+        "title": "Tarot Falı Kartları Astroloji",
+        "developer": "NLX Apps",
+        "score": 4.428571,
+        "scoreText": "4,4"
+      }
+    ]
+  },
+  "drill": {
+    "com.pilav.kismet": {
+      "appId": "com.pilav.kismet",
+      "title": "Kısmet - Kahve Falı, Astroloji",
+      "score": 4.546551,
+      "ratings": 128811,
+      "installs": "10.000.000+",
+      "offersIAP": true,
+      "IAPRange": "Öğe başına ₺1,99-₺509,99",
+      "adSupported": true,
+      "developer": "Somon Teknoloji",
+      "total_reviews_pulled": 400,
+      "low_reviews_count": 124,
+      "low_reviews_pct": 31,
+      "top_thumbs_low": [
+        {
+          "date": "2026-01-04",
+          "score": 1,
+          "thumbs": 35,
+          "text": "Vasat bir uygulama kesinlikle tavsiye etmiyorum. Bir kahve falına baktırayım dedim. Fotoğrafları yüklüyorum beni direk uygulamadan atıyor ve kredileri boşa gidiyor. Yalan ve saçma bir uygulama sakın sakın yüklemeyin. PİŞMANLIK...çöp bir uygulama"
+        },
+        {
+          "date": "2025-08-29",
+          "score": 1,
+          "thumbs": 23,
+          "text": "3 4aydır uyg ara vermiştim, tekrar bakayım dedim ne var ne yok diye reklamlardan fırsat bulabildiğim kadarıyla girebildim. Yani bir uyg ancak bu kadar batırılabilir, eski fallarıma girerken reklam vermek nedir yani? Umarım daha normal düzeye indirirsiniz reklamları, siliyorum uygulamayı da."
+        },
+        {
+          "date": "2026-01-22",
+          "score": 1,
+          "thumbs": 21,
+          "text": "Reklam az olmuş biraz daha reklam koyun arada gelir izlerim Reklam izlemek için fal yolluyorsun! mükemmel bir uygulama... bukadar güzel reklam bakan fal uygulaması görmedim !!"
+        },
+        {
+          "date": "2025-11-16",
+          "score": 1,
+          "thumbs": 20,
+          "text": "reklamdan başka hiçbirşey yok reklam izlemek istiyorsaniz uygulamayı indirin"
+        },
+        {
+          "date": "2025-11-18",
+          "score": 1,
+          "thumbs": 19,
+          "text": "neye tiklasam ardindan reklam bıktım ya reklam uygulamasi sanki korkuda uygulamaya giremiyorum"
+        },
+        {
+          "date": "2026-01-17",
+          "score": 1,
+          "thumbs": 18,
+          "text": "premium üyeyim. falcı ile konuşma hata veriyor açılmıyor.mail attım dönüş olmadı.ilgilenir misiniz 3 gündür mail atıyorum, yazıyorum. Kesinlikle dönüş yok. yıllık ödeme yaptım. açılmıyor.Lütfen dönüş yapıp düzeltir misiniz"
+        },
+        {
+          "date": "2026-01-06",
+          "score": 1,
+          "thumbs": 18,
+          "text": "Program hiçbir işe yaramıyor. Durmadan reklam, Her şeyi reklam okumaya. Tamamen sıkıcı. Yalan fal yazıp duruyor. Tamamen sallama dolu. Artık reklam istemiyorum. 50 den fazla reklam izle yapabildiğim işlem 1 veya 2 tane."
+        },
+        {
+          "date": "2025-11-10",
+          "score": 1,
+          "thumbs": 13,
+          "text": "BiKaave uygulaması sizden daha iyi.. zemini çekip kahve falı diye attım ve onu yorumladı. hadi gerçek falcılar kullanmıyorsunuz anladım da bari yapay zekayı biraz daha zeki hale getirseydiniz..."
+        },
+        {
+          "date": "2025-08-22",
+          "score": 1,
+          "thumbs": 10,
+          "text": "sakın yüklemeyin önceden güzel bir uygulama yı 7 senedir kullanıyordum son 1 aydır reklamlardan kullanamıyorum hep reklam üstelik reklam geldiğinde reklam ı kapatamıyorsun"
+        },
+        {
+          "date": "2025-08-20",
+          "score": 1,
+          "thumbs": 9,
+          "text": "falımı gönderemiyorum. bir kaç haftadır sıkıntı yaşıyorum. bilgileri giriyorum jetonum da yetiyor ama falcı fala bakmıyor gönder tuşu algılamıyor uygulamada hata var cabuk düzeltin"
+        }
+      ]
+    },
+    "com.faladdin.app": {
+      "error": "App not found (404)",
+      "appId": "com.faladdin.app"
+    },
+    "com.astopia.app": {
+      "appId": "com.astopia.app",
+      "title": "Astopia: Astroloji ve Burçlar",
+      "score": 4.5545135,
+      "ratings": 15520,
+      "installs": "500.000+",
+      "offersIAP": true,
+      "IAPRange": "Öğe başına ₺9,99-₺4.499,99",
+      "adSupported": true,
+      "developer": "ASTOPIA",
+      "total_reviews_pulled": 400,
+      "low_reviews_count": 125,
+      "low_reviews_pct": 31.3,
+      "top_thumbs_low": [
+        {
+          "date": "2023-11-19",
+          "score": 1,
+          "thumbs": 191,
+          "text": "Premium ücreti çok ama çok yüksek. Sen Netflix falan değilsin ya altı üstü burçlarla alakalı şeyler yazan bir uygulamasın. Bu istediğin premium ücreti o kadar komik ki yani nasıl anlatılır bilemedim. Size akıl ve mantık diliyorum."
+        },
+        {
+          "date": "2025-06-25",
+          "score": 1,
+          "thumbs": 18,
+          "text": "AstroPia artık işe yaramıyor. Eski uygulamadan eser kalmadı. Sınırsız süreli teklifinizi değerlendirmek istemiştim, aylık üyelik satın alacaktım ama artık eskisi gibi değil. Yorum yolu tercih ediyorum artık. Uzun beraberliğiniz için teşekkürler astropia ekibi."
+        },
+        {
+          "date": "2024-01-12",
+          "score": 1,
+          "thumbs": 11,
+          "text": "aylık ücretli abonelik alıp sonrada reklam izlettirmek nedir?? Son derece amatör bir site,teknik sorun aylardır bitmedi"
+        },
+        {
+          "date": "2024-11-25",
+          "score": 1,
+          "thumbs": 10,
+          "text": "Ücretsiz bir uygulama dendiği için yükledim. Ama sayfa devamlı ücret sayfasına yönlendiriliyor. Günlük jeton olayıda yok..."
+        },
+        {
+          "date": "2024-07-06",
+          "score": 1,
+          "thumbs": 9,
+          "text": "çok kötü hiçbir şey yapmama izin vermiyor sürekli premium için reklam çıkarıyor"
+        },
+        {
+          "date": "2023-08-17",
+          "score": 2,
+          "thumbs": 9,
+          "text": "Üye olmadan hiçbir işe yaramıyor. Önce ne yaptığını bir görsek de sonra karar versek mail bilgilerimizi verip vermemeye? Kullanmadım, kaldırdım. İyi çalışmalar. VERDİĞİNİZ CEVABA 1 YILDIZ DAHA DÜŞÜRDÜM. ÜYE OLMADAN DA ÇOK ÖZEL OLMAYAN AMA GEREKEN BİLGİLERİMİZİ GİREBİLDİĞİMİZ YERLER VAR. ONLAR NASIL "
+        },
+        {
+          "date": "2024-03-30",
+          "score": 1,
+          "thumbs": 7,
+          "text": "Tüm bildirimleri kapatmama rağmen ısrarla bildirimler gönderiyor günde 10 defadan fazla. Durumu anlatan mail gönderdim ilgili bir cevap gelmediği gibi bu sefer mail yoluyla tacize devam ediyor çok enteresan yapış yapış bir uygulama anladığım kadarıyla... bu saçmalıklardan dolayı uygulama içeriği hak"
+        },
+        {
+          "date": "2023-11-06",
+          "score": 1,
+          "thumbs": 7,
+          "text": "İçerik paylaşmak için cihazimdaki fotoğraf ve videolara izin vermem gerekiyormuş. Ne alakası var ya? Özelimizi ne yapacaksınız acaba ya. Siliyorum uygulamayı ("
+        },
+        {
+          "date": "2025-04-23",
+          "score": 1,
+          "thumbs": 5,
+          "text": "3 aylık abonelik aldım ama pişman oldum eksik ve her yerden öğrene bileceğimiz içerikler ile şişirilmiş ücretli abone olunmasına rağmen uygulama içinde ekstra ücretli ürünler var instadaki ücretsiz uygulamalar bile daha tatminkar günlük burç yorumunu hiç beğenmedim yani hiç parayı haketmiyor"
+        },
+        {
+          "date": "2025-02-09",
+          "score": 1,
+          "thumbs": 5,
+          "text": "Herhangi bir sitede bulabileceğiniz şeyleri size ücretsiz adı altında ücretli sunabilmek için indirtilmiş bi uygulama. 5 dk bile dayanamayıp hesabjmı sildim."
+        }
+      ]
+    },
+    "com.falyolu.kahvefali": {
+      "appId": "com.falyolu.kahvefali",
+      "title": "Falyolu: Kahve Falı ve Burçlar",
+      "score": 4.505992,
+      "ratings": 23919,
+      "installs": "1.000.000+",
+      "offersIAP": true,
+      "IAPRange": "Öğe başına ₺99,99-₺9.899,99",
+      "adSupported": false,
+      "developer": "Falyolu",
+      "total_reviews_pulled": 400,
+      "low_reviews_count": 109,
+      "low_reviews_pct": 27.3,
+      "top_thumbs_low": [
+        {
+          "date": "2026-03-20",
+          "score": 1,
+          "thumbs": 15,
+          "text": "kaç gündür uygulamaya giremiyorum çalışmıyor"
+        },
+        {
+          "date": "2025-02-18",
+          "score": 1,
+          "thumbs": 12,
+          "text": "Şu uygulamanızla ilgilenseniz artık bir zahmet!!! Haftalardır fal yorumları açılmıyor. Bildirimlere tıklıyoruz ama dakikalarca dönmesine rağmen açılmıyor. Hata veriyor. İnternet sorunum olmamasına rağmen bağlantı hatası veriyor. Düzeltin artık ya zaten fallar saçma sapan, kes kopyala yapıştırla geli"
+        },
+        {
+          "date": "2025-10-23",
+          "score": 1,
+          "thumbs": 11,
+          "text": "hesabımı uzun süre silmeme rağmen hâla bana mail geliyor hesabımın silinmesini talep ediyorum"
+        },
+        {
+          "date": "2026-03-02",
+          "score": 2,
+          "thumbs": 8,
+          "text": "Sürekli 3,5 yada 7 puan geliyor. Hiç yüksek puan geldiğine şahit olmadım."
+        },
+        {
+          "date": "2025-11-13",
+          "score": 1,
+          "thumbs": 5,
+          "text": "artık iyice saçmaladınız daha önce gönderdiğiniz mesajları sürekli gönderiyorsunuz"
+        },
+        {
+          "date": "2025-04-03",
+          "score": 1,
+          "thumbs": 5,
+          "text": "karaktersizler 6 ay önceki falın aynısını atmışsınız size para mı yatırılır sakın indirmeyin aynı falı gönderiyorlar"
+        },
+        {
+          "date": "2026-03-22",
+          "score": 1,
+          "thumbs": 4,
+          "text": "uygulamaya giremiyorum bağlantı sorunu yaşıyorsunuz diyor halbuki farklı telefonlarda da denememe rağmen aynı şeyi diyor. Lütfen düzeltilmesini rica ediyorum"
+        },
+        {
+          "date": "2026-02-03",
+          "score": 1,
+          "thumbs": 4,
+          "text": "Benzer yorumları tekrarlıyorlar...Ücretli faldan sonra müsait olamayıp değerlendirme yapmayınca gereksiz tepki gösterip tutarı iade yapan(!) tripli falcılar, atılan mesajlara ve gönderilere yanıt vermeye tenezzül etmeyen kişilerin çalıştığı bir site işte...İletişim önemlidir!"
+        },
+        {
+          "date": "2025-01-16",
+          "score": 1,
+          "thumbs": 4,
+          "text": "REZALET !! ücretsiz fallari geciyorum da . Kisilere baktırdığımız fallarin da bakıldığını sanmıyorum. Kadina katina baktırdım sevgilimden ayrıldım barısma var mı gibi sorular sordum. Bana boşanmak istiyorsun biliyorum ama hanede ayrilik yok bosanma görmüyorum gibi yorumlar yapmış. Sorulari okuyan ve"
+        },
+        {
+          "date": "2026-03-23",
+          "score": 2,
+          "thumbs": 3,
+          "text": "uygulamaya kaç gündür giriş yapamıyorum internet bağlantısını kontrol edin diyo lütfen bu durumu düzeltir misiniz."
+        }
+      ]
+    },
+    "com.hkagnmert.deryaabla": {
+      "appId": "com.hkagnmert.deryaabla",
+      "title": "Derya Abla - Kahve Falı",
+      "score": 4.440391,
+      "ratings": 448696,
+      "installs": "10.000.000+",
+      "offersIAP": true,
+      "IAPRange": "Öğe başına ₺2,00-₺1.989,99",
+      "adSupported": true,
+      "developer": "FlyBit",
+      "total_reviews_pulled": 400,
+      "low_reviews_count": 137,
+      "low_reviews_pct": 34.3,
+      "top_thumbs_low": [
+        {
+          "date": "2025-07-01",
+          "score": 1,
+          "thumbs": 19,
+          "text": "eskiden sık sık yolladım fal ve güzel kısa ve öz bakardı. şimdi ise yeni sürüm sadece yapay zeka felsefe yapıyor ve sıkıyor. alakasız saçma sapan nasihatler. artık kullanmıyorum eski sürüme dönmenizi bekliyorum."
+        },
+        {
+          "date": "2025-12-09",
+          "score": 1,
+          "thumbs": 10,
+          "text": "Hep aynı kalıplaşmış şeyleri yazıyorlar ayda bir farklı ve gerçekten bakılmış hissi veren bir yorum oluyor. Onun haricinde hep aynı cümleler. Gerçekten bakılmış olsa 5 cümle yeter 1 sayfa kopyala yapıştır yorumlara gereksiz."
+        },
+        {
+          "date": "2025-06-03",
+          "score": 1,
+          "thumbs": 10,
+          "text": "Güncelleme oncesinde guzel ve tutarli fal yorumlari varken,guncelleme sonrasinda gercekten cok uzak, hep iliskilerden bahseden,son derece alakasiz yorumlar var ki bu konuda ayni durumu yasayan tek kisi degilim.Uygulamayi guncelleme oncesine dondurmediginiz taktirde de silecegim."
+        },
+        {
+          "date": "2025-08-16",
+          "score": 1,
+          "thumbs": 7,
+          "text": "hiç güzel değil önceki falcılari iyiydi. bazen çok elestirel yorumluyor beğenmedim. Sallamasyon yapiyorlar hep yeni sürümünde"
+        },
+        {
+          "date": "2025-06-24",
+          "score": 1,
+          "thumbs": 7,
+          "text": "eskiden kısa, öz ve destekli yazardı. bu yüzden kredi alıp kullanırdım çoğu zaman. şimdi destan gibi yazıp sallıyor. hiç alakası yok yazılanların, okurken sıkılıyoruz. bu yüzden de siliyorum."
+        },
+        {
+          "date": "2025-07-20",
+          "score": 2,
+          "thumbs": 6,
+          "text": "Son güncelkemefen sonra bozuldu"
+        },
+        {
+          "date": "2025-07-18",
+          "score": 1,
+          "thumbs": 6,
+          "text": "şu yaptığınız güncellemeyi düzeltir misiniz ekranı komple kaplamış siteye giriş yapamıyoruz paylaşımlarda yorum yapamıyoruz bu ne saçma bir güncelleme olmuş boyle"
+        },
+        {
+          "date": "2025-07-13",
+          "score": 1,
+          "thumbs": 6,
+          "text": "güncellemeden önceki hali daga güzeldi bunu hiç beğenmedim aynı falcı yorumlasın butonu vardı onu kaldırmışsınız tekrardan geri koyarsanız faz gecilmezim olabilir"
+        },
+        {
+          "date": "2026-03-20",
+          "score": 1,
+          "thumbs": 5,
+          "text": "iki gündür hiç birşey yapamiyorim sürekli sorunlar yaşıyorum birtek bende mi oluyor genel bir sorunmu var bilgi ala billir miyim"
+        },
+        {
+          "date": "2026-04-08",
+          "score": 1,
+          "thumbs": 4,
+          "text": "hiç bir problem yokken şu anda fal yükleyemiyorum, hata veriyor, herhangi bir güncelleme yok tekrar silip yükledim programı hiçbir şey değişmedi fal gönderemiyorum hiçbir problem yokken sorunsuz çalışıyorken, sistem şu an neden böyle oluyor anlayamadım doğrusu?"
+        }
+      ]
+    },
+    "com.yhn.tabirhanev2": {
+      "appId": "com.yhn.tabirhanev2",
+      "title": "Tabirhane - Rüya Tabiri",
+      "score": 4.754902,
+      "ratings": 973,
+      "installs": "10.000+",
+      "offersIAP": true,
+      "IAPRange": "Öğe başına ₺47,99-₺479,99",
+      "adSupported": true,
+      "developer": "Rüya Tabiri Uzmanı",
+      "total_reviews_pulled": 400,
+      "low_reviews_count": 13,
+      "low_reviews_pct": 3.3,
+      "top_thumbs_low": [
+        {
+          "date": "2025-01-18",
+          "score": 1,
+          "thumbs": 3,
+          "text": "1 saattir uygulamanın açılmasını bekliyorum açılmıyor"
+        },
+        {
+          "date": "2024-11-22",
+          "score": 1,
+          "thumbs": 2,
+          "text": "yapay zekayla cevaplama yapiliyor"
+        },
+        {
+          "date": "2026-05-01",
+          "score": 1,
+          "thumbs": 0,
+          "text": "ilk yüklediğimde birkaç ay önce gayet iyiydi ama şu an özellikle son güncellemesi sonrası iğrenç derecede kötü bu bir yıldız yaptığınız rezaletin belgesi olsun size"
+        },
+        {
+          "date": "2026-04-24",
+          "score": 1,
+          "thumbs": 0,
+          "text": "5 dakika içinde demiş, ama bekliyorum 2 saat geçti hala tabirleniyor diyor, ne kadara sürede dönüş olacak Güncelleme 3 saat sonra yorum geldi ve sadece 3 cümle yazmışsınız"
+        },
+        {
+          "date": "2026-04-24",
+          "score": 1,
+          "thumbs": 0,
+          "text": "hayatımda gördüğüm en kötü uygulama yorumlamadi bile 30 dakika bekletti sonra 2 satır bir şey yazdı"
+        },
+        {
+          "date": "2026-03-17",
+          "score": 1,
+          "thumbs": 0,
+          "text": "acílmiyor"
+        },
+        {
+          "date": "2026-01-25",
+          "score": 1,
+          "thumbs": 0,
+          "text": "kötü çok kötü 6 ssatir cvp yok"
+        },
+        {
+          "date": "2026-01-25",
+          "score": 2,
+          "thumbs": 0,
+          "text": "3 saat oldu daha yorumlamadi ne bu anlamadim"
+        },
+        {
+          "date": "2026-01-05",
+          "score": 1,
+          "thumbs": 0,
+          "text": "sevmedim çok felsefik rüya yorumluyor anlamıyorum ne diyor"
+        },
+        {
+          "date": "2025-10-31",
+          "score": 1,
+          "thumbs": 0,
+          "text": "yazdığım şeyleri saçma sapan şeylere çeviriyor {atlama ipini boynuna dolayıp boğmaya çalıştılar }diyorum {atlayarak kendini boğman çok etkileyici}diyor"
+        }
+      ]
+    },
+    "com.accurate.tarot.card.reading.meanings.daily": {
+      "appId": "com.accurate.tarot.card.reading.meanings.daily",
+      "title": "Tarot Falı: Aşk ve Gelecek",
+      "score": 4.71,
+      "ratings": 1032,
+      "installs": "50.000+",
+      "offersIAP": true,
+      "IAPRange": "Öğe başına ₺144,99-₺2.949,99",
+      "adSupported": true,
+      "developer": "Astrology Tarot Moon Apps",
+      "total_reviews_pulled": 117,
+      "low_reviews_count": 9,
+      "low_reviews_pct": 7.7,
+      "top_thumbs_low": [
+        {
+          "date": "2024-08-30",
+          "score": 2,
+          "thumbs": 7,
+          "text": "Kısıtlanmış yorumlar gerisini okuyabilmemiz için paralıya geçmemiz gerekiyor . Bence günlük 1 açılım detaylı bile değil resmen sizi ücrete tabi tutuyor"
+        },
+        {
+          "date": "2025-04-28",
+          "score": 1,
+          "thumbs": 6,
+          "text": "beş para etmez yazık,sadece kariyerime bakmak için yüklemiştim sonucu göstermek için para istiyor bu kadar mı olur ya,rezillik madem öyle baştan söyleyin de boşuna indirmeyeyim."
+        },
+        {
+          "date": "2025-09-14",
+          "score": 1,
+          "thumbs": 4,
+          "text": "uygulamaya iyi diyenlerin aklına şaşarım parasız hiçbir şey söylemiyorum direkt sildim kaldırdım telefondan işine bak sın😏🤣"
+        },
+        {
+          "date": "2025-09-13",
+          "score": 2,
+          "thumbs": 4,
+          "text": "evet bazi seylerde yarari var ogrenirken kolaylık saglayabiliyor ama evet hayir anlamlarini rastgele mi dagittiniz o kadar sacma ki degnek dortlusune nasil olumsuz anlam yazdiniz mesela"
+        },
+        {
+          "date": "2026-03-14",
+          "score": 1,
+          "thumbs": 0,
+          "text": "çok kötü hepsini okumak yarı bırakiyor ücret istio"
+        },
+        {
+          "date": "2026-02-09",
+          "score": 1,
+          "thumbs": 0,
+          "text": "şakan komik degildi 👎🏿"
+        },
+        {
+          "date": "2025-12-11",
+          "score": 1,
+          "thumbs": 0,
+          "text": "kötü"
+        },
+        {
+          "date": "2025-10-13",
+          "score": 1,
+          "thumbs": 0,
+          "text": "ücretli👎"
+        },
+        {
+          "date": "2025-05-10",
+          "score": 1,
+          "thumbs": 0,
+          "text": "hiç beğenmedim"
+        }
+      ]
+    }
+  }
+}

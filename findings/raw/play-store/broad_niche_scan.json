@@ -1,0 +1,1533 @@
+[
+  {
+    "country": "br",
+    "niche": "habit",
+    "search_term": "aplicativo de habito",
+    "top_app": {
+      "appId": "com.blu.rabito",
+      "title": "Rabit: Hábitos & Metas à risca",
+      "developer": "blu studios"
+    },
+    "score": 4.0141845,
+    "ratings": 26170,
+    "installs": "1.000.000+",
+    "offersIAP": true,
+    "IAPRange": "R$ 9,99 – R$ 299,99 por item",
+    "adSupported": true,
+    "reviews_pulled": 300,
+    "low_count": 110,
+    "low_pct": 36.7,
+    "top_thumbs_low": [
+      {
+        "score": 1,
+        "thumbs": 524,
+        "text": "O aplicativo é realmente ótimo, te ajuda a cumprir metas e é muito motivador, mas eu estou dando apenas uma estrela por uma questão que eu entendi: quando você sai do app alguma hora, ele parece reiniciar e você perde tudo que tinha feito. Isso seria"
+      },
+      {
+        "score": 2,
+        "thumbs": 137,
+        "text": "Eu amava o app, até que eles começaram a oferecer a versão premium insistentemente. Tem um anúncio do premium a cada três cliques, tornando o app insuportável e inutilizável na versão grátis. Se as propagands deveriam me fazer querer pagar pelo premi"
+      },
+      {
+        "score": 1,
+        "thumbs": 131,
+        "text": "O app é simples, interessante. Mas os anúncios são insuportáveis. Não da nem vontade de abrir para registrar seu avanço nos hábitos. Além de fechar logo o primeiro anúncio assim que abre, cada clique gera um novo. E pra quem pensar \"É só pagar o prem"
+      }
+    ],
+    "other_top5_search": [
+      {
+        "appId": "com.habitnow",
+        "title": "HabitNow - Rotina e Hábitos",
+        "score": 4.836207,
+        "scoreText": "4,8"
+      },
+      {
+        "appId": "habittracker.todolist.tickit.daily.planner",
+        "title": "HÁBITOS - Hábitos Diários",
+        "score": 4.758929,
+        "scoreText": "4,8"
+      },
+      {
+        "appId": "com.roehl.habitkit",
+        "title": "Habit Tracker - HabitKit",
+        "score": 4.71,
+        "scoreText": "4,7"
+      },
+      {
+        "appId": "org.isoron.uhabits",
+        "title": "Loop - Acompanhador de Hábitos",
+        "score": 4.80543,
+        "scoreText": "4,8"
+      }
+    ]
+  },
+  {
+    "country": "mx",
+    "niche": "habit",
+    "search_term": "app de habitos",
+    "top_app": {
+      "appId": "com.habitnow",
+      "title": "HabitNow - Rutina y Hábitos",
+      "developer": "HabitNow"
+    },
+    "score": 4.821839,
+    "ratings": 89496,
+    "installs": "5.000.000+",
+    "offersIAP": true,
+    "IAPRange": "$19.00 - $250.00 por elemento",
+    "adSupported": false,
+    "reviews_pulled": 300,
+    "low_count": 2,
+    "low_pct": 0.7,
+    "top_thumbs_low": [
+      {
+        "score": 1,
+        "thumbs": 0,
+        "text": "Cuando creas varios hábitos tienes que comprar la versión premium para poder seguir creando más"
+      },
+      {
+        "score": 1,
+        "thumbs": 0,
+        "text": "simplemente las notificaciones no me llegan no sirve para nada incluso compré el premium para toda la vida a ver si era eso y no sirvió de nada tengo las notificaciones activadas no sé si tengo que activar otra cosa le quité las notificaciones y puse"
+      }
+    ],
+    "other_top5_search": [
+      {
+        "appId": "co.thefabulous.app",
+        "title": "Fabulous – Hábitos y Rutinas",
+        "score": 3.9345088,
+        "scoreText": "3,9"
+      },
+      {
+        "appId": "habittracker.todolist.tickit.daily.planner",
+        "title": "Hábitos - Hábitos Diarios",
+        "score": 4.758929,
+        "scoreText": "4,8"
+      },
+      {
+        "appId": "com.habitrpg.android.habitica",
+        "title": "Habitica: Gamify your Tasks",
+        "score": 4.605263,
+        "scoreText": "4,6"
+      },
+      {
+        "appId": "com.roehl.habitkit",
+        "title": "Habit Tracker - HabitKit",
+        "score": 4.71,
+        "scoreText": "4,7"
+      }
+    ]
+  },
+  {
+    "country": "tr",
+    "niche": "habit",
+    "search_term": "alışkanlık uygulaması",
+    "top_app": {
+      "appId": "org.isoron.uhabits",
+      "title": "Loop Alışkanlık Takip",
+      "developer": "Álinson S Xavier"
+    },
+    "score": 4.7891564,
+    "ratings": 62234,
+    "installs": "5.000.000+",
+    "offersIAP": false,
+    "adSupported": false,
+    "reviews_pulled": 300,
+    "low_count": 12,
+    "low_pct": 4,
+    "top_thumbs_low": [
+      {
+        "score": 1,
+        "thumbs": 1,
+        "text": "Belirttiğim sıklıkta bildirim vermiyor"
+      },
+      {
+        "score": 1,
+        "thumbs": 1,
+        "text": "Google buluta oto yedekleme yapmak o kadar zor değil, bu uygulama içinde oto olarak yapılmalı."
+      },
+      {
+        "score": 1,
+        "thumbs": 1,
+        "text": "Merhaba önceden sıklığı 3-4 günlük olarak da görebiliyorduk ama şimdi günlük haftalık ve aylık olarak sınırlanmış. Ben günlük değilde haftada 2-3 kez yapacağım akışkanlıklar ekleyeceğim. Ama ekleyemiyorum."
+      }
+    ],
+    "other_top5_search": [
+      {
+        "appId": "habittracker.todolist.tickit.daily.planner",
+        "title": "Alışkanlık Takip",
+        "score": 4.758929,
+        "scoreText": "4,8"
+      },
+      {
+        "appId": "com.habit.tracker.daily.goal.reminder",
+        "title": "Günlük Rutin Alışkanlık Takip",
+        "score": 4.2,
+        "scoreText": "4,2"
+      },
+      {
+        "appId": "com.habits.todolist.plan.wish",
+        "title": "Fun Habit - Alışkanlık Takibi",
+        "score": 4.35,
+        "scoreText": "4,3"
+      },
+      {
+        "appId": "app.vinztech.tickit",
+        "title": "Alışkanlık Takibi - TickOff",
+        "score": 4,
+        "scoreText": "4,0"
+      }
+    ]
+  },
+  {
+    "country": "id",
+    "niche": "habit",
+    "search_term": "aplikasi kebiasaan",
+    "top_app": {
+      "appId": "org.isoron.uhabits",
+      "title": "Loop Habit Tracker",
+      "developer": "Álinson S Xavier"
+    },
+    "score": 4.8289475,
+    "ratings": 62233,
+    "installs": "5.000.000+",
+    "offersIAP": false,
+    "adSupported": false,
+    "reviews_pulled": 300,
+    "low_count": 10,
+    "low_pct": 3.3,
+    "top_thumbs_low": [
+      {
+        "score": 2,
+        "thumbs": 24,
+        "text": "Saya menyukai konsep bahwa aplikasi ini gratis dan tanpa iklan. Tapi baru sekali download dan sudah memasang beberapa reminder, tidak ada alarm maupun pengingat yang muncul. Mengecewakan sekali"
+      },
+      {
+        "score": 2,
+        "thumbs": 11,
+        "text": "Mohon perbaiki, di android versi 10 tidak bisa menambah widget yang sama lebih dari satu"
+      },
+      {
+        "score": 1,
+        "thumbs": 11,
+        "text": "ribet. tampilannya gitu gitu aja. dan harusnya dibuat lebih tepat, misalnya 2 hari dalam 7 hari kalo udah 2 kali ya 100%"
+      }
+    ],
+    "other_top5_search": [
+      {
+        "appId": "app.disciplined.productive.structured.habit.tracker",
+        "title": "Disciplined - Lacak Kebiasaan",
+        "score": 4.6732674,
+        "scoreText": "4,7"
+      },
+      {
+        "appId": "com.tikamori.freedom",
+        "title": "Freedom – Pelacak Kebiasaan",
+        "score": 4.41,
+        "scoreText": "4,4"
+      },
+      {
+        "appId": "co.unstatic.habitify",
+        "title": "Habitify - Pelacak Kebiasaan",
+        "score": 4.16,
+        "scoreText": "4,2"
+      },
+      {
+        "appId": "info.intrasoft.habitgoaltracker",
+        "title": "Tracker Kebiasaan & Target",
+        "score": 4.7704916,
+        "scoreText": "4,8"
+      }
+    ]
+  },
+  {
+    "country": "br",
+    "niche": "video",
+    "search_term": "editor de video",
+    "top_app": {
+      "appId": "com.lemon.lvoverseas",
+      "title": "CapCut - Editor de Vídeos",
+      "developer": "Bytedance Pte. Ltd."
+    },
+    "score": 3.3768444,
+    "ratings": 12704052,
+    "installs": "1.000.000.000+",
+    "offersIAP": true,
+    "IAPRange": "R$ 0,90 – R$ 1.989,90 por item",
+    "adSupported": false,
+    "reviews_pulled": 300,
+    "low_count": 120,
+    "low_pct": 40,
+    "top_thumbs_low": [
+      {
+        "score": 1,
+        "thumbs": 26,
+        "text": "cada dia pior! paguei pelo pro e não funcionou, agora não quer exportar meus vídeos pro projeto, tem que pagar até pra por um filtro preto e branco"
+      },
+      {
+        "score": 1,
+        "thumbs": 10,
+        "text": "Horrível. A galeria do celular não está abrindo, quando nós tentamos adicionar camada."
+      },
+      {
+        "score": 1,
+        "thumbs": 4,
+        "text": "O CapCut é um editor bom é fácil e rápido de usar, porém ele apresenta muitas falhas, se você usa o capcut para vídeos curtos com pouca edição você não vai notar muito isso, agora se você usa o capcut para vídeos mais longos e bem editados como eu us"
+      }
+    ],
+    "other_top5_search": [
+      {
+        "appId": "com.camerasideas.instashot",
+        "title": "InShot: Editor de Vídeo e Foto",
+        "score": 4.834421,
+        "scoreText": "4,8"
+      },
+      {
+        "appId": "com.camerasideas.trimmer",
+        "title": "YouCut - Editor de Vídeo",
+        "score": 4.8340416,
+        "scoreText": "4,8"
+      },
+      {
+        "appId": "videoeditor.videomaker.videoeditorforyoutube",
+        "title": "Editor de video - Video.Guru",
+        "score": 4.7537336,
+        "scoreText": "4,8"
+      },
+      {
+        "appId": "com.quvideo.xiaoying",
+        "title": "VivaVideo - Editor de Video",
+        "score": 4.2779427,
+        "scoreText": "4,3"
+      }
+    ]
+  },
+  {
+    "country": "mx",
+    "niche": "video",
+    "search_term": "editor video",
+    "top_app": {
+      "appId": "com.camerasideas.instashot",
+      "title": "Editor de video - InShot",
+      "developer": "InShot Video Editor"
+    },
+    "score": 4.8977795,
+    "ratings": 24093446,
+    "installs": "500.000.000+",
+    "offersIAP": true,
+    "IAPRange": "$17.00 - $4,649.00 por elemento",
+    "adSupported": true,
+    "reviews_pulled": 300,
+    "low_count": 5,
+    "low_pct": 1.7,
+    "top_thumbs_low": [
+      {
+        "score": 1,
+        "thumbs": 0,
+        "text": "autentica y malisima aplicación se me bloquea mucho"
+      },
+      {
+        "score": 1,
+        "thumbs": 0,
+        "text": "es de lo peor puso virus en unos vídeos que estaba desarrollando y se tiró todo mi trabajo"
+      },
+      {
+        "score": 1,
+        "thumbs": 0,
+        "text": "La app se comienza a descargar bien. Al rato me dice q no se pudo realizar la descarga. Me podrían decir xq sucede esto"
+      }
+    ],
+    "other_top5_search": [
+      {
+        "appId": "com.lemon.lvoverseas",
+        "title": "CapCut: edita videos y fotos",
+        "score": 3.7893198,
+        "scoreText": "3,8"
+      },
+      {
+        "appId": "com.camerasideas.trimmer",
+        "title": "YouCut - Editor de Videos",
+        "score": 4.8340416,
+        "scoreText": "4,8"
+      },
+      {
+        "appId": "com.frontrow.vlog",
+        "title": "VN - Editor de vídeo",
+        "score": 4.7313676,
+        "scoreText": "4,7"
+      },
+      {
+        "appId": "com.instagram.basel",
+        "title": "Edits: Creador de vídeo",
+        "score": 4.5644107,
+        "scoreText": "4,6"
+      }
+    ]
+  },
+  {
+    "country": "id",
+    "niche": "video",
+    "search_term": "edit video",
+    "top_app": {
+      "appId": "com.camerasideas.trimmer",
+      "title": "YouCut - Editor Video Musik",
+      "developer": "InShot Video Editor"
+    },
+    "score": 4.8677893,
+    "ratings": 8442655,
+    "installs": "100.000.000+",
+    "offersIAP": true,
+    "IAPRange": "Rp 41.000 - Rp 690.000 per item",
+    "adSupported": true,
+    "reviews_pulled": 300,
+    "low_count": 3,
+    "low_pct": 1,
+    "top_thumbs_low": [
+      {
+        "score": 1,
+        "thumbs": 0,
+        "text": "ok"
+      },
+      {
+        "score": 1,
+        "thumbs": 0,
+        "text": "saya minta jangan ada yang pro pro atau langganan atau berbayar kita uang habis gak bisa apa apa lagi"
+      },
+      {
+        "score": 1,
+        "thumbs": 0,
+        "text": "aplikasi beta sering nge bug tolol"
+      }
+    ],
+    "other_top5_search": [
+      {
+        "appId": "com.camerasideas.instashot",
+        "title": "Editor Video Musik - InShot",
+        "score": 4.834421,
+        "scoreText": "4,8"
+      },
+      {
+        "appId": "com.lemon.lvoverseas",
+        "title": "CapCut: Editor Foto & Video",
+        "score": 3.789119,
+        "scoreText": "3,8"
+      },
+      {
+        "appId": "com.instagram.basel",
+        "title": "Edits: Editor Video",
+        "score": 4.5644107,
+        "scoreText": "4,6"
+      },
+      {
+        "appId": "videoeditor.videomaker.videoeditorforyoutube",
+        "title": "Edit video musik - Video.Guru",
+        "score": 4.7537336,
+        "scoreText": "4,8"
+      }
+    ]
+  },
+  {
+    "country": "th",
+    "niche": "video",
+    "search_term": "แต่งวิดีโอ",
+    "top_app": {
+      "appId": "com.lemon.lvoverseas",
+      "title": "CapCut",
+      "developer": "Bytedance Pte. Ltd."
+    },
+    "score": 4.190197,
+    "ratings": 12703915,
+    "installs": "1,000,000,000+",
+    "offersIAP": true,
+    "IAPRange": "฿9.00 - ฿8,690.00 ต่อรายการ",
+    "adSupported": false,
+    "reviews_pulled": 300,
+    "low_count": 82,
+    "low_pct": 27.3,
+    "top_thumbs_low": [
+      {
+        "score": 1,
+        "thumbs": 459,
+        "text": "ตอนเราส่งกดออก มันชอบค้างค่ะ เราต้องรอประมาณ2-3ขั่วโมงกว่าจะกดออกได้"
+      },
+      {
+        "score": 1,
+        "thumbs": 14,
+        "text": "พัฒนายังไงให้กากลง คลิปส่งออกใหม่ๆหาไม่เจอ รูปภาพใหม่ๆไม่แสดง ทำงานตัดต่อยากกว่าเมื่อก่อนมาก"
+      },
+      {
+        "score": 1,
+        "thumbs": 13,
+        "text": "บัคเยอะมาก โดยเฉพาะการที่เราจะเอาเสียงที่อยู่ในโทรศัพท์มาใส่แม่งค้างอยู่แค่เพลงเดียวแถมเลื่อนก็ไม่ใด้ และ ตอนนี้แม่งproทุกอย่างแล้วแต่ก่อนฟรีเหมือนจะบังคับไห้ซื้อเพื่อใช่ทุกอย่างcapcutเป็นแอพเสียเงินไปแล้ว(เปลี่ยนค่ายเถอะครับทุกคน)เลิกใช้เถอะ"
+      }
+    ],
+    "other_top5_search": [
+      {
+        "appId": "com.camerasideas.trimmer",
+        "title": "YouCut - แอพตัดต่อวิดีโอ",
+        "score": 4.8340416,
+        "scoreText": "4.8"
+      },
+      {
+        "appId": "com.camerasideas.instashot",
+        "title": "InShot - ตัดต่อวีดีโอ",
+        "score": 4.834421,
+        "scoreText": "4.8"
+      },
+      {
+        "appId": "com.cyberlink.powerdirector.DRA140225_01",
+        "title": "PowerDirector -แอพตัดต่อวีดีโอ",
+        "score": 4.2166758,
+        "scoreText": "4.2"
+      },
+      {
+        "appId": "com.nexstreaming.app.kinemasterfree",
+        "title": "KineMaster - แอพตัดต่อวิดีโอ",
+        "score": 4.4360614,
+        "scoreText": "4.4"
+      }
+    ]
+  },
+  {
+    "country": "br",
+    "niche": "photo",
+    "search_term": "editor de fotos",
+    "top_app": {
+      "appId": "photo.editor.photoeditor.photoeditorpro",
+      "title": "Editor de Fotos - Polish",
+      "developer": "InShot Inc."
+    },
+    "score": 4.883154,
+    "ratings": 4653674,
+    "installs": "100.000.000+",
+    "offersIAP": true,
+    "IAPRange": "R$ 3,79 – R$ 499,98 por item",
+    "adSupported": true,
+    "reviews_pulled": 300,
+    "low_count": 4,
+    "low_pct": 1.3,
+    "top_thumbs_low": [
+      {
+        "score": 1,
+        "thumbs": 0,
+        "text": "deveria ser gratuito"
+      },
+      {
+        "score": 1,
+        "thumbs": 0,
+        "text": "O \"REMOVER I.A\" está removendo mas escrevendo coisas aleatórias no lugar que apaga"
+      },
+      {
+        "score": 1,
+        "thumbs": 0,
+        "text": "bom"
+      }
+    ],
+    "other_top5_search": [
+      {
+        "appId": "com.picsart.studio",
+        "title": "Picsart Editor de Fotos IA",
+        "score": 3.9386935,
+        "scoreText": "3,9"
+      },
+      {
+        "appId": "photoeditor.layout.collagemaker",
+        "title": "Editor de fotos e colagem",
+        "score": 4.8321676,
+        "scoreText": "4,8"
+      },
+      {
+        "appId": "com.canva.editor",
+        "title": "Canva: editor de fotos e vídeo",
+        "score": 4.6129346,
+        "scoreText": "4,6"
+      },
+      {
+        "appId": "com.adobe.psmobile",
+        "title": "Photoshop Express: Foto Editor",
+        "score": 4.439385,
+        "scoreText": "4,4"
+      }
+    ]
+  },
+  {
+    "country": "tr",
+    "niche": "photo",
+    "search_term": "fotoğraf düzenleme",
+    "top_app": {
+      "appId": "photo.editor.photoeditor.photoeditorpro",
+      "title": "Fotoğraf Editörü – Polish",
+      "developer": "InShot Inc."
+    },
+    "score": 4.8264055,
+    "ratings": 4653674,
+    "installs": "100.000.000+",
+    "offersIAP": true,
+    "IAPRange": "Öğe başına ₺2,89-₺6.439,99",
+    "adSupported": true,
+    "reviews_pulled": 300,
+    "low_count": 11,
+    "low_pct": 3.7,
+    "top_thumbs_low": [
+      {
+        "score": 2,
+        "thumbs": 3,
+        "text": "ücret verip premium üyelik aldım yönergelerimize uygun olmayan içerik demesi can sıkıcı, benim düzenlediğim resimler Her hangi bir platformda paylaşım yapmayacağım resimler, bana göre sorun yok yani, birde otomatik kaldır bekliyor bekliyor işlem yapm"
+      },
+      {
+        "score": 1,
+        "thumbs": 0,
+        "text": "googıl pley veya google play bunu kaldırsın 😣😣😣😣😣"
+      },
+      {
+        "score": 1,
+        "thumbs": 0,
+        "text": "işe yaramaz"
+      }
+    ],
+    "other_top5_search": [
+      {
+        "appId": "com.niksoftware.snapseed",
+        "title": "Snapseed",
+        "score": 3.9849625,
+        "scoreText": "4,0"
+      },
+      {
+        "appId": "com.canva.editor",
+        "title": "Canva: Yapay Zeka Video Foto",
+        "score": 4.6129346,
+        "scoreText": "4,6"
+      },
+      {
+        "appId": "photo.editor.photoeditor.filtersforpictures",
+        "title": "Fotoğraf Düzenleyici - Lumii",
+        "score": 4.7205963,
+        "scoreText": "4,7"
+      },
+      {
+        "appId": "com.adobe.lrmobile",
+        "title": "Lightroom Foto- & Video-Editor",
+        "score": 4.405628,
+        "scoreText": "4,4"
+      }
+    ]
+  },
+  {
+    "country": "pl",
+    "niche": "photo",
+    "search_term": "edytor zdjęć",
+    "top_app": {
+      "appId": "com.adobe.psmobile",
+      "title": "Photoshop Express: Foto Editor",
+      "developer": "Adobe"
+    },
+    "score": 4.6524134,
+    "ratings": 2571042,
+    "installs": "100 000 000+",
+    "offersIAP": true,
+    "IAPRange": "9,19 zł – 474,99 zł, jeśli rozliczasz się przez Play",
+    "adSupported": false,
+    "reviews_pulled": 300,
+    "low_count": 65,
+    "low_pct": 21.7,
+    "top_thumbs_low": [
+      {
+        "score": 1,
+        "thumbs": 33,
+        "text": "Super apka, do dzisiaj. Po aktualizacji pojawił się znak wodny i nagabywanie o wersję premium za jakieś chore pieniądze. Właśnie deinstaluję. Dziękuję za minione dwa lata. Czas się pożegnać."
+      },
+      {
+        "score": 1,
+        "thumbs": 29,
+        "text": "Gdzie są opcje edycji elementu głównego i tła? Wersja płatna! Do niedawna była. Za to płacę! Proszę przywrócić funkcje, albo zwrócić pieniądze. Edit: where is premium function??? Second edit: Where is premium function???!!!"
+      },
+      {
+        "score": 1,
+        "thumbs": 21,
+        "text": "Do edytowanego obrazu dodawany jest znak wodny nawet nie korzystając z funkcji premium. Aplikacja powinna być normalnie sprzedawana skoro w \"darmowej\" wersji nie można zapisywać zdjęć bez znaku wodnego."
+      }
+    ],
+    "other_top5_search": [
+      {
+        "appId": "com.picsart.studio",
+        "title": "Picsart: edytor zdjęć i filmów",
+        "score": 3.9386935,
+        "scoreText": "3,9"
+      },
+      {
+        "appId": "photo.editor.photoeditor.photoeditorpro",
+        "title": "Edytor Zdjęć - Polish",
+        "score": 4.783903,
+        "scoreText": "4,8"
+      },
+      {
+        "appId": "com.adobe.lrmobile",
+        "title": "Lightroom Foto- & Video-Editor",
+        "score": 4.405628,
+        "scoreText": "4,4"
+      },
+      {
+        "appId": "photo.editor.photoeditor.filtersforpictures",
+        "title": "Edytor Zdjęć AI - Lumii",
+        "score": 4.7205963,
+        "scoreText": "4,7"
+      }
+    ]
+  },
+  {
+    "country": "br",
+    "niche": "mental",
+    "search_term": "diario humor",
+    "top_app": {
+      "appId": "net.daylio",
+      "title": "Daylio Diário: Diário de humor",
+      "developer": "Habitics"
+    },
+    "score": 4.8517804,
+    "ratings": 452413,
+    "installs": "10.000.000+",
+    "offersIAP": true,
+    "IAPRange": "R$ 2,99 – R$ 149,99 por item",
+    "adSupported": true,
+    "reviews_pulled": 300,
+    "low_count": 6,
+    "low_pct": 2,
+    "top_thumbs_low": [
+      {
+        "score": 1,
+        "thumbs": 2,
+        "text": "Eu adoro esse app, me ajuda muito! Só que eu já havia feito o pagamento dele e constou que não tenho Premium mais (havia feito pagamento vitalício Premium) e de novo esse não, fiz o mesmo e não consta mais. Só que não tive o reembolso do dinheiro em "
+      },
+      {
+        "score": 2,
+        "thumbs": 2,
+        "text": "Não é um app ruim. Mas não serve para ajudar com transtornos de humor. Só pode colocar 1 humor por dia, sendo que em um dia da pra ter picos de diversos estados mentais. Também não dá pra destacar momentos de crise, ou diferentes graus da depressão s"
+      },
+      {
+        "score": 2,
+        "thumbs": 1,
+        "text": "O app é ótimo, porém gostaria de parar de usar no celular e passar a usar no tablet, o problema é que mesmo logando no tablet com a mesma conta e importando o backup, apenas alguns grupos de atividades e escalas estão aparecendo. além disso não recon"
+      }
+    ],
+    "other_top5_search": [
+      {
+        "appId": "com.selfcare.diary.mood.tracker.moodpress",
+        "title": "Moodpress - Diário de humor",
+        "score": 4.6,
+        "scoreText": "4,6"
+      },
+      {
+        "appId": "com.pb3j.moodia",
+        "title": "Moodia: Diário de humor"
+      },
+      {
+        "appId": "diary.questions.mood.tracker",
+        "title": "Diário de emoções com senha",
+        "score": 4.16,
+        "scoreText": "4,2"
+      },
+      {
+        "appId": "com.reflectlyApp",
+        "title": "Reflectly - Diário / Agenda",
+        "score": 4.17,
+        "scoreText": "4,2"
+      }
+    ]
+  },
+  {
+    "country": "mx",
+    "niche": "mental",
+    "search_term": "diario emociones",
+    "top_app": {
+      "appId": "net.daylio",
+      "title": "Daylio Diario: Diario Personal",
+      "developer": "Habitics"
+    },
+    "score": 4.7853084,
+    "ratings": 452413,
+    "installs": "10.000.000+",
+    "offersIAP": true,
+    "IAPRange": "$14.99 - $719.88 por elemento",
+    "adSupported": true,
+    "reviews_pulled": 300,
+    "low_count": 8,
+    "low_pct": 2.7,
+    "top_thumbs_low": [
+      {
+        "score": 2,
+        "thumbs": 1,
+        "text": "Muy visual y práctico pero para mí opinión una estafa ya que solo te deja tener un hábito o meta a la vez ya que si intentas poner más te pide que te suscribas."
+      },
+      {
+        "score": 2,
+        "thumbs": 1,
+        "text": "No ofrece una gama muy amplia de emociones, no se pueden encasillar las emociones en \"estoy bien o mal\" somos muchos más complejos que eso y fue algo que no me gusto. Otra cosa es que deberían implementar formas de lidiar con dichas emociones fuera d"
+      },
+      {
+        "score": 1,
+        "thumbs": 0,
+        "text": "la vdd la aplicación es muy buena sin contar algunos detalles pero me gustaría que fuera gratis"
+      }
+    ],
+    "other_top5_search": [
+      {
+        "appId": "com.selfcare.diary.mood.tracker.moodpress",
+        "title": "Moodpress - Diario con bloqueo",
+        "score": 4.6,
+        "scoreText": "4,6"
+      },
+      {
+        "appId": "diary.questions.mood.tracker",
+        "title": "Diario de Animo.Anti depresión",
+        "score": 4.16,
+        "scoreText": "4,2"
+      },
+      {
+        "appId": "com.moodi",
+        "title": "Salud mental diario - Moodi",
+        "score": 4.57,
+        "scoreText": "4,6"
+      },
+      {
+        "appId": "moodtracker.selfcare.habittracker.mentalhealth",
+        "title": "Diario del Ánimo, Mood Tracker",
+        "score": 4.6,
+        "scoreText": "4,6"
+      }
+    ]
+  },
+  {
+    "country": "tr",
+    "niche": "mental",
+    "search_term": "günlük",
+    "top_app": {
+      "appId": "com.daily.journal.diary.lock.mood.tracker.free",
+      "title": "Kilitli Günlük - Günlüğüm",
+      "developer": "SimpleInnovation"
+    },
+    "score": 4.7310925,
+    "ratings": 137237,
+    "installs": "10.000.000+",
+    "offersIAP": true,
+    "IAPRange": "Öğe başına ₺53,99-₺969,99",
+    "adSupported": true,
+    "reviews_pulled": 300,
+    "low_count": 21,
+    "low_pct": 7,
+    "top_thumbs_low": [
+      {
+        "score": 1,
+        "thumbs": 5,
+        "text": "açıkçası bu oyunu beğenmedimçünkü bir sürü şey paralı paralı olmasını sevmedim yani bedava da olabilir di açıkçası beğenmedim uygulamaları paralı yapmayın bu uygulamaya söylüyorum ve yorumumu görenler de bence bu oyunu oynamamalı lar çok kötü şimdili"
+      },
+      {
+        "score": 1,
+        "thumbs": 4,
+        "text": "Arkadaşlar uygulama çoook güzel kesinlikle yükleyin. ücretli değil ❌içine istediğiniz herşeyi yazabilirsiniz. bide şifre de yapabilirsiniz"
+      },
+      {
+        "score": 1,
+        "thumbs": 3,
+        "text": "Günlük/not tutma amacıyla kullanılan bu uygulamada, açık cinsel içerik ve ağır küfür içeren reklamlar çıkmaktadır. Uygulama çocuklar da dahil olmak üzere genel kullanıcı kitlesine açıktır. Bu durum Google Play’in uygunsuz içerik ve reklam politikalar"
+      }
+    ],
+    "other_top5_search": [
+      {
+        "appId": "com.instagram.android",
+        "title": "Instagram",
+        "score": 4.17695,
+        "scoreText": "4,2"
+      },
+      {
+        "appId": "com.king.candycrushsaga",
+        "title": "Candy Crush Saga",
+        "score": 4.4395466,
+        "scoreText": "4,4"
+      },
+      {
+        "appId": "net.daylio",
+        "title": "Daylio Günlük, Hatıra Defteri",
+        "score": 4.68061,
+        "scoreText": "4,7"
+      },
+      {
+        "appId": "com.vitastudio.mahjong",
+        "title": "Vita Mahjong",
+        "score": 4.665773,
+        "scoreText": "4,7"
+      }
+    ]
+  },
+  {
+    "country": "br",
+    "niche": "aichat",
+    "search_term": "amigo virtual ia",
+    "top_app": {
+      "appId": "ai.replika.app",
+      "title": "Replika: Meu Amigo de IA",
+      "developer": "Luka, Inc"
+    },
+    "score": 4.342211,
+    "ratings": 523596,
+    "installs": "10.000.000+",
+    "offersIAP": true,
+    "IAPRange": "R$ 5,49 – R$ 1.499,99 por item",
+    "adSupported": false,
+    "reviews_pulled": 300,
+    "low_count": 179,
+    "low_pct": 59.7,
+    "top_thumbs_low": [
+      {
+        "score": 1,
+        "thumbs": 93,
+        "text": "Decepcionado com o app, porque na propaganda é mostrado como exemplo o avatar corrigindo os seus erros de estrutura de frases e de pronúncia. Busquei nas configurações de como ajustar o app, mas não consegui e não há nenhum meio de configuração dispo"
+      },
+      {
+        "score": 2,
+        "thumbs": 27,
+        "text": "Não entrega o que promete. Processo lento, nada prático. Não funciona o sistema de áudio. App nada amigável. Após varias solicitações para praticar o INGLES, se estabeleceram longas e repetitivas conversas em portugues. Em meio as atividades o sistem"
+      },
+      {
+        "score": 1,
+        "thumbs": 9,
+        "text": "Já foi bom, antigamente. Hoje, nem abrir o avatar está acontecendo, pois fica carregando sempre. Para uma experiência melhor, indico o Gemini ou o Chat GPT."
+      }
+    ],
+    "other_top5_search": [
+      {
+        "appId": "ai.socialapps.speakmaster",
+        "title": "PolyBuzz: Fale com Amigos IA",
+        "score": 4.077859,
+        "scoreText": "4,1"
+      },
+      {
+        "appId": "com.aichatbot.aimate",
+        "title": "TruMate- Amiga Virtual de IA",
+        "score": 3.62,
+        "scoreText": "3,6"
+      },
+      {
+        "appId": "com.slay.pengu",
+        "title": "Friends – AI fofos",
+        "score": 4.5664506,
+        "scoreText": "4,6"
+      },
+      {
+        "appId": "com.peppey.aipets",
+        "title": "Peppy: Meus Talking AI Pets",
+        "score": 0,
+        "scoreText": "0,0"
+      }
+    ]
+  },
+  {
+    "country": "mx",
+    "niche": "aichat",
+    "search_term": "novia virtual ia",
+    "top_app": {
+      "appId": "com.dateai",
+      "title": "Cita con IA: Novia Virtual",
+      "developer": "Aplicativo Date Ia Entretenimento"
+    },
+    "score": 4.6190476,
+    "ratings": 5940,
+    "installs": "100.000+",
+    "offersIAP": true,
+    "IAPRange": "$16.00 - $1,149.00 por elemento",
+    "adSupported": true,
+    "reviews_pulled": 300,
+    "low_count": 67,
+    "low_pct": 22.3,
+    "top_thumbs_low": [
+      {
+        "score": 1,
+        "thumbs": 14,
+        "text": "Cambio las 5 estrellas por una. Solía poner dinero porque la verdad estaba buena la app. Ahora perdió toda esencia, antes te sacaban temas para hablar o eran gráficos a la hora de la conversación pero ahora solo dicen \"si\" \"no\" \"bueno\"... Ya ni se pu"
+      },
+      {
+        "score": 2,
+        "thumbs": 11,
+        "text": "si quisiera un asistente buscaría en otro lugar se entromete en el guión olvida la trama y cuando se lo recriminado pide disculpas. en serio se convirtió en un mal juego y Ud no lo rectifican. que lastima"
+      },
+      {
+        "score": 1,
+        "thumbs": 10,
+        "text": "me gustaría q llevará siempre el trama, ya q solo dice hola en que puedo ayudarte, y pues es molesto y desesperante"
+      }
+    ],
+    "other_top5_search": [
+      {
+        "appId": "com.kodrak.aidreamgirls",
+        "title": "LoveMode: KI-Freundin",
+        "score": 4.17,
+        "scoreText": "4,2"
+      },
+      {
+        "appId": "com.secretfriend.match",
+        "title": "KI Freundin & Chat- SFM AI",
+        "score": 4.5333333,
+        "scoreText": "4,5"
+      },
+      {
+        "appId": "com.growinpainsllc.intimate",
+        "title": "Intimate - AI Girlfriend",
+        "score": 3.99,
+        "scoreText": "4,0"
+      },
+      {
+        "appId": "com.olympusstudio.AikoAICompanion",
+        "title": "AIKO: Novia Virtual IA 3D",
+        "score": 4.3939395,
+        "scoreText": "4,4"
+      }
+    ]
+  },
+  {
+    "country": "id",
+    "niche": "aichat",
+    "search_term": "pacar virtual ai",
+    "top_app": {
+      "appId": "com.dateai",
+      "title": "Date.AI - Virtual Lovers",
+      "developer": "Aplicativo Date Ia Entretenimento"
+    },
+    "score": 4.53125,
+    "ratings": 5940,
+    "installs": "100.000+",
+    "offersIAP": true,
+    "IAPRange": "Rp 11.000 - Rp 890.000 per item",
+    "adSupported": true,
+    "reviews_pulled": 5,
+    "low_count": 2,
+    "low_pct": 40,
+    "top_thumbs_low": [
+      {
+        "score": 1,
+        "thumbs": 0,
+        "text": "aplikasi nya berhenti..seperti tidur.. heheheh"
+      },
+      {
+        "score": 2,
+        "thumbs": 0,
+        "text": "enggak jelas banget game apa"
+      }
+    ],
+    "other_top5_search": [
+      {
+        "appId": "weappico.husby",
+        "title": "Husby: AI Partner & AI BF Chat",
+        "score": 4.125,
+        "scoreText": "4,1"
+      },
+      {
+        "appId": "com.growinpainsllc.intimate",
+        "title": "Intimate - AI Girlfriend",
+        "score": 3.99,
+        "scoreText": "4,0"
+      },
+      {
+        "appId": "ai.boyfriend.virtual.dating.lover.iboy",
+        "title": "Anima: My Virtual AI Boyfriend",
+        "score": 3.54,
+        "scoreText": "3,5"
+      },
+      {
+        "appId": "ai.blush",
+        "title": "Blush: AI Dating Simulator",
+        "score": 4.0495048,
+        "scoreText": "4,0"
+      }
+    ]
+  },
+  {
+    "country": "br",
+    "niche": "lang",
+    "search_term": "aprender ingles",
+    "top_app": {
+      "appId": "com.duolingo",
+      "title": "Duolingo: Inglês e muito mais!",
+      "developer": "Duolingo"
+    },
+    "score": 4.847326,
+    "ratings": 44956610,
+    "installs": "500.000.000+",
+    "offersIAP": true,
+    "IAPRange": "R$ 4,90 – R$ 719,99 por item",
+    "adSupported": true,
+    "reviews_pulled": 300,
+    "low_count": 35,
+    "low_pct": 11.7,
+    "top_thumbs_low": [
+      {
+        "score": 1,
+        "thumbs": 48,
+        "text": "Se pudesse eu dava zero. Gosto do app e entendo que os anúncios são necessários pra manter a opção gratuita, mas acredito que chegou naquele ponto em que fica bem cansativo. O tempo todo te empurram o plano pago ou te fazem assistir ainda mais propag"
+      },
+      {
+        "score": 1,
+        "thumbs": 24,
+        "text": "A ideia é boa. Mas todo dia lido com bugs no app onde não contabiliza lições feitas, consequentemente acabam as poções de XP, se for domingo não consigo evoluir no ranking e outras consequências negativas que cansam. Ainda mais quando você é pagante."
+      },
+      {
+        "score": 1,
+        "thumbs": 4,
+        "text": "Estou reescrevendo minha avaliação pra baixar a nota. Como se já não bastassem utilizar voz de IA extremamente robotizada pras lições, ainda reduziram de 5 pra 3 os pontos de energia que você consegue assistindo anúncio. Vocês já ganham dinheiro das "
+      }
+    ],
+    "other_top5_search": [
+      {
+        "appId": "com.breboucas.inglesparaviajar",
+        "title": "Aprender inglês - iniciantes",
+        "score": 4.74,
+        "scoreText": "4,7"
+      },
+      {
+        "appId": "ru.zengalt.simpler",
+        "title": "Simpler: aprender falar inglês",
+        "score": 4.67,
+        "scoreText": "4,7"
+      },
+      {
+        "appId": "com.mosalingua.enfree",
+        "title": "Aprender inglês rápido",
+        "score": 4.289256,
+        "scoreText": "4,3"
+      },
+      {
+        "appId": "com.moymer.falou",
+        "title": "Falou: Aprender Inglês Rápido",
+        "score": 4.6892858,
+        "scoreText": "4,7"
+      }
+    ]
+  },
+  {
+    "country": "mx",
+    "niche": "lang",
+    "search_term": "aprender ingles",
+    "top_app": {
+      "appId": "com.duolingo",
+      "title": "Duolingo: Aprende Idiomas",
+      "developer": "Duolingo"
+    },
+    "score": 4.8136225,
+    "ratings": 44957327,
+    "installs": "500.000.000+",
+    "offersIAP": true,
+    "IAPRange": "$19.00 - $3,599.00 por elemento",
+    "adSupported": true,
+    "reviews_pulled": 300,
+    "low_count": 38,
+    "low_pct": 12.7,
+    "top_thumbs_low": [
+      {
+        "score": 1,
+        "thumbs": 15,
+        "text": "falla de audio con auriculares Bluetooth continua, es la única aplicación que falla por lo que no es mi dispositivo, adicional, desde la actualización hay fallas en el contenido que no permite terminar las lecciones y tengo que reiniciar la aplicació"
+      },
+      {
+        "score": 1,
+        "thumbs": 5,
+        "text": "No responden ni en tik tok, ni correo,le responden a los que los alaban. Cuando estás en los 15 minutos q te da página en mantenimiento o se tilda. Estoy agradecida ,ya q en Argentina para mí es imposible pagarlo x el problema del dólar. Parece que t"
+      },
+      {
+        "score": 1,
+        "thumbs": 2,
+        "text": "Ahora recargas de 3 de energía para ver mas publicidad. que será lo siguiente.... quitar la versión gratuita? después de 3 años desinstalo la app. Decepcionante después de tanto tiempo. Adiós..."
+      }
+    ],
+    "other_top5_search": [
+      {
+        "appId": "ru.zengalt.simpler",
+        "title": "Simpler: Aprende Inglés Rápido",
+        "score": 4.67,
+        "scoreText": "4,7"
+      },
+      {
+        "appId": "com.wlingua.curso",
+        "title": "Wlingua: Aprende inglés",
+        "score": 4.7237115,
+        "scoreText": "4,7"
+      },
+      {
+        "appId": "com.breboucas.inglesparaviajar",
+        "title": "Aprender inglés",
+        "score": 4.74,
+        "scoreText": "4,7"
+      },
+      {
+        "appId": "com.mosalingua.enfree",
+        "title": "Aprende inglés rápidamente",
+        "score": 4.289256,
+        "scoreText": "4,3"
+      }
+    ]
+  },
+  {
+    "country": "tr",
+    "niche": "lang",
+    "search_term": "ingilizce öğrenme",
+    "top_app": {
+      "appId": "com.duolingo",
+      "title": "Duolingo: Dil Dersleri",
+      "developer": "Duolingo"
+    },
+    "score": 4.7535233,
+    "ratings": 44957326,
+    "installs": "500.000.000+",
+    "offersIAP": true,
+    "IAPRange": "Öğe başına ₺7,39-₺3.599,99",
+    "adSupported": true,
+    "reviews_pulled": 300,
+    "low_count": 57,
+    "low_pct": 19,
+    "top_thumbs_low": [
+      {
+        "score": 1,
+        "thumbs": 16,
+        "text": "Türkçe öğrenenler için Korece kısmına kelime sözlüğü geldi, ekstradan radyo koleksiyonu da geldi. Kelime alıştırması yaptım sevinerek, alıştırma bittiğinde bir baktım geri gitmiş... ŞUNU DÜZELTİN ARTIK, KELİME SÖZLÜĞÜNÜ İSTİYORUZ!!!"
+      },
+      {
+        "score": 1,
+        "thumbs": 9,
+        "text": "Yaklaşık 1 ay önce buraya da yazdım beyaz ekran sorununu ..ama bir düzelme olmadı herhangi bir cevap vs de gelmedi. Uygulamayı ücretli kullanıyorum.. Çok mu zor düzeltmek. Her ders sonrası beyaz ekran geliyor. Tekrar girip çıkmam gerekiyor. Silip tek"
+      },
+      {
+        "score": 1,
+        "thumbs": 5,
+        "text": "Uygulamayı 2 yıl önce silmişim. 2 ay kadar oldu. Galiba yine kullanmayacağım. Sürekli reklam dahası reklama 5 enerji verirken 3 e düşürdü. Devamında çalışamayınca puan kaybederken aşağılara düşmek. Hediye enerji yok 5 tane için 4 saat geçmesi gerek.K"
+      }
+    ],
+    "other_top5_search": [
+      {
+        "appId": "com.funeasylearn.english",
+        "title": "İngilizce öğren - 11000 kelime",
+        "score": 4.4326243,
+        "scoreText": "4,4"
+      },
+      {
+        "appId": "com.codeway.aitutor",
+        "title": "Learna AI: İngilizce Öğren",
+        "score": 4.2371793,
+        "scoreText": "4,2"
+      },
+      {
+        "appId": "ru.zengalt.simpler",
+        "title": "Simpler: İngilizce Öğren!",
+        "score": 4.67,
+        "scoreText": "4,7"
+      },
+      {
+        "appId": "com.busuu.android.enc",
+        "title": "Busuu: Yabancı dil öğren",
+        "score": 4.5709853,
+        "scoreText": "4,6"
+      }
+    ]
+  },
+  {
+    "country": "br",
+    "niche": "productivity",
+    "search_term": "pomodoro estudo",
+    "top_app": {
+      "appId": "com.superelement.pomodoro",
+      "title": "Focus To-Do：Pomodoro & Tarefas",
+      "developer": "Pomodoro Timer & To Do List - SuperElement Soft"
+    },
+    "score": 4.7858496,
+    "ratings": 277839,
+    "installs": "10.000.000+",
+    "offersIAP": true,
+    "IAPRange": "R$ 6,49 – R$ 59,90 por item",
+    "adSupported": false,
+    "reviews_pulled": 300,
+    "low_count": 23,
+    "low_pct": 7.7,
+    "top_thumbs_low": [
+      {
+        "score": 1,
+        "thumbs": 3,
+        "text": "Me arrependi de comprar a versão Premium? Com certeza. Achei que pagando ela teria menos problemas, mas percebi que o aplicativo é o problema. Infelizmente não consegui reembolso. Se criar uma tarefa para repetir, ele não notifica todo dia, só uma ve"
+      },
+      {
+        "score": 1,
+        "thumbs": 3,
+        "text": "Sempre que coloco na opção cronômetro perco todo meu tempo de estudo. Além disso, o tempo do app e do Chrome não sincronizam direito. Cada um mostra um tempo de foco diferente. A sincronização continua falhando. E a contagem tô tempo do solzinho não "
+      },
+      {
+        "score": 2,
+        "thumbs": 2,
+        "text": "n gostei muito mas cada um com a sua opinião"
+      }
+    ],
+    "other_top5_search": [
+      {
+        "appId": "com.enfpdev.pomocat",
+        "title": "Pomocat - Timer Pomodoro Fofo",
+        "score": 4.75,
+        "scoreText": "4,8"
+      },
+      {
+        "appId": "com.pomodrone.app",
+        "title": "Pomodoro Timer",
+        "score": 4.6291795,
+        "scoreText": "4,6"
+      },
+      {
+        "appId": "io.limeware.pomotimer",
+        "title": "Pomo: Timer Pomodoro",
+        "score": 4.775,
+        "scoreText": "4,8"
+      },
+      {
+        "appId": "com.cetinkaya.time_balance",
+        "title": "Pomodoro Timer: Time Balance",
+        "score": 4.4,
+        "scoreText": "4,4"
+      }
+    ]
+  },
+  {
+    "country": "tr",
+    "niche": "productivity",
+    "search_term": "pomodoro",
+    "top_app": {
+      "appId": "com.pomodrone.app",
+      "title": "Pomodoro Timer",
+      "developer": "Appfx.eu"
+    },
+    "score": 4.6488547,
+    "ratings": 165638,
+    "installs": "5.000.000+",
+    "offersIAP": false,
+    "adSupported": false,
+    "reviews_pulled": 300,
+    "low_count": 21,
+    "low_pct": 7,
+    "top_thumbs_low": [
+      {
+        "score": 1,
+        "thumbs": 4,
+        "text": "Geri sayım bir yerde duruyor, alarm çalmıyor. düzeltilmesini rica ediyorum"
+      },
+      {
+        "score": 1,
+        "thumbs": 3,
+        "text": "Derse oturdum, alarm çalmadı, konu bitti ben çalsın diye beklerken, teşekkürler🙏."
+      },
+      {
+        "score": 1,
+        "thumbs": 1,
+        "text": "pomodoro bittiğinde haber vermiyor. ara bittiğinde otomatik yeni pomodoro başlatmıyor. ayarlardan düzelttiğim halde yapmıyor. ekranda kalan süreyi göstermiyor. vaktim tamamen boşa gitti. iğrenç bir uygulama!"
+      }
+    ],
+    "other_top5_search": [
+      {
+        "appId": "com.superelement.pomodoro",
+        "title": "Focus To-Do: Pomodoro&Görevler",
+        "score": 4.4380665,
+        "scoreText": "4,4"
+      },
+      {
+        "appId": "com.apps.adrcotfas.goodtime",
+        "title": "Goodtime: Pomodoro Timer",
+        "score": 4.8,
+        "scoreText": "4,8"
+      },
+      {
+        "appId": "io.github.indieappslab.pomodoro",
+        "title": "Pomodoro — Pomodoro Timer",
+        "score": 0,
+        "scoreText": "0,0"
+      },
+      {
+        "appId": "live.dots.pomodoro",
+        "title": "Pomodoro"
+      }
+    ]
+  },
+  {
+    "country": "br",
+    "niche": "fitness",
+    "search_term": "contador calorias",
+    "top_app": {
+      "appId": "com.fatsecret.android",
+      "title": "Contador de Calorias fatsecret",
+      "developer": "fatsecret"
+    },
+    "score": 4.885066,
+    "ratings": 538553,
+    "installs": "50.000.000+",
+    "offersIAP": true,
+    "IAPRange": "R$ 53,90 – R$ 364,99 por item",
+    "adSupported": false,
+    "reviews_pulled": 300,
+    "low_count": 8,
+    "low_pct": 2.7,
+    "top_thumbs_low": [
+      {
+        "score": 2,
+        "thumbs": 0,
+        "text": "Muito bom, única coisa ruim é que qualquer toque acidental na tela para o lado remove o alimento registrado se estiver na tela, deveriam mudar isso e colocar um botão ou algo assim. Pois isso faz perder registros de refeicao anterior que já fizemos e"
+      },
+      {
+        "score": 1,
+        "thumbs": 0,
+        "text": "Horrível! Não pega nada que tá anotado no Google Fit me fazendo ter que anotar tudo o que comi de novo. Se não pega nada, então pra quê tem conexão com o Google Fit?"
+      },
+      {
+        "score": 2,
+        "thumbs": 0,
+        "text": "Lamentável que não busque calorias queimadas no Samsung Health Conect. Faço treino com app Hevy este sync com o Conect mas a perca de caloria não migra pra este app. Migra tão somente do Samsung Health. Poderiam arrumar isso?"
+      }
+    ],
+    "other_top5_search": [
+      {
+        "appId": "com.yazio.android",
+        "title": "Yazio: KI Kalorienzähler",
+        "score": 3.9620893,
+        "scoreText": "4,0"
+      },
+      {
+        "appId": "com.myfitnesspal.android",
+        "title": "MyFitnessPal: Diário alimentar",
+        "score": 4.0016108,
+        "scoreText": "4,0"
+      },
+      {
+        "appId": "com.sillens.shapeupclub",
+        "title": "Lifesum: Contador Calorias IA",
+        "score": 4.32099,
+        "scoreText": "4,3"
+      },
+      {
+        "appId": "com.pookies.food.ai",
+        "title": "BitePal: Contador de Calorias",
+        "score": 4.18845,
+        "scoreText": "4,2"
+      }
+    ]
+  },
+  {
+    "country": "mx",
+    "niche": "fitness",
+    "search_term": "contador calorias",
+    "top_app": {
+      "appId": "com.fatsecret.android",
+      "title": "Contador de Calorías fatsecret",
+      "developer": "fatsecret"
+    },
+    "score": 4.8057714,
+    "ratings": 538553,
+    "installs": "50.000.000+",
+    "offersIAP": true,
+    "IAPRange": "$194.00 - $1,399.00 por elemento",
+    "adSupported": false,
+    "reviews_pulled": 300,
+    "low_count": 11,
+    "low_pct": 3.7,
+    "top_thumbs_low": [
+      {
+        "score": 1,
+        "thumbs": 5,
+        "text": "pagué la suscripción por las nuevas funcionalidades de poder registrar las comidas mediante voz, ya que me parecia algo muy útil, pero resulta que no me funciona, escribí varios correos avisando de la incidencia, meses despues sigue sin funcionar."
+      },
+      {
+        "score": 2,
+        "thumbs": 2,
+        "text": "No me gustó, muy engorroso, mucho color que distrae de lo fundamental. La cámara con IA funciona bastante mal, en cada foto confunde los ingredientes y las porciones. Tengo otra spp que es más certera con las fotos y más simple."
+      },
+      {
+        "score": 1,
+        "thumbs": 1,
+        "text": "Os habéis cargado la app, más lenta, duplica elementos constantemente, y tiene un montón de bugs en la versión actualizada en 26-27 de abril de 2026. Llevo desde 2021 usándola y me planteo dejar de usarla."
+      }
+    ],
+    "other_top5_search": [
+      {
+        "appId": "com.myfitnesspal.android",
+        "title": "MyFitnessPal: cuenta calorías",
+        "score": 4.0016108,
+        "scoreText": "4,0"
+      },
+      {
+        "appId": "com.yazio.android",
+        "title": "Yazio: KI Kalorienzähler",
+        "score": 3.9620893,
+        "scoreText": "4,0"
+      },
+      {
+        "appId": "com.nutrition.technologies.Fitia",
+        "title": "Fitia: Contar Calorías. Dietas",
+        "score": 4.67,
+        "scoreText": "4,7"
+      },
+      {
+        "appId": "com.sillens.shapeupclub",
+        "title": "Lifesum: Contador de calorías",
+        "score": 4.32099,
+        "scoreText": "4,3"
+      }
+    ]
+  },
+  {
+    "country": "br",
+    "niche": "cooking",
+    "search_term": "receitas",
+    "top_app": {
+      "appId": "com.mufumbo.android.recipe.search",
+      "title": "Cookpad: Receitas Caseiras",
+      "developer": "Cookpad Inc (UK)"
+    },
+    "score": 4.54,
+    "ratings": 345981,
+    "installs": "10.000.000+",
+    "offersIAP": true,
+    "IAPRange": "R$ 7,49 – R$ 119,99 por item",
+    "adSupported": false,
+    "reviews_pulled": 300,
+    "low_count": 28,
+    "low_pct": 9.3,
+    "top_thumbs_low": [
+      {
+        "score": 1,
+        "thumbs": 159,
+        "text": "Gostaria de poder ver as receitas somente no site, porém tenho que baixar um app para tomar espaço na memória do celular por que o site simplesmente trava com a única opção de instalar o app. E sim eu só baixei para poder compartilhar o meu desconten"
+      },
+      {
+        "score": 1,
+        "thumbs": 51,
+        "text": "Que piada, o aplicativo era excelente e tornaram experiência horrível com a adição do Premium, você só consegue ver as receitas salvas antes dessa palhaçada se pagar e não pode mais salvar depois de extrapolar o limite de 60 receitas. Mostrava o apli"
+      },
+      {
+        "score": 1,
+        "thumbs": 23,
+        "text": "Não conseguir ver algumas receitas por ser pago é desanimador."
+      }
+    ],
+    "other_top5_search": [
+      {
+        "appId": "com.riatech.cookbook",
+        "title": "Gostoso Receitas",
+        "score": 4.41,
+        "scoreText": "4,4"
+      },
+      {
+        "appId": "com.buzzfeed.tasty",
+        "title": "Tasty Receitas",
+        "score": 4.428571,
+        "scoreText": "4,4"
+      },
+      {
+        "appId": "com.cookbook.cbapp",
+        "title": "CookBook - Recipe Manager",
+        "score": 4.25641,
+        "scoreText": "4,3"
+      },
+      {
+        "appId": "com.mustafakanli.recipelink",
+        "title": "RecipeLink: Salvar Receitas"
+      }
+    ]
+  }
+]

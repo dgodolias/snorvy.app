@@ -1,0 +1,571 @@
+[
+  {
+    "country": "br",
+    "niche": "calendar",
+    "search_term": "agenda eventos lembrete",
+    "top_app": {
+      "appId": "sk.mildev84.reminder",
+      "title": "Calendario lembrete de evento",
+      "developer": "Milan Sillik"
+    },
+    "score": 4.26,
+    "ratings": 2924,
+    "installs": "500.000+",
+    "offersIAP": false,
+    "reviews_pulled": 127,
+    "low_count": 29,
+    "low_pct": 22.8,
+    "top_thumbs_low": [
+      {
+        "score": 1,
+        "thumbs": 12,
+        "text": "Não esta funcionando desd a ultima atualização"
+      },
+      {
+        "score": 1,
+        "thumbs": 8,
+        "text": "não toca o som selecionado, mesmo desligando a otimização de bateria. outra decepção."
+      }
+    ]
+  },
+  {
+    "country": "tr",
+    "niche": "calendar",
+    "search_term": "takvim hatırlatıcı",
+    "top_app": {
+      "appId": "com.google.android.calendar",
+      "title": "Google Takvim",
+      "developer": "Google LLC"
+    },
+    "score": 4.516956,
+    "ratings": 4513396,
+    "installs": "5.000.000.000+",
+    "offersIAP": false,
+    "reviews_pulled": 200,
+    "low_count": 61,
+    "low_pct": 30.5,
+    "top_thumbs_low": [
+      {
+        "score": 1,
+        "thumbs": 25,
+        "text": "Dünyanın en kötü tasarımı Google uygulamalarına ait. Takvimde de bunu görüyoruz. Türkçe takvimdeki bazı özel günler ve müslümanlara ait özel günler ingilizce görünüyor. Düzeltilmes"
+      },
+      {
+        "score": 1,
+        "thumbs": 22,
+        "text": "GOOGLE TAKVİM KENDİNİ YENİLE VE GÜNCELLE takvim ikon üstünde 31 rakamı çok saçma onun yerine o günün tarihi olması gerekir vede yıl takvimi içinde bütün ayları görebilecek şeklinde"
+      }
+    ]
+  },
+  {
+    "country": "br",
+    "niche": "alarm",
+    "search_term": "despertador inteligente",
+    "top_app": {
+      "appId": "droom.sleepIfUCan",
+      "title": "Alarmy: Alarme Forte e Relogio",
+      "developer": "Sleep Tracker & Alarm Clock by Delightroom"
+    },
+    "score": 4.707987,
+    "ratings": 2046942,
+    "installs": "10.000.000+",
+    "offersIAP": true,
+    "IAPRange": "R$ 9,30 – R$ 859,99 por item",
+    "reviews_pulled": 200,
+    "low_count": 32,
+    "low_pct": 16,
+    "top_thumbs_low": [
+      {
+        "score": 2,
+        "thumbs": 2,
+        "text": "o alarmy é bom ele faz seu trabalho \"bem feito\" só q quando ele vai me acordar ele buga com a tela de bloqueio e eu não consigo iniciar a missão então eu não consigo desligar o ala"
+      },
+      {
+        "score": 1,
+        "thumbs": 2,
+        "text": "Ele é bom, mas ele tem um problema terrível, tem dia que ele não toca, tem dia que ele não funciona, mesmo com tudo certo, eu perdi eventos importantes por causa dele, e hoje foi a"
+      }
+    ]
+  },
+  {
+    "country": "tr",
+    "niche": "alarm",
+    "search_term": "alarm uygulaması",
+    "top_app": {
+      "appId": "droom.sleepIfUCan",
+      "title": "Alarmy – Kesin Uyandıran Alarm",
+      "developer": "Sleep Tracker & Alarm Clock by Delightroom"
+    },
+    "score": 4.670135,
+    "ratings": 2046941,
+    "installs": "10.000.000+",
+    "offersIAP": true,
+    "IAPRange": "Öğe başına ₺28,99-₺2.639,99",
+    "reviews_pulled": 200,
+    "low_count": 32,
+    "low_pct": 16,
+    "top_thumbs_low": [
+      {
+        "score": 1,
+        "thumbs": 7,
+        "text": "telefonumu çok fazla ısıttığı için şarj soketim bozuldu gerçekten çok fazla ısıtıyor bilginiz olsun"
+      },
+      {
+        "score": 2,
+        "thumbs": 4,
+        "text": "bugüne kadar çok severek kullanırdım uygulamayı fakat bu sabah uykuda alarmı ertelemek için ekrana her temas ettiğimde telefondaki farklı banka uygulamalarının giriş ekranının açıl"
+      }
+    ]
+  },
+  {
+    "country": "br",
+    "niche": "voicerec",
+    "search_term": "gravador de voz",
+    "top_app": {
+      "appId": "com.coffeebeanventures.easyvoicerecorder",
+      "title": "Gravador Voz Fácil",
+      "developer": "Digipom"
+    },
+    "score": 4.733884,
+    "ratings": 618199,
+    "installs": "50.000.000+",
+    "offersIAP": true,
+    "IAPRange": "R$ 7,49 – R$ 26,99 por item",
+    "reviews_pulled": 200,
+    "low_count": 5,
+    "low_pct": 2.5,
+    "top_thumbs_low": [
+      {
+        "score": 1,
+        "thumbs": 3,
+        "text": "Gravação muito ruim, com chiados."
+      },
+      {
+        "score": 1,
+        "thumbs": 0,
+        "text": "atualizaram o app. e agora você precisa da versão pro pra cortar uma parte do áudio fora. Inútil um app de gravação que nao tem o básico e fica tocando anúncios sem parar."
+      }
+    ]
+  },
+  {
+    "country": "br",
+    "niche": "password",
+    "search_term": "gerenciador senhas",
+    "top_app": {
+      "appId": "com.google.android.apps.credentialmanager",
+      "title": "Gerenciador de senha do Google",
+      "developer": "Google LLC"
+    },
+    "score": 4.4950495,
+    "ratings": 9739,
+    "installs": "1+",
+    "offersIAP": false,
+    "reviews_pulled": 145,
+    "low_count": 23,
+    "low_pct": 15.9,
+    "top_thumbs_low": [
+      {
+        "score": 1,
+        "thumbs": 17,
+        "text": "Um belo app, na verdade demorou bem para lançar. Qual a necessidade dele ser separado do Google Autenticador? Eles deveriam ser integrados, não existia a necessidade de ser um outr"
+      },
+      {
+        "score": 1,
+        "thumbs": 12,
+        "text": "Google forcando o uso do aplicativo uso outro aplicativo a mais de 15 anos e essas mudanças do Google fica evidente que estão forçando para ficarmos dependentes"
+      }
+    ]
+  },
+  {
+    "country": "tr",
+    "niche": "password",
+    "search_term": "şifre yöneticisi",
+    "top_app": {
+      "appId": "com.google.android.apps.credentialmanager",
+      "title": "Google Şifre Yöneticisi",
+      "developer": "Google LLC"
+    },
+    "score": 4.44,
+    "ratings": 9739,
+    "installs": "1+",
+    "offersIAP": false,
+    "reviews_pulled": 38,
+    "low_count": 6,
+    "low_pct": 15.8,
+    "top_thumbs_low": [
+      {
+        "score": 1,
+        "thumbs": 14,
+        "text": "hep ekran kilidi yapın diyor ben yapmak istemiyorum artık chromeden baksam 🤬"
+      },
+      {
+        "score": 1,
+        "thumbs": 12,
+        "text": "Chrome ile zaten kullanılan bir özelliği uygulama olarak sunmak yenilik değil."
+      }
+    ]
+  },
+  {
+    "country": "br",
+    "niche": "filemgr",
+    "search_term": "gerenciador arquivos",
+    "top_app": {
+      "appId": "com.alphainventor.filemanager",
+      "title": "Gerenciador de arquivos",
+      "developer": "File Manager Plus"
+    },
+    "score": 4.8253875,
+    "ratings": 1673804,
+    "installs": "100.000.000+",
+    "offersIAP": true,
+    "IAPRange": "R$ 3,39 – R$ 61,99 por item",
+    "reviews_pulled": 200,
+    "low_count": 2,
+    "low_pct": 1,
+    "top_thumbs_low": [
+      {
+        "score": 2,
+        "thumbs": 814,
+        "text": "Precisa incluir a seleção contínua de arquivos, para evitar selecionar individualmente cada arquivo. Tem pasta que não está visualizando o volume dentro das pastas, tipo vê os arqu"
+      },
+      {
+        "score": 2,
+        "thumbs": 0,
+        "text": "é bom"
+      }
+    ]
+  },
+  {
+    "country": "br",
+    "niche": "puzzle",
+    "search_term": "sudoku offline",
+    "top_app": {
+      "appId": "easy.sudoku.puzzle.solver.free",
+      "title": "Sudoku - sudoku Quebra-cabeça",
+      "developer": "Oakever Games"
+    },
+    "score": 4.8681135,
+    "ratings": 2946373,
+    "installs": "100.000.000+",
+    "offersIAP": true,
+    "IAPRange": "R$ 1,89 – R$ 78,99 por item",
+    "reviews_pulled": 200,
+    "low_count": 55,
+    "low_pct": 27.5,
+    "top_thumbs_low": [
+      {
+        "score": 2,
+        "thumbs": 5,
+        "text": "o jogo é conforme descrito abaixo pelas demais avaliações, o problema são as propagandas, que são difíceis de sair, você é levado a play story pelo menos umas 5 vezes até que você "
+      },
+      {
+        "score": 1,
+        "thumbs": 3,
+        "text": "Era 5 estrelas, mas a quantidade de propagandas ficou insuportável. Não sou contra as propagandas, mas falta bom senso."
+      }
+    ]
+  },
+  {
+    "country": "br",
+    "niche": "petcare",
+    "search_term": "cuidado pet vacina",
+    "top_app": {
+      "appId": "br.app.vacinapet.twa",
+      "title": "Vacina Pet",
+      "developer": "Maker4"
+    },
+    "score": 0,
+    "ratings": 0,
+    "installs": "500+",
+    "offersIAP": false,
+    "reviews_pulled": 1,
+    "low_count": 0,
+    "low_pct": 0,
+    "top_thumbs_low": []
+  },
+  {
+    "country": "br",
+    "niche": "calc",
+    "search_term": "calculadora juros",
+    "top_app": {
+      "appId": "com.codexception.interest_calculator",
+      "title": "Calculadora de Juros Compostos",
+      "developer": "André Leite"
+    },
+    "score": 4.887097,
+    "ratings": 6550,
+    "installs": "100.000+",
+    "offersIAP": true,
+    "IAPRange": "R$ 4,99 – R$ 49,99 por item",
+    "reviews_pulled": 200,
+    "low_count": 3,
+    "low_pct": 1.5,
+    "top_thumbs_low": [
+      {
+        "score": 1,
+        "thumbs": 0,
+        "text": "uso com frequência o aplicativo, assim que vocês retirarem a taxa anual efetiva e, dar o resultado, apenas com a % da taxa informada, ficará mais claro e exato, para quem usa esses"
+      },
+      {
+        "score": 1,
+        "thumbs": 0,
+        "text": "calcula tudo errado."
+      }
+    ]
+  },
+  {
+    "country": "br",
+    "niche": "birthday",
+    "search_term": "aniversários lembrete",
+    "top_app": {
+      "appId": "dev.cwolf.birthdaycalendar",
+      "title": "Calendário de aniversários",
+      "developer": "DevWolf"
+    },
+    "score": 4.945479,
+    "ratings": 83929,
+    "installs": "5.000.000+",
+    "offersIAP": true,
+    "IAPRange": "R$ 16,99 por item",
+    "reviews_pulled": 200,
+    "low_count": 10,
+    "low_pct": 5,
+    "top_thumbs_low": [
+      {
+        "score": 2,
+        "thumbs": 2,
+        "text": "As notificações não funcionam... De pouco adianta ter um calendário que não te avisa na data do aniversário..."
+      },
+      {
+        "score": 1,
+        "thumbs": 0,
+        "text": "o aplicativo não está abrindo"
+      }
+    ]
+  },
+  {
+    "country": "br",
+    "niche": "water",
+    "search_term": "lembrete agua beber",
+    "top_app": {
+      "appId": "watertracker.waterreminder.watertrackerapp.drinkwater",
+      "title": "Beber Água - Lembrete de água",
+      "developer": "QR & Barcode Scanner"
+    },
+    "score": 4.930821,
+    "ratings": 255874,
+    "installs": "5.000.000+",
+    "offersIAP": true,
+    "IAPRange": "R$ 14,99 por item",
+    "reviews_pulled": 200,
+    "low_count": 3,
+    "low_pct": 1.5,
+    "top_thumbs_low": [
+      {
+        "score": 1,
+        "thumbs": 0,
+        "text": "muito anuncio não dá"
+      },
+      {
+        "score": 1,
+        "thumbs": 0,
+        "text": "muito bom"
+      }
+    ]
+  },
+  {
+    "country": "br",
+    "niche": "qrcode",
+    "search_term": "leitor qr code",
+    "top_app": {
+      "appId": "com.teacapps.barcodescanner",
+      "title": "Leitor QR Code",
+      "developer": "TeaCapps"
+    },
+    "score": 4.804053,
+    "ratings": 3608596,
+    "installs": "100.000.000+",
+    "offersIAP": true,
+    "IAPRange": "R$ 9,99 por item",
+    "reviews_pulled": 200,
+    "low_count": 17,
+    "low_pct": 8.5,
+    "top_thumbs_low": [
+      {
+        "score": 1,
+        "thumbs": 1,
+        "text": "horrível quando fui entrar na minha conta da Sony pelo QR code ele não entrou no automático só me levo pro site"
+      },
+      {
+        "score": 1,
+        "thumbs": 1,
+        "text": "Como o app trava toda vez que tem atualização ele forca você a atualizar e agora após dar feedvack invés de arrumar ele deixaram como incompatível com o modelo"
+      }
+    ]
+  },
+  {
+    "country": "br",
+    "niche": "dict",
+    "search_term": "dicionario portugues",
+    "top_app": {
+      "appId": "livio.pack.lang.pt_BR",
+      "title": "Dicionário de Português",
+      "developer": "Livio"
+    },
+    "score": 4.4407344,
+    "ratings": 9322,
+    "installs": "1.000.000+",
+    "offersIAP": false,
+    "reviews_pulled": 200,
+    "low_count": 11,
+    "low_pct": 5.5,
+    "top_thumbs_low": [
+      {
+        "score": 2,
+        "thumbs": 1,
+        "text": "É bom, mas não traz tantas traduções para outras linguas como os outros. Isso é pessimo, fica um dicionário isolado."
+      },
+      {
+        "score": 1,
+        "thumbs": 0,
+        "text": "Quero que atualizem o aplicativo. 🙏"
+      }
+    ]
+  },
+  {
+    "country": "br",
+    "niche": "docscan",
+    "search_term": "documentos digitalizar",
+    "top_app": {
+      "appId": "com.camscanner.documentscanner.pdfscanner.textscanner.photos.scanner",
+      "title": "PDF e scanner de documentos",
+      "developer": "Tools & Utilities Apps"
+    },
+    "score": 4.8679686,
+    "ratings": 440473,
+    "installs": "50.000.000+",
+    "offersIAP": true,
+    "IAPRange": "R$ 10,99 – R$ 184,99 por item",
+    "reviews_pulled": 200,
+    "low_count": 37,
+    "low_pct": 18.5,
+    "top_thumbs_low": [
+      {
+        "score": 1,
+        "thumbs": 12,
+        "text": "TODA vez que vou ler um pdf tem anúncio. Se nao quiser anúncios tenho que pagar por isso. É um saco ter que desviar de anúncios no meio de trabalho, de estudos, ou até em momentos "
+      },
+      {
+        "score": 1,
+        "thumbs": 8,
+        "text": "Ficou um lixo com essa palhaçada de só baixar em qualidade média/baixa pra quem não paga. Deletando esse app que já foi ótimo. Aqui jaz."
+      }
+    ]
+  },
+  {
+    "country": "br",
+    "niche": "transit",
+    "search_term": "horario onibus sp",
+    "top_app": {
+      "appId": "com.tranzmate",
+      "title": "Moovit: Ônibus, Metrô e Trem",
+      "developer": "Moovit"
+    },
+    "score": 3.8634365,
+    "ratings": 1512737,
+    "installs": "100.000.000+",
+    "offersIAP": true,
+    "IAPRange": "R$ 2,99 – R$ 53,90 por item",
+    "reviews_pulled": 200,
+    "low_count": 64,
+    "low_pct": 32,
+    "top_thumbs_low": [
+      {
+        "score": 1,
+        "thumbs": 2,
+        "text": "Antes era bom, mas hoje é muito lento, extremamente confuso e com muitos anúncios. Recomendo o próprio Google maps, que tem uma funcionalidade bem parecida, muito mais clara e não "
+      },
+      {
+        "score": 2,
+        "thumbs": 1,
+        "text": "aplicativo lento, cheio de propagandas e ainda por cima apresentando defeito todo dia."
+      }
+    ]
+  },
+  {
+    "country": "br",
+    "niche": "readlog",
+    "search_term": "metas leitura livros",
+    "top_app": {
+      "appId": "net.tonysoft.bookmory",
+      "title": "Bookmory - meus livros e notas",
+      "developer": "Tony soft"
+    },
+    "score": 4.8625207,
+    "ratings": 76096,
+    "installs": "1.000.000+",
+    "offersIAP": true,
+    "IAPRange": "R$ 16,99 – R$ 379,99 por item",
+    "reviews_pulled": 200,
+    "low_count": 3,
+    "low_pct": 1.5,
+    "top_thumbs_low": [
+      {
+        "score": 2,
+        "thumbs": 1,
+        "text": "Não tem plano vitalício."
+      },
+      {
+        "score": 2,
+        "thumbs": 1,
+        "text": "Sem a opção de por o ISBN e ele detectar automaticamente o livro é muito cansativo adicionar livro por livro, capa por capa, informação por informação... Eu ia migrar de outro app "
+      }
+    ]
+  },
+  {
+    "country": "br",
+    "niche": "audiobook",
+    "search_term": "reproductor audiolivros",
+    "top_app": {
+      "appId": "com.audible.application",
+      "title": "Audible: Ouça Audiolivros",
+      "developer": "Audible, Inc."
+    },
+    "score": 4.6051545,
+    "ratings": 1739821,
+    "installs": "100.000.000+",
+    "offersIAP": true,
+    "IAPRange": "R$ 0,99 – R$ 1.349,99 por item",
+    "reviews_pulled": 200,
+    "low_count": 45,
+    "low_pct": 22.5,
+    "top_thumbs_low": [
+      {
+        "score": 1,
+        "thumbs": 7,
+        "text": "Lamentável! Fiz um upgrade da assinatura, de 19,90 passou para 23,90 e perdi o acesso a, praticamente, todos os títulos, só podendo acessar os livros da nova assinatura que é 1 liv"
+      },
+      {
+        "score": 1,
+        "thumbs": 5,
+        "text": "Péssima Experiência de Interface de Usuário. Este serviço claramente utiliza de estratégias de má fé com o consumidor. Não é possível cancelar a assinatura nem ver mais detalhes da"
+      }
+    ]
+  },
+  {
+    "country": "br",
+    "niche": "notes2",
+    "search_term": "bloco de notas seguro",
+    "top_app": {
+      "appId": "com.jsdev.newnotes",
+      "title": "Bloco de notas seguro, Notaker",
+      "developer": "teamJSDev"
+    },
+    "installs": "100+",
+    "offersIAP": false,
+    "reviews_pulled": 0,
+    "low_count": 0,
+    "low_pct": null,
+    "top_thumbs_low": []
+  }
+]

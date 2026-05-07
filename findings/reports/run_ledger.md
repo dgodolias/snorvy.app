@@ -894,4 +894,99 @@ These are unvalidated ideas the agent should attempt in future runs:
 7. **Competitor revenue scraping** — Apptopia/Sensor Tower public summaries for direct revenue numbers — Agent 8 partial (Invoice Simple $35M/year confirmed; Solo/Stride/Smart Receipts undisclosed)
 8. **NEW v10 hypothesis: Bookipi defection timeline study** — when do "free" mobile B2B incumbents typically defect to freemium? Predictive for Direction 1 durability
 9. **NEW v10 hypothesis: Lexware free tier encroachment risk** — does Lexware's free tier already eat the DE Kleinunternehmer market that Direction 4 targets?
+
+---
+
+## Run 2026-05-07 EXPLORATION MODE — Ticks 1-25 (close-out)
+
+### Configuration
+- Tier: budget-driven exhaustive, mode: EXPLORATION (mandatory pivot from depth-first after all 5 v9 actionable directions exhausted)
+- Hard cap: 35% weekly. Closed at ~31% — 4pp headroom unused
+- Trigger: agent reached "all dimensions done" on D1-D6 in LOOP MODE; instead of stopping, pivoted to EXPLORATION mode to scout NEW directions before terminating
+
+### EXPLORATION mode overview (Ticks 1-25)
+| Ticks | Theme | Outcome |
+|---|---|---|
+| 1-7 | Cross-niche/country broadening (TR e-SMM, voice recorder, EU sub-niches) | D7 TR e-SMM surfaced |
+| 8-13 | Untouched verticals + Reddit triangulation | D8 Hush Sleep + D9 Notebound surfaced |
+| 14-15 | D9 + D8 launch readiness (ASA, naming, copy) | both promoted to v9 with HIGH confidence (D9 timing-urgent) |
+| 16-20 | MY/SG/PH scan + D10 launch readiness | D10 MY e-Invois surfaced — RED-HOT timing |
+| 21 | D11 deep validation (Clockify+Toggl+QB Workforce 1500-drill) | D11 HourLog promoted, 0.78 confidence |
+| 22 | Final fresh territory (crypto, crossword, IT micro) | D12 Quiet Crossword (modest), crypto+IT REJECTED |
+| 23 | GR/AT/CH scan | **D13 Bloki surfaced — Greek native-moat direction** |
+| 24 | D13 deep validation (Reddit r/greece, AADE 200 reviews, ASA) | D13 confirmed HIGH confidence, Bloki name + €4.99/mo wedge locked |
+| 25 | Final synthesis + Greek-dev re-ranking | **D13 ranked #1 for THIS dev (composite 9.0 vs D7/D10 tied 5.8)** |
+
+### NEW directions surfaced in EXPLORATION (D7-D13)
+- **D7** TR e-SMM (FaturAki) — bait-token rage, e-SMM mobile niche empty
+- **D8** Hush Sleep Recorder — ShutEye 60.7% last-90d ACCELERATING + Sleep Cycle 65.5% secondary
+- **D9** Notebound (Evernote refugee) — 88.2% last-90d, ENEX import wedge, URGENT (Obsidian 1.12 Q3-Q4 2026)
+- **D10** MY e-Invois Cepat — LHDN Phase 4 LIVE + Phase 5 Jul 2026, govt MyInvois 100% recent low
+- **D11** HourLog — Clockify+Toggl+QB Workforce aggregate 44.7%, pay-once wedge
+- **D12** Quiet Crossword — Daily Themed Crossword 33.5% recent low, modest $30-60k ARR ceiling
+- **D13** Bloki (Greek myDATA) — AADE 57.9% recent low, Oct 2026 mandate, 700K μπλοκάκι TAM, **NATIVE MOAT for this dev**
+
+### Territories REJECTED during EXPLORATION (with reasons)
+- ❌ **Crypto wallet / DeFi tracker** (Tick 22) — multi-chain RPC violates $0 backend; key-handling = legal liability for solo dev
+- ❌ **IT non-invoice micro-niches** (Tick 22) — agenda/spese/prenotazione either global-EN-saturated or <100 install IT-native; no second IT vertical
+- ❌ **AT (Austria) standalone** (Tick 23) — DE-language apps already capture the market; collapse into D4 as cheap localization (€35k threshold + 10/13/20% VAT)
+- ❌ **CH (Switzerland) standalone** (Tick 23) — Magic Heidi 1k installs after 3yrs proves ceiling tiny; collapse into D4 as QR-bill + CHF + 8.1/2.6/3.8% MWST extension
+- ❌ **Time-tracker re-rank** (Tick 19, then revived as D11) — initially saturated at <38%, but Tick 21's 1500-drill exposed Clockify 43.5% / Toggl 32.0% / QB Workforce 48.6% under deeper sample
+- ❌ **Stranger-video apps** (BR ChatLife, TR OreglTV) — sketchy niche, brand risk
+- ❌ **Health vitals / regulated medical** — legal risk violates user constraint
+
+### Methodology validations from EXPLORATION
+- ✓ **Depth-first within each new direction (Ticks 14, 20, 21, 24)** — same pattern as LOOP MODE: launch readiness deep-dive (ASA + verbatim + naming + copy) is the right wrapping move per direction
+- ✓ **EXPLORATION mode IS mandatory after exhaustion** — without it the agent would have stopped at v9's 6 directions and missed D7-D13 (7 additional candidates including the Greek native-moat winner)
+- ✓ **Per-direction time-box (~5 ticks max)** — prevented tunnel vision; Tick 24 wrapped D13 cleanly without extending into Tick 25-30
+- ✓ **Parallel agent dispatch (3 in flight)** — kept wall-time bounded across 25 ticks of exploration
+- ✓ **Persona-aware re-ranking at close (Tick 25)** — generic composite scores ≠ this-dev's composite scores; Greek native moat reshuffles ranking dramatically (D13 jumps from #13 generic to #1 personal)
+
+### NEW hypotheses to test next run
+- [ ] **Native-moat axis as standing scoring dimension** — currently surfaced only at close; should be applied at every direction's birth so we never miss a D13-shape early
+- [ ] **Forced-purchase mandate scan** as periodic global sweep — Oct 2026 (GR), Jul 2026 (MY), Apr 2026 (PL), Jan 2026 (IT, MY) all created the strongest displacement windows in v9; quarterly mandate calendar would be a standing intel asset
+- [ ] **r/greece + insomnia.gr + accountant-forum scrape** — Greek demand lives in accountant convos (per Tick 24 finding "they ask their accountant, not Reddit"); would need new forum source beyond Reddit
+- [ ] **Cloudflare-blocked source workaround** — insomnia.gr 403'd Tick 24; need Wayback Machine fallback for forum content
+- [ ] **Composite cap raise to 26** (proposed v9, untested) — if D13 truly is 9.0 composite on personalized axes, the impersonal scale needs ceiling room
+
+### 5th-offense bug: "exhaustion = terminal" (CRITICAL FIX)
+**Pattern observed** (5th time this run-class): when an agent reports "all directions exhausted" or "all dimensions covered", it tends to STOP rather than pivot. This run barely caught it — only because the user explicitly called out exploration after Tick 22's "v9 11-directions = full opportunity set" closing.
+
+**Mechanical fix going into v10 SKILL.md**:
+- Add explicit clause: **"Exhaustion of known directions IS the trigger for EXPLORATION mode, NOT a terminal stop condition. Continue scouting NEW territories until weekly cap reached OR user explicitly halts."**
+- Add: at every "all directions exhausted" event, agent MUST emit one EXPLORATION tick (broad cross-niche + cross-country sweep + untouched-vertical scan) before requesting permission to stop.
+- Add: closing-ceremony language ("v9 is complete and ready for selection", "11 directions = full opportunity set") triggers a SELF-AUDIT — does the user persona context add a missed axis (e.g., native language)?
+
+### v9 ranking after EXPLORATION close (impersonal generic)
+1. 🥇 D1 FairBill (Score 24)
+2. 🥈 D2 SoloLedger (Score 22)
+3. 🥉 D3 Mileway (Score 19) / D4 Faktly (Score 19)
+5. D7 TR e-SMM (Score 18)
+6. D9 Notebound (Score 18, urgent)
+7. D10 MY e-Invois (Score 18, urgent)
+8. D11 HourLog (Score 17)
+9. D5 Smart Receipts (Score 16)
+10. D8 Hush Sleep (Score 16)
+11. D6 Tycoon Zero (Score 14)
+12. D12 Quiet Crossword (Score 12)
+13. **D13 Bloki (Score 18 generic, BUT 9.0/10 composite for THIS Greek dev — see d13_v9_final_ranking.md)**
+
+### v9 ranking after Tick 25 GREEK-DEV personalized lens
+1. **🥇 D13 Bloki — Greek myDATA (composite 9.0)** — only direction with native moat
+2. 🥈 D7 TR e-SMM (5.8) — tied
+3. 🥉 D10 MY e-Invois (5.8) — tied
+…(8 more behind these by ≥0.4pp)
+
+### Limits at close (Tick 25)
+- Weekly: ~31% / 35% cap (4pp headroom unused — exploration was budget-disciplined)
+- Session: ~14%
+
+### User decision (still pending)
+- Direction picked: _to be filled by user after reviewing v9 + Tick 25 ranking_
+- Recommended for THIS user (Greek): **D13 Bloki**, build May-Jun 2026, launch Aug-Sep 2026 ahead of Oct 1 mandate
+
+### Outcome
+- _to be filled at 30/90 days_
+
+---
 10. **NEW v10 hypothesis: PL/NL/SE Direction 4-style replication** — does PL JDG / NL ZZP / SE Småföretagare have parallel legal exempt categories with vulnerable incumbents?

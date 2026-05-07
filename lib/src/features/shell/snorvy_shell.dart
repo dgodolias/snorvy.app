@@ -35,7 +35,12 @@ class _SnorvyShellState extends State<SnorvyShell> {
             onPlayAudio: widget.controller.playAudio,
             onStopAudio: widget.controller.stopAudio,
             onExportAudio: widget.controller.exportAudio,
-            onUnlockTap: () => showSnorvyUnlockSheet(context),
+            onUnlockTap: () => showSnorvyUnlockSheet(
+              context,
+              state: widget.controller.unlockState,
+              onUnlock: widget.controller.buyLifetimeUnlock,
+              onRestore: widget.controller.restorePurchases,
+            ),
           ),
           HistoryScreen(
             nights: widget.controller.nights,
@@ -47,8 +52,15 @@ class _SnorvyShellState extends State<SnorvyShell> {
           ),
           SettingsScreen(
             isBusy: widget.controller.isBusy,
+            unlockState: widget.controller.unlockState,
+            recordingsThisMonth: widget.controller.recordingsThisMonth,
             onAddManualLog: widget.controller.addDefaultManualLog,
-            onUnlockTap: () => showSnorvyUnlockSheet(context),
+            onUnlockTap: () => showSnorvyUnlockSheet(
+              context,
+              state: widget.controller.unlockState,
+              onUnlock: widget.controller.buyLifetimeUnlock,
+              onRestore: widget.controller.restorePurchases,
+            ),
           ),
         ];
 

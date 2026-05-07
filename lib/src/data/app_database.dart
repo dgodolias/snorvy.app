@@ -77,6 +77,21 @@ class AppDatabase extends _$AppDatabase {
     return nights;
   }
 
+  Future<int> countRecordedNightsForMonth(DateTime month) async {
+    final monthStart = DateTime(month.year, month.month);
+    final nextMonthStart = DateTime(month.year, month.month + 1);
+    final countExpression = sleepNightRows.id.count();
+    final query = selectOnly(sleepNightRows)
+      ..addColumns([countExpression])
+      ..where(sleepNightRows.isManual.equals(false))
+      ..where(sleepNightRows.recordingPath.isNotNull())
+      ..where(sleepNightRows.date.isBiggerOrEqualValue(monthStart))
+      ..where(sleepNightRows.date.isSmallerThanValue(nextMonthStart));
+
+    final row = await query.getSingle();
+    return row.read(countExpression) ?? 0;
+  }
+
   Future<int> createManualNight({
     required DateTime startedAt,
     required DateTime endedAt,

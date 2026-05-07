@@ -1,15 +1,20 @@
 import 'package:flutter/material.dart';
 import 'package:snorvy/src/theme/snorvy_theme.dart';
+import 'package:snorvy/src/services/unlock_repository.dart';
 
 class SettingsScreen extends StatefulWidget {
   const SettingsScreen({
     required this.isBusy,
+    required this.unlockState,
+    required this.recordingsThisMonth,
     required this.onAddManualLog,
     required this.onUnlockTap,
     super.key,
   });
 
   final bool isBusy;
+  final UnlockState unlockState;
+  final int recordingsThisMonth;
   final Future<void> Function() onAddManualLog;
   final VoidCallback onUnlockTap;
 
@@ -92,11 +97,15 @@ class _SettingsScreenState extends State<SettingsScreen> {
                         crossAxisAlignment: CrossAxisAlignment.start,
                         children: [
                           Text(
-                            'Free: 7 nights/month',
+                            widget.unlockState.isUnlocked
+                                ? 'Lifetime unlock active'
+                                : 'Free: ${widget.recordingsThisMonth}/7 nights used',
                             style: Theme.of(context).textTheme.titleMedium
                                 ?.copyWith(fontWeight: FontWeight.w800),
                           ),
-                          const Text('\$9.99 once unlocks everything.'),
+                          Text(
+                            '${widget.unlockState.priceLabel} once unlocks everything.',
+                          ),
                         ],
                       ),
                     ),
@@ -104,9 +113,15 @@ class _SettingsScreenState extends State<SettingsScreen> {
                 ),
                 const SizedBox(height: 14),
                 FilledButton.icon(
-                  onPressed: widget.onUnlockTap,
+                  onPressed: widget.unlockState.isUnlocked
+                      ? null
+                      : widget.onUnlockTap,
                   icon: const Icon(Icons.lock_open),
-                  label: const Text('Unlock \$9.99'),
+                  label: Text(
+                    widget.unlockState.isUnlocked
+                        ? 'Unlocked'
+                        : 'Unlock ${widget.unlockState.priceLabel}',
+                  ),
                 ),
               ],
             ),

@@ -1,3 +1,5 @@
+import 'dart:async';
+
 import 'package:drift/native.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:snorvy/src/app/snorvy_app.dart';
@@ -6,6 +8,7 @@ import 'package:snorvy/src/data/app_database.dart';
 import 'package:snorvy/src/services/audio_playback.dart';
 import 'package:snorvy/src/services/recording_exporter.dart';
 import 'package:snorvy/src/services/sleep_recorder.dart';
+import 'package:snorvy/src/services/unlock_repository.dart';
 
 void main() {
   testWidgets('shows the Snorvy tonight surface', (tester) async {
@@ -47,6 +50,7 @@ SnorvyController _buildController() {
     recorder: _FakeSleepRecorder(),
     audioPlayback: _FakeAudioPlayback(),
     recordingExporter: _FakeRecordingExporter(),
+    unlockRepository: _FakeUnlockRepository(),
   );
 }
 
@@ -91,5 +95,35 @@ class _FakeRecordingExporter implements RecordingExporter {
   @override
   Future<String> exportRecording(String sourcePath) async {
     return 'memory://export.ogg';
+  }
+}
+
+class _FakeUnlockRepository implements UnlockRepository {
+  final StreamController<UnlockState> _updates =
+      StreamController<UnlockState>.broadcast();
+  UnlockState _state = const UnlockState.initial();
+
+  @override
+  Stream<UnlockState> get updates => _updates.stream;
+
+  @override
+  Future<UnlockState> load() async {
+    return _state;
+  }
+
+  @override
+  Future<void> buyLifetimeUnlock() async {
+    _state = _state.copyWith(isUnlocked: true, message: 'Unlocked');
+    _updates.add(_state);
+  }
+
+  @override
+  Future<void> restorePurchases() async {
+    _updates.add(_state);
+  }
+
+  @override
+  Future<void> dispose() async {
+    await _updates.close();
   }
 }

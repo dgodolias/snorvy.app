@@ -7,6 +7,7 @@ import 'package:snorvy/src/domain/sleep_models.dart';
 import 'package:snorvy/src/services/audio_playback.dart';
 import 'package:snorvy/src/services/recording_exporter.dart';
 import 'package:snorvy/src/services/sleep_recorder.dart';
+import 'package:snorvy/src/services/unlock_repository.dart';
 
 class SnorvyController extends ChangeNotifier {
   SnorvyController({
@@ -14,10 +15,12 @@ class SnorvyController extends ChangeNotifier {
     required SleepRecorder recorder,
     required AudioPlayback audioPlayback,
     required RecordingExporter recordingExporter,
+    required UnlockRepository unlockRepository,
   }) : _database = database,
        _recorder = recorder,
        _audioPlayback = audioPlayback,
-       _recordingExporter = recordingExporter;
+       _recordingExporter = recordingExporter,
+       _unlockRepository = unlockRepository;
 
   factory SnorvyController.production() {
     return SnorvyController(
@@ -25,6 +28,7 @@ class SnorvyController extends ChangeNotifier {
       recorder: FlutterSoundSleepRecorder(),
       audioPlayback: FlutterSoundAudioPlayback(),
       recordingExporter: LocalRecordingExporter(),
+      unlockRepository: InAppPurchaseUnlockRepository(),
     );
   }
 
@@ -32,6 +36,8 @@ class SnorvyController extends ChangeNotifier {
   final SleepRecorder _recorder;
   final AudioPlayback _audioPlayback;
   final RecordingExporter _recordingExporter;
+  final UnlockRepository _unlockRepository;
+  StreamSubscription<UnlockState>? _unlockSubscription;
 
   List<SleepNight> _nights = const [];
   RecordingSession _recordingSession = const RecordingSession(
@@ -40,6 +46,7 @@ class SnorvyController extends ChangeNotifier {
   bool _isBusy = false;
   bool _isLoading = true;
   String? _playingPath;
+  UnlockState _unlockState = const UnlockState.initial();
   String? _statusMessage;
 
   List<SleepNight> get nights => List.unmodifiable(_nights);
@@ -47,9 +54,29 @@ class SnorvyController extends ChangeNotifier {
   bool get isBusy => _isBusy;
   bool get isLoading => _isLoading;
   String? get playingPath => _playingPath;
+  UnlockState get unlockState => _unlockState;
+  int get recordingsThisMonth {
+    final now = DateTime.now();
+    return _nights
+        .where(
+          (night) =>
+              !night.isManual &&
+              night.recordingPath != null &&
+              night.date.year == now.year &&
+              night.date.month == now.month,
+        )
+        .length;
+  }
+
   String? get statusMessage => _statusMessage;
 
   Future<void> initialize() async {
+    _unlockSubscription = _unlockRepository.updates.listen((state) {
+      _unlockState = state;
+      notifyListeners();
+    });
+
+    _unlockState = await _unlockRepository.load();
     await _loadNights();
   }
 
@@ -60,6 +87,15 @@ class SnorvyController extends ChangeNotifier {
 
     _setBusy(true);
     try {
+      final recordedThisMonth = await _database.countRecordedNightsForMonth(
+        DateTime.now(),
+      );
+      if (!_unlockState.isUnlocked && recordedThisMonth >= 7) {
+        _statusMessage =
+            'Free plan includes 7 recordings/month. Unlock once for unlimited nights.';
+        return;
+      }
+
       final session = await _recorder.startNightRecording();
       _recordingSession = session;
       _statusMessage = switch (session.status) {
@@ -183,6 +219,36 @@ class SnorvyController extends ChangeNotifier {
     }
   }
 
+  Future<void> buyLifetimeUnlock() async {
+    if (_isBusy) {
+      return;
+    }
+
+    _setBusy(true);
+    try {
+      await _unlockRepository.buyLifetimeUnlock();
+    } on Exception {
+      _statusMessage = 'Could not start the purchase.';
+    } finally {
+      _setBusy(false);
+    }
+  }
+
+  Future<void> restorePurchases() async {
+    if (_isBusy) {
+      return;
+    }
+
+    _setBusy(true);
+    try {
+      await _unlockRepository.restorePurchases();
+    } on Exception {
+      _statusMessage = 'Could not restore purchases.';
+    } finally {
+      _setBusy(false);
+    }
+  }
+
   Future<void> _loadNights({bool notify = true}) async {
     _nights = await _database.fetchRecentSleepNights();
     _isLoading = false;
@@ -199,6 +265,8 @@ class SnorvyController extends ChangeNotifier {
 
   @override
   void dispose() {
+    unawaited(_unlockSubscription?.cancel());
+    unawaited(_unlockRepository.dispose());
     unawaited(_audioPlayback.dispose());
     unawaited(_database.close());
     super.dispose();

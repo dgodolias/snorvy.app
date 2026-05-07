@@ -83,7 +83,8 @@ LAYER                    TECH                                  COST
 ─────────────────────────────────────────────────────────────────────
 Cross-platform UI       Flutter 3.27+                          €0
 Audio recording         flutter_sound 9.x (continuous capture)  €0
-Snore classification    tflite_flutter + YAMNet pretrained     €0 (5MB on-device)
+Audio classification    tflite_flutter + YAMNet pretrained     €0 (5MB on-device)
+                        ↳ filters: Snoring ∪ Speech ∪ Whispering (sleep talk)
 Local DB                Drift (SQLite wrapper, type-safe)       €0
 Charts                  fl_chart                                €0
 IAP                     in_app_purchase 3.x (no RevenueCat)     €0
@@ -135,13 +136,14 @@ Monthly cost at 5k MAU                                          ~€0
 6. ✅ **Local history ≥ 30 nights** (SQLite via Drift)
 7. ✅ **Onboarding < 60s** (3 screens: permission → place phone next to bed → go to sleep)
 
-### 5 Wedge Features (το διαφοροποιό σου)
+### 6 Wedge Features (το διαφοροποιό σου)
 
 8. ⭐ **Free-tier UNLOCK πάει το audio playback** — αυτό κανείς δεν δίνει δωρεάν
 9. ⭐ **MP3 export per night** — δωρεάν, γιατρό-shareable
 10. ⭐ **No-account, offline-first** — η app δεν κάνει network calls πέρα από το IAP verification
 11. ⭐ **Manual log mode** — αν δε θες να ηχογραφήσεις, χτυπάς "I slept 23:30 → 7:15" και τέλος (r/AndroidApps ↑15 explicit ask)
-12. ⭐ **One-time $9.99 unlock**: παίρνει unlimited recording duration + cloud-free MP3 export. Free tier: 7 nights/month limit + WAV-only export.
+12. ⭐ **Sleep talk detection (παραμίλητο)** — ίδιο YAMNet model, expanded class filter (`Snoring` ∪ `Speech` ∪ `Whispering`). Per-event timeline gets a **Talk** filter tab δίπλα στο Snore. ZERO extra build/inference cost. Unlocks #sleeptalking 1.94B-view TikTok niche (62% of #snoring volume). Privacy-default: local-only + 30-day auto-delete on talk events.
+13. ⭐ **One-time $9.99 unlock**: παίρνει unlimited recording duration + cloud-free MP3 export. Free tier: 7 nights/month limit + WAV-only export.
 
 ### 10 Things να ΜΗΝ φτιάξεις (deliberate omissions)
 
@@ -157,6 +159,10 @@ Monthly cost at 5k MAU                                          ~€0
 ❌ VIP/Premium tier — single SKU
 
 **Marketing copy = the deliberate omissions**. "We don't do sleep stages. We don't do dream journals. We record. You listen. You delete. $9.99 once."
+
+**Updated tagline alternatives** (με sleep talk):
+> "Hear yourself snore AND talk in your sleep. $9.99 once. Your phone keeps the audio."
+> "Snore. Sleep talk. Sleep walking sound. Captured on-device. $9.99 forever."
 
 ---
 
@@ -256,8 +262,8 @@ Full file with all sources: `findings/raw/d8_viral_marketing_evidence.md`
 | Week | Milestone | Critical risk |
 |---|---|---|
 | **W1 (May 11-17)** | Flutter scaffold + flutter_sound continuous loop + Drift schema. **Validation gate**: 1 successful 8h recording stays-on test on physical Android device | Battery drain >15%/night → bail early, redesign with VAD + threshold |
-| **W2 (May 18-24)** | TFLite YAMNet integration + snore detection (binary classifier from 521-class output) + per-event timeline UI. **Validation gate**: 80%+ recall on 5 self-recorded nights | YAMNet false positives on TV / partner snoring → ship with manual tag option |
-| **W3 (May 25-31)** | Insights view (fl_chart) + MP3 export + alarm + manual log mode + IAP integration ($9.99 single SKU) | iOS StoreKit reviewer rejection of "lifetime" SKU → resubmit as "consumable that unlocks features" |
+| **W2 (May 18-24)** | TFLite YAMNet integration + **multi-class filter** (Snoring + Speech/Whispering for sleep talk) + per-event timeline UI με filter tabs (All / Snore / Talk). **Validation gate**: 80%+ snore recall + 70%+ speech recall on 5 self-recorded nights | YAMNet false positives on TV / partner snoring / dialog → ship with manual tag + "exclude this voice" option |
+| **W3 (May 25-31)** | Insights view (fl_chart) + MP3 export + alarm + manual log mode + IAP integration ($9.99 single SKU) + **30-day auto-delete toggle for Talk events** (privacy default ON) | iOS StoreKit reviewer rejection of "lifetime" SKU → resubmit as "consumable that unlocks features" |
 | **W4 (Jun 1-7)** | Greek+English localization (initial), Play Store + App Store assets, ASO copy (already drafted, see `d8_app_store_copy_drafts.md`), submit to both stores | Apple background-audio rejection → resubmit with extended description + "doctor-shareable medical recording" framing |
 
 ### Phase B — Launch (4 εβδομάδες, $350 marketing + 30min/day TikTok)

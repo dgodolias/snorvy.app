@@ -80,6 +80,30 @@ Reserve **$50** for boost-the-winner after Day 7 review.
 **Single ad copy** (broad search intent):
 > "An honest sleep recorder. $9.99 once. No tricks."
 
+### Campaign #5 — Sleep Talk (NEW — added with feature)
+
+**Why**: #sleeptalking has 1.94B TikTok views (62% of #snoring volume). Untapped slot — no competitor markets specifically on sleep talk recording.
+
+**Keywords (exact match)**:
+- `sleep talking recorder`
+- `record sleep talking`
+- `sleep talker app`
+- `do I sleep talk`
+- `partner sleep talking app`
+
+**Ad copy variants**:
+
+> **Variant A** (curiosity):
+> "Find out what you say in your sleep. $9.99 once. Hush records it for you."
+
+> **Variant B** (couple use-case):
+> "Recording your sleep-talking partner is now $9.99 one-time. Hush. No subscription."
+
+> **Variant C** (privacy-first):
+> "Sleep talk audio stays on your phone. Forever. $9.99. No cloud. No account."
+
+**Budget reallocation**: take $30 from $50 reserve → assign to Sleep Talk (#5). New split: $90 (Anti-sub) / $90 (Competitor) / $90 (Snore) / $30 (Discovery) / $30 (Sleep Talk) + $20 reserve.
+
 ### Targeting
 
 - **Countries**: US, UK, CA, AU (all English-first)
@@ -318,14 +342,75 @@ B: [pause] "Hush. $9.99. Records you. Plays it back."
 A: "Mind. Blown."
 ```
 
-### Posting cadence (4-week launch)
+### Format J — Sleep talking content (proven: #sleeptalking 1.94B views, 26K creators)
+
+This is the **second-largest TikTok niche** for Hush (62% of #snoring volume). Add 5 scripts targeting this audience.
+
+#### Script 21 — "What I said in my sleep last night"
+```
+[Selfie morning POV, messy hair, holding phone]
+TEXT 1: "I sleep talk. Recorded it last night."
+[Hit play on Hush — audio clip plays through phone speaker]
+[Audio: muffled gibberish, possibly: "...the ducks know..."]
+TEXT 2: "I have NO memory of saying this"
+[Cut to Hush UI showing 4 talk events]
+TEXT 3: "Hush. $9.99 once. Records snore + sleep talk."
+```
+
+#### Script 22 — Partner caught sleep talking
+```
+[POV: partner asleep, phone recording]
+TEXT 1: "He talks in his sleep every night"
+[Cut to Hush playback — audio: a clear sentence said in sleep]
+TEXT 2: "Tonight he confessed something"
+[Audio plays: garbled — bleep censored for comedy]
+TEXT 3: "I have questions in the morning."
+TEXT 4: "App: Hush. $9.99. No subscription."
+```
+
+#### Script 23 — Roommate exposed via sleep talk
+```
+[Door cam-style angle, fake "security cam" filter]
+TEXT 1: "My roommate said I'm 'imagining things'"
+TEXT 2: "Set up Hush. Recorded 6 hours."
+[Cut to Hush timeline: 17 talk events highlighted]
+TEXT 3: "Played 30 seconds back to her"
+TEXT 4: "She moved out."
+[Soundbite: dramatic music sting]
+```
+
+#### Script 24 — The compilation
+```
+[Static frame: "Things I said in my sleep this week"]
+[Quick cut: 5-6 short audio clips played from Hush, one after another]
+- "...not the cat..."
+- "I told you NO ONIONS..."
+- "[mumbled]... pizza"
+- "STOP IT"
+- [laughter]
+TEXT (overlay full time): "Hush — $9.99 once. No subscription. Records all of this."
+```
+
+#### Script 25 — Dating profile prank
+```
+[Selfie, casual]
+"I went on a third date. He asked if I sleep talk."
+"I said no."
+"I went home and used Hush to find out."
+[Cut to Hush playback: clearly audible sleep-speech]
+"...I have to tell him."
+TEXT: "Hush. $9.99. Forever. Records everything you'd never know."
+```
+
+### Updated posting cadence (5-week launch — sleep talk gets its own week)
 
 | Week | Volume | Format mix |
 |---|---|---|
 | W1 | 1 video/day = 7 | A×2, B×2, C×1, D×1, F×1 |
 | W2 | 1 video/day = 7 | E×2, G×2, H×2, I×1 |
-| W3 | 5 videos (better-engagement focus) | rotate winners from W1-W2 |
-| W4 | 5 videos + boost top 2 with Spark Ads ($25 each) | repurpose best W1-W2 hooks |
+| **W3** | **1 video/day = 7** | **#sleeptalking week — J×5 + 2 winner reposts** |
+| W4 | 5 videos | rotate winners from W1-W3 |
+| W5 | 5 videos + boost top 3 με Spark Ads ($25 each) | repurpose best hooks |
 
 **Platform stretch**: cross-post each TikTok to Instagram Reels + YouTube Shorts (Finch UGC playbook — same creative, 3 platforms, ~3× reach for free).
 

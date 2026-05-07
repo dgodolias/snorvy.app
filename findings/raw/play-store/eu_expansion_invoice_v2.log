@@ -1,0 +1,10 @@
+
+=== PL ===
+  search: "faktura aplikacja"
+  search: "JDG faktura"
+  search: "samozatrudniony faktura"
+  resolving installs for 22 candidates...
+  drilling top 5 apps with >=10k installs
+  drill reviews: com.aadhk.woinvoice (5 000 000+, hist_low 8%)
+  drill reviews: com.invoiceapp (5 000 000+, hist_low 22%)
+  drill reviews: bookipi.invoice.maker.estimate.billing (1 000 000+, hist_low 2%)

@@ -1,0 +1,23 @@
+
+=== PL ===
+  search: "faktura aplikacja"
+  search: "JDG faktura"
+  search: "samozatrudniony faktura"
+  0 unique apps >= 10k installs to drill
+
+=== CZ ===
+  search: "fakturace"
+  search: "OSVČ faktura"
+  0 unique apps >= 10k installs to drill
+
+=== NL ===
+  search: "factuur app"
+  search: "ZZP factuur"
+  0 unique apps >= 10k installs to drill
+
+=== SE ===
+  search: "faktura app"
+  search: "egenföretagare"
+  0 unique apps >= 10k installs to drill
+
+Done. Wrote C:/Users/demosgod/Desktop/PROJECTS/playstore_app/findings/raw/play-store/eu_expansion_invoice.json

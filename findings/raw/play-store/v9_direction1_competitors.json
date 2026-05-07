@@ -1,0 +1,400 @@
+{
+  "meta": {
+    "Bookipi": {
+      "appId": "bookipi.invoice.maker.estimate.billing",
+      "title": "Invoice Maker & Estimate App",
+      "developer": "Bookipi - Billing Estimate",
+      "installs": "1,000,000+",
+      "minInstalls": 1000000,
+      "score": 4.6024194,
+      "ratings": 66018,
+      "reviews": 5046,
+      "histogram": {
+        "1": 4149,
+        "2": 687,
+        "3": 1166,
+        "4": 5214,
+        "5": 54779
+      },
+      "free": true,
+      "price": 0,
+      "offersIAP": true,
+      "IAPRange": "$7.49 - $174.99 per item",
+      "adSupported": false,
+      "released": "Aug 21, 2018",
+      "updated": "2026-04-28T08:50:16.000Z",
+      "genre": "Business",
+      "contentRating": "Everyone",
+      "summary": "Create invoices, estimates &amp; receipts in minute. Fast, reliable invoice maker."
+    },
+    "ZohoInvoice": {
+      "appId": "com.zoho.invoice",
+      "title": "Zoho Invoice - Invoice Maker",
+      "developer": "Zoho Corporation",
+      "installs": "1,000,000+",
+      "minInstalls": 1000000,
+      "score": 4.798768,
+      "ratings": 30673,
+      "reviews": 1919,
+      "histogram": {
+        "1": 500,
+        "2": 0,
+        "3": 376,
+        "4": 3396,
+        "5": 26385
+      },
+      "free": true,
+      "price": 0,
+      "offersIAP": false,
+      "adSupported": false,
+      "released": "Jul 8, 2011",
+      "updated": "2026-04-29T06:00:58.000Z",
+      "genre": "Business",
+      "contentRating": "Everyone",
+      "summary": "Generate invoices and estimates, save receipts, and track time from one app."
+    },
+    "SquareInvoices": {
+      "appId": "com.squareup.invoicesapp",
+      "title": "Square Invoices: Invoice Maker",
+      "developer": "Block, Inc.",
+      "installs": "1,000,000+",
+      "minInstalls": 1000000,
+      "score": 4.6891193,
+      "ratings": 19653,
+      "reviews": 3891,
+      "histogram": {
+        "1": 711,
+        "2": 123,
+        "3": 519,
+        "4": 1843,
+        "5": 16450
+      },
+      "free": true,
+      "price": 0,
+      "offersIAP": true,
+      "IAPRange": "$20.00 per item",
+      "adSupported": false,
+      "released": "Mar 25, 2019",
+      "updated": "2026-05-05T00:35:43.000Z",
+      "genre": "Business",
+      "contentRating": "Everyone",
+      "summary": "Manage your business invoicing, bills &amp; estimates. Track expenses &amp; payments."
+    },
+    "WaveInvoice": {
+      "error": "App not found (404)"
+    },
+    "InvoiceSimple_baseline": {
+      "appId": "com.aadhk.woinvoice",
+      "title": "Invoice Simple: Invoice Maker",
+      "developer": "Invoice Simple",
+      "installs": "5,000,000+",
+      "minInstalls": 5000000,
+      "score": 4.820383,
+      "ratings": 167126,
+      "reviews": 21911,
+      "histogram": {
+        "1": 4920,
+        "2": 872,
+        "3": 1134,
+        "4": 5444,
+        "5": 154750
+      },
+      "free": true,
+      "price": 0,
+      "offersIAP": true,
+      "IAPRange": "$4.99 - $399.99 per item",
+      "adSupported": false,
+      "released": "Feb 1, 2013",
+      "updated": "2026-05-01T18:00:10.000Z",
+      "genre": "Business",
+      "contentRating": "Everyone",
+      "summary": "Create invoices, bills, receipts, &amp; estimates with Invoice Generator &amp; Creator."
+    }
+  },
+  "reviews_low_sample": {
+    "Bookipi": [
+      {
+        "score": 1,
+        "date": "2026-05-04T12:10:09.369Z",
+        "text": "Been using it for years now it's perfect. I just have one grievance... When i first started using Bookipi it was advertised as free forever ... most recently it has begun to prompt for Subs, so I am somewhat disappointed there as it actually won't allow me to use it unless i upgr"
+      },
+      {
+        "score": 2,
+        "date": "2026-04-29T20:49:08.151Z",
+        "text": "its a decent record keeper, been using it for years. but photos aren't kept clear and legible through their app alone. making me feel not safe if it ever came to being audited. it shouldn't be too hard to keep a secure record for the ATO and not you to have to do extra record kee"
+      },
+      {
+        "score": 1,
+        "date": "2026-04-28T12:03:53.978Z",
+        "text": "This app used to be a reliable tool, but the recent updates are a major letdown. Even though they already force a **watermark** on every documents essentially using our clients for free advertising they have now capped generation at just **3 invoices per day**. Restricting a busi"
+      },
+      {
+        "score": 1,
+        "date": "2026-04-27T19:35:31.646Z",
+        "text": "Horrible interface, crashes all the time"
+      },
+      {
+        "score": 1,
+        "date": "2026-04-24T06:06:00.128Z",
+        "text": "partial payment feature missing after update"
+      },
+      {
+        "score": 1,
+        "date": "2026-04-21T13:10:00.799Z",
+        "text": "Worst experience EVER i paid subscription fee for a year and it was once off today i received a message from the bank they reserved R2699.99 which i havent gave my consent cos I only paid a ONCE OFF subscription for a year. this app works well but there is a lot of GLITCHES as it"
+      },
+      {
+        "score": 1,
+        "date": "2026-04-20T06:32:33.205Z",
+        "text": "randomly stopped working, its hanging when im selecting item. and an AI advertisement link keeps popping up"
+      },
+      {
+        "score": 1,
+        "date": "2026-04-19T11:05:47.580Z",
+        "text": "trying to add a item and nothing happens. whole app freezes"
+      },
+      {
+        "score": 1,
+        "date": "2026-04-19T04:16:36.282Z",
+        "text": "i have over 120 invoice and over 80 customers base details on app. I've been used this app for 1 year. now app asking monthly or year subscription for open new invoice. i can't run business now without billing invoice. very disappointed. not Recommend this app for long time uses."
+      },
+      {
+        "score": 1,
+        "date": "2026-04-16T10:04:41.781Z",
+        "text": "Why is it not working????????????"
+      },
+      {
+        "score": 1,
+        "date": "2026-04-15T09:22:13.510Z",
+        "text": "First off there are so many fake reviews here. Was really good, used it for years and would happily have paid a small amount each month to use it however them suddenly locking everything behind an extortionate paywall just to fill the app with ai slop means I'll never use it agai"
+      },
+      {
+        "score": 1,
+        "date": "2026-04-02T09:41:22.802Z",
+        "text": "used for like 2 years now need to pay a subscription to create invoices SUCKS!!!!"
+      },
+      {
+        "score": 1,
+        "date": "2026-03-30T06:15:21.589Z",
+        "text": "I have a paid subscription for this, and now, for some reason, every time I go to make an invoice, it says I need to pay for a subscription when I already have one. If this does not get fixed soon, as I have a backlog of invoices to send, I will be moving on to another app."
+      },
+      {
+        "score": 1,
+        "date": "2026-03-25T17:22:38.220Z",
+        "text": "app worked great especially free version for first few years. so I decided I liked it enough to pay for it. app freezes up over past few months will not allow me to make an invoice or add customer so I deleted account and had to order new bank card to stop the reoccurring charges"
+      }
+    ],
+    "ZohoInvoice": [
+      {
+        "score": 2,
+        "date": "2026-05-05T08:33:09.598Z",
+        "text": "I have a Sign Up but Login Error.why my account is not working properly?"
+      },
+      {
+        "score": 1,
+        "date": "2026-05-05T03:58:38.902Z",
+        "text": "Invoice app good at first then logs you out asks to verify account then send OTP code then you do not get it! tried multiple times rang support nothing! Cannot get into my invoices very frustrating as a business owner.."
+      },
+      {
+        "score": 1,
+        "date": "2026-04-25T09:07:16.837Z",
+        "text": "installed the app needed to send an invoice. I kept getting an error message to register my account but regardless of following steps I couldn't verify or reset my password. I have reached out to support and recieved an email asking me to get ready to send my first invoice. total"
+      },
+      {
+        "score": 1,
+        "date": "2026-03-13T17:18:58.309Z",
+        "text": "It is forcing me to switch to Zoho Books even thoigh I don't want to. as soon as I open the app the banner is there. no close button too. have uninstalled it and again installed thinking it might be a bug. have forced stop too. nothing happening. very annoying. kindly rectify asa"
+      },
+      {
+        "score": 1,
+        "date": "2026-03-05T17:59:26.980Z",
+        "text": "\"We are unable to create your account now\". Ok then..."
+      }
+    ],
+    "SquareInvoices": [
+      {
+        "score": 1,
+        "date": "2026-04-24T12:46:08.423Z",
+        "text": "sal sell sell, push push push no thank you. uninstalled"
+      },
+      {
+        "score": 1,
+        "date": "2026-03-30T08:47:36.291Z",
+        "text": "deceiving. hidden fees even if used for record purposes only. instant payment is set up upon creating account this is deceiving as alot of people use square for record purposes only and your not prompted to turn it off. you will only know after your payment is reduced. there is n"
+      },
+      {
+        "score": 1,
+        "date": "2026-03-25T09:57:54.763Z",
+        "text": "not liking it square owes me over over $13k on 2 transaction and I have very upset customer that wants his money back.i can't process the money to give my customer his material...looks like a lawsuit is about to happen."
+      },
+      {
+        "score": 1,
+        "date": "2026-03-11T02:38:30.364Z",
+        "text": "getting complains from our customers that estimates can not be send in a pdf , nor they can print them properly, I tried and yes you can not print an presentable estimates without cutting off the last portion of it , in a way invoice looks, or transfer to pdf, not looking profess"
+      },
+      {
+        "score": 1,
+        "date": "2026-03-10T21:47:54.869Z",
+        "text": "because after using this serviec for over a year with out a heads up or notification my account has been deactivated and I have several unpaid invoices tht I can not get paid om for work tht has been done. I call customer service only to get a person tht barely speaks English to "
+      },
+      {
+        "score": 1,
+        "date": "2026-03-10T12:01:57.160Z",
+        "text": "square is a terrible company.. they'll charge for taxes...then never pay the taxes. very poor support for vendors, but they LOVE to take your money. if you can avoid dealing with Square, you'll be better off. Square is evil and will hitt your business. they nearly destroyed mine."
+      },
+      {
+        "score": 1,
+        "date": "2026-03-08T17:17:40.988Z",
+        "text": "Can't sign in??? Is anyone else having trouble with square??? I have reached out multiple times to IT. No response except the AI."
+      },
+      {
+        "score": 1,
+        "date": "2026-03-03T14:27:01.266Z",
+        "text": "Forces you to login to your account and enable locations, phone management and push notifications. I just want to make invoice PDFs - that's it. Ridiculously convoluted app"
+      },
+      {
+        "score": 1,
+        "date": "2025-12-31T07:43:13.528Z",
+        "text": "Square AU support absolutely atrocious!"
+      },
+      {
+        "score": 1,
+        "date": "2025-11-24T15:57:45.712Z",
+        "text": "This was a big part of the way I did business but because I had a customer that misunderstood the spice of work in the building contract, they started a dispute in order to get out of having to pay for the replacement of rotted wood we initially could in no way have known about i"
+      },
+      {
+        "score": 1,
+        "date": "2025-11-17T21:15:59.175Z",
+        "text": "Where is my money! DO NOT USE THIS PAYMENT SERVICE. SQUARE HAS STOLEN THOUSANDS OUT OF OUR BUSINESS ACCOUNT. THEY REFUSE TO TALK TO US ABOUT IT. WE CANNOT GET ANY KIND OF SUPERVISOR ON THE PHONE. WE HAVE BEEN CALLING FOR DAYS AND NOW, THAT THEYVE STOLEN ALL OUR MONEY, THEYVE CLOS"
+      },
+      {
+        "score": 1,
+        "date": "2025-10-31T14:07:43.823Z",
+        "text": "Needs crazy permissions"
+      },
+      {
+        "score": 1,
+        "date": "2025-10-18T17:08:35.143Z",
+        "text": "Worst app ever! No transparency. Random holds on funds without explanation. Very difficult to run a business with such a shoddy partner."
+      },
+      {
+        "score": 1,
+        "date": "2025-10-06T16:06:27.355Z",
+        "text": "Too many needed permissions, not probably stated on the permission breakdown, says location is optional when it's mandatory"
+      },
+      {
+        "score": 1,
+        "date": "2025-09-23T00:26:56.600Z",
+        "text": "customer service not helpful and diffult to understand"
+      },
+      {
+        "score": 1,
+        "date": "2025-09-15T23:19:06.187Z",
+        "text": "Couldn't get the app I need to use for a sale"
+      },
+      {
+        "score": 1,
+        "date": "2025-09-12T07:44:22.889Z",
+        "text": "have to create a bogus email just so you don't get spammed better off downloading a template you can just actrully use..simple life"
+      },
+      {
+        "score": 1,
+        "date": "2025-09-03T04:28:06.954Z",
+        "text": "Hides all the important details. What item is this? (shows category only) Which one is PO xxx (Nah, you get invoice number only) Edit your invoice, can't check what variant is in play. This app is hot garbage, but at least it's pretty."
+      },
+      {
+        "score": 1,
+        "date": "2025-08-28T14:33:19.457Z",
+        "text": "need to have document upload available on square contracts"
+      }
+    ],
+    "WaveInvoice": [],
+    "InvoiceSimple_baseline": [
+      {
+        "score": 1,
+        "date": "2026-05-04T22:41:30.510Z",
+        "text": "says it's free but then its only a free trial after that you have to pay."
+      },
+      {
+        "score": 1,
+        "date": "2026-05-04T11:49:46.464Z",
+        "text": "It kicks me out every time. Need to log in everytime. so expensive just for a limited number of invoices. Telling me my email that im using for almost 2 years on this app isn't a user. So i would not recommend this app for anyone cause off the extreme expensive price prm and caus"
+      },
+      {
+        "score": 1,
+        "date": "2026-05-02T20:11:41.125Z",
+        "text": "The app is ok but they Jack the price up every month or so. they are greedy and dont care about their customers. dont bother unless you dont mind wasting your money."
+      },
+      {
+        "score": 1,
+        "date": "2026-05-02T12:55:11.380Z",
+        "text": "was good,$14 only 10 invoice per month, it's time to change to other company."
+      },
+      {
+        "score": 1,
+        "date": "2026-05-01T16:13:56.135Z",
+        "text": "I'm a premium member and app isn't working, customer service is poor"
+      },
+      {
+        "score": 1,
+        "date": "2026-04-24T16:48:26.506Z",
+        "text": "This used to be a great app, but now they charge you an unreasonable fee and it feels like every so often they want to move the pricing up, im looking for another invoice app"
+      },
+      {
+        "score": 1,
+        "date": "2026-04-22T21:15:38.290Z",
+        "text": "I used to suggest this app to all small business owners. It was incredibly easy to use but anytime now that I need help I get stuck talking to an AI that eventually transfers me to a person. but the person takes about 10 minutes between messages. and I can tell that they didn't r"
+      },
+      {
+        "score": 2,
+        "date": "2026-04-22T09:53:37.675Z",
+        "text": "Great app. Does whats required. only issue they went from being free to affordable monthly subscription.. now the latest version is quite expensive. if they continue with the constant crazy increases they will loose subscribers"
+      },
+      {
+        "score": 1,
+        "date": "2026-04-20T12:34:46.464Z",
+        "text": "showed up on my phone after an ad, likely malicious"
+      },
+      {
+        "score": 1,
+        "date": "2026-04-20T00:13:52.279Z",
+        "text": "This was accidentally installed on my phone while surfing YouTube. If I could rate it less stars, I would."
+      },
+      {
+        "score": 1,
+        "date": "2026-04-18T18:59:12.807Z",
+        "text": "slow app and its getting pricey only allowed 10 invoices per month joke continous loading need to close it and reopen it for each invoice theres no customer contact section? you keep putting price up for poorer service"
+      },
+      {
+        "score": 1,
+        "date": "2026-04-18T08:07:33.121Z",
+        "text": "rubbish.awful customer service, it's non existent,"
+      },
+      {
+        "score": 2,
+        "date": "2026-04-17T21:54:43.980Z",
+        "text": "Worked perfect for like 3 to 4 months than the app mulfunction with all my files and i lost all my data"
+      },
+      {
+        "score": 1,
+        "date": "2026-04-15T05:14:19.263Z",
+        "text": "was great for first while. then it told me my renewal. I changed CC and have not been able to renew my subscription. its really really annoying. In app I follow the prompts and then it just takes me to a blank screen."
+      },
+      {
+        "score": 1,
+        "date": "2026-04-05T22:27:38.146Z",
+        "text": "Very POOR customer service. They have put me on a plan I haven't paid for yet. I can't access it either. I can't send invoices unless I upgrade to the highest paying plan. I don't want to waste money I am still testing this invoice app before committing. Thank Goodness I haven't "
+      },
+      {
+        "score": 1,
+        "date": "2026-04-03T18:19:22.412Z",
+        "text": "Was recommended by a small business friend and I love how simple it is to use. The features are great. Will definitely continue to use it. edit: no longer free to use, I rarely used it but now everything is locked behind a subscription."
+      },
+      {
+        "score": 2,
+        "date": "2026-03-29T13:44:06.334Z",
+        "text": "This app is getting worse not better. Not only is it not fully customizable, it's no longer saving estimates and invoices that I sometimes spend an hour writing! Last week a paid invoice disappeared completely before I could send it to the customer. BTW, that was a three page des"
+      }
+    ]
+  }
+}

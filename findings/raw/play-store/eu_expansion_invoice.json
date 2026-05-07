@@ -1,0 +1,1085 @@
+{
+  "generated_at": "2026-05-07T11:35:02.843Z",
+  "countries": {
+    "pl": {
+      "lang": "pl",
+      "searches": {
+        "faktura aplikacja": [
+          {
+            "appId": "com.aadhk.woinvoice",
+            "title": "Faktura Proste",
+            "developer": "Invoice Simple",
+            "score": 4.507576,
+            "free": false,
+            "summary": "Twórz i wysyłaj faktury do klientów – idealna aplikacja dla małych firm"
+          },
+          {
+            "appId": "pl.fakturownia",
+            "title": "Fakturownia - faktury w KSeF",
+            "developer": "Fakturownia",
+            "score": 4.9375,
+            "free": false,
+            "summary": "Oficjalna aplikacja mobilna Fakturowni - prostego programu do faktur w KSeF"
+          },
+          {
+            "appId": "com.cc.invoice.maker.generator.estimate.bill.create",
+            "title": "Faktury i szacunki - Paragon",
+            "developer": "CC Publisher",
+            "score": 5,
+            "free": false,
+            "summary": "Łatwy w użyciu Kreator faktur. szacunki fakturowania &amp; rozliczeniowa app."
+          },
+          {
+            "appId": "app.invoice.android",
+            "title": "Invoice.app: Faktury KSeF",
+            "developer": "Piotr Stojanowski Consulting",
+            "score": 0,
+            "free": false,
+            "summary": "Proste wystawianie dokumentów"
+          },
+          {
+            "appId": "com.invoicemaker.code.line.dynamic.estimatemaker.app",
+            "title": "Invoice Maker - Quick Invoice",
+            "developer": "CodeLine Dynamics INC",
+            "free": false,
+            "summary": "Invoice Generator &amp; Creator – Easily make invoices, bills, receipts &amp; estimates!"
+          },
+          {
+            "appId": "bookipi.invoice.maker.estimate.billing",
+            "title": "Invoice Maker & Estimate App",
+            "developer": "Bookipi - Billing Estimate",
+            "score": 4.59,
+            "free": false,
+            "summary": "Twórz faktury, wyceny i paragony w minutę. Szybki i niezawodny generator faktur."
+          },
+          {
+            "appId": "com.tofu.invoices",
+            "title": "Tofu: Łatwe Wystawianie Faktur",
+            "developer": "GetPaid Inc.",
+            "score": 3.75,
+            "free": false,
+            "summary": "Aplikacja do Wystawianie Faktur. Szacunki i Faktury program, szybka Fakturowania"
+          },
+          {
+            "appId": "et.job.estimator.invoice.maker",
+            "title": "Generator Paragonów i Twórca",
+            "developer": "EclixTech",
+            "score": 5,
+            "free": false,
+            "summary": "Tworzenie paragonów używając generator paragonów w dowolnym szablonie faktury."
+          },
+          {
+            "appId": "com.invoice.maker.generator.creator.estimate",
+            "title": "Generator Paragonów－E Faktura",
+            "developer": "Cards",
+            "score": 0,
+            "free": false,
+            "summary": "Utwórz e faktura, rachunki i kosztorysy za pomocą tego generator paragonów."
+          },
+          {
+            "appId": "codematics.business.invoice.billing.receipt.generator",
+            "title": "Faktura i paragon, Invoice App",
+            "developer": "CodeMatics Media Solutions",
+            "score": 0,
+            "free": false,
+            "summary": "Generator faktur i kreator paragonów dla faktur biznesowych i kosztorysów"
+          },
+          {
+            "appId": "com.invoiceapp",
+            "title": "Simple Invoice Manager",
+            "developer": "Tacktile Systems Private Limited",
+            "score": 4.5959597,
+            "free": false,
+            "summary": "Fakturuj swoich klientów profesjonalnie. Płatności za pomocą płatności i wpływów."
+          },
+          {
+            "appId": "com.dzinemedia.invoicemaker",
+            "title": "Faktura Maker - Utwórz Fakturę",
+            "developer": "One Music Player",
+            "score": 3.8333333,
+            "free": false,
+            "summary": "Możesz utworzyć fakturę za pomocą kreatora faktur w dowolnym szablonie faktury."
+          },
+          {
+            "appId": "au.com.speedinvoice.android",
+            "title": "Faktur i Kosztorysów",
+            "developer": "SpeedInvoice",
+            "score": 4.8317757,
+            "free": false,
+            "summary": "Faktura i kosztorys z twojego telefonu lub komputera. Szybko i profesjonalnie."
+          },
+          {
+            "appId": "pl.infakt.infakt",
+            "title": "inFakt — KSeF Faktury Księgowi",
+            "developer": "InFakt",
+            "score": 4.6363635,
+            "free": false,
+            "summary": "Pomagamy przedsiębiorcom"
+          },
+          {
+            "appId": "com.lifemoreeasyapps.recibo",
+            "title": "Łatwa Faktury: Paragon Wyceny",
+            "developer": "Weekly Planner",
+            "score": 0,
+            "free": false,
+            "summary": "Zorganizuj swój biznes. Wystawiaj paragony, faktury i twórz profesjonalne wyceny"
+          }
+        ],
+        "JDG faktura": [
+          {
+            "appId": "com.aadhk.woinvoice",
+            "title": "Faktura Proste",
+            "developer": "Invoice Simple",
+            "score": 4.507576,
+            "free": false,
+            "summary": "Twórz i wysyłaj faktury do klientów – idealna aplikacja dla małych firm"
+          },
+          {
+            "appId": "bookipi.invoice.maker.estimate.billing",
+            "title": "Invoice Maker & Estimate App",
+            "developer": "Bookipi - Billing Estimate",
+            "score": 4.59,
+            "free": false,
+            "summary": "Twórz faktury, wyceny i paragony w minutę. Szybki i niezawodny generator faktur."
+          },
+          {
+            "appId": "au.com.speedinvoice.android",
+            "title": "Faktur i Kosztorysów",
+            "developer": "SpeedInvoice",
+            "score": 4.8317757,
+            "free": false,
+            "summary": "Faktura i kosztorys z twojego telefonu lub komputera. Szybko i profesjonalnie."
+          },
+          {
+            "appId": "com.aiazing.prod",
+            "title": "E-Faktury & Paragony Skaner",
+            "developer": "Aiazing LLC",
+            "free": false,
+            "summary": "Skanuj faktury i dokumenty. Twórz e-faktury PDF z OCR i zarządzaj biurem łatwo!"
+          },
+          {
+            "appId": "com.invoicemaker.code.line.dynamic.estimatemaker.app",
+            "title": "Invoice Maker - Quick Invoice",
+            "developer": "CodeLine Dynamics INC",
+            "free": false,
+            "summary": "Invoice Generator &amp; Creator – Easily make invoices, bills, receipts &amp; estimates!"
+          },
+          {
+            "appId": "com.invoice.maker.generator.creator.estimate",
+            "title": "Generator Paragonów－E Faktura",
+            "developer": "Cards",
+            "score": 0,
+            "free": false,
+            "summary": "Utwórz e faktura, rachunki i kosztorysy za pomocą tego generator paragonów."
+          },
+          {
+            "appId": "com.cc.invoice.maker.generator.estimate.bill.create",
+            "title": "Faktury i szacunki - Paragon",
+            "developer": "CC Publisher",
+            "score": 5,
+            "free": false,
+            "summary": "Łatwy w użyciu Kreator faktur. szacunki fakturowania &amp; rozliczeniowa app."
+          },
+          {
+            "appId": "et.job.estimator.invoice.maker",
+            "title": "Generator Paragonów i Twórca",
+            "developer": "EclixTech",
+            "score": 5,
+            "free": false,
+            "summary": "Tworzenie paragonów używając generator paragonów w dowolnym szablonie faktury."
+          },
+          {
+            "appId": "pl.fakturownia",
+            "title": "Fakturownia - faktury w KSeF",
+            "developer": "Fakturownia",
+            "score": 4.9375,
+            "free": false,
+            "summary": "Oficjalna aplikacja mobilna Fakturowni - prostego programu do faktur w KSeF"
+          },
+          {
+            "appId": "de.minirechnung",
+            "title": "Faktury i oferty - Billdu app",
+            "developer": "Billdu LTD",
+            "score": 4.58,
+            "free": false,
+            "summary": "Profesjonalne narzędzie do wystawiania faktur dla małych i średnich firm"
+          },
+          {
+            "appId": "invoice.maker.receipt.print",
+            "title": "Łatwy Faktura i Paragon Twórca",
+            "developer": "netroz",
+            "score": 0,
+            "free": false,
+            "summary": "Dbaj o zadowolenie klientów i zarabiaj więcej dzięki Kreator Faktur i Paragonów."
+          },
+          {
+            "appId": "invoice.quote.generator",
+            "title": "Simple Invoice & Quote Maker",
+            "developer": "Webtoweb",
+            "score": 4.7272725,
+            "free": false,
+            "summary": "Twórz profesjonalne faktury i wyceny w 1 minutę. Zarządzaj klientami, produktami i płatnościami"
+          },
+          {
+            "appId": "invoice.invoicemaker.estimatemaker.billingapp",
+            "title": "Invoice Maker - InvoiceBase",
+            "developer": "Gulooloo Tech Co., Ltd.",
+            "score": 4.67,
+            "free": false,
+            "summary": "Kreator faktur i kosztorysów – oszczędzaj czas i rozwijaj swoją firmę"
+          },
+          {
+            "appId": "com.dzinemedia.invoicemaker",
+            "title": "Faktura Maker - Utwórz Fakturę",
+            "developer": "One Music Player",
+            "score": 3.8333333,
+            "free": false,
+            "summary": "Możesz utworzyć fakturę za pomocą kreatora faktur w dowolnym szablonie faktury."
+          },
+          {
+            "appId": "com.lifemoreeasyapps.recibo",
+            "title": "Łatwa Faktury: Paragon Wyceny",
+            "developer": "Weekly Planner",
+            "score": 0,
+            "free": false,
+            "summary": "Zorganizuj swój biznes. Wystawiaj paragony, faktury i twórz profesjonalne wyceny"
+          }
+        ],
+        "samozatrudniony faktura": [
+          {
+            "appId": "com.aadhk.woinvoice",
+            "title": "Faktura Proste",
+            "developer": "Invoice Simple",
+            "score": 4.507576,
+            "free": false,
+            "summary": "Twórz i wysyłaj faktury do klientów – idealna aplikacja dla małych firm"
+          },
+          {
+            "appId": "com.invoicemaker.code.line.dynamic.estimatemaker.app",
+            "title": "Invoice Maker - Quick Invoice",
+            "developer": "CodeLine Dynamics INC",
+            "free": false,
+            "summary": "Invoice Generator &amp; Creator – Easily make invoices, bills, receipts &amp; estimates!"
+          },
+          {
+            "appId": "com.lifemoreeasyapps.recibo",
+            "title": "Łatwa Faktury: Paragon Wyceny",
+            "developer": "Weekly Planner",
+            "score": 0,
+            "free": false,
+            "summary": "Zorganizuj swój biznes. Wystawiaj paragony, faktury i twórz profesjonalne wyceny"
+          },
+          {
+            "appId": "com.invoiceapp",
+            "title": "Simple Invoice Manager",
+            "developer": "Tacktile Systems Private Limited",
+            "score": 4.5959597,
+            "free": false,
+            "summary": "Fakturuj swoich klientów profesjonalnie. Płatności za pomocą płatności i wpływów."
+          },
+          {
+            "appId": "com.invoice.maker.generator.creator.estimate",
+            "title": "Generator Paragonów－E Faktura",
+            "developer": "Cards",
+            "score": 0,
+            "free": false,
+            "summary": "Utwórz e faktura, rachunki i kosztorysy za pomocą tego generator paragonów."
+          },
+          {
+            "appId": "et.job.estimator.invoice.maker",
+            "title": "Generator Paragonów i Twórca",
+            "developer": "EclixTech",
+            "score": 5,
+            "free": false,
+            "summary": "Tworzenie paragonów używając generator paragonów w dowolnym szablonie faktury."
+          },
+          {
+            "appId": "com.cc.invoice.maker.generator.estimate.bill.create",
+            "title": "Faktury i szacunki - Paragon",
+            "developer": "CC Publisher",
+            "score": 5,
+            "free": false,
+            "summary": "Łatwy w użyciu Kreator faktur. szacunki fakturowania &amp; rozliczeniowa app."
+          },
+          {
+            "appId": "com.tofu.invoices",
+            "title": "Tofu: Łatwe Wystawianie Faktur",
+            "developer": "GetPaid Inc.",
+            "score": 3.75,
+            "free": false,
+            "summary": "Aplikacja do Wystawianie Faktur. Szacunki i Faktury program, szybka Fakturowania"
+          },
+          {
+            "appId": "au.com.speedinvoice.android",
+            "title": "Faktur i Kosztorysów",
+            "developer": "SpeedInvoice",
+            "score": 4.8317757,
+            "free": false,
+            "summary": "Faktura i kosztorys z twojego telefonu lub komputera. Szybko i profesjonalnie."
+          },
+          {
+            "appId": "pl.fakturownia",
+            "title": "Fakturownia - faktury w KSeF",
+            "developer": "Fakturownia",
+            "score": 4.9375,
+            "free": false,
+            "summary": "Oficjalna aplikacja mobilna Fakturowni - prostego programu do faktur w KSeF"
+          },
+          {
+            "appId": "com.dzinemedia.invoicemaker",
+            "title": "Faktura Maker - Utwórz Fakturę",
+            "developer": "One Music Player",
+            "score": 3.8333333,
+            "free": false,
+            "summary": "Możesz utworzyć fakturę za pomocą kreatora faktur w dowolnym szablonie faktury."
+          },
+          {
+            "appId": "com.aiazing.prod",
+            "title": "E-Faktury & Paragony Skaner",
+            "developer": "Aiazing LLC",
+            "free": false,
+            "summary": "Skanuj faktury i dokumenty. Twórz e-faktury PDF z OCR i zarządzaj biurem łatwo!"
+          },
+          {
+            "appId": "com.recibospronto",
+            "title": "Paragon, Faktura i Wycena",
+            "developer": "NF-Solutions",
+            "score": 3.6862745,
+            "free": false,
+            "summary": "Twórz paragony, faktury i wyceny dotyczące usług i produktów."
+          },
+          {
+            "appId": "bookipi.invoice.maker.estimate.billing",
+            "title": "Invoice Maker & Estimate App",
+            "developer": "Bookipi - Billing Estimate",
+            "score": 4.59,
+            "free": false,
+            "summary": "Twórz faktury, wyceny i paragony w minutę. Szybki i niezawodny generator faktur."
+          },
+          {
+            "appId": "com.invoice2go.invoice2goplus",
+            "title": "Faktura i wycena: Invoice2go",
+            "developer": "Invoice2Go",
+            "score": 4.08,
+            "free": false,
+            "summary": "Invoice2go ułatwia fakturowanie i zarządzanie działalnością ze smartfona."
+          }
+        ]
+      },
+      "drills": []
+    },
+    "cz": {
+      "lang": "cs",
+      "searches": {
+        "fakturace": [
+          {
+            "appId": "com.aadhk.woinvoice",
+            "title": "Faktura Jednoduché",
+            "developer": "Invoice Simple",
+            "score": 4.507576,
+            "free": false,
+            "summary": "Vytváření a odesílání faktur klientům: skvělá fakturační aplikace pro malé firmy"
+          },
+          {
+            "appId": "de.minirechnung",
+            "title": "Billdu - Faktury v mobilu",
+            "developer": "Billdu LTD",
+            "score": 4.58,
+            "free": false,
+            "summary": "Profesionální nástroj na vystavování faktur pro malé a střední firmy"
+          },
+          {
+            "appId": "au.com.speedinvoice.android",
+            "title": "Faktura, účetnictví a nabídky",
+            "developer": "SpeedInvoice",
+            "score": 4.8317757,
+            "free": false,
+            "summary": "Fakturujte a vytvářejte cenové nabídky z telefonu nebo počítače."
+          },
+          {
+            "appId": "cz.fakturyon.app",
+            "title": "Fakturyon - online fakturace",
+            "developer": "Lukáš Hronec",
+            "free": false,
+            "summary": "Fakturujte online a bez omezení. Pro OSVČ a malé firmy, plátce i neplátce DPH."
+          },
+          {
+            "appId": "com.invoice.makerpro",
+            "title": "Tvůrce faktur: Účtenky",
+            "developer": "Applications Hub.",
+            "score": 4.3333335,
+            "free": false,
+            "summary": "Vytvořte své účty a faktury pomocí nástroje Invoice Creator and Maker"
+          },
+          {
+            "appId": "com.invoice.estimate.bill.receipt.maker",
+            "title": "Faktury: Fakturace a odhady",
+            "developer": "Glipo Software",
+            "free": false,
+            "summary": "Profesionální tvorba faktur a cenových nabídek. Snadná fakturace pro firmy."
+          },
+          {
+            "appId": "com.invoicemaker.code.line.dynamic.estimatemaker.app",
+            "title": "Invoice Maker - Quick Invoice",
+            "developer": "CodeLine Dynamics INC",
+            "free": false,
+            "summary": "Invoice Generator &amp; Creator – Easily make invoices, bills, receipts &amp; estimates!"
+          },
+          {
+            "appId": "com.vtsoftware.invoice",
+            "title": "Fakturace - eFaktura",
+            "developer": "VT software",
+            "score": 0,
+            "free": false,
+            "summary": "Vytváření a správa faktur v různých měnách a řečech"
+          },
+          {
+            "appId": "com.zero.invoice",
+            "title": "Uni Invoice & Billing Manager",
+            "developer": "Zero Digit",
+            "score": 0,
+            "free": false,
+            "summary": "Tvůrce faktur pro tvorbu cenových nabídek a faktur zákazníkům, vytváření dokladů o prodeji."
+          },
+          {
+            "appId": "com.invoiceapp",
+            "title": "Simple Invoice Manager",
+            "developer": "Tacktile Systems Private Limited",
+            "score": 4.5959597,
+            "free": false,
+            "summary": "Fakturujte své klienty profesionálně. Fakturace pomocí plateb a příjmů."
+          },
+          {
+            "appId": "com.aiazing.prod",
+            "title": "Aiazing: Účetnictví pro firmy",
+            "developer": "Aiazing LLC",
+            "free": false,
+            "summary": "Fakturace, sledování výdajů, skenování účtenek a evidování ujetých kilometrů"
+          },
+          {
+            "appId": "et.job.estimator.invoice.maker",
+            "title": "Fakturační a Generátor Faktur",
+            "developer": "EclixTech",
+            "score": 5,
+            "free": false,
+            "summary": "Aplikace faktury: Vytvořit faktura online,odhad a vyúčtování s generátoru faktur"
+          },
+          {
+            "appId": "com.cc.invoice.maker.generator.estimate.bill.create",
+            "title": "Generátor Faktur & Výrobce",
+            "developer": "CC Publisher",
+            "score": 5,
+            "free": false,
+            "summary": "Vytvářejte profesionální faktury rychle a snadno s naším tvůrcem faktur."
+          },
+          {
+            "appId": "com.invoicemaker.receiptmaker.invoiceapp",
+            "title": "Faktura Maker: Účtenka Maker",
+            "developer": "One Stop Apps",
+            "free": false,
+            "summary": "Tvůrce faktur pomáhá snadno vytvářet a spravovat faktury i účtenky."
+          },
+          {
+            "appId": "efaktura.app",
+            "title": "eFaktura - program do faktur",
+            "developer": "eFaktura.nl",
+            "score": 4.4444447,
+            "free": false,
+            "summary": "Faktury a správa Vaší společnosti"
+          }
+        ],
+        "OSVČ faktura": [
+          {
+            "appId": "com.aadhk.woinvoice",
+            "title": "Faktura Jednoduché",
+            "developer": "Invoice Simple",
+            "score": 4.507576,
+            "free": false,
+            "summary": "Vytváření a odesílání faktur klientům: skvělá fakturační aplikace pro malé firmy"
+          },
+          {
+            "appId": "cz.fakturoid.android",
+            "title": "Fakturoid - faktury jednoduše",
+            "developer": "Fakturoid",
+            "score": 0,
+            "free": false,
+            "summary": "Faktury a vše kolem nich jako základ. Přidáme nabídky, náklady, statistiky…"
+          },
+          {
+            "appId": "au.com.speedinvoice.android",
+            "title": "Faktura, účetnictví a nabídky",
+            "developer": "SpeedInvoice",
+            "score": 4.8317757,
+            "free": false,
+            "summary": "Fakturujte a vytvářejte cenové nabídky z telefonu nebo počítače."
+          },
+          {
+            "appId": "com.invoicemaker.code.line.dynamic.estimatemaker.app",
+            "title": "Invoice Maker - Quick Invoice",
+            "developer": "CodeLine Dynamics INC",
+            "free": false,
+            "summary": "Invoice Generator &amp; Creator – Easily make invoices, bills, receipts &amp; estimates!"
+          },
+          {
+            "appId": "et.job.estimator.invoice.maker",
+            "title": "Fakturační a Generátor Faktur",
+            "developer": "EclixTech",
+            "score": 5,
+            "free": false,
+            "summary": "Aplikace faktury: Vytvořit faktura online,odhad a vyúčtování s generátoru faktur"
+          },
+          {
+            "appId": "com.smarttoolsdev.invoiceMaker",
+            "title": "Vytvoření Faktur: Rychle",
+            "developer": "SmartToolsDev",
+            "free": false,
+            "summary": "Vytvářejte profesionální faktury offline. Generujte a sdílejte faktury okamžitě."
+          },
+          {
+            "appId": "com.invoiceapp",
+            "title": "Simple Invoice Manager",
+            "developer": "Tacktile Systems Private Limited",
+            "score": 4.5959597,
+            "free": false,
+            "summary": "Fakturujte své klienty profesionálně. Fakturace pomocí plateb a příjmů."
+          },
+          {
+            "appId": "efaktura.app",
+            "title": "eFaktura - program do faktur",
+            "developer": "eFaktura.nl",
+            "score": 4.4444447,
+            "free": false,
+            "summary": "Faktury a správa Vaší společnosti"
+          },
+          {
+            "appId": "com.atominvoice.app",
+            "title": "Invoice Maker — Estimate App",
+            "developer": "Atom Invoice",
+            "score": 0,
+            "free": false,
+            "summary": "Vytvářejte a odesílejte faktury a odhady rychle s touto jednoduchou aplikací pro tvorbu faktur."
+          },
+          {
+            "appId": "com.tofu.invoices",
+            "title": "Invoice Maker Tofu & Receipts",
+            "developer": "GetPaid Inc.",
+            "score": 3.75,
+            "free": false,
+            "summary": "Tvůrce faktur a odhadů - vystavujte faktury, účtenky. Aplikace Fakturace pro firmy"
+          },
+          {
+            "appId": "app.invoice.android",
+            "title": "Invoice.app: Invoice Maker",
+            "developer": "Piotr Stojanowski Consulting",
+            "score": 0,
+            "free": false,
+            "summary": "Vytvářejte faktury, odhady a výdaje – rychle a profesionálně"
+          },
+          {
+            "appId": "com.zero.invoice",
+            "title": "Uni Invoice & Billing Manager",
+            "developer": "Zero Digit",
+            "score": 0,
+            "free": false,
+            "summary": "Tvůrce faktur pro tvorbu cenových nabídek a faktur zákazníkům, vytváření dokladů o prodeji."
+          },
+          {
+            "appId": "bookipi.invoice.maker.estimate.billing",
+            "title": "Invoice Maker & Estimate App",
+            "developer": "Bookipi - Billing Estimate",
+            "score": 4.59,
+            "free": false,
+            "summary": "Vytvářejte faktury, odhady a účtenky během minuty. Rychlý a spolehlivý tvůrce faktur."
+          },
+          {
+            "appId": "com.vtsoftware.invoice",
+            "title": "Fakturace - eFaktura",
+            "developer": "VT software",
+            "score": 0,
+            "free": false,
+            "summary": "Vytváření a správa faktur v různých měnách a řečech"
+          },
+          {
+            "appId": "com.invoice.makerpro",
+            "title": "Tvůrce faktur: Účtenky",
+            "developer": "Applications Hub.",
+            "score": 4.3333335,
+            "free": false,
+            "summary": "Vytvořte své účty a faktury pomocí nástroje Invoice Creator and Maker"
+          }
+        ]
+      },
+      "drills": []
+    },
+    "nl": {
+      "lang": "nl",
+      "searches": {
+        "factuur app": [
+          {
+            "appId": "com.aadhk.woinvoice",
+            "title": "Invoice Simple – Factuurmaker",
+            "developer": "Invoice Simple",
+            "score": 4.507576,
+            "free": false,
+            "summary": "Klantfacturen aanmaken&amp;versturen - de perfecte factuur app voor het kleinbedrijf"
+          },
+          {
+            "appId": "io.labhouse.invoicesapp",
+            "title": "Factuur maken - Invoice Fly",
+            "developer": "Labhouse Mobile",
+            "score": 4.111111,
+            "free": false,
+            "summary": "Klantfacturen en Schattingen aanmaken, de perfecte factuur app. Bespaar tijd."
+          },
+          {
+            "appId": "de.minirechnung",
+            "title": "Factuur & prijsopgave - Billdu",
+            "developer": "Billdu LTD",
+            "score": 4.58,
+            "free": false,
+            "summary": "Een professionele factuurmaker voor kleine bedrijven"
+          },
+          {
+            "appId": "com.zoho.invoicegenerator",
+            "title": "Invoice Generator - Zoho",
+            "developer": "Zoho Corporation",
+            "score": 4.73,
+            "free": false,
+            "summary": "Maak eenvoudig mooie facturen."
+          },
+          {
+            "appId": "app.invoice.android",
+            "title": "Invoice.app: Invoice Maker",
+            "developer": "Piotr Stojanowski Consulting",
+            "score": 0,
+            "free": false,
+            "summary": "Maak facturen, offertes en uitgaven – snel en professioneel"
+          },
+          {
+            "appId": "com.atominvoice.app",
+            "title": "Invoice Maker — Estimate App",
+            "developer": "Atom Invoice",
+            "score": 0,
+            "free": false,
+            "summary": "Maak en verstuur snel facturen en prijsopgaven met deze eenvoudige factuur-app."
+          },
+          {
+            "appId": "au.com.speedinvoice.android",
+            "title": "Factuur en offerte app",
+            "developer": "SpeedInvoice",
+            "score": 4.8317757,
+            "free": false,
+            "summary": "Factuur en offerte van uw telefoon of computer- Eenvoudig, snel en professioneel"
+          },
+          {
+            "appId": "com.invoice2go.invoice2goplus",
+            "title": "Invoice2go: factuurmaker",
+            "developer": "Invoice2Go",
+            "score": 4.08,
+            "free": false,
+            "summary": "Stuur nu facturen &amp; offertes. Bespaar tijd met automatische zakelijke rapporten."
+          },
+          {
+            "appId": "com.invoicehome.invoicehome",
+            "title": "Invoice Maker by Invoice Home",
+            "developer": "Invoice Home Inc.",
+            "score": 4.390244,
+            "free": false,
+            "summary": "Creëer, verstuur en krijg binnen enkele seconden betaald met professionele pdf-factuursjablonen."
+          },
+          {
+            "appId": "app.invoice_maker",
+            "title": "Factuur maken",
+            "developer": "Invoice Generator",
+            "score": 4.67,
+            "free": false,
+            "summary": "Eenvoudig te gebruiken factuurmaker. Simpelweg &amp; professioneel"
+          },
+          {
+            "appId": "nl.dashweb.factuursimpel",
+            "title": "Factuur Simpel: Facturen maken",
+            "developer": "Dashweb",
+            "free": false,
+            "summary": "Eenvoudig en snel professionele facturen en offertes maken"
+          },
+          {
+            "appId": "com.tofu.invoices",
+            "title": "Invoice Maker Tofu & Receipts",
+            "developer": "GetPaid Inc.",
+            "score": 3.75,
+            "free": false,
+            "summary": "Factuur- en schattingsmaker - maak facturen, bonnen. Facturatie voor zakelijke app"
+          },
+          {
+            "appId": "com.wow.invoice",
+            "title": "Invoice Maker and Estimate App",
+            "developer": "Wow Invoice LLC",
+            "free": false,
+            "summary": "Met Invoice Maker en Estimate App kunt u binnen enkele seconden facturen en schattingen maken"
+          },
+          {
+            "appId": "com.squareup.invoicesapp",
+            "title": "Square Invoices: Invoice Maker",
+            "developer": "Block, Inc.",
+            "free": false,
+            "summary": "Beheer uw zakelijke facturen, facturen en schattingen. Houd uitgaven en betalingen bij."
+          },
+          {
+            "appId": "invoice.invoicemaker.estimatemaker.billingapp",
+            "title": "Invoice Maker - InvoiceBase",
+            "developer": "Gulooloo Tech Co., Ltd.",
+            "score": 4.67,
+            "free": false,
+            "summary": "Factuur- en offertegenerator - Bespaar tijd en laat uw bedrijf groeien."
+          }
+        ],
+        "ZZP factuur": [
+          {
+            "appId": "app.rork.AanvraX",
+            "title": "AanvraX: Factuur & Offerte ZZP",
+            "developer": "UBsoft",
+            "free": false,
+            "summary": "Voor ZZP'ers: offertes, facturen en BTW in een snelle, simpele app."
+          },
+          {
+            "appId": "com.spearofdoom.zzptracker",
+            "title": "ZZP Pulse: Facturen & Uren",
+            "developer": "Hermes Business Intelligence",
+            "free": false,
+            "summary": "ZZP boekhouding: houd inkomsten, uitgaven, uren en kilometers offline bij."
+          },
+          {
+            "appId": "nl.dashweb.factuursimpel",
+            "title": "Factuur Simpel: Facturen maken",
+            "developer": "Dashweb",
+            "free": false,
+            "summary": "Eenvoudig en snel professionele facturen en offertes maken"
+          },
+          {
+            "appId": "com.invoiceasap.nativeapp",
+            "title": "Invoice ASAP: Field Service",
+            "developer": "InvoiceASAP",
+            "free": false,
+            "summary": "Eenvoudig CRM, facturatie en betalingen"
+          },
+          {
+            "appId": "au.com.speedinvoice.android",
+            "title": "Factuur en offerte app",
+            "developer": "SpeedInvoice",
+            "score": 4.8317757,
+            "free": false,
+            "summary": "Factuur en offerte van uw telefoon of computer- Eenvoudig, snel en professioneel"
+          },
+          {
+            "appId": "com.trulysmall.invoices",
+            "title": "TrulySmall Business Invoices",
+            "developer": "Kashoo Inc.",
+            "free": false,
+            "summary": "TrulySmall Invoices is de gemakkelijkste manier om als eigenaar van een klein bedrijf te factureren"
+          },
+          {
+            "appId": "com.aadhk.woinvoice",
+            "title": "Invoice Simple – Factuurmaker",
+            "developer": "Invoice Simple",
+            "score": 4.507576,
+            "free": false,
+            "summary": "Klantfacturen aanmaken&amp;versturen - de perfecte factuur app voor het kleinbedrijf"
+          },
+          {
+            "appId": "com.tofu.invoices",
+            "title": "Invoice Maker Tofu & Receipts",
+            "developer": "GetPaid Inc.",
+            "score": 3.75,
+            "free": false,
+            "summary": "Factuur- en schattingsmaker - maak facturen, bonnen. Facturatie voor zakelijke app"
+          },
+          {
+            "appId": "com.corient.invoicebull",
+            "title": "Invoice bull: Invoice maker",
+            "developer": "E2E Accounting",
+            "free": false,
+            "summary": "Invoice Bull is een tool waarmee bedrijven van elke omvang facturen kunnen maken"
+          },
+          {
+            "appId": "com.freegstbill.in",
+            "title": "GST Billing App – FreeGSTBill",
+            "developer": "Tilva Artsoft",
+            "free": false,
+            "summary": "GST-facturering, voorraadbeheer en boekhoudapp – 100% gratis voor bedrijven"
+          },
+          {
+            "appId": "com.moogletechnology.billforge",
+            "title": "BillForge - Invoice & Billing",
+            "developer": "MOOGLETECHNOLOGY",
+            "free": false,
+            "summary": "Maak facturen aan, volg betalingen en ontvang sneller je geld. Simpele factureringsapp, BillForge"
+          },
+          {
+            "appId": "com.facturafacilai.factura_facil_ai",
+            "title": "Invoice Tax Accounting",
+            "developer": "iAweb",
+            "free": false,
+            "summary": "Eenvoudige facturering, slimme belastingherinneringen en cashflowbeheer voor bedrijven in de VS en de EU."
+          },
+          {
+            "appId": "invoicemaker.receiptmaker.invoicegenerator.estimatemaker",
+            "title": "Invoice Maker: Simple & Easy",
+            "developer": "Satellite World Maps",
+            "free": false,
+            "summary": "Maak facturen, ontvangstbewijzen en offertes onderweg met Easy Invoice Maker"
+          },
+          {
+            "appId": "com.aki.offlineinvoicemaker",
+            "title": "Offline Invoice Maker",
+            "developer": "Askitloud",
+            "free": false,
+            "summary": "Maak btw- en niet-btw-facturen volledig offline aan. Geen login, geen cloud. Snel delen van pdf's."
+          },
+          {
+            "appId": "com.nexora.invoicegem",
+            "title": "Invoice Gem: Invoice & Receipt",
+            "developer": "Nexora Creatives",
+            "free": false,
+            "summary": "Maak professionele PDF-facturen en -offertes. Volg betalingen en factureer klanten snel."
+          }
+        ]
+      },
+      "drills": []
+    },
+    "se": {
+      "lang": "sv",
+      "searches": {
+        "faktura app": [
+          {
+            "appId": "com.aadhk.woinvoice",
+            "title": "Faktura Enkel",
+            "developer": "Invoice Simple",
+            "score": 4.507576,
+            "free": false,
+            "summary": "Skapa och skicka fakturor till kunder. En perfekt faktureringsapp för småföretag"
+          },
+          {
+            "appId": "com.google.android.apps.nbu.paisa.merchant",
+            "title": "Google Pay for Business",
+            "developer": "Google LLC",
+            "score": 4.2,
+            "free": false,
+            "summary": "Acceptera UPI-betalningar, beställ en SoundPod, få ett företagslån"
+          },
+          {
+            "appId": "de.minirechnung",
+            "title": "Faktura & Offert - Billdu",
+            "developer": "Billdu LTD",
+            "score": 4.58,
+            "free": false,
+            "summary": "Professionellt verktyg för att skapa fakturor för små och medelstora företag."
+          },
+          {
+            "appId": "com.phonepe.app.business",
+            "title": "PhonePe Business: Merchant App",
+            "developer": "PhonePe",
+            "score": 4,
+            "free": false,
+            "summary": "Digitala betalningar, QR-kodbetalningar, Smart Speaker, Omedelbart företagslån"
+          },
+          {
+            "appId": "com.squareup",
+            "title": "Square Point of Sale - POS",
+            "developer": "Block, Inc.",
+            "score": 3.8888888,
+            "free": false,
+            "summary": "Run your business from the point of sale that's simple, powerful and free."
+          },
+          {
+            "appId": "com.payclip.clip",
+            "title": "Clip: Acepta pagos con tarjeta",
+            "developer": "PayClip, Inc",
+            "free": false,
+            "summary": "Fortsätt och ladda med alla kredit-, betalkort och kuponger!"
+          },
+          {
+            "appId": "com.mokapos.android",
+            "title": "Moka POS - Aplikasi Kasir",
+            "developer": "PT. GoTo Gojek Tokopedia Tbk",
+            "score": 0,
+            "free": false,
+            "summary": "Ställ in ditt försäljningsställe på några minuter och driv ditt företag var som helst."
+          },
+          {
+            "appId": "com.isnet.nettefatura",
+            "title": "NetteFatura",
+            "developer": "İşNet",
+            "free": false,
+            "summary": "Skapa dina e-dokument på mobilen med NetteFatura."
+          },
+          {
+            "appId": "com.joistapp.android.joist",
+            "title": "Joist Invoice & Estimate App",
+            "developer": "Joist Software Inc.",
+            "free": false,
+            "summary": "Skapa offerter, fakturor och få betalt snabbare – utformat för entreprenörer"
+          },
+          {
+            "appId": "io.cloudwalk.infinitepaydash",
+            "title": "InfinitePay Tap, Conta, Cartão",
+            "developer": "CloudWalk",
+            "score": 4.5263157,
+            "free": false,
+            "summary": "Mobiltelefonmaskin, Pix på kredit, Pix, betalningslänk och digitalt konto"
+          },
+          {
+            "appId": "com.kaching.merchant",
+            "title": "SumUp: Betalningar och POS",
+            "developer": "SumUp",
+            "score": 3.3952801,
+            "free": false,
+            "summary": "Ta betalt och driv ditt bolag"
+          },
+          {
+            "appId": "team.opay.pay.merchant.service",
+            "title": "OPay Business",
+            "developer": "OPay Digital Services Limited",
+            "score": 4.5882354,
+            "free": false,
+            "summary": "Allt-i-ett-appen för din affärsframgång"
+          },
+          {
+            "appId": "br.com.stone.ton",
+            "title": "Ton: maquininha, tap e conta",
+            "developer": "TON S/A",
+            "score": 3.9,
+            "free": false,
+            "summary": "Mer försäljning, mer vinst! Låga avgifter från 0,57 % under en begränsad tid!"
+          },
+          {
+            "appId": "com.picpay.business",
+            "title": "PicPay Empresas: Conta PJ",
+            "developer": "PicPay",
+            "score": 0,
+            "free": false,
+            "summary": "Digitalt PJ-konto med komplett hantering: PIX, räkningar, kort och mer!"
+          },
+          {
+            "appId": "com.payoneer.android",
+            "title": "Payoneer",
+            "developer": "Payoneer Inc.",
+            "score": 3.59,
+            "free": false,
+            "summary": "Hantera dina företagsbetalningar på egen hand."
+          }
+        ],
+        "egenföretagare": [
+          {
+            "appId": "tg.statagritogo.e_agriconseil",
+            "title": "e-AgriConseil+",
+            "developer": "AIS TOGO / ProCIV V3",
+            "free": false,
+            "summary": "Råd om god jordbruksmetod"
+          },
+          {
+            "appId": "com.nonprofity.eget",
+            "title": "EGET VAKFI",
+            "developer": "EGET VAKFI",
+            "free": false,
+            "summary": "EGET Mobil är en mobilapplikation utvecklad av EGET Foundation."
+          },
+          {
+            "appId": "com.wgs.ansiao",
+            "title": "e-Ginga - Ansião",
+            "developer": "Wegoshare",
+            "free": false,
+            "summary": "Den officiella tillämpningen av Ansiãos delade cykelsystem - e-Ginga"
+          },
+          {
+            "appId": "dk.butik.egebjerg",
+            "title": "Egebjerg Købmandsgård",
+            "developer": "Egebjerg Købmandsgård A/S",
+            "free": false,
+            "summary": "Utkörning av matvaror till äldre erbjuds"
+          },
+          {
+            "appId": "io.oth.siemens_skane",
+            "title": "Egenmonitorering",
+            "developer": "Region Skåne",
+            "free": false,
+            "summary": "Dela dina värden med vården"
+          },
+          {
+            "appId": "com.egeree.app",
+            "title": "E-Geree",
+            "developer": "Powered LLC",
+            "free": false,
+            "summary": "E-Geree är ett elektroniskt avtalssystem för organisationer, företag och privatpersoner"
+          },
+          {
+            "appId": "com.egeetouch.egeetouch_commercial",
+            "title": "eGeeTouch Commercial App",
+            "developer": "DIGIPAS TECHNOLOGIES INC.",
+            "free": false,
+            "summary": "Appen tillåter användaren att utföra upplåsning och spårning av den smarta hänglåsaktiviteten"
+          },
+          {
+            "appId": "com.kmg.taguig_app",
+            "title": "Taguig App",
+            "developer": "Kosmin Media Group",
+            "free": false,
+            "summary": "Utforska Taguig och BGC med Taguig-appen, din inkörsport till allt lokalt!"
+          },
+          {
+            "appId": "gr.progressnet.pyrosvestiki",
+            "title": "e-pyrasfaleia",
+            "developer": "ProgressNet",
+            "free": false,
+            "summary": "Brandsäkerhetsstödverktyg för företag, ingenjörer och medborgare"
+          },
+          {
+            "appId": "app.orts.egestorf",
+            "title": "Gemeinde Egestorf",
+            "developer": "apicodo AG",
+            "score": 0,
+            "free": false,
+            "summary": "Information och aktuella bidrag från Egestorfs kommun."
+          },
+          {
+            "appId": "com.rocapine.eve",
+            "title": "Eve: Prenatal & Postnatal Yoga",
+            "developer": "Rocapine",
+            "free": false,
+            "summary": "Omfamna din resa som moder med mild och stärkande yoga"
+          },
+          {
+            "appId": "com.inseego.connect",
+            "title": "Inseego Mobile App",
+            "developer": "Inseego",
+            "free": false,
+            "summary": "Enkel, intuitiv app för att installera och hantera dina Inseego-enheter."
+          },
+          {
+            "appId": "com.electrolux.egatetogo",
+            "title": "eGate2Go",
+            "developer": "E Smart Apps",
+            "free": false,
+            "summary": "eGate2Go tillhandahåller den senaste informationen från Electrolux Group."
+          },
+          {
+            "appId": "com.vulog.carshare.oa.ego.prod",
+            "title": "e-GO Pure motion - Carsharing",
+            "developer": "e-GO",
+            "score": 0,
+            "free": false,
+            "summary": "Reservera, lås upp och kör elbilar problemfritt. Ladda ner nu!"
+          },
+          {
+            "appId": "nl.appeee",
+            "title": "GO Appeee",
+            "developer": "GOconnectIT B.V.",
+            "score": 3.0555556,
+            "free": false,
+            "summary": "Papperslös arbete lönar sig! Med Appeee du gör din organisation digitalt!"
+          }
+        ]
+      },
+      "drills": []
+    }
+  }
+}

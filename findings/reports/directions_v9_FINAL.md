@@ -170,11 +170,19 @@ _Source: 97 synthesized cells + Invoice Simple 3000-review drill (US/GB) + iOS 7
 
 The pricing-rage signal is **unprecedented in this dataset**: 25+ verbatim reviews above 25 thumbs across 5 countries, all in 2024-2026 window, all naming the same monetization pattern. The competitor's response template is canned and price-defensive — no CX moat. Cross-country one-codebase scaling lets a solo Greek dev compete in 4 high-ARPU markets simultaneously.
 
-### Why this might fail
+### Why this might fail (UPDATED v9 from Agent 8 validation)
 
-- Bookipi already exists as a "completely free" alt (validated by Ian Grobler review). Need to confirm Bookipi's actual quality — they may already be capturing the angry cohort. *(Agent 8 currently validating.)*
-- Wave Apps was the historical free alternative; Wave now charges $8-$190 IAP, opening the gap, but FreshBooks Lite + Square Invoice + Zoho Invoice all crowd the space too
-- Apple/Google review may scrutinize the "lifetime price never rises" promise
+**MAJOR FINDING — competitive landscape has shifted in our favor**:
+- **Wave Apps Android = DELISTED (404)** — historical free leader gone. Out of race.
+- **Bookipi defected to freemium 2024-25** — added 3-invoice/30d cap + watermark + AI features. Recent 1-star reviews: *"free forever… most recently it has begun to prompt for Subs"*, *"now asking monthly subscription for open new invoice"*, *"extortionate paywall just to fill the app with AI slop"*. **Displacement window OPEN.**
+- **Zoho Invoice is the real $0 incumbent** — `com.zoho.invoice` confirms `offersIAP: false`, 1M+ installs, 4.80★, 1.6% 1-star. THIS is the genuine threat.
+- **Direction 1 wedge MUST REPOSITION** — "$39 lifetime" alone doesn't beat Zoho's $0. Lead messaging must be **"no account required + offline-first + no cloud + no Zoho ecosystem lock-in"**. Zoho's friction points (OTP/account-verification/cross-product upselling) are the actual wedge.
+
+**Revenue context (Agent 8 validation)**: Invoice Simple ~**$2.9M/mo (~$35M/year)** per Sensor Tower public preview. Even 1% capture = $350k/year. The TAM is real. The risk shifts from "is the market big enough?" (yes, $35M/year market validated) to "can we differentiate vs Zoho?" (yes, with offline-first + no-account positioning).
+
+**Refined wedge messaging**:
+- ❌ OLD v8 wedge: "Lifetime $39 + free portability"
+- ✅ NEW v9 wedge: **"No account required. Offline-first. Your data, your device. (Optional cloud sync via Firebase free tier — no Zoho ecosystem lock-in.) Lifetime $39 unlock for unlimited invoices."**
 
 ---
 
@@ -518,9 +526,15 @@ Reasons (refined v9):
 
 This sequencing maximizes shared infrastructure: SQLite schema, PDF generator, Schedule C estimator, Multi-currency UI, GPS tracking — all reusable across Directions 1+2+3+4.
 
-### Failure mode honesty
+### Failure mode honesty (UPDATED v9 post-Agent 8)
 
-The biggest risk is **Bookipi**: surfaced from user reviews as "completely free alternative" recommendation. If Bookipi already credibly occupies "Invoice Simple alternative + free + cross-country", Direction 1's wedge collapses. Agent 8 is currently validating Bookipi's actual quality + IAP structure. If Bookipi is the real free incumbent, fall back to Direction 4 (DE Kleinunternehmer) which has a **legal wedge that Bookipi cannot easily replicate** (German localization quality + §19 expertise).
+**Bookipi risk RESOLVED**: Agent 8 confirmed Bookipi defected to freemium in 2024-25 (3-invoice/30d cap + watermark + AI). Bookipi is NO LONGER the free incumbent. Recent 1-star Bookipi reviews complain *"now asking monthly subscription"* and *"extortionate paywall just to fill the app with AI slop"*. The displacement window is **wider than v8 assumed**.
+
+**The real competitive threat is Zoho Invoice** (`com.zoho.invoice`, offersIAP=false, 1M+ installs, 4.80★, 1.6% 1-star). Zoho is genuinely free and well-built. BUT Zoho's review complaints surface OTP/account-verification friction + cross-product Zoho ecosystem upselling — both addressable by an "offline-first + no-account" positioning.
+
+**Fallback if Direction 1 stalls**: pivot to Direction 4 (DE Kleinunternehmer) which has a **legal wedge** (§19 + GoBD-compliant local archive + native German localization) that Zoho cannot easily replicate without enterprise-tier compliance investment.
+
+**Revenue confirmation**: Invoice Simple ~**$35M/year** revenue per Sensor Tower preview. 1% capture = $350k/year. TAM validated.
 
 ### Quick effort/upside cheat-sheet
 

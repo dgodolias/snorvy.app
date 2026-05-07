@@ -1,0 +1,1174 @@
+{
+  "generated_at": "2026-05-07T11:35:04.253Z",
+  "niches": {
+    "photographer_gallery": {
+      "searches": {
+        "photographer client gallery": [
+          {
+            "appId": "com.pixieset.studio",
+            "title": "Pixieset – Studio Manager",
+            "developer": "Pixieset",
+            "score": 0,
+            "free": false
+          },
+          {
+            "appId": "com.google.android.apps.photosgo",
+            "title": "Gallery",
+            "developer": "Google LLC",
+            "score": 4.1525774,
+            "free": false
+          },
+          {
+            "appId": "com.diune.pictures",
+            "title": "Piktures: Photo Gallery",
+            "developer": "DIUNE",
+            "score": 3.9846153,
+            "free": false
+          },
+          {
+            "appId": "gallery.photomanager.picturegalleryapp.imagegallery",
+            "title": "Gallery - photo gallery, album",
+            "developer": "PhotoZen Studio",
+            "score": 4.5033884,
+            "free": false
+          },
+          {
+            "appId": "photo.gallery.photoeditor.photo.album",
+            "title": "Gallery- Photo Gallery & Album",
+            "developer": "Mobile_V5",
+            "score": 4.7231407,
+            "free": false
+          },
+          {
+            "appId": "gallery.hidepictures.photovault.lockgallery",
+            "title": "Gallery - Photo Gallery, Album",
+            "developer": "InShot Inc.",
+            "score": 4.7288537,
+            "free": false
+          },
+          {
+            "appId": "org.fossify.gallery",
+            "title": "Fossify Gallery",
+            "developer": "Fossify",
+            "score": 4.4,
+            "free": false
+          },
+          {
+            "appId": "com.atomicadd.fotos",
+            "title": "A+ Gallery - Photos & Videos",
+            "developer": "AtomicAdd Team",
+            "score": 4.410687,
+            "free": false
+          },
+          {
+            "appId": "com.fstop.photo",
+            "title": "Fast Photo Gallery Pro: F-Stop",
+            "developer": "Seelye Engineering",
+            "score": 4.296296,
+            "free": false
+          },
+          {
+            "appId": "com.jsk.advancesecuregallery",
+            "title": "Advance Gallery: Secure Photos",
+            "developer": "JSK Sol",
+            "score": 0,
+            "free": false
+          },
+          {
+            "appId": "com.jag.essentialgallery",
+            "title": "Photo Gallery & Album",
+            "developer": "Seelye Engineering",
+            "score": 4.09,
+            "free": false
+          },
+          {
+            "appId": "com.shutterfly",
+            "title": "Shutterfly: Prints Cards Gifts",
+            "developer": "Shutterfly, Inc",
+            "score": 4.0333333,
+            "free": false
+          }
+        ],
+        "client proofing photography": [
+          {
+            "appId": "com.photoproof",
+            "title": "Photo Proof",
+            "developer": "Cogniter Technologies",
+            "free": false
+          },
+          {
+            "appId": "pl.pose.posica",
+            "title": "Posing App Posica Photography",
+            "developer": "Sunrise & Sunset Times",
+            "score": 4.35,
+            "free": false
+          },
+          {
+            "appId": "com.flavionet.android.camera.lite",
+            "title": "Camera FV-5 Lite",
+            "developer": "FGAE Apps",
+            "score": 3.35,
+            "free": false
+          },
+          {
+            "appId": "rayinformatics.com.phocus",
+            "title": "Phocus: DSLR Portrait Camera",
+            "developer": "RAY INFORMATICS YAZ.TEK.MED.DAN.VE EĞT.TİC.LTD.ŞTİ",
+            "score": 3.1585367,
+            "free": false
+          },
+          {
+            "appId": "com.shutterfly",
+            "title": "Shutterfly: Prints Cards Gifts",
+            "developer": "Shutterfly, Inc",
+            "score": 4.0333333,
+            "free": false
+          },
+          {
+            "appId": "com.blink.academy.protake",
+            "title": "Protake - Mobile Cinema Camera",
+            "developer": "Beijing Lingguang Zaixian Information Technology",
+            "score": 3.0769231,
+            "free": false
+          },
+          {
+            "appId": "eyu.on.pica",
+            "title": "@picn2k camera",
+            "developer": "2U",
+            "score": 4.2,
+            "free": false
+          },
+          {
+            "appId": "com.snapwood.smugfolio",
+            "title": "SmugMug - Photography Platform",
+            "developer": "SmugMug Inc.",
+            "score": 4.1666665,
+            "free": false
+          },
+          {
+            "appId": "com.captureapp.proofsnap",
+            "title": "ProofSnap – Photo Proof Cam",
+            "developer": "Numbers Co., Ltd.",
+            "free": false
+          },
+          {
+            "appId": "com.intermedia.hd.camera.professional",
+            "title": "ProCam X - Lite :HD Camera Pro",
+            "developer": "Imagi Mobile",
+            "score": 4.21,
+            "free": false
+          },
+          {
+            "appId": "com.oceangalaxy.camera.new",
+            "title": "Timemark: Photo Proof",
+            "developer": "OG Co.",
+            "score": 4.82,
+            "free": false
+          },
+          {
+            "appId": "com.fujifilm.instaxup",
+            "title": "instax UP! -Scan instax photos",
+            "developer": "FUJIFILM Corporation",
+            "score": 3.6632652,
+            "free": false
+          }
+        ],
+        "pixieset": [
+          {
+            "appId": "com.pixieset.studio",
+            "title": "Pixieset – Studio Manager",
+            "developer": "Pixieset",
+            "score": 0,
+            "free": false
+          },
+          {
+            "appId": "com.niksoftware.snapseed",
+            "title": "Snapseed",
+            "developer": "Google LLC",
+            "score": 3.9849625,
+            "free": false
+          },
+          {
+            "appId": "com.google.android.apps.photosgo",
+            "title": "Gallery",
+            "developer": "Google LLC",
+            "score": 4.1525774,
+            "free": false
+          },
+          {
+            "appId": "com.cardinalblue.piccollage.google",
+            "title": "PicCollage: Photo Video Editor",
+            "developer": "Cardinal Blue Software, Inc.",
+            "score": 4.6141834,
+            "free": false
+          },
+          {
+            "appId": "com.google.android.apps.photos",
+            "title": "Google Photos",
+            "developer": "Google LLC",
+            "score": 4.27175,
+            "free": false
+          },
+          {
+            "appId": "com.amazon.clouddrive.photos",
+            "title": "Amazon Photos: Photo & Video",
+            "developer": "Amazon Mobile LLC",
+            "score": 4.6541796,
+            "free": false
+          },
+          {
+            "appId": "com.photoroom.app",
+            "title": "Photoroom: AI Photo Editor",
+            "developer": "Photoroom AI Photo Editor",
+            "score": 4.6038647,
+            "free": false
+          },
+          {
+            "appId": "com.vsco.cam",
+            "title": "VSCO: Photo Editor",
+            "developer": "VSCO",
+            "score": 2.677686,
+            "free": false
+          },
+          {
+            "appId": "photo.editor.photoeditor.filtersforpictures",
+            "title": "AI Photo Editor - Lumii",
+            "developer": "InShot Video Editor",
+            "score": 4.7205963,
+            "free": false
+          },
+          {
+            "appId": "com.adobe.psmobile",
+            "title": "Photoshop Express Photo Editor",
+            "developer": "Adobe",
+            "score": 4.4395475,
+            "free": false
+          },
+          {
+            "appId": "com.pixlr.express",
+            "title": "Pixlr AI Photo & Video Editor",
+            "developer": "Pixlr Pte Ltd",
+            "score": 3.761394,
+            "free": false
+          },
+          {
+            "appId": "com.adobe.lrmobile",
+            "title": "Lightroom Photo & Video Editor",
+            "developer": "Adobe",
+            "score": 4.4059167,
+            "free": false
+          }
+        ],
+        "pic-time": [
+          {
+            "appId": "com.pic_time",
+            "title": "Pic-Time",
+            "developer": "Pic-Time Inc",
+            "score": 4.3076925,
+            "free": false
+          },
+          {
+            "appId": "com.timehop",
+            "title": "Timehop - Memories Then & Now",
+            "developer": "Punchbowl",
+            "score": 3.38,
+            "free": false
+          },
+          {
+            "appId": "com.cardinalblue.piccollage.google",
+            "title": "PicCollage: Photo Video Editor",
+            "developer": "Cardinal Blue Software, Inc.",
+            "score": 4.6141834,
+            "free": false
+          },
+          {
+            "appId": "works.jubilee.timetree",
+            "title": "TimeTree - Shared Calendar",
+            "developer": "TimeTree, Inc.",
+            "score": 4.557768,
+            "free": false
+          },
+          {
+            "appId": "com.bigwinepot.nwdn.international",
+            "title": "Remini - AI Photo Enhancer",
+            "developer": "Bending Spoons",
+            "score": 4.2345753,
+            "free": false
+          },
+          {
+            "appId": "com.jeyluta.timestampcamerafree",
+            "title": "Timestamp Camera",
+            "developer": "Bian Di",
+            "score": 4.5728154,
+            "free": false
+          },
+          {
+            "appId": "com.Nishant.Singh.DroidTimelapse",
+            "title": "Framelapse 2 Time Lapse Camera",
+            "developer": "Neximo Tech",
+            "score": 3.57,
+            "free": false
+          },
+          {
+            "appId": "com.picsart.studio",
+            "title": "Picsart AI Photo Editor, Video",
+            "developer": "PicsArt, Inc.",
+            "score": 3.9382715,
+            "free": false
+          },
+          {
+            "appId": "com.picmonkey.picmonkey",
+            "title": "PicMonkey Photo Editor",
+            "developer": "Shutterstock Inc.",
+            "score": 3.4554455,
+            "free": false
+          },
+          {
+            "appId": "com.oceangalaxy.camera.new",
+            "title": "Timemark: Photo Proof",
+            "developer": "OG Co.",
+            "score": 4.81,
+            "free": false
+          },
+          {
+            "appId": "com.kwicpic",
+            "title": "Kwikpic - Smart Photo Sharing",
+            "developer": "Kwikpic Ai Solutions Private Limited",
+            "score": 0,
+            "free": false
+          },
+          {
+            "appId": "com.meamobile.picdrop",
+            "title": "Pic Print – Easy Printing",
+            "developer": "Photo Printing by SoftwareX",
+            "score": 0,
+            "free": false
+          }
+        ],
+        "shootproof": [
+          {
+            "appId": "de.mehmer.shootingproof",
+            "title": "ShootingProof",
+            "developer": "Markus Mock",
+            "score": 0,
+            "free": false
+          },
+          {
+            "appId": "com.instagram.android",
+            "title": "Instagram",
+            "developer": "Instagram",
+            "score": 4.1769724,
+            "free": false
+          },
+          {
+            "appId": "com.google.android.apps.photos",
+            "title": "Google Photos",
+            "developer": "Google LLC",
+            "score": 4.27175,
+            "free": false
+          },
+          {
+            "appId": "com.adobe.lrmobile",
+            "title": "Lightroom Photo & Video Editor",
+            "developer": "Adobe",
+            "score": 4.4059167,
+            "free": false
+          },
+          {
+            "appId": "com.google.android.apps.photosgo",
+            "title": "Gallery",
+            "developer": "Google LLC",
+            "score": 4.1525774,
+            "free": false
+          },
+          {
+            "appId": "com.photoroom.app",
+            "title": "Photoroom: AI Photo Editor",
+            "developer": "Photoroom AI Photo Editor",
+            "score": 4.6038647,
+            "free": false
+          },
+          {
+            "appId": "com.adobe.psmobile",
+            "title": "Photoshop Express Photo Editor",
+            "developer": "Adobe",
+            "score": 4.4395475,
+            "free": false
+          },
+          {
+            "appId": "com.vsco.cam",
+            "title": "VSCO: Photo Editor",
+            "developer": "VSCO",
+            "score": 2.677686,
+            "free": false
+          },
+          {
+            "appId": "com.amazon.clouddrive.photos",
+            "title": "Amazon Photos: Photo & Video",
+            "developer": "Amazon Mobile LLC",
+            "score": 4.6541796,
+            "free": false
+          },
+          {
+            "appId": "com.google.earth",
+            "title": "Google Earth",
+            "developer": "Google LLC",
+            "score": 3.6436,
+            "free": false
+          },
+          {
+            "appId": "com.niksoftware.snapseed",
+            "title": "Snapseed",
+            "developer": "Google LLC",
+            "score": 3.9849625,
+            "free": false
+          },
+          {
+            "appId": "photo.editor.photoeditor.filtersforpictures",
+            "title": "AI Photo Editor - Lumii",
+            "developer": "InShot Video Editor",
+            "score": 4.7205963,
+            "free": false
+          }
+        ]
+      },
+      "drills": []
+    },
+    "fsbo_real_estate": {
+      "searches": {
+        "for sale by owner": [
+          {
+            "appId": "com.zillow.android.zillowmap",
+            "title": "Zillow: Homes for Sale & Rent",
+            "developer": "Zillow",
+            "score": 4.7777777,
+            "free": false
+          },
+          {
+            "appId": "com.mycompany.markmyproperty",
+            "title": "Mark My Property: Buy | Sell",
+            "developer": "MarkMyProperty",
+            "free": false
+          },
+          {
+            "appId": "com.nnacres.app",
+            "title": "99acres Buy/Rent/Sell Property",
+            "developer": "infoedge.com",
+            "score": 4.2058825,
+            "free": false
+          },
+          {
+            "appId": "com.homes.homesdotcom",
+            "title": "Homes.com Real Estate & Rent",
+            "developer": "CoStar Homes.com Android Team",
+            "score": 4.4545455,
+            "free": false
+          },
+          {
+            "appId": "com.redfin.android",
+            "title": "Redfin: Buy, Sell & Rent Homes",
+            "developer": "Redfin",
+            "score": 4.72,
+            "free": false
+          },
+          {
+            "appId": "com.trulia.android",
+            "title": "Trulia: Homes For Sale & Rent",
+            "developer": "Trulia",
+            "score": 4.8,
+            "free": false
+          },
+          {
+            "appId": "com.move.realtor",
+            "title": "Realtor.com Real Estate & Rent",
+            "developer": "realtor.com®",
+            "score": 4.788889,
+            "free": false
+          },
+          {
+            "appId": "org.estatesales.esbuyerapp",
+            "title": "Estate Sale Finder",
+            "developer": "Treasure Listings",
+            "free": false
+          },
+          {
+            "appId": "com.offerup",
+            "title": "OfferUp Buy & Sell Marketplace",
+            "developer": "OfferUp Inc.",
+            "score": 0,
+            "free": false
+          },
+          {
+            "appId": "org.craigslist.CraigslistMobile",
+            "title": "craigslist",
+            "developer": "craigslist.org",
+            "score": 0,
+            "free": false
+          },
+          {
+            "appId": "com.auction.resi.buyer",
+            "title": "Auction.com - Homes for Sale",
+            "developer": "Auction.com, LLC",
+            "free": false
+          },
+          {
+            "appId": "com.listglobally.properstar",
+            "title": "Properstar: Buy & Rent Homes",
+            "developer": "Properstar",
+            "score": 4.55,
+            "free": false
+          }
+        ],
+        "fsbo real estate": [
+          {
+            "appId": "com.resale.beitbook",
+            "title": "FSBO - Real Estate",
+            "developer": "KERLOS ROMANY",
+            "free": false
+          },
+          {
+            "appId": "com.zillow.android.zillowmap",
+            "title": "Zillow: Homes for Sale & Rent",
+            "developer": "Zillow",
+            "score": 4.7777777,
+            "free": false
+          },
+          {
+            "appId": "com.redfin.android",
+            "title": "Redfin: Buy, Sell & Rent Homes",
+            "developer": "Redfin",
+            "score": 4.72,
+            "free": false
+          },
+          {
+            "appId": "com.move.realtor",
+            "title": "Realtor.com Real Estate & Rent",
+            "developer": "realtor.com®",
+            "score": 4.788889,
+            "free": false
+          },
+          {
+            "appId": "com.homes.homesdotcom",
+            "title": "Homes.com Real Estate & Rent",
+            "developer": "CoStar Homes.com Android Team",
+            "score": 4.4545455,
+            "free": false
+          },
+          {
+            "appId": "com.xome.android",
+            "title": "Real Estate by Xome",
+            "developer": "Xome Inc",
+            "free": false
+          },
+          {
+            "appId": "com.trulia.android",
+            "title": "Trulia: Homes For Sale & Rent",
+            "developer": "Trulia",
+            "score": 4.8,
+            "free": false
+          },
+          {
+            "appId": "com.realbricks",
+            "title": "Realbricks - Real Estate App",
+            "developer": "Realbricks",
+            "free": false
+          },
+          {
+            "appId": "com.sima.realestatelicense",
+            "title": "Real Estate Exam Prep 2026",
+            "developer": "Easy Prep",
+            "free": false
+          },
+          {
+            "appId": "com.edupass.realestate",
+            "title": "Real Estate Practice Test 2026",
+            "developer": "Easy Pass E-Learning",
+            "free": false
+          },
+          {
+            "appId": "realestate.exam",
+            "title": "Real Estate Exam Prep 2026",
+            "developer": "Pass Your Exam",
+            "free": false
+          },
+          {
+            "appId": "com.listglobally.properstar",
+            "title": "Properstar: Buy & Rent Homes",
+            "developer": "Properstar",
+            "score": 4.55,
+            "free": false
+          }
+        ],
+        "sell home owner": [
+          {
+            "appId": "com.zillow.android.zillowmap",
+            "title": "Zillow: Homes for Sale & Rent",
+            "developer": "Zillow",
+            "score": 4.7777777,
+            "free": false
+          },
+          {
+            "appId": "com.homes.homesdotcom",
+            "title": "Homes.com Real Estate & Rent",
+            "developer": "CoStar Homes.com Android Team",
+            "score": 4.4545455,
+            "free": false
+          },
+          {
+            "appId": "com.redfin.android",
+            "title": "Redfin: Buy, Sell & Rent Homes",
+            "developer": "Redfin",
+            "score": 4.72,
+            "free": false
+          },
+          {
+            "appId": "com.move.realtor",
+            "title": "Realtor.com Real Estate & Rent",
+            "developer": "realtor.com®",
+            "score": 4.788889,
+            "free": false
+          },
+          {
+            "appId": "com.trulia.android",
+            "title": "Trulia: Homes For Sale & Rent",
+            "developer": "Trulia",
+            "score": 4.8,
+            "free": false
+          },
+          {
+            "appId": "com.listglobally.properstar",
+            "title": "Properstar: Buy & Rent Homes",
+            "developer": "Properstar",
+            "score": 4.55,
+            "free": false
+          },
+          {
+            "appId": "com.nnacres.app",
+            "title": "99acres Buy/Rent/Sell Property",
+            "developer": "infoedge.com",
+            "score": 4.2058825,
+            "free": false
+          },
+          {
+            "appId": "com.locon.housing",
+            "title": "Housing: Buy, Rent, Sell & Pay",
+            "developer": "Housing",
+            "score": 4.193548,
+            "free": false
+          },
+          {
+            "appId": "com.auction.resi.buyer",
+            "title": "Auction.com - Homes for Sale",
+            "developer": "Auction.com, LLC",
+            "free": false
+          },
+          {
+            "appId": "com.mycompany.markmyproperty",
+            "title": "Mark My Property: Buy | Sell",
+            "developer": "MarkMyProperty",
+            "free": false
+          },
+          {
+            "appId": "com.rent",
+            "title": "Rent. Apartments & Homes",
+            "developer": "Rent Group, Inc",
+            "free": false
+          },
+          {
+            "appId": "es.roid.and.trovit",
+            "title": "Real Estate sale & rent Trovit",
+            "developer": "Trovit",
+            "score": 3.625,
+            "free": false
+          }
+        ],
+        "private property listing": [
+          {
+            "appId": "com.privatepropertyandroid.app",
+            "title": "Private Property",
+            "developer": "Private Property SA",
+            "score": 0,
+            "free": false
+          },
+          {
+            "appId": "com.zillow.android.zillowmap",
+            "title": "Zillow: Homes for Sale & Rent",
+            "developer": "Zillow",
+            "score": 4.7777777,
+            "free": false
+          },
+          {
+            "appId": "ng.com.privateproperty.app",
+            "title": "Private Property Nigeria",
+            "developer": "Private Property Africa",
+            "free": false
+          },
+          {
+            "appId": "com.trulia.android",
+            "title": "Trulia: Homes For Sale & Rent",
+            "developer": "Trulia",
+            "score": 4.8,
+            "free": false
+          },
+          {
+            "appId": "com.move.realtor",
+            "title": "Realtor.com Real Estate & Rent",
+            "developer": "realtor.com®",
+            "score": 4.788889,
+            "free": false
+          },
+          {
+            "appId": "com.apartmentlist.mobile",
+            "title": "Apartment List: Rent app",
+            "developer": "Apartment List",
+            "free": false
+          },
+          {
+            "appId": "com.privatepropertyghana.app",
+            "title": "Private Property Ghana",
+            "developer": "Private Property Africa",
+            "free": false
+          },
+          {
+            "appId": "com.nnacres.app",
+            "title": "99acres Buy/Rent/Sell Property",
+            "developer": "infoedge.com",
+            "score": 4.2058825,
+            "free": false
+          },
+          {
+            "appId": "com.trulia.android.rentals",
+            "title": "Trulia Rent Apartments & Homes",
+            "developer": "Trulia",
+            "score": 4.551724,
+            "free": false
+          },
+          {
+            "appId": "com.rent",
+            "title": "Rent. Apartments & Homes",
+            "developer": "Rent Group, Inc",
+            "free": false
+          },
+          {
+            "appId": "com.redfin.android",
+            "title": "Redfin: Buy, Sell & Rent Homes",
+            "developer": "Redfin",
+            "score": 4.72,
+            "free": false
+          },
+          {
+            "appId": "com.homes.homesdotcom",
+            "title": "Homes.com Real Estate & Rent",
+            "developer": "CoStar Homes.com Android Team",
+            "score": 4.4545455,
+            "free": false
+          }
+        ]
+      },
+      "drills": []
+    },
+    "pet_groomer_walker": {
+      "searches": {
+        "dog walker job tracker": [
+          {
+            "appId": "com.ionicframework.wagandroid554504",
+            "title": "Wag! - Dog Walkers & Sitters",
+            "developer": "Wag Labs, Inc.",
+            "free": false
+          },
+          {
+            "appId": "com.rover.android",
+            "title": "Rover - Dog Boarding & Walking",
+            "developer": "Rover.com",
+            "score": 3.45,
+            "free": false
+          },
+          {
+            "appId": "com.dogwalker.app",
+            "title": "DogWalker",
+            "developer": "Larry-Barel",
+            "free": false
+          },
+          {
+            "appId": "com.petbacker.android",
+            "title": "PetBacker-Dog Boarding, Sitter",
+            "developer": "Pet Backer | Your Trusted House Sitter for Pets",
+            "score": 3.9868422,
+            "free": false
+          },
+          {
+            "appId": "com.anotherdogwalker.scout",
+            "title": "Another Dog Walker",
+            "developer": "PetMethod LLC",
+            "free": false
+          },
+          {
+            "appId": "com.scoutforpets.staff",
+            "title": "Scout for Dog Walkers",
+            "developer": "PetMethod LLC",
+            "score": 0,
+            "free": false
+          },
+          {
+            "appId": "com.fatbadgermedia.MyPetWalker",
+            "title": "My Pet Walker",
+            "developer": "My Pet Walker Ltd",
+            "free": false
+          },
+          {
+            "appId": "com.wag.walker",
+            "title": "Wag! Pet Caregiver",
+            "developer": "Wag Labs, Inc.",
+            "free": false
+          },
+          {
+            "appId": "com.fanclawsmobile",
+            "title": "FanClaws dog walkers & sitters",
+            "developer": "Fanclaws SIA",
+            "score": 0,
+            "free": false
+          },
+          {
+            "appId": "com.sweetss.timetopet",
+            "title": "Time To Pet - Pet Care App",
+            "developer": "Time To Pet",
+            "score": 0,
+            "free": false
+          },
+          {
+            "appId": "com.doggoapp.walker",
+            "title": "DogGO Walker",
+            "developer": "DogGO App",
+            "free": false
+          },
+          {
+            "appId": "com.treatwalk.dog.app",
+            "title": "TreatWalk: Dog Walk Tracker",
+            "developer": "TreatWalk",
+            "score": 0,
+            "free": false
+          }
+        ],
+        "pet sitter app": [
+          {
+            "appId": "com.rover.android",
+            "title": "Rover - Dog Boarding & Walking",
+            "developer": "Rover.com",
+            "score": 3.45,
+            "free": false
+          },
+          {
+            "appId": "com.wag.walker",
+            "title": "Wag! Pet Caregiver",
+            "developer": "Wag Labs, Inc.",
+            "free": false
+          },
+          {
+            "appId": "com.zerosgroup.petme",
+            "title": "Petme: Social & Pet Sitting",
+            "developer": "Petme",
+            "score": 2.8333333,
+            "free": false
+          },
+          {
+            "appId": "com.sittsy.app",
+            "title": "Sittsy - Trusted Pet Sitters",
+            "developer": "Sittsy, LLC",
+            "score": 4.483871,
+            "free": false
+          },
+          {
+            "appId": "com.petbacker.android",
+            "title": "PetBacker-Dog Boarding, Sitter",
+            "developer": "Pet Backer | Your Trusted House Sitter for Pets",
+            "score": 3.9868422,
+            "free": false
+          },
+          {
+            "appId": "com.ionicframework.wagandroid554504",
+            "title": "Wag! - Dog Walkers & Sitters",
+            "developer": "Wag Labs, Inc.",
+            "free": false
+          },
+          {
+            "appId": "com.pawshake.android",
+            "title": "Pawshake - Dog & Cat Sitter",
+            "developer": "Pawshake, Inc.",
+            "score": 4.7981653,
+            "free": false
+          },
+          {
+            "appId": "com.trustedhousesitters.TrustedHousesitters",
+            "title": "TrustedHousesitters",
+            "developer": "TrustedHousesitters Ltd",
+            "score": 4.28,
+            "free": false
+          },
+          {
+            "appId": "com.sweetss.timetopet",
+            "title": "Time To Pet - Pet Care App",
+            "developer": "Time To Pet",
+            "score": 0,
+            "free": false
+          },
+          {
+            "appId": "com.diddydashboard.android",
+            "title": "Pet Sitter Dashboard",
+            "developer": "Pet Sitter Dashboard",
+            "free": false
+          },
+          {
+            "appId": "com.cloudypetcare.petcareapp",
+            "title": "Cloudy Pet Sitter & Dog Walker",
+            "developer": "AZ Global",
+            "free": false
+          },
+          {
+            "appId": "com.fanclawsmobile",
+            "title": "FanClaws dog walkers & sitters",
+            "developer": "Fanclaws SIA",
+            "score": 0,
+            "free": false
+          }
+        ],
+        "pet groomer business": [
+          {
+            "appId": "net.tapgroom",
+            "title": "TapGroom Pet Grooming Salon",
+            "developer": "TapStyle Pty Ltd",
+            "score": 4.857143,
+            "free": false
+          },
+          {
+            "appId": "com.NokoGames.PetGroomer",
+            "title": "Pet Groomer",
+            "developer": "Noko Games",
+            "free": false
+          },
+          {
+            "appId": "com.groomersapk1.groomersvendor",
+            "title": "Groomers: For Business",
+            "developer": "Groomers",
+            "free": false
+          },
+          {
+            "appId": "co.groomers.customer",
+            "title": "Groomers: Beauty & Pet Care",
+            "developer": "Groomers",
+            "free": false
+          },
+          {
+            "appId": "com.moego_brand.groombar",
+            "title": "GROOMBAR: for Pet Parents",
+            "developer": "EarthWise Pet",
+            "free": false
+          },
+          {
+            "appId": "com.groomer.groomerio",
+            "title": "Groomer.io",
+            "developer": "Groomer.io",
+            "free": false
+          },
+          {
+            "appId": "za.co.mypetparlorapp.barkbuff",
+            "title": "Bark & Buff Pet Grooming",
+            "developer": "MyBusiness App",
+            "free": false
+          },
+          {
+            "appId": "com.bigprogroomer.user",
+            "title": "Groomeer",
+            "developer": "Groomeer LLC",
+            "free": false
+          },
+          {
+            "appId": "com.groomit.inc.groomit",
+            "title": "Groomit – On-Demand Grooming",
+            "developer": "Groomit for Pets LLC",
+            "free": false
+          },
+          {
+            "appId": "com.ixdg.ani.mon",
+            "title": "Pet Shop Manager Simulation",
+            "developer": "Unicorn Studio Official",
+            "score": 4.57,
+            "free": false
+          },
+          {
+            "appId": "com.petsy.veterinary.appointment.app",
+            "title": "GoPetsy-Pet Grooming & Vet App",
+            "developer": "Loma Studios",
+            "free": false
+          },
+          {
+            "appId": "com.groomore.scheduler",
+            "title": "GrooMore pet grooming software",
+            "developer": "GrooMore, Inc.",
+            "free": false
+          }
+        ],
+        "pet sitting scheduler": [
+          {
+            "appId": "com.ionicframework.wagandroid554504",
+            "title": "Wag! - Dog Walkers & Sitters",
+            "developer": "Wag Labs, Inc.",
+            "free": false
+          },
+          {
+            "appId": "com.rover.android",
+            "title": "Rover - Dog Boarding & Walking",
+            "developer": "Rover.com",
+            "score": 3.45,
+            "free": false
+          },
+          {
+            "appId": "com.pawshake.android",
+            "title": "Pawshake - Dog & Cat Sitter",
+            "developer": "Pawshake, Inc.",
+            "score": 4.7981653,
+            "free": false
+          },
+          {
+            "appId": "com.petbacker.android",
+            "title": "PetBacker-Dog Boarding, Sitter",
+            "developer": "Pet Backer | Your Trusted House Sitter for Pets",
+            "score": 3.9868422,
+            "free": false
+          },
+          {
+            "appId": "com.wag.walker",
+            "title": "Wag! Pet Caregiver",
+            "developer": "Wag Labs, Inc.",
+            "free": false
+          },
+          {
+            "appId": "com.sweetss.timetopet",
+            "title": "Time To Pet - Pet Care App",
+            "developer": "Time To Pet",
+            "score": 0,
+            "free": false
+          },
+          {
+            "appId": "com.diddydashboard.android",
+            "title": "Pet Sitter Dashboard",
+            "developer": "Pet Sitter Dashboard",
+            "free": false
+          },
+          {
+            "appId": "com.sittsy.app",
+            "title": "Sittsy - Trusted Pet Sitters",
+            "developer": "Sittsy, LLC",
+            "score": 4.483871,
+            "free": false
+          },
+          {
+            "appId": "com.zerosgroup.petme",
+            "title": "Petme: Social & Pet Sitting",
+            "developer": "Petme",
+            "score": 2.8333333,
+            "free": false
+          },
+          {
+            "appId": "com.luppy.petcare",
+            "title": "Pet Sitting & Pet Care & AI",
+            "developer": "Luppy Pet Care",
+            "free": false
+          },
+          {
+            "appId": "com.dotimely.walkcarelove",
+            "title": "The Pet Sitting Co.",
+            "developer": "DoTimely",
+            "free": false
+          },
+          {
+            "appId": "com.petchat",
+            "title": "PetChat: Trusted Pet Sitters",
+            "developer": "KY Vision Group Limited",
+            "free": false
+          }
+        ],
+        "dog walking business": [
+          {
+            "appId": "com.ionicframework.wagandroid554504",
+            "title": "Wag! - Dog Walkers & Sitters",
+            "developer": "Wag Labs, Inc.",
+            "free": false
+          },
+          {
+            "appId": "com.rover.android",
+            "title": "Rover - Dog Boarding & Walking",
+            "developer": "Rover.com",
+            "score": 3.45,
+            "free": false
+          },
+          {
+            "appId": "com.petbacker.android",
+            "title": "PetBacker-Dog Boarding, Sitter",
+            "developer": "Pet Backer | Your Trusted House Sitter for Pets",
+            "score": 3.9868422,
+            "free": false
+          },
+          {
+            "appId": "com.wag.walker",
+            "title": "Wag! Pet Caregiver",
+            "developer": "Wag Labs, Inc.",
+            "free": false
+          },
+          {
+            "appId": "com.scoutforpets.staff",
+            "title": "Scout for Dog Walkers",
+            "developer": "PetMethod LLC",
+            "score": 0,
+            "free": false
+          },
+          {
+            "appId": "com.codekaro.skilled_k9_dog_services",
+            "title": "Dog walking|Esprit Canin",
+            "developer": "Xaptis Solutions",
+            "free": false
+          },
+          {
+            "appId": "com.fanclawsmobile",
+            "title": "FanClaws dog walkers & sitters",
+            "developer": "Fanclaws SIA",
+            "score": 0,
+            "free": false
+          },
+          {
+            "appId": "com.dog.life.walking.simulator",
+            "title": "Dog Walking - Pet Sitting Game",
+            "developer": "Hyper Joy Games",
+            "free": false
+          },
+          {
+            "appId": "com.diddydashboard.android",
+            "title": "Pet Sitter Dashboard",
+            "developer": "Pet Sitter Dashboard",
+            "free": false
+          },
+          {
+            "appId": "com.ionicframework.dogwalkmobileapp907036",
+            "title": "Spot Dog Walking",
+            "developer": "Spot Walk",
+            "free": false
+          },
+          {
+            "appId": "com.sweetss.timetopet",
+            "title": "Time To Pet - Pet Care App",
+            "developer": "Time To Pet",
+            "score": 0,
+            "free": false
+          },
+          {
+            "appId": "com.pawshake.android",
+            "title": "Pawshake - Dog & Cat Sitter",
+            "developer": "Pawshake, Inc.",
+            "score": 4.7981653,
+            "free": false
+          }
+        ]
+      },
+      "drills": []
+    }
+  }
+}

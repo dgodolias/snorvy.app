@@ -1,0 +1,649 @@
+{
+  "taxman_forfettario": {
+    "appId": "com.haistudios.taxman",
+    "title": "TaxMan - Regime Forfettario",
+    "developer": "TaxMan S.r.l.s.",
+    "installs": "10.000+",
+    "minInstalls": 10000,
+    "score": 4.45,
+    "ratings": 301,
+    "reviews": 115,
+    "free": true,
+    "price": 0,
+    "released": "25 ago 2017",
+    "updated": 1764251752000,
+    "summary": "La app gratis per la partita IVA scelta da oltre 20.000 freelance",
+    "total_pulled": 100,
+    "low_count": 19,
+    "low_pct_all": 19,
+    "recent_90d_count": 4,
+    "recent_low_count": 0,
+    "recent_low_pct": 0,
+    "top_low_by_thumbs": [
+      {
+        "score": 1,
+        "thumbsUp": 4,
+        "text": "Non mi permette di inserire servizi come altre prestazioni svolte, ma solo prodotti come se gestissi un'attivita di vendita al dettaglio. Inutile nel mio caso.  Replica:  sì, cliccando su \"prodotti\", c'è scritto \"nome prodotto o servizio\" e inserisco la mia prestazione, ma nei seguenti campi, viene richiesto  l inserimento di: - codice prodotto - costo unitario (iva esclusa) - percentuale iva - quantità e sconto Poi cosa significa \"Non imponibile\" ? Nel mio caso, devo flaggarlo o no?  Se non ins",
+        "date": "2019-05-09T12:10:22.814Z",
+        "user": "Un utente Google"
+      },
+      {
+        "score": 1,
+        "thumbsUp": 2,
+        "text": "Purtroppo la mia esperienza è stata estremamente negativa. Taxman potrebbe essere un servizio incredibile e difficilmenre superabile da altri competitor, ma l'impreparazione imbarazzante e la non professionalità di alcuni collaboratori rende il servizio un incubo. Errori grossolani (nel mio caso: dichiarazione rifatta 5 volte), comunicazione difficoltosa lenta e insoddisfacente, inaffidabilità e disponibilità a spiegare inesistente. Consiglio solo se avete pochi soldi e dichiarazioni facili.",
+        "date": "2024-09-11T14:03:11.346Z",
+        "user": "Matti Cheti"
+      },
+      {
+        "score": 1,
+        "thumbsUp": 2,
+        "text": "Le fatture in PDF create non sono visualizzabili. File corrotto.",
+        "date": "2021-12-06T22:20:55.802Z",
+        "user": "Karl Dent"
+      },
+      {
+        "score": 2,
+        "thumbsUp": 2,
+        "text": "Ma disdire entro il mese solare tipo : 12 marzo - 12 aprile opppure effetivo 12 marzo - 31 marzo ?",
+        "date": "2020-03-24T12:37:51.920Z",
+        "user": "Un utente Google"
+      },
+      {
+        "score": 2,
+        "thumbsUp": 2,
+        "text": "sembra fare quello che descrive. Peccato non si possano inserire gli anni precedenti al 2018. risulta più difficoltoso inserire i pagamenti di tributi e previdenza. tuttavia il problema non si pone perche se provo a cambiare anno in 2018 l'app si chiude",
+        "date": "2019-02-27T10:10:26.891Z",
+        "user": "Un utente Google"
+      },
+      {
+        "score": 2,
+        "thumbsUp": 2,
+        "text": "Appena installato... Non trovo la voce di spesa per i dipendenti",
+        "date": "2018-11-14T19:10:03.353Z",
+        "user": "Un utente Google"
+      },
+      {
+        "score": 2,
+        "thumbsUp": 1,
+        "text": "Non funziona la chat di supporto dalla app e i flag avanzati ricevuti dalla vostra mail non si integrano, e non posso finir di fatturare, contattatemi grazie",
+        "date": "2024-07-02T19:27:13.616Z",
+        "user": "Ale Vaccari"
+      },
+      {
+        "score": 1,
+        "thumbsUp": 1,
+        "text": "Durante la creazione della fattura i campi destinatario sono tutti \"null\" nonostante nell'app siano definiti correttamente. Pur disabilitando la rivalsa INPS viene comunque aggiunta in fattura. Richiedo un rimborso dell'abbonamento in quanto l'app non è funzionante",
+        "date": "2020-08-04T19:30:10.137Z",
+        "user": "Simone Filippini"
+      },
+      {
+        "score": 2,
+        "thumbsUp": 0,
+        "text": "Ho fatto un anno come loro cliente con il piano full, in quanto sono anche dipendente. La mia esperienza è stata insoddisfacente. Scrivono che offrono supporto in chat 24/24 ma a metà luglio ho mandato un messaggio ai commercialisti chiedendo aiuto nella compilazione di un foglio aziendale, ho ricevuto risposta il 1 settembre e la risposta è stata: noi non ci occupiamo di queste cose. Quindi sì, se avete solo p.iva ci può anche stare rivolgersi a loro, altrimenti andate altrove...",
+        "date": "2025-09-01T12:29:40.388Z",
+        "user": "Andrea Doglia"
+      },
+      {
+        "score": 1,
+        "thumbsUp": 0,
+        "text": "impossibile aprire il PDF perché corrotto",
+        "date": "2025-05-08T09:27:09.667Z",
+        "user": "Anryik Spedi"
+      },
+      {
+        "score": 1,
+        "thumbsUp": 0,
+        "text": "Non funziona non appare il dischetto laterale e non memorizza i dati esiste a lato un tasto chat che non si attiva",
+        "date": "2025-03-10T23:03:30.161Z",
+        "user": "Enrica Bolzi"
+      },
+      {
+        "score": 2,
+        "thumbsUp": 0,
+        "text": "Una stella per la generazione delle fatture e una per il calcolo delle tasse da pagare automatico. punto. Non è di certo Ernestina-la commercialista che alza la cornetta e ti dice ch stai correndo nelle sanzioni.",
+        "date": "2024-09-03T05:47:21.468Z",
+        "user": "Елена Хрипачева"
+      }
+    ],
+    "sample_recent_low": []
+  },
+  "fatture_in_cloud": {
+    "appId": "com.fattureincloud.fattureincloud2",
+    "title": "Fatture in Cloud",
+    "developer": "TeamSystem SPA",
+    "installs": "100.000+",
+    "minInstalls": 100000,
+    "score": 4.404762,
+    "ratings": 5506,
+    "reviews": 1400,
+    "free": true,
+    "price": 0,
+    "released": "10 apr 2019",
+    "updated": 1776756700000,
+    "summary": "Gestisci la tua impresa in mobilità, genera fatture e crea preventivi!",
+    "total_pulled": 200,
+    "low_count": 71,
+    "low_pct_all": 35.5,
+    "recent_90d_count": 23,
+    "recent_low_count": 11,
+    "recent_low_pct": 47.8,
+    "top_low_by_thumbs": [
+      {
+        "score": 1,
+        "thumbsUp": 44,
+        "text": "SPECULATORI! ora che la fatturazione elettronica è diventata obbligatoria hanno raddoppiato il prezzo rispetto due anni fa. Consiglio altri fornitori del servizio molto più economici, per un artigiano come me c'è poca differenza nella qualità di servizio. Inoltre una volta che si decide di non continuare il servizio, non si può più accedere ai propri documenti anche se erano realizzati prima della scadenza del servizio. Io lo trovo come un ricatto.",
+        "date": "2024-07-19T20:32:25.853Z",
+        "user": "vadym holovchenko"
+      },
+      {
+        "score": 1,
+        "thumbsUp": 12,
+        "text": "Purtroppo dopo 5 anni di utilizzo della piattaforma dovrò cercare un'alternativa, ho visto lo sviluppo del sistema ma non è mai stato proporzionale con l'aumento del costo, per la licenza Premium Plus con 264+iva avere SOLO 800 documenti annui a disposizione è una vera presa in giro, per non parlare dell'assistenza inesistente come tanti altri scrivono, un piano di fidelizzazione (magari legato al profilo del cliente), mi trovo di dover attivare il piano più costoso per avere più documenti...",
+        "date": "2024-01-18T09:21:30.930Z",
+        "user": "Victor Repida"
+      },
+      {
+        "score": 2,
+        "thumbsUp": 11,
+        "text": "Fa il suo dovere e lo fa bene. Trovo invece scandalosa la politica riguardante i piani di abbonamento; ho sempre utilizzato il piano \"premium plus\" che prevedeva un limite di 3000 documenti annui (una piccola impresa tra DDT, fatture in uscita e in entrata raramente resta entro tale limite). Quest'anno ho scoperto che per lo stesso piano il limite è stato abbassato a 800 documenti! Ho rinnovato l'abbonamento solo perché non faccio in tempo a cercare un'alternativa. L'anno prossimo cambierò.",
+        "date": "2024-04-19T17:30:54.808Z",
+        "user": "Marco Gatto"
+      },
+      {
+        "score": 2,
+        "thumbsUp": 10,
+        "text": "Dovevo scrivere un documento dal telefono mentre ero da un cliente. Menù della selezione Iva, oltre che avere il layout buggato, non permetteva lo scorrimento e la selezione di altre voci. Oltretutto ad un certo punto l'app si è inchiodata e l'ho dovuta chiudere e riaprire. In sostanza non sono riuscito a scrivere quello che dovevo. - Samsung S23",
+        "date": "2024-05-31T09:29:34.727Z",
+        "user": "Alessandro Sedda"
+      },
+      {
+        "score": 1,
+        "thumbsUp": 10,
+        "text": "Non fate l'errore di molti. Non affidate la vostra contabilità questi disonesti. Anzitutto il software é molto limitato e pieno di bug. Non apportano migliorie da mesi. Poi potreste trovarvi come tutti, non molti TUTTI, a pagare più del doppio per lo stesso servizio. Infatti da un giorno all'altro hanno più che raddoppiato j prezzi.",
+        "date": "2024-05-21T08:33:17.728Z",
+        "user": "Lucas F"
+      },
+      {
+        "score": 1,
+        "thumbsUp": 8,
+        "text": "Se continua così non va per niente bene. Vada l'aumento di prezzo, ma che non riesco più a inserire una fattura con il cellulare questo non lo ammetto. Ho aspettato i nuovi aggiornamenti, ma niente si blocca ad ogni inserimento e non riesco ad andare avanti. Non riesco a fare fatture o comunque riesco ma con quattro volte il tempo che ci impoegavo prima. Metterò 5 stelle solo se migliorate il servizio. Grazie, buon lavoro",
+        "date": "2025-11-18T22:50:25.147Z",
+        "user": "Maurizio Papacchini"
+      },
+      {
+        "score": 2,
+        "thumbsUp": 7,
+        "text": "È così difficile scegliere che l'esigibilità sia predefinita???? Ogni volta va scelta se immediata o meno, che noia. Fate in modo che si possa bloccare ad una certa scelta! Il costo annuale aumenta continuamente, le funzionalità però non vengono incrementate, e le criticità restano sempre lì.",
+        "date": "2025-05-18T08:37:51.951Z",
+        "user": "Vale Mas (Vale76)"
+      },
+      {
+        "score": 1,
+        "thumbsUp": 5,
+        "text": "Quando apro nella sezione spese un allegato non mi fa ingrandire il file... a cosa serve aprirlo se poi non riesco a leggerlo perché se ingrandisco l'allegato non mi fa spostare ai lati.... Tempo fa funzionava...",
+        "date": "2025-05-19T19:08:03.620Z",
+        "user": "Davide Spreafico"
+      },
+      {
+        "score": 1,
+        "thumbsUp": 5,
+        "text": "Passati da 400 documenti a 100 documenti annui inclusi nella licenza standard. 25% di documenti allo stesso prezzo precedente e senza nessuna comunicazione. Indecente.",
+        "date": "2023-12-14T21:20:10.935Z",
+        "user": "Tobia Scapin"
+      },
+      {
+        "score": 1,
+        "thumbsUp": 4,
+        "text": "praticamente non mi fa più utilizzare la app. ho accesso solo da PC. assistenza che continua a ripetere di aggiornare la app, ma qui non succede niente. provata a disinstallare e reinstallare . cambiata password, ma continua a darmi errore sia di mail che di password. pessima app,pessima assistenza. eh sì che la licenza viene fatta pagare .",
+        "date": "2025-06-20T19:57:58.112Z",
+        "user": "Cristiano Tognetti AlmaKinetic"
+      },
+      {
+        "score": 1,
+        "thumbsUp": 3,
+        "text": "Assistenza telefonica inesistente anzi non prevista. Assistenza via chatpessima ogni volta che uno li chiama viene rimbalzato alla guida che ovviamente non risolve il problema. In più è fuorviante ogni tanto sbaglia le fatture quando c'è Inarcassa adesso c'è un comodo pacchetto a 230€ .... fanno pagare anche l'aria",
+        "date": "2025-09-09T14:09:35.274Z",
+        "user": "Graziano Bonelli"
+      },
+      {
+        "score": 1,
+        "thumbsUp": 3,
+        "text": "Il mio voto negativo va al fatto che hanno deciso di ridurre lo spazio per i documenti da 400 unità a 100 unità costringendomi ad un upgrade del piano tariffario che mi costerà il doppio. Mossa commerciale veramente sgradita dopo anni.",
+        "date": "2024-04-09T16:39:45.355Z",
+        "user": "Luciano Albanese"
+      }
+    ],
+    "sample_recent_low": [
+      {
+        "score": 1,
+        "thumbsUp": 0,
+        "text": "Dice nessuna connessione internet quando non è vero tutte le app funzionano bene tranne questa.",
+        "date": "2026-05-02T06:48:19.938Z"
+      },
+      {
+        "score": 1,
+        "thumbsUp": 2,
+        "text": "Dopo l'obbligatorietà del collegamento ID Tram System è impossibile accedere all'app. INCREDIBILE !",
+        "date": "2026-04-23T15:32:06.250Z"
+      },
+      {
+        "score": 1,
+        "thumbsUp": 0,
+        "text": "dall' app non riesco ad aggiungere i clienti nuovi a mano, nel caso si possa fare non è così semplice trovare il modo di farlo",
+        "date": "2026-04-23T11:01:45.320Z"
+      },
+      {
+        "score": 1,
+        "thumbsUp": 0,
+        "text": "fattureincloud su smartphone il problema persiste e se voglio utilizzarlo non funziona!",
+        "date": "2026-04-17T06:43:16.864Z"
+      },
+      {
+        "score": 2,
+        "thumbsUp": 0,
+        "text": "Buongiorno . Dall'applicazione non riesco a mandare in stampa le fatture . Ciò è normale (sarebbe una carenza ) o sono io che non ho afferrato il procedimento ? Grazie",
+        "date": "2026-03-19T09:44:23.892Z"
+      },
+      {
+        "score": 2,
+        "thumbsUp": 0,
+        "text": "Bug purtroppo numerosi. Il menù a tendina dell'IVA si apre a random quando vuole lui, eventuali comunicazioni che si aprono mentre stai compilando la fattura, se chiuse, ti riportano aa schermata iniziale. Emettere fattura con questa app è un processo lento e snervante, soprattutto per il fatto che pur salvando un prodotto, l'IVA associata a quel prodotto torna sempre al 22% di default e perciò de",
+        "date": "2026-03-18T09:24:51.597Z"
+      },
+      {
+        "score": 1,
+        "thumbsUp": 2,
+        "text": "Da quando passato al teamsystem come verifica l'app sul telefono è inutile. richiesta assistenza la risposta è ma tanto puoi entrare con il PC. Abbiamo due aziende con il sistema fatture in Cloud con pacchetto premium. Valuteremo nuovi sistemi.",
+        "date": "2026-03-14T13:15:14.612Z"
+      },
+      {
+        "score": 1,
+        "thumbsUp": 0,
+        "text": "Non ho avuto modo di disdire il giorno prima il rinnovo automatico del canone annuale, ho richiesto il rimborso e mi hanno risposto che non é possibile nonostante la chiusura della partita iva. Non ho ricevuto alcun tipo di mail o messaggio come promemoria se ne sono lavati le mani.",
+        "date": "2026-03-04T09:12:06.333Z"
+      },
+      {
+        "score": 1,
+        "thumbsUp": 0,
+        "text": "Se potessi darei 0 stelle!! NON USATE ASSOLUTAMENTE QUESTA APPLICAZIONE!!! Rischiate solo di fare casini con la contabilità e nient'altro!!! Bravi, avete fatto proprio un ottimo lavoro",
+        "date": "2026-03-01T06:08:10.171Z"
+      },
+      {
+        "score": 1,
+        "thumbsUp": 0,
+        "text": "non mi fa collegare e nessuno mi risolve il problema",
+        "date": "2026-02-21T15:41:15.810Z"
+      },
+      {
+        "score": 2,
+        "thumbsUp": 0,
+        "text": "sono due settimane che non mi permette di entrare sia con la password vecchia e sia con quella nuova sono deluso perché fino ad ora era buona e non si riesce a capire a chi si deve rivolgersi",
+        "date": "2026-02-13T16:51:32.195Z"
+      }
+    ]
+  },
+  "fattura1click": {
+    "appId": "it.fortech.fatturaoneclick",
+    "title": "fattura1click",
+    "developer": "Fortech srl",
+    "installs": "100.000+",
+    "minInstalls": 100000,
+    "score": 4.807918,
+    "ratings": 13637,
+    "reviews": 6235,
+    "free": true,
+    "price": 0,
+    "released": "18 giu 2018",
+    "updated": 1776413901000,
+    "summary": "L'app più completa per la fatturazione elettronica",
+    "total_pulled": 200,
+    "low_count": 5,
+    "low_pct_all": 2.5,
+    "recent_90d_count": 100,
+    "recent_low_count": 0,
+    "recent_low_pct": 0,
+    "top_low_by_thumbs": [
+      {
+        "score": 1,
+        "thumbsUp": 0,
+        "text": "è già la seconda volta che la scarico e che non riesco a far fattura, ogni volta la colpa è del benzinaio che deve far fattura. assurdo",
+        "date": "2026-01-04T16:30:31.166Z",
+        "user": "Barbara"
+      },
+      {
+        "score": 1,
+        "thumbsUp": 0,
+        "text": "non legge uno scontrino neanche per sbaglio. dovrebbe agevolare le cose invece le complica. dobbiamo usarla perciò ci adattiamo.",
+        "date": "2025-12-24T15:09:06.377Z",
+        "user": "Massimo Bedogni"
+      },
+      {
+        "score": 1,
+        "thumbsUp": 0,
+        "text": "Inserisco i dati per la registrazione ma il sistema non procede",
+        "date": "2025-12-16T15:49:19.652Z",
+        "user": "Stefano Garofano"
+      },
+      {
+        "score": 2,
+        "thumbsUp": 0,
+        "text": "Le fatture non arrivano più via mail.",
+        "date": "2025-12-15T12:27:50.853Z",
+        "user": "Niccolò Arcostanzo"
+      },
+      {
+        "score": 1,
+        "thumbsUp": 0,
+        "text": "Ha smesso completamente di funzionare da parecchi giorni. Impossibile inserire scontrini, né inquadrando, né inserendo manualmente i dati. Ci ho perso tanto di quel tempo per provare a più riprese, sperando fosse un problema temporaneo!",
+        "date": "2025-12-13T10:27:12.462Z",
+        "user": "Maria Capoluongo"
+      }
+    ],
+    "sample_recent_low": []
+  },
+  "mia_fattura_itala": {
+    "appId": "net.itala.miafattura",
+    "title": "Mia Fattura",
+    "developer": "Itala Tecnologia Informatica",
+    "installs": "10.000+",
+    "minInstalls": 10000,
+    "score": 4.285714,
+    "ratings": 14,
+    "reviews": 9,
+    "free": true,
+    "price": 0,
+    "released": "9 dic 2023",
+    "updated": 1774290070000,
+    "summary": "La più facile app di Fatturazione - per forfettari",
+    "total_pulled": 8,
+    "low_count": 1,
+    "low_pct_all": 12.5,
+    "recent_90d_count": 0,
+    "recent_low_count": 0,
+    "recent_low_pct": null,
+    "top_low_by_thumbs": [
+      {
+        "score": 1,
+        "thumbsUp": 6,
+        "text": "Bellissima e facile",
+        "date": "2024-05-20T12:04:55.526Z",
+        "user": "Mariano Lo Giudice"
+      }
+    ],
+    "sample_recent_low": []
+  },
+  "aruba_fatturazione": {
+    "appId": "it.aruba.fatturazioneelettronica",
+    "title": "Aruba Fatturazione Elettronica",
+    "developer": "Aruba S.p.A.",
+    "installs": "100.000+",
+    "minInstalls": 100000,
+    "score": 4.3872547,
+    "ratings": 4063,
+    "reviews": 871,
+    "free": true,
+    "price": 0,
+    "released": "8 giu 2020",
+    "updated": 1776674237000,
+    "summary": "E-fatture a portata di app",
+    "total_pulled": 200,
+    "low_count": 158,
+    "low_pct_all": 79,
+    "recent_90d_count": 11,
+    "recent_low_count": 8,
+    "recent_low_pct": 72.7,
+    "top_low_by_thumbs": [
+      {
+        "score": 1,
+        "thumbsUp": 67,
+        "text": "Ma che avete fatto? L'app precedente funzionava benissimo, questa nuova è un DISASTRO! Non prende bene i comandi del touchscreen e al posto di scrollare verso l'alto o il basso inizia a scorrere in una direzione e poi fa uno strano effetto rimbalzo che fa andare l'elenco delle fatture nella direzione opposta. L'avete resa inutilmente più complicata, prima era più intuitiva, snella e veloce. Ripristinate quella di prima al più presto, state creando problemi a tanti utenti (leggete i commenti).",
+        "date": "2025-05-29T06:55:12.973Z",
+        "user": "Daniele De Lisi"
+      },
+      {
+        "score": 2,
+        "thumbsUp": 22,
+        "text": "L'applicazione, oltre a costringere a continui aggiornamenti fuori dal play store, non si avvia nemmeno più. Samsung S25. Noi la usiamo per lavoro",
+        "date": "2025-08-08T11:13:39.700Z",
+        "user": "Mauro Monge Rolfo"
+      },
+      {
+        "score": 1,
+        "thumbsUp": 18,
+        "text": "Dopo l’aggiornamento, l’app è diventata molto difficile da usare. Non visualizza più le fatture in PDF, dà errori e non consente di completare l’invio, anche se si tratta della fattura alla stessa cliente e dello stesso importo (un mese fa non mi dava gli errori). Restituiteci la versione precedente, che funzionava meglio.",
+        "date": "2025-05-26T18:28:45.310Z",
+        "user": "Alessandra Lukyniuk"
+      },
+      {
+        "score": 1,
+        "thumbsUp": 17,
+        "text": "Mi unisco al coro dei tanti che trovano DISASTROSO l'ultimo aggiornamento. Poco responsiva, buggata, macchinosa. Nella selezione dei prodotti per nuova fattura non si vedono gli importi, per cambiare la base imponibile per contributo integrativo bisogna fare un percorso più lungo e poco intuitivo, senza che poi le modifiche risultino applicate. Correggere al più presto, o ripristinare la versione precedente che andava molto molto meglio.",
+        "date": "2025-06-05T08:57:47.310Z",
+        "user": "Lorenzo Sambiagio"
+      },
+      {
+        "score": 1,
+        "thumbsUp": 12,
+        "text": "purtroppo con l'ultimo aggiornamento significativo è come essere tornati indietro di 20 anni, con una interfaccia ed una usabilità che ricordano molto le prime App android di diversi anni fa... comunque trovo diverse difficoltà nelle funzioni touch che non sono ben responsive oltre al caos generale di una interfaccia confusa a dir poco. si tratta di una app importante (produce documenti economici non possibili di errori perché vengono inviati al sistema di interscambio) riparate per favore",
+        "date": "2025-05-31T10:11:20.556Z",
+        "user": "Luigi Baratto"
+      },
+      {
+        "score": 1,
+        "thumbsUp": 10,
+        "text": "Programmatori totalmente incompetenti, data base lentissimo, la nuova versione dell'app è semplicemente oscena: grafica peggiorata, piena di bug ovunque, problemi funzionali evidenti e assurdi. Cambiando l'anno fiscale 'app si blocca completamente. Non capisco davvero il senso di questi cambiamenti, sembrate impegnati più a distruggere quel poco che funzionava, piuttosto che migliorare. Era brutta prima, ma almeno si poteva usare. Ora è brutta e inutilizzabile.",
+        "date": "2025-05-27T21:05:54.249Z",
+        "user": "alessandro ruggeri"
+      },
+      {
+        "score": 1,
+        "thumbsUp": 9,
+        "text": "la lentezza, problema introdotto di recente mai risolto, la rendi Inutilizzabile. Mettersi a disposizione non vuole dire nulla, agite ora e non nascondetevi dietro la burocrazia dell' apertura di un ticket che è inutile. Apprezzare le recensioni e non fare nulla, vuol dire prendere in giro i clienti. Perde il login di frequente, all accesso richiede id password e otp complimenti!! sempre peggio un chiaro esempio di incapacità a comprendere le esigenze dei clienti!!!",
+        "date": "2026-03-19T06:22:12.260Z",
+        "user": "Marcello B."
+      },
+      {
+        "score": 1,
+        "thumbsUp": 8,
+        "text": "Aggiornamento peggiorativo, è cambiato tutto in peggio, di una lentezza disarmante e soprattutto moooolto più confusionaria e moooolto meno intuitiva!!! Inoltre non viene visualizzato tutto il testo sullo schermo per cui risulta quasi impossibile da utilizzare. Peccato, PRIMA ERA PRATICAMENTE PERFETTA. Ora è un disastro!! TORNATE SUI VOSTRI PASSI......",
+        "date": "2025-07-30T12:50:24.370Z",
+        "user": "Paolo Tib"
+      },
+      {
+        "score": 1,
+        "thumbsUp": 8,
+        "text": "DISASTRO!! La nuova app risulta pesante, poco intuitiva,difficile da usare. La versione precedente era decisamente più comoda e veloce. Mi auguro vogliate tornare indietro al più presto o sarò costretto (dopo anni) a cambiare gestore di fatturazione elettronica! Mi chiedo come sia possibile apportare aggiornamenti così controproducenti!",
+        "date": "2025-07-16T14:09:04.587Z",
+        "user": "Marco Brocca"
+      },
+      {
+        "score": 1,
+        "thumbsUp": 7,
+        "text": "Dopo l'aggiornamento è a dir poco imbarazzante! Sono dovuto ricorrere all'assistenza per riuscire a completare una fattura! Eta tanto intuitiva e fluida prima, quanto orribilmente incomprensibile adesso... anche la semplice visualizzazione dei prodotti in memoria è praticamente impossibile...se non torna com'era perderete un cliente!",
+        "date": "2025-06-03T17:48:10.671Z",
+        "user": "Tony Andres"
+      },
+      {
+        "score": 1,
+        "thumbsUp": 7,
+        "text": "dopo l'ultimo aggiornamento l'app è decisamente peggiorata. la grafica è meno intuitiva. non è possibile cambiare il prezzo di prodotti inseriti in fattura manualmente se non andando a cambiare il prezzo nelle scheda prodotto. bisognerebbe lasciare la possibilità di modificare i prezzi anche mentre si compila la fattura",
+        "date": "2025-05-25T19:54:54.862Z",
+        "user": "Francesco Gargiulo"
+      },
+      {
+        "score": 1,
+        "thumbsUp": 5,
+        "text": "Disastrosa!!!! È 11 anni che uso quest'app trovandomi sempre bene...fino all'ultimo aggiornamento. app caotica. Ma la cosa peggiore è che se nn stai attenta non ti calcola bene il netto a pagare. Il totale documento (che è giusto) e il netto a pagare hanno 20/30€ di differenza e nn riesco a capire quale sia il motivo. Se nn risolvete velocemente questo problema sarò costretta a trovare un altro programma!!!!",
+        "date": "2025-07-30T09:45:55.185Z",
+        "user": "Michela Pani"
+      }
+    ],
+    "sample_recent_low": [
+      {
+        "score": 1,
+        "thumbsUp": 0,
+        "text": "Lenta, lenta lenta!",
+        "date": "2026-04-10T12:37:46.466Z"
+      },
+      {
+        "score": 1,
+        "thumbsUp": 0,
+        "text": "Aggiornamento fatto e ora non si apre più. Compare solo una schermata bianca. Risolvete al più presto. Grazie",
+        "date": "2026-04-03T08:23:44.279Z"
+      },
+      {
+        "score": 1,
+        "thumbsUp": 0,
+        "text": "Dopo l'ultimo aggiornamento l'app non funziona proprio: si apre, si carica, ma subito lo schermo diventa bianco e... non si può fare più niente. Solo guardare quello schermo bianco. Non ti fa vedere neanche il menu. Ho provato ad accedere sull'app da tre dispositivi diversi ed è uguale su tutti. Schermo bianco e basta.",
+        "date": "2026-04-03T06:02:12.892Z"
+      },
+      {
+        "score": 2,
+        "thumbsUp": 0,
+        "text": "si blocca e non parta l'app.",
+        "date": "2026-04-03T05:38:57.625Z"
+      },
+      {
+        "score": 1,
+        "thumbsUp": 0,
+        "text": "ha molti bug",
+        "date": "2026-03-30T14:35:42.964Z"
+      },
+      {
+        "score": 1,
+        "thumbsUp": 9,
+        "text": "la lentezza, problema introdotto di recente mai risolto, la rendi Inutilizzabile. Mettersi a disposizione non vuole dire nulla, agite ora e non nascondetevi dietro la burocrazia dell' apertura di un ticket che è inutile. Apprezzare le recensioni e non fare nulla, vuol dire prendere in giro i clienti. Perde il login di frequente, all accesso richiede id password e otp complimenti!! sempre peggio un",
+        "date": "2026-03-19T06:22:12.260Z"
+      },
+      {
+        "score": 1,
+        "thumbsUp": 0,
+        "text": "la peggiore app mai vista la cosa più grave è che appartiene ad una società che si occupa di informatica",
+        "date": "2026-02-23T16:33:45.210Z"
+      },
+      {
+        "score": 1,
+        "thumbsUp": 0,
+        "text": "Siamo obbligati ad usare queste app ma sono lente, poco pratiche, poi quelle volte che si arriva a vedere che funzionano benino si ricambia per rifarle andare male... Boh... Notifiche che non vanno, fai la fattura e non invia la mail... Il costo è aumentato del servizio ma sono molto in difficoltà..",
+        "date": "2026-02-16T12:43:48.371Z"
+      }
+    ]
+  },
+  "fxt_k2": {
+    "appId": "it.k2innovazione.fatturapertuttiquick",
+    "title": "FXT Fattura elettronica facile",
+    "developer": "K2 Innovazione srl",
+    "installs": "100+",
+    "minInstalls": 100,
+    "free": true,
+    "price": 0,
+    "released": "7 gen 2026",
+    "updated": 1777276500000,
+    "summary": "Crea, invia e controlla le tue fatture elettroniche in pochi tocchi con AI",
+    "total_pulled": 0,
+    "low_count": 0,
+    "low_pct_all": null,
+    "recent_90d_count": 0,
+    "recent_low_count": 0,
+    "recent_low_pct": null,
+    "top_low_by_thumbs": [],
+    "sample_recent_low": []
+  },
+  "fatturae_edisoft": {
+    "appId": "store.dvg.fattura_elettronica",
+    "title": "Fattura Elettronica",
+    "developer": "EDISOFT S.R.L.",
+    "installs": "10.000+",
+    "minInstalls": 10000,
+    "score": 4.1714287,
+    "ratings": 37,
+    "reviews": 28,
+    "free": true,
+    "price": 0,
+    "released": "21 set 2018",
+    "updated": 1756122922000,
+    "summary": "L'app semplice per creare le tue fatture e parcelle (30 gg di prova)",
+    "total_pulled": 28,
+    "low_count": 2,
+    "low_pct_all": 7.1,
+    "recent_90d_count": 0,
+    "recent_low_count": 0,
+    "recent_low_pct": null,
+    "top_low_by_thumbs": [
+      {
+        "score": 1,
+        "thumbsUp": 9,
+        "text": "Appena installata mi chiede immediatamente l' acquisto. Zero giorni di demo! Forse è una app bellissima che funziona benissimo... ma l' ho già disinstallata! per inviare mail mi chiede di abbonarmi a a 14.99. io vorrei installare e mi serve supporto come faccio senza pagare subito ciò che posso provare prima in demo?",
+        "date": "2019-01-02T10:45:09.503Z",
+        "user": "Un utente Google"
+      },
+      {
+        "score": 1,
+        "thumbsUp": 0,
+        "text": "ToPolino Minnie",
+        "date": "2020-11-21T21:48:50.320Z",
+        "user": "Mattia Curtacci"
+      }
+    ],
+    "sample_recent_low": []
+  },
+  "fattura_elettronica_app_tek": {
+    "appId": "com.tek.fattura",
+    "title": "FatturaElettronica APP",
+    "developer": "FatturaElettronica APP",
+    "installs": "50.000+",
+    "minInstalls": 50000,
+    "score": 4.906883,
+    "ratings": 2500,
+    "reviews": 301,
+    "free": true,
+    "price": 0,
+    "released": "9 nov 2021",
+    "updated": 1777385684000,
+    "summary": "Invia, ricevi e conserva fatture elettroniche a norma con l’app più semplice",
+    "total_pulled": 200,
+    "low_count": 5,
+    "low_pct_all": 2.5,
+    "recent_90d_count": 13,
+    "recent_low_count": 0,
+    "recent_low_pct": 0,
+    "top_low_by_thumbs": [
+      {
+        "score": 1,
+        "thumbsUp": 5,
+        "text": "Prima te lo fanno scaricare e registrarti come se fosse gratuito, poi te lo dicono che bisogna pagare 9,90€al mese. Non c'è trasparenza!",
+        "date": "2023-07-20T09:49:57.101Z",
+        "user": "Arjan Bilo"
+      },
+      {
+        "score": 1,
+        "thumbsUp": 3,
+        "text": "Stiamo scherzando ? riloggo nell app solo per controllare i preventivi Dell anno scorso e mi chiede un pagamento per verificare qualcosa di un servizio già pagato . Roba da denuncia .",
+        "date": "2024-06-12T08:04:05.100Z",
+        "user": "Guido Tarantelli"
+      },
+      {
+        "score": 2,
+        "thumbsUp": 0,
+        "text": "Crasha su Galaxy S25",
+        "date": "2025-06-11T08:12:12.920Z",
+        "user": "Francesco Brunelli"
+      },
+      {
+        "score": 2,
+        "thumbsUp": 0,
+        "text": "App in essere valida e facile da usare ma dopo l utilizzo di un anno in formato gratuito,ora è a pagamento mensile,a saperlo prima nn la scaricavo....scorretti",
+        "date": "2025-02-10T08:12:21.894Z",
+        "user": "Pepe “Pepe”"
+      },
+      {
+        "score": 1,
+        "thumbsUp": 0,
+        "text": "Non funziona affatto: non si aprono le tendine dei prodotti salvati. Pessima",
+        "date": "2022-10-07T16:55:14.747Z",
+        "user": "Mar lyn “NeveX”"
+      }
+    ],
+    "sample_recent_low": []
+  }
+}

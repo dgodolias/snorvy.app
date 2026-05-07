@@ -2,8 +2,15 @@ import 'package:flutter/material.dart';
 import 'package:snorvy/src/theme/snorvy_theme.dart';
 
 class SettingsScreen extends StatefulWidget {
-  const SettingsScreen({required this.onUnlockTap, super.key});
+  const SettingsScreen({
+    required this.isBusy,
+    required this.onAddManualLog,
+    required this.onUnlockTap,
+    super.key,
+  });
 
+  final bool isBusy;
+  final Future<void> Function() onAddManualLog;
   final VoidCallback onUnlockTap;
 
   @override
@@ -107,7 +114,7 @@ class _SettingsScreenState extends State<SettingsScreen> {
         ),
         const SizedBox(height: 14),
         OutlinedButton.icon(
-          onPressed: () => _showManualLogSheet(context),
+          onPressed: widget.isBusy ? null : () => _showManualLogSheet(context),
           icon: const Icon(Icons.edit_calendar),
           label: const Text('Add manual sleep log'),
         ),
@@ -137,7 +144,11 @@ class _SettingsScreenState extends State<SettingsScreen> {
                 const Text('Default entry: 23:30 to 07:15.'),
                 const SizedBox(height: 16),
                 FilledButton.icon(
-                  onPressed: () {
+                  onPressed: () async {
+                    await widget.onAddManualLog();
+                    if (!context.mounted) {
+                      return;
+                    }
                     Navigator.of(context).pop();
                     ScaffoldMessenger.of(context).showSnackBar(
                       const SnackBar(

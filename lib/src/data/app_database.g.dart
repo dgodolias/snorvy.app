@@ -80,6 +80,17 @@ class $SleepNightRowsTable extends SleepNightRows
     ),
     defaultValue: const Constant(false),
   );
+  static const VerificationMeta _recordingPathMeta = const VerificationMeta(
+    'recordingPath',
+  );
+  @override
+  late final GeneratedColumn<String> recordingPath = GeneratedColumn<String>(
+    'recording_path',
+    aliasedName,
+    true,
+    type: DriftSqlType.string,
+    requiredDuringInsert: false,
+  );
   static const VerificationMeta _notesMeta = const VerificationMeta('notes');
   @override
   late final GeneratedColumn<String> notes = GeneratedColumn<String>(
@@ -109,6 +120,7 @@ class $SleepNightRowsTable extends SleepNightRows
     endedAt,
     snoreScore,
     isManual,
+    recordingPath,
     notes,
     createdAt,
   ];
@@ -163,6 +175,15 @@ class $SleepNightRowsTable extends SleepNightRows
         isManual.isAcceptableOrUnknown(data['is_manual']!, _isManualMeta),
       );
     }
+    if (data.containsKey('recording_path')) {
+      context.handle(
+        _recordingPathMeta,
+        recordingPath.isAcceptableOrUnknown(
+          data['recording_path']!,
+          _recordingPathMeta,
+        ),
+      );
+    }
     if (data.containsKey('notes')) {
       context.handle(
         _notesMeta,
@@ -208,6 +229,10 @@ class $SleepNightRowsTable extends SleepNightRows
         DriftSqlType.bool,
         data['${effectivePrefix}is_manual'],
       )!,
+      recordingPath: attachedDatabase.typeMapping.read(
+        DriftSqlType.string,
+        data['${effectivePrefix}recording_path'],
+      ),
       notes: attachedDatabase.typeMapping.read(
         DriftSqlType.string,
         data['${effectivePrefix}notes'],
@@ -232,6 +257,7 @@ class SleepNightRow extends DataClass implements Insertable<SleepNightRow> {
   final DateTime endedAt;
   final int snoreScore;
   final bool isManual;
+  final String? recordingPath;
   final String? notes;
   final DateTime createdAt;
   const SleepNightRow({
@@ -241,6 +267,7 @@ class SleepNightRow extends DataClass implements Insertable<SleepNightRow> {
     required this.endedAt,
     required this.snoreScore,
     required this.isManual,
+    this.recordingPath,
     this.notes,
     required this.createdAt,
   });
@@ -253,6 +280,9 @@ class SleepNightRow extends DataClass implements Insertable<SleepNightRow> {
     map['ended_at'] = Variable<DateTime>(endedAt);
     map['snore_score'] = Variable<int>(snoreScore);
     map['is_manual'] = Variable<bool>(isManual);
+    if (!nullToAbsent || recordingPath != null) {
+      map['recording_path'] = Variable<String>(recordingPath);
+    }
     if (!nullToAbsent || notes != null) {
       map['notes'] = Variable<String>(notes);
     }
@@ -268,6 +298,9 @@ class SleepNightRow extends DataClass implements Insertable<SleepNightRow> {
       endedAt: Value(endedAt),
       snoreScore: Value(snoreScore),
       isManual: Value(isManual),
+      recordingPath: recordingPath == null && nullToAbsent
+          ? const Value.absent()
+          : Value(recordingPath),
       notes: notes == null && nullToAbsent
           ? const Value.absent()
           : Value(notes),
@@ -287,6 +320,7 @@ class SleepNightRow extends DataClass implements Insertable<SleepNightRow> {
       endedAt: serializer.fromJson<DateTime>(json['endedAt']),
       snoreScore: serializer.fromJson<int>(json['snoreScore']),
       isManual: serializer.fromJson<bool>(json['isManual']),
+      recordingPath: serializer.fromJson<String?>(json['recordingPath']),
       notes: serializer.fromJson<String?>(json['notes']),
       createdAt: serializer.fromJson<DateTime>(json['createdAt']),
     );
@@ -301,6 +335,7 @@ class SleepNightRow extends DataClass implements Insertable<SleepNightRow> {
       'endedAt': serializer.toJson<DateTime>(endedAt),
       'snoreScore': serializer.toJson<int>(snoreScore),
       'isManual': serializer.toJson<bool>(isManual),
+      'recordingPath': serializer.toJson<String?>(recordingPath),
       'notes': serializer.toJson<String?>(notes),
       'createdAt': serializer.toJson<DateTime>(createdAt),
     };
@@ -313,6 +348,7 @@ class SleepNightRow extends DataClass implements Insertable<SleepNightRow> {
     DateTime? endedAt,
     int? snoreScore,
     bool? isManual,
+    Value<String?> recordingPath = const Value.absent(),
     Value<String?> notes = const Value.absent(),
     DateTime? createdAt,
   }) => SleepNightRow(
@@ -322,6 +358,9 @@ class SleepNightRow extends DataClass implements Insertable<SleepNightRow> {
     endedAt: endedAt ?? this.endedAt,
     snoreScore: snoreScore ?? this.snoreScore,
     isManual: isManual ?? this.isManual,
+    recordingPath: recordingPath.present
+        ? recordingPath.value
+        : this.recordingPath,
     notes: notes.present ? notes.value : this.notes,
     createdAt: createdAt ?? this.createdAt,
   );
@@ -335,6 +374,9 @@ class SleepNightRow extends DataClass implements Insertable<SleepNightRow> {
           ? data.snoreScore.value
           : this.snoreScore,
       isManual: data.isManual.present ? data.isManual.value : this.isManual,
+      recordingPath: data.recordingPath.present
+          ? data.recordingPath.value
+          : this.recordingPath,
       notes: data.notes.present ? data.notes.value : this.notes,
       createdAt: data.createdAt.present ? data.createdAt.value : this.createdAt,
     );
@@ -349,6 +391,7 @@ class SleepNightRow extends DataClass implements Insertable<SleepNightRow> {
           ..write('endedAt: $endedAt, ')
           ..write('snoreScore: $snoreScore, ')
           ..write('isManual: $isManual, ')
+          ..write('recordingPath: $recordingPath, ')
           ..write('notes: $notes, ')
           ..write('createdAt: $createdAt')
           ..write(')'))
@@ -363,6 +406,7 @@ class SleepNightRow extends DataClass implements Insertable<SleepNightRow> {
     endedAt,
     snoreScore,
     isManual,
+    recordingPath,
     notes,
     createdAt,
   );
@@ -376,6 +420,7 @@ class SleepNightRow extends DataClass implements Insertable<SleepNightRow> {
           other.endedAt == this.endedAt &&
           other.snoreScore == this.snoreScore &&
           other.isManual == this.isManual &&
+          other.recordingPath == this.recordingPath &&
           other.notes == this.notes &&
           other.createdAt == this.createdAt);
 }
@@ -387,6 +432,7 @@ class SleepNightRowsCompanion extends UpdateCompanion<SleepNightRow> {
   final Value<DateTime> endedAt;
   final Value<int> snoreScore;
   final Value<bool> isManual;
+  final Value<String?> recordingPath;
   final Value<String?> notes;
   final Value<DateTime> createdAt;
   const SleepNightRowsCompanion({
@@ -396,6 +442,7 @@ class SleepNightRowsCompanion extends UpdateCompanion<SleepNightRow> {
     this.endedAt = const Value.absent(),
     this.snoreScore = const Value.absent(),
     this.isManual = const Value.absent(),
+    this.recordingPath = const Value.absent(),
     this.notes = const Value.absent(),
     this.createdAt = const Value.absent(),
   });
@@ -406,6 +453,7 @@ class SleepNightRowsCompanion extends UpdateCompanion<SleepNightRow> {
     required DateTime endedAt,
     this.snoreScore = const Value.absent(),
     this.isManual = const Value.absent(),
+    this.recordingPath = const Value.absent(),
     this.notes = const Value.absent(),
     this.createdAt = const Value.absent(),
   }) : date = Value(date),
@@ -418,6 +466,7 @@ class SleepNightRowsCompanion extends UpdateCompanion<SleepNightRow> {
     Expression<DateTime>? endedAt,
     Expression<int>? snoreScore,
     Expression<bool>? isManual,
+    Expression<String>? recordingPath,
     Expression<String>? notes,
     Expression<DateTime>? createdAt,
   }) {
@@ -428,6 +477,7 @@ class SleepNightRowsCompanion extends UpdateCompanion<SleepNightRow> {
       if (endedAt != null) 'ended_at': endedAt,
       if (snoreScore != null) 'snore_score': snoreScore,
       if (isManual != null) 'is_manual': isManual,
+      if (recordingPath != null) 'recording_path': recordingPath,
       if (notes != null) 'notes': notes,
       if (createdAt != null) 'created_at': createdAt,
     });
@@ -440,6 +490,7 @@ class SleepNightRowsCompanion extends UpdateCompanion<SleepNightRow> {
     Value<DateTime>? endedAt,
     Value<int>? snoreScore,
     Value<bool>? isManual,
+    Value<String?>? recordingPath,
     Value<String?>? notes,
     Value<DateTime>? createdAt,
   }) {
@@ -450,6 +501,7 @@ class SleepNightRowsCompanion extends UpdateCompanion<SleepNightRow> {
       endedAt: endedAt ?? this.endedAt,
       snoreScore: snoreScore ?? this.snoreScore,
       isManual: isManual ?? this.isManual,
+      recordingPath: recordingPath ?? this.recordingPath,
       notes: notes ?? this.notes,
       createdAt: createdAt ?? this.createdAt,
     );
@@ -476,6 +528,9 @@ class SleepNightRowsCompanion extends UpdateCompanion<SleepNightRow> {
     if (isManual.present) {
       map['is_manual'] = Variable<bool>(isManual.value);
     }
+    if (recordingPath.present) {
+      map['recording_path'] = Variable<String>(recordingPath.value);
+    }
     if (notes.present) {
       map['notes'] = Variable<String>(notes.value);
     }
@@ -494,6 +549,7 @@ class SleepNightRowsCompanion extends UpdateCompanion<SleepNightRow> {
           ..write('endedAt: $endedAt, ')
           ..write('snoreScore: $snoreScore, ')
           ..write('isManual: $isManual, ')
+          ..write('recordingPath: $recordingPath, ')
           ..write('notes: $notes, ')
           ..write('createdAt: $createdAt')
           ..write(')'))
@@ -1102,6 +1158,7 @@ typedef $$SleepNightRowsTableCreateCompanionBuilder =
       required DateTime endedAt,
       Value<int> snoreScore,
       Value<bool> isManual,
+      Value<String?> recordingPath,
       Value<String?> notes,
       Value<DateTime> createdAt,
     });
@@ -1113,6 +1170,7 @@ typedef $$SleepNightRowsTableUpdateCompanionBuilder =
       Value<DateTime> endedAt,
       Value<int> snoreScore,
       Value<bool> isManual,
+      Value<String?> recordingPath,
       Value<String?> notes,
       Value<DateTime> createdAt,
     });
@@ -1183,6 +1241,11 @@ class $$SleepNightRowsTableFilterComposer
 
   ColumnFilters<bool> get isManual => $composableBuilder(
     column: $table.isManual,
+    builder: (column) => ColumnFilters(column),
+  );
+
+  ColumnFilters<String> get recordingPath => $composableBuilder(
+    column: $table.recordingPath,
     builder: (column) => ColumnFilters(column),
   );
 
@@ -1261,6 +1324,11 @@ class $$SleepNightRowsTableOrderingComposer
     builder: (column) => ColumnOrderings(column),
   );
 
+  ColumnOrderings<String> get recordingPath => $composableBuilder(
+    column: $table.recordingPath,
+    builder: (column) => ColumnOrderings(column),
+  );
+
   ColumnOrderings<String> get notes => $composableBuilder(
     column: $table.notes,
     builder: (column) => ColumnOrderings(column),
@@ -1300,6 +1368,11 @@ class $$SleepNightRowsTableAnnotationComposer
 
   GeneratedColumn<bool> get isManual =>
       $composableBuilder(column: $table.isManual, builder: (column) => column);
+
+  GeneratedColumn<String> get recordingPath => $composableBuilder(
+    column: $table.recordingPath,
+    builder: (column) => column,
+  );
 
   GeneratedColumn<String> get notes =>
       $composableBuilder(column: $table.notes, builder: (column) => column);
@@ -1369,6 +1442,7 @@ class $$SleepNightRowsTableTableManager
                 Value<DateTime> endedAt = const Value.absent(),
                 Value<int> snoreScore = const Value.absent(),
                 Value<bool> isManual = const Value.absent(),
+                Value<String?> recordingPath = const Value.absent(),
                 Value<String?> notes = const Value.absent(),
                 Value<DateTime> createdAt = const Value.absent(),
               }) => SleepNightRowsCompanion(
@@ -1378,6 +1452,7 @@ class $$SleepNightRowsTableTableManager
                 endedAt: endedAt,
                 snoreScore: snoreScore,
                 isManual: isManual,
+                recordingPath: recordingPath,
                 notes: notes,
                 createdAt: createdAt,
               ),
@@ -1389,6 +1464,7 @@ class $$SleepNightRowsTableTableManager
                 required DateTime endedAt,
                 Value<int> snoreScore = const Value.absent(),
                 Value<bool> isManual = const Value.absent(),
+                Value<String?> recordingPath = const Value.absent(),
                 Value<String?> notes = const Value.absent(),
                 Value<DateTime> createdAt = const Value.absent(),
               }) => SleepNightRowsCompanion.insert(
@@ -1398,6 +1474,7 @@ class $$SleepNightRowsTableTableManager
                 endedAt: endedAt,
                 snoreScore: snoreScore,
                 isManual: isManual,
+                recordingPath: recordingPath,
                 notes: notes,
                 createdAt: createdAt,
               ),

@@ -1,16 +1,29 @@
 import 'package:flutter/material.dart';
 import 'package:intl/intl.dart';
 import 'package:snorvy/src/domain/sleep_models.dart';
+import 'package:snorvy/src/services/sleep_recorder.dart';
 import 'package:snorvy/src/theme/snorvy_theme.dart';
 
 class TonightScreen extends StatefulWidget {
   const TonightScreen({
     required this.nights,
+    required this.recordingSession,
+    required this.isBusy,
+    required this.isLoading,
+    required this.statusMessage,
+    required this.onStartRecording,
+    required this.onStopRecording,
     required this.onUnlockTap,
     super.key,
   });
 
   final List<SleepNight> nights;
+  final RecordingSession recordingSession;
+  final bool isBusy;
+  final bool isLoading;
+  final String? statusMessage;
+  final Future<void> Function() onStartRecording;
+  final Future<void> Function() onStopRecording;
   final VoidCallback onUnlockTap;
 
   @override
@@ -19,12 +32,11 @@ class TonightScreen extends StatefulWidget {
 
 class _TonightScreenState extends State<TonightScreen> {
   SleepEventKind? _filter;
-  bool _isRecording = false;
 
   @override
   Widget build(BuildContext context) {
-    final latestNight = widget.nights.first;
-    final events = latestNight.events
+    final latestNight = widget.nights.isEmpty ? null : widget.nights.first;
+    final events = (latestNight?.events ?? const <SleepEvent>[])
         .where((event) => _filter == null || event.kind == _filter)
         .toList();
 
@@ -34,11 +46,16 @@ class _TonightScreenState extends State<TonightScreen> {
         _Header(onUnlockTap: widget.onUnlockTap),
         const SizedBox(height: 18),
         _RecordingPanel(
-          isRecording: _isRecording,
-          onPressed: () => setState(() => _isRecording = !_isRecording),
+          session: widget.recordingSession,
+          isBusy: widget.isBusy,
+          statusMessage: widget.statusMessage,
+          onStartRecording: widget.onStartRecording,
+          onStopRecording: widget.onStopRecording,
         ),
-        const SizedBox(height: 14),
-        _TonightStats(night: latestNight),
+        if (latestNight != null) ...[
+          const SizedBox(height: 14),
+          _TonightStats(night: latestNight),
+        ],
         const SizedBox(height: 18),
         Text(
           'Last night timeline',
@@ -52,7 +69,12 @@ class _TonightScreenState extends State<TonightScreen> {
           onSelected: (kind) => setState(() => _filter = kind),
         ),
         const SizedBox(height: 10),
-        ...events.map((event) => _TimelineEventTile(event: event)),
+        if (widget.isLoading)
+          const _LoadingPanel()
+        else if (events.isEmpty)
+          const _EmptyTimelinePanel()
+        else
+          ...events.map((event) => _TimelineEventTile(event: event)),
       ],
     );
   }
@@ -101,14 +123,24 @@ class _Header extends StatelessWidget {
 }
 
 class _RecordingPanel extends StatelessWidget {
-  const _RecordingPanel({required this.isRecording, required this.onPressed});
+  const _RecordingPanel({
+    required this.session,
+    required this.isBusy,
+    required this.statusMessage,
+    required this.onStartRecording,
+    required this.onStopRecording,
+  });
 
-  final bool isRecording;
-  final VoidCallback onPressed;
+  final RecordingSession session;
+  final bool isBusy;
+  final String? statusMessage;
+  final Future<void> Function() onStartRecording;
+  final Future<void> Function() onStopRecording;
 
   @override
   Widget build(BuildContext context) {
     final colorScheme = Theme.of(context).colorScheme;
+    final isRecording = session.status == RecordingStatus.recording;
     final statusColor = isRecording ? SnorvyTheme.coral : SnorvyTheme.moss;
 
     return Card(
@@ -158,12 +190,33 @@ class _RecordingPanel extends StatelessWidget {
             ),
             const SizedBox(height: 16),
             FilledButton.icon(
-              onPressed: onPressed,
+              onPressed: isBusy
+                  ? null
+                  : () async {
+                      if (isRecording) {
+                        await onStopRecording();
+                      } else {
+                        await onStartRecording();
+                      }
+                    },
               icon: Icon(isRecording ? Icons.stop : Icons.nightlight),
               label: Text(
-                isRecording ? 'Stop recording' : 'Start local recording',
+                isBusy
+                    ? 'Working...'
+                    : isRecording
+                    ? 'Stop recording'
+                    : 'Start local recording',
               ),
             ),
+            if (statusMessage != null) ...[
+              const SizedBox(height: 12),
+              Text(
+                statusMessage!,
+                style: Theme.of(context).textTheme.bodySmall?.copyWith(
+                  color: colorScheme.onSurfaceVariant,
+                ),
+              ),
+            ],
           ],
         ),
       ),
@@ -275,6 +328,45 @@ class _TimelineFilters extends StatelessWidget {
             onSelected: (_) => onSelected(kind),
           ),
       ],
+    );
+  }
+}
+
+class _LoadingPanel extends StatelessWidget {
+  const _LoadingPanel();
+
+  @override
+  Widget build(BuildContext context) {
+    return const Padding(
+      padding: EdgeInsets.symmetric(vertical: 24),
+      child: Center(child: CircularProgressIndicator()),
+    );
+  }
+}
+
+class _EmptyTimelinePanel extends StatelessWidget {
+  const _EmptyTimelinePanel();
+
+  @override
+  Widget build(BuildContext context) {
+    return Card(
+      child: Padding(
+        padding: const EdgeInsets.all(16),
+        child: Row(
+          children: [
+            Icon(
+              Icons.timeline,
+              color: Theme.of(context).colorScheme.onSurfaceVariant,
+            ),
+            const SizedBox(width: 12),
+            const Expanded(
+              child: Text(
+                'No saved audio events yet. Start recording tonight.',
+              ),
+            ),
+          ],
+        ),
+      ),
     );
   }
 }

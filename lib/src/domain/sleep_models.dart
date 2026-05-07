@@ -36,6 +36,7 @@ class SleepEvent {
     required this.startsAt,
     required this.duration,
     required this.intensity,
+    this.filePath,
   });
 
   final int id;
@@ -43,6 +44,7 @@ class SleepEvent {
   final DateTime startsAt;
   final Duration duration;
   final int intensity;
+  final String? filePath;
 
   String get timeLabel {
     final hour = startsAt.hour.toString().padLeft(2, '0');
@@ -69,6 +71,7 @@ class SleepNight {
     required this.snoreScore,
     required this.events,
     this.isManual = false,
+    this.recordingPath,
   });
 
   final DateTime date;
@@ -77,6 +80,7 @@ class SleepNight {
   final int snoreScore;
   final List<SleepEvent> events;
   final bool isManual;
+  final String? recordingPath;
 
   Duration get duration => endedAt.difference(startedAt);
 

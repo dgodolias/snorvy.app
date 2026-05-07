@@ -44,7 +44,7 @@ class FlutterSoundSleepRecorder implements SleepRecorder {
 
     final directory = await getApplicationDocumentsDirectory();
     final recordingsDirectory = Directory(p.join(directory.path, 'recordings'));
-    if (!recordingsDirectory.existsSync()) {
+    if (!await recordingsDirectory.exists()) {
       await recordingsDirectory.create(recursive: true);
     }
 

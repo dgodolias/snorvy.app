@@ -1,0 +1,3008 @@
+{
+  "app": "com.simplywise.mobile",
+  "country": "us",
+  "total_pulled": 300,
+  "total_after_filter": 300,
+  "reviews": [
+    {
+      "date": "2026-05-05T04:33:58.427Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "Tiberius Wade",
+      "text": "App needs so much improvement. Seems after I scan receipts it close/restart? And I have to select folder all over. Also it will not allow me to add/name a folder, be nice if customers are able to name set folders to keep track better",
+      "reply": "HI Tiberius, thank you for flagging this! This sounds like we need to take a look at it and lend a hand. When you have a moment, please reach out to our support team and we'll be happy to assist further. Link for support: https://www.simplywise.com/support",
+      "replyDate": "2026-05-05T06:01:06.000Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=a4201198-9b25-49ca-b128-b5a8e675dbab"
+    },
+    {
+      "date": "2026-05-02T18:54:18.480Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Joe Prunera",
+      "text": "Right off the bat, they want my phone number and personal information. No way! Do better. There is no need for any of that",
+      "reply": "Hi Joe! Since we're US based, we need to confirm the the phone number has a +1 and serves as a secure account identifier! Data protection is #1 for us, but we respect your decision and hope you find what supports your workflow!",
+      "replyDate": "2026-05-04T04:08:04.138Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=cb8f528c-3181-4c8c-a37b-e70932183b94"
+    },
+    {
+      "date": "2026-04-29T15:48:36.864Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "Elise Winters-Huete",
+      "text": "It is very feature-rich, but costs much more than I expected. It is currently $90 a year for an annual subscription, or $20 a month if paid monthly. There is a 7-day free trial. I did not actually move forward with using the app.",
+      "reply": "Hi Elise, thanks for giving us a spin! We offer three plans to meet variety of budgets: free limited plan, personal tier at $29.99/year, and the business tier for $89.99/year which offers access to the reports feature. If you need help selecting the best one, please ping our team and we'll be happy to help! 📌 https://www.simplywise.com/support",
+      "replyDate": "2026-04-30T09:50:06.654Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=ab153377-f0ca-47d9-baba-c6159c903da5"
+    },
+    {
+      "date": "2026-04-29T11:11:27.338Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Jennifer Prager",
+      "text": "would let me sign up with a Google account.",
+      "reply": "Hi Jennifer! Since we're US based, you'll need a phone number with a +1 to create an account. We protect data and don't call you, but this is needed in order to create an account!",
+      "replyDate": "2026-04-30T09:48:51.355Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=ca492305-5d76-4878-affa-1d1deb755ed1"
+    },
+    {
+      "date": "2026-04-25T02:07:12.794Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "pearadimes",
+      "text": "So far, the quick scan has been accurate and or easy to edit.",
+      "reply": "Thank you for the 5 star review! We're so glad to hear it's serving you so well!",
+      "replyDate": "2026-04-25T07:31:39.499Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=9b0d246e-a347-4136-a827-f70c855a3378"
+    },
+    {
+      "date": "2026-04-20T13:46:01.460Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "Bryan Carpenter",
+      "text": "the app is still new to me",
+      "reply": "Welcome to SimplyWise, Bryan - we're so glad to have you here! We hope you love the app as much as we do! We're here to help you along the way, so please don't hesitate to reach out at https://www.simplywise.com/support",
+      "replyDate": "2026-04-21T05:36:37.491Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=d47c0b86-61eb-45a7-afc1-6e2013d5956d"
+    },
+    {
+      "date": "2026-04-18T00:38:45.870Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "Ben Hicks",
+      "text": "love it",
+      "reply": "Thank you, Ben - appreciate the love and stellar 5 star rating!!",
+      "replyDate": "2026-04-20T04:20:32.108Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=f87052a3-2570-4564-a70e-3864651019f0"
+    },
+    {
+      "date": "2026-04-16T03:29:36.270Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Maurice Charles",
+      "text": "very easy to use love it",
+      "reply": "Thank you, Maurice! So glad to hear it's serving you so well!",
+      "replyDate": "2026-04-16T13:30:07.773Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=0b2b8ff6-a16e-44df-8070-9ba72e585c28"
+    },
+    {
+      "date": "2026-04-15T13:01:16.142Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "Jessica Cremer",
+      "text": "great, but I would love a cheaper option for more receipt storage",
+      "reply": "HI Jessica, so glad to hear it's serving you well! We offer three plans to fit all budgets: Free, Personal, and Business so feel free to use whichever one best suits your needs.",
+      "replyDate": "2026-04-16T13:29:48.600Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=0b8d8d8f-8a04-424e-95a8-02a42ed95c76"
+    },
+    {
+      "date": "2026-04-13T05:49:57.609Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Vernon Burch",
+      "text": "easy to work with",
+      "reply": "Thank you, Vernon. Appreciate the support!",
+      "replyDate": "2026-04-13T07:12:47.337Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=5380f7ca-e078-41bb-9340-87ef1aecb7ae"
+    },
+    {
+      "date": "2026-04-13T01:48:57.521Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "Greg Hock",
+      "text": "wise great and awesome much love",
+      "reply": "Thank you, Greg! Appreciate the support and the love! 🙏💗",
+      "replyDate": "2026-04-13T07:13:07.188Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=e333f0c2-ea01-4bfc-9822-41b4195e7209"
+    },
+    {
+      "date": "2026-04-12T20:14:55.445Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Robert L. Chance Jr.",
+      "text": "amazing interface easy to use detail!",
+      "reply": "Thank you, Robert! We appreciate your awesome feedback! Our team works hard to ensure a smooth and user-friendly experience with the app, and we love hearing it's working so well for you!!",
+      "replyDate": "2026-04-13T07:13:49.360Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=acc2b50e-ce3c-45d4-9969-5d40f67a7b8c"
+    },
+    {
+      "date": "2026-04-11T09:49:13.534Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Trey Prendergast",
+      "text": "great",
+      "reply": "Thank you, Trey! Love hearing that it's helping bring order to the receipt chaos!!",
+      "replyDate": "2026-04-13T07:14:09.452Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=00309a7b-5118-4bd4-af7e-7c6a70b67d64"
+    },
+    {
+      "date": "2026-04-10T16:50:15.713Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Dunamis Flux",
+      "text": "I just got the free version. I might update this review after a while.",
+      "reply": "Welcome to SimplyWise - we're so glad to have you here and look forward to hearing your feedback as you use the app more! Excited to hear how it serves your receipt tracking workflow!!",
+      "replyDate": "2026-04-11T08:28:14.423Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=96d04c27-455e-4ecc-9feb-74a4dfce424e"
+    },
+    {
+      "date": "2026-04-08T01:03:33.779Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Gus Lozano",
+      "text": "1st time trying and its easy!",
+      "reply": "Welcome to SimplyWise, Gus! We're so happy to have you here, and honored to help you digitize all of your paper receipts!",
+      "replyDate": "2026-04-08T06:03:08.133Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=92c020c9-c3ec-4e01-b23f-d50a183605bb"
+    },
+    {
+      "date": "2026-04-06T21:25:08.320Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "Hillary Blackinton",
+      "text": "Wow, so far, we are very impressed with this app for keeping track of all our receipts! Thank you SimplyWise!",
+      "reply": "Thank you, Hillary! So glad we're able to bring order to the receipt chaos!",
+      "replyDate": "2026-04-07T03:44:14.150Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=d61748b3-4d61-46f7-a449-b0946220fc75"
+    },
+    {
+      "date": "2026-04-06T02:28:45.766Z",
+      "score": 3,
+      "thumbsUp": 1,
+      "user": "ramzey Asia",
+      "text": "this is great app. as someone who got alot of emails/receipts. it will be much better to give the option to search individually receipt without scrolling the whole receipts one by one to be able to find what u need",
+      "reply": "Hi Ramzey, thank you for your feedback! You should be able to use the search bar at the top to search for those receipts. To pinpoint a specific one, you'll want to use the receipt total for best results!",
+      "replyDate": "2026-04-06T07:32:29.528Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=a1b8e4ff-1f11-4e53-9486-dcc0632d4201"
+    },
+    {
+      "date": "2026-04-05T16:52:41.533Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "REGGAEPOP",
+      "text": "good job",
+      "reply": "Thank you ReggaePop - appreciate the support & 5-star love! 🙌🏼",
+      "replyDate": "2026-04-06T07:33:01.673Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=dc9874f9-d944-4361-8018-647a5c7195f7"
+    },
+    {
+      "date": "2026-04-04T22:07:49.430Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "wayne cooperider",
+      "text": "I want the app canceled.You do not have authorization to charge my card",
+      "reply": "Hi Wayne, we're sorry to hear we weren't a great fit for you! Please note account changes cannot be made here. If you need help, please connect with our support team here: 📌 https://www.simplywise.com/support",
+      "replyDate": "2026-04-05T02:04:36.310Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=c947e3c4-0ad1-434b-98a2-7b33735a5d43"
+    },
+    {
+      "date": "2026-04-04T08:18:04.162Z",
+      "score": 4,
+      "thumbsUp": 1,
+      "user": "Aaron Lovejoy",
+      "text": "so far easy to use and extremely helpful when trying to keep receipts for DoorDash and receipts for my lawn care business. I have yet to use SimplyWise for anything to do with taxes, but I'm sure the reports SimplyWise can generate will be very helpful come tax time next year. there's definitely areas SimplyWise could improve or bring in AI to so some things to make the experience that much better, but I give it 4 stars for now. I've literally barely used the app as of right now.",
+      "reply": "Hi Aaron, appreciate your feedback! We'd love to hear more of your ideas, so feel free to connect with us whenever you have a moment to share. You can reach us at https://www.simplywise.com/support",
+      "replyDate": "2026-04-05T02:05:28.696Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=90213caf-7a4e-4153-bc82-85ee627f5759"
+    },
+    {
+      "date": "2026-04-03T18:05:50.400Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Jessica Holtzclaw",
+      "text": "This app is extremely helpful!",
+      "reply": "Thank you, Jessica! So happy to hear we can bring order to the receipt chaos!",
+      "replyDate": "2026-04-04T06:13:37.313Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=2109a43c-3480-4e59-8f1b-dbf965e58377"
+    },
+    {
+      "date": "2026-04-02T14:54:46.634Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Molly",
+      "text": "A gift from God! Love it!",
+      "reply": "Thank you, Molly! So glad to hear that the Receipt Scanner app is serving you so well and bringing order to those paper receipts!",
+      "replyDate": "2026-04-03T03:58:05.552Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=2aa550c7-ac94-4c73-b1d2-7fea8e0996b7"
+    },
+    {
+      "date": "2026-04-01T08:28:25.819Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Tommy Jackson",
+      "text": "Working properly makes it easy to keep track of finances, and I'm satisfied.",
+      "reply": "Thank you, Tommy! We love bringing order to the receipt chaos and appreciate the stellar feedback!!",
+      "replyDate": "2026-04-02T03:24:55.524Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=24bd0289-48c2-40aa-b26c-42b0b76553cd"
+    },
+    {
+      "date": "2026-04-01T00:51:00.935Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Nicky Westbrook",
+      "text": "We're still trying to figure out how to scan receipts with a front and back.",
+      "reply": "Hi Nicky! Happy to help! When you scan the front, then you'll want to tap the + on the image to add more pages and then can scan add'l pages there. Be sure to check out our video library for helpful tutorials as you get started: 📌https://www.youtube.com/@simplywiseusa/videos",
+      "replyDate": "2026-04-01T02:37:43.675Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=bc4230ab-f242-4094-9148-ed7970472c19"
+    },
+    {
+      "date": "2026-03-25T03:51:23.100Z",
+      "score": 1,
+      "thumbsUp": 2,
+      "user": "T S",
+      "text": "I have just spent 10 minutes trying to connect my PayPal and my Amazon and the app just keeps crashing, then I have to resign into the app then it wants me to resign into Amazon then the app crashes again I don't have time for this.",
+      "reply": "HI TS! So sorry to hear you've hit snags with the integrations. We're working on fixing these issues and will share your feedback with our dev team! If you need us in the meantime, you can connect with us here: https://www.simplywise.com/support",
+      "replyDate": "2026-03-25T07:26:25.600Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=3da205c8-bfaf-4329-a4ac-5471a6d58fa2"
+    },
+    {
+      "date": "2026-03-24T17:48:15.536Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Rich Ranus",
+      "text": "Not only a superb product but outstanding customer support and service.",
+      "reply": "Wow Rich - you have made our day! Thank you for your kind words and 5 star review for the receipt scanner app. We really appreciate you sir!!",
+      "replyDate": "2026-03-25T07:27:02.693Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=0b7652db-71b1-49ed-b59a-60517a3f0521"
+    },
+    {
+      "date": "2026-03-23T15:46:00.980Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "luis nunez",
+      "text": "accurate",
+      "reply": "Thank you, Luis! Love this feedback!! 🙏🏼",
+      "replyDate": "2026-03-24T05:17:10.762Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=218fb726-5b29-448b-9c78-1d4f6d4b468a"
+    },
+    {
+      "date": "2026-03-22T21:08:58.267Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Michael Toral",
+      "text": "awesome app, helps with work and expenses.",
+      "reply": "Thank you, Michael! So glad we can so the heavy lifting with those receipts for ya!",
+      "replyDate": "2026-03-23T03:12:27.192Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=9888958c-872b-4f49-83dd-1aae55086840"
+    },
+    {
+      "date": "2026-03-22T08:23:21.314Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Carlos Medina",
+      "text": "nice",
+      "reply": "Thank you, Carlos! So glad to hear it's putting those receipts in good order for ya!",
+      "replyDate": "2026-03-23T03:12:06.969Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=f3141d47-e89e-4056-b1ba-66f56d6bed96"
+    },
+    {
+      "date": "2026-03-21T13:31:57.768Z",
+      "score": 2,
+      "thumbsUp": 2,
+      "user": "Andrea Zibelman",
+      "text": "This COULD be a good app but, after my security software detected it has the ability to *READ MY EMAILS* I decided to uninstall it. WHY does this app need to read my emails?!?! I see no reason for this function and am not about to allow access to that. so, I, because I'm uncomfortable with that kind off access, my only solution was to uninstall it. Give up that access and perhaps I'll reconsider installing and using it.",
+      "reply": "Hi Andrea, so sorry for any confusion here! We offer an email receipt import feature for those who want to connect their email for automatic import, but this is 100% optional and not mandatory to use the app. We actually created this feature because the large majority of our users requested it to be available. Hope this helps clarify!",
+      "replyDate": "2026-03-21T20:21:57.740Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=fca4890d-8ecb-4dea-b2cd-3b6889fc156d"
+    },
+    {
+      "date": "2026-03-21T03:56:41.610Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "William Sharp",
+      "text": "I'm learning how to use the software and I'm pretty impressed with it so far",
+      "reply": "So glad to hear it's working so well for you, William! This is why we love what we do!!",
+      "replyDate": "2026-03-21T04:50:40.374Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=7cc14517-df67-4215-a64b-bd9076c26ddd"
+    },
+    {
+      "date": "2026-03-19T05:17:34.508Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "Has Wib Service's",
+      "text": "the trial version was great",
+      "reply": "Thank you for giving us a spin! We hope to serve your receipt tracking needs long term and we'll be here to help when you need us!",
+      "replyDate": "2026-03-20T02:33:11.391Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=f8e03178-13bc-4650-b28e-e3db77dad4cf"
+    },
+    {
+      "date": "2026-03-19T01:25:24.990Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Evan Russell",
+      "text": "Advertised as being free, it's not.",
+      "reply": "Hi Evan, our apologies for any confusion but we conform we do offer a free limited plan, along with two paid plans! Let us know if you need help getting set up and we'll be happy to help! 📌 Link for support: https://www.simplywise.com/support",
+      "replyDate": "2026-03-19T04:18:01.286Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=9029bb47-ab5d-4d2e-9bac-361b783640ae"
+    },
+    {
+      "date": "2026-03-16T15:40:17.128Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Rhonda Coonse",
+      "text": "so far I am loving this",
+      "reply": "Appreciate the love, Rhonda! So glad we can help keep those receipts in tidy order!",
+      "replyDate": "2026-03-17T04:57:42.524Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=6e02b90c-c9c5-4e14-a8e6-538ebbbfce24"
+    },
+    {
+      "date": "2026-03-16T12:25:38.527Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Dani",
+      "text": "very easy to use",
+      "reply": "Thank you, Dani! We're all about keeping it simple over here at SimplyWise!",
+      "replyDate": "2026-03-17T04:57:16.228Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=88fee3d7-2309-4dda-b4b6-aaec0a760b01"
+    },
+    {
+      "date": "2026-03-16T00:57:24.512Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "DarkNLuvly",
+      "text": "I'm loving this app",
+      "reply": "Appreciate the love!!",
+      "replyDate": "2026-03-16T03:18:10.476Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=fc036bac-677a-4554-ab73-b95958ff6dbf"
+    },
+    {
+      "date": "2026-03-15T18:38:30.281Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "andy plowman",
+      "text": "appears to be a very useful app works great so far !",
+      "reply": "Thank you, Andy! Your review has made our day!!",
+      "replyDate": "2026-03-16T03:17:59.520Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=c7cde511-dbc0-40a3-9f65-74112417a97d"
+    },
+    {
+      "date": "2026-03-14T18:24:32.121Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Santino Green",
+      "text": "work like a charm ✨️",
+      "reply": "Thank you, Santino! We really appreciate the kind feedback and 5 star review - thank you!!",
+      "replyDate": "2026-03-16T03:17:41.261Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=fe6bad1a-779e-4fe3-ba5e-eb4dd3ca1a7f"
+    },
+    {
+      "date": "2026-03-14T04:53:07.854Z",
+      "score": 1,
+      "thumbsUp": 2,
+      "user": "Robert Boyd",
+      "text": "This app does not work well with any Android phone, it sometimes crashes when trying to open, and takes a long time to load when it does open. I had a s24 ultra and it took forever to open I now have a s26 ultra and the same problem it opens fine on any Apple phone. I also couldn't transfer my yearly expenses using an Android phone I had to use a iPhone .",
+      "reply": "Hey Robert, this doesn't sound like the app's normal behavior so we apologize for the snag! If you wouldn't mind reaching out to our support team, we'd love the opportunity to dig into this further to see what's happening. Link for support: https://www.simplywise.com/support",
+      "replyDate": "2026-03-16T03:17:14.636Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=b9e53cac-440f-443e-93b4-8fb608ab2f84"
+    },
+    {
+      "date": "2026-03-13T18:12:58.535Z",
+      "score": 5,
+      "thumbsUp": 12,
+      "user": "Lisa Kaye",
+      "text": "Check to be sure you're signing up for the right subscription! Customer support has been GREAT! I love how easy it is to scan receipts and set up categories! Seeing all the details self-populate (date, vendor, line items, tax, total, and suggested categories) is actually FUN! As a landlord with multiple properties dealing with receipts has NEVER been fun before. I'm still learning about the reports but getting the receipts captured and having that record is worth it's weight in gold.",
+      "reply": "Hi Lisa, thank you for your kind words and support! We're so honored to be able to support your business and expense tracking needs and appreciate you taking the time to share your stellar review with us!! 🙌",
+      "replyDate": "2026-03-14T01:59:45.450Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=042900f8-f8ee-43fa-9211-c95223359ecf"
+    },
+    {
+      "date": "2026-03-13T11:17:37.960Z",
+      "score": 3,
+      "thumbsUp": 1,
+      "user": "Knit Together",
+      "text": "how do I cancel my subscription?",
+      "reply": "Hi Sandra, cancellation steps will depend on where the billing is being handled. If we can help guide you, please don't hesitate to reach out to our Support Team here: https://www.simplywise.com/support",
+      "replyDate": "2026-03-14T02:01:01.400Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=46258d13-bf67-4a73-9965-1979c2511d64"
+    },
+    {
+      "date": "2026-03-13T08:46:14.930Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Joe Beez",
+      "text": "First time using the App, it's great so far. I'm able to get a lot done in the truck.",
+      "reply": "Love to hear this, Joe! Your time is valuable and you work hard, so we're happy to hear that we can alleviate some stress and save some time with your receipt tracking workflow!!!",
+      "replyDate": "2026-03-14T02:01:44.389Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=d6145a5e-2752-4962-acc1-5f9aa228f11f"
+    },
+    {
+      "date": "2026-03-12T22:40:15.763Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "ETX1187",
+      "text": "this app makes things nice to keep track of everything.",
+      "reply": "Thank you so much for the awesome review and feedback - we're so glad to be able to support you!!",
+      "replyDate": "2026-03-14T02:02:13.123Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=0ced1475-e396-44d8-ae03-bf972092b45a"
+    },
+    {
+      "date": "2026-03-11T01:52:43.789Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "brent russell",
+      "text": "easy to use",
+      "reply": "Hi Brent, so glad to hear we're able to support your receipt tracking journey - this makes us happy!",
+      "replyDate": "2026-03-12T00:40:33.249Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=a0503de6-292e-4a4e-a6c5-f142dd6402ce"
+    },
+    {
+      "date": "2026-03-10T23:36:22.714Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Shlomit Levi",
+      "text": "Good App!",
+      "reply": "Thank you, Shlomit! We're so glad to hear it's serving you well!",
+      "replyDate": "2026-03-12T00:41:33.623Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=7f917369-0a22-4ff8-b89e-7605ce89e72a"
+    },
+    {
+      "date": "2026-03-10T20:40:47.732Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Brent Kotlarz",
+      "text": "would be nice if it told you how much you paid in taxes for monthly and yearly total.",
+      "reply": "Hi Brent, that feature is available with the business tier plan!",
+      "replyDate": "2026-03-12T00:41:54.967Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=2a73179e-bc49-4f81-a21f-706e2074e5ab"
+    },
+    {
+      "date": "2026-03-09T18:14:18.263Z",
+      "score": 4,
+      "thumbsUp": 1,
+      "user": "Demian Affeldt",
+      "text": "Nice app to save receipts, but the edits I make to some of the auto filled info won't stay as I've saved them many times.",
+      "reply": "Hi Demian, thank you for flagging that! Please reach out to our support team when you have a moment so we can take a look at this! 📌 Link for support: https://www.simplywise.com/support",
+      "replyDate": "2026-03-12T00:42:42.505Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=f3a7799a-5ad5-4337-9ecc-79e29c0652c6"
+    },
+    {
+      "date": "2026-03-07T14:43:14.287Z",
+      "score": 3,
+      "thumbsUp": 10,
+      "user": "Beth Wales",
+      "text": "This app is good but it could be so much better with a little bit of work. If it automatically did the math when you took something off a receipt, calculated tax or had the ability to turn off certain \"features\" for example. It does catch duplicate receipts, that's handy. It doesn't always work when scanning multiples and it often comes up with weird names for stores that you have to fix manually.",
+      "reply": "Hi Beth, thanks for flagging these items! We'll get this over to the dev team so we can finetune it! If you ever need help, please drop us a line! 📌 Link for support: https://www.simplywise.com/support",
+      "replyDate": "2026-03-08T02:17:46.949Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=85074bec-c6c4-44ef-a26d-7eac62516813"
+    },
+    {
+      "date": "2026-03-03T03:41:36.208Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "E C",
+      "text": "great app to keep all your accounting in one place!",
+      "reply": "Thank you, EC! We really appreciate the support!",
+      "replyDate": "2026-03-03T08:00:45.549Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=6d0e76d7-92e8-4984-ab56-72b24ebee19e"
+    },
+    {
+      "date": "2026-03-02T07:06:47.308Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Gabriel Sarsozo",
+      "text": "love this whole set up can't wait to see how they advance the systems",
+      "reply": "Thank you for the review and for allowing us to be part of your receipt tracking journey!",
+      "replyDate": "2026-03-03T08:00:28.768Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=27014764-2b9d-42e8-a897-220bb7842ded"
+    },
+    {
+      "date": "2026-03-02T06:05:54.634Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "TH",
+      "text": "someone rated they used a free version for months but there is only a 7 day free version",
+      "reply": "Hi there, sorry for any confusion here! We have a completely free limited plan available. The free trials are for the paid plans, so you'll want to tap the X on the free trial page to get to the free limited plan! If you need help, ping us here: https://www.simplywise.com/support",
+      "replyDate": "2026-03-03T07:58:38.577Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=1d6f7e49-0eb3-4190-b75a-1cdbc4fcff46"
+    },
+    {
+      "date": "2026-03-01T08:46:02.224Z",
+      "score": 4,
+      "thumbsUp": 1,
+      "user": "Deidra allgood",
+      "text": "the camera has been slow and the upload have been slow nd receipt upload has been slow.i love this app otherwise",
+      "reply": "Thank you for flagging this! We'll be happy to look into this. If you haven't already, please connect with our support team so can gather a few more details. Link for support: https://www.simplywise.com/support",
+      "replyDate": "2026-03-03T07:59:57.272Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=2da19e55-584a-4320-9410-007845de0f53"
+    },
+    {
+      "date": "2026-02-27T02:59:24.633Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "Aaron Birtha",
+      "text": "How helpfull",
+      "reply": "Hi Aaron! We'd love to know how we could earn a 5 star rating from you to ensure you're 100% satisfied! Please ping us to share your thoughts: 📌 https://www.simplywise.com/support",
+      "replyDate": "2026-02-27T06:17:48.857Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=e5930538-32bc-44df-9b07-79963f311eba"
+    },
+    {
+      "date": "2026-02-24T15:05:18.211Z",
+      "score": 1,
+      "thumbsUp": 2,
+      "user": "Alex Ale",
+      "text": "had this app for a few years and every year I was able to retrieve all the receipts needed to file my taxes. this year it just lost all the data for 2025. literally just nothing for 2025 absolute zero! Do not rely on it ever! the subscription won't guarantee you'll have the data when needed. now I have to go through hell, trying to get at least anything for my tax filing. outrageous!",
+      "reply": "Hi Alex, we're here to help! As long as you didn't delete the account, all of the data is saved on the cloud for you whether you have a subscription or not! Please connect with our support team and we'll be happy to help! Link for support: 📌 https://www.simplywise.com/support",
+      "replyDate": "2026-02-25T05:55:26.254Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=08965d36-15c7-4e54-b456-78b41a443adf"
+    },
+    {
+      "date": "2026-02-24T01:17:16.799Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "Erik Winkelmann",
+      "text": "Love the app! Wish I didn't have to edit lines and add in pricing on some of my receipts. Its almost 100% accurate when scanning receipts.",
+      "reply": "Hi Erik! Thanks for the 5 star review! We're actually working to make improvements around this as we speak. Stay tuned! 😊",
+      "replyDate": "2026-02-24T06:09:24.356Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=7664c940-4a9d-4fa8-a492-2a63515e27bd"
+    },
+    {
+      "date": "2026-02-23T21:46:18.238Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Velez",
+      "text": "easy to use everything on one spot",
+      "reply": "Thank you, Velez! We appreciate the support!",
+      "replyDate": "2026-02-24T06:09:38.800Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=8d1f25af-671a-4372-b794-0d0ee434472b"
+    },
+    {
+      "date": "2026-02-23T19:37:09.337Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "iThinkiCan Solution & Services, LLC",
+      "text": "Helps me stay organized and tax receipt ready.",
+      "reply": "Solid feedback - thank you! 🙌",
+      "replyDate": "2026-02-24T06:09:54.107Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=edc6c171-6ecb-4db3-9b9b-e79cbfde021c"
+    },
+    {
+      "date": "2026-02-21T15:05:05.747Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Chaunice Smith",
+      "text": "so far so good",
+      "reply": "Thank you for the stellar review, Chaunice - we appreciate you!",
+      "replyDate": "2026-02-22T08:53:19.678Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=06385b87-7836-4ba2-9739-95baa11e927f"
+    },
+    {
+      "date": "2026-02-21T09:59:30.900Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "Juanita Carter",
+      "text": "Absolutely love it. best budgeting app I've came across. Will definitely pay for subscription. probably before the trials up so I don't miss anything",
+      "reply": "Juanita, you've made our day - thank you! So glad we're able to help bring order to those receipts!",
+      "replyDate": "2026-02-22T08:53:02.893Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=4ff3e835-7aac-48a0-919e-4a73c217d87d"
+    },
+    {
+      "date": "2026-02-20T20:37:13.180Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "George Barksdale",
+      "text": "I love it",
+      "reply": "Thank you, George! We appreciate the support!",
+      "replyDate": "2026-02-21T04:50:59.346Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=1beb1c93-9d65-49cf-b34e-fc8d79433329"
+    },
+    {
+      "date": "2026-02-17T20:11:37.984Z",
+      "score": 3,
+      "thumbsUp": 1,
+      "user": "M V",
+      "text": "Great app. Hopefully I can afford the pay version once the free runs out",
+      "reply": "Hi MV, thanks for taking the time to give us a review. We'd love to learn how we could offer a 5 star experience for you! If you need help, please connect with our support team here: https://www.simplywise.com/support",
+      "replyDate": "2026-02-19T05:28:53.488Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=d1f9dccc-53fb-4e12-9178-26ef14bbb1fe"
+    },
+    {
+      "date": "2026-02-17T13:34:30.773Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Lil Tuffy",
+      "text": "I just got the app so far so good. I guess until I run out of the trial date is when I will give my True opinion.",
+      "reply": "Thanks for giving us a spin, Lil Tuffy! We hope we can handle the lift of getting those receipts in order for you!",
+      "replyDate": "2026-02-19T05:29:36.611Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=d7209ccd-0d6b-448d-af0e-d9bb5f794c2c"
+    },
+    {
+      "date": "2026-02-15T16:32:38.316Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Conan Henry",
+      "text": "priceless",
+      "reply": "Thank you, Conan! We really appreciate the solid feedback and stellar 5 star review.",
+      "replyDate": "2026-02-16T05:13:55.842Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=53eb3280-5be2-4d85-b7ab-dd835d6a1669"
+    },
+    {
+      "date": "2026-02-15T04:34:21.403Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Emilio Espinoza Jr",
+      "text": "Great app to keep all business expenses one place",
+      "reply": "Thank you, Emilio! You have made our day that much better!",
+      "replyDate": "2026-02-16T05:13:36.348Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=da584f08-2cec-4de2-9604-01cc9db99f45"
+    },
+    {
+      "date": "2026-02-15T02:18:13.200Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Devyn Storey",
+      "text": "We love this app for our business and personal expenses.",
+      "reply": "Thank you, Devyn! We're loving your feedback and really appreciate the 5 star rating!",
+      "replyDate": "2026-02-16T05:13:20.453Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=d61e2dff-4d4e-4b57-9093-5d1348fa81a5"
+    },
+    {
+      "date": "2026-02-13T23:16:44.156Z",
+      "score": 4,
+      "thumbsUp": 1,
+      "user": "Dario Montoya",
+      "text": "I think its awesome and it's helpful for making estimates, invoices, would have been 5 starts if they would have videos on how to set it up. still a great product",
+      "reply": "Hi Dario - you spoke & we listened! We want to share our video libraries filled with quick tutorials that walk through the app's features. 📌 Cost Estimator: https://www.youtube.com/@simplywise-estimates/videos 📌 Receipt Scanner: https://www.youtube.com/@simplywiseusa/videos",
+      "replyDate": "2026-02-14T10:22:02.778Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=57f211bd-b8bd-4675-9842-b0addb15e6d7"
+    },
+    {
+      "date": "2026-02-13T22:34:02.157Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Michael OReilly",
+      "text": "Great app, works like a charm",
+      "reply": "Thank you, Michael! We appreciate the solid support and love hearing it's working so well! 🙌",
+      "replyDate": "2026-02-14T10:22:28.843Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=134ea0fb-f88c-4a3f-befe-e40d35c3be64"
+    },
+    {
+      "date": "2026-02-12T16:20:46.400Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Lyle Seratt",
+      "text": "love it!!!",
+      "reply": "Appreciate the support - thanks Lyle!!",
+      "replyDate": "2026-02-13T05:26:55.211Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=de773ea7-e2bc-4b09-8912-7c3beaa9a46c"
+    },
+    {
+      "date": "2026-02-11T20:02:10.855Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Sandra Allen",
+      "text": "I love it!",
+      "reply": "Thank you, Sandra! We appreciate your support and love knowing we can help bring order to the receipt chaos!",
+      "replyDate": "2026-02-12T05:24:42.458Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=2c31f9f5-1eeb-48b6-83cc-4858d3fa71e2"
+    },
+    {
+      "date": "2026-02-11T13:44:44.971Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "Matt Sisson",
+      "text": "it does a few different things ok not perfect.",
+      "reply": "Hi Matt, we'd love to know how it could serve you better. Please reach out to our support team and share your feedback with us! 📌 Link to connect: https://www.simplywise.com/support",
+      "replyDate": "2026-02-12T05:24:19.116Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=62e693a3-d2b3-4d6b-921e-af71e454902e"
+    },
+    {
+      "date": "2026-02-11T00:25:15.129Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Joyce Ratcliff",
+      "text": "Love it so far ❤️",
+      "reply": "Appreciate the support, Joyce!! 🙌",
+      "replyDate": "2026-02-11T03:35:55.855Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=18f9e77c-7241-4698-b62c-2a07f2afb521"
+    },
+    {
+      "date": "2026-02-08T17:29:45.621Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Juan Anzaldua",
+      "text": "Awesome app",
+      "reply": "Thank you, Juan! So glad to hear it's working so well!!",
+      "replyDate": "2026-02-09T09:05:30.322Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=0393e78d-fdf6-4550-ae33-e0810dd80c20"
+    },
+    {
+      "date": "2026-02-07T22:55:04.495Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "dean olsowsky",
+      "text": "awesome tool highly recommend",
+      "reply": "Thank you, Dean! We really appreciate the support!",
+      "replyDate": "2026-02-08T09:14:19.473Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=af72061d-6fcb-4df7-91eb-d4aefce70401"
+    },
+    {
+      "date": "2026-02-07T21:20:29.562Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Cindy Martin",
+      "text": "So easy!",
+      "reply": "YAY! So glad you love it!",
+      "replyDate": "2026-02-08T09:14:28.487Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=60496399-b4b9-46df-adbc-75cb2313579e"
+    },
+    {
+      "date": "2026-02-07T00:08:10.138Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "syed sultan",
+      "text": "easy to work",
+      "reply": "We love hearing this, Syed - thank you!!",
+      "replyDate": "2026-02-08T09:14:59.182Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=a823a535-41c8-4436-a6c0-b207a46f7d36"
+    },
+    {
+      "date": "2026-02-06T21:03:06.119Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "Bob Rosario",
+      "text": "I like keeping all receipts to assist with budgeting but I don't want paper receipts and this is easier than scanning.",
+      "reply": "Love hearing this, Bob! Thank you!!",
+      "replyDate": "2026-02-08T09:15:15.335Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=33423258-a9e9-44b0-83ed-38354de551ad"
+    },
+    {
+      "date": "2026-02-05T23:27:48.979Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "JohnGirl K.",
+      "text": "Very easy to use. So far its working great.",
+      "reply": "Love that it's so helpful for you!!",
+      "replyDate": "2026-02-06T07:51:46.717Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=ff0ac137-55e4-4290-b1ff-0ff302d2649f"
+    },
+    {
+      "date": "2026-02-05T21:17:25.383Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Kim Cooper",
+      "text": "Loving this app, very easy to use and so glad there are free options!!",
+      "reply": "So glad to hear it's working so well and providing great support for your receipt tracking!!",
+      "replyDate": "2026-02-06T07:52:07.895Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=f3f1ee4a-37e5-4bf8-a383-3449f7333aaa"
+    },
+    {
+      "date": "2026-02-04T21:19:29.693Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "Mustafa E",
+      "text": "keeps track of all the receipts nice and easy",
+      "reply": "Love that we can do the heavy lifting with your receipts - this brings us joy!",
+      "replyDate": "2026-02-05T11:31:54.498Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=3a4fe44a-f139-4ddb-8601-2117c51c040c"
+    },
+    {
+      "date": "2026-02-04T19:44:54.659Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "Loretta Marks",
+      "text": "When using this app for the last seven years, it's such a wonderful app at the end of the year.It's so easy .. To calculate all what you bought for your taxes.",
+      "reply": "Thank you, Loretta! You are the real MVP!",
+      "replyDate": "2026-02-05T11:31:33.439Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=42fffda4-35c0-4650-bdce-1106af884f2a"
+    },
+    {
+      "date": "2026-02-03T01:54:58.306Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Daniel Quesada",
+      "text": "its a bit quirky, but is helping get and stay on top of stuff. so far email receipts only went back 2 years. so yeah it helps procrastinators.",
+      "reply": "Thank you for the 5 star review, Daniel! We're here if you need anything along the way! You can reach our support team at https://www.simplywise.com/support",
+      "replyDate": "2026-02-03T06:57:47.435Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=6d65486e-c2ca-46f0-8a00-aaacad5de700"
+    },
+    {
+      "date": "2026-01-28T22:40:08.682Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Zachary Scales",
+      "text": "I can't even open the app because it wants a code sent to my phone. I go get the code, it starts over again when I get back with the code and repeats again and again and over and over never stopping. why did you do this to me?!",
+      "reply": "Hi Zachary, sounds like you hit a snag over there! If you need help, we're here - you can reach us at 📌 https://www.simplywise.com/support",
+      "replyDate": "2026-01-30T00:56:35.305Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=4e043ce8-2771-4136-bcac-5771850744af"
+    },
+    {
+      "date": "2026-01-28T10:49:24.176Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Mack Strum",
+      "text": "great tracking",
+      "reply": "Thank you, Mack! So good to hear!!",
+      "replyDate": "2026-01-30T00:56:46.853Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=21ad5ecc-ba12-40a2-8acc-1b435e13f586"
+    },
+    {
+      "date": "2026-01-27T15:57:06.700Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Shon Hardy",
+      "text": "DONT DOWNLOAD THIS APP YOU WILL REGRET IT!!! Every since I put my number in this app I've got non stop telemarketing call. from 9am-10pm I received 30 calls the very next day. I can't sleep and the calls never stop. yesterday it was 37 calls and I run a small business on my phone and thought this app could help but all it did was sell my information and flood me with calls which makes it harder for my customers to get through to me. I run a food trailer that takes call in orders",
+      "reply": "Hi Shon, we can assure you this wasn't from us! We protect our users information with bank level security, and don't sell it because that's not how we operate. We value the trust our users place in us, and would never think to do something like this!",
+      "replyDate": "2026-01-28T08:29:50.538Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=cddbfcb5-fafc-4445-9573-798e357de91e"
+    },
+    {
+      "date": "2026-01-27T01:53:35.641Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Kittiphat Thavornphunt",
+      "text": "wow.. awesome app",
+      "reply": "Thank you, Kittiphat! Love to hear that we're able to help organize your receipts!!",
+      "replyDate": "2026-01-27T05:07:35.998Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=5baedc0b-e4e5-4241-b51f-bd640b184778"
+    },
+    {
+      "date": "2026-01-27T01:10:54.756Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Diego Diaz",
+      "text": "requires phone number to try it out",
+      "reply": "Hi Diego, it's pretty typical for apps to need a phone number as an account identifier. This helps us confirm you have a +1 number and also serves as a means to locate your account should you need to contact our support team. Thanks for giving us a spin!",
+      "replyDate": "2026-01-27T05:07:05.377Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=fe923a68-8aa0-4ba9-b39c-b8622db7e20c"
+    },
+    {
+      "date": "2026-01-26T13:51:25.425Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "Gary (Bigsexy)",
+      "text": "so far seems easy to use",
+      "reply": "Hi Gary, we'd love to know how we could earn a 5 star rating from you to ensure you're 100% satisfied! If we can help make it a better experience for you, please connect with us here: 📌 https://www.simplywise.com/support",
+      "replyDate": "2026-01-27T05:08:24.435Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=2c5162bd-c6e8-4c10-9686-8739bf556199"
+    },
+    {
+      "date": "2026-01-26T03:34:54.956Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "ANGELICA WILLIAMS",
+      "text": "so far so good",
+      "reply": "Thank you for your awesome review and support, Angelica! We certainly appreciate you!!",
+      "replyDate": "2026-01-27T05:08:47.316Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=45525c3c-acce-4ea8-b6a7-10dac27605d3"
+    },
+    {
+      "date": "2026-01-22T02:58:15.581Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Jag s",
+      "text": "I cannot stand unnecessary data collection! why do you need phone #s after you gave me an alternative sign on options with the email. No! I would give you a 0 if i could for that scammy behavior.",
+      "reply": "Hi Jag, it's pretty typical for apps to need a phone number as an account identifier. Since we're US based, we have to confirm the phone number begins with a +1. We also don't collect data - we protect it with bank level security to ensure it's safe!",
+      "replyDate": "2026-01-23T07:38:28.800Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=5f2634f3-a14d-4568-b0ba-bb89a8cf4b42"
+    },
+    {
+      "date": "2026-01-18T01:09:07.913Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Alex Makovetskyi",
+      "text": "awesome",
+      "reply": "Thank you, Alex! So glad we can help get those receipts organized for ya!",
+      "replyDate": "2026-01-18T10:48:40.400Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=d447ede3-d384-47ba-be49-843e4593c137"
+    },
+    {
+      "date": "2026-01-16T23:37:56.677Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "YORTH ALASKA CHANNEL",
+      "text": "very convenient 👌 for me I'm so happy it's helping me get keep my paperwork organize.",
+      "reply": "Thank you, Yorth! We love to hear this and couldn't be happier knowing we can help bring organization to the receipt chaos!!",
+      "replyDate": "2026-01-17T03:05:08.300Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=04501a12-c6b7-4768-9c4d-47f57e776782"
+    },
+    {
+      "date": "2026-01-14T10:31:26.850Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "Little Sarah",
+      "text": "I have absolutely fell in love with this app unfortunately my funds are not in the right position right now to continue past my free trial but great job",
+      "reply": "HI Sarah! We'd love to help here and appreciate the support and stellar review. When you have a moment, please connect with us and we'll share more! 📌 Link to connect: https://www.simplywise.com/support",
+      "replyDate": "2026-01-15T13:43:12.417Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=54bca7e5-6068-46ae-813a-9d3560f903ff"
+    },
+    {
+      "date": "2026-01-12T16:40:29.106Z",
+      "score": 2,
+      "thumbsUp": 2,
+      "user": "Charlotte snelson",
+      "text": "It is hard to do bulk uploads of receipts. it also charges you weekly for the subscription cost instead of monthly so it ends up being $20 to $25 a month for the subscription.",
+      "reply": "Hi Charlotte, it sounds like you may have selected the weekly payment plan, but you can change it to the annual plan at anytime. If you need help making changes or learning how to upload in bulk on the app or the web, please connect with our support team and we'll be happy to help! 📌 Link to connect: https://www.simplywise.com/support",
+      "replyDate": "2026-01-13T05:24:07.629Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=6c4d8097-e029-4806-9214-7d28e9f0f050"
+    },
+    {
+      "date": "2026-01-12T12:36:14.406Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Vintage Pours Mobile Bar Service",
+      "text": "easy to use to capture receipts",
+      "reply": "Thank you for the awesome review and support - so glad we can help with digitizing and organizing those receipts for ya!!",
+      "replyDate": "2026-01-13T05:26:08.723Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=82966018-0163-450a-be7b-6d52a825a4c0"
+    },
+    {
+      "date": "2026-01-10T00:23:11.528Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Suzanne Potts",
+      "text": "I downloaded it and when I returned to use it, I wasn't able to open it past the folders. I'm downloading it again to see if does better. if yes, a better rating will be given but if not better, I'll uninstall and move on.",
+      "reply": "HI Suzanne, it sounds like you may have hit a snag, but we're here to help! When you have a moment, please connect with our support team and we'll be happy to help further. 📌 Link for support: https://www.simplywise.com/support",
+      "replyDate": "2026-01-12T02:21:38.768Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=1f646cae-88c8-452c-b830-501698f85904"
+    },
+    {
+      "date": "2026-01-09T18:59:09.793Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Ron Potts",
+      "text": "awesome app",
+      "reply": "Thank you, Ron! We couldn't happier reading your review. We appreciate your support!",
+      "replyDate": "2026-01-12T02:22:12.541Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=da8db020-33f9-4c54-a0a6-525398452930"
+    },
+    {
+      "date": "2026-01-08T14:33:58.933Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Loy Griffin",
+      "text": "only reason why a 4 star is cause I'm still learning how to do everything",
+      "reply": "Hi Loy - welcome! We have a video library with helpful tutorials that you may find helpful as you get started. 📌 Link here: https://www.youtube.com/@simplywiseusa/videos",
+      "replyDate": "2026-01-09T09:01:09.867Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=51f5c0f0-e0d8-47a5-af0d-0dacb33860b9"
+    },
+    {
+      "date": "2026-01-06T21:44:15.966Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Rogbin Mule",
+      "text": "Excellent app",
+      "reply": "Thank you Rogbin, we appreciate the support and love knowing we can help bring order to your receipts and expense tracking!",
+      "replyDate": "2026-01-08T03:06:41.140Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=0a662e4d-9c78-44ed-a244-79909e576cac"
+    },
+    {
+      "date": "2026-01-03T05:36:05.173Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Tiffany Joe",
+      "text": "cool",
+      "reply": "Thanks, Tiffany - appreciate the awesome review and thank you for your support! 🙌",
+      "replyDate": "2026-01-04T03:02:24.810Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=ab55519b-6c41-4443-a811-25e79a4e9773"
+    },
+    {
+      "date": "2026-01-02T14:09:17.352Z",
+      "score": 2,
+      "thumbsUp": 3,
+      "user": "Barry Boyce",
+      "text": "pay wall $4.99 a week would have been nice to know before downloading",
+      "reply": "Hi Barry, we offer several plans - free, personal, and business. If you need help with selecting the best one for your needs, you can connect with our Support Team and we'll be happy to help! 📌 Link for support: https://www.simplywise.com/support",
+      "replyDate": "2026-01-04T03:01:51.648Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=a2bb9421-14a9-4e8f-b6d6-01b1965b96ea"
+    },
+    {
+      "date": "2026-01-01T20:03:44.396Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "305 Rosco",
+      "text": "so far so good 😊",
+      "reply": "Thank you so much! We really appreciate your support and awesome feedback! 🙏",
+      "replyDate": "2026-01-02T09:21:15.212Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=a71928e8-29a4-4739-8dd2-fdfba1ca1ce0"
+    },
+    {
+      "date": "2025-12-29T21:13:55.266Z",
+      "score": 2,
+      "thumbsUp": 5,
+      "user": "Heather Whigham",
+      "text": "Would be a great app if the oct actually worked. It captures vendor, date, cost, etc but line items? hahahhahahaha...not one scan is correct. And when i say incorrect i mean capturing the wrong line, the wrong amount, gobbedygook (even on a pristine receipt), everything except actually getting the line item description. For 70 plus bucks a year you would think crucial functionality would work. As is, this app is useless. Deleted app nearly immediately.",
+      "reply": "Hi Heather, thanks for flagging this! We've escalated this to our dev team for troubleshooting & resolution. If you have time, please connect with our Support Team here: https://www.simplywise.com/support",
+      "replyDate": "2025-12-31T04:45:44.626Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=4e4c50db-97ce-4967-bc8d-9dc697d829b9"
+    },
+    {
+      "date": "2025-12-21T01:57:55.249Z",
+      "score": 3,
+      "thumbsUp": 1,
+      "user": "Luke Walker",
+      "text": "installed this app over a year ago barely used it I'm sure it's fine.... but i noticed it was consuming the large portion of my battery / resources when it hadn't even been open for over a year. so FYI",
+      "reply": "Hi Luke, thanks for flagging this! We'll be sure to look into this further!",
+      "replyDate": "2025-12-22T03:45:59.948Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=e6816446-ce02-4ae6-9d59-30ae02bdec6b"
+    },
+    {
+      "date": "2025-12-19T17:11:06.677Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "Unique Mckinzie",
+      "text": "I have been trying to find a way to keep up with my finances without having to keep every receipt. This is seemingly easy and helpful so fo",
+      "reply": "Welcome to SimplyWise - we're so glad to have you here and are so happy we can help bring organization to the receipt chaos! Cheers to a new way of managing them as you head into a new year! ⭐",
+      "replyDate": "2025-12-20T23:22:57.872Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=c00eecc5-83cc-462d-a3b9-79ad93250bb1"
+    },
+    {
+      "date": "2025-12-19T08:20:03.150Z",
+      "score": 2,
+      "thumbsUp": 14,
+      "user": "Iconic 6",
+      "text": "the manual email function doesn't work efficiently. I have to email the same receipt multiple times before it shows up in the app. And sometimes it will never show up. The user interface is annoying. If you tap the \"back\" button on your phone, it completely closes the app instead of just simply going back to the previous page. You have to constantly remember to tap the \"back\" button in the app to keep it open. Very annoying.",
+      "reply": "Hi Iconic, thanks for flagging this! Our team is looking into this as we speak and apologize you've hit this snag! When you have a moment, kindly connect with our Support Team here so we can ensure to get this fully resolved for you: 📌 https://www.simplywise.com/support",
+      "replyDate": "2025-12-20T23:24:21.704Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=a921af1f-4f0c-4372-a803-e72edc40d837"
+    },
+    {
+      "date": "2025-12-17T13:23:00.591Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "Tisha Duncan",
+      "text": "This gives you a glimpse of how I spend and to save what's most important.",
+      "reply": "Thank you, Tisha! So glad it's helping get those expenses on track and giving you the visibility needed to set those goals!!",
+      "replyDate": "2025-12-18T05:56:00.492Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=33de78ed-9c4c-4faf-9b28-b544d4bc540b"
+    },
+    {
+      "date": "2025-12-13T13:00:43.630Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "Kirsten Bowman",
+      "text": "easy to use- very well laid out, pleasing to the eye. Covers categorizing receipts for all the main reasons for doing so!",
+      "reply": "Thank you, Kirsten! Your 5-star review makes our day and we appreciate you taking the time to share your feedback with us!! 🙏",
+      "replyDate": "2025-12-14T07:32:30.476Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=3aef2709-8620-400f-948c-4afa53b8df69"
+    },
+    {
+      "date": "2025-12-03T14:59:45.481Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Nelsen Contracting",
+      "text": "the amounts recorded are fiction. worthless scanner",
+      "reply": "Hi Nelson, it sounds like you've hit a bug! Please reach out and connect with our team and we'll be happy to help resolve this!",
+      "replyDate": "2025-12-04T03:33:34.821Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=ed746e43-bceb-415a-9f54-b12e6a6428c4"
+    },
+    {
+      "date": "2025-12-02T20:41:16.732Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "M E",
+      "text": "good app, but expensive if you want more out of it",
+      "reply": "HI M E! Thanks for your feedback. We try to be pretty competitive with our pricing, but understand everyone's budget is different. Thanks for giving us a try!",
+      "replyDate": "2025-12-04T03:34:30.178Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=4515284b-105f-4a45-a1cf-ba4da99b457f"
+    },
+    {
+      "date": "2025-11-24T17:03:37.987Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Michael Milligan",
+      "text": "Doesn't work on Android using a Google Account, just directs to Apple store and you're stuck",
+      "reply": "Hi Michael, sounds like something weird is happening because we're 100% available on the Google Play Store! Feel free to connect with our Support Team and we'll be happy to help! 📌 https://www.simplywise.com/support",
+      "replyDate": "2025-11-24T21:10:17.830Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=1fca800a-dc73-40e5-a0b7-8cec650e578c"
+    },
+    {
+      "date": "2025-11-23T18:06:01.285Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Jose Alcantar",
+      "text": "app is getting slower by the day",
+      "reply": "Hi Jose! We'd love to take a look and get this resolved for you! Can you connect with our Support Team when you have a moment? We'll be on the lookout for your message! 📌Link for Support: https://www.simplywise.com/support",
+      "replyDate": "2025-11-24T21:25:34.881Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=f1de3b79-c2a5-424a-9348-ec9bc11c84e0"
+    },
+    {
+      "date": "2025-11-12T01:50:15.536Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Grant Swift Glidden",
+      "text": "UPDATE: I really appreciate the quickness with which support fixed this issue, and now the app is working better than ever. OLD: Latest update is terrible on Android. Brings me to a greyed out screen and is unresponsive to buttons after saving a receipt (probably due to the \"Rules\" function being triggered but not rendering properly). Will update my review if customer service is responsive.",
+      "reply": "Hi Grant, we've fixed this for ya! Can you restart the app and let us know if you hit any snags? You can reach us directly at support@simplywise.com - we'll be on standby!",
+      "replyDate": "2025-11-08T02:09:29.902Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=d90e23ec-600b-4f79-a1f3-310f5f53d8a1"
+    },
+    {
+      "date": "2025-11-07T20:50:39.513Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Omran Omar",
+      "text": "other app allows to export to excel without subscription. this app doesn't have this feature",
+      "reply": "Hi Omran, our reports are included in the business tier plan, which allows us to have an awesome development team and a stellar support team! On the other plans, you can download the receipts and use the in-folder search feature!",
+      "replyDate": "2025-11-09T21:49:27.132Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=9c93f7dd-3d26-4f90-9221-b07b6cf18219"
+    },
+    {
+      "date": "2025-11-06T18:10:29.251Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Pawel Sobik",
+      "text": "so far so good 👍",
+      "reply": "Thank you kindly! Love knowing we can help tame the receipt chaos!",
+      "replyDate": "2025-11-08T02:09:48.208Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=3a713e3c-bb69-48b2-acb6-4bbe4a920fdc"
+    },
+    {
+      "date": "2025-11-06T01:21:12.335Z",
+      "score": 4,
+      "thumbsUp": 1,
+      "user": "Rusty",
+      "text": "the only reason why it's not 5 stars is that I cant link it to my proton mail address. otherwise, it's great and saves me a ton of time.",
+      "reply": "Hi Rusty, sorry we don't integrate with Proton right now. We hope to expand to more email domains in the future though!",
+      "replyDate": "2025-11-06T04:11:58.885Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=aece0a57-e3f3-471a-8fbe-039b189e29e8"
+    },
+    {
+      "date": "2025-10-30T21:34:09.624Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Insp1re Ambition Hill",
+      "text": "Great",
+      "reply": "So awesome to hear - thank you!! Cheers to great organization!!",
+      "replyDate": "2025-10-31T22:49:30.221Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=8dedf622-c1cb-42ca-8b08-630f3dca5607"
+    },
+    {
+      "date": "2025-10-20T04:17:43.144Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Daryl&Deborah EliJoel. Alvarez",
+      "text": "fast and efficient so far this app is awesome",
+      "reply": "We love hearing that! ⚡️ We're thrilled the app’s been fast, efficient, and awesome for you so far. Thanks for trusting SimplyWise to help keep things organized — we’ve got plenty more great features coming your way!",
+      "replyDate": "2025-10-20T04:52:47.512Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=560bc755-c06e-42f2-bf4d-426e7bbcb037"
+    },
+    {
+      "date": "2025-10-16T20:20:31.299Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Nelson Velazquez",
+      "text": "Just started using the app, so far so good.",
+      "reply": "Glad to have you on board! 🎉 We’re thrilled you’re giving SimplyWise a try and hope it keeps making expense tracking easier with every use. We can’t wait to hear what you think once you’ve explored it more!",
+      "replyDate": "2025-10-17T04:05:37.742Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=447a6ff5-96b3-4e7b-a09e-13867db118ea"
+    },
+    {
+      "date": "2025-10-15T23:31:38.166Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Renee Johnson",
+      "text": "Setup is too long and requires phone number. Uninstalling...",
+      "reply": "We’re sorry to hear that setup felt too long! The phone number is required since we’re U.S.-based and need to confirm it starts with +1. Rest assured, setup usually takes less than a minute, and your info stays secure. We hope you’ll give SimplyWise another shot!",
+      "replyDate": "2025-10-17T04:07:16.370Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=75a5e56c-1058-44df-a763-a053f4eb53ca"
+    },
+    {
+      "date": "2025-10-15T17:50:59.638Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Rsc.handymanworks NJ",
+      "text": "I am an extremely disorganized individual, simplywise is helping me a lot. thanks.",
+      "reply": "That’s wonderful to hear! 🙌 We’re so glad SimplyWise is helping bring a little order to the chaos — that’s exactly what we’re here for. Thanks for sharing your experience, and we’ll keep working to make staying organized even easier for you!",
+      "replyDate": "2025-10-15T18:57:31.992Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=0af17bb6-dcc7-4ce5-a5a2-bfd363abdb9b"
+    },
+    {
+      "date": "2025-10-15T16:20:15.787Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Kenneth “KROD56” Rodriquez SR",
+      "text": "I didn't authorize the payments from you there are 5 payments altogether please refund my payments",
+      "reply": "Hi Kenny, you'll want to cancel in the Google Play Store settings. If you need help, please reach out and connect with our support team at https://www.simplywise.com/support, and we'll be happy to walk you through the steps.",
+      "replyDate": "2025-10-15T18:54:27.515Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=a6225600-8dbe-48d5-ab1c-b21e46cc4c04"
+    },
+    {
+      "date": "2025-10-15T02:59:26.780Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Danila Popov",
+      "text": "asking for my location and phone number?! heck no, I just want to track expenses not share my life",
+      "reply": "We understand your concern — privacy matters! 🙏 Location access is optional, but the phone number is required since SimplyWise is currently only available in the U.S., and we use it to confirm that your number begins with +1.",
+      "replyDate": "2025-10-15T18:56:19.957Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=f6fd6187-3116-41c7-a1f0-bb9928b315b9"
+    },
+    {
+      "date": "2025-10-13T17:42:36.711Z",
+      "score": 4,
+      "thumbsUp": 2,
+      "user": "James A. Loaris Jr.",
+      "text": "App access to the camera has been broken on Android 16 Beta 1. please fix ASAP. Please fix GPS access to only when driving. ------update------ after waiting for almost a half a year I am giving up that the problem will be fixed. bummer I really liked the app. uninstalling it now. App working fully for me now! Still needs to get the GPS from running all the time. I have it unenabled but still get notifications all the time to enable it.",
+      "reply": "Hi James, sorry for the trouble here! This issue has been fixed. You'll want to restart the app a time or two to receive the update completely. If you need help, please reach out to our Support Team (https://www.simplywise.com/support) and we'll be happy to help!",
+      "replyDate": "2025-10-09T02:02:04.820Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=20c99808-e441-478a-ba88-4d0d9c06fd86"
+    },
+    {
+      "date": "2025-10-13T00:59:29.705Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Charlie Hayes",
+      "text": "one of the worst android apps ive ever used. forced account creation, intrusive, buggy",
+      "reply": "Sorry to hear your experience didn’t go as expected. We require account setup to securely store your receipts and data, and we’re constantly improving the app for performance. We’d love to learn more about what went wrong — please connect with us if you have a moment at https://www.simplywise.com/support",
+      "replyDate": "2025-10-14T01:26:43.491Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=e06fb13a-c5e1-40cc-a370-71baad2e0273"
+    },
+    {
+      "date": "2025-10-10T21:39:46.317Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "quentin mathew",
+      "text": "loving it.. highly recommend",
+      "reply": "That’s amazing to hear! 💚 We’re thrilled you’re loving the app and finding it helpful for staying on top of your receipts. Thanks for the high recommendation — we truly appreciate your support!",
+      "replyDate": "2025-10-11T01:38:06.810Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=07a87b49-4c1a-45e8-a20c-492c5faab771"
+    },
+    {
+      "date": "2025-10-08T00:53:44.743Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Reed McDow",
+      "text": "unfortunately after months of use it stopped allowing me to take images of receipts after no apparent reason... keeps saying camera permissions issue but the settings are set correctly",
+      "reply": "Hi Reed, sorry for the trouble here! This issue has been fixed. You'll want to restart the app a time or two to receive the update completely. If you need help, please reach out to our Support Team (https://www.simplywise.com/support) and we'll be happy to help!",
+      "replyDate": "2025-10-09T01:57:15.933Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=68fa7e76-e2a3-4292-9d74-246edfc2d17b"
+    },
+    {
+      "date": "2025-10-07T02:51:41.934Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Ardai E",
+      "text": "did y'all stop updating it? no updates in 6 months?! the camera does not want to open. and it keeps telling me to enable permissions but the permissions are updated and enabled do idk",
+      "reply": "Hi Ardai, sorry for the trouble here! This issue has been fixed. You'll want to restart the app a time or two to receive the update completely. If you need help, please reach out to our Support Team (https://www.simplywise.com/support) and we'll be happy to help!",
+      "replyDate": "2025-10-09T01:57:45.355Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=d1b2250e-8f3f-414a-8992-1c2c780c5c37"
+    },
+    {
+      "date": "2025-10-03T21:20:06.385Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Tammy Terrell-Johnson",
+      "text": "I got a great reward back",
+      "reply": "Thanks so much! We’re thrilled to hear the app is making it easier to keep your receipts organized and under control. 🙌 We’re always working to make it even better for you!",
+      "replyDate": "2025-10-05T05:41:44.281Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=af5d65ba-097e-4f65-9a42-3dd68237378c"
+    },
+    {
+      "date": "2025-09-29T16:15:51.461Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "Ron Worland",
+      "text": "On first attempt SimplyWise checked all the boxes! Easy to use, AI does a nice job capturing data from receipts, scanned my emails for invoices, and generates a nice report!",
+      "reply": "Hi Ron, we love hearing this! 🎉 It’s awesome to know SimplyWise hit the mark for you right from the start. From scanning receipts and emails to generating reports, we built it to make expense tracking effortless. Thanks for trusting us—we’ll keep working to deliver even more ways to simplify your workflow!",
+      "replyDate": "2025-09-30T03:08:35.450Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=16d8c6d2-8c15-4670-b605-03340873d2e3"
+    },
+    {
+      "date": "2025-09-24T11:26:09.464Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "PG",
+      "text": "Can't see/try ANYthing without signing up. Signup mandates either a phone number or a Google account. Uninstalled.",
+      "reply": "Sorry to hear the signup process turned you away. Our apps do require account setup to ensure a smooth and secure experience. We hope you’ll reconsider, because if you’re looking for solid receipt and expense tracking, we’ve got you covered.",
+      "replyDate": "2025-09-25T03:09:25.788Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=7f5b5a07-ad25-4723-bf66-e65287f30edb"
+    },
+    {
+      "date": "2025-09-23T21:10:25.150Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Maria Agel",
+      "text": "Simple",
+      "reply": "✨ Thanks for the 5-star review! We’re thrilled you find the app simple, which is exactly what we aim for: powerful features made easy. Here’s to stress-free scanning and organized receipts ahead!",
+      "replyDate": "2025-09-25T03:07:42.962Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=e4939f2a-e0ae-40c4-b3f0-03c3944a6d5f"
+    },
+    {
+      "date": "2025-09-22T22:38:26.720Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Melanie Rao",
+      "text": "Great app and love the functionality. I love that it connects with the web. My only complaints is that the web version can be quite laggy and the phone version will not load offline receipts.",
+      "reply": "Hi Melanie, thanks for you review! You can refresh on both devices by tapping menu>refresh. If you need help, our support team can help you through these steps; kindly connect with us and we'll be happy to help further. Link for Support: https://www.simplywise.com/support 😊",
+      "replyDate": "2025-09-23T05:20:41.440Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=d0748742-5788-409e-86a9-16fadd6dc0ae"
+    },
+    {
+      "date": "2025-09-22T05:24:06.916Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Cristi Long",
+      "text": "app won't let you sign up with email.",
+      "reply": "Since we’re US-based, accounts must be tied to a +1 phone number. We don’t call you and can confirm this info is protected and only used as an account identifier so we can locate your account quickly if you ever need help. We hope you give us a try!",
+      "replyDate": "2025-09-22T08:55:08.572Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=1f34fae0-6e18-4135-8ddb-6ab1db654c23"
+    },
+    {
+      "date": "2025-09-13T19:18:44.775Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "Leanne",
+      "text": "easy to use.",
+      "reply": "Thanks for the 5-star love! We’re thrilled you’re finding the app easy to use—simplicity and efficiency are what we’re all about. Here’s to stress-free scanning and smoother tracking ahead! 🙌",
+      "replyDate": "2025-09-15T04:21:28.406Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=1b410655-e4fa-47c8-9b93-0cdbc0865b1c"
+    },
+    {
+      "date": "2025-09-01T18:26:47.323Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "Mel's Kitchen",
+      "text": "still trying to understand what I'm supposed to be doing but , budgeting is my ultimate goal",
+      "reply": "Welcome aboard! 🎉 We’re glad to have you with us and love that budgeting is your ultimate goal—that’s exactly what the app is here to help with. To make things easier, we’ve put together helpful video tutorials you can check out here: https://www.youtube.com/@simplywiseusa/videos",
+      "replyDate": "2025-09-03T03:03:19.389Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=efc60928-cd83-4c9c-b2d1-7182d8cb9bd6"
+    },
+    {
+      "date": "2025-08-30T05:21:29.290Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "Jean Blon",
+      "text": "This is the app that I was looking for so long. Easy to use. I m so happy I found it...",
+      "reply": "🎉 We’re so happy to hear this! After a long search, we’re so glad you found the app and that it’s making things easier for you. Simple, powerful, and stress-free—that’s exactly what we aim for. Thanks for the 5 stars! 🌟",
+      "replyDate": "2025-09-01T05:39:34.976Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=21e63224-9729-48e6-bb2b-931e7024a885"
+    },
+    {
+      "date": "2025-08-27T21:15:26.617Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "Andrzej Lomoc",
+      "text": "It's an amazing app that does what it says it is supposed to do.",
+      "reply": "🌟 Thanks for the 5 stars! We’re so glad the app is living up to its promise and delivering exactly what you need. Reliable, simple, and effective—that’s what we’re all about, and your feedback keeps us motivated to keep raising the bar!",
+      "replyDate": "2025-08-28T17:19:25.480Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=1d2e09c9-4fd1-495d-8829-9959ed9b19da"
+    },
+    {
+      "date": "2025-08-27T18:27:42.160Z",
+      "score": 2,
+      "thumbsUp": 4,
+      "user": "Faith Black",
+      "text": "seems okay but tracking expenses for event and it doesn't give a running total so that you can see how much you've spent all together. and you can create folders but they do.t give a combined total just monthly total so you still have to add them together. so far I wouldn't recommend...",
+      "reply": "Thanks for the feedback! 🙏 You can use the in-folder search to view running totals, and upgrading to the Business tier unlocks full report access for combined totals. We know how important clear tracking is and are working to make it even smoother! 🚀",
+      "replyDate": "2025-08-28T17:20:31.236Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=f91dfc17-f7cc-4606-a291-906147629353"
+    },
+    {
+      "date": "2025-08-20T23:58:39.211Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "אני אתמיד",
+      "text": "awesome app!",
+      "reply": "Thanks a ton for the 5 stars! We’re so glad you think the app is awesome. Your support means a lot and keeps us inspired to make it even better!",
+      "replyDate": "2025-08-21T02:03:10.855Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=e68a9bc3-2b70-4b93-9322-2e5fd8dfd081"
+    },
+    {
+      "date": "2025-08-19T00:39:59.765Z",
+      "score": 2,
+      "thumbsUp": 1,
+      "user": "Michael Simms",
+      "text": "I downloaded this app because it said you can take a picture of the project and it would give you prices for that project installing a sink vanity from photo and it doesn't tell how to do that",
+      "reply": "Thanks for your feedback! To get started, tap the Create button, enter your detailed project description, upload a before photo, then tap Yes to render the image—give it a moment and the magic will happen. We hope you’ll give it another try and check out our YouTube channel video library at https://www.youtube.com/@simplywise-estimates/videos",
+      "replyDate": "2025-08-19T02:33:32.640Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=4e99ae08-9acc-4f85-9b25-f4ab709e8a3a"
+    },
+    {
+      "date": "2025-08-16T15:48:14.300Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Michael Billings sync (MJB)",
+      "text": "I was excited to try this app as a long time fed up user of Expensify. can you get into the so-called web app just keeps looping through the system personally useless something is broken and this is",
+      "reply": "Hi Michael, can you connect with our support team? It sounds like you may have hit a bug that we need to resolve! Link for support: https://www.simplywise.com/support",
+      "replyDate": "2025-08-18T04:36:29.800Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=e9062c1d-23da-4ae3-ac01-82cc66e00157"
+    },
+    {
+      "date": "2025-08-13T23:26:48.876Z",
+      "score": 4,
+      "thumbsUp": 1,
+      "user": "RADHE RADHE",
+      "text": "I am not able to to milage tracking in Ontario with this app now they have new app which only allow apple phone otherwise all good I am still using this app",
+      "reply": "Hi Radhe, it sounds like you've hit a snag and we're happy to help! Please connect with our support team when you have a moment so we can resolve this for you! Link to connect with us: https://www.simplywise.com/support",
+      "replyDate": "2025-08-15T02:37:54.131Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=49751224-cae3-415f-9165-9e4593bdc2c1"
+    },
+    {
+      "date": "2025-08-13T20:06:36.265Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Ellie Henderson",
+      "text": "I am unable to cancel and keep getting billed!",
+      "reply": "Hi Ellie, we're happy to help with this. Please connect with our Support Team when you can! We'll be on the lookout for your message! Link to connect with us: https://www.simplywise.com/support",
+      "replyDate": "2025-08-15T02:36:54.619Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=7660a0c1-dc31-4e87-8902-823e16271add"
+    },
+    {
+      "date": "2025-08-11T19:09:30.686Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "Easton Meeks",
+      "text": "super helpful",
+      "reply": "Thanks for the 5-star love! We’re so glad the app’s been super helpful for you. Here’s to smoother scanning, organized receipts, and making tax time a breeze 😊",
+      "replyDate": "2025-08-13T01:06:08.315Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=570ba21f-df74-4c75-b1b7-7cdc7f2d67d6"
+    },
+    {
+      "date": "2025-08-08T18:47:33.654Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Charlotte M",
+      "text": "Couldn't get past having to give my phone number just to check out the app. No thanks.",
+      "reply": "We appreciate you giving the app a try! Since we’re US-based, we do have to verify that phone numbers start with +1 — it’s part of keeping accounts secure. Your number also helps us quickly identify your account if you ever need support.",
+      "replyDate": "2025-08-08T22:45:33.100Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=82976f8f-8b96-4691-9e65-7e7c5bcb89e4"
+    },
+    {
+      "date": "2025-08-06T12:49:55.150Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Podlesak Kids",
+      "text": "Froze my phone now I can't use it anymore",
+      "reply": "Please reach out to our support team at https://www.simplywise.com/support — we’ll be happy to troubleshoot and get you back on track in no time!",
+      "replyDate": "2025-08-07T14:58:41.910Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=cf572d97-9070-4c43-8f28-4e4c7a17c2d3"
+    },
+    {
+      "date": "2025-08-01T21:10:39.959Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "Gidget Walker",
+      "text": "It's working well so far.",
+      "reply": "Thanks for the great review! We're glad to hear it's working well so far. If you ever have questions or need tips to get the most out of the app, we’re here to help. Keep up the awesome organizing! 🧾📲",
+      "replyDate": "2025-08-03T05:13:13.784Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=54bb9760-1150-4abe-8b80-6a008e86c8bf"
+    },
+    {
+      "date": "2025-07-26T12:38:33.150Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Sandi",
+      "text": "download the app waited for a code and never got it",
+      "reply": "Thanks for your feedback! Sometimes the text verification can be delayed, but you can always request the code again. It’s also worth double-checking that the phone number was entered correctly—mistyped digits are a common culprit. We'd love for you to give it another try!",
+      "replyDate": "2025-07-27T00:59:46.929Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=e2f94d52-acc7-4b81-8a60-e7018a60a83a"
+    },
+    {
+      "date": "2025-07-24T16:44:49.188Z",
+      "score": 5,
+      "thumbsUp": 2,
+      "user": "Gregg Davis",
+      "text": "love the ai estimates., mileage tracking and receipt organizer",
+      "reply": "Thanks for the 5-star love! We're so glad you're enjoying the estimator, mileage tracking, and receipt organizer—music to our ears! 🙌 We're here to make your workflow smarter and simpler every step of the way. Keep crushing it!",
+      "replyDate": "2025-07-25T02:36:14.201Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=bdf1b81c-26de-4716-a90f-8d656aec598c"
+    },
+    {
+      "date": "2025-07-24T01:49:41.325Z",
+      "score": 1,
+      "thumbsUp": 2,
+      "user": "Bill Stockton",
+      "text": "I was excited to try this app as a long time fed up user of Expensify. Unfortunately it makes you enter a phone number which I'm not willing to do without being able to access privacy terms first. And why should I have to enter a phone number if I don't want to? Oh yeah, to harvest my information and send me spam...yes! No thanks, on to the next app",
+      "reply": "Thanks for your feedback—we totally get your concern. We ask for a +1 phone number to verify U.S.-based accounts and to help with account recovery if needed. We take your privacy seriously with bank-level security and never sell your data. We’re here to help, not to spam.",
+      "replyDate": "2025-07-25T02:35:01.630Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=006ecbab-9b3d-42df-ac24-90a1004fe45e"
+    },
+    {
+      "date": "2025-06-25T15:41:41.370Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "John Doe",
+      "text": "good for what I need it for and useful",
+      "reply": "Thanks so much for the 5-star review! 🙌 We're glad to hear the app is meeting your needs and proving useful. If you ever have suggestions or need support, we're just a message away. Happy organizing!",
+      "replyDate": "2025-06-26T03:54:35.360Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=a5e1e778-0f5a-4a54-af5d-d619da6c7134"
+    },
+    {
+      "date": "2025-06-24T23:36:52.579Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Moises Pina",
+      "text": "Great app",
+      "reply": "Thanks so much for the 5-star review! 🌟 We're thrilled to hear you're enjoying the app. If there's ever anything we can do to make your experience even better, don't hesitate to reach out. Happy scanning!",
+      "replyDate": "2025-06-26T03:53:57.656Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=b5134d55-c5d8-444d-b067-bc8274dc6986"
+    },
+    {
+      "date": "2025-06-22T18:37:46.845Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Bryan Sheley",
+      "text": "This app is simplified my work day.",
+      "reply": "We love hearing this—thank you for the 5-star review! 🙌 We're thrilled the app has helped simplify your workday. That’s exactly what we’re here for! If there’s ever anything we can do to make things even smoother, don’t hesitate to reach out. Keep crushing it!",
+      "replyDate": "2025-06-24T03:04:26.550Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=be2ae5fd-8c8f-426e-82fa-c39706b19eab"
+    },
+    {
+      "date": "2025-06-21T16:58:43.659Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Merline Spoon",
+      "text": "just started the app, hopefully this will help me get ahold of my finances! lol.. if it turns out to help me, I'll resubmit a review to let ya know the dets! & give it the 5th star. lol.",
+      "reply": "We love a fresh start! 😄 Welcome aboard! Here’s to SimplyWise becoming your new financial sidekick—organized receipts, smoother budgeting, and maybe even that elusive fifth star! 😉 Can’t wait to hear your update!",
+      "replyDate": "2025-06-22T04:30:41.730Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=d89bd542-77c5-4a4a-8191-a0b078b9a2fc"
+    },
+    {
+      "date": "2025-06-18T18:30:06.125Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Mark Banker",
+      "text": "Incredibly easy to use!!",
+      "reply": "We love hearing that! 🎉 Making things simple and stress-free is exactly what we aim for. Thanks for the awesome review—here’s to smooth scans and perfectly organized receipts!",
+      "replyDate": "2025-06-20T08:49:41.315Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=a73158e1-02d6-46c7-909c-3ff34c88ceff"
+    },
+    {
+      "date": "2025-06-15T01:02:05.645Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "Joint Schake",
+      "text": "unfortunately you can't tell because reports is part of the subscription 😕. it's sluggish, picks up email orders and confirmations, credit card bills for what's already entered. no pdf import/scan that I found. widget is just to take a picture of the receipt. I'd consider purchase at a one time for life if we could try the reports, but unfortunately, it looks like things need a bit more tweaking to get receipts to split and with no pdf to scan or import. it's not quite there.",
+      "reply": "Appreciate the thoughtful feedback! Reports are available in the Business tier, and PDF import/scan is supported. For tips on splitting receipts or navigating features, check out our YouTube tutorial library—lots of helpful walkthroughs there!",
+      "replyDate": "2025-06-16T18:35:15.226Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=cd9f572b-0e08-4fff-b5b2-3d86be04c2b3"
+    },
+    {
+      "date": "2025-06-13T02:55:36.572Z",
+      "score": 3,
+      "thumbsUp": 1,
+      "user": "Michael Theabo",
+      "text": "only 250 saved before you have to pay stinks but whatever",
+      "reply": "Thanks for giving us a spin! We totally get that limits can be a bummer. While we do offer a free tier to get started, upgrading helps unlock even more space and features—and keeps the app running smoothly for everyone. We appreciate you hanging in with us!",
+      "replyDate": "2025-06-16T18:36:22.139Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=b01f9233-a52b-42f6-93e5-c991aa3f205c"
+    },
+    {
+      "date": "2025-06-11T18:48:35.527Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Dinh",
+      "text": "Yall if you're beginning your journey to playing BY THE BOOK for your taxes and business write-offs START HERE. I LOVE THIS APP.",
+      "reply": "Now that’s the kind of energy we love to see! 🙌 Thank you for the shoutout! We're thrilled SimplyWise is helping you kick off your tax and business write-off journey the right way—by the book and stress-free. Here’s to smooth records and even smoother deductions!",
+      "replyDate": "2025-06-12T21:45:29.956Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=14b6e50a-f0d5-4c16-9307-8b09bf7dce99"
+    },
+    {
+      "date": "2025-06-07T04:25:06.865Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Jeremy Weathers",
+      "text": "simply wise was the solution that I was looking and waiting for to help me crunch all my expenses and be ready for tax season. I strongly suggest this app.",
+      "reply": "We're so glad SimplyWise swooped in at just the right time! 💪📊 Crunching expenses and prepping for tax season shouldn't be a headache—and now, it doesn’t have to be. Thanks for the strong recommendation, and here’s to smoother seasons ahead, one scanned receipt at a time!",
+      "replyDate": "2025-06-08T05:53:48.207Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=b785c7a2-db84-4a6a-a34d-ece161935409"
+    },
+    {
+      "date": "2025-06-05T17:10:51.754Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Austin Dustin",
+      "text": "Great app is helping me with starting off a newer business. I'm looking forward to seeing what else they add to their Arsenal. So far between the actual app function and the communication from the developers, 5 out of 5",
+      "reply": "Thanks for the 5-star shoutout! 🎉 We’re thrilled to be part of your business journey. Alongside the receipt scanner, we’ve got a mileage tracker, cost estimator, and even an AI receptionist app in the mix—and yep, something new is on the horizon 👀 Stay tuned... we’re just getting warmed up!",
+      "replyDate": "2025-06-06T02:46:44.162Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=4f80b21d-82f8-43d9-8fbd-5d8d4e94b834"
+    },
+    {
+      "date": "2025-06-04T21:08:08.514Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "Kevin Chia",
+      "text": "The scanning the receipts and auto filling data is a big plus for me.",
+      "reply": "We love to hear that the auto-fill magic is making life easier! ✨ Snapping, scanning, and sorting receipts shouldn’t be a chore—and we’re thrilled it’s hitting the mark for you. Here’s to less manual typing and more time back in your day!",
+      "replyDate": "2025-06-05T01:39:44.719Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=c0bebda3-41e0-438b-833e-e333af8d5d3f"
+    },
+    {
+      "date": "2025-06-02T14:59:18.716Z",
+      "score": 5,
+      "thumbsUp": 10,
+      "user": "Megan “Tatt” Sandor",
+      "text": "I love the seamless & easy flow between Simplywise's apps ~estimator & the receipt storage app~keeps them all together and allows you to set up different folders/notes/& sub folders to keep your dashboard easy to navigate! If the estimator app let you convert it straight into an invoice or to be able to send them an invoice once the estimates accepted and allowed the client to be able to make their payment right through the invoice would definitely have me all the way in & done using Square!👍",
+      "reply": "We love that you’re loving the SimplyWise flow! 🧾📲 That clean dashboard magic is what we’re all about. And great news—you can send invoices directly from the cost estimator app! Just tap the three dots in the upper right corner of your estimate and select “Send Estimate.” Boom—you're on your way! 🙌",
+      "replyDate": "2025-06-03T21:12:31.849Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=a53e2f4f-a7d7-4fee-842f-e9d7bd95308c"
+    },
+    {
+      "date": "2025-05-30T08:34:57.406Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Jimmy Hardin",
+      "text": "solid app I love it! Been using since January!",
+      "reply": "Now that’s what we love to hear! 🙌 Thanks for sticking with us since January—your loyalty means the world. We’re thrilled the app has earned a spot in your toolkit, and we’re here to keep things solid, seamless, and stress-free for all your receipt-tracking needs!",
+      "replyDate": "2025-05-31T05:08:01.202Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=137fca95-93d3-4c99-ba3d-6a2c94eb06ca"
+    },
+    {
+      "date": "2025-05-29T12:44:25.160Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "John Slater",
+      "text": "great app so far I'm digging it",
+      "reply": "Glad to hear you’re digging it! We’re all about making receipt tracking feel less like a chore and more like a win. Thanks for taking us for a spin — here’s to staying organized without breaking a sweat!",
+      "replyDate": "2025-05-31T05:15:44.809Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=82603633-4695-4c7f-a4b6-c14bd53697bd"
+    },
+    {
+      "date": "2025-05-27T17:40:20.376Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Troy Thomas",
+      "text": "Pretty problematic if on the initial installation and registration that it wants my phone number but won't pop up a keyboard to type it in.",
+      "reply": "That definitely doesn’t sound like the smooth start we aim for—thanks for flagging it. If your keyboard isn’t popping up during registration, something's not behaving as it should. Please reach out to our support team at https://www.simplywise.com/support so we can dig in and get things working properly for you.",
+      "replyDate": "2025-05-29T02:17:52.992Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=c536c4df-7319-419d-9c58-17b619700dec"
+    },
+    {
+      "date": "2025-05-23T04:23:51.113Z",
+      "score": 3,
+      "thumbsUp": 1,
+      "user": "Realclean ECS Pressure Washing Services",
+      "text": "What's the purpose of this program if it doesn't calculate the receipt i scanned.",
+      "reply": "Thanks for your feedback! If the app isn’t calculating your scanned receipt, something’s off—and we’d love to help get it sorted. 🧾✨ Please connect with our support team so we can take a closer look: https://www.simplywise.com/support 💼 We're here to help!",
+      "replyDate": "2025-05-26T07:26:09.851Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=401e868c-c847-448d-a1f1-3a4a45b5cc0d"
+    },
+    {
+      "date": "2025-05-22T17:58:00.237Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "marnie pilgrim",
+      "text": "I had this app for a while. I justve heard about it from someone or somewhere I cant even remember. But I onky started using it now. And so far, Im liking it. Hopefully I can get better organized going forward.",
+      "reply": "Sounds like a hidden gem rediscovered—and we’re so glad it’s clicking with you! 💎🧾 Whether it came from a friend or fate, we’re thrilled you gave it a go. Here’s to getting organized, staying on track, and making receipt chaos a thing of the past! 💼✨ Let us know if you need anything: https://www.simplywise.com/support",
+      "replyDate": "2025-05-22T19:27:20.814Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=053f725f-e7d2-44a4-979b-353d750369df"
+    },
+    {
+      "date": "2025-05-20T02:28:12.474Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Jenny Hyun",
+      "text": "It is sufficient.",
+      "reply": "Short, sweet, and solid—thanks for the 5 stars! 🙌🧾 We're glad the app is hitting the mark and keeping your receipts in check. If there’s ever anything we can do to make it even better, don’t hesitate to reach out.",
+      "replyDate": "2025-05-20T20:59:21.196Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=87dc2825-da83-4c3f-a968-5e3e6f8ad30c"
+    },
+    {
+      "date": "2025-05-16T23:22:55.469Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Yves Parisien",
+      "text": "great app",
+      "reply": "Short and sweet—just like we like it! 🙌🧾 Thanks for the 5-star love. We're glad the app is hitting the mark and helping keep your receipts in check. Here’s to staying organized and stress-free all year long!",
+      "replyDate": "2025-05-18T00:19:00.346Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=c5d64712-cc40-4c4f-bc0c-43b3216e6eb7"
+    },
+    {
+      "date": "2025-05-16T22:05:21.960Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Kevin Graham",
+      "text": "doesn't work without your phone number.",
+      "reply": "Hi Kevin! Happy to provide insight here. Since we’re a U.S.-based app, we do require a phone number starting with +1 to confirm eligibility. It also helps us locate your account quickly if you ever need support or troubleshooting. We’re here to help anytime should you need us: https://www.simplywise.com/support",
+      "replyDate": "2025-05-18T00:17:19.171Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=91c27845-6cb0-4f8d-9e2d-1b61f942367d"
+    },
+    {
+      "date": "2025-05-13T17:24:51.286Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Ko San",
+      "text": "good",
+      "reply": "That’s what we love to hear—meeting your needs and keeping things running smoothly! 🙌🧾 Whether it’s staying organized or saving time, we’re glad the app is doing its job so you can focus on yours. Thanks for the 5-star shoutout!",
+      "replyDate": "2025-05-14T04:26:55.440Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=ef38d8d4-5ced-4993-8863-a7751362b7c0"
+    },
+    {
+      "date": "2025-05-10T13:22:11.158Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "Lola Rice",
+      "text": "okay so I needed something to pull my receipts and possibly dividecso i can track my actual spend. OMG it does so I saw it could scan but then you can split the receipt I did 5 categories plus you can minus so it doesn't take in acct ladies rang me for 6 I only got 4 cost was only 1.47 each. then u can put a text next to item so gift for my mom I typed mom. then it has notes. so I mentioned what I got the pets. this is my 1st use I'm loving it already.",
+      "reply": "Now that’s a first-use success story we absolutely love to see! 🙌🧾 From splitting receipts to tagging items and jotting down notes—you're using the app like a pro already. We built these features exactly for this kind of organized brilliance, and it’s so rewarding to hear it’s already making a difference. Here’s to many more receipt wins ahead!",
+      "replyDate": "2025-05-11T23:03:22.878Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=b6e99027-f722-46b4-8630-837861370866"
+    },
+    {
+      "date": "2025-05-07T18:47:56.331Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Forystt Marshall",
+      "text": "I got audited and the IRS did not like how I submitted my receipts to them since simply wise only allowes you to bulk export everything as pictures and doesn't keep it organized like it is in the app.",
+      "reply": "We understand how stressful audits can be. 🙏 While SimplyWise helps organize and store receipts in-app, we know export formatting is just as important. Your feedback is valuable, and we're working to improve how exports mirror your folder organization. If you'd like to share more or need help, we're here: https://www.simplywise.com/support",
+      "replyDate": "2025-05-07T20:13:23.822Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=5fe2fd33-e3f2-445e-9b92-2eef8098ad30"
+    },
+    {
+      "date": "2025-05-07T06:53:40.300Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "John Michael CAMPBELL",
+      "text": "great.",
+      "reply": "Thanks for the love—even in just one word! 🙌📸 If there’s anything we can do to take your experience from “great” to “absolutely amazing,” taking the 3 star to a 5, we’d love to hear it. Don’t hesitate to reach out: https://www.simplywise.com/support",
+      "replyDate": "2025-05-07T20:26:15.754Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=0bdf44e2-eada-49b9-977f-132062f7f676"
+    },
+    {
+      "date": "2025-05-01T15:39:09.775Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Karen Hudgins",
+      "text": "I've tried a few money tracking budget apps and didn't like them. Thankfully, I gave SimplyWise a try. I love this app! It's easy to use and helps me keep track of my spending.",
+      "reply": "Now that’s what we love to hear! 🙌💸 We’re honored SimplyWise stood out from the crowd and earned a spot in your routine. Easy to use, budget-friendly, and built to help you stay on top of your spending—that’s our sweet spot. Thanks for giving us a shot and welcome to the SimplyWise family!",
+      "replyDate": "2025-05-02T19:34:28.850Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=3608bf00-d965-4e03-9eca-d7e032281835"
+    },
+    {
+      "date": "2025-04-30T01:54:17.453Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Trey Hibbard",
+      "text": "excellent experience. Just wish there was a way to change it to weekly reports instead of monthly. Dear Devs, is there anyway y'all can implement this?",
+      "reply": "Hi Trey, you'll be pleased to know this feature is already available. When you create your reports, you'll want to toggle on the \"schedule text/email\" button and select Weekly. You can also select the day of the week that you would like the reports to generate and how they're sent. If you need help, ping us at https://www.simplywise.com/support",
+      "replyDate": "2025-05-01T05:02:32.388Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=8e00cede-05cc-4507-8e18-91036879c31d"
+    },
+    {
+      "date": "2025-04-29T01:38:16.389Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Joan T",
+      "text": "scam you have to pay 4.99 a week. you don't get money",
+      "reply": "We’re sorry for any confusion! We’re not a rebate app and definitely not a scam—we're a real company helping individuals, families, and businesses track receipts, expenses, and documents. 📂💼 We offer a free limited plan and paid plans too. Subscriptions help us improve the app and provide top-tier support!",
+      "replyDate": "2025-04-29T06:39:52.661Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=f9c10491-9420-437b-aa23-5571dd617c88"
+    },
+    {
+      "date": "2025-04-28T19:42:35.646Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Victor Walle",
+      "text": "I installed it, prompted for my phone number - which i typed - prompted for a pass code sent to my phone that I never received. I tried to get the pass code twice and it didn't work. I guess I have to skip it",
+      "reply": "We’re so sorry you had trouble getting started—that’s definitely not the experience we want for anyone. 🙁 Sometimes delays can happen with carrier messaging, but we’d love to help you get logged in and set up. Please reach out to us at https://www.simplywise.com/support—we’re here to help!",
+      "replyDate": "2025-04-29T06:36:40.230Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=f8d1525e-f809-4215-8648-731819561a9b"
+    },
+    {
+      "date": "2025-04-28T07:04:11.460Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Dave Williams",
+      "text": "Excellent program",
+      "reply": "Thank you for the glowing review! 🙌📂 We’re thrilled to hear the app’s been an excellent fit for your needs. If you ever have ideas to make it even better, we’re all ears. Here’s to staying organized and stress-free!",
+      "replyDate": "2025-04-29T06:35:32.874Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=82e447fd-cf8d-4a71-9fd0-10421cb74261"
+    },
+    {
+      "date": "2025-04-23T22:17:56.793Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Stephen Roensch",
+      "text": "easy to use",
+      "reply": "That’s the goal! 🙌📸 We’re thrilled to hear the app is making receipt tracking simple and stress-free. If you ever have ideas to make it even easier, we’re all ears. Here’s to organized finances and smooth scanning ahead!",
+      "replyDate": "2025-04-24T05:03:58.355Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=e9b80c91-bcee-46c6-8880-6e15816dd0aa"
+    },
+    {
+      "date": "2025-04-21T17:51:20.491Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Drew Meager",
+      "text": "nowhere in the description does it say that this is not free when in reality it is only a free trial. it is very misleading!",
+      "reply": "We aim to be open, honest, and transparent—because we don’t believe in secrets when it comes to business. Our plans and pricing are clearly shared, and we work hard to keep them competitive. Subscriptions help us continue improving the app so it gets better with every update, but we do offer a free limited plan that may fit your budget better.",
+      "replyDate": "2025-04-22T05:06:27.903Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=2793069e-9fe3-4405-b172-8a21bfb1cfbc"
+    },
+    {
+      "date": "2025-04-19T13:50:13.291Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Theron Mosley",
+      "text": "I was being overwhelmed by receipts, this app helps me be more organized.",
+      "reply": "That’s what we love to hear! 🙌📂 When the paper piles up, we’re here to bring the calm. So glad the app is helping you stay organized and take control of the chaos—one scanned receipt at a time! Keep crushing it, clutter-free!",
+      "replyDate": "2025-04-22T05:07:14.176Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=f4281c56-16b3-4679-8751-0f1a98c4edef"
+    },
+    {
+      "date": "2025-04-16T18:27:32.111Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "carlos ortiz",
+      "text": "awesome",
+      "reply": "Awesome review for an awesome app—yes, please! 🙌📸 We’re thrilled it’s helping you stay organized and on top of your receipts. If you ever have ideas to make it even better, we’re all ears. Keep crushing that paper clutter!",
+      "replyDate": "2025-04-18T06:03:01.312Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=716c5bcc-318b-4a5a-ba1b-b0106d41c19f"
+    },
+    {
+      "date": "2025-04-16T15:01:52.556Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "JoAnn Rhodes",
+      "text": "I need help exporting. I do not see any instructions on the app for totaling thè expenses for my taxes. What am I missing. I hear all your great reviews. Am I missing some instructions. Could you make this an easy process Simply Wise??? Please.",
+      "reply": "Hi JoAnn, we've responded to your email request with step by step information. We also have a FAQ section on our website and a YouTube channel with video tutorials. You're welcome to reach our support team anytime you have a question - we're here to help!",
+      "replyDate": "2025-04-16T17:24:41.192Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=ffbe8263-c376-4be0-89f4-2f96d99c1186"
+    },
+    {
+      "date": "2025-04-16T02:46:24.877Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Arica Drager",
+      "text": "So easy to use!",
+      "reply": "That’s what we love to hear! 🙌📲 Simple, smooth, and stress-free—that’s the goal. We’re so glad the app is making your tracking effortless. If you ever have ideas or questions, we’re just a tap away. Keep on organizing like a pro!",
+      "replyDate": "2025-04-16T07:56:25.737Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=9bae9f29-ae16-4308-a6a2-be61e05cddce"
+    },
+    {
+      "date": "2025-04-15T18:10:50.604Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Danyelle Ashcraft",
+      "text": "love tf out of it!!",
+      "reply": "Now that’s some serious love—and we’re here for it! 🙌🔥 We’re thrilled the app’s hitting the mark and making your life easier. If you ever have ideas to make it even better, don’t hold back—we’re all ears. Keep on tracking like a boss!",
+      "replyDate": "2025-04-16T07:55:50.922Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=1a682470-ea22-4070-ba64-ad0740edfc8e"
+    },
+    {
+      "date": "2025-04-15T17:23:29.873Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Maurice Blocker",
+      "text": "great app",
+      "reply": "Thanks for the 5-star love! ⭐️📂 We’re thrilled the app is helping you stay organized and on top of your receipts. If you ever have ideas to make it even better, we’re all ears. Here’s to smooth tracking and stress-free finances!",
+      "replyDate": "2025-04-16T07:55:15.202Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=6f153398-5886-49b2-99c5-ade99b825539"
+    },
+    {
+      "date": "2025-04-15T10:23:13.857Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Brad H",
+      "text": "too much personal info required. nope.",
+      "reply": "We understand the concern. A phone number is required to confirm users are U.S.-based, as the app is currently only available in the U.S. We’re here to help if you have any questions—feel free to reach out at https://www.simplywise.com/support.",
+      "replyDate": "2025-04-16T07:54:43.856Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=590f68c1-1ec8-4060-ab64-9467fddb101c"
+    },
+    {
+      "date": "2025-04-14T15:42:03.216Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Mindi Scheaffer",
+      "text": "works great so far!",
+      "reply": "Love to hear it’s working like a charm! 🙌📂 Whether you’re organizing receipts or staying on top of tax season, we’ve got your back. If you ever have feedback or want to explore more features, we’re all ears. Here’s to smooth tracking ahead!",
+      "replyDate": "2025-04-16T07:53:34.680Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=fc5e74f1-b909-468f-b706-5e399d09769e"
+    },
+    {
+      "date": "2025-04-14T15:28:32.154Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Michael Javer",
+      "text": "I cannot contact these people to stop this account. they charge me over $5 a week and when I tried to open up the app it doesn't show me having an account. I highly recommend you stay away from these people. customer service does not seem to be a priority",
+      "reply": "Hi Michael, we take customer service to our users very seriously and did respond to your email request on the 14th—please check your spam folder just in case. Since billing was set up through Google, you can cancel your subscription directly in your Google Play settings. If you need help, we’re here at https://www.simplywise.com/support.",
+      "replyDate": "2025-04-16T07:52:45.898Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=ea96176b-445e-4fc8-9598-e6a3fe0a753f"
+    },
+    {
+      "date": "2025-04-12T04:51:27.117Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Devin Krizwold",
+      "text": "why does a billing app need my location and physical activity... why are there 10+ questions before I can enter a bill... you have one job and it's not to harvest data",
+      "reply": "We hear you! 🙏 The onboarding process is designed to help new users get familiar with the app’s features. The location and physical activity prompts are tied to our built-in mileage tracker—just in case you want to use it—and can be turned off in settings. For help from our Support Team, visit https://www.simplywise.com/support",
+      "replyDate": "2025-04-12T06:21:31.261Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=23a1c6c5-15b9-4778-8941-ca8f42a1c77c"
+    },
+    {
+      "date": "2025-04-11T15:09:35.565Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Cyn Monroe",
+      "text": "so far it's free I'll let you know if it changes.",
+      "reply": "Glad to hear it's working well so far! 🙌📂 We’d love to know—what can we do to earn that 5th star and make your experience truly top-notch? Your feedback helps us grow! If anything changes or you need support, feel free to reach out at https://www.simplywise.com/support.",
+      "replyDate": "2025-04-12T06:24:02.649Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=cb2483fa-3cd5-4332-9e5f-addbaab4905c"
+    },
+    {
+      "date": "2025-04-11T00:54:20.318Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "W Harkey",
+      "text": "so far great, exactly what i was looking for",
+      "reply": "Love hearing that! 🙌📸 We’re thrilled the app is delivering exactly what you needed. There’s plenty more to explore, and we’re here if you need anything along the way. Here’s to staying organized and tracking like a pro!",
+      "replyDate": "2025-04-12T06:22:46.307Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=d5f22b93-e801-4646-907f-e417db5007bb"
+    },
+    {
+      "date": "2025-04-09T22:15:42.526Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Austin Paskerian",
+      "text": "Jesus Christ. I just want to add a receipt. Not go through a new hire onboarding process to start using the app Developer responded saying that it's designed to be brief. It is not brief. It's long enough that I uninstalled and took the time to write an app review.",
+      "reply": "Hi Austin, our onboarding flow is designed to be brief while giving users a helping hand to get started and make the most of the app. We appreciate your feedback, and if you need any assistance, feel free to reach out to our support team at https://www.simplywise.com/support!",
+      "replyDate": "2025-02-24T06:42:32.237Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=13e197bf-d477-44b3-9555-5488b751e162"
+    },
+    {
+      "date": "2025-04-07T01:12:02.606Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "TML B",
+      "text": "I used this app with my receipts about 2 months it never released my funds",
+      "reply": "We’re sorry for the confusion, but SimplyWise is a receipt tracker, not a rebate or cashback app—so no funds are released through our platform. If you have any questions, feel free to reach out at https://www.simplywise.com/support—we’re happy to help!",
+      "replyDate": "2025-04-07T03:25:28.220Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=75f973a9-9894-4352-89c3-d490f7b88a7f"
+    },
+    {
+      "date": "2025-04-05T16:39:18.489Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Roy Markert",
+      "text": "great app to keep all my receipts in one place. thanks 😊",
+      "reply": "You're so welcome! 😊📂 We’re thrilled the app is helping you keep all your receipts organized in one tidy place—that’s what we’re here for! If you ever have ideas to make it even better, we’re all ears. Thanks for the 5-star love and happy tracking!",
+      "replyDate": "2025-04-07T03:26:05.855Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=460b03e0-a939-4653-b67b-a8e78a2c41ed"
+    },
+    {
+      "date": "2025-04-02T21:26:03.385Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Linda Martinez",
+      "text": "this is what I need for budget",
+      "reply": "hat’s what we love to hear! A solid budget starts with smart tracking, and we’re thrilled the app is giving you exactly what you need. If you ever want tips, tricks, or have ideas to make it even better, we’re all ears. Here’s to stress-free budgeting and organized receipts!",
+      "replyDate": "2025-04-03T02:06:37.310Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=dbce3b81-5373-4a72-99be-14489324708e"
+    },
+    {
+      "date": "2025-03-31T18:02:55.582Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "jose carlos peralta",
+      "text": "very intuitive. Nothing unnecessary like quickbooks",
+      "reply": "Now that’s a compliment we’ll take any day! 🙌📂 We’re all about keeping things intuitive and clutter-free—no extra fluff, just what you need to stay organized and efficient. Thanks for the love, and here’s to stress-free tracking without the overwhelm!",
+      "replyDate": "2025-04-01T05:33:06.191Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=a5d4ec07-ee8b-4290-9a5d-cb433ab98029"
+    },
+    {
+      "date": "2025-03-31T04:57:48.613Z",
+      "score": 4,
+      "thumbsUp": 1,
+      "user": "R. V. B",
+      "text": "Solid app, a little buggy but not bad. My only gripe is app won't add you manual tip to the overall total and sometimes won't include the tip even though its on the receipt. Changing the receipt type as the developer said still does not provide a tip line, also it does not adjust the total after a tip is manually added.",
+      "reply": "Hi RVB! You'll want to change the document type from receipt to restaurant receipt to add the tip field. If we can help, please don't hesitate to reach out to our Support Team at https://www.simplywise.com/support",
+      "replyDate": "2025-01-12T08:56:37.936Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=ee682069-63be-4496-a487-f5c3ad43383e"
+    },
+    {
+      "date": "2025-03-30T21:34:30.793Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Scott Navarro",
+      "text": "Had the app for about 15 minutes so far and I've easily linked my bank and currently scanning in receipts. Ai scans the receipts and inserts the information so I can quickly move to the next one. so far so good. looking forward to the 7day free trial as a small business owner.",
+      "reply": "Love hearing you’re off to a great start! 🙌📂 Getting your bank linked and receipts scanned in minutes is exactly what we aim for. As a small business owner, your time is gold—and we’re here to help you save it. Let us know how we can earn that 5th star and make your experience 100% spot on!",
+      "replyDate": "2025-04-01T05:34:22.542Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=4b2e583e-f56e-496d-83a6-b36daf91bdf1"
+    },
+    {
+      "date": "2025-03-29T21:25:16.106Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "Tee Bag",
+      "text": "worked great, then. crashed. un-installed and reinstalled, but it still won't work. Says there is a bug. please fix the bug",
+      "reply": "While bugs can be a normal part of any evolving app, we totally understand how frustrating this must be. Our support team is ready to help get things back on track—reach out anytime at https://www.simplywise.com/support. We’re here to fix it and get you back to smooth tracking!",
+      "replyDate": "2025-03-30T04:43:41.468Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=df46615c-f694-491b-957f-c499d06b4ed5"
+    },
+    {
+      "date": "2025-03-25T20:14:09.365Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "Mell Smuts",
+      "text": "gps is not accurate....so losing money every day ...today it was 30 miles short..... still waiting on online support for 60 days now....",
+      "reply": "Thanks for your patience—we know this has been frustrating. 🙏 We've been in constant contact with you, Mell, and are actively working through the GPS bugs. A new standalone mileage tracker is on the way to fix these issues. We hope you’ll reconsider your rating as we’re doing our best to make it right and have been updating you along the way.",
+      "replyDate": "2025-03-28T03:37:38.765Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=506f4822-2b1f-4120-a3de-e80adc193b47"
+    },
+    {
+      "date": "2025-03-21T19:28:11.203Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Amanda Barnhart",
+      "text": "This is a great app. I would recommend it to anyone. So far I have had no issues with it. I have looked for one like this for a long time and finally found it .",
+      "reply": "This made our day! 🎉📂 We’re so glad you finally found the receipt tracker you’ve been searching for—and that it’s been smooth sailing so far. Recommending us means the world! If you ever have questions or ideas to make it even better, we’re all ears. Happy tracking! 🙌✨",
+      "replyDate": "2025-03-24T05:55:28.706Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=02762b3a-9800-4c74-9fba-95ec91198fcd"
+    },
+    {
+      "date": "2025-03-20T17:59:14.442Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "True Everyday",
+      "text": "excellent",
+      "reply": "Thanks for the excellent rating! ⭐️📂 We’re thrilled the app is hitting the mark for you. If you have any ideas or feedback to make it even better, we’d love to hear them. Here’s to stress-free tracking and staying effortlessly organized!",
+      "replyDate": "2025-03-21T01:29:57.992Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=5058c989-de12-4d8c-818e-88eb2e379178"
+    },
+    {
+      "date": "2025-03-17T03:21:35.847Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Joelynn Bella",
+      "text": "For what it is, I wish the app was free.",
+      "reply": "Appreciate the feedback! 💡 While we do offer a free limited plan that may be a better fit for your budget, we also have paid plans for those who need access to advanced features. We aim to provide options for every user! If you’d like to explore the free plan, let us know—we’re happy to help!",
+      "replyDate": "2025-03-18T02:00:13.646Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=0875fec2-2b28-498e-944c-1acc6fb6e7ce"
+    },
+    {
+      "date": "2025-03-16T23:44:27.681Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Cody Williams",
+      "text": "Why is it so difficult to make an account ? I created an account with my google account ,then it asks for my number for 2 factor authentication then it tells me the number already exists (well duhhh), then I used another number you couldn't possibly have and it's still telling me it exist ,fix the bug ,I should get compensated for bug testing lolll",
+      "reply": "Since we’re a US-based app, all accounts need to have a +1 phone number associated with them for verification. This isn’t a bug, but we totally understand how it can be confusing! Disabling 2FA should help resolve the login issue. If you need assistance, our support team is happy to help—reach out at https://www.simplywise.com/support.",
+      "replyDate": "2025-03-18T01:58:42.430Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=27da83a1-4084-4ced-91cb-933fe4a1ab54"
+    },
+    {
+      "date": "2025-03-16T04:29:01.415Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Alexis Pedrick",
+      "text": "I really like how simple this is to keep all your purchases in one place, hopefully this continues to be this simple .. 🙏",
+      "reply": "Glad to hear you’re enjoying the simplicity! 🙌📂 Keeping all your purchases in one place should be effortless, and we’re committed to keeping it that way. We'd love to know—what could we do to turn your 4-star experience into a 5-star one? Please know our support team is here for you at https://www.simplywise.com/support.",
+      "replyDate": "2025-03-16T05:30:34.361Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=ed0e5dcc-f556-4280-868f-ede65b63a3ba"
+    },
+    {
+      "date": "2025-03-14T17:32:40.822Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Asia Huguenin",
+      "text": "help me scan receipts",
+      "reply": "Love hearing that, Asia! 📸✨ Scanning receipts should feel like a breeze, not a chore, and we’re thrilled the app is making it easy for you! No more paper clutter—just quick, seamless tracking at your fingertips. If you ever have ideas to make it even better, we’re all ears. Keep on scanning and organizing like a pro!",
+      "replyDate": "2025-03-15T02:05:19.480Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=e2878eca-c2e2-41be-a4a2-0503849ce0ea"
+    },
+    {
+      "date": "2025-03-13T23:35:28.980Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Vanessa Santacruz",
+      "text": "Great",
+      "reply": "Thanks for the 5-star love! ⭐️📂 We love that we can take on the heavy lift of organizing and digitizing all your receipts so you don’t have to! If you ever have feedback or ideas to make it even better, we’d love to hear them. Happy tracking!",
+      "replyDate": "2025-03-14T06:50:00.372Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=9b1c0ecb-70c4-4375-afa6-3aa1c225f9db"
+    },
+    {
+      "date": "2025-03-12T12:58:11.894Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Napoleon Mc",
+      "text": "I wish I knew about this app along time ago",
+      "reply": "Better late than never! ⭐️📂 We're so glad you found us, and now you’ve got an effortless way to track receipts and stay organized! If you ever need tips or have ideas to make it even better, we’d love to hear them. Happy tracking!",
+      "replyDate": "2025-03-14T06:48:46.284Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=b3c73186-b71f-407a-88a8-e6621785f994"
+    },
+    {
+      "date": "2025-03-12T12:25:16.323Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Pav Pottekkat",
+      "text": "Uninstalled immediately due to need to supply personal information.",
+      "reply": "Sorry for any concerns! 📲 As a US-based app, we require a phone number to confirm users are located in the US—it’s strictly for verification purposes. We also want to assure you that we do not track anything outside of what you choose to upload to the app. Your privacy is a top priority, and your data stays in your control!",
+      "replyDate": "2025-03-14T06:48:02.590Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=628519bf-1117-473d-9365-aefb1a070df7"
+    },
+    {
+      "date": "2025-03-11T22:54:16.293Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "Antares Design",
+      "text": "exelent app to keep track on your expenses.",
+      "reply": "Thanks for the 5-star love! ⭐️📂 Keeping track of expenses should be effortless, and we’re thrilled the app is helping you stay organized and on top of your finances. Whether it's for budgeting, taxes, or just peace of mind, we've got you covered! If you ever have feedback or ideas to make it even better, we’d love to hear them. Happy tracking!",
+      "replyDate": "2025-03-12T04:17:42.314Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=cc79b408-071c-4661-ba8d-af830a3f742c"
+    },
+    {
+      "date": "2025-03-07T18:00:22.000Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "Dave",
+      "text": "Surprisingly accurate. Great app when paired with simply cost estimator. Well worth the DL",
+      "reply": "🎉📂 Accuracy is the name of the game, and we're thrilled you're finding the app so useful—especially when paired with Simply Cost Estimator! Sounds like a power duo! 💪 If you ever have feedback or ideas, we’re all ears. Happy tracking!",
+      "replyDate": "2025-03-08T07:53:22.609Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=e9b23f35-47c0-4a1d-ae88-e2dc2f2ff4d0"
+    },
+    {
+      "date": "2025-03-07T14:02:24.542Z",
+      "score": 4,
+      "thumbsUp": 1,
+      "user": "Amanda",
+      "text": "Just started, but so far, I am enjoying the options and ease of tracking just about anything for business purposes.",
+      "reply": "Glad to hear you’re enjoying the app so far! ⭐️📂 We’d love to know—what can we do to earn that 5-star rating? Your feedback helps us improve and build trust with our Android users. If you ever need assistance or have suggestions, feel free to reach out to our support team at https://www.simplywise.com/support!",
+      "replyDate": "2025-03-08T07:54:42.318Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=1c8d7a83-6324-49f0-81f6-f1e59f71e741"
+    },
+    {
+      "date": "2025-03-05T18:09:44.290Z",
+      "score": 2,
+      "thumbsUp": 4,
+      "user": "Teresa Fogle",
+      "text": "I like the app and the ability to see on my PC. However, the app has some issues. Like closing in the middle of editing and losing data. Also, EVERY TIME I OPEN THE APP it wants me to allow location all the time. WHY? I do not need this running in the background.",
+      "reply": "Thanks for sharing your experience—we’re glad you like the app and desktop access! 🚀 That said, we’d love to take a closer look and get you back on track. Please reach out to our support team at https://www.simplywise.com/support, and we’ll help sort this out!",
+      "replyDate": "2025-03-07T01:33:37.502Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=c700f600-37b4-4728-a55c-b4181b7e3610"
+    },
+    {
+      "date": "2025-03-04T17:03:59.619Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "jiewen Tang",
+      "text": "So easy to get paper together!",
+      "reply": "Thank you for the 5-star love! ⭐️📂 Digitizing is our middle name, and we’re thrilled you’re enjoying the app. If there’s anything we can do to make your receipt tracking experience even better, we’d love to hear your thoughts. Happy organizing!",
+      "replyDate": "2025-03-05T05:31:52.840Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=11a91d36-1c66-4b70-aa14-f7e84277e932"
+    },
+    {
+      "date": "2025-02-28T23:38:21.680Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "vitaly kli",
+      "text": "nice. thank you",
+      "reply": "Thank you for the 5-star love! ⭐️📂 We're so glad you're enjoying the app. If there's anything we can do to make your receipt tracking even smoother, we’re all ears. Happy organizing!",
+      "replyDate": "2025-03-01T09:57:53.390Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=adb6426a-1289-411c-b041-3dd64554c807"
+    },
+    {
+      "date": "2025-02-28T16:33:13.209Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Colin McIntyre",
+      "text": "There are much cheaper options",
+      "reply": "Sorry to hear that! 💰 We aim to offer great value with a variety of plans, but if budget is a concern, we do have a free limited plan that might be a better fit. We’d love for you to give it a try and see if it meets your needs!",
+      "replyDate": "2025-03-01T09:59:04.297Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=0a21eb3e-d772-4dbe-a0e0-4896493daeed"
+    },
+    {
+      "date": "2025-02-26T19:10:14.860Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Marcus Johnson",
+      "text": "Not a bad at all.",
+      "reply": "Glad to hear it! ⭐️📂 We’re all about making receipt tracking simple and stress-free. If there’s anything we can do to make it even better, we’d love to hear your thoughts. Happy tracking!",
+      "replyDate": "2025-03-01T09:59:45.776Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=45f3b7a7-94d0-4275-9ff8-a56e62c41b12"
+    },
+    {
+      "date": "2025-02-26T18:28:41.248Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Gurpreet Kaur",
+      "text": "verynice",
+      "reply": "Thanks for the 5-star love! ⭐️📂 We’re so glad you’re enjoying the app. If there’s anything we can do to make your receipt tracking even smoother, we’d love to hear your thoughts. Happy organizing!",
+      "replyDate": "2025-02-27T08:30:02.775Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=dce1261a-e52a-4f54-980d-c10978b3f659"
+    },
+    {
+      "date": "2025-02-26T02:59:17.204Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "P.SINGH",
+      "text": "it's easy to use. I Cannot track so many things. simplywise is helpful",
+      "reply": "Thank you for your wonderful 5-star review! We designed SimplyWise to make tracking effortless, so you can focus on what matters most. And don’t worry—we’re happy to take on the heavy lifting of organizing so you can track to your heart’s content! If you ever need anything, we’re here to help.",
+      "replyDate": "2025-02-27T08:31:52.919Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=0c537dfb-4421-4523-ba88-0e0658ebcae4"
+    },
+    {
+      "date": "2025-02-25T13:44:59.205Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Doc Scholl",
+      "text": "Why do I need to jump through hoops to make/create a simple receipt?",
+      "reply": "Sorry for any frustration! 😕 Our goal is to make receipt tracking as seamless as possible, not a hassle. If you're running into issues, our support team is happy to help—reach out anytime at https://www.simplywise.com/support. We’d love to get you back on track!",
+      "replyDate": "2025-02-27T08:33:05.335Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=48686c8f-fb80-4419-83f8-f82fe922a2a8"
+    },
+    {
+      "date": "2025-02-25T13:09:51.119Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Ruben Stark",
+      "text": "I know i looked at the prices before i noticed how EXPENSIVE it is",
+      "reply": "We offer a variety of plans to fit different needs, including a free limited plan, a personal plan for $29.99/year, and a business plan for $89.99/year. We strive to provide great value for organizing receipts effortlessly! If you have any questions about the plans, please visit us at www.simplywise.com",
+      "replyDate": "2025-02-25T08:44:19.262Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=2d0906dd-b01c-423c-9594-b8a7d77861f4"
+    },
+    {
+      "date": "2025-02-24T15:17:51.716Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "darkenddaylight",
+      "text": "👍👍🔥",
+      "reply": "Your review is on fire! 🔥🔥 Huge thanks for the 5-star love! 👍👍 We’re thrilled the app is bringing the heat when it comes to organizing your receipts. Keep tracking like a pro!",
+      "replyDate": "2025-02-25T08:40:04.691Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=05c8bc98-a13b-47da-bb2f-5a0be2d46df9"
+    },
+    {
+      "date": "2025-02-24T10:43:59.862Z",
+      "score": 2,
+      "thumbsUp": 1,
+      "user": "Elizabeth Huffman",
+      "text": "shouldn't cost 2.99 weekly or 89.99 yearly (45% off if bought yearly) otherwise it's not too bad. but the cost is ridiculous. As a small business owner every penny counts.",
+      "reply": "As a small business ourselves, we understand that every penny counts, which is why we offer a variety of plans to meet different needs—including the weekly plan, which was added due to popular demand. Whether it’s our free limited plan, personal plan ($29.99/year), or business plan ($89.99/year), we aim to provide flexible options.",
+      "replyDate": "2025-02-25T08:44:07.751Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=006c9551-8dda-4153-8387-4171ecc38358"
+    },
+    {
+      "date": "2025-02-22T18:59:09.749Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Casey England",
+      "text": "Worth paying. User friendly and better for taxes",
+      "reply": "Love hearing that! 🎉💰 Making tax season easier and keeping things user-friendly is exactly what we aim for. Glad you’re finding value in the app! If you ever have feedback or ideas, we’d love to hear them. Happy tracking!",
+      "replyDate": "2025-02-22T23:36:33.123Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=fde783e9-a482-4b93-b99f-82c1e607cca1"
+    },
+    {
+      "date": "2025-02-22T11:53:02.830Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Wendy Allen-Smith",
+      "text": "Setup is good, just slow in response",
+      "reply": "Glad to hear the setup went well! 👍 If the app feels slow, we recommend checking the Google Play Store for updates to keep everything running smoothly. If you're still experiencing delays, our support team is happy to help—reach out at https://www.simplywise.com/support. We appreciate your feedback!",
+      "replyDate": "2025-02-22T23:35:39.838Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=57bb7ac7-b331-4ded-8fb1-2a748e299a7a"
+    },
+    {
+      "date": "2025-02-19T10:45:39.109Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "M M",
+      "text": "What kinda app gives u option for phone number or email during sign in, I chose email not wanting to give info out then next it asks for my number again 4 2 step verification...ON A RECEIPT PRINTING APP??",
+      "reply": "Sorry for the frustration! Since we're a US-based app, we have to confirm the account holder has a +1 phone number for the app to work properly. We understand privacy concerns and strive to keep security a top priority. If you have any questions, our support team is happy to help—reach out at https://www.simplywise.com/support!",
+      "replyDate": "2025-02-19T23:55:03.657Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=e3862b9a-a369-4976-908e-c0859b03edfd"
+    },
+    {
+      "date": "2025-02-17T15:36:28.409Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "Linda",
+      "text": "nice that it guides info input so non tech ppl can use.",
+      "reply": "Love hearing that! 🎉 We designed the app to be user-friendly for everyone, so it's great to know it's making inputting info a breeze. Tech-savvy or not, we've got you covered! If you ever have suggestions, we’re all ears—happy tracking!",
+      "replyDate": "2025-02-17T18:24:45.306Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=bf4df652-3cbb-4dfc-9597-bc4bc06a359c"
+    },
+    {
+      "date": "2025-02-15T07:02:53.583Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Brooke Hollabaugh",
+      "text": "You should advertise your going to charge money after 7 days",
+      "reply": "Sorry for any confusion! We aim to be fully transparent about our plans and pricing, which is why we include this info on the Google Play Store, our website, and our social media. If you need any assistance, our support team is happy to help—reach out at https://www.simplywise.com/support!",
+      "replyDate": "2025-02-15T08:16:25.419Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=5f6c0624-fd20-40a5-9981-b5c030dcef4f"
+    },
+    {
+      "date": "2025-02-13T20:05:36.532Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Gary Christopherson",
+      "text": "Just started. Good so far, very easy to document.",
+      "reply": "Great start! 🚀 We designed the app to be user-friendly and easy to use, so we're glad it's off to a good start for you. If you have any questions or feedback as you dive in, we’re here to help. Happy tracking!",
+      "replyDate": "2025-02-15T08:17:24.572Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=558426a2-bf7d-4edd-8bd5-3930c8bec9cf"
+    },
+    {
+      "date": "2025-02-11T17:42:59.590Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Mira Lindermeier",
+      "text": "Description doesn't mention using AI but it's the first thing you see when you open the app. I don't support destroying the environment when there's non-AI business automation available.",
+      "reply": "Sorry the experience didn’t meet your expectations! While AI is at the core of our voice receptionist, it’s designed to be a powerful tool for small and medium-sized businesses that need an extra helping hand. AI can streamline operations, improve customer interactions, and free up time—all while being budget-friendly.",
+      "replyDate": "2025-02-12T19:40:49.264Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=13da54c0-384e-4fe4-8310-0f4be408306e"
+    },
+    {
+      "date": "2025-02-10T11:45:20.778Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Johnny L Mackey",
+      "text": "good",
+      "reply": "Hi Johnny! We're so glad you're liking it! 👍✨ If there’s anything we can do to make it a full 5-star experience, we’d love to hear your thoughts. Your feedback helps us make the app even better—happy tracking!",
+      "replyDate": "2025-02-11T07:10:18.261Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=1d4f5d82-5ded-4bdd-8fe7-2d7fac957fce"
+    },
+    {
+      "date": "2025-02-09T03:15:21.788Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Melissa Moldrup",
+      "text": "Blown away this app has any good ratings considering it's painfully dysfunctional. Tried to scan one receipt with 2 items on it, app couldn't handle it. The app couldn't figure out the total or the tax from the receipt and it would not allow me to change either of these totals manually due to it being so buggy. Instant uninstall.",
+      "reply": "Sorry to hear you had such a frustrating experience! 😔 That’s definitely not the smooth experience we aim for. We appreciate your honest feedback and are constantly working to improve. If you’re open to giving it another shot, our support team would love to help at https://www.simplywise.com/support. Your insights help us make the app better!",
+      "replyDate": "2025-02-11T07:11:12.117Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=81771ef1-b260-4cea-bdf4-f6a45f2e6c7f"
+    },
+    {
+      "date": "2025-02-06T08:01:58.130Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "Celeste Fromal",
+      "text": "very user-friendly I love that you can create your own personal folders",
+      "reply": "Glad you're loving the app! 🎉 Making receipt tracking user-friendly and organized is what we’re all about. Custom folders = total control over your records! If you ever have suggestions to make it even better, we’re all ears. Happy organizing!",
+      "replyDate": "2025-02-07T16:36:03.459Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=b21cc5e7-6e68-42ea-8df5-aaafdc4d4d32"
+    },
+    {
+      "date": "2025-02-05T18:43:50.399Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Jennifer McCabe",
+      "text": "Just signed up for it but it already looks like something that is going to be very helpful for me.",
+      "reply": "Great to have you on board! 🚀✨ It’s awesome to hear the app is already making a strong first impression. We’re confident it’ll be a game-changer for keeping your receipts organized—let us know if you ever need a hand. Happy tracking!",
+      "replyDate": "2025-02-06T03:54:28.883Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=f7caf02b-bc8f-4fe2-8502-48be292f302a"
+    },
+    {
+      "date": "2025-02-03T23:45:53.982Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "William Stewart",
+      "text": "great app help keep my stuff in order",
+      "reply": "Love to hear that! 🎉 Keeping things organized and hassle-free is exactly what we designed the app for. If there's ever anything we can do to make it even better, we’re all ears. Happy tracking!",
+      "replyDate": "2025-02-04T05:00:13.205Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=513d07fa-755f-425d-9a36-cfb3b585ef00"
+    },
+    {
+      "date": "2025-02-03T13:31:07.660Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "B C",
+      "text": "What a very useful App. Can't say enough about it, works, and tracks all of my receipts.",
+      "reply": "Five stars—thank you! ⭐️⭐️⭐️⭐️⭐️ We’re so glad the app is making receipt tracking effortless for you. Your support means the world to us! If you ever have ideas to make it even better, we’d love to hear them. Happy tracking!",
+      "replyDate": "2025-02-04T05:01:58.811Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=9b607059-8500-45e3-8470-1fcb8c75ecad"
+    },
+    {
+      "date": "2025-02-01T02:35:34.890Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Erica Goosby",
+      "text": "SO FAR SO GREAT😃!",
+      "reply": "Love the enthusiasm! 😃🚀 We’re thrilled you’re off to a great start with the app. Here’s to keeping your receipts organized and stress-free. Happy tracking!",
+      "replyDate": "2025-02-01T06:07:39.346Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=27c8d22d-065b-4c1f-9b23-ef0438f53cba"
+    },
+    {
+      "date": "2025-02-01T00:03:18.881Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Jimmy Sleep",
+      "text": "fantastic simplifier",
+      "reply": "Fantastic and simple—that’s what we aim for! 🎯✨ We’re so glad the app is making receipt tracking a breeze for you. If there’s anything we can do to make it even better, let us know. Happy organizing!",
+      "replyDate": "2025-02-01T06:09:00.903Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=43e6bf93-07f6-403a-8ed4-130d82e938d5"
+    },
+    {
+      "date": "2025-01-31T05:03:57.708Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "William Burlingham",
+      "text": "They keep charging my account even after ca be ceiling it",
+      "reply": "Sorry for the trouble! 😕 If you subscribed through Google Play, you may need to manage your billing directly with them. We recommend checking your subscription settings in the Play Store. That said, we’re happy to assist however we can—feel free to reach out at https://www.simplywise.com/support!",
+      "replyDate": "2025-02-01T06:10:58.490Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=d0dbc7af-08b6-4b10-8b49-4575f8a2dfb4"
+    },
+    {
+      "date": "2025-01-24T22:25:00.990Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Toni Jilpas",
+      "text": "I love it 😀 😍 it's so simple",
+      "reply": "Thank you, Toni! We love keeping it simple and super user friendly - it makes things much easier!",
+      "replyDate": "2025-01-25T07:50:09.192Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=e20c98d6-b17a-4358-a1a0-2e65d1c6975c"
+    },
+    {
+      "date": "2025-01-24T20:11:20.650Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "SkyEver",
+      "text": "Amazing app! Saved me $89/mo on quickbooks since the main thing I needed was expese management. Plus, it automatically records my mileage. How cool is that!",
+      "reply": "This is super cool to hear - thank you for sharing! Every little bit helps and we're so happy to be part of your receipt tracking journey!",
+      "replyDate": "2025-01-25T07:50:41.944Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=d53a6c98-193f-4283-8a36-15215c978664"
+    },
+    {
+      "date": "2025-01-22T20:39:18.205Z",
+      "score": 3,
+      "thumbsUp": 16,
+      "user": "Julianne Curtis",
+      "text": "For the most part, it seems to work just fine. The biggest downside I've discovered is that the app will sometimes \"forget\" all the information that it just gathered from the picture of a receipt. This happened if I was trying to create or edit a folder while entering receipt information. It would forget the store name and dollar amounts that had been there just a moment ago. It's a bit too much work to be useful for my needs. I won't be keeping this app.",
+      "reply": "Hi Julianne! So sorry to hear you're leaving us so soon! It sounds like the app may need an update, but we're happy to look into this issue if you still need help! You can reach our support team at https://www.simplywise.com/support",
+      "replyDate": "2025-01-23T00:42:47.297Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=a771e6b8-c958-486a-ae1a-117f70d9e2a4"
+    },
+    {
+      "date": "2025-01-21T22:22:55.332Z",
+      "score": 4,
+      "thumbsUp": 7,
+      "user": "Linda Winter",
+      "text": "Love having all my receipts in one place and that I can export them at year end. have been a user since the inception and appreciate their customer support. the only reason for 4 starts is that I wish it would not have the frequent delay in opening or taking the picture of the receipt. fix that and it'll be a 5 start app. When traveling abroad I save the receipts to compare with credit card statements. Someday would be nice for it to convert them to$US",
+      "reply": "Hi Linda! Thank you for supporting us from the beginning! You'll be pleased to know there is a way to convert international receipts to USD in your settings menu and within the receipt details screen. If we can help with anything, please connect with our Support Team at https://www.simplywise.com/support",
+      "replyDate": "2025-01-23T00:41:33.188Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=1c49f34c-6ae8-40db-840d-880b6136ed36"
+    },
+    {
+      "date": "2025-01-21T16:41:55.642Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "-",
+      "text": "I'm not sure what the positive reviews were, if I'm going to pay for it I find apps like hurdlr to be much more intuitive. This app doesn't make it easy to find or delete connected bank info, it's button system is a bit sporatic. Personally didn't like it",
+      "reply": "Hi there! Disconnecting bank(s) and card(s) can easily be done with a few taps, but our team is here to help if you need assistance. If we can help, please reach out and connect with us at https://www.simplywise.com/support. We wish you all the best in your receipt tracking journey and hope you find what suits you best!",
+      "replyDate": "2025-01-22T07:31:17.900Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=6d3dbdba-1123-434c-8301-78f04b81dd4f"
+    },
+    {
+      "date": "2025-01-20T13:06:40.486Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "James Falls",
+      "text": "THIS IS NOT A REVIEW. I will change this once I receive your response. Sorry, but I dont have a different way to contact you. I installed the app but decided not to continue and uninstalled it. I signed in using my Google account and want to ensure that I won't be charged the weekly fee.",
+      "reply": "Hi James, we're happy to help you cancel. Please connect with our Support Team https://www.simplywise.com/support or support@simplywise.com We'll be on the lookout for your message!",
+      "replyDate": "2025-01-21T02:28:05.198Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=fb399864-8ba4-4227-9fee-7094e547ccbb"
+    },
+    {
+      "date": "2025-01-20T03:00:22.775Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Dan Custis",
+      "text": "easy way to keep track of expenses",
+      "reply": "Hi Dan! Thank you for taking time to share your feedback with us! We're curious to know how we could earn a 5 star review from you to ensure you're enjoying your app thoroughly. Please connect with us and let us know how we can make your experience better! You can reach us here: https://www.simplywise.com/support",
+      "replyDate": "2025-01-21T02:29:00.765Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=78b4c60c-8b8d-424d-a5f9-b4e65c6ea776"
+    },
+    {
+      "date": "2025-01-19T13:02:47.562Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Lightchaserphoto",
+      "text": "advertise is a free app no mention of a subscription fee and now you're hitting me up",
+      "reply": "We absolutely offer a free limited plan, so we apologize for any confusion and aim to open, honest, and transparent with our users! We post our pricing within the app, on our website, and our social media. If you need help, please connect with our Support Team and we'll be happy to help you! Link for Support: https://www.simplywise.com/support",
+      "replyDate": "2025-01-19T22:01:50.501Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=0848324c-0797-4b52-b004-e6a0f1fb64e3"
+    },
+    {
+      "date": "2025-01-17T22:33:19.879Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "JUAN",
+      "text": "the best",
+      "reply": "Juan, YOU'RE the best! Thank you for your awesome review and feedback! We're so happy to know you're enjoying your SimplyWise app! ✨✨✨✨✨",
+      "replyDate": "2025-01-18T06:23:37.699Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=803d5f74-0996-4fb7-ad09-fe81ed223a75"
+    },
+    {
+      "date": "2025-01-17T17:09:49.760Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Edgardo Matos",
+      "text": "works great. less paper recipes..thank",
+      "reply": "Thank you, Edgardo! We appreciate the stellar 5-star review and love hearing we're helping get rid of those paper receipts along the way!",
+      "replyDate": "2025-01-17T21:00:41.204Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=14220978-6915-494b-b6f1-e9bfc0a54bee"
+    },
+    {
+      "date": "2025-01-17T16:42:27.614Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Deda Berente",
+      "text": "This app is great I hope it remains free.",
+      "reply": "Hi Deda! We plan on always having the free limited plan available, so feel free to enjoy it as long as you'd like! 😊",
+      "replyDate": "2025-01-17T21:01:14.311Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=6372a12e-e495-419c-9d51-d7939e776685"
+    },
+    {
+      "date": "2025-01-17T15:11:12.912Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Ashish Masih",
+      "text": "Very handy utility to keep records at one easy location. Also accessible from cloud, that's icing on the cake.",
+      "reply": "Hi Ashish! So happy to hear your SimplyWise app is serving you so well! This makes us smile ear to ear! 😊",
+      "replyDate": "2025-01-17T21:01:52.151Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=f240e098-1bd9-494f-9b19-954160fdf745"
+    },
+    {
+      "date": "2025-01-17T14:45:12.883Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Billy Leverich",
+      "text": "so easy to use. great for my busy and would highly recommend if you are growing fast and need financial organization!",
+      "reply": "Hi Billy! Congrats on the business growth! We're so thankful to be part of your journey and help smooth out some processes along the way!",
+      "replyDate": "2025-01-17T21:02:37.463Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=665ecb3f-b3ac-417f-821d-b7a4e1402e83"
+    },
+    {
+      "date": "2025-01-16T22:50:25.586Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Sheila Heckman",
+      "text": "I use this to keep track of my expenses while trucking. I love it!",
+      "reply": "Hi Sheila! Thank you for your dedication to move freight for us across the country - we appreciate you and love knowing we can help with digitizing and organizing your receipts every step of the way!",
+      "replyDate": "2025-01-17T03:04:21.906Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=1ee95023-8abe-4ee7-9cde-71b286cb6151"
+    },
+    {
+      "date": "2025-01-16T04:14:24.734Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Gary Busker",
+      "text": "super awesome for my business. highly recommend. put may years of receipts in order.",
+      "reply": "Hi Gary! So excited to hear your SimplyWise app is serving you and your business so well - this is music to our ears!",
+      "replyDate": "2025-01-17T03:03:28.807Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=c54a99c8-3a8c-4ee8-b44e-9895b4353d4c"
+    },
+    {
+      "date": "2025-01-15T20:51:38.943Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Rob Picker",
+      "text": "Great app for expense tracking",
+      "reply": "Thank you, Rob. So awesome to hear you're pleased with your SimplyWise app. 😊",
+      "replyDate": "2025-01-16T02:13:55.579Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=d8d695e7-8166-4503-9ccd-e1c8e2510448"
+    },
+    {
+      "date": "2025-01-15T15:19:38.689Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "James Renfroe",
+      "text": "just started this app, so for.",
+      "reply": "Welcome to SimplyWise, Jame! We're so glad to have you here and are excited to help you digitize and organize your receipts!",
+      "replyDate": "2025-01-15T18:14:13.456Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=41993215-5ba4-415a-841b-b2352d6dd990"
+    },
+    {
+      "date": "2025-01-15T02:09:59.527Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Shannon Wise",
+      "text": "Love this app. I just wish you had an option to change from personal to business! I wish we could category for each month when it does the report for you like group all gas, all food, clothes, equipment and repairs. Also would love you be able to upload to quickbooks",
+      "reply": "Hi Shannon, thank you for your positive feedback - we appreciate you! You can absolutely customize your app to fit your needs and can create custom folder categories and spaces for months, years, multiple businesses, personal expenses, and more! We also integrate to QuickBooks Online & QuickBooks Self Employed as well!",
+      "replyDate": "2025-01-15T18:15:45.108Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=735f2f92-e7a0-4dff-8461-b830ffba34d3"
+    },
+    {
+      "date": "2025-01-15T01:12:55.239Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Tomas Jasso",
+      "text": "Overall, the app does an amazing job. Come tax season, I just submit all the docs I've uploaded based on the year in one report for the tax person. It basically tells the person what they need to know for my taxes. Does it have a bug here and there, maybe, but it's still a darn good app.",
+      "reply": "Thank you so much, Tomas! We appreciate your stellar review and feedback! We're working hard to keep the bugs away and making tax time a moment of \"yay!\" with simplicity and ease. 😊",
+      "replyDate": "2025-01-15T18:17:58.800Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=e2ffc1db-edef-4058-a79e-83b8ae54394e"
+    },
+    {
+      "date": "2025-01-14T13:44:51.922Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "terry goldsby",
+      "text": "user-friendly and great functionality",
+      "reply": "Thank you, Terry! We are so excited to hear that your SimplyWise app is serving you so well!",
+      "replyDate": "2025-01-14T22:06:33.926Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=db003735-cc2e-4009-91bd-891d2ef95f65"
+    },
+    {
+      "date": "2025-01-14T04:12:50.723Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Laura Yocum",
+      "text": "The best expense tracking app out there!",
+      "reply": "Wow Laura! Thank you for your stellar review - we appreciate you!!",
+      "replyDate": "2025-01-14T22:06:50.566Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=ceebb8fa-a39f-4321-bfaa-5b2bac03a815"
+    },
+    {
+      "date": "2025-01-13T14:28:45.550Z",
+      "score": 5,
+      "thumbsUp": 77,
+      "user": "Amy Coleman",
+      "text": "I love this app!!! Super easy to use to save and file receipts. You can text pictures of your receipts, email in receipts, and set up your email to auto feed them into the system. Super easy to pull reports from. You can even set up auto reports to be pulled and sent to you. Reports can be pulled from any individual category or some or all and can include actual pictures of the receipts. This app has made saving and filing receipts for taxes soooo easy!!!!",
+      "reply": "Hi Amy! Thank you for your awesome review - we're so excited to hear how happy you are and couldn't be happier to hear that we can help make tax time a breeze!",
+      "replyDate": "2025-01-14T22:07:00.745Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=f1f92583-5774-4ee6-bbd5-06b95d023c1b"
+    },
+    {
+      "date": "2025-01-12T20:01:39.831Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Salty Malty",
+      "text": "great easy to use 👍",
+      "reply": "Hi Salty Malty! Thank you for your superb review - we appreciate you!",
+      "replyDate": "2025-01-13T03:26:07.289Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=e98b2051-4e9d-4667-acc0-8610cf58fe5a"
+    },
+    {
+      "date": "2025-01-12T17:49:09.213Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "richie perryman",
+      "text": "just getting started",
+      "reply": "Hi Richie! Welcome to SimplyWise - we're so glad to have you here! Please reconsider your rating! These reviews helps us tremendously here on the Google Play Store. If you need any help along the way, you can connect with our Support Team at https://www.simplywise.com/support",
+      "replyDate": "2025-01-13T03:25:43.724Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=625bdb59-a4de-476c-9423-c032d2d0e9f0"
+    },
+    {
+      "date": "2025-01-12T10:16:38.626Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Antonio White 1538",
+      "text": "Very reliable app to scan your receipts to see how much you are spending each and everyday, week and year",
+      "reply": "Thank you, Antonio! We would agree that tracking definitely helps keep a great pulse on spending on a regular basis. So glad we can help!",
+      "replyDate": "2025-01-13T03:24:39.392Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=5ca7f79b-6ab8-4129-92fa-2aac100d7bff"
+    },
+    {
+      "date": "2025-01-11T21:59:04.589Z",
+      "score": 3,
+      "thumbsUp": 1,
+      "user": "Matt Erickson",
+      "text": "I like the app, and it has great accuracy from scanning receipts. But I'm trying to use this for personal use and I think their target audience is a small business. I just can't justify the cost for myself.",
+      "reply": "HI Matt! We have a variety of plans available to meet a variety of needs. We have a free limited plan, a personal plan, a business plan, and a teams plan. To see the plans and their features, please visit us at www.simplywise.com. If you need additional help, our Support Team is always available at https://www.simplywise.com/support",
+      "replyDate": "2025-01-12T08:49:44.485Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=79e98bfb-06b4-4728-9927-979db42791da"
+    },
+    {
+      "date": "2025-01-11T20:33:50.633Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Leegerem Advance Esthetic Techniques",
+      "text": "I really appreciate this app, help. Takes lest than a minute to take the picture of my receipt and save it in to the exact date and time printed.. amazing 👏",
+      "reply": "Thank you for your stellar 5-star review! So happy to hear it's serving you and your business well!",
+      "replyDate": "2025-01-12T08:50:23.566Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=2549a393-abae-4373-86c1-f383b56fe5fd"
+    },
+    {
+      "date": "2025-01-11T20:23:37.109Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "javierp2089",
+      "text": "Super good app",
+      "reply": "Appreciate you, Javier! You have made our day with your awesome 5-star review!",
+      "replyDate": "2025-01-12T08:50:49.564Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=2daf742f-5593-4620-8694-9a62cd8a2e26"
+    },
+    {
+      "date": "2025-01-11T19:25:07.215Z",
+      "score": 4,
+      "thumbsUp": 10,
+      "user": "Tommy Vukovic",
+      "text": "I love this app. it works well for my needs and is pretty straightforward to use. There are some formatting issues on screen from time to time where some things overlap, but doesn't seem to affect the functionality of the app. other issue I notice is sporadic issue with email that I have integrated. sometimes the app just doesn't pick up digital receipts for items that it has before. Otherwise I really like the app. I would definitely recommend.",
+      "reply": "Hi Tommy, thank you for your review and for allowing us to serve your receipt tracking needs. We'd love to look into the issues you mentioned. Would you mind reaching out to our Support Team so we can address them? We can be reached at https://www.simplywise.com/support",
+      "replyDate": "2025-01-12T08:52:01.923Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=009ffe90-0cf3-4652-922f-d2ea692ebab5"
+    },
+    {
+      "date": "2025-01-11T17:30:40.112Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Andrew Harvey",
+      "text": "Easy to use and easy to send reports to my accountant. I sent mine up to email her a report every month so I don't even need to think about it",
+      "reply": "Hi Andrew! This is the best review ever because we know when accounting processes run smoothly, it's worth its weight in gold.",
+      "replyDate": "2025-01-12T08:53:19.890Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=4ce2d59e-2721-45c8-b1be-0988e36e7520"
+    },
+    {
+      "date": "2025-01-11T11:54:11.931Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Sean Harkins",
+      "text": "great app",
+      "reply": "Thank you, Sean! We think you're pretty great, too!",
+      "replyDate": "2025-01-12T08:55:38.127Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=40e4cad0-2c8d-4f6c-8bce-770f9ed0bdfb"
+    },
+    {
+      "date": "2025-01-11T03:42:58.588Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "LeNolon Edge",
+      "text": "works great! very convenient!!!",
+      "reply": "Thank you LeNolon! So happy to help with your receipt tracking needs!",
+      "replyDate": "2025-01-12T08:56:57.371Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=ac2cd0fe-9ad0-4df8-96d8-a3fd1579f5d2"
+    },
+    {
+      "date": "2025-01-11T00:39:39.125Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "H M",
+      "text": "amazing app. keeps me organized on a daily basis!",
+      "reply": "This is music to our ears - thank you for letting us know!",
+      "replyDate": "2025-01-12T08:57:19.959Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=79052d5b-dfe1-4bde-ab82-cda3dc561fb1"
+    },
+    {
+      "date": "2025-01-11T00:18:59.385Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Michael Biesiada",
+      "text": "excellent way to track expenses accurately",
+      "reply": "Hi Michael! Thank you for your stellar review - we really appreciate you!",
+      "replyDate": "2025-01-12T08:57:40.737Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=1bdebbbf-aa44-4225-90d9-64b9917c7900"
+    },
+    {
+      "date": "2025-01-10T21:27:57.719Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Rrado Barakane",
+      "text": "it's Awesome!!!!",
+      "reply": "Thank you, Rrado! We're think you're pretty awesome, too!",
+      "replyDate": "2025-01-12T08:58:11.566Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=7f1e30fb-0b98-4a27-90f3-ca8d226ca889"
+    },
+    {
+      "date": "2025-01-10T19:57:44.949Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Ross Rodriguez",
+      "text": "very satisfied",
+      "reply": "HI Ross, so pleased to hear you're super satisfied - this makes us smile ear to ear!",
+      "replyDate": "2025-01-12T08:58:30.935Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=e49401d5-31ec-472e-9bfe-7b398aa357af"
+    },
+    {
+      "date": "2025-01-10T17:33:18.318Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "John Weathersby",
+      "text": "very well worth the time and money. it just works. Great job developing a simple, intuitive, valuable app.",
+      "reply": "Thank you, John! We appreciate your wonderful 5-star review and couldn't be happier knowing how pleased you are with your SimplyWise app!",
+      "replyDate": "2025-01-12T08:59:06.290Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=a625ee1c-a5ac-4d0b-abf3-bd5ab3a19788"
+    },
+    {
+      "date": "2025-01-10T17:18:43.368Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Derek Shaffer",
+      "text": "Does a really impressive job of deciphering receipts. great tool, worth the price of you're diligent about tracking expenditures.",
+      "reply": "Thank you, Derek! So happy to hear it's serving you so well!",
+      "replyDate": "2025-01-12T08:59:28.810Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=642cbb9a-dfca-4d03-8ace-b87d8cf976cf"
+    },
+    {
+      "date": "2025-01-10T17:16:20.324Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Brian Garrett",
+      "text": "easy to use and excellent at tracking receipts.",
+      "reply": "HI Brian! Thank you for your review! We'd love to know how we could earn that 5th star to ensure you're fully satisfied! If we can do anything to help, please connect with our Support Team at https://www.simplywise.com/support",
+      "replyDate": "2025-01-12T09:00:14.524Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=c0fe9534-89b2-4883-aa21-604e57359b87"
+    },
+    {
+      "date": "2025-01-10T16:17:05.831Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Roger Miller",
+      "text": "Fantastic product and exceptional support.",
+      "reply": "Hi Roger! You've made our day today - we thank you kindly!",
+      "replyDate": "2025-01-12T09:00:33.776Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=cf1c42f6-f245-4c5d-903c-bf285b75fd83"
+    },
+    {
+      "date": "2025-01-10T15:53:08.333Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "jhon white",
+      "text": "one of the best apps on the market",
+      "reply": "WOW! What an awesome review, Jhon! Thank you kindly!!",
+      "replyDate": "2025-01-12T09:00:53.800Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=c1c8bf71-1fc9-4954-b0eb-65fa0cff53bc"
+    },
+    {
+      "date": "2025-01-10T15:17:28.749Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Kimberly Carter",
+      "text": "just what I needed to keep track of receipts for taxes. Great app!",
+      "reply": "Thank you, Kimberly! So happy to hear it's serving you well and making tax time a breeze!",
+      "replyDate": "2025-01-12T09:01:28.905Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=ea4981d6-ad35-4b60-9eab-185e3e863e2f"
+    },
+    {
+      "date": "2025-01-10T14:27:44.203Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Lou Fabre",
+      "text": "Great app.",
+      "reply": "Hi Lou! Thank you for your awesome 5-star review - we appreciate you!",
+      "replyDate": "2025-01-12T09:01:50.868Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=dc6d0945-982e-4c14-8c98-c569c8b77049"
+    },
+    {
+      "date": "2025-01-10T14:13:46.172Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Jonthan Suliveras",
+      "text": "sweet savings",
+      "reply": "Thank you, Jonathan! You have made our day!",
+      "replyDate": "2025-01-12T09:02:06.520Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=44758787-3bfb-41a7-8e32-7741abfb4017"
+    },
+    {
+      "date": "2025-01-10T05:23:53.784Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "DL Hutchinson",
+      "text": "Great way to track receipts and see where your money is going!",
+      "reply": "We love knowing we're able to help you keep track of your expenses in such detail! This is super helpful for both short term and long terms goals and we're honored to help!",
+      "replyDate": "2025-01-12T09:03:46.103Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=05521b41-6878-4acc-bcb5-ed740c255f46"
+    },
+    {
+      "date": "2025-01-10T04:56:15.521Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Clifford Mcclinic",
+      "text": "Great app for tracking receipts",
+      "reply": "Thank you for your stellar review - we appreciate you!!",
+      "replyDate": "2025-01-12T09:04:04.820Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=ae1615f6-5887-477f-910e-96ce4f99b2d7"
+    },
+    {
+      "date": "2025-01-10T02:25:03.957Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Warm the Heart of Winter",
+      "text": "I love this app so easy to use. reports are also awesome. worth every penny!",
+      "reply": "Thank you for your awesome review - you are making our team smile ear to ear!",
+      "replyDate": "2025-01-12T09:03:06.569Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=9bf96c86-d001-4c7e-abc9-3a517b986746"
+    },
+    {
+      "date": "2025-01-10T00:37:40.239Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Reva Huey",
+      "text": "Love it! I've been using it for 2 years. It is awesome for keeping up with receipts!",
+      "reply": "Hi Reva, so thankful to serve your receipt tracking needs for the past 2 years! Here's to many more!",
+      "replyDate": "2025-01-12T09:02:40.544Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=fcebf546-46a4-4723-a486-0c607545e99d"
+    },
+    {
+      "date": "2025-01-06T16:06:28.980Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Christopher Wolcott",
+      "text": "so far so good",
+      "reply": "WooHoo Christopher! You review is must to our ears - thank you for sharing with us!",
+      "replyDate": "2025-01-07T03:39:15.900Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=71731663-3e4f-4bd4-9a4b-77e015dd118a"
+    },
+    {
+      "date": "2024-12-28T08:24:20.991Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Shamim Riaj",
+      "text": "So far I think this app is very user friendly and easy to use. Highly recommend!",
+      "reply": "Thank you, Shamim! We really appreciate you taking the time to share your stellar 5-star review with us!!",
+      "replyDate": "2024-12-29T05:04:21.809Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=51e97dc7-c11b-4a7a-9488-ca061a105cc1"
+    },
+    {
+      "date": "2024-12-22T02:56:57.400Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Robin Johnson",
+      "text": "Wow this is too easy.",
+      "reply": "Thanks, Robin! We aim to keep it super user friendly and easy to use!",
+      "replyDate": "2024-12-23T22:54:56.814Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=80ad3f1b-afa2-4278-9b06-7c0ad7b34d15"
+    },
+    {
+      "date": "2024-12-14T02:19:00.896Z",
+      "score": 3,
+      "thumbsUp": 40,
+      "user": "Dominique M",
+      "text": "The app works well but it has some hangups. It doesn't do well scanning long receipts and will miss about half of the line items or mistake a coupon line as a purchased item, so I had to enter a lot of it by hand, which defeats the purpose of the scanner. It is not free and kind of expensive IMO. You get 250 saves, and then you have to subscribe to the personal plan for $29.99/yr or the business plan (which offers more features) for $89.99/yr. It's not bad but could be better for the price point",
+      "reply": "Hi Dominique! Thank you for your feedback. To ensure the best functionality of the app, you'll want to update to the latest version. If you're hitting any bugs along the way, please connect with our Support Team and we'll be happy to help! Support Link: https://www.simplywise.com/support. We also do offer the free limited plan, as well!",
+      "replyDate": "2024-12-16T00:14:33.352Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=d43f5576-a54d-40c8-b925-1106a6f28dba"
+    },
+    {
+      "date": "2024-12-12T06:21:43.485Z",
+      "score": 3,
+      "thumbsUp": 3,
+      "user": "Haley Schwant",
+      "text": "So I've just started and setting up the app and below start trial it says start 7 day free trial, then I can toggle the switch to yearly or weekly. It says the weekly is $4.99 a week (Which would be $259.48 a year) and then the yearly states it's $89.99 the says cancel anytime. So is this not a free app to use? Because on the reviews I seen someone had used the free version for 5 months, why am I offered a 7 day free trial? Should I just delete it now?",
+      "reply": "Hi Haley! We absolutely do have a free limited plan! To access, you'll want to cancel the trial you've tapped into since the trials are part of the paid plans. If you need help, please connect with our Support Team at https://www.simplywise.com/support. Please also reconsider your rating as this helps us immensely - thank you!",
+      "replyDate": "2024-12-13T14:12:14.431Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=00bc92ec-91c8-45ab-99bd-e970e95f06c2"
+    },
+    {
+      "date": "2024-12-11T17:09:58.765Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Forest Gump",
+      "text": "What a great app, it helps a lot.",
+      "reply": "So happy to hear your SimplyWise app is serving you so well - this makes our day!",
+      "replyDate": "2024-12-12T05:11:50.445Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=bb680c48-fd16-4ff4-ac9a-d193ad919f0e"
+    },
+    {
+      "date": "2024-12-08T02:23:38.617Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "D McDaniel (cattleman59)",
+      "text": "I like the app but was offered a annual account at a much lower rate. When I tried to update it would not complete the transaction. Also tried to update in the Play store and had the same result. Need to know how to update.",
+      "reply": "Hi there, we're happy to help! Please connect with our Support Team at your convenience by submitting a message here: https://www.simplywise.com/support",
+      "replyDate": "2024-12-08T03:16:36.568Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=ac875f0a-8e70-4215-956b-ce369b612d63"
+    },
+    {
+      "date": "2024-12-07T20:55:22.511Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "David L Beckham",
+      "text": "I liked keeping track of my spending with thos app.",
+      "reply": "HI David! Thank you for the great review - we appreciate you and we hope you stick around for a while so we have the privilege of helping you digitizing and organizing your receipts.",
+      "replyDate": "2024-12-08T03:15:28.993Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=33382273-afe8-489d-9456-929244e16a4f"
+    },
+    {
+      "date": "2024-12-04T13:37:55.577Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "AB Construction Berg",
+      "text": "very handy 👌",
+      "reply": "Thank you kindly - so happy to hear your SimplyWise app is helping you digitize and track receipts! This can be cumbersome at times, and we're happy to help do the lift!",
+      "replyDate": "2024-12-04T21:14:04.690Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=dd239ac1-b478-4b67-ad1e-eb78671ad30d"
+    },
+    {
+      "date": "2024-12-03T20:33:44.604Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Wade McNair",
+      "text": "Easy setup and first few uses. Integration with email and QuickBooks is a huge upside.",
+      "reply": "Thank you, Wade! We appreciate the stellar feedback - so glad it's serving you well!",
+      "replyDate": "2024-12-04T21:17:03.285Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=3116e773-8134-4b3d-8d35-ac0187674960"
+    },
+    {
+      "date": "2024-12-03T19:27:37.750Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Brian Soliwoda",
+      "text": "They make it almost impossible to cancel the subscription! I used the app for one week but have paid so much money simply because I can't figure out how to delete the app! DO NOT DOWNLOAD UNLESS YOU ARE FULLY BUDGETING FOR THIS APP",
+      "reply": "Hi Brian - no secrets here! We aim to be honest and available to help. The cancellation process depends on the method of payment. If you need assistance, please connect with our Support Team, and we'll be happy to help! Link for Support: https://www.simplywise.com/support",
+      "replyDate": "2024-12-04T21:16:36.851Z",
+      "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile&reviewId=ac3dc29a-de43-4930-bab0-376400c8d7e4"
+    }
+  ]
+}

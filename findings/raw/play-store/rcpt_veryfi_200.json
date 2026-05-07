@@ -1,0 +1,2008 @@
+{
+  "app": "com.iqboxyinc.iqboxy",
+  "country": "us",
+  "total_pulled": 200,
+  "total_after_filter": 200,
+  "reviews": [
+    {
+      "date": "2025-12-22T02:35:28.642Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Ed Boughton",
+      "text": "scans well, captures everything, but developers are too stupid to let you use it. can't get any report to work. says no docs selected",
+      "reply": "Hi Ed! We want to understand your experience. Mind emailing us at support@veryfi.com? We can assist you via email. Thanks in advance!",
+      "replyDate": "2026-01-09T18:12:21.350Z",
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=5f8abaa7-2881-4126-a796-c2841e161dd5"
+    },
+    {
+      "date": "2025-10-26T17:25:45.531Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Leebo M",
+      "text": "requires an account to use",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=6c62a063-9ef7-4684-a5ff-3295365adc9c"
+    },
+    {
+      "date": "2025-08-24T10:20:40.809Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Mikhail Makarov",
+      "text": "One of the few apps that offers OCR recognition of individual items in receipts. Everything works very well, although occasional errors still require manual correction. Fortunately, this is easy to do through the website.",
+      "reply": "Mikhail, thank you for your thoughtful feedback! We’re glad you’re finding the line-item OCR useful. Our team is always working to improve accuracy so manual edits become less and less necessary over time. We really appreciate you using the app and sharing your experience—it helps us keep making it better.",
+      "replyDate": "2025-08-25T14:10:50.672Z",
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=ccd08c66-0742-4fab-9579-9c532e298d90"
+    },
+    {
+      "date": "2025-06-01T03:38:22.398Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Scott Hawken",
+      "text": "expensive and not viable for personal use",
+      "reply": "Hi Scott! It appears there may be some confusion regarding our products: the OCR API and Expense Management. We would be happy to clarify these for you and demonstrate how beneficial our Expense App can be for both personal and business use. Please don't hesitate to reach out to us at support@veryfi.com for assistance. Best wishes!",
+      "replyDate": "2025-06-02T18:00:01.203Z",
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=1c6b0497-fad4-4ad6-9fd3-04479394ee0f"
+    },
+    {
+      "date": "2025-05-08T11:56:53.906Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Sarbjit Singh",
+      "text": "it's very good at OCR. better than everything I've tried and I did try everything. every big name app and none of them come close to veryfi performance. a bit more work on the front end UI and it's gonna look great",
+      "reply": "Sarbjit, thank you so much for the fantastic feedback! We're thrilled to hear that Veryfi’s OCR performance stood out after all your testing — that means a lot to us. We hear you on the front-end UI and are actively working on improvements to make the experience as smooth as possible. Stay tuned, and thanks again for being part of the journey!",
+      "replyDate": "2025-05-09T18:38:09.432Z",
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=05431b50-aa3d-4509-b7c7-7aefcc93e93b"
+    },
+    {
+      "date": "2024-12-15T18:39:15.206Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Eli Szus",
+      "text": "While creating an account I entered a first name, email and pw, and I pressed sign up a few times. No error messages or explanations of any sort until I now just get \"You have been rate limited\". It's too bad. I was actually interested in trying your app, but your sign up page is horribly broken.",
+      "reply": "Hi Eli,\n\nWe would love to hear more about your experience with our app and better understand the message you received. Please email us at support@veryfi.com. It's interesting as we do not \"rate limit\" anything, so we wonder if you are confusing us with a different app. Thanks!",
+      "replyDate": "2024-12-19T14:06:45.264Z",
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=a7e2c2de-b0f1-4c7e-8af5-b99c6fa8bee6"
+    },
+    {
+      "date": "2024-10-30T17:29:24.717Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Karina Z",
+      "text": "Appreciate how easy it is to try the app - create and delete the account. I am looking for an app like this for personal use that also captures individual receipt items. If that feature is added I would love to give it another try.",
+      "reply": "Hi Karina! Our Expense Management app is perfect for personal use. With a paid subscription, you can create up to three profiles, allowing you to easily separate personal and business expenses if needed. Feel free to sign up for a free trial, and don't hesitate to email us at support@veryfi.com if you have any questions.",
+      "replyDate": "2024-11-05T20:27:08.748Z",
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=81644dad-5a97-4433-a583-271238a7057b"
+    },
+    {
+      "date": "2024-10-22T21:28:36.499Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Dirty Red",
+      "text": "H&R Block & Modernized Tax Auditor Regulator",
+      "reply": "Thank you so much for your encouraging star ratings!",
+      "replyDate": "2024-10-23T22:10:01.777Z",
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=e76aba70-3dcb-42fa-8026-1245b22fe401"
+    },
+    {
+      "date": "2024-10-08T17:33:42.278Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "J. Mark Rauf",
+      "text": "Very fast importing receipts and documents, thorough data population, and incredibly accurate and smart AI capabilities. I would definitely give the free trial a go, that's how I started.",
+      "reply": "Thank you, Mark! We're glad to hear that the app has been helpful to you.",
+      "replyDate": "2024-10-08T21:23:32.564Z",
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=36788c87-dfe3-427e-81a3-18bc76258c8c"
+    },
+    {
+      "date": "2024-04-10T13:02:13.237Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "Christie Thompson",
+      "text": "I am extremely pleased with the easy userface and the free trial and free months of PRIME that they offer. I will definitely use veryfi from now on for my receipts and small business bookkeeping",
+      "reply": "Thank you for the positive review, Cristie! We're thrilled to hear that you're satisfied with our services. We continually work to improve our services, so your feedback is greatly appreciated.",
+      "replyDate": "2024-04-18T17:12:27.773Z",
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=e6e4a17f-6634-4b81-898b-713daf88d3a9"
+    },
+    {
+      "date": "2024-03-17T18:44:04.254Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Vinko Ražman",
+      "text": "I create a account paid for premium by mistake I delete the account then I create same account with same email phone a d company now I am on trial version hawe can I get my account back with premium wersion. One mistake kost me from premium to trail wersio . If you want try on trial wersion tel you are satisfy then order wey too much $$$.$$",
+      "reply": "Hi Vinko, We're sorry to hear you deleted your account with the active membership. Feel free to contact support@veryfi.com; we'd be happy to help you get things sorted out.",
+      "replyDate": "2024-03-28T22:15:49.748Z",
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=2642c136-8eaa-4755-89b6-41631283948d"
+    },
+    {
+      "date": "2024-02-17T23:42:23.635Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "George D",
+      "text": "Cannot download receipts on free version",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=914fbb76-a424-4af7-8a77-58ac5b8cf475"
+    },
+    {
+      "date": "2024-02-17T02:57:23.417Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Leon “Da Og Mac” Vinci",
+      "text": "Boo",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=cf782493-31f7-4eb5-87e0-b495cb860309"
+    },
+    {
+      "date": "2024-02-08T21:20:49.461Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "FINANCIAL CONSULTANT",
+      "text": "YRME BB Worldwide",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=2f7706aa-5311-4c77-b0fa-d85605c39ea9"
+    },
+    {
+      "date": "2024-01-24T21:22:00.402Z",
+      "score": 2,
+      "thumbsUp": 2,
+      "user": "Rob -",
+      "text": "Latest update keeps crashing randomly when opening the app. On the occasions it doesn't crash, scanning a receipt crashes. The app also takes much longer to load than previously. Have used this app for years. Please fix this.",
+      "reply": "Hello Rob, we apologize for the problems you're facing with the app on your device. It appears to be an issue with the app version, and our team is currently investigating it. Please feel free to reach out to us at support@veryfi.com if you need any assistance. We would be glad to help you and keep you informed as soon as these issues are resolved.",
+      "replyDate": "2024-01-25T00:00:15.629Z",
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=7a581aad-6c6f-46dd-80ca-092f223cbc0c"
+    },
+    {
+      "date": "2023-12-29T05:05:44.793Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Bob Lawther",
+      "text": "The app works well & is easy to use on its face. My problems with Veryfi is that there is absolutely no customer service at all. There is no phone number to call, and they have not answered 3 different emails relative to the ability and failure to intergrate or sync with Xero Accounting. So, without this integration, this app is useless to me.",
+      "reply": "Hi Bob, We're sorry to hear you had a bad experience with our customer support. I can see that all your emails were answered. Perhaps they went to your spam folder, and that's why you missed them. Please add support@veryfi.com to your contacts so you don't miss our emails moving forward. Feel free to email us anytime! We're always happy to help.",
+      "replyDate": "2024-01-25T13:43:51.948Z",
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=7f6454f2-49ca-4ea5-b5da-7264a49c6e40"
+    },
+    {
+      "date": "2023-12-01T06:20:05.141Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Craig Neitz",
+      "text": "Cant even sign up. Says I've been rate limited, whatever the f^@k that means. Also, the link to the privacy policy is dead. I can only imagine how bad the functionality of it would be if they cant even create a working hyperlink....",
+      "reply": "Hi Craig, we are sorry to hear that you had a bad experience with the app. If you have any technical difficulties or questions, please reach out to us at support@veryfi.com. We are always happy to assist you. Here is the link to our Privacy Policy for your convenience: https://faq.veryfi.com/en/articles/6333657-terms-of-service",
+      "replyDate": "2024-01-30T18:22:45.670Z",
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=918b55e9-fe48-4dc8-9079-676eab744675"
+    },
+    {
+      "date": "2023-10-12T23:00:29.140Z",
+      "score": 3,
+      "thumbsUp": 2,
+      "user": "Sancho Witfurrows",
+      "text": "OCR works Ok, many preconfigured categories , not sure how to delete. Document view is Ok, but very slow, i.e. category change takes 10..15 sec to open list. Also it takes 2..3 sec to close document and return to category/doc list. Needs performance improvements. Also email says about 14 days trial instead of the free plan, its confusing.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=139e0280-d611-4abc-a368-3ff6107b2d9e"
+    },
+    {
+      "date": "2023-09-24T17:52:30.749Z",
+      "score": 1,
+      "thumbsUp": 2,
+      "user": "Jurca W. Alexandru",
+      "text": "Another \"free trial\" with a monthly subscription. The app would be great if it was free",
+      "reply": "Hi Jurca,\n\nThank you for your feedback. Our app gives you the option to use it on a free plan after the trial period ends. Please reach out to support@veryfi.com to learn more about our free plan.\n\n",
+      "replyDate": "2023-10-13T23:31:24.550Z",
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=fcf96635-efa4-48f2-a9f6-dff35ba044b6"
+    },
+    {
+      "date": "2023-09-07T06:16:44.935Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Lou-Ann Theunissen",
+      "text": "The App is easy to use, however to speak to someone in sales about your options is proving a challenge.",
+      "reply": "Hi Lou-Ann, We're glad to hear you are finding the app helpful! If you have any questions about our services, please reach us at support@veryfi.com.",
+      "replyDate": "2024-01-30T18:24:49.504Z",
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=ef519eff-d6df-4365-8e63-5912d23e9ba8"
+    },
+    {
+      "date": "2023-08-05T15:29:05.577Z",
+      "score": 4,
+      "thumbsUp": 4,
+      "user": "Nicole Jiang",
+      "text": "I tried several receipt scan apps, this one works the best. The scan is fast and accurate most of the time. Best part is it captures the line item details. There are areas for improvement, for example it doesn't recognize credits or returns if the \"-\" sign is at the right side of the number, also it does not allow the Document Date (receipt date) to be more than 10 years old. I tried to scan some very old receipts, it always defaults to current date. Need a support chanel to report defects.",
+      "reply": "Hi Nicole, thank you so much for providing your feedback. The date limitation in our system is 15 years back from today’s date for the document date. If you could reach out to us at support@veryfi.com we would like to learn more about the documents you processed with negative values that weren't recognized.\nVeryfi team",
+      "replyDate": "2023-08-11T22:21:37.943Z",
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=1ee4482c-2a40-4241-ae23-5710b4a58e01"
+    },
+    {
+      "date": "2023-08-04T00:02:30.748Z",
+      "score": 2,
+      "thumbsUp": 4,
+      "user": "Daniel R Hope (M0b1us)",
+      "text": "Crashes frequently! I have the Pixel 7 Pro, and even without other stuff running in the background, this app can't wait to crash on the next random thing I do such as ending fields of various types. Sometimes the entire app crashes, other times it crashes back to the receipt listing. It looks like it could be good otherwise, but I can't explore with it if all it wants to do is crash.",
+      "reply": "Update Aug-15-23: A fixed version has been released.\nHi Daniel, We apologize for the issues you're experiencing with the app on your device. Our team has identified the issue, which only affects Google Pixel devices, and should have it fixed in a day or two. If you could reach out to us at support@veryfi.com we would be happy to help.\nVeryfi Team",
+      "replyDate": "2023-08-15T19:16:45.469Z",
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=c253feed-2a57-40cd-b959-ff195dc8044a"
+    },
+    {
+      "date": "2023-05-17T18:00:12.628Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Juan Baptiste",
+      "text": "I have not been able to sign up because when selecting to sign up with a Google account the app says I need to update google services, but my phone is up to date! UPDATE 17 May 2023: Developer says the problem has been fixed with latest update but it isn't. After updating I still can't sign up.",
+      "reply": "Hi Juan, Helen here from Veryfi team. We apologize for the inconvenience you experienced while trying to sign up with your Google account. This issue has been addressed and fixed. Please update your app to the latest version. If you have any further questions or face any other difficulties, please feel free to reach out to us at support@veryfi.com",
+      "replyDate": "2023-05-16T23:25:44.236Z",
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=5ae96e72-c621-419e-9c15-2654ac1fd587"
+    },
+    {
+      "date": "2023-05-16T02:49:01.555Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "Neo Dallmeyer",
+      "text": "I see others have been having the same issue as me. For some reason when I try to make an account, it doesn't load or acknowledge my inputs, so I went to creating an account with Google. Well that gives me the message \"please update Google play services\" which I already have done. I've seen other critical reviews on this app and decided to use another which has been more user friendly and more \"accessable\" if that's the proper word.",
+      "reply": "Hi Neo,\nWe sincerely apologize for the difficulties you experienced signing up. All sign-up-related issues have been fixed in the new versions. If you decide to give us a second chance, you will be able to explore all the features our Expense Management app has to offer.\nVeryfi Team",
+      "replyDate": "2023-08-15T22:20:18.346Z",
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=d2f511b9-d109-49a8-a005-14fcdc767b95"
+    },
+    {
+      "date": "2023-05-10T14:18:10.638Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Suraj Prakash",
+      "text": "Unable to sign up. Wow.",
+      "reply": "Hi Suraj, Helen here from Veryfi team. We apologize for the inconvenience you experienced while trying to sign up with Google account. This issue has been addressed and fixed. Please update your app to the latest version 2.6.4. Please reach out to us at support@veryfi.com if the issue persists.",
+      "replyDate": "2023-05-16T23:27:53.768Z",
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=3046dc12-08b0-4c24-8d42-43c9f14706e6"
+    },
+    {
+      "date": "2023-05-01T23:04:14.490Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Slava L",
+      "text": "App wont start, says update google services, update is done ---> wasted a bunch of my time, installed a useless update",
+      "reply": "Hi there, Helen here from Veryfi team. We apologize for the inconvenience and poor experience with Veryfi Expense app. If you still experience difficulties with starting Veryfi Expense app, please reach out to us at support@veryfi.com, we will be happy to help.",
+      "replyDate": "2023-05-16T23:31:16.523Z",
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=f8816608-07e7-44d6-abf5-fc360e0371f4"
+    },
+    {
+      "date": "2023-04-21T18:15:35.960Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Ondrej Byrtus",
+      "text": "Doesnt even start without account",
+      "reply": "Hi Ondrej, by creating an account, users can unlock the full potential of expense software and enjoy a more personalized, secure, and efficient experience for managing their expenses. If you have any questions or have any trouble signing up, please reach out to support@veryfi.com",
+      "replyDate": "2023-05-17T00:07:00.528Z",
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=f4ab1844-d0bf-4055-a1b1-227f092f2fa2"
+    },
+    {
+      "date": "2023-04-11T18:28:12.827Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Amanda Penton",
+      "text": "Best yet! So easy.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=fc4cec46-e3e6-4c5f-96fb-f1ed59abe988"
+    },
+    {
+      "date": "2023-03-01T11:04:18.150Z",
+      "score": 5,
+      "thumbsUp": 3,
+      "user": "Giovanna Cervantes",
+      "text": "After my first stint and from my experience from the different products I tried, Veryfi was the one I felt the most comfortable with as it is quite straightforward to use. Plus the receipt OCR is fantastic eventhough it may have a couple of problems here and there but most of the times it's super accurate and quick.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=68bd30c6-16e7-4d5e-bb0f-182f8fb6bf72"
+    },
+    {
+      "date": "2023-02-21T03:03:07.651Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Louis t",
+      "text": "What one needs",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=a7779b4a-5067-4ec3-ae4d-cb4fef2ec378"
+    },
+    {
+      "date": "2023-02-15T14:21:50.355Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Mindy Longnickel",
+      "text": "Records the wrong information down everytime.",
+      "reply": "Hi Mindy, sorry to hear you have trouble with data extraction. We will be happy to dig into your specific problem and see if there is a solution. Please contact us at support@veryfi.com with screenshots and document samples, we will be happy to review them.",
+      "replyDate": "2023-05-17T00:08:48.622Z",
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=30b2e619-ad03-4321-a238-9884e251f8b1"
+    },
+    {
+      "date": "2023-01-06T23:45:05.254Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Ricardo Salazar",
+      "text": "Crazy good how this app extract info from the invoices. Just the best in its kind!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=0f1b90de-e6e6-4eac-b08a-4584ec059b7a"
+    },
+    {
+      "date": "2022-12-13T13:36:04.525Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "D B",
+      "text": "Great, straight forward",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=b0156b74-9bdd-4de7-af1e-27cbf6d95fe6"
+    },
+    {
+      "date": "2022-09-07T11:25:53.422Z",
+      "score": 5,
+      "thumbsUp": 3,
+      "user": "David Lyons Garcia",
+      "text": "Just the best app I used to manage expenses. It instantly scans, OCR, read totals and taxes in a blink of an eye. Also exports to many formats with any data with no limits or hidden tricks.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=a88ef3d2-d524-45b4-bf54-3f39f3f0558c"
+    },
+    {
+      "date": "2022-08-13T22:29:00.237Z",
+      "score": 4,
+      "thumbsUp": 1,
+      "user": "Desmond D.",
+      "text": "Great app. Simple and whats needed. Also good customer service!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=82afab9f-2901-4558-a8a5-b19c04e2cd56"
+    },
+    {
+      "date": "2022-06-14T14:05:24.536Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "W. Dyer Halpern",
+      "text": "Phenomenal. Saves hundreds of dollars every month.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=cc6cb1a0-a89d-4474-b72e-453c7fbcdcb6"
+    },
+    {
+      "date": "2022-04-25T19:36:16.905Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Ioannis Nestoros",
+      "text": "It's amazing app, working very well, stable and very easy to use.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=e9e72678-fed2-4576-9fc0-d3c119e8a88f"
+    },
+    {
+      "date": "2022-04-21T02:35:55.121Z",
+      "score": 2,
+      "thumbsUp": 1,
+      "user": "Jotham Barmentloo",
+      "text": "How have reviews on this app been cleared? Still having issues with vendors not being added, struggling to add them manually, it not understanding the vendor from the receipt.. particularly Z Belfast, in Christchurch for example. Taking longer than doing it manually at this point.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=de23f648-c3ae-42b2-8813-5d5e4afcef2e"
+    },
+    {
+      "date": "2022-04-13T19:42:17.788Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "S bagheri T",
+      "text": "Great",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=95237d35-6468-4bbb-bb24-04a6719de4e6"
+    },
+    {
+      "date": "2022-04-03T05:06:46.835Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Ramen Arashi Victoria",
+      "text": "Exactly what I was looking for.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=ec54b567-8f36-476f-9f5f-d0b63b749158"
+    },
+    {
+      "date": "2022-03-31T18:14:03.714Z",
+      "score": 2,
+      "thumbsUp": 1,
+      "user": "Riley Yetley",
+      "text": "Works the most similar to what i want, but is glitchy and difficult to use at times.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=9ce60473-8599-4a85-b8a5-429e970bec32"
+    },
+    {
+      "date": "2022-03-24T12:59:34.617Z",
+      "score": 3,
+      "thumbsUp": 1,
+      "user": "Jennie Fauser",
+      "text": "Just got it, so need more exposure",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=defeb546-be01-4cbd-a3bd-04c1af7929f4"
+    },
+    {
+      "date": "2022-03-18T14:23:00.779Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Joel Reissner",
+      "text": "Great App",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=71e6eda8-3a38-4adc-a805-cb855c90e64a"
+    },
+    {
+      "date": "2022-03-14T17:52:00.555Z",
+      "score": 1,
+      "thumbsUp": 3,
+      "user": "Joey",
+      "text": "Does not work as advertised, the QuickBooks integration does not work properly, customer service won't respond, unfortunately I paid for a year in advance otherwise I would cancel.",
+      "reply": "Hello Joey, thank you for your feedback.\nI just sent you a link to schedule a Zoom call to debug the QuickBooks issue you are having.\n- D.",
+      "replyDate": "2022-03-14T18:23:53.881Z",
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=51c4eac3-0564-489d-b333-fe8896c630e4"
+    },
+    {
+      "date": "2022-02-01T14:31:00.840Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "Benjamin Carl",
+      "text": "Amazingly fast scanning. Does wonders on long receipts.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=1c53aebd-5eff-4605-b201-703914b56747"
+    },
+    {
+      "date": "2022-01-17T04:27:39.953Z",
+      "score": 1,
+      "thumbsUp": 3,
+      "user": "Kenneth-Raymond: Cox",
+      "text": "uninstalled... can't tell if the apps any good or not cuz you got to log into something in order to try it... I don't need to do any online sinking of data so what do I need to log into anything for... just seems pretty ridiculous to have to login somewhere in order to track expenses",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=b82bc9b2-5c09-4670-81ba-f986901b8499"
+    },
+    {
+      "date": "2022-01-05T19:01:29.831Z",
+      "score": 5,
+      "thumbsUp": 4,
+      "user": "Kaliko Todd",
+      "text": "Excellent app for tracking business expenses or personal expenses. I would recommend purchasing the monthly subscription for $25 I believe. I scanned literally every seat I have to this app and another which earns me points. At the end of the year I can easily migrate the data from this app to QuickBooks",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=f227f80b-e7e5-4978-ab66-46674da7ea6e"
+    },
+    {
+      "date": "2021-12-28T10:07:30.497Z",
+      "score": 4,
+      "thumbsUp": 4,
+      "user": "Rob Stanley",
+      "text": "Very very fast OCR. Scarily Fast AI. This is like nothing else for capturing and data extraction, making competitors look like toys. The trade off for blistering speed is that sometimes the accuracy suffers. Xero integration is poor as all postings require manual vat editing. However the stand out is the OCR and AI which is so fast and super clever more than compensate, doing much of the heavy lifting for data entry really well.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=af93ff99-7003-4c29-8355-3e38287dab63"
+    },
+    {
+      "date": "2021-12-05T17:35:36.152Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Renee L. Jarvis",
+      "text": "I just purchased a new phone Pixel 6 and I can't get the damn thing to open",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=14faa9df-fcfb-441e-ab9e-4870e9676610"
+    },
+    {
+      "date": "2021-12-02T01:45:40.566Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Ramzi DM",
+      "text": "Pretty slick and great scanning",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=abfb809d-f0cc-4388-a02f-4b67c000f9ab"
+    },
+    {
+      "date": "2021-11-18T04:12:00.520Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Saul Tamariz",
+      "text": "I love this app. It works awesome with our business.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=520c3634-ca57-4620-95f9-2e89b05a8881"
+    },
+    {
+      "date": "2021-10-21T10:02:32.517Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Mike",
+      "text": "It freezes on scanning my first receipt... lmao uninstalled.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=8521728d-742a-4cf1-9a10-d249a457cf0c"
+    },
+    {
+      "date": "2021-10-19T19:00:12.311Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Roger Byrd",
+      "text": "Great",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=88e87bc3-db79-4496-85d4-cd3cf7829ef9"
+    },
+    {
+      "date": "2021-10-11T01:31:53.282Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "Christine Bergman",
+      "text": "Glitchy",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=2db385f3-acb4-43c4-a2d3-136c43c053e4"
+    },
+    {
+      "date": "2021-10-06T18:25:36.149Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Steve LaCrosse",
+      "text": "Great app.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=70d3919b-1206-482f-838a-9cb70bed74c7"
+    },
+    {
+      "date": "2021-09-04T17:26:13.369Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Rod Stoker",
+      "text": "Life and business saving app!!!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=63649760-f6eb-451a-972a-1414a137bd27"
+    },
+    {
+      "date": "2021-08-28T18:07:44.616Z",
+      "score": 5,
+      "thumbsUp": 18,
+      "user": "Michael Sharpe",
+      "text": "Boy I wish I would have did this a year ago when I actually seen the integration to quick books. It's value in savings and automation, is worth way more than it cost by far. Not to mention once I found it, in 2 hours I was able to connect with the premium free trial, and was connected to QuickBooks and running. Then I went to my Outlook online then search for all my invoices then sent them all to their custom email address and the darn thing went through 300 of those invoices line by line",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=09e8db0b-648c-403d-8165-2e0bf131af61"
+    },
+    {
+      "date": "2021-08-10T14:09:10.531Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Baranyi Károly",
+      "text": "More than great scan feature!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=5a47461b-2455-4ff6-a590-26f33c5c7333"
+    },
+    {
+      "date": "2021-07-13T21:40:35.947Z",
+      "score": 1,
+      "thumbsUp": 4,
+      "user": "Vivek Rawat",
+      "text": "Really good application but working very slowly also, as per my opinion, need to work on sharing option. Over all it's really good Thanks",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=18929813-284b-45f2-add7-bee193f3d659"
+    },
+    {
+      "date": "2021-06-14T00:06:44.316Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "Erick",
+      "text": "Photo crop sucks",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=0590d9e4-7056-4b5a-8ff5-d039dc44c1fd"
+    },
+    {
+      "date": "2021-06-08T18:23:23.325Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Tariq Iqbal",
+      "text": "Have not had may report and unable to send mesaage to veryfi",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=942542c3-369e-4ce4-a5ab-d69c19c4dcb2"
+    },
+    {
+      "date": "2021-04-07T22:58:13.841Z",
+      "score": 3,
+      "thumbsUp": 4,
+      "user": "Alisa Alexander",
+      "text": "Allows matching to QB auto bank feed. Beware of caveats: 1.wish they have a way to enter invoice and receipt for the same transaction so receipt entry recognizes its invoice. 2. Scanner doesnt memorize a vendor, filing transactions under multiple similar names for any one vendor, and creating new rogue names in QB. Results are open invoices and payments not matched to projects and innacurate reports. Constantly manually renaming transactions and merge vendors 3. Job cost code is not class",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=489c1ba0-0dcb-4e04-b0bc-89676f0f1250"
+    },
+    {
+      "date": "2021-04-06T02:15:07.781Z",
+      "score": 5,
+      "thumbsUp": 3,
+      "user": "Wing Wong",
+      "text": "This is the best receipt app I ever use even it is not perfect. I wish it could split the payment.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=ebe6c376-7ce1-4dcf-b25f-fa2805b5b455"
+    },
+    {
+      "date": "2021-03-22T14:25:12.517Z",
+      "score": 2,
+      "thumbsUp": 6,
+      "user": "Laura R",
+      "text": "It's a good scanner but wow, they've totally jacked up their rates. From $13/mo last year to $25/mo or $270/year. Looking for an alternative.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=4a3bed92-5c22-40eb-809a-d8746bf1a1dd"
+    },
+    {
+      "date": "2021-03-07T15:08:15.810Z",
+      "score": 5,
+      "thumbsUp": 2,
+      "user": "Marc Schuller",
+      "text": "Amazing so far ..never had a problem yet on the trail version..probably gonna sign up",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=b159d4fc-8f5f-4397-b5a8-6560de0b8796"
+    },
+    {
+      "date": "2021-03-06T13:26:12.200Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Mike Ondrick",
+      "text": "Handy as heck.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=9ad35386-0e58-49d4-84f6-473f92db57ac"
+    },
+    {
+      "date": "2021-02-17T18:52:16.200Z",
+      "score": 5,
+      "thumbsUp": 2,
+      "user": "Jonathan Hosack",
+      "text": "Receipt processing is outstanding and will save us hours of work. The timesheets module would be fine for someone that doesn't need to track time for lots of customers. For us the lack of search functionality for customers and tasks is a deal-breaker. But love love the OCR all.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=68c4ed9b-f072-48db-af12-5801b4a3d5c4"
+    },
+    {
+      "date": "2021-02-09T10:27:28.370Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "Peter hook",
+      "text": "Saves plenty of time, just wish it had an option to upload cost codes on csv format...other than that, beautiful.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=44677b27-1872-4150-b4c6-af89132b36d9"
+    },
+    {
+      "date": "2021-01-31T23:19:14.351Z",
+      "score": 4,
+      "thumbsUp": 3,
+      "user": "JEREMY C BELL",
+      "text": "The ocr of this app is outstanding, so glad my accountant uses this to collect receipts.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=f67e83a5-a631-4b89-8e67-7c0160d80135"
+    },
+    {
+      "date": "2020-12-19T17:23:17.422Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Anthony Mari",
+      "text": "Awesome App",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=a6db6aa8-e5e9-4f22-8aea-d46f7f7cc8d2"
+    },
+    {
+      "date": "2020-12-09T17:43:50.837Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Victor Zeno",
+      "text": "Great way to keep track of receipts",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=10f50eb2-f029-4e17-a560-ae360bc4a4b7"
+    },
+    {
+      "date": "2020-12-07T07:29:07.630Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Lawrencelee Mckillips",
+      "text": "Great",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=e412fb5f-3243-4839-8e15-9ad020c707c5"
+    },
+    {
+      "date": "2020-11-04T16:33:44.267Z",
+      "score": 5,
+      "thumbsUp": 7,
+      "user": "Susan McDonald",
+      "text": "Fab app so far. So easy to snap my receipts and keep track of personal and business spending. Fast and efficient.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=4e5d7923-e45e-4ee2-958a-58db96079d77"
+    },
+    {
+      "date": "2020-10-26T17:45:28.382Z",
+      "score": 5,
+      "thumbsUp": 2,
+      "user": "Jessie B.",
+      "text": "The best app to organize all business receipts. So easy",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=cc3dc567-e960-4d6d-9eb9-2a2a7357ae35"
+    },
+    {
+      "date": "2020-10-20T21:09:01.978Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "MghM",
+      "text": "Love how quick it works",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=47fa6c8b-893e-4e72-a9c1-d8fd1e5a9eb1"
+    },
+    {
+      "date": "2020-09-21T16:10:19.380Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Roger Byrd",
+      "text": "Great tool",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=c0cf844d-5fef-4c85-8c34-6d0227f00d6d"
+    },
+    {
+      "date": "2020-09-19T03:36:39.717Z",
+      "score": 4,
+      "thumbsUp": 2,
+      "user": "TroyChristine Bergman",
+      "text": "Handy app for handling expense reports quickly & remotely",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=ff90a382-3d1b-45f0-af7c-47a0086b5668"
+    },
+    {
+      "date": "2020-09-15T11:52:55.325Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "MG T",
+      "text": "The ocr capabilities of this app is very good.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=d69bc3a8-4e08-48b0-b3b1-75bd9bfcaa6c"
+    },
+    {
+      "date": "2020-09-06T11:26:12.192Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Miss P",
+      "text": "Awsome",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=4f2f121d-537a-44ea-9078-1410528e42a8"
+    },
+    {
+      "date": "2020-08-21T04:37:35.623Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Stacy Benard",
+      "text": "Great for organizing and storing receipts. Syncs to quickbooks seamlessly. The only drawback is you can only scan receipts with the app and have to scan one by one.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=c75f0bfd-0dea-4f1d-b282-8e78821b4a23"
+    },
+    {
+      "date": "2020-08-01T20:49:50.222Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "Grant Andrew",
+      "text": "Easy to use, reliable, as advertised!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=449b215e-0689-4f38-839c-5e16e1234d4f"
+    },
+    {
+      "date": "2020-07-30T02:44:28.492Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Nick Yun",
+      "text": "Good receipt reading accuracy. Others are still testing.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=61bdd875-57d4-4a95-91c5-01d3832b6577"
+    },
+    {
+      "date": "2020-07-23T02:42:59.494Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Joe Juracich",
+      "text": "Very reliable and easy to use.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=20866454-8cd6-478c-82f0-5723e8672cfc"
+    },
+    {
+      "date": "2020-07-20T07:15:45.864Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "corey goding",
+      "text": "Excellent in all respects",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=fb95778f-6eea-467a-b44b-539eed082d70"
+    },
+    {
+      "date": "2020-06-26T17:20:48.520Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Irvin Carmenate",
+      "text": "Good",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=b7d07a8d-ee5c-4ca8-bf14-3d0451ab3708"
+    },
+    {
+      "date": "2020-06-22T15:40:17.573Z",
+      "score": 4,
+      "thumbsUp": 2,
+      "user": "David R Miller",
+      "text": "This is a good app but it does not extract the appropriate credit card from the receipt. Otherwise quite acceptable.",
+      "reply": "Hello David,\nVeryfi does extract credit card information from receipts, this could be a setup issue. Please send us an email to support@veryfi.com and we will help you to resolve it.\n\nThanks!",
+      "replyDate": "2020-06-22T15:55:37.451Z",
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=6a67eb49-69de-4797-a48b-c10d40cda80e"
+    },
+    {
+      "date": "2020-06-20T07:56:22.252Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Paul Long",
+      "text": "I really like the OCR capability, it's already 100% accurate and fast when scanning receipts. Thumbs up.",
+      "reply": "Thank you so much for your review, Paul!",
+      "replyDate": "2020-06-22T15:56:14.904Z",
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=309723fa-3b44-46ec-b7b4-c2fd86e37dbb"
+    },
+    {
+      "date": "2020-06-11T18:38:55.358Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Lakesha Kirkendall",
+      "text": "I like the fact that I can search the receipt I can search by the store or I can search by date. I also like the fact that when I scan a receipt I can put a new to help me remember what it's for and then that note become searchable",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=3e0c020c-9f8e-4e22-bc4d-63bbe768730c"
+    },
+    {
+      "date": "2020-06-10T05:35:15.804Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Kalpesh Prajapati",
+      "text": "Nice app",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=a1458a35-08da-43f0-aa27-e20b2007b50c"
+    },
+    {
+      "date": "2020-05-16T16:09:22.981Z",
+      "score": 2,
+      "thumbsUp": 4,
+      "user": "Maria Ott",
+      "text": "Loved the app, but I kept getting extra charges that I didn't initiate and even though I had paid for a year in advance. I contacted the company about a refund which they granted, but then I was charged twice more afterwards, again from not initiating any products or anything.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=4c0ed8d8-0a45-42f0-b379-263de2203207"
+    },
+    {
+      "date": "2020-05-16T05:17:56.395Z",
+      "score": 2,
+      "thumbsUp": 7,
+      "user": "Mr.D_ C",
+      "text": "Free 14 day trial only has a 50 limit. Which is ok. I paid for the monthly plan ($15/month)....it only gives you 300.. I have already used it all. Had to pay and extra $15 for another 300 uploads. In the end it made an absolute mess of quick books and had to erase all quick books data and re enter everything. I dea is there but needs alot of work. I do not suggest linking it to quick books. I was Ted alot of time and more to come. Also money gone...not happy",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=bd51c0f1-f621-4ac4-9eca-29fde34c0be6"
+    },
+    {
+      "date": "2020-05-14T23:38:23.327Z",
+      "score": 4,
+      "thumbsUp": 1,
+      "user": "Lisa Fraser",
+      "text": "I like it but for what I use it for its expensive. If I had a ton of business expenses in multiple categories it would be worth the cost though and get a 5 star from me.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=5e7caeb4-8bac-41e7-a647-5e47076b5200"
+    },
+    {
+      "date": "2020-04-28T02:24:03.102Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "A Google user",
+      "text": "Sometimes the details have been inaccurate but good enough !",
+      "reply": "Thank you, Satish! There are machine learning models in Veryfi that learn from your edits and it becomes smarter and more accurate over time. Hopefully, soon you will be more comfortable with the 5 stars rating :)\n- Dmitry (founder)",
+      "replyDate": "2018-01-09T23:54:24.379Z",
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=e196f3ab-7020-4685-8255-1b802b859cd9"
+    },
+    {
+      "date": "2020-04-19T14:55:31.589Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "A Google user",
+      "text": "Nice app or poor star count due to camera",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=f8cab060-66c5-4091-bf82-70cc27645692"
+    },
+    {
+      "date": "2020-04-02T16:48:25.588Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "A Google user",
+      "text": "Scans very fast and accurately. Works perfectly for me.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=06ccddb2-d6e2-4d67-a062-510c927ab45e"
+    },
+    {
+      "date": "2020-03-28T07:22:09.748Z",
+      "score": 4,
+      "thumbsUp": 3,
+      "user": "A Google user",
+      "text": "Great app so far have been using for a week. Incredible ability to read scans even if they're blurry. I'd like to be able to create a rule as I am looking at a invoice instead of through settings tab. I have not transferred over to QuickBooks yet. Will continue review after that happens.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=58a5bf08-6ed0-46be-81de-a2343a825592"
+    },
+    {
+      "date": "2020-03-25T17:54:26.379Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "A Google user",
+      "text": "Awsome",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=f0c5c66b-333f-47d5-a2cf-6c1ea641ffca"
+    },
+    {
+      "date": "2020-03-05T14:18:29.713Z",
+      "score": 3,
+      "thumbsUp": 1,
+      "user": "A Google user",
+      "text": "Good program however it disconnects a lot without notice and Technical Support has become somewhat unresponsive. I've been a user for several years and throughout that time I will notice every couple months that the program just disconnect from QuickBooks online and so my receipts are not getting sent over. There's never an error message or notice that says hey you're disconnected. Technical support used to be pretty responsive however the last error I had resulted in a number of ignored email",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=9d42a048-7e57-4edf-86b0-afef988cc3f7"
+    },
+    {
+      "date": "2020-03-03T22:40:00.994Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "A Google user",
+      "text": "My only complaint is that I would like the ability to create projects in the app",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=3382b896-4002-4d99-9d6d-1d708e02ebc7"
+    },
+    {
+      "date": "2020-03-02T02:10:43.900Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "A Google user",
+      "text": "Best invoice recognition software. Very accurate and support easy to use.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=aa5a6d8b-e133-4d38-b12a-0062d006bb96"
+    },
+    {
+      "date": "2020-02-26T00:21:08.821Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "A Google user",
+      "text": "Very good",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=9252a045-5f3f-4956-bc74-deb1eb74f51e"
+    },
+    {
+      "date": "2020-02-05T06:48:36.697Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "A Google user",
+      "text": "Helpful but difficulty in uploading. Also clunky tags.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=e775147c-e221-4424-a46f-a19854c12337"
+    },
+    {
+      "date": "2020-01-29T03:11:29.200Z",
+      "score": 4,
+      "thumbsUp": 15,
+      "user": "A Google user",
+      "text": "We have used this app for the past year. It is great, it reads receipts and categorizes them nicely. The reports are great that you get monthly and it has helped with year-end taxes. However I will not continue as I don't need all its features as I just use for my personal household expenses. So for me the price is not worth continuing.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=ec5f77fb-3d37-4227-b8bd-8e61610c1c71"
+    },
+    {
+      "date": "2020-01-26T19:13:14.136Z",
+      "score": 5,
+      "thumbsUp": 18,
+      "user": "A Google user",
+      "text": "If I knew keeping track of receipts was this easy, I'd have gotten Veryfi long ago. Cloud storage. Yep. Capture emailed receipts. Yep. Integrate with accounting software/download to excep. Yep. Remember my classification for a particular vendor l. Yep. As easy to us as taking a picture/forwarding an email. Yep. Great app. One suggestion. It would be useful to input negative numbers for refunds.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=4e777154-e05b-4592-9794-109988e3cf89"
+    },
+    {
+      "date": "2020-01-22T04:08:47.375Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "A Google user",
+      "text": "Lifesaver!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=c4c37875-d347-42e7-9298-3c57d3575fff"
+    },
+    {
+      "date": "2020-01-14T07:35:50.642Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "A Google user",
+      "text": "Great time saving app! Much more accurate than others available.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=4e9427fb-367e-4980-83c4-80bbe68c5356"
+    },
+    {
+      "date": "2020-01-12T08:50:17.768Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "A Google user",
+      "text": "Best app for every business bookkeeping needs!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=a9bd9412-5afc-46af-99bb-c4d24c14202d"
+    },
+    {
+      "date": "2020-01-10T18:08:31.980Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "A Google user",
+      "text": "Good",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=5f3a0344-6e67-4b96-a5b4-5fd1091c5258"
+    },
+    {
+      "date": "2020-01-10T04:26:02.695Z",
+      "score": 5,
+      "thumbsUp": 9,
+      "user": "A Google user",
+      "text": "Other apps might offer similar features, but this app is all inclusive so that emailed invoices can be emailed to my app/expense records, & categories aren't limited and can be customized and the additional ability to add tags to a transaction is particularly helpful for tracking subcategories. The developers have been helpful in fixing any issues I've had. While it may not be a perfect fit for everyone, it's great for realtors who have hundreds (I have 500ish) of expense receipts to track.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=3ee54e78-a06f-4352-b626-f6cc4d7d24a1"
+    },
+    {
+      "date": "2020-01-08T19:18:50.475Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "A Google user",
+      "text": "Easy, makes my record keeping so much easier",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=5305ed98-8243-440a-beb3-8754c67bb96d"
+    },
+    {
+      "date": "2020-01-02T11:17:14.210Z",
+      "score": 3,
+      "thumbsUp": 3,
+      "user": "A Google user",
+      "text": "So expensive, i was decided to use it but i'm not agree with the price. The camera to scan is not that good, i was using another app to scan",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=7013ba1a-65e8-4396-98ce-5da26bb74059"
+    },
+    {
+      "date": "2020-01-01T09:39:36.881Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "A Google user",
+      "text": "What a fantastic app! So simple to use and it's OCR and categorisation makes the whole process of tracking invoices a breeze. I highly recommend this application to anyone wanting a simple to use and highly featured tracking app.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=10399d75-baa4-4bfc-b347-67b5b7c90e35"
+    },
+    {
+      "date": "2019-12-27T22:51:33.557Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "A Google user",
+      "text": "It is easy to set up all our business accounts on Verfi. We love it!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=2892f14c-b627-4897-8cf5-8f98659600a1"
+    },
+    {
+      "date": "2019-12-27T17:26:31.242Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "A Google user",
+      "text": "We've been enjoying using VeryFi. Great foreign currency receipt support.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=bf4d7c32-8dea-4046-8144-f7d07ebbe52d"
+    },
+    {
+      "date": "2019-12-20T21:01:14.888Z",
+      "score": 5,
+      "thumbsUp": 8,
+      "user": "A Google user",
+      "text": "Best receipt capture app I have found, by far. The OCR recognition is almost always correct. Unfortunately, the plan necessary to get that awesome recognition is too expensive for me. Update : Worth it. I'm a subscriber now. They also have fast customer service and bug fixes.",
+      "reply": "Thank you, Nathan for the lovely rating and feedback!\nThere is a free Starter plan that you can consider if you don't need the fancy reports and external integrations.\n- Dmitry (founder)",
+      "replyDate": "2018-01-09T23:51:47.922Z",
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=b28d3f65-4e40-4362-856e-8b418b2f3cb6"
+    },
+    {
+      "date": "2019-12-20T02:10:56.640Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "A Google user",
+      "text": "😆",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=c560fb1a-3ef8-4e63-8376-0ada9ef86e82"
+    },
+    {
+      "date": "2019-12-19T16:38:03.457Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "A Google user",
+      "text": "Super! It fast reliable and no man handsfree:)",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=8e30e9c8-80fb-4f89-a5a1-bbc1708adcc6"
+    },
+    {
+      "date": "2019-12-18T22:01:09.572Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "A Google user",
+      "text": "Good app!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=c728fb9b-2dab-4940-91f2-36facf431517"
+    },
+    {
+      "date": "2019-12-13T14:12:45.877Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "A Google user",
+      "text": "Easy peasy.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=edfea2fe-6aa4-4895-9bb6-fe5c30a6c800"
+    },
+    {
+      "date": "2019-11-19T15:02:50.231Z",
+      "score": 4,
+      "thumbsUp": 2,
+      "user": "A Google user",
+      "text": "App idea is good however its not accurate especially with some old receipts, the dates are not captured correctly, Vendor is not accurate...the machine need to learn more for accuracy. consult me for more information to make this app more friendly to South Africa and its laws. - This review is from a chartered Accountant.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=b6c65ed3-91bf-4021-801f-0c7bc5993235"
+    },
+    {
+      "date": "2019-11-06T04:24:54.650Z",
+      "score": 5,
+      "thumbsUp": 2,
+      "user": "A Google user",
+      "text": "Good scanner & makes keeping track of receipts a lot easier. Still to discover loads more I hope. After now using Veryfi for over 6 months, I cannot say enough how great a product it has been & continue to learn more & more about the fetures it offers. Its a product going places in my opinion. Thanks Veryfi team.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=73eacc44-be65-47df-b7de-51703ded9676"
+    },
+    {
+      "date": "2019-10-19T21:14:54.726Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "A Google user",
+      "text": "very good",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=c49eda61-5ac1-4aa9-9781-f1db5d0c8e5a"
+    },
+    {
+      "date": "2019-10-16T22:28:40.159Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "A Google user",
+      "text": "Awesome app flawless!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=b3b5c73d-c105-45cb-8c7e-23999071a750"
+    },
+    {
+      "date": "2019-10-11T22:04:58.400Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "A Google user",
+      "text": "Excellent app very easy to use , saves a lot of time so organised just love it I havd have got so much free time for myself now.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=268a2ae7-9620-4eb7-9da8-8449b30a42a8"
+    },
+    {
+      "date": "2019-10-05T09:37:47.444Z",
+      "score": 5,
+      "thumbsUp": 2,
+      "user": "A Google user",
+      "text": "I have an occasional problem with loading , but it's mostly related to internet service , can't blame the app for that , otherwise I really appreciate the ease of staying on top of my receipts , that was always a big hassle that this app mostly solved !",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=3ab0645d-bf80-4ccf-a19e-01d377dde224"
+    },
+    {
+      "date": "2019-10-02T14:24:57.380Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "A Google user",
+      "text": "Makes it a lot easier to keep of track of email receipts. I'm sure it'll get better in future versions, but does what I need for now. Good job!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=ff1a891c-1808-4d42-a42d-b6c57ca50597"
+    },
+    {
+      "date": "2019-10-02T08:59:40.890Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "A Google user",
+      "text": "Great app. Nice and quick. Simplifies receipt snap process.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=522a0a3e-83bb-4c87-8336-96a983a5615d"
+    },
+    {
+      "date": "2019-10-01T20:37:50.687Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "A Google user",
+      "text": "great app very happy , it has incredible line item extraction I haven't seen in any other apps, and I've been trying to find one. the mileage tracking is not the best , and I really wish they would allow qb self employed integration to solve this",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=87e28773-b330-4452-804d-f5e6b1b801d0"
+    },
+    {
+      "date": "2019-09-05T13:15:05.411Z",
+      "score": 3,
+      "thumbsUp": 4,
+      "user": "A Google user",
+      "text": "Appears to have a good ck Capt however the inky thing that puts me off remaining after the 14 day free trial is the fact it doesn't allow mileage logging on the app... I believe this is available for apple users... it shouldn't be any different for android users (which is better)",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=aeeaad5f-5f57-4610-9ad2-673312a71e76"
+    },
+    {
+      "date": "2019-08-20T15:36:56.747Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "A Google user",
+      "text": "outstanding!!! best for the $. demitri rocks as well.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=aa252033-c7ed-4593-8815-3a0798012413"
+    },
+    {
+      "date": "2019-08-16T15:00:12.680Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "A Google user",
+      "text": "not accurate",
+      "reply": "Hey Storm,\nThank you for your feedback! Please reach out to us by emailing to support@veryfi.com. I would love to see what is not working for you, so we can improve your experience and quality of the data extracted.\n\n-Dmitry",
+      "replyDate": "2019-08-16T20:19:56.513Z",
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=6b2f113c-176d-4933-838c-95855b4ea5e8"
+    },
+    {
+      "date": "2019-08-15T00:31:41.328Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "A Google user",
+      "text": "this isn't free at all. it's a two-week trial. when it's over, you can only scan 10 of your receipts a month. the rest don't get recorded. also they take your information and go to quite a few different websites with it. not a good place to be. in short they take your personal information, and make you pay a subscription for it. there are a hundred better offers than this one",
+      "reply": "John, Wow... 10 scans per month is a FREE plan. Subscriptions come with unlimited scans. RE: \"also they take your information and go to quite a few different websites with it.\" --- this is a serious accusation. Plz share where you believe we take the information? We value data privacy and DO NOT share it with anyone. ~ Rusty",
+      "replyDate": "2019-08-15T05:32:01.766Z",
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=ec9bb54f-62c5-464d-9c0e-7386a0b64b0b"
+    },
+    {
+      "date": "2019-07-25T15:30:05.927Z",
+      "score": 5,
+      "thumbsUp": 2,
+      "user": "A Google user",
+      "text": "the most amazing product for any freelancer",
+      "reply": "Thank you so much for your kind support and feedback! Best, Rusty",
+      "replyDate": "2019-08-15T05:33:14.460Z",
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=edbe0a65-d0fb-4fb0-95ba-33be395ea5a7"
+    },
+    {
+      "date": "2019-07-21T03:12:37.950Z",
+      "score": 5,
+      "thumbsUp": 2,
+      "user": "A Google user",
+      "text": "Great app Easy to use",
+      "reply": "🙏 Thank you so much! ~ Ernest",
+      "replyDate": "2019-08-15T05:32:36.436Z",
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=6b9b4521-94ad-4b28-b8d0-a4e3174d80eb"
+    },
+    {
+      "date": "2019-07-20T16:44:45.410Z",
+      "score": 4,
+      "thumbsUp": 7,
+      "user": "A Google user",
+      "text": "great app for tracking and categorizing all your receipts. simple and quick. One gripe related but not related.... Verfi please make the vehicle tracking app \"Verfi Log\" available on not ONLY iOS but also android!!!! Its veryfriggin annoying not to have the feature as I have android and my wife has apple and we have to use two separate apps to track mileage. please please fix this",
+      "reply": "Hey Jason, sorry about that. We don't get enough demand for Logbook on Android. Would have loved to develop it tho. Feel free to use the Web version inside the Hub for free. Reach out to us on support@veryfi.com if you need access to it. ~ Ernest",
+      "replyDate": "2019-08-15T05:35:14.808Z",
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=76ecfdba-805a-44e6-a10c-29b92eea4245"
+    },
+    {
+      "date": "2019-07-19T11:41:56.345Z",
+      "score": 5,
+      "thumbsUp": 2,
+      "user": "A Google user",
+      "text": "lovd this app!!! big time saver with managing your expenses",
+      "reply": "Thank you Sir! 🙏 You rock! ~ Ernest",
+      "replyDate": "2019-08-15T05:35:47.203Z",
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=ee79763a-603d-4517-a92e-92723fce1411"
+    },
+    {
+      "date": "2019-07-16T17:02:07.662Z",
+      "score": 5,
+      "thumbsUp": 2,
+      "user": "A Google user",
+      "text": "finally something that works",
+      "reply": "🙏 Thank u Craig for the support and feedback! ~ Ernest",
+      "replyDate": "2019-08-15T05:36:54.232Z",
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=07a020e8-a19f-44cd-a78f-c8f9725f67c2"
+    },
+    {
+      "date": "2019-07-06T04:39:27.860Z",
+      "score": 1,
+      "thumbsUp": 3,
+      "user": "A Google user",
+      "text": "14 day trial only.....",
+      "reply": "😢 I'm sorry Julie. I'd be happy to look after you for an unlimited scans with line-item extractions. If interested, please reach out to us on support@veryfi.com and mention that Ernest sent you.",
+      "replyDate": "2019-08-15T05:41:23.275Z",
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=faad0a8a-a894-4d36-85e4-05fbb35980cf"
+    },
+    {
+      "date": "2019-07-02T12:09:14.843Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "A Google user",
+      "text": "good app.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=43f5e1ce-9a70-4cdc-8dee-fdda5499567d"
+    },
+    {
+      "date": "2019-06-21T16:17:20.837Z",
+      "score": 3,
+      "thumbsUp": 1,
+      "user": "A Google user",
+      "text": "Not bad, but exporting to QB Desktop 2019 doesn't work for the new QB iif validation. Also, it took more than 3 weeks for support to get back to me about the issue, even though the support system says \"typically replies in an hour.\"",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=5e39ef93-201b-4c09-8897-5ec2d4356a19"
+    },
+    {
+      "date": "2019-06-14T22:45:52.564Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "A Google user",
+      "text": "Extracts all the data from receipts and invoices in 3seconds, 99% accurate and I just signed up for a beta access to automatic Line Items extraction. This is Dope!!! It changed my business.",
+      "reply": "🙏\n👍\n😊",
+      "replyDate": "2019-08-15T05:41:49.255Z",
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=c25da33e-74a7-42e2-ae35-f187e023d57d"
+    },
+    {
+      "date": "2019-05-29T09:32:30.532Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "A Google user",
+      "text": "fantastic and find fable",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=3ee4eccb-76ae-4b6a-ae2c-840cf3bb8108"
+    },
+    {
+      "date": "2019-05-27T06:30:36.655Z",
+      "score": 5,
+      "thumbsUp": 3,
+      "user": "A Google user",
+      "text": "great app for Bookkeeping the go.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=692e0a37-50a2-418a-bf9a-8ed532cddd6e"
+    },
+    {
+      "date": "2019-05-23T23:19:22.125Z",
+      "score": 5,
+      "thumbsUp": 2,
+      "user": "A Google user",
+      "text": "Not sure if I've already rated this. If I have, I wish they'd quit nagging me to do so (seems every app does this nowadays). The OCR is very good, and the android app in conjunction with the web app is outstanding for tracking receipts, exporting to my ancient Quickbooks version, and exporting to my budgeting app.",
+      "reply": "🙏 Thank you so much Rebeccah for leaving a review 😊 ^ Rusty",
+      "replyDate": "2019-08-15T05:43:01.791Z",
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=36c50dce-26ca-45bf-945d-06e297497644"
+    },
+    {
+      "date": "2019-05-18T20:04:15.983Z",
+      "score": 4,
+      "thumbsUp": 1,
+      "user": "A Google user",
+      "text": "good for my expenses",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=35945764-2a9f-4abc-96fd-e3f84960e045"
+    },
+    {
+      "date": "2019-05-12T02:54:16.200Z",
+      "score": 4,
+      "thumbsUp": 3,
+      "user": "A Google user",
+      "text": "so far this app is great, I haven't spent anything on it yet. I wool depending on price. it's extremely helpful and easy to use",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=7bfbc17a-a110-4368-abbf-d19f3fa5063d"
+    },
+    {
+      "date": "2019-05-10T00:50:59.764Z",
+      "score": 3,
+      "thumbsUp": 3,
+      "user": "A Google user",
+      "text": "I like the app, but $15/mo is ridiculous.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=e89c43b4-2b82-46f4-aa9d-f5ef4255df54"
+    },
+    {
+      "date": "2019-05-06T23:03:04.309Z",
+      "score": 4,
+      "thumbsUp": 1,
+      "user": "A Google user",
+      "text": "good while it's free",
+      "reply": "Matt, email support@veryfi.com and tell them Ernest sent you. Got a special price for you for the unlimited subscription with line item extractions.",
+      "replyDate": "2019-08-15T05:46:40.395Z",
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=bca13532-ed9a-4857-b4a8-04fb47ef32ce"
+    },
+    {
+      "date": "2019-04-28T04:18:27.681Z",
+      "score": 5,
+      "thumbsUp": 2,
+      "user": "A Google user",
+      "text": "it is a blessing...my accountant loves that i am getting organized",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=30456f3e-b328-4f33-ac17-f929f6cf1d3e"
+    },
+    {
+      "date": "2019-04-26T07:25:04.900Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "A Google user",
+      "text": "good app",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=d967e4a9-4f2d-466e-b884-f0ccd351ac34"
+    },
+    {
+      "date": "2019-04-19T15:28:42.426Z",
+      "score": 5,
+      "thumbsUp": 2,
+      "user": "A Google user",
+      "text": "makes life just a little easier",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=1575662d-3aef-495f-87fa-151f3089c7a4"
+    },
+    {
+      "date": "2019-04-16T15:36:56.175Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "A Google user",
+      "text": "easy to use works great",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=7157a3b0-03e8-43c1-9f9f-0b50b18dabde"
+    },
+    {
+      "date": "2019-04-13T06:05:34.362Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "A Google user",
+      "text": "Good app so far",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=5cb777a4-80d3-4772-b59a-06382fac5a1d"
+    },
+    {
+      "date": "2019-04-11T22:16:25.827Z",
+      "score": 4,
+      "thumbsUp": 1,
+      "user": "A Google user",
+      "text": "great app for logging receipts",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=7426dc71-2eec-4ef9-a699-536aeee5266a"
+    },
+    {
+      "date": "2019-04-10T17:28:11.817Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "A Google user",
+      "text": "Very convenient",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=22efe0c2-db00-406f-8372-ca5e1472cf6b"
+    },
+    {
+      "date": "2019-04-08T23:19:46.566Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "A Google user",
+      "text": "very fast at uploading and converting information",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=f99ea28a-1f3d-4a3f-bb97-96daad6f9be1"
+    },
+    {
+      "date": "2019-04-04T22:00:49.925Z",
+      "score": 5,
+      "thumbsUp": 2,
+      "user": "A Google user",
+      "text": "Great app! what a time saver.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=9d38cd49-164e-419c-8f08-4c8fdaaaea91"
+    },
+    {
+      "date": "2019-03-28T00:48:21.664Z",
+      "score": 5,
+      "thumbsUp": 2,
+      "user": "A Google user",
+      "text": "awesome app, help stores receipt for tax and warranties",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=40b9c31a-0996-4bcb-b4b2-fa6e901fa827"
+    },
+    {
+      "date": "2019-03-24T00:31:46.240Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "A Google user",
+      "text": "great",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=17e18f9f-2971-413f-870c-16c8c0e4e67b"
+    },
+    {
+      "date": "2019-03-21T01:36:57.739Z",
+      "score": 5,
+      "thumbsUp": 21,
+      "user": "A Google user",
+      "text": "So I have have been using the app for about 4 months.. I am very happy, it does what it claims and it does it well. I came across a bug working late Sunday night and I decided to open up the chat box to log in a report.. a few minutes later a rep got back to me and asked for more info. I immediately got that together and sent it over.. he said \"the engineer is working on it\" I said psst.. yeah right.. well.. less than 72 hrs later I just got an update notification and what do you know, No Bug!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=472c66ab-ec7d-4270-be3e-216a232db6f2"
+    },
+    {
+      "date": "2019-03-19T19:28:11.589Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "A Google user",
+      "text": "great app",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=6c468e91-edb9-4e60-b9ce-afabee2323b0"
+    },
+    {
+      "date": "2019-03-10T07:03:48.969Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "A Google user",
+      "text": "excellent",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=660c4a87-10ed-4aca-b69c-c4b2a49822c0"
+    },
+    {
+      "date": "2019-03-07T13:59:57.631Z",
+      "score": 5,
+      "thumbsUp": 7,
+      "user": "A Google user",
+      "text": "Excellent - The Next Generation of Bookkeeping Finally a solution to keeping all of those receipts. No more painful data entry, just snap a photo and the app grabs all the relevant info. Plus it integrates with Quickbooks and Xero. I have been waiting for this app for a long time.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=3dc46b51-98b8-44da-9d35-ad568264bd67"
+    },
+    {
+      "date": "2019-02-22T13:39:26.689Z",
+      "score": 5,
+      "thumbsUp": 2,
+      "user": "A Google user",
+      "text": "love the app. much quicker than receipt bank and no human eyes. all AI.Feel my data is safe",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=b7404f98-61a6-4849-932e-43eef65d190a"
+    },
+    {
+      "date": "2019-02-21T00:05:36.714Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "A Google user",
+      "text": "this is the best app for tracking receipts and accounts. thank you!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=151a43f6-ea8a-4ee6-b80d-583ce46685e8"
+    },
+    {
+      "date": "2019-02-16T16:23:48.244Z",
+      "score": 4,
+      "thumbsUp": 2,
+      "user": "A Google user",
+      "text": "works fine, could use work on multiple people scanning receipts at once",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=1b1dd6da-166d-428c-8032-810f36faed56"
+    },
+    {
+      "date": "2019-02-14T17:43:34.447Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "A Google user",
+      "text": "tax accountant referred me to this app... love it",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=2b2c7402-ddb1-4eb1-a8f5-01d1341406df"
+    },
+    {
+      "date": "2019-02-14T08:59:26.498Z",
+      "score": 5,
+      "thumbsUp": 3,
+      "user": "A Google user",
+      "text": "The scanning ability, the OCR is mind blowingly fast and accurate.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=cff0967f-9505-4258-97ea-a071ca930841"
+    },
+    {
+      "date": "2019-02-14T04:43:20.117Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "A Google user",
+      "text": "very useful and quick",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=66b70419-72f9-4f53-904a-e6cb856faf19"
+    },
+    {
+      "date": "2019-02-11T04:43:07.616Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "A Google user",
+      "text": "Great",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=8a93d336-578b-422e-bc35-d75e8cc04a03"
+    },
+    {
+      "date": "2019-02-11T02:21:05.374Z",
+      "score": 5,
+      "thumbsUp": 9,
+      "user": "A Google user",
+      "text": "I really like this app and the developer has been very good about responding to issues I've had. My main problem was having my reports print with the same information that is displayed on the app on my phone. i am waiting on a resolution as of this review. I am updating my previous review to 5 stars. He developer contacted me shortly after my review with a resolution to my issue. I have since followed their instructions and am happy to say I am able to do what I needed to. A big thank you!",
+      "reply": "Hey Patrick, \nThank you for your review! We sent you a reply to your inquiry. If you are still having issues, please schedule a call with us: https://www.veryfi.com/schedule-complimentary-demo\n\n-Dmitry(Cofounder)",
+      "replyDate": "2019-02-10T20:00:59.471Z",
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=7536361b-35fb-4fde-8aa9-857639610591"
+    },
+    {
+      "date": "2019-02-06T21:10:02.710Z",
+      "score": 4,
+      "thumbsUp": 2,
+      "user": "A Google user",
+      "text": "Pretty good but the AI is pretty dumb in certain situations",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=40d88d6f-d942-4671-8e8f-6b6d14b01ffc"
+    },
+    {
+      "date": "2019-02-06T19:42:33.249Z",
+      "score": 5,
+      "thumbsUp": 2,
+      "user": "A Google user",
+      "text": "Easy to use and user friendly!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=fd20e8c9-2f5e-4005-8ad6-741255b89669"
+    },
+    {
+      "date": "2019-02-04T14:03:46.344Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "A Google user",
+      "text": "easy to use, organizes all your bills, does what it says.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=2221e37e-8bd1-46df-9595-583e8e3f5ea2"
+    },
+    {
+      "date": "2019-02-01T00:04:45.548Z",
+      "score": 5,
+      "thumbsUp": 7,
+      "user": "A Google user",
+      "text": "I cannot believe how few errors this app has with reading and interpreting all kinds of receipts.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=1bbeed23-51b2-4e6c-abd2-e23fd4cf59e2"
+    },
+    {
+      "date": "2019-01-31T18:30:44.798Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "A Google user",
+      "text": "Simplistic and Efficient",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=dd16e5f0-f852-467e-ac1b-3a1c625b9651"
+    },
+    {
+      "date": "2019-01-31T04:11:35.699Z",
+      "score": 1,
+      "thumbsUp": 8,
+      "user": "A Google user",
+      "text": "Simply doesn't sync woth Xero. I tried unsubscribing too but unable to. Very frustrating. You think your getting a good product. But it simply doesn't sync... Contact me a d show me otherwise?.. (Original post Sept 2018). 28/12/18 And still unable to subscribe and still doesn't work DO NOT DOWNLOAD !!!! WASTE YOUR MONEY AND TIME!!!! LYNING CHEATING UNTRUSTWORTHY DO NOT DOWNLOAD!!!! 31 JAN 2019 ANOTHER BILL HAS COME OUT. CANCEL! Contact me.",
+      "reply": "Could you please send us an email to support@veryfi.com and I will be happy to help you with the Xero sync.\n\nUpdate: Jeremy, our support offered you a call to debug your issues but we never heard back from you.\n\n-Dmitry (Cofounder)",
+      "replyDate": "2018-12-30T01:30:40.672Z",
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=2f47736e-0440-4916-861a-7758931e66bc"
+    },
+    {
+      "date": "2019-01-29T19:09:30.751Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "A Google user",
+      "text": "I own a garage door business and have tons of invoices and receipts. This app makes it so much easier I highly recommend it to anyone that has a small business.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=844a1fea-1498-4f1d-a60d-ac64abe923dd"
+    },
+    {
+      "date": "2019-01-29T12:56:33.606Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "A Google user",
+      "text": "Have been looking for a good receipt scanner that was quick and simple. I also need to be export CSV file into my custom excel spreadsheet. Really like this app so far.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=82cbd151-76cd-496a-9a49-205d093af12d"
+    },
+    {
+      "date": "2019-01-25T01:46:35.102Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "A Google user",
+      "text": "Great!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=91e457fa-4ddb-4548-8f78-4d783abce406"
+    },
+    {
+      "date": "2019-01-24T12:26:55.579Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "A Google user",
+      "text": "I love verify, as a bookkeeper it makes my job easier to keep clients receipts.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=22e53d60-5cc8-4d10-a3a9-ffc716e0ffce"
+    },
+    {
+      "date": "2019-01-22T12:54:31.407Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "A Google user",
+      "text": "Incredible performance. Fun to use.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=de08cb6e-231f-4475-8e0e-8fe72be0fd0b"
+    },
+    {
+      "date": "2019-01-21T00:08:28.838Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "A Google user",
+      "text": "Best app out of many ive tried. Thank yiu developers!!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=05cfe9a7-e6dd-41c1-a455-851bf41f879d"
+    },
+    {
+      "date": "2019-01-20T07:01:17.271Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "A Google user",
+      "text": "great app",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=08eee9df-155d-4759-93b4-f0c612df647c"
+    },
+    {
+      "date": "2019-01-19T22:53:10.538Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "A Google user",
+      "text": "great app for keeping track of receipts",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=2efc4f82-dda7-45b7-a091-c28065367abe"
+    },
+    {
+      "date": "2019-01-19T18:41:33.844Z",
+      "score": 5,
+      "thumbsUp": 2,
+      "user": "A Google user",
+      "text": "so far is very easy to navigate and helps keep track of expenses",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=1b5466d1-7fd2-445d-a94a-4d8f95cd2005"
+    },
+    {
+      "date": "2019-01-19T17:58:45.972Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "A Google user",
+      "text": "very easy to use",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=616f2ee4-ad23-47f0-8697-de5ad841ca6a"
+    },
+    {
+      "date": "2019-01-18T00:38:47.695Z",
+      "score": 5,
+      "thumbsUp": 4,
+      "user": "A Google user",
+      "text": "I tried many apps, free ones and Qickbooks online. None of them worked as well as this one. Best app yet, easy to use, accurate and seldom makes a mistake. Has made my life much easier and I export reports that I import into Quickbooks desktop.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=867bd826-4cee-4da4-9b9c-4b6d9e1c8373"
+    },
+    {
+      "date": "2019-01-15T15:26:44.730Z",
+      "score": 5,
+      "thumbsUp": 2,
+      "user": "A Google user",
+      "text": "It does what is intended for. It reads and keeps receipts for business",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=faf48d72-4207-441a-94c2-dc0506f88ea1"
+    },
+    {
+      "date": "2019-01-10T18:48:56.993Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "A Google user",
+      "text": "flaky. couldn't scan a little crumpled reciept. tried multiple times to scan but fails. going to try one other app.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=c6559d09-3086-4236-90f9-369c30f9bc40"
+    },
+    {
+      "date": "2019-01-10T15:41:45.181Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "A Google user",
+      "text": "NEED TO BE ABLE TO PRINT FROM SCREEN",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=fd3cf992-344f-4b27-91b0-a02eca29a149"
+    },
+    {
+      "date": "2019-01-09T04:25:57.351Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "A Google user",
+      "text": "love it!!!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=b50c0a8f-8b30-482d-a7a4-83f1678a318e"
+    },
+    {
+      "date": "2019-01-07T17:17:11.410Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "A Google user",
+      "text": "Perfect App",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=66d0410d-c123-474d-b84d-a61b27784ca2"
+    },
+    {
+      "date": "2019-01-01T07:05:47.200Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "A Google user",
+      "text": "great app to record receipts for business and personal use",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=d6d5eedb-712b-42b5-9476-01a831ac0d2f"
+    },
+    {
+      "date": "2018-12-28T08:00:24.232Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "A Google user",
+      "text": "Grear app which connects to many other applications. which makes it very convenient to manage the Bill's.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=a1df2f7b-d3ff-433e-8755-a9c8f8024484"
+    },
+    {
+      "date": "2018-12-27T17:19:12.302Z",
+      "score": 4,
+      "thumbsUp": 4,
+      "user": "A Google user",
+      "text": "Its a great app. I have been using it over a year and it has made my life easy when it comes to recording receipts how I wanted. Tax time is now seamless.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=9160a479-89f0-48ef-886b-0c65c7cdc0bc"
+    },
+    {
+      "date": "2018-12-22T21:05:59.351Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "A Google user",
+      "text": "great app. great ocr",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=99e42c58-40fd-4258-a9f2-91983b31a710"
+    },
+    {
+      "date": "2018-12-21T22:33:44.289Z",
+      "score": 3,
+      "thumbsUp": 6,
+      "user": "A Google user",
+      "text": "Failed almost immediately.  1. Download app 2. Start it, enter business name and industry (not relevant to me, I'm just recording personal bills) 3. Scan a bill 4. Upload failed  :(  Update: close app, open app, retry upload - it works. BUT images are blurry if I don't stay super super still, far more so than if I just take a normal photo. Also, can't mark something as 'paid' or filter by multiple tags. Update 2: despite the shaky start, this is actually the best of all the apps for keeping track of bills, even though it's not really meant to do that.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=8af217cc-ab99-4a1f-8c74-3f80f38b3f1c"
+    },
+    {
+      "date": "2018-12-21T12:56:35.921Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "A Google user",
+      "text": "Good and very useful.",
+      "reply": "Thank you so much for your support!",
+      "replyDate": "2018-12-21T19:53:26.377Z",
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=6b26f50d-cf42-437c-b11b-39b36407dfd6"
+    },
+    {
+      "date": "2018-12-17T12:43:27.263Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "A Google user",
+      "text": "Easy too use and constant contact from staff.",
+      "reply": "Brad, thank you so much for your feedback and support!",
+      "replyDate": "2018-12-21T19:45:10.407Z",
+      "url": "https://play.google.com/store/apps/details?id=com.iqboxyinc.iqboxy&reviewId=f4e17f3c-0e17-4c0b-a1a1-0f3af876a9fd"
+    }
+  ]
+}

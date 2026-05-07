@@ -9,16 +9,18 @@ _Source: 97 synthesized cells + Invoice Simple 3000-review drill (US/GB) + iOS 7
 - 🟢 Simple build (3-8 weeks solo)
 - 🟢 LOW legal risk (no AI content liability, no marketplace, no government registration, no stalkerware)
 
-## Quick scoreboard (v9 FINAL — updated post-Agent 9 EU expansion)
+## Quick scoreboard (v9 FINAL — updated post-Agent 13 Solopreneur evidence)
 
 | Rank | Direction | Country | Vulnerability | Build | Y1 ARR | Confidence |
 |---|---|---|---|---|---|---|
 | 🥇1 | **Invoice Simple displacement** (cross-platform 4-country) | US/GB primary, CA/AU v2 | Android 23.1% (3000-depth) / iOS 24-33% / IAP ceiling **$399-$599** | 3-5 wk | **€42k base** | **VERY HIGH** |
-| 🥈2 | **EU Solo-Freelancer Invoice** (DE+PL+NL shared codebase) | DE/PL/NL | sevDesk 78.7% (DE) + KSeF panic (PL Apr 2026) + Invoice Fly 50% (NL) | 4-6 wk DE base + 3-4 wk PL/NL each | **€30-50k combined** | **HIGH** |
-| 🥉3 | **QBSE + Schedule C estimator** combo (US) | US | Android **85.5%** (recent cohort 1500) + QBSE sunset May 2024 → Solopreneur transition rage + Schedule C gap CONFIRMED | 6-8 wk | $25k base | **HIGH** |
+| 🥈2 | **QBSE + Solopreneur + Schedule C** combo (US) | US | QBSE legacy 85.5% + **Solopreneur 61.4% recent low (1500 reviews)** + 9 verbatim quotes 50-201 thumbs + Schedule C gap CONFIRMED | 6-8 wk | $25-35k base | **HIGH** |
+| 🥉3 | **EU Solo-Freelancer Invoice** (DE+PL+NL shared codebase) | DE/PL/NL | sevDesk 78.7% (DE) + KSeF panic (PL Apr 2026) + Invoice Fly 50% (NL) + Tofu precedent (1M installs <2yrs) | 4-6 wk DE base + 3-4 wk PL/NL each | **€30-50k combined** | MEDIUM-HIGH |
 | 4 | **Honest Gig Tracker** (Solo + Stride displace) | US | Solo 68% Android / 80% iOS, Stride 69% Android — 434-thumb deceptive sign-up | 5-6 wk | $10k base (revised — Solo/Stride monetize off-app) | MEDIUM-HIGH |
 | 5 | **Smart Receipts displacement** (US) | US | 57% recent low_pct, 1M+ installs, "no local backup" complaint | 6-8 wk | <$5k base (small ceiling) | MEDIUM |
-| 6 | _placeholder_ — Flutter Flame games OR Solo-Trades CRM (pending Agents 7+12) | TBD | TBD | TBD | TBD | TBD |
+| 6 | _placeholder_ — Flutter Flame games (pending Agent 7) | TBD | TBD | TBD | TBD | TBD |
+
+**Key v9 ranking change**: Direction 2 (QBSE+Solopreneur+Schedule C) **promoted from #3 to #2** based on Agent 13 deep drill confirming Solopreneur (the QBSE replacement) is ALSO at 61.4% recent low_pct on 1500 reviews — meaning the displacement market = QBSE refugees + Solopreneur frustrated users (combined 2M+ install base). Direction 4 (EU multi-country) drops to #3.
 
 **REJECTED v9 / BACKLOG**:
 - ❌ FR invoicing (Sept 2027 PDP mandate kills solo dev)
@@ -640,9 +642,26 @@ Cross-source legal validation (Agent 4) revealed:
 - ML Kit is free but accuracy varies — risk of "the OCR doesn't read clearly" complaints, becoming the same complaint pattern Smart Receipts has
 - Schedule C estimator + Honest Gig Tracker (Directions 2+3) already include "receipt photo logging" as a sub-feature — Direction 5 is partially absorbed
 
-### Recommendation
+### v9 UPDATE — Agent 13 receipt scanner validation
 
-Skip if Direction 2 (QBSE+Schedule C combo) is built — Direction 2 covers receipt photo logging. Build standalone only if positioning narrowly as "the photo-only receipt vault that doesn't paywall local backup".
+Agent 13 drilled 6 receipt scanner candidates at 200-300 review depth (last-90d window):
+
+| App | Last-90d low_pct | Verdict |
+|---|---|---|
+| Expensify | **68.8%** (n=64) | Most vulnerable BUT corporate-moated (Concur-class) |
+| Smart Receipts | 43.8% (n=16) → 57% overall | Vulnerable but trend IMPROVING last-90d (worst may be behind it) |
+| Foreceipt | 33.3% (n=15) | Smaller niche |
+| Easy Expense | 16.4% | HEALTHY — not a displacement target |
+| SimplyWise | 13.2% | HEALTHY — not a displacement target |
+| Veryfi | n/a | TBD |
+
+### Recommendation (REFRAMED v9)
+
+**Pivot Direction 5 from standalone → MERGE into Direction 2 as receipt-feature module.** Agent 13's recommendation: attack the shared paywall/pricing rage cluster that QB Solopreneur AND Smart Receipts users articulate identically — *"sad that it used to be so good, and greed took over, costing money for every small feature"* (Smart Receipts 41-thumb, 2025-12-14) mirrors Solopreneur's *"my price has gone from $15 a month to $38 no warning. Scam!"* (60-thumb).
+
+**Revised Direction 5**: NOT a standalone direction. Instead, **bundle on-device ML Kit OCR receipt scanning into Direction 2's premium tier** as a high-value differentiator. The combined product = "$0-backend offline receipt + mileage + invoice + Schedule C estimator for solopreneurs" with no subscription, no ads, full data export.
+
+Skip Direction 5 as standalone unless you specifically want a narrower "receipt vault" wedge. The combined Direction 2 with receipt module subsumes the Direction 5 thesis.
 
 ---
 

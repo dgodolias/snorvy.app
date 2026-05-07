@@ -1,0 +1,356 @@
+[
+  {
+    "id": "smart_receipts",
+    "name": "Smart Receipts",
+    "n": 300,
+    "dateRange": "2024-10-01 → 2026-05-03",
+    "overall_lowPct": 57,
+    "cohort_2025_lowPct": 52.4,
+    "cohort_2025_n": 143,
+    "last90_lowPct": 43.8,
+    "last90_n": 16,
+    "themes_in_low_reviews": {
+      "qbse_migration": 35,
+      "mileage": 5,
+      "invoicing": 2,
+      "schedule_c_tax": 5,
+      "sync_data": 4,
+      "pricing": 47,
+      "ocr_quality": 12,
+      "ads_paywall": 75
+    },
+    "top_quotes": [
+      {
+        "date": "2025-12-14",
+        "score": 1,
+        "thumbs": 41,
+        "text": "Update 12/2025: Despite all the updates, they only seem to work for paid subscriptions. Still zero reason why we can not do a manual backup of the file to our local device and save it for when we get a new phone. Sad that it used to be so good, and greed took over, costing money for every small feature. I only wanted an offline expense tracker, not another subscription"
+      },
+      {
+        "date": "2024-11-09",
+        "score": 1,
+        "thumbs": 23,
+        "text": "The latest update took away so much functionality that I'm left to have to look for a new app. I wish I could go back to the previous version."
+      },
+      {
+        "date": "2024-10-17",
+        "score": 2,
+        "thumbs": 20,
+        "text": "This new update is terrible! The user interface had been ruined and is no longer intuitive. The organizing of all entries from oldest to newest instead of newest to oldest makes no sense. They also removed the breakdown of how much was spent by each payment method in the category expense breakdown. I actually referred getting the update. Is it possible to go back to the last version. It all worked"
+      },
+      {
+        "date": "2024-10-31",
+        "score": 1,
+        "thumbs": 16,
+        "text": "Latest update is an absolute disaster in layout, ease of use, function. Updating a receipt doesn't actually updated it. The scroll date is a pain. Everything just sucks now. *Somehow the update to the update where they supposedly fixed things is even worse. You can't select a date for a receipt, it defaults to whatever your start date was. No way to fix it. You can't rearrange receipts at all. You"
+      },
+      {
+        "date": "2025-02-25",
+        "score": 1,
+        "thumbs": 15,
+        "text": "I used to love this program. My company has used it for years. recently, huge changes were made and it feels like a completely different application. it is much more difficult to use, with ridiculous receipt scanning automation that almost never works right and causes images to be skewed. Also, constant reminders to purchase additional features that I don't want. My company will be switching to a "
+      },
+      {
+        "date": "2024-10-22",
+        "score": 1,
+        "thumbs": 15,
+        "text": "I too thought nothing of running the update and lost all my past reports and half of the current month and 99 percent of the convenient features that made it better than the competition like predictive text based on past entries. I'm trying to be patient waiting for their promised fixes to get it back like it was. Why they messed with a good thing is beyond me."
+      }
+    ]
+  },
+  {
+    "id": "easy_expense",
+    "name": "Easy Expense (Receipt Scanner)",
+    "n": 300,
+    "dateRange": "2025-03-20 → 2026-04-30",
+    "overall_lowPct": 28.3,
+    "cohort_2025_lowPct": 28.3,
+    "cohort_2025_n": 300,
+    "last90_lowPct": 16.4,
+    "last90_n": 73,
+    "themes_in_low_reviews": {
+      "qbse_migration": 3,
+      "mileage": 1,
+      "invoicing": 1,
+      "schedule_c_tax": 3,
+      "sync_data": 0,
+      "pricing": 15,
+      "ocr_quality": 20,
+      "ads_paywall": 21
+    },
+    "top_quotes": [
+      {
+        "date": "2025-03-27",
+        "score": 1,
+        "thumbs": 39,
+        "text": "Used to be free but now they're imposing exaggerated fees for just scanning receipts! I agree with other users. The free version is useless. Limited to 10 receipts per month. We can accumulate that in one day on a trip. Paying the monthly fees they want, might as well hire someone to just take pictures of your receipts. I wish they can do better for their loyal customers. 😞"
+      },
+      {
+        "date": "2025-05-26",
+        "score": 1,
+        "thumbs": 23,
+        "text": "You bunch of slime ball scumbags! I haven't used this app in a couple of months, and when I do, you're now charging for it?! Fa-Q! Your app sucks because none of the information goes into the proper categories when you snap the receipt, and you waste a lot of time manually correcting it... everytime!! And now you want to charge a premium service charge for something that doesn't work?! Again... Fa"
+      },
+      {
+        "date": "2025-12-15",
+        "score": 1,
+        "thumbs": 21,
+        "text": "This app has a lot of work it needs. I'm not sure when the last time they updated it but it is not really usable. the app missed date and time, amount, name of store, categorization, total price and tax is almost never even picked up. The fact that the owners charge people to use this is insanity. The app needs a overhaul from the beginning because I can't even scan basic receipts with it. use any"
+      },
+      {
+        "date": "2025-06-16",
+        "score": 2,
+        "thumbs": 21,
+        "text": "I highly recommend trying Slip-Scan instead. It is way more accurate, has more features, and can actually extract line-items with AI. It's also free and the premium plans are way cheaper. Easy expense has failed to extract my invoices correctly, it keeps getting dates, prices and vendor names wrong. Also, the categorization is not dynamic. I understand its purpose but I feel there far better apps "
+      },
+      {
+        "date": "2025-07-19",
+        "score": 1,
+        "thumbs": 19,
+        "text": "BEWARE this predatory app, it's a free download but you have to sign up for an account and the free version only allows you to scan 10 receipts a MONTH, of course they don't tell you that until they get your email."
+      },
+      {
+        "date": "2025-09-02",
+        "score": 1,
+        "thumbs": 17,
+        "text": "Lost a bunch of my receipts that I know for a fact were uploaded. I wish I could get my money back! Stay away, you can find much better free apps for tracking expenses. Also the AI is not great at detecting words and numbers. 1 star!"
+      }
+    ]
+  },
+  {
+    "id": "simplywise",
+    "name": "SimplyWise",
+    "n": 300,
+    "dateRange": "2024-12-03 → 2026-05-05",
+    "overall_lowPct": 21.7,
+    "cohort_2025_lowPct": 22.1,
+    "cohort_2025_n": 290,
+    "last90_lowPct": 13.2,
+    "last90_n": 76,
+    "themes_in_low_reviews": {
+      "qbse_migration": 1,
+      "mileage": 1,
+      "invoicing": 1,
+      "schedule_c_tax": 2,
+      "sync_data": 0,
+      "pricing": 10,
+      "ocr_quality": 4,
+      "ads_paywall": 20
+    },
+    "top_quotes": [
+      {
+        "date": "2025-12-19",
+        "score": 2,
+        "thumbs": 14,
+        "text": "the manual email function doesn't work efficiently. I have to email the same receipt multiple times before it shows up in the app. And sometimes it will never show up. The user interface is annoying. If you tap the \"back\" button on your phone, it completely closes the app instead of just simply going back to the previous page. You have to constantly remember to tap the \"back\" button in the app to "
+      },
+      {
+        "date": "2025-12-29",
+        "score": 2,
+        "thumbs": 5,
+        "text": "Would be a great app if the oct actually worked. It captures vendor, date, cost, etc but line items? hahahhahahaha...not one scan is correct. And when i say incorrect i mean capturing the wrong line, the wrong amount, gobbedygook (even on a pristine receipt), everything except actually getting the line item description. For 70 plus bucks a year you would think crucial functionality would work. As "
+      },
+      {
+        "date": "2025-08-27",
+        "score": 2,
+        "thumbs": 4,
+        "text": "seems okay but tracking expenses for event and it doesn't give a running total so that you can see how much you've spent all together. and you can create folders but they do.t give a combined total just monthly total so you still have to add them together. so far I wouldn't recommend..."
+      },
+      {
+        "date": "2025-03-05",
+        "score": 2,
+        "thumbs": 4,
+        "text": "I like the app and the ability to see on my PC. However, the app has some issues. Like closing in the middle of editing and losing data. Also, EVERY TIME I OPEN THE APP it wants me to allow location all the time. WHY? I do not need this running in the background."
+      },
+      {
+        "date": "2026-01-02",
+        "score": 2,
+        "thumbs": 3,
+        "text": "pay wall $4.99 a week would have been nice to know before downloading"
+      },
+      {
+        "date": "2026-03-25",
+        "score": 1,
+        "thumbs": 2,
+        "text": "I have just spent 10 minutes trying to connect my PayPal and my Amazon and the app just keeps crashing, then I have to resign into the app then it wants me to resign into Amazon then the app crashes again I don't have time for this."
+      }
+    ]
+  },
+  {
+    "id": "foreceipt",
+    "name": "Foreceipt",
+    "n": 287,
+    "dateRange": "2020-04-25 → 2026-05-06",
+    "overall_lowPct": 23.3,
+    "cohort_2025_lowPct": 29.3,
+    "cohort_2025_n": 41,
+    "last90_lowPct": 33.3,
+    "last90_n": 15,
+    "themes_in_low_reviews": {
+      "qbse_migration": 0,
+      "mileage": 0,
+      "invoicing": 1,
+      "schedule_c_tax": 5,
+      "sync_data": 0,
+      "pricing": 9,
+      "ocr_quality": 8,
+      "ads_paywall": 26
+    },
+    "top_quotes": [
+      {
+        "date": "2021-01-09",
+        "score": 2,
+        "thumbs": 32,
+        "text": "This app was awesome for the first few months of my PAID subscription. I signed up for this app as an alternative to an app that went out of business last year. However, I've recently learned they have no customer service or tech support that will quickly address any issues that you may have with it. I just finished entering all my receipts for the month of December 2020, and then began the report"
+      },
+      {
+        "date": "2021-12-16",
+        "score": 2,
+        "thumbs": 21,
+        "text": "Looks like a potentially great replacement for Wave Receipts (appears to use the same OCR engine). But unfortunately, certainly for users in Australia, it has a major showstopping flaw. In AU the sales tax (GST) amount has to be shown separately on a receipt, but the receipt total already includes the tax. This app is adding the sales tax onto the total again, so the scanned receipt amounts are al"
+      },
+      {
+        "date": "2023-08-04",
+        "score": 2,
+        "thumbs": 12,
+        "text": "It holds some promise, but the big problem is somebody decided to use very thin and very faint text. This is nothing but a constant eye strain. The text is very light color, and as thin as possible, making it hard to read and there is no way to adjust this. An app isn't usable if you can't see it. I also really don't like that you have to go online to their website in order to add or change catego"
+      },
+      {
+        "date": "2022-03-17",
+        "score": 2,
+        "thumbs": 11,
+        "text": "I would like it if it worked right. It won't let Me enter anything manually. Correction, I can enter things to make edits, but it won't save the edits. When I enter something like fixing the price, Or what category it should go under, when I click on the check mark to save it, it won't save. The reports creator will let me enter the dates but won't save the correct dates when I open the report. Ca"
+      },
+      {
+        "date": "2020-09-16",
+        "score": 1,
+        "thumbs": 10,
+        "text": "Very lame that not only I can't edit the categories from mobile, I can't remove the countless useless existing categories that don't pertain to my expenses. I don't work in advertising, have a car, do commission or contract work, and I have no idea what \"depreciation and section 179 deduction\" refers to. Why am I required to use these things? You don't even have a category for food, which is the m"
+      },
+      {
+        "date": "2020-10-05",
+        "score": 1,
+        "thumbs": 9,
+        "text": "I logged in today to find ALL of my receipts gone and the app was renamed \"Foreceipt Legacy.\" I have used this app for over three years and this was the year I needed to upgrade from free, but not if it is this unreliable! I'm hoping those receipts are still in my folder in my Google account but this is unacceptable. I had given five stars prior when I had an iPhone. I logged in last in February a"
+      }
+    ]
+  },
+  {
+    "id": "expensify",
+    "name": "Expensify",
+    "n": 300,
+    "dateRange": "2025-01-15 → 2026-05-06",
+    "overall_lowPct": 63,
+    "cohort_2025_lowPct": 63,
+    "cohort_2025_n": 300,
+    "last90_lowPct": 68.8,
+    "last90_n": 64,
+    "themes_in_low_reviews": {
+      "qbse_migration": 14,
+      "mileage": 6,
+      "invoicing": 1,
+      "schedule_c_tax": 1,
+      "sync_data": 4,
+      "pricing": 12,
+      "ocr_quality": 26,
+      "ads_paywall": 50
+    },
+    "top_quotes": [
+      {
+        "date": "2025-04-25",
+        "score": 1,
+        "thumbs": 16,
+        "text": "App and website are not user-friendly and don't seem to sync. Scanning receipts with the app do not sync with the desktop website for expense report submission. It's utterly frustrating, to say the least. The website is also NOT intuitive and appears disorganized. I would say both the app and website are painful to use.😒 Still giving the app a 1-star rating. Here is why...The system should be int"
+      },
+      {
+        "date": "2026-01-22",
+        "score": 1,
+        "thumbs": 6,
+        "text": "Wow - every update makes it suck more. Unbelievable. How do I give zero stars?"
+      },
+      {
+        "date": "2025-11-17",
+        "score": 1,
+        "thumbs": 6,
+        "text": "Used to be great. absolutely awful now. Revert to classic expensify. This version is trying to do too much. The original basic expensify was perfect. Take pictures, save receipts, let us report them at the end of the month. The current version is a nightmare. Boggy, unresponsive, unintuitive. If you don't pre assign expenses to a report they get randomly assigned to some bogus report the app creat"
+      },
+      {
+        "date": "2025-10-22",
+        "score": 2,
+        "thumbs": 6,
+        "text": "ive been using Expensify for years. last week they completely redid the software, and it is awful now. I used to do my expense report weekly in under a minute, today, I just spent 30 minutes looking for a lost receipt that I already scanned. im looking for a new expense app. very disappointed in this change. no longer user friendly"
+      },
+      {
+        "date": "2025-02-24",
+        "score": 1,
+        "thumbs": 6,
+        "text": "Receipt scanning has gone downhill. It's like they trained a monkey to do it and he just picks a random number from the receipt. Even when a pdf is provided, the app gets it wrong more often then not and then I'm still left manually going through each receipt to make sure everything matches. Defeats the purpose of having scanning in the first place. Customer service is a complete nightmare. Absolu"
+      },
+      {
+        "date": "2026-02-28",
+        "score": 1,
+        "thumbs": 5,
+        "text": "New UI is less intuitive compared to the old one. They've made the app worse for the sake of updating. It's no longer quick to just see expenses, it's too easy to submit the report, and not intuitive as to whether I am submitting my expense or submitting the whole report. I want to take a picture of an expense, pick a report to assign that expense to, and enter a description. Just like the old app"
+      }
+    ]
+  },
+  {
+    "id": "veryfi",
+    "name": "Veryfi Receipts OCR",
+    "n": 200,
+    "dateRange": "2018-12-17 → 2025-12-22",
+    "overall_lowPct": 16,
+    "cohort_2025_lowPct": 60,
+    "cohort_2025_n": 5,
+    "last90_lowPct": 0,
+    "last90_n": 0,
+    "themes_in_low_reviews": {
+      "qbse_migration": 0,
+      "mileage": 0,
+      "invoicing": 0,
+      "schedule_c_tax": 0,
+      "sync_data": 2,
+      "pricing": 6,
+      "ocr_quality": 6,
+      "ads_paywall": 11
+    },
+    "top_quotes": [
+      {
+        "date": "2019-01-31",
+        "score": 1,
+        "thumbs": 8,
+        "text": "Simply doesn't sync woth Xero. I tried unsubscribing too but unable to. Very frustrating. You think your getting a good product. But it simply doesn't sync... Contact me a d show me otherwise?.. (Original post Sept 2018). 28/12/18 And still unable to subscribe and still doesn't work DO NOT DOWNLOAD !!!! WASTE YOUR MONEY AND TIME!!!! LYNING CHEATING UNTRUSTWORTHY DO NOT DOWNLOAD!!!! 31 JAN 2019 ANO"
+      },
+      {
+        "date": "2020-05-16",
+        "score": 2,
+        "thumbs": 7,
+        "text": "Free 14 day trial only has a 50 limit. Which is ok. I paid for the monthly plan ($15/month)....it only gives you 300.. I have already used it all. Had to pay and extra $15 for another 300 uploads. In the end it made an absolute mess of quick books and had to erase all quick books data and re enter everything. I dea is there but needs alot of work. I do not suggest linking it to quick books. I was "
+      },
+      {
+        "date": "2021-03-22",
+        "score": 2,
+        "thumbs": 6,
+        "text": "It's a good scanner but wow, they've totally jacked up their rates. From $13/mo last year to $25/mo or $270/year. Looking for an alternative."
+      },
+      {
+        "date": "2023-08-04",
+        "score": 2,
+        "thumbs": 4,
+        "text": "Crashes frequently! I have the Pixel 7 Pro, and even without other stuff running in the background, this app can't wait to crash on the next random thing I do such as ending fields of various types. Sometimes the entire app crashes, other times it crashes back to the receipt listing. It looks like it could be good otherwise, but I can't explore with it if all it wants to do is crash."
+      },
+      {
+        "date": "2021-07-13",
+        "score": 1,
+        "thumbs": 4,
+        "text": "Really good application but working very slowly also, as per my opinion, need to work on sharing option. Over all it's really good Thanks"
+      },
+      {
+        "date": "2020-05-16",
+        "score": 2,
+        "thumbs": 4,
+        "text": "Loved the app, but I kept getting extra charges that I didn't initiate and even though I had paid for a year in advance. I contacted the company about a refund which they granted, but then I was charged twice more afterwards, again from not initiating any products or anything."
+      }
+    ]
+  }
+]

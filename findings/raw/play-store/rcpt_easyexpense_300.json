@@ -1,0 +1,3008 @@
+{
+  "app": "com.easyexpense",
+  "country": "us",
+  "total_pulled": 300,
+  "total_after_filter": 300,
+  "reviews": [
+    {
+      "date": "2026-04-30T14:43:20.118Z",
+      "score": 3,
+      "thumbsUp": 1,
+      "user": "Keith W",
+      "text": "Good app, it's just very laggy. When you go to save a transaction, it can take up to 20 seconds. Just way too long.They can fix that.That would be a great app",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=77c73be1-684f-49db-a8e4-560e7540053e"
+    },
+    {
+      "date": "2026-04-27T13:44:41.158Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "Anton R",
+      "text": "Doesn't detect the date properly at all times, way off by months on occasion. Doesn't detect HST line on the gas receipts, sometimes only. Receipts are all of the same quality, not blurry or anything. Receipts clearly shows Subtotal 15.23 in BOLD just skips over that. Then Tip 3.05 Then Total 18.28 so I have to calculate my own tax? Insists on calling shell hell lol",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=04f25200-0e70-40c1-a64e-2922a8ddc40e"
+    },
+    {
+      "date": "2026-04-25T11:04:24.270Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "David Kishayinew",
+      "text": "Great",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=9d946037-7bbd-48d4-a985-86d7fd9a0cfe"
+    },
+    {
+      "date": "2026-04-25T10:34:37.708Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "John",
+      "text": "I just want to scan receipts",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=b540301b-f2bc-4615-bc45-28a029646ad0"
+    },
+    {
+      "date": "2026-04-24T15:13:01.871Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Fredson Mulima",
+      "text": "good",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=270dfcd5-4bd8-4114-ba62-36f024af9b73"
+    },
+    {
+      "date": "2026-04-22T03:23:33.998Z",
+      "score": 1,
+      "thumbsUp": 2,
+      "user": "Jay Starr",
+      "text": "$6/month or $75/yr. So tired of apps not putting their costs up front.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=014054d5-1fd0-42ed-806d-5ac15589d832"
+    },
+    {
+      "date": "2026-04-21T00:05:26.706Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Coronado Sergio Dennis",
+      "text": "not free at all, its a scam.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=6ebcbf02-0b5b-4586-b566-90972743939e"
+    },
+    {
+      "date": "2026-04-20T02:38:12.718Z",
+      "score": 3,
+      "thumbsUp": 1,
+      "user": "ChiEf TiffNaw",
+      "text": "won't save gas receipts",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=6c8f53d2-5025-461a-be79-b39f73ae3ef5"
+    },
+    {
+      "date": "2026-04-17T17:33:37.647Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Diamondcut Property",
+      "text": "Fantastic app, easy to use!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=05b206e9-9ab2-425d-893a-74e2bfe1188a"
+    },
+    {
+      "date": "2026-04-13T15:02:43.731Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Devin Montes",
+      "text": "no free version",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=663a94a6-79c8-40c4-a9b8-c309c2b16bcf"
+    },
+    {
+      "date": "2026-04-13T12:48:51.422Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Chris Lawley",
+      "text": "Great",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=e44e9138-d449-4e1d-936f-497cc5b302f4"
+    },
+    {
+      "date": "2026-04-12T21:44:55.181Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "Byron Bilby",
+      "text": "decent",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=46f3f077-ec00-4b4b-a76f-9d2b489128db"
+    },
+    {
+      "date": "2026-04-12T20:55:40.116Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Terry Saltz",
+      "text": "Great! Easy!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=6e4413ab-2da2-4180-a181-07646ca7bd72"
+    },
+    {
+      "date": "2026-04-12T13:19:33.642Z",
+      "score": 3,
+      "thumbsUp": 3,
+      "user": "Stacie J",
+      "text": "was great until it wasn't. Constant receipt not captured errors. App cannot read date on most receipts even when they are clear. I have scan every receipt multiple times to get it to save and triple check the date because it is typically wrong. That extra time is adding up. Very frustrating",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=b0bc8495-aff4-42ca-9afb-a1adc73625ff"
+    },
+    {
+      "date": "2026-04-12T03:19:33.607Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Rey N",
+      "text": "really like the app, simple, easy, going to make my job easy.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=dd7a77a1-9847-4c78-b1f6-1aeb9edacb9f"
+    },
+    {
+      "date": "2026-04-08T16:15:28.160Z",
+      "score": 3,
+      "thumbsUp": 2,
+      "user": "Debbie Wright",
+      "text": "I cannot use this in a different country. useless for out of the designed country",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=2c0d0be5-8815-4586-b378-3320ffc599bb"
+    },
+    {
+      "date": "2026-04-06T18:11:36.694Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Daniel",
+      "text": "great service. used for years.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=897084f7-b9d2-493d-84f3-74bcc1a80138"
+    },
+    {
+      "date": "2026-04-06T15:18:34.149Z",
+      "score": 4,
+      "thumbsUp": 1,
+      "user": "Mike Bedel",
+      "text": "little pricey but a easy way for me to get organized",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=a4368d48-acff-4d47-a344-e3b2f36c04d1"
+    },
+    {
+      "date": "2026-04-04T15:40:12.631Z",
+      "score": 5,
+      "thumbsUp": 14,
+      "user": "jason rogala",
+      "text": "This is my favorite expense tracking app. 👍 Addition: felt the need to add to my review. This app just keeps getting better and better. This app has made tracking my business expenses so much easier and the accuracy is getting better all the time. Again, thank you developer. (4-4-26)",
+      "reply": "Hey can you please email me at eli@easy-expense.com, I would very much like to help resolve the issues you are facing in the app!",
+      "replyDate": "2022-02-09T19:30:48.337Z",
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=0ddfc749-d7bc-494d-9ac6-33deee2a1684"
+    },
+    {
+      "date": "2026-04-04T10:43:34.883Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Hykeem Rogers",
+      "text": "love this",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=8c638ec0-4cb1-418e-a620-7fb70ef44dd3"
+    },
+    {
+      "date": "2026-04-03T21:43:05.873Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Chol Omot Olwak",
+      "text": "جميل جداً",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=9047b335-0341-4b43-9650-3f5784364312"
+    },
+    {
+      "date": "2026-04-03T04:20:29.200Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Dennis Zellner",
+      "text": "Easy as butter",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=fa366f02-0c3b-4974-911a-b0f82cf41ff7"
+    },
+    {
+      "date": "2026-04-02T15:26:47.690Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "GINO CREEKMORE",
+      "text": "it. is really good app I love it",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=eadc27ae-a95d-47ff-b224-750a7f7ab2cf"
+    },
+    {
+      "date": "2026-04-01T16:06:07.744Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Peacemaker Langa",
+      "text": "best app",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=c9d1e06f-348d-40e4-8e06-449974aeabd0"
+    },
+    {
+      "date": "2026-03-31T17:02:37.498Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "Karbino giel Makor",
+      "text": "I need to get it really",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=b2c38511-3f79-4407-be54-0aa5636fbda8"
+    },
+    {
+      "date": "2026-03-31T12:15:34.910Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "kylie lee Scerri",
+      "text": "good",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=aeafbac2-4428-4c83-a1a4-a4337324be6d"
+    },
+    {
+      "date": "2026-03-30T12:40:26.798Z",
+      "score": 4,
+      "thumbsUp": 1,
+      "user": "P. Rodriguez (Pete)",
+      "text": "you can't sort easily",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=cb9e709d-8f5b-4fc3-bcb8-46f52fbeae5e"
+    },
+    {
+      "date": "2026-03-29T16:32:23.161Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Peter Groer II",
+      "text": "A++",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=97b0b372-54a8-4b4b-b1e5-e6095de88c15"
+    },
+    {
+      "date": "2026-03-29T02:14:06.367Z",
+      "score": 5,
+      "thumbsUp": 14,
+      "user": "Luke Whiteside",
+      "text": "Good interface, great service and approach. It does what it says, and has great reporting functions. It could be a little faster to load up, but I'm very impressed. Updates regularly",
+      "reply": "Luke, that you for this awesome review! Feedback like this enables us to improve so we appreciate you taking the time to send this over.",
+      "replyDate": "2022-04-01T13:08:16.908Z",
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=c244fe10-679a-4480-b7c8-890be1a29562"
+    },
+    {
+      "date": "2026-03-25T09:56:13.147Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Mahama marang",
+      "text": "it my first time, until I try it",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=f9afba63-8761-4504-be41-64c2993d9125"
+    },
+    {
+      "date": "2026-03-21T16:27:04.623Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Michelle Howie",
+      "text": "I should have started using this sooner!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=47b9dfe2-7b8b-47ad-8494-4770aa016a98"
+    },
+    {
+      "date": "2026-03-20T17:20:33.255Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Belina Wright",
+      "text": "worth every penny",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=fbda4431-0340-4b48-9946-a443d672245c"
+    },
+    {
+      "date": "2026-03-20T01:04:06.714Z",
+      "score": 5,
+      "thumbsUp": 18,
+      "user": "Calvin Chung",
+      "text": "the scans are 95% accurate, sometimes I have to manually correct some numbers if the receipts are blurry or smudged, or if the receipt itself has a weird format. otherwise this is still highly recommended. I am using this for my small corporations bookkeeping and this is saving me an insane amount of time. I used to manually input everything in a spreadsheet. I wish I had this app earlier. I needed some help and there is a message options for help and the customer server was on point!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=bd9029c8-24cc-4448-95f3-cbaae4440a27"
+    },
+    {
+      "date": "2026-03-18T18:20:18.272Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Clayton Wilson hove (Wilsonics)",
+      "text": "Good",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=854e7d62-f3b7-468f-a437-0557e7007711"
+    },
+    {
+      "date": "2026-03-17T19:06:38.102Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Tim Bass",
+      "text": "its been great so far",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=36cad165-beab-4ac3-b38e-744f13d40daa"
+    },
+    {
+      "date": "2026-03-15T18:44:28.558Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Lawrence Williams",
+      "text": "love it",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=23e85578-008a-407c-a1df-4bd42f73ace6"
+    },
+    {
+      "date": "2026-03-15T15:42:24.770Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "ADV. MAQBOOL SOOMRO",
+      "text": "AMAZING SALUTE",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=12f70340-3f32-4980-91a4-0bd39061f601"
+    },
+    {
+      "date": "2026-03-15T09:50:18.795Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Sebastian Wiewióra",
+      "text": "can't be used without signing in, pushes paid plan at every step",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=f8f1210d-cae7-4445-8a0e-f7ef6f562e2f"
+    },
+    {
+      "date": "2026-03-13T02:37:14.130Z",
+      "score": 3,
+      "thumbsUp": 9,
+      "user": "Lesly Rae",
+      "text": "It's OK & fairly simple which is what I wanted but it needs more flexibility & some functions don't appear to work. I want to add my mileage manually for medical travel but would like to be able to add the 2026 IRS reimbursement rate and have it calculated for me and print reports. I don't see the entry I entered at all. Choosing manual entries for Drives should clear the prompt to have it track. Also designating multiple purchases on a receipt to different categories needs to work better.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=fe14fb1f-f410-4fc4-a146-1faf69d513ee"
+    },
+    {
+      "date": "2026-03-13T01:46:06.255Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Karina",
+      "text": "Useful",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=b82bbee8-c846-4216-b8ec-c585b0213cef"
+    },
+    {
+      "date": "2026-03-12T21:17:35.618Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Christopher Wagoner",
+      "text": "it's a great app to get your money back on your purchases and keep track of everything",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=1c433304-4921-47a3-915e-687fb8fd4dd2"
+    },
+    {
+      "date": "2026-03-12T01:03:59.387Z",
+      "score": 4,
+      "thumbsUp": 8,
+      "user": "dustin k",
+      "text": "Good app. Needs a calendar tool to add notes or events per job that occur on specific day, when not a expense.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=49c6703d-648d-4f05-8d41-c6d2811e80ac"
+    },
+    {
+      "date": "2026-03-11T09:33:38.934Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Mogale titi Letsoalo",
+      "text": "very good",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=56482cea-fd04-4476-8728-fef133fd5b13"
+    },
+    {
+      "date": "2026-03-10T12:16:50.610Z",
+      "score": 5,
+      "thumbsUp": 2,
+      "user": "Nyi'Lah Green",
+      "text": "easy great an awesome to use when your in a rush",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=5ea85d3c-981b-4c49-a3bc-41c4c6d49fc5"
+    },
+    {
+      "date": "2026-03-07T09:33:10.630Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "WR PILLAY",
+      "text": "fantastic",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=49f7a763-82f8-47cf-95c3-f42e7d6700e9"
+    },
+    {
+      "date": "2026-03-06T17:43:59.332Z",
+      "score": 2,
+      "thumbsUp": 2,
+      "user": "Miriam",
+      "text": "I had hoped to get back my money from scanning my receipts but turns out you can't! 😠",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=316d63bb-539b-47d5-8d64-8892e6d07903"
+    },
+    {
+      "date": "2026-03-06T09:42:09.465Z",
+      "score": 5,
+      "thumbsUp": 7,
+      "user": "senzo mthembu",
+      "text": "Very user-friendly, you can even edit stuff, especially VAT where the Vendor is not Vat Registered.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=b1719e4e-bc85-47fa-a440-cf727f81ec2b"
+    },
+    {
+      "date": "2026-03-04T16:09:05.351Z",
+      "score": 5,
+      "thumbsUp": 23,
+      "user": "Angela Francis (AFFA Studio)",
+      "text": "This is actually pretty easy to use. It scans the receipt and it pulls the information out of the receipts for you. sometimes reads it incorrectly but easy to edit too.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=207329be-0b09-4e32-9535-9bb4f32c1e9f"
+    },
+    {
+      "date": "2026-03-02T22:36:49.443Z",
+      "score": 5,
+      "thumbsUp": 2,
+      "user": "Owais umer",
+      "text": "the app freezes and lags and the support is very bad, they never reply to the emails",
+      "reply": "Hi Owais, we’re sorry for the issues and for the delay in our email response. We've responded via email and will work towards fixing it.",
+      "replyDate": "2026-03-02T17:34:46.344Z",
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=5135b2b9-2fcb-4df1-87d8-450fee44e045"
+    },
+    {
+      "date": "2026-02-27T19:14:05.573Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "Jessica Alston",
+      "text": "Great app u can scan receipts to keep up with them in case you need to keep certain receipts it loads quickly no problem at all.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=4d6d414a-eb21-4214-9fcc-439ba9a57813"
+    },
+    {
+      "date": "2026-02-27T19:07:14.237Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "Fantahun merkineh Merkineh maldaye",
+      "text": "i am grade 8 student",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=73f5a01b-d3e5-4b92-a8d2-fead99b7c594"
+    },
+    {
+      "date": "2026-02-25T10:22:31.396Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Muhammad Umer Farooq",
+      "text": "not good privacy concern also it fails to scan my receipt",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=b88c0638-7abe-43c6-8c10-5612326d0357"
+    },
+    {
+      "date": "2026-02-25T00:35:23.329Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Ryan Zimney",
+      "text": "So far really easy. Just started today",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=cf5ee2ed-9158-4906-99ec-6156759d5d00"
+    },
+    {
+      "date": "2026-02-24T17:12:01.454Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Oren Crist",
+      "text": "great app, easy to use",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=7205f505-218b-40bf-b0fd-60a8334a6084"
+    },
+    {
+      "date": "2026-02-24T15:10:04.438Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Mercedes Keplar",
+      "text": "this is awesome",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=0f9eacc6-54a5-42ef-be65-7619e35cb2ce"
+    },
+    {
+      "date": "2026-02-21T06:30:34.435Z",
+      "score": 1,
+      "thumbsUp": 13,
+      "user": "Grace Notary INK “GraceNotary-INK” Brenda Hill",
+      "text": "I canceled the subscription before the trial week ran out and I still got charged for the stupid thing that was useless in my world. Refund me the $75.00, or I'll be reporting you to the better business bureau",
+      "reply": "Hi Grace, we’re sorry to hear about what happened. As part of our refund guarantee policy, we’d be happy to process a full refund for you. Please email hung@invoiceseasy.com and we’ll take care of it right away.",
+      "replyDate": "2026-02-21T22:38:48.457Z",
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=46847a4d-42d2-491b-a5aa-d81d6f9b9480"
+    },
+    {
+      "date": "2026-02-20T17:15:04.302Z",
+      "score": 5,
+      "thumbsUp": 12,
+      "user": "John Kennedy",
+      "text": "very flexible and easy to use... transfers well to my accountant",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=0ce69cbe-b4cd-47a1-baa6-891de8b72732"
+    },
+    {
+      "date": "2026-02-20T00:46:28.118Z",
+      "score": 3,
+      "thumbsUp": 1,
+      "user": "Kim Wayman",
+      "text": "it doesn't split the bill between net plus tax",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=9b5c10f5-876f-4fa2-af47-222915a0baf2"
+    },
+    {
+      "date": "2026-02-16T18:35:03.611Z",
+      "score": 5,
+      "thumbsUp": 2,
+      "user": "Malinda Cordova",
+      "text": "Perfect for receipt tracking. Their support has always been exceptional. Our business has been using this for years",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=36438f0a-783d-4924-8c5c-71dc46e30358"
+    },
+    {
+      "date": "2026-02-16T05:18:13.124Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Nicole Fleeman",
+      "text": "stupid and confusing.. like what's the point of this app??",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=fef95eae-6b38-4631-84bc-d75ebff1cd00"
+    },
+    {
+      "date": "2026-02-15T16:27:08.552Z",
+      "score": 5,
+      "thumbsUp": 2,
+      "user": "Vincent Pellegrino",
+      "text": "Works great and this is the best value for this type of app!. very configurable, great summary and reports generation ability. keeps track of everything. great for business or personal use, or both.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=74d1fa3e-2e1d-45b2-ae55-8ce6f3d0c4b2"
+    },
+    {
+      "date": "2026-02-14T16:18:06.752Z",
+      "score": 3,
+      "thumbsUp": 5,
+      "user": "bootsie kaking",
+      "text": "can't use properly the buttons below my phone's navigation bar. i think the screen kinda off.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=6e29b740-2407-4607-9e81-d689c3a13d2c"
+    },
+    {
+      "date": "2026-02-13T23:26:51.672Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Richard Lee",
+      "text": "very nice",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=00ce6a55-4542-473a-b116-88a5895351a7"
+    },
+    {
+      "date": "2026-02-12T17:59:55.701Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Jason A-R",
+      "text": "Doesn't let me sign up",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=4bc2fded-7954-467c-a103-be55db6f2e7e"
+    },
+    {
+      "date": "2026-02-12T07:58:58.316Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Serenia Natogakai",
+      "text": "good",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=6115f720-15cf-47a3-95a6-40fa3d10e0c4"
+    },
+    {
+      "date": "2026-02-11T10:27:25.625Z",
+      "score": 1,
+      "thumbsUp": 11,
+      "user": "Matt Strickland",
+      "text": "Another app that gives you a \"free trial\" as long as you sign up with your credit card. what happened to free being free?",
+      "reply": "You can also use the free version of the app with no credit card required. Scan up to 10 receipts per month for free. If there is anything I can do to help please reach out at eli@easy-expense.com",
+      "replyDate": "2026-02-11T17:36:50.804Z",
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=71e57377-1285-422a-8386-2a6ef4f76da3"
+    },
+    {
+      "date": "2026-02-10T23:23:44.342Z",
+      "score": 5,
+      "thumbsUp": 54,
+      "user": "Saber Amine",
+      "text": "I have been using it non-stop for the last 6 months. I flip houses. I build houses. I own rentals and this app is amazing! Thank you for an amazing app.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=03bb8375-66cd-416e-9bde-c5f459ef6ac6"
+    },
+    {
+      "date": "2026-02-10T18:34:35.528Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "jordan j",
+      "text": "not free",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=7957989a-6eea-421a-9780-5023bc66bac5"
+    },
+    {
+      "date": "2026-02-10T10:09:01.107Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Maksim Zarudniak",
+      "text": "minor annoying bugs, otherwise great!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=87f92c51-a632-4f83-ba94-9e1207a4deb0"
+    },
+    {
+      "date": "2026-02-08T14:58:32.860Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Bedria Banajah",
+      "text": "help full",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=04fb5000-adfb-49f2-9aca-07f339f57d9c"
+    },
+    {
+      "date": "2026-02-07T19:35:17.545Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Gerhard Thielmann",
+      "text": "I've been using this for years for my contracting and home inspection business. love it.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=630fa81d-9c04-4178-bac1-279aaa9eb6af"
+    },
+    {
+      "date": "2026-02-07T04:40:41.270Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Jonathan Ward",
+      "text": "good and easy app",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=a8a71d96-e7e2-4d60-9f51-e05e732a434c"
+    },
+    {
+      "date": "2026-02-07T04:12:31.628Z",
+      "score": 4,
+      "thumbsUp": 3,
+      "user": "Peter Jacobson",
+      "text": "easy to use but too early to give definitive feedback. like the scan process",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=70b24853-73f1-476b-9dce-c3ccfbc847f6"
+    },
+    {
+      "date": "2026-02-05T19:58:13.369Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Shawntell Jones",
+      "text": "i like this app",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=9073360e-9084-4cd1-9938-5d2b3937f628"
+    },
+    {
+      "date": "2026-02-04T23:23:55.410Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Daniel Tate",
+      "text": "awesome 👍😎",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=2ef7e931-cb17-4cfe-a439-79e40d927096"
+    },
+    {
+      "date": "2026-02-04T12:05:43.306Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Perfection Steenkamp",
+      "text": "Nice app,,, looks promising, I hope it works...",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=c59ca43e-9c8a-41b6-8f05-7733350b9a6d"
+    },
+    {
+      "date": "2026-02-04T04:19:57.174Z",
+      "score": 5,
+      "thumbsUp": 2,
+      "user": "Lorraine Martinez",
+      "text": "new to the app. but I like that I can track spending",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=4187df95-38ba-4e4b-8430-38f5ea9f735a"
+    },
+    {
+      "date": "2026-02-02T11:42:51.980Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Joel Izan",
+      "text": "This app is good",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=4cf30685-906a-4094-895f-0ab0ec767d7c"
+    },
+    {
+      "date": "2026-02-02T01:00:20.344Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "Emmanuel Mcfatten",
+      "text": "I believe this app with manufactured by somebody else than Google was playing like that was Google I wasn't able to use this app properly and it actually I described and pay for this app a refund as well for this one",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=4a8b7153-3f73-453a-b4a6-e5dc709d946c"
+    },
+    {
+      "date": "2026-01-30T20:58:21.951Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "cody lambe",
+      "text": "working great so far I'll let you know how it is when I finish my taxes",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=b2f962aa-6e50-4f26-8068-ad95cb453661"
+    },
+    {
+      "date": "2026-01-30T15:15:08.569Z",
+      "score": 1,
+      "thumbsUp": 4,
+      "user": "Nicholas Ramdass",
+      "text": "way to expensive per month for such limited features the free version and personal individual are basically the same from what I can see.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=285d7f4e-08a9-4206-ab71-c16d3abdc61d"
+    },
+    {
+      "date": "2026-01-28T16:39:29.690Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "IceBoi Express",
+      "text": "it takes time to pay",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=9c431aec-b944-49f0-92eb-0feed6097f42"
+    },
+    {
+      "date": "2026-01-26T13:09:59.839Z",
+      "score": 2,
+      "thumbsUp": 4,
+      "user": "Francien Potgieter",
+      "text": "This app appears great on the outset, but once you want to use the more involved functions like team work etc it falls flat. I have tried to contact the developer through the help function but got a message that they are not available",
+      "reply": "Hi we are generally available 9am-5pm PST. If you have feedback please email me at eli@easy-expense.com and I will help you ASAP!",
+      "replyDate": "2026-01-26T13:26:23.875Z",
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=0f13271e-8513-4a5a-9848-cca4400093c2"
+    },
+    {
+      "date": "2026-01-26T00:58:14.400Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "David Gayle",
+      "text": "So far this app has been great. It scans my gas receipts through my camera and adds the information to the app. A great way to track your expenses",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=f8b204c7-69d7-42a5-929a-a13f275b71a7"
+    },
+    {
+      "date": "2026-01-22T04:28:55.500Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "malesela elias ramaila",
+      "text": "Thanks a lot",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=0bd086df-88ae-4b5c-8249-090ba70874e9"
+    },
+    {
+      "date": "2026-01-20T21:17:12.260Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Dest Loyalist",
+      "text": "Te amo ♥️/♥️",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=8280a4bc-75f2-4066-b967-1e8a0bf64577"
+    },
+    {
+      "date": "2026-01-20T15:54:33.865Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "Khanyie Mlambo",
+      "text": "nice app",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=6e5ffe00-c490-41d1-b3d9-fcdca7f7ac16"
+    },
+    {
+      "date": "2026-01-18T20:58:53.476Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Mark Manley",
+      "text": "forces you to create a business account then login crashes repeatedly then app crashes, life is too short to use a terrible app like this, hire some real devs",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=30351644-7605-489b-a113-01acb6aaf7c4"
+    },
+    {
+      "date": "2026-01-16T01:37:44.833Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Elissa Faye",
+      "text": "App couldn't recognise my receipts? That's the whole point.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=93ab2ed2-e24a-4cfa-9369-5de9db3ee203"
+    },
+    {
+      "date": "2026-01-14T04:22:23.178Z",
+      "score": 3,
+      "thumbsUp": 1,
+      "user": "Sohail Khan",
+      "text": "it's fremium with 5 scans per month in free tier",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=81c44d6b-bf25-4b23-b6df-940bdccb6d8f"
+    },
+    {
+      "date": "2026-01-13T23:03:56.436Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Frank Kay",
+      "text": "first time using this very helpful",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=c7a25842-0fc8-4c3b-a85e-e9187472fe58"
+    },
+    {
+      "date": "2026-01-10T18:11:57.204Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Keith Kinney",
+      "text": "so far its amazing",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=283f7cf7-a6d8-4af4-927d-a0e77a0a9989"
+    },
+    {
+      "date": "2026-01-08T15:51:24.884Z",
+      "score": 4,
+      "thumbsUp": 4,
+      "user": "Matthew",
+      "text": "Looks very good, however the minimum price for reasonable features is $120/yr which is too much for me",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=be201467-a6e3-4d45-8383-78c6a8f8100c"
+    },
+    {
+      "date": "2026-01-08T11:45:52.410Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Anthony Jackson",
+      "text": "Easy to use.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=40e8d173-a4aa-48e6-b432-d7f7395a35cc"
+    },
+    {
+      "date": "2026-01-05T03:18:47.690Z",
+      "score": 4,
+      "thumbsUp": 2,
+      "user": "Aspen Ng",
+      "text": "pretty handy but a few glitches with double uploads especially with emailed receipts. must double check.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=cbc73462-21f5-4d78-9a98-76f79cbcb291"
+    },
+    {
+      "date": "2026-01-04T21:35:03.268Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Matt Schlemmer",
+      "text": "so far easy to get started. just downloaded so will update review",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=b5663728-7868-438f-adcb-0f86c81696eb"
+    },
+    {
+      "date": "2026-01-01T03:48:31.975Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Remington VROOM Roscoe",
+      "text": "good luck",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=182106e5-55b3-4577-ba62-ec28ed09a277"
+    },
+    {
+      "date": "2026-01-01T01:00:10.635Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Tiffany Joe",
+      "text": "cool",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=11473a87-6e24-4a1f-acdc-01d1da518f19"
+    },
+    {
+      "date": "2025-12-27T05:36:54.624Z",
+      "score": 4,
+      "thumbsUp": 2,
+      "user": "Marlon Kowalski",
+      "text": "Good for keeping track of spending. Good receipt detection with the camera.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=5882416c-8c5d-4d5c-8320-5f301c6acfce"
+    },
+    {
+      "date": "2025-12-26T13:21:39.944Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Fernando Gomez Garcia",
+      "text": "Thanks you 👍😊",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=1f3c8520-b133-4f0e-a5f4-b03d679b7579"
+    },
+    {
+      "date": "2025-12-25T18:34:04.311Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Malik Bachlani",
+      "text": "doesn't allow me to sign in via Google sign in. I tried 5 times, each time taking the same point,where I started.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=89997a09-fedf-4dd6-b00d-8e0e4f438c07"
+    },
+    {
+      "date": "2025-12-25T17:15:50.467Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Fernando Gomez Garcia",
+      "text": "Thanks you 🙏🙏🙏",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=84f69f4b-cfa1-446e-ae9e-2124655bbe77"
+    },
+    {
+      "date": "2025-12-24T04:12:22.839Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Riaan Pretorius",
+      "text": "cool cool",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=64472fc8-5e49-43ed-9c88-768d3e205b46"
+    },
+    {
+      "date": "2025-12-22T12:41:50.722Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Carlee Pawa",
+      "text": "doesn't payout scam",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=285ce9e8-aad2-4cea-9a70-585ea023dc27"
+    },
+    {
+      "date": "2025-12-20T01:43:28.228Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Jason Willesee",
+      "text": "unable to sign in just comes back to sign in page. uninstalled",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=697e3eac-6bcb-4665-af7b-182cffb148ac"
+    },
+    {
+      "date": "2025-12-19T06:00:04.301Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "Daniel “Sancho Panza”",
+      "text": "older scans, receipts are partially lost. only upper part is visible",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=b0893f10-5f13-4ab8-959e-4f2b8856ff74"
+    },
+    {
+      "date": "2025-12-17T16:52:43.663Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "William Estrada García",
+      "text": "Great app until now! really easy to save your receipts",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=9be99716-2fe8-4187-88e8-7a678a2401a7"
+    },
+    {
+      "date": "2025-12-15T07:31:12.576Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Mr. Frost 181",
+      "text": "not letting me sign in to Google smh",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=d95c280e-00df-49bf-88b4-4851e57362a7"
+    },
+    {
+      "date": "2025-12-15T01:36:50.188Z",
+      "score": 1,
+      "thumbsUp": 21,
+      "user": "john von",
+      "text": "This app has a lot of work it needs. I'm not sure when the last time they updated it but it is not really usable. the app missed date and time, amount, name of store, categorization, total price and tax is almost never even picked up. The fact that the owners charge people to use this is insanity. The app needs a overhaul from the beginning because I can't even scan basic receipts with it. use any other scanner app besides this.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=1a459fd9-42b4-4b1e-82f5-2635fb91540a"
+    },
+    {
+      "date": "2025-12-14T00:39:02.560Z",
+      "score": 4,
+      "thumbsUp": 6,
+      "user": "Ben O'Brien",
+      "text": "transaction record and my city name aren't business names and I'm not putting in a receipt for 1992, please just default to today and I'll change it if necessary",
+      "reply": "Hi Ben! Android 15 updated and it caused this, we have updated our app to fix this. Please open your app and follow the prompts to get the latest version!",
+      "replyDate": "2024-10-24T18:52:59.329Z",
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=dabf98c1-30bb-4c66-acae-5316e36a0a5b"
+    },
+    {
+      "date": "2025-12-13T09:56:52.444Z",
+      "score": 2,
+      "thumbsUp": 1,
+      "user": "janet weinbrecht",
+      "text": "not free if you have > 10 receipts per month.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=705eea8c-306b-4576-8ff0-f543cd510964"
+    },
+    {
+      "date": "2025-12-05T03:18:45.764Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Jaime Castillo",
+      "text": "good excellent",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=7df2505b-7872-4236-9148-a62df42139d8"
+    },
+    {
+      "date": "2025-12-04T22:39:08.328Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "Nicolas Richard",
+      "text": "This is great, thank you",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=7e159df2-2058-41de-b5e3-2bfdb16c5a58"
+    },
+    {
+      "date": "2025-12-01T17:25:22.943Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Antoine Bellamy",
+      "text": "Do not sell or share my information Bellamy",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=f71ff7b2-110d-4a57-892e-d8db0ad79f31"
+    },
+    {
+      "date": "2025-11-30T00:39:05.504Z",
+      "score": 5,
+      "thumbsUp": 4,
+      "user": "Tracy Davis",
+      "text": "Reasonable Cost and easy to use",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=265eb6eb-d09d-48ab-a8db-f14d6c580507"
+    },
+    {
+      "date": "2025-11-23T20:02:02.343Z",
+      "score": 5,
+      "thumbsUp": 3,
+      "user": "Andrae Watt",
+      "text": "I have been using this app to help organize my expenses over a year now, it's easy to use, the scan quality and picture quality is very good.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=b293ea5a-b7cb-4d22-98c8-a04f08218d23"
+    },
+    {
+      "date": "2025-11-22T22:31:46.434Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Brawl Brawl",
+      "text": "not working just asking to pay or quite cant even try the app. all reviews are fake. don't waste your time in this 🗑️🚮",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=e36c1133-1e26-4d7e-a1a1-f2f67201f2dd"
+    },
+    {
+      "date": "2025-11-22T16:33:04.228Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "RDA",
+      "text": "I wanted to set up the app for weeks but it doesn't allow me to enter email and password. It keeps saying \"woops... bla.. bla..contact support\" every time. This is before even trying the app. Waste of time",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=61d95a0d-ccac-4660-93b0-5631e45fa4da"
+    },
+    {
+      "date": "2025-11-20T22:40:40.168Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "J Boyle",
+      "text": "Still Awesome",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=105a7fc0-c1b4-4486-9740-880eda56fb63"
+    },
+    {
+      "date": "2025-11-20T00:28:56.544Z",
+      "score": 4,
+      "thumbsUp": 6,
+      "user": "Catherine Sparkes",
+      "text": "First Impression Review, new user. The app is simple, clean and easy to navigate, whuch has made gwtting started mych less intimidating than I expected. captueing receipts is quick ans the automatic docket recognition seems accurate. since I'm new can't comment on its long term valuw.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=4e24e309-3f24-40bc-a614-b2709c468f6d"
+    },
+    {
+      "date": "2025-11-19T18:32:52.288Z",
+      "score": 2,
+      "thumbsUp": 1,
+      "user": "Brian Dudley",
+      "text": "looked promising until I got to the point where it wanted $24 a month for me and my wife to track receipts. That seems very high for such a simple feature. Deleted the app immediately when I saw that.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=d8270d86-8957-4913-8bb7-d3112ff5f5a8"
+    },
+    {
+      "date": "2025-11-18T13:13:20.264Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Abbey Garcia",
+      "text": "easy app",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=171828a4-f27a-4033-883c-b0f1897f5b16"
+    },
+    {
+      "date": "2025-11-18T09:30:40.597Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Nisha Gray-Shivers",
+      "text": "The best app ever",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=008ea3a8-bf46-4ef2-bc0e-738a58e4e650"
+    },
+    {
+      "date": "2025-11-16T19:53:26.175Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Ronald Cooper",
+      "text": "love it 😄",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=26eae2a3-8ee2-4d6e-8e79-45721e93021a"
+    },
+    {
+      "date": "2025-11-14T21:44:12.954Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "Noah Tainole",
+      "text": "great app for keeping track of your expenses and income",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=ad114fb0-fd2d-480a-8b20-a3493c4f23f0"
+    },
+    {
+      "date": "2025-11-14T11:51:02.204Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Talha",
+      "text": "they charge the account straight away.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=92a994a7-47bf-46cf-b409-2af0e08c6eb9"
+    },
+    {
+      "date": "2025-11-13T16:52:17.188Z",
+      "score": 2,
+      "thumbsUp": 3,
+      "user": "Fir3s0nic_X Idk",
+      "text": "The functionality of the app is honestly great, but it's very frustrating how you only get 10 scans per Month for free. You have to pay to get more scans.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=76b9fb55-b342-45bf-a711-9ff8f0b711fe"
+    },
+    {
+      "date": "2025-11-12T20:49:16.400Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Jason Lindley",
+      "text": "frustrating, I tried to scan 1 receipt for 5 minutes it kept telling me to be still and was. soin unable to scan or use this app.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=a5ed589e-8e77-4108-9986-9128d4ce5ce8"
+    },
+    {
+      "date": "2025-11-12T10:55:07.259Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Sebastian Stoica",
+      "text": "after a few scans it promps you need to pay. don t recommend",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=9e767d75-f88d-4b4c-9ed2-c469a1fea397"
+    },
+    {
+      "date": "2025-11-11T00:15:30.111Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Maritza Gonzalez",
+      "text": "nice",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=00a3eadb-4dea-4fc9-b08c-0c9b47187814"
+    },
+    {
+      "date": "2025-11-08T12:27:46.950Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Eric Hutton",
+      "text": "horrible scanner",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=23249d28-bfab-4e84-ac1f-55ae2f2811a9"
+    },
+    {
+      "date": "2025-11-08T10:21:09.977Z",
+      "score": 5,
+      "thumbsUp": 4,
+      "user": "James Brooks (only1jimmyjamesdbl007)",
+      "text": "This is by far the best application to handle your receipts. I am disabled due to a fungal spore I inhaled on a jobsite from the dust blowing around. The result of this caused me to need brain surgery and many other operations. I have used several apps and not one can be compared to this app. The easiest and fastest way to stay organized espically for those who have problems with complex apps. For those getting assistance, this app makes it a breeze. I only wish I found this sooner. Thankyou",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=c3ead33d-f77d-43fd-bf7c-8e2ebe187b4e"
+    },
+    {
+      "date": "2025-11-05T20:30:39.789Z",
+      "score": 5,
+      "thumbsUp": 8,
+      "user": "Tom Clarke",
+      "text": "Tried many others, but this is the bomb. Auto scans and retrieves data from receipts, and files into appropriate group so well. Well done on a great app that is intuitive and so easy to use.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=8c91ac30-f56d-45b6-856b-a6537da15b0b"
+    },
+    {
+      "date": "2025-11-05T17:09:03.800Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Bo Mendez",
+      "text": "awesome",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=3af7da1f-0ede-4f42-a57f-f5cf6e6a2611"
+    },
+    {
+      "date": "2025-11-04T17:46:49.128Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "ELVER GALARGA",
+      "text": "pretty good so far TBH 💯",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=6660bebc-3707-4e1a-af0f-c7fab1e3790d"
+    },
+    {
+      "date": "2025-10-28T23:04:51.294Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Ravi Achhwani",
+      "text": "Using for personal use and is awesome and easy to use app.. Team is also very supportive.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=86d4f2ca-0f15-4003-bd87-007c9e43ae38"
+    },
+    {
+      "date": "2025-10-27T19:32:38.312Z",
+      "score": 1,
+      "thumbsUp": 2,
+      "user": "Andrew Maitland",
+      "text": "Click bait. Shows itself as a free app, makes you create an account, scan one receipt, then springs subscription on you. There needs to be moderation for these time wasters.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=dfdf5136-c9ec-4c2b-954c-62df4132fd23"
+    },
+    {
+      "date": "2025-10-27T06:38:50.301Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Hemant Gosai",
+      "text": "it is not free apps",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=945f11fc-8e45-4bd7-bdbd-e2218df1414d"
+    },
+    {
+      "date": "2025-10-27T03:32:21.552Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Fernandez Johnson",
+      "text": "awesome",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=e6de4bb6-7345-4b58-b1e2-a3e450557c2f"
+    },
+    {
+      "date": "2025-10-24T19:31:29.534Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Amanda Scalia",
+      "text": "love love this",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=dbdd8ef1-8038-4ad7-b0e9-d9326ca050cd"
+    },
+    {
+      "date": "2025-10-23T12:47:51.646Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Ken Baker",
+      "text": "junk you don't get money and it says you do",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=99b39909-3fa6-480b-bb0f-30025379f83b"
+    },
+    {
+      "date": "2025-10-22T01:57:48.727Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Shawn JOHNSON",
+      "text": "Awesome tracking financial information",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=6f8c2bee-1c3f-40df-9baf-f05b8f618dda"
+    },
+    {
+      "date": "2025-10-20T14:42:57.947Z",
+      "score": 1,
+      "thumbsUp": 3,
+      "user": "Terry",
+      "text": "App was once great and used it for a long time but recently it was calculating incorrectly and when taking a snapshot of receipts it's not recording the date on the receipt like it used to. I've deleted and reloaded the app, did all the updates and still not working. So now I've deleted the app.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=4b08cae2-8ca1-4b6e-b7e2-1efd332eafd5"
+    },
+    {
+      "date": "2025-10-18T12:57:00.915Z",
+      "score": 1,
+      "thumbsUp": 4,
+      "user": "Matt Chupp",
+      "text": "Bait and switch app. was absolutely great and then they limit your scans or ask for payment for expenses with dollars and euros.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=bbfa5b13-95f4-4d4f-8dd2-0477a6bbbb79"
+    },
+    {
+      "date": "2025-10-17T16:52:08.933Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "Lori Ritter",
+      "text": "difficult to find. usually use my camera for scanning everything.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=f77c5ec5-13c3-43af-9ea3-25060aa2756b"
+    },
+    {
+      "date": "2025-10-16T20:56:02.137Z",
+      "score": 3,
+      "thumbsUp": 0,
+      "user": "KEI4R",
+      "text": "I like it so far",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=6262d1e2-6d7d-4d66-9d8f-8fb38cd42370"
+    },
+    {
+      "date": "2025-10-15T23:50:35.273Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Renee Johnson",
+      "text": "Limited report formats and full page receipts shrunk to register size making them difficult to read. Uninstalling...",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=5a36c09e-c94a-4134-862f-947ab3c606a3"
+    },
+    {
+      "date": "2025-10-15T00:51:37.231Z",
+      "score": 1,
+      "thumbsUp": 2,
+      "user": "Texas Crasher",
+      "text": "Can't log in! I got a new phone and I'm unable to log in. It will not send the password reset, I've been trying all afternoon. I paid for this, I want to use it.",
+      "reply": "Please send me an email at eli@easy-expense.com and I will help you immediately.",
+      "replyDate": "2025-10-15T14:59:47.260Z",
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=1f2fcf15-008f-4bf6-bea5-39c325fe0981"
+    },
+    {
+      "date": "2025-10-14T05:26:21.561Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Rigo Martin",
+      "text": "ese to use",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=4cf34a56-98d6-4f8e-9b62-5f6a29a073e1"
+    },
+    {
+      "date": "2025-10-13T22:34:11.264Z",
+      "score": 5,
+      "thumbsUp": 8,
+      "user": "Sofala Maiava",
+      "text": "Wow!!😎This app is amazing where I could get a tax refund with every receipt I collect from buying items in-store, but there's one issue is that the Easy Expense doesn't have my bank branch online, which is a shame so I'm thinking maybe I should uninstall the app 🤔 because it has a lot of questions that I've completed mostly but all I can say to you all is think before you act and I do recommend this app to anyone who are interested and willing to make fast money with your receipts 🤑🤑🤑",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=3e1788f9-a74d-41c8-b8be-105a3bd485f0"
+    },
+    {
+      "date": "2025-10-13T19:03:06.472Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Ethan",
+      "text": "awesome app",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=291e10dd-8084-4116-8f19-a9a21d22a8f7"
+    },
+    {
+      "date": "2025-10-13T14:48:16.730Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Thamsanqa Joseph Ntoloane",
+      "text": "I think this is so good 👍",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=facd4f63-815e-4f4a-84e7-3e3aa1971088"
+    },
+    {
+      "date": "2025-10-10T22:44:22.126Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Donovan Shane Hamsen",
+      "text": "awesome app",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=792affb2-817d-4830-be0d-34a603550060"
+    },
+    {
+      "date": "2025-10-10T14:40:28.558Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Suresh Nayak",
+      "text": "nice app",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=bed39d59-7f0e-4892-8510-b700d25c0382"
+    },
+    {
+      "date": "2025-10-08T15:46:35.238Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Devon Connelly",
+      "text": "I'm wealthy 🤑",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=ca1392f5-0bb3-4252-9198-d88fe8241ddc"
+    },
+    {
+      "date": "2025-10-02T10:36:08.921Z",
+      "score": 1,
+      "thumbsUp": 4,
+      "user": "Joy Kaschel",
+      "text": "This app is a total and complete scam and they stole $75 from my account for a subscription I did not want or intentionally authorize.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=8eea5c5d-8069-450c-ba4d-1f9e41dca0a4"
+    },
+    {
+      "date": "2025-09-30T03:30:46.673Z",
+      "score": 5,
+      "thumbsUp": 3,
+      "user": "Natrlgrl",
+      "text": "I only downloaded this app today and just started using it, but so far, I am impressed. It seems to track all your bills and gives you a monthly total, which is exactly what I need.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=b4783ed0-dec8-4764-97ba-74ae5d1c1467"
+    },
+    {
+      "date": "2025-09-28T14:37:20.446Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Europe Invites",
+      "text": "unfortunately we are away for a couple weeks for our flight and we have not seen the passport and we are going out on our own now so we have attached attached invoice and other information on this one so we 8,568 need a new 7th one please 🙏 🙏 🙏 🙏 🙏 🙏 and I will have a better one in my",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=a0adbbf3-9960-4797-8e30-fa102ca34e42"
+    },
+    {
+      "date": "2025-09-28T12:12:36.860Z",
+      "score": 5,
+      "thumbsUp": 9,
+      "user": "Rick Yost",
+      "text": "I'm a new business owner and my interactions with this app and the customer service chat has been great! Very easy to use, take pics of receipts and it automatically shows all things that are pertinent to expenses!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=22ecbea0-64b4-469c-9ead-b1e760a3e71b"
+    },
+    {
+      "date": "2025-09-28T01:28:14.371Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "phire4luv G",
+      "text": "trash doesn't work",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=64479c34-faba-4da4-8fed-7c7ed5356d94"
+    },
+    {
+      "date": "2025-09-27T17:08:41.650Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "Sibusiso Elvis Maseko",
+      "text": "love it you can keep track your update And store them to safe place for the next coming tax clearance I really love it ❤️",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=b7755f38-c7c2-40c4-91fd-5ca740460b80"
+    },
+    {
+      "date": "2025-09-23T23:09:57.411Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Tim Dixon",
+      "text": "this is a great system and it's really helped me out.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=5846eeee-dc1e-44c5-9ea3-9b032a660ed0"
+    },
+    {
+      "date": "2025-09-23T14:52:07.702Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "Tammy AlbrightCoreil",
+      "text": "easy to use! Just what we need!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=59ba443f-adf4-4538-94a0-41a585c92a9c"
+    },
+    {
+      "date": "2025-09-21T13:55:37.350Z",
+      "score": 5,
+      "thumbsUp": 3,
+      "user": "Krystal Martinez",
+      "text": "This app is great! Easy to use, and very accessible. I love the UX!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=5f063c38-03f4-4c19-94a4-cac71b1df347"
+    },
+    {
+      "date": "2025-09-20T15:11:12.832Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "willem martinus de beer",
+      "text": "Super Easy and accurate.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=a1383863-261e-4d46-9f02-bfe5d1e6c0d9"
+    },
+    {
+      "date": "2025-09-19T19:04:12.145Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "John Fagan",
+      "text": "works good",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=eeee2cfc-442c-4873-8ac7-4b8b7e5ce241"
+    },
+    {
+      "date": "2025-09-18T12:14:40.510Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Tom Adams",
+      "text": "cameras not focusing",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=fe54f3e9-15c1-4d83-9041-ec36e90bffca"
+    },
+    {
+      "date": "2025-09-15T08:34:26.316Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Osvaldo Bucio",
+      "text": "easy app to keep track of expenses",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=8537820a-cbe9-4646-9f40-975e0c4fc62f"
+    },
+    {
+      "date": "2025-09-15T05:50:56.294Z",
+      "score": 5,
+      "thumbsUp": 2,
+      "user": "Stanley Muronzi Musa",
+      "text": "it's works perfect , tried and proved right, you can refer others too",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=14f150f6-732c-4555-8524-15b9d5401a87"
+    },
+    {
+      "date": "2025-09-12T20:06:01.439Z",
+      "score": 1,
+      "thumbsUp": 5,
+      "user": "Devan James",
+      "text": "Charged me a year with no warning and no way to cancel. Not suggested.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=f27ea948-5901-4d4c-9342-14885c26d9b5"
+    },
+    {
+      "date": "2025-09-11T03:04:03.586Z",
+      "score": 5,
+      "thumbsUp": 116,
+      "user": "Bubba Torr",
+      "text": "Amazing app. Helps me do what I need to keep my business going. Save your pictures to your phone before your attach them. For whatever reason the take a picture direct doesn't work so well. Still an amazing program. Accounting programs were over $100 a month, so I went ahead and bought the upgraded version of this program for $100 a year. Seemed like a no brainer.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=2d4871da-a488-4579-a208-300c3f320c6a"
+    },
+    {
+      "date": "2025-09-10T08:18:07.652Z",
+      "score": 2,
+      "thumbsUp": 5,
+      "user": "Rebecca Fuller",
+      "text": "Free trial period after which it requires you to choose a monthly or annual payment plan to continue use. I uninstalled after the second day when pop ups to choose a plan kept occurring.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=c5fafc0e-6002-4365-ba6d-45f8fb84ddba"
+    },
+    {
+      "date": "2025-09-09T22:20:57.101Z",
+      "score": 1,
+      "thumbsUp": 5,
+      "user": "Wanro Hayes",
+      "text": "Why would you go through all the personal information acceptance and access and then tell people to pay. This is bad form, now you sit with my info and I am not even using the app.",
+      "reply": "Hey, we have a free option for the app where you can scan up to 10 receipts per month. If you need full premium features and can’t afford it please reach out to me at eli@easy-expense.com and I’ll upgrade you for free as well.",
+      "replyDate": "2025-09-10T06:55:04.820Z",
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=f12ebecb-8f30-4f8f-9828-3b3c0ec530bb"
+    },
+    {
+      "date": "2025-09-07T14:21:06.253Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Heather Johnson",
+      "text": "its still new to me so idk what to say just yet about it but so far so good",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=d443d424-5828-4e3d-b77d-c000374c1000"
+    },
+    {
+      "date": "2025-09-06T18:55:43.278Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "Angel Eschenbrenner",
+      "text": "Makes budgeting easy!!!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=5ff54291-1683-411a-815d-bfb522495168"
+    },
+    {
+      "date": "2025-09-05T14:02:07.652Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "King's &Queen's",
+      "text": "love it",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=3cb6159c-84e8-47fd-9fbd-0f6098e5b6e5"
+    },
+    {
+      "date": "2025-09-04T14:21:39.753Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Carl Gagne",
+      "text": "im describing my experience",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=dbe872d2-b2a5-427b-9f66-c6c83ab29fae"
+    },
+    {
+      "date": "2025-09-02T03:04:37.462Z",
+      "score": 1,
+      "thumbsUp": 17,
+      "user": "Terrence Read",
+      "text": "Lost a bunch of my receipts that I know for a fact were uploaded. I wish I could get my money back! Stay away, you can find much better free apps for tracking expenses. Also the AI is not great at detecting words and numbers. 1 star!",
+      "reply": "Terrence - could you please contact me at eli@easy-expense.com, sometimes users track expenses under multiple accounts or workspaces. We can help you recover any lost receipts. We also have a money back guarantee if you are not satisfied with the app. Happy to help you get a refund if we fell short of your expectations!",
+      "replyDate": "2025-09-02T17:24:41.194Z",
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=103339e3-063c-4ee1-8e4c-e0a2ffa82ab9"
+    },
+    {
+      "date": "2025-09-01T07:24:11.812Z",
+      "score": 2,
+      "thumbsUp": 3,
+      "user": "Rom&Chris Costantini",
+      "text": "Good concept, but the reality that it fails to read my receipts correctly. It allows me to enter my country but doesn't use my currency.",
+      "reply": "Hey Chris can you message in app support or email me at eli@easy-expense.com and I can show you how to change the currency in the app!",
+      "replyDate": "2025-09-01T15:07:17.649Z",
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=353f6f8d-8818-4a85-9f4b-965dd88c637b"
+    },
+    {
+      "date": "2025-08-31T06:24:17.513Z",
+      "score": 5,
+      "thumbsUp": 2,
+      "user": "sydney ambler",
+      "text": "So far so good, haven't used it to it's full potential but love how it scans and records expenses.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=7940d880-1e4a-4f4d-9326-05dc03b5bf93"
+    },
+    {
+      "date": "2025-08-29T13:51:30.109Z",
+      "score": 2,
+      "thumbsUp": 1,
+      "user": "Nikita Sourine",
+      "text": "uploaded store receipt and failed to scan. photo was clear.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=41a70f4e-e57f-4829-b88c-0125ab6a45e4"
+    },
+    {
+      "date": "2025-08-27T12:15:17.214Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Tracy Falen",
+      "text": "easy to do and has great info to help my business grow by telling me we're im losing the most etc.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=ab613086-6b7f-465f-a063-a186da8af79f"
+    },
+    {
+      "date": "2025-08-26T20:56:48.675Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Michael Egger",
+      "text": "easy to use",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=c30f699b-5fd9-4a5b-b0c9-af5c973bea37"
+    },
+    {
+      "date": "2025-08-26T13:49:19.425Z",
+      "score": 3,
+      "thumbsUp": 8,
+      "user": "Youngstown Local",
+      "text": "nice app! I've tried a few and this one is in my top three. I just wish it was cheaper, for a small business or sole proprieter tracking expenses and mileage unlimited would be great but not for $24 plus tax/fees a month. it would be nice if they added the mileage tracker to the $8 plan and offer a discounted yearly option.",
+      "reply": "We have a 50% discount on annual for the pro plan bringing it to just $12 / month for all our features including free business and personal tax filing.",
+      "replyDate": "2025-09-01T15:09:24.947Z",
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=afe4cd2a-fbbe-46d9-87ef-0afafd37d34d"
+    },
+    {
+      "date": "2025-08-24T17:01:39.661Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Brian Gilman",
+      "text": "Unable to create an account with an email other than going thru Google",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=0f35d51f-8ae7-425d-aa1b-c9f857743e17"
+    },
+    {
+      "date": "2025-08-24T02:19:27.265Z",
+      "score": 5,
+      "thumbsUp": 2,
+      "user": "Destinee M.",
+      "text": "just try my free trial so far seems pretty easy to navigate. been looking for something user friendly since the beginning of the year when I became self-employed",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=311dc1cd-e001-47ab-b7cf-5418299c4ff6"
+    },
+    {
+      "date": "2025-08-23T20:20:56.290Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Heather Coram",
+      "text": "Uhm NOOOOO. 6 dollars a month? Get REAL. NOT everything needs a SUBSCRIPTION.. . Good grief. 🙄🙄",
+      "reply": "Heather - storing image data, customer support, paying the play store, server costs for receipt processing ect. all cost a lot of money every month. We don’t sell customer data so we rely on subscriptions to cover these costs. If you can not afford the price send me an email at eli@easy-expense.com and I’ll upgrade your account for free.",
+      "replyDate": "2025-08-24T01:44:13.274Z",
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=c5355785-5675-4323-89e6-b5019b14671e"
+    },
+    {
+      "date": "2025-08-22T12:34:40.535Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Matthew Wardlaw",
+      "text": "actually very useful",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=29051077-5fdb-4570-9685-1759834775eb"
+    },
+    {
+      "date": "2025-08-22T07:21:27.813Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Reagan Populi",
+      "text": "safaty",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=b70553a9-a5f8-4136-bf24-1ab0e3bb6413"
+    },
+    {
+      "date": "2025-08-20T13:11:04.649Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "Asifur Rahman Niloy",
+      "text": "I am not received yet my funds on my bank",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=c0f824d2-a354-4355-a19e-7c892feaab9c"
+    },
+    {
+      "date": "2025-08-19T20:24:39.549Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "M C",
+      "text": "does not pay out.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=a778a67c-6ed2-4343-9960-1f5c21eb74cb"
+    },
+    {
+      "date": "2025-08-19T18:00:16.362Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Adrienne Provent",
+      "text": "Uploaded app, took first photo, filled out info, kept saying photo not uploaded to attach.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=541c4433-ea54-4faa-a2d5-a2d843b58a66"
+    },
+    {
+      "date": "2025-08-17T11:33:09.462Z",
+      "score": 1,
+      "thumbsUp": 8,
+      "user": "Scott Hawken",
+      "text": "Not free for individuals as I thought and was advertised. I've signed up to the one week trial but the app so far does a poor job at ocr and text recognition and I have to enter every detail including amounts. Can't see the value in this app.",
+      "reply": "Hi Scott, you can scan up to 10 receipts per month and create two expense report for free. You can add unlimited manually for free. If you have any questions or there is anything I can help with please email me at eli@easy-expense.com",
+      "replyDate": "2025-06-02T20:44:38.151Z",
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=45538ef2-03e6-4d65-ba1e-e78a2d0c293f"
+    },
+    {
+      "date": "2025-08-16T07:23:45.449Z",
+      "score": 1,
+      "thumbsUp": 5,
+      "user": "M P",
+      "text": "not mentioned until the last set up step No free account as a ongoing subscription. you have to sign up into a plan THEN cancel it. false advertising & breach of Australian consumer law to say free isnt actually free without sign up",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=47af23f5-779d-43e6-9831-c8f065a53ab3"
+    },
+    {
+      "date": "2025-08-15T12:57:57.770Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Janet Isom",
+      "text": "perfect expense recorder for business or home.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=5f966760-527d-4983-bd55-d42343ef8d93"
+    },
+    {
+      "date": "2025-08-14T22:00:36.595Z",
+      "score": 1,
+      "thumbsUp": 2,
+      "user": "En Kerro",
+      "text": "paid app with a lame free trial. does not split expenses by row. terrie and handicapped app is could code in a weekend.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=3aec2935-0feb-44b5-9e2d-d844164da7ad"
+    },
+    {
+      "date": "2025-08-13T11:40:29.446Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "Lighton",
+      "text": "it makes my life easier by keeping the receipts and doing all calculations. I'm enjoying it.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=4486edd0-da99-47a2-89cd-09215815b047"
+    },
+    {
+      "date": "2025-08-12T19:23:20.274Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Jarqueze Underwood",
+      "text": "glad to have it",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=37125c58-eb07-4a7f-a0d3-c30be4ff5771"
+    },
+    {
+      "date": "2025-08-12T09:15:19.755Z",
+      "score": 4,
+      "thumbsUp": 4,
+      "user": "Phoenix Dance School",
+      "text": "This app is really easy to work with and stunning to use for my very small business. however I have one flaw when it comes to the automatic tracker or manual log in of driving the KM travel is very wrong and the map doesn't pick up where I am in South Africa. otherwise great app",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=cc139cac-4002-4a9a-ad54-0c2676fa561d"
+    },
+    {
+      "date": "2025-08-10T15:47:18.883Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Sebastien (350z_zena)",
+      "text": "great so far",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=0a381cc6-2a86-403a-b1a8-60c346ffad47"
+    },
+    {
+      "date": "2025-08-10T02:42:01.766Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Wondewosen G",
+      "text": "it's the best app",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=1446dd59-2e12-4e8a-9518-639bac80ca62"
+    },
+    {
+      "date": "2025-08-07T11:55:50.625Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Shawniesha Burns",
+      "text": "Cool If !",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=606032ee-40a2-4122-ad3f-bab6393ac46e"
+    },
+    {
+      "date": "2025-08-07T05:01:39.709Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "great white",
+      "text": "scam app. uninstalling",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=91f7b97d-2486-4131-b3af-ee8e8670272a"
+    },
+    {
+      "date": "2025-08-05T10:04:03.730Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Claire Marie",
+      "text": "does not show amount",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=7107e5b4-b268-4dff-b842-5a67d5f25a7a"
+    },
+    {
+      "date": "2025-08-05T06:44:27.512Z",
+      "score": 4,
+      "thumbsUp": 1,
+      "user": "Alex Carter",
+      "text": "Good and mostly does what I want. But splitting emailed receipts up over multiple attachments rather than one makes it much harder to just attach everything when submitting etc",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=279b68bf-6282-41ff-96ee-fa6396f1456c"
+    },
+    {
+      "date": "2025-08-02T20:35:50.864Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Felix T. Williams",
+      "text": "experience well",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=4169ba0d-6267-415e-bc5c-90dfbcc139af"
+    },
+    {
+      "date": "2025-08-02T11:21:44.895Z",
+      "score": 3,
+      "thumbsUp": 1,
+      "user": "Derrick Collins",
+      "text": "Always freezes during milage input! I get so annoyed I'll ignore it for 2 weeks then have spend a hour classifying drives.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=88ec99e5-d4cf-4c55-88c7-8d2d3c9ecef6"
+    },
+    {
+      "date": "2025-07-30T21:04:20.240Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Simon Alvarado",
+      "text": "easy",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=f0e172cc-a777-40e2-a95e-4ea9a46a2b99"
+    },
+    {
+      "date": "2025-07-22T23:53:09.209Z",
+      "score": 1,
+      "thumbsUp": 3,
+      "user": "TarAp Pa",
+      "text": "Wasting time signing up and finding out that you have to pay for subscriptions!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=9c34b251-4ca4-42ce-b988-ffcceee31a39"
+    },
+    {
+      "date": "2025-07-21T07:56:42.985Z",
+      "score": 5,
+      "thumbsUp": 8,
+      "user": "Greg Brown",
+      "text": "I have been using Easy Expense for 3 years now. It does my expense Reports weekly download them & password them on by attachment. It has a summary page & copy of receipts. l love it cannot say enough about it. Recommended it to my co-workers many times. Try it you will love it",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=6544a7a4-ecd1-402a-b827-2b804e2be2d4"
+    },
+    {
+      "date": "2025-07-20T03:57:51.209Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "Andrus Gomez",
+      "text": "wonderful easy to use.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=fe4b0333-eed6-4ab6-a9da-57cf90b644f9"
+    },
+    {
+      "date": "2025-07-19T19:13:23.688Z",
+      "score": 1,
+      "thumbsUp": 19,
+      "user": "Darlene Inman",
+      "text": "BEWARE this predatory app, it's a free download but you have to sign up for an account and the free version only allows you to scan 10 receipts a MONTH, of course they don't tell you that until they get your email.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=c1561b7c-3bbd-4022-91ad-0170e15c4ed1"
+    },
+    {
+      "date": "2025-07-19T11:01:09.271Z",
+      "score": 2,
+      "thumbsUp": 2,
+      "user": "A",
+      "text": "Plans way too expensive!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=981a9ab9-647b-45bb-be12-dc9a29cbaeda"
+    },
+    {
+      "date": "2025-07-17T05:16:39.863Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "David B",
+      "text": "amazing",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=6ad4db55-e989-495a-a976-928fcc771d85"
+    },
+    {
+      "date": "2025-07-15T23:38:57.904Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "Azza Russell",
+      "text": "get app, very easy to use and upload expenses to",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=f0cbe13e-4c6c-4e9e-bfe3-c39caea095a8"
+    },
+    {
+      "date": "2025-07-14T21:13:42.150Z",
+      "score": 1,
+      "thumbsUp": 13,
+      "user": "Nat Grace",
+      "text": "update: let me make myself clearer- when you are setting up the app, you are forced into a free trial to use the app. that's dishonest. you can't click out of it, you are forced to accept a free trial and sign up for a subscription or upgrade. that's what makes this application dishonest.",
+      "reply": "Hi - you can scan up to 10 receipts per month for free and do unlimited manual tracking. If you can't afford our premium features please reach out to me: eli@easy-expense.com and I can help you get upgraded for free.",
+      "replyDate": "2025-07-14T16:15:34.347Z",
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=50110c08-9566-48c8-99d4-eb0e78106f82"
+    },
+    {
+      "date": "2025-07-12T20:53:56.582Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "Par",
+      "text": "A little late in writing the review. Hung & Juan at customer service are amazing! They got back to me, even though I had not chatted with them in two years.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=304602b9-8e7a-435d-8e1d-1b6045b864b7"
+    },
+    {
+      "date": "2025-07-12T20:36:11.618Z",
+      "score": 1,
+      "thumbsUp": 3,
+      "user": "Erik Snow",
+      "text": "Unable to change date format to the ISO8601 standard I require for reporting.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=261d646f-927f-44e5-ac1d-548b61282095"
+    },
+    {
+      "date": "2025-07-11T17:50:28.668Z",
+      "score": 5,
+      "thumbsUp": 2,
+      "user": "Nancy Stewart",
+      "text": "really easy to use and great to get reports from",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=6aa3a5e9-140c-49f2-a779-298169c2830c"
+    },
+    {
+      "date": "2025-07-05T13:35:53.841Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Shannon Valiente",
+      "text": "Definitely useful and helpful 👍",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=ec224dcd-3123-446b-99d9-d4f07fb9b96f"
+    },
+    {
+      "date": "2025-06-30T20:23:36.370Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "GoAsFarAs YouCanSee",
+      "text": "NOT FREE",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=bb665201-c4f6-485e-8496-31d02545d2c8"
+    },
+    {
+      "date": "2025-06-28T18:06:39.845Z",
+      "score": 5,
+      "thumbsUp": 2,
+      "user": "Normia Vazquez Scales",
+      "text": "Very user friendly and expedient.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=72d337c8-719f-4482-a06e-ca0a93387788"
+    },
+    {
+      "date": "2025-06-28T06:59:40.946Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Austin Kimnach",
+      "text": "awesome app so far on the free trial",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=1c3af6f6-aa8c-4444-a00d-787fc27c72e0"
+    },
+    {
+      "date": "2025-06-28T04:32:53.273Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Kris Mullins",
+      "text": "great and easy",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=6c5c4682-dc9a-4689-a97b-5a43132dc786"
+    },
+    {
+      "date": "2025-06-27T01:05:29.610Z",
+      "score": 3,
+      "thumbsUp": 3,
+      "user": "Emily W.",
+      "text": "so it's not free, and doesn't run on donations like another comment said. its 119.00 a year, which is gone if you are running a business, but not for general population .",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=ce024c32-1131-4781-9166-ed806e1248c6"
+    },
+    {
+      "date": "2025-06-25T19:25:26.695Z",
+      "score": 5,
+      "thumbsUp": 2,
+      "user": "Zehren Walker",
+      "text": "Super helpful. I've been using to track expenses that are commingled in same bank account.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=8b38771c-24c3-4789-8bf3-4115e2598acb"
+    },
+    {
+      "date": "2025-06-25T08:26:32.341Z",
+      "score": 4,
+      "thumbsUp": 3,
+      "user": "Margaret Janine Kellerman (Maggie)",
+      "text": "Consider placing receipts visible according to the month and year being viewed. Having all the receipts from all the months and years, especially when adding new receipts could lead to inaccuracies and frustrations on the user end. Also, why is there not a monthly subscription option?",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=c2fcd2d3-a3cb-43f0-a652-4a893d049075"
+    },
+    {
+      "date": "2025-06-25T03:27:01.200Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "SK Ann",
+      "text": "Workspace freezed the activity",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=46615770-cce0-4233-9872-eff1e3e0a16f"
+    },
+    {
+      "date": "2025-06-24T01:03:06.290Z",
+      "score": 5,
+      "thumbsUp": 2,
+      "user": "Michael Warwick (Mike)",
+      "text": "cool app, very easy to use and sharable to others. still in the trial period, so will update again after that.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=607d41d8-8a43-4abe-b47b-d7d60e917c5a"
+    },
+    {
+      "date": "2025-06-20T11:02:29.665Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Gee Gee",
+      "text": "it's very good",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=61e2d221-df21-4cea-bcba-9850fabaeae6"
+    },
+    {
+      "date": "2025-06-19T20:18:01.715Z",
+      "score": 2,
+      "thumbsUp": 1,
+      "user": "Tony H",
+      "text": "upload incomplete happens more often than not.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=bdc0399e-133a-4b04-9f81-95a463090bc0"
+    },
+    {
+      "date": "2025-06-17T15:02:58.466Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Hugh Hawarden",
+      "text": "Easy to use.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=135da77c-69b7-416e-87ae-fe0d2abb0f41"
+    },
+    {
+      "date": "2025-06-17T10:38:39.846Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Mogope Tsoka",
+      "text": "excellent app",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=9f865ac3-e9aa-4d5b-a505-39806156b652"
+    },
+    {
+      "date": "2025-06-16T20:58:25.393Z",
+      "score": 2,
+      "thumbsUp": 21,
+      "user": "John Doe",
+      "text": "I highly recommend trying Slip-Scan instead. It is way more accurate, has more features, and can actually extract line-items with AI. It's also free and the premium plans are way cheaper. Easy expense has failed to extract my invoices correctly, it keeps getting dates, prices and vendor names wrong. Also, the categorization is not dynamic. I understand its purpose but I feel there far better apps that do more for way less...",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=b4e311a1-279f-4e85-940e-a08fe2b5ce64"
+    },
+    {
+      "date": "2025-06-15T19:46:32.590Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Jaewae Real",
+      "text": "it works",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=f16143ef-e799-4489-8997-31e7eceb0916"
+    },
+    {
+      "date": "2025-06-14T05:41:19.885Z",
+      "score": 3,
+      "thumbsUp": 1,
+      "user": "S K",
+      "text": "great app...but paid premium version is far too costly..",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=b2aa041b-c9a2-452b-94be-0d6ae4cd48c1"
+    },
+    {
+      "date": "2025-06-05T12:11:43.903Z",
+      "score": 5,
+      "thumbsUp": 28,
+      "user": "odamtten87",
+      "text": "So far, excellent! I only need fairly basic functions - receipt scanning, email in. but the extra options like auto tracking mileage, the UI, the categorisation have already made next year's taxes more streamlined. Customer service has been great so far, helping me have the features I need at a price I can afford (I'm now saving money from the previous app I was using that had fewer features). Would recommend!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=57040aef-4a1f-4f91-9d37-c472863ae975"
+    },
+    {
+      "date": "2025-06-04T21:57:45.621Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Lidus Lid",
+      "text": "I love it so far!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=c37f5ae2-6f9d-405d-a02d-77ccc2d7e93f"
+    },
+    {
+      "date": "2025-06-04T04:48:03.277Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Josh Zall",
+      "text": "really easy to use",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=7f950364-d389-44f4-afb2-fa7761b6b907"
+    },
+    {
+      "date": "2025-06-04T01:43:01.647Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Nic Wicks",
+      "text": "brilliant",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=b8889034-f6ea-4c0a-8fe1-10050435f349"
+    },
+    {
+      "date": "2025-06-02T17:19:42.536Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Jonathyn Bruno",
+      "text": "its good",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=a681ad51-b071-48ce-a241-ad0e680071b3"
+    },
+    {
+      "date": "2025-06-02T15:03:30.961Z",
+      "score": 4,
+      "thumbsUp": 1,
+      "user": "Mancurry Edwards",
+      "text": "Works well for recording purchases",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=0dbb046e-3a13-4b92-96c6-a73d186e72dc"
+    },
+    {
+      "date": "2025-06-01T04:06:50.450Z",
+      "score": 4,
+      "thumbsUp": 0,
+      "user": "Jeremy Whitaker",
+      "text": "Too expensive for a small business like me. $24 a month is high.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=7aa89382-8c10-4b26-b1fc-ad117fcc26bd"
+    },
+    {
+      "date": "2025-05-30T00:15:28.868Z",
+      "score": 2,
+      "thumbsUp": 13,
+      "user": "Richard Engel",
+      "text": "Looks good but when I tried signing up with my own email and password it kept says \"Whoops. Something went wrong. Please try again later.\" I kept trying without success. Out of curiosity, I selected log in with Google and that worked. I don't want Google to see all my transactions so I won't be using the app. I Wish it would have just let me use my own credentials.",
+      "reply": "Please contact in app support or email me at eli@easy-expense.com and I’ll help you reset your password. Google Auth just lets you log in securely it does not give Google access to data.",
+      "replyDate": "2025-05-30T16:16:55.841Z",
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=e9eae69a-34c2-49bd-b215-ef0e19757546"
+    },
+    {
+      "date": "2025-05-29T03:39:50.121Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Vineet Narotra",
+      "text": "super app. love using it",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=b4ca84e9-a459-4ed6-8d21-43b06d1d4ced"
+    },
+    {
+      "date": "2025-05-27T13:08:41.430Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Jimmy Bailey",
+      "text": "incredible app",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=0a37f545-2b39-43e2-b70f-cdb3f5461a3f"
+    },
+    {
+      "date": "2025-05-26T13:57:42.664Z",
+      "score": 1,
+      "thumbsUp": 23,
+      "user": "Ryan Bogdewic",
+      "text": "You bunch of slime ball scumbags! I haven't used this app in a couple of months, and when I do, you're now charging for it?! Fa-Q! Your app sucks because none of the information goes into the proper categories when you snap the receipt, and you waste a lot of time manually correcting it... everytime!! And now you want to charge a premium service charge for something that doesn't work?! Again... Fa-Q!! I actually purchased yearly subscription to SimplyWise because how much better it works. Fa-Q!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=1d37ae4e-3efb-4d62-9c39-086e7ed6c4c4"
+    },
+    {
+      "date": "2025-05-26T11:18:38.166Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "Kanwal Preet",
+      "text": "exceptional performance",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=b6052347-6aa7-48df-b2e2-bbdec4fbfb32"
+    },
+    {
+      "date": "2025-05-22T00:26:57.868Z",
+      "score": 5,
+      "thumbsUp": 5,
+      "user": "Jared T",
+      "text": "so far this is freaking easy to use. I've been taking my time to file because of all the receipts. Now I wish I would have found this sooner. a must have",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=b052792d-9f6f-4ca2-a84a-d506ec45b6a7"
+    },
+    {
+      "date": "2025-05-21T12:31:20.673Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Jason cannion II",
+      "text": "stealing people money, this app took 74.99 away with out my permission and then issues a non refund even if it was a trial",
+      "reply": "Jason - please contact me at eli@easy-expense.com we have a 100% refund guarantee.",
+      "replyDate": "2025-05-21T15:28:06.922Z",
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=d93926a3-9f43-43b0-bdb6-289c911d08b8"
+    },
+    {
+      "date": "2025-05-21T02:18:10.950Z",
+      "score": 1,
+      "thumbsUp": 2,
+      "user": "Ron Christie",
+      "text": "Couldn't sign in with Google. 2 factor authentication enabled. Entered the Google user name and password, clicked continue, got the two factor authentication dialog, clicked \"Yes it's me, waited a second and the same login dialog appears.",
+      "reply": "Ron - can you send me an email at eli@easy-expense.com, I'd love to help.",
+      "replyDate": "2025-05-30T19:07:12.499Z",
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=d910e80e-92f5-4815-b10c-5703b74e4b0c"
+    },
+    {
+      "date": "2025-05-19T07:53:59.400Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "Neil Cook",
+      "text": "I like the way this works.. alot. just wish it was free and would keep notes of each item.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=4d769b1e-211d-4401-969e-54cad46759dd"
+    },
+    {
+      "date": "2025-05-18T16:57:54.158Z",
+      "score": 3,
+      "thumbsUp": 25,
+      "user": "C M",
+      "text": "It's a cool app with potential, but it misclassifies way too much. It pulls from my email and automatically logs receipts, which is convenient-but it constantly tags refunds, estimates, and even reimbursements as income. That's not just wrong, it could seriously mess up my taxes if I didn't double check everything. Also it desperately needs a way to scan long receipts like every other receipt app. Along with a camera widget option for multiple workspaces",
+      "reply": "Can you contact me at eli@easy-expense.com, I'd love to go over this feedback together so we can add it to the app.",
+      "replyDate": "2025-05-21T19:18:47.486Z",
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=ef7dc605-b1e6-44cf-b5d2-57fcca44898b"
+    },
+    {
+      "date": "2025-05-17T23:45:27.708Z",
+      "score": 2,
+      "thumbsUp": 2,
+      "user": "G F",
+      "text": "75 to 80 a year for personal use. no thanks.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=39280342-52b3-435e-99ba-2d7d382e5da4"
+    },
+    {
+      "date": "2025-05-16T23:12:03.160Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Tiffany Bonner",
+      "text": "just downloaded this app but so far I love it. we will see how it goes.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=af888de4-4c75-4c5e-a350-1fc42457d5fc"
+    },
+    {
+      "date": "2025-05-14T10:02:08.300Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "ERNEST TSHABALALA",
+      "text": "good returns when you buy",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=1938a5c2-d64c-4f06-9dcd-c946ba3b76b8"
+    },
+    {
+      "date": "2025-05-09T05:38:30.921Z",
+      "score": 4,
+      "thumbsUp": 1,
+      "user": "Dan Norman",
+      "text": "really easy to use and well laid out.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=baf4ea82-b9e8-4f1a-9b81-27fb2f60aaa2"
+    },
+    {
+      "date": "2025-05-08T14:14:49.619Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Eric !",
+      "text": "fantaatic",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=5e796ef3-dce0-4691-86ae-567331b234f4"
+    },
+    {
+      "date": "2025-05-05T11:23:58.504Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Saahkorlee yarmai",
+      "text": "i have just started using this app, but my friend is enjoying the service, and he introduced me to this app. i believe it is worth enrollment.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=0bdd239f-ef88-4d0f-a6ff-1c066d4a1e7a"
+    },
+    {
+      "date": "2025-05-05T07:29:10.891Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Mark Todd",
+      "text": "not free",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=290478c9-0d40-43db-b333-718361e38ae5"
+    },
+    {
+      "date": "2025-05-05T04:45:49.524Z",
+      "score": 1,
+      "thumbsUp": 0,
+      "user": "Rocky Hirini",
+      "text": "Just learnt it is not new zealand compatible so in respect at 500k I'm sure is a great app so 1",
+      "reply": "Hi Rocky - could you email me at eli@easy-expense.com I'd love the opportunity to make the app work for your needs in New Zealand.",
+      "replyDate": "2025-05-05T20:07:15.502Z",
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=2ca16732-29a7-4d84-82f6-0a36c855fb38"
+    },
+    {
+      "date": "2025-05-04T17:35:57.154Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Malik Muhammad Asghar Sandi",
+      "text": "Good Job",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=d9eca3c4-971d-463b-a8e0-2db6bd105c05"
+    },
+    {
+      "date": "2025-05-04T13:35:14.182Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Skye Atchison",
+      "text": "love this app.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=0d29a750-5b87-41e3-aa16-625c927bb413"
+    },
+    {
+      "date": "2025-05-03T23:04:23.559Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Donnie Lee",
+      "text": "so far this app has been good.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=50ad0e75-10d6-4f97-86bc-9fbb61d5c6aa"
+    },
+    {
+      "date": "2025-05-02T03:05:25.750Z",
+      "score": 1,
+      "thumbsUp": 3,
+      "user": "Vajeeh Paracha",
+      "text": "Needs a free version or one time payment option.",
+      "reply": "Vajeeh - you can scan 10 receipts per month for free and manually add as many expenses as you want. If you can't afford premium please reach out to me at eli@easy-expense.com and I will upgrade your account for free.",
+      "replyDate": "2025-05-06T21:30:01.970Z",
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=8ed07145-d5a5-431a-8879-18a12df5d8fc"
+    },
+    {
+      "date": "2025-04-25T16:09:31.772Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Priscilla Murray",
+      "text": "I WILL TRY THIS OUT JUST TO SEE IF THERE ARE RESULTS BYE 👋 EVERYONE",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=df38d19f-8d98-4929-87c4-695930400698"
+    },
+    {
+      "date": "2025-04-24T13:11:13.170Z",
+      "score": 5,
+      "thumbsUp": 2,
+      "user": "Laurie Elizabeth Tullier",
+      "text": "Very cheap and helpful for keeping track of mileage and receipts!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=2d527ffb-c450-4cb6-bd67-056140f966ef"
+    },
+    {
+      "date": "2025-04-22T21:13:41.292Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Jordan Hanash",
+      "text": "this is the app to have for keeping track of expenses. bank reconciliation doesn't work with all banks but workaround is to upload statements every month until it does.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=1e26dd0a-75a1-45c1-9d67-8894e02360b7"
+    },
+    {
+      "date": "2025-04-20T18:59:20.570Z",
+      "score": 5,
+      "thumbsUp": 3,
+      "user": "d armstrong",
+      "text": "easy to log transactions and the reminders set are great",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=e58b92fa-c02e-4c99-afbd-8ed4861e8e07"
+    },
+    {
+      "date": "2025-04-19T20:03:42.828Z",
+      "score": 2,
+      "thumbsUp": 0,
+      "user": "Kyle Fisher",
+      "text": "shouldn't have to create an account just to do this sort of stuff, just do it locally, I don't get the whole everything needs an account thing these days",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=5aad7049-e54a-4c18-b5e4-ec1ba65b4123"
+    },
+    {
+      "date": "2025-04-18T12:23:36.916Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "Amanda Jackson",
+      "text": "so far this app is great! seems to work well with no glitches. I love that I can add receipts that are texted to me, or a paper copy. it really helps me not to miss recording my business expenses, when I don't have a printer nearby.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=9cda4236-6e39-4a79-8950-211c3a6ec134"
+    },
+    {
+      "date": "2025-04-17T19:31:14.943Z",
+      "score": 4,
+      "thumbsUp": 2,
+      "user": "Ian Bruce",
+      "text": "very intuitive. easy to bring in receipts",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=54691e26-b588-4e89-8f4a-3ecb1188aa58"
+    },
+    {
+      "date": "2025-04-17T03:28:29.816Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "SEYDEL MOLINA",
+      "text": "Great app",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=89a54257-8ce1-4968-9e1a-24cbc8858d7f"
+    },
+    {
+      "date": "2025-04-17T00:41:29.118Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Buppie Raw",
+      "text": "Works very good.😁",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=4ff1b671-ba4f-466d-b8c5-b99bc4fd1a8a"
+    },
+    {
+      "date": "2025-04-16T14:14:39.626Z",
+      "score": 5,
+      "thumbsUp": 177,
+      "user": "Brian Elam",
+      "text": "after MUCH research and trial of different products, we settled on this app. not only is the interface very user-friendly and easy to use, but the camera scanning and upload is simply SO very fasy and accurate! some of the other options which we thought might be a better fit actually struggled to upload, (sometimes 20+ seconds!) and the AI did not pick up any details consistently from reciepts! Easy Expense is not cheap, but when you factor how FAST and actually easy to use and to set-up, wow!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=6c6ca683-0d1f-4d2d-9bc5-b412bdd6be45"
+    },
+    {
+      "date": "2025-04-15T15:54:35.550Z",
+      "score": 1,
+      "thumbsUp": 1,
+      "user": "Isabella C",
+      "text": "The first receipt I attempted to scan showed the expense incorrectly. A rescan showed the same error.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=dabbc13a-2129-40ee-bef8-15d57fa47eff"
+    },
+    {
+      "date": "2025-04-14T19:56:44.459Z",
+      "score": 5,
+      "thumbsUp": 93,
+      "user": "Darin Johnson",
+      "text": "It's an excellent app service that helps me to track all of my receipt records without me manually doing it. I just scan the receipts, it copies it, then it records the dates, the overall purchase amount , and it identifies the transaction as gas, food, or others.. It has many other features which I haven't tapped into as of yet, but for now, I enjoy what it does for my business book keeping.",
+      "reply": "Hi Darin can you email me at eli@easy-expense.com so I can get this sorted asap.",
+      "replyDate": "2025-04-13T23:19:04.587Z",
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=6511bb48-3ac4-407c-823c-8469f04d449e"
+    },
+    {
+      "date": "2025-04-14T16:54:58.760Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Mark Surges",
+      "text": "so far so good. we'll see..",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=4c8d0a2f-827d-47e5-ac81-0ef33dee135b"
+    },
+    {
+      "date": "2025-04-12T14:42:57.154Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Magomed",
+      "text": "great",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=b09ff1c1-ebd5-4065-a459-8f6aea342e69"
+    },
+    {
+      "date": "2025-04-10T15:28:55.592Z",
+      "score": 1,
+      "thumbsUp": 10,
+      "user": "Torrie Goode",
+      "text": "Beware. No refunds on this subscription. I had no idea i even \"purchased\" this. Seeing a charge on my Credit Card concerned me. I had to Google to even discover what the charge was. Unfortunately no refunds. This was the exact day I am charged. Unacceptable. So many apps these days. Difficult to maintain. At 23+$$ seems a bit steep as far as penalty...",
+      "reply": "Torrie, we have a 100% refund guarantee. Please send me an email at eli@easy-expense.com and I will assist you immediately.",
+      "replyDate": "2025-04-10T17:19:37.357Z",
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=5e64f738-bc48-4575-ae4e-c0e901d4cd5d"
+    },
+    {
+      "date": "2025-04-09T01:10:00.407Z",
+      "score": 1,
+      "thumbsUp": 3,
+      "user": "Dobrusia HealthyFlow",
+      "text": "cost ! !! $11 / month to scan 10 recipts ?",
+      "reply": "You can scan 10 receipts per month for free. $8/month for unlimited. $12/month for tax filing, bank linking, GPS mileage tracking, 5 team members and unlimited workspaces. If you have questions please email me at eli@easy-expense.com or contact in app support!",
+      "replyDate": "2025-04-09T19:54:38.232Z",
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=12cded78-5738-4970-b0d4-42fe463ddd9c"
+    },
+    {
+      "date": "2025-04-08T20:48:26.551Z",
+      "score": 1,
+      "thumbsUp": 2,
+      "user": "Jeremiah Nunez",
+      "text": "Stuck behind a paywall after first receipt entered only looking to save my receipts digitally... 🙄 Not expense/tax purposes",
+      "reply": "Hi Jeremiah - you can press view all plans > free plan if you don’t want access to the premium features. If you can’t afford premium email me at eli@easy-expense.com and I can upgrade your account for free",
+      "replyDate": "2025-04-08T21:21:52.201Z",
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=34e0e0a0-80c8-48cd-9474-2ed1ee332698"
+    },
+    {
+      "date": "2025-04-08T03:36:31.537Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "efren martinez",
+      "text": "easy to use",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=054a069d-018a-44d4-ac74-58e4d676ffca"
+    },
+    {
+      "date": "2025-04-07T20:49:54.927Z",
+      "score": 1,
+      "thumbsUp": 2,
+      "user": "Tim Krueger",
+      "text": "NOT FREE",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=88afa91b-bfff-474e-a262-08d5bfb23538"
+    },
+    {
+      "date": "2025-04-07T04:22:49.475Z",
+      "score": 5,
+      "thumbsUp": 3,
+      "user": "Elvis Bello",
+      "text": "I have two years using this app, so I can excelent for keeping my expenses under control, scanning is so simple to use, it allow me to download all data to sheets, among other useful tools, highly recommended...",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=30426b1c-fd0c-4c5f-8a97-7c7e986f248b"
+    },
+    {
+      "date": "2025-04-06T23:24:29.349Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Ralph Rousseau",
+      "text": "this is extremely handy very good",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=64ab1569-e027-47ab-9314-b3e4e707d870"
+    },
+    {
+      "date": "2025-04-06T20:18:20.704Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "Christian k",
+      "text": "Defiantly helps keeps things in order for my taxes and business . I do pay for the full service but wroth it.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=fb19bc95-6551-4bd2-a5d5-3dcf2486e1bf"
+    },
+    {
+      "date": "2025-04-06T16:14:17.583Z",
+      "score": 2,
+      "thumbsUp": 3,
+      "user": "Robert Johnson",
+      "text": "Play store says the app is supported by in app purchases. Not true. $12 a month after trial. Misleading. Uncool.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=51dbe991-4572-418e-a0e4-81ed7a209899"
+    },
+    {
+      "date": "2025-04-02T21:08:03.502Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "Vicente Hennep",
+      "text": "Easy to use, fast",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=a3dafbd4-94dc-49f7-b20a-a7ccf11ca111"
+    },
+    {
+      "date": "2025-04-02T08:04:56.571Z",
+      "score": 2,
+      "thumbsUp": 6,
+      "user": "Christopher “CHG” Gately",
+      "text": "spent quite a bit of time getting this app to download and had perfect reception. upon complete installment it would not load I deleted and reloaded yet to not be able to open it once again. a good waste of a couple hours I hope they get their stuff together. I like the receipts scanning apps especially the ones that pay out a decent amount and don't have frivolous scanning barcodes objectives that go nowhere",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=d39dea0a-0f10-4f84-9ff2-2d15e268c4c1"
+    },
+    {
+      "date": "2025-03-31T21:39:42.563Z",
+      "score": 5,
+      "thumbsUp": 4,
+      "user": "Fly Mama",
+      "text": "This is a great app! I would recommend this app to everyone. It is easy to set up and to use immediately. You will be happy with the app as I am.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=53720785-4d06-4182-9965-51a1b8cd7232"
+    },
+    {
+      "date": "2025-03-29T09:44:24.989Z",
+      "score": 5,
+      "thumbsUp": 17,
+      "user": "Kathleen Baker",
+      "text": "I don't normally fill out these things. But this time I am because the team has been absolutely exceptional ! Very helpful in answering all my questions. I have used this App for years. When I got a new phone decided to update the App. Was a little lost for a while, but now REALLY loving it. I'm only using a small portion of what's available, so I know it has huge potential. You can edit the Vendor's and Categories easily and even the little pic ! Honestly it is the best ! Thx Easy Expense Team.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=3214c2e0-198d-4e9b-9c00-c662b00ae429"
+    },
+    {
+      "date": "2025-03-27T00:53:27.144Z",
+      "score": 1,
+      "thumbsUp": 39,
+      "user": "Android Account",
+      "text": "Used to be free but now they're imposing exaggerated fees for just scanning receipts! I agree with other users. The free version is useless. Limited to 10 receipts per month. We can accumulate that in one day on a trip. Paying the monthly fees they want, might as well hire someone to just take pictures of your receipts. I wish they can do better for their loyal customers. 😞",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=771c7cba-3c0b-4ee8-b936-047e33ed5904"
+    },
+    {
+      "date": "2025-03-26T21:57:36.303Z",
+      "score": 1,
+      "thumbsUp": 2,
+      "user": "Joanne N",
+      "text": "I want to track my SALES TAX. THIS DID NOT.",
+      "reply": "Hey you can add sales tax as a tracked field from the workspace settings. Please contact in app support or message support@easy-expense.com if you'd like assistance!",
+      "replyDate": "2025-03-26T23:17:23.967Z",
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=310fa827-b16f-4fec-9d7a-713f94129f4b"
+    },
+    {
+      "date": "2025-03-24T04:09:51.832Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Jorge Morales",
+      "text": "awesome and Free for real.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=fd56d1fd-e418-4c77-9bce-042c8536dad7"
+    },
+    {
+      "date": "2025-03-24T02:50:33.877Z",
+      "score": 5,
+      "thumbsUp": 1,
+      "user": "A Cooke",
+      "text": "There was a slight hiccup at the start. Customer service was excellent, helped out, and is now working well.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=79c23c9d-f6b2-491f-8540-6744c7a8c27d"
+    },
+    {
+      "date": "2025-03-23T23:58:32.458Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Lonnie Chafer",
+      "text": "Amazing...went through all my transactions from my account",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=dc2e1879-e778-47dd-8b12-5cfbd33b9283"
+    },
+    {
+      "date": "2025-03-23T15:43:10.346Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Chris Heidtman",
+      "text": "Great App!",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=06a80964-2f88-4915-a03d-4b21ca83af5c"
+    },
+    {
+      "date": "2025-03-22T17:04:26.842Z",
+      "score": 5,
+      "thumbsUp": 4,
+      "user": "Harpinder Singh",
+      "text": "I was looking for a simple recipet scanning app and I tried several others, but this app cuts them off in terms of simplicity. I like this app and keep it simple. please develop an iOS app too and add one time purchase option.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=1067b564-3713-434d-9c3d-61319937548b"
+    },
+    {
+      "date": "2025-03-20T21:18:42.714Z",
+      "score": 5,
+      "thumbsUp": 2,
+      "user": "Kare Hdez",
+      "text": "amazing and easy to use.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=com.easyexpense&reviewId=775a0150-a996-4978-b6e0-12116b4aa897"
+    }
+  ]
+}

@@ -1,49 +1,118 @@
-# Methodology — exhaustive run 2026-05-07
+# Methodology — Loop Mode (depth-first per direction)
 
-## Config
+_Initialized: 2026-05-07 14:55 EEST (loop mode added on top of main exhaustive run)_
+_Mode: loop (continuous, cap-bounded, depth-first)_
 
-| Param | Value |
-|---|---|
-| Tier | exhaustive (7h budget) |
-| Mode | explore (discovery) |
-| Hard cap | stop at 35% weekly all-models |
-| Started | 2026-05-07 00:47 (session 11%, weekly 13%) |
-| User | Greek (Demos), playstore_app project |
+```yaml
+loop_state:
+  cap_target: 35              # weekly all-models %
+  cap_started_at: 21          # weekly % when run began
+  iter_tier: medium           # ~1pp/tick
+  iter_burn_pp: 1
+  active_direction: 2         # currently drilling
+  active_phase_started_at: 2026-05-07T14:55:00+03:00
+  active_phase_ticks: 3  # all 3 D2 ticks dispatched in parallel
+  active_phase_dimensions_done: []  # all in flight
+  active_phase_dimensions_in_flight:
+    - {tick: 1, dimensions: [ios_cross_check, iap_audit, founder_responsiveness], agent: aa24a355d9cfc11c1}
+    - {tick: 2, dimensions: [reddit_comment_tree_schedule_c], agent: aa133d597d0e279f3}
+    - {tick: 3, dimensions: [launch_readiness_d2], agent: aead31c778c8d26a3}
+  active_phase_dimensions_remaining: []
+  expected_pivot_after: tick 3 (when all 3 agents return)
+  exhausted_directions: [1]   # D1 declared exhausted before loop start
+  pivot_history:
+    - {from: null, to: 1, at_tick: 0, reason: "loop start, D1 was top scoreboard"}
+    - {from: 1, to: 2, at_tick: 0, reason: "D1 already exhausted in main run pre-loop: 11/11 applicable dimensions done"}
+  start_limits: {session: 16, weekly: 25}
+  expected_max_ticks: 10
+```
 
-## Coverage gaps identified
+## Direction 1 (Invoice Simple displacement) — EXHAUSTED before loop start
 
-Existing matrix: **20 cells** = 5 niches × 4 countries
-- Niches: astrology, couple, manifestation, selfcare, tarot
-- Countries: BR, ID, MX, TR
+11 of 11 applicable dimensions completed in main run (cultural validation N/A for EN-only direction):
 
-## Plan (autonomous, no user check-ins)
+| # | Dimension | Done | Source |
+|---|---|---|---|
+| 1 | 3000-review drill US/GB | ✓ | invoice_simple_us_3000.json + invoice_simple_gb_3000.json |
+| 2 | iOS cross-check 7 countries | ✓ | invoice_simple_ios_us/gb/ca/au/de/fr/jp.json |
+| 3 | Founder responsiveness 8 incumbents | ✓ | founder_responsiveness.md |
+| 4 | IAP audit US/GB/CA/AU | ✓ | iap_invoice_simple_*.json |
+| 5 | Reddit comment-tree 10 threads | ✓ | reddit/tree-*.json |
+| 6 | Cross-country (US/GB/CA/AU) | ✓ | invoice_simple_3000_analysis.json |
+| 7 | ASA keyword volume + composite score | ✓ | aso_keyword_estimates.md |
+| 8 | Cultural validation | N/A | EN-only direction |
+| 9 | Legal/regulatory feasibility | ✓ | legal_cultural_validation.md (US/GB/CA/AU all GO) |
+| 10 | Launch-readiness intel (FairBill) | ✓ | d1_launch_readiness.md + d1_app_store_copy_drafts.md |
+| 11 | TikTok hashtag viability | ✓ | v9_hashtag_summary.md (CONDITIONAL viable, umbrella tags) |
+| 12 | Revenue estimate | ✓ | revenue_estimates.md ($35M/year confirmed) |
 
-### NEW exploration (priority A)
-- 4 new niches: **journaling, meditation, sleep, fitness** × 4 existing countries = 16 cells
-- 2 new countries: **VN, PH** × 5 existing niches = 10 cells
-- Total new cells: ~26
+→ EXHAUSTED. Locked in v9 directions report. No further D1 dispatches needed.
 
-### REFINEMENT (priority B)
-- Drill top 5 EXISTING cells (TR/couple, MX/couple, BR/astrology, BR/couple, TR/tarot) to 1500 reviews each (3x current depth)
-- Pull comment-tree on top viral Reddit threads in those niches
+## Direction 2 (QBSE + Solopreneur + Schedule C combo) — ACTIVE
 
-### Synthesis (priority C)
-- Re-run synthesize.mjs after each phase
-- Cross-validate top winners across Play Store + TikTok + Reddit
-- Final directions.md with refined top 5 (some may shift, some new directions may surface)
-- Graphify with full LLM extraction + wiki
+Pre-loop status: 6 of 12 dimensions done from main run.
 
-## Decisions log (autonomous)
+| # | Dimension | Status | Notes |
+|---|---|---|---|
+| 1 | 1500-review drill QBSE+Solopreneur | ✓ | qbse_us_1500.json + qb_solopreneur_us_1500.json |
+| 2 | iOS cross-check QBSE+Solopreneur | ⬜ MISSING | Need iOS reviews for QBSE and Solopreneur |
+| 3 | Founder responsiveness Solopreneur-specific | ⬜ MISSING | Got QBSE 97%, Solopreneur replyText not pulled |
+| 4 | IAP audit QBSE+Solopreneur | ⬜ MISSING | Need live IAP for both apps |
+| 5 | Reddit comment-tree (Schedule C threads) | ⬜ MISSING | r/personalfinance, r/SmallBusiness, r/IRS Schedule C threads |
+| 6 | Cross-country | N/A | US-only direction |
+| 7 | ASA keyword volume + composite | ✓ | aso_keyword_estimates.md (Schedule C estimator section) |
+| 8 | Cultural validation | N/A | EN-only |
+| 9 | Legal/regulatory feasibility | ✓ | legal_cultural_validation.md (PTIN required only for paid prep) |
+| 10 | Launch-readiness intel for D2 | ⬜ MISSING | Need app name + ASA + ProductHunt plan |
+| 11 | TikTok hashtag viability | ⬜ partial | #1099tax 128K dead but #smallbusiness 237B umbrella works |
+| 12 | Revenue estimate | ✓ | revenue_estimates.md ($300-500M segment estimate) |
 
-- **Skipped niches**: habit_tracker, period_tracker, mood_tracker — TikTok footprint <1B views per earlier finding, won't yield TikTok-marketable directions. Documented as known gap.
-- **Skipped Google Trends Phase 2**: heavy rate-limits, low value. Will use TikTok view_count + Play Store install ranges as momentum surrogates.
-- **Skipped IN, EG**: low ARPU vs effort.
-- **Country pick rationale (VN, PH)**: high Android share, growing Android markets, English+local language, low CPI for $350 ad budget.
+→ 5 dimensions remaining. Estimated 5 ticks at medium tier = ~5pp budget = within limit.
 
-## Limit checkpoints
+---
 
-Re-checking `/limits` before each heavy phase. Stopping cleanly if weekly all-models ≥ 35%. Will write `findings/reports/STOPPED.md` if cap triggers.
+## Phase C plan (D3 Honest Gig Tracker — pending D2 exhaustion)
 
-## Live progress
+When D2 declared exhausted, pivot to D3. D3 dimensions status (pre-loop):
 
-(To be appended as phases complete.)
+| # | Dimension | Status |
+|---|---|---|
+| 1 | 1500-review drill Solo + Stride | ⬜ partial (only 200 reviews) |
+| 2 | iOS cross-check Solo + Stride | ⬜ MISSING |
+| 3 | Founder responsiveness Solo+Stride | ✓ done in main run (Solo 84%, Stride 99%) |
+| 4 | IAP audit Solo + Stride | ⬜ MISSING |
+| 5 | Reddit comment-tree gig threads | ✓ done in main run (r/doordash, r/lyftdrivers, r/uberdrivers) |
+| 6 | Cross-country | N/A US-only |
+| 7 | ASA volume + composite | ⬜ partial (covered in Agent 8, but D3-specific keywords need scoring) |
+| 8 | Cultural validation | N/A EN-only |
+| 9 | Legal/regulatory | ✓ Schedule C estimator legal (PTIN exempt) |
+| 10 | Launch readiness for D3 | ⬜ MISSING |
+| 11 | TikTok hashtag viability for gig workers | ⬜ MISSING (unique to D3 — gig drivers VERY active on TikTok) |
+| 12 | Revenue estimate | ✓ done (Solo+Stride monetize off-app) |
+
+→ 5 dimensions remaining for D3. Target 3 ticks at medium tier.
+
+## Phase D plan (D4 EU multi-country — pending D3 exhaustion)
+
+When D3 declared exhausted, pivot to D4. D4 dimensions status (pre-loop):
+
+| # | Dimension | Status |
+|---|---|---|
+| 1 | 300-review drill on DE+PL+NL competitors | ✓ partial done (Agent 6 + Agent 9) |
+| 2 | iOS cross-check DE/PL/NL | ⬜ MISSING |
+| 3 | Founder responsiveness sevDesk+Lexware+Tofu+Invoice Fly | ⬜ MISSING |
+| 4 | IAP audit sevDesk+Lexware+Tofu+Invoice Fly | ⬜ MISSING |
+| 5 | Reddit comment-tree DE/PL/NL freelancer threads | ⬜ partial (DE done) |
+| 6 | Cross-country | ✓ DE+PL+NL built-in |
+| 7 | ASA volume Polish/Dutch/German keywords | ⬜ MISSING |
+| 8 | Cultural validation | ✓ done DE; PL/NL needed |
+| 9 | Legal/regulatory | ✓ done all 4 (DE GO, PL GO with KSeF, NL GO with KOR, FR/JP NO-GO) |
+| 10 | Launch readiness for D4 | ⬜ MISSING |
+| 11 | TikTok hashtag viability EU markets | ⬜ MISSING |
+| 12 | Revenue estimate | ⬜ partial |
+
+→ 9 dimensions partial/missing. May not fully exhaust before cap. Prioritize: iOS DE+PL, founder responsiveness, IAP audit, ASA Polish keywords (KSeF window).
+
+## Run history reference
+
+See `findings/reports/run_ledger.md` for full run history.

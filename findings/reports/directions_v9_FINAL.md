@@ -19,6 +19,7 @@ _Source: 97 synthesized cells + Invoice Simple 3000-review drill (US/GB) + iOS 7
 | 4 | **EU Solo-Freelancer Invoice** (DE+PL+NL shared codebase) | DE/PL/NL | sevDesk **78.6% confirmed at 500-depth** + KSeF panic (PL Apr 2026) + Tofu PL well-defended (99% replies — go AROUND not AT) | 4-6 wk DE base + 3-4 wk PL/NL each | **€30-50k combined** | MEDIUM-HIGH | Stable (loop in progress) |
 | 5 | **Smart Receipts displacement** (US) | US | 57% recent low_pct, 1M+ installs, "no local backup" complaint | 6-8 wk | <$5k base (small ceiling) | MEDIUM | (merged into D2 receipt module) |
 | 6 | **Tycoon Zero (Flutter Flame Idle)** | global | AdVenture Capitalist 52% low / 78% predatory density / ONE-TIME-vs-subscription wedge | 8-12 wk | $5-15k base | MEDIUM-LOW (B2C variability) | Pending Phase E loop drill |
+| 7 | **TR e-SMM (Serbest Meslek Makbuzu)** mobile app | TR | Mikrogrup e-Arşiv 66.7% low + SYSMOND 41.3% low (bait-and-switch tokens) — **e-SMM mobile niche EMPTY** (govt portal only) | 5-7 wk | TBD | **MEDIUM-HIGH** (NEW from EXPLORATION mode Tick 1) |
 
 **Key v9 ranking change**: Direction 2 (QBSE+Solopreneur+Schedule C) **promoted from #3 to #2** based on Agent 13 deep drill confirming Solopreneur (the QBSE replacement) is ALSO at 61.4% recent low_pct on 1500 reviews — meaning the displacement market = QBSE refugees + Solopreneur frustrated users (combined 2M+ install base). Direction 4 (EU multi-country) drops to #3.
 
@@ -1172,6 +1173,78 @@ Build Direction 6 ONLY IF:
 Otherwise SKIP Direction 6. The B2B Direction 1 has 5x faster ROI, 3x faster build, 10x more predictable user-acquisition.
 
 If user picks Direction 6, sequence AFTER Direction 1 has shipped + traction confirmed (Direction 1 funds the longer Direction 6 build with $350 ad budget remaining).
+
+---
+
+## Direction 7: TR e-SMM Mobile App — "FaturAki" / "SerbestSMM" (Score 18, MEDIUM-HIGH confidence) — **NEW v9 EXPLORATION MODE**
+
+**Niche × Country**: `e-SMM Receipt Issuer` × `TR` (Turkey)
+
+### Why NEW — Exploration mode Tick 1 surfaced this
+
+Greek dev → Turkey is geographically/linguistically closer than DE/PL/NL. Never explored as primary market in v9. Exploration Tick 1 found:
+
+**TR has TWO distinct freelancer/business e-invoicing systems**:
+1. **e-Fatura** — for businesses ≥3M TL revenue. SATURATED with Mikrogrup, Uyumsoft, Logo etc.
+2. **e-SMM (e-Serbest Meslek Makbuzu)** — for ALL freelancers doing knowledge work (consultants, designers, lawyers, engineers, freelance content creators). MANDATORY. **MOBILE-FIRST APP MARKET IS EMPTY**.
+
+### Vulnerable cells (recent 90-day low_pct)
+
+| App | Low_pct (recent) | n_recent | Verbatim signal |
+|---|---|---|---|
+| **com.earsivfatura.app (Mikrogrup e-Arşiv Portal)** | **66.7%** | 12 | *"1 haftadır fatura kesemiyorum. Arayüz çalışmıyor. Onay mesajları gelmiyor."* (1 week unable to issue invoice) |
+| **io.earsiv.sysmond (SYSMOND)** | **41.3%** | 46 | *"Tamamen ücretliye döndü… 1 jeton kalmış. Ayıp ayıp"* (fully turned paid; 50 free tokens dropped to 1 in 4 invoices — bait & switch) |
+| com.uyumsoft.ebelge | 50% | 2 | "Şifremi kabul etmiyor" (auth broken) |
+
+### Top complaint themes (TR fatura/e-SMM)
+1. **Bait-and-switch monetization**: free tokens given, then aggressively depleted (*"50 jeton hediye verip 4 faturada 9 jetona düşmez"*)
+2. **Outright broken**: cannot issue invoice for days; PDF/HTML sharing fails
+3. **No e-SMM-first mobile app surfaced** — most results are e-Fatura/e-Arşiv. **e-SMM mobile is hidden underserved sub-niche**.
+
+### The idea
+
+**Concept**: A mobile-first, $0-cost, simple e-SMM receipt issuer for Turkish freelancers. GIB-integrated (via free dijital.gib.gov.tr API endpoint), local-first PDF storage, honest pricing (1 free token / month + €19 lifetime unlock for unlimited).
+
+**Core MVP (5-7 weeks)** — leverages D1 FairBill codebase + Turkish localization + GIB endpoint integration:
+1. Native Turkish UI (Greek dev's regional advantage)
+2. e-SMM template auto-fill (Vergi Numarası + İsim + Tutar + KDV)
+3. GIB endpoint call (free, no auth fees)
+4. PDF + KEP-compatible export
+5. Local SQLite history (10-year retention per Turkish tax law)
+6. CSV export for muhasebeci (Turkish accountant)
+
+### Build complexity
+
+- Stack: Flutter + SQLite + GIB endpoint integration
+- Backend: $0 (GIB endpoint free; optional Firebase for cloud sync)
+- Solo build: **5-7 εβδομάδες**
+- Cultural risk mitigation: 1 Turkish freelancer advisor on Upwork ($150-300) for UX vetting + Turkish copy
+- Legal: 🟢 LOW (e-SMM is govt-mandated; thin client to GIB's free portal is not a regulated activity unlike payment processing)
+
+### Differentiation thesis
+
+Mikrogrup + SYSMOND + Uyumsoft all use **bait-and-switch token monetization** (50 free tokens → 1 token in 4 invoices). FaturAki/SerbestSMM offers **honest flat pricing**: 1 free invoice/month + €19 lifetime for unlimited. Greek dev positioned as Aegean fellow-merchant (cultural fit unattainable for US incumbents).
+
+**Anti-features**:
+- ❌ NO token system (the #1 rage trigger)
+- ❌ NO mandatory auth complexity (Sysmond's auth complaints)
+- ❌ NO required corporate registration (serbest meslek erbabı targeted, not şirket)
+
+### Y1 ARR scenario
+
+| Scenario | Y1 paid | ARR | Probability |
+|---|---|---|---|
+| 🔥 KizlarSoruyor + Şikayetvar + Twitter/X organic | 1500 × €19 lifetime | **€28k** | 8% |
+| 🟢 Strong organic | 500 × €19 | **€9.5k** | 22% |
+| 🟡 Base | 150 × €19 | **€2.8k** | 38% |
+| 🟠 Slow | 30 × €19 | €570 | 25% |
+| 🔴 Stuck | 0 | -€500 | 7% |
+
+**Expected Y1: ~€5k** (smaller TAM than DE/US but easier to capture)
+
+### Confidence: MEDIUM-HIGH
+
+Vulnerability confirmed at 41-67% recent low_pct (above D1 23% baseline). Greek dev cultural proximity = NO localization disaster risk. Niche is structurally underserved (no mobile-first e-SMM app exists). Risk: small TAM (Turkish freelancer paying-cohort smaller than DE/US).
 
 ---
 

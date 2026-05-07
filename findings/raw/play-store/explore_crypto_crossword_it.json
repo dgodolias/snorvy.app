@@ -1,0 +1,57 @@
+{
+  "generated": "2026-05-07T13:54:52.987Z",
+  "tick": 22,
+  "niches": {
+    "crypto_wallet": {
+      "candidates": [
+        {
+          "appId": "com.debank.meme",
+          "title": "DeBank",
+          "score": 3.4,
+          "recent_low_pct": 61.5,
+          "recent_n": 13,
+          "note": "Low N — score is corp-perceived spam"
+        },
+        {
+          "appId": "com.coinstats.crypto.portfolio",
+          "title": "CoinStats",
+          "score": 4.4,
+          "recent_low_pct": 24.6,
+          "recent_n": 142,
+          "note": "Subscription/ad complaints"
+        }
+      ]
+    },
+    "crossword": {
+      "candidates": [
+        {
+          "appId": "in.crossy.daily_crossword",
+          "title": "Daily Themed Crossword",
+          "installs": "10M+",
+          "score": 4.82,
+          "recent_low_pct": 33.5,
+          "recent_n": 200,
+          "dev": "PlaySimple Games (MTG-owned, corp)"
+        },
+        {
+          "appId": "in.daily_puzzle.crossword",
+          "title": "Crossword Puzzle Explorer",
+          "installs": "1M+",
+          "score": 4.84,
+          "recent_low_pct": 32,
+          "recent_n": 200,
+          "dev": "PlaySimple Games"
+        }
+      ],
+      "verbatim_top": [
+        "way too many pop-ups! And ads on top of that. Basically unplayable",
+        "ridiculous amount of ads, 2 minutes of ads for a level that takes less than of half that",
+        "False advertising claimed no ads, but there are ads before and after every puzzle",
+        "I watched an ad for 5 min and using the back arrow or home button does nothing"
+      ]
+    },
+    "italy_microniche": {
+      "result": "DEAD - searches return generic global apps; no IT-specific small biz utility with traction beyond invoice apps already covered"
+    }
+  }
+}

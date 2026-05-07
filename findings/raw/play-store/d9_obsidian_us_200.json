@@ -5,6 +5,16 @@
   "total_after_filter": 200,
   "reviews": [
     {
+      "date": "2026-05-06T14:10:21.948Z",
+      "score": 5,
+      "thumbsUp": 0,
+      "user": "Tomasz Paprzycki",
+      "text": "Rewelacyjna aplikacja do prowadzenia notatek i dzienników.",
+      "reply": null,
+      "replyDate": null,
+      "url": "https://play.google.com/store/apps/details?id=md.obsidian&reviewId=a25f1e32-4041-465a-b24c-93cc8bfa0bb9"
+    },
+    {
       "date": "2026-05-06T00:01:05.564Z",
       "score": 1,
       "thumbsUp": 0,
@@ -1993,16 +2003,6 @@
       "reply": null,
       "replyDate": null,
       "url": "https://play.google.com/store/apps/details?id=md.obsidian&reviewId=b773ef2d-e168-494d-a717-9e2b5f56531f"
-    },
-    {
-      "date": "2026-02-25T12:26:53.984Z",
-      "score": 5,
-      "thumbsUp": 0,
-      "user": "Kavin Selvan",
-      "text": "best note take app and organizing my personal life and work notes. fully customizable and future proof format.loving it.",
-      "reply": null,
-      "replyDate": null,
-      "url": "https://play.google.com/store/apps/details?id=md.obsidian&reviewId=9822a2e0-fa98-437e-a755-718e04405347"
     }
   ]
 }

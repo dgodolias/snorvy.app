@@ -28,7 +28,7 @@ class SnorvyController extends ChangeNotifier {
       recorder: FlutterSoundSleepRecorder(),
       audioPlayback: FlutterSoundAudioPlayback(),
       recordingExporter: LocalRecordingExporter(),
-      unlockRepository: InAppPurchaseUnlockRepository(),
+      unlockRepository: createUnlockRepository(),
     );
   }
 

@@ -50,6 +50,30 @@ void main() {
     expect(find.textContaining('manual log'), findsOneWidget);
   });
 
+  testWidgets('records and saves a night from tonight controls', (
+    tester,
+  ) async {
+    final controller = _buildController();
+    addTearDown(controller.dispose);
+
+    await tester.pumpWidget(SnorvyApp(controller: controller));
+    await tester.pumpAndSettle();
+
+    await tester.tap(
+      find.widgetWithText(FilledButton, 'Start local recording'),
+    );
+    await tester.pumpAndSettle();
+
+    expect(find.widgetWithText(FilledButton, 'Stop recording'), findsOneWidget);
+
+    await tester.tap(find.widgetWithText(FilledButton, 'Stop recording'));
+    await tester.pumpAndSettle();
+    await tester.tap(find.text('History'));
+    await tester.pumpAndSettle();
+
+    expect(find.textContaining('raw recording saved'), findsOneWidget);
+  });
+
   testWidgets('deletes a manual sleep log from history', (tester) async {
     final controller = _buildController();
     addTearDown(controller.dispose);

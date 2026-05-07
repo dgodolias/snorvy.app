@@ -1,5 +1,6 @@
 import 'dart:async';
 
+import 'package:flutter/foundation.dart';
 import 'package:in_app_purchase/in_app_purchase.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
@@ -55,6 +56,64 @@ abstract interface class UnlockRepository {
   Future<void> buyLifetimeUnlock();
   Future<void> restorePurchases();
   Future<void> dispose();
+}
+
+UnlockRepository createUnlockRepository() {
+  if (kIsWeb) {
+    return BrowserSmokeUnlockRepository();
+  }
+
+  return InAppPurchaseUnlockRepository();
+}
+
+class BrowserSmokeUnlockRepository implements UnlockRepository {
+  final StreamController<UnlockState> _updatesController =
+      StreamController<UnlockState>.broadcast();
+
+  UnlockState _state = const UnlockState(
+    isUnlocked: false,
+    isPending: false,
+    isStoreAvailable: false,
+    productConfigured: false,
+    priceLabel: '\$9.99',
+    message: 'Play Store billing is unavailable in browser smoke mode.',
+  );
+
+  @override
+  Stream<UnlockState> get updates => _updatesController.stream;
+
+  @override
+  Future<UnlockState> load() async {
+    return _state;
+  }
+
+  @override
+  Future<void> buyLifetimeUnlock() async {
+    _emit(
+      _state.copyWith(message: 'Use an Android Play build to test purchases.'),
+    );
+  }
+
+  @override
+  Future<void> restorePurchases() async {
+    _emit(
+      _state.copyWith(
+        message: 'Use an Android Play build to restore purchases.',
+      ),
+    );
+  }
+
+  void _emit(UnlockState state) {
+    _state = state;
+    if (!_updatesController.isClosed) {
+      _updatesController.add(state);
+    }
+  }
+
+  @override
+  Future<void> dispose() async {
+    await _updatesController.close();
+  }
 }
 
 class InAppPurchaseUnlockRepository implements UnlockRepository {

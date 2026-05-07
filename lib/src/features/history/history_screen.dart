@@ -171,7 +171,9 @@ class _NightHistoryTile extends StatelessWidget {
   Widget build(BuildContext context) {
     final date = DateFormat('EEE, MMM d').format(night.date);
     final manualSuffix = night.isManual ? ' - manual log' : '';
-    final eventSummary = night.events.isEmpty
+    final eventSummary = night.isManual
+        ? 'manual entry'
+        : night.events.isEmpty
         ? 'raw recording saved'
         : '${night.events.length} audio events';
 

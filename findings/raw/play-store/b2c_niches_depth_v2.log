@@ -1,0 +1,46 @@
+
+=== PHOTOGRAPHER_GALLERY ===
+  search: "photographer client gallery"
+  search: "client proofing photography"
+  search: "pixieset"
+  search: "pic-time"
+  search: "shootproof"
+  search: "photographer business"
+  resolving installs for 25 candidates...
+  drilling top 5
+  drill: com.google.android.apps.photosgo (1,000,000,000+, hist_low 12%)
+  drill: com.niksoftware.snapseed (100,000,000+, hist_low 21%)
+  drill: com.cardinalblue.piccollage.google (100,000,000+, hist_low 3%)
+  drill: gallery.hidepictures.photovault.lockgallery (50,000,000+, hist_low 5%)
+  drill: gallery.photomanager.picturegalleryapp.imagegallery (10,000,000+, hist_low 6%)
+
+=== FSBO_REAL_ESTATE ===
+  search: "for sale by owner"
+  search: "fsbo real estate"
+  search: "sell home owner"
+  search: "private property listing"
+  search: "sell my house owner"
+  resolving installs for 25 candidates...
+  drilling top 5
+  drill: com.zillow.android.zillowmap (50,000,000+, hist_low 1%)
+  drill: com.offerup (50,000,000+, hist_low 12%)
+  drill: com.nnacres.app (10,000,000+, hist_low 19%)
+  drill: com.redfin.android (10,000,000+, hist_low 5%)
+  drill: com.trulia.android (10,000,000+, hist_low 1%)
+
+=== PET_GROOMER_WALKER ===
+  search: "dog walker job tracker"
+  search: "pet sitter app"
+  search: "pet groomer business"
+  search: "pet sitting scheduler"
+  search: "dog walking business"
+  search: "pet care business"
+  resolving installs for 25 candidates...
+  drilling top 5
+  drill: com.rover.android (5,000,000+, hist_low 10%)
+  drill: com.ionicframework.wagandroid554504 (1,000,000+, hist_low 39%)
+  drill: com.petbacker.android (1,000,000+, hist_low 18%)
+  drill: com.pawshake.android (500,000+, hist_low 26%)
+  drill: com.trustedhousesitters.TrustedHousesitters (500,000+, hist_low 28%)
+
+Done. Wrote C:/Users/demosgod/Desktop/PROJECTS/playstore_app/findings/raw/play-store/b2c_niches_depth.json

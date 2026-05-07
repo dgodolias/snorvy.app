@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-07T11:35:04.253Z",
+  "generated_at": "2026-05-07T11:36:44.375Z",
   "niches": {
     "photographer_gallery": {
       "searches": {
@@ -8,169 +8,145 @@
             "appId": "com.pixieset.studio",
             "title": "Pixieset – Studio Manager",
             "developer": "Pixieset",
-            "score": 0,
-            "free": false
+            "score": 0
           },
           {
             "appId": "com.google.android.apps.photosgo",
             "title": "Gallery",
             "developer": "Google LLC",
-            "score": 4.1525774,
-            "free": false
+            "score": 4.1525774
           },
           {
             "appId": "com.diune.pictures",
             "title": "Piktures: Photo Gallery",
             "developer": "DIUNE",
-            "score": 3.9846153,
-            "free": false
+            "score": 3.9846153
           },
           {
             "appId": "gallery.photomanager.picturegalleryapp.imagegallery",
             "title": "Gallery - photo gallery, album",
             "developer": "PhotoZen Studio",
-            "score": 4.5033884,
-            "free": false
+            "score": 4.5033884
           },
           {
             "appId": "photo.gallery.photoeditor.photo.album",
             "title": "Gallery- Photo Gallery & Album",
             "developer": "Mobile_V5",
-            "score": 4.7231407,
-            "free": false
+            "score": 4.7231407
           },
           {
             "appId": "gallery.hidepictures.photovault.lockgallery",
             "title": "Gallery - Photo Gallery, Album",
             "developer": "InShot Inc.",
-            "score": 4.7288537,
-            "free": false
+            "score": 4.7288537
           },
           {
             "appId": "org.fossify.gallery",
             "title": "Fossify Gallery",
             "developer": "Fossify",
-            "score": 4.4,
-            "free": false
+            "score": 4.4
           },
           {
             "appId": "com.atomicadd.fotos",
             "title": "A+ Gallery - Photos & Videos",
             "developer": "AtomicAdd Team",
-            "score": 4.410687,
-            "free": false
+            "score": 4.410687
           },
           {
             "appId": "com.fstop.photo",
             "title": "Fast Photo Gallery Pro: F-Stop",
             "developer": "Seelye Engineering",
-            "score": 4.296296,
-            "free": false
+            "score": 4.296296
           },
           {
             "appId": "com.jsk.advancesecuregallery",
             "title": "Advance Gallery: Secure Photos",
             "developer": "JSK Sol",
-            "score": 0,
-            "free": false
+            "score": 0
           },
           {
             "appId": "com.jag.essentialgallery",
             "title": "Photo Gallery & Album",
             "developer": "Seelye Engineering",
-            "score": 4.09,
-            "free": false
+            "score": 4.09
           },
           {
             "appId": "com.shutterfly",
             "title": "Shutterfly: Prints Cards Gifts",
             "developer": "Shutterfly, Inc",
-            "score": 4.0333333,
-            "free": false
+            "score": 4.0333333
           }
         ],
         "client proofing photography": [
           {
             "appId": "com.photoproof",
             "title": "Photo Proof",
-            "developer": "Cogniter Technologies",
-            "free": false
+            "developer": "Cogniter Technologies"
           },
           {
             "appId": "pl.pose.posica",
             "title": "Posing App Posica Photography",
             "developer": "Sunrise & Sunset Times",
-            "score": 4.35,
-            "free": false
+            "score": 4.35
           },
           {
             "appId": "com.flavionet.android.camera.lite",
             "title": "Camera FV-5 Lite",
             "developer": "FGAE Apps",
-            "score": 3.35,
-            "free": false
+            "score": 3.35
           },
           {
             "appId": "rayinformatics.com.phocus",
             "title": "Phocus: DSLR Portrait Camera",
             "developer": "RAY INFORMATICS YAZ.TEK.MED.DAN.VE EĞT.TİC.LTD.ŞTİ",
-            "score": 3.1585367,
-            "free": false
+            "score": 3.1585367
           },
           {
             "appId": "com.shutterfly",
             "title": "Shutterfly: Prints Cards Gifts",
             "developer": "Shutterfly, Inc",
-            "score": 4.0333333,
-            "free": false
+            "score": 4.0333333
           },
           {
             "appId": "com.blink.academy.protake",
             "title": "Protake - Mobile Cinema Camera",
             "developer": "Beijing Lingguang Zaixian Information Technology",
-            "score": 3.0769231,
-            "free": false
+            "score": 3.0769231
           },
           {
             "appId": "eyu.on.pica",
             "title": "@picn2k camera",
             "developer": "2U",
-            "score": 4.2,
-            "free": false
+            "score": 4.2
           },
           {
             "appId": "com.snapwood.smugfolio",
             "title": "SmugMug - Photography Platform",
             "developer": "SmugMug Inc.",
-            "score": 4.1666665,
-            "free": false
+            "score": 4.1666665
           },
           {
             "appId": "com.captureapp.proofsnap",
             "title": "ProofSnap – Photo Proof Cam",
-            "developer": "Numbers Co., Ltd.",
-            "free": false
+            "developer": "Numbers Co., Ltd."
           },
           {
             "appId": "com.intermedia.hd.camera.professional",
             "title": "ProCam X - Lite :HD Camera Pro",
             "developer": "Imagi Mobile",
-            "score": 4.21,
-            "free": false
+            "score": 4.21
           },
           {
             "appId": "com.oceangalaxy.camera.new",
             "title": "Timemark: Photo Proof",
             "developer": "OG Co.",
-            "score": 4.82,
-            "free": false
+            "score": 4.81
           },
           {
             "appId": "com.fujifilm.instaxup",
             "title": "instax UP! -Scan instax photos",
             "developer": "FUJIFILM Corporation",
-            "score": 3.6632652,
-            "free": false
+            "score": 3.6632652
           }
         ],
         "pixieset": [
@@ -178,85 +154,73 @@
             "appId": "com.pixieset.studio",
             "title": "Pixieset – Studio Manager",
             "developer": "Pixieset",
-            "score": 0,
-            "free": false
+            "score": 0
           },
           {
             "appId": "com.niksoftware.snapseed",
             "title": "Snapseed",
             "developer": "Google LLC",
-            "score": 3.9849625,
-            "free": false
+            "score": 3.9849625
           },
           {
             "appId": "com.google.android.apps.photosgo",
             "title": "Gallery",
             "developer": "Google LLC",
-            "score": 4.1525774,
-            "free": false
+            "score": 4.1525774
           },
           {
             "appId": "com.cardinalblue.piccollage.google",
             "title": "PicCollage: Photo Video Editor",
             "developer": "Cardinal Blue Software, Inc.",
-            "score": 4.6141834,
-            "free": false
+            "score": 4.6141834
           },
           {
             "appId": "com.google.android.apps.photos",
             "title": "Google Photos",
             "developer": "Google LLC",
-            "score": 4.27175,
-            "free": false
+            "score": 4.27175
           },
           {
             "appId": "com.amazon.clouddrive.photos",
             "title": "Amazon Photos: Photo & Video",
             "developer": "Amazon Mobile LLC",
-            "score": 4.6541796,
-            "free": false
+            "score": 4.6541796
           },
           {
             "appId": "com.photoroom.app",
             "title": "Photoroom: AI Photo Editor",
             "developer": "Photoroom AI Photo Editor",
-            "score": 4.6038647,
-            "free": false
+            "score": 4.6038647
           },
           {
             "appId": "com.vsco.cam",
             "title": "VSCO: Photo Editor",
             "developer": "VSCO",
-            "score": 2.677686,
-            "free": false
+            "score": 2.677686
           },
           {
             "appId": "photo.editor.photoeditor.filtersforpictures",
             "title": "AI Photo Editor - Lumii",
             "developer": "InShot Video Editor",
-            "score": 4.7205963,
-            "free": false
+            "score": 4.7205963
           },
           {
             "appId": "com.adobe.psmobile",
             "title": "Photoshop Express Photo Editor",
             "developer": "Adobe",
-            "score": 4.4395475,
-            "free": false
+            "score": 4.4395475
           },
           {
             "appId": "com.pixlr.express",
             "title": "Pixlr AI Photo & Video Editor",
             "developer": "Pixlr Pte Ltd",
-            "score": 3.761394,
-            "free": false
+            "score": 3.761394
           },
           {
             "appId": "com.adobe.lrmobile",
             "title": "Lightroom Photo & Video Editor",
             "developer": "Adobe",
-            "score": 4.4059167,
-            "free": false
+            "score": 4.4059167
           }
         ],
         "pic-time": [
@@ -264,85 +228,73 @@
             "appId": "com.pic_time",
             "title": "Pic-Time",
             "developer": "Pic-Time Inc",
-            "score": 4.3076925,
-            "free": false
+            "score": 4.3076925
           },
           {
             "appId": "com.timehop",
             "title": "Timehop - Memories Then & Now",
             "developer": "Punchbowl",
-            "score": 3.38,
-            "free": false
+            "score": 3.38
           },
           {
             "appId": "com.cardinalblue.piccollage.google",
             "title": "PicCollage: Photo Video Editor",
             "developer": "Cardinal Blue Software, Inc.",
-            "score": 4.6141834,
-            "free": false
+            "score": 4.6141834
           },
           {
             "appId": "works.jubilee.timetree",
             "title": "TimeTree - Shared Calendar",
             "developer": "TimeTree, Inc.",
-            "score": 4.557768,
-            "free": false
+            "score": 4.557768
           },
           {
             "appId": "com.bigwinepot.nwdn.international",
             "title": "Remini - AI Photo Enhancer",
             "developer": "Bending Spoons",
-            "score": 4.2345753,
-            "free": false
+            "score": 4.2345753
           },
           {
             "appId": "com.jeyluta.timestampcamerafree",
             "title": "Timestamp Camera",
             "developer": "Bian Di",
-            "score": 4.5728154,
-            "free": false
+            "score": 4.5728154
           },
           {
             "appId": "com.Nishant.Singh.DroidTimelapse",
             "title": "Framelapse 2 Time Lapse Camera",
             "developer": "Neximo Tech",
-            "score": 3.57,
-            "free": false
+            "score": 3.57
           },
           {
             "appId": "com.picsart.studio",
             "title": "Picsart AI Photo Editor, Video",
             "developer": "PicsArt, Inc.",
-            "score": 3.9382715,
-            "free": false
+            "score": 3.9382715
           },
           {
             "appId": "com.picmonkey.picmonkey",
             "title": "PicMonkey Photo Editor",
             "developer": "Shutterstock Inc.",
-            "score": 3.4554455,
-            "free": false
+            "score": 3.4554455
           },
           {
             "appId": "com.oceangalaxy.camera.new",
             "title": "Timemark: Photo Proof",
             "developer": "OG Co.",
-            "score": 4.81,
-            "free": false
+            "score": 4.81
           },
           {
             "appId": "com.kwicpic",
             "title": "Kwikpic - Smart Photo Sharing",
             "developer": "Kwikpic Ai Solutions Private Limited",
-            "score": 0,
-            "free": false
+            "score": 0
           },
           {
             "appId": "com.meamobile.picdrop",
             "title": "Pic Print – Easy Printing",
             "developer": "Photo Printing by SoftwareX",
-            "score": 0,
-            "free": false
+            "score": 0
           }
         ],
         "shootproof": [
@@ -350,89 +302,633 @@
             "appId": "de.mehmer.shootingproof",
             "title": "ShootingProof",
             "developer": "Markus Mock",
-            "score": 0,
-            "free": false
+            "score": 0
           },
           {
             "appId": "com.instagram.android",
             "title": "Instagram",
             "developer": "Instagram",
-            "score": 4.1769724,
-            "free": false
+            "score": 4.1770196
           },
           {
             "appId": "com.google.android.apps.photos",
             "title": "Google Photos",
             "developer": "Google LLC",
-            "score": 4.27175,
-            "free": false
+            "score": 4.27175
           },
           {
             "appId": "com.adobe.lrmobile",
             "title": "Lightroom Photo & Video Editor",
             "developer": "Adobe",
-            "score": 4.4059167,
-            "free": false
+            "score": 4.4059167
           },
           {
             "appId": "com.google.android.apps.photosgo",
             "title": "Gallery",
             "developer": "Google LLC",
-            "score": 4.1525774,
-            "free": false
+            "score": 4.1525774
           },
           {
             "appId": "com.photoroom.app",
             "title": "Photoroom: AI Photo Editor",
             "developer": "Photoroom AI Photo Editor",
-            "score": 4.6038647,
-            "free": false
+            "score": 4.6038647
           },
           {
             "appId": "com.adobe.psmobile",
             "title": "Photoshop Express Photo Editor",
             "developer": "Adobe",
-            "score": 4.4395475,
-            "free": false
+            "score": 4.4395475
           },
           {
             "appId": "com.vsco.cam",
             "title": "VSCO: Photo Editor",
             "developer": "VSCO",
-            "score": 2.677686,
-            "free": false
+            "score": 2.677686
           },
           {
             "appId": "com.amazon.clouddrive.photos",
             "title": "Amazon Photos: Photo & Video",
             "developer": "Amazon Mobile LLC",
-            "score": 4.6541796,
-            "free": false
+            "score": 4.6541796
           },
           {
             "appId": "com.google.earth",
             "title": "Google Earth",
             "developer": "Google LLC",
-            "score": 3.6436,
-            "free": false
+            "score": 3.6436
           },
           {
             "appId": "com.niksoftware.snapseed",
             "title": "Snapseed",
             "developer": "Google LLC",
-            "score": 3.9849625,
-            "free": false
+            "score": 3.9849625
           },
           {
             "appId": "photo.editor.photoeditor.filtersforpictures",
             "title": "AI Photo Editor - Lumii",
             "developer": "InShot Video Editor",
-            "score": 4.7205963,
-            "free": false
+            "score": 4.7205963
+          }
+        ],
+        "photographer business": [
+          {
+            "appId": "com.stefsoftware.android.photographerscompanion",
+            "title": "Photographer's companion",
+            "developer": "Stef Software",
+            "score": 4.46
+          },
+          {
+            "appId": "crm.dslr.app",
+            "title": "Photographer CRM",
+            "developer": "A Better Logic"
+          },
+          {
+            "appId": "pl.pose.posica",
+            "title": "Posing App Posica Photography",
+            "developer": "Sunrise & Sunset Times",
+            "score": 4.35
+          },
+          {
+            "appId": "com.adobe.psmobile",
+            "title": "Photoshop Express Photo Editor",
+            "developer": "Adobe",
+            "score": 4.4395475
+          },
+          {
+            "appId": "com.desygner.businesscards",
+            "title": "Fluer: Digital Business Card",
+            "developer": "Desygner Pty Ltd",
+            "score": 4
+          },
+          {
+            "appId": "com.canva.editor",
+            "title": "Canva: AI Photo & Video Editor",
+            "developer": "Canva",
+            "score": 4.6130843
+          },
+          {
+            "appId": "com.fotopix.businessCardMaker",
+            "title": "Business & Visiting Card Maker",
+            "developer": "Fotopix",
+            "score": 4.564516
+          },
+          {
+            "appId": "com.squarespace.android.squarespaceapp",
+            "title": "Squarespace: Run your business",
+            "developer": "Squarespace Inc",
+            "score": 4.35
+          },
+          {
+            "appId": "co.hodor.afamy",
+            "title": "Photography Business Mastery",
+            "developer": "Education Door Media"
+          },
+          {
+            "appId": "com.adobe.spark.post",
+            "title": "Adobe Express: AI Photo, Video",
+            "developer": "Adobe",
+            "score": 4.495627
+          },
+          {
+            "appId": "com.vsco.cam",
+            "title": "VSCO: Photo Editor",
+            "developer": "VSCO",
+            "score": 2.677686
+          },
+          {
+            "appId": "com.rabbl.blinq",
+            "title": "Blinq: Digital Business Card",
+            "developer": "Blinq Technologies",
+            "score": 4.65625
           }
         ]
       },
-      "drills": []
+      "allCandidatesEnriched": [
+        {
+          "appId": "com.pixieset.studio",
+          "title": "Pixieset – Studio Manager",
+          "developer": "Pixieset",
+          "installs": "50,000+",
+          "score": 4.83,
+          "ratings": 442,
+          "foundVia": "photographer client gallery"
+        },
+        {
+          "appId": "com.google.android.apps.photosgo",
+          "title": "Gallery",
+          "developer": "Google LLC",
+          "installs": "1,000,000,000+",
+          "score": 4.317663,
+          "ratings": 591660,
+          "foundVia": "photographer client gallery"
+        },
+        {
+          "appId": "com.diune.pictures",
+          "title": "Piktures: Photo Gallery",
+          "developer": "DIUNE",
+          "installs": "1,000,000+",
+          "score": 4.096916,
+          "ratings": 53344,
+          "foundVia": "photographer client gallery"
+        },
+        {
+          "appId": "gallery.photomanager.picturegalleryapp.imagegallery",
+          "title": "Gallery - photo gallery, album",
+          "developer": "PhotoZen Studio",
+          "installs": "10,000,000+",
+          "score": 4.6841006,
+          "ratings": 487340,
+          "foundVia": "photographer client gallery"
+        },
+        {
+          "appId": "photo.gallery.photoeditor.photo.album",
+          "title": "Gallery- Photo Gallery & Album",
+          "developer": "Mobile_V5",
+          "installs": "10,000,000+",
+          "score": 4.5742297,
+          "ratings": 243261,
+          "foundVia": "photographer client gallery"
+        },
+        {
+          "appId": "gallery.hidepictures.photovault.lockgallery",
+          "title": "Gallery - Photo Gallery, Album",
+          "developer": "InShot Inc.",
+          "installs": "50,000,000+",
+          "score": 4.7257385,
+          "ratings": 790265,
+          "foundVia": "photographer client gallery"
+        },
+        {
+          "appId": "org.fossify.gallery",
+          "title": "Fossify Gallery",
+          "developer": "Fossify",
+          "installs": "500,000+",
+          "score": 3.9,
+          "ratings": 5346,
+          "foundVia": "photographer client gallery"
+        },
+        {
+          "appId": "com.atomicadd.fotos",
+          "title": "A+ Gallery - Photos & Videos",
+          "developer": "AtomicAdd Team",
+          "installs": "10,000,000+",
+          "score": 4.4639792,
+          "ratings": 461644,
+          "foundVia": "photographer client gallery"
+        },
+        {
+          "appId": "com.fstop.photo",
+          "title": "Fast Photo Gallery Pro: F-Stop",
+          "developer": "Seelye Engineering",
+          "installs": "1,000,000+",
+          "score": 4.0737705,
+          "ratings": 19881,
+          "foundVia": "photographer client gallery"
+        },
+        {
+          "appId": "com.jsk.advancesecuregallery",
+          "title": "Advance Gallery: Secure Photos",
+          "developer": "JSK Sol",
+          "installs": "10,000+",
+          "score": 3.4,
+          "ratings": 77,
+          "foundVia": "photographer client gallery"
+        },
+        {
+          "appId": "com.jag.essentialgallery",
+          "title": "Photo Gallery & Album",
+          "developer": "Seelye Engineering",
+          "installs": "100,000+",
+          "score": 3.7,
+          "ratings": 2900,
+          "foundVia": "photographer client gallery"
+        },
+        {
+          "appId": "com.shutterfly",
+          "title": "Shutterfly: Prints Cards Gifts",
+          "developer": "Shutterfly, Inc",
+          "installs": "10,000,000+",
+          "score": 4.5570617,
+          "ratings": 232779,
+          "foundVia": "photographer client gallery"
+        },
+        {
+          "appId": "com.photoproof",
+          "title": "Photo Proof",
+          "developer": "Cogniter Technologies",
+          "installs": "50+",
+          "foundVia": "client proofing photography"
+        },
+        {
+          "appId": "pl.pose.posica",
+          "title": "Posing App Posica Photography",
+          "developer": "Sunrise & Sunset Times",
+          "installs": "500,000+",
+          "score": 4.490196,
+          "ratings": 1683,
+          "foundVia": "client proofing photography"
+        },
+        {
+          "appId": "com.flavionet.android.camera.lite",
+          "title": "Camera FV-5 Lite",
+          "developer": "FGAE Apps",
+          "installs": "10,000,000+",
+          "score": 4.135714,
+          "ratings": 140087,
+          "foundVia": "client proofing photography"
+        },
+        {
+          "appId": "rayinformatics.com.phocus",
+          "title": "Phocus: DSLR Portrait Camera",
+          "developer": "RAY INFORMATICS YAZ.TEK.MED.DAN.VE EĞT.TİC.LTD.ŞTİ",
+          "installs": "500,000+",
+          "score": 4.38,
+          "ratings": 11054,
+          "foundVia": "client proofing photography"
+        },
+        {
+          "appId": "com.blink.academy.protake",
+          "title": "Protake - Mobile Cinema Camera",
+          "developer": "Beijing Lingguang Zaixian Information Technology",
+          "installs": "1,000,000+",
+          "score": 3.44,
+          "ratings": 5260,
+          "foundVia": "client proofing photography"
+        },
+        {
+          "appId": "eyu.on.pica",
+          "title": "@picn2k camera",
+          "developer": "2U",
+          "installs": "50,000+",
+          "score": 4.2777777,
+          "ratings": 3084,
+          "foundVia": "client proofing photography"
+        },
+        {
+          "appId": "com.snapwood.smugfolio",
+          "title": "SmugMug - Photography Platform",
+          "developer": "SmugMug Inc.",
+          "installs": "500,000+",
+          "score": 4.5315986,
+          "ratings": 7526,
+          "foundVia": "client proofing photography"
+        },
+        {
+          "appId": "com.captureapp.proofsnap",
+          "title": "ProofSnap – Photo Proof Cam",
+          "developer": "Numbers Co., Ltd.",
+          "installs": "100+",
+          "score": 0,
+          "ratings": 0,
+          "foundVia": "client proofing photography"
+        },
+        {
+          "appId": "com.intermedia.hd.camera.professional",
+          "title": "ProCam X - Lite :HD Camera Pro",
+          "developer": "Imagi Mobile",
+          "installs": "10,000,000+",
+          "score": 3.9402986,
+          "ratings": 40175,
+          "foundVia": "client proofing photography"
+        },
+        {
+          "appId": "com.oceangalaxy.camera.new",
+          "title": "Timemark: Photo Proof",
+          "developer": "OG Co.",
+          "installs": "10,000,000+",
+          "score": 4.7647057,
+          "ratings": 681921,
+          "foundVia": "client proofing photography"
+        },
+        {
+          "appId": "com.fujifilm.instaxup",
+          "title": "instax UP! -Scan instax photos",
+          "developer": "FUJIFILM Corporation",
+          "installs": "1,000,000+",
+          "score": 4.62,
+          "ratings": 4360,
+          "foundVia": "client proofing photography"
+        },
+        {
+          "appId": "com.niksoftware.snapseed",
+          "title": "Snapseed",
+          "developer": "Google LLC",
+          "installs": "100,000,000+",
+          "score": 3.9459004,
+          "ratings": 1736377,
+          "foundVia": "pixieset"
+        },
+        {
+          "appId": "com.cardinalblue.piccollage.google",
+          "title": "PicCollage: Photo Video Editor",
+          "developer": "Cardinal Blue Software, Inc.",
+          "installs": "100,000,000+",
+          "score": 4.735816,
+          "ratings": 1817231,
+          "foundVia": "pixieset"
+        }
+      ],
+      "drills": [
+        {
+          "appId": "com.google.android.apps.photosgo",
+          "title": "Gallery",
+          "developer": "Google LLC",
+          "installs": "1,000,000,000+",
+          "score": 4.317663,
+          "ratings": 591660,
+          "free": true,
+          "offersIAP": false,
+          "released": "Jul 23, 2019",
+          "updated": 1777553355000,
+          "genre": "Photography",
+          "corporate": false,
+          "foundVia": "photographer client gallery",
+          "histogramLowPct": 0.12388080641099104,
+          "recentLowPct200": 0.245,
+          "reviewsPulled": 200,
+          "description": "Meet Gallery, a smart, light and fast photo and video gallery built by Google to help you:  \n  \n  ✨ Find photos faster with automatic organization  \n  😎 Look your best with editing tools like auto-enhance  \n  🏝️ Use less data - works offline, all in a small app size  \n  \n  AUTOMATIC ORGANIZATION  \n  \n  Each night, Gallery will automatically organize your photos to group by: People, Selfies, Nature, Animals, Documents, Videos and Movies.  \n  Gallery helps you stay organized, so you can spend le",
+          "sampleLowReviews": [
+            {
+              "date": "2026-05-06T11:02:48.255Z",
+              "score": 2,
+              "text": "is Google vibe coding this now? The newest update broke UX completely. When viewing a single image the back button now exits the app instead of going back to the gallery. for all interactions, the back button doesn't go to the previous screen within the app, but \"exits\" the app instead."
+            },
+            {
+              "date": "2026-05-06T10:59:35.630Z",
+              "score": 1,
+              "text": "jhand update lai ho"
+            },
+            {
+              "date": "2026-05-06T10:47:38.113Z",
+              "score": 1,
+              "text": "Constantly removes your pictures saved as favourites, which is a huge inconvenience considering I want to easily access those pictures"
+            },
+            {
+              "date": "2026-05-06T08:03:09.891Z",
+              "score": 1,
+              "text": "i dont know if it's intended, but why back gesture now close the app ?. such an useless update."
+            },
+            {
+              "date": "2026-05-06T07:25:09.218Z",
+              "score": 1,
+              "text": "Back button doesn't go back to previous folder/file. It closes the app on pixel 10a"
+            },
+            {
+              "date": "2026-05-06T07:09:48.187Z",
+              "score": 1,
+              "text": "With the new update, the back button minimize the app, to move back ftom files you need to push the back arrow on top now..."
+            }
+          ]
+        },
+        {
+          "appId": "com.niksoftware.snapseed",
+          "title": "Snapseed",
+          "developer": "Google LLC",
+          "installs": "100,000,000+",
+          "score": 3.9459004,
+          "ratings": 1736377,
+          "free": true,
+          "offersIAP": false,
+          "released": "Dec 6, 2012",
+          "updated": 1716393643000,
+          "genre": "Photography",
+          "corporate": false,
+          "foundVia": "pixieset",
+          "histogramLowPct": 0.21034614228335727,
+          "recentLowPct200": 0.22,
+          "reviewsPulled": 200,
+          "description": "Snapseed is a complete and professional photo editor developed by Google.\n\n\n\n== KEY FEATURES==\n\n• 29 Tools and Filters, including: Healing, Brush, Structure, HDR, Perspective (see list below)\n\n• Opens JPG and RAW files\n\n• Save your personal looks and apply them to new photos later\n\n• Selective filter brush\n\n• All styles can be tweaked with fine, precise control\n\n\n\n== TOOLS, FILTERS AND FACE ==\n\n• RAW Develop – open and tweak RAW DNG files; save non-destructively or export as JPG\n\n• Tune image – ",
+          "sampleLowReviews": [
+            {
+              "date": "2026-05-05T23:15:22.230Z",
+              "score": 1,
+              "text": "app has not been updated for so long. Both UI and functions are way too outdated."
+            },
+            {
+              "date": "2026-05-05T16:43:26.792Z",
+              "score": 1,
+              "text": "How hard is it to have a brush not tied to AI? Why is every photo editing app being hollowed out to add Ai in it, essentially making useless. An edit that takes too minutes has become a pain in the neck because executives are drooling over replacing their workers. 🙄"
+            },
+            {
+              "date": "2026-05-02T18:56:57.198Z",
+              "score": 1,
+              "text": "UI seems to be complex and not user-friendly compared to iOS, in iOS the UI is much better, why can't you develop a user-friendly and more attractive UI in your own OS. In iPhone I could also see what are the projects done in snapseed. But in Android I can't see anything like that. I am so disappointed."
+            },
+            {
+              "date": "2026-05-02T17:43:08.515Z",
+              "score": 1,
+              "text": "Good"
+            },
+            {
+              "date": "2026-05-02T09:56:53.716Z",
+              "score": 1,
+              "text": "great app but sucks that we on android dont get the latest versions.... get your act together google"
+            },
+            {
+              "date": "2026-05-02T09:01:30.180Z",
+              "score": 1,
+              "text": "where is the re-design for us !? why doesn't this provide an option to replace the default phone camera processing for all android devices, replacing gCam mods !?"
+            }
+          ]
+        },
+        {
+          "appId": "com.cardinalblue.piccollage.google",
+          "title": "PicCollage: Photo Video Editor",
+          "developer": "Cardinal Blue Software, Inc.",
+          "installs": "100,000,000+",
+          "score": 4.735816,
+          "ratings": 1817231,
+          "free": true,
+          "offersIAP": true,
+          "IAPRange": "$0.99 - $59.99 per item",
+          "released": "Jun 7, 2012",
+          "updated": 1777283147000,
+          "genre": "Photography",
+          "corporate": false,
+          "foundVia": "pixieset",
+          "histogramLowPct": 0.0341147842471294,
+          "recentLowPct200": 0.43,
+          "reviewsPulled": 200,
+          "description": "PicCollage - Your Photo Editor and Collage Maker for Celebrating Life's Moments! \nCreate photo collages, picture collages, and design scrapbook layouts with PicCollage. Our grid templates and layout tools help you combine photos, pics, and videos into collages, cards, and visual stories.\n\nFEATURES:\n- Create photo collages, video collages, greeting cards, scrapbook pages, Insta stories & more\n- Edit photos, pictures & videos with our photo editor - filter, effects, retouch, and crop\n- Remove back",
+          "sampleLowReviews": [
+            {
+              "date": "2026-05-05T19:46:21.753Z",
+              "score": 2,
+              "text": "this app was amazing but now it wants me to pay even for a basic grid collage! not sure what's changed!"
+            },
+            {
+              "date": "2026-05-02T13:53:23.568Z",
+              "score": 1,
+              "text": "dropping because now you have to pay to save your collage. why??"
+            },
+            {
+              "date": "2026-05-02T07:38:02.173Z",
+              "score": 1,
+              "text": "i accidentally purchase an order....i ask for a refund and they don't allow to refund my money ....i was really frustrated and furious..why u don't do ur service fair? its simply if ur customer request a refund and do your job to bring their money back ....I really hate your service"
+            },
+            {
+              "date": "2026-05-01T08:48:05.413Z",
+              "score": 2,
+              "text": "so apparently I left a 5 start review in 2017 saying \"Awesome, simple and easy\" I remember you could remove the watermark back then. Now it forces you to pay for such a simple, yet intrusive little thing. Excessively greedy, shame -_-"
+            },
+            {
+              "date": "2026-04-21T11:17:01.192Z",
+              "score": 1,
+              "text": "I cancelled subscription but not refunded"
+            },
+            {
+              "date": "2026-04-18T15:23:12.947Z",
+              "score": 1,
+              "text": "why are things that were once free suddenly a premium service? like the whole reason I used the app was because with the ads, it was free."
+            }
+          ]
+        },
+        {
+          "appId": "gallery.hidepictures.photovault.lockgallery",
+          "title": "Gallery - Photo Gallery, Album",
+          "developer": "InShot Inc.",
+          "installs": "50,000,000+",
+          "score": 4.7257385,
+          "ratings": 790265,
+          "free": true,
+          "offersIAP": true,
+          "IAPRange": "$4.99 per item",
+          "released": "Jul 7, 2020",
+          "updated": 1774629884000,
+          "genre": "Tools",
+          "corporate": false,
+          "foundVia": "photographer client gallery",
+          "histogramLowPct": 0.04933285916956375,
+          "recentLowPct200": 0.095,
+          "reviewsPulled": 200,
+          "description": "Looking for a photo organizer to easily manage all your photos?\nWant to have a private photo vault to hide your private photos?\nTry XGallery, a full-featured photo gallery and photo vault app, which can help you easily organize and manage photos and videos!\n\nXGallery is both a photo manager and gallery vault. You can edit photos, protect and hide photos with password, generate Story albums, and clear similar photos.\n\nXGallery - gallery photo editor and vault supports viewing files in all formats",
+          "sampleLowReviews": [
+            {
+              "date": "2026-05-06T09:19:40.535Z",
+              "score": 2,
+              "text": "too much ads"
+            },
+            {
+              "date": "2026-05-03T16:14:17.720Z",
+              "score": 1,
+              "text": "great app if you like ads, more ads and ever more ads. #damn!"
+            },
+            {
+              "date": "2026-05-03T12:13:29.657Z",
+              "score": 1,
+              "text": "ads the moment I open the app unbelievable"
+            },
+            {
+              "date": "2026-04-30T07:05:39.401Z",
+              "score": 1,
+              "text": "Consent part sucks. Either accept them all or sit there for the next 45 mins denying access to the 100's of data collecting companies. You should give an opinion to reject all. Based on this, not interested in the app"
+            },
+            {
+              "date": "2026-04-29T21:06:07.462Z",
+              "score": 2,
+              "text": "Privacy not working like before"
+            },
+            {
+              "date": "2026-04-29T20:24:07.632Z",
+              "score": 2,
+              "text": "plzz delate thie apps"
+            }
+          ]
+        },
+        {
+          "appId": "gallery.photomanager.picturegalleryapp.imagegallery",
+          "title": "Gallery - photo gallery, album",
+          "developer": "PhotoZen Studio",
+          "installs": "10,000,000+",
+          "score": 4.6841006,
+          "ratings": 487340,
+          "free": true,
+          "offersIAP": true,
+          "IAPRange": "$3.99 - $5.99 per item",
+          "released": "Feb 9, 2020",
+          "updated": 1763101098000,
+          "genre": "Photography",
+          "corporate": false,
+          "foundVia": "photographer client gallery",
+          "histogramLowPct": 0.0574058797214048,
+          "recentLowPct200": 0.1,
+          "reviewsPulled": 200,
+          "description": "Gallery app is simple, modern, light and fast photo gallery and picture manager app for viewing and organizing your photos and videos. \n\nMain features:\n🌟 Beautiful simple and fast photo gallery\n🌟 Quickly search pictures, GIF, videos and albums\n🌟 Use the photo viewer to sort and view files\n🌟 Easy to share pictures and videos to social media, email or anywhere else\n🌟 Show photo and video details\n🌟 Photo manager allows you to rename, delete, copy, move pictures, videos and GIFs\n🌟 Set any pic",
+          "sampleLowReviews": [
+            {
+              "date": "2026-05-03T14:52:35.929Z",
+              "score": 1,
+              "text": "No way to \"set as wallpaper\" after updating to HyperOS 3."
+            },
+            {
+              "date": "2026-05-02T00:23:12.786Z",
+              "score": 1,
+              "text": "I love this app. genuinely one of the best I've used. the problem starts with the ads. I got no problem with the small banner ads on the bottom; make your bank bro. but as soon as you start to shove full-screen unskippable video ads in my face— I'm not buying ad-free. I'm uninstalling. sorry not sorry."
+            },
+            {
+              "date": "2026-04-30T20:07:15.906Z",
+              "score": 1,
+              "text": "Too many adds"
+            },
+            {
+              "date": "2026-04-29T06:21:35.710Z",
+              "score": 1,
+              "text": "Has advertisements."
+            },
+            {
+              "date": "2026-04-27T20:26:31.788Z",
+              "score": 1,
+              "text": "Opens with dumbass game."
+            },
+            {
+              "date": "2026-04-27T07:09:04.883Z",
+              "score": 2,
+              "text": "On my phone it's not letting me set the thumbnail for each album anymore. also when I try to exclude a folder it will let me select exclude, but it won't actually exclude the folder it just stays right there. this used to be a great app but now it's just not anymore."
+            }
+          ]
+        }
+      ]
     },
     "fsbo_real_estate": {
       "searches": {
@@ -441,162 +937,138 @@
             "appId": "com.zillow.android.zillowmap",
             "title": "Zillow: Homes for Sale & Rent",
             "developer": "Zillow",
-            "score": 4.7777777,
-            "free": false
+            "score": 4.7777777
           },
           {
             "appId": "com.mycompany.markmyproperty",
             "title": "Mark My Property: Buy | Sell",
-            "developer": "MarkMyProperty",
-            "free": false
+            "developer": "MarkMyProperty"
           },
           {
             "appId": "com.nnacres.app",
             "title": "99acres Buy/Rent/Sell Property",
             "developer": "infoedge.com",
-            "score": 4.2058825,
-            "free": false
+            "score": 4.2058825
           },
           {
             "appId": "com.homes.homesdotcom",
             "title": "Homes.com Real Estate & Rent",
             "developer": "CoStar Homes.com Android Team",
-            "score": 4.4545455,
-            "free": false
+            "score": 4.4545455
           },
           {
             "appId": "com.redfin.android",
             "title": "Redfin: Buy, Sell & Rent Homes",
             "developer": "Redfin",
-            "score": 4.72,
-            "free": false
+            "score": 4.72
           },
           {
             "appId": "com.trulia.android",
             "title": "Trulia: Homes For Sale & Rent",
             "developer": "Trulia",
-            "score": 4.8,
-            "free": false
+            "score": 4.8
           },
           {
             "appId": "com.move.realtor",
             "title": "Realtor.com Real Estate & Rent",
             "developer": "realtor.com®",
-            "score": 4.788889,
-            "free": false
+            "score": 4.788889
           },
           {
             "appId": "org.estatesales.esbuyerapp",
             "title": "Estate Sale Finder",
-            "developer": "Treasure Listings",
-            "free": false
+            "developer": "Treasure Listings"
           },
           {
             "appId": "com.offerup",
             "title": "OfferUp Buy & Sell Marketplace",
             "developer": "OfferUp Inc.",
-            "score": 0,
-            "free": false
+            "score": 0
           },
           {
             "appId": "org.craigslist.CraigslistMobile",
             "title": "craigslist",
             "developer": "craigslist.org",
-            "score": 0,
-            "free": false
+            "score": 0
           },
           {
             "appId": "com.auction.resi.buyer",
             "title": "Auction.com - Homes for Sale",
-            "developer": "Auction.com, LLC",
-            "free": false
+            "developer": "Auction.com, LLC"
           },
           {
             "appId": "com.listglobally.properstar",
             "title": "Properstar: Buy & Rent Homes",
             "developer": "Properstar",
-            "score": 4.55,
-            "free": false
+            "score": 4.55
           }
         ],
         "fsbo real estate": [
           {
             "appId": "com.resale.beitbook",
             "title": "FSBO - Real Estate",
-            "developer": "KERLOS ROMANY",
-            "free": false
+            "developer": "KERLOS ROMANY"
           },
           {
             "appId": "com.zillow.android.zillowmap",
             "title": "Zillow: Homes for Sale & Rent",
             "developer": "Zillow",
-            "score": 4.7777777,
-            "free": false
+            "score": 4.7777777
           },
           {
             "appId": "com.redfin.android",
             "title": "Redfin: Buy, Sell & Rent Homes",
             "developer": "Redfin",
-            "score": 4.72,
-            "free": false
+            "score": 4.72
           },
           {
             "appId": "com.move.realtor",
             "title": "Realtor.com Real Estate & Rent",
             "developer": "realtor.com®",
-            "score": 4.788889,
-            "free": false
+            "score": 4.788889
           },
           {
             "appId": "com.homes.homesdotcom",
             "title": "Homes.com Real Estate & Rent",
             "developer": "CoStar Homes.com Android Team",
-            "score": 4.4545455,
-            "free": false
+            "score": 4.4545455
           },
           {
             "appId": "com.xome.android",
             "title": "Real Estate by Xome",
-            "developer": "Xome Inc",
-            "free": false
+            "developer": "Xome Inc"
           },
           {
             "appId": "com.trulia.android",
             "title": "Trulia: Homes For Sale & Rent",
             "developer": "Trulia",
-            "score": 4.8,
-            "free": false
+            "score": 4.8
           },
           {
             "appId": "com.realbricks",
             "title": "Realbricks - Real Estate App",
-            "developer": "Realbricks",
-            "free": false
+            "developer": "Realbricks"
           },
           {
             "appId": "com.sima.realestatelicense",
             "title": "Real Estate Exam Prep 2026",
-            "developer": "Easy Prep",
-            "free": false
+            "developer": "Easy Prep"
           },
           {
             "appId": "com.edupass.realestate",
             "title": "Real Estate Practice Test 2026",
-            "developer": "Easy Pass E-Learning",
-            "free": false
+            "developer": "Easy Pass E-Learning"
           },
           {
             "appId": "realestate.exam",
             "title": "Real Estate Exam Prep 2026",
-            "developer": "Pass Your Exam",
-            "free": false
+            "developer": "Pass Your Exam"
           },
           {
             "appId": "com.listglobally.properstar",
             "title": "Properstar: Buy & Rent Homes",
             "developer": "Properstar",
-            "score": 4.55,
-            "free": false
+            "score": 4.55
           }
         ],
         "sell home owner": [
@@ -604,82 +1076,70 @@
             "appId": "com.zillow.android.zillowmap",
             "title": "Zillow: Homes for Sale & Rent",
             "developer": "Zillow",
-            "score": 4.7777777,
-            "free": false
+            "score": 4.7777777
           },
           {
             "appId": "com.homes.homesdotcom",
             "title": "Homes.com Real Estate & Rent",
             "developer": "CoStar Homes.com Android Team",
-            "score": 4.4545455,
-            "free": false
+            "score": 4.4545455
           },
           {
             "appId": "com.redfin.android",
             "title": "Redfin: Buy, Sell & Rent Homes",
             "developer": "Redfin",
-            "score": 4.72,
-            "free": false
+            "score": 4.72
           },
           {
             "appId": "com.move.realtor",
             "title": "Realtor.com Real Estate & Rent",
             "developer": "realtor.com®",
-            "score": 4.788889,
-            "free": false
+            "score": 4.788889
           },
           {
             "appId": "com.trulia.android",
             "title": "Trulia: Homes For Sale & Rent",
             "developer": "Trulia",
-            "score": 4.8,
-            "free": false
+            "score": 4.8
           },
           {
             "appId": "com.listglobally.properstar",
             "title": "Properstar: Buy & Rent Homes",
             "developer": "Properstar",
-            "score": 4.55,
-            "free": false
+            "score": 4.55
           },
           {
             "appId": "com.nnacres.app",
             "title": "99acres Buy/Rent/Sell Property",
             "developer": "infoedge.com",
-            "score": 4.2058825,
-            "free": false
+            "score": 4.2058825
           },
           {
             "appId": "com.locon.housing",
             "title": "Housing: Buy, Rent, Sell & Pay",
             "developer": "Housing",
-            "score": 4.193548,
-            "free": false
+            "score": 4.193548
           },
           {
             "appId": "com.auction.resi.buyer",
             "title": "Auction.com - Homes for Sale",
-            "developer": "Auction.com, LLC",
-            "free": false
+            "developer": "Auction.com, LLC"
           },
           {
             "appId": "com.mycompany.markmyproperty",
             "title": "Mark My Property: Buy | Sell",
-            "developer": "MarkMyProperty",
-            "free": false
+            "developer": "MarkMyProperty"
           },
           {
             "appId": "com.rent",
             "title": "Rent. Apartments & Homes",
-            "developer": "Rent Group, Inc",
-            "free": false
+            "developer": "Rent Group, Inc"
           },
           {
             "appId": "es.roid.and.trovit",
             "title": "Real Estate sale & rent Trovit",
             "developer": "Trovit",
-            "score": 3.625,
-            "free": false
+            "score": 3.625
           }
         ],
         "private property listing": [
@@ -687,85 +1147,628 @@
             "appId": "com.privatepropertyandroid.app",
             "title": "Private Property",
             "developer": "Private Property SA",
-            "score": 0,
-            "free": false
+            "score": 0
           },
           {
             "appId": "com.zillow.android.zillowmap",
             "title": "Zillow: Homes for Sale & Rent",
             "developer": "Zillow",
-            "score": 4.7777777,
-            "free": false
+            "score": 4.7777777
           },
           {
             "appId": "ng.com.privateproperty.app",
             "title": "Private Property Nigeria",
-            "developer": "Private Property Africa",
-            "free": false
+            "developer": "Private Property Africa"
           },
           {
             "appId": "com.trulia.android",
             "title": "Trulia: Homes For Sale & Rent",
             "developer": "Trulia",
-            "score": 4.8,
-            "free": false
+            "score": 4.8
           },
           {
             "appId": "com.move.realtor",
             "title": "Realtor.com Real Estate & Rent",
             "developer": "realtor.com®",
-            "score": 4.788889,
-            "free": false
+            "score": 4.788889
           },
           {
             "appId": "com.apartmentlist.mobile",
             "title": "Apartment List: Rent app",
-            "developer": "Apartment List",
-            "free": false
+            "developer": "Apartment List"
           },
           {
             "appId": "com.privatepropertyghana.app",
             "title": "Private Property Ghana",
-            "developer": "Private Property Africa",
-            "free": false
+            "developer": "Private Property Africa"
           },
           {
             "appId": "com.nnacres.app",
             "title": "99acres Buy/Rent/Sell Property",
             "developer": "infoedge.com",
-            "score": 4.2058825,
-            "free": false
+            "score": 4.2058825
           },
           {
             "appId": "com.trulia.android.rentals",
             "title": "Trulia Rent Apartments & Homes",
             "developer": "Trulia",
-            "score": 4.551724,
-            "free": false
+            "score": 4.551724
           },
           {
             "appId": "com.rent",
             "title": "Rent. Apartments & Homes",
-            "developer": "Rent Group, Inc",
-            "free": false
+            "developer": "Rent Group, Inc"
           },
           {
             "appId": "com.redfin.android",
             "title": "Redfin: Buy, Sell & Rent Homes",
             "developer": "Redfin",
-            "score": 4.72,
-            "free": false
+            "score": 4.72
           },
           {
             "appId": "com.homes.homesdotcom",
             "title": "Homes.com Real Estate & Rent",
             "developer": "CoStar Homes.com Android Team",
-            "score": 4.4545455,
-            "free": false
+            "score": 4.4545455
+          }
+        ],
+        "sell my house owner": [
+          {
+            "appId": "com.homes.homesdotcom",
+            "title": "Homes.com Real Estate & Rent",
+            "developer": "CoStar Homes.com Android Team",
+            "score": 4.4545455
+          },
+          {
+            "appId": "com.zillow.android.zillowmap",
+            "title": "Zillow: Homes for Sale & Rent",
+            "developer": "Zillow",
+            "score": 4.7777777
+          },
+          {
+            "appId": "com.mycompany.markmyproperty",
+            "title": "Mark My Property: Buy | Sell",
+            "developer": "MarkMyProperty"
+          },
+          {
+            "appId": "com.redfin.android",
+            "title": "Redfin: Buy, Sell & Rent Homes",
+            "developer": "Redfin",
+            "score": 4.72
+          },
+          {
+            "appId": "com.trulia.android",
+            "title": "Trulia: Homes For Sale & Rent",
+            "developer": "Trulia",
+            "score": 4.8
+          },
+          {
+            "appId": "com.move.realtor",
+            "title": "Realtor.com Real Estate & Rent",
+            "developer": "realtor.com®",
+            "score": 4.788889
+          },
+          {
+            "appId": "com.mob3dgamers.real.estate.landlord.simulator",
+            "title": "Real Estate Manager Simulator",
+            "developer": "Mob 3D Gamers",
+            "score": 0
+          },
+          {
+            "appId": "com.infinity.property.house.design.brothers.game",
+            "title": "Real Estate Business Simulator",
+            "developer": "GamesCraft Studio",
+            "score": 3
+          },
+          {
+            "appId": "es.roid.and.trovit",
+            "title": "Real Estate sale & rent Trovit",
+            "developer": "Trovit",
+            "score": 3.625
+          },
+          {
+            "appId": "com.hiddenlake.estate",
+            "title": "Real Estate Tycoon: The Game",
+            "developer": "Hidden Lake Games LLC",
+            "score": 2.909091
+          },
+          {
+            "appId": "com.listglobally.properstar",
+            "title": "Properstar: Buy & Rent Homes",
+            "developer": "Properstar",
+            "score": 4.55
+          },
+          {
+            "appId": "com.genigames.rental.property.tycoon",
+            "title": "Real Estate Tycoon: Landlord",
+            "developer": "GenI Games",
+            "score": 3.78
           }
         ]
       },
-      "drills": []
+      "allCandidatesEnriched": [
+        {
+          "appId": "com.zillow.android.zillowmap",
+          "title": "Zillow: Homes for Sale & Rent",
+          "developer": "Zillow",
+          "installs": "50,000,000+",
+          "score": 4.78182,
+          "ratings": 1597993,
+          "foundVia": "for sale by owner"
+        },
+        {
+          "appId": "com.mycompany.markmyproperty",
+          "title": "Mark My Property: Buy | Sell",
+          "developer": "MarkMyProperty",
+          "installs": "10,000+",
+          "score": 0,
+          "ratings": 0,
+          "foundVia": "for sale by owner"
+        },
+        {
+          "appId": "com.nnacres.app",
+          "title": "99acres Buy/Rent/Sell Property",
+          "developer": "infoedge.com",
+          "installs": "10,000,000+",
+          "score": 4.1,
+          "ratings": 198523,
+          "foundVia": "for sale by owner"
+        },
+        {
+          "appId": "com.homes.homesdotcom",
+          "title": "Homes.com Real Estate & Rent",
+          "developer": "CoStar Homes.com Android Team",
+          "installs": "1,000,000+",
+          "score": 4.718381,
+          "ratings": 22127,
+          "foundVia": "for sale by owner"
+        },
+        {
+          "appId": "com.redfin.android",
+          "title": "Redfin: Buy, Sell & Rent Homes",
+          "developer": "Redfin",
+          "installs": "10,000,000+",
+          "score": 4.656553,
+          "ratings": 166601,
+          "foundVia": "for sale by owner"
+        },
+        {
+          "appId": "com.trulia.android",
+          "title": "Trulia: Homes For Sale & Rent",
+          "developer": "Trulia",
+          "installs": "10,000,000+",
+          "score": 4.7376056,
+          "ratings": 315168,
+          "foundVia": "for sale by owner"
+        },
+        {
+          "appId": "com.move.realtor",
+          "title": "Realtor.com Real Estate & Rent",
+          "developer": "realtor.com®",
+          "installs": "10,000,000+",
+          "score": 4.6582165,
+          "ratings": 551684,
+          "foundVia": "for sale by owner"
+        },
+        {
+          "appId": "org.estatesales.esbuyerapp",
+          "title": "Estate Sale Finder",
+          "developer": "Treasure Listings",
+          "installs": "1,000+",
+          "score": 0,
+          "ratings": 0,
+          "foundVia": "for sale by owner"
+        },
+        {
+          "appId": "com.offerup",
+          "title": "OfferUp Buy & Sell Marketplace",
+          "developer": "OfferUp Inc.",
+          "installs": "50,000,000+",
+          "score": 4.3719983,
+          "ratings": 1250740,
+          "foundVia": "for sale by owner"
+        },
+        {
+          "appId": "org.craigslist.CraigslistMobile",
+          "title": "craigslist",
+          "developer": "craigslist.org",
+          "installs": "10,000,000+",
+          "score": 4.6731396,
+          "ratings": 260179,
+          "foundVia": "for sale by owner"
+        },
+        {
+          "appId": "com.auction.resi.buyer",
+          "title": "Auction.com - Homes for Sale",
+          "developer": "Auction.com, LLC",
+          "installs": "500,000+",
+          "score": 3.3522267,
+          "ratings": 2508,
+          "foundVia": "for sale by owner"
+        },
+        {
+          "appId": "com.listglobally.properstar",
+          "title": "Properstar: Buy & Rent Homes",
+          "developer": "Properstar",
+          "installs": "100,000+",
+          "score": 4.841584,
+          "ratings": 7041,
+          "foundVia": "for sale by owner"
+        },
+        {
+          "appId": "com.resale.beitbook",
+          "title": "FSBO - Real Estate",
+          "developer": "KERLOS ROMANY",
+          "installs": "10+",
+          "foundVia": "fsbo real estate"
+        },
+        {
+          "appId": "com.xome.android",
+          "title": "Real Estate by Xome",
+          "developer": "Xome Inc",
+          "installs": "100,000+",
+          "score": 3.93,
+          "ratings": 1274,
+          "foundVia": "fsbo real estate"
+        },
+        {
+          "appId": "com.realbricks",
+          "title": "Realbricks - Real Estate App",
+          "developer": "Realbricks",
+          "installs": "10,000+",
+          "score": 4.0215054,
+          "ratings": 94,
+          "foundVia": "fsbo real estate"
+        },
+        {
+          "appId": "com.sima.realestatelicense",
+          "title": "Real Estate Exam Prep 2026",
+          "developer": "Easy Prep",
+          "installs": "1,000+",
+          "score": 4.75,
+          "ratings": 171,
+          "foundVia": "fsbo real estate"
+        },
+        {
+          "appId": "com.edupass.realestate",
+          "title": "Real Estate Practice Test 2026",
+          "developer": "Easy Pass E-Learning",
+          "installs": "100+",
+          "score": 0,
+          "ratings": 0,
+          "foundVia": "fsbo real estate"
+        },
+        {
+          "appId": "realestate.exam",
+          "title": "Real Estate Exam Prep 2026",
+          "developer": "Pass Your Exam",
+          "installs": "10,000+",
+          "score": 4.4,
+          "ratings": 177,
+          "foundVia": "fsbo real estate"
+        },
+        {
+          "appId": "com.locon.housing",
+          "title": "Housing: Buy, Rent, Sell & Pay",
+          "developer": "Housing",
+          "installs": "10,000,000+",
+          "score": 4.44,
+          "ratings": 404999,
+          "foundVia": "sell home owner"
+        },
+        {
+          "appId": "com.rent",
+          "title": "Rent. Apartments & Homes",
+          "developer": "Rent Group, Inc",
+          "installs": "5,000,000+",
+          "score": 4.646596,
+          "ratings": 134439,
+          "foundVia": "sell home owner"
+        },
+        {
+          "appId": "es.roid.and.trovit",
+          "title": "Real Estate sale & rent Trovit",
+          "developer": "Trovit",
+          "installs": "10,000,000+",
+          "score": 3.9652174,
+          "ratings": 80013,
+          "foundVia": "sell home owner"
+        },
+        {
+          "appId": "com.privatepropertyandroid.app",
+          "title": "Private Property",
+          "developer": "Private Property SA",
+          "installs": "500,000+",
+          "score": 3.9166667,
+          "ratings": 1867,
+          "foundVia": "private property listing"
+        },
+        {
+          "appId": "ng.com.privateproperty.app",
+          "title": "Private Property Nigeria",
+          "developer": "Private Property Africa",
+          "installs": "10,000+",
+          "score": 0,
+          "ratings": 0,
+          "foundVia": "private property listing"
+        },
+        {
+          "appId": "com.apartmentlist.mobile",
+          "title": "Apartment List: Rent app",
+          "developer": "Apartment List",
+          "installs": "5,000,000+",
+          "score": 4.421243,
+          "ratings": 66461,
+          "foundVia": "private property listing"
+        },
+        {
+          "appId": "com.privatepropertyghana.app",
+          "title": "Private Property Ghana",
+          "developer": "Private Property Africa",
+          "installs": "1,000+",
+          "score": 0,
+          "ratings": 0,
+          "foundVia": "private property listing"
+        }
+      ],
+      "drills": [
+        {
+          "appId": "com.zillow.android.zillowmap",
+          "title": "Zillow: Homes for Sale & Rent",
+          "developer": "Zillow",
+          "installs": "50,000,000+",
+          "score": 4.78182,
+          "ratings": 1597993,
+          "free": true,
+          "offersIAP": false,
+          "released": "Mar 17, 2010",
+          "updated": 1777930006000,
+          "genre": "House & Home",
+          "corporate": true,
+          "foundVia": "for sale by owner",
+          "histogramLowPct": 0.009097064558682543,
+          "recentLowPct200": 0.435,
+          "reviewsPulled": 200,
+          "description": "Find your new home to buy or rent with expert real estate tools and millions of listings right at your fingertips. Seamlessly save, search, and share home listings and apartment rentals – all on the Zillow app.\n\nCheck your BuyAbility℠ for an estimate of your home-buying budget based on your finances and current interest rates. Then, get a personalized shopping experience across listings and see the strength of potential offers as you search for a new home. Find a home you love? Discuss your mort",
+          "sampleLowReviews": [
+            {
+              "date": "2026-05-05T23:03:45.227Z",
+              "score": 2,
+              "text": "This app used to be great, but then they integrated AI, and now searching for any property is awful. You used to be able to type an address and it would come up, now you have to read through several paragraphs from AI, and you still don't find what you were looking for."
+            },
+            {
+              "date": "2026-05-05T21:29:36.438Z",
+              "score": 1,
+              "text": "Definitely setup as a predatory app. 100% bait pictures and zero relevant information. No section to add comments if you have toured it to warn other buyers of termites ect. To sum it up this is \"not\" to help you buy a home it's to help realtors and sellers take advantage of you. looking into starting class action lawsuit."
+            },
+            {
+              "date": "2026-05-05T17:34:00.715Z",
+              "score": 1,
+              "text": "bot check is terrible and checks WAY TOO OFTEN"
+            },
+            {
+              "date": "2026-05-05T14:52:22.551Z",
+              "score": 1,
+              "text": "Once you are already renting the help functions are poor. How do I change my bank account info? Where do I go to change bank settings? I eventually found a link to the dashboard but it was buried in an obscure place. No place to get real help when I have an issue. update. Now for the 2nd time my payment didn't go through. After ploughing through th"
+            },
+            {
+              "date": "2026-05-05T02:29:22.812Z",
+              "score": 2,
+              "text": "frustratingly eating up my phone battery and data. It repeats the same updates over and over on houses you've favorited, even though they already notified you about the update many times. No need to tell me three time a day on multiple emails and push notifications about something you already notified me about and I've already opened the app and se"
+            },
+            {
+              "date": "2026-05-05T01:51:43.410Z",
+              "score": 1,
+              "text": "what happened? this was a great app now im on 10 minute holds with idiots who dont know what there doing."
+            }
+          ]
+        },
+        {
+          "appId": "com.offerup",
+          "title": "OfferUp Buy & Sell Marketplace",
+          "developer": "OfferUp Inc.",
+          "installs": "50,000,000+",
+          "score": 4.3719983,
+          "ratings": 1250740,
+          "free": true,
+          "offersIAP": true,
+          "IAPRange": "$0.49 - $749.99 per item",
+          "released": "Sep 25, 2013",
+          "updated": 1777386960000,
+          "genre": "Shopping",
+          "corporate": false,
+          "foundVia": "for sale by owner",
+          "histogramLowPct": 0.11665380756115404,
+          "recentLowPct200": 0.645,
+          "reviewsPulled": 200,
+          "description": "Shop, buy, sell. Letgo with OfferUp, the mobile marketplace for local buying and selling. OfferUp and Letgo have come together to make it easy to shop deals near you in one marketplace, discover unique new and secondhand finds, and make money from the things you no longer need.\n\nFind great local deals on used furniture, couches, tables, cell phones, electronics, used cars, auto parts, clothes, shoes, vintage fashion, home goods, baby & kids items, sports equipment, and more. Whether you want to ",
+          "sampleLowReviews": [
+            {
+              "date": "2026-05-06T09:46:49.545Z",
+              "score": 2,
+              "text": "I've posted a wide variety of items and the few times I had someone inquire about one, I had already sold it (not on the app.) People are unrealistic with their prices... worse than a pawn shop....$85 for vommit I saved from last week 🤔"
+            },
+            {
+              "date": "2026-05-05T18:45:03.680Z",
+              "score": 2,
+              "text": "Delusional sellers in my region. The same items or better are on FB marketplace for half (or less) what they are here. Its not the apps fault. It seems to attract sellers with unrealistic expectations or maybe they're all waiting for that 1 fool to come along, drunk at 2am. App shows you the same ads repeatedly as you scroll. Its like they think th"
+            },
+            {
+              "date": "2026-05-05T17:22:18.187Z",
+              "score": 1,
+              "text": "15% Good 85% Bad. This app is garbage now,(5-5-26) with the new updates. The search range is just like CL's, and isn't user friendly. Case in point, you cannot pin point a zip code, like before. The listings are based on \"Best Match\", unlike what your actually searching for.I like the reviews, but need more flexibility on what to say about an excha"
+            },
+            {
+              "date": "2026-05-05T16:46:02.440Z",
+              "score": 2,
+              "text": "They canceled my account a premium account ($19.99/mo), because I switched my email this year (rather than just updating my email, which pretty much any other app would do, no problem), which cost me time and money, but they don't care. And customer service, its practically non existent. Also if you place a promotion ad, say for 3 days for $7.99, d"
+            },
+            {
+              "date": "2026-05-05T16:01:36.654Z",
+              "score": 1,
+              "text": "The app is normally fine but the recent inclusion of ads that cannot even be closed, from the internet SCUM Known as TEMU, is inexcusable! One star till you fix this garbage!"
+            },
+            {
+              "date": "2026-05-05T13:05:56.975Z",
+              "score": 1,
+              "text": "Outrageous! I did a trial period w the hopes that subscribing w would be a better deal than promoting my ad. before ending trial period, I archived my ad, and listed sold (elsewhere) didn't expect to be billed beyond trial! I did not get any benefit w the trial at ALL. apparently I misread how to cancel this. it was a mistake. but I shouldn't have "
+            }
+          ]
+        },
+        {
+          "appId": "com.nnacres.app",
+          "title": "99acres Buy/Rent/Sell Property",
+          "developer": "infoedge.com",
+          "installs": "10,000,000+",
+          "score": 4.1,
+          "ratings": 198523,
+          "free": true,
+          "offersIAP": false,
+          "released": "Dec 17, 2013",
+          "updated": 1777901631000,
+          "genre": "House & Home",
+          "corporate": false,
+          "foundVia": "for sale by owner",
+          "histogramLowPct": 0.18976564114714348,
+          "recentLowPct200": 0.165,
+          "reviewsPulled": 200,
+          "description": "99acres is India’s leading property search App. It is the one-stop solution to all your residential and commercial real estate needs. Buy, Rent, Sell, Lease Flats, Apartments, Houses, Shops, offices.\n\nWelcome to 99acres.com, India’s highest-rated property app for buying, selling and renting real estate. This is the only property app you require for all your real estate needs for searching, shortlisting and finalizing property of your choice. Be it a ready-to-move flat in a new project, investmen",
+          "sampleLowReviews": [
+            {
+              "date": "2026-05-06T10:30:19.617Z",
+              "score": 1,
+              "text": "Mobile App isn't working properly."
+            },
+            {
+              "date": "2026-05-06T05:08:59.200Z",
+              "score": 1,
+              "text": "it's kind of Fraud when it comes to sell or rent out properties they take package money but do not revert with any lead or customer be very cautious before taking any package for services"
+            },
+            {
+              "date": "2026-05-05T16:09:35.984Z",
+              "score": 1,
+              "text": "All sellers on this app appear to be agents rather than owners. Since brokerage charges still apply, the app doesn’t seem useful."
+            },
+            {
+              "date": "2026-05-05T09:34:00.470Z",
+              "score": 1,
+              "text": "we took this app to sell out our property probably 4 to 5 months ago. we had posted in there free plan and we were getting enquiries and people seeing our property through their app. 1 month ago we started getting calls from 99 acres and we got to know about assist Plus plan. we were told that we would get a relationship manager who would help us i"
+            },
+            {
+              "date": "2026-05-05T08:41:19.481Z",
+              "score": 1,
+              "text": "You wont get what you are promised for!! 99 Acres sold me a platinum service with 24k for 3 months subscription. i was told there would be dedicated manager who will talk to potential leads. I had to explain him the details about the land. Guess what he is sitting some where in Gurgaon and doesn't know anything about the area, how will he guide the"
+            },
+            {
+              "date": "2026-05-05T05:37:18.330Z",
+              "score": 1,
+              "text": "worst app work ❌ call spam ✅"
+            }
+          ]
+        },
+        {
+          "appId": "com.redfin.android",
+          "title": "Redfin: Buy, Sell & Rent Homes",
+          "developer": "Redfin",
+          "installs": "10,000,000+",
+          "score": 4.656553,
+          "ratings": 166601,
+          "free": true,
+          "offersIAP": false,
+          "released": "Jul 14, 2011",
+          "updated": 1777501892000,
+          "genre": "House & Home",
+          "corporate": true,
+          "foundVia": "for sale by owner",
+          "histogramLowPct": 0.047180287523635164,
+          "recentLowPct200": 0.39,
+          "reviewsPulled": 200,
+          "description": "We’re excited to announce that Redfin is now part of Rocket Companies. It’s the same great app you love, now with more ways to make owning a home more affordable with Rocket Mortgage®.* Whether buying, selling, or renting your next home, Redfin can help you every step of the way.\n\nReceive personalized recommendations and real estate listings updated every two minutes.**  Browse photos and see up-to-date property details. Connect with a local Redfin agent. Get preapproved for a home loan with Roc",
+          "sampleLowReviews": [
+            {
+              "date": "2026-05-04T08:14:39.915Z",
+              "score": 1,
+              "text": "Wont allow messages to be sent. Absolute junk, never opens. Crashes non-stop. Won't finish loading ever."
+            },
+            {
+              "date": "2026-05-03T17:44:39.625Z",
+              "score": 2,
+              "text": "I get constant push notification spam for townhouse garbage I'm not interested in, and there appears to be no way to turn that off. Would be fine if I could get notifications for properties that actually fit what I'm looking for, but because I pointed the map at an area without any filters ONCE it now spams me with every condo and townhouse in that"
+            },
+            {
+              "date": "2026-05-01T22:50:28.303Z",
+              "score": 1,
+              "text": "You ruined the best real-estate app. When I click on house pics, I want to see the house! Not your dumb massive floating buttons! I know how to \"request showing\" and \"get qualified\" if those are my goals. I've preferred your app for years, but now I'm finding an alternative. Just a dumb idea!"
+            },
+            {
+              "date": "2026-04-29T11:41:52.668Z",
+              "score": 1,
+              "text": "I can't remove my ad from Redfin"
+            },
+            {
+              "date": "2026-04-26T21:30:21.817Z",
+              "score": 1,
+              "text": "My wife set up a few lists using redfin on the iPhone, and they are not showing up on Android. Login to the web version see the lists. This is very useless for us trying to coordinate our house searching efforts update April 2025, this Android app is a piece of garbage. The list features between iPhone and android just totally failing. I am trying "
+            },
+            {
+              "date": "2026-04-23T14:57:08.613Z",
+              "score": 1,
+              "text": "Not of my interests !"
+            }
+          ]
+        },
+        {
+          "appId": "com.trulia.android",
+          "title": "Trulia: Homes For Sale & Rent",
+          "developer": "Trulia",
+          "installs": "10,000,000+",
+          "score": 4.7376056,
+          "ratings": 315168,
+          "free": true,
+          "offersIAP": false,
+          "released": "Mar 17, 2011",
+          "updated": 1776962976000,
+          "genre": "House & Home",
+          "corporate": false,
+          "foundVia": "for sale by owner",
+          "histogramLowPct": 0.011105364525658152,
+          "recentLowPct200": 0.2,
+          "reviewsPulled": 200,
+          "description": "Trulia's got your back with all the info you need to make a match. Picture us as your home-hunting buddy, giving you a sneak peek into potential homes and the vibes of their neighborhoods. Whether buying or renting is on your agenda, we bring the neighborhood to life with over 30 map overlays showing schools, amenities, and how long your commute might be. Plus, dive into a sea of over a million local reviews and take virtual tours to really get the feel of a place.\nWe open the door to over 1 mil",
+          "sampleLowReviews": [
+            {
+              "date": "2026-05-05T18:11:40.507Z",
+              "score": 1,
+              "text": "very very bad 😔😔👎👎👎"
+            },
+            {
+              "date": "2026-04-19T17:22:53.505Z",
+              "score": 1,
+              "text": "Doesn't work."
+            },
+            {
+              "date": "2026-04-18T17:01:25.442Z",
+              "score": 1,
+              "text": "I can't get the app or the website to find certain addresses for the commute time filter. I can find the address just fine on Google maps that the app/website claims is not a valid address! Fix this bug which has been in your app/website for at least 4 years!"
+            },
+            {
+              "date": "2026-04-14T12:19:11.120Z",
+              "score": 1,
+              "text": "terrible looking for houses to buy not rent and it won't let you turn off the rent feature Don't even know how it keeps sending me information about rentals I don't want to rent!!!!!!!!! so hopefully every realtor out there that I talk to will know that Trulia will only show you rentals and won't allow you to look for for sale homes so why would yo"
+            },
+            {
+              "date": "2026-04-03T02:34:40.424Z",
+              "score": 1,
+              "text": "\"filter\" doesn't filter. why have the option of it's not going to do the thing"
+            },
+            {
+              "date": "2026-03-14T14:55:42.294Z",
+              "score": 1,
+              "text": "You don't have to be all that functional and detailed to be an editor's choice! Of the five mainstream real estate apps that I've tried I think Trulia's search and features are among the worst. Other apps have layers to show disasters such as fire or flood. Trulia has one layer that is general potential for disaster. It lacks detail. There commute "
+            }
+          ]
+        }
+      ]
     },
     "pet_groomer_walker": {
       "searches": {
@@ -773,80 +1776,68 @@
           {
             "appId": "com.ionicframework.wagandroid554504",
             "title": "Wag! - Dog Walkers & Sitters",
-            "developer": "Wag Labs, Inc.",
-            "free": false
+            "developer": "Wag Labs, Inc."
           },
           {
             "appId": "com.rover.android",
             "title": "Rover - Dog Boarding & Walking",
             "developer": "Rover.com",
-            "score": 3.45,
-            "free": false
+            "score": 3.45
           },
           {
             "appId": "com.dogwalker.app",
             "title": "DogWalker",
-            "developer": "Larry-Barel",
-            "free": false
+            "developer": "Larry-Barel"
           },
           {
             "appId": "com.petbacker.android",
             "title": "PetBacker-Dog Boarding, Sitter",
             "developer": "Pet Backer | Your Trusted House Sitter for Pets",
-            "score": 3.9868422,
-            "free": false
+            "score": 3.9868422
           },
           {
             "appId": "com.anotherdogwalker.scout",
             "title": "Another Dog Walker",
-            "developer": "PetMethod LLC",
-            "free": false
+            "developer": "PetMethod LLC"
           },
           {
             "appId": "com.scoutforpets.staff",
             "title": "Scout for Dog Walkers",
             "developer": "PetMethod LLC",
-            "score": 0,
-            "free": false
+            "score": 0
           },
           {
             "appId": "com.fatbadgermedia.MyPetWalker",
             "title": "My Pet Walker",
-            "developer": "My Pet Walker Ltd",
-            "free": false
+            "developer": "My Pet Walker Ltd"
           },
           {
             "appId": "com.wag.walker",
             "title": "Wag! Pet Caregiver",
-            "developer": "Wag Labs, Inc.",
-            "free": false
+            "developer": "Wag Labs, Inc."
           },
           {
             "appId": "com.fanclawsmobile",
             "title": "FanClaws dog walkers & sitters",
             "developer": "Fanclaws SIA",
-            "score": 0,
-            "free": false
+            "score": 0
           },
           {
             "appId": "com.sweetss.timetopet",
             "title": "Time To Pet - Pet Care App",
             "developer": "Time To Pet",
-            "score": 0,
-            "free": false
+            "score": 0
           },
           {
             "appId": "com.doggoapp.walker",
             "title": "DogGO Walker",
-            "developer": "DogGO App",
-            "free": false
+            "developer": "DogGO App"
           },
           {
             "appId": "com.treatwalk.dog.app",
             "title": "TreatWalk: Dog Walk Tracker",
             "developer": "TreatWalk",
-            "score": 0,
-            "free": false
+            "score": 0
           }
         ],
         "pet sitter app": [
@@ -854,81 +1845,69 @@
             "appId": "com.rover.android",
             "title": "Rover - Dog Boarding & Walking",
             "developer": "Rover.com",
-            "score": 3.45,
-            "free": false
+            "score": 3.45
           },
           {
             "appId": "com.wag.walker",
             "title": "Wag! Pet Caregiver",
-            "developer": "Wag Labs, Inc.",
-            "free": false
+            "developer": "Wag Labs, Inc."
           },
           {
             "appId": "com.zerosgroup.petme",
             "title": "Petme: Social & Pet Sitting",
             "developer": "Petme",
-            "score": 2.8333333,
-            "free": false
+            "score": 2.8333333
           },
           {
             "appId": "com.sittsy.app",
             "title": "Sittsy - Trusted Pet Sitters",
             "developer": "Sittsy, LLC",
-            "score": 4.483871,
-            "free": false
+            "score": 4.483871
           },
           {
             "appId": "com.petbacker.android",
             "title": "PetBacker-Dog Boarding, Sitter",
             "developer": "Pet Backer | Your Trusted House Sitter for Pets",
-            "score": 3.9868422,
-            "free": false
+            "score": 3.9868422
           },
           {
             "appId": "com.ionicframework.wagandroid554504",
             "title": "Wag! - Dog Walkers & Sitters",
-            "developer": "Wag Labs, Inc.",
-            "free": false
+            "developer": "Wag Labs, Inc."
           },
           {
             "appId": "com.pawshake.android",
             "title": "Pawshake - Dog & Cat Sitter",
             "developer": "Pawshake, Inc.",
-            "score": 4.7981653,
-            "free": false
+            "score": 4.7981653
           },
           {
             "appId": "com.trustedhousesitters.TrustedHousesitters",
             "title": "TrustedHousesitters",
             "developer": "TrustedHousesitters Ltd",
-            "score": 4.28,
-            "free": false
+            "score": 4.28
           },
           {
             "appId": "com.sweetss.timetopet",
             "title": "Time To Pet - Pet Care App",
             "developer": "Time To Pet",
-            "score": 0,
-            "free": false
+            "score": 0
           },
           {
             "appId": "com.diddydashboard.android",
             "title": "Pet Sitter Dashboard",
-            "developer": "Pet Sitter Dashboard",
-            "free": false
+            "developer": "Pet Sitter Dashboard"
           },
           {
             "appId": "com.cloudypetcare.petcareapp",
             "title": "Cloudy Pet Sitter & Dog Walker",
-            "developer": "AZ Global",
-            "free": false
+            "developer": "AZ Global"
           },
           {
             "appId": "com.fanclawsmobile",
             "title": "FanClaws dog walkers & sitters",
             "developer": "Fanclaws SIA",
-            "score": 0,
-            "free": false
+            "score": 0
           }
         ],
         "pet groomer business": [
@@ -936,239 +1915,743 @@
             "appId": "net.tapgroom",
             "title": "TapGroom Pet Grooming Salon",
             "developer": "TapStyle Pty Ltd",
-            "score": 4.857143,
-            "free": false
+            "score": 4.857143
           },
           {
             "appId": "com.NokoGames.PetGroomer",
             "title": "Pet Groomer",
-            "developer": "Noko Games",
-            "free": false
+            "developer": "Noko Games"
           },
           {
             "appId": "com.groomersapk1.groomersvendor",
             "title": "Groomers: For Business",
-            "developer": "Groomers",
-            "free": false
+            "developer": "Groomers"
           },
           {
             "appId": "co.groomers.customer",
             "title": "Groomers: Beauty & Pet Care",
-            "developer": "Groomers",
-            "free": false
+            "developer": "Groomers"
           },
           {
             "appId": "com.moego_brand.groombar",
             "title": "GROOMBAR: for Pet Parents",
-            "developer": "EarthWise Pet",
-            "free": false
+            "developer": "EarthWise Pet"
           },
           {
             "appId": "com.groomer.groomerio",
             "title": "Groomer.io",
-            "developer": "Groomer.io",
-            "free": false
+            "developer": "Groomer.io"
           },
           {
             "appId": "za.co.mypetparlorapp.barkbuff",
             "title": "Bark & Buff Pet Grooming",
-            "developer": "MyBusiness App",
-            "free": false
+            "developer": "MyBusiness App"
           },
           {
             "appId": "com.bigprogroomer.user",
             "title": "Groomeer",
-            "developer": "Groomeer LLC",
-            "free": false
+            "developer": "Groomeer LLC"
           },
           {
             "appId": "com.groomit.inc.groomit",
             "title": "Groomit – On-Demand Grooming",
-            "developer": "Groomit for Pets LLC",
-            "free": false
+            "developer": "Groomit for Pets LLC"
           },
           {
             "appId": "com.ixdg.ani.mon",
             "title": "Pet Shop Manager Simulation",
             "developer": "Unicorn Studio Official",
-            "score": 4.57,
-            "free": false
+            "score": 4.57
           },
           {
             "appId": "com.petsy.veterinary.appointment.app",
             "title": "GoPetsy-Pet Grooming & Vet App",
-            "developer": "Loma Studios",
-            "free": false
+            "developer": "Loma Studios"
           },
           {
             "appId": "com.groomore.scheduler",
             "title": "GrooMore pet grooming software",
-            "developer": "GrooMore, Inc.",
-            "free": false
+            "developer": "GrooMore, Inc."
           }
         ],
         "pet sitting scheduler": [
           {
             "appId": "com.ionicframework.wagandroid554504",
             "title": "Wag! - Dog Walkers & Sitters",
-            "developer": "Wag Labs, Inc.",
-            "free": false
+            "developer": "Wag Labs, Inc."
           },
           {
             "appId": "com.rover.android",
             "title": "Rover - Dog Boarding & Walking",
             "developer": "Rover.com",
-            "score": 3.45,
-            "free": false
+            "score": 3.45
           },
           {
             "appId": "com.pawshake.android",
             "title": "Pawshake - Dog & Cat Sitter",
             "developer": "Pawshake, Inc.",
-            "score": 4.7981653,
-            "free": false
+            "score": 4.7981653
           },
           {
             "appId": "com.petbacker.android",
             "title": "PetBacker-Dog Boarding, Sitter",
             "developer": "Pet Backer | Your Trusted House Sitter for Pets",
-            "score": 3.9868422,
-            "free": false
+            "score": 3.9868422
           },
           {
             "appId": "com.wag.walker",
             "title": "Wag! Pet Caregiver",
-            "developer": "Wag Labs, Inc.",
-            "free": false
+            "developer": "Wag Labs, Inc."
           },
           {
             "appId": "com.sweetss.timetopet",
             "title": "Time To Pet - Pet Care App",
             "developer": "Time To Pet",
-            "score": 0,
-            "free": false
+            "score": 0
           },
           {
             "appId": "com.diddydashboard.android",
             "title": "Pet Sitter Dashboard",
-            "developer": "Pet Sitter Dashboard",
-            "free": false
+            "developer": "Pet Sitter Dashboard"
           },
           {
             "appId": "com.sittsy.app",
             "title": "Sittsy - Trusted Pet Sitters",
             "developer": "Sittsy, LLC",
-            "score": 4.483871,
-            "free": false
+            "score": 4.483871
           },
           {
             "appId": "com.zerosgroup.petme",
             "title": "Petme: Social & Pet Sitting",
             "developer": "Petme",
-            "score": 2.8333333,
-            "free": false
+            "score": 2.8333333
           },
           {
             "appId": "com.luppy.petcare",
             "title": "Pet Sitting & Pet Care & AI",
-            "developer": "Luppy Pet Care",
-            "free": false
+            "developer": "Luppy Pet Care"
           },
           {
             "appId": "com.dotimely.walkcarelove",
             "title": "The Pet Sitting Co.",
-            "developer": "DoTimely",
-            "free": false
+            "developer": "DoTimely"
           },
           {
             "appId": "com.petchat",
             "title": "PetChat: Trusted Pet Sitters",
-            "developer": "KY Vision Group Limited",
-            "free": false
+            "developer": "KY Vision Group Limited"
           }
         ],
         "dog walking business": [
           {
             "appId": "com.ionicframework.wagandroid554504",
             "title": "Wag! - Dog Walkers & Sitters",
-            "developer": "Wag Labs, Inc.",
-            "free": false
+            "developer": "Wag Labs, Inc."
           },
           {
             "appId": "com.rover.android",
             "title": "Rover - Dog Boarding & Walking",
             "developer": "Rover.com",
-            "score": 3.45,
-            "free": false
+            "score": 3.45
           },
           {
             "appId": "com.petbacker.android",
             "title": "PetBacker-Dog Boarding, Sitter",
             "developer": "Pet Backer | Your Trusted House Sitter for Pets",
-            "score": 3.9868422,
-            "free": false
+            "score": 3.9868422
           },
           {
             "appId": "com.wag.walker",
             "title": "Wag! Pet Caregiver",
-            "developer": "Wag Labs, Inc.",
-            "free": false
+            "developer": "Wag Labs, Inc."
           },
           {
             "appId": "com.scoutforpets.staff",
             "title": "Scout for Dog Walkers",
             "developer": "PetMethod LLC",
-            "score": 0,
-            "free": false
+            "score": 0
           },
           {
             "appId": "com.codekaro.skilled_k9_dog_services",
             "title": "Dog walking|Esprit Canin",
-            "developer": "Xaptis Solutions",
-            "free": false
+            "developer": "Xaptis Solutions"
           },
           {
             "appId": "com.fanclawsmobile",
             "title": "FanClaws dog walkers & sitters",
             "developer": "Fanclaws SIA",
-            "score": 0,
-            "free": false
+            "score": 0
           },
           {
             "appId": "com.dog.life.walking.simulator",
             "title": "Dog Walking - Pet Sitting Game",
-            "developer": "Hyper Joy Games",
-            "free": false
+            "developer": "Hyper Joy Games"
           },
           {
             "appId": "com.diddydashboard.android",
             "title": "Pet Sitter Dashboard",
-            "developer": "Pet Sitter Dashboard",
-            "free": false
+            "developer": "Pet Sitter Dashboard"
           },
           {
             "appId": "com.ionicframework.dogwalkmobileapp907036",
             "title": "Spot Dog Walking",
-            "developer": "Spot Walk",
-            "free": false
+            "developer": "Spot Walk"
           },
           {
             "appId": "com.sweetss.timetopet",
             "title": "Time To Pet - Pet Care App",
             "developer": "Time To Pet",
-            "score": 0,
-            "free": false
+            "score": 0
           },
           {
             "appId": "com.pawshake.android",
             "title": "Pawshake - Dog & Cat Sitter",
             "developer": "Pawshake, Inc.",
-            "score": 4.7981653,
-            "free": false
+            "score": 4.7981653
+          }
+        ],
+        "pet care business": [
+          {
+            "appId": "com.rover.android",
+            "title": "Rover - Dog Boarding & Walking",
+            "developer": "Rover.com",
+            "score": 3.45
+          },
+          {
+            "appId": "com.sweetss.timetopet",
+            "title": "Time To Pet - Pet Care App",
+            "developer": "Time To Pet",
+            "score": 0
+          },
+          {
+            "appId": "com.petbacker.android",
+            "title": "PetBacker-Dog Boarding, Sitter",
+            "developer": "Pet Backer | Your Trusted House Sitter for Pets",
+            "score": 3.9868422
+          },
+          {
+            "appId": "com.sinyee.babybus.petsII",
+            "title": "Baby Panda's Pet Care Center",
+            "developer": "BabyBus",
+            "score": 3.9508197
+          },
+          {
+            "appId": "dogcat.app.android",
+            "title": "Pet Care Tracker - Dog Cat App",
+            "developer": "Nova Pet Health",
+            "score": 4.67
+          },
+          {
+            "appId": "com.invictus.pettracker",
+            "title": "Pet Care Tracker For Dog & Cat",
+            "developer": "mission invictus"
+          },
+          {
+            "appId": "com.lazyhippo.pawiary",
+            "title": "Veta: Pet Health Care Manager",
+            "developer": "The Lazy Hippo Development"
+          },
+          {
+            "appId": "com.ixdg.ani.mon",
+            "title": "Pet Shop Manager Simulation",
+            "developer": "Unicorn Studio Official",
+            "score": 4.57
+          },
+          {
+            "appId": "com.wag.walker",
+            "title": "Wag! Pet Caregiver",
+            "developer": "Wag Labs, Inc."
+          },
+          {
+            "appId": "com.diddydashboard.android",
+            "title": "Pet Sitter Dashboard",
+            "developer": "Pet Sitter Dashboard"
+          },
+          {
+            "appId": "com.ionicframework.wagandroid554504",
+            "title": "Wag! - Dog Walkers & Sitters",
+            "developer": "Wag Labs, Inc."
+          },
+          {
+            "appId": "com.petnoter",
+            "title": "Pet Care Tracker - PetNoter",
+            "developer": "PetNoter",
+            "score": 0
           }
         ]
       },
-      "drills": []
+      "allCandidatesEnriched": [
+        {
+          "appId": "com.ionicframework.wagandroid554504",
+          "title": "Wag! - Dog Walkers & Sitters",
+          "developer": "Wag Labs, Inc.",
+          "installs": "1,000,000+",
+          "score": 3.4071274,
+          "ratings": 9278,
+          "foundVia": "dog walker job tracker"
+        },
+        {
+          "appId": "com.rover.android",
+          "title": "Rover - Dog Boarding & Walking",
+          "developer": "Rover.com",
+          "installs": "5,000,000+",
+          "score": 4.565315,
+          "ratings": 45410,
+          "foundVia": "dog walker job tracker"
+        },
+        {
+          "appId": "com.dogwalker.app",
+          "title": "DogWalker",
+          "developer": "Larry-Barel",
+          "installs": "1,000+",
+          "foundVia": "dog walker job tracker"
+        },
+        {
+          "appId": "com.petbacker.android",
+          "title": "PetBacker-Dog Boarding, Sitter",
+          "developer": "Pet Backer | Your Trusted House Sitter for Pets",
+          "installs": "1,000,000+",
+          "score": 4.16,
+          "ratings": 7369,
+          "foundVia": "dog walker job tracker"
+        },
+        {
+          "appId": "com.anotherdogwalker.scout",
+          "title": "Another Dog Walker",
+          "developer": "PetMethod LLC",
+          "installs": "10+",
+          "foundVia": "dog walker job tracker"
+        },
+        {
+          "appId": "com.scoutforpets.staff",
+          "title": "Scout for Dog Walkers",
+          "developer": "PetMethod LLC",
+          "installs": "10,000+",
+          "score": 3.35,
+          "ratings": 65,
+          "foundVia": "dog walker job tracker"
+        },
+        {
+          "appId": "com.fatbadgermedia.MyPetWalker",
+          "title": "My Pet Walker",
+          "developer": "My Pet Walker Ltd",
+          "installs": "10,000+",
+          "foundVia": "dog walker job tracker"
+        },
+        {
+          "appId": "com.wag.walker",
+          "title": "Wag! Pet Caregiver",
+          "developer": "Wag Labs, Inc.",
+          "installs": "100,000+",
+          "score": 4.050633,
+          "ratings": 2380,
+          "foundVia": "dog walker job tracker"
+        },
+        {
+          "appId": "com.fanclawsmobile",
+          "title": "FanClaws dog walkers & sitters",
+          "developer": "Fanclaws SIA",
+          "installs": "5,000+",
+          "score": 0,
+          "ratings": 0,
+          "foundVia": "dog walker job tracker"
+        },
+        {
+          "appId": "com.sweetss.timetopet",
+          "title": "Time To Pet - Pet Care App",
+          "developer": "Time To Pet",
+          "installs": "100,000+",
+          "score": 3.74,
+          "ratings": 355,
+          "foundVia": "dog walker job tracker"
+        },
+        {
+          "appId": "com.doggoapp.walker",
+          "title": "DogGO Walker",
+          "developer": "DogGO App",
+          "installs": "50,000+",
+          "score": 0,
+          "ratings": 0,
+          "foundVia": "dog walker job tracker"
+        },
+        {
+          "appId": "com.treatwalk.dog.app",
+          "title": "TreatWalk: Dog Walk Tracker",
+          "developer": "TreatWalk",
+          "installs": "1,000+",
+          "score": 3.2,
+          "ratings": 13,
+          "foundVia": "dog walker job tracker"
+        },
+        {
+          "appId": "com.zerosgroup.petme",
+          "title": "Petme: Social & Pet Sitting",
+          "developer": "Petme",
+          "installs": "10,000+",
+          "score": 3.7333333,
+          "ratings": 287,
+          "foundVia": "pet sitter app"
+        },
+        {
+          "appId": "com.sittsy.app",
+          "title": "Sittsy - Trusted Pet Sitters",
+          "developer": "Sittsy, LLC",
+          "installs": "10,000+",
+          "score": 4.732673,
+          "ratings": 2262,
+          "foundVia": "pet sitter app"
+        },
+        {
+          "appId": "com.pawshake.android",
+          "title": "Pawshake - Dog & Cat Sitter",
+          "developer": "Pawshake, Inc.",
+          "installs": "500,000+",
+          "score": 3.7959185,
+          "ratings": 18790,
+          "foundVia": "pet sitter app"
+        },
+        {
+          "appId": "com.trustedhousesitters.TrustedHousesitters",
+          "title": "TrustedHousesitters",
+          "developer": "TrustedHousesitters Ltd",
+          "installs": "500,000+",
+          "score": 3.8121827,
+          "ratings": 5644,
+          "foundVia": "pet sitter app"
+        },
+        {
+          "appId": "com.diddydashboard.android",
+          "title": "Pet Sitter Dashboard",
+          "developer": "Pet Sitter Dashboard",
+          "installs": "10,000+",
+          "score": 3.5151515,
+          "ratings": 56,
+          "foundVia": "pet sitter app"
+        },
+        {
+          "appId": "com.cloudypetcare.petcareapp",
+          "title": "Cloudy Pet Sitter & Dog Walker",
+          "developer": "AZ Global",
+          "installs": "100+",
+          "score": 3.25,
+          "ratings": 8,
+          "foundVia": "pet sitter app"
+        },
+        {
+          "appId": "net.tapgroom",
+          "title": "TapGroom Pet Grooming Salon",
+          "developer": "TapStyle Pty Ltd",
+          "installs": "50,000+",
+          "score": 3.9814816,
+          "ratings": 388,
+          "foundVia": "pet groomer business"
+        },
+        {
+          "appId": "com.NokoGames.PetGroomer",
+          "title": "Pet Groomer",
+          "developer": "Noko Games",
+          "installs": "1,000+",
+          "score": 3.5,
+          "ratings": 17,
+          "foundVia": "pet groomer business"
+        },
+        {
+          "appId": "com.groomersapk1.groomersvendor",
+          "title": "Groomers: For Business",
+          "developer": "Groomers",
+          "installs": "1+",
+          "foundVia": "pet groomer business"
+        },
+        {
+          "appId": "co.groomers.customer",
+          "title": "Groomers: Beauty & Pet Care",
+          "developer": "Groomers",
+          "installs": "10+",
+          "foundVia": "pet groomer business"
+        },
+        {
+          "appId": "com.moego_brand.groombar",
+          "title": "GROOMBAR: for Pet Parents",
+          "developer": "EarthWise Pet",
+          "installs": "100+",
+          "score": 0,
+          "ratings": 0,
+          "foundVia": "pet groomer business"
+        },
+        {
+          "appId": "com.groomer.groomerio",
+          "title": "Groomer.io",
+          "developer": "Groomer.io",
+          "installs": "1,000+",
+          "score": 2,
+          "ratings": 14,
+          "foundVia": "pet groomer business"
+        },
+        {
+          "appId": "za.co.mypetparlorapp.barkbuff",
+          "title": "Bark & Buff Pet Grooming",
+          "developer": "MyBusiness App",
+          "installs": "100+",
+          "foundVia": "pet groomer business"
+        }
+      ],
+      "drills": [
+        {
+          "appId": "com.rover.android",
+          "title": "Rover - Dog Boarding & Walking",
+          "developer": "Rover.com",
+          "installs": "5,000,000+",
+          "score": 4.565315,
+          "ratings": 45410,
+          "free": true,
+          "offersIAP": false,
+          "released": "Aug 14, 2013",
+          "updated": 1778005656000,
+          "genre": "Travel & Local",
+          "corporate": false,
+          "foundVia": "dog walker job tracker",
+          "histogramLowPct": 0.0962008589362405,
+          "recentLowPct200": 0.51,
+          "reviewsPulled": 200,
+          "description": "Rover is the #1 pet sitting and dog walking app. Get trusted pet care in your neighborhood.\n\n\nThe Rover app was created for dog people by The Dog PeopleTM. Through the app, get adorable photo updates, GPS tracking of your dog’s walk, an easy way to message sitters or manage your business, and a secure way to book and pay. \n\n\nWith over 100,000 pet sitters and dog walkers in the U.S. and Canada, Rover makes it easy to book pet care you can trust.\n\n\nPEACE OF MIND\n• 95% of reviewed services receive ",
+          "sampleLowReviews": [
+            {
+              "date": "2026-05-04T19:07:10.487Z",
+              "score": 1,
+              "text": "5/4/26 update still sucks!!!!!!!!!!!!!!!! i still can't scroll down to take care of my clients in the managed weekly care section. Constant server issues where I can't shut down the rover card, leaving inaccurate information from my clients. if anything is running in my background apps, Pandora etc, the rover app freezes up. it has been doing this "
+            },
+            {
+              "date": "2026-05-01T20:28:58.588Z",
+              "score": 1,
+              "text": "Rover got over its head. charges overly inflated fees for barely any customer service. App glitches always. Gives me sitters hundred of miles away, Customer Service cant help and app also deleted all my info about my 2 current dogs and only shows my dog who passed away 2 years ago which I really didn't appreciated. Rover is a big let down."
+            },
+            {
+              "date": "2026-05-01T10:05:54.990Z",
+              "score": 1,
+              "text": "Horrible company and app"
+            },
+            {
+              "date": "2026-04-30T22:24:29.974Z",
+              "score": 1,
+              "text": "Diabolical. The support team are useless. my profile is active but doesn't show up in any search, doesn't matter how, where, when or why. Nothing comes up. Support wont help, they have no answers for me as to why this is happening. As a licensed boarder, probably the 1 in 100 on Rover, its very upsetting that they refuse to help. Then want £25 to s"
+            },
+            {
+              "date": "2026-04-29T15:25:24.697Z",
+              "score": 1,
+              "text": "can no longer copy & paste information into my calendar"
+            },
+            {
+              "date": "2026-04-29T12:50:08.468Z",
+              "score": 2,
+              "text": "really clunky, slow, and outdated."
+            }
+          ]
+        },
+        {
+          "appId": "com.ionicframework.wagandroid554504",
+          "title": "Wag! - Dog Walkers & Sitters",
+          "developer": "Wag Labs, Inc.",
+          "installs": "1,000,000+",
+          "score": 3.4071274,
+          "ratings": 9278,
+          "free": true,
+          "offersIAP": false,
+          "released": "Jul 15, 2016",
+          "updated": 1778045243000,
+          "genre": "Travel & Local",
+          "corporate": false,
+          "foundVia": "dog walker job tracker",
+          "histogramLowPct": 0.38654012079378774,
+          "recentLowPct200": 0.565,
+          "reviewsPulled": 200,
+          "description": "Wag! is the #1 app for pet parents -- offering 5-star dog walking, pet sitting, vet care, and training services nationwide. \n\nBook convenient pet care in your neighborhood with the Wag! app. Whether you’re looking for daily walks, planning a trip, stuck at work, or just want your best friend to have some company - any day, anytime pet care is available through the app.\n\nHere when you need pet care.\n• On-demand and scheduled dog walks based on your and your dog’s needs.\n• Boarding and sitting ove",
+          "sampleLowReviews": [
+            {
+              "date": "2026-05-04T07:25:47.975Z",
+              "score": 1,
+              "text": "So pushy and predatory. They push walkers on you even if all you want to do is browse through options, require you to choose one in 24 hrs, and will auto-select one for you if you do not find a good fit in time. What would have happened if I had input my payment info beforehand as requested?? You're forced to use the app even though you were able t"
+            },
+            {
+              "date": "2026-05-02T04:55:47.220Z",
+              "score": 1,
+              "text": "Attempting to create a profile and only receiving a buffering circle."
+            },
+            {
+              "date": "2026-04-22T00:04:50.287Z",
+              "score": 1,
+              "text": "this app is terrible. never again I can't even use it and they are charging me 5.99 for a month. complete rip off. refund me"
+            },
+            {
+              "date": "2026-04-19T18:25:51.340Z",
+              "score": 1,
+              "text": "Barely usable- can't ever use the message options and always has bugs update 4/19/26 still barely usable and the help option has me completing intricate lists of instructions to make the app work to see the list of caregivers requested my booking. furthermore had me change my appt and cleared the list of people who had requested to walk my dog crea"
+            },
+            {
+              "date": "2026-04-13T21:51:38.530Z",
+              "score": 1,
+              "text": "Notifications aren't in the app, be careful before clearing the pop up! If you want to book one person don't be fooled into thinking the app listens when you say don't send anyone else! And be prepared for a glitch where every payment is declined and sends a past due notice even after changing card type, payment method, etc. And if you send a compl"
+            },
+            {
+              "date": "2026-04-11T00:08:46.867Z",
+              "score": 1,
+              "text": "I've been trying book the same awesome pet caregiver I used before. its been a week of trying, uninstalling and reinstalling the app, and still getting an error that my boarding can't be processed and to check back later. I've tried support through the chat bot. First time, never heard back from the supposed ticket that being opened. Today I opened"
+            }
+          ]
+        },
+        {
+          "appId": "com.petbacker.android",
+          "title": "PetBacker-Dog Boarding, Sitter",
+          "developer": "Pet Backer | Your Trusted House Sitter for Pets",
+          "installs": "1,000,000+",
+          "score": 4.16,
+          "ratings": 7369,
+          "free": true,
+          "offersIAP": false,
+          "released": "Oct 23, 2016",
+          "updated": 1777441111000,
+          "genre": "Lifestyle",
+          "corporate": false,
+          "foundVia": "dog walker job tracker",
+          "histogramLowPct": 0.17766566675756748,
+          "recentLowPct200": 0.175,
+          "reviewsPulled": 200,
+          "description": "PetBacker connects loving dog walkers, sitters, boarding & groomers with pet owners just like you in all major cities & can help you get a loving trusted Pet sitter who can board your dogs & cats in moments after you make a request. \n\nPetBacker lets you share and show off your dog & cat photos or hire trusted Pet Sitter for boarding, minding, walking, grooming,spa and daycare. The concept is simple, use PetBacker to get people to take care of your pet when you not available, or earn extra money ",
+          "sampleLowReviews": [
+            {
+              "date": "2026-05-03T18:11:11.351Z",
+              "score": 2,
+              "text": "It is a clunky, difficult to navigate app that is too controlling and needs work to make it more user-friendly."
+            },
+            {
+              "date": "2026-04-29T13:48:01.784Z",
+              "score": 1,
+              "text": "the app is good, but they take 25% of your earnings! which is the difference between profit and break even."
+            },
+            {
+              "date": "2026-04-20T07:23:13.793Z",
+              "score": 1,
+              "text": "horrible customer service"
+            },
+            {
+              "date": "2026-03-16T16:38:30.121Z",
+              "score": 1,
+              "text": "it's very useless app I never seen so I am running a business pet boarding sitting and day care so I got orders from the start like two or three and I got a good review in that app also after that I don't know why they blocked me a messaging to get an orders but they didn't give a clear response to me I am going to uninstall this this is the worstt"
+            },
+            {
+              "date": "2026-02-04T11:20:46.994Z",
+              "score": 1,
+              "text": "El user experience es muy malo. Todo el tiempo me llegan solicitudes de servicios que yo no tengo ofrecidos y para chatear con esas personas, sí o sí me obliga a crear el servicio. No permite la opción de un meet and greet previo y si uno lo intenta acordar, el chat se bloquea porque cree que voy a estafar a la app dando una dirección. Muchas veces"
+            },
+            {
+              "date": "2026-01-28T05:39:01.385Z",
+              "score": 1,
+              "text": "App simply doesn't work. Downloaded it twice, just get a blank screen with \"Error\"."
+            }
+          ]
+        },
+        {
+          "appId": "com.pawshake.android",
+          "title": "Pawshake - Dog & Cat Sitter",
+          "developer": "Pawshake, Inc.",
+          "installs": "500,000+",
+          "score": 3.7959185,
+          "ratings": 18790,
+          "free": true,
+          "offersIAP": false,
+          "released": "Jan 8, 2014",
+          "updated": 1777053719000,
+          "genre": "Travel & Local",
+          "corporate": false,
+          "foundVia": "pet sitter app",
+          "histogramLowPct": 0.25925925925925924,
+          "recentLowPct200": 0.1,
+          "reviewsPulled": 200,
+          "description": "Let your dog stay with a real family while you're away. Find a reliable dog walker to walk your dog while you're at work, or search for a loving pet sitter to visit your home to feed the cats.\n\nPawshake connects pet parents with thousands of trusted and experienced pet sitters and dog walkers in over 15 countries (and counting), including Australia, UK, Canada, Germany, Italy, New Zealand, Singapore, Hong Kong and many European countries.\n\nTo get started, download the app and start your search f",
+          "sampleLowReviews": [
+            {
+              "date": "2026-05-03T20:25:48.373Z",
+              "score": 1,
+              "text": "I've tried many times to submit a profile and they keep asking me for more and more photos in my gallery (my house pictures, even though I don't host pets in my house) and asking me to change my profile without being clear about what's missing. I tried to complain, didn't get an answer... I've just given up and deleted the app."
+            },
+            {
+              "date": "2026-04-29T02:22:45.347Z",
+              "score": 2,
+              "text": "As a provider, there are some very frustrating elements to the app. Right now, I am locked outside a client's house because I can't scroll back to where they gave me the gate code. It would seem like there should be a dedicated place outside the chat where address and instructions would go."
+            },
+            {
+              "date": "2026-04-19T16:39:48.101Z",
+              "score": 1,
+              "text": "let users choose the person they want to interact with instead of AI to validate a profile! I'm sure people can pick up on a vibe without a picture being perfectly clear with our face towards the camera and \"an engaging expression\".."
+            },
+            {
+              "date": "2026-04-17T17:39:59.515Z",
+              "score": 1,
+              "text": "I was a dog walker for pawshake. The administration failed to see how adding another 30 minutes to the existing 30 minutes would make sense. rather than doing that, they kicked me off. their note to me said they would give me a second chance which never came. I would use a different app for my dog walking needs as they clearly don't care about the "
+            },
+            {
+              "date": "2026-04-16T13:02:38.748Z",
+              "score": 1,
+              "text": "doesn't work in south africa"
+            },
+            {
+              "date": "2026-04-16T01:18:33.796Z",
+              "score": 1,
+              "text": "I dont recommend pawshake as a pet sitter. They expect you to accept every booking request. I do not take puppies under 18 months or large dogs. This is stated on my profile via Pawshakes' own settings. The vast majority of enquiries I received were for puppies & sitters are penalised for saying no! They have proved this point in their response. 97"
+            }
+          ]
+        },
+        {
+          "appId": "com.trustedhousesitters.TrustedHousesitters",
+          "title": "TrustedHousesitters",
+          "developer": "TrustedHousesitters Ltd",
+          "installs": "500,000+",
+          "score": 3.8121827,
+          "ratings": 5644,
+          "free": true,
+          "offersIAP": false,
+          "released": "Jan 9, 2019",
+          "updated": 1777908250000,
+          "genre": "Lifestyle",
+          "corporate": false,
+          "foundVia": "pet sitter app",
+          "histogramLowPct": 0.27894176136363635,
+          "recentLowPct200": 0.68,
+          "reviewsPulled": 200,
+          "description": "Pet owners and verified sitters connect to swap loving pet care for a place to stay on their travels.\n\nSitters can find global pet sitting opportunities, providing in-home cat and dog sitting and get a place to stay on their travels in return.\n\nPet owners travel with peace of mind, knowing their furry friends are looked after in their own home. \n\nTrust is all that our house sitters and pet parents exchange - no money changes hands between members. So, it’s easy for pet parents to find cat and do",
+          "sampleLowReviews": [
+            {
+              "date": "2026-05-05T15:41:37.951Z",
+              "score": 1,
+              "text": "The owners ignore majority of overwhelmingly popular requests and feedback for improvements. Ok, we'll survive with suboptimal app experience. But then they go and spit in the face of their users with a £10 fee for every house sit. Bravo! And i look forward to them thanking me for this review and telling me they will share it with their team. I fee"
+            },
+            {
+              "date": "2026-05-04T12:40:43.140Z",
+              "score": 1,
+              "text": "I pay a €130 membership but can't talk to a real person through 'help' anymore.They also charge sitters €10 per sit after we pay a membership!I am already providing a service for free and have paid a fee so what's with the extra charges? TH was good 5 years ago but has gone downhill.They ALSO make it impossible for you to apply for a sit that start"
+            },
+            {
+              "date": "2026-04-29T06:02:02.351Z",
+              "score": 1,
+              "text": "We were hosts for over 3 years and had a wonderful experience with over 24 sits and 18 sitters. Our account was suspended after a sitter who wasn't at our home overnight for 13 hours claimed that our cat bit her. No previous issues, incidents, or poor ratings from sitters. No appeal process, just suspended account. Allowing retaliatory claims from "
+            },
+            {
+              "date": "2026-04-22T18:16:37.499Z",
+              "score": 1,
+              "text": "The app is absolutely useless, you need to pay for the service and there is no actual screening of people that use this app. As someone that has a pet ended and up with a person that was absolutely looking normal at the beginning.In reality the person being a conspiracy theoriest due to this Trsthouse DID NOT TAKE any measures for the reimbursement"
+            },
+            {
+              "date": "2026-04-15T14:59:52.364Z",
+              "score": 1,
+              "text": "the updates you installed are bad,now the filters have disappeared!!!"
+            },
+            {
+              "date": "2026-04-10T12:30:57.742Z",
+              "score": 1,
+              "text": "Atrocious app. Impossibile to locate sits on the map as it jumps to a different sit when you try to select. The search function is pointless giving sits 100 miles away."
+            }
+          ]
+        }
+      ]
     }
   }
 }

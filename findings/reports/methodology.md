@@ -20,7 +20,9 @@ loop_state:
     - founder_responsiveness_top3_games
     - reddit_idleclicker_comment_tree
     - launch_readiness_d6
-  exhausted_directions: [1, 2, 3, 4]   # D4 declared exhausted at 10/12 dimensions criteria
+  exhausted_directions: [1, 2, 3, 4, 6]   # ALL 5 actionable directions exhausted (D5 was merged into D2)
+  loop_status: COMPLETE
+  loop_completed_at: 2026-05-07T16:55:00+03:00
   pivot_history:
     - {from: null, to: 1, at_tick: 0, reason: "loop start, D1 was top scoreboard"}
     - {from: 1, to: 2, at_tick: 0, reason: "D1 already exhausted in main run pre-loop: 11/11 applicable dimensions done"}

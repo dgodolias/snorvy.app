@@ -8,3 +8,40 @@
   drill reviews: com.aadhk.woinvoice (5 000 000+, hist_low 8%)
   drill reviews: com.invoiceapp (5 000 000+, hist_low 22%)
   drill reviews: bookipi.invoice.maker.estimate.billing (1 000 000+, hist_low 2%)
+  drill reviews: com.tofu.invoices (1 000 000+, hist_low 0%)
+  drill reviews: au.com.speedinvoice.android (1 000 000+, hist_low 3%)
+
+=== CZ ===
+  search: "fakturace"
+  search: "OSVČ faktura"
+  resolving installs for 21 candidates...
+  drilling top 5 apps with >=10k installs
+  drill reviews: com.aadhk.woinvoice (5 000 000+, hist_low 6%)
+  drill reviews: com.invoiceapp (5 000 000+, hist_low 40%)
+  drill reviews: au.com.speedinvoice.android (1 000 000+, hist_low 4%)
+  drill reviews: com.tofu.invoices (1 000 000+, hist_low 0%)
+  drill reviews: bookipi.invoice.maker.estimate.billing (1 000 000+, hist_low 0%)
+
+=== NL ===
+  search: "factuur app"
+  search: "ZZP factuur"
+  resolving installs for 25 candidates...
+  drilling top 5 apps with >=10k installs
+  drill reviews: com.aadhk.woinvoice (5.000.000+, hist_low 10%)
+  drill reviews: io.labhouse.invoicesapp (1.000.000+, hist_low 10%)
+  drill reviews: com.zoho.invoicegenerator (1.000.000+, hist_low 0%)
+  drill reviews: au.com.speedinvoice.android (1.000.000+, hist_low 1%)
+  drill reviews: com.invoice2go.invoice2goplus (1.000.000+, hist_low 18%)
+
+=== SE ===
+  search: "faktura app"
+  search: "egenföretagare"
+  resolving installs for 25 candidates...
+  drilling top 5 apps with >=10k installs
+  drill reviews: com.phonepe.app.business (100 000 000+, hist_low 0%)
+  drill reviews: com.google.android.apps.nbu.paisa.merchant (50 000 000+, hist_low 0%)
+  drill reviews: com.squareup (10 000 000+, hist_low 50%)
+  drill reviews: io.cloudwalk.infinitepaydash (10 000 000+, hist_low 0%)
+  drill reviews: com.kaching.merchant (10 000 000+, hist_low 21%)
+
+Done. Wrote C:/Users/demosgod/Desktop/PROJECTS/playstore_app/findings/raw/play-store/eu_expansion_invoice.json

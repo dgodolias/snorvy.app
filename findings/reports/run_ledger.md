@@ -831,6 +831,56 @@ Specific wins:
 
 ---
 
+## Run 2026-05-07 16:55 (LOOP MODE — depth-first exhaustion of all 5 actionable directions)
+
+### Configuration
+- Tier: medium per loop tick
+- Mode: continuous loop (depth-first per direction)
+- Hard cap: 35% weekly
+- Limits at start: weekly 25%
+- Limits at end: weekly **27%** (only +2pp burn for entire loop run)
+- Strategy: NEW depth-first loop iteration per the user's "drill until exhausted, then pivot" instruction added to skill
+
+### Loop phase summary
+
+| Phase | Direction | Ticks | Dimensions Done | Top finding |
+|---|---|---|---|---|
+| A | D1 (Invoice Simple → FairBill) | 0 (pre-loop) | 11/11 (skipped — main run already exhausted) | Wedge: "no account + offline-first" |
+| B | D2 (QBSE+Solopreneur+Schedule C → SoloLedger) | 3 | 5/5 | Solopreneur iOS 81.6% / 65% pure 1★ + Reddit users prefer free Wave/Xero (wedge repositioned to free-tier-parity + $39 lifetime US-tax differentiation) |
+| C | D3 (Solo+Stride → Mileway) | 2 | 6/6 | Solo last-90d 83.3% (escalating from 68%), Stride iOS-Android Δ 36.7pp (Android-locked), TikTok #doordash 13.3B viable, ASA "stride alternative" composite 10.0 |
+| D | D4 (DE+PL+NL → Faktly) | 2 | 12/12 | Dual launch strategy: DE-first (sustained TAM) OR PL-first (KSeF Apr 2026 deadline panic). 7 empty positioning slots (KSeF-native, §19 toggle, EU-data-residency, no-Abo, multi-country single-login, mobile-first Android invoice, offline-first). Lexware can't even create invoices on Android = direct wedge. |
+| E | D6 (Tycoon Zero) | 1 (combo agent) | 6/6 | AdCap $99.99 IAP ceiling + 81.6% deflective replies. Cookie Clicker dual-app validates "pay once + no ads" model. r/incremental_games 575↑ engagement, pay-once upvoted on sight. ASA "no ads idle game" composite 12.0. |
+
+### What worked
+- **Depth-first iteration STRATEGY**: surfaced specific verbatim quotes + ASA + founder responsiveness patterns that breadth-first would miss (e.g., D2 promotion via Solopreneur 1500-drill, D3 promotion via Solo 83% last-90d acceleration)
+- **Parallel agent dispatch within single phase**: 2-3 agents per phase covering different dimensions simultaneously — saved wall time
+- **Methodology.md `loop_state` block**: maintaining active_direction + dimensions_done/remaining + pivot_history kept the loop coherent across pivots
+- **Time-box safety**: ~7 ticks total over 5 phases, avg 1pp burn each = extremely efficient
+
+### What failed
+- (none — all phases completed successfully)
+
+### v9 final ranking after loop
+
+1. 🥇 **D1 FairBill** (Invoice Simple displacement) — VERY HIGH confidence, €42k base Y1 ARR
+2. 🥈 **D2 SoloLedger** (QBSE+Solopreneur+Schedule C combo) — MEDIUM-HIGH (downgraded from HIGH due to Reddit free-incumbent finding)
+3. 🥉 **D3 Mileway** (Honest Gig Tracker) — HIGH (promoted from MEDIUM-HIGH due to Solo 83% acceleration)
+4. **D4 Faktly** (EU multi-country DE+PL+NL) — MEDIUM-HIGH, dual launch strategy validated
+5. **D6 Tycoon Zero** (Flutter Flame idle) — MEDIUM (promoted from MEDIUM-LOW after Phase E confirmed AdCap rage + r/incremental_games positioning)
+
+### Hypotheses tested in loop
+- ✓ "Depth-first per direction beats breadth-first" — VALIDATED (D2 promotion + D3 promotion both came from drilling, not scattering)
+- ✓ "Founder responsiveness inverted predictor" — RE-VALIDATED across 4 directions (Solopreneur 99.3% canned, Solo 84% bare-min, sevDesk 64.7% mid, Tofu 98.9% defended, Invoice Fly 0% abandoned, AdCap 81.6% deflective)
+- ✓ "Active price-hike events create acute displacement windows" — VALIDATED across 3 directions (Invoice Simple $399 ceiling, Solopreneur £18.99 mid-contract double-charge, Solo $179.99 ceiling)
+
+### User decision (still pending — same as pre-loop)
+- _to be filled by user after reviewing v9 with loop additions_
+
+### Outcome
+- _to be filled at 30/90 days_
+
+---
+
 ## Open hypotheses register (carry forward)
 
 These are unvalidated ideas the agent should attempt in future runs:

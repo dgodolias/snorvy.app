@@ -1,0 +1,2248 @@
+{
+  "queries": [
+    [
+      "personalfinance",
+      "schedule c",
+      20
+    ],
+    [
+      "personalfinance",
+      "self employment tax",
+      20
+    ],
+    [
+      "smallbusiness",
+      "quickbooks self employed",
+      20
+    ],
+    [
+      "smallbusiness",
+      "QBSE alternative",
+      20
+    ],
+    [
+      "freelance",
+      "schedule c",
+      20
+    ],
+    [
+      "freelance",
+      "tax estimator",
+      20
+    ],
+    [
+      "freelance",
+      "schedule c calculator",
+      20
+    ],
+    [
+      "IRS",
+      "schedule c",
+      20
+    ],
+    [
+      "IRS",
+      "1099",
+      20
+    ],
+    [
+      "tax",
+      "self employed",
+      20
+    ],
+    [
+      "Solopreneur",
+      "tax tracker",
+      20
+    ],
+    [
+      "Entrepreneur",
+      "QBSE",
+      20
+    ],
+    [
+      "Entrepreneur",
+      "quickbooks alternative",
+      20
+    ],
+    [
+      "selfemployed",
+      "schedule c",
+      20
+    ],
+    [
+      "selfemployed",
+      "qbse",
+      20
+    ],
+    [
+      "taxpros",
+      "schedule c",
+      20
+    ]
+  ],
+  "results": {
+    "personalfinance__schedule c": [
+      {
+        "id": "1rb4p63",
+        "title": "Solo 401K and new Roth catchup rules - do they apply to Schedule C income?",
+        "score": 1,
+        "comments": 3,
+        "date": 1771713393,
+        "selftext": "I have noted the new rules for 401k catchup contributions to go into Roths for high earners ($150K+).\n\nHowever, the rules specify that earnings are based on \"FICA wages' from last year's employer.\n\nFor some business owners, there are no \"FICA wages\", since they don't take W-2 income. They don't pay \\~7.5% FICA; they pay \\~15% SE Tax on their Schedule C net income.\n\nThis would seem to allow the view that a business owner with no W-2 income would not have to put their catchups into a Roth.\n\nIn doing some searching, I can't tell if this is a \"technicality\" or \"loophole\" - or if it could be considered as something the statute clearly had in mind (e.g. by choosing \"FICA wages\" rather than AGI as the defining number).  \n\nGrateful for any views on this. \n\n",
+        "engagement": 3,
+        "source": "personalfinance__schedule c"
+      },
+      {
+        "id": "1qv7giu",
+        "title": "Mortgage Interest Deduction On Personal Home + Schedule C Deductions?",
+        "score": 0,
+        "comments": 15,
+        "date": 1770160094,
+        "selftext": "",
+        "engagement": 0,
+        "source": "personalfinance__schedule c"
+      },
+      {
+        "id": "1q19hre",
+        "title": "Does anyone know if 1040 Schedule C will be updated for tax year 2025?",
+        "score": 1,
+        "comments": 7,
+        "date": 1767288216,
+        "selftext": "[IRS.gov](http://IRS.gov) lists the 2024 form on their list of current forms (https://www.irs.gov/forms-instructions-and-publications). But 2024 is listed all over the place on the actual form. That seems wrong for filing 2025 taxes... TYIA!",
+        "engagement": 7,
+        "source": "personalfinance__schedule c"
+      },
+      {
+        "id": "1jwb1rm",
+        "title": "Please explain filing an MFJ tax return with a Schedule C and Schedule SE... like I'm 5",
+        "score": 0,
+        "comments": 9,
+        "date": 1744325127,
+        "selftext": "I have W2 income and my partner works from home as a silversmith/jeweler so she needs to file a Schedule C and Schedule SE in addition to our 1040\n\nMy portion of the tax return is easy, but my confusion stems from how the deductions would work.\n\nDo we still break out the individual expenses (tool purchases, raw material purchases, business use of home % of utilities, etc.) to determine how much of her income is taxable and then take the standard deduction on the 1040? Or is it either/or?\n\nHer income before any deductions whatsoever is <$5000 if that factors into your advice.\n\nHere to answer any questions or further clarify! Thank you in advance",
+        "engagement": 0,
+        "source": "personalfinance__schedule c"
+      },
+      {
+        "id": "1iazvhp",
+        "title": "Self tax filer here. Trying to add my PayPal 1099k on FreeTaxUSA but it keeps directing me to a Schedule C instead. Am I doing something wrong? [USA]",
+        "score": 1,
+        "comments": 3,
+        "date": 1737952369,
+        "selftext": "\nI made some money from TikTok’s Creator Program last year and the money is paid out through PayPal. I didn’t get any 1099NEC forms from Tik Tok, but I did get a 1099K from PayPal showing said earnings, so I wanna use that to file my taxes. I am not sure if TikTok is still yet to send out a form later this month or if it’s just PayPal. \n\nOn FreeTaxUSA, I click 1099K, then select “PayPal” from the list of sites, and then it asks me to select what the form is showing—Personal Transactions, Business, or Rents Received. I assume TikTok earnings count as “Business,” so I select that, and then it tells me to fill out a Schedule C form instead. As I said, I don’t have a 1099-NEC from TikTok (unless they just haven’t sent it yet) so this is the only option that’s left. \n\nThe form I have from PayPal says 1099K on it, so why can’t I just fill out the 1099K portion when filing? Should I just wait and see if TikTok sends their own form soon or does Paypal’s 1099k suffice? \n\nI’m self filing so idk ",
+        "engagement": 3,
+        "source": "personalfinance__schedule c"
+      },
+      {
+        "id": "1ewimiv",
+        "title": "Starting small business on top of \"real\" job and have some tax questions re: Schedule C",
+        "score": 1,
+        "comments": 1,
+        "date": 1724115815,
+        "selftext": "[removed]",
+        "engagement": 1,
+        "source": "personalfinance__schedule c"
+      },
+      {
+        "id": "1ekx658",
+        "title": "After maxing out a Roth IRA, Can I open a SEP IRA as a self-employed person who files a schedule C every year?",
+        "score": 3,
+        "comments": 2,
+        "date": 1722887168,
+        "selftext": "Don’t want to screw myself over by incorrectly setting up the wrong account as an independent contractor.",
+        "engagement": 6,
+        "source": "personalfinance__schedule c"
+      },
+      {
+        "id": "1ekvx96",
+        "title": "I maxed out my Roth IRA. Can I open a SEP IRA as a self-employed person who files a schedule C every year? ",
+        "score": 1,
+        "comments": 1,
+        "date": 1722884205,
+        "selftext": "[removed]",
+        "engagement": 1,
+        "source": "personalfinance__schedule c"
+      },
+      {
+        "id": "1dsmu7t",
+        "title": "Self Employed (Schedule C). I am already maxing out my ROTH IRA. What else should I contribute to?",
+        "score": 0,
+        "comments": 3,
+        "date": 1719817978,
+        "selftext": "Can I open up a self employed 401k or something? ",
+        "engagement": 0,
+        "source": "personalfinance__schedule c"
+      },
+      {
+        "id": "1bfwh2z",
+        "title": "A question regarding my Schedule C",
+        "score": 1,
+        "comments": 0,
+        "date": 1710558885,
+        "selftext": "How important is the starting and ending inventory section of schedule c? If my starting and ending inventory value increases or decreases in a way not explainable by my revenue or expenses, will I be audited? In addition to my W2, I breed high end reptiles and my “inventory” value fluctuates greatly with the market, and also my “inventory” could grow in some years without capital expenditure since they reproduce. Is this likely to be a red flag to the irs or is this section not as important as reporting gross income and expenses? \n",
+        "engagement": 0,
+        "source": "personalfinance__schedule c"
+      },
+      {
+        "id": "1bdesdj",
+        "title": "How to fill out a Schedule C as an Independent Contractor for a Company",
+        "score": 1,
+        "comments": 1,
+        "date": 1710293108,
+        "selftext": "Hi!\n\nI became an independent contractor last year for a design firm, and they sent me a 1099-NEC Copy B with only the payer's ID number, my ID number, and Box 1 filled. After filling that out, I was alerted that I needed to fill out a Schedule C. I am a bit confused because it keeps saying \"your business,\" so I don't know what to put for the address (leave it blank or put the firm's address) or expenses. Any help would be appreciated! ",
+        "engagement": 1,
+        "source": "personalfinance__schedule c"
+      },
+      {
+        "id": "195dw3x",
+        "title": "Mortgage question regarding W-2 and Schedule C income.",
+        "score": 2,
+        "comments": 3,
+        "date": 1705115165,
+        "selftext": "I got approved for a conventional mortgage  3 weeks ago found a home sent offer lender told me I was approved and I’m signing disclosures today I see my tax records are getting pulled I started a side gig and has some losses will that affect my approval? Or they going based only on W-2.",
+        "engagement": 6,
+        "source": "personalfinance__schedule c"
+      },
+      {
+        "id": "18ze7e2",
+        "title": "Can you do W-2 and schedule C in one go on TurboTax?",
+        "score": 1,
+        "comments": 1,
+        "date": 1704480347,
+        "selftext": "Last year I finished my W2 from my employer and then did a separate for my very small online side gig and it was gonna be like.. almost 300$ just for me to file cause it was paying to file my W2 PLUS an 'advanced' edition. \n\nI feel like I missed something and paid more than I needed to. Is there a more cost efficient method with TurboTax to get my employers deets + self employment in?",
+        "engagement": 1,
+        "source": "personalfinance__schedule c"
+      },
+      {
+        "id": "187wusb",
+        "title": "As a 1099 truck driver, can I claim the standard deduction as well as deduct using a schedule C, and can I take the per diem deduction?",
+        "score": 1,
+        "comments": 9,
+        "date": 1701387576,
+        "selftext": "(MO) I thought I could do all of these, but saw an article that said if you take per diem (this is where you're not taxed on a certain amount each day for food if you're away from home) then you're not eligible for the standard deduction. but didn't really explain it. \n\nI have a CPA at my company but they don't want to answer questions so really trying to find out what I'm looking at here. I'm a lease operator. i.e. I lease from and am dispatched by the company but technically I'm an independent contractor. \n\nif it's one or the other id probably just take the standard since it's so high. and since I only started in September. \n\nthanks",
+        "engagement": 9,
+        "source": "personalfinance__schedule c"
+      },
+      {
+        "id": "17i6xqf",
+        "title": "Boss said I am a Schedule C contractor software work. When will I get paid?",
+        "score": 1,
+        "comments": 0,
+        "date": 1698471242,
+        "selftext": "Hi. I am currently in a job that requires me to do a lot of work. The problem is I have been working there for a while, and the employer still does not pay me. He said I an hired as a Schedule C contactor, and later he said I only get 5% of the company revenue.\r  \n\r  \nRight now. I am with a laptop trying working for the employer. One of the reasons is for experience, which you know is very difficult to get a job without experience. I have worked in a lot of places for free. Most of the places refuse to hire those free work experience.",
+        "engagement": 0,
+        "source": "personalfinance__schedule c"
+      },
+      {
+        "id": "17as8gl",
+        "title": "If I take the per diem as a 1099 trucker with an LLC, is that on top of the standard deduction and the schedule C deductions?",
+        "score": 1,
+        "comments": 1,
+        "date": 1697639546,
+        "selftext": "[removed]",
+        "engagement": 1,
+        "source": "personalfinance__schedule c"
+      },
+      {
+        "id": "16vtjvx",
+        "title": "Schedule C questions?",
+        "score": 0,
+        "comments": 7,
+        "date": 1696036613,
+        "selftext": "So I'm a personal trainer by trade where I have a studio I own that I train out of as well as work at a large Center as a side gig. My wife is an accountant so she usually takes care of taxes however a question has come up that I was hoping to ask someone other than my wife because she will not complain either way and I'd rather not burden her if what I'm understanding is correct.\n\nSo far it's been rather easy to file jointly with my income just being a Schedule C filing which also is financially better.\n\nAll of my expenses are tallied and notated however lately I've been making some T-shirts for the gym which isn't that big of a deal since they're directly affiliated with the studio. However it's been a lot of fun to do so. My wife mentioned if I make any shirt that is not directly associated with the Studio that I will have to file a second Schedule C on my taxes if sales are above $600\n\nSo my questions are this:\n\nIs she correct that I will need to file a second Schedule C if it's st",
+        "engagement": 0,
+        "source": "personalfinance__schedule c"
+      },
+      {
+        "id": "1608iqv",
+        "title": "Can I file my independent contract work on the same schedule C as my product business?",
+        "score": 1,
+        "comments": 4,
+        "date": 1692898382,
+        "selftext": "I'm wondering if anybody can clarify this for me. I have standard employment at a non-profit for \\~15 hours per week (brings in about \\~1200/month). I also have a private practice doing herbal consultations at the same non-profit. I'm paid for this as an independent contractor on a 60/40 split which is standard for the industry.  This brings in anywehere from $400 - 1400 per month depending on how busy my practice is.  I also occasionally sell herbal products I make at wholesale to the non-profit that has a retail shop component. This doesn't amount to much, maybe \\~$1000 this year. \n\nBefore I got involved with the non-profit, I formed an LLC for my herbal products that I mostly sold at farmers market as a side gig to my day job. \n\nI am wondering if I can file the independent contractor work on the same Schedule C as my herbal products. Many of the expenses are the same and there's so much overlap, especially because I am often providing herbal products to folks I consult with. But thi",
+        "engagement": 4,
+        "source": "personalfinance__schedule c"
+      },
+      {
+        "id": "14xs5xo",
+        "title": "What is the order of cost of goods sold deduction vs standard deduction from a 1099-K AND from Schedule C",
+        "score": 0,
+        "comments": 2,
+        "date": 1689176692,
+        "selftext": "Let’s say I buy a vase for $15,000 vase and sell it for $20,000 on eBay. eBay sends me a 1099-K. I reflect the cost of goods sold in my schedule C.\n\nLet’s say I then buy another vase for $20,000 and sell it privately for $25,000. I have no 1099 for this income, so I report it in my schedule C.\n\nAm I understanding correctly that my schedule C would report only $25,000 in income (for the second vase) since the 20k income from the first vase would already be reported on 1099k from eBay? And then my schedule C would have $35,000 in costs on my schedule C for the two vases, right?\n\nLastly, how does the standard deduction play into this? I believe I can only use the standard deduction for 1099-k income (not schedule C ). Would the standard deduction deduct from my 1099 'before' the costs of goods sold is deducted?\n\nIf the standard deduction (~14k) applies first, my gross of 45k gets deducted to ~ 31k, and then get deduced by cost of goods (35k) to 0 taxable profit.\n\nIf the standard deduction",
+        "engagement": 0,
+        "source": "personalfinance__schedule c"
+      },
+      {
+        "id": "12xpjev",
+        "title": "Self Employed - getting mortgage when switching from schedule C 1099 to S corp?",
+        "score": 1,
+        "comments": 0,
+        "date": 1682356405,
+        "selftext": "I’ve been self employed since 2016 filing a Schedule C with 1099s. The past few years, my AGI has gained substantially and I would like to incorporate to an S Corp asap. Will this create any red flags? I would like to purchase a home post tax season in 2024 ideally but if something ideal came up before then, I am open minded if I can get the financing.  Any thoughts or advice is appreciated!",
+        "engagement": 0,
+        "source": "personalfinance__schedule c"
+      }
+    ],
+    "personalfinance__self employment tax": [
+      {
+        "id": "1sal7mb",
+        "title": "1040 es Self Employment Tax",
+        "score": 0,
+        "comments": 11,
+        "date": 1775145154,
+        "selftext": "",
+        "engagement": 0,
+        "source": "personalfinance__self employment tax"
+      },
+      {
+        "id": "1s9tbku",
+        "title": "Self employment tax on 1099 with high W2 income",
+        "score": 0,
+        "comments": 7,
+        "date": 1775068795,
+        "selftext": "",
+        "engagement": 0,
+        "source": "personalfinance__self employment tax"
+      },
+      {
+        "id": "1s3o14g",
+        "title": "Didn't realize how bad the self employment tax hits until I actually sat down with my Etsy numbers",
+        "score": 2,
+        "comments": 1,
+        "date": 1774474275,
+        "selftext": "Started making candles like 2 years ago just as a side thing, thought it would just be like $200 here and there. Somewhere along the way it turned into actual consistent income and I made roughly $21k last year between Etsy and local markets.\n\nFelt pretty good about myself, had some money set aside from it and even some extra, thought I was being responsible. Then I sat down this weekend to knock out my taxes and completely forgot to account for the 15.3% SE tax on top of regular income tax. Like I knew id owe something but not THAT much. Also made zero estimated quarterly payments so theres probably a penalty added on too.\n\nNo ones fault but mine I get it, just didn't think a candle hobby would turn into something I needed an accountant for lol\n\nFor people who went through something similar did you eventually just hire a CPA or is software like freetaxusa actually enough when you have inventory and home office stuff to factor in? And how do you structure things going forward so you're",
+        "engagement": 2,
+        "source": "personalfinance__self employment tax"
+      },
+      {
+        "id": "1rz6wy3",
+        "title": "Tax Day is 26 days away - Self-employment expense tracking guide",
+        "score": 1,
+        "comments": 0,
+        "date": 1774037531,
+        "selftext": "[removed]",
+        "engagement": 0,
+        "source": "personalfinance__self employment tax"
+      },
+      {
+        "id": "1rok8zd",
+        "title": "Nearly 5k in self employment tax. And a 50% blended tax rate. What is happening?",
+        "score": 3,
+        "comments": 8,
+        "date": 1773013148,
+        "selftext": "I’m doing my taxes on TurboTax this year no differently than I would any year… but I’m encountering some new situations that are really catching me off guard. \n\nHere’s my info \n\n“Your filing status is Single. This determines how much you can get for certain credits and deductions, and which tax rates apply.\n\nYour total income for the year was $32,239, all from business income. You took the Standard Deduction, which was $15,750. Your other deductions for the year include:\n\n• Qualified business income deduction,\n\n$2,842\n\n• Self-employment tax deduction, $2,278\n\nAfter applying your deductions, your taxable income was $11,369. Based on this, your total tax before credits was $1,138 in regular income tax and $4,555 in self-employment tax.”\n\nIt also says I have a 50.1% blended tax rate. \n\nCan anyone help explain?? ",
+        "engagement": 24,
+        "source": "personalfinance__self employment tax"
+      },
+      {
+        "id": "1roh4a0",
+        "title": "Does this self employment tax seem correct? (CA)",
+        "score": 0,
+        "comments": 12,
+        "date": 1773005492,
+        "selftext": "In 2024 I made 45k self employed. 19k was gig work with gas mileage deductions. The other 26k was content creation on Tiktok (NO deductions). I had to pay 4.5k in taxes.\n\nIn 2025 I made 57k , all Content Creation with NO deductions (yet), and I have to pay 12.5k taxes in total (I did 3.7k quarterly payments so it’s actually only 9k left so far). \n\nThis 12.5k seems extremely high compared to my 4.5k I needed to pay last year, when I only made $12k more than last year.\n\nMy question is , do deductions really bring the cost down that much more? Without deductions, would the taxes always seems abnormally higher? Does SE-tax seem more brutal than it actually is?",
+        "engagement": 0,
+        "source": "personalfinance__self employment tax"
+      },
+      {
+        "id": "1pk0wsx",
+        "title": "Self Employment Tax Questions",
+        "score": 1,
+        "comments": 26,
+        "date": 1765468337,
+        "selftext": "I have a tax questions I am self employed married filing jointly, in Tennessee\n\nMy wife makes around 40k and breaks about even on taxes give or take 100 dollars.\n\nI will make 160,000 this year, I will be taking standard deduction, I have pre paid 30,800 on taxes already. How much more will I owe?\n\n  \nChatgpt says I need to pay an additional 24,000-26000 dollars is this correct?",
+        "engagement": 26,
+        "source": "personalfinance__self employment tax"
+      },
+      {
+        "id": "1o0lr8z",
+        "title": "Self Employment Taxes with AMT Tax questions",
+        "score": 1,
+        "comments": 2,
+        "date": 1759859147,
+        "selftext": "I am preparing for the 2025 Tax season (the ones we pay in April of 2026) and trying to minimize my taxes owed. Normally I file my own taxes with Turbo Tax Home Business and it is quite easy and straight forward.  However this year I've made a significant amount of income than I normally do, About $500,000 profit so far.   I do have a business partner I need to pay approximately $100,000 too out of the $500,000 (So please keep that in mind when helping me factor what to do)   I really don't understand the AMT Tax, and want to be prepared for the taxes owed. I feel fortunate to have a great year, but the AMT Tax is stressing me out! Thank you for your help.",
+        "engagement": 2,
+        "source": "personalfinance__self employment tax"
+      },
+      {
+        "id": "1l49g5r",
+        "title": "Please don’t laugh at my self-employment tax question",
+        "score": 1,
+        "comments": 1,
+        "date": 1749154682,
+        "selftext": "[removed]",
+        "engagement": 1,
+        "source": "personalfinance__self employment tax"
+      },
+      {
+        "id": "1kz23f8",
+        "title": "[DC] Calculating 1099 self-employment tax",
+        "score": 0,
+        "comments": 8,
+        "date": 1748605382,
+        "selftext": "Hello- I’m looking at taking my first 1099 contracting gig and trying to figure out what to charge for my rate to reach my target salary after taxes/ expenses. \n\nCurrently looking at a salary of ~$240,000/yr per with at least $10,000/yr in business expenses. Can anyone help me figure out, roughly, how much I’d owe in taxes? Or at least show me a formula/tool to figure it out? The calculators all give me vastly different answers. \n\nTIA! ",
+        "engagement": 0,
+        "source": "personalfinance__self employment tax"
+      },
+      {
+        "id": "1kseso4",
+        "title": "Self-Employment Tax vs Fico",
+        "score": 0,
+        "comments": 22,
+        "date": 1747877406,
+        "selftext": "Hi everybody,\n\nI understand the basics of Fico vs self- employment tax but I have a lingering confusion: don’t we get a double tax break with self employment tax as opposed to Fico? Let me explain:\n\nFirst we use 92.35 % as base income ; so that’s half of 15.3 percent. Then we take that, multiply by 15.3 percent and then reduce that by half! Isn’t that a double tax break?\n\nWhy would we half twice? Shouldn’t we only be halving once?!",
+        "engagement": 0,
+        "source": "personalfinance__self employment tax"
+      },
+      {
+        "id": "1jy7vnq",
+        "title": "Can someone confirm that I am understanding a multi-state W-2 job and quarterly self-employment tax correctly?",
+        "score": 1,
+        "comments": 1,
+        "date": 1744551593,
+        "selftext": "[removed]",
+        "engagement": 1,
+        "source": "personalfinance__self employment tax"
+      },
+      {
+        "id": "1jtjdus",
+        "title": "X-Post: Bogleheads didnt know -- Can anyone weigh in on this super weird tax situation dealing with NET self employment income and Roth IRA contribution limits + Premium Tax Credit",
+        "score": 0,
+        "comments": 11,
+        "date": 1744026785,
+        "selftext": "# Preface to Retirement Bit\n\nMy AGI was low this year self-employed. I had cap gains losses and HSA contributions which made MAGI low to where contributing a MAX of ~2500 to a pre-tax Solo 401k (self employed account) would put my MAGI below the federal poverty line (19k)\n\nSo, if I make and take the full 23k tradtional 401k deduction then MAGI is 0.\n\n## Why this is BAD\n\n1. I will have overcontributed to a Roth IRA. MAGI is lower than 7k limit. You can only contribute UP TO MAGI. So, again, zeroed income (pre-tax 401k + hsa etc) kills my MAGI to like 2,000 USD.\n\nSo I will have to recharacterize AND still pull out my over contribution of 4k\n\n\n1. Per the first paragraph I missed the premium tax credit (which is HUGE credit) and I now OWE ~5k in self employment tax I could avoid pending the below:\n\n# Question and Fixing This \n\nIt's before April 15th, I can have my brokerage recharacterize my 23k pre-tax to an after-tax Roth 401k contribution or I can just pull it out and do it myself.\n\nI o",
+        "engagement": 0,
+        "source": "personalfinance__self employment tax"
+      },
+      {
+        "id": "1jng3f4",
+        "title": "How do we feel about the self-employment tax in the U.S.?",
+        "score": 0,
+        "comments": 13,
+        "date": 1743351692,
+        "selftext": "I'm finding that it, along with the pay as you go approach to U.S. taxes, can leave people surprised at tax time.  It made sense to me once I learned that as a regular employee the company pays part of the bill towards Social Security and Medicare but while self-employed you usually have to pay the entire bill.\n\nI'm planning on being self-employed this year, so I'm a little worried that my tax liability is going to be higher than I'm used.  Still, so far, I support this tax because Social Security and Medicare can be nice to have.",
+        "engagement": 0,
+        "source": "personalfinance__self employment tax"
+      },
+      {
+        "id": "1jj65as",
+        "title": "Tax debt due to incorrect reporting of self-employment income",
+        "score": 1,
+        "comments": 4,
+        "date": 1742860979,
+        "selftext": "\nI received PUA benefits in 2020-2021. After the fact, i had to submit my tax returns at their request for proof of qualification. I was retroactively denied benefits and was going to have to repay the funds. \n\nI found out I had to amend my taxes as “self-employment income” instead of “hobby income” to use it as PUA proof. But I did it wrong and ended up owing more now… too much to be just from my low income. I setup a payment plan but defaulted on it, and sadly depleted my savings & credit cards in the process. \n\nAt first I thought I was being taxed on my PUA money, but that wouldn't be both on state and federal, right? And it would’ve been that high in both years not just 2021. I think I overpaid and maybe they even owe me. But it defaulted and maybe headed to a debt collector.\n\nI think I over-reported due to a lack of record-keeping for my babysitting and freelance design income. I estimated it using an app, but it counted all “money in”… not just actual income, but also any deposit",
+        "engagement": 4,
+        "source": "personalfinance__self employment tax"
+      },
+      {
+        "id": "1jbzc44",
+        "title": "Self employment + W2 tax estimate strategy question",
+        "score": 2,
+        "comments": 9,
+        "date": 1742057182,
+        "selftext": "I have 2 questions I have been trying to resolve:  \n  \n1. For 2025, my wife and I will have 2 W2  income streams and 1 Self employment stream. My income + wife's W2 incomes after deductions/child tax credits will land us in the middle of the 22% marginal tax bracket range \\~150k. The self employment income will likely be about 30-40k over the year. My plan for estimated self employment + income taxes on exclusively the SE income is to assume all of that income will be taxed at 22% rate (because of where the W2 income left us in the marginal brackets). This will be in addition to 92.35% \\* (12.4% + 2.9%) for SS and Medicare. This brings that self employment income taxation to about 36.1% for all federal taxes, plus additional 4.4% state income tax. This 40.5% on every SE dollar. This seems high, but is this correct if I'm fairly certain all of this SE income will take place in the 22% marginal bracket? I plan to pay at this rate in Estimated Taxes and then start to decrease/adjust if I ",
+        "engagement": 18,
+        "source": "personalfinance__self employment tax"
+      },
+      {
+        "id": "1j61yah",
+        "title": "Self Employment Tax - State Taxes ?",
+        "score": 0,
+        "comments": 3,
+        "date": 1741385894,
+        "selftext": "I am a 1099 employee so I have to pay my own self-employment taxes quarterly. I know how to figure out the federal part with SS and Medicare, but I live in CA and am not sure how to calculate the self employment tax for the state - I am assuming it's separate. ",
+        "engagement": 0,
+        "source": "personalfinance__self employment tax"
+      },
+      {
+        "id": "1iteu0b",
+        "title": "Estimated Self-Employment Tax, All Income for Year in Q1",
+        "score": 1,
+        "comments": 3,
+        "date": 1739994833,
+        "selftext": "Hey y'all, I made a bit of 1099able income in Q1 as a contractor. I don't plan on making any more 1099 income this year. I plan on making $10-15k in W2 income this year.\n\nFor hypothetical's sake, let's say I made $40k in 1099 income in Q1. Since I will only make $40k 1099 income to total for 2025, when paying quarterly self-employment tax in April, can I pay taxes on 1/4 ($10k) of that income and rinse and repeat for the next three quarters? Or should I pay all of the $40k's tax liability in one shot?\n\nI only ask because if the latter is applicable, I plan on putting the pending tax money in a HYSA, which will allow that money to sit and work a bit for me. Thanks!",
+        "engagement": 3,
+        "source": "personalfinance__self employment tax"
+      },
+      {
+        "id": "1i1vtdq",
+        "title": "Self-employment overpaid tax - can you take it off next tax bill.",
+        "score": 1,
+        "comments": 5,
+        "date": 1736942233,
+        "selftext": "Hello, I have about £500 credit listed on my account, and I fill in a self-employed return each year. It seems completely unclear whether this can count towards my payment this year or if I just have to pay my bill as normal and claim back the overpaid tax separately. I can't find anything to confirm this anywhere. Can anyone explain?",
+        "engagement": 5,
+        "source": "personalfinance__self employment tax"
+      },
+      {
+        "id": "1hto0ga",
+        "title": "Tax Advice: Self-employment? ",
+        "score": 1,
+        "comments": 7,
+        "date": 1736023715,
+        "selftext": "Apologies in advance if this is not the right forum, but a reddit search showed this may be the most appropriate one. \n\nWe live in TX (USA). My wife was a work-from-home consultant last year. The company she consulted for simply sent her a check for her work, without deducting any income taxes, social security contribution or medicare deductions. There were no other statements, e.g., 1099, issued. \n\nAs we begin to prepare to file taxes this year, we’ve started to do some homework as to what is the right (and lawful!) thing to do. This is our first experience without a W-2, so would appreciate any and all guidance you could provide. We have always filed “Married Filing Jointly” and do our taxes ourselves using FreeTaxUSA. Somethings that come to mind:\n\n\n1) Does this qualify as “self-employed”?\n2) What taxes and deductions would be applicable?\n3) Any other particular things we need to do or look out for?\n\nJust want to do the right thing. Thanks in advance. ",
+        "engagement": 7,
+        "source": "personalfinance__self employment tax"
+      }
+    ],
+    "smallbusiness__quickbooks self employed": [
+      {
+        "id": "1lm7vn7",
+        "title": "Starting an LLC / self-employed: Quickbooks vs Square free versions",
+        "score": 2,
+        "comments": 1,
+        "date": 1751065533,
+        "selftext": "[Starting an LLC / self-employed: Quickbooks vs Square free versions](/user/Inside_Big8455/comments/1lm7oyk/starting_an_llc_selfemployed_quickbooks_vs_square/)\n\nHi - I'm starting an LLC as a self-employed guitar technician that will need to invoice and receive payment from customers, and manage expenses. Any experiences, opinions, pros and cons with the free options each provides? Any insights around payment fees and tax tool integration abilities would be helpful too.\n\nThank you",
+        "engagement": 2,
+        "source": "smallbusiness__quickbooks self employed"
+      },
+      {
+        "id": "1jm8nk2",
+        "title": "QuickBooks Self-Employed Replacement for Mobile",
+        "score": 1,
+        "comments": 1,
+        "date": 1743204072,
+        "selftext": "Okay, so I have previously used the QuickBooks Self-Employed app to track my income and expenses. I loved it because I could categorize each incoming and outcoming transaction in my bank account/on a certain credit card by personal and business-related, and categorize by type like supplies/inventory and gas/rent etc. It was also great because you could autocategorize things by where the transaction came from (PayPal, Venmo, certain supply stores etc) and it made doing taxes so simple and easy. Come to find out that they discontinued it in April 2024 and I wasn’t made aware until June when I went to check on things/do maintenance, and they charged me for those 3 months for a service that no longer existed which sucked but was besides the point ANYWAYS \nHas anyone found a good alternative for tracking expenses and income through connecting your bank account? I’m also looking specifically for something I can use on my iPhone, preferably something where everything is in-app but if it’s 100",
+        "engagement": 1,
+        "source": "smallbusiness__quickbooks self employed"
+      },
+      {
+        "id": "1i6uizn",
+        "title": "Seeking accounting software advice - Self-Employed . Currently using QuickBooks",
+        "score": 0,
+        "comments": 15,
+        "date": 1737496595,
+        "selftext": "Hello,\n\n  \nI know this sub likely gets a lot of similar threads like this one probably every other week. And I am sorry for that, I have looked at a few other past threads and gained a few take-a-ways regarding business software options...\n\nI am looking for a software that would work best for my small business that I hope to use as my business grows. I currently used QBO (QuickBooks Online) as it was what my previous employer used and it was suggested to me by another individual who runs a plumbing and heating outfit. Please, I need help because I am pulling my hair out using and paying quickbooks.....  I am not going to go into detail about my gripes with it because I am sure many of you know where I am coming from.....\n\nFor starters:\n\n1) I am a self-employed carpenter - I mostly do small residential remodeling jobs and renovations. \n\n2) I do not have any employees at this time and don't plan to have any outside of hiring our help through potential 1099 sub-contracted work..\n\n3) I typ",
+        "engagement": 0,
+        "source": "smallbusiness__quickbooks self employed"
+      },
+      {
+        "id": "1hxoula",
+        "title": "Quickbooks Self-Employed vs Solopreneur - do I switch to the latter?",
+        "score": 5,
+        "comments": 2,
+        "date": 1736460899,
+        "selftext": "Current user of QB Self-Employed. I like it a lot, really wouldn't change anything about it. However Solopreneur is a bit cheaper and claims to function the same but with more features - should I switch? Is the migration painless?",
+        "engagement": 10,
+        "source": "smallbusiness__quickbooks self employed"
+      },
+      {
+        "id": "1gswo3a",
+        "title": "Looking for an alternative to Quickbooks self employed",
+        "score": 6,
+        "comments": 15,
+        "date": 1731790218,
+        "selftext": "I'm going through my expenses this year and have realized at least 10k of expenses haven't synced to my account despite all of those accounts having been refreshed and reconnected several times in the past week. I really don't want to have to download all of my statements from all of my accounts \n\nI liked QB because I could sort by personal and business easily as well as see my tax burden in real time. I dont mind paying for a service with the 'trust factor' of a company like intuit (even though we all know they aren't all that above board either)\n\nPlease help!\n\n",
+        "engagement": 90,
+        "source": "smallbusiness__quickbooks self employed"
+      },
+      {
+        "id": "1f5cem1",
+        "title": "Self employed people - what do I need to do to Track time, invoice, etc. Work From Home consulting… Quickbooks Solopreneur? File LLC steps..",
+        "score": 4,
+        "comments": 11,
+        "date": 1725069646,
+        "selftext": "I recently got laid off and have managed to pick up two jobs where I can actually work from home and make more than my previous income.\n\nI am a bit OCD with organization and I want to do this right. I want to file an LLC for myself so I can have a ton of stuff to write off but also want to easily track everything where I can bill my time to these people I’m doing work for. Is quickbooks the okay? What about LegalZoom for LLC? Do I need to setup a separate PayPal and perhaps an email/domain for my services or is that a bit much?\n\nI am going to get my logo made for proper letterhead. I’ll probably register the domain so I can have a proper email address too. Just want to be organized in like a one stop shop for the financing aspect and make it easy come tax season, etc. ",
+        "engagement": 44,
+        "source": "smallbusiness__quickbooks self employed"
+      },
+      {
+        "id": "16okhgz",
+        "title": "Anyone who uses quickbooks self-employed for mileage tracking on an iPhone- please answer this",
+        "score": 1,
+        "comments": 1,
+        "date": 1695314049,
+        "selftext": "TL;DR does the mileage tracker work for you if you force close the app? I checked the quickbooks website and it says it’s not supposed to, but it has worked for me while force closed for the past two years.\n\nI have been using QBSE to track my miles for the past two years. I have never had to have the app open on my phone; I always force close every app. Up until 2 weeks ago, I always got a notification after every trip saying “your trip was worth $10.00” or something like that. Then all of a sudden, it stopped sending the notifications because it wasn’t tracking anymore. I had to leave the app open (not on my screen) for it to track my trips. No matter what, I couldn’t get it to track me without the app being open. I figured it was because my phone was old and it was barely able to handle having two apps open and would overheat all the time. I now have a new phone, and it’s still doing the same thing. I have double checked every setting already. Support hasn’t answered me and it’s alre",
+        "engagement": 1,
+        "source": "smallbusiness__quickbooks self employed"
+      },
+      {
+        "id": "162tyfn",
+        "title": "Quickbooks alternative for self employed l/sole proprietorship LLC?",
+        "score": 8,
+        "comments": 26,
+        "date": 1693151421,
+        "selftext": "Ive been self employed for 9 months, Quickbooks self employed just raised their already ridiculous monthly fee from 30 something dollars a month to $40 a month. Fuck that. I may in the future, as soon as a year from now, hire an employee to increase profits but right now I'm a sole proprietor. What are the best alternatives?",
+        "engagement": 208,
+        "source": "smallbusiness__quickbooks self employed"
+      },
+      {
+        "id": "153cr1a",
+        "title": "What apps or software do you all use for tracking expenses and invoicing other than QuickBooks Self-Employed?",
+        "score": 1,
+        "comments": 7,
+        "date": 1689719799,
+        "selftext": "I'm a small biz of just me and I don't make much so I can't afford this new annual PCI thing QB is forcing on us. I need expense tracking that will integrate with my bank & credit card and invoicing & payments online. I usually only take ACH payments. Mileage tracking would be great but I can also just use MileIQ. Time tracking also a nice to have. Thanks!",
+        "engagement": 7,
+        "source": "smallbusiness__quickbooks self employed"
+      },
+      {
+        "id": "12gju8v",
+        "title": "Quickbooks Self Employed Alternative?",
+        "score": 25,
+        "comments": 11,
+        "date": 1681047828,
+        "selftext": "Anyone have a recommendation for an alternative to quickbooks self employed?  I am a solo contractor.  I have 1-3 regular, long term clients that I get a 1099-NEC from.  I don't send out invoices or pay payroll to myself or anyone else.  (LLC, passthrough income).   \n\n\nI used the expense tracking, and basically just the estimated tax calculator in QBSE, but that doesn't seem worth spending $180 a year for.  I could just use expensify for expense tracking, but I would appreciate some sort of estimated tax calculator like the one QBSE has.  Anyone have one that they've found useful?",
+        "engagement": 275,
+        "source": "smallbusiness__quickbooks self employed"
+      },
+      {
+        "id": "11rxegr",
+        "title": "Work-From-Home Best Job Ever!! Self-Employed Bookkeeper With QuickBooks",
+        "score": 0,
+        "comments": 1,
+        "date": 1678889120,
+        "selftext": "[removed]",
+        "engagement": 0,
+        "source": "smallbusiness__quickbooks self employed"
+      },
+      {
+        "id": "11asjsf",
+        "title": "Quickbooks Self employed vs Online?",
+        "score": 1,
+        "comments": 5,
+        "date": 1677248552,
+        "selftext": "I am thinking about getting quickbooks but I am not sure which subscription to get. For context, I am starting a clothing brand and will be holding inventory. I heard that quickbooks online estimates your quarterly taxes in real time which is why I'm considering it, but I also feel like it is too simple. Thoughts?",
+        "engagement": 5,
+        "source": "smallbusiness__quickbooks self employed"
+      },
+      {
+        "id": "txt5av",
+        "title": "Looking for a Quickbooks Self-employed alternative",
+        "score": 2,
+        "comments": 5,
+        "date": 1649270737,
+        "selftext": "[deleted]",
+        "engagement": 10,
+        "source": "smallbusiness__quickbooks self employed"
+      },
+      {
+        "id": "s8zghv",
+        "title": "Alternatives to quickbooks self employed?",
+        "score": 39,
+        "comments": 61,
+        "date": 1642731467,
+        "selftext": "I like their toolset (keeping track of business expenses and income, estimating deductions, calculating prepaid taxes for me). It's $160/yr without the tax filing software, wondering if there's anything cheaper that does the same thing.",
+        "engagement": 2379,
+        "source": "smallbusiness__quickbooks self employed"
+      },
+      {
+        "id": "rfr6lc",
+        "title": "Quickbooks Self-Employed & Novo Banking",
+        "score": 2,
+        "comments": 2,
+        "date": 1639432302,
+        "selftext": "I'm very new to starting and owning my own business, and I'm currently waiting on a response from the local SBDC to learn more about staying on top of legal responsibilities as a new small business\n\nIn the meantime, I've been looking ahead in my timeline and looking around for other resources. After getting legalities out of the way, my next step is to get a business bank account that will help me handle things especially during tax time. \n\nCurrently, I'm looking at Novo Bank and I'm thinking of using Quickbooks self-employed with it. However, it's starting to look like I don't need Quickbooks at all and that Novo actually takes care of all the banking and tracking? I'm not sure, to be honest. I'm just looking for small business owners who have seen the features and can lead me in the right direction. It's my first small business, so I'm still getting used to things.",
+        "engagement": 4,
+        "source": "smallbusiness__quickbooks self employed"
+      },
+      {
+        "id": "npidgt",
+        "title": "QUICKBOOKS SELF EMPLOYED SHAMELESSLY DAMAGING CANADIAN BUSINESSES",
+        "score": 0,
+        "comments": 2,
+        "date": 1622510512,
+        "selftext": "[removed]",
+        "engagement": 0,
+        "source": "smallbusiness__quickbooks self employed"
+      },
+      {
+        "id": "nj5kw2",
+        "title": "Any UK self employed people use quickbooks?",
+        "score": 1,
+        "comments": 3,
+        "date": 1621767957,
+        "selftext": "I was wondering if they are worth the cost, my accountant recommended them. \n\nAlso, is it safe to connect bank accounts?",
+        "engagement": 3,
+        "source": "smallbusiness__quickbooks self employed"
+      },
+      {
+        "id": "mfto19",
+        "title": "Any freelancer using QuickBooks Self-Employed over here for tax purposes?",
+        "score": 1,
+        "comments": 0,
+        "date": 1617036178,
+        "selftext": "[removed]",
+        "engagement": 0,
+        "source": "smallbusiness__quickbooks self employed"
+      },
+      {
+        "id": "kktkkm",
+        "title": "Freshbooks vs Quickbooks for Self Employed",
+        "score": 2,
+        "comments": 6,
+        "date": 1609029432,
+        "selftext": "Hi everyone, I've been using Freshbooks for almost 4 years and am looking to see if Quickbooks would be a better accounting/invoicing/time tracking software for me. I'm self employed and do service type work, and have zero employees. Occasionally I'll hire a subcontractor to help, but it's usually just myself doing the work.\n\nI love Freshbooks being very simple and easy to use, and love their time tracking tool. It is a MUST that I track my time since I do flat-rate or hourly rate work and need to stay within budget. I also work on retainer (prepayment of all services I render). The thing I dislike about Freshbooks is their retainer system is stubburn and doesn't allow me to adjust it as needed. So, I have to do workarounds for tracking payments/time for prepaid work to ensure I stay within my budgeted amount of time.\n\nI've tried Quickbooks once or twice, but I was turned off by TSheets for tracking my time. TSheets is advertised as tracking time for employees. Since I don't have any e",
+        "engagement": 12,
+        "source": "smallbusiness__quickbooks self employed"
+      },
+      {
+        "id": "ivyc17",
+        "title": "Quickbooks: Simple start or Self-employed?",
+        "score": 1,
+        "comments": 13,
+        "date": 1600541311,
+        "selftext": "Trying to determine what version I need. Been trying to research but can't find a good answer that fits my situation.\n\n1. Two truck owner operator LLC is filed as a S-corp.\n2. The two trucks will be leased to another company.\n3. Two managers, myself and my wife, both will be getting a salary. We will not be the drivers, we will be paying the drivers.\n4. Will have expenses related to running two trucks to include insurance, repairs, trailer rental, fuel, driver salary\n\nThere isn't enough information on the QB website to determine if I need the Simple Start or the cheaper Self-Employed option and I dont want to overpay for something I dont need.",
+        "engagement": 13,
+        "source": "smallbusiness__quickbooks self employed"
+      }
+    ],
+    "smallbusiness__QBSE alternative": [
+      {
+        "id": "1atxud6",
+        "title": "QBSE Alternative That Can Connect To Bank/CC Track Income/Expenses & Generate Schedule C/P&L Reports?",
+        "score": 1,
+        "comments": 1,
+        "date": 1708273319,
+        "selftext": "Hi,\n\nI'm finding QBSE to not be very stable.  Always seeing discrepancies when I run the same report it keeps showing different amounts which doesn't make sense to me.  In addition, they keep increasing their pricing.\n\nI'm looking for a website that works similar to QBSE, where I can do the following:  \n\n\n* Connect and automatically import transactions from bank accounts and credit cards\n* Be able to set up rules to properly categorize business Income and Expenses\n* Be able to generate a Schedule C / P&L at the end of the year so I can provide to my CPA\n\nCan you refer any other websites/apps that have the same/similar functionality as QBSE but performs a lot better?\n\nThank you.",
+        "engagement": 1,
+        "source": "smallbusiness__QBSE alternative"
+      }
+    ],
+    "freelance__schedule c": [
+      {
+        "id": "1pmo7uq",
+        "title": "I got tired of paying $30/mo for QuickBooks just to file a simple Schedule C, so I built my own tool.",
+        "score": 0,
+        "comments": 1,
+        "date": 1765744422,
+        "selftext": "[removed]",
+        "engagement": 0,
+        "source": "freelance__schedule c"
+      },
+      {
+        "id": "1pmo5p0",
+        "title": "I got tired of paying $30/mo for QuickBooks just to file a simple Schedule C, so I built my own tool.",
+        "score": 1,
+        "comments": 0,
+        "date": 1765744268,
+        "selftext": "[removed]",
+        "engagement": 0,
+        "source": "freelance__schedule c"
+      },
+      {
+        "id": "1p0214q",
+        "title": "Tax pros: is a minimal Schedule C app useful or redundant?",
+        "score": 1,
+        "comments": 0,
+        "date": 1763438423,
+        "selftext": "[removed]",
+        "engagement": 0,
+        "source": "freelance__schedule c"
+      },
+      {
+        "id": "1p0204i",
+        "title": "Freelancers — would a tiny Schedule C tracker like this help you?",
+        "score": 1,
+        "comments": 0,
+        "date": 1763438344,
+        "selftext": "[removed]",
+        "engagement": 0,
+        "source": "freelance__schedule c"
+      },
+      {
+        "id": "1h4rww8",
+        "title": " How much money are you losing on missed Schedule C deductions?",
+        "score": 0,
+        "comments": 0,
+        "date": 1733134853,
+        "selftext": "[removed]",
+        "engagement": 0,
+        "source": "freelance__schedule c"
+      },
+      {
+        "id": "1c3983c",
+        "title": "Tips for newbie/amateur freelance work for taxes, schedule C?",
+        "score": 1,
+        "comments": 0,
+        "date": 1713034626,
+        "selftext": "[removed]",
+        "engagement": 0,
+        "source": "freelance__schedule c"
+      },
+      {
+        "id": "5zk0ig",
+        "title": "Taxes: W9 or 1040(schedule c)?",
+        "score": 1,
+        "comments": 0,
+        "date": 1489591786,
+        "selftext": "[removed]",
+        "engagement": 0,
+        "source": "freelance__schedule c"
+      }
+    ],
+    "freelance__tax estimator": [
+      {
+        "id": "1qijq4l",
+        "title": "I built a privacy-focused tax estimator for 1099 workers (No sign-up required)",
+        "score": 0,
+        "comments": 0,
+        "date": 1768957777,
+        "selftext": "[removed]",
+        "engagement": 0,
+        "source": "freelance__tax estimator"
+      },
+      {
+        "id": "n4txnj",
+        "title": "Quarterly tax estimator for my LLC when I also have a W-2",
+        "score": 1,
+        "comments": 0,
+        "date": 1620148884,
+        "selftext": "[removed]",
+        "engagement": 0,
+        "source": "freelance__tax estimator"
+      }
+    ],
+    "freelance__schedule c calculator": [],
+    "IRS__schedule c": [
+      {
+        "id": "1s9g8ji",
+        "title": "Question about subtracting 1099-NEC income from Schedule C business income?",
+        "score": 0,
+        "comments": 3,
+        "date": 1775037819,
+        "selftext": "I've been running this business for over 20 years and doing my own taxes for the same time so I'm not sure if I'm just brain-farting or what but this has never confused me before. So let me try to explain the situation in a logical way, and then with numbers. Also for what it's worth, I'm using turbotax but this is in no way a turbotax question.\n\nI fix computers, so I hand bills to many customers over the year, and they pay me. I track everything, and at the end of the year, in addition to other separate business expenses and business income, I have the primary revenue I get from fixing computers, and the primary \"parts expenses\" for that specific revenue, which is like the cost of the solid state drive or the ram I put in your computer. I buy the parts, they go on the bill, customer pays me, so the amount they pay me is for the parts plus the labor. \n\nSo this business revenue gets entered as my business income, and then \"parts\" gets entered as a business expense. And the result is my ",
+        "engagement": 0,
+        "source": "IRS__schedule c"
+      },
+      {
+        "id": "1s4rkhp",
+        "title": "Schedule C Mail in Audit Question",
+        "score": 0,
+        "comments": 6,
+        "date": 1774578082,
+        "selftext": "I received a mail in audit for my schedule C for 2024. I pulled everything together they asked for, all receipts, and uploaded 38 pdf files to the exam reply portal. It told me the submission was complete but My question is how do I know if they actually received the files? Is there any way I can see if they are reviewing them?",
+        "engagement": 0,
+        "source": "IRS__schedule c"
+      },
+      {
+        "id": "1rq338v",
+        "title": "How many years can you claim a schedule c loss?",
+        "score": 1,
+        "comments": 3,
+        "date": 1773163222,
+        "selftext": "Those that have a side business, do you have a loss every year? ",
+        "engagement": 3,
+        "source": "IRS__schedule c"
+      },
+      {
+        "id": "1rnun7p",
+        "title": "\"Schedule C\" or \"Other Income\" for 1099-NEC",
+        "score": 2,
+        "comments": 6,
+        "date": 1772942455,
+        "selftext": "I'm using FreeTaxUSA to file our taxes. Last year, hubby was an independent contractor working for a company. He became a full time employee for that same company just last month. \n\nWe received his 1099-NEC and followed the instructions on the website. Got a bit confused because it was asking questions as if he was a small business owner and to link it to a business, which he doesn't have. Started over and filed it under Other Income instead. His 1099-NEC had instructions that said:\n\n\"If you are not an employee but amount in box 1 is not self-employment (SE) income (for example, it is income from a sporadic activity or a hobby), report the amount shown in box w on the \"Other Income\" line (on Schedule 1 (Form 1040))).\"\n\nI haven't fully submitted it yet and I've asked him to clarify with his accounting dept next week. We don't believe the 1099-NEC needs to be corrected. I just want to make sure we're doing this correctly. \n\nThank you.",
+        "engagement": 12,
+        "source": "IRS__schedule c"
+      },
+      {
+        "id": "1r8mncl",
+        "title": "Why did it update to this ? At the last slide am I good yall or what I filed 1/31(Saturday) accepted same day updated to blank transcript last Friday yes I’m path eitc and actc also schedule C",
+        "score": 1,
+        "comments": 6,
+        "date": 1771466889,
+        "selftext": "",
+        "engagement": 6,
+        "source": "IRS__schedule c"
+      },
+      {
+        "id": "1r4ksth",
+        "title": "Processing/New biz Schedule c",
+        "score": 2,
+        "comments": 1,
+        "date": 1771076182,
+        "selftext": "1. We moved and my transcript shows \"Return not filled\" all 0s with old address.\n\n2. Accepted return was Feb 6th with Free tax USA\n\n3. I have moved to a small side business with not many losses maybe 20K first year I have all reciepts for COG etc.  should be all profit going forward. So first time doing Schedule C I think I did it right with Pro Support Free Tax USA\n\n4.  I just got my State Return but WMR is stuck on accepted.\n\n5. I mailed in the new address form this week too.\n\n6. Only one of my 1099K is showing in the 2025 Transcript my big one is not nor is EBAY\n\nQuestion is does this slow down our small refund at all or just be patient? Any wisdom is helpful I know it has been just a week but the Schedule C is new to me. Thanks",
+        "engagement": 2,
+        "source": "IRS__schedule c"
+      },
+      {
+        "id": "1qvvrnm",
+        "title": "Letter from State Asking for Documentation for Federal Schedule C",
+        "score": 0,
+        "comments": 1,
+        "date": 1770228057,
+        "selftext": "Throw away account here. So, last night I received a notification from the department of revenue for Indiana that I needed to submit documentation for my federal schedule C. We called this morning and I left feeling more confused and frustrated. \n\n  \nSo to start, I sell on ebay and we both doordashed last year. I'm assuming those are the requests for documentation as these both have a schedule C on my return. \n\nWe filed a joint return, and went through turbotax this year. I did everything to the best of my ability. I'm assuming this should only affect my state taxes and not federal but I'm unsure. We both have untreated adhd as we are basically living in poverty and are uninsured. I did not do the best tracking. I saved receipts for items I purchased. I know that most of our miles on the vehicles are from business expenses. I'm basically sitting here frozen and unsure what steps to take. The adhd side of me wants to just ignore it. I know that normal people wouldn't do that. I truly do",
+        "engagement": 0,
+        "source": "IRS__schedule c"
+      },
+      {
+        "id": "1qukdwz",
+        "title": "How to correctly file 1099 and schedule c",
+        "score": 1,
+        "comments": 2,
+        "date": 1770099588,
+        "selftext": "I need a little help here. I’m helping my mom file her schedule c and 1099 for DoorDash and Instacart and I’m confused. Last year, she did get a return on reporting her mileage which doubled this year. 12k miles and 9k in deduction. However, this year when she adds them in, it takes away what small return she had. And as some other rude Redditor pointed out, yes, I am aware that you have to pay your d\\*mn taxes when you have income. I’m not stupid. What I’m having trouble understanding is how double the deduction and millage is making an $800 return a $0 return when last tax season, she was able to get a return with less. A reasonable one at that. Is this because tips aren’t taxed anymore so it’s coming out of miles or is there just something she and I are both missing in the filing? In MO btw",
+        "engagement": 2,
+        "source": "IRS__schedule c"
+      },
+      {
+        "id": "1qrisrt",
+        "title": "Fake deductions on schedule c",
+        "score": 1,
+        "comments": 0,
+        "date": 1769808890,
+        "selftext": "I just looked over my 2023 and 2024 tax return, I am a w2 employee that cuts grass on the side. A “friend” I work with suggested me to a tax preparer that could get me a refund, sounded good to me so I went through with it, don’t know much about taxes and thought this person would be legit. Little did I know in 2023 the preparer claimed -73k in deductions and in 2024 deducted another -45k in deductions. Mind you, I can only probably prove about 5k total for both years. A truck that I no longer own was also depreciated (I just didn’t understand how a vehicle write off worked so that may be on me for not understanding you have recapture on it when disposed of). In 2023 I went from owing 7k total to getting 9k back, and 2024 was owing about 6k and getting 3k back. Sounds good and I guess I was too scared to look into it until now and I 100% understand why the swings are so large.\n\nIf audited, I couldn’t prove the deductions. I fucked up and I understand that just as much as everyone is go",
+        "engagement": 0,
+        "source": "IRS__schedule c"
+      },
+      {
+        "id": "1qplakw",
+        "title": "Help with Schedule C",
+        "score": 1,
+        "comments": 11,
+        "date": 1769628438,
+        "selftext": "Hey!\n\nIn 2023 and 2024 I had been teaching english online as a side gig (I make most of my money as a W2 worker). I had been filing schedule C as a sole proprietor, under my own name and SSN.\n\nIn 2025 I had no business activity, I taught zero lessons and didn't have any business-related purchases. I will probably start teaching again in 2026, but is isn't a sure thing yet. \n\nThe thing is I have a laptop I bought for teaching these lessons which I declared as business expense and have on a depreciation schedule. \n\nWhat should I do for my 2025 tax return? Should I file a schedule C, declare zero income and keep the depreciation schedule running (form 4562) writing off a few dollars as an expense according to that?\n\nOr not file a schedule C at all? \n\nI am a little lost here. Any help would be appreciated!",
+        "engagement": 11,
+        "source": "IRS__schedule c"
+      },
+      {
+        "id": "1oi7z1e",
+        "title": "Parent is self employed yet doenst have Schedule C or SE",
+        "score": 3,
+        "comments": 27,
+        "date": 1761654418,
+        "selftext": "What title says I’m applying to college and schools require the Schedules since my mom doenst have a W-2 and I’m looking at her taxes and the only thing she has is her filing taxes, the child tax. Even in her responsibilities when it asks if the tax person made her file the schedule C if she’s self employed it says n/a. I don’t understand and am worried. She doenst know anything either  ",
+        "engagement": 81,
+        "source": "IRS__schedule c"
+      },
+      {
+        "id": "1k3n590",
+        "title": "Schedule C and Foreign Earned Income and Exclusion",
+        "score": 1,
+        "comments": 4,
+        "date": 1745157527,
+        "selftext": "I have been living in China for 365+ days and have not been back to the USA since. I filed my taxes recently, and I was told I did not owe anything in taxes since all of my income was made and taxed already in China, but the IRS sent me a letter saying I was missing a Schedule C. I put all of my income under Foreign Earned Income and Exclusion originally, but they said I also need a Schedule C to attach to it.\n\n\nWhen I tried to add the Schedule C with my income, I was told I would then owe both State and Federal taxes. Has anyone else filed as an expat? Am I supposed to put $0 on the Schedule C since I have not been in the USA, and then I can use the Foreign Earned Income and my FBAR as proof of my foreign earnings (nontaxable)? Or am I supposed to pay a self-employed income tax yearly to the USA?",
+        "engagement": 4,
+        "source": "IRS__schedule c"
+      },
+      {
+        "id": "1jrf0dx",
+        "title": "Question about Schedule C",
+        "score": 1,
+        "comments": 1,
+        "date": 1743781353,
+        "selftext": "The CPA at my husband's job prepared our taxes and that resulted in a 1040, Schedule 1, and Schedule C (husband has business deductions).  I do not want to file by sending by mail (given what's going on with the government)  so I asked how we file the forms digitally.  I was directed to a website that redirected to [IRS.gov](http://IRS.gov) and basically looks like the only option is to use fillable forms.  I started that process and everything was fine until Schedule C line 30 and 31.  Our prepared taxes have a negative amount  on line 29 that is also in 30 and 31.  However, I have no idea on the freefillableforms how to get that number to autopopulate into 30 and 31--not sure how the CPA did it without doing an 8829.  It's the only hangup I'm having that's keeping me from being able to finish. Any insight into the fillable forms?  (yes, I know we can reach out to him, trying to figure this out as a last ditch effort before doing it since it took almost 2 months to get them back in th",
+        "engagement": 1,
+        "source": "IRS__schedule c"
+      },
+      {
+        "id": "1jmbg7q",
+        "title": "IRS Schedule C Audit Concerns:",
+        "score": 1,
+        "comments": 3,
+        "date": 1743212407,
+        "selftext": "On a return I helped a friend file, they have a schedule c photography business where they essentially broke even in 2021/2022, but had losses on in it 2020 and 2023 respectively, of about 6k in 2020 and 12k in 2023.\n\nI think there is a more than sound argument if audited that they materially participated in the business. They have over 500 hours in it a year, they have invested 20,000 dollars in prints and inventory (shown as inventory in the cost of goods sold section on the schedule c not being deducted yet), they have a website to purchase prints, a social media page for marketing, have had their art displayed in coffee shops to purchase, and they attend 2-3 art bazaars a year with booths.\n\nAnd the photographs are great, they just haven’t had any luck, hence the expenses and fairly consistent losses.\n\nMy fear is the IRS auditing it and coming back and saying it is a hobby and disallowing the losses. I already calculated the impact, and if they fully disallowed the losses it would r",
+        "engagement": 3,
+        "source": "IRS__schedule c"
+      },
+      {
+        "id": "1jgrz4a",
+        "title": "Schedule C - tax preparer error",
+        "score": 1,
+        "comments": 6,
+        "date": 1742592249,
+        "selftext": "I’ll be receiving a C12 letter in a few days, and while I was going through my tax return, I noticed that there is a schedule C. I’ve only done taxes for 2 years(since 18yo) and I think it should be on my return. \n\nCan I amend while C12 notice is in effect? Also, do I have to wait to report tax preparer ?",
+        "engagement": 6,
+        "source": "IRS__schedule c"
+      },
+      {
+        "id": "1jgp2ud",
+        "title": "I’m being sent a C12 letter and as I was reviewing my return, I’m starting to think my tax preparer shouldn’t have included a schedule C. This is only my second year filing, so I’m not sure. Can I amend if necessary or just wait for the C12 ?",
+        "score": 1,
+        "comments": 0,
+        "date": 1742584852,
+        "selftext": "[removed]",
+        "engagement": 0,
+        "source": "IRS__schedule c"
+      },
+      {
+        "id": "1jewz0t",
+        "title": "If I didn't personal income but had business income, do I leave my individual 1040 blank and just fill out schedule C?",
+        "score": 0,
+        "comments": 7,
+        "date": 1742390933,
+        "selftext": "I filled out my Schedule C, I also filled out the first part of my individual 1040, just the the parts with my personal information like address name social and other things. I didn't have any personal income, but I did have business income, for the business income that I had as gross profit OK my schedule c do I add that profit to my to my Individual 1040? Or do I just leave my individual 1040 part with the income section empty since I didn't have any individual income. (Again I didn't have any individual income at all but did profit from my business, but it felt weird leaving the majority of the individual 1040 empty so I just wanted to make sure I was doing that right)\n\n",
+        "engagement": 0,
+        "source": "IRS__schedule c"
+      },
+      {
+        "id": "1ilhzqi",
+        "title": "Schedule C - FreeTaxUSA approved!",
+        "score": 2,
+        "comments": 1,
+        "date": 1739117099,
+        "selftext": "Doing a schedule C is terrifying the first time. Itemizing and paying your own taxes is a lot. I use an online business bank I found here on Reddit. Throughout the year it sets aside tax money automatically & tracks your itemizations. At the end of the year the bank gives me instructions on a schedule C. \n\nI tried TurboTax and would’ve needed their $169 version. Numbers and input kept not adding up. My bank had a lot of standard itemization categories and about a quarter of them were missing on TurboTax’s entry. I tried Column Tax (free with my bank) and got good numbers. So I saw someone post here about FreeTaxUSA now does schedule C.  I used them a few years back when I had simple W-2s. \n\nTheir Schedule C process was painless and their instructions were great.\n\nApproved and refunded as of this morning! \n\nIf you have a schedule C feel free to use FreeTaxUSA. I only paid $14.99 to file state. I also paid the extra $20 for audit defense just in case. ",
+        "engagement": 2,
+        "source": "IRS__schedule c"
+      },
+      {
+        "id": "1ihdqb7",
+        "title": "1099nec Schedule C filing help",
+        "score": 1,
+        "comments": 3,
+        "date": 1738660404,
+        "selftext": "I do gig work and I have been going crazy for hours trying to file today. Is anyone familiar with this that can help me out? I'm unsure of how to calculate the information needed.",
+        "engagement": 3,
+        "source": "IRS__schedule c"
+      },
+      {
+        "id": "1i9f1ki",
+        "title": "Letter from state (IN)regarding schedule c",
+        "score": 0,
+        "comments": 9,
+        "date": 1737779297,
+        "selftext": "Can anyone tell me what exactly this means? I sent this letter to our tax preparer but it’ll be at least Monday before we hear anything and I have ✨anxiety✨ that doesn’t want to wait that long. We filed with one w2 and one 1099- the 1099 was contract work that we were paid for by a company and we didn’t list any expenses so I’m not sure what they want. I wonder if this will affect our federal return as well. ",
+        "engagement": 0,
+        "source": "IRS__schedule c"
+      }
+    ],
+    "IRS__1099": [
+      {
+        "id": "1t5hfkf",
+        "title": "Letter 324c for 1099",
+        "score": 1,
+        "comments": 1,
+        "date": 1778083837,
+        "selftext": "Hi I received letter 324c asking for a copy of the 1099r for my amended return. But it doesn't specify which address to use, only one I see is on top of the letter to Philadelphia. Should I mail it there? I tried to call but was on hold for an hour then got transferred and to hold again from the beginning. ",
+        "engagement": 1,
+        "source": "IRS__1099"
+      },
+      {
+        "id": "1t4wb4f",
+        "title": "1099 Update on Tax Wage Transcript",
+        "score": 2,
+        "comments": 16,
+        "date": 1778024440,
+        "selftext": "Question \n\nDoes anyone who received a 1099 for tax year 2025 see their 1099 on their tax wage transcripts yet? Mine is still not showing/updated yet. I am pretty sure this is why I haven’t received my tax refund yet and I am very impatient right now. ",
+        "engagement": 32,
+        "source": "IRS__1099"
+      },
+      {
+        "id": "1t4ewu1",
+        "title": "Should 1099-G appear on income transcript?",
+        "score": 0,
+        "comments": 2,
+        "date": 1777986329,
+        "selftext": "We filed our 2025 return in early March and it's still on \"received\". I lost my job last year, so I had 2 employers + a short time on unemployment. For a while, only my current (new) employer was listed on my 2025 income transcript. Now my previous employer is listed as well, but not my 1099-G from unemployment received. Should this also appear on my income transcript for 2025?\n\nLooking at my previous income transcripts from 2023 and 2024, there is also 1098 mortgage interest, 1099-INT, but I don't see those on my 2025 income/wage transcript.   \n  \nAlso, there should be a 1099-R listed because I had to take some $ from my retirement account when I was between jobs, but it's not on my 2025 income/wage transcript. \n\nIs the 1098 and 1099 info added during processing?",
+        "engagement": 0,
+        "source": "IRS__1099"
+      },
+      {
+        "id": "1t2o3qy",
+        "title": "1099-SA forgot to file what to do now?",
+        "score": 1,
+        "comments": 9,
+        "date": 1777821163,
+        "selftext": "I just found out that I received 1099-SA but I forgot to file it this year. It has a gross distribution of roughly $1500 and I used them for paying out of pocket medical expenses after insurance coverage (I think they are qualified medical expenses and thus non-taxable?). I know I need to amend the return, but IRS is STILL processing my return and I have a big refund (roughly $25k) due to I overpaid my quarterly estimated tax. The question here is shall I amend the return right now? Or wait for IRS finishes processing and refund? The concern is I’m not sure if amending right now would further delay the refund. Thank you! ",
+        "engagement": 9,
+        "source": "IRS__1099"
+      },
+      {
+        "id": "1t2apzt",
+        "title": "Missing 1099 R Form",
+        "score": 1,
+        "comments": 1,
+        "date": 1777780338,
+        "selftext": "[removed]",
+        "engagement": 1,
+        "source": "IRS__1099"
+      },
+      {
+        "id": "1szxral",
+        "title": "1099 questions",
+        "score": 1,
+        "comments": 9,
+        "date": 1777559478,
+        "selftext": "I’m accepting a new job as a hourly employee but was told I’ll be filing a 1099. Is this something to call for concern? And going forward will I be able to write off expenses for travel to and from the job site as well as tools? And is there anything else I should consider tax wise?",
+        "engagement": 9,
+        "source": "IRS__1099"
+      },
+      {
+        "id": "1sxqbq8",
+        "title": "CP2566 and 1099 rather than 1040",
+        "score": 3,
+        "comments": 3,
+        "date": 1777348372,
+        "selftext": "My 90 yr old Grandmother is blind and deaf and they flagged her with a CP2566 for a return 3 years ago. They say she owes $3600.\nI have the filed tax return and the cashed check by the IRS. Just sent it in. \n\nHer grandson got flagged by a company that filed a 1099 instead of a 1040 and now says he owes $4k. He was definitely an employee.\nI told him we can send a form asking for reclassification but he just paid it because he is tired of fighting everything in his life as a veteran and doesn’t want to lose his job.\nHe makes less than 40k a year.\n\nWhere the hell is this kind of aggressive behavior coming from?\n\n",
+        "engagement": 9,
+        "source": "IRS__1099"
+      },
+      {
+        "id": "1sxmcez",
+        "title": "Only reporting 1099's that are being sent",
+        "score": 1,
+        "comments": 11,
+        "date": 1777337624,
+        "selftext": "Hello everyone, so recently I've been starting to resell items I get from the bins and selling them on places like depop, mecari, vented, etc... Ive made my spreadsheet to keep track of everything so it's easy to keep track of things for when tax season comes my way. I spoke to people at the bins and they told me inventory they can't sell they usually just sell it to 2nd hand stores for cash, or to people in person,  but on they're spreadsheets instead of writing how much they got paid for it they write it down as donation, claiming they donated it, and claim they only report what's sent to them? so for example if eBay sent them a 1099, they'd only file the taxes made through eBay and not bother to file another 1099 for the cash transactions. Is this common for people to do? is there a possibility of an audit coming their way? will the IRS eventually find out about those cash transactions? how do they get away with it? it just had me thinking that for the thousands of dollars they make",
+        "engagement": 11,
+        "source": "IRS__1099"
+      },
+      {
+        "id": "1suxksz",
+        "title": "Is the 1099-NEC limit $600 or $20k?",
+        "score": 0,
+        "comments": 14,
+        "date": 1777078314,
+        "selftext": "I know the One Big Beautiful Bill reverted the 1099-NEC threshold to $20,000. But one source said it depends on the state, and yet another one said it's going back to $600 in 2026. Don't know what to believe. Can anyone clarify? ",
+        "engagement": 0,
+        "source": "IRS__1099"
+      },
+      {
+        "id": "1suw8kt",
+        "title": "So is a 1099-K threshold $600 or $20k now? So confused.",
+        "score": 1,
+        "comments": 5,
+        "date": 1777074654,
+        "selftext": "I know the One Big Beautiful Bill reverted the 1099-K threshold to $20,000. But one source said it depends on the state, and yet another one said it's going back to $600 in 2026. Don't know what to believe. Can anyone clarify?",
+        "engagement": 5,
+        "source": "IRS__1099"
+      },
+      {
+        "id": "1su2m9f",
+        "title": "1099-C filed with IRS by Ally Financial",
+        "score": 6,
+        "comments": 17,
+        "date": 1776996908,
+        "selftext": "Been dealing with penalty and IRS saying I owe for debt forgiven by Ally Financial. It’s taken months of back and forth, but I did a voluntary repo of an old car back in 2011 with GMAC and was told that’s all I needed to do. In 2012 I saw in my credit report that the amount had been written off and the account closed. Nothing has happened for all this time. Nearly 15 years later and apparently Ally wrote off $16k in 2023, but I wasn’t notified of anything til an IRS letter saying I owe them nearly $5k in back taxes and fees. IRS wants me to handle this with Ally, there is no 1099C department and all they do is waste my time. I tried to file fraud after months of attempts to speak someone, and now Ally says it’s legitimate. Forgiveness isn’t the same as Writing off debt, and I’m screwed basically. They won’t correct the 1099-C. Any tips or advice? ",
+        "engagement": 102,
+        "source": "IRS__1099"
+      },
+      {
+        "id": "1ss1afj",
+        "title": "Can I file 1099 INT for individual?",
+        "score": 0,
+        "comments": 1,
+        "date": 1776806625,
+        "selftext": "I borrowed money from an individual and then lent that same money to an LLC at a higher interest rate. The LLC paid me interest and issued me a 1099-INT. I reported that interest income on my tax return.\n\nNow I’ve realized that since I’ve paid some interest back to the individual I borrowed from. Can I issue a 1099-INT to that individual for the interest I paid them?   \n  \nIf so, could I amend my return to deduct that interest expense, effectively reducing my taxable income from the LLC’s interest payments?\n\nThanks for any clarification",
+        "engagement": 0,
+        "source": "IRS__1099"
+      },
+      {
+        "id": "1sr63yp",
+        "title": "The joys of 1099 work. I vow to pay quarterly next year!",
+        "score": 1,
+        "comments": 0,
+        "date": 1776726294,
+        "selftext": "",
+        "engagement": 0,
+        "source": "IRS__1099"
+      },
+      {
+        "id": "1sqwt1f",
+        "title": "Refund delay- missing 1099-R",
+        "score": 1,
+        "comments": 9,
+        "date": 1776707483,
+        "selftext": "Filed 2/3, verified 3/13, transcripts uploaded around 4/1 and I have a CP005 scheduled for next week 4/27. \n\nFinally got someone on the phone at IRS today and seems like the issue is missing 1099-R. \n\nWe had a large disbursement from a 401k (my husband was between jobs so had to take it out and wait for new job to transfer, so it was taxed)\n\nHas anyone else run into this? How did you send in the forms? Does turbo tax do it or do I send it in? \n\nWe were sent the form in January so it’s really strange the irs doesn’t have it. \n\nAt this point I’ll walk it in myself just to get this done with 😆 ",
+        "engagement": 9,
+        "source": "IRS__1099"
+      },
+      {
+        "id": "1sqmco6",
+        "title": "Is it normal to spend so much time fixing data before 1099 filing?",
+        "score": 1,
+        "comments": 1,
+        "date": 1776683942,
+        "selftext": "[removed]",
+        "engagement": 1,
+        "source": "IRS__1099"
+      },
+      {
+        "id": "1sqmbgk",
+        "title": "Every client sends different format… how do you handle 1099 prep?",
+        "score": 1,
+        "comments": 1,
+        "date": 1776683845,
+        "selftext": "[removed]",
+        "engagement": 1,
+        "source": "IRS__1099"
+      },
+      {
+        "id": "1spwtcy",
+        "title": "1099-R's Slowing things down?",
+        "score": 1,
+        "comments": 5,
+        "date": 1776614229,
+        "selftext": "I filed March 31st that included two 1099-R's. One was for an early withdrawal from a Roth IRA (Disability code) and the other was cashing out a 401k (Rule of 55 Code). I'm getting a federal refund as both withdrawals were forcibly taxed in order to withdraw and both deducted a set amount of state and federal taxes. There was also a college tuition credit, one dependant and a single W2. I filed at the same time was my daughter who had three W2's with the same preparer. She recieved her federal return on April 9th and I'm still waiting with no updates on the WMR site. If it matters, my daughter and I did recieved state tax refunds a week ago both on the same day. I realize it' not quite been 21 days yet, but just curious if the 1099-R's (or the other filings) can slow things down and if so ,what sort of time frame I could be looking at? ",
+        "engagement": 5,
+        "source": "IRS__1099"
+      },
+      {
+        "id": "1so922w",
+        "title": "1099 NEC but accidentally filed as W2",
+        "score": 1,
+        "comments": 1,
+        "date": 1776449947,
+        "selftext": "So I filed my taxes on March 10 it was approved. I have my 1099. \n\nI filed on my own using tax act \n\nI now have a hold on My Account eight 570 code and 971. When I called today, the IRS said they did not have my income from my employer(spark Walmart delivery) and when I went to look at my return transcripts, I realized it says W-2. And not 1099. \n\nI’m not sure if I accidentally filed as a W-2 or 1099 how do I figure that out? \n\nAnd if I accidentally filed as a W-2 and not a 1099 should I go file an amended return with a tax person ?",
+        "engagement": 1,
+        "source": "IRS__1099"
+      },
+      {
+        "id": "1smpidd",
+        "title": "Missing 1099 nec from 2024",
+        "score": 0,
+        "comments": 4,
+        "date": 1776303334,
+        "selftext": "I was reviewing my IRS transcript and saw that there was a 1099 NEC from 2024 that I didn’t report. The employer never sent it to me, and I thought I had earned under the threshold but it turns out I earned $840. Can somebody tell me what to do next? I’m freaking out. thank you.",
+        "engagement": 0,
+        "source": "IRS__1099"
+      },
+      {
+        "id": "1sln1wb",
+        "title": "Need to file by mail and not e-file.  Do i need to include all 1099's? what about 1098 mortgage statements?",
+        "score": 2,
+        "comments": 4,
+        "date": 1776204129,
+        "selftext": "",
+        "engagement": 8,
+        "source": "IRS__1099"
+      }
+    ],
+    "tax__self employed": [
+      {
+        "id": "1t62rxn",
+        "title": "Self-employed tax headaches help!",
+        "score": 1,
+        "comments": 0,
+        "date": 1778136783,
+        "selftext": "[removed]",
+        "engagement": 0,
+        "source": "tax__self employed"
+      },
+      {
+        "id": "1t20kd3",
+        "title": "Meal Reimbursements From Clients for Self-Employed",
+        "score": 8,
+        "comments": 17,
+        "date": 1777753049,
+        "selftext": "I was looking at Pub 463 to figure out something else when I stumbled upon this section:\n\n  \n\n\n    Accounting to Your Client\n    \n    If you received a reimbursement or an allowance for travel, or gift expenses that you incurred on behalf of a client, you should provide an adequate accounting of these expenses to your client. If you don’t account to your client for these expenses, you must include any reimbursements or allowances in income. You must keep adequate records of these expenses whether or not you account to your client for these expenses.\n    \n    If you don’t separately account for and seek reimbursement for meal and entertainment expenses in connection with providing services for a client, you are subject to the 50% limit on those expenses. See 50% Limit in chapter 2.\n\n\n\nSurely I'm reading this wrong, but this reads to me that \"IF you get reimbursement from a client for travel/gifts AND you properly account for it to them, THEN you do not have to report it as income AND yo",
+        "engagement": 136,
+        "source": "tax__self employed"
+      },
+      {
+        "id": "1t12jrf",
+        "title": "Compared effective tax rates for self-employed across EU countries — some of the nomad visa regimes are extraordinary",
+        "score": 0,
+        "comments": 4,
+        "date": 1777661960,
+        "selftext": ">\n\nMost rate calculators online make the same mistake: they only subtract income tax from your target salary. They ignore self-employment / social contribution tax entirely.\n\nIn the US, that's an extra **14.13%** on top of income tax. In France it's **22%**. In Sweden it's **28.5%**. This isn't a rounding error — it's the difference between quoting $85/hr and going broke.\n\nThe formula that actually works:\n\n1. Start with your target take-home\n2. Gross up for **income tax + self-employment tax combined**\n3. Then add your overhead (health insurance, equipment, pension, software — usually 15–20%)\n4. Then divide by your actual billable hours (not 52 weeks × 40 hrs — account for vacation, sick days, admin time)\n\nMost freelancers skip steps 2 and 3 entirely and end up undercharging by 30–40%.\n\nI built a free tool that does this properly for 40 countries.   \nHappy to share the link if mods allow — didn't want to post it unprompted.",
+        "engagement": 0,
+        "source": "tax__self employed"
+      },
+      {
+        "id": "1so12bg",
+        "title": "Self-employed in year one? The expense deductions most people miss until it's too late",
+        "score": 1,
+        "comments": 0,
+        "date": 1776432610,
+        "selftext": "First year of self-employment hits differently at tax time. Here are the deductions I see people leave on the table most often.\n\n**Home office**\n\nIf you have a space used *regularly and exclusively* for business — even a dedicated corner of a room — you can deduct a portion of your housing costs. The simplified method: $5/sq ft, up to 300 sq ft ($1,500 max). No receipts, no form complexity. The regular method (actual expenses: rent/mortgage interest × business percentage) takes more work but can be larger. \n\nThe bonus: once you qualify for a home office, your drive from home to your first job site becomes business mileage, not a commute.\n\n**Vehicle expenses**\n\nTwo methods — pick one at the start of the year and stick with it for that vehicle:\n\n- *Standard mileage rate*: 67 cents/mile for 2024. Simple. Keep a mileage log (date, destination, purpose, miles).\n- *Actual expenses*: gas + insurance + repairs + depreciation, multiplied by business-use percentage. Wins if you drive a lot or ha",
+        "engagement": 0,
+        "source": "tax__self employed"
+      },
+      {
+        "id": "1smoyqu",
+        "title": "Self-employed income, no 1099 forms. All checks from clients. No deductions except standard deduction. $250K income. Always have properly paid my taxes but curious if you are in a similar situation and have been randomly audited ever? Or is it more people who have deductions etc?",
+        "score": 1,
+        "comments": 1,
+        "date": 1776301845,
+        "selftext": "",
+        "engagement": 1,
+        "source": "tax__self employed"
+      },
+      {
+        "id": "1smg63u",
+        "title": "Self-employed health insurance deduction and PTC",
+        "score": 1,
+        "comments": 7,
+        "date": 1776281147,
+        "selftext": "I work in part as a freelance artist, and a portion of my income is schedule C business income. \n\nI am confused about whether I qualify for the self-employed health insurance deduction. I am not offered health insurance by any of my part-time jobs, and I purchase health insurance on the exchange at a reduced price due to premium tax credits. I received these discounts upfront and actually have to repay some due to a higher income than expected this year. Am I able to deduct the amount I actually paid for health insurance using the self-employed health insurance deduction?",
+        "engagement": 7,
+        "source": "tax__self employed"
+      },
+      {
+        "id": "1sldn8z",
+        "title": "First year filing married jointly + self-employed",
+        "score": 1,
+        "comments": 0,
+        "date": 1776183994,
+        "selftext": "[removed]",
+        "engagement": 0,
+        "source": "tax__self employed"
+      },
+      {
+        "id": "1sknymo",
+        "title": "Recieved a 1099K for rebates, but do not want this counted as income on my tax return. I am a self employed online seller, so I have a 1099k already for my business. What do I do?",
+        "score": 0,
+        "comments": 16,
+        "date": 1776114143,
+        "selftext": "I’ve recently gotten into rebates and refunds for products and received a 1099K because of it. I’m not sure how to enter this into my taxes without being taxed on it, because although it’s on a 1099K, it isn’t taxable income. I’m using freetaxusa, and would love some help. Thanks! ",
+        "engagement": 0,
+        "source": "tax__self employed"
+      },
+      {
+        "id": "1sixzx1",
+        "title": "self employed COGS question",
+        "score": 1,
+        "comments": 3,
+        "date": 1775949276,
+        "selftext": "Last year I filed with a tax prepare, but this year I am doing my own taxes. I’m using taxfreeusa and I’ve come to COGS portion, it’s asking me the value of inventory at the beginning of the 2025 tax year, it says that it is the ending inventory of the 2024 year. My problem is, the person who did my taxes last year never asked me this, I found my schedule c from last year and that part is blank. I do not know the value, but it’s not letting me skip this. What should I do?",
+        "engagement": 3,
+        "source": "tax__self employed"
+      },
+      {
+        "id": "1si44k3",
+        "title": "If I’m not self employed, do I have to pay ES?",
+        "score": 1,
+        "comments": 12,
+        "date": 1775867363,
+        "selftext": "Hi!\n\nI received a $10000 award from my company that they did not declare on my W2 but instead on a 1099-MISC as it was through their national organization. As a result I had to pay more than $2000 in taxes. \n\nTurboTax then told me I have to pay Federal and Stare estimated taxes for 2026 because of this. What happens if I don’t pay because I don’t expect to win this award again?",
+        "engagement": 12,
+        "source": "tax__self employed"
+      },
+      {
+        "id": "1shofxu",
+        "title": "As self employed, where do I enter the mortgage interest and property taxes for the best deduction?",
+        "score": 0,
+        "comments": 9,
+        "date": 1775831980,
+        "selftext": "My wife and I are MFJ. We both work from home, and are both self employed with our own businesses.\n\nWhere do we enter our property taxes and mortgage interest, and how much for each? \n\nWe’ve done it on Form 8829 (Business use of our home), but if we enter the full amount for both of us, it shows as if we paid twice as much than we actually did on Schedule A. \n\nAre we supposed to divide the property tax in half between the two of us?",
+        "engagement": 0,
+        "source": "tax__self employed"
+      },
+      {
+        "id": "1shd8k8",
+        "title": "Do I have to take the self-employed health insurance deduction?",
+        "score": 3,
+        "comments": 10,
+        "date": 1775797930,
+        "selftext": "Last year I was unemployed and bought health insurance through the marketplace. I also had a small side income that I am reporting on Schedule C.\n\nMy tax software is suggesting I take the self-employed health insurance deduction. But if I do that, my income drops low enough that I no longer qualify for the premium tax credit. If I don’t take the deduction, I can get the credit.\n\nI’ve seen comments on Reddit saying you’re supposed to take every deduction you’re eligible for, but I don’t know if that applies here or just to business expenses. The IRS wording says I can take this deduction, not that I must.  \n  \nDo I actually have to take this deduction, or can I skip it if it benefits me more not to?",
+        "engagement": 30,
+        "source": "tax__self employed"
+      },
+      {
+        "id": "1sfuwya",
+        "title": "My wife and I both are self-employed, working from home. How do we split utility bills on the Use of Your Home form?",
+        "score": 1,
+        "comments": 3,
+        "date": 1775659484,
+        "selftext": "My wife and I are MFJ, we both have our own businesses and work from home, with separate offices. \n\nI’ve always wondered how to enter the cost of utilities when we file our taxes. Do we split the bills down the middle, and enter half on each of our Form 8829? \n\nOr, would it be beneficial to enter all utility costs on just one of us? \n\nMy wife’s office is slightly larger than mine. ",
+        "engagement": 3,
+        "source": "tax__self employed"
+      },
+      {
+        "id": "1sfgp40",
+        "title": "IRS Tax Withholding Estimator for Self Employed",
+        "score": 0,
+        "comments": 3,
+        "date": 1775616154,
+        "selftext": "I’m waiting on my tax return from my CPA and have a bad feeling that even though I overpaid on my estimated taxes this year, it may not have been enough because of an income increase.\n\nI’m fully self employed, but came across the IRS tax Withholding Estimator tool. It says it’s designed for those with w-2 income, but it has a section for self employment income and let me proceed with getting a withholding estimate despite not entering any W-2 income.\n\nMy question is, is this calculator missing any elements that would need to be considered to get an accurate estimate for someone who only has self employment income? Like does it take self employment tax into consideration as well as income tax?\n\nAny advice would be helpful.",
+        "engagement": 0,
+        "source": "tax__self employed"
+      },
+      {
+        "id": "1sfgde8",
+        "title": "OBBBA Tip Deductions for Self Employed",
+        "score": 1,
+        "comments": 3,
+        "date": 1775615233,
+        "selftext": "I got a hefty amount of tips this year through my streams and art. But I just can’t for the life of me find a section on FreeTaxUSA for it. My payments were split from PayPal, Patreon, and Zelle. So\n\nI didn’t receive a 1099. However, I did try and make a dummy 1099 NEC on Freetax. Still can’t find how to input that deduction for tips. Any advice? ",
+        "engagement": 3,
+        "source": "tax__self employed"
+      },
+      {
+        "id": "1sfg1mx",
+        "title": "Student with TIN + self-employed registration — didn’t file taxes, what should I do? (PH)",
+        "score": 1,
+        "comments": 0,
+        "date": 1775614337,
+        "selftext": "Hi everyone, I really need some advice regarding my tax situation. I’m honestly confused and a bit worried.\n\nI’m a student, and I think I may have messed up my taxpayer obligations because I didn’t fully understand how things work before.\n\nHere’s my situation:\n\n\t•\tI got my TIN back in 2022 when I briefly worked at a call center (only stayed for about 2 months).\n\n\t•\tIn 2023, I registered as a self-employed/individual taxpayer because I was earning a small amount from game streaming. I actually only did this because the agency I joined back then (for streamers/vloggers) required us to register this way, so I just followed what they told us to do. (this is a known agency here in PH)\n\n\t•\tThe income was very minimal — around PHP 5,000 or less every 2–3 months, and not even consistent. I only did it to help with my school expenses.\n\nThe problem is:\n\nI never filed any quarterly or annual taxes because I honestly didn’t know the process, and I was mainly focused on my studies.\n\nNow I’m worried",
+        "engagement": 0,
+        "source": "tax__self employed"
+      },
+      {
+        "id": "1sfdbrc",
+        "title": "Self-employed YouTuber - can I deduct miles driving to a coworking space to work on my business?",
+        "score": 1,
+        "comments": 5,
+        "date": 1775607076,
+        "selftext": "I have a W-2 job and also run a YouTube channel as a sole proprietor (Schedule C). My W-2 employer happens to use WeWork and allows employees to use any location freely, including on weekends for personal use.\n\nOn my days off I sometimes drive to WeWork specifically to script, edit, and work on YouTube content. I also occasionally go to coffee shops for the same reason.\n\nI understand commuting miles to my W-2 job are not deductible. My question is specifically about trips where the sole purpose is working on my YouTube business. Scripting videos, editing footage, responding to collaboration emails, etc.\n\nAre those miles deductible on Schedule C? And does it matter that the destination (WeWork) is also where I go for my W-2 job on other days?",
+        "engagement": 5,
+        "source": "tax__self employed"
+      },
+      {
+        "id": "1sf9cu7",
+        "title": "5695 Residential Energy Credit for Self Employed",
+        "score": 0,
+        "comments": 2,
+        "date": 1775597380,
+        "selftext": "I may have gotten screwed over in buying a more expensive wood stove than I needed to because I thought I would get this tax credit for it.\n\nI am attempting to take the Residential energy property expenditures credit for a wood stove that I installed in my home in 2025, but I am self employed and my gross income is just barely above the standard deduction.  My adjusted gross income is even lower with all of my deductions.\n\nBy following all of the instructions I'm coming up with 0 on the 5695 energy efficient home improvement credit limit worksheet from line 31, which I believe is what is giving me 0 credit.\n\nAfter some research I think I'm finally starting to understand it.  The taxes I am liable for are only my self employment tax since I don't have enough income to owe any income tax, I don't have any additional taxes, and to my knowledge the energy credit doesn't apply to self employment tax.\n\nAm I correct about all that or is there a way I can still get the credit?",
+        "engagement": 0,
+        "source": "tax__self employed"
+      },
+      {
+        "id": "1segzxt",
+        "title": "1099 form but not self employed",
+        "score": 1,
+        "comments": 5,
+        "date": 1775522629,
+        "selftext": "Hi all, hoping to get some help with a 1099 form and which schedule to fill out. \n\nI received a $4000, 'scholarship' through my school to fund an internship experience. It's not a scholarship as I got a 1099 for it, but it is not a small business. This is getting my stuck in my filing process, as it seems like I can only file it as a business. About half was designated for my savings, so sort of my income, and the other half was for travel expenses. \n\nSo do I file it as a business with a 1099 schedule C form? Not sure, and the accounting office here on campus has not been much help unfortunately. TIA",
+        "engagement": 5,
+        "source": "tax__self employed"
+      },
+      {
+        "id": "1se81pm",
+        "title": "Maximum self-employed SEP-IRA contributions from Publication 560 not transferred into TaxAct, so must enter manually. Is this a problem?",
+        "score": 1,
+        "comments": 2,
+        "date": 1775502049,
+        "selftext": "In TaxAct, there is a bug in transferring data from the Self-employment retirement plan contributions worksheet (Publication 560) into the program itself that has been reproduced by the TaxAct support staff. So, I can use the pub 560 spreadsheet to get the maximum allowed contributions, but the program won't use those numbers directly.\n\nInstead, I have to copy/paste those numbers as \"Manually calculated deductions\". This feels less ideal, if the Feds can tell I didn't appear to use the provided calculations.\n\nAny thoughts about whether this is a dangerous way to go? I'm not sure what other choice I have.\n\nMany thanks.",
+        "engagement": 2,
+        "source": "tax__self employed"
+      }
+    ],
+    "Solopreneur__tax tracker": [
+      {
+        "id": "1sihdil",
+        "title": "I made a free budget tracker and a free side hustle tax checklist — giving them away because I'm trying to build an audience from zero",
+        "score": 1,
+        "comments": 0,
+        "date": 1775909376,
+        "selftext": "",
+        "engagement": 0,
+        "source": "Solopreneur__tax tracker"
+      }
+    ],
+    "Entrepreneur__QBSE": [],
+    "Entrepreneur__quickbooks alternative": [
+      {
+        "id": "1moaadi",
+        "title": "I have been recently hearing a lot of problems related to Quickbooks Online, I am considering building a cheap or free alternative for book-keeping and invoicing likely <5$/month. What do you think are the non-negotiables with this proposition?",
+        "score": 1,
+        "comments": 1,
+        "date": 1755008998,
+        "selftext": "[removed]",
+        "engagement": 1,
+        "source": "Entrepreneur__quickbooks alternative"
+      },
+      {
+        "id": "1jfetys",
+        "title": "Alternative to Quickbooks",
+        "score": 2,
+        "comments": 6,
+        "date": 1742437929,
+        "selftext": "OK folks, after 12 years of dedication to QuickBooks Self-Employed, I’ve officially fucking had it. As a self-employed person, I’ve depended on this extremely expensive app for tracking my mileage and transactions.  Upon filing taxes today, I have found multiple missing transactions in mileage that I know for a fact I categorized.  \n\nShort story, long, what apps, software’s, strategies are you using to easily track mileage in transactions for business versus personal purposes? I don’t intend to revert to Stone Age tracking (paper and pen) so would seriously appreciate input from those who have experience in such matters. ",
+        "engagement": 12,
+        "source": "Entrepreneur__quickbooks alternative"
+      },
+      {
+        "id": "1ix755w",
+        "title": "Building an AI-Powered QuickBooks Alternative – Need Advice on Differentiation & Market Entry",
+        "score": 1,
+        "comments": 1,
+        "date": 1740417000,
+        "selftext": "[removed]",
+        "engagement": 1,
+        "source": "Entrepreneur__quickbooks alternative"
+      },
+      {
+        "id": "1bcwoos",
+        "title": "Would You Switch From Quickbooks For A Free Alternative? ",
+        "score": 1,
+        "comments": 10,
+        "date": 1710248452,
+        "selftext": "For context, I run an online tax website and am trying to find a path to growth and a strategy for customer acquisition. I am exploring options for developing a free app that would be a competitor to Quickbooks bookkeeping. \n\nI'm wondering how many of you currently pay for a bookkeeping app or Quickbooks itself and if you would switch if there was a free alternative? What are the main features you currently value the most from the app you use? If you aren't using Quickbooks what other app or method do you use to keep track of your business finances?\n\nThe app I'm developing will ideally have the ability to import transactions from your outside bank accounts and auto classify the expense type, send and receive payments through a Stripe integration, and also offer integrated business bank accounts that pay interest. Would this be a value to the business you run? \n\nYour insights would be greatly appreciated to help me find the right product market fit. ",
+        "engagement": 10,
+        "source": "Entrepreneur__quickbooks alternative"
+      },
+      {
+        "id": "16s3pgw",
+        "title": "Show HN: Bigcapital - A open-source alternative to QuickBooks https://ift.tt/TS9gn5v",
+        "score": 1,
+        "comments": 0,
+        "date": 1695675441,
+        "selftext": "[removed]",
+        "engagement": 0,
+        "source": "Entrepreneur__quickbooks alternative"
+      },
+      {
+        "id": "15n38os",
+        "title": "Help needed for Quickbooks alternative that allows import of backup files",
+        "score": 1,
+        "comments": 2,
+        "date": 1691645560,
+        "selftext": "I had an old desktop version of QuickBooks running for years. The license expired/is not supported and it won’t let me in. As a one-person small biz, it’s not a good investment for me to pay their high price for Quickbooks Online. What is an affordable or free option to import my Quickbooks backup file into an alternative for bookkeeping and invoicing only? Thanks!",
+        "engagement": 2,
+        "source": "Entrepreneur__quickbooks alternative"
+      },
+      {
+        "id": "rlh820",
+        "title": "Quickbooks alternative?",
+        "score": 1,
+        "comments": 1,
+        "date": 1640101113,
+        "selftext": "[removed]",
+        "engagement": 1,
+        "source": "Entrepreneur__quickbooks alternative"
+      },
+      {
+        "id": "hkn23q",
+        "title": "Looking for (hopefully free) alternative to QuickBooks, any suggestions?",
+        "score": 0,
+        "comments": 6,
+        "date": 1593796852,
+        "selftext": "I'm starting out my own business.  I have been in operation for a little while now but would like to get more organized with the paperwork.  \n\nRight now I'm just looking for:\n\n\\- Invoice Creation\n\n\\- Expense Tracking\n\n\\- Bills Tracking\n\n\\- etc...\n\nI'm a solo operation so I don't need anything fancy.  Quickbooks is $25/mn.  I found 100 alternatives online but not sure which is a good fit.  \n\nDoes anyone have any suggestions?",
+        "engagement": 0,
+        "source": "Entrepreneur__quickbooks alternative"
+      },
+      {
+        "id": "eva1vh",
+        "title": "QuickBooks alternative",
+        "score": 1,
+        "comments": 1,
+        "date": 1580239101,
+        "selftext": "[removed]",
+        "engagement": 1,
+        "source": "Entrepreneur__quickbooks alternative"
+      },
+      {
+        "id": "adjpe5",
+        "title": "Need a Quickbooks alternative",
+        "score": 0,
+        "comments": 4,
+        "date": 1546880864,
+        "selftext": "I run a small lawn care business, and have been using Quickbooks Online for a couple years now, but I'm really irritated with them and would like to try out something else.  Probably not necessary info, but I moved back in June, and have not been able to change the address on my invoices. It just gives me an error no matter how I do it, and after hours of QB support both chat and phone, nothing has been resolved. This is incredibly unprofessional to explain to customers who want to mail me a check and I have to explain why my address is wrong. \n\n&#x200B;\n\nAnyway- QB is really fantastic in a lot of ways, but this is unacceptable.  I need to be able to manage income and expenses, send invoices and estimates, and I'm going to be hiring a few people this year, so I'll need an easy option for payroll that takes care of calculating taxes and everything.\n\n&#x200B;\n\nWhat have you guys been using?",
+        "engagement": 0,
+        "source": "Entrepreneur__quickbooks alternative"
+      },
+      {
+        "id": "7mam5v",
+        "title": "Coming from Quickbooks for invoicing, what free alternative invoice software would you recommend that's similar?",
+        "score": 1,
+        "comments": 1,
+        "date": 1514325153,
+        "selftext": "[removed]",
+        "engagement": 1,
+        "source": "Entrepreneur__quickbooks alternative"
+      },
+      {
+        "id": "3fou4p",
+        "title": "Help finding my uncle find an alternative to quickbooks?",
+        "score": 3,
+        "comments": 4,
+        "date": 1438649391,
+        "selftext": "   Hi /r/Entrepreneur , first time posting to this subreddit, hell, I didn't even know about it until a coworker mentioned it to me. \n\nLet me get straight to the issue: My uncle wants to upgrade his business accounting software, 2013 Quickbooks which he uses for his warehouse and retail store (2 not related businesses). Now, he has plans on expanding into other fields which would require more people to have access to QB. He cannot add additional users to his license and buying more access would require capital that could be spent elsewhere. Would it be worth it for him to upgrade to the online version? Is there a better cost effective alternative? \n\n\n\nI already did some research and I'm thinking of trying Xero thanks for their unlimited number of users but I have no idea whether it's easy to  set it up/migrate. What are you experiences? Thanks all for your time reading and maybe replying :)",
+        "engagement": 12,
+        "source": "Entrepreneur__quickbooks alternative"
+      },
+      {
+        "id": "1ncy3h",
+        "title": "alternative to quickbooks?",
+        "score": 9,
+        "comments": 14,
+        "date": 1380433571,
+        "selftext": "I currently use quickbooks for my retail business. Maybe I'm not using it correctly, but I find it way too rigid for the needs of my business. Some examples:\n \n \n* Inventory tracking. I get shipping manifest emails from my suppliers when I get shipments. Ideally, I could just scrape these emails to keep track of my new inventory, but I don't know how to have that feed into Quickbooks. This would make life so much easier for me, since I wouldn't have to manually record serial numbers and update my inventory on a daily basis and match it up with my outstanding customer's orders.\n* Invoice customization. My invoices to my customers require some customization (for example disclaimers, warnings, instructions, etc.). I wasn't able to find how to do this with Quickbooks without paying money.\n* My suppliers carry thousands of products, whose prices change frequently. I can download the product and pricing data almost realtime, but I have no way to input this information into Quickbooks in an e",
+        "engagement": 126,
+        "source": "Entrepreneur__quickbooks alternative"
+      },
+      {
+        "id": "1e8lul",
+        "title": "Cheap alternative for quickbooks/inDinero?",
+        "score": 1,
+        "comments": 0,
+        "date": 1368444588,
+        "selftext": "I'm looking for a way to do accounting, track expenses, etc. for a small business, but after seeing inDinero's pricing I was shocked.\n\nAnyone know of something more affordable?",
+        "engagement": 0,
+        "source": "Entrepreneur__quickbooks alternative"
+      }
+    ],
+    "selfemployed__schedule c": [
+      {
+        "id": "1rvs0wl",
+        "title": "Built a free expense tracker that generates Schedule C reports — looking for feedback",
+        "score": 1,
+        "comments": 0,
+        "date": 1773708541,
+        "selftext": "[removed]",
+        "engagement": 0,
+        "source": "selfemployed__schedule c"
+      },
+      {
+        "id": "1repvkc",
+        "title": "[US] How are you categorizing bank transactions for Schedule C?",
+        "score": 1,
+        "comments": 3,
+        "date": 1772053562,
+        "selftext": "I’m selfemployed in the US and every tax season I struggle categorizing bank transactions properly for Schedule C.\n\nEspecially separating personal vs business expenses and dealing with mixed payments like zelle or Stripe.\n\n* How are you handling this?\n* Are you using spreadsheets, QuickBooks, an accountant, or something else?\n\nJust curious what’s working for other people.",
+        "engagement": 3,
+        "source": "selfemployed__schedule c"
+      },
+      {
+        "id": "1bs0uzm",
+        "title": "When do I filed a Schedule C form?",
+        "score": 1,
+        "comments": 0,
+        "date": 1711856324,
+        "selftext": "[removed]",
+        "engagement": 0,
+        "source": "selfemployed__schedule c"
+      },
+      {
+        "id": "13519ra",
+        "title": "If you are self employed, having to file a Schedule C with your Form 1040 tax tax return, having an LLC or regular sole prop/partnership, did you ever get audited by the IRS? I was curious how it went/what they wanted and if everything turned out ok?",
+        "score": 3,
+        "comments": 5,
+        "date": 1682975156,
+        "selftext": "If you are self employed, having to file a Schedule C with your Form 1040 tax tax return, having an LLC or regular sole prop/partnership, did you ever get audited by the IRS?  I was curious how it went/what they wanted and if everything turned out ok?",
+        "engagement": 15,
+        "source": "selfemployed__schedule c"
+      },
+      {
+        "id": "12tgz5m",
+        "title": "2022 Schedule C: car purchase, business use vehicle , and standard vs actual mileage",
+        "score": 1,
+        "comments": 2,
+        "date": 1682028802,
+        "selftext": "Hi! Wanted some advice on a VERY USED vehicle purchased at the end of 2022. Will be put into business use in April 2023 at about 60% business use. That business use percentage could change. And, ps, I have a very used vehicle with no known repairs at this point. Will estimate about $700 in repairs per year.\n\n1. Has anyone here experienced the pros and cons of a Section 179 deduction for their car purchase and had to recapture the depreciation deduction because their business use changed? Can you do this in 2023 if you purchased the car in 2022? It will be \"put into use\" in 2023 for business.\n2. Any advice on the standard auto mileage deduction vs actual auto expenses? I do not drive an extreme amount of highway miles at this point for work. \n3. This is the article I was referencing for advice on std vs actual mileage for work. Is this accurate for those of you who complete Schedule C?\n\n[https://www.keepertax.com/posts/mileage-vs-actual-expenses](https://www.keepertax.com/posts/mileage-",
+        "engagement": 2,
+        "source": "selfemployed__schedule c"
+      },
+      {
+        "id": "vczfvg",
+        "title": "Ok so self employed since 2015/16 filing schedule C as well as working PT w2s till COVID. Got an ein 7/2021. Do i now file taxes under SSN & EIN?Just EIN? Can i hire someone w2 or only 1099? How do I legally hire only 1 person ? Lots of other tax-ish questions too if I can pick someone’s brain. TIA!",
+        "score": 2,
+        "comments": 3,
+        "date": 1655313083,
+        "selftext": "",
+        "engagement": 6,
+        "source": "selfemployed__schedule c"
+      },
+      {
+        "id": "op30p1",
+        "title": "Question for self employed, independent contractors (ICs). Schedule C, Part 1 Income, Item 1. Gross receipts or sales. Add all 1099 income and enter it here? Does the tax return of an individual sole proprietor contain specific names of the clients? Or just the income received from them?",
+        "score": 1,
+        "comments": 5,
+        "date": 1626914564,
+        "selftext": "There are many situations that require submission of financial documents like tax returns. Example: When approaching lenders for loans, etc. one is often required to provide copies of tax returns as supporting documentation. \n\n**2 questions** for self employed ICs, who receive 1099 income from a variety of clients:\n\n1.  Add all 1099 income from all clients and enter the total on Schedule C, Part 1 Income, Item 1. Gross receipts or sales.  Correct?\n\n2. The tax return doesn't ask for a list of client names (individuals/businesses that issued the 1099) right?",
+        "engagement": 5,
+        "source": "selfemployed__schedule c"
+      },
+      {
+        "id": "oo6839",
+        "title": "What forms do I have to fill out as a self employed worker? Schedule C, schedule SE, 1099, W-2? And where do I even send these files when it’s tax season? Please help I’m SO confused. I’ve looked all over Reddit and the internet but I still don’t understand…",
+        "score": 1,
+        "comments": 5,
+        "date": 1626800592,
+        "selftext": "[deleted]",
+        "engagement": 5,
+        "source": "selfemployed__schedule c"
+      },
+      {
+        "id": "mf1m8h",
+        "title": "If you're self employed and filed a 1040 schedule C or f you can qualify for the forgivable PPP Loan - Deadline is March 31st. You still have time.",
+        "score": 0,
+        "comments": 7,
+        "date": 1616941243,
+        "selftext": "I only qualified for $230 loan, but they give me a link and if anyone uses the link and gets approved, i get an additional $200.\n\nYou can find out how much you qualify for in less than 15 minutes.\n\n$230 is not enough to cover all my bills, so please use this link, so if you get money, i hopefully get some too!\n\nhttp://ssqt.co/mzjR7wX\n\n\"As of last week, there was still over 30 percent of the allocated funds available over this round of PPP.\"\n\n**Don't miss out on getting the funds you need for your business!** We are continuing our partnership with **Fundera,** a trusted online lending platform, to have access to an easy and quick application process for the 2nd round of PPP loans. Take advantage of our collaboration now:\n\n&#x200B;\n\n* Fast and Transparent\n* Excellent Customer Service\n* Reputable & Vetted\n\nas long as you meet the qualifications this loan is forgivable which means it's free money.\n\nthe deadline is March 31, so apply before the money runs out. \n\nso many people are not takin",
+        "engagement": 0,
+        "source": "selfemployed__schedule c"
+      },
+      {
+        "id": "m02t6u",
+        "title": "Schedule C Tax Question",
+        "score": 2,
+        "comments": 7,
+        "date": 1615160809,
+        "selftext": "I heard your LLC doesn’t need to file taxes if the bank account is under $400 on December 31st? Is this true, I’m a new business owner trying to learn. Thanks in advance.",
+        "engagement": 14,
+        "source": "selfemployed__schedule c"
+      },
+      {
+        "id": "ku31aw",
+        "title": "(U.S.) Starting a second business, easiest way to track two Schedule C's?",
+        "score": 2,
+        "comments": 1,
+        "date": 1610237764,
+        "selftext": "I'm currently using Quickbooks self-employed and it has worked great so far, since I use TurboTax for personal filing anyways. They do not support a second business within QBSE. Both businesses are sole-proprietorships at this point. \n\nI'm working on dissolving the first business fairly soon but they're different enough to not risk trying to cram them into one Schedule C. The expenses for the second business are fairly simple for now so I've got everything in a spreadsheet. I waited until January 1 to start working on it so I don't have to deal with it on 2020 taxes. \n\nHas anyone had luck connecting two separate quickbooks accounts? Or should I try another method? QB integrates with everything I need it to so I'm hesitant to try a new platform entirely.",
+        "engagement": 2,
+        "source": "selfemployed__schedule c"
+      },
+      {
+        "id": "hry92z",
+        "title": "Schedule C QBI question",
+        "score": 2,
+        "comments": 1,
+        "date": 1594854231,
+        "selftext": "So i do makeup and eyelashes for people and was filing a schedule C. My income is only $3k. \n\nFor the question\n“Is your business effectively connected with the conduct of trade or business within the US” \n\nWould i answer yes or no? I just do this as a side job, no license.",
+        "engagement": 2,
+        "source": "selfemployed__schedule c"
+      },
+      {
+        "id": "gmeujr",
+        "title": "Schedule K1 instead of Schedule C for PPP??",
+        "score": 2,
+        "comments": 4,
+        "date": 1589851454,
+        "selftext": "I am a 1099 self employed with an LLC (sole proprietor). I am looking to file for the PPP loan through Bluevine or Paypal.  I filled out the app on Bluevine and they are now requesting a 94x form, which I dont have. Most post I read, people are stating that they are upload their schedule C and 1099 to support their app. I dont have a Sched C, I file and 1120S with a K1 for my LLC, then 1040 file jointly with my wife. \n\nI am now reading that K1's are not allowed in this process. Is this correct?",
+        "engagement": 8,
+        "source": "selfemployed__schedule c"
+      },
+      {
+        "id": "gcvqi7",
+        "title": "PPP Lenders have failed me so far, anyone in my situation had luck so far? New business, started getting revenue in Janaury 2020, no 2019 taxes or schedule C, no form 941 (no employees), but have profits to show for Q1 2020. Seems like all the online sites want schedule C and form 941.",
+        "score": 5,
+        "comments": 19,
+        "date": 1588531222,
+        "selftext": "[deleted]",
+        "engagement": 95,
+        "source": "selfemployed__schedule c"
+      },
+      {
+        "id": "fxgu6l",
+        "title": "PPP self employed P/L Schedule C",
+        "score": 2,
+        "comments": 3,
+        "date": 1586386648,
+        "selftext": "Does the PPP base your monthly salary based on your total Adjusted Gross Income divided by 12 mos X  2.5 or is it based on your Net Income using the same calculations?",
+        "engagement": 6,
+        "source": "selfemployed__schedule c"
+      },
+      {
+        "id": "f7wn3v",
+        "title": "Social Security Benefit Statement Not Including Schedule C Earnings",
+        "score": 2,
+        "comments": 2,
+        "date": 1582396598,
+        "selftext": "For several years now I have worked W2 jobs and freelance during the same tax year. I claim the freelance income on Schedule C of my income tax. When I reviewed my Social Security retirement benefit statement, only my W2 income was reflected. Is there normally a lag for Schedule C income? Could it take years to appear? Does need to be dealt with by physically going into a Social Security office equipped to handle complex cases? I've tried calling and went to my local office, but no one has been able to help so far.",
+        "engagement": 4,
+        "source": "selfemployed__schedule c"
+      },
+      {
+        "id": "65dze8",
+        "title": "Schedule C - Where does cost of revenue go?",
+        "score": 1,
+        "comments": 0,
+        "date": 1492191670,
+        "selftext": "I've just started my IT service business and I am tackling my taxes on my own for this instance. One of my services I provide is backup. I pay a third party to provide this service to my client. Where on the schedule C do I add my costs that I paid to this 3rd party service provider? I heard not to use COGS because I don't have inventory and I am not a retailer. Thanks!!",
+        "engagement": 0,
+        "source": "selfemployed__schedule c"
+      }
+    ],
+    "selfemployed__qbse": [
+      {
+        "id": "1lu2tpw",
+        "title": "[US] Better system for tracking income and tips for solo LLC, currently using square and qbse",
+        "score": 1,
+        "comments": 0,
+        "date": 1751914931,
+        "selftext": "So currently I use QuickBooks self employed and it kinda sucks. There's no integration so I have to do it all manually and tracking and tracking tips separately is such a hassle I don't bother anymore. Basically I just manually enter the total square deposits on line 1 and the fee for using square on line 2.\n\nI am a dog groomer so I just need a real simple system that can track income, tips, and a few expenses. I originally went with qbse because of the paying the estimated taxes it does for me, so bonus if this other platform can do that. I am also not tied to square if there is a better combo.\n\n ",
+        "engagement": 0,
+        "source": "selfemployed__qbse"
+      }
+    ],
+    "taxpros__schedule c": [
+      {
+        "id": "1qten27",
+        "title": "Do you clean up schedule C books for tax engagement or charge extra?",
+        "score": 35,
+        "comments": 71,
+        "date": 1769988989,
+        "selftext": "I onboarded a new client.  They own a restaurant that they started last year.  Currently will file as scheduled c since it has a loss.  \n\nTold me their books were good and I get into the QBO file and it's a mess.  Do you charge more for clean up?  Tell them to clean it up before you can proceed?\n\nI recommended a local book keeper who can do it for a cost.  I'm a CPA but I don't have capacity to clean up their crappy QBO accounting.  And I can't file their return until it's cleaned up.  ",
+        "engagement": 2485,
+        "source": "taxpros__schedule c"
+      },
+      {
+        "id": "1qie4bm",
+        "title": "Schedule C and Schedule E Focused Firm",
+        "score": 12,
+        "comments": 22,
+        "date": 1768944451,
+        "selftext": "Hello!\n\nI wanted to get your opinions and experience about owning a firm that focuses on individual returns with Schedule C and Schedule E. \n\nHave you found your income is limited by not taking on entity returns? Do you believe it’s viable to focus on the these type of returns now and in the future? \n\nThank you!",
+        "engagement": 264,
+        "source": "taxpros__schedule c"
+      },
+      {
+        "id": "1n3bkb7",
+        "title": "do you put AirBnB properties on Schedule C or E?",
+        "score": 2,
+        "comments": 26,
+        "date": 1756483686,
+        "selftext": "I know the 7 day avg rental period rule but I'm wondering what you guys do personally? I see it both ways from other accountants. ",
+        "engagement": 52,
+        "source": "taxpros__schedule c"
+      },
+      {
+        "id": "1mu5cqm",
+        "title": "Bookkeeping for simple, solo Schedule C clients?",
+        "score": 24,
+        "comments": 21,
+        "date": 1755568199,
+        "selftext": "For context, I only do 1040 and Schedule C returns and do not offer bookkeeping services right now.\n\nThat said, I’m running into a lot of new prospects that are solo service businesses in the 100k-150k revenue range (good thing, this is precisely my niche). \n\nThink independent hairstylist, solo handyman, nonprofit consultant, mental health therapist, etc.\n\nThe problem is, they need bookkeeping help, and they’re kind of stuck.\n\nThey’re not able to do it well themselves, they’re not crazy about using the cheap offshore options, nor are they willing to pay $400+/mo to the good bookkeepers that I know. I understand all of those concerns. Don’t necessarily agree, but I understand.\n\nI’ve been considering offering bookkeeping services for them in the $100-$200/mo range (it would work based on their transactions).\n\nBut before I further explore that route, are there other options out there?\n",
+        "engagement": 504,
+        "source": "taxpros__schedule c"
+      },
+      {
+        "id": "1iq7jrm",
+        "title": "Schedule C used by Work from Home (WFH) Crowd",
+        "score": 3,
+        "comments": 2,
+        "date": 1739643522,
+        "selftext": "Hi All, I'm seeing some clients disguising unreimbursed employee business expenses as Schedule C when WFH. They put down $500 as income and then we're off to the races. Just an observation...\n\nIf they are insistent, I request a statement to the effect that these expenses are no way related to their work as an a W-2 employee and are, in fact, related to a legitimate activity for profit. So far, I have not received one back yet.",
+        "engagement": 6,
+        "source": "taxpros__schedule c"
+      },
+      {
+        "id": "1imbgbv",
+        "title": "1099-NEC and schedule C",
+        "score": 1,
+        "comments": 9,
+        "date": 1739208062,
+        "selftext": "Wondering how other tax professionals handle this situation. Client comes in with a 1099-NEC from one of these gig economy places like Instacart, DoorDash, etc…As per IRS regulations a taxpayer is required to report income from a business or profession as a sole proprietor on a Schedule C. However, the regs state that an activity qualifies as a business if “your primary purpose for engaging in the activity is for income or profit AND you are involved in the activity with continuity and regularity.” A sporadic activity or hobby does not qualify as a business. \n\nIn many of the cases that I see the 1099-NEC shows that the client has made somewhere between $1k and $2k. However, when I dig into the context I find that most of them did the gig sporadically, for a short period of time, and/or did it only for that one tax year. In my view this type of activity is expressly excluded from the definition of a “business” as per IRS regs. However I have heard that many tax pros still file the Sched",
+        "engagement": 9,
+        "source": "taxpros__schedule c"
+      },
+      {
+        "id": "1hmqdig",
+        "title": "Best self-study CPE for 1040, Schedule C, and 1120-S returns?",
+        "score": 50,
+        "comments": 24,
+        "date": 1735226275,
+        "selftext": "I want to improve my understanding of personal returns, self employment, and S-Corps, and I'm looking for self-study courses to help me dive into the subjects. CCH CPE looks like they have a lot of options, but they are pricier than other programs I've seen, with their unlimited package being $640. I don't mind paying for quality but want to make sure I'm getting my money's worth.\n\nAny suggestions for other options to look into?",
+        "engagement": 1200,
+        "source": "taxpros__schedule c"
+      },
+      {
+        "id": "1heff15",
+        "title": "Assigning commissions Schedule C to S Corp.",
+        "score": 31,
+        "comments": 21,
+        "date": 1734218666,
+        "selftext": "For a FINRA licensed advisor. Last CPA zeroed out commissions on schedule C as reported on 1120s. I advised that I can't do that and wouldn't sign the return unless commissions are paid to the S-corp which wont happen because corp is not licensed and it is not allowed. I provided IRS case law. Unfortunately, this is the only reason an S corp was formed. I suspect he will client will find a different preparer and bookkeeper that will do this. Who else experiences this when doing taxes for financial advisors?",
+        "engagement": 651,
+        "source": "taxpros__schedule c"
+      },
+      {
+        "id": "1g24fvq",
+        "title": "My new client's 2021 return is missing 4562 and schedule C",
+        "score": 3,
+        "comments": 17,
+        "date": 1728752011,
+        "selftext": "Top of the evening ladies and gents,\n\nI'll preface with this; I've been a solo-proprietor for a year this month. It's overwhelming at times when I run into a new issue and am reminded on how much I still don't know/haven't run into 😩. Public accounting certainly did not prepare me for this! Anyhow, thanks in advance for any input.\n\nI have a new client that came to me last week to file his 2022 and 2023 taxes. He usually uses some shady backroom shadow dweller old lady, who charges a small fee and uses turbotax to illegally file people's tax returns. Upon review of his 2020 and 2021 returns I noticed in the 2020 turbotax prepared return the shady-lady got the man a whole lot of bonus depreciation on a personal vehicle used for a side-gig (main job W2 wages); the depreciation method noted on 4562 was DB-HY but had $0 since the max was taken for the vehicle through bonus depreciation.  In the 2021 return is where it got hairy, the return didn't have the form attached that said turbotax, n",
+        "engagement": 51,
+        "source": "taxpros__schedule c"
+      },
+      {
+        "id": "1c0q3pq",
+        "title": "Simple vs Complex Schedule C pricing",
+        "score": 2,
+        "comments": 15,
+        "date": 1712767321,
+        "selftext": "For those of you who charge by the form: how do you deal with pricing for variance in complexity on a Schedule C? I have some clients who have a single 1099-NEC with no expenses, and others who have hundreds of clients, employees, office, depreciable assets, etc. It doesn't make sense to charge both the same.  I have been giving \"discounts\" to clients with simple Schedule Cs, but that's not an ideal solution. How do you handle it?",
+        "engagement": 30,
+        "source": "taxpros__schedule c"
+      },
+      {
+        "id": "1c0ky75",
+        "title": "Schedule C Filer making up expenses",
+        "score": 1,
+        "comments": 0,
+        "date": 1712753857,
+        "selftext": "Hey tax pros, I have a client that very clearly made up expenses for their schedule C. I used their numbers to file the return. I got Protection Plus for this filer. What are some steps I could take to protect myself and what are the chances he gets audited?",
+        "engagement": 0,
+        "source": "taxpros__schedule c"
+      },
+      {
+        "id": "1afstz2",
+        "title": "Same EIN for Schedule C and Schedule H?",
+        "score": 2,
+        "comments": 11,
+        "date": 1706735491,
+        "selftext": "I have a client who has had a Schedule H household employee (nanny) for years, had an EIN for the payroll taxes.\n\nIn 2023, he became self employed through a sole proprietorship, no LLC yet. We tried to obtain an EIN for him online, but were unable to do so because he already had one tied to his SS#. At the time, I called the IRS on his behalf and asked about this, they told me he couldn't apply for another EIN, and to use the same one for his Schedule C\n\nNow, the software I use (Drake) is giving me an error saying this isn't possible for e-file. Has anyone ever seen this? Would appreciate any insight, this one is new to me",
+        "engagement": 22,
+        "source": "taxpros__schedule c"
+      },
+      {
+        "id": "189xrmu",
+        "title": "Potential filed multi-member LLC activity on Schedule C for 2 years. How to handle?",
+        "score": 1,
+        "comments": 0,
+        "date": 1701622785,
+        "selftext": "Potential client has two multi member LLCs each with 3 members. The first had a small profit in 2021 and no income in 2022 (only expenses). The second started in 2022 and only reported expenses. One of the LLCs is closing in 2023. \n\nThe owner I spoke with is young and was doing his own taxes. After “researching” he thought each owner could report their share of LLC income/expense on their own Sch Cs. The activity is minimal, but one LLC has some outside investors and the owners invested money too. It doesn’t seem like distributions/guaranteed payments would be an issue but we haven’t talked about that. \n\nI’m thinking they need to go back, file partnership returns for 2021-2022, and amend their individual returns. Maybe get one time penalty abatement. If that’s the case, I don’t really want to get involved in the mess. Are there any other options I’m missing though? No IRS notices have been received (yet).",
+        "engagement": 0,
+        "source": "taxpros__schedule c"
+      },
+      {
+        "id": "1834h65",
+        "title": "Husband/Wife two member LLC in non-community property state filing on a schedule C.",
+        "score": 2,
+        "comments": 10,
+        "date": 1700866232,
+        "selftext": "I’m a CPA in industry, wanting to get a side gig going.  I took on a QB cleanup job, three LLC’s  with two members, husband and wife.  The tax preparer, another CPA, is also fairly new to this client, 2 years now.  Previous preparer filed these three LLC’s on a three schedule C’s in the husbands name only.  The current tax preparer continued this practice.  This has now been going on at least three years.\r  \n\r  \nCurrent tax preparer, a CPA, has defended this practice.  Although he brought up filing a joint schedule C.  Even though this is an LLC in a non-community property state.\r  \n\r  \nWhat is the risk to the client?  Overall tax liability probably isn’t much different between the schedule C’s and 1065’s.\r  \n\r  \nWhat is the best way to correct this?  Can they just file 1065's as new partnerships with no beginning balance sheet and consider each partner made equal contributions?  \r  \n\r  \nEven though I am not the tax preparer I feel an obligation to communicate this to the client and wo",
+        "engagement": 20,
+        "source": "taxpros__schedule c"
+      },
+      {
+        "id": "180mr9f",
+        "title": "Schedule C or 1065 Treatment?",
+        "score": 1,
+        "comments": 8,
+        "date": 1700588722,
+        "selftext": "Husband owned and operated his business before he and his wife got married. The wife was added as a manager/authorized person with the state on his LLC. They also opened a joint business account together for said business and closed the account business account he previously used. However, they kept running the income through his Schedule C as she doesn't participate in the business. She was planning to participate but apparently changed her mind and found separate work. There is no operating agreement. Should they have been filing a 1065 for this? ",
+        "engagement": 8,
+        "source": "taxpros__schedule c"
+      },
+      {
+        "id": "149f4vv",
+        "title": "Can I leave deductions off of Schedule C business?",
+        "score": 1,
+        "comments": 0,
+        "date": 1686767110,
+        "selftext": "[removed]",
+        "engagement": 0,
+        "source": "taxpros__schedule c"
+      },
+      {
+        "id": "12dtoin",
+        "title": "Schedule C Expenses or Unreimbursed Employee Expenses?",
+        "score": 1,
+        "comments": 0,
+        "date": 1680806553,
+        "selftext": "[removed]",
+        "engagement": 0,
+        "source": "taxpros__schedule c"
+      },
+      {
+        "id": "12b82oo",
+        "title": "Schedule C, Sole Proprietor and Maximum Loss Allowance",
+        "score": 1,
+        "comments": 0,
+        "date": 1680579754,
+        "selftext": "[removed]",
+        "engagement": 0,
+        "source": "taxpros__schedule c"
+      },
+      {
+        "id": "11zogny",
+        "title": "Client started LLC (s election). 1099 issued in SS#. No payroll. Does the client have to use the LLC or can they report under a schedule c?",
+        "score": 1,
+        "comments": 0,
+        "date": 1679586687,
+        "selftext": "[removed]",
+        "engagement": 0,
+        "source": "taxpros__schedule c"
+      },
+      {
+        "id": "11h0yw6",
+        "title": "Schedule C ERC had interest - schedule C or B",
+        "score": 1,
+        "comments": 0,
+        "date": 1677850625,
+        "selftext": "[removed]",
+        "engagement": 0,
+        "source": "taxpros__schedule c"
+      }
+    ]
+  },
+  "top_relevant_ranked": [
+    {
+      "id": "1qten27",
+      "title": "Do you clean up schedule C books for tax engagement or charge extra?",
+      "score": 35,
+      "comments": 71,
+      "date": 1769988989,
+      "selftext": "I onboarded a new client.  They own a restaurant that they started last year.  Currently will file as scheduled c since it has a loss.  \n\nTold me their books were good and I get into the QBO file and it's a mess.  Do you charge more for clean up?  Tell them to clean it up before you can proceed?\n\nI recommended a local book keeper who can do it for a cost.  I'm a CPA but I don't have capacity to clean up their crappy QBO accounting.  And I can't file their return until it's cleaned up.  ",
+      "engagement": 2485,
+      "source": "taxpros__schedule c"
+    },
+    {
+      "id": "s8zghv",
+      "title": "Alternatives to quickbooks self employed?",
+      "score": 39,
+      "comments": 61,
+      "date": 1642731467,
+      "selftext": "I like their toolset (keeping track of business expenses and income, estimating deductions, calculating prepaid taxes for me). It's $160/yr without the tax filing software, wondering if there's anything cheaper that does the same thing.",
+      "engagement": 2379,
+      "source": "smallbusiness__quickbooks self employed"
+    },
+    {
+      "id": "1hmqdig",
+      "title": "Best self-study CPE for 1040, Schedule C, and 1120-S returns?",
+      "score": 50,
+      "comments": 24,
+      "date": 1735226275,
+      "selftext": "I want to improve my understanding of personal returns, self employment, and S-Corps, and I'm looking for self-study courses to help me dive into the subjects. CCH CPE looks like they have a lot of options, but they are pricier than other programs I've seen, with their unlimited package being $640. I don't mind paying for quality but want to make sure I'm getting my money's worth.\n\nAny suggestions for other options to look into?",
+      "engagement": 1200,
+      "source": "taxpros__schedule c"
+    },
+    {
+      "id": "1heff15",
+      "title": "Assigning commissions Schedule C to S Corp.",
+      "score": 31,
+      "comments": 21,
+      "date": 1734218666,
+      "selftext": "For a FINRA licensed advisor. Last CPA zeroed out commissions on schedule C as reported on 1120s. I advised that I can't do that and wouldn't sign the return unless commissions are paid to the S-corp which wont happen because corp is not licensed and it is not allowed. I provided IRS case law. Unfortunately, this is the only reason an S corp was formed. I suspect he will client will find a different preparer and bookkeeper that will do this. Who else experiences this when doing taxes for financial advisors?",
+      "engagement": 651,
+      "source": "taxpros__schedule c"
+    },
+    {
+      "id": "1mu5cqm",
+      "title": "Bookkeeping for simple, solo Schedule C clients?",
+      "score": 24,
+      "comments": 21,
+      "date": 1755568199,
+      "selftext": "For context, I only do 1040 and Schedule C returns and do not offer bookkeeping services right now.\n\nThat said, I’m running into a lot of new prospects that are solo service businesses in the 100k-150k revenue range (good thing, this is precisely my niche). \n\nThink independent hairstylist, solo handyman, nonprofit consultant, mental health therapist, etc.\n\nThe problem is, they need bookkeeping help, and they’re kind of stuck.\n\nThey’re not able to do it well themselves, they’re not crazy about using the cheap offshore options, nor are they willing to pay $400+/mo to the good bookkeepers that I know. I understand all of those concerns. Don’t necessarily agree, but I understand.\n\nI’ve been considering offering bookkeeping services for them in the $100-$200/mo range (it would work based on their transactions).\n\nBut before I further explore that route, are there other options out there?\n",
+      "engagement": 504,
+      "source": "taxpros__schedule c"
+    },
+    {
+      "id": "12gju8v",
+      "title": "Quickbooks Self Employed Alternative?",
+      "score": 25,
+      "comments": 11,
+      "date": 1681047828,
+      "selftext": "Anyone have a recommendation for an alternative to quickbooks self employed?  I am a solo contractor.  I have 1-3 regular, long term clients that I get a 1099-NEC from.  I don't send out invoices or pay payroll to myself or anyone else.  (LLC, passthrough income).   \n\n\nI used the expense tracking, and basically just the estimated tax calculator in QBSE, but that doesn't seem worth spending $180 a year for.  I could just use expensify for expense tracking, but I would appreciate some sort of estimated tax calculator like the one QBSE has.  Anyone have one that they've found useful?",
+      "engagement": 275,
+      "source": "smallbusiness__quickbooks self employed"
+    },
+    {
+      "id": "1qie4bm",
+      "title": "Schedule C and Schedule E Focused Firm",
+      "score": 12,
+      "comments": 22,
+      "date": 1768944451,
+      "selftext": "Hello!\n\nI wanted to get your opinions and experience about owning a firm that focuses on individual returns with Schedule C and Schedule E. \n\nHave you found your income is limited by not taking on entity returns? Do you believe it’s viable to focus on the these type of returns now and in the future? \n\nThank you!",
+      "engagement": 264,
+      "source": "taxpros__schedule c"
+    },
+    {
+      "id": "162tyfn",
+      "title": "Quickbooks alternative for self employed l/sole proprietorship LLC?",
+      "score": 8,
+      "comments": 26,
+      "date": 1693151421,
+      "selftext": "Ive been self employed for 9 months, Quickbooks self employed just raised their already ridiculous monthly fee from 30 something dollars a month to $40 a month. Fuck that. I may in the future, as soon as a year from now, hire an employee to increase profits but right now I'm a sole proprietor. What are the best alternatives?",
+      "engagement": 208,
+      "source": "smallbusiness__quickbooks self employed"
+    },
+    {
+      "id": "1t20kd3",
+      "title": "Meal Reimbursements From Clients for Self-Employed",
+      "score": 8,
+      "comments": 17,
+      "date": 1777753049,
+      "selftext": "I was looking at Pub 463 to figure out something else when I stumbled upon this section:\n\n  \n\n\n    Accounting to Your Client\n    \n    If you received a reimbursement or an allowance for travel, or gift expenses that you incurred on behalf of a client, you should provide an adequate accounting of these expenses to your client. If you don’t account to your client for these expenses, you must include any reimbursements or allowances in income. You must keep adequate records of these expenses whether or not you account to your client for these expenses.\n    \n    If you don’t separately account for and seek reimbursement for meal and entertainment expenses in connection with providing services for a client, you are subject to the 50% limit on those expenses. See 50% Limit in chapter 2.\n\n\n\nSurely I'm reading this wrong, but this reads to me that \"IF you get reimbursement from a client for travel/gifts AND you properly account for it to them, THEN you do not have to report it as income AND yo",
+      "engagement": 136,
+      "source": "tax__self employed"
+    },
+    {
+      "id": "1ncy3h",
+      "title": "alternative to quickbooks?",
+      "score": 9,
+      "comments": 14,
+      "date": 1380433571,
+      "selftext": "I currently use quickbooks for my retail business. Maybe I'm not using it correctly, but I find it way too rigid for the needs of my business. Some examples:\n \n \n* Inventory tracking. I get shipping manifest emails from my suppliers when I get shipments. Ideally, I could just scrape these emails to keep track of my new inventory, but I don't know how to have that feed into Quickbooks. This would make life so much easier for me, since I wouldn't have to manually record serial numbers and update my inventory on a daily basis and match it up with my outstanding customer's orders.\n* Invoice customization. My invoices to my customers require some customization (for example disclaimers, warnings, instructions, etc.). I wasn't able to find how to do this with Quickbooks without paying money.\n* My suppliers carry thousands of products, whose prices change frequently. I can download the product and pricing data almost realtime, but I have no way to input this information into Quickbooks in an e",
+      "engagement": 126,
+      "source": "Entrepreneur__quickbooks alternative"
+    },
+    {
+      "id": "1su2m9f",
+      "title": "1099-C filed with IRS by Ally Financial",
+      "score": 6,
+      "comments": 17,
+      "date": 1776996908,
+      "selftext": "Been dealing with penalty and IRS saying I owe for debt forgiven by Ally Financial. It’s taken months of back and forth, but I did a voluntary repo of an old car back in 2011 with GMAC and was told that’s all I needed to do. In 2012 I saw in my credit report that the amount had been written off and the account closed. Nothing has happened for all this time. Nearly 15 years later and apparently Ally wrote off $16k in 2023, but I wasn’t notified of anything til an IRS letter saying I owe them nearly $5k in back taxes and fees. IRS wants me to handle this with Ally, there is no 1099C department and all they do is waste my time. I tried to file fraud after months of attempts to speak someone, and now Ally says it’s legitimate. Forgiveness isn’t the same as Writing off debt, and I’m screwed basically. They won’t correct the 1099-C. Any tips or advice? ",
+      "engagement": 102,
+      "source": "IRS__1099"
+    },
+    {
+      "id": "gcvqi7",
+      "title": "PPP Lenders have failed me so far, anyone in my situation had luck so far? New business, started getting revenue in Janaury 2020, no 2019 taxes or schedule C, no form 941 (no employees), but have profits to show for Q1 2020. Seems like all the online sites want schedule C and form 941.",
+      "score": 5,
+      "comments": 19,
+      "date": 1588531222,
+      "selftext": "[deleted]",
+      "engagement": 95,
+      "source": "selfemployed__schedule c"
+    },
+    {
+      "id": "1gswo3a",
+      "title": "Looking for an alternative to Quickbooks self employed",
+      "score": 6,
+      "comments": 15,
+      "date": 1731790218,
+      "selftext": "I'm going through my expenses this year and have realized at least 10k of expenses haven't synced to my account despite all of those accounts having been refreshed and reconnected several times in the past week. I really don't want to have to download all of my statements from all of my accounts \n\nI liked QB because I could sort by personal and business easily as well as see my tax burden in real time. I dont mind paying for a service with the 'trust factor' of a company like intuit (even though we all know they aren't all that above board either)\n\nPlease help!\n\n",
+      "engagement": 90,
+      "source": "smallbusiness__quickbooks self employed"
+    },
+    {
+      "id": "1oi7z1e",
+      "title": "Parent is self employed yet doenst have Schedule C or SE",
+      "score": 3,
+      "comments": 27,
+      "date": 1761654418,
+      "selftext": "What title says I’m applying to college and schools require the Schedules since my mom doenst have a W-2 and I’m looking at her taxes and the only thing she has is her filing taxes, the child tax. Even in her responsibilities when it asks if the tax person made her file the schedule C if she’s self employed it says n/a. I don’t understand and am worried. She doenst know anything either  ",
+      "engagement": 81,
+      "source": "IRS__schedule c"
+    },
+    {
+      "id": "1n3bkb7",
+      "title": "do you put AirBnB properties on Schedule C or E?",
+      "score": 2,
+      "comments": 26,
+      "date": 1756483686,
+      "selftext": "I know the 7 day avg rental period rule but I'm wondering what you guys do personally? I see it both ways from other accountants. ",
+      "engagement": 52,
+      "source": "taxpros__schedule c"
+    },
+    {
+      "id": "1g24fvq",
+      "title": "My new client's 2021 return is missing 4562 and schedule C",
+      "score": 3,
+      "comments": 17,
+      "date": 1728752011,
+      "selftext": "Top of the evening ladies and gents,\n\nI'll preface with this; I've been a solo-proprietor for a year this month. It's overwhelming at times when I run into a new issue and am reminded on how much I still don't know/haven't run into 😩. Public accounting certainly did not prepare me for this! Anyhow, thanks in advance for any input.\n\nI have a new client that came to me last week to file his 2022 and 2023 taxes. He usually uses some shady backroom shadow dweller old lady, who charges a small fee and uses turbotax to illegally file people's tax returns. Upon review of his 2020 and 2021 returns I noticed in the 2020 turbotax prepared return the shady-lady got the man a whole lot of bonus depreciation on a personal vehicle used for a side-gig (main job W2 wages); the depreciation method noted on 4562 was DB-HY but had $0 since the max was taken for the vehicle through bonus depreciation.  In the 2021 return is where it got hairy, the return didn't have the form attached that said turbotax, n",
+      "engagement": 51,
+      "source": "taxpros__schedule c"
+    },
+    {
+      "id": "1f5cem1",
+      "title": "Self employed people - what do I need to do to Track time, invoice, etc. Work From Home consulting… Quickbooks Solopreneur? File LLC steps..",
+      "score": 4,
+      "comments": 11,
+      "date": 1725069646,
+      "selftext": "I recently got laid off and have managed to pick up two jobs where I can actually work from home and make more than my previous income.\n\nI am a bit OCD with organization and I want to do this right. I want to file an LLC for myself so I can have a ton of stuff to write off but also want to easily track everything where I can bill my time to these people I’m doing work for. Is quickbooks the okay? What about LegalZoom for LLC? Do I need to setup a separate PayPal and perhaps an email/domain for my services or is that a bit much?\n\nI am going to get my logo made for proper letterhead. I’ll probably register the domain so I can have a proper email address too. Just want to be organized in like a one stop shop for the financing aspect and make it easy come tax season, etc. ",
+      "engagement": 44,
+      "source": "smallbusiness__quickbooks self employed"
+    },
+    {
+      "id": "1t4wb4f",
+      "title": "1099 Update on Tax Wage Transcript",
+      "score": 2,
+      "comments": 16,
+      "date": 1778024440,
+      "selftext": "Question \n\nDoes anyone who received a 1099 for tax year 2025 see their 1099 on their tax wage transcripts yet? Mine is still not showing/updated yet. I am pretty sure this is why I haven’t received my tax refund yet and I am very impatient right now. ",
+      "engagement": 32,
+      "source": "IRS__1099"
+    },
+    {
+      "id": "1shd8k8",
+      "title": "Do I have to take the self-employed health insurance deduction?",
+      "score": 3,
+      "comments": 10,
+      "date": 1775797930,
+      "selftext": "Last year I was unemployed and bought health insurance through the marketplace. I also had a small side income that I am reporting on Schedule C.\n\nMy tax software is suggesting I take the self-employed health insurance deduction. But if I do that, my income drops low enough that I no longer qualify for the premium tax credit. If I don’t take the deduction, I can get the credit.\n\nI’ve seen comments on Reddit saying you’re supposed to take every deduction you’re eligible for, but I don’t know if that applies here or just to business expenses. The IRS wording says I can take this deduction, not that I must.  \n  \nDo I actually have to take this deduction, or can I skip it if it benefits me more not to?",
+      "engagement": 30,
+      "source": "tax__self employed"
+    },
+    {
+      "id": "1c0q3pq",
+      "title": "Simple vs Complex Schedule C pricing",
+      "score": 2,
+      "comments": 15,
+      "date": 1712767321,
+      "selftext": "For those of you who charge by the form: how do you deal with pricing for variance in complexity on a Schedule C? I have some clients who have a single 1099-NEC with no expenses, and others who have hundreds of clients, employees, office, depreciable assets, etc. It doesn't make sense to charge both the same.  I have been giving \"discounts\" to clients with simple Schedule Cs, but that's not an ideal solution. How do you handle it?",
+      "engagement": 30,
+      "source": "taxpros__schedule c"
+    },
+    {
+      "id": "1pk0wsx",
+      "title": "Self Employment Tax Questions",
+      "score": 1,
+      "comments": 26,
+      "date": 1765468337,
+      "selftext": "I have a tax questions I am self employed married filing jointly, in Tennessee\n\nMy wife makes around 40k and breaks about even on taxes give or take 100 dollars.\n\nI will make 160,000 this year, I will be taking standard deduction, I have pre paid 30,800 on taxes already. How much more will I owe?\n\n  \nChatgpt says I need to pay an additional 24,000-26000 dollars is this correct?",
+      "engagement": 26,
+      "source": "personalfinance__self employment tax"
+    },
+    {
+      "id": "1rok8zd",
+      "title": "Nearly 5k in self employment tax. And a 50% blended tax rate. What is happening?",
+      "score": 3,
+      "comments": 8,
+      "date": 1773013148,
+      "selftext": "I’m doing my taxes on TurboTax this year no differently than I would any year… but I’m encountering some new situations that are really catching me off guard. \n\nHere’s my info \n\n“Your filing status is Single. This determines how much you can get for certain credits and deductions, and which tax rates apply.\n\nYour total income for the year was $32,239, all from business income. You took the Standard Deduction, which was $15,750. Your other deductions for the year include:\n\n• Qualified business income deduction,\n\n$2,842\n\n• Self-employment tax deduction, $2,278\n\nAfter applying your deductions, your taxable income was $11,369. Based on this, your total tax before credits was $1,138 in regular income tax and $4,555 in self-employment tax.”\n\nIt also says I have a 50.1% blended tax rate. \n\nCan anyone help explain?? ",
+      "engagement": 24,
+      "source": "personalfinance__self employment tax"
+    },
+    {
+      "id": "1afstz2",
+      "title": "Same EIN for Schedule C and Schedule H?",
+      "score": 2,
+      "comments": 11,
+      "date": 1706735491,
+      "selftext": "I have a client who has had a Schedule H household employee (nanny) for years, had an EIN for the payroll taxes.\n\nIn 2023, he became self employed through a sole proprietorship, no LLC yet. We tried to obtain an EIN for him online, but were unable to do so because he already had one tied to his SS#. At the time, I called the IRS on his behalf and asked about this, they told me he couldn't apply for another EIN, and to use the same one for his Schedule C\n\nNow, the software I use (Drake) is giving me an error saying this isn't possible for e-file. Has anyone ever seen this? Would appreciate any insight, this one is new to me",
+      "engagement": 22,
+      "source": "taxpros__schedule c"
+    },
+    {
+      "id": "1834h65",
+      "title": "Husband/Wife two member LLC in non-community property state filing on a schedule C.",
+      "score": 2,
+      "comments": 10,
+      "date": 1700866232,
+      "selftext": "I’m a CPA in industry, wanting to get a side gig going.  I took on a QB cleanup job, three LLC’s  with two members, husband and wife.  The tax preparer, another CPA, is also fairly new to this client, 2 years now.  Previous preparer filed these three LLC’s on a three schedule C’s in the husbands name only.  The current tax preparer continued this practice.  This has now been going on at least three years.\r  \n\r  \nCurrent tax preparer, a CPA, has defended this practice.  Although he brought up filing a joint schedule C.  Even though this is an LLC in a non-community property state.\r  \n\r  \nWhat is the risk to the client?  Overall tax liability probably isn’t much different between the schedule C’s and 1065’s.\r  \n\r  \nWhat is the best way to correct this?  Can they just file 1065's as new partnerships with no beginning balance sheet and consider each partner made equal contributions?  \r  \n\r  \nEven though I am not the tax preparer I feel an obligation to communicate this to the client and wo",
+      "engagement": 20,
+      "source": "taxpros__schedule c"
+    },
+    {
+      "id": "1jbzc44",
+      "title": "Self employment + W2 tax estimate strategy question",
+      "score": 2,
+      "comments": 9,
+      "date": 1742057182,
+      "selftext": "I have 2 questions I have been trying to resolve:  \n  \n1. For 2025, my wife and I will have 2 W2  income streams and 1 Self employment stream. My income + wife's W2 incomes after deductions/child tax credits will land us in the middle of the 22% marginal tax bracket range \\~150k. The self employment income will likely be about 30-40k over the year. My plan for estimated self employment + income taxes on exclusively the SE income is to assume all of that income will be taxed at 22% rate (because of where the W2 income left us in the marginal brackets). This will be in addition to 92.35% \\* (12.4% + 2.9%) for SS and Medicare. This brings that self employment income taxation to about 36.1% for all federal taxes, plus additional 4.4% state income tax. This 40.5% on every SE dollar. This seems high, but is this correct if I'm fairly certain all of this SE income will take place in the 22% marginal bracket? I plan to pay at this rate in Estimated Taxes and then start to decrease/adjust if I ",
+      "engagement": 18,
+      "source": "personalfinance__self employment tax"
+    },
+    {
+      "id": "13519ra",
+      "title": "If you are self employed, having to file a Schedule C with your Form 1040 tax tax return, having an LLC or regular sole prop/partnership, did you ever get audited by the IRS? I was curious how it went/what they wanted and if everything turned out ok?",
+      "score": 3,
+      "comments": 5,
+      "date": 1682975156,
+      "selftext": "If you are self employed, having to file a Schedule C with your Form 1040 tax tax return, having an LLC or regular sole prop/partnership, did you ever get audited by the IRS?  I was curious how it went/what they wanted and if everything turned out ok?",
+      "engagement": 15,
+      "source": "selfemployed__schedule c"
+    },
+    {
+      "id": "m02t6u",
+      "title": "Schedule C Tax Question",
+      "score": 2,
+      "comments": 7,
+      "date": 1615160809,
+      "selftext": "I heard your LLC doesn’t need to file taxes if the bank account is under $400 on December 31st? Is this true, I’m a new business owner trying to learn. Thanks in advance.",
+      "engagement": 14,
+      "source": "selfemployed__schedule c"
+    },
+    {
+      "id": "ivyc17",
+      "title": "Quickbooks: Simple start or Self-employed?",
+      "score": 1,
+      "comments": 13,
+      "date": 1600541311,
+      "selftext": "Trying to determine what version I need. Been trying to research but can't find a good answer that fits my situation.\n\n1. Two truck owner operator LLC is filed as a S-corp.\n2. The two trucks will be leased to another company.\n3. Two managers, myself and my wife, both will be getting a salary. We will not be the drivers, we will be paying the drivers.\n4. Will have expenses related to running two trucks to include insurance, repairs, trailer rental, fuel, driver salary\n\nThere isn't enough information on the QB website to determine if I need the Simple Start or the cheaper Self-Employed option and I dont want to overpay for something I dont need.",
+      "engagement": 13,
+      "source": "smallbusiness__quickbooks self employed"
+    },
+    {
+      "id": "kktkkm",
+      "title": "Freshbooks vs Quickbooks for Self Employed",
+      "score": 2,
+      "comments": 6,
+      "date": 1609029432,
+      "selftext": "Hi everyone, I've been using Freshbooks for almost 4 years and am looking to see if Quickbooks would be a better accounting/invoicing/time tracking software for me. I'm self employed and do service type work, and have zero employees. Occasionally I'll hire a subcontractor to help, but it's usually just myself doing the work.\n\nI love Freshbooks being very simple and easy to use, and love their time tracking tool. It is a MUST that I track my time since I do flat-rate or hourly rate work and need to stay within budget. I also work on retainer (prepayment of all services I render). The thing I dislike about Freshbooks is their retainer system is stubburn and doesn't allow me to adjust it as needed. So, I have to do workarounds for tracking payments/time for prepaid work to ensure I stay within my budgeted amount of time.\n\nI've tried Quickbooks once or twice, but I was turned off by TSheets for tracking my time. TSheets is advertised as tracking time for employees. Since I don't have any e",
+      "engagement": 12,
+      "source": "smallbusiness__quickbooks self employed"
+    },
+    {
+      "id": "1rnun7p",
+      "title": "\"Schedule C\" or \"Other Income\" for 1099-NEC",
+      "score": 2,
+      "comments": 6,
+      "date": 1772942455,
+      "selftext": "I'm using FreeTaxUSA to file our taxes. Last year, hubby was an independent contractor working for a company. He became a full time employee for that same company just last month. \n\nWe received his 1099-NEC and followed the instructions on the website. Got a bit confused because it was asking questions as if he was a small business owner and to link it to a business, which he doesn't have. Started over and filed it under Other Income instead. His 1099-NEC had instructions that said:\n\n\"If you are not an employee but amount in box 1 is not self-employment (SE) income (for example, it is income from a sporadic activity or a hobby), report the amount shown in box w on the \"Other Income\" line (on Schedule 1 (Form 1040))).\"\n\nI haven't fully submitted it yet and I've asked him to clarify with his accounting dept next week. We don't believe the 1099-NEC needs to be corrected. I just want to make sure we're doing this correctly. \n\nThank you.",
+      "engagement": 12,
+      "source": "IRS__schedule c"
+    }
+  ]
+}

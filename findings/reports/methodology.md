@@ -9,20 +9,23 @@ loop_state:
   cap_started_at: 21          # weekly % when run began
   iter_tier: medium           # ~1pp/tick
   iter_burn_pp: 1
-  active_direction: 2         # currently drilling
-  active_phase_started_at: 2026-05-07T14:55:00+03:00
-  active_phase_ticks: 3  # all 3 D2 ticks dispatched in parallel
-  active_phase_dimensions_done: []  # all in flight
-  active_phase_dimensions_in_flight:
-    - {tick: 1, dimensions: [ios_cross_check, iap_audit, founder_responsiveness], agent: aa24a355d9cfc11c1}
-    - {tick: 2, dimensions: [reddit_comment_tree_schedule_c], agent: aa133d597d0e279f3}
-    - {tick: 3, dimensions: [launch_readiness_d2], agent: aead31c778c8d26a3}
-  active_phase_dimensions_remaining: []
-  expected_pivot_after: tick 3 (when all 3 agents return)
-  exhausted_directions: [1]   # D1 declared exhausted before loop start
+  active_direction: 3         # PIVOTED D2 → D3
+  active_phase_started_at: 2026-05-07T15:30:00+03:00
+  active_phase_ticks: 0
+  active_phase_dimensions_done: []
+  active_phase_dimensions_in_flight: []
+  active_phase_dimensions_remaining:
+    - reviews_drill_solo_stride_1500
+    - ios_cross_check_solo_stride
+    - iap_audit_solo_stride
+    - asa_d3_keywords
+    - launch_readiness_d3
+    - tiktok_gig_drivers_validation
+  exhausted_directions: [1, 2]   # D1 pre-loop, D2 after Phase B 3 ticks
   pivot_history:
     - {from: null, to: 1, at_tick: 0, reason: "loop start, D1 was top scoreboard"}
     - {from: 1, to: 2, at_tick: 0, reason: "D1 already exhausted in main run pre-loop: 11/11 applicable dimensions done"}
+    - {from: 2, to: 3, at_tick: 3, reason: "D2 Phase B 3 ticks completed: iOS+IAP+founder resp + Reddit comment-tree + launch readiness. Top finding: SoloLedger app name + Schedule C estimator app ASA #1 + iOS 81.6% recent low. Reddit revealed users prefer free Wave/Xero so wedge repositioned to free-tier-parity + $39 lifetime US-tax differentiation."}
   start_limits: {session: 16, weekly: 25}
   expected_max_ticks: 10
 ```

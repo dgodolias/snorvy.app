@@ -300,6 +300,89 @@ This validates Direction 2 with **massive force**:
 - **Concrete keyword spike validated**: "quickbooks self employed alternative" + "simple invoice" + "simple expense tracking" all rising
 - **Verbatim user voice INCLUDES the differentiation thesis** ("most small businesses want a simplified online version that just tracks expenses and invoices with simple reports") — this IS Direction 2 in user's own words.
 
+### v9 LOOP TICK 1 finding (added 2026-05-07): IAP ceiling **12× expansion**
+
+Live Play Store IAP audit (loop Phase B Tick 1):
+- **QBSE legacy** (`com.intuit.qbse`): IAP $2.49–$35.00 — Intuit explicitly redirects new users to Solopreneur in description
+- **Solopreneur** (`com.intuit.quickbooks`, now branded "Intuit QuickBooks for Business"): IAP **$0.99–$420.00** — **12× ceiling expansion vs QBSE**
+- **Keeper Tax** (`com.keepertax`): NO Play IAP — pricing $20/mo collected via web direct billing only, only 100k installs (vs Intuit's 5M+)
+- **iOS QBSE listing**: HTTP 404, deprecated. All iOS self-employed traffic now flows through one mega-listing `id 584606479` ("Intuit QuickBooks for Business", 231k reviews, 4.72★) which **masks self-employed sub-segment pain** — iOS is essentially a black box for displacement target validation
+
+**Active price-hike evidence** (2026-04 / 2026-05 reviews):
+
+> [Solopreneur 1★ UK 2026-05-03] "this calendar year, **I'm being double charged. £11.99 & £18.99.** Quickbooks can't help, as I subscribe through Google Play."
+
+> [Solopreneur 1★ UK 2026-05-02] "**Atrocious money-leeching practices.** Exactly what I feared the MTD transition would lead to."
+
+> [Solopreneur 1★ UK 2026-04-27] "Quickbooks Self Employed worked well, but **this Sole Trader Plus is terrible.**" — explicit before/after rename.
+
+### ⚠️ v9 LOOP TICK 2 COUNTER-FINDING: D2 Reddit demand routes to FREE incumbents
+
+**MAJOR caveat from Reddit comment-tree depth scan** (12 query × 6-thread comment-tree on r/personalfinance + r/SmallBusiness + r/freelance + r/IRS + r/tax + r/Solopreneur):
+
+- **ZERO explicit "I'd pay for" statements** across 77 fetched comments across 6 high-engagement threads
+- Reddit user-voice routes OVERWHELMINGLY to FREE incumbents:
+  - **Xero**: 9 mentions ("chomping at QB's heels")
+  - **Wave (waveapps)**: 7 mentions ("Always surprised at the lack of waveapps.com suggestions. I loved that.")
+  - **FreshBooks**: 5 mentions
+  - **ERPNext**: free self-hosted alternative ("track both personal and business expenses, get real-time tax estimates")
+- **Top 49-thumb comment** in r/smallbusiness "Alternatives to QBSE?": *"$160 is a lot cheaper than getting audited"* — defending Solopreneur pricing, signaling willingness-to-pay anchored to audit-fear, NOT productivity gains (high bar for displacement)
+- **24-thumb comment in r/taxpros**: pros confirm "$100-200 is [un]fair to you for [bookkeeping a Schedule C client]" — Schedule C bookkeeping is unprofitable at consumer-affordable prices
+
+### Implication — D2 wedge MUST REPOSITION (lessons from Tick 1+2)
+
+**Old wedge (now invalidated)**: "Cheaper than Solopreneur ($18.99/mo) + Keeper ($20/mo)" — Reddit users don't pay $X/mo at all; they use Wave/Xero free.
+
+**New wedge (v9 Loop revision)**: 
+- ❌ NOT competing on price ($4.99/mo still loses to Wave $0)
+- ✅ **Mobile-native + truly offline + no ecosystem lock-in** — Wave/Xero are web-first; their mobile experiences are afterthoughts. The wedge is "we're MOBILE-NATIVE for self-employed who work in the field, with the same $0 free tier".
+- ✅ **Schedule C estimator + mileage tracking + invoicing in ONE local app** — Wave doesn't have mileage; Xero doesn't have a Schedule C estimator. This is the missing combination.
+- ✅ **No internet required** — Wave/Xero are cloud-only. Field workers (contractors, drivers) need offline.
+- ✅ **No QBSE migration** — Solopreneur refugees explicitly want OUT of Intuit's ecosystem; "Sole Trader Plus is terrible" verbatim
+
+**Confidence revised**: D2 was HIGH after Solopreneur 61.4% finding. Reddit demand counter-finding drops to **MEDIUM-HIGH** (still strong on Play Store complaint patterns but Reddit demand signal is for FREE, not paid alternatives). The play becomes a **freemium-first** strategy: lead with completely free tier (covers all Wave/Xero parity features), $39 lifetime ONLY for premium add-ons (multi-year reports, cloud backup, multi-business).
+
+Y1 ARR scenarios revised: paid conversion will be lower than initially modeled. Realistic base case ~$10-15k Y1 ARR (vs prior $25-35k estimate).
+
+### v9 LOOP TICK 3 (D2 launch readiness) — recommended pack
+
+- **App name (40-char title)**: `SoloLedger: 1099 Tax + Schedule C` (33 chars, trademark-clean — no Intuit/QuickBooks/Keeper/Stride/Hurdlr/Found/FlyFin collision)
+- **iOS subtitle (26 chars max)**: `Schedule C in one tap` (21 chars)
+- **Anti-positioning hook** (legal-safe, no name): *"The self-employed tax app that won't sunset on you"* — directly invokes Intuit QBSE sunset trauma without naming it
+- **5 EMPTY positioning slots SoloLedger occupies simultaneously**:
+  1. "Schedule C in one tap" — zero competitors lead with this
+  2. "Free Schedule C estimator forever" — Keeper paywalls at $399, Hurdlr at $99/yr, Stride doesn't preview Schedule C lines
+  3. "Lifetime price" — zero of 7 incumbents offer non-subscription
+  4. "QBSE migration import" — Solopreneur ignores refugees
+  5. "No bank login required" — every incumbent brags about Plaid/9,500-bank linking; serves audit-fearful users
+- **#1 ASA keyword by composite**: 3-way tie at composite 10.0 — `QBSE alternative` / `Schedule C estimator app` / `Solopreneur alternative`. **Primary anchor**: "**Schedule C estimator app**" (highest evergreen volume, zero direct title-competitors)
+- **ProductHunt launch**: **Tue Jun 3, 2026, 12:01am ET** (reuse D1's Tuesday low-competition pattern)
+- **#1 subreddit thread**: **r/tax weekly Tax Question Megathread** (auto-stickied Monday 00:00 UTC, 38K members) — perfectly framed for tool-mention organic drop
+- **Backup subreddits**: r/freelance Self-Promotion Saturday + r/Entrepreneur Thank Me Thursday
+
+Solopreneur description uses "AI" **11 times** — clear positioning opening for "no AI clutter, just simple tax math" angle.
+
+### v9 LOOP TICK 1 deeper iOS finding (added)
+
+Intuit consolidated QBSE-iOS + Solopreneur-iOS into ONE listing (`id 584606479` "Intuit QuickBooks for Business"); legacy QBSE iOS `id 1056941055` returns HTTP 404 (deprecated).
+
+Recent **500 iOS reviews on `id 584606479`**: **81.6% ≤2★, 65% pure 1★** — significantly MORE broken than Android (Solopreneur 61.4% Android low_pct). The iOS consolidation MASKS self-employed sub-segment pain inside a generic enterprise listing — abandoned iOS users are an even larger TAM than visible.
+
+> [iOS 1★ 2026-04] "**Mileage tracker stops tracking on his own periodically, which I'm guessing is because of the new AI implementation. Just terrible for $20.**"
+
+**Solopreneur founder responsiveness**: 99.3% (133/134 newest 1-3★) — even higher than QBSE's 97% — BUT **100% canned Intuit template** (greeting + named CSR sign-off + redirect to QBCares@Intuit.com). Zero in-thread bug-fix engagement, pure escalation funnel. Solo dev who actually ships bug fixes in next build wins on real care, not response volume.
+
+### D2 final v9 reconciled wedge
+
+Combining Tick 1 + 2 + 3 findings, the refined D2 strategy:
+- 🆓 **FREE tier matches Wave/Xero parity** (invoice + expense tracking + reports + cloud sync) — commoditized, competes against $0 incumbents
+- 💎 **$39 lifetime UNLOCK for US-tax differentiation** (Schedule C quarterly estimator + mileage tracking + 1099 categorization) — features Wave/Xero deliberately don't ship
+- 📱 **Mobile-native + truly offline** — Wave/Xero are web-first; mobile is afterthought
+- 🚫 **No bank login required** — serves audit-fearful + privacy-conscious users; differentiates against Plaid/Found
+- 🔄 **QBSE migration import** — explicit feature for Solopreneur refugees
+
+**D2 v9 final confidence**: **MEDIUM-HIGH** (was HIGH before Tick 2; downgrade compensated by Tick 1+3 evidence). The product pain is real and accelerating; monetization is harder but the lifetime $39 + free-tier-Wave-parity strategy threads the needle.
+
 **Schedule C estimator competitor**: Keeper Tax (`com.keepertax`)
 - 100k installs, 4.53★, **$399/year** (web subscription)
 - 28-thumb 1★ complaint: "this price increase is crazy work. **399 is out of bounds**"

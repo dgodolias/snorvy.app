@@ -1,0 +1,56 @@
+{
+  "sa": {
+    "country": "sa",
+    "title": "العناية بالذات : كيفية العناية",
+    "installs": "+1,000",
+    "histogram": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0
+    },
+    "offersIAP": false,
+    "adSupported": true,
+    "total_reviews_pulled": 0,
+    "low_reviews_count": 0,
+    "low_reviews_pct": null,
+    "low_reviews": []
+  },
+  "ae": {
+    "country": "ae",
+    "title": "العناية بالذات : كيفية العناية",
+    "installs": "+1,000",
+    "histogram": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0
+    },
+    "offersIAP": false,
+    "adSupported": true,
+    "total_reviews_pulled": 0,
+    "low_reviews_count": 0,
+    "low_reviews_pct": null,
+    "low_reviews": []
+  },
+  "eg": {
+    "country": "eg",
+    "title": "العناية بالذات : كيفية العناية",
+    "installs": "+1,000",
+    "histogram": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0
+    },
+    "offersIAP": false,
+    "adSupported": true,
+    "total_reviews_pulled": 0,
+    "low_reviews_count": 0,
+    "low_reviews_pct": null,
+    "low_reviews": []
+  }
+}

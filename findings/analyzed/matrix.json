@@ -25,7 +25,7 @@
     "tiktok_views_B": 649.9,
     "tiktok_total_likes": 2568,
     "cross_country_count": 4,
-    "monthly_rpu_usd": 6,
+    "monthly_rpu_usd": 4.5,
     "conversion_rate": 0.0125,
     "cultural_risk": false,
     "composite_score": 17,
@@ -150,10 +150,10 @@
     "tiktok_views_B": 649.9,
     "tiktok_total_likes": 19733,
     "cross_country_count": 4,
-    "monthly_rpu_usd": 4,
+    "monthly_rpu_usd": 1.8,
     "conversion_rate": 0.004,
     "cultural_risk": false,
-    "composite_score": 16,
+    "composite_score": 15,
     "top_quotes": [
       {
         "score": 1,
@@ -229,213 +229,6 @@
     "dominant_complaint_themes": []
   },
   {
-    "cell": "MX/couple",
-    "country": "MX",
-    "niche": "couple",
-    "top_app": {
-      "appId": "ltd.love8.couples.relationship",
-      "title": "Love8 - App para parejas",
-      "score": 4.375,
-      "ratings": 36013,
-      "installs": "5,000,000+",
-      "histogram": {
-        "1": 2986,
-        "2": 874,
-        "3": 2684,
-        "4": 2382,
-        "5": 26994
-      },
-      "offersIAP": true,
-      "IAPRange": "$19.00-$1,749.00 por elemento",
-      "adSupported": true
-    },
-    "star1_ratio_pct": 8.3,
-    "low_pct": 16.7,
-    "tiktok_views_B": 649.9,
-    "tiktok_total_likes": 29783,
-    "cross_country_count": 4,
-    "monthly_rpu_usd": 2,
-    "conversion_rate": 0.0075,
-    "cultural_risk": false,
-    "composite_score": 15,
-    "top_quotes": [
-      {
-        "score": 1,
-        "thumbs": 30,
-        "text": "Estoy dando de más aún poniéndoles 1 estrella, la ubicación muchísimas veces es imprecisa, notifica q llega o salio de algún lugar cuando no es verdad o también sale q esta en tal sitio cuando realmente esta en otro y eso ocurre a pesar de que la ubicación está activa siempre, la"
-      },
-      {
-        "score": 2,
-        "thumbs": 28,
-        "text": "tengo miedo de que me secuestren"
-      },
-      {
-        "score": 1,
-        "thumbs": 24,
-        "text": "la app al principio parecía increíble, hasta compramos el premium porque valía mucho la pena, pero ahora que han pasado meses de que la tenemos da muchísimos fallos, aunque la tengas abierta y con la ubicación puesta da errores y casi siempre sale como inactivo, los horarios de d"
-      },
-      {
-        "score": 1,
-        "thumbs": 21,
-        "text": "la he tenido instalada como un mes, realmente no sirve para mucho. -una mascota que todo el rato está molestando. - por todo hay que pagar - la ubicación no es 100% real, te envía mensaje de entro o salió de algún sitio cuando no es verdad. a la otra persona le manda que fuiste t"
-      },
-      {
-        "score": 1,
-        "thumbs": 18,
-        "text": "Desintalé otra app por esta y lo que no me gusta es que para ver su recorrido, su batería y su wi fi se tiene que pagar, deberían tener al menos esas opciones gratis. También la ubicación se llega a mover mucho cuando la persona no se ha ido del lugar."
-      }
-    ],
-    "top_tiktok_comments": [
-      {
-        "likes": 7162,
-        "text": "No me manda mensajes me va mandar una notita 🫠"
-      },
-      {
-        "likes": 6085,
-        "text": "Like to pause"
-      },
-      {
-        "likes": 2332,
-        "text": "Imagine waking up to “it’s over”"
-      },
-      {
-        "likes": 2303,
-        "text": "mmm me gusta el detallito del gps"
-      },
-      {
-        "likes": 1391,
-        "text": "Con esa app descubrí que me engañaban jajajaja"
-      }
-    ],
-    "top_reddit_posts": [
-      {
-        "sub": "",
-        "title": "Partner 29m used 3some app for years to try and facilitate couple experiences. I download it, he says we should delete it as its 'toxic'. Should I be worried?",
-        "score": 313,
-        "comments": 74,
-        "body": "Partner was experienced in 3somes and we discussed exploring them a few years back. We've been together 5yrs. I was initially hesitant but open to explore he downloaded an app similar to tinder but for kink/polyamory and said he would manage as a couple account. \n\nWhen asked abou"
-      },
-      {
-        "sub": "",
-        "title": "My wife (32F) found my (32M) old couple/dating app downloads and thinks I wanted other women",
-        "score": 0,
-        "comments": 37,
-        "body": "My wife (32F) and I (32M) have been going through a rough patch, and something from my phone history has made things worse. She saw that I had downloaded several couple/dating apps and tried some AI adult content. I didn’t even sign up for most of these apps, and on the few I did"
-      },
-      {
-        "sub": "",
-        "title": "New GF (3 weeks official, after 4-5 months together) dowloaded a dating app and sent a few messages (never met anyone) during a couple of days following a big argument - should I forgive her, if she works hard to rebuild trust? She’s 27, I’m 29.",
-        "score": 2,
-        "comments": 29,
-        "body": "We became official 3 weeks ago, after seeing each other for 4-5 months - we love each other, but have had semi-frequent arguments over these months. After the latest argument, she asked for a couple of days to think - which she had, and after which we reunited.\nHowever, a day lat"
-      }
-    ],
-    "dominant_complaint_themes": [
-      {
-        "theme": "paywall_locked",
-        "count": 53
-      },
-      {
-        "theme": "crashes_bugs",
-        "count": 12
-      },
-      {
-        "theme": "pricing_billing",
-        "count": 8
-      },
-      {
-        "theme": "too_many_ads",
-        "count": 6
-      },
-      {
-        "theme": "support_unresponsive",
-        "count": 3
-      }
-    ]
-  },
-  {
-    "cell": "EG/couple",
-    "country": "EG",
-    "niche": "couple",
-    "top_app": {
-      "appId": "com.buzzarab.buzzarab",
-      "title": "buzzArab - زواج وتعارف ودردشة",
-      "score": 4.2411013,
-      "ratings": 111844,
-      "installs": "+5,000,000",
-      "histogram": {
-        "1": 13892,
-        "2": 3377,
-        "3": 6006,
-        "4": 7129,
-        "5": 81415
-      },
-      "offersIAP": false,
-      "adSupported": true
-    },
-    "star1_ratio_pct": 12.4,
-    "low_pct": 12,
-    "tiktok_views_B": 649.9,
-    "tiktok_total_likes": 0,
-    "cross_country_count": 2,
-    "monthly_rpu_usd": 6,
-    "conversion_rate": 0.01,
-    "cultural_risk": false,
-    "composite_score": 15,
-    "top_quotes": [
-      {
-        "score": 1,
-        "thumbs": 3,
-        "text": "لا أعلم ما به عندما اريد ان اتطلع على الرسائل يتوقف لا يعمل بشكل جيد اتمنى التعديل"
-      },
-      {
-        "score": 1,
-        "thumbs": 0,
-        "text": "شباب بلغو عن التطبيق التطبيق وهمي تفي عليهم"
-      },
-      {
-        "score": 1,
-        "thumbs": 0,
-        "text": "نزل التطبيق وبعد ما. ينزل التطبيق كل فيشار وأستنانه بعد اسبوع لينتحقق من اعصابك خاااااااا تفوووووه"
-      },
-      {
-        "score": 1,
-        "thumbs": 0,
-        "text": "يغلق ويوقف الدردشه ف أمور ضروريه احنا ليست ضغار"
-      },
-      {
-        "score": 1,
-        "thumbs": 0,
-        "text": "بقالي 3سنين مادخلتش البرنامج كل ما حاول ادخل يقولي انت متزوج الدنيا بتتغير ليه البرنامج ده كده ايه التعالي ده"
-      }
-    ],
-    "top_tiktok_comments": [],
-    "top_reddit_posts": [
-      {
-        "sub": "",
-        "title": "Partner 29m used 3some app for years to try and facilitate couple experiences. I download it, he says we should delete it as its 'toxic'. Should I be worried?",
-        "score": 313,
-        "comments": 74,
-        "body": "Partner was experienced in 3somes and we discussed exploring them a few years back. We've been together 5yrs. I was initially hesitant but open to explore he downloaded an app similar to tinder but for kink/polyamory and said he would manage as a couple account. \n\nWhen asked abou"
-      },
-      {
-        "sub": "",
-        "title": "My wife (32F) found my (32M) old couple/dating app downloads and thinks I wanted other women",
-        "score": 0,
-        "comments": 37,
-        "body": "My wife (32F) and I (32M) have been going through a rough patch, and something from my phone history has made things worse. She saw that I had downloaded several couple/dating apps and tried some AI adult content. I didn’t even sign up for most of these apps, and on the few I did"
-      },
-      {
-        "sub": "",
-        "title": "New GF (3 weeks official, after 4-5 months together) dowloaded a dating app and sent a few messages (never met anyone) during a couple of days following a big argument - should I forgive her, if she works hard to rebuild trust? She’s 27, I’m 29.",
-        "score": 2,
-        "comments": 29,
-        "body": "We became official 3 weeks ago, after seeing each other for 4-5 months - we love each other, but have had semi-frequent arguments over these months. After the latest argument, she asked for a couple of days to think - which she had, and after which we reunited.\nHowever, a day lat"
-      }
-    ],
-    "dominant_complaint_themes": []
-  },
-  {
     "cell": "SA/couple",
     "country": "SA",
     "niche": "couple",
@@ -460,7 +253,7 @@
     "tiktok_views_B": 649.9,
     "tiktok_total_likes": 0,
     "cross_country_count": 2,
-    "monthly_rpu_usd": 60,
+    "monthly_rpu_usd": 7.5,
     "conversion_rate": 0.015,
     "cultural_risk": false,
     "composite_score": 15,
@@ -543,7 +336,7 @@
     "tiktok_views_B": 649.9,
     "tiktok_total_likes": 1438,
     "cross_country_count": 4,
-    "monthly_rpu_usd": 2.8,
+    "monthly_rpu_usd": 2.1,
     "conversion_rate": 0.0075,
     "cultural_risk": false,
     "composite_score": 14,
@@ -639,6 +432,131 @@
       {
         "theme": "too_many_ads",
         "count": 4
+      }
+    ]
+  },
+  {
+    "cell": "MX/couple",
+    "country": "MX",
+    "niche": "couple",
+    "top_app": {
+      "appId": "ltd.love8.couples.relationship",
+      "title": "Love8 - App para parejas",
+      "score": 4.375,
+      "ratings": 36013,
+      "installs": "5,000,000+",
+      "histogram": {
+        "1": 2986,
+        "2": 874,
+        "3": 2684,
+        "4": 2382,
+        "5": 26994
+      },
+      "offersIAP": true,
+      "IAPRange": "$19.00-$1,749.00 por elemento",
+      "adSupported": true
+    },
+    "star1_ratio_pct": 8.3,
+    "low_pct": 16.7,
+    "tiktok_views_B": 649.9,
+    "tiktok_total_likes": 29783,
+    "cross_country_count": 4,
+    "monthly_rpu_usd": 1.5,
+    "conversion_rate": 0.0075,
+    "cultural_risk": false,
+    "composite_score": 14,
+    "top_quotes": [
+      {
+        "score": 1,
+        "thumbs": 30,
+        "text": "Estoy dando de más aún poniéndoles 1 estrella, la ubicación muchísimas veces es imprecisa, notifica q llega o salio de algún lugar cuando no es verdad o también sale q esta en tal sitio cuando realmente esta en otro y eso ocurre a pesar de que la ubicación está activa siempre, la"
+      },
+      {
+        "score": 2,
+        "thumbs": 28,
+        "text": "tengo miedo de que me secuestren"
+      },
+      {
+        "score": 1,
+        "thumbs": 24,
+        "text": "la app al principio parecía increíble, hasta compramos el premium porque valía mucho la pena, pero ahora que han pasado meses de que la tenemos da muchísimos fallos, aunque la tengas abierta y con la ubicación puesta da errores y casi siempre sale como inactivo, los horarios de d"
+      },
+      {
+        "score": 1,
+        "thumbs": 21,
+        "text": "la he tenido instalada como un mes, realmente no sirve para mucho. -una mascota que todo el rato está molestando. - por todo hay que pagar - la ubicación no es 100% real, te envía mensaje de entro o salió de algún sitio cuando no es verdad. a la otra persona le manda que fuiste t"
+      },
+      {
+        "score": 1,
+        "thumbs": 18,
+        "text": "Desintalé otra app por esta y lo que no me gusta es que para ver su recorrido, su batería y su wi fi se tiene que pagar, deberían tener al menos esas opciones gratis. También la ubicación se llega a mover mucho cuando la persona no se ha ido del lugar."
+      }
+    ],
+    "top_tiktok_comments": [
+      {
+        "likes": 7162,
+        "text": "No me manda mensajes me va mandar una notita 🫠"
+      },
+      {
+        "likes": 6085,
+        "text": "Like to pause"
+      },
+      {
+        "likes": 2332,
+        "text": "Imagine waking up to “it’s over”"
+      },
+      {
+        "likes": 2303,
+        "text": "mmm me gusta el detallito del gps"
+      },
+      {
+        "likes": 1391,
+        "text": "Con esa app descubrí que me engañaban jajajaja"
+      }
+    ],
+    "top_reddit_posts": [
+      {
+        "sub": "",
+        "title": "Partner 29m used 3some app for years to try and facilitate couple experiences. I download it, he says we should delete it as its 'toxic'. Should I be worried?",
+        "score": 313,
+        "comments": 74,
+        "body": "Partner was experienced in 3somes and we discussed exploring them a few years back. We've been together 5yrs. I was initially hesitant but open to explore he downloaded an app similar to tinder but for kink/polyamory and said he would manage as a couple account. \n\nWhen asked abou"
+      },
+      {
+        "sub": "",
+        "title": "My wife (32F) found my (32M) old couple/dating app downloads and thinks I wanted other women",
+        "score": 0,
+        "comments": 37,
+        "body": "My wife (32F) and I (32M) have been going through a rough patch, and something from my phone history has made things worse. She saw that I had downloaded several couple/dating apps and tried some AI adult content. I didn’t even sign up for most of these apps, and on the few I did"
+      },
+      {
+        "sub": "",
+        "title": "New GF (3 weeks official, after 4-5 months together) dowloaded a dating app and sent a few messages (never met anyone) during a couple of days following a big argument - should I forgive her, if she works hard to rebuild trust? She’s 27, I’m 29.",
+        "score": 2,
+        "comments": 29,
+        "body": "We became official 3 weeks ago, after seeing each other for 4-5 months - we love each other, but have had semi-frequent arguments over these months. After the latest argument, she asked for a couple of days to think - which she had, and after which we reunited.\nHowever, a day lat"
+      }
+    ],
+    "dominant_complaint_themes": [
+      {
+        "theme": "paywall_locked",
+        "count": 53
+      },
+      {
+        "theme": "crashes_bugs",
+        "count": 12
+      },
+      {
+        "theme": "pricing_billing",
+        "count": 8
+      },
+      {
+        "theme": "too_many_ads",
+        "count": 6
+      },
+      {
+        "theme": "support_unresponsive",
+        "count": 3
       }
     ]
   },
@@ -746,84 +664,62 @@
     ]
   },
   {
-    "cell": "PH/couple",
-    "country": "PH",
+    "cell": "EG/couple",
+    "country": "EG",
     "niche": "couple",
     "top_app": {
-      "appId": "com.angcosmin.couple",
-      "title": "Couple Joy - Relationship App",
-      "score": 4.61,
-      "ratings": 60642,
-      "installs": "1,000,000+",
+      "appId": "com.buzzarab.buzzarab",
+      "title": "buzzArab - زواج وتعارف ودردشة",
+      "score": 4.2411013,
+      "ratings": 111844,
+      "installs": "+5,000,000",
       "histogram": {
-        "1": 1123,
-        "2": 561,
-        "3": 4828,
-        "4": 7187,
-        "5": 46604
+        "1": 13892,
+        "2": 3377,
+        "3": 6006,
+        "4": 7129,
+        "5": 81415
       },
-      "offersIAP": true,
-      "IAPRange": "₱19.00 - ₱585.00 per item",
-      "adSupported": false
+      "offersIAP": false,
+      "adSupported": true
     },
-    "star1_ratio_pct": 1.9,
+    "star1_ratio_pct": 12.4,
     "low_pct": 12,
     "tiktok_views_B": 649.9,
-    "tiktok_total_likes": 16884,
+    "tiktok_total_likes": 0,
     "cross_country_count": 2,
-    "monthly_rpu_usd": 2,
-    "conversion_rate": 0.004,
+    "monthly_rpu_usd": 2.4,
+    "conversion_rate": 0.01,
     "cultural_risk": false,
-    "composite_score": 13,
+    "composite_score": 14,
     "top_quotes": [
       {
         "score": 1,
-        "thumbs": 2,
-        "text": "it doesn't let u do a lot of things without paying"
+        "thumbs": 3,
+        "text": "لا أعلم ما به عندما اريد ان اتطلع على الرسائل يتوقف لا يعمل بشكل جيد اتمنى التعديل"
       },
       {
         "score": 1,
         "thumbs": 0,
-        "text": "can't export your journal..."
-      },
-      {
-        "score": 2,
-        "thumbs": 0,
-        "text": "we have the paid version of the app. the team needs to take the trouble to add more questions and enhance interaction. a very complacent app with no scope of getting more interesting. even the daily questions are sometimes so dull."
+        "text": "شباب بلغو عن التطبيق التطبيق وهمي تفي عليهم"
       },
       {
         "score": 1,
         "thumbs": 0,
-        "text": "Horrible app. Everything is behind a paywall"
+        "text": "نزل التطبيق وبعد ما. ينزل التطبيق كل فيشار وأستنانه بعد اسبوع لينتحقق من اعصابك خاااااااا تفوووووه"
       },
       {
         "score": 1,
         "thumbs": 0,
-        "text": "faltu app"
+        "text": "يغلق ويوقف الدردشه ف أمور ضروريه احنا ليست ضغار"
+      },
+      {
+        "score": 1,
+        "thumbs": 0,
+        "text": "بقالي 3سنين مادخلتش البرنامج كل ما حاول ادخل يقولي انت متزوج الدنيا بتتغير ليه البرنامج ده كده ايه التعالي ده"
       }
     ],
-    "top_tiktok_comments": [
-      {
-        "likes": 6086,
-        "text": "Like to pause"
-      },
-      {
-        "likes": 2332,
-        "text": "Imagine waking up to “it’s over”"
-      },
-      {
-        "likes": 1850,
-        "text": "I've the app, now I need a partner 🥲"
-      },
-      {
-        "likes": 1161,
-        "text": ""
-      },
-      {
-        "likes": 792,
-        "text": "your bf needs an app to remember your anniversary?"
-      }
-    ],
+    "top_tiktok_comments": [],
     "top_reddit_posts": [
       {
         "sub": "",
@@ -845,118 +741,6 @@
         "score": 2,
         "comments": 29,
         "body": "We became official 3 weeks ago, after seeing each other for 4-5 months - we love each other, but have had semi-frequent arguments over these months. After the latest argument, she asked for a couple of days to think - which she had, and after which we reunited.\nHowever, a day lat"
-      }
-    ],
-    "dominant_complaint_themes": [
-      {
-        "theme": "crashes_bugs",
-        "count": 1
-      },
-      {
-        "theme": "paywall_locked",
-        "count": 1
-      }
-    ]
-  },
-  {
-    "cell": "EG/astrology",
-    "country": "EG",
-    "niche": "astrology",
-    "top_app": {
-      "appId": "com.internetdesignzone.zodiacprofile",
-      "title": "برجك اليومي وقراءة الأبراج",
-      "score": 4.14,
-      "ratings": 20500,
-      "installs": "+1,000,000",
-      "histogram": {
-        "1": 2648,
-        "2": 1433,
-        "3": 996,
-        "4": 591,
-        "5": 14736
-      },
-      "offersIAP": false,
-      "adSupported": true
-    },
-    "star1_ratio_pct": 12.9,
-    "low_pct": 12,
-    "tiktok_views_B": 189.8,
-    "tiktok_total_likes": 2166,
-    "cross_country_count": 2,
-    "monthly_rpu_usd": 3,
-    "conversion_rate": 0.01,
-    "cultural_risk": true,
-    "composite_score": 13,
-    "top_quotes": [
-      {
-        "score": 1,
-        "thumbs": 1,
-        "text": "اين برج الجوزاء لا يوجد ليس جيداً 😒"
-      },
-      {
-        "score": 1,
-        "thumbs": 0,
-        "text": "اشوع تطبيق شفته لحد الان"
-      },
-      {
-        "score": 1,
-        "thumbs": 0,
-        "text": "ابشع تطبيق لا يستحق حتى نجمه واحده"
-      },
-      {
-        "score": 1,
-        "thumbs": 0,
-        "text": "كيف اترجمه الإعربي"
-      },
-      {
-        "score": 1,
-        "thumbs": 0,
-        "text": "لاتصدقو"
-      }
-    ],
-    "top_tiktok_comments": [
-      {
-        "likes": 509,
-        "text": ":أين هو جيش برج الجوزاء, 👂"
-      },
-      {
-        "likes": 336,
-        "text": "الجوزاء ♥️"
-      },
-      {
-        "likes": 135,
-        "text": "الميزان الجمال كلو شلون ٢٠ بالمية واصلا نكد كلو مابيعرفو هو كتير فكاهي"
-      },
-      {
-        "likes": 115,
-        "text": "الجوزاء صح كل شي"
-      },
-      {
-        "likes": 110,
-        "text": "الجوزاء مو مبين❤️🥺"
-      }
-    ],
-    "top_reddit_posts": [
-      {
-        "sub": "",
-        "title": "I want to start practicing again. Is there an app like Duolingo but for Witchcraft? ",
-        "score": 233,
-        "comments": 85,
-        "body": "I am falling behind and find myself days without practice. I need to start once more. And need sincere advice. Consistency and mental fatigue are the main pain points for me. "
-      },
-      {
-        "sub": "",
-        "title": "I want to start practicing again. Is there an app like Duolingo but for Witchcraft? ",
-        "score": 233,
-        "comments": 85,
-        "body": "I am falling behind and find myself days without practice. I need to start once more. And need sincere advice. Consistency and mental fatigue are the main pain points for me. "
-      },
-      {
-        "sub": "",
-        "title": "Asynchronous bookclub anyone? I bet we all have wonderful recommendations for books that could help us on our individual journeys, and help build our community. The Marco Polo app could host our discussion of the book of the month! Starting with \"For Small Creatures Such as We\" comment below to join",
-        "score": 207,
-        "comments": 87,
-        "body": ""
       }
     ],
     "dominant_complaint_themes": []
@@ -986,7 +770,7 @@
     "tiktok_views_B": 649.9,
     "tiktok_total_likes": 0,
     "cross_country_count": 2,
-    "monthly_rpu_usd": 40,
+    "monthly_rpu_usd": 6,
     "conversion_rate": 0.015,
     "cultural_risk": false,
     "composite_score": 13,
@@ -1069,7 +853,7 @@
     "tiktok_views_B": 189.8,
     "tiktok_total_likes": 304,
     "cross_country_count": 1,
-    "monthly_rpu_usd": 3,
+    "monthly_rpu_usd": 2.7,
     "conversion_rate": 0.0125,
     "cultural_risk": false,
     "composite_score": 12,
@@ -1194,7 +978,7 @@
     "tiktok_views_B": 189.8,
     "tiktok_total_likes": 1570,
     "cross_country_count": 1,
-    "monthly_rpu_usd": 1.4,
+    "monthly_rpu_usd": 1.26,
     "conversion_rate": 0.0075,
     "cultural_risk": false,
     "composite_score": 12,
@@ -1294,79 +1078,114 @@
     ]
   },
   {
-    "cell": "BR/video_editing",
-    "country": "BR",
-    "niche": "video_editing",
+    "cell": "PH/couple",
+    "country": "PH",
+    "niche": "couple",
     "top_app": {
-      "appId": "com.lemon.lvoverseas",
-      "title": "CapCut - Editor de Vídeos",
-      "score": 3.3767993,
-      "ratings": 12703776,
-      "installs": "1.000.000.000+",
+      "appId": "com.angcosmin.couple",
+      "title": "Couple Joy - Relationship App",
+      "score": 4.61,
+      "ratings": 60642,
+      "installs": "1,000,000+",
       "histogram": {
-        "1": 4049856,
-        "2": 720129,
-        "3": 712478,
-        "4": 835917,
-        "5": 6385349
+        "1": 1123,
+        "2": 561,
+        "3": 4828,
+        "4": 7187,
+        "5": 46604
       },
       "offersIAP": true,
-      "IAPRange": "R$ 0,90 – R$ 1.989,90 por item",
+      "IAPRange": "₱19.00 - ₱585.00 per item",
       "adSupported": false
     },
-    "star1_ratio_pct": 31.9,
+    "star1_ratio_pct": 1.9,
     "low_pct": 12,
-    "tiktok_views_B": 17033.5,
-    "tiktok_total_likes": 0,
-    "cross_country_count": 3,
-    "monthly_rpu_usd": 2.1,
-    "conversion_rate": 0.0075,
+    "tiktok_views_B": 649.9,
+    "tiktok_total_likes": 16884,
+    "cross_country_count": 2,
+    "monthly_rpu_usd": 1.2,
+    "conversion_rate": 0.004,
     "cultural_risk": false,
     "composite_score": 12,
     "top_quotes": [
       {
         "score": 1,
-        "thumbs": 0,
-        "text": "eu amo esse aplicativo e usava ele bastante mas agora eu entro no aplicativo e fala pra mim verificar a segurança sendo que eu abaixei pelo Play stories mesmo"
+        "thumbs": 2,
+        "text": "it doesn't let u do a lot of things without paying"
       },
       {
         "score": 1,
         "thumbs": 0,
-        "text": "N INSTALA MANO, É SIMPLISMENTE INÚTIL PQ TUDO TEM Q PAGAR!!! PRA VC TER UMA NOÇÃO TEM Q PAGAR ATÉ PRA COLOCAR VOZ, COLOCAR IMAGEM POR CIMA E SO TEM COMO GRAVAR ÁUDIO ATÉ 3 VEZES VC TEM Q PAGAR PRA COLOCAR MAIS. EU TE ODEIO CAPCUT! EU QUERIA NEM DAR ESTRELA"
+        "text": "can't export your journal..."
+      },
+      {
+        "score": 2,
+        "thumbs": 0,
+        "text": "we have the paid version of the app. the team needs to take the trouble to add more questions and enhance interaction. a very complacent app with no scope of getting more interesting. even the daily questions are sometimes so dull."
       },
       {
         "score": 1,
         "thumbs": 0,
-        "text": "Péssimo, instalei, e coloquei três vídeos para editar ficaram compactando, depois simplesmente não acontecia nada os vídeos não apareciam pra mim editar, desinstalei e instalei novamente e mesmo assim o erro persiste. Uma perda de tempo"
+        "text": "Horrible app. Everything is behind a paywall"
       },
       {
         "score": 1,
         "thumbs": 0,
-        "text": "muito ruins kkk meu deus como existia um APP asim"
-      },
-      {
-        "score": 1,
-        "thumbs": 0,
-        "text": "eu simplesmente não consigo cancelar o plano standart no samsung!!! péssimo, travado, tudo tem que pagar, não recomendo de jeito nenhum!!!!"
+        "text": "faltu app"
       }
     ],
-    "top_tiktok_comments": [],
-    "top_reddit_posts": [],
+    "top_tiktok_comments": [
+      {
+        "likes": 6086,
+        "text": "Like to pause"
+      },
+      {
+        "likes": 2332,
+        "text": "Imagine waking up to “it’s over”"
+      },
+      {
+        "likes": 1850,
+        "text": "I've the app, now I need a partner 🥲"
+      },
+      {
+        "likes": 1161,
+        "text": ""
+      },
+      {
+        "likes": 792,
+        "text": "your bf needs an app to remember your anniversary?"
+      }
+    ],
+    "top_reddit_posts": [
+      {
+        "sub": "",
+        "title": "Partner 29m used 3some app for years to try and facilitate couple experiences. I download it, he says we should delete it as its 'toxic'. Should I be worried?",
+        "score": 313,
+        "comments": 74,
+        "body": "Partner was experienced in 3somes and we discussed exploring them a few years back. We've been together 5yrs. I was initially hesitant but open to explore he downloaded an app similar to tinder but for kink/polyamory and said he would manage as a couple account. \n\nWhen asked abou"
+      },
+      {
+        "sub": "",
+        "title": "My wife (32F) found my (32M) old couple/dating app downloads and thinks I wanted other women",
+        "score": 0,
+        "comments": 37,
+        "body": "My wife (32F) and I (32M) have been going through a rough patch, and something from my phone history has made things worse. She saw that I had downloaded several couple/dating apps and tried some AI adult content. I didn’t even sign up for most of these apps, and on the few I did"
+      },
+      {
+        "sub": "",
+        "title": "New GF (3 weeks official, after 4-5 months together) dowloaded a dating app and sent a few messages (never met anyone) during a couple of days following a big argument - should I forgive her, if she works hard to rebuild trust? She’s 27, I’m 29.",
+        "score": 2,
+        "comments": 29,
+        "body": "We became official 3 weeks ago, after seeing each other for 4-5 months - we love each other, but have had semi-frequent arguments over these months. After the latest argument, she asked for a couple of days to think - which she had, and after which we reunited.\nHowever, a day lat"
+      }
+    ],
     "dominant_complaint_themes": [
       {
-        "theme": "paywall_locked",
-        "count": 5
-      },
-      {
         "theme": "crashes_bugs",
-        "count": 3
-      },
-      {
-        "theme": "refund_denied",
         "count": 1
       },
       {
-        "theme": "ai_complaint",
+        "theme": "paywall_locked",
         "count": 1
       }
     ]
@@ -1397,7 +1216,7 @@
     "tiktok_views_B": 72.8,
     "tiktok_total_likes": 0,
     "cross_country_count": 4,
-    "monthly_rpu_usd": 6,
+    "monthly_rpu_usd": 5.25,
     "conversion_rate": 0.0125,
     "cultural_risk": false,
     "composite_score": 12,
@@ -1446,92 +1265,107 @@
     ]
   },
   {
-    "cell": "TH/couple",
-    "country": "TH",
-    "niche": "couple",
+    "cell": "EG/astrology",
+    "country": "EG",
+    "niche": "astrology",
     "top_app": {
-      "appId": "ltd.love8.couples.relationship",
-      "title": "Love8 - แอปสำหรับคู่รัก",
-      "score": 4.4387755,
-      "ratings": 36037,
-      "installs": "5,000,000+",
+      "appId": "com.internetdesignzone.zodiacprofile",
+      "title": "برجك اليومي وقراءة الأبراج",
+      "score": 4.14,
+      "ratings": 20500,
+      "installs": "+1,000,000",
       "histogram": {
-        "1": 2571,
-        "2": 853,
-        "3": 1651,
-        "4": 4038,
-        "5": 26903
+        "1": 2648,
+        "2": 1433,
+        "3": 996,
+        "4": 591,
+        "5": 14736
       },
-      "offersIAP": true,
-      "IAPRange": "฿29.00 - ฿3,150.00 ต่อรายการ",
+      "offersIAP": false,
       "adSupported": true
     },
-    "star1_ratio_pct": 7.1,
+    "star1_ratio_pct": 12.9,
     "low_pct": 12,
-    "tiktok_views_B": 649.9,
-    "tiktok_total_likes": 0,
-    "cross_country_count": 4,
-    "monthly_rpu_usd": 2.8,
-    "conversion_rate": 0.004,
-    "cultural_risk": false,
+    "tiktok_views_B": 189.8,
+    "tiktok_total_likes": 2166,
+    "cross_country_count": 2,
+    "monthly_rpu_usd": 1.44,
+    "conversion_rate": 0.01,
+    "cultural_risk": true,
     "composite_score": 12,
     "top_quotes": [
       {
-        "score": 2,
-        "thumbs": 4,
-        "text": "แรกแอบก็ดีค่ะหลังๆมาตำแหน่งก็ไม่อัปเดตคนเดินทางไปไหนมาไหนตำแหน่งก็นิ่งไม่ขยับไปไหนอยู่แต่ที่เดิม"
-      },
-      {
-        "score": 2,
-        "thumbs": 3,
-        "text": "อัพเดตมา สถานะไม่ตรง แบตค้าง0%แบตไม่ขึ้นทั้งที่จริงแบตไม่ได้0% สถานะแอปไม่ค่อยอัปเดต"
-      },
-      {
-        "score": 2,
-        "thumbs": 3,
-        "text": "แทบจะเสียตังฟรี ระบบไม่อัพตำแหน่งแบบเรียลทาม ระบบสัตว์เลี้ยงชอบค้าง"
+        "score": 1,
+        "thumbs": 1,
+        "text": "اين برج الجوزاء لا يوجد ليس جيداً 😒"
       },
       {
         "score": 1,
-        "thumbs": 1,
-        "text": "แรกๆดี หลังๆไม่ได้ไปไหนแต่พิกัดไปทั่วเองอัติโนมัติ เมื่อก่อนดีมาก แต่เดี๋ยวนี้รู้สึกแย่ลง ปรับปรุงนะคะ"
+        "thumbs": 0,
+        "text": "اشوع تطبيق شفته لحد الان"
       },
       {
         "score": 1,
-        "thumbs": 1,
-        "text": "โอ้ยโมโห เงินในวอไม่มีแต่แอปไปกดสมัครพรีเมี่ยมให้ทั้งที่เรายังไม่ได้จ่ายเงินแต่ไปสมัครให้เอง ยกเลิกก้ไม่ได้ขอเงินคืนก็ไม่ได้ ยังไม่พอไปล็อคApp store ไม่ให้โหลดแอปต้องจ่ายมาก่อนทั้งที่เงินไม่มี กลายเป็นไปเป็นหนีแอปนี้เฉย อห"
+        "thumbs": 0,
+        "text": "ابشع تطبيق لا يستحق حتى نجمه واحده"
+      },
+      {
+        "score": 1,
+        "thumbs": 0,
+        "text": "كيف اترجمه الإعربي"
+      },
+      {
+        "score": 1,
+        "thumbs": 0,
+        "text": "لاتصدقو"
       }
     ],
-    "top_tiktok_comments": [],
+    "top_tiktok_comments": [
+      {
+        "likes": 509,
+        "text": ":أين هو جيش برج الجوزاء, 👂"
+      },
+      {
+        "likes": 336,
+        "text": "الجوزاء ♥️"
+      },
+      {
+        "likes": 135,
+        "text": "الميزان الجمال كلو شلون ٢٠ بالمية واصلا نكد كلو مابيعرفو هو كتير فكاهي"
+      },
+      {
+        "likes": 115,
+        "text": "الجوزاء صح كل شي"
+      },
+      {
+        "likes": 110,
+        "text": "الجوزاء مو مبين❤️🥺"
+      }
+    ],
     "top_reddit_posts": [
       {
         "sub": "",
-        "title": "Partner 29m used 3some app for years to try and facilitate couple experiences. I download it, he says we should delete it as its 'toxic'. Should I be worried?",
-        "score": 313,
-        "comments": 74,
-        "body": "Partner was experienced in 3somes and we discussed exploring them a few years back. We've been together 5yrs. I was initially hesitant but open to explore he downloaded an app similar to tinder but for kink/polyamory and said he would manage as a couple account. \n\nWhen asked abou"
+        "title": "I want to start practicing again. Is there an app like Duolingo but for Witchcraft? ",
+        "score": 233,
+        "comments": 85,
+        "body": "I am falling behind and find myself days without practice. I need to start once more. And need sincere advice. Consistency and mental fatigue are the main pain points for me. "
       },
       {
         "sub": "",
-        "title": "My wife (32F) found my (32M) old couple/dating app downloads and thinks I wanted other women",
-        "score": 0,
-        "comments": 37,
-        "body": "My wife (32F) and I (32M) have been going through a rough patch, and something from my phone history has made things worse. She saw that I had downloaded several couple/dating apps and tried some AI adult content. I didn’t even sign up for most of these apps, and on the few I did"
+        "title": "I want to start practicing again. Is there an app like Duolingo but for Witchcraft? ",
+        "score": 233,
+        "comments": 85,
+        "body": "I am falling behind and find myself days without practice. I need to start once more. And need sincere advice. Consistency and mental fatigue are the main pain points for me. "
       },
       {
         "sub": "",
-        "title": "New GF (3 weeks official, after 4-5 months together) dowloaded a dating app and sent a few messages (never met anyone) during a couple of days following a big argument - should I forgive her, if she works hard to rebuild trust? She’s 27, I’m 29.",
-        "score": 2,
-        "comments": 29,
-        "body": "We became official 3 weeks ago, after seeing each other for 4-5 months - we love each other, but have had semi-frequent arguments over these months. After the latest argument, she asked for a couple of days to think - which she had, and after which we reunited.\nHowever, a day lat"
+        "title": "Asynchronous bookclub anyone? I bet we all have wonderful recommendations for books that could help us on our individual journeys, and help build our community. The Marco Polo app could host our discussion of the book of the month! Starting with \"For Small Creatures Such as We\" comment below to join",
+        "score": 207,
+        "comments": 87,
+        "body": ""
       }
     ],
-    "dominant_complaint_themes": [
-      {
-        "theme": "location_tracking",
-        "count": 1
-      }
-    ]
+    "dominant_complaint_themes": []
   },
   {
     "cell": "SA/astrology",
@@ -1558,7 +1392,7 @@
     "tiktok_views_B": 189.8,
     "tiktok_total_likes": 1811,
     "cross_country_count": 2,
-    "monthly_rpu_usd": 30,
+    "monthly_rpu_usd": 4.5,
     "conversion_rate": 0.015,
     "cultural_risk": true,
     "composite_score": 12,
@@ -1637,6 +1471,248 @@
     "dominant_complaint_themes": []
   },
   {
+    "cell": "BR/video_editing",
+    "country": "BR",
+    "niche": "video_editing",
+    "top_app": {
+      "appId": "com.lemon.lvoverseas",
+      "title": "CapCut - Editor de Vídeos",
+      "score": 3.3767993,
+      "ratings": 12703776,
+      "installs": "1.000.000.000+",
+      "histogram": {
+        "1": 4049856,
+        "2": 720129,
+        "3": 712478,
+        "4": 835917,
+        "5": 6385349
+      },
+      "offersIAP": true,
+      "IAPRange": "R$ 0,90 – R$ 1.989,90 por item",
+      "adSupported": false
+    },
+    "star1_ratio_pct": 31.9,
+    "low_pct": 12,
+    "tiktok_views_B": 17033.5,
+    "tiktok_total_likes": 0,
+    "cross_country_count": 3,
+    "monthly_rpu_usd": 1.75,
+    "conversion_rate": 0.0075,
+    "cultural_risk": false,
+    "composite_score": 11,
+    "top_quotes": [
+      {
+        "score": 1,
+        "thumbs": 0,
+        "text": "eu amo esse aplicativo e usava ele bastante mas agora eu entro no aplicativo e fala pra mim verificar a segurança sendo que eu abaixei pelo Play stories mesmo"
+      },
+      {
+        "score": 1,
+        "thumbs": 0,
+        "text": "N INSTALA MANO, É SIMPLISMENTE INÚTIL PQ TUDO TEM Q PAGAR!!! PRA VC TER UMA NOÇÃO TEM Q PAGAR ATÉ PRA COLOCAR VOZ, COLOCAR IMAGEM POR CIMA E SO TEM COMO GRAVAR ÁUDIO ATÉ 3 VEZES VC TEM Q PAGAR PRA COLOCAR MAIS. EU TE ODEIO CAPCUT! EU QUERIA NEM DAR ESTRELA"
+      },
+      {
+        "score": 1,
+        "thumbs": 0,
+        "text": "Péssimo, instalei, e coloquei três vídeos para editar ficaram compactando, depois simplesmente não acontecia nada os vídeos não apareciam pra mim editar, desinstalei e instalei novamente e mesmo assim o erro persiste. Uma perda de tempo"
+      },
+      {
+        "score": 1,
+        "thumbs": 0,
+        "text": "muito ruins kkk meu deus como existia um APP asim"
+      },
+      {
+        "score": 1,
+        "thumbs": 0,
+        "text": "eu simplesmente não consigo cancelar o plano standart no samsung!!! péssimo, travado, tudo tem que pagar, não recomendo de jeito nenhum!!!!"
+      }
+    ],
+    "top_tiktok_comments": [],
+    "top_reddit_posts": [],
+    "dominant_complaint_themes": [
+      {
+        "theme": "paywall_locked",
+        "count": 5
+      },
+      {
+        "theme": "crashes_bugs",
+        "count": 3
+      },
+      {
+        "theme": "refund_denied",
+        "count": 1
+      },
+      {
+        "theme": "ai_complaint",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "cell": "TH/couple",
+    "country": "TH",
+    "niche": "couple",
+    "top_app": {
+      "appId": "ltd.love8.couples.relationship",
+      "title": "Love8 - แอปสำหรับคู่รัก",
+      "score": 4.4387755,
+      "ratings": 36037,
+      "installs": "5,000,000+",
+      "histogram": {
+        "1": 2571,
+        "2": 853,
+        "3": 1651,
+        "4": 4038,
+        "5": 26903
+      },
+      "offersIAP": true,
+      "IAPRange": "฿29.00 - ฿3,150.00 ต่อรายการ",
+      "adSupported": true
+    },
+    "star1_ratio_pct": 7.1,
+    "low_pct": 12,
+    "tiktok_views_B": 649.9,
+    "tiktok_total_likes": 0,
+    "cross_country_count": 4,
+    "monthly_rpu_usd": 1.8,
+    "conversion_rate": 0.004,
+    "cultural_risk": false,
+    "composite_score": 11,
+    "top_quotes": [
+      {
+        "score": 2,
+        "thumbs": 4,
+        "text": "แรกแอบก็ดีค่ะหลังๆมาตำแหน่งก็ไม่อัปเดตคนเดินทางไปไหนมาไหนตำแหน่งก็นิ่งไม่ขยับไปไหนอยู่แต่ที่เดิม"
+      },
+      {
+        "score": 2,
+        "thumbs": 3,
+        "text": "อัพเดตมา สถานะไม่ตรง แบตค้าง0%แบตไม่ขึ้นทั้งที่จริงแบตไม่ได้0% สถานะแอปไม่ค่อยอัปเดต"
+      },
+      {
+        "score": 2,
+        "thumbs": 3,
+        "text": "แทบจะเสียตังฟรี ระบบไม่อัพตำแหน่งแบบเรียลทาม ระบบสัตว์เลี้ยงชอบค้าง"
+      },
+      {
+        "score": 1,
+        "thumbs": 1,
+        "text": "แรกๆดี หลังๆไม่ได้ไปไหนแต่พิกัดไปทั่วเองอัติโนมัติ เมื่อก่อนดีมาก แต่เดี๋ยวนี้รู้สึกแย่ลง ปรับปรุงนะคะ"
+      },
+      {
+        "score": 1,
+        "thumbs": 1,
+        "text": "โอ้ยโมโห เงินในวอไม่มีแต่แอปไปกดสมัครพรีเมี่ยมให้ทั้งที่เรายังไม่ได้จ่ายเงินแต่ไปสมัครให้เอง ยกเลิกก้ไม่ได้ขอเงินคืนก็ไม่ได้ ยังไม่พอไปล็อคApp store ไม่ให้โหลดแอปต้องจ่ายมาก่อนทั้งที่เงินไม่มี กลายเป็นไปเป็นหนีแอปนี้เฉย อห"
+      }
+    ],
+    "top_tiktok_comments": [],
+    "top_reddit_posts": [
+      {
+        "sub": "",
+        "title": "Partner 29m used 3some app for years to try and facilitate couple experiences. I download it, he says we should delete it as its 'toxic'. Should I be worried?",
+        "score": 313,
+        "comments": 74,
+        "body": "Partner was experienced in 3somes and we discussed exploring them a few years back. We've been together 5yrs. I was initially hesitant but open to explore he downloaded an app similar to tinder but for kink/polyamory and said he would manage as a couple account. \n\nWhen asked abou"
+      },
+      {
+        "sub": "",
+        "title": "My wife (32F) found my (32M) old couple/dating app downloads and thinks I wanted other women",
+        "score": 0,
+        "comments": 37,
+        "body": "My wife (32F) and I (32M) have been going through a rough patch, and something from my phone history has made things worse. She saw that I had downloaded several couple/dating apps and tried some AI adult content. I didn’t even sign up for most of these apps, and on the few I did"
+      },
+      {
+        "sub": "",
+        "title": "New GF (3 weeks official, after 4-5 months together) dowloaded a dating app and sent a few messages (never met anyone) during a couple of days following a big argument - should I forgive her, if she works hard to rebuild trust? She’s 27, I’m 29.",
+        "score": 2,
+        "comments": 29,
+        "body": "We became official 3 weeks ago, after seeing each other for 4-5 months - we love each other, but have had semi-frequent arguments over these months. After the latest argument, she asked for a couple of days to think - which she had, and after which we reunited.\nHowever, a day lat"
+      }
+    ],
+    "dominant_complaint_themes": [
+      {
+        "theme": "location_tracking",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "cell": "AE/selfcare",
+    "country": "AE",
+    "niche": "selfcare",
+    "top_app": {
+      "appId": "com.kayfiat.aleinayat.bialdhaat.app714835335",
+      "title": "العناية بالذات : كيفية العناية",
+      "ratings": 0,
+      "installs": "+1,000",
+      "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "offersIAP": false,
+      "adSupported": true
+    },
+    "star1_ratio_pct": 0,
+    "low_pct": null,
+    "tiktok_views_B": 152.7,
+    "tiktok_total_likes": 24810,
+    "cross_country_count": 2,
+    "monthly_rpu_usd": 5,
+    "conversion_rate": 0.015,
+    "cultural_risk": false,
+    "composite_score": 11,
+    "top_quotes": [],
+    "top_tiktok_comments": [
+      {
+        "likes": 4907,
+        "text": "تبخرون المنطقة ؟ انتبهي تزكم عليك"
+      },
+      {
+        "likes": 4092,
+        "text": "التبخير ينظف الرحم؟؟؟؟؟؟\nالرحم بينظف نفسه بنفسه!!!!!!!"
+      },
+      {
+        "likes": 3007,
+        "text": "طيب هاد روتين طبيعي اي بنت"
+      },
+      {
+        "likes": 2444,
+        "text": "كيف بركتي على الفحم؟"
+      },
+      {
+        "likes": 2201,
+        "text": "يعني ايه شفره بتشيل الشعر من الجذور"
+      }
+    ],
+    "top_reddit_posts": [
+      {
+        "sub": "",
+        "title": "I cut my screen time by 70% without deleting a single social media app.",
+        "score": 56,
+        "comments": 34,
+        "body": "Six months ago, I was a ghost of a person.\n\nI’d wake up at 7:00 AM, and before my feet even touched the floor, I was twenty minutes deep into social media. By noon, my brain felt like fried eggs. I was working a desk job, barely moving, and \"treating\" my stress by scrolling Short"
+      },
+      {
+        "sub": "",
+        "title": "Hint app made me notice patterns about myself I wasn’t really thinking about",
+        "score": 10,
+        "comments": 53,
+        "body": "I downloaded Hint pretty much by chance, and I didn’t have very high expectations for the app.\n\nhowever, some of the statements caught my attention not because they seemed magical but because they highlighted aspects of behavior that I recognize in myself, although I had never pu"
+      },
+      {
+        "sub": "",
+        "title": "what self improvement app made a real difference for you",
+        "score": 17,
+        "comments": 36,
+        "body": "Not asking for what's popular or what has the best rating. What actually moved something in your life, small or large, habit or mindset. What app contributed to a real change in how you live or work and what specifically did it do that other stuff hadn't.\n\nI'll go: Duolingo not b"
+      }
+    ],
+    "dominant_complaint_themes": []
+  },
+  {
     "cell": "TR/tarot",
     "country": "TR",
     "niche": "tarot",
@@ -1662,10 +1738,10 @@
     "tiktok_views_B": 214.8,
     "tiktok_total_likes": 103679,
     "cross_country_count": 5,
-    "monthly_rpu_usd": 2.25,
+    "monthly_rpu_usd": 1.95,
     "conversion_rate": 0.0125,
     "cultural_risk": false,
-    "composite_score": 11,
+    "composite_score": 10,
     "top_quotes": [
       {
         "score": 1,
@@ -1771,10 +1847,10 @@
     "tiktok_views_B": 189.8,
     "tiktok_total_likes": 661,
     "cross_country_count": 1,
-    "monthly_rpu_usd": 1,
+    "monthly_rpu_usd": 0.9,
     "conversion_rate": 0.0075,
     "cultural_risk": false,
-    "composite_score": 11,
+    "composite_score": 10,
     "top_quotes": [
       {
         "score": 1,
@@ -1867,82 +1943,6 @@
     ]
   },
   {
-    "cell": "AE/selfcare",
-    "country": "AE",
-    "niche": "selfcare",
-    "top_app": {
-      "appId": "com.kayfiat.aleinayat.bialdhaat.app714835335",
-      "title": "العناية بالذات : كيفية العناية",
-      "ratings": 0,
-      "installs": "+1,000",
-      "histogram": {
-        "1": 0,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0
-      },
-      "offersIAP": false,
-      "adSupported": true
-    },
-    "star1_ratio_pct": 0,
-    "low_pct": null,
-    "tiktok_views_B": 152.7,
-    "tiktok_total_likes": 24810,
-    "cross_country_count": 2,
-    "monthly_rpu_usd": 30,
-    "conversion_rate": 0.015,
-    "cultural_risk": false,
-    "composite_score": 11,
-    "top_quotes": [],
-    "top_tiktok_comments": [
-      {
-        "likes": 4907,
-        "text": "تبخرون المنطقة ؟ انتبهي تزكم عليك"
-      },
-      {
-        "likes": 4092,
-        "text": "التبخير ينظف الرحم؟؟؟؟؟؟\nالرحم بينظف نفسه بنفسه!!!!!!!"
-      },
-      {
-        "likes": 3007,
-        "text": "طيب هاد روتين طبيعي اي بنت"
-      },
-      {
-        "likes": 2444,
-        "text": "كيف بركتي على الفحم؟"
-      },
-      {
-        "likes": 2201,
-        "text": "يعني ايه شفره بتشيل الشعر من الجذور"
-      }
-    ],
-    "top_reddit_posts": [
-      {
-        "sub": "",
-        "title": "I cut my screen time by 70% without deleting a single social media app.",
-        "score": 56,
-        "comments": 34,
-        "body": "Six months ago, I was a ghost of a person.\n\nI’d wake up at 7:00 AM, and before my feet even touched the floor, I was twenty minutes deep into social media. By noon, my brain felt like fried eggs. I was working a desk job, barely moving, and \"treating\" my stress by scrolling Short"
-      },
-      {
-        "sub": "",
-        "title": "Hint app made me notice patterns about myself I wasn’t really thinking about",
-        "score": 10,
-        "comments": 53,
-        "body": "I downloaded Hint pretty much by chance, and I didn’t have very high expectations for the app.\n\nhowever, some of the statements caught my attention not because they seemed magical but because they highlighted aspects of behavior that I recognize in myself, although I had never pu"
-      },
-      {
-        "sub": "",
-        "title": "what self improvement app made a real difference for you",
-        "score": 17,
-        "comments": 36,
-        "body": "Not asking for what's popular or what has the best rating. What actually moved something in your life, small or large, habit or mindset. What app contributed to a real change in how you live or work and what specifically did it do that other stuff hadn't.\n\nI'll go: Duolingo not b"
-      }
-    ],
-    "dominant_complaint_themes": []
-  },
-  {
     "cell": "ID/astrology",
     "country": "ID",
     "niche": "astrology",
@@ -1968,7 +1968,7 @@
     "tiktok_views_B": 189.8,
     "tiktok_total_likes": 1721478,
     "cross_country_count": 3,
-    "monthly_rpu_usd": 0.6,
+    "monthly_rpu_usd": 0.54,
     "conversion_rate": 0.004,
     "cultural_risk": false,
     "composite_score": 10,
@@ -2360,7 +2360,7 @@
     "tiktok_views_B": 16358.6,
     "tiktok_total_likes": 0,
     "cross_country_count": 2,
-    "monthly_rpu_usd": 0.9,
+    "monthly_rpu_usd": 0.75,
     "conversion_rate": 0.004,
     "cultural_risk": false,
     "composite_score": 10,
@@ -2438,7 +2438,7 @@
     "tiktok_views_B": 17033.5,
     "tiktok_total_likes": 0,
     "cross_country_count": 3,
-    "monthly_rpu_usd": 0.9,
+    "monthly_rpu_usd": 0.75,
     "conversion_rate": 0.004,
     "cultural_risk": false,
     "composite_score": 10,
@@ -2487,192 +2487,6 @@
     ]
   },
   {
-    "cell": "SA/tarot",
-    "country": "SA",
-    "niche": "tarot",
-    "top_app": {
-      "appId": "com.muratalagoz.tarot12",
-      "title": "قراءة التاروت",
-      "score": 3.8,
-      "ratings": 763,
-      "installs": "+50,000",
-      "histogram": {
-        "1": 152,
-        "2": 0,
-        "3": 152,
-        "4": 0,
-        "5": 457
-      },
-      "offersIAP": true,
-      "IAPRange": "‏٢٫٩٩ ر.س.‏ - ‏١٩٤٫٩٩ ر.س.‏ لكل عنصر",
-      "adSupported": true
-    },
-    "star1_ratio_pct": 19.9,
-    "low_pct": 6,
-    "tiktok_views_B": 214.8,
-    "tiktok_total_likes": 99,
-    "cross_country_count": 2,
-    "monthly_rpu_usd": 22.5,
-    "conversion_rate": 0.015,
-    "cultural_risk": true,
-    "composite_score": 10,
-    "top_quotes": [
-      {
-        "score": 1,
-        "thumbs": 4,
-        "text": "برنامج زاي الخرا"
-      },
-      {
-        "score": 1,
-        "thumbs": 2,
-        "text": "كيفيه الاستعمال 🙂"
-      },
-      {
-        "score": 1,
-        "thumbs": 1,
-        "text": "سيء"
-      },
-      {
-        "score": 2,
-        "thumbs": 0,
-        "text": "برنامج فاشل يعني كله ب فلوس وبس مره وحده قرالي بدون فلوس نصيحه لحد ينزله"
-      },
-      {
-        "score": 2,
-        "thumbs": 0,
-        "text": "هو جميل لكن ليس مجاني حذفته"
-      }
-    ],
-    "top_tiktok_comments": [
-      {
-        "likes": 28,
-        "text": "شوقتيني مين هاد ه🤣🤣🤣"
-      },
-      {
-        "likes": 18,
-        "text": "زواج ان شاء الله اذا فيه خير الي"
-      },
-      {
-        "likes": 10,
-        "text": "استقبل طاقة الزواج والحب يا رب العالمين"
-      },
-      {
-        "likes": 8,
-        "text": "انا بفتح قلبي لحب صادق وبستقبل علاقة فيها امان واستقرار وزواج سعيد"
-      },
-      {
-        "likes": 6,
-        "text": "ندم ورجع"
-      }
-    ],
-    "top_reddit_posts": [
-      {
-        "sub": "",
-        "title": "Woke up with a migraine to find that this was my card of the day in my tarot app",
-        "score": 205,
-        "comments": 13,
-        "body": ""
-      },
-      {
-        "sub": "",
-        "title": "Woke up with a migraine to find that this was my card of the day in my tarot app",
-        "score": 205,
-        "comments": 13,
-        "body": ""
-      },
-      {
-        "sub": "",
-        "title": "Have you guys ever tried this app? How do you feel about it?",
-        "score": 22,
-        "comments": 27,
-        "body": ""
-      }
-    ],
-    "dominant_complaint_themes": []
-  },
-  {
-    "cell": "AE/astrology",
-    "country": "AE",
-    "niche": "astrology",
-    "top_app": {
-      "appId": "com.internetdesignzone.zodiacprofile",
-      "title": "برجك اليومي وقراءة الأبراج",
-      "score": 4.5142856,
-      "ratings": 20500,
-      "installs": "+1,000,000",
-      "histogram": {
-        "1": 0,
-        "2": 1138,
-        "3": 1138,
-        "4": 3986,
-        "5": 13666
-      },
-      "offersIAP": false,
-      "adSupported": true
-    },
-    "star1_ratio_pct": 0,
-    "low_pct": 12,
-    "tiktok_views_B": 189.8,
-    "tiktok_total_likes": 0,
-    "cross_country_count": 2,
-    "monthly_rpu_usd": 20,
-    "conversion_rate": 0.015,
-    "cultural_risk": true,
-    "composite_score": 10,
-    "top_quotes": [
-      {
-        "score": 1,
-        "thumbs": 1,
-        "text": "اين برج الجوزاء لا يوجد ليس جيداً 😒"
-      },
-      {
-        "score": 1,
-        "thumbs": 0,
-        "text": "اشوع تطبيق شفته لحد الان"
-      },
-      {
-        "score": 1,
-        "thumbs": 0,
-        "text": "ابشع تطبيق لا يستحق حتى نجمه واحده"
-      },
-      {
-        "score": 1,
-        "thumbs": 0,
-        "text": "كيف اترجمه الإعربي"
-      },
-      {
-        "score": 1,
-        "thumbs": 0,
-        "text": "لاتصدقو"
-      }
-    ],
-    "top_tiktok_comments": [],
-    "top_reddit_posts": [
-      {
-        "sub": "",
-        "title": "I want to start practicing again. Is there an app like Duolingo but for Witchcraft? ",
-        "score": 233,
-        "comments": 85,
-        "body": "I am falling behind and find myself days without practice. I need to start once more. And need sincere advice. Consistency and mental fatigue are the main pain points for me. "
-      },
-      {
-        "sub": "",
-        "title": "I want to start practicing again. Is there an app like Duolingo but for Witchcraft? ",
-        "score": 233,
-        "comments": 85,
-        "body": "I am falling behind and find myself days without practice. I need to start once more. And need sincere advice. Consistency and mental fatigue are the main pain points for me. "
-      },
-      {
-        "sub": "",
-        "title": "Asynchronous bookclub anyone? I bet we all have wonderful recommendations for books that could help us on our individual journeys, and help build our community. The Marco Polo app could host our discussion of the book of the month! Starting with \"For Small Creatures Such as We\" comment below to join",
-        "score": 207,
-        "comments": 87,
-        "body": ""
-      }
-    ],
-    "dominant_complaint_themes": []
-  },
-  {
     "cell": "MX/selfcare",
     "country": "MX",
     "niche": "selfcare",
@@ -2698,7 +2512,7 @@
     "tiktok_views_B": 152.7,
     "tiktok_total_likes": 21497,
     "cross_country_count": 1,
-    "monthly_rpu_usd": 1.5,
+    "monthly_rpu_usd": 1.25,
     "conversion_rate": 0.0075,
     "cultural_risk": false,
     "composite_score": 9,
@@ -2787,7 +2601,7 @@
     "tiktok_views_B": 72.8,
     "tiktok_total_likes": 0,
     "cross_country_count": 1,
-    "monthly_rpu_usd": 1.2,
+    "monthly_rpu_usd": 1.05,
     "conversion_rate": 0.004,
     "cultural_risk": false,
     "composite_score": 9,
@@ -2900,202 +2714,6 @@
     "dominant_complaint_themes": []
   },
   {
-    "cell": "VN/astrology",
-    "country": "VN",
-    "niche": "astrology",
-    "top_app": {
-      "appId": "com.Horus.aituvi.ai_tu_vi",
-      "title": "AI Tử Vi - Vận Hạn 2026",
-      "score": 4.774194,
-      "ratings": 3034,
-      "installs": "100.000+",
-      "histogram": {
-        "1": 78,
-        "2": 19,
-        "3": 19,
-        "4": 273,
-        "5": 2642
-      },
-      "offersIAP": true,
-      "IAPRange": "69.000 ₫ - 2.399.000 ₫ mỗi mặt hàng",
-      "adSupported": false
-    },
-    "star1_ratio_pct": 2.6,
-    "low_pct": 12,
-    "tiktok_views_B": 189.8,
-    "tiktok_total_likes": 2421,
-    "cross_country_count": 0,
-    "monthly_rpu_usd": 2,
-    "conversion_rate": 0.004,
-    "cultural_risk": false,
-    "composite_score": 9,
-    "top_quotes": [
-      {
-        "score": 1,
-        "thumbs": 6,
-        "text": "bào tiền mố cho xem, xem Chat GPT cho nhanh 😀"
-      },
-      {
-        "score": 1,
-        "thumbs": 4,
-        "text": "vãi lol xem toàn bộ mất tiền"
-      },
-      {
-        "score": 2,
-        "thumbs": 3,
-        "text": "lập lá số thì ok, còn đoán thì sai be bét"
-      },
-      {
-        "score": 2,
-        "thumbs": 2,
-        "text": "ko đúng lắm"
-      },
-      {
-        "score": 1,
-        "thumbs": 2,
-        "text": "xàm!"
-      }
-    ],
-    "top_tiktok_comments": [
-      {
-        "likes": 642,
-        "text": "trả bằng vài trăm K"
-      },
-      {
-        "likes": 477,
-        "text": "Sao nhiều ng lại tin đc tiktoker review nhỉ =)). 98% là booking nha."
-      },
-      {
-        "likes": 237,
-        "text": "Coi ToTrinhCindy bạn ý chấm chính xác đến ngày giờ luôn chứ k phải mốc năm nữa. Coi đỉnh luônn, phải thốt lên chỉ một từ thôi “đỉnh”"
-      },
-      {
-        "likes": 191,
-        "text": "Gặp thầy xịn r đây , hoàn toàn khác , chỉ cho đường đi và ko lấy 1 xu !"
-      },
-      {
-        "likes": 105,
-        "text": "Hàng chuẩn đ bao giờ xuống núi hoặc tiếp thiên hạ bừa bãi đâu :)) t được 1 ông thầy coi tử vi và coi bói này, t chưa kịp mở miệng câu nào là ông ấy nhìn mặt t rồi vẽ nguyên lá số, kêu năm nay có gì tháng đó có gì là ngưng. Kêu t tự nghiệm, thấy đúng thì hữu duyên sẽ gặp lại, khôn"
-      }
-    ],
-    "top_reddit_posts": [
-      {
-        "sub": "",
-        "title": "I want to start practicing again. Is there an app like Duolingo but for Witchcraft? ",
-        "score": 233,
-        "comments": 85,
-        "body": "I am falling behind and find myself days without practice. I need to start once more. And need sincere advice. Consistency and mental fatigue are the main pain points for me. "
-      },
-      {
-        "sub": "",
-        "title": "I want to start practicing again. Is there an app like Duolingo but for Witchcraft? ",
-        "score": 233,
-        "comments": 85,
-        "body": "I am falling behind and find myself days without practice. I need to start once more. And need sincere advice. Consistency and mental fatigue are the main pain points for me. "
-      },
-      {
-        "sub": "",
-        "title": "Asynchronous bookclub anyone? I bet we all have wonderful recommendations for books that could help us on our individual journeys, and help build our community. The Marco Polo app could host our discussion of the book of the month! Starting with \"For Small Creatures Such as We\" comment below to join",
-        "score": 207,
-        "comments": 87,
-        "body": ""
-      }
-    ],
-    "dominant_complaint_themes": [
-      {
-        "theme": "ai_complaint",
-        "count": 2
-      }
-    ]
-  },
-  {
-    "cell": "BR/recipes",
-    "country": "BR",
-    "niche": "recipes",
-    "top_app": {
-      "appId": "com.mufumbo.android.recipe.search",
-      "title": "Cookpad: Receitas Caseiras",
-      "score": 4.54,
-      "ratings": 345979,
-      "installs": "10.000.000+",
-      "histogram": {
-        "1": 20504,
-        "2": 10122,
-        "3": 17130,
-        "4": 10122,
-        "5": 287061
-      },
-      "offersIAP": true,
-      "IAPRange": "R$ 7,49 – R$ 119,99 por item",
-      "adSupported": false
-    },
-    "star1_ratio_pct": 5.9,
-    "low_pct": 8,
-    "tiktok_views_B": 1093.7,
-    "tiktok_total_likes": 7675,
-    "cross_country_count": 2,
-    "monthly_rpu_usd": 0.49,
-    "conversion_rate": 0.0075,
-    "cultural_risk": false,
-    "composite_score": 9,
-    "top_quotes": [
-      {
-        "score": 1,
-        "thumbs": 1,
-        "text": "dou 1 estrela , pois é para pagar, tenho pena, mas instalei e quando vi, desinstalei, não pretendo pagar"
-      },
-      {
-        "score": 1,
-        "thumbs": 1,
-        "text": "Não tem variedade. Além q pra vc ter direito de vê outras receitas, tem q assinar. Não curtir👎"
-      },
-      {
-        "score": 1,
-        "thumbs": 0,
-        "text": "muito ruim pra mim não dá pra ver nada de ver isso e ruim"
-      },
-      {
-        "score": 1,
-        "thumbs": 0,
-        "text": "quero desinstalar e não consigo. Qdo clico em desinstalar, volta a mensagem instalar. Quero desinstalar porque achei complicado, depois de instalado vocês não liberam as receitas. É exigido que se faça login. Não concordo com isso."
-      },
-      {
-        "score": 1,
-        "thumbs": 0,
-        "text": "não achei o que procurava, quero salvar minhas receitas existentes,este aplicativo não me mostrou está opção, já desinstalei"
-      }
-    ],
-    "top_tiktok_comments": [
-      {
-        "likes": 2822,
-        "text": "eu fiz ficou muito ruim ninguém quis comer 🤣🤣"
-      },
-      {
-        "likes": 1777,
-        "text": "Credo kkkk os comentários acabou com qualquer expectativa"
-      },
-      {
-        "likes": 568,
-        "text": "fiz também não consegui comer de tão ruim"
-      },
-      {
-        "likes": 380,
-        "text": "kkkk eu ia fazer,mas vendo os comentários desisti😁☺️"
-      },
-      {
-        "likes": 347,
-        "text": "eu fiz e ficou uma porcaria aq em casa ninguém gostou☹️☹️😖😖"
-      }
-    ],
-    "top_reddit_posts": [],
-    "dominant_complaint_themes": [
-      {
-        "theme": "paywall_locked",
-        "count": 1
-      }
-    ]
-  },
-  {
     "cell": "BR/finance",
     "country": "BR",
     "niche": "finance",
@@ -3121,7 +2739,7 @@
     "tiktok_views_B": 64.8,
     "tiktok_total_likes": 10199,
     "cross_country_count": 0,
-    "monthly_rpu_usd": 1.75,
+    "monthly_rpu_usd": 1.4,
     "conversion_rate": 0.0075,
     "cultural_risk": false,
     "composite_score": 9,
@@ -3190,84 +2808,6 @@
       },
       {
         "theme": "pricing_billing",
-        "count": 1
-      }
-    ]
-  },
-  {
-    "cell": "MX/dating",
-    "country": "MX",
-    "niche": "dating",
-    "top_app": {
-      "appId": "com.tinder",
-      "title": "Tinder: app de citas y parejas",
-      "score": 4.464116,
-      "ratings": 8916736,
-      "installs": "500,000,000+",
-      "histogram": {
-        "1": 628496,
-        "2": 158086,
-        "3": 399467,
-        "4": 991014,
-        "5": 6739615
-      },
-      "offersIAP": true,
-      "IAPRange": "$6.00-$6,599.00 por elemento",
-      "adSupported": true
-    },
-    "star1_ratio_pct": 7,
-    "low_pct": 12,
-    "tiktok_views_B": 72.8,
-    "tiktok_total_likes": 0,
-    "cross_country_count": 4,
-    "monthly_rpu_usd": 2,
-    "conversion_rate": 0.0075,
-    "cultural_risk": false,
-    "composite_score": 9,
-    "top_quotes": [
-      {
-        "score": 1,
-        "thumbs": 1,
-        "text": "Pésima la verificación. Literal me saque una foto, la subí y luego hice la verificación con la misma apariencia... y ni siquiera así me reconoce. Lo he estado intentando como mínimo 10 veces. Tampoco he recibido ayuda de parte de la app."
-      },
-      {
-        "score": 1,
-        "thumbs": 1,
-        "text": "No desperdicien su tiempo, dinero o esperanzas esto no sirve para nada."
-      },
-      {
-        "score": 1,
-        "thumbs": 1,
-        "text": "mucha plata no tienen inversión en la gente"
-      },
-      {
-        "score": 1,
-        "thumbs": 1,
-        "text": "solo me encuentro con travesaños jajaja"
-      },
-      {
-        "score": 1,
-        "thumbs": 1,
-        "text": "No para de salirme el mensaje de unirme a Tinder U aunque lo he cancelado un millón de veces."
-      }
-    ],
-    "top_tiktok_comments": [],
-    "top_reddit_posts": [],
-    "dominant_complaint_themes": [
-      {
-        "theme": "pricing_billing",
-        "count": 1
-      },
-      {
-        "theme": "support_unresponsive",
-        "count": 1
-      },
-      {
-        "theme": "crashes_bugs",
-        "count": 1
-      },
-      {
-        "theme": "refund_denied",
         "count": 1
       }
     ]
@@ -3389,7 +2929,7 @@
     "tiktok_views_B": 16358.6,
     "tiktok_total_likes": 0,
     "cross_country_count": 1,
-    "monthly_rpu_usd": 4.5,
+    "monthly_rpu_usd": 3.75,
     "conversion_rate": 0.0125,
     "cultural_risk": false,
     "composite_score": 9,
@@ -3558,7 +3098,7 @@
     "tiktok_views_B": 189.8,
     "tiktok_total_likes": 116,
     "cross_country_count": 1,
-    "monthly_rpu_usd": 1.4,
+    "monthly_rpu_usd": 1.08,
     "conversion_rate": 0.004,
     "cultural_risk": false,
     "composite_score": 9,
@@ -3642,33 +3182,33 @@
     ]
   },
   {
-    "cell": "EG/tarot",
-    "country": "EG",
+    "cell": "SA/tarot",
+    "country": "SA",
     "niche": "tarot",
     "top_app": {
       "appId": "com.muratalagoz.tarot12",
       "title": "قراءة التاروت",
-      "score": 4.0555553,
+      "score": 3.8,
       "ratings": 763,
       "installs": "+50,000",
       "histogram": {
-        "1": 127,
+        "1": 152,
         "2": 0,
-        "3": 84,
-        "4": 42,
-        "5": 508
+        "3": 152,
+        "4": 0,
+        "5": 457
       },
       "offersIAP": true,
-      "IAPRange": "‏٣٧٫٩٩ ج.م.‏ - ‏٢٬٥٩٩٫٩٩ ج.م.‏ لكل عنصر",
+      "IAPRange": "‏٢٫٩٩ ر.س.‏ - ‏١٩٤٫٩٩ ر.س.‏ لكل عنصر",
       "adSupported": true
     },
-    "star1_ratio_pct": 16.6,
+    "star1_ratio_pct": 19.9,
     "low_pct": 6,
     "tiktok_views_B": 214.8,
-    "tiktok_total_likes": 0,
+    "tiktok_total_likes": 99,
     "cross_country_count": 2,
-    "monthly_rpu_usd": 2.25,
-    "conversion_rate": 0.01,
+    "monthly_rpu_usd": 3.25,
+    "conversion_rate": 0.015,
     "cultural_risk": true,
     "composite_score": 9,
     "top_quotes": [
@@ -3698,7 +3238,28 @@
         "text": "هو جميل لكن ليس مجاني حذفته"
       }
     ],
-    "top_tiktok_comments": [],
+    "top_tiktok_comments": [
+      {
+        "likes": 28,
+        "text": "شوقتيني مين هاد ه🤣🤣🤣"
+      },
+      {
+        "likes": 18,
+        "text": "زواج ان شاء الله اذا فيه خير الي"
+      },
+      {
+        "likes": 10,
+        "text": "استقبل طاقة الزواج والحب يا رب العالمين"
+      },
+      {
+        "likes": 8,
+        "text": "انا بفتح قلبي لحب صادق وبستقبل علاقة فيها امان واستقرار وزواج سعيد"
+      },
+      {
+        "likes": 6,
+        "text": "ندم ورجع"
+      }
+    ],
     "top_reddit_posts": [
       {
         "sub": "",
@@ -3748,7 +3309,7 @@
     "tiktok_views_B": 152.7,
     "tiktok_total_likes": 0,
     "cross_country_count": 2,
-    "monthly_rpu_usd": 45,
+    "monthly_rpu_usd": 6.25,
     "conversion_rate": 0.015,
     "cultural_risk": false,
     "composite_score": 9,
@@ -3780,233 +3341,86 @@
     "dominant_complaint_themes": []
   },
   {
-    "cell": "BR/selfcare",
-    "country": "BR",
-    "niche": "selfcare",
+    "cell": "AE/astrology",
+    "country": "AE",
+    "niche": "astrology",
     "top_app": {
-      "appId": "com.finch.finch",
-      "title": "Finch: Self-Care Pet",
-      "score": 4.9094596,
-      "ratings": 568388,
-      "installs": "10.000.000+",
-      "histogram": {
-        "1": 3764,
-        "2": 2227,
-        "3": 6068,
-        "4": 16823,
-        "5": 539196
-      },
-      "offersIAP": true,
-      "IAPRange": "R$ 9,99 – R$ 1.299,99 por item",
-      "adSupported": false
-    },
-    "star1_ratio_pct": 0.7,
-    "low_pct": 6.2,
-    "tiktok_views_B": 152.7,
-    "tiktok_total_likes": 480,
-    "cross_country_count": 2,
-    "monthly_rpu_usd": 2.1,
-    "conversion_rate": 0.0075,
-    "cultural_risk": false,
-    "composite_score": 8,
-    "top_quotes": [
-      {
-        "score": 1,
-        "thumbs": 20,
-        "text": "O Aplicativo parece ótimo, porém não tem em outros idiomas o que detona a experiência do usuário"
-      },
-      {
-        "score": 1,
-        "thumbs": 14,
-        "text": "Não presta porque não tem em português."
-      },
-      {
-        "score": 1,
-        "thumbs": 12,
-        "text": "Faltou tradução para o português"
-      },
-      {
-        "score": 1,
-        "thumbs": 8,
-        "text": "Não tem em português brasil"
-      },
-      {
-        "score": 2,
-        "thumbs": 6,
-        "text": "Infelizmente não consigo usar igual aos demais apps semelhantes porque esse não está em Português do Brasil e não tem a opção de escolher o idioma do país... só tem em um idioma, só no idioma Inglês. Fica a sugestão para melhorias nesse aspecto, para que possam atender melhor a m"
-      }
-    ],
-    "top_tiktok_comments": [
-      {
-        "likes": 183,
-        "text": "Limpando a fy! {🌷}\nplante uma florzinha!"
-      },
-      {
-        "likes": 99,
-        "text": "eu sou pobreee"
-      },
-      {
-        "likes": 96,
-        "text": "{ 🌷 } - organizando a fy !"
-      },
-      {
-        "likes": 12,
-        "text": "eu não tenho o pré poo"
-      },
-      {
-        "likes": 9,
-        "text": "oieee,tem como postar mais vídeos eu amo e jann tem mais vídeos seus para assistir,eu já assisti todos ontem"
-      }
-    ],
-    "top_reddit_posts": [
-      {
-        "sub": "",
-        "title": "I cut my screen time by 70% without deleting a single social media app.",
-        "score": 56,
-        "comments": 34,
-        "body": "Six months ago, I was a ghost of a person.\n\nI’d wake up at 7:00 AM, and before my feet even touched the floor, I was twenty minutes deep into social media. By noon, my brain felt like fried eggs. I was working a desk job, barely moving, and \"treating\" my stress by scrolling Short"
-      },
-      {
-        "sub": "",
-        "title": "Hint app made me notice patterns about myself I wasn’t really thinking about",
-        "score": 10,
-        "comments": 53,
-        "body": "I downloaded Hint pretty much by chance, and I didn’t have very high expectations for the app.\n\nhowever, some of the statements caught my attention not because they seemed magical but because they highlighted aspects of behavior that I recognize in myself, although I had never pu"
-      },
-      {
-        "sub": "",
-        "title": "what self improvement app made a real difference for you",
-        "score": 17,
-        "comments": 36,
-        "body": "Not asking for what's popular or what has the best rating. What actually moved something in your life, small or large, habit or mindset. What app contributed to a real change in how you live or work and what specifically did it do that other stuff hadn't.\n\nI'll go: Duolingo not b"
-      }
-    ],
-    "dominant_complaint_themes": [
-      {
-        "theme": "language_gap",
-        "count": 21
-      },
-      {
-        "theme": "pricing_billing",
-        "count": 3
-      },
-      {
-        "theme": "too_many_ads",
-        "count": 2
-      },
-      {
-        "theme": "ai_complaint",
-        "count": 2
-      },
-      {
-        "theme": "paywall_locked",
-        "count": 1
-      }
-    ]
-  },
-  {
-    "cell": "MX/manifestation",
-    "country": "MX",
-    "niche": "manifestation",
-    "top_app": {
-      "appId": "com.manifest.lawofattraction",
-      "title": "Ley de Atracción - Manifestar",
-      "score": 4.95,
-      "ratings": 2643,
-      "installs": "100,000+",
+      "appId": "com.internetdesignzone.zodiacprofile",
+      "title": "برجك اليومي وقراءة الأبراج",
+      "score": 4.5142856,
+      "ratings": 20500,
+      "installs": "+1,000,000",
       "histogram": {
         "1": 0,
-        "2": 0,
-        "3": 16,
-        "4": 67,
-        "5": 2525
+        "2": 1138,
+        "3": 1138,
+        "4": 3986,
+        "5": 13666
       },
-      "offersIAP": true,
-      "IAPRange": "$34.00-$325.00 por elemento",
+      "offersIAP": false,
       "adSupported": true
     },
     "star1_ratio_pct": 0,
-    "low_pct": 4,
-    "tiktok_views_B": 131.1,
-    "tiktok_total_likes": 2810,
+    "low_pct": 12,
+    "tiktok_views_B": 189.8,
+    "tiktok_total_likes": 0,
     "cross_country_count": 2,
-    "monthly_rpu_usd": 1,
-    "conversion_rate": 0.0075,
-    "cultural_risk": false,
-    "composite_score": 8,
+    "monthly_rpu_usd": 3.6,
+    "conversion_rate": 0.015,
+    "cultural_risk": true,
+    "composite_score": 9,
     "top_quotes": [
       {
-        "score": 2,
+        "score": 1,
         "thumbs": 1,
-        "text": "La app no funciona bien, se cierra inesperadamente al abrir la sección de \"el poder secreto\"."
+        "text": "اين برج الجوزاء لا يوجد ليس جيداً 😒"
       },
       {
         "score": 1,
         "thumbs": 0,
-        "text": "Hace 5 días tiene problemas y no carga. de 173 app es la única app que tiene inconvenientes."
+        "text": "اشوع تطبيق شفته لحد الان"
       },
       {
         "score": 1,
         "thumbs": 0,
-        "text": "no me deja usarlo todo el tiempo me dice error de conexión"
+        "text": "ابشع تطبيق لا يستحق حتى نجمه واحده"
       },
       {
         "score": 1,
         "thumbs": 0,
-        "text": "Si me gusta la aplicación."
+        "text": "كيف اترجمه الإعربي"
+      },
+      {
+        "score": 1,
+        "thumbs": 0,
+        "text": "لاتصدقو"
       }
     ],
-    "top_tiktok_comments": [
-      {
-        "likes": 729,
-        "text": "Niñas habladle a las velas!! Las velas os lo cumplen todo todo!"
-      },
-      {
-        "likes": 683,
-        "text": "realmente, yo manifesté mí trabajo actual, llevo 3 años y es tan cual lo escribí y mejor. también mí casa propia, auto y viajes 💗 funciona 10/10"
-      },
-      {
-        "likes": 570,
-        "text": "confirmo yo lo hago hace 2 años es maravilloso 🥰💖✨✨✨"
-      },
-      {
-        "likes": 178,
-        "text": "yo culminando el 2024 manifesté el carro que quería con el color rojo, y ya hoy tengo una semana de comprarlo"
-      },
-      {
-        "likes": 106,
-        "text": "para tener dinero tenemos que trabajar 🥰"
-      }
-    ],
+    "top_tiktok_comments": [],
     "top_reddit_posts": [
       {
         "sub": "",
-        "title": "How manifestation changed my life, so I am building an app for the community.",
-        "score": 114,
-        "comments": 112,
-        "body": "Hi everyone,  \nI’ve been lurking here for a while and finally decided to post.\n\n# What motivated me\n\nEarlier last year, I lost my job, and it honestly hit me hard. There was rent pressure, constant anxiety, and I was interviewing nonstop. I must have interviewed with around 20 co"
+        "title": "I want to start practicing again. Is there an app like Duolingo but for Witchcraft? ",
+        "score": 233,
+        "comments": 85,
+        "body": "I am falling behind and find myself days without practice. I need to start once more. And need sincere advice. Consistency and mental fatigue are the main pain points for me. "
       },
       {
         "sub": "",
-        "title": "I love the The Secret Daily Teachings app",
-        "score": 121,
-        "comments": 3,
+        "title": "I want to start practicing again. Is there an app like Duolingo but for Witchcraft? ",
+        "score": 233,
+        "comments": 85,
+        "body": "I am falling behind and find myself days without practice. I need to start once more. And need sincere advice. Consistency and mental fatigue are the main pain points for me. "
+      },
+      {
+        "sub": "",
+        "title": "Asynchronous bookclub anyone? I bet we all have wonderful recommendations for books that could help us on our individual journeys, and help build our community. The Marco Polo app could host our discussion of the book of the month! Starting with \"For Small Creatures Such as We\" comment below to join",
+        "score": 207,
+        "comments": 87,
         "body": ""
-      },
-      {
-        "sub": "",
-        "title": "Anyone interested in a Neville 'Feel-it-Real' app?",
-        "score": 57,
-        "comments": 37,
-        "body": "This might already exist (I've not looked), but I was making a custom Neville app for myself to my own liking and so was checking to see who might be interested in such a 'Feel-it-Real' app. \n\nIt would just be a simple html/js app to run in your browser from your own computer and"
       }
     ],
-    "dominant_complaint_themes": [
-      {
-        "theme": "crashes_bugs",
-        "count": 2
-      }
-    ]
+    "dominant_complaint_themes": []
   },
   {
     "cell": "MX/tarot",
@@ -4034,7 +3448,7 @@
     "tiktok_views_B": 214.8,
     "tiktok_total_likes": 84295,
     "cross_country_count": 5,
-    "monthly_rpu_usd": 0.75,
+    "monthly_rpu_usd": 0.65,
     "conversion_rate": 0.0075,
     "cultural_risk": false,
     "composite_score": 8,
@@ -4144,7 +3558,7 @@
     "tiktok_views_B": 131.1,
     "tiktok_total_likes": 246,
     "cross_country_count": 1,
-    "monthly_rpu_usd": 3,
+    "monthly_rpu_usd": 2.7,
     "conversion_rate": 0.0125,
     "cultural_risk": false,
     "composite_score": 8,
@@ -4197,93 +3611,6 @@
     "dominant_complaint_themes": []
   },
   {
-    "cell": "TR/journaling",
-    "country": "TR",
-    "niche": "journaling",
-    "top_app": {
-      "appId": "com.daily.journal.diary.lock.mood.tracker.free",
-      "title": "Kilitli Günlük - Günlüğüm",
-      "score": 4.7310925,
-      "ratings": 137238,
-      "installs": "10.000.000+",
-      "histogram": {
-        "1": 5258,
-        "2": 1467,
-        "3": 2950,
-        "4": 5423,
-        "5": 122071
-      },
-      "offersIAP": true,
-      "IAPRange": "Öğe başına ₺53,99-₺969,99",
-      "adSupported": true
-    },
-    "star1_ratio_pct": 3.8,
-    "low_pct": 8,
-    "tiktok_views_B": 50.9,
-    "tiktok_total_likes": 760,
-    "cross_country_count": 3,
-    "monthly_rpu_usd": 2.25,
-    "conversion_rate": 0.0125,
-    "cultural_risk": false,
-    "composite_score": 8,
-    "top_quotes": [
-      {
-        "score": 1,
-        "thumbs": 2,
-        "text": "arkadaşlar uygulama kötü çünkü günde günlük hayatımızda ne yaptığımızı söylüyoruz ve bu uygulamayı yapanlarda günlük hayatımızda ne yaptığımızı öğreniyorlar bana katılmak isteyen haksız miyim"
-      },
-      {
-        "score": 1,
-        "thumbs": 2,
-        "text": "şifremi unuttum ne yapıcam şimdi giremiyorum"
-      },
-      {
-        "score": 1,
-        "thumbs": 0,
-        "text": "bu uygulama keşke paralı olmasaydı"
-      },
-      {
-        "score": 1,
-        "thumbs": 0,
-        "text": "çok iyi"
-      },
-      {
-        "score": 2,
-        "thumbs": 0,
-        "text": "Ücretli. Vazgeçtim"
-      }
-    ],
-    "top_tiktok_comments": [
-      {
-        "likes": 479,
-        "text": "tek bendemi oluyor bilmiyorum ama birşeyler yazıyorum aylar sonra okuduğum da çok utanç verici geliyor bu yüzden günlük tutamıyorum"
-      },
-      {
-        "likes": 139,
-        "text": "yazımı beğenmeyip 40 kere sayfaları yırtıyorum,sonra yazacak birsey bulamıyorum aglicam"
-      },
-      {
-        "likes": 25,
-        "text": "Süper bi olay ve aşırı derecede imreniyorum yazabilenlere ben maalesef içimi dökemiyorum yazamıyorum 🥹🥹🫂🫠"
-      },
-      {
-        "likes": 22,
-        "text": "Ağlayarak günlüğüne yaz diyenlere sesleniyorum zaten öyle yapıyorum🙏🏻🙏🏻"
-      },
-      {
-        "likes": 14,
-        "text": "ve o günden kalan bir anıyı o sayfaya yapıştırma alışkanlığı"
-      }
-    ],
-    "top_reddit_posts": [],
-    "dominant_complaint_themes": [
-      {
-        "theme": "pricing_billing",
-        "count": 1
-      }
-    ]
-  },
-  {
     "cell": "TR/meditation",
     "country": "TR",
     "niche": "meditation",
@@ -4309,7 +3636,7 @@
     "tiktok_views_B": 49.6,
     "tiktok_total_likes": 187,
     "cross_country_count": 1,
-    "monthly_rpu_usd": 3.75,
+    "monthly_rpu_usd": 3,
     "conversion_rate": 0.0125,
     "cultural_risk": false,
     "composite_score": 8,
@@ -4412,7 +3739,7 @@
     "tiktok_views_B": 1914.8,
     "tiktok_total_likes": 67,
     "cross_country_count": 1,
-    "monthly_rpu_usd": 3,
+    "monthly_rpu_usd": 2.7,
     "conversion_rate": 0.0125,
     "cultural_risk": false,
     "composite_score": 8,
@@ -4549,216 +3876,82 @@
     "dominant_complaint_themes": []
   },
   {
-    "cell": "VN/tarot",
+    "cell": "VN/astrology",
     "country": "VN",
-    "niche": "tarot",
-    "top_app": {
-      "appId": "com.labyrinthos.app",
-      "title": "Labyrinthos Tarot Cards",
-      "score": 4.8,
-      "ratings": 42408,
-      "installs": "1.000.000+",
-      "histogram": {
-        "1": 787,
-        "2": 393,
-        "3": 787,
-        "4": 2100,
-        "5": 38075
-      },
-      "offersIAP": true,
-      "IAPRange": "23.000 ₫ - 2.200.000 ₫ mỗi mặt hàng",
-      "adSupported": false
-    },
-    "star1_ratio_pct": 1.9,
-    "low_pct": null,
-    "tiktok_views_B": 214.8,
-    "tiktok_total_likes": 1461,
-    "cross_country_count": 5,
-    "monthly_rpu_usd": 1.5,
-    "conversion_rate": 0.004,
-    "cultural_risk": false,
-    "composite_score": 8,
-    "top_quotes": [],
-    "top_tiktok_comments": [
-      {
-        "likes": 465,
-        "text": "me sitting next to him rn watching this"
-      },
-      {
-        "likes": 453,
-        "text": "Stop feeding my delulu🤦‍♀️"
-      },
-      {
-        "likes": 93,
-        "text": "Claim"
-      },
-      {
-        "likes": 60,
-        "text": "This is too spot on like what the f"
-      },
-      {
-        "likes": 54,
-        "text": "Claiming"
-      }
-    ],
-    "top_reddit_posts": [
-      {
-        "sub": "",
-        "title": "Woke up with a migraine to find that this was my card of the day in my tarot app",
-        "score": 205,
-        "comments": 13,
-        "body": ""
-      },
-      {
-        "sub": "",
-        "title": "Woke up with a migraine to find that this was my card of the day in my tarot app",
-        "score": 205,
-        "comments": 13,
-        "body": ""
-      },
-      {
-        "sub": "",
-        "title": "Have you guys ever tried this app? How do you feel about it?",
-        "score": 22,
-        "comments": 27,
-        "body": ""
-      }
-    ],
-    "dominant_complaint_themes": []
-  },
-  {
-    "cell": "VN/manifestation",
-    "country": "VN",
-    "niche": "manifestation",
-    "top_app": {
-      "appId": "com.thienly.comnieuappns",
-      "title": "Thiên Lý",
-      "score": 4.3333335,
-      "ratings": 15,
-      "installs": "1.000+",
-      "histogram": {
-        "1": 2,
-        "2": 0,
-        "3": 0,
-        "4": 2,
-        "5": 11
-      },
-      "offersIAP": false,
-      "adSupported": false
-    },
-    "star1_ratio_pct": 13.3,
-    "low_pct": null,
-    "tiktok_views_B": 131.1,
-    "tiktok_total_likes": 0,
-    "cross_country_count": 0,
-    "monthly_rpu_usd": 2,
-    "conversion_rate": 0.004,
-    "cultural_risk": false,
-    "composite_score": 8,
-    "top_quotes": [],
-    "top_tiktok_comments": [],
-    "top_reddit_posts": [
-      {
-        "sub": "",
-        "title": "How manifestation changed my life, so I am building an app for the community.",
-        "score": 114,
-        "comments": 112,
-        "body": "Hi everyone,  \nI’ve been lurking here for a while and finally decided to post.\n\n# What motivated me\n\nEarlier last year, I lost my job, and it honestly hit me hard. There was rent pressure, constant anxiety, and I was interviewing nonstop. I must have interviewed with around 20 co"
-      },
-      {
-        "sub": "",
-        "title": "I love the The Secret Daily Teachings app",
-        "score": 121,
-        "comments": 3,
-        "body": ""
-      },
-      {
-        "sub": "",
-        "title": "Anyone interested in a Neville 'Feel-it-Real' app?",
-        "score": 57,
-        "comments": 37,
-        "body": "This might already exist (I've not looked), but I was making a custom Neville app for myself to my own liking and so was checking to see who might be interested in such a 'Feel-it-Real' app. \n\nIt would just be a simple html/js app to run in your browser from your own computer and"
-      }
-    ],
-    "dominant_complaint_themes": []
-  },
-  {
-    "cell": "PH/astrology",
-    "country": "PH",
     "niche": "astrology",
     "top_app": {
-      "appId": "info.androidz.horoscope",
-      "title": "Daily Horoscope",
-      "score": 4.8423643,
-      "ratings": 461089,
-      "installs": "10,000,000+",
+      "appId": "com.Horus.aituvi.ai_tu_vi",
+      "title": "AI Tử Vi - Vận Hạn 2026",
+      "score": 4.774194,
+      "ratings": 3034,
+      "installs": "100.000+",
       "histogram": {
-        "1": 4481,
-        "2": 2163,
-        "3": 11279,
-        "4": 24877,
-        "5": 417823
+        "1": 78,
+        "2": 19,
+        "3": 19,
+        "4": 273,
+        "5": 2642
       },
       "offersIAP": true,
-      "IAPRange": "₱51.00 - ₱1,450.00 per item",
-      "adSupported": true
+      "IAPRange": "69.000 ₫ - 2.399.000 ₫ mỗi mặt hàng",
+      "adSupported": false
     },
-    "star1_ratio_pct": 1,
+    "star1_ratio_pct": 2.6,
     "low_pct": 12,
     "tiktok_views_B": 189.8,
-    "tiktok_total_likes": 4592,
+    "tiktok_total_likes": 2421,
     "cross_country_count": 0,
-    "monthly_rpu_usd": 1,
+    "monthly_rpu_usd": 1.08,
     "conversion_rate": 0.004,
     "cultural_risk": false,
     "composite_score": 8,
     "top_quotes": [
       {
         "score": 1,
-        "thumbs": 1,
-        "text": "so negative and manipulative."
+        "thumbs": 6,
+        "text": "bào tiền mố cho xem, xem Chat GPT cho nhanh 😀"
       },
       {
         "score": 1,
-        "thumbs": 1,
-        "text": "I used to think this was on point but I now think since a year ago whoever took over this app or controlling it is NOT intuitive! I don't trust it."
+        "thumbs": 4,
+        "text": "vãi lol xem toàn bộ mất tiền"
+      },
+      {
+        "score": 2,
+        "thumbs": 3,
+        "text": "lập lá số thì ok, còn đoán thì sai be bét"
+      },
+      {
+        "score": 2,
+        "thumbs": 2,
+        "text": "ko đúng lắm"
       },
       {
         "score": 1,
-        "thumbs": 1,
-        "text": "best ever 100 out of 100 times accurate"
-      },
-      {
-        "score": 1,
-        "thumbs": 1,
-        "text": "horoscopes are very inaccurate lol Thai doesn't give u your horoscope it tells you what you wanna hear"
-      },
-      {
-        "score": 1,
-        "thumbs": 1,
-        "text": "unable to open"
+        "thumbs": 2,
+        "text": "xàm!"
       }
     ],
     "top_tiktok_comments": [
       {
-        "likes": 919,
-        "text": "Just look up Her Presence Speaks by Chloe Prescott trust me on this one"
+        "likes": 642,
+        "text": "trả bằng vài trăm K"
       },
       {
-        "likes": 720,
-        "text": "Just search for book Laws of Tavon by Tavon Riel and watch how life flips around :) (thank me later)"
+        "likes": 477,
+        "text": "Sao nhiều ng lại tin đc tiktoker review nhỉ =)). 98% là booking nha."
       },
       {
-        "likes": 491,
-        "text": "for anyone who actually gets it, read echo nine by Viktor Dras. you won't look at your \"signs\" the same way again"
+        "likes": 237,
+        "text": "Coi ToTrinhCindy bạn ý chấm chính xác đến ngày giờ luôn chứ k phải mốc năm nữa. Coi đỉnh luônn, phải thốt lên chỉ một từ thôi “đỉnh”"
       },
       {
-        "likes": 465,
-        "text": "It blows my mind that more people don’t know about Laws of Tavon by Tavon Riel. This book seriously changed how I think, how I feel, how I manifest. Like why aren’t we taught this stuff?!"
+        "likes": 191,
+        "text": "Gặp thầy xịn r đây , hoàn toàn khác , chỉ cho đường đi và ko lấy 1 xu !"
       },
       {
-        "likes": 331,
-        "text": "just read the book seriously. The Truth About Manifestation by Daniel Rowe on Amazon. thank me later"
+        "likes": 105,
+        "text": "Hàng chuẩn đ bao giờ xuống núi hoặc tiếp thiên hạ bừa bãi đâu :)) t được 1 ông thầy coi tử vi và coi bói này, t chưa kịp mở miệng câu nào là ông ấy nhìn mặt t rồi vẽ nguyên lá số, kêu năm nay có gì tháng đó có gì là ngưng. Kêu t tự nghiệm, thấy đúng thì hữu duyên sẽ gặp lại, khôn"
       }
     ],
     "top_reddit_posts": [
@@ -4786,12 +3979,8 @@
     ],
     "dominant_complaint_themes": [
       {
-        "theme": "inaccurate",
-        "count": 1
-      },
-      {
-        "theme": "crashes_bugs",
-        "count": 1
+        "theme": "ai_complaint",
+        "count": 2
       }
     ]
   },
@@ -4821,7 +4010,7 @@
     "tiktok_views_B": 152.7,
     "tiktok_total_likes": 0,
     "cross_country_count": 2,
-    "monthly_rpu_usd": 1.5,
+    "monthly_rpu_usd": 1,
     "conversion_rate": 0.004,
     "cultural_risk": false,
     "composite_score": 8,
@@ -4896,50 +4085,91 @@
     ]
   },
   {
-    "cell": "BR/photo_editing",
+    "cell": "BR/recipes",
     "country": "BR",
-    "niche": "photo_editing",
+    "niche": "recipes",
     "top_app": {
-      "appId": "photo.editor.photoeditor.photoeditorpro",
-      "title": "Editor de Fotos - Polish",
-      "score": 4.883154,
-      "ratings": 4653638,
-      "installs": "100.000.000+",
+      "appId": "com.mufumbo.android.recipe.search",
+      "title": "Cookpad: Receitas Caseiras",
+      "score": 4.54,
+      "ratings": 345979,
+      "installs": "10.000.000+",
       "histogram": {
-        "1": 58826,
-        "2": 12662,
-        "3": 38359,
-        "4": 193686,
-        "5": 4350077
+        "1": 20504,
+        "2": 10122,
+        "3": 17130,
+        "4": 10122,
+        "5": 287061
       },
       "offersIAP": true,
-      "IAPRange": "R$ 3,79 – R$ 499,98 por item",
-      "adSupported": true
+      "IAPRange": "R$ 7,49 – R$ 119,99 por item",
+      "adSupported": false
     },
-    "star1_ratio_pct": 1.3,
-    "low_pct": 2,
-    "tiktok_views_B": 16358.6,
-    "tiktok_total_likes": 0,
-    "cross_country_count": 3,
-    "monthly_rpu_usd": 2.1,
+    "star1_ratio_pct": 5.9,
+    "low_pct": 8,
+    "tiktok_views_B": 1093.7,
+    "tiktok_total_likes": 7675,
+    "cross_country_count": 2,
+    "monthly_rpu_usd": 0.49,
     "conversion_rate": 0.0075,
     "cultural_risk": false,
     "composite_score": 8,
     "top_quotes": [
       {
         "score": 1,
-        "thumbs": 0,
-        "text": "deveria ser gratuito"
+        "thumbs": 1,
+        "text": "dou 1 estrela , pois é para pagar, tenho pena, mas instalei e quando vi, desinstalei, não pretendo pagar"
+      },
+      {
+        "score": 1,
+        "thumbs": 1,
+        "text": "Não tem variedade. Além q pra vc ter direito de vê outras receitas, tem q assinar. Não curtir👎"
       },
       {
         "score": 1,
         "thumbs": 0,
-        "text": "O \"REMOVER I.A\" está removendo mas escrevendo coisas aleatórias no lugar que apaga"
+        "text": "muito ruim pra mim não dá pra ver nada de ver isso e ruim"
+      },
+      {
+        "score": 1,
+        "thumbs": 0,
+        "text": "quero desinstalar e não consigo. Qdo clico em desinstalar, volta a mensagem instalar. Quero desinstalar porque achei complicado, depois de instalado vocês não liberam as receitas. É exigido que se faça login. Não concordo com isso."
+      },
+      {
+        "score": 1,
+        "thumbs": 0,
+        "text": "não achei o que procurava, quero salvar minhas receitas existentes,este aplicativo não me mostrou está opção, já desinstalei"
       }
     ],
-    "top_tiktok_comments": [],
+    "top_tiktok_comments": [
+      {
+        "likes": 2822,
+        "text": "eu fiz ficou muito ruim ninguém quis comer 🤣🤣"
+      },
+      {
+        "likes": 1777,
+        "text": "Credo kkkk os comentários acabou com qualquer expectativa"
+      },
+      {
+        "likes": 568,
+        "text": "fiz também não consegui comer de tão ruim"
+      },
+      {
+        "likes": 380,
+        "text": "kkkk eu ia fazer,mas vendo os comentários desisti😁☺️"
+      },
+      {
+        "likes": 347,
+        "text": "eu fiz e ficou uma porcaria aq em casa ninguém gostou☹️☹️😖😖"
+      }
+    ],
     "top_reddit_posts": [],
-    "dominant_complaint_themes": []
+    "dominant_complaint_themes": [
+      {
+        "theme": "paywall_locked",
+        "count": 1
+      }
+    ]
   },
   {
     "cell": "BR/dating",
@@ -4967,7 +4197,7 @@
     "tiktok_views_B": 72.8,
     "tiktok_total_likes": 0,
     "cross_country_count": 1,
-    "monthly_rpu_usd": 2.8,
+    "monthly_rpu_usd": 2.45,
     "conversion_rate": 0.0075,
     "cultural_risk": false,
     "composite_score": 8,
@@ -5016,6 +4246,84 @@
     ]
   },
   {
+    "cell": "MX/dating",
+    "country": "MX",
+    "niche": "dating",
+    "top_app": {
+      "appId": "com.tinder",
+      "title": "Tinder: app de citas y parejas",
+      "score": 4.464116,
+      "ratings": 8916736,
+      "installs": "500,000,000+",
+      "histogram": {
+        "1": 628496,
+        "2": 158086,
+        "3": 399467,
+        "4": 991014,
+        "5": 6739615
+      },
+      "offersIAP": true,
+      "IAPRange": "$6.00-$6,599.00 por elemento",
+      "adSupported": true
+    },
+    "star1_ratio_pct": 7,
+    "low_pct": 12,
+    "tiktok_views_B": 72.8,
+    "tiktok_total_likes": 0,
+    "cross_country_count": 4,
+    "monthly_rpu_usd": 1.75,
+    "conversion_rate": 0.0075,
+    "cultural_risk": false,
+    "composite_score": 8,
+    "top_quotes": [
+      {
+        "score": 1,
+        "thumbs": 1,
+        "text": "Pésima la verificación. Literal me saque una foto, la subí y luego hice la verificación con la misma apariencia... y ni siquiera así me reconoce. Lo he estado intentando como mínimo 10 veces. Tampoco he recibido ayuda de parte de la app."
+      },
+      {
+        "score": 1,
+        "thumbs": 1,
+        "text": "No desperdicien su tiempo, dinero o esperanzas esto no sirve para nada."
+      },
+      {
+        "score": 1,
+        "thumbs": 1,
+        "text": "mucha plata no tienen inversión en la gente"
+      },
+      {
+        "score": 1,
+        "thumbs": 1,
+        "text": "solo me encuentro con travesaños jajaja"
+      },
+      {
+        "score": 1,
+        "thumbs": 1,
+        "text": "No para de salirme el mensaje de unirme a Tinder U aunque lo he cancelado un millón de veces."
+      }
+    ],
+    "top_tiktok_comments": [],
+    "top_reddit_posts": [],
+    "dominant_complaint_themes": [
+      {
+        "theme": "pricing_billing",
+        "count": 1
+      },
+      {
+        "theme": "support_unresponsive",
+        "count": 1
+      },
+      {
+        "theme": "crashes_bugs",
+        "count": 1
+      },
+      {
+        "theme": "refund_denied",
+        "count": 1
+      }
+    ]
+  },
+  {
     "cell": "TR/video_editing",
     "country": "TR",
     "niche": "video_editing",
@@ -5041,7 +4349,7 @@
     "tiktok_views_B": 17033.5,
     "tiktok_total_likes": 0,
     "cross_country_count": 3,
-    "monthly_rpu_usd": 4.5,
+    "monthly_rpu_usd": 3.75,
     "conversion_rate": 0.0125,
     "cultural_risk": false,
     "composite_score": 8,
@@ -5067,69 +4375,84 @@
     ]
   },
   {
-    "cell": "TH/selfcare",
-    "country": "TH",
-    "niche": "selfcare",
+    "cell": "EG/tarot",
+    "country": "EG",
+    "niche": "tarot",
     "top_app": {
-      "appId": "moodtracker.selfcare.habittracker.mentalhealth",
-      "title": "Mood Tracker นิสัยการดูแลตนเอง",
-      "score": 4.83,
-      "ratings": 20996,
-      "installs": "1,000,000+",
+      "appId": "com.muratalagoz.tarot12",
+      "title": "قراءة التاروت",
+      "score": 4.0555553,
+      "ratings": 763,
+      "installs": "+50,000",
       "histogram": {
-        "1": 396,
-        "2": 182,
-        "3": 0,
-        "4": 1249,
-        "5": 19076
+        "1": 127,
+        "2": 0,
+        "3": 84,
+        "4": 42,
+        "5": 508
       },
       "offersIAP": true,
-      "IAPRange": "฿37.00 - ฿2,000.00 ต่อรายการ",
+      "IAPRange": "‏٣٧٫٩٩ ج.م.‏ - ‏٢٬٥٩٩٫٩٩ ج.م.‏ لكل عنصر",
       "adSupported": true
     },
-    "star1_ratio_pct": 1.9,
-    "low_pct": 2,
-    "tiktok_views_B": 152.7,
+    "star1_ratio_pct": 16.6,
+    "low_pct": 6,
+    "tiktok_views_B": 214.8,
     "tiktok_total_likes": 0,
-    "cross_country_count": 1,
-    "monthly_rpu_usd": 2.1,
-    "conversion_rate": 0.004,
-    "cultural_risk": false,
+    "cross_country_count": 2,
+    "monthly_rpu_usd": 1.04,
+    "conversion_rate": 0.01,
+    "cultural_risk": true,
     "composite_score": 8,
     "top_quotes": [
       {
         "score": 1,
-        "thumbs": 0,
-        "text": "ใช้ไม่ได้"
+        "thumbs": 4,
+        "text": "برنامج زاي الخرا"
       },
       {
         "score": 1,
+        "thumbs": 2,
+        "text": "كيفيه الاستعمال 🙂"
+      },
+      {
+        "score": 1,
+        "thumbs": 1,
+        "text": "سيء"
+      },
+      {
+        "score": 2,
         "thumbs": 0,
-        "text": "ไม่ชอบ น่ารำคาญ ยัดเยียดให้เลี้ยงทามากอส"
+        "text": "برنامج فاشل يعني كله ب فلوس وبس مره وحده قرالي بدون فلوس نصيحه لحد ينزله"
+      },
+      {
+        "score": 2,
+        "thumbs": 0,
+        "text": "هو جميل لكن ليس مجاني حذفته"
       }
     ],
     "top_tiktok_comments": [],
     "top_reddit_posts": [
       {
         "sub": "",
-        "title": "I cut my screen time by 70% without deleting a single social media app.",
-        "score": 56,
-        "comments": 34,
-        "body": "Six months ago, I was a ghost of a person.\n\nI’d wake up at 7:00 AM, and before my feet even touched the floor, I was twenty minutes deep into social media. By noon, my brain felt like fried eggs. I was working a desk job, barely moving, and \"treating\" my stress by scrolling Short"
+        "title": "Woke up with a migraine to find that this was my card of the day in my tarot app",
+        "score": 205,
+        "comments": 13,
+        "body": ""
       },
       {
         "sub": "",
-        "title": "Hint app made me notice patterns about myself I wasn’t really thinking about",
-        "score": 10,
-        "comments": 53,
-        "body": "I downloaded Hint pretty much by chance, and I didn’t have very high expectations for the app.\n\nhowever, some of the statements caught my attention not because they seemed magical but because they highlighted aspects of behavior that I recognize in myself, although I had never pu"
+        "title": "Woke up with a migraine to find that this was my card of the day in my tarot app",
+        "score": 205,
+        "comments": 13,
+        "body": ""
       },
       {
         "sub": "",
-        "title": "what self improvement app made a real difference for you",
-        "score": 17,
-        "comments": 36,
-        "body": "Not asking for what's popular or what has the best rating. What actually moved something in your life, small or large, habit or mindset. What app contributed to a real change in how you live or work and what specifically did it do that other stuff hadn't.\n\nI'll go: Duolingo not b"
+        "title": "Have you guys ever tried this app? How do you feel about it?",
+        "score": 22,
+        "comments": 27,
+        "body": ""
       }
     ],
     "dominant_complaint_themes": []
@@ -5158,7 +4481,7 @@
     "tiktok_views_B": 152.7,
     "tiktok_total_likes": 0,
     "cross_country_count": 2,
-    "monthly_rpu_usd": 4.5,
+    "monthly_rpu_usd": 2,
     "conversion_rate": 0.01,
     "cultural_risk": false,
     "composite_score": 8,
@@ -5214,88 +4537,7 @@
     "tiktok_views_B": 131.1,
     "tiktok_total_likes": 0,
     "cross_country_count": 2,
-    "monthly_rpu_usd": 30,
-    "conversion_rate": 0.015,
-    "cultural_risk": true,
-    "composite_score": 8,
-    "top_quotes": [
-      {
-        "score": 1,
-        "thumbs": 13,
-        "text": "لمادا لا يتنزل بسرعة ارجو حل هده المشكلة انا وضعت نجمة واحدة عند تحميله وتنزيله اضع 5 نجمات"
-      },
-      {
-        "score": 2,
-        "thumbs": 8,
-        "text": "دراسه نفسيه تفتح ابواب الوهم على مصراعيه للفاشلين في فهم الحياة بشكلها الصحيح والمثابره والعزم في الوصول إلى مايصبوااليه من النجاح والكفاح في أعمالهم اليوميه ،."
-      },
-      {
-        "score": 1,
-        "thumbs": 4,
-        "text": "كدب كول اعلانة ٠٠٠٠٠٠٠٠٠٠٠٠٠٠٠٠٠٠"
-      },
-      {
-        "score": 2,
-        "thumbs": 2,
-        "text": "ملائم"
-      },
-      {
-        "score": 1,
-        "thumbs": 2,
-        "text": "لم اجربه بعد"
-      }
-    ],
-    "top_tiktok_comments": [],
-    "top_reddit_posts": [
-      {
-        "sub": "",
-        "title": "How manifestation changed my life, so I am building an app for the community.",
-        "score": 114,
-        "comments": 112,
-        "body": "Hi everyone,  \nI’ve been lurking here for a while and finally decided to post.\n\n# What motivated me\n\nEarlier last year, I lost my job, and it honestly hit me hard. There was rent pressure, constant anxiety, and I was interviewing nonstop. I must have interviewed with around 20 co"
-      },
-      {
-        "sub": "",
-        "title": "I love the The Secret Daily Teachings app",
-        "score": 121,
-        "comments": 3,
-        "body": ""
-      },
-      {
-        "sub": "",
-        "title": "Anyone interested in a Neville 'Feel-it-Real' app?",
-        "score": 57,
-        "comments": 37,
-        "body": "This might already exist (I've not looked), but I was making a custom Neville app for myself to my own liking and so was checking to see who might be interested in such a 'Feel-it-Real' app. \n\nIt would just be a simple html/js app to run in your browser from your own computer and"
-      }
-    ],
-    "dominant_complaint_themes": []
-  },
-  {
-    "cell": "AE/manifestation",
-    "country": "AE",
-    "niche": "manifestation",
-    "top_app": {
-      "appId": "com.pdf.kanonaljadb",
-      "title": "كتاب قانون الجذب  pdf",
-      "ratings": 0,
-      "installs": "+50,000",
-      "histogram": {
-        "1": 0,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0
-      },
-      "offersIAP": false,
-      "adSupported": true
-    },
-    "star1_ratio_pct": 0,
-    "low_pct": 11,
-    "tiktok_views_B": 131.1,
-    "tiktok_total_likes": 0,
-    "cross_country_count": 2,
-    "monthly_rpu_usd": 20,
+    "monthly_rpu_usd": 4.5,
     "conversion_rate": 0.015,
     "cultural_risk": true,
     "composite_score": 8,
@@ -5378,7 +4620,7 @@
     "tiktok_views_B": 152.7,
     "tiktok_total_likes": 9622,
     "cross_country_count": 0,
-    "monthly_rpu_usd": 0.9,
+    "monthly_rpu_usd": 0.75,
     "conversion_rate": 0.004,
     "cultural_risk": false,
     "composite_score": 7,
@@ -5457,6 +4699,131 @@
     ]
   },
   {
+    "cell": "BR/selfcare",
+    "country": "BR",
+    "niche": "selfcare",
+    "top_app": {
+      "appId": "com.finch.finch",
+      "title": "Finch: Self-Care Pet",
+      "score": 4.9094596,
+      "ratings": 568388,
+      "installs": "10.000.000+",
+      "histogram": {
+        "1": 3764,
+        "2": 2227,
+        "3": 6068,
+        "4": 16823,
+        "5": 539196
+      },
+      "offersIAP": true,
+      "IAPRange": "R$ 9,99 – R$ 1.299,99 por item",
+      "adSupported": false
+    },
+    "star1_ratio_pct": 0.7,
+    "low_pct": 6.2,
+    "tiktok_views_B": 152.7,
+    "tiktok_total_likes": 480,
+    "cross_country_count": 2,
+    "monthly_rpu_usd": 1.75,
+    "conversion_rate": 0.0075,
+    "cultural_risk": false,
+    "composite_score": 7,
+    "top_quotes": [
+      {
+        "score": 1,
+        "thumbs": 20,
+        "text": "O Aplicativo parece ótimo, porém não tem em outros idiomas o que detona a experiência do usuário"
+      },
+      {
+        "score": 1,
+        "thumbs": 14,
+        "text": "Não presta porque não tem em português."
+      },
+      {
+        "score": 1,
+        "thumbs": 12,
+        "text": "Faltou tradução para o português"
+      },
+      {
+        "score": 1,
+        "thumbs": 8,
+        "text": "Não tem em português brasil"
+      },
+      {
+        "score": 2,
+        "thumbs": 6,
+        "text": "Infelizmente não consigo usar igual aos demais apps semelhantes porque esse não está em Português do Brasil e não tem a opção de escolher o idioma do país... só tem em um idioma, só no idioma Inglês. Fica a sugestão para melhorias nesse aspecto, para que possam atender melhor a m"
+      }
+    ],
+    "top_tiktok_comments": [
+      {
+        "likes": 183,
+        "text": "Limpando a fy! {🌷}\nplante uma florzinha!"
+      },
+      {
+        "likes": 99,
+        "text": "eu sou pobreee"
+      },
+      {
+        "likes": 96,
+        "text": "{ 🌷 } - organizando a fy !"
+      },
+      {
+        "likes": 12,
+        "text": "eu não tenho o pré poo"
+      },
+      {
+        "likes": 9,
+        "text": "oieee,tem como postar mais vídeos eu amo e jann tem mais vídeos seus para assistir,eu já assisti todos ontem"
+      }
+    ],
+    "top_reddit_posts": [
+      {
+        "sub": "",
+        "title": "I cut my screen time by 70% without deleting a single social media app.",
+        "score": 56,
+        "comments": 34,
+        "body": "Six months ago, I was a ghost of a person.\n\nI’d wake up at 7:00 AM, and before my feet even touched the floor, I was twenty minutes deep into social media. By noon, my brain felt like fried eggs. I was working a desk job, barely moving, and \"treating\" my stress by scrolling Short"
+      },
+      {
+        "sub": "",
+        "title": "Hint app made me notice patterns about myself I wasn’t really thinking about",
+        "score": 10,
+        "comments": 53,
+        "body": "I downloaded Hint pretty much by chance, and I didn’t have very high expectations for the app.\n\nhowever, some of the statements caught my attention not because they seemed magical but because they highlighted aspects of behavior that I recognize in myself, although I had never pu"
+      },
+      {
+        "sub": "",
+        "title": "what self improvement app made a real difference for you",
+        "score": 17,
+        "comments": 36,
+        "body": "Not asking for what's popular or what has the best rating. What actually moved something in your life, small or large, habit or mindset. What app contributed to a real change in how you live or work and what specifically did it do that other stuff hadn't.\n\nI'll go: Duolingo not b"
+      }
+    ],
+    "dominant_complaint_themes": [
+      {
+        "theme": "language_gap",
+        "count": 21
+      },
+      {
+        "theme": "pricing_billing",
+        "count": 3
+      },
+      {
+        "theme": "too_many_ads",
+        "count": 2
+      },
+      {
+        "theme": "ai_complaint",
+        "count": 2
+      },
+      {
+        "theme": "paywall_locked",
+        "count": 1
+      }
+    ]
+  },
+  {
     "cell": "BR/manifestation",
     "country": "BR",
     "niche": "manifestation",
@@ -5482,7 +4849,7 @@
     "tiktok_views_B": 131.1,
     "tiktok_total_likes": 1,
     "cross_country_count": 2,
-    "monthly_rpu_usd": 1.4,
+    "monthly_rpu_usd": 1.26,
     "conversion_rate": 0.0075,
     "cultural_risk": false,
     "composite_score": 7,
@@ -5562,123 +4929,106 @@
     ]
   },
   {
-    "cell": "BR/tarot",
-    "country": "BR",
-    "niche": "tarot",
+    "cell": "MX/manifestation",
+    "country": "MX",
+    "niche": "manifestation",
     "top_app": {
-      "appId": "com.labyrinthos.app",
-      "title": "Labyrinthos: Leitura de Tarot",
-      "score": 4.820442,
-      "ratings": 42408,
-      "installs": "1.000.000+",
+      "appId": "com.manifest.lawofattraction",
+      "title": "Ley de Atracción - Manifestar",
+      "score": 4.95,
+      "ratings": 2643,
+      "installs": "100,000+",
       "histogram": {
-        "1": 691,
-        "2": 457,
-        "3": 457,
-        "4": 2450,
-        "5": 38304
+        "1": 0,
+        "2": 0,
+        "3": 16,
+        "4": 67,
+        "5": 2525
       },
       "offersIAP": true,
-      "IAPRange": "R$ 3,69 – R$ 359,99 por item",
-      "adSupported": false
+      "IAPRange": "$34.00-$325.00 por elemento",
+      "adSupported": true
     },
-    "star1_ratio_pct": 1.6,
-    "low_pct": 6,
-    "tiktok_views_B": 214.8,
-    "tiktok_total_likes": 313,
-    "cross_country_count": 5,
-    "monthly_rpu_usd": 1.05,
+    "star1_ratio_pct": 0,
+    "low_pct": 4,
+    "tiktok_views_B": 131.1,
+    "tiktok_total_likes": 2810,
+    "cross_country_count": 2,
+    "monthly_rpu_usd": 0.9,
     "conversion_rate": 0.0075,
     "cultural_risk": false,
     "composite_score": 7,
     "top_quotes": [
       {
         "score": 2,
-        "thumbs": 7,
-        "text": "O aplicativo é bom mas, não assinem e nem comprem créditos porque não vão receber. Comprei créditos já faz um mês e não recebi, o suporte não funciona."
-      },
-      {
-        "score": 2,
-        "thumbs": 0,
-        "text": "Estou tentando usar o aplicativo porém, não estou encontrando a opção de idioma, português."
+        "thumbs": 1,
+        "text": "La app no funciona bien, se cierra inesperadamente al abrir la sección de \"el poder secreto\"."
       },
       {
         "score": 1,
         "thumbs": 0,
-        "text": "Comprei pacote mensal (que não é barato) e NADA foi liberado."
+        "text": "Hace 5 días tiene problemas y no carga. de 173 app es la única app que tiene inconvenientes."
       },
       {
         "score": 1,
         "thumbs": 0,
-        "text": "The app charged me an absurd annual fee that I did not approve. I demand an urgent refund. I have already sent an email. There is no guidance about this on the website, and nothing appears on my phone — only on my bank statement. The app is malfunctioning — it does not show that "
+        "text": "no me deja usarlo todo el tiempo me dice error de conexión"
       },
       {
-        "score": 2,
+        "score": 1,
         "thumbs": 0,
-        "text": "Fiz duas recargas e não foi creditado ao meu perfil"
+        "text": "Si me gusta la aplicación."
       }
     ],
     "top_tiktok_comments": [
       {
-        "likes": 116,
-        "text": "eu tirei pra ver se ele ama ela e caiu que ele só está com ela pra não ficar com fama de \"o ex da virginal que traiu ela\""
+        "likes": 729,
+        "text": "Niñas habladle a las velas!! Las velas os lo cumplen todo todo!"
       },
       {
-        "likes": 55,
-        "text": "eu fui fazer e disse que eu tenho caso com homem casado 😂 eu sou casada"
+        "likes": 683,
+        "text": "realmente, yo manifesté mí trabajo actual, llevo 3 años y es tan cual lo escribí y mejor. también mí casa propia, auto y viajes 💗 funciona 10/10"
       },
       {
-        "likes": 27,
-        "text": "deu uma coisa que eu fiquei passada, mais que já aconteceu"
+        "likes": 570,
+        "text": "confirmo yo lo hago hace 2 años es maravilloso 🥰💖✨✨✨"
       },
       {
-        "likes": 19,
-        "text": "Dá sempre a mesma resposta 😂"
+        "likes": 178,
+        "text": "yo culminando el 2024 manifesté el carro que quería con el color rojo, y ya hoy tengo una semana de comprarlo"
       },
       {
-        "likes": 18,
-        "text": "Essa página não abre pra mim😭"
+        "likes": 106,
+        "text": "para tener dinero tenemos que trabajar 🥰"
       }
     ],
     "top_reddit_posts": [
       {
         "sub": "",
-        "title": "Woke up with a migraine to find that this was my card of the day in my tarot app",
-        "score": 205,
-        "comments": 13,
+        "title": "How manifestation changed my life, so I am building an app for the community.",
+        "score": 114,
+        "comments": 112,
+        "body": "Hi everyone,  \nI’ve been lurking here for a while and finally decided to post.\n\n# What motivated me\n\nEarlier last year, I lost my job, and it honestly hit me hard. There was rent pressure, constant anxiety, and I was interviewing nonstop. I must have interviewed with around 20 co"
+      },
+      {
+        "sub": "",
+        "title": "I love the The Secret Daily Teachings app",
+        "score": 121,
+        "comments": 3,
         "body": ""
       },
       {
         "sub": "",
-        "title": "Woke up with a migraine to find that this was my card of the day in my tarot app",
-        "score": 205,
-        "comments": 13,
-        "body": ""
-      },
-      {
-        "sub": "",
-        "title": "Have you guys ever tried this app? How do you feel about it?",
-        "score": 22,
-        "comments": 27,
-        "body": ""
+        "title": "Anyone interested in a Neville 'Feel-it-Real' app?",
+        "score": 57,
+        "comments": 37,
+        "body": "This might already exist (I've not looked), but I was making a custom Neville app for myself to my own liking and so was checking to see who might be interested in such a 'Feel-it-Real' app. \n\nIt would just be a simple html/js app to run in your browser from your own computer and"
       }
     ],
     "dominant_complaint_themes": [
       {
-        "theme": "language_gap",
-        "count": 1
-      },
-      {
-        "theme": "refund_denied",
-        "count": 1
-      },
-      {
         "theme": "crashes_bugs",
-        "count": 1
-      },
-      {
-        "theme": "support_unresponsive",
-        "count": 1
+        "count": 2
       }
     ]
   },
@@ -5708,7 +5058,7 @@
     "tiktok_views_B": 1914.8,
     "tiktok_total_likes": 295,
     "cross_country_count": 1,
-    "monthly_rpu_usd": 1.4,
+    "monthly_rpu_usd": 1.26,
     "conversion_rate": 0.0075,
     "cultural_risk": false,
     "composite_score": 7,
@@ -5780,7 +5130,7 @@
     "tiktok_views_B": 50.9,
     "tiktok_total_likes": 5791,
     "cross_country_count": 2,
-    "monthly_rpu_usd": 0.75,
+    "monthly_rpu_usd": 0.65,
     "conversion_rate": 0.0075,
     "cultural_risk": false,
     "composite_score": 7,
@@ -5847,7 +5197,7 @@
     "tiktok_views_B": 49.6,
     "tiktok_total_likes": 11662,
     "cross_country_count": 2,
-    "monthly_rpu_usd": 1.25,
+    "monthly_rpu_usd": 1,
     "conversion_rate": 0.0075,
     "cultural_risk": false,
     "composite_score": 7,
@@ -5909,6 +5259,93 @@
     ]
   },
   {
+    "cell": "TR/journaling",
+    "country": "TR",
+    "niche": "journaling",
+    "top_app": {
+      "appId": "com.daily.journal.diary.lock.mood.tracker.free",
+      "title": "Kilitli Günlük - Günlüğüm",
+      "score": 4.7310925,
+      "ratings": 137238,
+      "installs": "10.000.000+",
+      "histogram": {
+        "1": 5258,
+        "2": 1467,
+        "3": 2950,
+        "4": 5423,
+        "5": 122071
+      },
+      "offersIAP": true,
+      "IAPRange": "Öğe başına ₺53,99-₺969,99",
+      "adSupported": true
+    },
+    "star1_ratio_pct": 3.8,
+    "low_pct": 8,
+    "tiktok_views_B": 50.9,
+    "tiktok_total_likes": 760,
+    "cross_country_count": 3,
+    "monthly_rpu_usd": 1.95,
+    "conversion_rate": 0.0125,
+    "cultural_risk": false,
+    "composite_score": 7,
+    "top_quotes": [
+      {
+        "score": 1,
+        "thumbs": 2,
+        "text": "arkadaşlar uygulama kötü çünkü günde günlük hayatımızda ne yaptığımızı söylüyoruz ve bu uygulamayı yapanlarda günlük hayatımızda ne yaptığımızı öğreniyorlar bana katılmak isteyen haksız miyim"
+      },
+      {
+        "score": 1,
+        "thumbs": 2,
+        "text": "şifremi unuttum ne yapıcam şimdi giremiyorum"
+      },
+      {
+        "score": 1,
+        "thumbs": 0,
+        "text": "bu uygulama keşke paralı olmasaydı"
+      },
+      {
+        "score": 1,
+        "thumbs": 0,
+        "text": "çok iyi"
+      },
+      {
+        "score": 2,
+        "thumbs": 0,
+        "text": "Ücretli. Vazgeçtim"
+      }
+    ],
+    "top_tiktok_comments": [
+      {
+        "likes": 479,
+        "text": "tek bendemi oluyor bilmiyorum ama birşeyler yazıyorum aylar sonra okuduğum da çok utanç verici geliyor bu yüzden günlük tutamıyorum"
+      },
+      {
+        "likes": 139,
+        "text": "yazımı beğenmeyip 40 kere sayfaları yırtıyorum,sonra yazacak birsey bulamıyorum aglicam"
+      },
+      {
+        "likes": 25,
+        "text": "Süper bi olay ve aşırı derecede imreniyorum yazabilenlere ben maalesef içimi dökemiyorum yazamıyorum 🥹🥹🫂🫠"
+      },
+      {
+        "likes": 22,
+        "text": "Ağlayarak günlüğüne yaz diyenlere sesleniyorum zaten öyle yapıyorum🙏🏻🙏🏻"
+      },
+      {
+        "likes": 14,
+        "text": "ve o günden kalan bir anıyı o sayfaya yapıştırma alışkanlığı"
+      }
+    ],
+    "top_reddit_posts": [],
+    "dominant_complaint_themes": [
+      {
+        "theme": "pricing_billing",
+        "count": 1
+      }
+    ]
+  },
+  {
     "cell": "ID/meditation",
     "country": "ID",
     "niche": "meditation",
@@ -5934,7 +5371,7 @@
     "tiktok_views_B": 49.6,
     "tiktok_total_likes": 1366,
     "cross_country_count": 2,
-    "monthly_rpu_usd": 0.75,
+    "monthly_rpu_usd": 0.6,
     "conversion_rate": 0.004,
     "cultural_risk": false,
     "composite_score": 7,
@@ -6025,7 +5462,7 @@
     "tiktok_views_B": 1914.8,
     "tiktok_total_likes": 4735,
     "cross_country_count": 1,
-    "monthly_rpu_usd": 0.6,
+    "monthly_rpu_usd": 0.54,
     "conversion_rate": 0.004,
     "cultural_risk": false,
     "composite_score": 7,
@@ -6087,6 +5524,253 @@
     ]
   },
   {
+    "cell": "VN/tarot",
+    "country": "VN",
+    "niche": "tarot",
+    "top_app": {
+      "appId": "com.labyrinthos.app",
+      "title": "Labyrinthos Tarot Cards",
+      "score": 4.8,
+      "ratings": 42408,
+      "installs": "1.000.000+",
+      "histogram": {
+        "1": 787,
+        "2": 393,
+        "3": 787,
+        "4": 2100,
+        "5": 38075
+      },
+      "offersIAP": true,
+      "IAPRange": "23.000 ₫ - 2.200.000 ₫ mỗi mặt hàng",
+      "adSupported": false
+    },
+    "star1_ratio_pct": 1.9,
+    "low_pct": null,
+    "tiktok_views_B": 214.8,
+    "tiktok_total_likes": 1461,
+    "cross_country_count": 5,
+    "monthly_rpu_usd": 0.78,
+    "conversion_rate": 0.004,
+    "cultural_risk": false,
+    "composite_score": 7,
+    "top_quotes": [],
+    "top_tiktok_comments": [
+      {
+        "likes": 465,
+        "text": "me sitting next to him rn watching this"
+      },
+      {
+        "likes": 453,
+        "text": "Stop feeding my delulu🤦‍♀️"
+      },
+      {
+        "likes": 93,
+        "text": "Claim"
+      },
+      {
+        "likes": 60,
+        "text": "This is too spot on like what the f"
+      },
+      {
+        "likes": 54,
+        "text": "Claiming"
+      }
+    ],
+    "top_reddit_posts": [
+      {
+        "sub": "",
+        "title": "Woke up with a migraine to find that this was my card of the day in my tarot app",
+        "score": 205,
+        "comments": 13,
+        "body": ""
+      },
+      {
+        "sub": "",
+        "title": "Woke up with a migraine to find that this was my card of the day in my tarot app",
+        "score": 205,
+        "comments": 13,
+        "body": ""
+      },
+      {
+        "sub": "",
+        "title": "Have you guys ever tried this app? How do you feel about it?",
+        "score": 22,
+        "comments": 27,
+        "body": ""
+      }
+    ],
+    "dominant_complaint_themes": []
+  },
+  {
+    "cell": "VN/manifestation",
+    "country": "VN",
+    "niche": "manifestation",
+    "top_app": {
+      "appId": "com.thienly.comnieuappns",
+      "title": "Thiên Lý",
+      "score": 4.3333335,
+      "ratings": 15,
+      "installs": "1.000+",
+      "histogram": {
+        "1": 2,
+        "2": 0,
+        "3": 0,
+        "4": 2,
+        "5": 11
+      },
+      "offersIAP": false,
+      "adSupported": false
+    },
+    "star1_ratio_pct": 13.3,
+    "low_pct": null,
+    "tiktok_views_B": 131.1,
+    "tiktok_total_likes": 0,
+    "cross_country_count": 0,
+    "monthly_rpu_usd": 1.08,
+    "conversion_rate": 0.004,
+    "cultural_risk": false,
+    "composite_score": 7,
+    "top_quotes": [],
+    "top_tiktok_comments": [],
+    "top_reddit_posts": [
+      {
+        "sub": "",
+        "title": "How manifestation changed my life, so I am building an app for the community.",
+        "score": 114,
+        "comments": 112,
+        "body": "Hi everyone,  \nI’ve been lurking here for a while and finally decided to post.\n\n# What motivated me\n\nEarlier last year, I lost my job, and it honestly hit me hard. There was rent pressure, constant anxiety, and I was interviewing nonstop. I must have interviewed with around 20 co"
+      },
+      {
+        "sub": "",
+        "title": "I love the The Secret Daily Teachings app",
+        "score": 121,
+        "comments": 3,
+        "body": ""
+      },
+      {
+        "sub": "",
+        "title": "Anyone interested in a Neville 'Feel-it-Real' app?",
+        "score": 57,
+        "comments": 37,
+        "body": "This might already exist (I've not looked), but I was making a custom Neville app for myself to my own liking and so was checking to see who might be interested in such a 'Feel-it-Real' app. \n\nIt would just be a simple html/js app to run in your browser from your own computer and"
+      }
+    ],
+    "dominant_complaint_themes": []
+  },
+  {
+    "cell": "PH/astrology",
+    "country": "PH",
+    "niche": "astrology",
+    "top_app": {
+      "appId": "info.androidz.horoscope",
+      "title": "Daily Horoscope",
+      "score": 4.8423643,
+      "ratings": 461089,
+      "installs": "10,000,000+",
+      "histogram": {
+        "1": 4481,
+        "2": 2163,
+        "3": 11279,
+        "4": 24877,
+        "5": 417823
+      },
+      "offersIAP": true,
+      "IAPRange": "₱51.00 - ₱1,450.00 per item",
+      "adSupported": true
+    },
+    "star1_ratio_pct": 1,
+    "low_pct": 12,
+    "tiktok_views_B": 189.8,
+    "tiktok_total_likes": 4592,
+    "cross_country_count": 0,
+    "monthly_rpu_usd": 0.72,
+    "conversion_rate": 0.004,
+    "cultural_risk": false,
+    "composite_score": 7,
+    "top_quotes": [
+      {
+        "score": 1,
+        "thumbs": 1,
+        "text": "so negative and manipulative."
+      },
+      {
+        "score": 1,
+        "thumbs": 1,
+        "text": "I used to think this was on point but I now think since a year ago whoever took over this app or controlling it is NOT intuitive! I don't trust it."
+      },
+      {
+        "score": 1,
+        "thumbs": 1,
+        "text": "best ever 100 out of 100 times accurate"
+      },
+      {
+        "score": 1,
+        "thumbs": 1,
+        "text": "horoscopes are very inaccurate lol Thai doesn't give u your horoscope it tells you what you wanna hear"
+      },
+      {
+        "score": 1,
+        "thumbs": 1,
+        "text": "unable to open"
+      }
+    ],
+    "top_tiktok_comments": [
+      {
+        "likes": 919,
+        "text": "Just look up Her Presence Speaks by Chloe Prescott trust me on this one"
+      },
+      {
+        "likes": 720,
+        "text": "Just search for book Laws of Tavon by Tavon Riel and watch how life flips around :) (thank me later)"
+      },
+      {
+        "likes": 491,
+        "text": "for anyone who actually gets it, read echo nine by Viktor Dras. you won't look at your \"signs\" the same way again"
+      },
+      {
+        "likes": 465,
+        "text": "It blows my mind that more people don’t know about Laws of Tavon by Tavon Riel. This book seriously changed how I think, how I feel, how I manifest. Like why aren’t we taught this stuff?!"
+      },
+      {
+        "likes": 331,
+        "text": "just read the book seriously. The Truth About Manifestation by Daniel Rowe on Amazon. thank me later"
+      }
+    ],
+    "top_reddit_posts": [
+      {
+        "sub": "",
+        "title": "I want to start practicing again. Is there an app like Duolingo but for Witchcraft? ",
+        "score": 233,
+        "comments": 85,
+        "body": "I am falling behind and find myself days without practice. I need to start once more. And need sincere advice. Consistency and mental fatigue are the main pain points for me. "
+      },
+      {
+        "sub": "",
+        "title": "I want to start practicing again. Is there an app like Duolingo but for Witchcraft? ",
+        "score": 233,
+        "comments": 85,
+        "body": "I am falling behind and find myself days without practice. I need to start once more. And need sincere advice. Consistency and mental fatigue are the main pain points for me. "
+      },
+      {
+        "sub": "",
+        "title": "Asynchronous bookclub anyone? I bet we all have wonderful recommendations for books that could help us on our individual journeys, and help build our community. The Marco Polo app could host our discussion of the book of the month! Starting with \"For Small Creatures Such as We\" comment below to join",
+        "score": 207,
+        "comments": 87,
+        "body": ""
+      }
+    ],
+    "dominant_complaint_themes": [
+      {
+        "theme": "inaccurate",
+        "count": 1
+      },
+      {
+        "theme": "crashes_bugs",
+        "count": 1
+      }
+    ]
+  },
+  {
     "cell": "PH/tarot",
     "country": "PH",
     "niche": "tarot",
@@ -6112,7 +5796,7 @@
     "tiktok_views_B": 214.8,
     "tiktok_total_likes": 1878,
     "cross_country_count": 5,
-    "monthly_rpu_usd": 0.75,
+    "monthly_rpu_usd": 0.52,
     "conversion_rate": 0.004,
     "cultural_risk": false,
     "composite_score": 7,
@@ -6191,124 +5875,32 @@
     ]
   },
   {
-    "cell": "PH/manifestation",
-    "country": "PH",
-    "niche": "manifestation",
+    "cell": "BR/photo_editing",
+    "country": "BR",
+    "niche": "photo_editing",
     "top_app": {
-      "appId": "com.manifest.lawofattraction",
-      "title": "Law of Attraction - Manifest",
-      "score": 5,
-      "ratings": 2643,
-      "installs": "100,000+",
+      "appId": "photo.editor.photoeditor.photoeditorpro",
+      "title": "Editor de Fotos - Polish",
+      "score": 4.883154,
+      "ratings": 4653638,
+      "installs": "100.000.000+",
       "histogram": {
-        "1": 0,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 2643
+        "1": 58826,
+        "2": 12662,
+        "3": 38359,
+        "4": 193686,
+        "5": 4350077
       },
       "offersIAP": true,
-      "IAPRange": "₱96.00 - ₱919.00 per item",
+      "IAPRange": "R$ 3,79 – R$ 499,98 por item",
       "adSupported": true
     },
-    "star1_ratio_pct": 0,
-    "low_pct": 5,
-    "tiktok_views_B": 131.1,
+    "star1_ratio_pct": 1.3,
+    "low_pct": 2,
+    "tiktok_views_B": 16358.6,
     "tiktok_total_likes": 0,
-    "cross_country_count": 2,
-    "monthly_rpu_usd": 1,
-    "conversion_rate": 0.004,
-    "cultural_risk": false,
-    "composite_score": 7,
-    "top_quotes": [
-      {
-        "score": 1,
-        "thumbs": 3,
-        "text": "This app is just a showcase, it does not work actually. I installed it but had to get it off because of its lack of response and overburdened ads."
-      },
-      {
-        "score": 1,
-        "thumbs": 0,
-        "text": "Every time I open the app, a connection error occurs."
-      },
-      {
-        "score": 2,
-        "thumbs": 0,
-        "text": "it suddenly stopped working"
-      },
-      {
-        "score": 2,
-        "thumbs": 0,
-        "text": "please isko hindi translation mein bhi daliye.... - Thankyou"
-      },
-      {
-        "score": 1,
-        "thumbs": 0,
-        "text": "it's help me apply more knowledge and creativity"
-      }
-    ],
-    "top_tiktok_comments": [],
-    "top_reddit_posts": [
-      {
-        "sub": "",
-        "title": "How manifestation changed my life, so I am building an app for the community.",
-        "score": 114,
-        "comments": 112,
-        "body": "Hi everyone,  \nI’ve been lurking here for a while and finally decided to post.\n\n# What motivated me\n\nEarlier last year, I lost my job, and it honestly hit me hard. There was rent pressure, constant anxiety, and I was interviewing nonstop. I must have interviewed with around 20 co"
-      },
-      {
-        "sub": "",
-        "title": "I love the The Secret Daily Teachings app",
-        "score": 121,
-        "comments": 3,
-        "body": ""
-      },
-      {
-        "sub": "",
-        "title": "Anyone interested in a Neville 'Feel-it-Real' app?",
-        "score": 57,
-        "comments": 37,
-        "body": "This might already exist (I've not looked), but I was making a custom Neville app for myself to my own liking and so was checking to see who might be interested in such a 'Feel-it-Real' app. \n\nIt would just be a simple html/js app to run in your browser from your own computer and"
-      }
-    ],
-    "dominant_complaint_themes": [
-      {
-        "theme": "crashes_bugs",
-        "count": 1
-      },
-      {
-        "theme": "too_many_ads",
-        "count": 1
-      }
-    ]
-  },
-  {
-    "cell": "MX/recipes",
-    "country": "MX",
-    "niche": "recipes",
-    "top_app": {
-      "appId": "com.mufumbo.android.recipe.search",
-      "title": "Cookpad recetas, cocina casera",
-      "score": 4.783688,
-      "ratings": 345979,
-      "installs": "10,000,000+",
-      "histogram": {
-        "1": 5464,
-        "2": 581,
-        "3": 8544,
-        "4": 33714,
-        "5": 297500
-      },
-      "offersIAP": true,
-      "IAPRange": "$30.00-$509.00 por elemento",
-      "adSupported": false
-    },
-    "star1_ratio_pct": 1.6,
-    "low_pct": 3,
-    "tiktok_views_B": 1093.7,
-    "tiktok_total_likes": 1616,
-    "cross_country_count": 2,
-    "monthly_rpu_usd": 0.35,
+    "cross_country_count": 3,
+    "monthly_rpu_usd": 1.75,
     "conversion_rate": 0.0075,
     "cultural_risk": false,
     "composite_score": 7,
@@ -6316,41 +5908,15 @@
       {
         "score": 1,
         "thumbs": 0,
-        "text": "No se puede ver nada si no pagas"
+        "text": "deveria ser gratuito"
       },
       {
         "score": 1,
         "thumbs": 0,
-        "text": "pesima aplicación no me dejó ni ingresar"
-      },
-      {
-        "score": 1,
-        "thumbs": 0,
-        "text": "Muy buena la receta. Salió riquísimo."
+        "text": "O \"REMOVER I.A\" está removendo mas escrevendo coisas aleatórias no lugar que apaga"
       }
     ],
-    "top_tiktok_comments": [
-      {
-        "likes": 786,
-        "text": "Sabías que si haces lo mismo pero con masa de pizza tienes una pizza de verdad en lugar de eso?"
-      },
-      {
-        "likes": 311,
-        "text": "creo que con aguacate 🥑 sería ya perfecto 😁"
-      },
-      {
-        "likes": 189,
-        "text": "es como el pico de gallo , buenisimo"
-      },
-      {
-        "likes": 49,
-        "text": "a cualquier cosa se le llama pizza"
-      },
-      {
-        "likes": 43,
-        "text": "hoy hablaremos del pan de molde sobre la placa y después al salir del horno sale con papel del horno......😳😳😳😳 magia? realidad?? ilusión óptica?? esta noche en cuarto milenio 😂"
-      }
-    ],
+    "top_tiktok_comments": [],
     "top_reddit_posts": [],
     "dominant_complaint_themes": []
   },
@@ -6380,7 +5946,7 @@
     "tiktok_views_B": 16358.6,
     "tiktok_total_likes": 0,
     "cross_country_count": 3,
-    "monthly_rpu_usd": 1.5,
+    "monthly_rpu_usd": 1.25,
     "conversion_rate": 0.0075,
     "cultural_risk": false,
     "composite_score": 7,
@@ -6415,7 +5981,7 @@
     "tiktok_views_B": 17033.5,
     "tiktok_total_likes": 0,
     "cross_country_count": 3,
-    "monthly_rpu_usd": 1.5,
+    "monthly_rpu_usd": 1.25,
     "conversion_rate": 0.0075,
     "cultural_risk": false,
     "composite_score": 7,
@@ -6450,7 +6016,7 @@
     "tiktok_views_B": 64.8,
     "tiktok_total_likes": 0,
     "cross_country_count": 1,
-    "monthly_rpu_usd": 3.75,
+    "monthly_rpu_usd": 3,
     "conversion_rate": 0.0125,
     "cultural_risk": false,
     "composite_score": 7,
@@ -6594,6 +6160,761 @@
     ]
   },
   {
+    "cell": "TH/selfcare",
+    "country": "TH",
+    "niche": "selfcare",
+    "top_app": {
+      "appId": "moodtracker.selfcare.habittracker.mentalhealth",
+      "title": "Mood Tracker นิสัยการดูแลตนเอง",
+      "score": 4.83,
+      "ratings": 20996,
+      "installs": "1,000,000+",
+      "histogram": {
+        "1": 396,
+        "2": 182,
+        "3": 0,
+        "4": 1249,
+        "5": 19076
+      },
+      "offersIAP": true,
+      "IAPRange": "฿37.00 - ฿2,000.00 ต่อรายการ",
+      "adSupported": true
+    },
+    "star1_ratio_pct": 1.9,
+    "low_pct": 2,
+    "tiktok_views_B": 152.7,
+    "tiktok_total_likes": 0,
+    "cross_country_count": 1,
+    "monthly_rpu_usd": 1.5,
+    "conversion_rate": 0.004,
+    "cultural_risk": false,
+    "composite_score": 7,
+    "top_quotes": [
+      {
+        "score": 1,
+        "thumbs": 0,
+        "text": "ใช้ไม่ได้"
+      },
+      {
+        "score": 1,
+        "thumbs": 0,
+        "text": "ไม่ชอบ น่ารำคาญ ยัดเยียดให้เลี้ยงทามากอส"
+      }
+    ],
+    "top_tiktok_comments": [],
+    "top_reddit_posts": [
+      {
+        "sub": "",
+        "title": "I cut my screen time by 70% without deleting a single social media app.",
+        "score": 56,
+        "comments": 34,
+        "body": "Six months ago, I was a ghost of a person.\n\nI’d wake up at 7:00 AM, and before my feet even touched the floor, I was twenty minutes deep into social media. By noon, my brain felt like fried eggs. I was working a desk job, barely moving, and \"treating\" my stress by scrolling Short"
+      },
+      {
+        "sub": "",
+        "title": "Hint app made me notice patterns about myself I wasn’t really thinking about",
+        "score": 10,
+        "comments": 53,
+        "body": "I downloaded Hint pretty much by chance, and I didn’t have very high expectations for the app.\n\nhowever, some of the statements caught my attention not because they seemed magical but because they highlighted aspects of behavior that I recognize in myself, although I had never pu"
+      },
+      {
+        "sub": "",
+        "title": "what self improvement app made a real difference for you",
+        "score": 17,
+        "comments": 36,
+        "body": "Not asking for what's popular or what has the best rating. What actually moved something in your life, small or large, habit or mindset. What app contributed to a real change in how you live or work and what specifically did it do that other stuff hadn't.\n\nI'll go: Duolingo not b"
+      }
+    ],
+    "dominant_complaint_themes": []
+  },
+  {
+    "cell": "AE/manifestation",
+    "country": "AE",
+    "niche": "manifestation",
+    "top_app": {
+      "appId": "com.pdf.kanonaljadb",
+      "title": "كتاب قانون الجذب  pdf",
+      "ratings": 0,
+      "installs": "+50,000",
+      "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "offersIAP": false,
+      "adSupported": true
+    },
+    "star1_ratio_pct": 0,
+    "low_pct": 11,
+    "tiktok_views_B": 131.1,
+    "tiktok_total_likes": 0,
+    "cross_country_count": 2,
+    "monthly_rpu_usd": 3.6,
+    "conversion_rate": 0.015,
+    "cultural_risk": true,
+    "composite_score": 7,
+    "top_quotes": [
+      {
+        "score": 1,
+        "thumbs": 13,
+        "text": "لمادا لا يتنزل بسرعة ارجو حل هده المشكلة انا وضعت نجمة واحدة عند تحميله وتنزيله اضع 5 نجمات"
+      },
+      {
+        "score": 2,
+        "thumbs": 8,
+        "text": "دراسه نفسيه تفتح ابواب الوهم على مصراعيه للفاشلين في فهم الحياة بشكلها الصحيح والمثابره والعزم في الوصول إلى مايصبوااليه من النجاح والكفاح في أعمالهم اليوميه ،."
+      },
+      {
+        "score": 1,
+        "thumbs": 4,
+        "text": "كدب كول اعلانة ٠٠٠٠٠٠٠٠٠٠٠٠٠٠٠٠٠٠"
+      },
+      {
+        "score": 2,
+        "thumbs": 2,
+        "text": "ملائم"
+      },
+      {
+        "score": 1,
+        "thumbs": 2,
+        "text": "لم اجربه بعد"
+      }
+    ],
+    "top_tiktok_comments": [],
+    "top_reddit_posts": [
+      {
+        "sub": "",
+        "title": "How manifestation changed my life, so I am building an app for the community.",
+        "score": 114,
+        "comments": 112,
+        "body": "Hi everyone,  \nI’ve been lurking here for a while and finally decided to post.\n\n# What motivated me\n\nEarlier last year, I lost my job, and it honestly hit me hard. There was rent pressure, constant anxiety, and I was interviewing nonstop. I must have interviewed with around 20 co"
+      },
+      {
+        "sub": "",
+        "title": "I love the The Secret Daily Teachings app",
+        "score": 121,
+        "comments": 3,
+        "body": ""
+      },
+      {
+        "sub": "",
+        "title": "Anyone interested in a Neville 'Feel-it-Real' app?",
+        "score": 57,
+        "comments": 37,
+        "body": "This might already exist (I've not looked), but I was making a custom Neville app for myself to my own liking and so was checking to see who might be interested in such a 'Feel-it-Real' app. \n\nIt would just be a simple html/js app to run in your browser from your own computer and"
+      }
+    ],
+    "dominant_complaint_themes": []
+  },
+  {
+    "cell": "BR/tarot",
+    "country": "BR",
+    "niche": "tarot",
+    "top_app": {
+      "appId": "com.labyrinthos.app",
+      "title": "Labyrinthos: Leitura de Tarot",
+      "score": 4.820442,
+      "ratings": 42408,
+      "installs": "1.000.000+",
+      "histogram": {
+        "1": 691,
+        "2": 457,
+        "3": 457,
+        "4": 2450,
+        "5": 38304
+      },
+      "offersIAP": true,
+      "IAPRange": "R$ 3,69 – R$ 359,99 por item",
+      "adSupported": false
+    },
+    "star1_ratio_pct": 1.6,
+    "low_pct": 6,
+    "tiktok_views_B": 214.8,
+    "tiktok_total_likes": 313,
+    "cross_country_count": 5,
+    "monthly_rpu_usd": 0.91,
+    "conversion_rate": 0.0075,
+    "cultural_risk": false,
+    "composite_score": 6,
+    "top_quotes": [
+      {
+        "score": 2,
+        "thumbs": 7,
+        "text": "O aplicativo é bom mas, não assinem e nem comprem créditos porque não vão receber. Comprei créditos já faz um mês e não recebi, o suporte não funciona."
+      },
+      {
+        "score": 2,
+        "thumbs": 0,
+        "text": "Estou tentando usar o aplicativo porém, não estou encontrando a opção de idioma, português."
+      },
+      {
+        "score": 1,
+        "thumbs": 0,
+        "text": "Comprei pacote mensal (que não é barato) e NADA foi liberado."
+      },
+      {
+        "score": 1,
+        "thumbs": 0,
+        "text": "The app charged me an absurd annual fee that I did not approve. I demand an urgent refund. I have already sent an email. There is no guidance about this on the website, and nothing appears on my phone — only on my bank statement. The app is malfunctioning — it does not show that "
+      },
+      {
+        "score": 2,
+        "thumbs": 0,
+        "text": "Fiz duas recargas e não foi creditado ao meu perfil"
+      }
+    ],
+    "top_tiktok_comments": [
+      {
+        "likes": 116,
+        "text": "eu tirei pra ver se ele ama ela e caiu que ele só está com ela pra não ficar com fama de \"o ex da virginal que traiu ela\""
+      },
+      {
+        "likes": 55,
+        "text": "eu fui fazer e disse que eu tenho caso com homem casado 😂 eu sou casada"
+      },
+      {
+        "likes": 27,
+        "text": "deu uma coisa que eu fiquei passada, mais que já aconteceu"
+      },
+      {
+        "likes": 19,
+        "text": "Dá sempre a mesma resposta 😂"
+      },
+      {
+        "likes": 18,
+        "text": "Essa página não abre pra mim😭"
+      }
+    ],
+    "top_reddit_posts": [
+      {
+        "sub": "",
+        "title": "Woke up with a migraine to find that this was my card of the day in my tarot app",
+        "score": 205,
+        "comments": 13,
+        "body": ""
+      },
+      {
+        "sub": "",
+        "title": "Woke up with a migraine to find that this was my card of the day in my tarot app",
+        "score": 205,
+        "comments": 13,
+        "body": ""
+      },
+      {
+        "sub": "",
+        "title": "Have you guys ever tried this app? How do you feel about it?",
+        "score": 22,
+        "comments": 27,
+        "body": ""
+      }
+    ],
+    "dominant_complaint_themes": [
+      {
+        "theme": "language_gap",
+        "count": 1
+      },
+      {
+        "theme": "refund_denied",
+        "count": 1
+      },
+      {
+        "theme": "crashes_bugs",
+        "count": 1
+      },
+      {
+        "theme": "support_unresponsive",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "cell": "TR/selfcare",
+    "country": "TR",
+    "niche": "selfcare",
+    "top_app": {
+      "appId": "com.selfcare.stressrelief.anxietyrelief",
+      "title": "Öz bakım – Kaygı giderme",
+      "ratings": 0,
+      "installs": "50.000+",
+      "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "offersIAP": false,
+      "adSupported": true
+    },
+    "star1_ratio_pct": 0,
+    "low_pct": null,
+    "tiktok_views_B": 152.7,
+    "tiktok_total_likes": 1708,
+    "cross_country_count": 0,
+    "monthly_rpu_usd": 3.75,
+    "conversion_rate": 0.0125,
+    "cultural_risk": false,
+    "composite_score": 6,
+    "top_quotes": [],
+    "top_tiktok_comments": [
+      {
+        "likes": 915,
+        "text": "kimse için dünyada öyle bi su yok abla 2 3 güne bir alınan duş kimseyi kirli yapmaz"
+      },
+      {
+        "likes": 422,
+        "text": "abla ben temiz biriyim ve hiçbir zaman kotu kokmadim fakat calisan biri değilim evdeyim ve pis hissetmiyorum kendimi o yuzden özellikle kisin her gün duş almiyorum"
+      },
+      {
+        "likes": 98,
+        "text": "Sacim yaglanmadigi ve terlemedigim süreçte her gün duş almıyorum. Yaz mevsimi hariç. Bu da pazar akşam aldiysam çarşamba ve ya Salı gününe denk geliyor"
+      },
+      {
+        "likes": 85,
+        "text": "her dışarıdan geldiğinde telefonunun ekranını kılıfını falan temizlemeyen insanlarda aynı şekilde bu arada el yıkamamakla aynı şey 🙏"
+      },
+      {
+        "likes": 24,
+        "text": "Ay eveettt sonunda benim gibi düşünen birisi"
+      }
+    ],
+    "top_reddit_posts": [
+      {
+        "sub": "",
+        "title": "I cut my screen time by 70% without deleting a single social media app.",
+        "score": 56,
+        "comments": 34,
+        "body": "Six months ago, I was a ghost of a person.\n\nI’d wake up at 7:00 AM, and before my feet even touched the floor, I was twenty minutes deep into social media. By noon, my brain felt like fried eggs. I was working a desk job, barely moving, and \"treating\" my stress by scrolling Short"
+      },
+      {
+        "sub": "",
+        "title": "Hint app made me notice patterns about myself I wasn’t really thinking about",
+        "score": 10,
+        "comments": 53,
+        "body": "I downloaded Hint pretty much by chance, and I didn’t have very high expectations for the app.\n\nhowever, some of the statements caught my attention not because they seemed magical but because they highlighted aspects of behavior that I recognize in myself, although I had never pu"
+      },
+      {
+        "sub": "",
+        "title": "what self improvement app made a real difference for you",
+        "score": 17,
+        "comments": 36,
+        "body": "Not asking for what's popular or what has the best rating. What actually moved something in your life, small or large, habit or mindset. What app contributed to a real change in how you live or work and what specifically did it do that other stuff hadn't.\n\nI'll go: Duolingo not b"
+      }
+    ],
+    "dominant_complaint_themes": []
+  },
+  {
+    "cell": "ID/manifestation",
+    "country": "ID",
+    "niche": "manifestation",
+    "top_app": {
+      "appId": "com.manifestme.app",
+      "title": "ManifestMe - Manifestasi AI",
+      "ratings": 0,
+      "installs": "10.000+",
+      "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "offersIAP": true,
+      "IAPRange": "Rp 81.000 - Rp 790.000 per item",
+      "adSupported": true
+    },
+    "star1_ratio_pct": 0,
+    "low_pct": null,
+    "tiktok_views_B": 131.1,
+    "tiktok_total_likes": 511,
+    "cross_country_count": 1,
+    "monthly_rpu_usd": 0.54,
+    "conversion_rate": 0.004,
+    "cultural_risk": false,
+    "composite_score": 6,
+    "top_quotes": [],
+    "top_tiktok_comments": [
+      {
+        "likes": 235,
+        "text": "Apapun tekniknya inti dari semua hny keyakinan sj, bukan berarti gk butuh teknik.apapun yg bt km nyaman? gaslah,mau sebutkan lsg, tulis,visualisasi,dll intinya km yakin 😌 dan msuk dlm crt baru yg km inginkan bukan terus-terusan mengulangi crt lama/hal yg tdk km sukai."
+      },
+      {
+        "likes": 58,
+        "text": "kak aku sering kek gini pas mandi,liat air bilang wah (nama kita) cantik banget, langsing, pinter, gacor abis dah. Eh bener dong orang lain mandang aku gitu dan efeknya naik jabatan hehe"
+      },
+      {
+        "likes": 45,
+        "text": "aku pernah melakukannya\ningin punya Rumah di kmpung yg besar\nsetiap mlm saya gambar Rumah yg aku impikan\nAlhamdulillah tiba2 dpt Rezeki besar dan saya membangun Rumah seperti gambaran saya"
+      },
+      {
+        "likes": 43,
+        "text": "ini kayak kita bacaan tarot yg muncul di fyp ya, tekniknya pake 3rd person tp bedanya ini kita yg buat sendiri 🤣 (bettet sih jd kita bisa buatbyg positif nya aja hehe)"
+      },
+      {
+        "likes": 21,
+        "text": "kaka makasih aku udah nulis ternyata satu2 terbukti"
+      }
+    ],
+    "top_reddit_posts": [
+      {
+        "sub": "",
+        "title": "How manifestation changed my life, so I am building an app for the community.",
+        "score": 114,
+        "comments": 112,
+        "body": "Hi everyone,  \nI’ve been lurking here for a while and finally decided to post.\n\n# What motivated me\n\nEarlier last year, I lost my job, and it honestly hit me hard. There was rent pressure, constant anxiety, and I was interviewing nonstop. I must have interviewed with around 20 co"
+      },
+      {
+        "sub": "",
+        "title": "I love the The Secret Daily Teachings app",
+        "score": 121,
+        "comments": 3,
+        "body": ""
+      },
+      {
+        "sub": "",
+        "title": "Anyone interested in a Neville 'Feel-it-Real' app?",
+        "score": 57,
+        "comments": 37,
+        "body": "This might already exist (I've not looked), but I was making a custom Neville app for myself to my own liking and so was checking to see who might be interested in such a 'Feel-it-Real' app. \n\nIt would just be a simple html/js app to run in your browser from your own computer and"
+      }
+    ],
+    "dominant_complaint_themes": []
+  },
+  {
+    "cell": "BR/meditation",
+    "country": "BR",
+    "niche": "meditation",
+    "top_app": {
+      "appId": "com.spotlightsix.zentimerlite2",
+      "title": "Insight Timer - Meditação",
+      "score": 4.8590765,
+      "ratings": 256926,
+      "installs": "10.000.000+",
+      "histogram": {
+        "1": 4702,
+        "2": 1631,
+        "3": 1732,
+        "4": 8999,
+        "5": 239839
+      },
+      "offersIAP": true,
+      "IAPRange": "R$ 7,13 – R$ 1.099,99 por item",
+      "adSupported": false
+    },
+    "star1_ratio_pct": 1.8,
+    "low_pct": 12,
+    "tiktok_views_B": 49.6,
+    "tiktok_total_likes": 839,
+    "cross_country_count": 2,
+    "monthly_rpu_usd": 1.4,
+    "conversion_rate": 0.0075,
+    "cultural_risk": false,
+    "composite_score": 6,
+    "top_quotes": [
+      {
+        "score": 1,
+        "thumbs": 5,
+        "text": "Aplicativo maravilhoso! 😀 Amando! - Edit 10/07/2025: Continuo gostando muito do aplicativo. Tenho apenas a ressalva relacionada ao conteúdo traduzido, pois notei que alguns cursos que oferecem versão em português, a tradução foi feita por IA e ficou muito ruim, robótica, faltand"
+      },
+      {
+        "score": 2,
+        "thumbs": 1,
+        "text": "O aplicativo se diz sem anúncios, mas todos os anúncios sobre as próprias funções são tão invasivos que vão na contramão da proposta de saúde mental e espiritualidade."
+      },
+      {
+        "score": 1,
+        "thumbs": 1,
+        "text": "Uso o app há muitos anos e tenho acompanhado de perto o quanto ele segue sendo cada vez mais piorado. O que já foi um excelente recurso de apoio para meditação se tornou quase um martírio em termos de experiência do cliente. Hoje tentei usar o timer e fui obrigada a passar por um"
+      },
+      {
+        "score": 2,
+        "thumbs": 0,
+        "text": "depois da última atualização estou com muita dificuldade. uso o app para dormir mas ele simplesmente para de tocar!"
+      },
+      {
+        "score": 1,
+        "thumbs": 0,
+        "text": "O aplicativo fica com a tela branca depois de aparecer a frase inicial."
+      }
+    ],
+    "top_tiktok_comments": [
+      {
+        "likes": 189,
+        "text": "se eu fizer essa primeira a crise de ansiedade ataca na hora"
+      },
+      {
+        "likes": 187,
+        "text": "Esse conteúdo vale ouro, tem cursos que custam uma fortuna e não ensina nem metade do que aprendo aqui.Só gratidão"
+      },
+      {
+        "likes": 141,
+        "text": "em casa eu encontro silencio so pela madrugada, eu posso meditar 1h 2h da manhã?"
+      },
+      {
+        "likes": 70,
+        "text": "eu literalmente amo meditar e amo aquela seção de flutuar e aquele leve calor"
+      },
+      {
+        "likes": 64,
+        "text": "Meditação evoluiu minha mente, passei a olhar pra dentro de mim com muito carinho e me respeitando, passei a observar mais as coisas e como me comporto !!❤"
+      }
+    ],
+    "top_reddit_posts": [],
+    "dominant_complaint_themes": [
+      {
+        "theme": "crashes_bugs",
+        "count": 3
+      },
+      {
+        "theme": "language_gap",
+        "count": 2
+      },
+      {
+        "theme": "ai_complaint",
+        "count": 1
+      },
+      {
+        "theme": "too_many_ads",
+        "count": 1
+      },
+      {
+        "theme": "paywall_locked",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "cell": "PH/manifestation",
+    "country": "PH",
+    "niche": "manifestation",
+    "top_app": {
+      "appId": "com.manifest.lawofattraction",
+      "title": "Law of Attraction - Manifest",
+      "score": 5,
+      "ratings": 2643,
+      "installs": "100,000+",
+      "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 2643
+      },
+      "offersIAP": true,
+      "IAPRange": "₱96.00 - ₱919.00 per item",
+      "adSupported": true
+    },
+    "star1_ratio_pct": 0,
+    "low_pct": 5,
+    "tiktok_views_B": 131.1,
+    "tiktok_total_likes": 0,
+    "cross_country_count": 2,
+    "monthly_rpu_usd": 0.72,
+    "conversion_rate": 0.004,
+    "cultural_risk": false,
+    "composite_score": 6,
+    "top_quotes": [
+      {
+        "score": 1,
+        "thumbs": 3,
+        "text": "This app is just a showcase, it does not work actually. I installed it but had to get it off because of its lack of response and overburdened ads."
+      },
+      {
+        "score": 1,
+        "thumbs": 0,
+        "text": "Every time I open the app, a connection error occurs."
+      },
+      {
+        "score": 2,
+        "thumbs": 0,
+        "text": "it suddenly stopped working"
+      },
+      {
+        "score": 2,
+        "thumbs": 0,
+        "text": "please isko hindi translation mein bhi daliye.... - Thankyou"
+      },
+      {
+        "score": 1,
+        "thumbs": 0,
+        "text": "it's help me apply more knowledge and creativity"
+      }
+    ],
+    "top_tiktok_comments": [],
+    "top_reddit_posts": [
+      {
+        "sub": "",
+        "title": "How manifestation changed my life, so I am building an app for the community.",
+        "score": 114,
+        "comments": 112,
+        "body": "Hi everyone,  \nI’ve been lurking here for a while and finally decided to post.\n\n# What motivated me\n\nEarlier last year, I lost my job, and it honestly hit me hard. There was rent pressure, constant anxiety, and I was interviewing nonstop. I must have interviewed with around 20 co"
+      },
+      {
+        "sub": "",
+        "title": "I love the The Secret Daily Teachings app",
+        "score": 121,
+        "comments": 3,
+        "body": ""
+      },
+      {
+        "sub": "",
+        "title": "Anyone interested in a Neville 'Feel-it-Real' app?",
+        "score": 57,
+        "comments": 37,
+        "body": "This might already exist (I've not looked), but I was making a custom Neville app for myself to my own liking and so was checking to see who might be interested in such a 'Feel-it-Real' app. \n\nIt would just be a simple html/js app to run in your browser from your own computer and"
+      }
+    ],
+    "dominant_complaint_themes": [
+      {
+        "theme": "crashes_bugs",
+        "count": 1
+      },
+      {
+        "theme": "too_many_ads",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "cell": "MX/recipes",
+    "country": "MX",
+    "niche": "recipes",
+    "top_app": {
+      "appId": "com.mufumbo.android.recipe.search",
+      "title": "Cookpad recetas, cocina casera",
+      "score": 4.783688,
+      "ratings": 345979,
+      "installs": "10,000,000+",
+      "histogram": {
+        "1": 5464,
+        "2": 581,
+        "3": 8544,
+        "4": 33714,
+        "5": 297500
+      },
+      "offersIAP": true,
+      "IAPRange": "$30.00-$509.00 por elemento",
+      "adSupported": false
+    },
+    "star1_ratio_pct": 1.6,
+    "low_pct": 3,
+    "tiktok_views_B": 1093.7,
+    "tiktok_total_likes": 1616,
+    "cross_country_count": 2,
+    "monthly_rpu_usd": 0.35,
+    "conversion_rate": 0.0075,
+    "cultural_risk": false,
+    "composite_score": 6,
+    "top_quotes": [
+      {
+        "score": 1,
+        "thumbs": 0,
+        "text": "No se puede ver nada si no pagas"
+      },
+      {
+        "score": 1,
+        "thumbs": 0,
+        "text": "pesima aplicación no me dejó ni ingresar"
+      },
+      {
+        "score": 1,
+        "thumbs": 0,
+        "text": "Muy buena la receta. Salió riquísimo."
+      }
+    ],
+    "top_tiktok_comments": [
+      {
+        "likes": 786,
+        "text": "Sabías que si haces lo mismo pero con masa de pizza tienes una pizza de verdad en lugar de eso?"
+      },
+      {
+        "likes": 311,
+        "text": "creo que con aguacate 🥑 sería ya perfecto 😁"
+      },
+      {
+        "likes": 189,
+        "text": "es como el pico de gallo , buenisimo"
+      },
+      {
+        "likes": 49,
+        "text": "a cualquier cosa se le llama pizza"
+      },
+      {
+        "likes": 43,
+        "text": "hoy hablaremos del pan de molde sobre la placa y después al salir del horno sale con papel del horno......😳😳😳😳 magia? realidad?? ilusión óptica?? esta noche en cuarto milenio 😂"
+      }
+    ],
+    "top_reddit_posts": [],
+    "dominant_complaint_themes": []
+  },
+  {
+    "cell": "MX/kids",
+    "country": "MX",
+    "niche": "kids",
+    "top_app": {
+      "appId": "com.rvappstudios.baby.toddler.kids.games.learning.activity",
+      "title": "Juegos para niños: edades 3-7",
+      "score": 4.605364,
+      "ratings": 54381,
+      "installs": "50,000,000+",
+      "histogram": {
+        "1": 2278,
+        "2": 1442,
+        "3": 1651,
+        "4": 4578,
+        "5": 44366
+      },
+      "offersIAP": false,
+      "adSupported": false
+    },
+    "star1_ratio_pct": 4.2,
+    "low_pct": 6,
+    "tiktok_views_B": 138.9,
+    "tiktok_total_likes": 0,
+    "cross_country_count": 1,
+    "monthly_rpu_usd": 0.65,
+    "conversion_rate": 0.0075,
+    "cultural_risk": false,
+    "composite_score": 6,
+    "top_quotes": [
+      {
+        "score": 1,
+        "thumbs": 5,
+        "text": "no agarra se queda en pantalla de inicio"
+      },
+      {
+        "score": 1,
+        "thumbs": 1,
+        "text": "porque no ponen ke está en inglés"
+      },
+      {
+        "score": 1,
+        "thumbs": 1,
+        "text": "no me gusto"
+      },
+      {
+        "score": 1,
+        "thumbs": 0,
+        "text": "horrible"
+      },
+      {
+        "score": 1,
+        "thumbs": 0,
+        "text": "bueno"
+      }
+    ],
+    "top_tiktok_comments": [],
+    "top_reddit_posts": [],
+    "dominant_complaint_themes": [
+      {
+        "theme": "language_gap",
+        "count": 1
+      }
+    ]
+  },
+  {
     "cell": "TH/tarot",
     "country": "TH",
     "niche": "tarot",
@@ -6619,10 +6940,10 @@
     "tiktok_views_B": 214.8,
     "tiktok_total_likes": 70,
     "cross_country_count": 5,
-    "monthly_rpu_usd": 1.05,
+    "monthly_rpu_usd": 0.78,
     "conversion_rate": 0.004,
     "cultural_risk": false,
-    "composite_score": 7,
+    "composite_score": 6,
     "top_quotes": [],
     "top_tiktok_comments": [
       {
@@ -6696,10 +7017,10 @@
     "tiktok_views_B": 131.1,
     "tiktok_total_likes": 0,
     "cross_country_count": 2,
-    "monthly_rpu_usd": 3,
+    "monthly_rpu_usd": 1.44,
     "conversion_rate": 0.01,
     "cultural_risk": true,
-    "composite_score": 7,
+    "composite_score": 6,
     "top_quotes": [
       {
         "score": 1,
@@ -6779,10 +7100,10 @@
     "tiktok_views_B": 214.8,
     "tiktok_total_likes": 0,
     "cross_country_count": 2,
-    "monthly_rpu_usd": 15,
+    "monthly_rpu_usd": 2.6,
     "conversion_rate": 0.015,
     "cultural_risk": true,
-    "composite_score": 7,
+    "composite_score": 6,
     "top_quotes": [
       {
         "score": 1,
@@ -6837,159 +7158,6 @@
     "dominant_complaint_themes": []
   },
   {
-    "cell": "TR/selfcare",
-    "country": "TR",
-    "niche": "selfcare",
-    "top_app": {
-      "appId": "com.selfcare.stressrelief.anxietyrelief",
-      "title": "Öz bakım – Kaygı giderme",
-      "ratings": 0,
-      "installs": "50.000+",
-      "histogram": {
-        "1": 0,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0
-      },
-      "offersIAP": false,
-      "adSupported": true
-    },
-    "star1_ratio_pct": 0,
-    "low_pct": null,
-    "tiktok_views_B": 152.7,
-    "tiktok_total_likes": 1708,
-    "cross_country_count": 0,
-    "monthly_rpu_usd": 4.5,
-    "conversion_rate": 0.0125,
-    "cultural_risk": false,
-    "composite_score": 6,
-    "top_quotes": [],
-    "top_tiktok_comments": [
-      {
-        "likes": 915,
-        "text": "kimse için dünyada öyle bi su yok abla 2 3 güne bir alınan duş kimseyi kirli yapmaz"
-      },
-      {
-        "likes": 422,
-        "text": "abla ben temiz biriyim ve hiçbir zaman kotu kokmadim fakat calisan biri değilim evdeyim ve pis hissetmiyorum kendimi o yuzden özellikle kisin her gün duş almiyorum"
-      },
-      {
-        "likes": 98,
-        "text": "Sacim yaglanmadigi ve terlemedigim süreçte her gün duş almıyorum. Yaz mevsimi hariç. Bu da pazar akşam aldiysam çarşamba ve ya Salı gününe denk geliyor"
-      },
-      {
-        "likes": 85,
-        "text": "her dışarıdan geldiğinde telefonunun ekranını kılıfını falan temizlemeyen insanlarda aynı şekilde bu arada el yıkamamakla aynı şey 🙏"
-      },
-      {
-        "likes": 24,
-        "text": "Ay eveettt sonunda benim gibi düşünen birisi"
-      }
-    ],
-    "top_reddit_posts": [
-      {
-        "sub": "",
-        "title": "I cut my screen time by 70% without deleting a single social media app.",
-        "score": 56,
-        "comments": 34,
-        "body": "Six months ago, I was a ghost of a person.\n\nI’d wake up at 7:00 AM, and before my feet even touched the floor, I was twenty minutes deep into social media. By noon, my brain felt like fried eggs. I was working a desk job, barely moving, and \"treating\" my stress by scrolling Short"
-      },
-      {
-        "sub": "",
-        "title": "Hint app made me notice patterns about myself I wasn’t really thinking about",
-        "score": 10,
-        "comments": 53,
-        "body": "I downloaded Hint pretty much by chance, and I didn’t have very high expectations for the app.\n\nhowever, some of the statements caught my attention not because they seemed magical but because they highlighted aspects of behavior that I recognize in myself, although I had never pu"
-      },
-      {
-        "sub": "",
-        "title": "what self improvement app made a real difference for you",
-        "score": 17,
-        "comments": 36,
-        "body": "Not asking for what's popular or what has the best rating. What actually moved something in your life, small or large, habit or mindset. What app contributed to a real change in how you live or work and what specifically did it do that other stuff hadn't.\n\nI'll go: Duolingo not b"
-      }
-    ],
-    "dominant_complaint_themes": []
-  },
-  {
-    "cell": "ID/manifestation",
-    "country": "ID",
-    "niche": "manifestation",
-    "top_app": {
-      "appId": "com.manifestme.app",
-      "title": "ManifestMe - Manifestasi AI",
-      "ratings": 0,
-      "installs": "10.000+",
-      "histogram": {
-        "1": 0,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0
-      },
-      "offersIAP": true,
-      "IAPRange": "Rp 81.000 - Rp 790.000 per item",
-      "adSupported": true
-    },
-    "star1_ratio_pct": 0,
-    "low_pct": null,
-    "tiktok_views_B": 131.1,
-    "tiktok_total_likes": 511,
-    "cross_country_count": 1,
-    "monthly_rpu_usd": 0.6,
-    "conversion_rate": 0.004,
-    "cultural_risk": false,
-    "composite_score": 6,
-    "top_quotes": [],
-    "top_tiktok_comments": [
-      {
-        "likes": 235,
-        "text": "Apapun tekniknya inti dari semua hny keyakinan sj, bukan berarti gk butuh teknik.apapun yg bt km nyaman? gaslah,mau sebutkan lsg, tulis,visualisasi,dll intinya km yakin 😌 dan msuk dlm crt baru yg km inginkan bukan terus-terusan mengulangi crt lama/hal yg tdk km sukai."
-      },
-      {
-        "likes": 58,
-        "text": "kak aku sering kek gini pas mandi,liat air bilang wah (nama kita) cantik banget, langsing, pinter, gacor abis dah. Eh bener dong orang lain mandang aku gitu dan efeknya naik jabatan hehe"
-      },
-      {
-        "likes": 45,
-        "text": "aku pernah melakukannya\ningin punya Rumah di kmpung yg besar\nsetiap mlm saya gambar Rumah yg aku impikan\nAlhamdulillah tiba2 dpt Rezeki besar dan saya membangun Rumah seperti gambaran saya"
-      },
-      {
-        "likes": 43,
-        "text": "ini kayak kita bacaan tarot yg muncul di fyp ya, tekniknya pake 3rd person tp bedanya ini kita yg buat sendiri 🤣 (bettet sih jd kita bisa buatbyg positif nya aja hehe)"
-      },
-      {
-        "likes": 21,
-        "text": "kaka makasih aku udah nulis ternyata satu2 terbukti"
-      }
-    ],
-    "top_reddit_posts": [
-      {
-        "sub": "",
-        "title": "How manifestation changed my life, so I am building an app for the community.",
-        "score": 114,
-        "comments": 112,
-        "body": "Hi everyone,  \nI’ve been lurking here for a while and finally decided to post.\n\n# What motivated me\n\nEarlier last year, I lost my job, and it honestly hit me hard. There was rent pressure, constant anxiety, and I was interviewing nonstop. I must have interviewed with around 20 co"
-      },
-      {
-        "sub": "",
-        "title": "I love the The Secret Daily Teachings app",
-        "score": 121,
-        "comments": 3,
-        "body": ""
-      },
-      {
-        "sub": "",
-        "title": "Anyone interested in a Neville 'Feel-it-Real' app?",
-        "score": 57,
-        "comments": 37,
-        "body": "This might already exist (I've not looked), but I was making a custom Neville app for myself to my own liking and so was checking to see who might be interested in such a 'Feel-it-Real' app. \n\nIt would just be a simple html/js app to run in your browser from your own computer and"
-      }
-    ],
-    "dominant_complaint_themes": []
-  },
-  {
     "cell": "ID/tarot",
     "country": "ID",
     "niche": "tarot",
@@ -7015,10 +7183,10 @@
     "tiktok_views_B": 214.8,
     "tiktok_total_likes": 120,
     "cross_country_count": 5,
-    "monthly_rpu_usd": 0.45,
+    "monthly_rpu_usd": 0.39,
     "conversion_rate": 0.004,
     "cultural_risk": false,
-    "composite_score": 6,
+    "composite_score": 5,
     "top_quotes": [],
     "top_tiktok_comments": [
       {
@@ -7093,10 +7261,10 @@
     "tiktok_views_B": 50.9,
     "tiktok_total_likes": 48,
     "cross_country_count": 2,
-    "monthly_rpu_usd": 1.05,
+    "monthly_rpu_usd": 0.91,
     "conversion_rate": 0.0075,
     "cultural_risk": false,
-    "composite_score": 6,
+    "composite_score": 5,
     "top_quotes": [
       {
         "score": 1,
@@ -7130,109 +7298,6 @@
     "dominant_complaint_themes": []
   },
   {
-    "cell": "BR/meditation",
-    "country": "BR",
-    "niche": "meditation",
-    "top_app": {
-      "appId": "com.spotlightsix.zentimerlite2",
-      "title": "Insight Timer - Meditação",
-      "score": 4.8590765,
-      "ratings": 256926,
-      "installs": "10.000.000+",
-      "histogram": {
-        "1": 4702,
-        "2": 1631,
-        "3": 1732,
-        "4": 8999,
-        "5": 239839
-      },
-      "offersIAP": true,
-      "IAPRange": "R$ 7,13 – R$ 1.099,99 por item",
-      "adSupported": false
-    },
-    "star1_ratio_pct": 1.8,
-    "low_pct": 12,
-    "tiktok_views_B": 49.6,
-    "tiktok_total_likes": 839,
-    "cross_country_count": 2,
-    "monthly_rpu_usd": 1.75,
-    "conversion_rate": 0.0075,
-    "cultural_risk": false,
-    "composite_score": 6,
-    "top_quotes": [
-      {
-        "score": 1,
-        "thumbs": 5,
-        "text": "Aplicativo maravilhoso! 😀 Amando! - Edit 10/07/2025: Continuo gostando muito do aplicativo. Tenho apenas a ressalva relacionada ao conteúdo traduzido, pois notei que alguns cursos que oferecem versão em português, a tradução foi feita por IA e ficou muito ruim, robótica, faltand"
-      },
-      {
-        "score": 2,
-        "thumbs": 1,
-        "text": "O aplicativo se diz sem anúncios, mas todos os anúncios sobre as próprias funções são tão invasivos que vão na contramão da proposta de saúde mental e espiritualidade."
-      },
-      {
-        "score": 1,
-        "thumbs": 1,
-        "text": "Uso o app há muitos anos e tenho acompanhado de perto o quanto ele segue sendo cada vez mais piorado. O que já foi um excelente recurso de apoio para meditação se tornou quase um martírio em termos de experiência do cliente. Hoje tentei usar o timer e fui obrigada a passar por um"
-      },
-      {
-        "score": 2,
-        "thumbs": 0,
-        "text": "depois da última atualização estou com muita dificuldade. uso o app para dormir mas ele simplesmente para de tocar!"
-      },
-      {
-        "score": 1,
-        "thumbs": 0,
-        "text": "O aplicativo fica com a tela branca depois de aparecer a frase inicial."
-      }
-    ],
-    "top_tiktok_comments": [
-      {
-        "likes": 189,
-        "text": "se eu fizer essa primeira a crise de ansiedade ataca na hora"
-      },
-      {
-        "likes": 187,
-        "text": "Esse conteúdo vale ouro, tem cursos que custam uma fortuna e não ensina nem metade do que aprendo aqui.Só gratidão"
-      },
-      {
-        "likes": 141,
-        "text": "em casa eu encontro silencio so pela madrugada, eu posso meditar 1h 2h da manhã?"
-      },
-      {
-        "likes": 70,
-        "text": "eu literalmente amo meditar e amo aquela seção de flutuar e aquele leve calor"
-      },
-      {
-        "likes": 64,
-        "text": "Meditação evoluiu minha mente, passei a olhar pra dentro de mim com muito carinho e me respeitando, passei a observar mais as coisas e como me comporto !!❤"
-      }
-    ],
-    "top_reddit_posts": [],
-    "dominant_complaint_themes": [
-      {
-        "theme": "crashes_bugs",
-        "count": 3
-      },
-      {
-        "theme": "language_gap",
-        "count": 2
-      },
-      {
-        "theme": "ai_complaint",
-        "count": 1
-      },
-      {
-        "theme": "too_many_ads",
-        "count": 1
-      },
-      {
-        "theme": "paywall_locked",
-        "count": 1
-      }
-    ]
-  },
-  {
     "cell": "MX/fitness",
     "country": "MX",
     "niche": "fitness",
@@ -7258,10 +7323,10 @@
     "tiktok_views_B": 1914.8,
     "tiktok_total_likes": 125565,
     "cross_country_count": 0,
-    "monthly_rpu_usd": 1,
+    "monthly_rpu_usd": 0.9,
     "conversion_rate": 0.0075,
     "cultural_risk": false,
-    "composite_score": 6,
+    "composite_score": 5,
     "top_quotes": [
       {
         "score": 1,
@@ -7298,556 +7363,6 @@
     ],
     "top_reddit_posts": [],
     "dominant_complaint_themes": []
-  },
-  {
-    "cell": "MX/kids",
-    "country": "MX",
-    "niche": "kids",
-    "top_app": {
-      "appId": "com.rvappstudios.baby.toddler.kids.games.learning.activity",
-      "title": "Juegos para niños: edades 3-7",
-      "score": 4.605364,
-      "ratings": 54381,
-      "installs": "50,000,000+",
-      "histogram": {
-        "1": 2278,
-        "2": 1442,
-        "3": 1651,
-        "4": 4578,
-        "5": 44366
-      },
-      "offersIAP": false,
-      "adSupported": false
-    },
-    "star1_ratio_pct": 4.2,
-    "low_pct": 6,
-    "tiktok_views_B": 138.9,
-    "tiktok_total_likes": 0,
-    "cross_country_count": 1,
-    "monthly_rpu_usd": 0.75,
-    "conversion_rate": 0.0075,
-    "cultural_risk": false,
-    "composite_score": 6,
-    "top_quotes": [
-      {
-        "score": 1,
-        "thumbs": 5,
-        "text": "no agarra se queda en pantalla de inicio"
-      },
-      {
-        "score": 1,
-        "thumbs": 1,
-        "text": "porque no ponen ke está en inglés"
-      },
-      {
-        "score": 1,
-        "thumbs": 1,
-        "text": "no me gusto"
-      },
-      {
-        "score": 1,
-        "thumbs": 0,
-        "text": "horrible"
-      },
-      {
-        "score": 1,
-        "thumbs": 0,
-        "text": "bueno"
-      }
-    ],
-    "top_tiktok_comments": [],
-    "top_reddit_posts": [],
-    "dominant_complaint_themes": [
-      {
-        "theme": "language_gap",
-        "count": 1
-      }
-    ]
-  },
-  {
-    "cell": "TR/kids",
-    "country": "TR",
-    "niche": "kids",
-    "top_app": {
-      "appId": "com.eruditoplus.funny.food5.kids.toddlers.learning.games",
-      "title": "Çocuklar için eğitici oyunlar",
-      "score": 4.3858976,
-      "ratings": 40153,
-      "installs": "10.000.000+",
-      "histogram": {
-        "1": 2005,
-        "2": 2161,
-        "3": 2264,
-        "4": 5608,
-        "5": 28102
-      },
-      "offersIAP": true,
-      "IAPRange": "Öğe başına ₺69,99-₺79,99",
-      "adSupported": true
-    },
-    "star1_ratio_pct": 5,
-    "low_pct": 12,
-    "tiktok_views_B": 138.9,
-    "tiktok_total_likes": 0,
-    "cross_country_count": 0,
-    "monthly_rpu_usd": 2.25,
-    "conversion_rate": 0.0125,
-    "cultural_risk": false,
-    "composite_score": 6,
-    "top_quotes": [
-      {
-        "score": 1,
-        "thumbs": 2,
-        "text": "çok fazla reklam veriyor"
-      },
-      {
-        "score": 1,
-        "thumbs": 1,
-        "text": "çok sesli bir uygulama. kafa dinleyelim diye veriyoruz ama kafamız daha çok şişiyor"
-      },
-      {
-        "score": 1,
-        "thumbs": 1,
-        "text": "nedennnnn bu kadar reeeekklaaaaammm neden ??????"
-      },
-      {
-        "score": 1,
-        "thumbs": 1,
-        "text": "çok fazla reklam var"
-      },
-      {
-        "score": 2,
-        "thumbs": 1,
-        "text": "cok reklam var"
-      }
-    ],
-    "top_tiktok_comments": [],
-    "top_reddit_posts": [],
-    "dominant_complaint_themes": [
-      {
-        "theme": "too_many_ads",
-        "count": 4
-      }
-    ]
-  },
-  {
-    "cell": "ID/kids",
-    "country": "ID",
-    "niche": "kids",
-    "top_app": {
-      "appId": "com.rvappstudios.baby.toddler.kids.games.learning.activity",
-      "title": "Game Anak: Balita Usia 3-7",
-      "score": 4.668845,
-      "ratings": 54381,
-      "installs": "50.000.000+",
-      "histogram": {
-        "1": 2241,
-        "2": 581,
-        "3": 1292,
-        "4": 4612,
-        "5": 45606
-      },
-      "offersIAP": false,
-      "adSupported": false
-    },
-    "star1_ratio_pct": 4.1,
-    "low_pct": 6,
-    "tiktok_views_B": 138.9,
-    "tiktok_total_likes": 0,
-    "cross_country_count": 1,
-    "monthly_rpu_usd": 0.45,
-    "conversion_rate": 0.004,
-    "cultural_risk": false,
-    "composite_score": 6,
-    "top_quotes": [
-      {
-        "score": 2,
-        "thumbs": 5,
-        "text": "baik aplikasinya untuk pengenalan anak dengan bermain sambil belajar"
-      },
-      {
-        "score": 1,
-        "thumbs": 2,
-        "text": "gak bisa ganti bahasa Indonesia"
-      },
-      {
-        "score": 1,
-        "thumbs": 0,
-        "text": "stukkk aja"
-      },
-      {
-        "score": 2,
-        "thumbs": 0,
-        "text": "sedikit Bagus tapi usia Balita nya sampai 3 3-7?"
-      },
-      {
-        "score": 2,
-        "thumbs": 0,
-        "text": "lemot bnget dwonload gk brhsil'"
-      }
-    ],
-    "top_tiktok_comments": [],
-    "top_reddit_posts": [],
-    "dominant_complaint_themes": [
-      {
-        "theme": "language_gap",
-        "count": 1
-      }
-    ]
-  },
-  {
-    "cell": "ID/journaling",
-    "country": "ID",
-    "niche": "journaling",
-    "top_app": {
-      "appId": "mydiary.journal.diary.diarywithlock.diaryjournal.secretdiary",
-      "title": "Diary Ku - Jurnal, Buku Harian",
-      "score": 4.8596816,
-      "ratings": 1235655,
-      "installs": "50.000.000+",
-      "histogram": {
-        "1": 11599,
-        "2": 4971,
-        "3": 18434,
-        "4": 75189,
-        "5": 1125439
-      },
-      "offersIAP": true,
-      "IAPRange": "Rp 14.000 - Rp 690.000 per item",
-      "adSupported": true
-    },
-    "star1_ratio_pct": 0.9,
-    "low_pct": 3,
-    "tiktok_views_B": 50.9,
-    "tiktok_total_likes": 554,
-    "cross_country_count": 2,
-    "monthly_rpu_usd": 0.45,
-    "conversion_rate": 0.004,
-    "cultural_risk": false,
-    "composite_score": 5,
-    "top_quotes": [
-      {
-        "score": 1,
-        "thumbs": 0,
-        "text": "karena aku bisa curhat tetapi tolong stiker nya geratis 🙏🥺"
-      },
-      {
-        "score": 2,
-        "thumbs": 0,
-        "text": "membuat hp berat"
-      },
-      {
-        "score": 1,
-        "thumbs": 0,
-        "text": "ga bagus"
-      }
-    ],
-    "top_tiktok_comments": [
-      {
-        "likes": 210,
-        "text": "KEREN BANGETT!! Berasa liat ensiklopedia🍀"
-      },
-      {
-        "likes": 77,
-        "text": "this is so beautiful omg"
-      },
-      {
-        "likes": 53,
-        "text": "Omg cute 🥹"
-      },
-      {
-        "likes": 52,
-        "text": "SO COOOOLLLLLLL🤯"
-      },
-      {
-        "likes": 37,
-        "text": "step 1: be good at drawing"
-      }
-    ],
-    "top_reddit_posts": [],
-    "dominant_complaint_themes": []
-  },
-  {
-    "cell": "VN/selfcare",
-    "country": "VN",
-    "niche": "selfcare",
-    "top_app": {
-      "appId": "co.knecht.menopause_app",
-      "title": "Mãn kinh - Chăm sóc bản thân",
-      "ratings": 0,
-      "installs": "100+",
-      "histogram": {
-        "1": 0,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0
-      },
-      "offersIAP": true,
-      "IAPRange": "63.000 ₫ - 583.200 ₫ mỗi mặt hàng",
-      "adSupported": false
-    },
-    "star1_ratio_pct": 0,
-    "low_pct": null,
-    "tiktok_views_B": 152.7,
-    "tiktok_total_likes": 0,
-    "cross_country_count": 0,
-    "monthly_rpu_usd": 3,
-    "conversion_rate": 0.004,
-    "cultural_risk": false,
-    "composite_score": 5,
-    "top_quotes": [],
-    "top_tiktok_comments": [],
-    "top_reddit_posts": [
-      {
-        "sub": "",
-        "title": "I cut my screen time by 70% without deleting a single social media app.",
-        "score": 56,
-        "comments": 34,
-        "body": "Six months ago, I was a ghost of a person.\n\nI’d wake up at 7:00 AM, and before my feet even touched the floor, I was twenty minutes deep into social media. By noon, my brain felt like fried eggs. I was working a desk job, barely moving, and \"treating\" my stress by scrolling Short"
-      },
-      {
-        "sub": "",
-        "title": "Hint app made me notice patterns about myself I wasn’t really thinking about",
-        "score": 10,
-        "comments": 53,
-        "body": "I downloaded Hint pretty much by chance, and I didn’t have very high expectations for the app.\n\nhowever, some of the statements caught my attention not because they seemed magical but because they highlighted aspects of behavior that I recognize in myself, although I had never pu"
-      },
-      {
-        "sub": "",
-        "title": "what self improvement app made a real difference for you",
-        "score": 17,
-        "comments": 36,
-        "body": "Not asking for what's popular or what has the best rating. What actually moved something in your life, small or large, habit or mindset. What app contributed to a real change in how you live or work and what specifically did it do that other stuff hadn't.\n\nI'll go: Duolingo not b"
-      }
-    ],
-    "dominant_complaint_themes": []
-  },
-  {
-    "cell": "BR/kids",
-    "country": "BR",
-    "niche": "kids",
-    "top_app": {
-      "appId": "com.happytools.learning.kids.games",
-      "title": "Bebi - Jogos para Crianças",
-      "score": 4.6281223,
-      "ratings": 241226,
-      "installs": "10.000.000+",
-      "histogram": {
-        "1": 12932,
-        "2": 3339,
-        "3": 6801,
-        "4": 14272,
-        "5": 203847
-      },
-      "offersIAP": true,
-      "IAPRange": "R$ 3,19 – R$ 649,99 por item",
-      "adSupported": false
-    },
-    "star1_ratio_pct": 5.4,
-    "low_pct": 8,
-    "tiktok_views_B": 138.9,
-    "tiktok_total_likes": 0,
-    "cross_country_count": 0,
-    "monthly_rpu_usd": 1.05,
-    "conversion_rate": 0.0075,
-    "cultural_risk": false,
-    "composite_score": 5,
-    "top_quotes": [
-      {
-        "score": 1,
-        "thumbs": 2,
-        "text": "Minha filha de 3 anos liberou todos os jogos acidentalmente. Não há informações de compra ou assinaturas visíveis nos menus do app. Solicito verificação de transações e, se houver, o cancelamento e estorno imediato. O app carece de travas de segurança infantil e de um painel de g"
-      },
-      {
-        "score": 1,
-        "thumbs": 1,
-        "text": "horrível, cheio de micro transações para um jogo infantil."
-      },
-      {
-        "score": 1,
-        "thumbs": 1,
-        "text": "procuro um jogo que possa pagar e usufruir... não pretendo pagar um fortuna numa subscrição. não vale o valor pedido"
-      },
-      {
-        "score": 1,
-        "thumbs": 0,
-        "text": "Renovei a assinatura e fui roubada! Cobraram DUAS vezes no mesmo dia pela assinatura e não consigo contato com o suporte pra pedir a devolução!!"
-      },
-      {
-        "score": 1,
-        "thumbs": 0,
-        "text": "Não está traduzido para português"
-      }
-    ],
-    "top_tiktok_comments": [],
-    "top_reddit_posts": [],
-    "dominant_complaint_themes": [
-      {
-        "theme": "pricing_billing",
-        "count": 1
-      },
-      {
-        "theme": "support_unresponsive",
-        "count": 1
-      },
-      {
-        "theme": "language_gap",
-        "count": 1
-      },
-      {
-        "theme": "crashes_bugs",
-        "count": 1
-      },
-      {
-        "theme": "refund_denied",
-        "count": 1
-      }
-    ]
-  },
-  {
-    "cell": "BR/quiz",
-    "country": "BR",
-    "niche": "quiz",
-    "top_app": {
-      "appId": "com.etermax.preguntados.lite",
-      "title": "Perguntados : Jogos de Quiz",
-      "score": 4.5935454,
-      "ratings": 7898488,
-      "installs": "100.000.000+",
-      "histogram": {
-        "1": 421646,
-        "2": 124617,
-        "3": 239943,
-        "4": 670020,
-        "5": 6442245
-      },
-      "offersIAP": true,
-      "IAPRange": "R$ 4,99 – R$ 1.099,99 por item",
-      "adSupported": true
-    },
-    "star1_ratio_pct": 5.3,
-    "low_pct": 12,
-    "tiktok_views_B": 0,
-    "tiktok_total_likes": 0,
-    "cross_country_count": 2,
-    "monthly_rpu_usd": 0.56,
-    "conversion_rate": 0.0075,
-    "cultural_risk": false,
-    "composite_score": 5,
-    "top_quotes": [
-      {
-        "score": 1,
-        "thumbs": 0,
-        "text": "O jogo é ótimo, porém os anúncios são longos e induzem a entrar na playstore. infelizmente vou deletar."
-      },
-      {
-        "score": 1,
-        "thumbs": 0,
-        "text": "propagandas longuíssimas! aproveitem melhor o tempo de vocês!!!"
-      },
-      {
-        "score": 1,
-        "thumbs": 0,
-        "text": "horrível, já foi bom.. só propaganda, não dá pra jogar em paz"
-      },
-      {
-        "score": 1,
-        "thumbs": 0,
-        "text": "anúncio até na alma"
-      },
-      {
-        "score": 1,
-        "thumbs": 0,
-        "text": "Conseguiram fazer um jogo de quiz ser pay to win e infestado de lixo de IA. Passe longe!"
-      }
-    ],
-    "top_tiktok_comments": [],
-    "top_reddit_posts": [],
-    "dominant_complaint_themes": [
-      {
-        "theme": "too_many_ads",
-        "count": 10
-      },
-      {
-        "theme": "crashes_bugs",
-        "count": 2
-      },
-      {
-        "theme": "pricing_billing",
-        "count": 1
-      }
-    ]
-  },
-  {
-    "cell": "MX/quiz",
-    "country": "MX",
-    "niche": "quiz",
-    "top_app": {
-      "appId": "com.xmonetize.quizzland",
-      "title": "QuizzLand quiz de conocimiento",
-      "score": 4.8570576,
-      "ratings": 1855776,
-      "installs": "100,000,000+",
-      "histogram": {
-        "1": 8856,
-        "2": 3858,
-        "3": 17989,
-        "4": 182173,
-        "5": 1642814
-      },
-      "offersIAP": true,
-      "IAPRange": "$7.00-$405.00 por elemento",
-      "adSupported": true
-    },
-    "star1_ratio_pct": 0.5,
-    "low_pct": 12,
-    "tiktok_views_B": 0,
-    "tiktok_total_likes": 0,
-    "cross_country_count": 3,
-    "monthly_rpu_usd": 0.4,
-    "conversion_rate": 0.0075,
-    "cultural_risk": false,
-    "composite_score": 5,
-    "top_quotes": [
-      {
-        "score": 2,
-        "thumbs": 539,
-        "text": "Hace mucho no jugaba . volví a instalar la app y mis logros no están iba por el nivel 620. Ahora me encuentro que debo empezar de nuevo. Que paso? se puede recuperar?"
-      },
-      {
-        "score": 1,
-        "thumbs": 0,
-        "text": "MILES DE ANUNCIOS!! desinstalo"
-      },
-      {
-        "score": 2,
-        "thumbs": 0,
-        "text": "El juego esta muy bien, pero tiene tanta publicidad excesiva que no se puede jugar. pasas más tiempo pasando anuncios que jugando"
-      },
-      {
-        "score": 1,
-        "thumbs": 0,
-        "text": "Anuncios perjudican"
-      },
-      {
-        "score": 2,
-        "thumbs": 0,
-        "text": "quitad los comodines."
-      }
-    ],
-    "top_tiktok_comments": [],
-    "top_reddit_posts": [],
-    "dominant_complaint_themes": [
-      {
-        "theme": "too_many_ads",
-        "count": 6
-      },
-      {
-        "theme": "pricing_billing",
-        "count": 1
-      }
-    ]
   },
   {
     "cell": "TR/recipes",
@@ -7941,6 +7456,137 @@
     ]
   },
   {
+    "cell": "TR/kids",
+    "country": "TR",
+    "niche": "kids",
+    "top_app": {
+      "appId": "com.eruditoplus.funny.food5.kids.toddlers.learning.games",
+      "title": "Çocuklar için eğitici oyunlar",
+      "score": 4.3858976,
+      "ratings": 40153,
+      "installs": "10.000.000+",
+      "histogram": {
+        "1": 2005,
+        "2": 2161,
+        "3": 2264,
+        "4": 5608,
+        "5": 28102
+      },
+      "offersIAP": true,
+      "IAPRange": "Öğe başına ₺69,99-₺79,99",
+      "adSupported": true
+    },
+    "star1_ratio_pct": 5,
+    "low_pct": 12,
+    "tiktok_views_B": 138.9,
+    "tiktok_total_likes": 0,
+    "cross_country_count": 0,
+    "monthly_rpu_usd": 1.95,
+    "conversion_rate": 0.0125,
+    "cultural_risk": false,
+    "composite_score": 5,
+    "top_quotes": [
+      {
+        "score": 1,
+        "thumbs": 2,
+        "text": "çok fazla reklam veriyor"
+      },
+      {
+        "score": 1,
+        "thumbs": 1,
+        "text": "çok sesli bir uygulama. kafa dinleyelim diye veriyoruz ama kafamız daha çok şişiyor"
+      },
+      {
+        "score": 1,
+        "thumbs": 1,
+        "text": "nedennnnn bu kadar reeeekklaaaaammm neden ??????"
+      },
+      {
+        "score": 1,
+        "thumbs": 1,
+        "text": "çok fazla reklam var"
+      },
+      {
+        "score": 2,
+        "thumbs": 1,
+        "text": "cok reklam var"
+      }
+    ],
+    "top_tiktok_comments": [],
+    "top_reddit_posts": [],
+    "dominant_complaint_themes": [
+      {
+        "theme": "too_many_ads",
+        "count": 4
+      }
+    ]
+  },
+  {
+    "cell": "ID/kids",
+    "country": "ID",
+    "niche": "kids",
+    "top_app": {
+      "appId": "com.rvappstudios.baby.toddler.kids.games.learning.activity",
+      "title": "Game Anak: Balita Usia 3-7",
+      "score": 4.668845,
+      "ratings": 54381,
+      "installs": "50.000.000+",
+      "histogram": {
+        "1": 2241,
+        "2": 581,
+        "3": 1292,
+        "4": 4612,
+        "5": 45606
+      },
+      "offersIAP": false,
+      "adSupported": false
+    },
+    "star1_ratio_pct": 4.1,
+    "low_pct": 6,
+    "tiktok_views_B": 138.9,
+    "tiktok_total_likes": 0,
+    "cross_country_count": 1,
+    "monthly_rpu_usd": 0.39,
+    "conversion_rate": 0.004,
+    "cultural_risk": false,
+    "composite_score": 5,
+    "top_quotes": [
+      {
+        "score": 2,
+        "thumbs": 5,
+        "text": "baik aplikasinya untuk pengenalan anak dengan bermain sambil belajar"
+      },
+      {
+        "score": 1,
+        "thumbs": 2,
+        "text": "gak bisa ganti bahasa Indonesia"
+      },
+      {
+        "score": 1,
+        "thumbs": 0,
+        "text": "stukkk aja"
+      },
+      {
+        "score": 2,
+        "thumbs": 0,
+        "text": "sedikit Bagus tapi usia Balita nya sampai 3 3-7?"
+      },
+      {
+        "score": 2,
+        "thumbs": 0,
+        "text": "lemot bnget dwonload gk brhsil'"
+      }
+    ],
+    "top_tiktok_comments": [],
+    "top_reddit_posts": [],
+    "dominant_complaint_themes": [
+      {
+        "theme": "language_gap",
+        "count": 1
+      }
+    ]
+  },
+  {
     "cell": "ID/finance",
     "country": "ID",
     "niche": "finance",
@@ -7966,7 +7612,7 @@
     "tiktok_views_B": 64.8,
     "tiktok_total_likes": 444,
     "cross_country_count": 1,
-    "monthly_rpu_usd": 0.75,
+    "monthly_rpu_usd": 0.6,
     "conversion_rate": 0.004,
     "cultural_risk": false,
     "composite_score": 5,
@@ -7997,6 +7643,290 @@
     "dominant_complaint_themes": []
   },
   {
+    "cell": "ID/journaling",
+    "country": "ID",
+    "niche": "journaling",
+    "top_app": {
+      "appId": "mydiary.journal.diary.diarywithlock.diaryjournal.secretdiary",
+      "title": "Diary Ku - Jurnal, Buku Harian",
+      "score": 4.8596816,
+      "ratings": 1235655,
+      "installs": "50.000.000+",
+      "histogram": {
+        "1": 11599,
+        "2": 4971,
+        "3": 18434,
+        "4": 75189,
+        "5": 1125439
+      },
+      "offersIAP": true,
+      "IAPRange": "Rp 14.000 - Rp 690.000 per item",
+      "adSupported": true
+    },
+    "star1_ratio_pct": 0.9,
+    "low_pct": 3,
+    "tiktok_views_B": 50.9,
+    "tiktok_total_likes": 554,
+    "cross_country_count": 2,
+    "monthly_rpu_usd": 0.39,
+    "conversion_rate": 0.004,
+    "cultural_risk": false,
+    "composite_score": 4,
+    "top_quotes": [
+      {
+        "score": 1,
+        "thumbs": 0,
+        "text": "karena aku bisa curhat tetapi tolong stiker nya geratis 🙏🥺"
+      },
+      {
+        "score": 2,
+        "thumbs": 0,
+        "text": "membuat hp berat"
+      },
+      {
+        "score": 1,
+        "thumbs": 0,
+        "text": "ga bagus"
+      }
+    ],
+    "top_tiktok_comments": [
+      {
+        "likes": 210,
+        "text": "KEREN BANGETT!! Berasa liat ensiklopedia🍀"
+      },
+      {
+        "likes": 77,
+        "text": "this is so beautiful omg"
+      },
+      {
+        "likes": 53,
+        "text": "Omg cute 🥹"
+      },
+      {
+        "likes": 52,
+        "text": "SO COOOOLLLLLLL🤯"
+      },
+      {
+        "likes": 37,
+        "text": "step 1: be good at drawing"
+      }
+    ],
+    "top_reddit_posts": [],
+    "dominant_complaint_themes": []
+  },
+  {
+    "cell": "VN/selfcare",
+    "country": "VN",
+    "niche": "selfcare",
+    "top_app": {
+      "appId": "co.knecht.menopause_app",
+      "title": "Mãn kinh - Chăm sóc bản thân",
+      "ratings": 0,
+      "installs": "100+",
+      "histogram": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "offersIAP": true,
+      "IAPRange": "63.000 ₫ - 583.200 ₫ mỗi mặt hàng",
+      "adSupported": false
+    },
+    "star1_ratio_pct": 0,
+    "low_pct": null,
+    "tiktok_views_B": 152.7,
+    "tiktok_total_likes": 0,
+    "cross_country_count": 0,
+    "monthly_rpu_usd": 1.5,
+    "conversion_rate": 0.004,
+    "cultural_risk": false,
+    "composite_score": 4,
+    "top_quotes": [],
+    "top_tiktok_comments": [],
+    "top_reddit_posts": [
+      {
+        "sub": "",
+        "title": "I cut my screen time by 70% without deleting a single social media app.",
+        "score": 56,
+        "comments": 34,
+        "body": "Six months ago, I was a ghost of a person.\n\nI’d wake up at 7:00 AM, and before my feet even touched the floor, I was twenty minutes deep into social media. By noon, my brain felt like fried eggs. I was working a desk job, barely moving, and \"treating\" my stress by scrolling Short"
+      },
+      {
+        "sub": "",
+        "title": "Hint app made me notice patterns about myself I wasn’t really thinking about",
+        "score": 10,
+        "comments": 53,
+        "body": "I downloaded Hint pretty much by chance, and I didn’t have very high expectations for the app.\n\nhowever, some of the statements caught my attention not because they seemed magical but because they highlighted aspects of behavior that I recognize in myself, although I had never pu"
+      },
+      {
+        "sub": "",
+        "title": "what self improvement app made a real difference for you",
+        "score": 17,
+        "comments": 36,
+        "body": "Not asking for what's popular or what has the best rating. What actually moved something in your life, small or large, habit or mindset. What app contributed to a real change in how you live or work and what specifically did it do that other stuff hadn't.\n\nI'll go: Duolingo not b"
+      }
+    ],
+    "dominant_complaint_themes": []
+  },
+  {
+    "cell": "BR/kids",
+    "country": "BR",
+    "niche": "kids",
+    "top_app": {
+      "appId": "com.happytools.learning.kids.games",
+      "title": "Bebi - Jogos para Crianças",
+      "score": 4.6281223,
+      "ratings": 241226,
+      "installs": "10.000.000+",
+      "histogram": {
+        "1": 12932,
+        "2": 3339,
+        "3": 6801,
+        "4": 14272,
+        "5": 203847
+      },
+      "offersIAP": true,
+      "IAPRange": "R$ 3,19 – R$ 649,99 por item",
+      "adSupported": false
+    },
+    "star1_ratio_pct": 5.4,
+    "low_pct": 8,
+    "tiktok_views_B": 138.9,
+    "tiktok_total_likes": 0,
+    "cross_country_count": 0,
+    "monthly_rpu_usd": 0.91,
+    "conversion_rate": 0.0075,
+    "cultural_risk": false,
+    "composite_score": 4,
+    "top_quotes": [
+      {
+        "score": 1,
+        "thumbs": 2,
+        "text": "Minha filha de 3 anos liberou todos os jogos acidentalmente. Não há informações de compra ou assinaturas visíveis nos menus do app. Solicito verificação de transações e, se houver, o cancelamento e estorno imediato. O app carece de travas de segurança infantil e de um painel de g"
+      },
+      {
+        "score": 1,
+        "thumbs": 1,
+        "text": "horrível, cheio de micro transações para um jogo infantil."
+      },
+      {
+        "score": 1,
+        "thumbs": 1,
+        "text": "procuro um jogo que possa pagar e usufruir... não pretendo pagar um fortuna numa subscrição. não vale o valor pedido"
+      },
+      {
+        "score": 1,
+        "thumbs": 0,
+        "text": "Renovei a assinatura e fui roubada! Cobraram DUAS vezes no mesmo dia pela assinatura e não consigo contato com o suporte pra pedir a devolução!!"
+      },
+      {
+        "score": 1,
+        "thumbs": 0,
+        "text": "Não está traduzido para português"
+      }
+    ],
+    "top_tiktok_comments": [],
+    "top_reddit_posts": [],
+    "dominant_complaint_themes": [
+      {
+        "theme": "pricing_billing",
+        "count": 1
+      },
+      {
+        "theme": "support_unresponsive",
+        "count": 1
+      },
+      {
+        "theme": "language_gap",
+        "count": 1
+      },
+      {
+        "theme": "crashes_bugs",
+        "count": 1
+      },
+      {
+        "theme": "refund_denied",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "cell": "BR/quiz",
+    "country": "BR",
+    "niche": "quiz",
+    "top_app": {
+      "appId": "com.etermax.preguntados.lite",
+      "title": "Perguntados : Jogos de Quiz",
+      "score": 4.5935454,
+      "ratings": 7898488,
+      "installs": "100.000.000+",
+      "histogram": {
+        "1": 421646,
+        "2": 124617,
+        "3": 239943,
+        "4": 670020,
+        "5": 6442245
+      },
+      "offersIAP": true,
+      "IAPRange": "R$ 4,99 – R$ 1.099,99 por item",
+      "adSupported": true
+    },
+    "star1_ratio_pct": 5.3,
+    "low_pct": 12,
+    "tiktok_views_B": 0,
+    "tiktok_total_likes": 0,
+    "cross_country_count": 2,
+    "monthly_rpu_usd": 0.49,
+    "conversion_rate": 0.0075,
+    "cultural_risk": false,
+    "composite_score": 4,
+    "top_quotes": [
+      {
+        "score": 1,
+        "thumbs": 0,
+        "text": "O jogo é ótimo, porém os anúncios são longos e induzem a entrar na playstore. infelizmente vou deletar."
+      },
+      {
+        "score": 1,
+        "thumbs": 0,
+        "text": "propagandas longuíssimas! aproveitem melhor o tempo de vocês!!!"
+      },
+      {
+        "score": 1,
+        "thumbs": 0,
+        "text": "horrível, já foi bom.. só propaganda, não dá pra jogar em paz"
+      },
+      {
+        "score": 1,
+        "thumbs": 0,
+        "text": "anúncio até na alma"
+      },
+      {
+        "score": 1,
+        "thumbs": 0,
+        "text": "Conseguiram fazer um jogo de quiz ser pay to win e infestado de lixo de IA. Passe longe!"
+      }
+    ],
+    "top_tiktok_comments": [],
+    "top_reddit_posts": [],
+    "dominant_complaint_themes": [
+      {
+        "theme": "too_many_ads",
+        "count": 10
+      },
+      {
+        "theme": "crashes_bugs",
+        "count": 2
+      },
+      {
+        "theme": "pricing_billing",
+        "count": 1
+      }
+    ]
+  },
+  {
     "cell": "MX/finance",
     "country": "MX",
     "niche": "finance",
@@ -8022,7 +7952,7 @@
     "tiktok_views_B": 64.8,
     "tiktok_total_likes": 4387,
     "cross_country_count": 0,
-    "monthly_rpu_usd": 1.25,
+    "monthly_rpu_usd": 1,
     "conversion_rate": 0.0075,
     "cultural_risk": false,
     "composite_score": 4,
@@ -8053,6 +7983,76 @@
     "dominant_complaint_themes": []
   },
   {
+    "cell": "MX/quiz",
+    "country": "MX",
+    "niche": "quiz",
+    "top_app": {
+      "appId": "com.xmonetize.quizzland",
+      "title": "QuizzLand quiz de conocimiento",
+      "score": 4.8570576,
+      "ratings": 1855776,
+      "installs": "100,000,000+",
+      "histogram": {
+        "1": 8856,
+        "2": 3858,
+        "3": 17989,
+        "4": 182173,
+        "5": 1642814
+      },
+      "offersIAP": true,
+      "IAPRange": "$7.00-$405.00 por elemento",
+      "adSupported": true
+    },
+    "star1_ratio_pct": 0.5,
+    "low_pct": 12,
+    "tiktok_views_B": 0,
+    "tiktok_total_likes": 0,
+    "cross_country_count": 3,
+    "monthly_rpu_usd": 0.35,
+    "conversion_rate": 0.0075,
+    "cultural_risk": false,
+    "composite_score": 4,
+    "top_quotes": [
+      {
+        "score": 2,
+        "thumbs": 539,
+        "text": "Hace mucho no jugaba . volví a instalar la app y mis logros no están iba por el nivel 620. Ahora me encuentro que debo empezar de nuevo. Que paso? se puede recuperar?"
+      },
+      {
+        "score": 1,
+        "thumbs": 0,
+        "text": "MILES DE ANUNCIOS!! desinstalo"
+      },
+      {
+        "score": 2,
+        "thumbs": 0,
+        "text": "El juego esta muy bien, pero tiene tanta publicidad excesiva que no se puede jugar. pasas más tiempo pasando anuncios que jugando"
+      },
+      {
+        "score": 1,
+        "thumbs": 0,
+        "text": "Anuncios perjudican"
+      },
+      {
+        "score": 2,
+        "thumbs": 0,
+        "text": "quitad los comodines."
+      }
+    ],
+    "top_tiktok_comments": [],
+    "top_reddit_posts": [],
+    "dominant_complaint_themes": [
+      {
+        "theme": "too_many_ads",
+        "count": 6
+      },
+      {
+        "theme": "pricing_billing",
+        "count": 1
+      }
+    ]
+  },
+  {
     "cell": "TH/manifestation",
     "country": "TH",
     "niche": "manifestation",
@@ -8078,7 +8078,7 @@
     "tiktok_views_B": 131.1,
     "tiktok_total_likes": 0,
     "cross_country_count": 0,
-    "monthly_rpu_usd": 1.4,
+    "monthly_rpu_usd": 1.08,
     "conversion_rate": 0.004,
     "cultural_risk": false,
     "composite_score": 4,
@@ -8150,7 +8150,7 @@
     "tiktok_views_B": 0,
     "tiktok_total_likes": 0,
     "cross_country_count": 0,
-    "monthly_rpu_usd": 1.2,
+    "monthly_rpu_usd": 1.05,
     "conversion_rate": 0.0125,
     "cultural_risk": false,
     "composite_score": 3,
@@ -8216,7 +8216,7 @@
     "tiktok_views_B": 0,
     "tiktok_total_likes": 0,
     "cross_country_count": 3,
-    "monthly_rpu_usd": 0.24,
+    "monthly_rpu_usd": 0.21,
     "conversion_rate": 0.004,
     "cultural_risk": false,
     "composite_score": 3,

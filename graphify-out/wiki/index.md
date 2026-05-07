@@ -1,20 +1,18 @@
-# Knowledge Graph Wiki
+# Knowledge Graph Wiki (v3 — cultural+revenue verified)
 
-_114 nodes, 187 edges, 12 communities_
+_164 nodes, 263 edges, 10 communities_
 
 ## Communities
 
-- [MENA Arab Whale Markets (SA/AE/EG)](community-0-mena-arab-whale-markets-sa-ae-eg.md) — 17 nodes (cohesion 0.19)
-- [LATAM/SEA Couples (BR/MX/VN/TH/PH)](community-1-latam-sea-couples-br-mx-vn-th-ph.md) — 16 nodes (cohesion 0.18)
-- [Self-Evolving Methodology + Run Ledger](community-2-self-evolving-methodology-+-run-ledger.md) — 15 nodes (cohesion 0.16)
-- [Turkish Localization Gap (Sleep Cycle, Labyrinthos)](community-3-turkish-localization-gap-sleep-cycle-labyrinthos.md) — 15 nodes (cohesion 0.17)
-- [Pricing/AI Backlash Cluster (Astrolink/Finch/Remente)](community-4-pricing-ai-backlash-cluster-astrolink-finch-remente.md) — 14 nodes (cohesion 0.21)
-- [TR/Couple Cornerstone + Anti-Tracking Thesis](community-5-tr-couple-cornerstone-+-anti-tracking-thesis.md) — 13 nodes (cohesion 0.22)
-- [Low-ARPU Markets (ID/PH) + CapCut](community-6-low-arpu-markets-id-ph-+-capcut.md) — 10 nodes (cohesion 0.22)
-- [Methodology Phases & Validated Hypotheses](community-7-methodology-phases-and-validated-hypotheses.md) — 9 nodes (cohesion 0.31)
-- [Niche: Language Learning](community-8-niche-language-learning.md) — 2 nodes (cohesion 1.00)
-- [Niche: Manifestation](community-9-niche-manifestation.md) — 1 nodes (cohesion 1.00)
-- [Complaint: IAP / Locked Features](community-10-complaint-iap---locked-features.md) — 1 nodes (cohesion 1.00)
-- [Phase 13: Reddit Niche Xpand](community-11-phase-13-reddit-niche-xpand.md) — 1 nodes (cohesion 1.00)
+- [Tooling Infrastructure & Skill System](community-0-tooling-infrastructure-and-skill-system.md) — 24 nodes (cohesion 0.12)
+- [Love8 Cluster + LATAM Couples Markets](community-1-love8-cluster-+-latam-couples-markets.md) — 23 nodes (cohesion 0.12)
+- [Turkish Niche Cluster (couple/sleep/tarot)](community-2-turkish-niche-cluster-couple-sleep-tarot.md) — 22 nodes (cohesion 0.13)
+- [SEA + Pacific Markets (ID/PH/VN/TH)](community-3-sea-+-pacific-markets-id-ph-vn-th.md) — 21 nodes (cohesion 0.13)
+- [Competitor Research + Revenue Revisions](community-4-competitor-research-+-revenue-revisions.md) — 18 nodes (cohesion 0.14)
+- [MENA Arab Markets (buzzArab + SA/AE/EG)](community-5-mena-arab-markets-buzzarab-+-sa-ae-eg.md) — 16 nodes (cohesion 0.18)
+- [Cultural Validation Findings (Maktub research)](community-6-cultural-validation-findings-maktub-research.md) — 15 nodes (cohesion 0.15)
+- [Brazilian Astrology Cluster (Astrolink)](community-7-brazilian-astrology-cluster-astrolink.md) — 13 nodes (cohesion 0.18)
+- [Global Benchmarks (AppsFlyer/RevenueCat/Duolingo)](community-8-global-benchmarks-appsflyer-revenuecat-duolingo.md) — 11 nodes (cohesion 0.18)
+- [Phase 10 Niche Expansion](community-9-phase-10-niche-expansion.md) — 1 nodes (cohesion 1.00)
 
 ## God Nodes (most-connected)

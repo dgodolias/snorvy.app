@@ -25,18 +25,8 @@ class SettingsScreen extends StatelessWidget {
     return ListView(
       padding: const EdgeInsets.fromLTRB(20, 10, 20, 126),
       children: [
-        Text('PREFERENCES', style: SnorvyTheme.labelStyle(context)),
-        const SizedBox(height: 6),
-        Text('Settings.', style: SnorvyTheme.displayStyle(context)),
-        const SizedBox(height: 8),
-        Text(
-          'Privacy and purchase defaults are wired to the product promise.',
-          style: Theme.of(context).textTheme.bodyMedium?.copyWith(
-            color: Theme.of(context).colorScheme.onSurfaceVariant,
-            height: 1.35,
-          ),
-        ),
-        const SizedBox(height: 22),
+        const _SettingsHeader(),
+        const SizedBox(height: 18),
         Card(
           child: Column(
             children: [
@@ -274,6 +264,62 @@ class SettingsScreen extends StatelessWidget {
     );
 
     return confirmed ?? false;
+  }
+}
+
+class _SettingsHeader extends StatelessWidget {
+  const _SettingsHeader();
+
+  @override
+  Widget build(BuildContext context) {
+    final colorScheme = Theme.of(context).colorScheme;
+
+    return Row(
+      children: [
+        Container(
+          width: 44,
+          height: 44,
+          decoration: BoxDecoration(
+            color: SnorvyTheme.neuralMint.withValues(alpha: 0.14),
+            borderRadius: BorderRadius.circular(14),
+            border: Border.all(color: SnorvyTheme.midnightBorder),
+          ),
+          child: const Icon(
+            Icons.tune,
+            color: SnorvyTheme.neuralMint,
+            size: 22,
+          ),
+        ),
+        const SizedBox(width: 12),
+        Expanded(
+          child: Column(
+            crossAxisAlignment: CrossAxisAlignment.start,
+            children: [
+              Text('PREFERENCES', style: SnorvyTheme.labelStyle(context)),
+              const SizedBox(height: 3),
+              Text(
+                'Settings',
+                style: colorScheme.brightness == Brightness.dark
+                    ? Theme.of(context).textTheme.headlineSmall?.copyWith(
+                        color: colorScheme.onSurface,
+                        fontWeight: FontWeight.w800,
+                      )
+                    : Theme.of(context).textTheme.headlineSmall?.copyWith(
+                        fontWeight: FontWeight.w800,
+                      ),
+              ),
+              Text(
+                'Privacy, data, and unlocks.',
+                style: Theme.of(context).textTheme.bodySmall?.copyWith(
+                  color: colorScheme.onSurfaceVariant,
+                  height: 1.25,
+                ),
+              ),
+            ],
+          ),
+        ),
+      ],
+    );
   }
 }
 

@@ -5,6 +5,7 @@ import 'package:flutter_sound/flutter_sound.dart';
 import 'package:path/path.dart' as p;
 import 'package:path_provider/path_provider.dart';
 import 'package:permission_handler/permission_handler.dart';
+import 'package:snorvy/src/services/snorvy_audio_session.dart';
 
 enum RecordingStatus { idle, permissionDenied, recording }
 
@@ -69,8 +70,9 @@ class FlutterSoundSleepRecorder implements SleepRecorder {
       return _session;
     }
 
+    await SnorvyAudioSession.configureForRecording();
     await _recorder.openRecorder();
-    await _recorder.setSubscriptionDuration(const Duration(seconds: 1));
+    await _recorder.setSubscriptionDuration(const Duration(milliseconds: 160));
     await _progressSubscription?.cancel();
     _progressSubscription = _recorder.onProgress?.listen((disposition) {
       final decibels = disposition.decibels;
@@ -99,7 +101,8 @@ class FlutterSoundSleepRecorder implements SleepRecorder {
     await _recorder.startRecorder(
       toFile: filePath,
       codec: format.codec,
-      sampleRate: 16000,
+      audioSource: AudioSource.microphone,
+      bitRate: 64000,
       numChannels: 1,
     );
     final startedAt = DateTime.now();

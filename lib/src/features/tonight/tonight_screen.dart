@@ -9,11 +9,13 @@ import 'package:snorvy/src/theme/snorvy_theme.dart';
 
 const _snorvyBannerAsset = 'assets/brand/snorvy_logo_text_trans_background.png';
 const _snorvyBannerAspectRatio = 1967 / 799;
+const _brandHeaderHeight = 86.0;
 
 class TonightScreen extends StatefulWidget {
   const TonightScreen({
     required this.nights,
     required this.recordingSession,
+    required this.livePowerFrames,
     required this.isBusy,
     required this.isLoading,
     required this.statusMessage,
@@ -29,6 +31,7 @@ class TonightScreen extends StatefulWidget {
 
   final List<SleepNight> nights;
   final RecordingSession recordingSession;
+  final List<RecordingPowerFrame> livePowerFrames;
   final bool isBusy;
   final bool isLoading;
   final String? statusMessage;
@@ -54,73 +57,80 @@ class _TonightScreenState extends State<TonightScreen> {
         .where((event) => _filter == null || event.kind == _filter)
         .toList();
 
-    return ListView(
-      padding: const EdgeInsets.fromLTRB(20, 10, 20, 126),
+    return Stack(
       children: [
-        _Header(onUnlockTap: widget.onUnlockTap),
-        const SizedBox(height: 16),
-        const _BrandBanner(),
-        const SizedBox(height: 18),
-        _RecordingPanel(
-          session: widget.recordingSession,
-          isBusy: widget.isBusy,
-          statusMessage: widget.statusMessage,
-          onStartRecording: widget.onStartRecording,
-          onStopRecording: widget.onStopRecording,
-        ),
-        if (latestNight != null) ...[
-          const SizedBox(height: 14),
-          _TonightStats(night: latestNight),
-        ],
-        if (latestNight?.recordingPath case final recordingPath?) ...[
-          const SizedBox(height: 14),
-          _FullNightRecordingPanel(
-            recordingPath: recordingPath,
-            isBusy: widget.isBusy,
-            isPlaying: widget.playingPath == recordingPath,
-            onPlayAudio: widget.onPlayAudio,
-            onStopAudio: widget.onStopAudio,
-            onExportAudio: widget.onExportAudio,
+        ListView(
+          padding: const EdgeInsets.fromLTRB(
+            20,
+            _brandHeaderHeight + 22,
+            20,
+            126,
           ),
-        ],
-        const SizedBox(height: 26),
-        RichText(
-          text: TextSpan(
-            style: SnorvyTheme.displayStyle(context, size: 30),
-            children: [
-              const TextSpan(text: 'Last night '),
-              TextSpan(
-                text: 'timeline',
-                style: TextStyle(
-                  color: Theme.of(context).colorScheme.onSurfaceVariant,
-                  fontStyle: FontStyle.italic,
-                ),
+          children: [
+            _RecordingPanel(
+              session: widget.recordingSession,
+              livePowerFrames: widget.livePowerFrames,
+              isBusy: widget.isBusy,
+              statusMessage: widget.statusMessage,
+              onStartRecording: widget.onStartRecording,
+              onStopRecording: widget.onStopRecording,
+            ),
+            if (latestNight != null) ...[
+              const SizedBox(height: 14),
+              _TonightStats(night: latestNight),
+            ],
+            if (latestNight?.recordingPath case final recordingPath?) ...[
+              const SizedBox(height: 14),
+              _FullNightRecordingPanel(
+                recordingPath: recordingPath,
+                isBusy: widget.isBusy,
+                isPlaying: widget.playingPath == recordingPath,
+                onPlayAudio: widget.onPlayAudio,
+                onStopAudio: widget.onStopAudio,
+                onExportAudio: widget.onExportAudio,
               ),
             ],
-          ),
-        ),
-        const SizedBox(height: 12),
-        _TimelineFilters(
-          selected: _filter,
-          onSelected: (kind) => setState(() => _filter = kind),
-        ),
-        const SizedBox(height: 10),
-        if (widget.isLoading)
-          const _LoadingPanel()
-        else if (events.isEmpty)
-          const _EmptyTimelinePanel()
-        else
-          ...events.map(
-            (event) => _TimelineEventTile(
-              event: event,
-              isBusy: widget.isBusy,
-              isPlaying:
-                  event.filePath != null &&
-                  widget.playingPath == event.filePath,
-              onPlayAudio: widget.onPlayAudio,
-              onStopAudio: widget.onStopAudio,
+            const SizedBox(height: 26),
+            RichText(
+              text: TextSpan(
+                style: SnorvyTheme.displayStyle(context, size: 30),
+                children: [
+                  const TextSpan(text: 'Last night '),
+                  TextSpan(
+                    text: 'timeline',
+                    style: TextStyle(
+                      color: Theme.of(context).colorScheme.onSurfaceVariant,
+                      fontStyle: FontStyle.italic,
+                    ),
+                  ),
+                ],
+              ),
             ),
-          ),
+            const SizedBox(height: 12),
+            _TimelineFilters(
+              selected: _filter,
+              onSelected: (kind) => setState(() => _filter = kind),
+            ),
+            const SizedBox(height: 10),
+            if (widget.isLoading)
+              const _LoadingPanel()
+            else if (events.isEmpty)
+              const _EmptyTimelinePanel()
+            else
+              ...events.map(
+                (event) => _TimelineEventTile(
+                  event: event,
+                  isBusy: widget.isBusy,
+                  isPlaying:
+                      event.filePath != null &&
+                      widget.playingPath == event.filePath,
+                  onPlayAudio: widget.onPlayAudio,
+                  onStopAudio: widget.onStopAudio,
+                ),
+              ),
+          ],
+        ),
+        _BrandHeader(onUnlockTap: widget.onUnlockTap),
       ],
     );
   }
@@ -213,40 +223,52 @@ class _FullNightRecordingPanel extends StatelessWidget {
   }
 }
 
-class _Header extends StatelessWidget {
-  const _Header({required this.onUnlockTap});
+class _BrandHeader extends StatelessWidget {
+  const _BrandHeader({required this.onUnlockTap});
 
   final VoidCallback onUnlockTap;
 
   @override
   Widget build(BuildContext context) {
-    return Align(
-      alignment: Alignment.centerRight,
-      child: DecoratedBox(
-        decoration: BoxDecoration(
-          color: Theme.of(
-            context,
-          ).colorScheme.surfaceContainerLowest.withValues(alpha: 0.9),
-          borderRadius: BorderRadius.circular(999),
-          border: Border.all(color: SnorvyTheme.midnightBorder),
-        ),
-        child: InkWell(
-          borderRadius: BorderRadius.circular(999),
-          onTap: onUnlockTap,
-          child: const Padding(
-            padding: EdgeInsets.symmetric(horizontal: 12, vertical: 9),
+    return Positioned(
+      top: 0,
+      left: 20,
+      right: 20,
+      child: SizedBox(
+        height: _brandHeaderHeight,
+        child: DecoratedBox(
+          decoration: BoxDecoration(
+            color: const Color(0xEEF5FAFF),
+            borderRadius: BorderRadius.circular(24),
+            border: Border.all(color: const Color(0x66FFFFFF)),
+            boxShadow: const [
+              BoxShadow(
+                color: Color(0x33000000),
+                blurRadius: 28,
+                offset: Offset(0, 14),
+              ),
+            ],
+          ),
+          child: Padding(
+            padding: const EdgeInsets.fromLTRB(16, 8, 10, 8),
             child: Row(
-              mainAxisSize: MainAxisSize.min,
               children: [
-                Icon(Icons.lock_open, size: 15, color: SnorvyTheme.neuralMint),
-                SizedBox(width: 6),
-                Text(
-                  '\$9.99',
-                  style: TextStyle(
-                    color: SnorvyTheme.neuralMint,
-                    fontWeight: FontWeight.w700,
+                Expanded(
+                  child: Align(
+                    alignment: Alignment.centerLeft,
+                    child: AspectRatio(
+                      aspectRatio: _snorvyBannerAspectRatio,
+                      child: Image.asset(
+                        _snorvyBannerAsset,
+                        semanticLabel: 'Snorvy banner',
+                        fit: BoxFit.contain,
+                        filterQuality: FilterQuality.high,
+                      ),
+                    ),
                   ),
                 ),
+                const SizedBox(width: 10),
+                _UnlockPill(onUnlockTap: onUnlockTap),
               ],
             ),
           ),
@@ -256,21 +278,39 @@ class _Header extends StatelessWidget {
   }
 }
 
-class _BrandBanner extends StatelessWidget {
-  const _BrandBanner();
+class _UnlockPill extends StatelessWidget {
+  const _UnlockPill({required this.onUnlockTap});
+
+  final VoidCallback onUnlockTap;
 
   @override
   Widget build(BuildContext context) {
-    return Center(
-      child: ConstrainedBox(
-        constraints: const BoxConstraints(maxWidth: 460),
-        child: AspectRatio(
-          aspectRatio: _snorvyBannerAspectRatio,
-          child: Image.asset(
-            _snorvyBannerAsset,
-            semanticLabel: 'Snorvy banner',
-            fit: BoxFit.contain,
-            filterQuality: FilterQuality.high,
+    return DecoratedBox(
+      decoration: BoxDecoration(
+        color: Theme.of(
+          context,
+        ).colorScheme.surfaceContainerLowest.withValues(alpha: 0.95),
+        borderRadius: BorderRadius.circular(999),
+        border: Border.all(color: SnorvyTheme.midnightBorder),
+      ),
+      child: InkWell(
+        borderRadius: BorderRadius.circular(999),
+        onTap: onUnlockTap,
+        child: const Padding(
+          padding: EdgeInsets.symmetric(horizontal: 12, vertical: 9),
+          child: Row(
+            mainAxisSize: MainAxisSize.min,
+            children: [
+              Icon(Icons.lock_open, size: 15, color: SnorvyTheme.neuralMint),
+              SizedBox(width: 6),
+              Text(
+                '\$9.99',
+                style: TextStyle(
+                  color: SnorvyTheme.neuralMint,
+                  fontWeight: FontWeight.w700,
+                ),
+              ),
+            ],
           ),
         ),
       ),
@@ -281,6 +321,7 @@ class _BrandBanner extends StatelessWidget {
 class _RecordingPanel extends StatefulWidget {
   const _RecordingPanel({
     required this.session,
+    required this.livePowerFrames,
     required this.isBusy,
     required this.statusMessage,
     required this.onStartRecording,
@@ -288,6 +329,7 @@ class _RecordingPanel extends StatefulWidget {
   });
 
   final RecordingSession session;
+  final List<RecordingPowerFrame> livePowerFrames;
   final bool isBusy;
   final String? statusMessage;
   final Future<void> Function() onStartRecording;
@@ -343,7 +385,7 @@ class _RecordingPanelState extends State<_RecordingPanel> {
     final statusColor = isRecording
         ? SnorvyTheme.neuralMint
         : SnorvyTheme.midnightTextFaint;
-    final elapsed = widget.session.startedAt == null
+    final elapsed = !isRecording || widget.session.startedAt == null
         ? Duration.zero
         : DateTime.now().difference(widget.session.startedAt!);
 
@@ -425,7 +467,11 @@ class _RecordingPanelState extends State<_RecordingPanel> {
                 ],
               ),
               const SizedBox(height: 18),
-              _Waveform(active: isRecording, color: SnorvyTheme.neuralMint),
+              _Waveform(
+                active: isRecording,
+                color: SnorvyTheme.neuralMint,
+                frames: widget.livePowerFrames,
+              ),
               const SizedBox(height: 16),
               FilledButton.icon(
                 style: FilledButton.styleFrom(
@@ -483,10 +529,15 @@ class _RecordingPanelState extends State<_RecordingPanel> {
 }
 
 class _Waveform extends StatelessWidget {
-  const _Waveform({required this.active, required this.color});
+  const _Waveform({
+    required this.active,
+    required this.color,
+    this.frames = const [],
+  });
 
   final bool active;
   final Color color;
+  final List<RecordingPowerFrame> frames;
 
   @override
   Widget build(BuildContext context) {
@@ -501,6 +552,7 @@ class _Waveform extends StatelessWidget {
           color: color,
           dimColor: dim,
           bars: 48,
+          levels: frames.map((frame) => frame.decibels).toList(growable: false),
         ),
       ),
     );
@@ -525,6 +577,7 @@ class _StaticWaveform extends StatelessWidget {
           dimColor: color,
           bars: 28,
           intensity: intensity,
+          levels: const [],
         ),
       ),
     );
@@ -537,6 +590,7 @@ class _WaveformPainter extends CustomPainter {
     required this.color,
     required this.dimColor,
     required this.bars,
+    required this.levels,
     this.intensity = 1,
   });
 
@@ -544,6 +598,7 @@ class _WaveformPainter extends CustomPainter {
   final Color color;
   final Color dimColor;
   final int bars;
+  final List<double> levels;
   final double intensity;
 
   @override
@@ -555,12 +610,14 @@ class _WaveformPainter extends CustomPainter {
     final barWidth = math.max(1.6, gap * 0.34);
     final center = size.height / 2;
 
+    final visibleLevels = _expandedLevels();
     for (var i = 0; i < bars; i++) {
+      final level = visibleLevels?[i];
       final seed =
           0.28 + 0.72 * (math.sin(i * 1.7).abs() * math.cos(i * 0.41).abs());
-      final activeScale = active
-          ? 0.42 + 0.58 * math.sin(i * 0.43 + intensity).abs()
-          : 0.44;
+      final activeScale =
+          level ??
+          (active ? 0.42 + 0.58 * math.sin(i * 0.43 + intensity).abs() : 0.44);
       final height = math.max<double>(
         2,
         seed * size.height * activeScale * intensity,
@@ -574,13 +631,49 @@ class _WaveformPainter extends CustomPainter {
     }
   }
 
+  List<double>? _expandedLevels() {
+    if (!active || levels.isEmpty) {
+      return null;
+    }
+
+    final normalized = _normalizeLevels(levels);
+    return [
+      for (var i = 0; i < bars; i++)
+        normalized[(i * normalized.length / bars)
+            .floor()
+            .clamp(0, normalized.length - 1)
+            .toInt()],
+    ];
+  }
+
+  List<double> _normalizeLevels(List<double> values) {
+    final finiteValues = values.where((value) => value.isFinite).toList();
+    if (finiteValues.isEmpty) {
+      return const [0.12];
+    }
+
+    return [
+      for (final value in finiteValues)
+        0.08 + _normalizedDecibels(value) * 0.92,
+    ];
+  }
+
+  double _normalizedDecibels(double decibels) {
+    if (decibels < 0) {
+      return ((decibels + 60) / 55).clamp(0, 1).toDouble();
+    }
+
+    return (decibels / 80).clamp(0, 1).toDouble();
+  }
+
   @override
   bool shouldRepaint(covariant _WaveformPainter oldDelegate) {
     return oldDelegate.active != active ||
         oldDelegate.color != color ||
         oldDelegate.dimColor != dimColor ||
         oldDelegate.intensity != intensity ||
-        oldDelegate.bars != bars;
+        oldDelegate.bars != bars ||
+        oldDelegate.levels != levels;
   }
 }
 

@@ -134,12 +134,14 @@ class SettingsScreen extends StatelessWidget {
                           Text(
                             unlockState.isUnlocked
                                 ? 'Lifetime unlock active'
-                                : 'Free: $recordingsThisMonth/7 nights used',
+                                : 'Free: $recordingsThisMonth/7 sleep days used',
                             style: Theme.of(context).textTheme.titleMedium
                                 ?.copyWith(fontWeight: FontWeight.w700),
                           ),
                           Text(
-                            '${unlockState.priceLabel} once unlocks everything.',
+                            unlockState.isUnlocked
+                                ? 'Unlimited sleep days are active on this phone.'
+                                : 'Short tests do not use a free sleep day.',
                             style: Theme.of(context).textTheme.bodySmall
                                 ?.copyWith(
                                   color: Theme.of(

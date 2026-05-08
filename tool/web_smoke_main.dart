@@ -59,6 +59,9 @@ class _SnorvySmokeShellState extends State<_SnorvySmokeShell> {
       TonightScreen(
         nights: _nights,
         recordingSession: _recordingSession,
+        livePowerFrames: _recordingSession.status == RecordingStatus.recording
+            ? _demoPowerFrames()
+            : const [],
         isBusy: false,
         isLoading: false,
         statusMessage: _statusMessage,
@@ -82,9 +85,7 @@ class _SnorvySmokeShellState extends State<_SnorvySmokeShell> {
       SettingsScreen(
         isBusy: false,
         unlockState: _unlockState,
-        recordingsThisMonth: _nights
-            .where((night) => !night.isManual && night.recordingPath != null)
-            .length,
+        recordingsThisMonth: _sleepDaysUsedThisMonth,
         onAddManualLog: _addManualLog,
         onDeleteAllSleepData: _deleteAllSleepData,
         onUnlockTap: _showUnlock,
@@ -166,6 +167,29 @@ class _SnorvySmokeShellState extends State<_SnorvySmokeShell> {
       );
       _statusMessage = 'Recording started. Audio stays on device.';
     });
+  }
+
+  int get _sleepDaysUsedThisMonth {
+    final now = DateTime.now();
+    return {
+      for (final night in _nights)
+        if (!night.isManual &&
+            night.recordingPath != null &&
+            night.duration >= const Duration(minutes: 20) &&
+            night.date.year == now.year &&
+            night.date.month == now.month)
+          DateTime(night.date.year, night.date.month, night.date.day),
+    }.length;
+  }
+
+  List<RecordingPowerFrame> _demoPowerFrames() {
+    return [
+      for (var i = 0; i < 48; i++)
+        RecordingPowerFrame(
+          elapsed: Duration(milliseconds: i * 160),
+          decibels: 38 + (i % 7) * 3 + (i.isEven ? 10 : 0),
+        ),
+    ];
   }
 
   Future<void> _stopRecording() async {

@@ -3,6 +3,7 @@ import 'dart:io';
 
 import 'package:flutter_sound/flutter_sound.dart';
 import 'package:path/path.dart' as p;
+import 'package:snorvy/src/services/snorvy_audio_session.dart';
 
 abstract interface class AudioPlayback {
   Future<void> playFile(String filePath);
@@ -28,6 +29,7 @@ class FlutterSoundAudioPlayback implements AudioPlayback {
       _isOpen = true;
     }
 
+    await SnorvyAudioSession.configureForPlayback();
     await _player.stopPlayer();
     await _player.startPlayer(
       fromURI: filePath,

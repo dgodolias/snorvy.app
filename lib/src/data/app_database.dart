@@ -86,19 +86,24 @@ class AppDatabase extends _$AppDatabase {
     return nights;
   }
 
-  Future<int> countRecordedNightsForMonth(DateTime month) async {
+  Future<int> countRecordedSleepDaysForMonth(
+    DateTime month, {
+    Duration minimumDuration = Duration.zero,
+  }) async {
     final monthStart = DateTime(month.year, month.month);
     final nextMonthStart = DateTime(month.year, month.month + 1);
-    final countExpression = sleepNightRows.id.count();
-    final query = selectOnly(sleepNightRows)
-      ..addColumns([countExpression])
-      ..where(sleepNightRows.isManual.equals(false))
-      ..where(sleepNightRows.recordingPath.isNotNull())
-      ..where(sleepNightRows.date.isBiggerOrEqualValue(monthStart))
-      ..where(sleepNightRows.date.isSmallerThanValue(nextMonthStart));
+    final query = select(sleepNightRows)
+      ..where((table) => table.isManual.equals(false))
+      ..where((table) => table.recordingPath.isNotNull())
+      ..where((table) => table.date.isBiggerOrEqualValue(monthStart))
+      ..where((table) => table.date.isSmallerThanValue(nextMonthStart));
 
-    final row = await query.getSingle();
-    return row.read(countExpression) ?? 0;
+    final rows = await query.get();
+    return {
+      for (final row in rows)
+        if (row.endedAt.difference(row.startedAt) >= minimumDuration)
+          DateTime(row.date.year, row.date.month, row.date.day),
+    }.length;
   }
 
   Future<int> createManualNight({

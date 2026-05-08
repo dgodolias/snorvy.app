@@ -14,7 +14,7 @@ import 'package:snorvy/src/services/sleep_recorder.dart';
 import 'package:snorvy/src/services/unlock_repository.dart';
 
 void main() {
-  test('blocks free users after 7 recordings in the current month', () async {
+  test('blocks free users after 7 sleep days in the current month', () async {
     final database = AppDatabase(NativeDatabase.memory());
     final recorder = _CountingSleepRecorder();
     final controller = _buildController(database: database, recorder: recorder);
@@ -33,7 +33,38 @@ void main() {
     await controller.startRecording();
 
     expect(recorder.startCalls, 0);
-    expect(controller.statusMessage, contains('7 recordings/month'));
+    expect(controller.statusMessage, contains('7 sleep days/month'));
+  });
+
+  test('counts repeated same-day recordings as one free sleep day', () async {
+    final database = AppDatabase(NativeDatabase.memory());
+    final recorder = _CountingSleepRecorder();
+    final controller = _buildController(database: database, recorder: recorder);
+    addTearDown(controller.dispose);
+
+    final now = DateTime.now();
+    final firstDay = DateTime(now.year, now.month, 7);
+    final secondDay = DateTime(now.year, now.month, 8);
+
+    await database.createRecordedNight(
+      startedAt: firstDay.add(const Duration(hours: 1)),
+      endedAt: firstDay.add(const Duration(hours: 3)),
+      recordingPath: 'memory://nap_1.m4a',
+    );
+    await database.createRecordedNight(
+      startedAt: firstDay.add(const Duration(hours: 14)),
+      endedAt: firstDay.add(const Duration(hours: 16)),
+      recordingPath: 'memory://nap_2.m4a',
+    );
+    await database.createRecordedNight(
+      startedAt: secondDay.add(const Duration(hours: 12)),
+      endedAt: secondDay.add(const Duration(minutes: 12, hours: 12)),
+      recordingPath: 'memory://quick_test.m4a',
+    );
+
+    await controller.initialize();
+
+    expect(controller.recordingsThisMonth, 1);
   });
 
   test('allows unlocked users past the free monthly limit', () async {
@@ -121,6 +152,35 @@ void main() {
     expect(controller.nights.single.snoreScore, 64);
     expect(controller.nights.single.events.single.kind, SleepEventKind.snore);
     expect(controller.statusMessage, contains('1 local audio events'));
+  });
+
+  test('streams live power frames while recording', () async {
+    final database = AppDatabase(NativeDatabase.memory());
+    final recorder = _CountingSleepRecorder();
+    final controller = _buildController(database: database, recorder: recorder);
+    addTearDown(controller.dispose);
+
+    await controller.initialize();
+    await controller.startRecording();
+
+    recorder.emitPowerFrame(
+      const RecordingPowerFrame(
+        elapsed: Duration(milliseconds: 160),
+        decibels: 18,
+      ),
+    );
+    recorder.emitPowerFrame(
+      const RecordingPowerFrame(
+        elapsed: Duration(milliseconds: 320),
+        decibels: 62,
+      ),
+    );
+
+    expect(controller.livePowerFrames.map((frame) => frame.decibels), [18, 62]);
+
+    await controller.stopRecording();
+
+    expect(controller.livePowerFrames, isEmpty);
   });
 
   test('stops recorder when foreground notification cannot start', () async {

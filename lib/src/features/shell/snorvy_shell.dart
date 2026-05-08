@@ -27,6 +27,7 @@ class _SnorvyShellState extends State<SnorvyShell> {
           TonightScreen(
             nights: widget.controller.nights,
             recordingSession: widget.controller.recordingSession,
+            livePowerFrames: widget.controller.livePowerFrames,
             isBusy: widget.controller.isBusy,
             isLoading: widget.controller.isLoading,
             statusMessage: widget.controller.statusMessage,

@@ -1,5 +1,6 @@
 import 'dart:async';
 import 'dart:io';
+import 'dart:math' as math;
 
 import 'package:flutter/foundation.dart';
 import 'package:snorvy/src/data/app_database.dart';
@@ -10,6 +11,9 @@ import 'package:snorvy/src/services/recording_exporter.dart';
 import 'package:snorvy/src/services/sleep_event_analyzer.dart';
 import 'package:snorvy/src/services/sleep_recorder.dart';
 import 'package:snorvy/src/services/unlock_repository.dart';
+
+const _minimumQuotaRecordingDuration = Duration(minutes: 20);
+const _maxLivePowerFrames = 48;
 
 class SnorvyController extends ChangeNotifier {
   SnorvyController({
@@ -50,6 +54,7 @@ class SnorvyController extends ChangeNotifier {
   StreamSubscription<UnlockState>? _unlockSubscription;
   StreamSubscription<RecordingPowerFrame>? _powerFrameSubscription;
   final List<RecordingPowerFrame> _recordingPowerFrames = [];
+  List<RecordingPowerFrame> _livePowerFrames = const [];
 
   List<SleepNight> _nights = const [];
   RecordingSession _recordingSession = const RecordingSession(
@@ -67,17 +72,11 @@ class SnorvyController extends ChangeNotifier {
   bool get isLoading => _isLoading;
   String? get playingPath => _playingPath;
   UnlockState get unlockState => _unlockState;
+  List<RecordingPowerFrame> get livePowerFrames =>
+      List.unmodifiable(_livePowerFrames);
   int get recordingsThisMonth {
     final now = DateTime.now();
-    return _nights
-        .where(
-          (night) =>
-              !night.isManual &&
-              night.recordingPath != null &&
-              night.date.year == now.year &&
-              night.date.month == now.month,
-        )
-        .length;
+    return _billableSleepDatesForMonth(now, _nights).length;
   }
 
   String? get statusMessage => _statusMessage;
@@ -104,12 +103,13 @@ class SnorvyController extends ChangeNotifier {
 
     _setBusy(true);
     try {
-      final recordedThisMonth = await _database.countRecordedNightsForMonth(
+      final sleepDaysThisMonth = await _database.countRecordedSleepDaysForMonth(
         DateTime.now(),
+        minimumDuration: _minimumQuotaRecordingDuration,
       );
-      if (!_unlockState.isUnlocked && recordedThisMonth >= 7) {
+      if (!_unlockState.isUnlocked && sleepDaysThisMonth >= 7) {
         _statusMessage =
-            'Free plan includes 7 recordings/month. Unlock once for unlimited nights.';
+            'Free plan includes 7 sleep days/month. Unlock once for unlimited nights.';
         return;
       }
 
@@ -412,16 +412,42 @@ class SnorvyController extends ChangeNotifier {
 
   Future<void> _startCapturingPowerFrames() async {
     _recordingPowerFrames.clear();
+    _livePowerFrames = const [];
     await _powerFrameSubscription?.cancel();
-    _powerFrameSubscription = _recorder.powerFrames.listen(
-      _recordingPowerFrames.add,
-    );
+    _powerFrameSubscription = _recorder.powerFrames.listen(_addPowerFrame);
   }
 
   Future<List<RecordingPowerFrame>> _stopCapturingPowerFrames() async {
     await _powerFrameSubscription?.cancel();
     _powerFrameSubscription = null;
-    return List.unmodifiable(_recordingPowerFrames);
+    final frames = List<RecordingPowerFrame>.unmodifiable(
+      _recordingPowerFrames,
+    );
+    _livePowerFrames = const [];
+    return frames;
+  }
+
+  void _addPowerFrame(RecordingPowerFrame frame) {
+    _recordingPowerFrames.add(frame);
+    _livePowerFrames = [..._livePowerFrames, frame]
+        .skip(math.max(0, _livePowerFrames.length + 1 - _maxLivePowerFrames))
+        .toList(growable: false);
+    notifyListeners();
+  }
+
+  Set<DateTime> _billableSleepDatesForMonth(
+    DateTime month,
+    Iterable<SleepNight> nights,
+  ) {
+    return {
+      for (final night in nights)
+        if (!night.isManual &&
+            night.recordingPath != null &&
+            night.duration >= _minimumQuotaRecordingDuration &&
+            night.date.year == month.year &&
+            night.date.month == month.month)
+          DateTime(night.date.year, night.date.month, night.date.day),
+    };
   }
 
   Future<void> _saveAnalysis({

@@ -7,6 +7,10 @@ import 'package:snorvy/src/domain/sleep_models.dart';
 import 'package:snorvy/src/services/sleep_recorder.dart';
 import 'package:snorvy/src/theme/snorvy_theme.dart';
 
+const _snorvyLogoAsset = 'assets/brand/snorvy_logo.png';
+const _snorvyBannerAsset = 'assets/brand/snorvy_logo_text_trans_background.png';
+const _snorvyBannerAspectRatio = 1967 / 799;
+
 class TonightScreen extends StatefulWidget {
   const TonightScreen({
     required this.nights,
@@ -55,7 +59,9 @@ class _TonightScreenState extends State<TonightScreen> {
       padding: const EdgeInsets.fromLTRB(20, 10, 20, 126),
       children: [
         _Header(onUnlockTap: widget.onUnlockTap),
-        const SizedBox(height: 22),
+        const SizedBox(height: 16),
+        const _BrandBanner(),
+        const SizedBox(height: 18),
         _RecordingPanel(
           session: widget.recordingSession,
           isBusy: widget.isBusy,
@@ -232,11 +238,26 @@ class _Header extends StatelessWidget {
                 ],
               ),
               const SizedBox(height: 6),
-              Text(
-                'Tonight.',
-                style: SnorvyTheme.displayStyle(
-                  context,
-                ).copyWith(color: Theme.of(context).colorScheme.onSurface),
+              Row(
+                children: [
+                  Image.asset(
+                    _snorvyLogoAsset,
+                    width: 44,
+                    height: 44,
+                    semanticLabel: 'Snorvy logo',
+                    filterQuality: FilterQuality.high,
+                  ),
+                  const SizedBox(width: 10),
+                  Expanded(
+                    child: Text(
+                      'Tonight.',
+                      style: SnorvyTheme.displayStyle(context, size: 48)
+                          .copyWith(
+                            color: Theme.of(context).colorScheme.onSurface,
+                          ),
+                    ),
+                  ),
+                ],
               ),
               const SizedBox(height: 8),
               Text(
@@ -284,6 +305,28 @@ class _Header extends StatelessWidget {
           ),
         ),
       ],
+    );
+  }
+}
+
+class _BrandBanner extends StatelessWidget {
+  const _BrandBanner();
+
+  @override
+  Widget build(BuildContext context) {
+    return Center(
+      child: ConstrainedBox(
+        constraints: const BoxConstraints(maxWidth: 460),
+        child: AspectRatio(
+          aspectRatio: _snorvyBannerAspectRatio,
+          child: Image.asset(
+            _snorvyBannerAsset,
+            semanticLabel: 'Snorvy banner',
+            fit: BoxFit.contain,
+            filterQuality: FilterQuality.high,
+          ),
+        ),
+      ),
     );
   }
 }

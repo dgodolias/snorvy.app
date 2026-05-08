@@ -22,6 +22,16 @@ void main() {
     await tester.pumpAndSettle();
 
     expect(find.text('Snorvy'), findsWidgets);
+    expect(
+      find.image(const AssetImage('assets/brand/snorvy_logo.png')),
+      findsOneWidget,
+    );
+    expect(
+      find.image(
+        const AssetImage('assets/brand/snorvy_logo_text_trans_background.png'),
+      ),
+      findsOneWidget,
+    );
     expect(find.text('Ready for tonight'), findsOneWidget);
     expect(find.text('Start local recording'), findsOneWidget);
     expect(find.text('No subscription. No trial.'), findsNothing);
@@ -54,10 +64,7 @@ void main() {
     await tester.pumpWidget(SnorvyApp(controller: controller));
     await tester.pumpAndSettle();
 
-    await tester.tap(
-      find.widgetWithText(FilledButton, 'Start local recording'),
-    );
-    await tester.pumpAndSettle();
+    await _tapStartRecording(tester);
 
     expect(find.widgetWithText(FilledButton, 'Stop recording'), findsOneWidget);
 
@@ -72,10 +79,7 @@ void main() {
     await tester.pumpWidget(SnorvyApp(controller: controller));
     await tester.pumpAndSettle();
 
-    await tester.tap(
-      find.widgetWithText(FilledButton, 'Start local recording'),
-    );
-    await tester.pumpAndSettle();
+    await _tapStartRecording(tester);
     expect(find.text('00:00'), findsOneWidget);
 
     await tester.runAsync(
@@ -96,10 +100,7 @@ void main() {
     await tester.pumpWidget(SnorvyApp(controller: controller));
     await tester.pumpAndSettle();
 
-    await tester.tap(
-      find.widgetWithText(FilledButton, 'Start local recording'),
-    );
-    await tester.pump();
+    await _tapStartRecording(tester);
     await tester.pump(const Duration(seconds: 9));
     await tester.pumpAndSettle();
 
@@ -171,6 +172,17 @@ Future<void> _tapDestination(WidgetTester tester, IconData icon) async {
   };
   final size = tester.view.physicalSize / tester.view.devicePixelRatio;
   await tester.tapAt(Offset((index + 0.5) * size.width / 3, size.height - 42));
+  await tester.pumpAndSettle();
+}
+
+Future<void> _tapStartRecording(WidgetTester tester) async {
+  final startButton = find.widgetWithText(
+    FilledButton,
+    'Start local recording',
+  );
+  await tester.ensureVisible(startButton);
+  await tester.pumpAndSettle();
+  await tester.tap(startButton);
   await tester.pumpAndSettle();
 }
 

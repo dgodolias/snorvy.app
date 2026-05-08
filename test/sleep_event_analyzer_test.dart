@@ -96,6 +96,31 @@ void main() {
     );
   });
 
+  test('counts dense short loud bursts as snore in short recordings', () {
+    final shortStartedAt = DateTime(2026, 5, 8, 17, 40);
+    final frames = [
+      for (var second = 0; second < 11; second++)
+        _frame(second, switch (second) {
+          >= 1 && <= 2 => 66,
+          >= 4 && <= 6 => 64,
+          >= 8 && <= 9 => 65,
+          _ => 34,
+        }),
+    ];
+
+    final result = analyzer.analyzeFrames(
+      frames: frames,
+      startedAt: shortStartedAt,
+      endedAt: shortStartedAt.add(const Duration(seconds: 11)),
+      recordingPath: 'memory://short-snore.m4a',
+    );
+
+    expect(result.snoreScore, greaterThan(0));
+    expect(result.events.map((event) => event.kind).toSet(), {
+      SleepEventKind.snore,
+    });
+  });
+
   test('neural classifier separates sustained snore from short talk', () {
     const classifier = TinyLevelNeuralSleepClassifier();
 

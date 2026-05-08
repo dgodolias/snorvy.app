@@ -71,6 +71,58 @@ void main() {
     expect(find.text('Full-night recording'), findsOneWidget);
   });
 
+  testWidgets('marks only the tapped event as playing', (tester) async {
+    final database = AppDatabase(NativeDatabase.memory());
+    final startedAt = DateTime(2026, 5, 8, 0, 12);
+    final nightId = await database.createRecordedNight(
+      startedAt: startedAt,
+      endedAt: startedAt.add(const Duration(seconds: 60)),
+      recordingPath: 'memory://night.m4a',
+    );
+    final firstTalkId = await database.addDetectedEvent(
+      nightId: nightId,
+      kind: SleepEventKind.talk,
+      startsAt: startedAt.add(const Duration(seconds: 10)),
+      duration: const Duration(seconds: 4),
+      intensity: 80,
+      filePath: 'memory://night.m4a',
+    );
+    await database.addDetectedEvent(
+      nightId: nightId,
+      kind: SleepEventKind.talk,
+      startsAt: startedAt.add(const Duration(seconds: 30)),
+      duration: const Duration(seconds: 4),
+      intensity: 80,
+      filePath: 'memory://night.m4a',
+    );
+    final controller = _buildController(database: database);
+    addTearDown(controller.dispose);
+
+    await tester.pumpWidget(SnorvyApp(controller: controller));
+    await tester.pumpAndSettle();
+
+    final talkChip = tester.widget<FilterChip>(
+      find.widgetWithText(FilterChip, 'Talk (2)'),
+    );
+    talkChip.onSelected?.call(true);
+    await tester.pumpAndSettle();
+
+    await controller.playAudio(
+      'memory://night.m4a',
+      playbackKey: 'event:$firstTalkId:memory://night.m4a',
+    );
+    await tester.pumpAndSettle();
+
+    expect(
+      find.byTooltip('Stop source recording', skipOffstage: false),
+      findsOneWidget,
+    );
+    expect(
+      find.byTooltip('Play source recording', skipOffstage: false),
+      findsOneWidget,
+    );
+  });
+
   testWidgets('persists a manual sleep log into history', (tester) async {
     final controller = _buildController();
     addTearDown(controller.dispose);

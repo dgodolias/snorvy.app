@@ -179,12 +179,18 @@ class LocalLevelSleepEventAnalyzer implements SleepEventAnalyzer {
       }
     }
 
-    if (events.isEmpty) {
+    final balancedEvents = _rebalanceDenseShortBursts(
+      events,
+      startedAt: startedAt,
+      endedAt: endedAt,
+    );
+
+    if (balancedEvents.isEmpty) {
       return SleepAnalysisResult.empty;
     }
 
-    final snoreScore = _snoreCount(events);
-    return SleepAnalysisResult(snoreScore: snoreScore, events: events);
+    final snoreScore = _snoreCount(balancedEvents);
+    return SleepAnalysisResult(snoreScore: snoreScore, events: balancedEvents);
   }
 
   List<_FrameCluster> _findLoudClusters(
@@ -252,6 +258,51 @@ class LocalLevelSleepEventAnalyzer implements SleepEventAnalyzer {
 
   int _snoreCount(List<AnalyzedSleepEvent> events) {
     return events.where((event) => event.kind == SleepEventKind.snore).length;
+  }
+
+  List<AnalyzedSleepEvent> _rebalanceDenseShortBursts(
+    List<AnalyzedSleepEvent> events, {
+    required DateTime startedAt,
+    required DateTime endedAt,
+  }) {
+    final hasSnore = events.any((event) => event.kind == SleepEventKind.snore);
+    final talkEvents = events
+        .where((event) => event.kind == SleepEventKind.talk)
+        .toList(growable: false);
+    if (hasSnore || talkEvents.length < 2) {
+      return events;
+    }
+
+    final recordingSeconds = math.max(
+      1,
+      endedAt.difference(startedAt).inSeconds,
+    );
+    final voicedSeconds = talkEvents.fold<int>(
+      0,
+      (total, event) => total + event.duration.inSeconds,
+    );
+    final averageIntensity =
+        talkEvents
+            .map((event) => event.intensity)
+            .fold<int>(0, (total, intensity) => total + intensity) /
+        talkEvents.length;
+
+    if (voicedSeconds / recordingSeconds < 0.50 || averageIntensity < 85) {
+      return events;
+    }
+
+    return [
+      for (final event in events)
+        event.kind == SleepEventKind.talk
+            ? AnalyzedSleepEvent(
+                kind: SleepEventKind.snore,
+                startsAt: event.startsAt,
+                duration: event.duration,
+                intensity: event.intensity,
+                filePath: event.filePath,
+              )
+            : event,
+    ];
   }
 
   double _percentile(List<double> sortedValues, double percentile) {

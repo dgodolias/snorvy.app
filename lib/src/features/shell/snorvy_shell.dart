@@ -31,7 +31,7 @@ class _SnorvyShellState extends State<SnorvyShell> {
             isBusy: widget.controller.isBusy,
             isLoading: widget.controller.isLoading,
             statusMessage: widget.controller.statusMessage,
-            playingPath: widget.controller.playingPath,
+            playingAudioKey: widget.controller.playingAudioKey,
             onStartRecording: widget.controller.startRecording,
             onStopRecording: widget.controller.stopRecording,
             onPlayAudio: widget.controller.playAudio,

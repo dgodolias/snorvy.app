@@ -11,6 +11,9 @@ const _snorvyBannerAsset = 'assets/brand/snorvy_logo_text_trans_background.png';
 const _snorvyBannerAspectRatio = 1967 / 799;
 const _brandHeaderHeight = 86.0;
 
+typedef AudioPlayCallback =
+    Future<void> Function(String filePath, {String? playbackKey});
+
 enum _AudioTab { fullAudio, snore, talk }
 
 extension _AudioTabPresentation on _AudioTab {
@@ -47,7 +50,7 @@ class TonightScreen extends StatefulWidget {
     required this.isBusy,
     required this.isLoading,
     required this.statusMessage,
-    required this.playingPath,
+    required this.playingAudioKey,
     required this.onStartRecording,
     required this.onStopRecording,
     required this.onPlayAudio,
@@ -63,10 +66,10 @@ class TonightScreen extends StatefulWidget {
   final bool isBusy;
   final bool isLoading;
   final String? statusMessage;
-  final String? playingPath;
+  final String? playingAudioKey;
   final Future<void> Function() onStartRecording;
   final Future<void> Function() onStopRecording;
-  final Future<void> Function(String filePath) onPlayAudio;
+  final AudioPlayCallback onPlayAudio;
   final Future<void> Function() onStopAudio;
   final Future<void> Function(String filePath) onExportAudio;
   final VoidCallback onUnlockTap;
@@ -136,7 +139,9 @@ class _TonightScreenState extends State<TonightScreen> {
                 _FullNightRecordingPanel(
                   recordingPath: recordingPath,
                   isBusy: widget.isBusy,
-                  isPlaying: widget.playingPath == recordingPath,
+                  isPlaying:
+                      widget.playingAudioKey ==
+                      _fullAudioPlaybackKey(recordingPath),
                   onPlayAudio: widget.onPlayAudio,
                   onStopAudio: widget.onStopAudio,
                   onExportAudio: widget.onExportAudio,
@@ -158,9 +163,7 @@ class _TonightScreenState extends State<TonightScreen> {
                 (event) => _TimelineEventTile(
                   event: event,
                   isBusy: widget.isBusy,
-                  isPlaying:
-                      event.filePath != null &&
-                      widget.playingPath == event.filePath,
+                  isPlaying: widget.playingAudioKey == _eventPlaybackKey(event),
                   onPlayAudio: widget.onPlayAudio,
                   onStopAudio: widget.onStopAudio,
                 ),
@@ -171,6 +174,14 @@ class _TonightScreenState extends State<TonightScreen> {
       ],
     );
   }
+}
+
+String _fullAudioPlaybackKey(String recordingPath) {
+  return 'full:$recordingPath';
+}
+
+String _eventPlaybackKey(SleepEvent event) {
+  return 'event:${event.id}:${event.filePath ?? ''}';
 }
 
 class _FullNightRecordingPanel extends StatelessWidget {
@@ -186,7 +197,7 @@ class _FullNightRecordingPanel extends StatelessWidget {
   final String recordingPath;
   final bool isBusy;
   final bool isPlaying;
-  final Future<void> Function(String filePath) onPlayAudio;
+  final AudioPlayCallback onPlayAudio;
   final Future<void> Function() onStopAudio;
   final Future<void> Function(String filePath) onExportAudio;
 
@@ -238,7 +249,10 @@ class _FullNightRecordingPanel extends StatelessWidget {
                           if (isPlaying) {
                             await onStopAudio();
                           } else {
-                            await onPlayAudio(recordingPath);
+                            await onPlayAudio(
+                              recordingPath,
+                              playbackKey: _fullAudioPlaybackKey(recordingPath),
+                            );
                           }
                         },
                   icon: Icon(isPlaying ? Icons.stop : Icons.play_arrow),
@@ -941,7 +955,7 @@ class _TimelineEventTile extends StatelessWidget {
   final SleepEvent event;
   final bool isBusy;
   final bool isPlaying;
-  final Future<void> Function(String filePath) onPlayAudio;
+  final AudioPlayCallback onPlayAudio;
   final Future<void> Function() onStopAudio;
 
   @override
@@ -974,7 +988,10 @@ class _TimelineEventTile extends StatelessWidget {
                         if (isPlaying) {
                           await onStopAudio();
                         } else {
-                          await onPlayAudio(filePath);
+                          await onPlayAudio(
+                            filePath,
+                            playbackKey: _eventPlaybackKey(event),
+                          );
                         }
                       },
                 icon: Icon(isPlaying ? Icons.stop : Icons.play_arrow),

@@ -63,6 +63,7 @@ class SnorvyController extends ChangeNotifier {
   bool _isBusy = false;
   bool _isLoading = true;
   String? _playingPath;
+  String? _playingAudioKey;
   UnlockState _unlockState = const UnlockState.initial();
   String? _statusMessage;
 
@@ -71,6 +72,7 @@ class SnorvyController extends ChangeNotifier {
   bool get isBusy => _isBusy;
   bool get isLoading => _isLoading;
   String? get playingPath => _playingPath;
+  String? get playingAudioKey => _playingAudioKey;
   UnlockState get unlockState => _unlockState;
   List<RecordingPowerFrame> get livePowerFrames =>
       List.unmodifiable(_livePowerFrames);
@@ -239,7 +241,7 @@ class SnorvyController extends ChangeNotifier {
     }
   }
 
-  Future<void> playAudio(String filePath) async {
+  Future<void> playAudio(String filePath, {String? playbackKey}) async {
     if (_isBusy) {
       return;
     }
@@ -248,6 +250,7 @@ class SnorvyController extends ChangeNotifier {
     try {
       await _audioPlayback.playFile(filePath);
       _playingPath = filePath;
+      _playingAudioKey = playbackKey ?? filePath;
       _statusMessage = 'Playing saved audio from this phone.';
     } on FileSystemException {
       _statusMessage = 'Audio file is no longer on this phone.';
@@ -267,6 +270,7 @@ class SnorvyController extends ChangeNotifier {
     try {
       await _audioPlayback.stop();
       _playingPath = null;
+      _playingAudioKey = null;
       _statusMessage = 'Playback stopped.';
     } on Exception {
       _statusMessage = 'Could not stop playback.';
@@ -333,6 +337,7 @@ class SnorvyController extends ChangeNotifier {
       if (_playingPath != null) {
         await _audioPlayback.stop();
         _playingPath = null;
+        _playingAudioKey = null;
       }
 
       final filePaths = await _database.deleteAllNights();
@@ -385,6 +390,7 @@ class SnorvyController extends ChangeNotifier {
 
     await _audioPlayback.stop();
     _playingPath = null;
+    _playingAudioKey = null;
   }
 
   Future<int> _deleteLocalFiles(List<String> filePaths) async {

@@ -52,6 +52,7 @@ class _SnorvySmokeShellState extends State<_SnorvySmokeShell> {
   );
   String? _statusMessage;
   String? _playingPath;
+  String? _playingAudioKey;
 
   @override
   Widget build(BuildContext context) {
@@ -65,7 +66,7 @@ class _SnorvySmokeShellState extends State<_SnorvySmokeShell> {
         isBusy: false,
         isLoading: false,
         statusMessage: _statusMessage,
-        playingPath: _playingPath,
+        playingAudioKey: _playingAudioKey,
         onStartRecording: _startRecording,
         onStopRecording: _stopRecording,
         onPlayAudio: _playAudio,
@@ -219,6 +220,7 @@ class _SnorvySmokeShellState extends State<_SnorvySmokeShell> {
       _nights = _nights.where((candidate) => candidate.id != night.id).toList();
       if (_playingPath == night.recordingPath) {
         _playingPath = null;
+        _playingAudioKey = null;
       }
       _statusMessage = 'Night deleted from this phone.';
     });
@@ -228,13 +230,15 @@ class _SnorvySmokeShellState extends State<_SnorvySmokeShell> {
     setState(() {
       _nights = const [];
       _playingPath = null;
+      _playingAudioKey = null;
       _statusMessage = 'All local sleep data deleted.';
     });
   }
 
-  Future<void> _playAudio(String filePath) async {
+  Future<void> _playAudio(String filePath, {String? playbackKey}) async {
     setState(() {
       _playingPath = filePath;
+      _playingAudioKey = playbackKey ?? filePath;
       _statusMessage = 'Playing saved audio from this phone.';
     });
   }
@@ -242,6 +246,7 @@ class _SnorvySmokeShellState extends State<_SnorvySmokeShell> {
   Future<void> _stopAudio() async {
     setState(() {
       _playingPath = null;
+      _playingAudioKey = null;
       _statusMessage = 'Playback stopped.';
     });
   }

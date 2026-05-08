@@ -65,6 +65,47 @@ void main() {
     expect(stopButton, findsOneWidget);
   });
 
+  testWidgets('advances the live recording timer', (tester) async {
+    final controller = _buildController();
+    addTearDown(controller.dispose);
+
+    await tester.pumpWidget(SnorvyApp(controller: controller));
+    await tester.pumpAndSettle();
+
+    await tester.tap(
+      find.widgetWithText(FilledButton, 'Start local recording'),
+    );
+    await tester.pumpAndSettle();
+    expect(find.text('00:00'), findsOneWidget);
+
+    await tester.runAsync(
+      () => Future<void>.delayed(const Duration(milliseconds: 1100)),
+    );
+    await tester.pump(const Duration(seconds: 1));
+    expect(find.text('00:01'), findsOneWidget);
+  });
+
+  testWidgets('does not include recorder startup delay in elapsed time', (
+    tester,
+  ) async {
+    final controller = _buildController(
+      recorder: _FakeSleepRecorder(startDelay: const Duration(seconds: 9)),
+    );
+    addTearDown(controller.dispose);
+
+    await tester.pumpWidget(SnorvyApp(controller: controller));
+    await tester.pumpAndSettle();
+
+    await tester.tap(
+      find.widgetWithText(FilledButton, 'Start local recording'),
+    );
+    await tester.pump();
+    await tester.pump(const Duration(seconds: 9));
+    await tester.pumpAndSettle();
+
+    expect(find.text('00:00'), findsOneWidget);
+  });
+
   testWidgets('deletes a manual sleep log from history', (tester) async {
     final controller = _buildController();
     addTearDown(controller.dispose);
@@ -143,10 +184,10 @@ Future<void> _pumpControllerIdle(
   await tester.pumpAndSettle();
 }
 
-SnorvyController _buildController() {
+SnorvyController _buildController({SleepRecorder? recorder}) {
   return SnorvyController(
     database: AppDatabase(NativeDatabase.memory()),
-    recorder: _FakeSleepRecorder(),
+    recorder: recorder ?? _FakeSleepRecorder(),
     audioPlayback: _FakeAudioPlayback(),
     recordingExporter: _FakeRecordingExporter(),
     recordingForegroundService: const NoopRecordingForegroundService(),
@@ -156,6 +197,9 @@ SnorvyController _buildController() {
 }
 
 class _FakeSleepRecorder implements SleepRecorder {
+  _FakeSleepRecorder({this.startDelay = Duration.zero});
+
+  final Duration startDelay;
   final StreamController<RecordingPowerFrame> _powerFrames =
       StreamController<RecordingPowerFrame>.broadcast();
   RecordingSession _session = const RecordingSession(
@@ -167,10 +211,14 @@ class _FakeSleepRecorder implements SleepRecorder {
 
   @override
   Future<RecordingSession> startNightRecording() async {
+    if (startDelay > Duration.zero) {
+      await Future<void>.delayed(startDelay);
+    }
+
     _session = RecordingSession(
       status: RecordingStatus.recording,
       filePath: 'memory://night.ogg',
-      startedAt: DateTime(2026, 5, 7, 23, 30),
+      startedAt: DateTime.now(),
     );
     return _session;
   }

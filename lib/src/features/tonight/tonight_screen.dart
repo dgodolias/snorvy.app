@@ -1,3 +1,4 @@
+import 'dart:async';
 import 'dart:math' as math;
 
 import 'package:flutter/material.dart';
@@ -287,7 +288,7 @@ class _Header extends StatelessWidget {
   }
 }
 
-class _RecordingPanel extends StatelessWidget {
+class _RecordingPanel extends StatefulWidget {
   const _RecordingPanel({
     required this.session,
     required this.isBusy,
@@ -303,15 +304,58 @@ class _RecordingPanel extends StatelessWidget {
   final Future<void> Function() onStopRecording;
 
   @override
+  State<_RecordingPanel> createState() => _RecordingPanelState();
+}
+
+class _RecordingPanelState extends State<_RecordingPanel> {
+  Timer? _elapsedTimer;
+
+  @override
+  void initState() {
+    super.initState();
+    _syncElapsedTimer();
+  }
+
+  @override
+  void didUpdateWidget(covariant _RecordingPanel oldWidget) {
+    super.didUpdateWidget(oldWidget);
+    if (oldWidget.session.status != widget.session.status ||
+        oldWidget.session.startedAt != widget.session.startedAt) {
+      _syncElapsedTimer();
+    }
+  }
+
+  @override
+  void dispose() {
+    _elapsedTimer?.cancel();
+    super.dispose();
+  }
+
+  void _syncElapsedTimer() {
+    _elapsedTimer?.cancel();
+    _elapsedTimer = null;
+    if (widget.session.status != RecordingStatus.recording ||
+        widget.session.startedAt == null) {
+      return;
+    }
+
+    _elapsedTimer = Timer.periodic(const Duration(seconds: 1), (_) {
+      if (mounted) {
+        setState(() {});
+      }
+    });
+  }
+
+  @override
   Widget build(BuildContext context) {
     final colorScheme = Theme.of(context).colorScheme;
-    final isRecording = session.status == RecordingStatus.recording;
+    final isRecording = widget.session.status == RecordingStatus.recording;
     final statusColor = isRecording
         ? SnorvyTheme.neuralMint
         : SnorvyTheme.midnightTextFaint;
-    final elapsed = session.startedAt == null
+    final elapsed = widget.session.startedAt == null
         ? Duration.zero
-        : DateTime.now().difference(session.startedAt!);
+        : DateTime.now().difference(widget.session.startedAt!);
 
     return DecoratedBox(
       decoration: BoxDecoration(
@@ -403,28 +447,28 @@ class _RecordingPanel extends StatelessWidget {
                       ? SnorvyTheme.midnight
                       : SnorvyTheme.midnight,
                 ),
-                onPressed: isBusy
+                onPressed: widget.isBusy
                     ? null
                     : () async {
                         if (isRecording) {
-                          await onStopRecording();
+                          await widget.onStopRecording();
                         } else {
-                          await onStartRecording();
+                          await widget.onStartRecording();
                         }
                       },
                 icon: Icon(isRecording ? Icons.stop : Icons.nightlight),
                 label: Text(
-                  isBusy
+                  widget.isBusy
                       ? 'Working...'
                       : isRecording
                       ? 'Stop recording'
                       : 'Start local recording',
                 ),
               ),
-              if (statusMessage != null) ...[
+              if (widget.statusMessage != null) ...[
                 const SizedBox(height: 12),
                 Text(
-                  statusMessage!,
+                  widget.statusMessage!,
                   style: Theme.of(context).textTheme.bodySmall?.copyWith(
                     color: colorScheme.onSurfaceVariant,
                   ),

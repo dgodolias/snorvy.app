@@ -89,11 +89,11 @@ class FlutterSoundSleepRecorder implements SleepRecorder {
       await recordingsDirectory.create(recursive: true);
     }
 
-    final startedAt = DateTime.now();
     final format = await _firstSupportedFormat();
+    final fileCreatedAt = DateTime.now();
     final filePath = p.join(
       recordingsDirectory.path,
-      'night_${startedAt.millisecondsSinceEpoch}${format.extension}',
+      'night_${fileCreatedAt.millisecondsSinceEpoch}${format.extension}',
     );
 
     await _recorder.startRecorder(
@@ -102,6 +102,7 @@ class FlutterSoundSleepRecorder implements SleepRecorder {
       sampleRate: 16000,
       numChannels: 1,
     );
+    final startedAt = DateTime.now();
 
     _session = RecordingSession(
       status: RecordingStatus.recording,

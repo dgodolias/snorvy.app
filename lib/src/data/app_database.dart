@@ -51,10 +51,7 @@ class AppDatabase extends _$AppDatabase {
 
   Stream<List<SleepNightRow>> watchRecentNights({int limit = 30}) {
     final query = select(sleepNightRows)
-      ..orderBy([
-        (table) =>
-            OrderingTerm(expression: table.date, mode: OrderingMode.desc),
-      ])
+      ..orderBy(_recentNightsOrdering)
       ..limit(limit);
 
     return query.watch();
@@ -62,10 +59,7 @@ class AppDatabase extends _$AppDatabase {
 
   Future<List<SleepNight>> fetchRecentSleepNights({int limit = 30}) async {
     final query = select(sleepNightRows)
-      ..orderBy([
-        (table) =>
-            OrderingTerm(expression: table.date, mode: OrderingMode.desc),
-      ])
+      ..orderBy(_recentNightsOrdering)
       ..limit(limit);
 
     final nightRows = await query.get();
@@ -245,5 +239,16 @@ class AppDatabase extends _$AppDatabase {
           ),
       ],
     );
+  }
+
+  List<OrderingTerm Function($SleepNightRowsTable)> get _recentNightsOrdering {
+    return [
+      (table) => OrderingTerm(expression: table.date, mode: OrderingMode.desc),
+      (table) =>
+          OrderingTerm(expression: table.startedAt, mode: OrderingMode.desc),
+      (table) =>
+          OrderingTerm(expression: table.createdAt, mode: OrderingMode.desc),
+      (table) => OrderingTerm(expression: table.id, mode: OrderingMode.desc),
+    ];
   }
 }

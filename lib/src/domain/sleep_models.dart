@@ -86,6 +86,10 @@ class SleepNight {
 
   Duration get duration => endedAt.difference(startedAt);
 
+  int get snoreCount {
+    return events.where((event) => event.kind == SleepEventKind.snore).length;
+  }
+
   int get snoreMinutes => _minutesFor(SleepEventKind.snore);
 
   int get talkMinutes => _minutesFor(SleepEventKind.talk);

@@ -8,7 +8,7 @@ void main() {
   final startedAt = DateTime(2026, 5, 7, 23, 30);
   final endedAt = startedAt.add(const Duration(hours: 8));
 
-  test('turns sustained loud frames into a snore event and score', () {
+  test('turns sustained loud frames into a snore event and count', () {
     final frames = [
       for (var second = 0; second < 40; second++)
         _frame(second, second >= 10 && second <= 16 ? 56 : 35),
@@ -21,7 +21,7 @@ void main() {
       recordingPath: 'memory://night.ogg',
     );
 
-    expect(result.snoreScore, greaterThan(0));
+    expect(result.snoreScore, 1);
     expect(result.events, hasLength(1));
     expect(result.events.single.kind, SleepEventKind.snore);
     expect(
@@ -65,6 +65,37 @@ void main() {
     expect(result.snoreScore, 0);
     expect(result.events, isEmpty);
   });
+
+  test('detects mixed snore and talk in a one-minute recording', () {
+    final frames = [
+      for (var second = 0; second < 60; second++)
+        _frame(second, switch (second) {
+          >= 8 && <= 15 => second.isEven ? 66 : 49,
+          >= 24 && <= 33 => 61,
+          >= 42 && <= 48 => second.isEven ? 63 : 47,
+          _ => 34 + (second % 2),
+        }),
+    ];
+
+    final result = analyzer.analyzeFrames(
+      frames: frames,
+      startedAt: startedAt,
+      endedAt: startedAt.add(const Duration(seconds: 60)),
+      recordingPath: 'memory://night.ogg',
+    );
+
+    expect(
+      result.events.map((event) => event.kind),
+      containsAll([SleepEventKind.talk, SleepEventKind.snore]),
+    );
+    expect(
+      result.snoreScore,
+      result.events.where((event) {
+        return event.kind == SleepEventKind.snore;
+      }).length,
+    );
+  });
+
   test('neural classifier separates sustained snore from short talk', () {
     const classifier = TinyLevelNeuralSleepClassifier();
 

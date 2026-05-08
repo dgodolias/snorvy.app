@@ -67,6 +67,29 @@ void main() {
     expect(controller.recordingsThisMonth, 1);
   });
 
+  test('loads the newest same-day recording first', () async {
+    final database = AppDatabase(NativeDatabase.memory());
+    final recorder = _CountingSleepRecorder();
+    final controller = _buildController(database: database, recorder: recorder);
+    addTearDown(controller.dispose);
+
+    final day = DateTime(2026, 5, 8);
+    await database.createRecordedNight(
+      startedAt: day.add(const Duration(minutes: 10)),
+      endedAt: day.add(const Duration(minutes: 30)),
+      recordingPath: 'memory://older.m4a',
+    );
+    await database.createRecordedNight(
+      startedAt: day.add(const Duration(hours: 1)),
+      endedAt: day.add(const Duration(hours: 1, minutes: 20)),
+      recordingPath: 'memory://newer.m4a',
+    );
+
+    await controller.initialize();
+
+    expect(controller.nights.first.recordingPath, 'memory://newer.m4a');
+  });
+
   test('allows unlocked users past the free monthly limit', () async {
     final database = AppDatabase(NativeDatabase.memory());
     final recorder = _CountingSleepRecorder();
@@ -117,12 +140,12 @@ void main() {
     },
   );
 
-  test('saves locally detected audio events and snore score', () async {
+  test('saves locally detected audio events and snore count', () async {
     final database = AppDatabase(NativeDatabase.memory());
     final recorder = _CountingSleepRecorder();
     final analyzer = _FakeSleepEventAnalyzer(
       result: SleepAnalysisResult(
-        snoreScore: 64,
+        snoreScore: 1,
         events: [
           AnalyzedSleepEvent(
             kind: SleepEventKind.snore,
@@ -149,7 +172,7 @@ void main() {
     await controller.stopRecording();
 
     expect(analyzer.framesSeen, hasLength(1));
-    expect(controller.nights.single.snoreScore, 64);
+    expect(controller.nights.single.snoreCount, 1);
     expect(controller.nights.single.events.single.kind, SleepEventKind.snore);
     expect(controller.statusMessage, contains('1 local audio events'));
   });

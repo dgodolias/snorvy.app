@@ -11,6 +11,34 @@ const _snorvyBannerAsset = 'assets/brand/snorvy_logo_text_trans_background.png';
 const _snorvyBannerAspectRatio = 1967 / 799;
 const _brandHeaderHeight = 86.0;
 
+enum _AudioTab { fullAudio, snore, talk }
+
+extension _AudioTabPresentation on _AudioTab {
+  String get label {
+    return switch (this) {
+      _AudioTab.fullAudio => 'Full audio',
+      _AudioTab.snore => 'Snore',
+      _AudioTab.talk => 'Talk',
+    };
+  }
+
+  IconData get icon {
+    return switch (this) {
+      _AudioTab.fullAudio => Icons.library_music,
+      _AudioTab.snore => SleepEventKind.snore.icon,
+      _AudioTab.talk => SleepEventKind.talk.icon,
+    };
+  }
+
+  SleepEventKind? get eventKind {
+    return switch (this) {
+      _AudioTab.fullAudio => null,
+      _AudioTab.snore => SleepEventKind.snore,
+      _AudioTab.talk => SleepEventKind.talk,
+    };
+  }
+}
+
 class TonightScreen extends StatefulWidget {
   const TonightScreen({
     required this.nights,
@@ -48,13 +76,14 @@ class TonightScreen extends StatefulWidget {
 }
 
 class _TonightScreenState extends State<TonightScreen> {
-  SleepEventKind? _filter;
+  _AudioTab _selectedTab = _AudioTab.snore;
 
   @override
   Widget build(BuildContext context) {
     final latestNight = widget.nights.isEmpty ? null : widget.nights.first;
+    final selectedKind = _selectedTab.eventKind;
     final events = (latestNight?.events ?? const <SleepEvent>[])
-        .where((event) => _filter == null || event.kind == _filter)
+        .where((event) => event.kind == selectedKind)
         .toList();
 
     return Stack(
@@ -79,17 +108,6 @@ class _TonightScreenState extends State<TonightScreen> {
               const SizedBox(height: 14),
               _TonightStats(night: latestNight),
             ],
-            if (latestNight?.recordingPath case final recordingPath?) ...[
-              const SizedBox(height: 14),
-              _FullNightRecordingPanel(
-                recordingPath: recordingPath,
-                isBusy: widget.isBusy,
-                isPlaying: widget.playingPath == recordingPath,
-                onPlayAudio: widget.onPlayAudio,
-                onStopAudio: widget.onStopAudio,
-                onExportAudio: widget.onExportAudio,
-              ),
-            ],
             const SizedBox(height: 26),
             RichText(
               text: TextSpan(
@@ -97,7 +115,7 @@ class _TonightScreenState extends State<TonightScreen> {
                 children: [
                   const TextSpan(text: 'Last night '),
                   TextSpan(
-                    text: 'timeline',
+                    text: 'audio',
                     style: TextStyle(
                       color: Theme.of(context).colorScheme.onSurfaceVariant,
                       fontStyle: FontStyle.italic,
@@ -107,15 +125,34 @@ class _TonightScreenState extends State<TonightScreen> {
               ),
             ),
             const SizedBox(height: 12),
-            _TimelineFilters(
-              selected: _filter,
-              onSelected: (kind) => setState(() => _filter = kind),
+            _AudioTabs(
+              selected: _selectedTab,
+              night: latestNight,
+              onSelected: (tab) => setState(() => _selectedTab = tab),
             ),
             const SizedBox(height: 10),
-            if (widget.isLoading)
+            if (_selectedTab == _AudioTab.fullAudio)
+              if (latestNight?.recordingPath case final recordingPath?)
+                _FullNightRecordingPanel(
+                  recordingPath: recordingPath,
+                  isBusy: widget.isBusy,
+                  isPlaying: widget.playingPath == recordingPath,
+                  onPlayAudio: widget.onPlayAudio,
+                  onStopAudio: widget.onStopAudio,
+                  onExportAudio: widget.onExportAudio,
+                )
+              else
+                const _EmptyTimelinePanel(
+                  message:
+                      'No full recording saved yet. Start recording tonight.',
+                )
+            else if (widget.isLoading)
               const _LoadingPanel()
             else if (events.isEmpty)
-              const _EmptyTimelinePanel()
+              _EmptyTimelinePanel(
+                message:
+                    'No ${_selectedTab.label.toLowerCase()} events saved yet.',
+              )
             else
               ...events.map(
                 (event) => _TimelineEventTile(
@@ -719,8 +756,8 @@ class _TonightStats extends StatelessWidget {
         Expanded(
           child: _MetricTile(
             label: 'Snore',
-            value: '${night.snoreScore}',
-            sub: 'score',
+            value: '${night.snoreCount}',
+            sub: 'count',
             accent: SnorvyTheme.neuralMint,
           ),
         ),
@@ -798,11 +835,16 @@ class _MetricTile extends StatelessWidget {
   }
 }
 
-class _TimelineFilters extends StatelessWidget {
-  const _TimelineFilters({required this.selected, required this.onSelected});
+class _AudioTabs extends StatelessWidget {
+  const _AudioTabs({
+    required this.selected,
+    required this.night,
+    required this.onSelected,
+  });
 
-  final SleepEventKind? selected;
-  final ValueChanged<SleepEventKind?> onSelected;
+  final _AudioTab selected;
+  final SleepNight? night;
+  final ValueChanged<_AudioTab> onSelected;
 
   @override
   Widget build(BuildContext context) {
@@ -810,20 +852,27 @@ class _TimelineFilters extends StatelessWidget {
       spacing: 6,
       runSpacing: 6,
       children: [
-        FilterChip(
-          label: const Text('All'),
-          selected: selected == null,
-          onSelected: (_) => onSelected(null),
-        ),
-        for (final kind in [SleepEventKind.snore, SleepEventKind.talk])
+        for (final tab in _AudioTab.values)
           FilterChip(
-            avatar: Icon(kind.icon, size: 18),
-            label: Text(kind.label),
-            selected: selected == kind,
-            onSelected: (_) => onSelected(kind),
+            avatar: Icon(tab.icon, size: 18),
+            label: Text(_labelFor(tab)),
+            selected: selected == tab,
+            onSelected: (_) => onSelected(tab),
           ),
       ],
     );
+  }
+
+  String _labelFor(_AudioTab tab) {
+    final night = this.night;
+    if (night == null || tab == _AudioTab.fullAudio) {
+      return tab.label;
+    }
+
+    final count = night.events
+        .where((event) => event.kind == tab.eventKind)
+        .length;
+    return '${tab.label} ($count)';
   }
 }
 
@@ -840,7 +889,9 @@ class _LoadingPanel extends StatelessWidget {
 }
 
 class _EmptyTimelinePanel extends StatelessWidget {
-  const _EmptyTimelinePanel();
+  const _EmptyTimelinePanel({required this.message});
+
+  final String message;
 
   @override
   Widget build(BuildContext context) {
@@ -870,11 +921,7 @@ class _EmptyTimelinePanel extends StatelessWidget {
               ),
             ),
             const SizedBox(width: 12),
-            const Expanded(
-              child: Text(
-                'No saved audio events yet. Start recording tonight.',
-              ),
-            ),
+            Expanded(child: Text(message)),
           ],
         ),
       ),

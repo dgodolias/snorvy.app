@@ -6,6 +6,7 @@ import 'package:flutter_test/flutter_test.dart';
 import 'package:snorvy/src/app/snorvy_app.dart';
 import 'package:snorvy/src/app/snorvy_controller.dart';
 import 'package:snorvy/src/data/app_database.dart';
+import 'package:snorvy/src/domain/sleep_models.dart';
 import 'package:snorvy/src/services/audio_playback.dart';
 import 'package:snorvy/src/services/recording_foreground_service.dart';
 import 'package:snorvy/src/services/recording_exporter.dart';
@@ -34,6 +35,40 @@ void main() {
     expect(find.text('Ready for tonight'), findsOneWidget);
     expect(find.text('Start local recording'), findsOneWidget);
     expect(find.text('No subscription. No trial.'), findsNothing);
+  });
+
+  testWidgets('keeps full recording inside the Full audio tab', (tester) async {
+    final database = AppDatabase(NativeDatabase.memory());
+    final startedAt = DateTime(2026, 5, 8, 0, 12);
+    final nightId = await database.createRecordedNight(
+      startedAt: startedAt,
+      endedAt: startedAt.add(const Duration(seconds: 60)),
+      recordingPath: 'memory://night.m4a',
+    );
+    await database.addDetectedEvent(
+      nightId: nightId,
+      kind: SleepEventKind.snore,
+      startsAt: startedAt.add(const Duration(seconds: 10)),
+      duration: const Duration(seconds: 8),
+      intensity: 70,
+      filePath: 'memory://night.m4a',
+    );
+    final controller = _buildController(database: database);
+    addTearDown(controller.dispose);
+
+    await tester.pumpWidget(SnorvyApp(controller: controller));
+    await tester.pumpAndSettle();
+
+    expect(find.text('Full-night recording'), findsNothing);
+    expect(find.text('Snore (1)'), findsOneWidget);
+
+    final fullAudioChip = tester.widget<FilterChip>(
+      find.widgetWithText(FilterChip, 'Full audio'),
+    );
+    fullAudioChip.onSelected?.call(true);
+    await tester.pumpAndSettle();
+
+    expect(find.text('Full-night recording'), findsOneWidget);
   });
 
   testWidgets('persists a manual sleep log into history', (tester) async {
@@ -195,9 +230,12 @@ Future<void> _pumpControllerIdle(
   await tester.pumpAndSettle();
 }
 
-SnorvyController _buildController({SleepRecorder? recorder}) {
+SnorvyController _buildController({
+  SleepRecorder? recorder,
+  AppDatabase? database,
+}) {
   return SnorvyController(
-    database: AppDatabase(NativeDatabase.memory()),
+    database: database ?? AppDatabase(NativeDatabase.memory()),
     recorder: recorder ?? _FakeSleepRecorder(),
     audioPlayback: _FakeAudioPlayback(),
     recordingExporter: _FakeRecordingExporter(),

@@ -63,12 +63,12 @@ class HistoryScreen extends StatelessWidget {
                 crossAxisAlignment: CrossAxisAlignment.start,
                 children: [
                   Text(
-                    '7-NIGHT SNORE AVG',
+                    '7-NIGHT SNORE COUNT',
                     style: SnorvyTheme.labelStyle(context),
                   ),
                   const SizedBox(height: 6),
                   Text(
-                    '${_averageScore(orderedNights)}',
+                    '${_averageSnoreCount(orderedNights)}',
                     style: SnorvyTheme.displayStyle(
                       context,
                       size: 44,
@@ -76,7 +76,7 @@ class HistoryScreen extends StatelessWidget {
                     ),
                   ),
                   Text(
-                    'average score',
+                    'average count',
                     style: Theme.of(context).textTheme.bodySmall?.copyWith(
                       color: Theme.of(context).colorScheme.onSurfaceVariant,
                     ),
@@ -87,7 +87,7 @@ class HistoryScreen extends StatelessWidget {
                     child: LineChart(
                       LineChartData(
                         minY: 0,
-                        maxY: 100,
+                        maxY: _maxSnoreCount(orderedNights).toDouble(),
                         gridData: FlGridData(
                           show: true,
                           drawVerticalLine: false,
@@ -104,7 +104,7 @@ class HistoryScreen extends StatelessWidget {
                               for (var i = 0; i < orderedNights.length; i++)
                                 FlSpot(
                                   i.toDouble(),
-                                  orderedNights[i].snoreScore.toDouble(),
+                                  orderedNights[i].snoreCount.toDouble(),
                                 ),
                             ],
                             color: SnorvyTheme.neuralMint,
@@ -142,13 +142,21 @@ class HistoryScreen extends StatelessWidget {
     );
   }
 
-  int _averageScore(List<SleepNight> nights) {
+  int _averageSnoreCount(List<SleepNight> nights) {
     if (nights.isEmpty) {
       return 0;
     }
     final recent = nights.take(7).toList(growable: false);
-    final total = recent.fold<int>(0, (sum, night) => sum + night.snoreScore);
+    final total = recent.fold<int>(0, (sum, night) => sum + night.snoreCount);
     return (total / recent.length).round();
+  }
+
+  int _maxSnoreCount(List<SleepNight> nights) {
+    return nights.fold<int>(
+      3,
+      (maximum, night) =>
+          night.snoreCount > maximum ? night.snoreCount : maximum,
+    );
   }
 }
 
@@ -252,7 +260,7 @@ class _NightHistoryTile extends StatelessWidget {
                 Padding(
                   padding: const EdgeInsets.symmetric(horizontal: 6),
                   child: Text(
-                    '${night.snoreScore}',
+                    '${night.snoreCount}',
                     style: Theme.of(context).textTheme.titleLarge?.copyWith(
                       fontWeight: FontWeight.w800,
                       color: SnorvyTheme.neuralMint,

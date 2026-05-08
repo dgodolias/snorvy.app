@@ -284,7 +284,7 @@ class _SnorvySmokeShellState extends State<_SnorvySmokeShell> {
       date: DateTime(2026, 5, 8),
       startedAt: startedAt,
       endedAt: endedAt,
-      snoreScore: 38,
+      snoreScore: 1,
       recordingPath: session.filePath ?? 'browser://night_$id.ogg',
       events: [
         SleepEvent(

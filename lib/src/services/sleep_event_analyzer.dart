@@ -65,6 +65,18 @@ class TinyLevelNeuralSleepClassifier implements SleepClusterClassifier {
 
   @override
   SleepEventKind classify(SleepClusterFeatures features) {
+    if (features.peakLift < 5 && features.averageLift < 3) {
+      return SleepEventKind.noise;
+    }
+    if (features.duration <= const Duration(seconds: 4)) {
+      return SleepEventKind.talk;
+    }
+    if (features.duration <= const Duration(seconds: 16) &&
+        features.variability >= 4.5 &&
+        features.peakLift >= 7) {
+      return SleepEventKind.talk;
+    }
+
     final input = _ClusterNetworkInput.from(features);
 
     final sustainedEnergy = _relu(
@@ -115,7 +127,8 @@ class LocalLevelSleepEventAnalyzer implements SleepEventAnalyzer {
 
   static const _minimumFrames = 3;
   static const _minimumEventSeconds = 2;
-  static const _mergeGapSeconds = 2;
+  static const _minimumDynamicRange = 5.0;
+  static const _mergeGap = Duration(milliseconds: 1200);
 
   final SleepClusterClassifier _classifier;
 
@@ -134,32 +147,43 @@ class LocalLevelSleepEventAnalyzer implements SleepEventAnalyzer {
     }
 
     final values = cleanFrames.map((frame) => frame.decibels).toList()..sort();
-    final floor = _percentile(values, 0.35);
-    final median = _percentile(values, 0.50);
-    final spread = _standardDeviation(values, median);
-    final threshold = math.max(floor + 8, median + math.max(4, spread * 0.65));
+    final floor = _percentile(values, 0.20);
+    final high = _percentile(values, 0.92);
+    final peak = values.last;
+    final dynamicRange = high - floor;
+    if (dynamicRange < _minimumDynamicRange && peak < floor + 7) {
+      return SleepAnalysisResult.empty;
+    }
+
+    final threshold = floor + math.max(5, math.min(12, dynamicRange * 0.38));
 
     final clusters = _findLoudClusters(cleanFrames, threshold);
     if (clusters.isEmpty) {
       return SleepAnalysisResult.empty;
     }
 
-    final events = [
-      for (final cluster in clusters)
-        if (cluster.duration.inSeconds >= _minimumEventSeconds)
-          _eventForCluster(
-            cluster,
-            threshold: threshold,
-            startedAt: startedAt,
-            recordingPath: recordingPath,
-          ),
-    ];
+    final events = <AnalyzedSleepEvent>[];
+    for (final cluster in clusters) {
+      if (cluster.duration.inSeconds < _minimumEventSeconds) {
+        continue;
+      }
+
+      final event = _eventForCluster(
+        cluster,
+        threshold: threshold,
+        startedAt: startedAt,
+        recordingPath: recordingPath,
+      );
+      if (event.kind != SleepEventKind.noise) {
+        events.add(event);
+      }
+    }
 
     if (events.isEmpty) {
       return SleepAnalysisResult.empty;
     }
 
-    final snoreScore = _snoreScore(events, startedAt, endedAt);
+    final snoreScore = _snoreCount(events);
     return SleepAnalysisResult(snoreScore: snoreScore, events: events);
   }
 
@@ -181,7 +205,7 @@ class LocalLevelSleepEventAnalyzer implements SleepEventAnalyzer {
         current = _FrameCluster(first: frame, last: frame, frames: [frame]);
       } else {
         final gap = frame.elapsed - (lastLoudFrame?.elapsed ?? frame.elapsed);
-        if (gap.inSeconds <= _mergeGapSeconds) {
+        if (gap <= _mergeGap) {
           current = current.add(frame);
         } else {
           clusters.add(current);
@@ -226,48 +250,13 @@ class LocalLevelSleepEventAnalyzer implements SleepEventAnalyzer {
     );
   }
 
-  int _snoreScore(
-    List<AnalyzedSleepEvent> events,
-    DateTime startedAt,
-    DateTime endedAt,
-  ) {
-    final sleepSeconds = math.max(1, endedAt.difference(startedAt).inSeconds);
-    final snoreEvents = events
-        .where((event) => event.kind == SleepEventKind.snore)
-        .toList(growable: false);
-    final snoreSeconds = snoreEvents.fold<int>(
-      0,
-      (total, event) => total + event.duration.inSeconds,
-    );
-    if (snoreSeconds == 0) {
-      return 0;
-    }
-
-    final averageSnoreIntensity =
-        snoreEvents
-            .map((event) => event.intensity)
-            .fold<int>(0, (total, intensity) => total + intensity) /
-        math.max(1, snoreEvents.length);
-    final durationWeight = snoreSeconds / sleepSeconds;
-    return (durationWeight * 1500 + averageSnoreIntensity * 0.35).round().clamp(
-      1,
-      100,
-    );
+  int _snoreCount(List<AnalyzedSleepEvent> events) {
+    return events.where((event) => event.kind == SleepEventKind.snore).length;
   }
 
   double _percentile(List<double> sortedValues, double percentile) {
     final index = ((sortedValues.length - 1) * percentile).round();
     return sortedValues[index.clamp(0, sortedValues.length - 1)];
-  }
-
-  double _standardDeviation(List<double> values, double mean) {
-    final variance =
-        values.fold<double>(0, (total, value) {
-          final delta = value - mean;
-          return total + delta * delta;
-        }) /
-        values.length;
-    return math.sqrt(variance);
   }
 }
 

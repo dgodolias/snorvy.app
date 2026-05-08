@@ -552,6 +552,7 @@ class _Waveform extends StatelessWidget {
           color: color,
           dimColor: dim,
           bars: 48,
+          meterMode: true,
           levels: frames.map((frame) => frame.decibels).toList(growable: false),
         ),
       ),
@@ -577,6 +578,7 @@ class _StaticWaveform extends StatelessWidget {
           dimColor: color,
           bars: 28,
           intensity: intensity,
+          meterMode: false,
           levels: const [],
         ),
       ),
@@ -590,6 +592,7 @@ class _WaveformPainter extends CustomPainter {
     required this.color,
     required this.dimColor,
     required this.bars,
+    required this.meterMode,
     required this.levels,
     this.intensity = 1,
   });
@@ -598,6 +601,7 @@ class _WaveformPainter extends CustomPainter {
   final Color color;
   final Color dimColor;
   final int bars;
+  final bool meterMode;
   final List<double> levels;
   final double intensity;
 
@@ -610,18 +614,22 @@ class _WaveformPainter extends CustomPainter {
     final barWidth = math.max(1.6, gap * 0.34);
     final center = size.height / 2;
 
-    final visibleLevels = _expandedLevels();
+    final meterLevels = _expandedMeterLevels();
     for (var i = 0; i < bars; i++) {
-      final level = visibleLevels?[i];
+      final level = meterLevels?[i];
       final seed =
           0.28 + 0.72 * (math.sin(i * 1.7).abs() * math.cos(i * 0.41).abs());
-      final activeScale =
-          level ??
-          (active ? 0.42 + 0.58 * math.sin(i * 0.43 + intensity).abs() : 0.44);
-      final height = math.max<double>(
-        2,
-        seed * size.height * activeScale * intensity,
-      );
+      final height = level == null
+          ? math.max<double>(
+              2,
+              seed *
+                  size.height *
+                  (active
+                      ? 0.42 + 0.58 * math.sin(i * 0.43 + intensity).abs()
+                      : 0.44) *
+                  intensity,
+            )
+          : 2 + level * (size.height - 4);
       final x = i * gap + (gap - barWidth) / 2;
       final rect = RRect.fromRectAndRadius(
         Rect.fromLTWH(x, center - height / 2, barWidth, height),
@@ -631,9 +639,12 @@ class _WaveformPainter extends CustomPainter {
     }
   }
 
-  List<double>? _expandedLevels() {
-    if (!active || levels.isEmpty) {
+  List<double>? _expandedMeterLevels() {
+    if (!meterMode) {
       return null;
+    }
+    if (!active || levels.isEmpty) {
+      return List<double>.filled(bars, 0);
     }
 
     final normalized = _normalizeLevels(levels);
@@ -649,21 +660,37 @@ class _WaveformPainter extends CustomPainter {
   List<double> _normalizeLevels(List<double> values) {
     final finiteValues = values.where((value) => value.isFinite).toList();
     if (finiteValues.isEmpty) {
-      return const [0.12];
+      return const [0];
     }
 
+    final rawLevels = finiteValues.map(_rawLevel).toList(growable: false);
+    final floor = _percentile(rawLevels, 0.35);
+    final peak = _percentile(rawLevels, 0.95);
+    final dynamicRange = math.max(8, peak - floor);
+
     return [
-      for (final value in finiteValues)
-        0.08 + _normalizedDecibels(value) * 0.92,
+      for (final raw in rawLevels)
+        math
+            .pow(
+              ((raw - floor - 3) / dynamicRange).clamp(0, 1).toDouble(),
+              0.72,
+            )
+            .toDouble(),
     ];
   }
 
-  double _normalizedDecibels(double decibels) {
+  double _rawLevel(double decibels) {
     if (decibels < 0) {
-      return ((decibels + 60) / 55).clamp(0, 1).toDouble();
+      return (decibels + 60).clamp(0, 80).toDouble();
     }
 
-    return (decibels / 80).clamp(0, 1).toDouble();
+    return decibels.clamp(0, 90).toDouble();
+  }
+
+  double _percentile(List<double> values, double percentile) {
+    final sorted = [...values]..sort();
+    final index = ((sorted.length - 1) * percentile).round();
+    return sorted[index.clamp(0, sorted.length - 1).toInt()];
   }
 
   @override
@@ -673,6 +700,7 @@ class _WaveformPainter extends CustomPainter {
         oldDelegate.dimColor != dimColor ||
         oldDelegate.intensity != intensity ||
         oldDelegate.bars != bars ||
+        oldDelegate.meterMode != meterMode ||
         oldDelegate.levels != levels;
   }
 }

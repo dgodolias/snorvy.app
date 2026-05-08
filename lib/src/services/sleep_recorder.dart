@@ -39,10 +39,17 @@ abstract interface class SleepRecorder {
 }
 
 class FlutterSoundSleepRecorder implements SleepRecorder {
+  static const _recordingSampleRate = 44100;
+  static const _recordingBitRate = 64000;
   static const List<_RecordingFormat> _preferredFormats = [
     _RecordingFormat(codec: Codec.aacMP4, extension: '.m4a'),
     _RecordingFormat(codec: Codec.aacADTS, extension: '.aac'),
     _RecordingFormat(codec: Codec.pcm16WAV, extension: '.wav'),
+  ];
+  static const List<AudioSource> _preferredAudioSources = [
+    AudioSource.microphone,
+    AudioSource.unprocessed,
+    AudioSource.defaultSource,
   ];
 
   FlutterSoundSleepRecorder({FlutterSoundRecorder? recorder})
@@ -92,18 +99,9 @@ class FlutterSoundSleepRecorder implements SleepRecorder {
     }
 
     final format = await _firstSupportedFormat();
-    final fileCreatedAt = DateTime.now();
-    final filePath = p.join(
-      recordingsDirectory.path,
-      'night_${fileCreatedAt.millisecondsSinceEpoch}${format.extension}',
-    );
-
-    await _recorder.startRecorder(
-      toFile: filePath,
-      codec: format.codec,
-      audioSource: AudioSource.microphone,
-      bitRate: 64000,
-      numChannels: 1,
+    final filePath = await _startRecorderWithFallbacks(
+      recordingsDirectory: recordingsDirectory,
+      format: format,
     );
     final startedAt = DateTime.now();
 
@@ -114,6 +112,52 @@ class FlutterSoundSleepRecorder implements SleepRecorder {
     );
 
     return _session;
+  }
+
+  Future<String> _startRecorderWithFallbacks({
+    required Directory recordingsDirectory,
+    required _RecordingFormat format,
+  }) async {
+    Exception? lastError;
+
+    for (final audioSource in _preferredAudioSources) {
+      final fileCreatedAt = DateTime.now();
+      final filePath = p.join(
+        recordingsDirectory.path,
+        'night_${fileCreatedAt.millisecondsSinceEpoch}${format.extension}',
+      );
+
+      try {
+        await _recorder.startRecorder(
+          toFile: filePath,
+          codec: format.codec,
+          audioSource: audioSource,
+          sampleRate: _recordingSampleRate,
+          bitRate: _recordingBitRate,
+          numChannels: 1,
+          enableVoiceProcessing: false,
+          enableNoiseSuppression: false,
+          enableEchoCancellation: false,
+        );
+        return filePath;
+      } on Exception catch (error) {
+        lastError = error;
+        await _deletePartialRecording(filePath);
+      }
+    }
+
+    throw lastError ?? Exception('Could not start the audio recorder.');
+  }
+
+  Future<void> _deletePartialRecording(String filePath) async {
+    final file = File(filePath);
+    try {
+      if (await file.exists()) {
+        await file.delete();
+      }
+    } on FileSystemException {
+      // A failed native recorder start may leave an empty partial file behind.
+    }
   }
 
   Future<_RecordingFormat> _firstSupportedFormat() async {

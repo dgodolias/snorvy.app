@@ -11,12 +11,12 @@ class SnorvyAudioSession {
         avAudioSessionCategoryOptions:
             AVAudioSessionCategoryOptions.allowBluetooth |
             AVAudioSessionCategoryOptions.defaultToSpeaker,
-        avAudioSessionMode: AVAudioSessionMode.spokenAudio,
+        avAudioSessionMode: AVAudioSessionMode.measurement,
         avAudioSessionRouteSharingPolicy:
             AVAudioSessionRouteSharingPolicy.defaultPolicy,
         androidAudioAttributes: const AndroidAudioAttributes(
           contentType: AndroidAudioContentType.speech,
-          usage: AndroidAudioUsage.voiceCommunication,
+          usage: AndroidAudioUsage.media,
         ),
         androidAudioFocusGainType: AndroidAudioFocusGainType.gain,
         androidWillPauseWhenDucked: false,

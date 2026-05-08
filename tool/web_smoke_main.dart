@@ -187,7 +187,9 @@ class _SnorvySmokeShellState extends State<_SnorvySmokeShell> {
       for (var i = 0; i < 48; i++)
         RecordingPowerFrame(
           elapsed: Duration(milliseconds: i * 160),
-          decibels: 38 + (i % 7) * 3 + (i.isEven ? 10 : 0),
+          decibels: i < 18
+              ? 27 + (i % 3)
+              : 52 + (i % 7) * 4 + (i.isEven ? 8 : 0),
         ),
     ];
   }

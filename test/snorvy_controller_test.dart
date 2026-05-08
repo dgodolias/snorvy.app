@@ -197,6 +197,27 @@ void main() {
     expect(controller.statusMessage, contains('1 local audio clips'));
   });
 
+  test('stores subsecond event clips as at least one visible second', () async {
+    final database = AppDatabase(NativeDatabase.memory());
+    final nightId = await database.createRecordedNight(
+      startedAt: DateTime(2026, 5, 8, 18, 48),
+      endedAt: DateTime(2026, 5, 8, 18, 49),
+    );
+
+    await database.addDetectedEvent(
+      nightId: nightId,
+      kind: SleepEventKind.snore,
+      startsAt: DateTime(2026, 5, 8, 18, 48, 5),
+      duration: const Duration(milliseconds: 640),
+      intensity: 90,
+      filePath: 'memory://short.wav',
+    );
+
+    final nights = await database.fetchRecentSleepNights();
+
+    expect(nights.single.events.single.duration, const Duration(seconds: 1));
+  });
+
   test('rotates chunks and keeps only event clips', () async {
     final database = AppDatabase(NativeDatabase.memory());
     final recorder = _CountingSleepRecorder();

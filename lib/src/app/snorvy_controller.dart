@@ -718,7 +718,9 @@ class SnorvyController extends ChangeNotifier {
           .where((event) => event.kind == SleepEventKind.snore)
           .length;
     } finally {
-      await _deleteLocalFiles([chunkPath]);
+      if (kReleaseMode) {
+        await _deleteLocalFiles([chunkPath]);
+      }
     }
 
     return _ProcessedChunkResult(

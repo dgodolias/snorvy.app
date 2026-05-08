@@ -159,7 +159,10 @@ class AppDatabase extends _$AppDatabase {
         nightId: nightId,
         kind: kind,
         startsAt: startsAt,
-        durationSeconds: duration.inSeconds,
+        durationSeconds: ((duration.inMilliseconds + 999) ~/ 1000).clamp(
+          1,
+          24 * 60 * 60,
+        ),
         intensity: intensity.clamp(0, 100),
         filePath: Value(filePath),
       ),

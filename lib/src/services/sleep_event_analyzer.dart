@@ -1,5 +1,6 @@
 import 'dart:math' as math;
 
+import 'package:flutter/foundation.dart';
 import 'package:snorvy/src/domain/sleep_models.dart';
 import 'package:snorvy/src/services/sleep_recorder.dart';
 
@@ -68,18 +69,34 @@ class TinyLevelNeuralSleepClassifier implements SleepClusterClassifier {
     if (features.peakLift < 5 && features.averageLift < 3) {
       return SleepEventKind.noise;
     }
-    if (features.duration <= const Duration(seconds: 2)) {
-      return SleepEventKind.talk;
-    }
-    if (features.duration <= const Duration(seconds: 4) &&
+    if (features.duration <= const Duration(milliseconds: 1400) &&
         features.frameCount >= 3 &&
-        features.averageLift >= 8 &&
-        features.variability <= 4.2) {
+        features.peakLift >= 12 &&
+        features.averageLift >= 6) {
+      return SleepEventKind.snore;
+    }
+    if (features.duration <= const Duration(milliseconds: 3200) &&
+        features.frameCount >= 3 &&
+        features.averageLift >= 9 &&
+        features.variability <= 2.6) {
+      return SleepEventKind.snore;
+    }
+    if (features.duration >= const Duration(seconds: 5) &&
+        features.averageLift >= 6 &&
+        features.variability <= 2.8) {
       return SleepEventKind.snore;
     }
     if (features.duration <= const Duration(seconds: 16) &&
-        features.variability >= 4.5 &&
+        features.variability >= 3.2 &&
         features.peakLift >= 7) {
+      return SleepEventKind.talk;
+    }
+    if (features.duration > const Duration(milliseconds: 3200) &&
+        features.duration < const Duration(seconds: 5) &&
+        features.peakLift >= 7) {
+      return SleepEventKind.talk;
+    }
+    if (features.duration <= const Duration(seconds: 2)) {
       return SleepEventKind.talk;
     }
 
@@ -132,9 +149,9 @@ class LocalLevelSleepEventAnalyzer implements SleepEventAnalyzer {
   }) : _classifier = classifier;
 
   static const _minimumFrames = 3;
-  static const _minimumEventSeconds = 2;
+  static const _minimumEventDuration = Duration(milliseconds: 400);
   static const _minimumDynamicRange = 5.0;
-  static const _mergeGap = Duration(milliseconds: 1200);
+  static const _mergeGap = Duration(milliseconds: 700);
 
   final SleepClusterClassifier _classifier;
 
@@ -161,16 +178,21 @@ class LocalLevelSleepEventAnalyzer implements SleepEventAnalyzer {
       return SleepAnalysisResult.empty;
     }
 
-    final threshold = floor + math.max(5, math.min(12, dynamicRange * 0.38));
+    final threshold = floor + math.max(3.5, math.min(10, dynamicRange * 0.30));
 
     final clusters = _findLoudClusters(cleanFrames, threshold);
+    _logDebug(
+      'frames=${cleanFrames.length} floor=${floor.toStringAsFixed(1)} '
+      'high=${high.toStringAsFixed(1)} peak=${peak.toStringAsFixed(1)} '
+      'threshold=${threshold.toStringAsFixed(1)} clusters=${clusters.length}',
+    );
     if (clusters.isEmpty) {
       return SleepAnalysisResult.empty;
     }
 
     final events = <AnalyzedSleepEvent>[];
     for (final cluster in clusters) {
-      if (cluster.duration.inSeconds < _minimumEventSeconds) {
+      if (cluster.duration < _minimumEventDuration) {
         continue;
       }
 
@@ -179,6 +201,15 @@ class LocalLevelSleepEventAnalyzer implements SleepEventAnalyzer {
         threshold: threshold,
         startedAt: startedAt,
         recordingPath: recordingPath,
+      );
+      _logDebug(
+        'cluster offset=${cluster.first.elapsed.inMilliseconds}ms '
+        'duration=${cluster.duration.inMilliseconds}ms '
+        'frames=${cluster.frames.length} '
+        'peakLift=${(cluster.peakDecibels - threshold).toStringAsFixed(1)} '
+        'avgLift=${(cluster.averageDecibels - threshold).toStringAsFixed(1)} '
+        'spread=${cluster.decibelSpread.toStringAsFixed(1)} '
+        'kind=${event.kind.name}',
       );
       if (event.kind != SleepEventKind.noise) {
         events.add(event);
@@ -198,6 +229,13 @@ class LocalLevelSleepEventAnalyzer implements SleepEventAnalyzer {
     double threshold,
   ) {
     final clusters = <_FrameCluster>[];
+    final frameStep = _typicalFrameStep(frames);
+    final mergeGap = Duration(
+      microseconds: math.max(
+        _mergeGap.inMicroseconds,
+        frameStep.inMicroseconds * 2,
+      ),
+    );
     _FrameCluster? current;
     RecordingPowerFrame? lastLoudFrame;
 
@@ -208,14 +246,24 @@ class LocalLevelSleepEventAnalyzer implements SleepEventAnalyzer {
       }
 
       if (current == null) {
-        current = _FrameCluster(first: frame, last: frame, frames: [frame]);
+        current = _FrameCluster(
+          first: frame,
+          last: frame,
+          frames: [frame],
+          frameStep: frameStep,
+        );
       } else {
         final gap = frame.elapsed - (lastLoudFrame?.elapsed ?? frame.elapsed);
-        if (gap <= _mergeGap) {
+        if (gap <= mergeGap) {
           current = current.add(frame);
         } else {
           clusters.add(current);
-          current = _FrameCluster(first: frame, last: frame, frames: [frame]);
+          current = _FrameCluster(
+            first: frame,
+            last: frame,
+            frames: [frame],
+            frameStep: frameStep,
+          );
         }
       }
 
@@ -227,6 +275,22 @@ class LocalLevelSleepEventAnalyzer implements SleepEventAnalyzer {
     }
 
     return clusters;
+  }
+
+  Duration _typicalFrameStep(List<RecordingPowerFrame> frames) {
+    final gaps = <int>[];
+    for (var index = 1; index < frames.length; index++) {
+      final gap = frames[index].elapsed - frames[index - 1].elapsed;
+      if (gap > Duration.zero && gap <= const Duration(seconds: 2)) {
+        gaps.add(gap.inMicroseconds);
+      }
+    }
+    if (gaps.isEmpty) {
+      return const Duration(milliseconds: 160);
+    }
+
+    gaps.sort();
+    return Duration(microseconds: gaps[gaps.length ~/ 2]);
   }
 
   AnalyzedSleepEvent _eventForCluster(
@@ -264,6 +328,12 @@ class LocalLevelSleepEventAnalyzer implements SleepEventAnalyzer {
     final index = ((sortedValues.length - 1) * percentile).round();
     return sortedValues[index.clamp(0, sortedValues.length - 1)];
   }
+
+  void _logDebug(String message) {
+    if (kDebugMode) {
+      debugPrint('[SnorvyAnalyzer] $message');
+    }
+  }
 }
 
 class _FrameCluster {
@@ -271,15 +341,17 @@ class _FrameCluster {
     required this.first,
     required this.last,
     required this.frames,
+    required this.frameStep,
   });
 
   final RecordingPowerFrame first;
   final RecordingPowerFrame last;
   final List<RecordingPowerFrame> frames;
+  final Duration frameStep;
 
   Duration get duration {
     final elapsed = last.elapsed - first.elapsed;
-    return elapsed + const Duration(seconds: 1);
+    return elapsed + frameStep;
   }
 
   double get peakDecibels {
@@ -295,7 +367,12 @@ class _FrameCluster {
   }
 
   _FrameCluster add(RecordingPowerFrame frame) {
-    return _FrameCluster(first: first, last: frame, frames: [...frames, frame]);
+    return _FrameCluster(
+      first: first,
+      last: frame,
+      frames: [...frames, frame],
+      frameStep: frameStep,
+    );
   }
 
   double get decibelSpread {

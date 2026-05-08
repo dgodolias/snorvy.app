@@ -121,6 +121,33 @@ void main() {
     ]);
   });
 
+  test('detects two short snores and one talk with real recorder cadence', () {
+    final shortStartedAt = DateTime(2026, 5, 8, 18, 35);
+    final frames = [
+      for (var ms = 0; ms <= 12000; ms += 160)
+        _frameMs(ms, switch (ms) {
+          >= 1400 && <= 2200 => 64,
+          >= 4300 && <= 5200 => 63,
+          >= 7800 && <= 11600 => _speechLikeLevel(ms),
+          _ => 34 + ((ms ~/ 160) % 2),
+        }),
+    ];
+
+    final result = analyzer.analyzeFrames(
+      frames: frames,
+      startedAt: shortStartedAt,
+      endedAt: shortStartedAt.add(const Duration(seconds: 12)),
+      recordingPath: 'memory://short-session.wav',
+    );
+
+    expect(result.snoreScore, 2);
+    expect(result.events.map((event) => event.kind), [
+      SleepEventKind.snore,
+      SleepEventKind.snore,
+      SleepEventKind.talk,
+    ]);
+  });
+
   test('neural classifier separates sustained snore from short talk', () {
     const classifier = TinyLevelNeuralSleepClassifier();
 
@@ -160,11 +187,21 @@ void main() {
         variability: 9,
       ),
     );
+    final steadyFourSecondTalk = classifier.classify(
+      const SleepClusterFeatures(
+        duration: Duration(seconds: 4),
+        frameCount: 24,
+        peakLift: 16,
+        averageLift: 12,
+        variability: 2,
+      ),
+    );
 
     expect(snore, SleepEventKind.snore);
     expect(shortSnore, SleepEventKind.snore);
     expect(talk, SleepEventKind.talk);
     expect(noise, SleepEventKind.noise);
+    expect(steadyFourSecondTalk, SleepEventKind.talk);
   });
 }
 
@@ -173,4 +210,22 @@ RecordingPowerFrame _frame(int second, double decibels) {
     elapsed: Duration(seconds: second),
     decibels: decibels,
   );
+}
+
+RecordingPowerFrame _frameMs(int milliseconds, double decibels) {
+  return RecordingPowerFrame(
+    elapsed: Duration(milliseconds: milliseconds),
+    decibels: decibels,
+  );
+}
+
+double _speechLikeLevel(int milliseconds) {
+  return switch ((milliseconds ~/ 160) % 6) {
+    0 => 66,
+    1 => 49,
+    2 => 61,
+    3 => 53,
+    4 => 68,
+    _ => 47,
+  };
 }

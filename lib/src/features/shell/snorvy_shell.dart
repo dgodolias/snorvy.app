@@ -89,53 +89,160 @@ class _SnorvyShellState extends State<SnorvyShell> {
             ),
           ),
           bottomNavigationBar: SafeArea(
-            minimum: const EdgeInsets.fromLTRB(12, 0, 12, 12),
-            child: DecoratedBox(
-              decoration: BoxDecoration(
-                color: SnorvyTheme.midnight2.withValues(alpha: 0.94),
-                borderRadius: BorderRadius.circular(28),
-                border: Border.all(color: SnorvyTheme.midnightBorder),
-                boxShadow: const [
-                  BoxShadow(
-                    color: Color(0x66000000),
-                    blurRadius: 28,
-                    offset: Offset(0, 12),
-                  ),
-                ],
-              ),
-              child: ClipRRect(
-                borderRadius: BorderRadius.circular(28),
-                child: NavigationBar(
-                  selectedIndex: _selectedIndex,
-                  onDestinationSelected: (index) {
-                    setState(() => _selectedIndex = index);
-                  },
-                  destinations: const [
-                    NavigationDestination(
-                      key: ValueKey('nav-tonight'),
-                      icon: Icon(Icons.bedtime_outlined),
-                      selectedIcon: Icon(Icons.bedtime),
-                      label: 'Tonight',
-                    ),
-                    NavigationDestination(
-                      key: ValueKey('nav-history'),
-                      icon: Icon(Icons.insights_outlined),
-                      selectedIcon: Icon(Icons.insights),
-                      label: 'History',
-                    ),
-                    NavigationDestination(
-                      key: ValueKey('nav-settings'),
-                      icon: Icon(Icons.tune_outlined),
-                      selectedIcon: Icon(Icons.tune),
-                      label: 'Settings',
-                    ),
-                  ],
-                ),
-              ),
+            minimum: const EdgeInsets.fromLTRB(16, 0, 16, 14),
+            child: _SnorvyBottomNav(
+              selectedIndex: _selectedIndex,
+              onSelected: (index) => setState(() => _selectedIndex = index),
             ),
           ),
         );
       },
+    );
+  }
+}
+
+class _SnorvyBottomNav extends StatelessWidget {
+  const _SnorvyBottomNav({
+    required this.selectedIndex,
+    required this.onSelected,
+  });
+
+  final int selectedIndex;
+  final ValueChanged<int> onSelected;
+
+  static const _items = [
+    _SnorvyNavItemData(
+      label: 'Tonight',
+      icon: Icons.bedtime_outlined,
+      selectedIcon: Icons.bedtime,
+    ),
+    _SnorvyNavItemData(
+      label: 'History',
+      icon: Icons.insights_outlined,
+      selectedIcon: Icons.insights,
+    ),
+    _SnorvyNavItemData(
+      label: 'Settings',
+      icon: Icons.tune_outlined,
+      selectedIcon: Icons.tune,
+    ),
+  ];
+
+  @override
+  Widget build(BuildContext context) {
+    return DecoratedBox(
+      decoration: BoxDecoration(
+        color: const Color(0xF211141B),
+        borderRadius: BorderRadius.circular(12),
+        border: Border.all(color: const Color(0x38FFFFFF)),
+        boxShadow: const [
+          BoxShadow(
+            color: Color(0x66000000),
+            blurRadius: 24,
+            offset: Offset(0, 10),
+          ),
+        ],
+      ),
+      child: Padding(
+        padding: const EdgeInsets.all(5),
+        child: Row(
+          children: [
+            for (var index = 0; index < _items.length; index++)
+              Expanded(
+                child: _SnorvyNavItem(
+                  item: _items[index],
+                  selected: selectedIndex == index,
+                  onTap: () => onSelected(index),
+                ),
+              ),
+          ],
+        ),
+      ),
+    );
+  }
+}
+
+class _SnorvyNavItemData {
+  const _SnorvyNavItemData({
+    required this.label,
+    required this.icon,
+    required this.selectedIcon,
+  });
+
+  final String label;
+  final IconData icon;
+  final IconData selectedIcon;
+}
+
+class _SnorvyNavItem extends StatelessWidget {
+  const _SnorvyNavItem({
+    required this.item,
+    required this.selected,
+    required this.onTap,
+  });
+
+  final _SnorvyNavItemData item;
+  final bool selected;
+  final VoidCallback onTap;
+
+  @override
+  Widget build(BuildContext context) {
+    final color = selected
+        ? SnorvyTheme.neuralMint
+        : Theme.of(context).colorScheme.onSurfaceVariant;
+
+    return Semantics(
+      button: true,
+      selected: selected,
+      label: item.label,
+      child: Padding(
+        padding: const EdgeInsets.symmetric(horizontal: 2),
+        child: Material(
+          color: Colors.transparent,
+          child: InkWell(
+            borderRadius: BorderRadius.circular(10),
+            onTap: onTap,
+            child: AnimatedContainer(
+              duration: const Duration(milliseconds: 180),
+              curve: Curves.easeOutCubic,
+              height: 54,
+              decoration: BoxDecoration(
+                color: selected
+                    ? SnorvyTheme.neuralMint.withValues(alpha: 0.13)
+                    : Colors.transparent,
+                borderRadius: BorderRadius.circular(10),
+                border: Border.all(
+                  color: selected
+                      ? SnorvyTheme.neuralMint.withValues(alpha: 0.36)
+                      : Colors.transparent,
+                ),
+              ),
+              child: Column(
+                mainAxisAlignment: MainAxisAlignment.center,
+                children: [
+                  Icon(
+                    selected ? item.selectedIcon : item.icon,
+                    color: color,
+                    size: 21,
+                  ),
+                  const SizedBox(height: 3),
+                  Text(
+                    item.label,
+                    maxLines: 1,
+                    overflow: TextOverflow.ellipsis,
+                    style: TextStyle(
+                      color: color,
+                      fontSize: 11.5,
+                      fontWeight: selected ? FontWeight.w700 : FontWeight.w500,
+                      letterSpacing: 0,
+                    ),
+                  ),
+                ],
+              ),
+            ),
+          ),
+        ),
+      ),
     );
   }
 }

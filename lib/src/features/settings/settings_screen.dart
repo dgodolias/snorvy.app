@@ -27,89 +27,76 @@ class SettingsScreen extends StatelessWidget {
       children: [
         const _SettingsHeader(),
         const SizedBox(height: 18),
-        Card(
-          child: Column(
-            children: [
-              const ListTile(
-                leading: Icon(Icons.phone_android),
-                title: Text('Local-only audio'),
-                subtitle: Text(
+        _SettingsSection(
+          children: [
+            const _SettingsRow(
+              icon: Icons.phone_android,
+              title: 'Local-only audio',
+              subtitle:
                   'Event clips stay on this phone unless you export them.',
-                ),
-              ),
-              const Divider(height: 1),
-              const ListTile(
-                leading: Icon(Icons.no_accounts_outlined),
-                title: Text('No cloud account'),
-                subtitle: Text('Snorvy v1 has no login or sync backend.'),
-              ),
-              const Divider(height: 1),
-              ListTile(
-                leading: const Icon(Icons.privacy_tip_outlined),
-                title: const Text('Privacy policy'),
-                subtitle: const Text('Read how Snorvy handles local audio.'),
-                trailing: const Icon(Icons.chevron_right),
-                onTap: () => _showPrivacyPolicy(context),
-              ),
-              const Divider(height: 1),
-              ListTile(
-                enabled: !isBusy,
-                leading: const Icon(Icons.delete_forever_outlined),
-                title: const Text('Delete local sleep data'),
-                subtitle: const Text(
-                  'Remove history and recordings from this phone.',
-                ),
-                trailing: const Icon(Icons.chevron_right),
-                onTap: isBusy
-                    ? null
-                    : () async {
-                        final confirmed = await _confirmDeleteAllData(context);
-                        if (!confirmed) {
-                          return;
-                        }
+            ),
+            const _SettingsDivider(),
+            const _SettingsRow(
+              icon: Icons.no_accounts_outlined,
+              title: 'No cloud account',
+              subtitle: 'Snorvy v1 has no login or sync backend.',
+            ),
+            const _SettingsDivider(),
+            _SettingsRow(
+              icon: Icons.privacy_tip_outlined,
+              title: 'Privacy policy',
+              subtitle: 'Read how Snorvy handles local audio.',
+              onTap: () => _showPrivacyPolicy(context),
+            ),
+            const _SettingsDivider(),
+            _SettingsRow(
+              icon: Icons.delete_forever_outlined,
+              title: 'Delete local sleep data',
+              subtitle: 'Remove history and recordings from this phone.',
+              enabled: !isBusy,
+              destructive: true,
+              onTap: isBusy
+                  ? null
+                  : () async {
+                      final confirmed = await _confirmDeleteAllData(context);
+                      if (!confirmed) {
+                        return;
+                      }
 
-                        await onDeleteAllSleepData();
-                        if (!context.mounted) {
-                          return;
-                        }
+                      await onDeleteAllSleepData();
+                      if (!context.mounted) {
+                        return;
+                      }
 
-                        ScaffoldMessenger.of(context).showSnackBar(
-                          const SnackBar(
-                            content: Text('Local sleep data deleted.'),
-                          ),
-                        );
-                      },
-              ),
-            ],
-          ),
+                      ScaffoldMessenger.of(context).showSnackBar(
+                        const SnackBar(
+                          content: Text('Local sleep data deleted.'),
+                        ),
+                      );
+                    },
+            ),
+          ],
         ),
         const SizedBox(height: 14),
         DecoratedBox(
           decoration: BoxDecoration(
-            borderRadius: BorderRadius.circular(22),
-            gradient: LinearGradient(
-              begin: Alignment.topLeft,
-              end: Alignment.bottomRight,
-              colors: [
-                SnorvyTheme.neuralMint.withValues(alpha: 0.16),
-                Theme.of(context).colorScheme.surfaceContainerLow,
-              ],
-            ),
+            borderRadius: BorderRadius.circular(8),
+            color: Theme.of(context).colorScheme.surfaceContainerLow,
             border: Border.all(color: SnorvyTheme.midnightBorder),
           ),
           child: Padding(
-            padding: const EdgeInsets.all(20),
+            padding: const EdgeInsets.all(14),
             child: Column(
               crossAxisAlignment: CrossAxisAlignment.start,
               children: [
                 Row(
                   children: [
                     Container(
-                      width: 40,
-                      height: 40,
+                      width: 38,
+                      height: 38,
                       decoration: BoxDecoration(
                         color: SnorvyTheme.neuralMint,
-                        borderRadius: BorderRadius.circular(12),
+                        borderRadius: BorderRadius.circular(8),
                       ),
                       child: const Icon(
                         Icons.workspace_premium,
@@ -147,7 +134,7 @@ class SettingsScreen extends StatelessWidget {
                 const SizedBox(height: 14),
                 FilledButton.icon(
                   style: FilledButton.styleFrom(
-                    minimumSize: const Size.fromHeight(52),
+                    minimumSize: const Size.fromHeight(48),
                     backgroundColor: Theme.of(context).colorScheme.onSurface,
                     foregroundColor: SnorvyTheme.midnight,
                   ),
@@ -267,6 +254,128 @@ class SettingsScreen extends StatelessWidget {
   }
 }
 
+class _SettingsSection extends StatelessWidget {
+  const _SettingsSection({required this.children});
+
+  final List<Widget> children;
+
+  @override
+  Widget build(BuildContext context) {
+    return DecoratedBox(
+      decoration: BoxDecoration(
+        color: Theme.of(context).colorScheme.surfaceContainerLow,
+        borderRadius: BorderRadius.circular(8),
+        border: Border.all(color: SnorvyTheme.midnightBorder),
+      ),
+      child: ClipRRect(
+        borderRadius: BorderRadius.circular(8),
+        child: Column(children: children),
+      ),
+    );
+  }
+}
+
+class _SettingsRow extends StatelessWidget {
+  const _SettingsRow({
+    required this.icon,
+    required this.title,
+    required this.subtitle,
+    this.onTap,
+    this.enabled = true,
+    this.destructive = false,
+  });
+
+  final IconData icon;
+  final String title;
+  final String subtitle;
+  final VoidCallback? onTap;
+  final bool enabled;
+  final bool destructive;
+
+  @override
+  Widget build(BuildContext context) {
+    final colorScheme = Theme.of(context).colorScheme;
+    final accent = destructive ? SnorvyTheme.danger : SnorvyTheme.neuralMint;
+    final contentOpacity = enabled ? 1.0 : 0.46;
+
+    return Material(
+      color: Colors.transparent,
+      child: InkWell(
+        onTap: enabled ? onTap : null,
+        child: Opacity(
+          opacity: contentOpacity,
+          child: Padding(
+            padding: const EdgeInsets.fromLTRB(12, 10, 8, 10),
+            child: Row(
+              children: [
+                Container(
+                  width: 36,
+                  height: 36,
+                  decoration: BoxDecoration(
+                    color: accent.withValues(alpha: destructive ? 0.10 : 0.13),
+                    borderRadius: BorderRadius.circular(8),
+                  ),
+                  child: Icon(icon, color: accent, size: 20),
+                ),
+                const SizedBox(width: 12),
+                Expanded(
+                  child: Column(
+                    crossAxisAlignment: CrossAxisAlignment.start,
+                    children: [
+                      Text(
+                        title,
+                        maxLines: 1,
+                        overflow: TextOverflow.ellipsis,
+                        style: Theme.of(context).textTheme.titleSmall?.copyWith(
+                          color: destructive ? accent : colorScheme.onSurface,
+                          fontWeight: FontWeight.w800,
+                        ),
+                      ),
+                      const SizedBox(height: 2),
+                      Text(
+                        subtitle,
+                        maxLines: 2,
+                        overflow: TextOverflow.ellipsis,
+                        style: Theme.of(context).textTheme.bodySmall?.copyWith(
+                          color: colorScheme.onSurfaceVariant,
+                          height: 1.2,
+                        ),
+                      ),
+                    ],
+                  ),
+                ),
+                if (onTap != null) ...[
+                  const SizedBox(width: 6),
+                  Icon(
+                    Icons.chevron_right,
+                    color: colorScheme.onSurfaceVariant,
+                    size: 20,
+                  ),
+                ],
+              ],
+            ),
+          ),
+        ),
+      ),
+    );
+  }
+}
+
+class _SettingsDivider extends StatelessWidget {
+  const _SettingsDivider();
+
+  @override
+  Widget build(BuildContext context) {
+    return Padding(
+      padding: const EdgeInsets.only(left: 60),
+      child: Divider(
+        height: 1,
+        color: Theme.of(context).colorScheme.outlineVariant,
+      ),
+    );
+  }
+}
+
 class _SettingsHeader extends StatelessWidget {
   const _SettingsHeader();
 
@@ -281,7 +390,7 @@ class _SettingsHeader extends StatelessWidget {
           height: 44,
           decoration: BoxDecoration(
             color: SnorvyTheme.neuralMint.withValues(alpha: 0.14),
-            borderRadius: BorderRadius.circular(14),
+            borderRadius: BorderRadius.circular(10),
             border: Border.all(color: SnorvyTheme.midnightBorder),
           ),
           child: const Icon(
@@ -297,17 +406,7 @@ class _SettingsHeader extends StatelessWidget {
             children: [
               Text('PREFERENCES', style: SnorvyTheme.labelStyle(context)),
               const SizedBox(height: 3),
-              Text(
-                'Settings',
-                style: colorScheme.brightness == Brightness.dark
-                    ? Theme.of(context).textTheme.headlineSmall?.copyWith(
-                        color: colorScheme.onSurface,
-                        fontWeight: FontWeight.w800,
-                      )
-                    : Theme.of(context).textTheme.headlineSmall?.copyWith(
-                        fontWeight: FontWeight.w800,
-                      ),
-              ),
+              Text('Settings', style: SnorvyTheme.screenTitleStyle(context)),
               Text(
                 'Privacy, data, and unlocks.',
                 style: Theme.of(context).textTheme.bodySmall?.copyWith(

@@ -8,13 +8,13 @@ class SnorvyTheme {
   static const coral = Color(0xFFE56A54);
   static const paper = Color(0xFFFAF8F3);
   static const midnight = Color(0xFF0A0D17);
-  static const midnight2 = Color(0xFF0E1220);
-  static const midnightSurface = Color(0xFF151A27);
-  static const midnightSurfaceHi = Color(0xFF1B2130);
-  static const midnightBorder = Color(0xFF262C3A);
-  static const midnightText = Color(0xFFECEDF3);
-  static const midnightTextDim = Color(0xA0ECEDF3);
-  static const midnightTextFaint = Color(0x66ECEDF3);
+  static const midnight2 = Color(0xFF10141D);
+  static const midnightSurface = Color(0xFF171B25);
+  static const midnightSurfaceHi = Color(0xFF202530);
+  static const midnightBorder = Color(0xFF2A303B);
+  static const midnightText = Color(0xFFF2F4F7);
+  static const midnightTextDim = Color(0xB8F2F4F7);
+  static const midnightTextFaint = Color(0x78F2F4F7);
   static const neuralMint = Color(0xFF71E3CF);
   static const talkAmber = Color(0xFFE6C16E);
   static const danger = Color(0xFFFF8A8A);
@@ -78,7 +78,7 @@ class SnorvyTheme {
         color: isDark ? colorScheme.surfaceContainerLow : colorScheme.surface,
         margin: EdgeInsets.zero,
         shape: RoundedRectangleBorder(
-          borderRadius: BorderRadius.circular(22),
+          borderRadius: BorderRadius.circular(8),
           side: BorderSide(
             color: isDark ? midnightBorder : colorScheme.outlineVariant,
           ),
@@ -102,9 +102,13 @@ class SnorvyTheme {
       filledButtonTheme: FilledButtonThemeData(
         style: FilledButton.styleFrom(
           minimumSize: const Size(48, 52),
-          textStyle: const TextStyle(fontWeight: FontWeight.w700),
+          textStyle: const TextStyle(
+            fontSize: 15,
+            fontWeight: FontWeight.w700,
+            letterSpacing: 0,
+          ),
           shape: RoundedRectangleBorder(
-            borderRadius: BorderRadius.circular(18),
+            borderRadius: BorderRadius.circular(12),
           ),
         ),
       ),
@@ -112,12 +116,17 @@ class SnorvyTheme {
         style: OutlinedButton.styleFrom(
           minimumSize: const Size(48, 48),
           shape: RoundedRectangleBorder(
-            borderRadius: BorderRadius.circular(16),
+            borderRadius: BorderRadius.circular(12),
           ),
         ),
       ),
       chipTheme: ChipThemeData(
-        shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(20)),
+        labelStyle: const TextStyle(
+          fontSize: 13,
+          fontWeight: FontWeight.w600,
+          letterSpacing: 0,
+        ),
+        shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(12)),
         selectedColor: colorScheme.primaryContainer,
       ),
       dividerTheme: DividerThemeData(
@@ -133,15 +142,14 @@ class SnorvyTheme {
 
   static TextStyle displayStyle(
     BuildContext context, {
-    double size = 56,
+    double size = 36,
     Color? color,
   }) {
     return TextStyle(
       color: color ?? Theme.of(context).colorScheme.onSurface,
-      fontFamily: 'Georgia',
       fontSize: size,
-      fontWeight: FontWeight.w400,
-      height: 0.95,
+      fontWeight: FontWeight.w700,
+      height: 1.04,
       letterSpacing: 0,
     );
   }
@@ -149,9 +157,21 @@ class SnorvyTheme {
   static TextStyle labelStyle(BuildContext context) {
     return TextStyle(
       color: Theme.of(context).colorScheme.onSurfaceVariant,
-      fontSize: 10.5,
+      fontSize: 11.5,
       fontWeight: FontWeight.w700,
-      letterSpacing: 1.1,
+      letterSpacing: 0,
+    );
+  }
+
+  static TextStyle screenTitleStyle(BuildContext context) {
+    return displayStyle(context, size: 32).copyWith(height: 1.08);
+  }
+
+  static TextStyle sectionTitleStyle(BuildContext context) {
+    return Theme.of(context).textTheme.titleMedium!.copyWith(
+      color: Theme.of(context).colorScheme.onSurface,
+      fontWeight: FontWeight.w800,
+      letterSpacing: 0,
     );
   }
 }

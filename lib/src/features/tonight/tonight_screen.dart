@@ -9,7 +9,7 @@ import 'package:snorvy/src/theme/snorvy_theme.dart';
 
 const _snorvyBannerAsset = 'assets/brand/snorvy_logo_text_trans_background.png';
 const _snorvyBannerAspectRatio = 1967 / 799;
-const _brandHeaderHeight = 86.0;
+const _brandHeaderHeight = 68.0;
 
 typedef AudioPlayCallback =
     Future<void> Function(String filePath, {String? playbackKey});
@@ -91,7 +91,7 @@ class _TonightScreenState extends State<TonightScreen> {
         ListView(
           padding: const EdgeInsets.fromLTRB(
             20,
-            _brandHeaderHeight + 22,
+            _brandHeaderHeight + 14,
             20,
             126,
           ),
@@ -108,21 +108,12 @@ class _TonightScreenState extends State<TonightScreen> {
               const SizedBox(height: 14),
               _TonightStats(night: latestNight),
             ],
-            const SizedBox(height: 26),
-            RichText(
-              text: TextSpan(
-                style: SnorvyTheme.displayStyle(context, size: 30),
-                children: [
-                  const TextSpan(text: 'Last night '),
-                  TextSpan(
-                    text: 'audio',
-                    style: TextStyle(
-                      color: Theme.of(context).colorScheme.onSurfaceVariant,
-                      fontStyle: FontStyle.italic,
-                    ),
-                  ),
-                ],
-              ),
+            const SizedBox(height: 22),
+            _SectionHeader(
+              title: 'Audio clips',
+              actionLabel: latestNight == null
+                  ? null
+                  : '${latestNight.events.length} saved',
             ),
             const SizedBox(height: 12),
             _AudioTabs(
@@ -176,18 +167,18 @@ class _BrandHeader extends StatelessWidget {
         child: DecoratedBox(
           decoration: BoxDecoration(
             color: const Color(0xEEF5FAFF),
-            borderRadius: BorderRadius.circular(24),
+            borderRadius: BorderRadius.circular(12),
             border: Border.all(color: const Color(0x66FFFFFF)),
             boxShadow: const [
               BoxShadow(
-                color: Color(0x33000000),
-                blurRadius: 28,
-                offset: Offset(0, 14),
+                color: Color(0x1F000000),
+                blurRadius: 16,
+                offset: Offset(0, 8),
               ),
             ],
           ),
           child: Padding(
-            padding: const EdgeInsets.fromLTRB(16, 8, 10, 8),
+            padding: const EdgeInsets.fromLTRB(14, 7, 8, 7),
             child: Row(
               children: [
                 Expanded(
@@ -204,7 +195,7 @@ class _BrandHeader extends StatelessWidget {
                     ),
                   ),
                 ),
-                const SizedBox(width: 10),
+                const SizedBox(width: 8),
                 _UnlockPill(onUnlockTap: onUnlockTap),
               ],
             ),
@@ -234,7 +225,7 @@ class _UnlockPill extends StatelessWidget {
         borderRadius: BorderRadius.circular(999),
         onTap: onUnlockTap,
         child: const Padding(
-          padding: EdgeInsets.symmetric(horizontal: 12, vertical: 9),
+          padding: EdgeInsets.symmetric(horizontal: 10, vertical: 8),
           child: Row(
             mainAxisSize: MainAxisSize.min,
             children: [
@@ -328,15 +319,10 @@ class _RecordingPanelState extends State<_RecordingPanel> {
 
     return DecoratedBox(
       decoration: BoxDecoration(
-        borderRadius: BorderRadius.circular(28),
-        gradient: isRecording
-            ? const LinearGradient(
-                begin: Alignment.topLeft,
-                end: Alignment.bottomRight,
-                colors: [Color(0x3321D8C0), SnorvyTheme.midnightSurface],
-              )
-            : null,
-        color: isRecording ? null : colorScheme.surfaceContainerLow,
+        borderRadius: BorderRadius.circular(12),
+        color: isRecording
+            ? const Color(0xFF15252A)
+            : colorScheme.surfaceContainerLow,
         border: Border.all(
           color: isRecording
               ? const Color(0x4471E3CF)
@@ -345,16 +331,16 @@ class _RecordingPanelState extends State<_RecordingPanel> {
         boxShadow: [
           if (isRecording)
             const BoxShadow(
-              color: Color(0x2221D8C0),
-              blurRadius: 44,
-              offset: Offset(0, 18),
+              color: Color(0x1F21D8C0),
+              blurRadius: 18,
+              offset: Offset(0, 8),
             ),
         ],
       ),
       child: ClipRRect(
-        borderRadius: BorderRadius.circular(28),
+        borderRadius: BorderRadius.circular(12),
         child: Padding(
-          padding: const EdgeInsets.all(22),
+          padding: const EdgeInsets.all(16),
           child: Column(
             crossAxisAlignment: CrossAxisAlignment.start,
             children: [
@@ -403,16 +389,16 @@ class _RecordingPanelState extends State<_RecordingPanel> {
                   ),
                 ],
               ),
-              const SizedBox(height: 18),
+              const SizedBox(height: 14),
               _Waveform(
                 active: isRecording,
                 color: SnorvyTheme.neuralMint,
                 frames: widget.livePowerFrames,
               ),
-              const SizedBox(height: 16),
+              const SizedBox(height: 14),
               FilledButton.icon(
                 style: FilledButton.styleFrom(
-                  minimumSize: const Size.fromHeight(56),
+                  minimumSize: const Size.fromHeight(52),
                   backgroundColor: isRecording
                       ? colorScheme.onSurface
                       : SnorvyTheme.neuralMint,
@@ -481,7 +467,7 @@ class _Waveform extends StatelessWidget {
     final dim = Theme.of(context).colorScheme.outlineVariant;
 
     return SizedBox(
-      height: 66,
+      height: 48,
       width: double.infinity,
       child: CustomPaint(
         painter: _WaveformPainter(
@@ -655,9 +641,9 @@ class _TonightStats extends StatelessWidget {
       children: [
         Expanded(
           child: _MetricTile(
-            label: 'Snore',
+            label: 'Snore count',
             value: '${night.snoreCount}',
-            sub: 'count',
+            sub: 'events',
             accent: SnorvyTheme.neuralMint,
           ),
         ),
@@ -702,11 +688,17 @@ class _MetricTile extends StatelessWidget {
   Widget build(BuildContext context) {
     return Card(
       child: Padding(
-        padding: const EdgeInsets.fromLTRB(12, 12, 12, 10),
+        padding: const EdgeInsets.fromLTRB(10, 10, 10, 9),
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.start,
+          mainAxisSize: MainAxisSize.min,
           children: [
-            Text(label.toUpperCase(), style: SnorvyTheme.labelStyle(context)),
+            Text(
+              label.toUpperCase(),
+              maxLines: 1,
+              overflow: TextOverflow.ellipsis,
+              style: SnorvyTheme.labelStyle(context),
+            ),
             const SizedBox(height: 4),
             FittedBox(
               fit: BoxFit.scaleDown,
@@ -716,7 +708,7 @@ class _MetricTile extends StatelessWidget {
                 maxLines: 1,
                 style: SnorvyTheme.displayStyle(
                   context,
-                  size: 26,
+                  size: 24,
                   color: accent,
                 ),
               ),
@@ -776,6 +768,33 @@ class _AudioTabs extends StatelessWidget {
   }
 }
 
+class _SectionHeader extends StatelessWidget {
+  const _SectionHeader({required this.title, this.actionLabel});
+
+  final String title;
+  final String? actionLabel;
+
+  @override
+  Widget build(BuildContext context) {
+    final actionLabel = this.actionLabel;
+
+    return Row(
+      children: [
+        Expanded(
+          child: Text(title, style: SnorvyTheme.sectionTitleStyle(context)),
+        ),
+        if (actionLabel != null)
+          Text(
+            actionLabel,
+            style: SnorvyTheme.labelStyle(
+              context,
+            ).copyWith(color: Theme.of(context).colorScheme.onSurfaceVariant),
+          ),
+      ],
+    );
+  }
+}
+
 class _LoadingPanel extends StatelessWidget {
   const _LoadingPanel();
 
@@ -800,19 +819,19 @@ class _EmptyTimelinePanel extends StatelessWidget {
     return DecoratedBox(
       decoration: BoxDecoration(
         color: colorScheme.surfaceContainerLow,
-        borderRadius: BorderRadius.circular(18),
+        borderRadius: BorderRadius.circular(8),
         border: Border.all(color: colorScheme.outlineVariant),
       ),
       child: Padding(
-        padding: const EdgeInsets.all(18),
+        padding: const EdgeInsets.all(14),
         child: Row(
           children: [
             Container(
-              width: 38,
-              height: 38,
+              width: 36,
+              height: 36,
               decoration: BoxDecoration(
                 color: colorScheme.primaryContainer,
-                borderRadius: BorderRadius.circular(12),
+                borderRadius: BorderRadius.circular(8),
               ),
               child: const Icon(
                 Icons.timeline,
@@ -857,11 +876,11 @@ class _TimelineEventTile extends StatelessWidget {
       child: DecoratedBox(
         decoration: BoxDecoration(
           color: colorScheme.surfaceContainerLow,
-          borderRadius: BorderRadius.circular(16),
+          borderRadius: BorderRadius.circular(8),
           border: Border.all(color: SnorvyTheme.midnightBorder),
         ),
         child: Padding(
-          padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 12),
+          padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 10),
           child: Row(
             children: [
               IconButton.filledTonal(
@@ -885,7 +904,7 @@ class _TimelineEventTile extends StatelessWidget {
                 style: IconButton.styleFrom(
                   backgroundColor: color.withValues(alpha: 0.14),
                   shape: RoundedRectangleBorder(
-                    borderRadius: BorderRadius.circular(12),
+                    borderRadius: BorderRadius.circular(10),
                   ),
                 ),
               ),

@@ -202,7 +202,7 @@ void main() {
     await tester.pumpAndSettle();
     await _pumpControllerIdle(tester, controller);
     await _tapDestination(tester, Icons.insights_outlined);
-    expect(find.text('History.'), findsOneWidget);
+    expect(find.text('Recent nights'), findsOneWidget);
 
     await controller.deleteNight(controller.nights.single);
     await tester.pumpAndSettle();

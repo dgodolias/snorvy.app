@@ -6,7 +6,7 @@ import 'package:path/path.dart' as p;
 import 'package:snorvy/src/services/snorvy_audio_session.dart';
 
 abstract interface class AudioPlayback {
-  Future<void> playFile(String filePath);
+  Future<void> playFile(String filePath, {void Function()? onFinished});
   Future<void> stop();
   Future<void> dispose();
 }
@@ -19,7 +19,7 @@ class FlutterSoundAudioPlayback implements AudioPlayback {
   bool _isOpen = false;
 
   @override
-  Future<void> playFile(String filePath) async {
+  Future<void> playFile(String filePath, {void Function()? onFinished}) async {
     if (!await File(filePath).exists()) {
       throw const FileSystemException('Recording file not found');
     }
@@ -34,7 +34,7 @@ class FlutterSoundAudioPlayback implements AudioPlayback {
     await _player.startPlayer(
       fromURI: filePath,
       codec: _codecFor(filePath),
-      whenFinished: () {},
+      whenFinished: onFinished,
     );
   }
 

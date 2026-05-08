@@ -166,7 +166,7 @@ class _SnorvySmokeShellState extends State<_SnorvySmokeShell> {
         filePath: 'browser://night_$_nextNightId.ogg',
         startedAt: DateTime(2026, 5, 7, 23, 30),
       );
-      _statusMessage = 'Recording started. Audio stays on device.';
+      _statusMessage = 'Recording started. Raw audio is processed in chunks.';
     });
   }
 
@@ -175,7 +175,6 @@ class _SnorvySmokeShellState extends State<_SnorvySmokeShell> {
     return {
       for (final night in _nights)
         if (!night.isManual &&
-            night.recordingPath != null &&
             night.duration >= const Duration(minutes: 20) &&
             night.date.year == now.year &&
             night.date.month == now.month)
@@ -290,7 +289,6 @@ class _SnorvySmokeShellState extends State<_SnorvySmokeShell> {
       startedAt: startedAt,
       endedAt: endedAt,
       snoreScore: 1,
-      recordingPath: session.filePath ?? 'browser://night_$id.ogg',
       events: [
         SleepEvent(
           id: id * 10,
@@ -298,7 +296,7 @@ class _SnorvySmokeShellState extends State<_SnorvySmokeShell> {
           startsAt: startedAt.add(const Duration(minutes: 42)),
           duration: const Duration(seconds: 12),
           intensity: 72,
-          filePath: session.filePath ?? 'browser://night_$id.ogg',
+          filePath: 'browser://snore_clip_$id.ogg',
         ),
         SleepEvent(
           id: id * 10 + 1,
@@ -306,7 +304,7 @@ class _SnorvySmokeShellState extends State<_SnorvySmokeShell> {
           startsAt: startedAt.add(const Duration(hours: 2, minutes: 8)),
           duration: const Duration(seconds: 4),
           intensity: 81,
-          filePath: session.filePath ?? 'browser://night_$id.ogg',
+          filePath: 'browser://talk_clip_$id.ogg',
         ),
       ],
     );

@@ -7,6 +7,7 @@ import 'package:snorvy/src/app/snorvy_app.dart';
 import 'package:snorvy/src/app/snorvy_controller.dart';
 import 'package:snorvy/src/data/app_database.dart';
 import 'package:snorvy/src/domain/sleep_models.dart';
+import 'package:snorvy/src/services/audio_event_clip_store.dart';
 import 'package:snorvy/src/services/audio_playback.dart';
 import 'package:snorvy/src/services/recording_foreground_service.dart';
 import 'package:snorvy/src/services/recording_exporter.dart';
@@ -37,13 +38,12 @@ void main() {
     expect(find.text('No subscription. No trial.'), findsNothing);
   });
 
-  testWidgets('keeps full recording inside the Full audio tab', (tester) async {
+  testWidgets('keeps only event audio on the tonight surface', (tester) async {
     final database = AppDatabase(NativeDatabase.memory());
     final startedAt = DateTime(2026, 5, 8, 0, 12);
     final nightId = await database.createRecordedNight(
       startedAt: startedAt,
       endedAt: startedAt.add(const Duration(seconds: 60)),
-      recordingPath: 'memory://night.m4a',
     );
     await database.addDetectedEvent(
       nightId: nightId,
@@ -51,7 +51,7 @@ void main() {
       startsAt: startedAt.add(const Duration(seconds: 10)),
       duration: const Duration(seconds: 8),
       intensity: 70,
-      filePath: 'memory://night.m4a',
+      filePath: 'memory://snore_clip.wav',
     );
     final controller = _buildController(database: database);
     addTearDown(controller.dispose);
@@ -60,15 +60,8 @@ void main() {
     await tester.pumpAndSettle();
 
     expect(find.text('Full-night recording'), findsNothing);
+    expect(find.widgetWithText(FilterChip, 'Full audio'), findsNothing);
     expect(find.text('Snore (1)'), findsOneWidget);
-
-    final fullAudioChip = tester.widget<FilterChip>(
-      find.widgetWithText(FilterChip, 'Full audio'),
-    );
-    fullAudioChip.onSelected?.call(true);
-    await tester.pumpAndSettle();
-
-    expect(find.text('Full-night recording'), findsOneWidget);
   });
 
   testWidgets('marks only the tapped event as playing', (tester) async {
@@ -77,7 +70,6 @@ void main() {
     final nightId = await database.createRecordedNight(
       startedAt: startedAt,
       endedAt: startedAt.add(const Duration(seconds: 60)),
-      recordingPath: 'memory://night.m4a',
     );
     final firstTalkId = await database.addDetectedEvent(
       nightId: nightId,
@@ -85,7 +77,7 @@ void main() {
       startsAt: startedAt.add(const Duration(seconds: 10)),
       duration: const Duration(seconds: 4),
       intensity: 80,
-      filePath: 'memory://night.m4a',
+      filePath: 'memory://talk_1.wav',
     );
     await database.addDetectedEvent(
       nightId: nightId,
@@ -93,7 +85,7 @@ void main() {
       startsAt: startedAt.add(const Duration(seconds: 30)),
       duration: const Duration(seconds: 4),
       intensity: 80,
-      filePath: 'memory://night.m4a',
+      filePath: 'memory://talk_2.wav',
     );
     final controller = _buildController(database: database);
     addTearDown(controller.dispose);
@@ -108,8 +100,8 @@ void main() {
     await tester.pumpAndSettle();
 
     await controller.playAudio(
-      'memory://night.m4a',
-      playbackKey: 'event:$firstTalkId:memory://night.m4a',
+      'memory://talk_1.wav',
+      playbackKey: 'event:$firstTalkId:memory://talk_1.wav',
     );
     await tester.pumpAndSettle();
 
@@ -289,11 +281,13 @@ SnorvyController _buildController({
   return SnorvyController(
     database: database ?? AppDatabase(NativeDatabase.memory()),
     recorder: recorder ?? _FakeSleepRecorder(),
+    audioEventClipStore: const _FakeAudioEventClipStore(),
     audioPlayback: _FakeAudioPlayback(),
     recordingExporter: _FakeRecordingExporter(),
     recordingForegroundService: const NoopRecordingForegroundService(),
     sleepEventAnalyzer: const _EmptySleepEventAnalyzer(),
     unlockRepository: _FakeUnlockRepository(),
+    recordingChunkDuration: Duration.zero,
   );
 }
 
@@ -354,9 +348,28 @@ class _EmptySleepEventAnalyzer implements SleepEventAnalyzer {
   }
 }
 
+class _FakeAudioEventClipStore implements AudioEventClipStore {
+  const _FakeAudioEventClipStore();
+
+  @override
+  Future<void> deleteStaleSourceChunks() async {}
+
+  @override
+  Future<List<AnalyzedSleepEvent>> saveEventClips({
+    required String sourcePath,
+    required DateTime chunkStartedAt,
+    required DateTime chunkEndedAt,
+    required List<AnalyzedSleepEvent> events,
+    required Duration preRoll,
+    required Duration postRoll,
+  }) async {
+    return events;
+  }
+}
+
 class _FakeAudioPlayback implements AudioPlayback {
   @override
-  Future<void> playFile(String filePath) async {}
+  Future<void> playFile(String filePath, {void Function()? onFinished}) async {}
 
   @override
   Future<void> stop() async {}

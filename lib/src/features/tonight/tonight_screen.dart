@@ -14,12 +14,11 @@ const _brandHeaderHeight = 86.0;
 typedef AudioPlayCallback =
     Future<void> Function(String filePath, {String? playbackKey});
 
-enum _AudioTab { fullAudio, snore, talk }
+enum _AudioTab { snore, talk }
 
 extension _AudioTabPresentation on _AudioTab {
   String get label {
     return switch (this) {
-      _AudioTab.fullAudio => 'Full audio',
       _AudioTab.snore => 'Snore',
       _AudioTab.talk => 'Talk',
     };
@@ -27,7 +26,6 @@ extension _AudioTabPresentation on _AudioTab {
 
   IconData get icon {
     return switch (this) {
-      _AudioTab.fullAudio => Icons.library_music,
       _AudioTab.snore => SleepEventKind.snore.icon,
       _AudioTab.talk => SleepEventKind.talk.icon,
     };
@@ -35,7 +33,6 @@ extension _AudioTabPresentation on _AudioTab {
 
   SleepEventKind? get eventKind {
     return switch (this) {
-      _AudioTab.fullAudio => null,
       _AudioTab.snore => SleepEventKind.snore,
       _AudioTab.talk => SleepEventKind.talk,
     };
@@ -134,24 +131,7 @@ class _TonightScreenState extends State<TonightScreen> {
               onSelected: (tab) => setState(() => _selectedTab = tab),
             ),
             const SizedBox(height: 10),
-            if (_selectedTab == _AudioTab.fullAudio)
-              if (latestNight?.recordingPath case final recordingPath?)
-                _FullNightRecordingPanel(
-                  recordingPath: recordingPath,
-                  isBusy: widget.isBusy,
-                  isPlaying:
-                      widget.playingAudioKey ==
-                      _fullAudioPlaybackKey(recordingPath),
-                  onPlayAudio: widget.onPlayAudio,
-                  onStopAudio: widget.onStopAudio,
-                  onExportAudio: widget.onExportAudio,
-                )
-              else
-                const _EmptyTimelinePanel(
-                  message:
-                      'No full recording saved yet. Start recording tonight.',
-                )
-            else if (widget.isLoading)
+            if (widget.isLoading)
               const _LoadingPanel()
             else if (events.isEmpty)
               _EmptyTimelinePanel(
@@ -176,102 +156,8 @@ class _TonightScreenState extends State<TonightScreen> {
   }
 }
 
-String _fullAudioPlaybackKey(String recordingPath) {
-  return 'full:$recordingPath';
-}
-
 String _eventPlaybackKey(SleepEvent event) {
   return 'event:${event.id}:${event.filePath ?? ''}';
-}
-
-class _FullNightRecordingPanel extends StatelessWidget {
-  const _FullNightRecordingPanel({
-    required this.recordingPath,
-    required this.isBusy,
-    required this.isPlaying,
-    required this.onPlayAudio,
-    required this.onStopAudio,
-    required this.onExportAudio,
-  });
-
-  final String recordingPath;
-  final bool isBusy;
-  final bool isPlaying;
-  final AudioPlayCallback onPlayAudio;
-  final Future<void> Function() onStopAudio;
-  final Future<void> Function(String filePath) onExportAudio;
-
-  @override
-  Widget build(BuildContext context) {
-    final colorScheme = Theme.of(context).colorScheme;
-
-    return Card(
-      child: Padding(
-        padding: const EdgeInsets.all(18),
-        child: Column(
-          crossAxisAlignment: CrossAxisAlignment.start,
-          children: [
-            Row(
-              children: [
-                Container(
-                  width: 38,
-                  height: 38,
-                  decoration: BoxDecoration(
-                    color: colorScheme.primaryContainer,
-                    borderRadius: BorderRadius.circular(12),
-                  ),
-                  child: const Icon(
-                    Icons.library_music,
-                    color: SnorvyTheme.neuralMint,
-                    size: 20,
-                  ),
-                ),
-                const SizedBox(width: 12),
-                Expanded(
-                  child: Text(
-                    'Full-night recording',
-                    style: Theme.of(context).textTheme.titleMedium?.copyWith(
-                      fontWeight: FontWeight.w700,
-                    ),
-                  ),
-                ),
-              ],
-            ),
-            const SizedBox(height: 12),
-            Wrap(
-              spacing: 8,
-              runSpacing: 8,
-              children: [
-                FilledButton.icon(
-                  onPressed: isBusy
-                      ? null
-                      : () async {
-                          if (isPlaying) {
-                            await onStopAudio();
-                          } else {
-                            await onPlayAudio(
-                              recordingPath,
-                              playbackKey: _fullAudioPlaybackKey(recordingPath),
-                            );
-                          }
-                        },
-                  icon: Icon(isPlaying ? Icons.stop : Icons.play_arrow),
-                  label: Text(isPlaying ? 'Stop' : 'Play'),
-                ),
-                OutlinedButton.icon(
-                  onPressed: isBusy
-                      ? null
-                      : () async => onExportAudio(recordingPath),
-                  icon: const Icon(Icons.ios_share),
-                  label: const Text('Export'),
-                ),
-              ],
-            ),
-          ],
-        ),
-      ),
-    );
-  }
 }
 
 class _BrandHeader extends StatelessWidget {
@@ -879,7 +765,7 @@ class _AudioTabs extends StatelessWidget {
 
   String _labelFor(_AudioTab tab) {
     final night = this.night;
-    if (night == null || tab == _AudioTab.fullAudio) {
+    if (night == null) {
       return tab.label;
     }
 

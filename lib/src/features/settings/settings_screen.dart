@@ -34,7 +34,7 @@ class SettingsScreen extends StatelessWidget {
                 leading: Icon(Icons.phone_android),
                 title: Text('Local-only audio'),
                 subtitle: Text(
-                  'Recordings stay on this phone unless you export them.',
+                  'Event clips stay on this phone unless you export them.',
                 ),
               ),
               const Divider(height: 1),
@@ -324,19 +324,19 @@ class _SettingsHeader extends StatelessWidget {
 }
 
 const _privacyPolicyText = '''
-Effective date: 2026-05-07
+Effective date: 2026-05-08
 
 Snorvy is a local-only sleep recorder. It is designed to record audio on your phone and keep that audio on your phone.
 
 What Snorvy records
 
-Snorvy uses your microphone only when you start a sleep recording. Recordings may include snoring, speech, room noise, or other sounds near your phone.
+Snorvy uses your microphone only when you start a sleep recording. Raw audio is processed in short chunks, then only detected snore or talk clips are kept.
 
 Where your audio goes
 
-Snorvy does not upload your audio to Snorvy servers. The MVP has no backend account system and no cloud sync. Recordings and sleep history are stored locally on your device.
+Snorvy does not upload your audio to Snorvy servers. The MVP has no backend account system and no cloud sync. Event clips and sleep history are stored locally on your device.
 
-If you choose to export or share a recording, your device's sharing tools or the app you choose may process that file outside Snorvy.
+If you choose to export or share a clip, your device's sharing tools or the app you choose may process that file outside Snorvy.
 
 Purchases
 

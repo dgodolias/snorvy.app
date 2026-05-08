@@ -6,6 +6,7 @@ import 'package:flutter_test/flutter_test.dart';
 import 'package:snorvy/src/app/snorvy_controller.dart';
 import 'package:snorvy/src/data/app_database.dart';
 import 'package:snorvy/src/domain/sleep_models.dart';
+import 'package:snorvy/src/services/audio_event_clip_store.dart';
 import 'package:snorvy/src/services/audio_playback.dart';
 import 'package:snorvy/src/services/recording_foreground_service.dart';
 import 'package:snorvy/src/services/recording_exporter.dart';
@@ -90,6 +91,23 @@ void main() {
     expect(controller.nights.first.recordingPath, 'memory://newer.m4a');
   });
 
+  test('cleans incomplete zero-duration recorded nights on startup', () async {
+    final database = AppDatabase(NativeDatabase.memory());
+    final recorder = _CountingSleepRecorder();
+    final controller = _buildController(database: database, recorder: recorder);
+    addTearDown(controller.dispose);
+
+    final startedAt = DateTime(2026, 5, 8, 23);
+    await database.createRecordedNight(
+      startedAt: startedAt,
+      endedAt: startedAt,
+    );
+
+    await controller.initialize();
+
+    expect(controller.nights, isEmpty);
+  });
+
   test('allows unlocked users past the free monthly limit', () async {
     final database = AppDatabase(NativeDatabase.memory());
     final recorder = _CountingSleepRecorder();
@@ -152,7 +170,7 @@ void main() {
             startsAt: DateTime(2026, 5, 7, 23, 42),
             duration: const Duration(seconds: 8),
             intensity: 72,
-            filePath: 'memory://recording.ogg',
+            filePath: 'memory://recording.wav',
           ),
         ],
       ),
@@ -174,7 +192,84 @@ void main() {
     expect(analyzer.framesSeen, hasLength(1));
     expect(controller.nights.single.snoreCount, 1);
     expect(controller.nights.single.events.single.kind, SleepEventKind.snore);
-    expect(controller.statusMessage, contains('1 local audio events'));
+    expect(controller.nights.single.recordingPath, isNull);
+    expect(controller.nights.single.events.single.filePath, contains('clip'));
+    expect(controller.statusMessage, contains('1 local audio clips'));
+  });
+
+  test('rotates chunks and keeps only event clips', () async {
+    final database = AppDatabase(NativeDatabase.memory());
+    final recorder = _CountingSleepRecorder();
+    final analyzer = _FakeSleepEventAnalyzer(
+      result: SleepAnalysisResult(
+        snoreScore: 1,
+        events: [
+          AnalyzedSleepEvent(
+            kind: SleepEventKind.snore,
+            startsAt: DateTime(2026, 5, 7, 23, 30, 2),
+            duration: const Duration(seconds: 4),
+            intensity: 74,
+            filePath: 'memory://source.wav',
+          ),
+        ],
+      ),
+    );
+    final clipStore = _FakeAudioEventClipStore();
+    final controller = _buildController(
+      database: database,
+      recorder: recorder,
+      sleepEventAnalyzer: analyzer,
+      audioEventClipStore: clipStore,
+      recordingChunkDuration: const Duration(milliseconds: 20),
+    );
+    addTearDown(controller.dispose);
+
+    await controller.initialize();
+    await controller.startRecording();
+    recorder.emitPowerFrame(
+      const RecordingPowerFrame(elapsed: Duration(seconds: 1), decibels: 72),
+    );
+    await Future<void>.delayed(const Duration(milliseconds: 80));
+    recorder.emitPowerFrame(
+      const RecordingPowerFrame(elapsed: Duration(seconds: 1), decibels: 76),
+    );
+    await controller.stopRecording();
+
+    expect(recorder.startCalls, greaterThanOrEqualTo(2));
+    expect(recorder.stopCalls, greaterThanOrEqualTo(2));
+    expect(controller.nights.single.recordingPath, isNull);
+    expect(controller.nights.single.events, isNotEmpty);
+    expect(
+      controller.nights.single.events.map((event) => event.filePath),
+      everyElement(startsWith('memory://clip_')),
+    );
+    expect(clipStore.sourcePaths.length, greaterThanOrEqualTo(2));
+  });
+
+  test('clears playback state when an event clip finishes', () async {
+    final database = AppDatabase(NativeDatabase.memory());
+    final recorder = _CountingSleepRecorder();
+    final audioPlayback = _FakeAudioPlayback();
+    final controller = _buildController(
+      database: database,
+      recorder: recorder,
+      audioPlayback: audioPlayback,
+    );
+    addTearDown(controller.dispose);
+
+    await controller.initialize();
+    await controller.playAudio(
+      'memory://clip.wav',
+      playbackKey: 'event:1:memory://clip.wav',
+    );
+
+    expect(controller.playingAudioKey, 'event:1:memory://clip.wav');
+
+    audioPlayback.onFinished?.call();
+
+    expect(controller.playingPath, isNull);
+    expect(controller.playingAudioKey, isNull);
+    expect(controller.statusMessage, 'Playback finished.');
   });
 
   test('streams live power frames while recording', () async {
@@ -265,17 +360,22 @@ SnorvyController _buildController({
   required _CountingSleepRecorder recorder,
   RecordingForegroundService? foregroundService,
   SleepEventAnalyzer? sleepEventAnalyzer,
+  AudioEventClipStore? audioEventClipStore,
+  AudioPlayback? audioPlayback,
   UnlockRepository? unlockRepository,
+  Duration recordingChunkDuration = const Duration(minutes: 15),
 }) {
   return SnorvyController(
     database: database,
     recorder: recorder,
-    audioPlayback: _FakeAudioPlayback(),
+    audioEventClipStore: audioEventClipStore ?? _FakeAudioEventClipStore(),
+    audioPlayback: audioPlayback ?? _FakeAudioPlayback(),
     recordingExporter: _FakeRecordingExporter(),
     recordingForegroundService:
         foregroundService ?? _FakeRecordingForegroundService(),
     sleepEventAnalyzer: sleepEventAnalyzer ?? const _EmptySleepEventAnalyzer(),
     unlockRepository: unlockRepository ?? _FakeUnlockRepository(),
+    recordingChunkDuration: recordingChunkDuration,
   );
 }
 
@@ -300,8 +400,14 @@ class _CountingSleepRecorder implements SleepRecorder {
     startCalls += 1;
     _session = RecordingSession(
       status: RecordingStatus.recording,
-      filePath: 'memory://recording.ogg',
-      startedAt: DateTime(2026, 5, 7, 23, 30),
+      filePath: 'memory://recording_$startCalls.wav',
+      startedAt: DateTime(
+        2026,
+        5,
+        7,
+        23,
+        30,
+      ).add(Duration(minutes: 15 * (startCalls - 1))),
     );
     return _session;
   }
@@ -355,6 +461,36 @@ class _FakeSleepEventAnalyzer implements SleepEventAnalyzer {
   }
 }
 
+class _FakeAudioEventClipStore implements AudioEventClipStore {
+  final List<String> sourcePaths = [];
+  var _nextClipId = 0;
+
+  @override
+  Future<void> deleteStaleSourceChunks() async {}
+
+  @override
+  Future<List<AnalyzedSleepEvent>> saveEventClips({
+    required String sourcePath,
+    required DateTime chunkStartedAt,
+    required DateTime chunkEndedAt,
+    required List<AnalyzedSleepEvent> events,
+    required Duration preRoll,
+    required Duration postRoll,
+  }) async {
+    sourcePaths.add(sourcePath);
+    return [
+      for (final event in events)
+        AnalyzedSleepEvent(
+          kind: event.kind,
+          startsAt: event.startsAt,
+          duration: event.duration,
+          intensity: event.intensity,
+          filePath: 'memory://clip_${_nextClipId++}.wav',
+        ),
+    ];
+  }
+}
+
 class _FakeRecordingForegroundService implements RecordingForegroundService {
   _FakeRecordingForegroundService({this.startResult = true});
 
@@ -381,8 +517,12 @@ class _FakeRecordingForegroundService implements RecordingForegroundService {
 }
 
 class _FakeAudioPlayback implements AudioPlayback {
+  void Function()? onFinished;
+
   @override
-  Future<void> playFile(String filePath) async {}
+  Future<void> playFile(String filePath, {void Function()? onFinished}) async {
+    this.onFinished = onFinished;
+  }
 
   @override
   Future<void> stop() async {}

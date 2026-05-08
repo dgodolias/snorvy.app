@@ -5,6 +5,7 @@ import 'dart:math' as math;
 import 'package:flutter/foundation.dart';
 import 'package:snorvy/src/data/app_database.dart';
 import 'package:snorvy/src/domain/sleep_models.dart';
+import 'package:snorvy/src/services/audio_event_clip_store.dart';
 import 'package:snorvy/src/services/audio_playback.dart';
 import 'package:snorvy/src/services/recording_foreground_service.dart';
 import 'package:snorvy/src/services/recording_exporter.dart';
@@ -14,28 +15,36 @@ import 'package:snorvy/src/services/unlock_repository.dart';
 
 const _minimumQuotaRecordingDuration = Duration(minutes: 20);
 const _maxLivePowerFrames = 48;
+const _defaultRecordingChunkDuration = Duration(minutes: 15);
+const _eventClipPreRoll = Duration(seconds: 2);
+const _eventClipPostRoll = Duration(seconds: 2);
 
 class SnorvyController extends ChangeNotifier {
   SnorvyController({
     required AppDatabase database,
     required SleepRecorder recorder,
+    required AudioEventClipStore audioEventClipStore,
     required AudioPlayback audioPlayback,
     required RecordingExporter recordingExporter,
     required RecordingForegroundService recordingForegroundService,
     required SleepEventAnalyzer sleepEventAnalyzer,
     required UnlockRepository unlockRepository,
+    Duration recordingChunkDuration = _defaultRecordingChunkDuration,
   }) : _database = database,
        _recorder = recorder,
+       _audioEventClipStore = audioEventClipStore,
        _audioPlayback = audioPlayback,
        _recordingExporter = recordingExporter,
        _recordingForegroundService = recordingForegroundService,
        _sleepEventAnalyzer = sleepEventAnalyzer,
-       _unlockRepository = unlockRepository;
+       _unlockRepository = unlockRepository,
+       _recordingChunkDuration = recordingChunkDuration;
 
   factory SnorvyController.production() {
     return SnorvyController(
       database: AppDatabase.defaults(),
       recorder: FlutterSoundSleepRecorder(),
+      audioEventClipStore: const WavAudioEventClipStore(),
       audioPlayback: FlutterSoundAudioPlayback(),
       recordingExporter: LocalRecordingExporter(),
       recordingForegroundService: createRecordingForegroundService(),
@@ -46,13 +55,17 @@ class SnorvyController extends ChangeNotifier {
 
   final AppDatabase _database;
   final SleepRecorder _recorder;
+  final AudioEventClipStore _audioEventClipStore;
   final AudioPlayback _audioPlayback;
   final RecordingExporter _recordingExporter;
   final RecordingForegroundService _recordingForegroundService;
   final SleepEventAnalyzer _sleepEventAnalyzer;
   final UnlockRepository _unlockRepository;
+  final Duration _recordingChunkDuration;
   StreamSubscription<UnlockState>? _unlockSubscription;
   StreamSubscription<RecordingPowerFrame>? _powerFrameSubscription;
+  Timer? _chunkRotationTimer;
+  Future<void> _chunkProcessing = Future<void>.value();
   final List<RecordingPowerFrame> _recordingPowerFrames = [];
   List<RecordingPowerFrame> _livePowerFrames = const [];
 
@@ -62,6 +75,13 @@ class SnorvyController extends ChangeNotifier {
   );
   bool _isBusy = false;
   bool _isLoading = true;
+  bool _isRotatingChunk = false;
+  int? _activeNightId;
+  DateTime? _activeNightStartedAt;
+  DateTime? _currentChunkStartedAt;
+  String? _currentChunkPath;
+  int _activeSavedEventCount = 0;
+  int _activeSnoreCount = 0;
   String? _playingPath;
   String? _playingAudioKey;
   UnlockState _unlockState = const UnlockState.initial();
@@ -94,6 +114,12 @@ class SnorvyController extends ChangeNotifier {
       await _recordingForegroundService.configure();
     } on Exception {
       _statusMessage = 'Overnight recording notification setup failed.';
+    }
+    try {
+      await _audioEventClipStore.deleteStaleSourceChunks();
+      await _database.deleteIncompleteRecordedNights();
+    } on Exception {
+      _statusMessage = 'Could not clean old temporary audio chunks.';
     }
     await _loadNights();
   }
@@ -131,16 +157,53 @@ class SnorvyController extends ChangeNotifier {
         }
       }
 
-      _recordingSession = session;
+      if (session.status == RecordingStatus.recording &&
+          session.startedAt != null &&
+          session.filePath != null) {
+        final nightId = await _database.createRecordedNight(
+          startedAt: session.startedAt!,
+          endedAt: session.startedAt!,
+        );
+        _activeNightId = nightId;
+        _activeNightStartedAt = session.startedAt;
+        _currentChunkStartedAt = session.startedAt;
+        _currentChunkPath = session.filePath;
+        _activeSavedEventCount = 0;
+        _activeSnoreCount = 0;
+        _scheduleChunkRotation();
+        _recordingSession = RecordingSession(
+          status: RecordingStatus.recording,
+          filePath: session.filePath,
+          startedAt: session.startedAt,
+        );
+        await _loadNights(notify: false);
+      } else {
+        _recordingSession = session;
+      }
       _statusMessage = switch (session.status) {
         RecordingStatus.permissionDenied =>
           'Microphone permission is needed for overnight recording.',
         RecordingStatus.recording =>
-          'Recording started. Snorvy will keep a visible notification overnight.',
+          'Recording started. Raw audio is processed in 15-minute chunks.',
         RecordingStatus.idle => null,
       };
     } on Exception {
+      try {
+        final stoppedSession = await _recorder.stopNightRecording();
+        final filePath = stoppedSession.filePath;
+        if (filePath != null) {
+          await _deleteLocalFiles([filePath]);
+        }
+      } on Exception {
+        // The recorder may not have reached the native recording state yet.
+      }
+      try {
+        await _recordingForegroundService.stopRecordingNotification();
+      } on Exception {
+        // Startup failure cleanup should keep the user-facing error focused.
+      }
       await _stopCapturingPowerFrames();
+      _clearActiveRecordingState();
       _statusMessage = 'Could not start the recorder.';
     } finally {
       _setBusy(false);
@@ -161,7 +224,11 @@ class SnorvyController extends ChangeNotifier {
       // recording. Stop the mic session rather than silently recording without it.
     }
 
-    await _recorder.stopNightRecording();
+    final stoppedSession = await _recorder.stopNightRecording();
+    final filePath = stoppedSession.filePath ?? session.filePath;
+    if (filePath != null) {
+      await _deleteLocalFiles([filePath]);
+    }
     await _stopCapturingPowerFrames();
     _recordingSession = const RecordingSession(status: RecordingStatus.idle);
     return false;
@@ -182,36 +249,41 @@ class SnorvyController extends ChangeNotifier {
 
     _setBusy(true);
     try {
-      final startedAt = _recordingSession.startedAt;
-      final filePath = _recordingSession.filePath;
+      _chunkRotationTimer?.cancel();
+      await _waitForActiveRotation();
+      final nightId = _activeNightId;
+      final chunkStartedAt = _currentChunkStartedAt;
+      final chunkPath = _currentChunkPath;
       final stoppedSession = await _recorder.stopNightRecording();
-      final frames = await _stopCapturingPowerFrames();
+      final chunkEndedAt = DateTime.now();
+      final frames = _takeCapturedPowerFrames();
+      await _stopCapturingPowerFrames();
       await _stopForegroundNotificationSilently();
       _recordingSession = stoppedSession;
 
-      if (startedAt != null && filePath != null) {
-        final endedAt = DateTime.now();
-        final nightId = await _database.createRecordedNight(
-          startedAt: startedAt,
-          endedAt: endedAt,
-          recordingPath: filePath,
-        );
-        final analysis = _sleepEventAnalyzer.analyzeFrames(
+      if (nightId != null && chunkStartedAt != null && chunkPath != null) {
+        await _enqueueFinishedChunk(
+          nightId: nightId,
+          chunkStartedAt: chunkStartedAt,
+          chunkEndedAt: chunkEndedAt,
+          chunkPath: chunkPath,
           frames: frames,
-          startedAt: startedAt,
-          endedAt: endedAt,
-          recordingPath: filePath,
         );
-        await _saveAnalysis(nightId: nightId, analysis: analysis);
-        _statusMessage = analysis.events.isEmpty
-            ? 'Night recording saved locally. No loud snore or talk events detected.'
-            : 'Night recording saved with ${analysis.events.length} local audio events.';
+        await _chunkProcessing;
+        await _database.updateRecordedNightEnd(
+          nightId: nightId,
+          endedAt: chunkEndedAt,
+        );
+        _statusMessage = _activeSavedEventCount == 0
+            ? 'Night saved locally. No loud snore or talk clips detected.'
+            : 'Night saved with $_activeSavedEventCount local audio clips.';
         await _loadNights(notify: false);
       }
     } on Exception {
       await _stopCapturingPowerFrames();
       _statusMessage = 'Could not stop and save the recording.';
     } finally {
+      _clearActiveRecordingState();
       _setBusy(false);
     }
   }
@@ -248,9 +320,14 @@ class SnorvyController extends ChangeNotifier {
 
     _setBusy(true);
     try {
-      await _audioPlayback.playFile(filePath);
+      final audioKey = playbackKey ?? filePath;
+      await _audioPlayback.playFile(
+        filePath,
+        onFinished: () =>
+            _handlePlaybackFinished(filePath: filePath, playbackKey: audioKey),
+      );
       _playingPath = filePath;
-      _playingAudioKey = playbackKey ?? filePath;
+      _playingAudioKey = audioKey;
       _statusMessage = 'Playing saved audio from this phone.';
     } on FileSystemException {
       _statusMessage = 'Audio file is no longer on this phone.';
@@ -259,6 +336,20 @@ class SnorvyController extends ChangeNotifier {
     } finally {
       _setBusy(false);
     }
+  }
+
+  void _handlePlaybackFinished({
+    required String filePath,
+    required String playbackKey,
+  }) {
+    if (_playingPath != filePath || _playingAudioKey != playbackKey) {
+      return;
+    }
+
+    _playingPath = null;
+    _playingAudioKey = null;
+    _statusMessage = 'Playback finished.';
+    notifyListeners();
   }
 
   Future<void> stopAudio() async {
@@ -416,6 +507,92 @@ class SnorvyController extends ChangeNotifier {
     return failures;
   }
 
+  void _scheduleChunkRotation() {
+    _chunkRotationTimer?.cancel();
+    if (_recordingChunkDuration <= Duration.zero) {
+      return;
+    }
+
+    _chunkRotationTimer = Timer(_recordingChunkDuration, () {
+      unawaited(_rotateRecordingChunk());
+    });
+  }
+
+  Future<void> _rotateRecordingChunk() async {
+    if (_isRotatingChunk ||
+        _recordingSession.status != RecordingStatus.recording) {
+      return;
+    }
+
+    final nightId = _activeNightId;
+    final chunkStartedAt = _currentChunkStartedAt;
+    final chunkPath = _currentChunkPath;
+    final nightStartedAt = _activeNightStartedAt;
+    if (nightId == null ||
+        chunkStartedAt == null ||
+        chunkPath == null ||
+        nightStartedAt == null) {
+      return;
+    }
+
+    _isRotatingChunk = true;
+    try {
+      final stoppedSession = await _recorder.stopNightRecording();
+      final chunkEndedAt = DateTime.now();
+      final frames = _takeCapturedPowerFrames();
+      final nextSession = await _recorder.startNightRecording();
+
+      if (nextSession.status != RecordingStatus.recording ||
+          nextSession.filePath == null ||
+          nextSession.startedAt == null) {
+        await _stopCapturingPowerFrames();
+        await _stopForegroundNotificationSilently();
+        _recordingSession = stoppedSession;
+        _statusMessage = 'Recording stopped because chunk rotation failed.';
+        notifyListeners();
+        await _enqueueFinishedChunk(
+          nightId: nightId,
+          chunkStartedAt: chunkStartedAt,
+          chunkEndedAt: chunkEndedAt,
+          chunkPath: chunkPath,
+          frames: frames,
+        );
+        return;
+      }
+
+      _currentChunkStartedAt = nextSession.startedAt;
+      _currentChunkPath = nextSession.filePath;
+      _recordingSession = RecordingSession(
+        status: RecordingStatus.recording,
+        filePath: nextSession.filePath,
+        startedAt: nightStartedAt,
+      );
+      _scheduleChunkRotation();
+      notifyListeners();
+
+      unawaited(
+        _enqueueFinishedChunk(
+          nightId: nightId,
+          chunkStartedAt: chunkStartedAt,
+          chunkEndedAt: chunkEndedAt,
+          chunkPath: chunkPath,
+          frames: frames,
+        ),
+      );
+    } on Exception {
+      _statusMessage = 'Could not rotate the recording chunk.';
+      notifyListeners();
+    } finally {
+      _isRotatingChunk = false;
+    }
+  }
+
+  Future<void> _waitForActiveRotation() async {
+    while (_isRotatingChunk) {
+      await Future<void>.delayed(const Duration(milliseconds: 50));
+    }
+  }
+
   Future<void> _startCapturingPowerFrames() async {
     _recordingPowerFrames.clear();
     _livePowerFrames = const [];
@@ -430,6 +607,14 @@ class SnorvyController extends ChangeNotifier {
       _recordingPowerFrames,
     );
     _livePowerFrames = const [];
+    return frames;
+  }
+
+  List<RecordingPowerFrame> _takeCapturedPowerFrames() {
+    final frames = List<RecordingPowerFrame>.unmodifiable(
+      _recordingPowerFrames,
+    );
+    _recordingPowerFrames.clear();
     return frames;
   }
 
@@ -448,7 +633,6 @@ class SnorvyController extends ChangeNotifier {
     return {
       for (final night in nights)
         if (!night.isManual &&
-            night.recordingPath != null &&
             night.duration >= _minimumQuotaRecordingDuration &&
             night.date.year == month.year &&
             night.date.month == month.month)
@@ -456,24 +640,91 @@ class SnorvyController extends ChangeNotifier {
     };
   }
 
-  Future<void> _saveAnalysis({
+  Future<void> _enqueueFinishedChunk({
     required int nightId,
-    required SleepAnalysisResult analysis,
-  }) async {
-    await _database.updateNightSnoreScore(
-      nightId: nightId,
-      snoreScore: analysis.snoreScore,
-    );
-    for (final event in analysis.events) {
-      await _database.addDetectedEvent(
+    required DateTime chunkStartedAt,
+    required DateTime chunkEndedAt,
+    required String chunkPath,
+    required List<RecordingPowerFrame> frames,
+  }) {
+    final queued = _chunkProcessing.then((_) async {
+      final result = await _processFinishedChunk(
         nightId: nightId,
-        kind: event.kind,
-        startsAt: event.startsAt,
-        duration: event.duration,
-        intensity: event.intensity,
-        filePath: event.filePath,
+        chunkStartedAt: chunkStartedAt,
+        chunkEndedAt: chunkEndedAt,
+        chunkPath: chunkPath,
+        frames: frames,
       );
+      _activeSavedEventCount += result.savedEvents;
+      _activeSnoreCount += result.savedSnoreEvents;
+      await _database.updateNightSnoreScore(
+        nightId: nightId,
+        snoreScore: _activeSnoreCount,
+      );
+      await _database.updateRecordedNightEnd(
+        nightId: nightId,
+        endedAt: chunkEndedAt,
+      );
+      await _loadNights(notify: true);
+    });
+
+    _chunkProcessing = queued.catchError((Object _) {
+      _statusMessage = 'Could not analyze one audio chunk.';
+      notifyListeners();
+    });
+
+    return _chunkProcessing;
+  }
+
+  Future<_ProcessedChunkResult> _processFinishedChunk({
+    required int nightId,
+    required DateTime chunkStartedAt,
+    required DateTime chunkEndedAt,
+    required String chunkPath,
+    required List<RecordingPowerFrame> frames,
+  }) async {
+    var savedEvents = 0;
+    var savedSnoreEvents = 0;
+
+    try {
+      final analysis = _sleepEventAnalyzer.analyzeFrames(
+        frames: frames,
+        startedAt: chunkStartedAt,
+        endedAt: chunkEndedAt,
+        recordingPath: chunkPath,
+      );
+      final clippedEvents = await _audioEventClipStore.saveEventClips(
+        sourcePath: chunkPath,
+        chunkStartedAt: chunkStartedAt,
+        chunkEndedAt: chunkEndedAt,
+        events: analysis.events,
+        preRoll: _eventClipPreRoll,
+        postRoll: _eventClipPostRoll,
+      );
+
+      for (final event in clippedEvents) {
+        await _database.addDetectedEvent(
+          nightId: nightId,
+          kind: event.kind,
+          startsAt: event.startsAt,
+          duration: event.duration,
+          intensity: event.intensity,
+          filePath: event.filePath,
+        );
+      }
+
+      savedEvents = clippedEvents.length;
+      savedSnoreEvents = clippedEvents
+          .where((event) => event.kind == SleepEventKind.snore)
+          .length;
+    } finally {
+      await _deleteLocalFiles([chunkPath]);
     }
+
+    return _ProcessedChunkResult(
+      savedEvents: savedEvents,
+      savedSnoreEvents: savedSnoreEvents,
+    );
   }
 
   Future<void> _loadNights({bool notify = true}) async {
@@ -490,10 +741,23 @@ class SnorvyController extends ChangeNotifier {
     notifyListeners();
   }
 
+  void _clearActiveRecordingState() {
+    _chunkRotationTimer?.cancel();
+    _chunkRotationTimer = null;
+    _isRotatingChunk = false;
+    _activeNightId = null;
+    _activeNightStartedAt = null;
+    _currentChunkStartedAt = null;
+    _currentChunkPath = null;
+    _activeSavedEventCount = 0;
+    _activeSnoreCount = 0;
+  }
+
   @override
   void dispose() {
     unawaited(_unlockSubscription?.cancel());
     unawaited(_powerFrameSubscription?.cancel());
+    _chunkRotationTimer?.cancel();
     unawaited(_stopForegroundNotificationSilently());
     unawaited(_recorder.dispose());
     unawaited(_unlockRepository.dispose());
@@ -501,4 +765,14 @@ class SnorvyController extends ChangeNotifier {
     unawaited(_database.close());
     super.dispose();
   }
+}
+
+class _ProcessedChunkResult {
+  const _ProcessedChunkResult({
+    required this.savedEvents,
+    required this.savedSnoreEvents,
+  });
+
+  final int savedEvents;
+  final int savedSnoreEvents;
 }

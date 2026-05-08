@@ -88,7 +88,6 @@ class AppDatabase extends _$AppDatabase {
     final nextMonthStart = DateTime(month.year, month.month + 1);
     final query = select(sleepNightRows)
       ..where((table) => table.isManual.equals(false))
-      ..where((table) => table.recordingPath.isNotNull())
       ..where((table) => table.date.isBiggerOrEqualValue(monthStart))
       ..where((table) => table.date.isSmallerThanValue(nextMonthStart));
 
@@ -121,7 +120,7 @@ class AppDatabase extends _$AppDatabase {
   Future<int> createRecordedNight({
     required DateTime startedAt,
     required DateTime endedAt,
-    required String recordingPath,
+    String? recordingPath,
   }) {
     final date = DateTime(endedAt.year, endedAt.month, endedAt.day);
 
@@ -132,6 +131,18 @@ class AppDatabase extends _$AppDatabase {
         endedAt: endedAt,
         recordingPath: Value(recordingPath),
       ),
+    );
+  }
+
+  Future<int> updateRecordedNightEnd({
+    required int nightId,
+    required DateTime endedAt,
+  }) {
+    final date = DateTime(endedAt.year, endedAt.month, endedAt.day);
+    return (update(
+      sleepNightRows,
+    )..where((table) => table.id.equals(nightId))).write(
+      SleepNightRowsCompanion(date: Value(date), endedAt: Value(endedAt)),
     );
   }
 
@@ -205,6 +216,33 @@ class AppDatabase extends _$AppDatabase {
 
       await delete(sleepNightRows).go();
       return filePaths.toList(growable: false);
+    });
+  }
+
+  Future<void> deleteIncompleteRecordedNights() async {
+    await transaction(() async {
+      final rows =
+          await (select(sleepNightRows)
+                ..where((table) => table.isManual.equals(false))
+                ..where((table) => table.recordingPath.isNull()))
+              .get();
+
+      for (final row in rows) {
+        if (row.endedAt.isAfter(row.startedAt)) {
+          continue;
+        }
+
+        final eventCount = await (select(
+          sleepEventRows,
+        )..where((table) => table.nightId.equals(row.id))).get();
+        if (eventCount.isNotEmpty) {
+          continue;
+        }
+
+        await (delete(
+          sleepNightRows,
+        )..where((table) => table.id.equals(row.id))).go();
+      }
     });
   }
 

@@ -35,7 +35,7 @@ void main() {
   test('labels short high peaks as talk events', () {
     final frames = [
       for (var second = 0; second < 24; second++)
-        _frame(second, second >= 8 && second <= 10 ? 58 : 34),
+        _frame(second, second >= 8 && second <= 9 ? 58 : 34),
     ];
 
     final result = analyzer.analyzeFrames(
@@ -47,7 +47,7 @@ void main() {
 
     expect(result.snoreScore, 0);
     expect(result.events.single.kind, SleepEventKind.talk);
-    expect(result.events.single.duration, const Duration(seconds: 3));
+    expect(result.events.single.duration, const Duration(seconds: 2));
   });
 
   test('keeps quiet nights empty', () {
@@ -96,14 +96,13 @@ void main() {
     );
   });
 
-  test('counts dense short loud bursts as snore in short recordings', () {
+  test('keeps two-second talk separate from three-second snore', () {
     final shortStartedAt = DateTime(2026, 5, 8, 17, 40);
     final frames = [
       for (var second = 0; second < 11; second++)
         _frame(second, switch (second) {
           >= 1 && <= 2 => 66,
-          >= 4 && <= 6 => 64,
-          >= 8 && <= 9 => 65,
+          >= 5 && <= 7 => 64,
           _ => 34,
         }),
     ];
@@ -115,10 +114,11 @@ void main() {
       recordingPath: 'memory://short-snore.m4a',
     );
 
-    expect(result.snoreScore, greaterThan(0));
-    expect(result.events.map((event) => event.kind).toSet(), {
+    expect(result.snoreScore, 1);
+    expect(result.events.map((event) => event.kind), [
+      SleepEventKind.talk,
       SleepEventKind.snore,
-    });
+    ]);
   });
 
   test('neural classifier separates sustained snore from short talk', () {
@@ -133,10 +133,19 @@ void main() {
         variability: 1,
       ),
     );
-    final talk = classifier.classify(
+    final shortSnore = classifier.classify(
       const SleepClusterFeatures(
         duration: Duration(seconds: 3),
         frameCount: 3,
+        peakLift: 15,
+        averageLift: 11,
+        variability: 1,
+      ),
+    );
+    final talk = classifier.classify(
+      const SleepClusterFeatures(
+        duration: Duration(seconds: 2),
+        frameCount: 2,
         peakLift: 18,
         averageLift: 13,
         variability: 4,
@@ -153,6 +162,7 @@ void main() {
     );
 
     expect(snore, SleepEventKind.snore);
+    expect(shortSnore, SleepEventKind.snore);
     expect(talk, SleepEventKind.talk);
     expect(noise, SleepEventKind.noise);
   });

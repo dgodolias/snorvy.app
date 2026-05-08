@@ -39,12 +39,12 @@ abstract interface class SleepRecorder {
 }
 
 class FlutterSoundSleepRecorder implements SleepRecorder {
-  static const _recordingSampleRate = 44100;
+  static const _recordingSampleRate = 16000;
   static const _recordingBitRate = 64000;
   static const List<_RecordingFormat> _preferredFormats = [
+    _RecordingFormat(codec: Codec.pcm16WAV, extension: '.wav'),
     _RecordingFormat(codec: Codec.aacMP4, extension: '.m4a'),
     _RecordingFormat(codec: Codec.aacADTS, extension: '.aac'),
-    _RecordingFormat(codec: Codec.pcm16WAV, extension: '.wav'),
   ];
   static const List<AudioSource> _preferredAudioSources = [
     AudioSource.microphone,
@@ -93,7 +93,9 @@ class FlutterSoundSleepRecorder implements SleepRecorder {
     });
 
     final directory = await getApplicationDocumentsDirectory();
-    final recordingsDirectory = Directory(p.join(directory.path, 'recordings'));
+    final recordingsDirectory = Directory(
+      p.join(directory.path, 'recordings', 'chunks'),
+    );
     if (!await recordingsDirectory.exists()) {
       await recordingsDirectory.create(recursive: true);
     }
@@ -124,7 +126,7 @@ class FlutterSoundSleepRecorder implements SleepRecorder {
       final fileCreatedAt = DateTime.now();
       final filePath = p.join(
         recordingsDirectory.path,
-        'night_${fileCreatedAt.millisecondsSinceEpoch}${format.extension}',
+        'chunk_${fileCreatedAt.millisecondsSinceEpoch}${format.extension}',
       );
 
       try {

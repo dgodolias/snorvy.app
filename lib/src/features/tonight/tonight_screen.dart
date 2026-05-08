@@ -7,7 +7,6 @@ import 'package:snorvy/src/domain/sleep_models.dart';
 import 'package:snorvy/src/services/sleep_recorder.dart';
 import 'package:snorvy/src/theme/snorvy_theme.dart';
 
-const _snorvyLogoAsset = 'assets/brand/snorvy_logo.png';
 const _snorvyBannerAsset = 'assets/brand/snorvy_logo_text_trans_background.png';
 const _snorvyBannerAspectRatio = 1967 / 799;
 
@@ -221,90 +220,38 @@ class _Header extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    final now = DateTime.now();
-    final dayLabel = DateFormat('EEE - d MMM').format(now);
-
-    return Row(
-      crossAxisAlignment: CrossAxisAlignment.start,
-      children: [
-        Expanded(
-          child: Column(
-            crossAxisAlignment: CrossAxisAlignment.start,
-            children: [
-              Row(
-                children: [
-                  Text('Snorvy', style: SnorvyTheme.labelStyle(context)),
-                  Text(' - $dayLabel', style: SnorvyTheme.labelStyle(context)),
-                ],
-              ),
-              const SizedBox(height: 6),
-              Row(
-                children: [
-                  Image.asset(
-                    _snorvyLogoAsset,
-                    width: 44,
-                    height: 44,
-                    semanticLabel: 'Snorvy logo',
-                    filterQuality: FilterQuality.high,
-                  ),
-                  const SizedBox(width: 10),
-                  Expanded(
-                    child: Text(
-                      'Tonight.',
-                      style: SnorvyTheme.displayStyle(context, size: 48)
-                          .copyWith(
-                            color: Theme.of(context).colorScheme.onSurface,
-                          ),
-                    ),
-                  ),
-                ],
-              ),
-              const SizedBox(height: 8),
-              Text(
-                'Records locally. Playback stays unlocked.',
-                style: Theme.of(context).textTheme.bodyMedium?.copyWith(
-                  color: Theme.of(context).colorScheme.onSurfaceVariant,
-                  height: 1.35,
-                ),
-              ),
-            ],
-          ),
+    return Align(
+      alignment: Alignment.centerRight,
+      child: DecoratedBox(
+        decoration: BoxDecoration(
+          color: Theme.of(
+            context,
+          ).colorScheme.surfaceContainerLowest.withValues(alpha: 0.9),
+          borderRadius: BorderRadius.circular(999),
+          border: Border.all(color: SnorvyTheme.midnightBorder),
         ),
-        DecoratedBox(
-          decoration: BoxDecoration(
-            color: Theme.of(
-              context,
-            ).colorScheme.surfaceContainerLowest.withValues(alpha: 0.9),
-            borderRadius: BorderRadius.circular(999),
-            border: Border.all(color: SnorvyTheme.midnightBorder),
-          ),
-          child: InkWell(
-            borderRadius: BorderRadius.circular(999),
-            onTap: onUnlockTap,
-            child: const Padding(
-              padding: EdgeInsets.symmetric(horizontal: 12, vertical: 9),
-              child: Row(
-                mainAxisSize: MainAxisSize.min,
-                children: [
-                  Icon(
-                    Icons.lock_open,
-                    size: 15,
+        child: InkWell(
+          borderRadius: BorderRadius.circular(999),
+          onTap: onUnlockTap,
+          child: const Padding(
+            padding: EdgeInsets.symmetric(horizontal: 12, vertical: 9),
+            child: Row(
+              mainAxisSize: MainAxisSize.min,
+              children: [
+                Icon(Icons.lock_open, size: 15, color: SnorvyTheme.neuralMint),
+                SizedBox(width: 6),
+                Text(
+                  '\$9.99',
+                  style: TextStyle(
                     color: SnorvyTheme.neuralMint,
+                    fontWeight: FontWeight.w700,
                   ),
-                  SizedBox(width: 6),
-                  Text(
-                    '\$9.99',
-                    style: TextStyle(
-                      color: SnorvyTheme.neuralMint,
-                      fontWeight: FontWeight.w700,
-                    ),
-                  ),
-                ],
-              ),
+                ),
+              ],
             ),
           ),
         ),
-      ],
+      ),
     );
   }
 }

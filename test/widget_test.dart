@@ -21,10 +21,9 @@ void main() {
     await tester.pumpWidget(SnorvyApp(controller: controller));
     await tester.pumpAndSettle();
 
-    expect(find.text('Snorvy'), findsWidgets);
     expect(
       find.image(const AssetImage('assets/brand/snorvy_logo.png')),
-      findsOneWidget,
+      findsNothing,
     );
     expect(
       find.image(

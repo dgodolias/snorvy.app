@@ -342,12 +342,12 @@ class _EmptySleepEventAnalyzer implements SleepEventAnalyzer {
   const _EmptySleepEventAnalyzer();
 
   @override
-  SleepAnalysisResult analyzeFrames({
+  Future<SleepAnalysisResult> analyzeFrames({
     required List<RecordingPowerFrame> frames,
     required DateTime startedAt,
     required DateTime endedAt,
     required String recordingPath,
-  }) {
+  }) async {
     return SleepAnalysisResult.empty;
   }
 }

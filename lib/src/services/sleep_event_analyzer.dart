@@ -33,7 +33,7 @@ class SleepAnalysisResult {
 }
 
 abstract interface class SleepEventAnalyzer {
-  SleepAnalysisResult analyzeFrames({
+  Future<SleepAnalysisResult> analyzeFrames({
     required List<RecordingPowerFrame> frames,
     required DateTime startedAt,
     required DateTime endedAt,
@@ -156,12 +156,12 @@ class LocalLevelSleepEventAnalyzer implements SleepEventAnalyzer {
   final SleepClusterClassifier _classifier;
 
   @override
-  SleepAnalysisResult analyzeFrames({
+  Future<SleepAnalysisResult> analyzeFrames({
     required List<RecordingPowerFrame> frames,
     required DateTime startedAt,
     required DateTime endedAt,
     required String recordingPath,
-  }) {
+  }) async {
     final cleanFrames =
         frames.where((frame) => frame.decibels.isFinite).toList(growable: false)
           ..sort((a, b) => a.elapsed.compareTo(b.elapsed));

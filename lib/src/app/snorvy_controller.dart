@@ -11,6 +11,7 @@ import 'package:snorvy/src/services/audio_playback.dart';
 import 'package:snorvy/src/services/bedtime_reminder_repository.dart';
 import 'package:snorvy/src/services/bedtime_reminder_scheduler.dart';
 import 'package:snorvy/src/services/recording_foreground_service.dart';
+import 'package:snorvy/src/services/ml/ml_sleep_event_analyzer.dart';
 import 'package:snorvy/src/services/recording_exporter.dart';
 import 'package:snorvy/src/services/sleep_event_analyzer.dart';
 import 'package:snorvy/src/services/sleep_recorder.dart';
@@ -55,7 +56,7 @@ class SnorvyController extends ChangeNotifier {
       audioPlayback: FlutterSoundAudioPlayback(),
       recordingExporter: LocalRecordingExporter(),
       recordingForegroundService: createRecordingForegroundService(),
-      sleepEventAnalyzer: const LocalLevelSleepEventAnalyzer(),
+      sleepEventAnalyzer: _defaultSleepEventAnalyzer(),
       unlockRepository: createUnlockRepository(),
       bedtimeReminderRepository:
           BedtimeReminderRepository.sharedPreferences(),
@@ -742,7 +743,7 @@ class SnorvyController extends ChangeNotifier {
     var savedSnoreEvents = 0;
 
     try {
-      final analysis = _sleepEventAnalyzer.analyzeFrames(
+      final analysis = await _sleepEventAnalyzer.analyzeFrames(
         frames: frames,
         startedAt: chunkStartedAt,
         endedAt: chunkEndedAt,
@@ -822,6 +823,14 @@ class SnorvyController extends ChangeNotifier {
     unawaited(_database.close());
     super.dispose();
   }
+}
+
+SleepEventAnalyzer _defaultSleepEventAnalyzer() {
+  // ML pipeline (Silero VAD + tiny_conv) needs native libs (tflite_flutter +
+  // onnxruntime). Fall back to the level-based analyzer on web.
+  const fallback = LocalLevelSleepEventAnalyzer();
+  if (kIsWeb) return fallback;
+  return MlSleepEventAnalyzer(fallbackAnalyzer: fallback);
 }
 
 class _ProcessedChunkResult {

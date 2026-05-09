@@ -1,4 +1,4 @@
-import 'package:flutter_test/flutter_test.dart';
+﻿import 'package:flutter_test/flutter_test.dart';
 import 'package:snorvy/src/domain/sleep_models.dart';
 import 'package:snorvy/src/services/sleep_event_analyzer.dart';
 import 'package:snorvy/src/services/sleep_recorder.dart';
@@ -8,13 +8,13 @@ void main() {
   final startedAt = DateTime(2026, 5, 7, 23, 30);
   final endedAt = startedAt.add(const Duration(hours: 8));
 
-  test('turns sustained loud frames into a snore event and count', () {
+  test('turns sustained loud frames into a snore event and count', () async {
     final frames = [
       for (var second = 0; second < 40; second++)
         _frame(second, second >= 10 && second <= 16 ? 56 : 35),
     ];
 
-    final result = analyzer.analyzeFrames(
+    final result = await analyzer.analyzeFrames(
       frames: frames,
       startedAt: startedAt,
       endedAt: endedAt,
@@ -32,13 +32,13 @@ void main() {
     expect(result.events.single.filePath, 'memory://night.ogg');
   });
 
-  test('labels short high peaks as talk events', () {
+  test('labels short high peaks as talk events', () async {
     final frames = [
       for (var second = 0; second < 24; second++)
         _frame(second, second >= 8 && second <= 9 ? 58 : 34),
     ];
 
-    final result = analyzer.analyzeFrames(
+    final result = await analyzer.analyzeFrames(
       frames: frames,
       startedAt: startedAt,
       endedAt: endedAt,
@@ -50,12 +50,12 @@ void main() {
     expect(result.events.single.duration, const Duration(seconds: 2));
   });
 
-  test('keeps quiet nights empty', () {
+  test('keeps quiet nights empty', () async {
     final frames = [
       for (var second = 0; second < 30; second++) _frame(second, 34),
     ];
 
-    final result = analyzer.analyzeFrames(
+    final result = await analyzer.analyzeFrames(
       frames: frames,
       startedAt: startedAt,
       endedAt: endedAt,
@@ -66,7 +66,7 @@ void main() {
     expect(result.events, isEmpty);
   });
 
-  test('detects mixed snore and talk in a one-minute recording', () {
+  test('detects mixed snore and talk in a one-minute recording', () async {
     final frames = [
       for (var second = 0; second < 60; second++)
         _frame(second, switch (second) {
@@ -77,7 +77,7 @@ void main() {
         }),
     ];
 
-    final result = analyzer.analyzeFrames(
+    final result = await analyzer.analyzeFrames(
       frames: frames,
       startedAt: startedAt,
       endedAt: startedAt.add(const Duration(seconds: 60)),
@@ -96,7 +96,7 @@ void main() {
     );
   });
 
-  test('keeps two-second talk separate from three-second snore', () {
+  test('keeps two-second talk separate from three-second snore', () async {
     final shortStartedAt = DateTime(2026, 5, 8, 17, 40);
     final frames = [
       for (var second = 0; second < 11; second++)
@@ -107,7 +107,7 @@ void main() {
         }),
     ];
 
-    final result = analyzer.analyzeFrames(
+    final result = await analyzer.analyzeFrames(
       frames: frames,
       startedAt: shortStartedAt,
       endedAt: shortStartedAt.add(const Duration(seconds: 11)),
@@ -121,7 +121,7 @@ void main() {
     ]);
   });
 
-  test('detects two short snores and one talk with real recorder cadence', () {
+  test('detects two short snores and one talk with real recorder cadence', () async {
     final shortStartedAt = DateTime(2026, 5, 8, 18, 35);
     final frames = [
       for (var ms = 0; ms <= 12000; ms += 160)
@@ -133,7 +133,7 @@ void main() {
         }),
     ];
 
-    final result = analyzer.analyzeFrames(
+    final result = await analyzer.analyzeFrames(
       frames: frames,
       startedAt: shortStartedAt,
       endedAt: shortStartedAt.add(const Duration(seconds: 12)),
@@ -229,3 +229,4 @@ double _speechLikeLevel(int milliseconds) {
     _ => 47,
   };
 }
+

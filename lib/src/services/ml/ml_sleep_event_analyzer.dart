@@ -81,13 +81,16 @@ class MlSleepEventAnalyzer implements SleepEventAnalyzer {
   Future<String?> _runCanary(SnoreClassifier snore, VadClassifier vad) async {
     const windowSamples = 15840; // 990 ms at 16 kHz
 
-    // Test 1 — silence: all-zero input must collapse onto the silence class.
+    // Test 1 — silence input must NOT classify as snore. We don't pin which
+    // non-snore class wins (the Kaggle-trained model can drift between
+    // silence/unknown/off on pure-zero input) but pinning snore<0.5 catches
+    // the class-index swap we hit before, where talks/silence were firing the
+    // slot we read as "snoring".
     final silence = Float32List(windowSamples);
-    final silencePred = snore.predictWindow(silence);
-    final silenceProbs = silencePred.probabilities;
-    final silenceTop = _argmaxKey(silenceProbs);
-    if (silenceTop != 'silence') {
-      return 'silence canary: argmax=$silenceTop probs=$silenceProbs';
+    final silenceProbs = snore.predictWindow(silence).probabilities;
+    final silenceSnore = silenceProbs['snoring'] ?? 0.0;
+    if (silenceSnore > 0.5) {
+      return 'silence canary: snore=$silenceSnore probs=$silenceProbs';
     }
 
     // Test 2 — non-uniform output: noisy input must NOT produce uniform 0.25
@@ -112,18 +115,6 @@ class MlSleepEventAnalyzer implements SleepEventAnalyzer {
     }
     vad.resetState();
     return null;
-  }
-
-  static String _argmaxKey(Map<String, double> probs) {
-    String best = '';
-    var bestVal = double.negativeInfinity;
-    probs.forEach((k, v) {
-      if (v > bestVal) {
-        best = k;
-        bestVal = v;
-      }
-    });
-    return best;
   }
 
   @override

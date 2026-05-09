@@ -1,0 +1,428 @@
+{
+  "per_recording": [
+    {
+      "file": "voice_recorder_2026-05-08_205445.m4a",
+      "alias": "rec2",
+      "duration_s": 41.8655625,
+      "predicted_events": [
+        {
+          "start": 3.04,
+          "end": 3.84,
+          "label": "talk",
+          "confidence": 0.5833333333333334
+        },
+        {
+          "start": 8.32,
+          "end": 12.48,
+          "label": "snore",
+          "confidence": 0.5833333333333334
+        },
+        {
+          "start": 13.92,
+          "end": 15.84,
+          "label": "talk",
+          "confidence": 0.5833333333333334
+        },
+        {
+          "start": 16.96,
+          "end": 17.6,
+          "label": "talk",
+          "confidence": 0.5833333333333334
+        },
+        {
+          "start": 24.48,
+          "end": 25.28,
+          "label": "snore",
+          "confidence": 0.5833333333333334
+        },
+        {
+          "start": 26.08,
+          "end": 28.48,
+          "label": "talk",
+          "confidence": 0.5833333333333334
+        },
+        {
+          "start": 36.32,
+          "end": 37.92,
+          "label": "talk",
+          "confidence": 0.5833333333333334
+        }
+      ],
+      "ground_truth_events": [
+        {
+          "start": 3,
+          "end": 17,
+          "label": "snore"
+        },
+        {
+          "start": 25,
+          "end": 30,
+          "label": "talk"
+        }
+      ],
+      "metrics": {
+        "talk": {
+          "precision": 0.30952380952380953,
+          "recall": 0.52,
+          "f1": 0.3880597014925373,
+          "tp": 13,
+          "fp": 29,
+          "fn": 12,
+          "tn": 156
+        },
+        "snore": {
+          "precision": 0.8148148148148148,
+          "recall": 0.3142857142857143,
+          "f1": 0.45360824742268047,
+          "tp": 22,
+          "fp": 5,
+          "fn": 48,
+          "tn": 135
+        }
+      }
+    },
+    {
+      "file": "voice_recorder_2026-05-08_205716.m4a",
+      "alias": "rec3",
+      "duration_s": 34.481625,
+      "predicted_events": [
+        {
+          "start": 0.0,
+          "end": 5.44,
+          "label": "talk",
+          "confidence": 0.5833333333333334
+        },
+        {
+          "start": 7.2,
+          "end": 7.84,
+          "label": "snore",
+          "confidence": 0.5833333333333334
+        },
+        {
+          "start": 8.48,
+          "end": 9.28,
+          "label": "talk",
+          "confidence": 0.5833333333333334
+        },
+        {
+          "start": 12.16,
+          "end": 13.28,
+          "label": "snore",
+          "confidence": 0.5833333333333334
+        },
+        {
+          "start": 21.6,
+          "end": 22.24,
+          "label": "snore",
+          "confidence": 0.5833333333333334
+        },
+        {
+          "start": 24.16,
+          "end": 25.44,
+          "label": "snore",
+          "confidence": 0.5833333333333334
+        },
+        {
+          "start": 28.96,
+          "end": 30.72,
+          "label": "talk",
+          "confidence": 0.5833333333333334
+        }
+      ],
+      "ground_truth_events": [
+        {
+          "start": 3,
+          "end": 15,
+          "label": "snore"
+        },
+        {
+          "start": 23,
+          "end": 30,
+          "label": "talk"
+        }
+      ],
+      "metrics": {
+        "talk": {
+          "precision": 0.13953488372093023,
+          "recall": 0.17142857142857143,
+          "f1": 0.15384615384615385,
+          "tp": 6,
+          "fp": 37,
+          "fn": 29,
+          "tn": 101
+        },
+        "snore": {
+          "precision": 0.4782608695652174,
+          "recall": 0.18333333333333332,
+          "f1": 0.2650602409638554,
+          "tp": 11,
+          "fp": 12,
+          "fn": 49,
+          "tn": 101
+        }
+      }
+    },
+    {
+      "file": "voice_recorder_2026-05-08_210114.m4a",
+      "alias": "rec4",
+      "duration_s": 124.22675,
+      "predicted_events": [
+        {
+          "start": 4.32,
+          "end": 11.52,
+          "label": "talk",
+          "confidence": 0.5833333333333334
+        },
+        {
+          "start": 14.08,
+          "end": 14.88,
+          "label": "talk",
+          "confidence": 0.5833333333333334
+        },
+        {
+          "start": 15.84,
+          "end": 18.88,
+          "label": "snore",
+          "confidence": 0.5833333333333334
+        },
+        {
+          "start": 19.52,
+          "end": 20.32,
+          "label": "talk",
+          "confidence": 0.5833333333333334
+        },
+        {
+          "start": 22.56,
+          "end": 23.2,
+          "label": "snore",
+          "confidence": 0.5833333333333334
+        },
+        {
+          "start": 32.64,
+          "end": 34.24,
+          "label": "talk",
+          "confidence": 0.5833333333333334
+        },
+        {
+          "start": 78.24,
+          "end": 88.48,
+          "label": "talk",
+          "confidence": 0.5833333333333334
+        },
+        {
+          "start": 89.6,
+          "end": 90.08,
+          "label": "talk",
+          "confidence": 0.5833333333333334
+        },
+        {
+          "start": 92.32,
+          "end": 100.96,
+          "label": "snore",
+          "confidence": 0.5833333333333334
+        },
+        {
+          "start": 102.08,
+          "end": 103.68,
+          "label": "talk",
+          "confidence": 0.5833333333333334
+        },
+        {
+          "start": 104.96,
+          "end": 124.16,
+          "label": "snore",
+          "confidence": 0.5833333333333334
+        }
+      ],
+      "ground_truth_events": [
+        {
+          "start": 0,
+          "end": 38,
+          "label": "snore"
+        },
+        {
+          "start": 83,
+          "end": 114,
+          "label": "snore"
+        }
+      ],
+      "metrics": {
+        "talk": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "tp": 0,
+          "fp": 121,
+          "fn": 0,
+          "tn": 501
+        },
+        "snore": {
+          "precision": 0.6832298136645962,
+          "recall": 0.3188405797101449,
+          "f1": 0.43478260869565216,
+          "tp": 110,
+          "fp": 51,
+          "fn": 235,
+          "tn": 226
+        }
+      }
+    },
+    {
+      "file": "voice_recorder_2026-05-08_211709.m4a",
+      "alias": "rec5",
+      "duration_s": 186.549125,
+      "predicted_events": [
+        {
+          "start": 0.96,
+          "end": 8.8,
+          "label": "talk",
+          "confidence": 0.5833333333333334
+        },
+        {
+          "start": 10.88,
+          "end": 11.84,
+          "label": "talk",
+          "confidence": 0.5833333333333334
+        },
+        {
+          "start": 15.2,
+          "end": 17.12,
+          "label": "talk",
+          "confidence": 0.5833333333333334
+        },
+        {
+          "start": 31.36,
+          "end": 31.84,
+          "label": "talk",
+          "confidence": 0.5833333333333334
+        },
+        {
+          "start": 37.76,
+          "end": 39.84,
+          "label": "talk",
+          "confidence": 0.5833333333333334
+        },
+        {
+          "start": 48.64,
+          "end": 51.84,
+          "label": "snore",
+          "confidence": 0.5833333333333334
+        },
+        {
+          "start": 81.92,
+          "end": 88.0,
+          "label": "snore",
+          "confidence": 0.5833333333333334
+        },
+        {
+          "start": 88.64,
+          "end": 92.16,
+          "label": "talk",
+          "confidence": 0.5833333333333334
+        },
+        {
+          "start": 111.68,
+          "end": 113.6,
+          "label": "talk",
+          "confidence": 0.5833333333333334
+        },
+        {
+          "start": 134.88,
+          "end": 136.8,
+          "label": "talk",
+          "confidence": 0.5833333333333334
+        },
+        {
+          "start": 144.16,
+          "end": 148.32,
+          "label": "talk",
+          "confidence": 0.5833333333333334
+        },
+        {
+          "start": 150.88,
+          "end": 154.88,
+          "label": "snore",
+          "confidence": 0.5833333333333334
+        },
+        {
+          "start": 161.28,
+          "end": 164.8,
+          "label": "snore",
+          "confidence": 0.5833333333333334
+        },
+        {
+          "start": 175.68,
+          "end": 176.96,
+          "label": "snore",
+          "confidence": 0.5833333333333334
+        }
+      ],
+      "ground_truth_events": [
+        {
+          "start": 23,
+          "end": 33,
+          "label": "snore"
+        },
+        {
+          "start": 39,
+          "end": 40,
+          "label": "snore"
+        },
+        {
+          "start": 78,
+          "end": 93,
+          "label": "talk"
+        },
+        {
+          "start": 112,
+          "end": 114,
+          "label": "snore"
+        },
+        {
+          "start": 135,
+          "end": 160,
+          "label": "snore"
+        }
+      ],
+      "metrics": {
+        "talk": {
+          "precision": 0.13533834586466165,
+          "recall": 0.24,
+          "f1": 0.17307692307692304,
+          "tp": 18,
+          "fp": 115,
+          "fn": 57,
+          "tn": 743
+        },
+        "snore": {
+          "precision": 0.22340425531914893,
+          "recall": 0.11052631578947368,
+          "f1": 0.14788732394366194,
+          "tp": 21,
+          "fp": 73,
+          "fn": 169,
+          "tn": 670
+        }
+      }
+    }
+  ],
+  "metric": "frame_based_per_200ms_tick",
+  "aggregate": {
+    "talk": {
+      "precision": 0.10914454277286136,
+      "recall": 0.2740740740740741,
+      "f1": 0.15611814345991562,
+      "tp": 37,
+      "fp": 302,
+      "fn": 98
+    },
+    "snore": {
+      "precision": 0.5377049180327869,
+      "recall": 0.24661654135338346,
+      "f1": 0.33814432989690724,
+      "tp": 164,
+      "fp": 141,
+      "fn": 501
+    }
+  }
+}

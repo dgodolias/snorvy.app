@@ -76,16 +76,25 @@ class SnoreClassifier {
     final input = _microfrontend.quantize(features, _inScale, _inZero);
     final inputShape = [1, features.length];
     final outputShape = [1, config.classIndex.length];
-    final output = Int8List(outputShape[0] * outputShape[1]);
 
-    _interpreter.run(
-      input.buffer.asInt8List().reshape<int>(inputShape),
-      output.buffer.asInt8List().reshape<int>(outputShape),
+    // tflite_flutter's `Tensor.copyTo` writes back into the exact List
+    // instance we hand it, NOT into the underlying typed buffer. The earlier
+    // implementation passed a fresh `output.buffer.asInt8List().reshape(...)`
+    // (a brand-new nested list) and then read from the unmodified `output`
+    // backing store, so every class always dequantized to 0.5 and softmax
+    // came out uniform 0.25. Hold on to the reshaped list and read FROM it.
+    final inputList = input.buffer.asInt8List().reshape<int>(inputShape);
+    final outputList = List<List<int>>.generate(
+      outputShape[0],
+      (_) => List<int>.filled(outputShape[1], 0),
     );
 
+    _interpreter.run(inputList, outputList);
+
+    final flatOut = outputList[0];
     final raw = List<double>.generate(
-      output.length,
-      (i) => (output[i] - _outZero) * _outScale,
+      flatOut.length,
+      (i) => (flatOut[i] - _outZero) * _outScale,
     );
     final clipped = raw.map((p) => p < 0 ? 0.0 : p).toList();
     final sum = clipped.fold<double>(0.0, (a, b) => a + b);

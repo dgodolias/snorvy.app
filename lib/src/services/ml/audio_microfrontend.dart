@@ -49,6 +49,16 @@ class AudioMicrofrontend {
   final int _windowSamples;
   final int _hopSamples;
   late final _NativeBindings _native;
+  static bool _loggedFirstCall = false;
+
+  static double _int16Rms(Pointer<Int16> ptr, int n) {
+    var sum = 0.0;
+    for (var i = 0; i < n; i++) {
+      final v = ptr[i].toDouble();
+      sum += v * v;
+    }
+    return n == 0 ? 0.0 : math.sqrt(sum / n);
+  }
 
   int get expectedAudioSamples =>
       _hopSamples * (numFrames - 1) + _windowSamples;
@@ -95,6 +105,20 @@ class AudioMicrofrontend {
       final out = Float32List(featureCount);
       for (var i = 0; i < written && i < featureCount; i++) {
         out[i] = outPtr[i].toDouble();
+      }
+      // Debug: emit a one-shot summary of the first FFI call so we can see
+      // whether the native side is producing real features or constant noise.
+      if (!_loggedFirstCall) {
+        _loggedFirstCall = true;
+        // ignore: avoid_print
+        print(
+          '[Microfrontend] first call: written=$written/$featureCount '
+          'in[0..3]=${[for (var i = 0; i < 4; i++) inPtr[i]]} '
+          'in_rms=${_int16Rms(inPtr, expected).toStringAsFixed(1)} '
+          'out_min=${out.reduce((a, b) => a < b ? a : b).toStringAsFixed(0)} '
+          'out_max=${out.reduce((a, b) => a > b ? a : b).toStringAsFixed(0)} '
+          'out_mean=${(out.reduce((a, b) => a + b) / out.length).toStringAsFixed(1)}',
+        );
       }
       return out;
     } finally {

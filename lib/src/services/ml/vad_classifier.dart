@@ -65,17 +65,25 @@ class VadClassifier {
       'sr': srTensor,
     });
 
+    // The earlier extraction was an `if/else if` heuristic gated by
+    // `prob == 0.0`. When Silero genuinely returned silence (prob = 0), the
+    // elif re-fired on the second output (state) and we'd write the first
+    // state value into `prob`, producing spurious "voice" detections during
+    // silence. Pull each output by its tensor length: state is the only one
+    // that flattens to `_stateLength`; the other holds the speech prob.
     var prob = 0.0;
+    var probAssigned = false;
     Float32List? newState;
     for (final out in outputs) {
       if (out == null) continue;
       final value = out.value;
-      if (value is List && value.isNotEmpty) {
-        if (newState == null && _looksLikeState(value)) {
-          newState = _flattenState(value);
-        } else if (prob == 0.0 && _looksLikeProb(value)) {
-          prob = _firstScalar(value);
-        }
+      if (value is! List || value.isEmpty) continue;
+      final flat = _flattenState(value);
+      if (flat.length == _stateLength) {
+        newState = flat;
+      } else if (!probAssigned) {
+        prob = _firstScalar(value);
+        probAssigned = true;
       }
     }
 
@@ -128,19 +136,6 @@ class VadClassifier {
     if (_disposed) return;
     _session.release();
     _disposed = true;
-  }
-
-  bool _looksLikeState(List<dynamic> value) {
-    final flat = _flattenState(value);
-    return flat.length == _stateLength;
-  }
-
-  bool _looksLikeProb(List<dynamic> value) {
-    List<dynamic> probe = value;
-    while (probe.isNotEmpty && probe.first is List) {
-      probe = probe.first as List<dynamic>;
-    }
-    return probe.isNotEmpty && probe.first is num;
   }
 
   Float32List _flattenState(List<dynamic> value) {

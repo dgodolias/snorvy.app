@@ -1,5 +1,6 @@
 import 'dart:convert';
 import 'dart:io';
+import 'dart:math' as math;
 
 import 'package:flutter/foundation.dart';
 import 'package:path/path.dart' as p;
@@ -46,15 +47,83 @@ class MlSleepEventAnalyzer implements SleepEventAnalyzer {
       _config ??= await PipelineConfig.loadFromAssets();
       _snore ??= await SnoreClassifier.load(_config!);
       _vad ??= await VadClassifier.load(_config!);
+      // Canary self-test: every silent failure we hit (asset path, output
+      // aliasing, class index swap) would have been caught here. Bail to
+      // fallback if any check fails.
+      final canaryError = await _runCanary(_snore!, _vad!);
+      if (canaryError != null) {
+        throw StateError('canary failed: $canaryError');
+      }
+      // ignore: avoid_print
+      print('[MlAnalyzer] ML pipeline ready (canary OK)');
     } on Object catch (error, stack) {
       _loadFailed = true;
       _config = null;
+      _snore?.dispose();
       _snore = null;
+      _vad?.dispose();
       _vad = null;
+      // ignore: avoid_print
+      print('[MlAnalyzer] ML disabled, falling back to rule-based: $error');
       if (kDebugMode) {
-        debugPrint('[MlAnalyzer] model load failed: $error\n$stack');
+        debugPrint(stack.toString());
       }
     }
+  }
+
+  /// Synthetic canary: feed two known signals through the full pipeline and
+  /// assert the model output looks structurally correct. This catches:
+  ///   - missing assets (model file not in bundle)
+  ///   - output-buffer aliasing (every class lands at uniform 0.25)
+  ///   - class index swaps (silence audio firing the wrong slot)
+  ///   - microfrontend / FFI breakage (constant features)
+  /// Returns null on success, an error reason on failure.
+  Future<String?> _runCanary(SnoreClassifier snore, VadClassifier vad) async {
+    const windowSamples = 15840; // 990 ms at 16 kHz
+
+    // Test 1 — silence: all-zero input must collapse onto the silence class.
+    final silence = Float32List(windowSamples);
+    final silencePred = snore.predictWindow(silence);
+    final silenceProbs = silencePred.probabilities;
+    final silenceTop = _argmaxKey(silenceProbs);
+    if (silenceTop != 'silence') {
+      return 'silence canary: argmax=$silenceTop probs=$silenceProbs';
+    }
+
+    // Test 2 — non-uniform output: noisy input must NOT produce uniform 0.25
+    // across the four classes. (That was the output-aliasing symptom.)
+    final noise = Float32List(windowSamples);
+    final rng = math.Random(0xc0ffee);
+    for (var i = 0; i < windowSamples; i++) {
+      noise[i] = (rng.nextDouble() - 0.5) * 0.5;
+    }
+    final noisePred = snore.predictWindow(noise);
+    final spread =
+        noisePred.probabilities.values.fold<double>(0.0, math.max) -
+            noisePred.probabilities.values.fold<double>(1.0, math.min);
+    if (spread < 0.05) {
+      return 'noise canary: uniform output (spread=$spread, probs=${noisePred.probabilities})';
+    }
+
+    // Test 3 — VAD on silence must report no speech.
+    final vadProb = vad.processChunk(Float32List(VadClassifier.frameSamples));
+    if (vadProb > 0.5) {
+      return 'vad silence canary: prob=$vadProb';
+    }
+    vad.resetState();
+    return null;
+  }
+
+  static String _argmaxKey(Map<String, double> probs) {
+    String best = '';
+    var bestVal = double.negativeInfinity;
+    probs.forEach((k, v) {
+      if (v > bestVal) {
+        best = k;
+        bestVal = v;
+      }
+    });
+    return best;
   }
 
   @override
@@ -158,6 +227,7 @@ class MlSleepEventAnalyzer implements SleepEventAnalyzer {
             100,
           ),
           filePath: recordingPath,
+          source: AnalyzerSource.ml,
         ),
       );
     }

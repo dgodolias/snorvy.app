@@ -2,6 +2,7 @@ import 'dart:io';
 import 'dart:math' as math;
 import 'dart:typed_data';
 
+import 'package:flutter/foundation.dart';
 import 'package:path/path.dart' as p;
 import 'package:path_provider/path_provider.dart';
 import 'package:snorvy/src/domain/sleep_models.dart';
@@ -72,6 +73,7 @@ class WavAudioEventClipStore implements AudioEventClipStore {
       postRoll: postRoll,
     );
 
+    var refinerFlips = 0;
     for (var index = 0; index < clipWindows.length; index++) {
       final window = clipWindows[index];
       final event = window.event;
@@ -88,6 +90,16 @@ class WavAudioEventClipStore implements AudioEventClipStore {
         event.kind,
         features,
       );
+      if (kind != event.kind) {
+        refinerFlips++;
+        if (kDebugMode) {
+          debugPrint(
+            '[Refiner] flipped ${event.kind.name} -> ${kind.name} '
+            '(source=${event.source.name}, '
+            'index=$index, dur=${(window.coreEnd - window.coreStart).inMilliseconds}ms)',
+          );
+        }
+      }
       final clipDuration = window.clipEnd - window.clipStart;
       final clipBytes = source.clipBytes(
         start: window.clipStart,
@@ -105,10 +117,17 @@ class WavAudioEventClipStore implements AudioEventClipStore {
           duration: clipDuration,
           intensity: event.intensity,
           filePath: clipPath,
+          source: event.source,
         ),
       );
     }
 
+    if (kDebugMode && events.isNotEmpty) {
+      final pct = (100 * refinerFlips / events.length).toStringAsFixed(0);
+      debugPrint(
+        '[Refiner] flipped $refinerFlips/${events.length} events ($pct%)',
+      );
+    }
     return clippedEvents;
   }
 

@@ -4,6 +4,11 @@ import 'package:flutter/foundation.dart';
 import 'package:snorvy/src/domain/sleep_models.dart';
 import 'package:snorvy/src/services/sleep_recorder.dart';
 
+/// Which analyzer pipeline produced an event. Surfaces silently in logs so
+/// we can tell whether the ML pipeline actually ran or fell back to the
+/// dB-based heuristic without anyone noticing.
+enum AnalyzerSource { ml, ruleBased }
+
 class AnalyzedSleepEvent {
   const AnalyzedSleepEvent({
     required this.kind,
@@ -11,6 +16,7 @@ class AnalyzedSleepEvent {
     required this.duration,
     required this.intensity,
     required this.filePath,
+    this.source = AnalyzerSource.ruleBased,
   });
 
   final SleepEventKind kind;
@@ -18,6 +24,7 @@ class AnalyzedSleepEvent {
   final Duration duration;
   final int intensity;
   final String filePath;
+  final AnalyzerSource source;
 }
 
 class SleepAnalysisResult {

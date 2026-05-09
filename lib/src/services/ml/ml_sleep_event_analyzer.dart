@@ -3,6 +3,7 @@ import 'dart:io';
 import 'dart:math' as math;
 
 import 'package:flutter/foundation.dart';
+import 'package:flutter/services.dart' show rootBundle;
 import 'package:path/path.dart' as p;
 import 'package:path_provider/path_provider.dart';
 import 'package:snorvy/src/domain/sleep_models.dart';
@@ -114,6 +115,40 @@ class MlSleepEventAnalyzer implements SleepEventAnalyzer {
       return 'vad silence canary: prob=$vadProb';
     }
     vad.resetState();
+
+    // Test 4 — bundled known-snore sample (`assets/ml/canary_snore.wav`,
+    // 1_300 from the public Kaggle Snoring Dataset). The model gives ~1.00
+    // on this file in the Python lab, so anything below 0.5 means our class
+    // index is wrong or the inference path is not actually reaching the
+    // snoring slot. This is the test that locks down the index ordering.
+    try {
+      final canaryBytes = await rootBundle.load('assets/ml/canary_snore.wav');
+      final canaryAudio = WavReader.parseMono16(
+        canaryBytes.buffer.asUint8List(
+          canaryBytes.offsetInBytes,
+          canaryBytes.lengthInBytes,
+        ),
+      );
+      const windowSamples = 15840;
+      final samples = canaryAudio.samples;
+      final win = samples.length >= windowSamples
+          ? Float32List.sublistView(samples, 0, windowSamples)
+          : (() {
+              final out = Float32List(windowSamples);
+              for (var i = 0; i < samples.length; i++) {
+                out[i] = samples[i];
+              }
+              return out;
+            })();
+      final pred = snore.predictWindow(win).probabilities;
+      final snorProb = pred['snoring'] ?? 0.0;
+      if (snorProb < 0.5) {
+        return 'snore canary: snore=$snorProb probs=$pred';
+      }
+    } on Object catch (e) {
+      return 'snore canary asset failed: $e';
+    }
+
     return null;
   }
 

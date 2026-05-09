@@ -84,6 +84,7 @@ flutter:
     - assets/ml/pipeline_config.json
     - assets/ml/snore_cnn.tflite
     - assets/ml/silero_vad.onnx
+    - assets/ml/canary_snore.wav
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/to/resolution-aware-images

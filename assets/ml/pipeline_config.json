@@ -24,9 +24,9 @@
   "snore": {
     "class_index": {
       "silence": 0,
-      "unknown": 1,
+      "snoring": 1,
       "off": 2,
-      "snoring": 3
+      "unknown": 3
     },
     "default_hop_seconds": 0.2,
     "window_samples": 15840

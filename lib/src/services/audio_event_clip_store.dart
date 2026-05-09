@@ -82,14 +82,19 @@ class WavAudioEventClipStore implements AudioEventClipStore {
         continue;
       }
 
+      // Only run the heuristic refiner over rule-based labels. The dB-based
+      // analyzer routinely confuses long snores for talk and vice-versa, so
+      // a simple zero-crossing post-filter improves it. The ML classifier
+      // already takes the same kind of signal into account through its
+      // mel/PCAN features, and the refiner was actively flipping correct ML
+      // decisions (e.g. a 29s snore -> talk on 2026-05-09).
       final features = source.featuresFor(
         start: window.coreStart,
         end: window.coreEnd,
       );
-      final kind = const WavAudioEventKindRefiner().refine(
-        event.kind,
-        features,
-      );
+      final kind = event.source == AnalyzerSource.ml
+          ? event.kind
+          : const WavAudioEventKindRefiner().refine(event.kind, features);
       if (kind != event.kind) {
         refinerFlips++;
         if (kDebugMode) {

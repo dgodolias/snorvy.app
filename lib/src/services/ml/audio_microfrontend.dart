@@ -1,20 +1,17 @@
+import 'dart:ffi';
+import 'dart:io' show Platform;
 import 'dart:math' as math;
 import 'dart:typed_data';
 
-import 'package:fftea/fftea.dart';
+import 'package:ffi/ffi.dart';
 
-/// Pure-Dart port of TFLite-Micro's `audio_microfrontend` op for the
-/// adrianagaler tiny_conv snore model. Produces (num_frames, num_channels)
-/// log-mel features with optional PCAN smoothing.
+/// FFI wrapper γύρω από `libsnorvy_microfrontend.so`, που με τη σειρά του
+/// φωτιάζει το επίσημο TFLite-Micro `audio_microfrontend` C source — bit-exact
+/// με το Python `tf.lite.experimental.microfrontend`.
 ///
-/// Reference: tensorflow/lite/experimental/microfrontend (C++ source).
-/// The defaults below mirror what the Python ml_lab pipeline uses
-/// (sample_rate=16000, window=30ms, hop=20ms, 40 mel channels, PCAN on).
-///
-/// **Caveat:** this port follows the published math but is not validated
-/// bit-exact against the C++ implementation. Inference outputs may drift
-/// from the Python validation_report.json by more than the documented
-/// ±2 int8 tolerance until a parity test is added.
+/// Παράγει (num_frames × num_channels) uint16 log-mel-PCAN features για κάθε
+/// 1-sec audio chunk. Κάθε call είναι one-shot με fresh state, ταιριάζοντας
+/// τη συμπεριφορά του Python ml_lab.
 class AudioMicrofrontend {
   AudioMicrofrontend({
     this.sampleRate = 16000,
@@ -26,25 +23,18 @@ class AudioMicrofrontend {
     this.numFrames = 49,
     this.enablePcan = true,
     this.enableLog = true,
-    this.pcanStrength = 0.95,
-    this.pcanOffset = 80.0,
-    this.pcanGainBits = 21,
-    this.pcanSmoothingBits = 6,
   })  : _windowSamples = (sampleRate * windowSizeMs / 1000).round(),
         _hopSamples = (sampleRate * windowStepMs / 1000).round() {
-    _fftSize = _nextPow2(_windowSamples);
-    _fft = FFT(_fftSize);
-    _hann = _hannWindow(_windowSamples);
-    _melFilterbank = _buildMelFilterbank(
-      fftSize: _fftSize,
-      sampleRate: sampleRate,
-      numChannels: numMelChannels,
-      lower: lowerBandLimitHz,
-      upper: upperBandLimitHz,
-    );
-    _pcanSmoothed = List<double>.filled(numMelChannels, 0.0);
-    _pcanSmoothing = 1.0 - 1.0 / math.pow(2.0, pcanSmoothingBits);
+    _native = _NativeBindings.instance;
+    if (_native.apiVersion() != _expectedApiVersion) {
+      throw StateError(
+        'snorvy_microfrontend ABI mismatch: got '
+        '${_native.apiVersion()}, expected $_expectedApiVersion',
+      );
+    }
   }
+
+  static const int _expectedApiVersion = 1;
 
   final int sampleRate;
   final int windowSizeMs;
@@ -55,19 +45,13 @@ class AudioMicrofrontend {
   final int numFrames;
   final bool enablePcan;
   final bool enableLog;
-  final double pcanStrength;
-  final double pcanOffset;
-  final int pcanGainBits;
-  final int pcanSmoothingBits;
 
   final int _windowSamples;
   final int _hopSamples;
-  late final int _fftSize;
-  late final FFT _fft;
-  late final Float64List _hann;
-  late final List<List<double>> _melFilterbank;
-  late final List<double> _pcanSmoothed;
-  late final double _pcanSmoothing;
+  late final _NativeBindings _native;
+
+  int get expectedAudioSamples =>
+      _hopSamples * (numFrames - 1) + _windowSamples;
 
   /// Compute features for [audio] (16 kHz mono float32 in [-1, 1]) and return
   /// a flat `Float32List` of length `numFrames * numMelChannels`. The buffer
@@ -77,22 +61,47 @@ class AudioMicrofrontend {
     final padded = audio.length == expected
         ? audio
         : _padOrTruncate(audio, expected);
-    _resetState();
-    final out = Float32List(numFrames * numMelChannels);
-    for (var frame = 0; frame < numFrames; frame++) {
-      final start = frame * _hopSamples;
-      final end = start + _windowSamples;
-      final frameSamples = padded.sublist(start, end);
-      final mel = _frameToMel(frameSamples);
-      for (var c = 0; c < numMelChannels; c++) {
-        out[frame * numMelChannels + c] = mel[c];
-      }
-    }
-    return out;
-  }
 
-  int get expectedAudioSamples =>
-      _hopSamples * (numFrames - 1) + _windowSamples;
+    final featureCount = numFrames * numMelChannels;
+    final inPtr = calloc<Int16>(expected);
+    final outPtr = calloc<Uint16>(featureCount);
+    try {
+      // float32 [-1, 1] → int16 PCM
+      for (var i = 0; i < expected; i++) {
+        final clipped = padded[i].clamp(-1.0, 1.0);
+        inPtr[i] = (clipped * 32767.0).round();
+      }
+
+      final written = _native.compute(
+        inPtr,
+        expected,
+        outPtr,
+        featureCount,
+        sampleRate,
+        windowSizeMs,
+        windowStepMs,
+        numMelChannels,
+        lowerBandLimitHz.round(),
+        upperBandLimitHz.round(),
+        enablePcan ? 1 : 0,
+        enableLog ? 1 : 0,
+      );
+      if (written < 0) {
+        throw StateError(
+          'snorvy_microfrontend native call failed (code=$written)',
+        );
+      }
+
+      final out = Float32List(featureCount);
+      for (var i = 0; i < written && i < featureCount; i++) {
+        out[i] = outPtr[i].toDouble();
+      }
+      return out;
+    } finally {
+      calloc.free(inPtr);
+      calloc.free(outPtr);
+    }
+  }
 
   Int8List quantize(Float32List features, double scale, int zeroPoint) {
     final out = Int8List(features.length);
@@ -103,75 +112,9 @@ class AudioMicrofrontend {
     return out;
   }
 
-  void _resetState() {
-    for (var i = 0; i < _pcanSmoothed.length; i++) {
-      _pcanSmoothed[i] = 0.0;
-    }
-  }
-
-  List<double> _frameToMel(Float32List frame) {
-    final padded = Float64List(_fftSize);
-    for (var i = 0; i < frame.length; i++) {
-      padded[i] = (frame[i] * 32768.0) * _hann[i];
-    }
-    final spectrum = _fft.realFft(padded);
-    final numBins = (_fftSize ~/ 2) + 1;
-    final power = List<double>.filled(numBins, 0.0);
-    for (var i = 0; i < numBins; i++) {
-      final c = spectrum[i];
-      power[i] = c.x * c.x + c.y * c.y;
-    }
-
-    final mel = List<double>.filled(numMelChannels, 0.0);
-    for (var c = 0; c < numMelChannels; c++) {
-      final coeffs = _melFilterbank[c];
-      var sum = 0.0;
-      for (var k = 0; k < coeffs.length; k++) {
-        sum += coeffs[k] * power[k];
-      }
-      mel[c] = sum;
-    }
-
-    if (enablePcan) {
-      for (var c = 0; c < numMelChannels; c++) {
-        _pcanSmoothed[c] =
-            _pcanSmoothing * _pcanSmoothed[c] + (1.0 - _pcanSmoothing) * mel[c];
-        final base = math.pow(_pcanSmoothed[c] + 1e-9, pcanStrength).toDouble();
-        mel[c] = mel[c] / (base + pcanOffset);
-      }
-    }
-
-    if (enableLog) {
-      for (var c = 0; c < numMelChannels; c++) {
-        mel[c] = math.log(mel[c] + 1e-9);
-      }
-    }
-
-    return mel;
-  }
-
-  static Float64List _hannWindow(int size) {
-    final w = Float64List(size);
-    if (size == 1) {
-      w[0] = 1.0;
-      return w;
-    }
-    for (var i = 0; i < size; i++) {
-      w[i] = 0.5 - 0.5 * math.cos(2 * math.pi * i / (size - 1));
-    }
-    return w;
-  }
-
-  static int _nextPow2(int n) {
-    var p = 1;
-    while (p < n) {
-      p <<= 1;
-    }
-    return p;
-  }
-
   static Float32List _padOrTruncate(Float32List audio, int expected) {
-    if (audio.length >= expected) {
+    if (audio.length == expected) return audio;
+    if (audio.length > expected) {
       return Float32List.sublistView(audio, 0, expected);
     }
     final out = Float32List(expected);
@@ -180,45 +123,74 @@ class AudioMicrofrontend {
     }
     return out;
   }
+}
 
-  static List<List<double>> _buildMelFilterbank({
-    required int fftSize,
-    required int sampleRate,
-    required int numChannels,
-    required double lower,
-    required double upper,
-  }) {
-    final numBins = (fftSize ~/ 2) + 1;
-    final melLow = _hzToMel(lower);
-    final melHigh = _hzToMel(upper);
-    final melPoints = List<double>.generate(
-      numChannels + 2,
-      (i) => melLow + (melHigh - melLow) * i / (numChannels + 1),
-    );
-    final hzPoints = melPoints.map(_melToHz).toList();
-    final binFreqs = List<double>.generate(
-      numBins,
-      (i) => i * sampleRate / fftSize,
-    );
+/// Auxiliary log/exp helpers retained for legacy callers.
+double log2(double value) => math.log(value) / math.ln2;
 
-    return List<List<double>>.generate(numChannels, (c) {
-      final low = hzPoints[c];
-      final mid = hzPoints[c + 1];
-      final high = hzPoints[c + 2];
-      final coeffs = List<double>.filled(numBins, 0.0);
-      for (var k = 0; k < numBins; k++) {
-        final f = binFreqs[k];
-        if (f <= low || f >= high) continue;
-        if (f <= mid) {
-          coeffs[k] = (f - low) / (mid - low);
-        } else {
-          coeffs[k] = (high - f) / (high - mid);
-        }
-      }
-      return coeffs;
-    });
+typedef _SnorvyMfApiVersion = Int32 Function();
+typedef _SnorvyMfApiVersionDart = int Function();
+
+typedef _SnorvyMfCompute = Int32 Function(
+  Pointer<Int16>,
+  Int32,
+  Pointer<Uint16>,
+  Int32,
+  Int32,
+  Int32,
+  Int32,
+  Int32,
+  Int32,
+  Int32,
+  Int32,
+  Int32,
+);
+typedef _SnorvyMfComputeDart = int Function(
+  Pointer<Int16>,
+  int,
+  Pointer<Uint16>,
+  int,
+  int,
+  int,
+  int,
+  int,
+  int,
+  int,
+  int,
+  int,
+);
+
+class _NativeBindings {
+  _NativeBindings._() {
+    final lib = _openLibrary();
+    apiVersion = lib
+        .lookup<NativeFunction<_SnorvyMfApiVersion>>('snorvy_mf_api_version')
+        .asFunction<_SnorvyMfApiVersionDart>();
+    compute = lib
+        .lookup<NativeFunction<_SnorvyMfCompute>>('snorvy_mf_compute')
+        .asFunction<_SnorvyMfComputeDart>();
   }
 
-  static double _hzToMel(double hz) => 1127.0 * math.log(1.0 + hz / 700.0);
-  static double _melToHz(double mel) => 700.0 * (math.exp(mel / 1127.0) - 1.0);
+  static final instance = _NativeBindings._();
+
+  late final _SnorvyMfApiVersionDart apiVersion;
+  late final _SnorvyMfComputeDart compute;
+
+  static DynamicLibrary _openLibrary() {
+    if (Platform.isAndroid) {
+      return DynamicLibrary.open('libsnorvy_microfrontend.so');
+    }
+    if (Platform.isIOS || Platform.isMacOS) {
+      return DynamicLibrary.process();
+    }
+    if (Platform.isWindows) {
+      return DynamicLibrary.open('snorvy_microfrontend.dll');
+    }
+    if (Platform.isLinux) {
+      return DynamicLibrary.open('libsnorvy_microfrontend.so');
+    }
+    throw UnsupportedError(
+      'snorvy_microfrontend not available on ${Platform.operatingSystem}',
+    );
+  }
 }

@@ -52,7 +52,7 @@ class _SnorvyShellState extends State<SnorvyShell> {
             nights: widget.controller.nights,
             isLoading: widget.controller.isLoading,
             isBusy: widget.controller.isBusy,
-            playingPath: widget.controller.playingPath,
+            playingAudioKey: widget.controller.playingAudioKey,
             onPlayAudio: widget.controller.playAudio,
             onStopAudio: widget.controller.stopAudio,
             onDeleteNight: widget.controller.deleteNight,

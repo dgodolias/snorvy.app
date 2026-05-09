@@ -47,7 +47,38 @@ class _SnorvySmokeShellState extends State<_SnorvySmokeShell> {
 
   int _selectedIndex = 0;
   int _nextNightId = 1;
-  List<SleepNight> _nights = const [];
+  List<SleepNight> _nights = _seededNights();
+
+  static List<SleepNight> _seededNights() {
+    final now = DateTime.now();
+    final today = DateTime(now.year, now.month, now.day);
+    return [
+      for (var i = 0; i < 12; i++)
+        SleepNight(
+          id: 100 - i,
+          date: today.subtract(Duration(days: i)),
+          startedAt: today
+              .subtract(Duration(days: i))
+              .add(const Duration(hours: 23)),
+          endedAt: today
+              .subtract(Duration(days: i - 1))
+              .add(const Duration(hours: 6, minutes: 45)),
+          snoreScore: 5 + (i * 3) % 18,
+          events: [
+            for (var j = 0; j < (3 + i % 7); j++)
+              SleepEvent(
+                id: i * 100 + j,
+                kind: j.isEven ? SleepEventKind.snore : SleepEventKind.talk,
+                startsAt: today
+                    .subtract(Duration(days: i))
+                    .add(Duration(hours: 23, minutes: j * 7)),
+                duration: Duration(seconds: 6 + j * 3),
+                intensity: 50 + j * 4,
+              ),
+          ],
+        ),
+    ];
+  }
   RecordingSession _recordingSession = const RecordingSession(
     status: RecordingStatus.idle,
   );
@@ -82,7 +113,7 @@ class _SnorvySmokeShellState extends State<_SnorvySmokeShell> {
         nights: _nights,
         isLoading: false,
         isBusy: false,
-        playingPath: _playingPath,
+        playingAudioKey: _playingAudioKey,
         onPlayAudio: _playAudio,
         onStopAudio: _stopAudio,
         onDeleteNight: _deleteNight,

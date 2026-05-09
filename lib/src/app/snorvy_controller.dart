@@ -4,9 +4,12 @@ import 'dart:math' as math;
 
 import 'package:flutter/foundation.dart';
 import 'package:snorvy/src/data/app_database.dart';
+import 'package:snorvy/src/domain/bedtime_reminder.dart';
 import 'package:snorvy/src/domain/sleep_models.dart';
 import 'package:snorvy/src/services/audio_event_clip_store.dart';
 import 'package:snorvy/src/services/audio_playback.dart';
+import 'package:snorvy/src/services/bedtime_reminder_repository.dart';
+import 'package:snorvy/src/services/bedtime_reminder_scheduler.dart';
 import 'package:snorvy/src/services/recording_foreground_service.dart';
 import 'package:snorvy/src/services/recording_exporter.dart';
 import 'package:snorvy/src/services/sleep_event_analyzer.dart';
@@ -29,6 +32,8 @@ class SnorvyController extends ChangeNotifier {
     required RecordingForegroundService recordingForegroundService,
     required SleepEventAnalyzer sleepEventAnalyzer,
     required UnlockRepository unlockRepository,
+    required BedtimeReminderRepository bedtimeReminderRepository,
+    required BedtimeReminderScheduler bedtimeReminderScheduler,
     Duration recordingChunkDuration = _defaultRecordingChunkDuration,
   }) : _database = database,
        _recorder = recorder,
@@ -38,6 +43,8 @@ class SnorvyController extends ChangeNotifier {
        _recordingForegroundService = recordingForegroundService,
        _sleepEventAnalyzer = sleepEventAnalyzer,
        _unlockRepository = unlockRepository,
+       _bedtimeReminderRepository = bedtimeReminderRepository,
+       _bedtimeReminderScheduler = bedtimeReminderScheduler,
        _recordingChunkDuration = recordingChunkDuration;
 
   factory SnorvyController.production() {
@@ -50,6 +57,9 @@ class SnorvyController extends ChangeNotifier {
       recordingForegroundService: createRecordingForegroundService(),
       sleepEventAnalyzer: const LocalLevelSleepEventAnalyzer(),
       unlockRepository: createUnlockRepository(),
+      bedtimeReminderRepository:
+          BedtimeReminderRepository.sharedPreferences(),
+      bedtimeReminderScheduler: BedtimeReminderScheduler(),
     );
   }
 
@@ -61,7 +71,10 @@ class SnorvyController extends ChangeNotifier {
   final RecordingForegroundService _recordingForegroundService;
   final SleepEventAnalyzer _sleepEventAnalyzer;
   final UnlockRepository _unlockRepository;
+  final BedtimeReminderRepository _bedtimeReminderRepository;
+  final BedtimeReminderScheduler _bedtimeReminderScheduler;
   final Duration _recordingChunkDuration;
+  BedtimeReminder _bedtimeReminder = BedtimeReminder.defaults;
   StreamSubscription<UnlockState>? _unlockSubscription;
   StreamSubscription<RecordingPowerFrame>? _powerFrameSubscription;
   Timer? _chunkRotationTimer;
@@ -103,6 +116,8 @@ class SnorvyController extends ChangeNotifier {
 
   String? get statusMessage => _statusMessage;
 
+  BedtimeReminder get bedtimeReminder => _bedtimeReminder;
+
   Future<void> initialize() async {
     _unlockSubscription = _unlockRepository.updates.listen((state) {
       _unlockState = state;
@@ -121,7 +136,47 @@ class SnorvyController extends ChangeNotifier {
     } on Exception {
       _statusMessage = 'Could not clean old temporary audio chunks.';
     }
+    try {
+      _bedtimeReminder = await _bedtimeReminderRepository.load();
+    } on Exception {
+      _bedtimeReminder = BedtimeReminder.defaults;
+    }
+    try {
+      await _bedtimeReminderScheduler.initialize();
+      await _bedtimeReminderScheduler.reschedule(_bedtimeReminder);
+    } on Exception {
+      _statusMessage = 'Could not schedule bedtime reminders.';
+    }
     await _loadNights();
+  }
+
+  Future<void> fireBedtimeReminderTest() async {
+    try {
+      await _bedtimeReminderScheduler.fireTestNotification();
+      _statusMessage = 'Test reminder will arrive in a few seconds.';
+      notifyListeners();
+    } on Exception {
+      _statusMessage = 'Could not send the test reminder.';
+      notifyListeners();
+    }
+  }
+
+  Future<void> updateBedtimeReminder(BedtimeReminder reminder) async {
+    if (reminder == _bedtimeReminder) return;
+    _bedtimeReminder = reminder;
+    notifyListeners();
+    try {
+      await _bedtimeReminderRepository.save(reminder);
+    } on Exception {
+      _statusMessage = 'Could not save the bedtime reminder.';
+      notifyListeners();
+    }
+    try {
+      await _bedtimeReminderScheduler.reschedule(reminder);
+    } on Exception {
+      _statusMessage = 'Could not schedule the bedtime reminder.';
+      notifyListeners();
+    }
   }
 
   Future<void> startRecording() async {

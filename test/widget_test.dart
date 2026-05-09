@@ -9,6 +9,8 @@ import 'package:snorvy/src/data/app_database.dart';
 import 'package:snorvy/src/domain/sleep_models.dart';
 import 'package:snorvy/src/services/audio_event_clip_store.dart';
 import 'package:snorvy/src/services/audio_playback.dart';
+import 'package:snorvy/src/services/bedtime_reminder_repository.dart';
+import 'package:snorvy/src/services/bedtime_reminder_scheduler.dart';
 import 'package:snorvy/src/services/recording_foreground_service.dart';
 import 'package:snorvy/src/services/recording_exporter.dart';
 import 'package:snorvy/src/services/sleep_event_analyzer.dart';
@@ -287,6 +289,8 @@ SnorvyController _buildController({
     recordingForegroundService: const NoopRecordingForegroundService(),
     sleepEventAnalyzer: const _EmptySleepEventAnalyzer(),
     unlockRepository: _FakeUnlockRepository(),
+    bedtimeReminderRepository: BedtimeReminderRepository.inMemory(),
+    bedtimeReminderScheduler: BedtimeReminderScheduler.noop(),
     recordingChunkDuration: Duration.zero,
   );
 }

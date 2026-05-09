@@ -32,6 +32,7 @@ class _SnorvyShellState extends State<SnorvyShell> {
             isLoading: widget.controller.isLoading,
             statusMessage: widget.controller.statusMessage,
             playingAudioKey: widget.controller.playingAudioKey,
+            bedtimeReminder: widget.controller.bedtimeReminder,
             onStartRecording: widget.controller.startRecording,
             onStopRecording: widget.controller.stopRecording,
             onPlayAudio: widget.controller.playAudio,
@@ -43,6 +44,9 @@ class _SnorvyShellState extends State<SnorvyShell> {
               onUnlock: widget.controller.buyLifetimeUnlock,
               onRestore: widget.controller.restorePurchases,
             ),
+            onUpdateBedtimeReminder: widget.controller.updateBedtimeReminder,
+            onTestBedtimeReminder:
+                widget.controller.fireBedtimeReminderTest,
           ),
           HistoryScreen(
             nights: widget.controller.nights,

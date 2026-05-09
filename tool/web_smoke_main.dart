@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:snorvy/src/domain/bedtime_reminder.dart';
 import 'package:snorvy/src/domain/sleep_models.dart';
 import 'package:snorvy/src/features/history/history_screen.dart';
 import 'package:snorvy/src/features/settings/settings_screen.dart';
@@ -67,12 +68,15 @@ class _SnorvySmokeShellState extends State<_SnorvySmokeShell> {
         isLoading: false,
         statusMessage: _statusMessage,
         playingAudioKey: _playingAudioKey,
+        bedtimeReminder: BedtimeReminder.defaults,
         onStartRecording: _startRecording,
         onStopRecording: _stopRecording,
         onPlayAudio: _playAudio,
         onStopAudio: _stopAudio,
         onExportAudio: _exportAudio,
         onUnlockTap: _showUnlock,
+        onUpdateBedtimeReminder: (_) async {},
+        onTestBedtimeReminder: () async {},
       ),
       HistoryScreen(
         nights: _nights,

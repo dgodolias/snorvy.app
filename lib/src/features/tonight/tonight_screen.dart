@@ -3,6 +3,7 @@ import 'dart:math' as math;
 
 import 'package:flutter/material.dart';
 import 'package:intl/intl.dart';
+import 'package:snorvy/src/domain/bedtime_reminder.dart';
 import 'package:snorvy/src/domain/sleep_models.dart';
 import 'package:snorvy/src/services/sleep_recorder.dart';
 import 'package:snorvy/src/theme/snorvy_theme.dart';
@@ -48,12 +49,15 @@ class TonightScreen extends StatefulWidget {
     required this.isLoading,
     required this.statusMessage,
     required this.playingAudioKey,
+    required this.bedtimeReminder,
     required this.onStartRecording,
     required this.onStopRecording,
     required this.onPlayAudio,
     required this.onStopAudio,
     required this.onExportAudio,
     required this.onUnlockTap,
+    required this.onUpdateBedtimeReminder,
+    required this.onTestBedtimeReminder,
     super.key,
   });
 
@@ -64,12 +68,16 @@ class TonightScreen extends StatefulWidget {
   final bool isLoading;
   final String? statusMessage;
   final String? playingAudioKey;
+  final BedtimeReminder bedtimeReminder;
   final Future<void> Function() onStartRecording;
   final Future<void> Function() onStopRecording;
   final AudioPlayCallback onPlayAudio;
   final Future<void> Function() onStopAudio;
   final Future<void> Function(String filePath) onExportAudio;
   final VoidCallback onUnlockTap;
+  final Future<void> Function(BedtimeReminder reminder)
+      onUpdateBedtimeReminder;
+  final Future<void> Function() onTestBedtimeReminder;
 
   @override
   State<TonightScreen> createState() => _TonightScreenState();
@@ -81,8 +89,17 @@ class _TonightScreenState extends State<TonightScreen> {
   @override
   Widget build(BuildContext context) {
     final latestNight = widget.nights.isEmpty ? null : widget.nights.first;
+    final todayNights = latestNight == null
+        ? const <SleepNight>[]
+        : widget.nights.where((night) {
+            return night.date.year == latestNight.date.year &&
+                night.date.month == latestNight.date.month &&
+                night.date.day == latestNight.date.day;
+          }).toList();
+    final allTodayEvents = todayNights.expand((n) => n.events).toList()
+      ..sort((a, b) => b.startsAt.compareTo(a.startsAt));
     final selectedKind = _selectedTab.eventKind;
-    final events = (latestNight?.events ?? const <SleepEvent>[])
+    final events = allTodayEvents
         .where((event) => event.kind == selectedKind)
         .toList();
 
@@ -104,21 +121,27 @@ class _TonightScreenState extends State<TonightScreen> {
               onStartRecording: widget.onStartRecording,
               onStopRecording: widget.onStopRecording,
             ),
+            const SizedBox(height: 14),
+            _BedtimeReminderPanel(
+              reminder: widget.bedtimeReminder,
+              onUpdate: widget.onUpdateBedtimeReminder,
+              onTest: widget.onTestBedtimeReminder,
+            ),
             if (latestNight != null) ...[
               const SizedBox(height: 14),
-              _TonightStats(night: latestNight),
+              _TonightStats(nights: todayNights),
             ],
             const SizedBox(height: 22),
             _SectionHeader(
               title: 'Audio clips',
-              actionLabel: latestNight == null
+              actionLabel: allTodayEvents.isEmpty
                   ? null
-                  : '${latestNight.events.length} saved',
+                  : '${allTodayEvents.length} saved today',
             ),
             const SizedBox(height: 12),
             _AudioTabs(
               selected: _selectedTab,
-              night: latestNight,
+              events: allTodayEvents,
               onSelected: (tab) => setState(() => _selectedTab = tab),
             ),
             const SizedBox(height: 10),
@@ -629,20 +652,27 @@ class _WaveformPainter extends CustomPainter {
 }
 
 class _TonightStats extends StatelessWidget {
-  const _TonightStats({required this.night});
+  const _TonightStats({required this.nights});
 
-  final SleepNight night;
+  final List<SleepNight> nights;
 
   @override
   Widget build(BuildContext context) {
     final formatter = DateFormat('EEE, MMM d');
+    final referenceDate = nights.isEmpty ? DateTime.now() : nights.first.date;
+    final snoreCount = nights.fold<int>(0, (t, n) => t + n.snoreCount);
+    final talkMinutes = nights.fold<int>(0, (t, n) => t + n.talkMinutes);
+    final totalDuration = nights.fold<Duration>(
+      Duration.zero,
+      (t, n) => t + n.duration,
+    );
 
     return Row(
       children: [
         Expanded(
           child: _MetricTile(
             label: 'Snore count',
-            value: '${night.snoreCount}',
+            value: '$snoreCount',
             sub: 'events',
             accent: SnorvyTheme.neuralMint,
           ),
@@ -651,7 +681,7 @@ class _TonightStats extends StatelessWidget {
         Expanded(
           child: _MetricTile(
             label: 'Talk',
-            value: '${night.talkMinutes}m',
+            value: '${talkMinutes}m',
             sub: 'audio',
             accent: SnorvyTheme.talkAmber,
           ),
@@ -659,10 +689,10 @@ class _TonightStats extends StatelessWidget {
         const SizedBox(width: 8),
         Expanded(
           child: _MetricTile(
-            label: formatter.format(night.date),
+            label: formatter.format(referenceDate),
             value:
-                '${night.duration.inHours}h ${night.duration.inMinutes % 60}m',
-            sub: 'rest',
+                '${totalDuration.inHours}h ${totalDuration.inMinutes % 60}m',
+            sub: nights.length > 1 ? '${nights.length} sessions' : 'rest',
             accent: Theme.of(context).colorScheme.onSurfaceVariant,
           ),
         ),
@@ -730,12 +760,12 @@ class _MetricTile extends StatelessWidget {
 class _AudioTabs extends StatelessWidget {
   const _AudioTabs({
     required this.selected,
-    required this.night,
+    required this.events,
     required this.onSelected,
   });
 
   final _AudioTab selected;
-  final SleepNight? night;
+  final List<SleepEvent> events;
   final ValueChanged<_AudioTab> onSelected;
 
   @override
@@ -756,14 +786,10 @@ class _AudioTabs extends StatelessWidget {
   }
 
   String _labelFor(_AudioTab tab) {
-    final night = this.night;
-    if (night == null) {
+    if (events.isEmpty) {
       return tab.label;
     }
-
-    final count = night.events
-        .where((event) => event.kind == tab.eventKind)
-        .length;
+    final count = events.where((event) => event.kind == tab.eventKind).length;
     return '${tab.label} ($count)';
   }
 }
@@ -955,5 +981,203 @@ class _TimelineEventTile extends StatelessWidget {
         ),
       ),
     );
+  }
+}
+
+class _BedtimeReminderPanel extends StatelessWidget {
+  const _BedtimeReminderPanel({
+    required this.reminder,
+    required this.onUpdate,
+    required this.onTest,
+  });
+
+  final BedtimeReminder reminder;
+  final Future<void> Function(BedtimeReminder reminder) onUpdate;
+  final Future<void> Function() onTest;
+
+  @override
+  Widget build(BuildContext context) {
+    final colorScheme = Theme.of(context).colorScheme;
+    final enabled = reminder.enabled;
+    final timeLabel =
+        '${reminder.time.hour.toString().padLeft(2, '0')}:'
+        '${reminder.time.minute.toString().padLeft(2, '0')}';
+    final nextFireLabel = _nextFireLabel(reminder.time);
+
+    return DecoratedBox(
+      decoration: BoxDecoration(
+        borderRadius: BorderRadius.circular(12),
+        color: colorScheme.surfaceContainerLow,
+        border: Border.all(color: SnorvyTheme.midnightBorder),
+      ),
+      child: Padding(
+        padding: const EdgeInsets.all(16),
+        child: Column(
+          crossAxisAlignment: CrossAxisAlignment.start,
+          children: [
+            Row(
+              children: [
+                Icon(
+                  Icons.notifications_active_outlined,
+                  size: 18,
+                  color: enabled
+                      ? SnorvyTheme.neuralMint
+                      : colorScheme.onSurfaceVariant,
+                ),
+                const SizedBox(width: 8),
+                Expanded(
+                  child: Text(
+                    'Bedtime reminder',
+                    style: SnorvyTheme.labelStyle(context).copyWith(
+                      color: enabled
+                          ? SnorvyTheme.neuralMint
+                          : colorScheme.onSurfaceVariant,
+                    ),
+                  ),
+                ),
+                Switch(
+                  value: enabled,
+                  onChanged: (value) =>
+                      onUpdate(reminder.copyWith(enabled: value)),
+                ),
+              ],
+            ),
+            const SizedBox(height: 8),
+            Opacity(
+              opacity: enabled ? 1 : 0.55,
+              child: Column(
+                crossAxisAlignment: CrossAxisAlignment.start,
+                children: [
+                  Row(
+                    children: [
+                      Expanded(
+                        child: Text(
+                          'Remind me at',
+                          style: Theme.of(context).textTheme.bodyMedium
+                              ?.copyWith(color: colorScheme.onSurface),
+                        ),
+                      ),
+                      FilledButton.tonal(
+                        style: FilledButton.styleFrom(
+                          backgroundColor: colorScheme.surfaceContainerHigh,
+                          foregroundColor: colorScheme.onSurface,
+                          padding: const EdgeInsets.symmetric(
+                            horizontal: 14,
+                            vertical: 10,
+                          ),
+                          shape: RoundedRectangleBorder(
+                            borderRadius: BorderRadius.circular(8),
+                          ),
+                        ),
+                        onPressed: enabled
+                            ? () async {
+                                final picked = await showTimePicker(
+                                  context: context,
+                                  initialTime: reminder.time,
+                                  builder: (context, child) => MediaQuery(
+                                    data: MediaQuery.of(context).copyWith(
+                                      alwaysUse24HourFormat: true,
+                                    ),
+                                    child: child ?? const SizedBox.shrink(),
+                                  ),
+                                );
+                                if (picked != null) {
+                                  await onUpdate(
+                                    reminder.copyWith(time: picked),
+                                  );
+                                }
+                              }
+                            : null,
+                        child: Text(
+                          timeLabel,
+                          style: const TextStyle(
+                            fontFeatures: [FontFeature.tabularFigures()],
+                            fontWeight: FontWeight.w700,
+                          ),
+                        ),
+                      ),
+                    ],
+                  ),
+                  const SizedBox(height: 12),
+                  Container(
+                    padding: const EdgeInsets.symmetric(
+                      horizontal: 12,
+                      vertical: 10,
+                    ),
+                    decoration: BoxDecoration(
+                      color: SnorvyTheme.neuralMint.withValues(alpha: 0.10),
+                      borderRadius: BorderRadius.circular(8),
+                    ),
+                    child: Row(
+                      children: [
+                        const Icon(
+                          Icons.alarm,
+                          size: 16,
+                          color: SnorvyTheme.neuralMint,
+                        ),
+                        const SizedBox(width: 8),
+                        Expanded(
+                          child: Text(
+                            'Next reminder: $nextFireLabel',
+                            style: Theme.of(context).textTheme.bodySmall
+                                ?.copyWith(
+                                  color: colorScheme.onSurface,
+                                  fontWeight: FontWeight.w600,
+                                  fontFeatures: const [
+                                    FontFeature.tabularFigures(),
+                                  ],
+                                ),
+                          ),
+                        ),
+                      ],
+                    ),
+                  ),
+                  const SizedBox(height: 8),
+                  Text(
+                    'A daily nudge to open Snorvy. You can turn it off anytime.',
+                    style: Theme.of(context).textTheme.bodySmall?.copyWith(
+                      color: colorScheme.onSurfaceVariant,
+                      height: 1.35,
+                    ),
+                  ),
+                  const SizedBox(height: 10),
+                  Align(
+                    alignment: Alignment.centerLeft,
+                    child: TextButton.icon(
+                      onPressed: onTest,
+                      icon: const Icon(Icons.send_outlined, size: 16),
+                      label: const Text('Send test reminder now'),
+                      style: TextButton.styleFrom(
+                        foregroundColor: SnorvyTheme.neuralMint,
+                        padding: const EdgeInsets.symmetric(
+                          horizontal: 10,
+                          vertical: 6,
+                        ),
+                      ),
+                    ),
+                  ),
+                ],
+              ),
+            ),
+          ],
+        ),
+      ),
+    );
+  }
+
+  String _nextFireLabel(TimeOfDay time) {
+    final now = DateTime.now();
+    var next = DateTime(now.year, now.month, now.day, time.hour, time.minute);
+    if (!next.isAfter(now)) {
+      next = next.add(const Duration(days: 1));
+    }
+    final today = DateTime(now.year, now.month, now.day);
+    final tomorrow = today.add(const Duration(days: 1));
+    final hh = time.hour.toString().padLeft(2, '0');
+    final mm = time.minute.toString().padLeft(2, '0');
+    final nextDay = DateTime(next.year, next.month, next.day);
+    if (nextDay == today) return 'today $hh:$mm';
+    if (nextDay == tomorrow) return 'tomorrow $hh:$mm';
+    return '$hh:$mm';
   }
 }

@@ -6,7 +6,8 @@
 
 | # | Symptom | Root cause | Fix commit | Verify |
 |---|---|---|---|---|
-| 8 | Snore suppression δεν ενεργοποιείται ακόμα κι αν Silero βγάζει 0.73 voice spike | Linear interpolation στο 200ms decision grid σκότωνε ένα narrow 32ms voice frame (0.73 → 0.36 μετά interp). Suppression mask δεν περνούσε ποτέ το threshold. | (current) | Run a 3-sec talk recording, debug JSON `voice.probs` σε raw 32ms hop πρέπει να έχει >0.5 ticks, και τα γύρω 200ms grid ticks πρέπει να μαρκάρονται suppressed. |
+| 9 | Καθαρό talk με Silero voice peaks 0.99+ (28 frames > 0.7) **δεν** γίνεται talk event | Voice timeline σε 32ms hop (Silero) → linear interp στο 200ms decision grid → narrow ~500ms spike smoothed σε ~0.4 ticks → δεν περνά το `talk_enter=0.7` σε 3+ συνεχόμενα ticks. Snore suppression δούλευε (raw scan), αλλά talk hysteresis ακόμα έβλεπε smoothed signal. | `ffcf89b` | Replace voice resampling με max-pooling: κάθε grid tick = max όλων των Silero frames στο ±100ms window. Verify με recording όπου ομιλείς σε ένα window — talk event με conf > 0.9 πρέπει να εμφανιστεί. |
+| 8 | Snore suppression δεν ενεργοποιείται ακόμα κι αν Silero βγάζει 0.73 voice spike | Linear interpolation στο 200ms decision grid σκότωνε ένα narrow 32ms voice frame (0.73 → 0.36 μετά interp). Suppression mask δεν περνούσε ποτέ το threshold. | `2afb00c` | `_voiceContextFromRaw` σκανάρει raw timestamps απευθείας. Debug JSON `voice.probs` σε raw 32ms hop πρέπει να έχει >0.5 ticks, και τα γύρω 200ms grid ticks πρέπει να μαρκάρονται suppressed. |
 | 7 | Talks γίνονται snore γιατί snore CNN πατάει στις παύσεις λέξεων | `snore_wins_on_conflict=true` επέτρεπε στο snore να καπελώνει σωστές voice detections. | `1907786` | Recording με ομιλία: voice mean ~0.5+ → talk events fire, snore suppressed σε ±2s rolling max ≥ 0.5. |
 | 6 | Silero voice prob max=0.12 σε δικά μας audio, max=1.00 με PyPI wrapper σε **ίδιο model file** | PyPI silero_vad's OnnxWrapper προσθέτει 64 samples audio context μπροστά από κάθε 512-sample frame: `x = torch.cat([self._context, x], dim=1)`. ONNX input shape είναι (1, 576), όχι (1, 512). Χωρίς το context το model βλέπει zeros ως ιστορία και ποτέ δεν warm up. | `4a7b661` | `lib/src/services/ml/vad_classifier.dart` πρέπει να έχει `_context = Float32List(64)`, prepended πριν κάθε `OrtValueTensor.createTensorWithDataList` με shape `[1, 576]`, και update στο τέλος του `processChunk` με τα τελευταία 64 samples του chunk. |
 | 5 | ML event correctly tagged snore αλλά ξαφνικά γίνεται talk στο UI | `WavAudioEventKindRefiner.refine()` έχει heuristic (`activeZeroCrossingRate >= 1300`) που πετυχαίνει για το dB-based analyzer, αλλά **αναποδογυρίζει σωστές ML decisions**. 100% των ML events flipping σε ένα run. | `e1e2494` | `audio_event_clip_store.dart` δεν τρέχει refiner όταν `event.source == AnalyzerSource.ml`. Logcat: `[Refiner] flipped X/Y events` πρέπει να αναφέρει 0 για ml-source events. |
@@ -34,10 +35,13 @@
 1. **Πρώτη ένδειξη ότι κάτι σπάει**: pull το πιο πρόσφατο `app_flutter/recordings/ml_debug/<chunk>_ml_debug.json` και ψάξε:
    - **Snore mean = 0.25 ή 0.5 ακριβώς** → output aliasing / class index swap
    - **Snore + Voice = 0 παντού** → ML didn't load, ψάξε `ML disabled` στο logcat
-   - **Snore varies, Voice stuck < 0.2** → Silero context prefix bug
+   - **Snore varies, Voice stuck < 0.2** → Silero context prefix bug (Bug #6)
+   - **Voice peaks > 0.7 αλλά no talk events** → resampling smoothing (Bug #9)
+   - **Voice spike high αλλά snore γίνεται event μέσα του** → suppression mask resampling (Bug #8)
 2. **Πάντα τρέξε `[Microfrontend] first call:`** log line. Αν `out_max < 100`, μicrofrontend has issue (όχι log2*64).
 3. **Πάντα τρέξε canary**. Αν `[MlAnalyzer] ML disabled, falling back: <reason>` εμφανιστεί, ξεκίνα από εκεί.
 4. **Αν `[Refiner] flipped > 0/N` για ml-source events** → bug στο refiner gating.
+5. **Αν resampling παίζει ρόλο** (αλλάζεις decision grid, hop, threshold): πάντα verify στα RAW probs, όχι στα grid-resampled. Bugs #8 και #9 ήταν αυτό ακριβώς το pattern δύο φορές.
 
 ## Καθολικός κανόνας
 

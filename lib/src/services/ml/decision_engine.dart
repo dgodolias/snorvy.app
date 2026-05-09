@@ -34,6 +34,13 @@ class DecisionEngine {
     final snoreOnGrid = _resampleToGrid(snoreTimestamps, snoreProbs, grid);
     final voiceOnGrid = _resampleToGrid(voiceTimestamps, voiceProbs, grid);
 
+    // Smear voice activity ±2 s. The snore CNN over-fires on the brief
+    // pauses between spoken words; Silero, in contrast, has very high
+    // precision when its probability is above 0.7. Treat any tick within
+    // 2 s of confident voice as "speech context" and suppress snore there.
+    final voiceContext = _rollingMax(voiceOnGrid, halfWindowSeconds: 2.0);
+    const speechSuppressionThreshold = 0.7;
+
     final snoreEvents = _hysteresis(
       grid: grid,
       target: snoreOnGrid,
@@ -41,8 +48,10 @@ class DecisionEngine {
       exitThreshold: config.snoreExit,
       label: 'snore',
       minDuration: config.minSnoreSeconds,
-      gateBySnore: false,
-      snoreOnGrid: snoreOnGrid,
+      suppressMask: [
+        for (var i = 0; i < grid.length; i++)
+          voiceContext[i] >= speechSuppressionThreshold,
+      ],
     );
     final talkEvents = _hysteresis(
       grid: grid,
@@ -51,8 +60,7 @@ class DecisionEngine {
       exitThreshold: config.talkExit,
       label: 'talk',
       minDuration: config.minTalkSeconds,
-      gateBySnore: config.snoreWinsOnConflict,
-      snoreOnGrid: snoreOnGrid,
+      suppressMask: List<bool>.filled(grid.length, false),
     );
 
     final mergedSnore = _mergeClose(snoreEvents, config.mergeGapSnoreSeconds);
@@ -60,6 +68,25 @@ class DecisionEngine {
     final all = [...mergedSnore, ...mergedTalk]
       ..sort((a, b) => a.startSeconds.compareTo(b.startSeconds));
     return all;
+  }
+
+  List<double> _rollingMax(
+    List<double> values, {
+    required double halfWindowSeconds,
+  }) {
+    final halfTicks = math.max(1, (halfWindowSeconds / config.gridSeconds).round());
+    final n = values.length;
+    final out = List<double>.filled(n, 0.0);
+    for (var i = 0; i < n; i++) {
+      final lo = math.max(0, i - halfTicks);
+      final hi = math.min(n - 1, i + halfTicks);
+      var best = 0.0;
+      for (var k = lo; k <= hi; k++) {
+        if (values[k] > best) best = values[k];
+      }
+      out[i] = best;
+    }
+    return out;
   }
 
   List<double> _grid(double durationSeconds) {
@@ -108,8 +135,7 @@ class DecisionEngine {
     required double exitThreshold,
     required String label,
     required double minDuration,
-    required bool gateBySnore,
-    required List<double> snoreOnGrid,
+    required List<bool> suppressMask,
   }) {
     final events = <DecisionEvent>[];
     var inEvent = false;
@@ -120,10 +146,8 @@ class DecisionEngine {
       final t = grid[i];
       final value = target[i];
       var active = inEvent ? value >= exitThreshold : value >= enter;
-      if (active && gateBySnore) {
-        if (snoreOnGrid[i] >= config.snoreEnter) {
-          active = false;
-        }
+      if (active && suppressMask[i]) {
+        active = false;
       }
 
       if (active && !inEvent) {

@@ -46,3 +46,4 @@ app.*.map.json
 /android/app/release
 .venv-ml/
 ml_lab/data
+.claude/worktrees/

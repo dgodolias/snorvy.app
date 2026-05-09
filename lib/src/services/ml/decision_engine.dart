@@ -32,7 +32,12 @@ class DecisionEngine {
   }) {
     final grid = _grid(durationSeconds);
     final snoreOnGrid = _resampleToGrid(snoreTimestamps, snoreProbs, grid);
-    final voiceOnGrid = _resampleToGrid(voiceTimestamps, voiceProbs, grid);
+    // Voice runs at the raw Silero hop (~32 ms) so a real-world voice spike
+    // can be 3-6 frames wide. Linear interp onto the 200 ms decision grid
+    // smooths a 0.99 frame next to a 0.05 neighbour down to ~0.4, which
+    // routinely drops a clean talk under the 0.7 hysteresis threshold. Use
+    // max-over-window resampling so narrow spikes survive.
+    final voiceOnGrid = _maxResampleToGrid(voiceTimestamps, voiceProbs, grid);
 
     // For the speech-suppression mask we need to detect any narrow voice
     // spike in the raw 32 ms Silero timeline — interpolating onto the 200 ms
@@ -74,6 +79,43 @@ class DecisionEngine {
     final all = [...mergedSnore, ...mergedTalk]
       ..sort((a, b) => a.startSeconds.compareTo(b.startSeconds));
     return all;
+  }
+
+  /// Max-pool [values] sampled at [timestamps] onto [grid]. Each grid tick
+  /// gets the maximum of all source samples whose timestamp falls within ±
+  /// half-step of the tick (or the nearest neighbour if none do). Use for
+  /// densely-sampled streams where narrow peaks must survive downsampling.
+  List<double> _maxResampleToGrid(
+    List<double> timestamps,
+    List<double> values,
+    List<double> grid,
+  ) {
+    final out = List<double>.filled(grid.length, 0.0);
+    if (timestamps.isEmpty || values.isEmpty) return out;
+    final half = config.gridSeconds / 2;
+    var cursor = 0;
+    for (var i = 0; i < grid.length; i++) {
+      final lo = grid[i] - half;
+      final hi = grid[i] + half;
+      while (cursor < timestamps.length && timestamps[cursor] < lo) {
+        cursor++;
+      }
+      var best = 0.0;
+      var found = false;
+      for (var k = cursor; k < timestamps.length; k++) {
+        if (timestamps[k] > hi) break;
+        if (values[k] > best) best = values[k];
+        found = true;
+      }
+      if (!found) {
+        // No sample in window — fall back to nearest neighbour.
+        final idx = cursor < timestamps.length ? cursor : timestamps.length - 1;
+        out[i] = values[idx];
+      } else {
+        out[i] = best;
+      }
+    }
+    return out;
   }
 
   /// For each tick in [grid], return true iff there is at least one entry in

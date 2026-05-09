@@ -9,7 +9,7 @@ class SegmenterTest(unittest.TestCase):
         predictions = [
             prediction(0.0, 0.96, Label.snore),
             prediction(0.48, 1.44, Label.snore),
-            prediction(0.96, 1.92, Label.noise),
+            prediction(0.96, 1.92, Label.other),
             prediction(1.44, 2.40, Label.talk),
             prediction(1.92, 2.88, Label.talk),
         ]
@@ -25,7 +25,7 @@ class SegmenterTest(unittest.TestCase):
     def test_smooth_single_window_label_flip(self) -> None:
         predictions = [
             prediction(0.0, 0.96, Label.snore),
-            prediction(0.48, 1.44, Label.noise),
+            prediction(0.48, 1.44, Label.other),
             prediction(0.96, 1.92, Label.snore),
         ]
 
@@ -38,9 +38,9 @@ def prediction(start: float, end: float, label: Label) -> WindowPrediction:
     return WindowPrediction(
         window=TimeWindow(start_seconds=start, end_seconds=end),
         label=label,
-        confidence=0.7,
-        snore_score=0.7 if label == Label.snore else 0.0,
-        talk_score=0.7 if label == Label.talk else 0.0,
+        confidence=0.9,
+        snore_score=0.9 if label == Label.snore else 0.0,
+        talk_score=0.9 if label == Label.talk else 0.0,
     )
 
 

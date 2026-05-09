@@ -31,7 +31,7 @@ def classify_score_row(
     snore_score = max_score(scores, snore_indices)
     talk_score = max_score(scores, talk_indices)
 
-    label = Label.noise
+    label = Label.other
     confidence = max(snore_score, talk_score)
 
     if (

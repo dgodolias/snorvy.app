@@ -33,6 +33,7 @@ migrate_working_dir/
 /build/
 /coverage/
 /web/drift_worker.js.deps
+.venv-ml/
 
 # Symbolication related
 app.*.symbols

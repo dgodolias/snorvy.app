@@ -1,0 +1,29 @@
+file,start_seconds,end_seconds,label,notes
+voice_recorder_2026-05-08_204620.m4a,0.000,2.000,other,before snore
+voice_recorder_2026-05-08_204620.m4a,2.000,3.000,snore,user-labeled snore
+voice_recorder_2026-05-08_204620.m4a,3.000,14.000,other,after snore
+voice_recorder_2026-05-08_205445.m4a,0.000,3.000,other,before snore
+voice_recorder_2026-05-08_205445.m4a,3.000,17.000,snore,user-labeled snore
+voice_recorder_2026-05-08_205445.m4a,17.000,25.000,other,between events
+voice_recorder_2026-05-08_205445.m4a,25.000,30.000,talk,user-labeled talk
+voice_recorder_2026-05-08_205445.m4a,30.000,41.865,other,after talk
+voice_recorder_2026-05-08_205716.m4a,0.000,3.000,other,before snore
+voice_recorder_2026-05-08_205716.m4a,3.000,15.000,snore,user-labeled snore
+voice_recorder_2026-05-08_205716.m4a,15.000,23.000,other,between events
+voice_recorder_2026-05-08_205716.m4a,23.000,30.000,talk,user-labeled talk
+voice_recorder_2026-05-08_205716.m4a,30.000,34.482,other,after talk
+voice_recorder_2026-05-08_210114.m4a,0.000,38.000,snore,user-labeled snore
+voice_recorder_2026-05-08_210114.m4a,38.000,83.000,other,between snore runs
+voice_recorder_2026-05-08_210114.m4a,83.000,114.000,snore,user-labeled snore
+voice_recorder_2026-05-08_210114.m4a,114.000,124.226,other,after snore
+voice_recorder_2026-05-08_211709.m4a,0.000,23.000,other,before first rec5 snore
+voice_recorder_2026-05-08_211709.m4a,23.000,33.000,snore,user-labeled snore
+voice_recorder_2026-05-08_211709.m4a,33.000,39.000,other,between rec5 snores
+voice_recorder_2026-05-08_211709.m4a,39.000,40.000,snore,user-labeled short snore
+voice_recorder_2026-05-08_211709.m4a,40.000,78.000,other,before rec5 talk
+voice_recorder_2026-05-08_211709.m4a,78.000,93.000,talk,user-labeled talk
+voice_recorder_2026-05-08_211709.m4a,93.000,112.000,other,before rec5 short snore
+voice_recorder_2026-05-08_211709.m4a,112.000,114.000,snore,user-labeled short snore
+voice_recorder_2026-05-08_211709.m4a,114.000,135.000,other,before final rec5 snore
+voice_recorder_2026-05-08_211709.m4a,135.000,160.000,snore,user-labeled snore
+voice_recorder_2026-05-08_211709.m4a,160.000,186.549,other,after final rec5 snore

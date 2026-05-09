@@ -28,4 +28,4 @@ class SegmentSettings:
     merge_gap_seconds: float = 0.72
     min_snore_seconds: float = 0.40
     min_talk_seconds: float = 1.20
-    min_confidence: float = 0.18
+    min_confidence: float = 0.75

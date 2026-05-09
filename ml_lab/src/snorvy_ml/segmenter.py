@@ -62,7 +62,7 @@ def merge_runs(
     current_items: list[WindowPrediction] = []
 
     for prediction in predictions:
-        if prediction.label == Label.noise:
+        if prediction.label == Label.other:
             flush_segment(current_items, segments)
             current_items = []
             continue

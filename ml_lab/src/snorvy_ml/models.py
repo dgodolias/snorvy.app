@@ -3,9 +3,22 @@ from enum import StrEnum
 
 
 class Label(StrEnum):
-    noise = "noise"
+    other = "other"
     snore = "snore"
     talk = "talk"
+
+
+@dataclass(frozen=True)
+class LabelSpan:
+    file: str
+    start_seconds: float
+    end_seconds: float
+    label: Label
+    notes: str = ""
+
+    @property
+    def duration_seconds(self) -> float:
+        return self.end_seconds - self.start_seconds
 
 
 @dataclass(frozen=True)

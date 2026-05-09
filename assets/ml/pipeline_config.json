@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "mfcc": {
+    "sample_rate": 16000,
+    "window_size_ms": 30,
+    "window_step_ms": 20,
+    "num_channels": 40,
+    "lower_band_limit_hz": 125.0,
+    "upper_band_limit_hz": 7500.0,
+    "num_frames": 49,
+    "feature_size": 1960,
+    "expected_audio_samples": 15840,
+    "preprocessing": "tflite_micro_audio_microfrontend",
+    "enable_pcan": true,
+    "enable_log": true
+  },
+  "vad": {
+    "sample_rate": 16000,
+    "threshold": 0.3,
+    "min_speech_ms": 200,
+    "min_silence_ms": 100,
+    "speech_pad_ms": 200
+  },
+  "snore": {
+    "class_index": {
+      "silence": 0,
+      "unknown": 1,
+      "off": 2,
+      "snoring": 3
+    },
+    "default_hop_seconds": 0.2,
+    "window_samples": 15840
+  },
+  "decision": {
+    "snore_enter_threshold": 0.4,
+    "snore_exit_threshold": 0.25,
+    "talk_enter_threshold": 0.5,
+    "talk_exit_threshold": 0.3,
+    "min_snore_duration_seconds": 0.4,
+    "min_talk_duration_seconds": 0.5,
+    "merge_gap_snore_seconds": 1.5,
+    "merge_gap_talk_seconds": 1.5,
+    "suppression_seconds": 1.5,
+    "decision_grid_seconds": 0.2,
+    "snore_wins_on_conflict": true
+  },
+  "models": {
+    "snore_tflite": "snore_cnn.tflite",
+    "vad_tflite": null,
+    "vad_onnx": "silero_vad.onnx"
+  }
+}

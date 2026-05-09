@@ -49,6 +49,9 @@ dependencies:
   flutter_local_notifications: ^18.0.1
   timezone: ^0.10.0
   flutter_timezone: ^4.1.1
+  tflite_flutter: ^0.10.4
+  onnxruntime: ^1.4.1
+  fftea: ^1.5.0
 
 dev_dependencies:
   flutter_test:
@@ -80,6 +83,7 @@ flutter:
   #   - images/a_dot_ham.jpeg
   assets:
     - assets/brand/
+    - assets/ml/
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/to/resolution-aware-images

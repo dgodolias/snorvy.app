@@ -1,0 +1,618 @@
+{
+  "per_recording": [
+    {
+      "file": "voice_recorder_2026-05-08_205445.m4a",
+      "alias": "rec2",
+      "duration_s": 41.8655625,
+      "predicted_events": [
+        {
+          "start": 5.0,
+          "end": 5.4,
+          "label": "snore",
+          "confidence": 0.4349
+        },
+        {
+          "start": 7.6,
+          "end": 8.4,
+          "label": "snore",
+          "confidence": 0.7104
+        },
+        {
+          "start": 14.4,
+          "end": 15.2,
+          "label": "snore",
+          "confidence": 0.6794
+        },
+        {
+          "start": 21.4,
+          "end": 22.2,
+          "label": "snore",
+          "confidence": 0.3967
+        },
+        {
+          "start": 24.8,
+          "end": 25.6,
+          "label": "talk",
+          "confidence": 0.875
+        },
+        {
+          "start": 27.2,
+          "end": 28.4,
+          "label": "snore",
+          "confidence": 0.795
+        },
+        {
+          "start": 28.4,
+          "end": 29.2,
+          "label": "talk",
+          "confidence": 0.875
+        },
+        {
+          "start": 40.6,
+          "end": 41.2,
+          "label": "snore",
+          "confidence": 0.5287
+        }
+      ],
+      "ground_truth_events": [
+        {
+          "start": 3,
+          "end": 17,
+          "label": "snore"
+        },
+        {
+          "start": 25,
+          "end": 30,
+          "label": "talk"
+        }
+      ],
+      "metrics": {
+        "talk": {
+          "precision": 0.875,
+          "recall": 0.28,
+          "f1": 0.42424242424242425,
+          "tp": 7,
+          "fp": 1,
+          "fn": 18,
+          "tn": 184
+        },
+        "snore": {
+          "precision": 0.44,
+          "recall": 0.15714285714285714,
+          "f1": 0.23157894736842105,
+          "tp": 11,
+          "fp": 14,
+          "fn": 59,
+          "tn": 126
+        }
+      }
+    },
+    {
+      "file": "voice_recorder_2026-05-08_205716.m4a",
+      "alias": "rec3",
+      "duration_s": 34.481625,
+      "predicted_events": [
+        {
+          "start": 6.0,
+          "end": 9.2,
+          "label": "snore",
+          "confidence": 0.5533
+        },
+        {
+          "start": 11.8,
+          "end": 13.2,
+          "label": "snore",
+          "confidence": 0.6116
+        },
+        {
+          "start": 14.8,
+          "end": 15.2,
+          "label": "snore",
+          "confidence": 0.4368
+        },
+        {
+          "start": 19.4,
+          "end": 21.8,
+          "label": "snore",
+          "confidence": 0.6371
+        },
+        {
+          "start": 23.8,
+          "end": 24.2,
+          "label": "snore",
+          "confidence": 0.4524
+        },
+        {
+          "start": 29.6,
+          "end": 30.2,
+          "label": "snore",
+          "confidence": 0.511
+        },
+        {
+          "start": 30.0,
+          "end": 30.8,
+          "label": "talk",
+          "confidence": 0.875
+        }
+      ],
+      "ground_truth_events": [
+        {
+          "start": 3,
+          "end": 15,
+          "label": "snore"
+        },
+        {
+          "start": 23,
+          "end": 30,
+          "label": "talk"
+        }
+      ],
+      "metrics": {
+        "talk": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "tp": 0,
+          "fp": 3,
+          "fn": 35,
+          "tn": 135
+        },
+        "snore": {
+          "precision": 0.5581395348837209,
+          "recall": 0.4,
+          "f1": 0.4660194174757281,
+          "tp": 24,
+          "fp": 19,
+          "fn": 36,
+          "tn": 94
+        }
+      }
+    },
+    {
+      "file": "voice_recorder_2026-05-08_210114.m4a",
+      "alias": "rec4",
+      "duration_s": 124.22675,
+      "predicted_events": [
+        {
+          "start": 0.6,
+          "end": 1.2,
+          "label": "snore",
+          "confidence": 0.4469
+        },
+        {
+          "start": 4.4,
+          "end": 5.8,
+          "label": "snore",
+          "confidence": 0.5143
+        },
+        {
+          "start": 8.0,
+          "end": 10.8,
+          "label": "snore",
+          "confidence": 0.5289
+        },
+        {
+          "start": 14.6,
+          "end": 17.4,
+          "label": "snore",
+          "confidence": 0.7141
+        },
+        {
+          "start": 20.8,
+          "end": 21.2,
+          "label": "snore",
+          "confidence": 0.5242
+        },
+        {
+          "start": 26.4,
+          "end": 28.4,
+          "label": "snore",
+          "confidence": 0.7769
+        },
+        {
+          "start": 32.0,
+          "end": 34.2,
+          "label": "snore",
+          "confidence": 0.8317
+        },
+        {
+          "start": 61.0,
+          "end": 61.4,
+          "label": "snore",
+          "confidence": 0.5015
+        },
+        {
+          "start": 65.2,
+          "end": 65.6,
+          "label": "snore",
+          "confidence": 0.4937
+        },
+        {
+          "start": 68.6,
+          "end": 69.4,
+          "label": "snore",
+          "confidence": 0.3594
+        },
+        {
+          "start": 75.0,
+          "end": 76.6,
+          "label": "snore",
+          "confidence": 0.5311
+        },
+        {
+          "start": 82.6,
+          "end": 84.2,
+          "label": "snore",
+          "confidence": 0.5554
+        },
+        {
+          "start": 86.8,
+          "end": 88.2,
+          "label": "snore",
+          "confidence": 0.5854
+        },
+        {
+          "start": 92.2,
+          "end": 93.0,
+          "label": "snore",
+          "confidence": 0.6205
+        },
+        {
+          "start": 94.8,
+          "end": 95.4,
+          "label": "snore",
+          "confidence": 0.5139
+        },
+        {
+          "start": 97.0,
+          "end": 98.6,
+          "label": "snore",
+          "confidence": 0.7728
+        },
+        {
+          "start": 102.2,
+          "end": 102.8,
+          "label": "snore",
+          "confidence": 0.5851
+        },
+        {
+          "start": 107.0,
+          "end": 108.4,
+          "label": "snore",
+          "confidence": 0.3983
+        },
+        {
+          "start": 111.2,
+          "end": 113.8,
+          "label": "snore",
+          "confidence": 0.4907
+        },
+        {
+          "start": 118.4,
+          "end": 118.8,
+          "label": "snore",
+          "confidence": 0.42
+        },
+        {
+          "start": 122.2,
+          "end": 122.6,
+          "label": "snore",
+          "confidence": 0.555
+        }
+      ],
+      "ground_truth_events": [
+        {
+          "start": 0,
+          "end": 38,
+          "label": "snore"
+        },
+        {
+          "start": 83,
+          "end": 114,
+          "label": "snore"
+        }
+      ],
+      "metrics": {
+        "talk": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "tp": 0,
+          "fp": 0,
+          "fn": 0,
+          "tn": 622
+        },
+        "snore": {
+          "precision": 0.8285714285714286,
+          "recall": 0.336231884057971,
+          "f1": 0.4783505154639175,
+          "tp": 116,
+          "fp": 24,
+          "fn": 229,
+          "tn": 253
+        }
+      }
+    },
+    {
+      "file": "voice_recorder_2026-05-08_211709.m4a",
+      "alias": "rec5",
+      "duration_s": 186.549125,
+      "predicted_events": [
+        {
+          "start": 2.8,
+          "end": 3.6,
+          "label": "snore",
+          "confidence": 0.6072
+        },
+        {
+          "start": 5.4,
+          "end": 5.8,
+          "label": "snore",
+          "confidence": 0.4603
+        },
+        {
+          "start": 9.4,
+          "end": 9.8,
+          "label": "snore",
+          "confidence": 0.3837
+        },
+        {
+          "start": 17.0,
+          "end": 17.4,
+          "label": "snore",
+          "confidence": 0.4123
+        },
+        {
+          "start": 22.0,
+          "end": 22.4,
+          "label": "snore",
+          "confidence": 0.5187
+        },
+        {
+          "start": 25.0,
+          "end": 27.8,
+          "label": "snore",
+          "confidence": 0.6477
+        },
+        {
+          "start": 30.8,
+          "end": 32.2,
+          "label": "snore",
+          "confidence": 0.5978
+        },
+        {
+          "start": 39.0,
+          "end": 40.6,
+          "label": "snore",
+          "confidence": 0.4945
+        },
+        {
+          "start": 44.6,
+          "end": 45.4,
+          "label": "snore",
+          "confidence": 0.3849
+        },
+        {
+          "start": 48.2,
+          "end": 50.6,
+          "label": "snore",
+          "confidence": 0.5126
+        },
+        {
+          "start": 53.8,
+          "end": 54.6,
+          "label": "talk",
+          "confidence": 0.875
+        },
+        {
+          "start": 55.4,
+          "end": 56.6,
+          "label": "snore",
+          "confidence": 0.5265
+        },
+        {
+          "start": 59.4,
+          "end": 60.2,
+          "label": "snore",
+          "confidence": 0.6075
+        },
+        {
+          "start": 64.8,
+          "end": 66.2,
+          "label": "snore",
+          "confidence": 0.4719
+        },
+        {
+          "start": 73.2,
+          "end": 73.6,
+          "label": "snore",
+          "confidence": 0.4804
+        },
+        {
+          "start": 76.4,
+          "end": 76.8,
+          "label": "snore",
+          "confidence": 0.3877
+        },
+        {
+          "start": 90.2,
+          "end": 92.4,
+          "label": "snore",
+          "confidence": 0.4169
+        },
+        {
+          "start": 90.6,
+          "end": 93.0,
+          "label": "talk",
+          "confidence": 0.9018
+        },
+        {
+          "start": 97.2,
+          "end": 97.8,
+          "label": "snore",
+          "confidence": 0.5321
+        },
+        {
+          "start": 111.2,
+          "end": 112.8,
+          "label": "snore",
+          "confidence": 0.5171
+        },
+        {
+          "start": 119.2,
+          "end": 119.6,
+          "label": "snore",
+          "confidence": 0.4423
+        },
+        {
+          "start": 124.0,
+          "end": 124.4,
+          "label": "snore",
+          "confidence": 0.4424
+        },
+        {
+          "start": 129.8,
+          "end": 130.2,
+          "label": "snore",
+          "confidence": 0.4397
+        },
+        {
+          "start": 135.8,
+          "end": 138.4,
+          "label": "snore",
+          "confidence": 0.7209
+        },
+        {
+          "start": 141.8,
+          "end": 143.6,
+          "label": "snore",
+          "confidence": 0.8025
+        },
+        {
+          "start": 146.4,
+          "end": 151.2,
+          "label": "snore",
+          "confidence": 0.4822
+        },
+        {
+          "start": 153.8,
+          "end": 154.8,
+          "label": "snore",
+          "confidence": 0.4563
+        },
+        {
+          "start": 158.4,
+          "end": 159.2,
+          "label": "snore",
+          "confidence": 0.7412
+        },
+        {
+          "start": 162.8,
+          "end": 163.4,
+          "label": "snore",
+          "confidence": 0.6681
+        },
+        {
+          "start": 165.4,
+          "end": 165.8,
+          "label": "snore",
+          "confidence": 0.4677
+        },
+        {
+          "start": 168.0,
+          "end": 168.4,
+          "label": "snore",
+          "confidence": 0.5814
+        },
+        {
+          "start": 173.4,
+          "end": 173.8,
+          "label": "snore",
+          "confidence": 0.4414
+        },
+        {
+          "start": 177.2,
+          "end": 177.8,
+          "label": "snore",
+          "confidence": 0.6302
+        },
+        {
+          "start": 182.2,
+          "end": 182.6,
+          "label": "snore",
+          "confidence": 0.4374
+        }
+      ],
+      "ground_truth_events": [
+        {
+          "start": 23,
+          "end": 33,
+          "label": "snore"
+        },
+        {
+          "start": 39,
+          "end": 40,
+          "label": "snore"
+        },
+        {
+          "start": 78,
+          "end": 93,
+          "label": "talk"
+        },
+        {
+          "start": 112,
+          "end": 114,
+          "label": "snore"
+        },
+        {
+          "start": 135,
+          "end": 160,
+          "label": "snore"
+        }
+      ],
+      "metrics": {
+        "talk": {
+          "precision": 0.375,
+          "recall": 0.04,
+          "f1": 0.07228915662650602,
+          "tp": 3,
+          "fp": 5,
+          "fn": 72,
+          "tn": 853
+        },
+        "snore": {
+          "precision": 0.4748603351955307,
+          "recall": 0.4473684210526316,
+          "f1": 0.46070460704607047,
+          "tp": 85,
+          "fp": 94,
+          "fn": 105,
+          "tn": 649
+        }
+      }
+    }
+  ],
+  "passes": false,
+  "iou_threshold": 0.3,
+  "pass_f1_threshold": 0.7,
+  "aggregate": {
+    "talk": {
+      "precision": 0.5263157894736842,
+      "recall": 0.07407407407407407,
+      "f1": 0.12987012987012986,
+      "tp": 10,
+      "fp": 9,
+      "fn": 125,
+      "tn": 1794
+    },
+    "snore": {
+      "precision": 0.6098191214470284,
+      "recall": 0.3548872180451128,
+      "f1": 0.44866920152091255,
+      "tp": 236,
+      "fp": 151,
+      "fn": 429,
+      "tn": 1122
+    }
+  }
+}

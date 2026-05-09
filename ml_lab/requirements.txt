@@ -1,0 +1,10 @@
+numpy>=1.24,<2.0
+scipy>=1.11
+soundfile>=0.12
+librosa>=0.10
+speechpy>=2.4
+onnxruntime>=1.16
+ai-edge-litert>=1.0
+silero-vad>=5.0
+ffmpeg-python>=0.2
+tqdm>=4.66

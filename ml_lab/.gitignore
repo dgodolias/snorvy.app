@@ -1,0 +1,13 @@
+.venv-ml/
+.venv/
+__pycache__/
+*.pyc
+data/raw/
+data/wav/
+data/cache/
+models/*.onnx
+models/*.tflite
+models/*.h5
+# flutter_export/* είναι ο deliverable bundle — tracked στο git
+.pytest_cache/
+*.egg-info/

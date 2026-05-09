@@ -34,12 +34,21 @@ class DecisionEngine {
     final snoreOnGrid = _resampleToGrid(snoreTimestamps, snoreProbs, grid);
     final voiceOnGrid = _resampleToGrid(voiceTimestamps, voiceProbs, grid);
 
-    // Smear voice activity ±2 s. The snore CNN over-fires on the brief
-    // pauses between spoken words; Silero, in contrast, has very high
-    // precision when its probability is above 0.7. Treat any tick within
-    // 2 s of confident voice as "speech context" and suppress snore there.
-    final voiceContext = _rollingMax(voiceOnGrid, halfWindowSeconds: 2.0);
-    const speechSuppressionThreshold = 0.7;
+    // For the speech-suppression mask we need to detect any narrow voice
+    // spike in the raw 32 ms Silero timeline — interpolating onto the 200 ms
+    // decision grid would smooth a 0.73 frame down to 0.36 next to a quiet
+    // neighbour, killing suppression entirely. Compute it directly from the
+    // raw Silero output and check, for each grid tick, whether ANY voice
+    // frame within ±2 s exceeds the threshold.
+    const speechSuppressionThreshold = 0.5;
+    const suppressionHalfWindowSeconds = 2.0;
+    final voiceContext = _voiceContextFromRaw(
+      voiceTimestamps,
+      voiceProbs,
+      grid,
+      threshold: speechSuppressionThreshold,
+      halfWindowSeconds: suppressionHalfWindowSeconds,
+    );
 
     final snoreEvents = _hysteresis(
       grid: grid,
@@ -48,10 +57,7 @@ class DecisionEngine {
       exitThreshold: config.snoreExit,
       label: 'snore',
       minDuration: config.minSnoreSeconds,
-      suppressMask: [
-        for (var i = 0; i < grid.length; i++)
-          voiceContext[i] >= speechSuppressionThreshold,
-      ],
+      suppressMask: voiceContext,
     );
     final talkEvents = _hysteresis(
       grid: grid,
@@ -70,21 +76,33 @@ class DecisionEngine {
     return all;
   }
 
-  List<double> _rollingMax(
-    List<double> values, {
+  /// For each tick in [grid], return true iff there is at least one entry in
+  /// the raw [timestamps]/[values] timeline within ±[halfWindowSeconds] whose
+  /// value reaches [threshold]. We work directly on the raw Silero output to
+  /// avoid losing narrow voice spikes during the interp-to-grid downsampling.
+  List<bool> _voiceContextFromRaw(
+    List<double> timestamps,
+    List<double> values,
+    List<double> grid, {
+    required double threshold,
     required double halfWindowSeconds,
   }) {
-    final halfTicks = math.max(1, (halfWindowSeconds / config.gridSeconds).round());
-    final n = values.length;
-    final out = List<double>.filled(n, 0.0);
-    for (var i = 0; i < n; i++) {
-      final lo = math.max(0, i - halfTicks);
-      final hi = math.min(n - 1, i + halfTicks);
-      var best = 0.0;
-      for (var k = lo; k <= hi; k++) {
-        if (values[k] > best) best = values[k];
+    final out = List<bool>.filled(grid.length, false);
+    if (timestamps.isEmpty || values.isEmpty) return out;
+    // Indices of all frames where voice >= threshold.
+    final hits = <double>[];
+    for (var i = 0; i < values.length && i < timestamps.length; i++) {
+      if (values[i] >= threshold) hits.add(timestamps[i]);
+    }
+    if (hits.isEmpty) return out;
+    var hitCursor = 0;
+    for (var i = 0; i < grid.length; i++) {
+      final lo = grid[i] - halfWindowSeconds;
+      final hi = grid[i] + halfWindowSeconds;
+      while (hitCursor < hits.length - 1 && hits[hitCursor] < lo) {
+        hitCursor++;
       }
-      out[i] = best;
+      out[i] = hits[hitCursor] >= lo && hits[hitCursor] <= hi;
     }
     return out;
   }

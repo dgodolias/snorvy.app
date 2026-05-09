@@ -1,6 +1,9 @@
+import 'dart:convert';
 import 'dart:io';
 
 import 'package:flutter/foundation.dart';
+import 'package:path/path.dart' as p;
+import 'package:path_provider/path_provider.dart';
 import 'package:snorvy/src/domain/sleep_models.dart';
 import 'package:snorvy/src/services/ml/audio_agc.dart';
 import 'package:snorvy/src/services/ml/decision_engine.dart';
@@ -162,7 +165,44 @@ class MlSleepEventAnalyzer implements SleepEventAnalyzer {
     final snoreScore = events
         .where((e) => e.kind == SleepEventKind.snore)
         .length;
+
+    // Debug: dump probs + events σε JSON για bit-exact comparison με Python lab.
+    // Triggered only in debug builds; lives next to the WAV chunk so you can
+    // pull both with one adb pull.
     if (kDebugMode) {
+      try {
+        final docs = await getApplicationDocumentsDirectory();
+        final dumpDir = Directory(p.join(docs.path, 'recordings', 'ml_debug'));
+        if (!await dumpDir.exists()) {
+          await dumpDir.create(recursive: true);
+        }
+        final stem = p.basenameWithoutExtension(recordingPath);
+        final dumpPath = p.join(dumpDir.path, '${stem}_ml_debug.json');
+        final payload = <String, dynamic>{
+          'chunk': p.basename(recordingPath),
+          'duration_s': durationSeconds,
+          'agc_gain_db': agc.appliedGainDb,
+          'snore': {
+            'timestamps': snoreOut.timestamps,
+            'probs': snoreOut.probs,
+          },
+          'voice': {
+            'timestamps': vadOut.timestamps,
+            'probs': vadOut.probs,
+          },
+          'decisions': decisions
+              .map((d) => {
+                    'start': d.startSeconds,
+                    'end': d.endSeconds,
+                    'label': d.label,
+                    'confidence': d.confidence,
+                  })
+              .toList(),
+        };
+        await File(dumpPath).writeAsString(jsonEncode(payload), flush: true);
+      } on Object catch (error) {
+        debugPrint('[MlAnalyzer] debug dump failed: $error');
+      }
       debugPrint(
         '[MlAnalyzer] chunk=${recordingPath.split('/').last} '
         'gain=${agc.appliedGainDb.toStringAsFixed(1)}dB '

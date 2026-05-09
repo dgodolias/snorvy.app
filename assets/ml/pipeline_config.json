@@ -16,10 +16,10 @@
   },
   "vad": {
     "sample_rate": 16000,
-    "threshold": 0.3,
-    "min_speech_ms": 200,
+    "threshold": 0.5,
+    "min_speech_ms": 400,
     "min_silence_ms": 100,
-    "speech_pad_ms": 200
+    "speech_pad_ms": 150
   },
   "snore": {
     "class_index": {
@@ -32,12 +32,12 @@
     "window_samples": 15840
   },
   "decision": {
-    "snore_enter_threshold": 0.4,
-    "snore_exit_threshold": 0.25,
-    "talk_enter_threshold": 0.5,
-    "talk_exit_threshold": 0.3,
-    "min_snore_duration_seconds": 0.4,
-    "min_talk_duration_seconds": 0.5,
+    "snore_enter_threshold": 0.6,
+    "snore_exit_threshold": 0.4,
+    "talk_enter_threshold": 0.7,
+    "talk_exit_threshold": 0.5,
+    "min_snore_duration_seconds": 1.0,
+    "min_talk_duration_seconds": 1.0,
     "merge_gap_snore_seconds": 1.5,
     "merge_gap_talk_seconds": 1.5,
     "suppression_seconds": 1.5,

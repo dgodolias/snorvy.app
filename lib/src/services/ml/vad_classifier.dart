@@ -13,10 +13,16 @@ class VadClassifier {
   final VadConfig config;
 
   static const int frameSamples = 512;
+  // Silero v5 ONNX expects 64 samples of audio context concatenated in front
+  // of each frame (PyPI silero_vad.OnnxWrapper does this transparently). Without
+  // it the model sees an audio history of zeros and outputs near-zero
+  // probability on every frame, no matter how loud the speech is.
+  static const int _contextSamples = 64;
   static const _stateShape = [2, 1, 128];
   static const _stateLength = 2 * 1 * 128;
 
   Float32List _state = Float32List(_stateLength);
+  Float32List _context = Float32List(_contextSamples);
   bool _disposed = false;
 
   static Future<VadClassifier> load(
@@ -46,10 +52,22 @@ class VadClassifier {
       );
     }
 
+    // Prepend the 64-sample audio context. ONNX input shape becomes
+    // (1, 576) = (1, contextSamples + frameSamples), matching what the
+    // PyPI silero_vad wrapper feeds. Without this the model returns
+    // near-zero probability on every frame.
+    final withContext = Float32List(_contextSamples + frameSamples);
+    for (var i = 0; i < _contextSamples; i++) {
+      withContext[i] = _context[i];
+    }
+    for (var i = 0; i < frameSamples; i++) {
+      withContext[_contextSamples + i] = chunk[i];
+    }
+
     final runOptions = OrtRunOptions();
-    final inputTensor = OrtValueTensor.createTensorWithDataList(chunk, [
+    final inputTensor = OrtValueTensor.createTensorWithDataList(withContext, [
       1,
-      frameSamples,
+      _contextSamples + frameSamples,
     ]);
     final stateTensor = OrtValueTensor.createTensorWithDataList(
       _state,
@@ -98,6 +116,13 @@ class VadClassifier {
     if (newState != null) {
       _state = newState;
     }
+    // Stash the last `contextSamples` samples of the just-processed chunk
+    // for the next call. This is what makes Silero hear continuous audio
+    // instead of an isolated 32 ms snippet each time.
+    final ctxStart = frameSamples - _contextSamples;
+    for (var i = 0; i < _contextSamples; i++) {
+      _context[i] = chunk[ctxStart + i];
+    }
     if (prob.isNaN) prob = 0.0;
     return prob.clamp(0.0, 1.0).toDouble();
   }
@@ -130,6 +155,7 @@ class VadClassifier {
 
   void resetState() {
     _state = Float32List(_stateLength);
+    _context = Float32List(_contextSamples);
   }
 
   void dispose() {

@@ -37,11 +37,9 @@ class SnoreClassifier {
     PipelineConfig pipelineConfig, {
     String? customAssetPath,
   }) async {
-    final assetPath =
-        customAssetPath ?? pipelineConfig.snoreModelAsset.replaceFirst(
-          'assets/',
-          '',
-        );
+    // tflite_flutter ≥0.12 calls rootBundle.load(assetName) without auto-
+    // prefixing; pass the full bundle path including the 'assets/' prefix.
+    final assetPath = customAssetPath ?? pipelineConfig.snoreModelAsset;
     final interpreter = await Interpreter.fromAsset(assetPath);
     interpreter.allocateTensors();
     final inputTensor = interpreter.getInputTensors().first;

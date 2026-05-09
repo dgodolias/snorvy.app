@@ -1,0 +1,37 @@
+{
+  "version": 1,
+  "notes": "Ground truth για snore/talk events. Times σε seconds από την αρχή του recording. Labels από user (codex session 2026-05-08).",
+  "recordings": {
+    "voice_recorder_2026-05-08_205445.m4a": {
+      "alias": "rec2",
+      "events": [
+        {"start": 3, "end": 17, "label": "snore"},
+        {"start": 25, "end": 30, "label": "talk"}
+      ]
+    },
+    "voice_recorder_2026-05-08_205716.m4a": {
+      "alias": "rec3",
+      "events": [
+        {"start": 3, "end": 15, "label": "snore"},
+        {"start": 23, "end": 30, "label": "talk"}
+      ]
+    },
+    "voice_recorder_2026-05-08_210114.m4a": {
+      "alias": "rec4",
+      "events": [
+        {"start": 0, "end": 38, "label": "snore"},
+        {"start": 83, "end": 114, "label": "snore"}
+      ]
+    },
+    "voice_recorder_2026-05-08_211709.m4a": {
+      "alias": "rec5",
+      "events": [
+        {"start": 23, "end": 33, "label": "snore"},
+        {"start": 39, "end": 40, "label": "snore"},
+        {"start": 78, "end": 93, "label": "talk"},
+        {"start": 112, "end": 114, "label": "snore"},
+        {"start": 135, "end": 160, "label": "snore"}
+      ]
+    }
+  }
+}

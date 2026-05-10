@@ -151,16 +151,19 @@ class DecisionEngine {
     return out;
   }
 
-  /// For each tick in [grid], return true iff there is at least one entry in
-  /// the raw [timestamps]/[values] timeline within ±[halfWindowSeconds] whose
-  /// value reaches [threshold]. We work directly on the raw Silero output to
-  /// avoid losing narrow voice spikes during the interp-to-grid downsampling.
+  /// For each tick in [grid], return true iff there are at least [minHits]
+  /// entries in the raw [timestamps]/[values] timeline within
+  /// ±[halfWindowSeconds] whose value reaches [threshold]. Real speech has
+  /// many consecutive Silero frames above 0.7 (snore vocal-tract resonance
+  /// only sustains 1-2 frames), so requiring ≥3 hits stops a spurious
+  /// snore-fooled-Silero blip from suppressing a whole snore burst.
   List<bool> _voiceContextFromRaw(
     List<double> timestamps,
     List<double> values,
     List<double> grid, {
     required double threshold,
     required double halfWindowSeconds,
+    int minHits = 3,
   }) {
     final out = List<bool>.filled(grid.length, false);
     if (timestamps.isEmpty || values.isEmpty) return out;
@@ -169,15 +172,20 @@ class DecisionEngine {
     for (var i = 0; i < values.length && i < timestamps.length; i++) {
       if (values[i] >= threshold) hits.add(timestamps[i]);
     }
-    if (hits.isEmpty) return out;
-    var hitCursor = 0;
+    if (hits.length < minHits) return out;
+    var hitStart = 0;
+    var hitEnd = 0;
     for (var i = 0; i < grid.length; i++) {
       final lo = grid[i] - halfWindowSeconds;
       final hi = grid[i] + halfWindowSeconds;
-      while (hitCursor < hits.length - 1 && hits[hitCursor] < lo) {
-        hitCursor++;
+      while (hitStart < hits.length && hits[hitStart] < lo) {
+        hitStart++;
       }
-      out[i] = hits[hitCursor] >= lo && hits[hitCursor] <= hi;
+      if (hitEnd < hitStart) hitEnd = hitStart;
+      while (hitEnd < hits.length && hits[hitEnd] <= hi) {
+        hitEnd++;
+      }
+      out[i] = (hitEnd - hitStart) >= minHits;
     }
     return out;
   }

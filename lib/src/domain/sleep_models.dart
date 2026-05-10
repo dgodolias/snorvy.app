@@ -37,6 +37,7 @@ class SleepEvent {
     required this.duration,
     required this.intensity,
     this.filePath,
+    this.isSaved = false,
   });
 
   final int id;
@@ -45,6 +46,7 @@ class SleepEvent {
   final Duration duration;
   final int intensity;
   final String? filePath;
+  final bool isSaved;
 
   String get timeLabel {
     final hour = startsAt.hour.toString().padLeft(2, '0');

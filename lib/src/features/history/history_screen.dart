@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:intl/intl.dart';
 import 'package:snorvy/src/domain/sleep_models.dart';
+import 'package:snorvy/src/theme/snorvy_dialogs.dart';
 import 'package:snorvy/src/theme/snorvy_theme.dart';
 
 class HistoryScreen extends StatefulWidget {
@@ -86,9 +87,20 @@ class _HistoryScreenState extends State<HistoryScreen> {
     final selectedNights = _nightsFor(_selectedDay);
     final selectedEvents = selectedNights.expand((n) => n.events).toList()
       ..sort((a, b) => b.startsAt.compareTo(a.startsAt));
-    final filteredEvents = selectedEvents
+    final modeEvents = selectedEvents
         .where((e) => e.kind == _selectedTab.eventKind)
         .toList();
+    final today = DateTime.now();
+    final isSelectedToday = _selectedDay.year == today.year &&
+        _selectedDay.month == today.month &&
+        _selectedDay.day == today.day;
+    // On past days, only events the user explicitly saved still have audio;
+    // unsaved ones got their filePath purged. Today's tab still shows
+    // everything because nothing has rolled over yet.
+    final filteredEvents = isSelectedToday
+        ? modeEvents
+        : modeEvents.where((e) => e.filePath != null).toList();
+    final unsavedCount = modeEvents.length - filteredEvents.length;
 
     return ListView(
       padding: const EdgeInsets.fromLTRB(20, 10, 20, 126),
@@ -137,10 +149,11 @@ class _HistoryScreenState extends State<HistoryScreen> {
             const SizedBox(height: 10),
             if (filteredEvents.isEmpty)
               _EmptyEventsPanel(
-                message:
-                    'No ${_selectedTab.label.toLowerCase()} events on this day.',
+                message: unsavedCount > 0
+                    ? '$unsavedCount ${_selectedTab.label.toLowerCase()} events were captured but not saved.'
+                    : 'No ${_selectedTab.label.toLowerCase()} events on this day.',
               )
-            else
+            else ...[
               ...filteredEvents.map(
                 (event) => _EventTile(
                   event: event,
@@ -151,6 +164,17 @@ class _HistoryScreenState extends State<HistoryScreen> {
                   onStopAudio: widget.onStopAudio,
                 ),
               ),
+              if (unsavedCount > 0) ...[
+                const SizedBox(height: 6),
+                Text(
+                  '+$unsavedCount more ${_selectedTab.label.toLowerCase()} events, not saved',
+                  style: Theme.of(context).textTheme.bodySmall?.copyWith(
+                    color: Theme.of(context).colorScheme.onSurfaceVariant,
+                    fontStyle: FontStyle.italic,
+                  ),
+                ),
+              ],
+            ],
             const SizedBox(height: 14),
             Align(
               alignment: Alignment.centerLeft,
@@ -188,28 +212,17 @@ class _HistoryScreenState extends State<HistoryScreen> {
     BuildContext context,
     List<SleepNight> nights,
   ) async {
-    final confirmed = await showDialog<bool>(
-      context: context,
-      builder: (context) => AlertDialog(
-        title: const Text('Delete this day?'),
-        content: Text(
-          nights.length > 1
-              ? 'This removes ${nights.length} sessions and any saved audio for ${DateFormat('EEE, MMM d').format(_selectedDay)} from this phone.'
-              : 'This removes the sleep log and any saved audio from this phone.',
-        ),
-        actions: [
-          TextButton(
-            onPressed: () => Navigator.of(context).pop(false),
-            child: const Text('Cancel'),
-          ),
-          FilledButton(
-            onPressed: () => Navigator.of(context).pop(true),
-            child: const Text('Delete'),
-          ),
-        ],
-      ),
+    final confirmed = await showSnorvyConfirmDialog(
+      context,
+      icon: Icons.delete_outline,
+      title: 'Delete this day?',
+      body: nights.length > 1
+          ? 'This removes ${nights.length} sessions and any saved audio for ${DateFormat('EEE, MMM d').format(_selectedDay)} from this phone.'
+          : 'This removes the sleep log and any saved audio from this phone.',
+      confirmLabel: 'Delete',
+      destructive: true,
     );
-    if (confirmed != true) return;
+    if (!confirmed) return;
     for (final night in nights) {
       await widget.onDeleteNight(night);
     }
@@ -521,7 +534,6 @@ class _CalendarGrid extends StatelessWidget {
     final isToday = day.year == today.year &&
         day.month == today.month &&
         day.day == today.day;
-    final hasData = hasDataFor(day);
     final count = countFor(day);
     final intensity = maxCount > 0
         ? (count / maxCount).clamp(0.0, 1.0).toDouble()
@@ -529,14 +541,15 @@ class _CalendarGrid extends StatelessWidget {
 
     final colorScheme = Theme.of(context).colorScheme;
     final dataAlpha = 0.10 + 0.65 * intensity;
+    final hasModeEvents = count > 0;
     final fillColor = isSelected
         ? accent
-        : hasData
+        : hasModeEvents
             ? accent.withValues(alpha: dataAlpha)
             : Colors.transparent;
     final textColor = isSelected
         ? SnorvyTheme.midnight
-        : hasData
+        : hasModeEvents
             ? colorScheme.onSurface
             : colorScheme.onSurfaceVariant;
 
@@ -569,18 +582,6 @@ class _CalendarGrid extends StatelessWidget {
                     fontFeatures: const [FontFeature.tabularFigures()],
                   ),
                 ),
-                if (hasData && !isSelected && count == 0)
-                  Positioned(
-                    bottom: 4,
-                    child: Container(
-                      width: 4,
-                      height: 4,
-                      decoration: BoxDecoration(
-                        color: accent,
-                        shape: BoxShape.circle,
-                      ),
-                    ),
-                  ),
               ],
             ),
           ),

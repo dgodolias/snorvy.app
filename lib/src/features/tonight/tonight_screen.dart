@@ -58,6 +58,7 @@ class TonightScreen extends StatefulWidget {
     required this.onUnlockTap,
     required this.onUpdateBedtimeReminder,
     required this.onTestBedtimeReminder,
+    required this.onToggleEventSave,
     super.key,
   });
 
@@ -78,6 +79,7 @@ class TonightScreen extends StatefulWidget {
   final Future<void> Function(BedtimeReminder reminder)
       onUpdateBedtimeReminder;
   final Future<void> Function() onTestBedtimeReminder;
+  final Future<void> Function(SleepEvent event, bool saved) onToggleEventSave;
 
   @override
   State<TonightScreen> createState() => _TonightScreenState();
@@ -113,6 +115,8 @@ class _TonightScreenState extends State<TonightScreen> {
             126,
           ),
           children: [
+            const _TonightHeader(),
+            const SizedBox(height: 18),
             _RecordingPanel(
               session: widget.recordingSession,
               livePowerFrames: widget.livePowerFrames,
@@ -160,6 +164,7 @@ class _TonightScreenState extends State<TonightScreen> {
                   isPlaying: widget.playingAudioKey == _eventPlaybackKey(event),
                   onPlayAudio: widget.onPlayAudio,
                   onStopAudio: widget.onStopAudio,
+                  onToggleSave: widget.onToggleEventSave,
                 ),
               ),
           ],
@@ -172,6 +177,52 @@ class _TonightScreenState extends State<TonightScreen> {
 
 String _eventPlaybackKey(SleepEvent event) {
   return 'event:${event.id}:${event.filePath ?? ''}';
+}
+
+class _TonightHeader extends StatelessWidget {
+  const _TonightHeader();
+
+  @override
+  Widget build(BuildContext context) {
+    final colorScheme = Theme.of(context).colorScheme;
+
+    return Row(
+      children: [
+        Container(
+          width: 44,
+          height: 44,
+          decoration: BoxDecoration(
+            color: SnorvyTheme.neuralMint.withValues(alpha: 0.14),
+            borderRadius: BorderRadius.circular(10),
+            border: Border.all(color: SnorvyTheme.midnightBorder),
+          ),
+          child: const Icon(
+            Icons.bedtime,
+            color: SnorvyTheme.neuralMint,
+            size: 22,
+          ),
+        ),
+        const SizedBox(width: 12),
+        Expanded(
+          child: Column(
+            crossAxisAlignment: CrossAxisAlignment.start,
+            children: [
+              Text("TONIGHT'S SESSION", style: SnorvyTheme.labelStyle(context)),
+              const SizedBox(height: 3),
+              Text('Tonight', style: SnorvyTheme.screenTitleStyle(context)),
+              Text(
+                'Record, listen back, and decide what to keep.',
+                style: Theme.of(context).textTheme.bodySmall?.copyWith(
+                  color: colorScheme.onSurfaceVariant,
+                  height: 1.25,
+                ),
+              ),
+            ],
+          ),
+        ),
+      ],
+    );
+  }
 }
 
 class _BrandHeader extends StatelessWidget {
@@ -881,6 +932,7 @@ class _TimelineEventTile extends StatelessWidget {
     required this.isPlaying,
     required this.onPlayAudio,
     required this.onStopAudio,
+    required this.onToggleSave,
   });
 
   final SleepEvent event;
@@ -888,6 +940,7 @@ class _TimelineEventTile extends StatelessWidget {
   final bool isPlaying;
   final AudioPlayCallback onPlayAudio;
   final Future<void> Function() onStopAudio;
+  final Future<void> Function(SleepEvent event, bool saved) onToggleSave;
 
   @override
   Widget build(BuildContext context) {
@@ -974,6 +1027,21 @@ class _TimelineEventTile extends StatelessWidget {
                       intensity: math.max(0.45, event.intensity / 100),
                     ),
                   ],
+                ),
+              ),
+              const SizedBox(width: 4),
+              IconButton(
+                tooltip: event.isSaved
+                    ? 'Saved - tap to forget'
+                    : 'Save (keep past today)',
+                onPressed: isBusy
+                    ? null
+                    : () => onToggleSave(event, !event.isSaved),
+                icon: Icon(
+                  event.isSaved ? Icons.bookmark : Icons.bookmark_border,
+                  color: event.isSaved
+                      ? SnorvyTheme.neuralMint
+                      : Theme.of(context).colorScheme.onSurfaceVariant,
                 ),
               ),
             ],

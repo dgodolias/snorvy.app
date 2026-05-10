@@ -1,13 +1,13 @@
 import 'package:flutter/material.dart';
-import 'package:snorvy/src/theme/snorvy_theme.dart';
 import 'package:snorvy/src/services/unlock_repository.dart';
+import 'package:snorvy/src/theme/snorvy_dialogs.dart';
+import 'package:snorvy/src/theme/snorvy_theme.dart';
 
 class SettingsScreen extends StatelessWidget {
   const SettingsScreen({
     required this.isBusy,
     required this.unlockState,
     required this.recordingsThisMonth,
-    required this.onAddManualLog,
     required this.onDeleteAllSleepData,
     required this.onUnlockTap,
     super.key,
@@ -16,7 +16,6 @@ class SettingsScreen extends StatelessWidget {
   final bool isBusy;
   final UnlockState unlockState;
   final int recordingsThisMonth;
-  final Future<void> Function() onAddManualLog;
   final Future<void> Function() onDeleteAllSleepData;
   final VoidCallback onUnlockTap;
 
@@ -150,107 +149,31 @@ class SettingsScreen extends StatelessWidget {
             ),
           ),
         ),
-        const SizedBox(height: 14),
-        OutlinedButton.icon(
-          style: OutlinedButton.styleFrom(
-            minimumSize: const Size.fromHeight(52),
-            foregroundColor: SnorvyTheme.neuralMint,
-          ),
-          onPressed: isBusy ? null : () => _showManualLogSheet(context),
-          icon: const Icon(Icons.edit_calendar),
-          label: const Text('Add manual sleep log'),
-        ),
       ],
     );
   }
 
-  void _showManualLogSheet(BuildContext context) {
-    showModalBottomSheet<void>(
-      context: context,
-      showDragHandle: true,
-      builder: (context) {
-        return SafeArea(
-          child: Padding(
-            padding: const EdgeInsets.fromLTRB(20, 0, 20, 20),
-            child: Column(
-              mainAxisSize: MainAxisSize.min,
-              crossAxisAlignment: CrossAxisAlignment.start,
-              children: [
-                Text(
-                  'Manual sleep log',
-                  style: Theme.of(
-                    context,
-                  ).textTheme.titleLarge?.copyWith(fontWeight: FontWeight.w900),
-                ),
-                const SizedBox(height: 8),
-                const Text('Default entry: 23:30 to 07:15.'),
-                const SizedBox(height: 16),
-                FilledButton.icon(
-                  onPressed: () async {
-                    await onAddManualLog();
-                    if (!context.mounted) {
-                      return;
-                    }
-                    Navigator.of(context).pop();
-                    ScaffoldMessenger.of(context).showSnackBar(
-                      const SnackBar(
-                        content: Text('Manual log saved locally.'),
-                      ),
-                    );
-                  },
-                  icon: const Icon(Icons.check),
-                  label: const Text('Save log'),
-                ),
-              ],
-            ),
-          ),
-        );
-      },
-    );
-  }
-
   void _showPrivacyPolicy(BuildContext context) {
-    showDialog<void>(
-      context: context,
-      builder: (context) {
-        return AlertDialog(
-          title: const Text('Snorvy Privacy Policy'),
-          content: const SingleChildScrollView(child: Text(_privacyPolicyText)),
-          actions: [
-            TextButton(
-              onPressed: () => Navigator.of(context).pop(),
-              child: const Text('Close'),
-            ),
-          ],
-        );
-      },
+    showSnorvyInfoDialog(
+      context,
+      icon: Icons.privacy_tip_outlined,
+      title: 'Snorvy Privacy Policy',
+      body: ConstrainedBox(
+        constraints: const BoxConstraints(maxHeight: 360),
+        child: const SingleChildScrollView(child: Text(_privacyPolicyText)),
+      ),
     );
   }
 
-  Future<bool> _confirmDeleteAllData(BuildContext context) async {
-    final confirmed = await showDialog<bool>(
-      context: context,
-      builder: (context) {
-        return AlertDialog(
-          title: const Text('Delete all local data?'),
-          content: const Text(
-            'This removes every saved night and recording from this phone.',
-          ),
-          actions: [
-            TextButton(
-              onPressed: () => Navigator.of(context).pop(false),
-              child: const Text('Cancel'),
-            ),
-            FilledButton(
-              onPressed: () => Navigator.of(context).pop(true),
-              child: const Text('Delete all'),
-            ),
-          ],
-        );
-      },
+  Future<bool> _confirmDeleteAllData(BuildContext context) {
+    return showSnorvyConfirmDialog(
+      context,
+      icon: Icons.delete_forever_outlined,
+      title: 'Delete all local data?',
+      body: 'This removes every saved night and recording from this phone.',
+      confirmLabel: 'Delete all',
+      destructive: true,
     );
-
-    return confirmed ?? false;
   }
 }
 

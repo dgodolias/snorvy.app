@@ -108,6 +108,7 @@ class _SnorvySmokeShellState extends State<_SnorvySmokeShell> {
         onUnlockTap: _showUnlock,
         onUpdateBedtimeReminder: (_) async {},
         onTestBedtimeReminder: () async {},
+        onToggleEventSave: (_, _) async {},
       ),
       HistoryScreen(
         nights: _nights,
@@ -122,7 +123,6 @@ class _SnorvySmokeShellState extends State<_SnorvySmokeShell> {
         isBusy: false,
         unlockState: _unlockState,
         recordingsThisMonth: _sleepDaysUsedThisMonth,
-        onAddManualLog: _addManualLog,
         onDeleteAllSleepData: _deleteAllSleepData,
         onUnlockTap: _showUnlock,
       ),
@@ -242,13 +242,6 @@ class _SnorvySmokeShellState extends State<_SnorvySmokeShell> {
     });
   }
 
-  Future<void> _addManualLog() async {
-    setState(() {
-      _nights = [_manualNight(), ..._nights];
-      _statusMessage = 'Manual log saved locally.';
-    });
-  }
-
   Future<void> _deleteNight(SleepNight night) async {
     setState(() {
       _nights = _nights.where((candidate) => candidate.id != night.id).toList();
@@ -297,20 +290,6 @@ class _SnorvySmokeShellState extends State<_SnorvySmokeShell> {
       state: _unlockState,
       onUnlock: () async {},
       onRestore: () async {},
-    );
-  }
-
-  SleepNight _manualNight() {
-    final id = _nextNightId++;
-    final endedAt = DateTime(2026, 5, 7, 7, 15);
-    return SleepNight(
-      id: id,
-      date: DateTime(2026, 5, 7),
-      startedAt: endedAt.subtract(const Duration(hours: 7, minutes: 45)),
-      endedAt: endedAt,
-      snoreScore: 0,
-      isManual: true,
-      events: const [],
     );
   }
 

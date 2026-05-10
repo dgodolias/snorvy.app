@@ -658,6 +658,21 @@ class $SleepEventRowsTable extends SleepEventRows
     ),
     defaultValue: const Constant(false),
   );
+  static const VerificationMeta _isSavedMeta = const VerificationMeta(
+    'isSaved',
+  );
+  @override
+  late final GeneratedColumn<bool> isSaved = GeneratedColumn<bool>(
+    'is_saved',
+    aliasedName,
+    false,
+    type: DriftSqlType.bool,
+    requiredDuringInsert: false,
+    defaultConstraints: GeneratedColumn.constraintIsAlways(
+      'CHECK ("is_saved" IN (0, 1))',
+    ),
+    defaultValue: const Constant(false),
+  );
   static const VerificationMeta _createdAtMeta = const VerificationMeta(
     'createdAt',
   );
@@ -680,6 +695,7 @@ class $SleepEventRowsTable extends SleepEventRows
     intensity,
     filePath,
     userExcluded,
+    isSaved,
     createdAt,
   ];
   @override
@@ -747,6 +763,12 @@ class $SleepEventRowsTable extends SleepEventRows
         ),
       );
     }
+    if (data.containsKey('is_saved')) {
+      context.handle(
+        _isSavedMeta,
+        isSaved.isAcceptableOrUnknown(data['is_saved']!, _isSavedMeta),
+      );
+    }
     if (data.containsKey('created_at')) {
       context.handle(
         _createdAtMeta,
@@ -796,6 +818,10 @@ class $SleepEventRowsTable extends SleepEventRows
         DriftSqlType.bool,
         data['${effectivePrefix}user_excluded'],
       )!,
+      isSaved: attachedDatabase.typeMapping.read(
+        DriftSqlType.bool,
+        data['${effectivePrefix}is_saved'],
+      )!,
       createdAt: attachedDatabase.typeMapping.read(
         DriftSqlType.dateTime,
         data['${effectivePrefix}created_at'],
@@ -821,6 +847,7 @@ class SleepEventRow extends DataClass implements Insertable<SleepEventRow> {
   final int intensity;
   final String? filePath;
   final bool userExcluded;
+  final bool isSaved;
   final DateTime createdAt;
   const SleepEventRow({
     required this.id,
@@ -831,6 +858,7 @@ class SleepEventRow extends DataClass implements Insertable<SleepEventRow> {
     required this.intensity,
     this.filePath,
     required this.userExcluded,
+    required this.isSaved,
     required this.createdAt,
   });
   @override
@@ -850,6 +878,7 @@ class SleepEventRow extends DataClass implements Insertable<SleepEventRow> {
       map['file_path'] = Variable<String>(filePath);
     }
     map['user_excluded'] = Variable<bool>(userExcluded);
+    map['is_saved'] = Variable<bool>(isSaved);
     map['created_at'] = Variable<DateTime>(createdAt);
     return map;
   }
@@ -866,6 +895,7 @@ class SleepEventRow extends DataClass implements Insertable<SleepEventRow> {
           ? const Value.absent()
           : Value(filePath),
       userExcluded: Value(userExcluded),
+      isSaved: Value(isSaved),
       createdAt: Value(createdAt),
     );
   }
@@ -886,6 +916,7 @@ class SleepEventRow extends DataClass implements Insertable<SleepEventRow> {
       intensity: serializer.fromJson<int>(json['intensity']),
       filePath: serializer.fromJson<String?>(json['filePath']),
       userExcluded: serializer.fromJson<bool>(json['userExcluded']),
+      isSaved: serializer.fromJson<bool>(json['isSaved']),
       createdAt: serializer.fromJson<DateTime>(json['createdAt']),
     );
   }
@@ -903,6 +934,7 @@ class SleepEventRow extends DataClass implements Insertable<SleepEventRow> {
       'intensity': serializer.toJson<int>(intensity),
       'filePath': serializer.toJson<String?>(filePath),
       'userExcluded': serializer.toJson<bool>(userExcluded),
+      'isSaved': serializer.toJson<bool>(isSaved),
       'createdAt': serializer.toJson<DateTime>(createdAt),
     };
   }
@@ -916,6 +948,7 @@ class SleepEventRow extends DataClass implements Insertable<SleepEventRow> {
     int? intensity,
     Value<String?> filePath = const Value.absent(),
     bool? userExcluded,
+    bool? isSaved,
     DateTime? createdAt,
   }) => SleepEventRow(
     id: id ?? this.id,
@@ -926,6 +959,7 @@ class SleepEventRow extends DataClass implements Insertable<SleepEventRow> {
     intensity: intensity ?? this.intensity,
     filePath: filePath.present ? filePath.value : this.filePath,
     userExcluded: userExcluded ?? this.userExcluded,
+    isSaved: isSaved ?? this.isSaved,
     createdAt: createdAt ?? this.createdAt,
   );
   SleepEventRow copyWithCompanion(SleepEventRowsCompanion data) {
@@ -942,6 +976,7 @@ class SleepEventRow extends DataClass implements Insertable<SleepEventRow> {
       userExcluded: data.userExcluded.present
           ? data.userExcluded.value
           : this.userExcluded,
+      isSaved: data.isSaved.present ? data.isSaved.value : this.isSaved,
       createdAt: data.createdAt.present ? data.createdAt.value : this.createdAt,
     );
   }
@@ -957,6 +992,7 @@ class SleepEventRow extends DataClass implements Insertable<SleepEventRow> {
           ..write('intensity: $intensity, ')
           ..write('filePath: $filePath, ')
           ..write('userExcluded: $userExcluded, ')
+          ..write('isSaved: $isSaved, ')
           ..write('createdAt: $createdAt')
           ..write(')'))
         .toString();
@@ -972,6 +1008,7 @@ class SleepEventRow extends DataClass implements Insertable<SleepEventRow> {
     intensity,
     filePath,
     userExcluded,
+    isSaved,
     createdAt,
   );
   @override
@@ -986,6 +1023,7 @@ class SleepEventRow extends DataClass implements Insertable<SleepEventRow> {
           other.intensity == this.intensity &&
           other.filePath == this.filePath &&
           other.userExcluded == this.userExcluded &&
+          other.isSaved == this.isSaved &&
           other.createdAt == this.createdAt);
 }
 
@@ -998,6 +1036,7 @@ class SleepEventRowsCompanion extends UpdateCompanion<SleepEventRow> {
   final Value<int> intensity;
   final Value<String?> filePath;
   final Value<bool> userExcluded;
+  final Value<bool> isSaved;
   final Value<DateTime> createdAt;
   const SleepEventRowsCompanion({
     this.id = const Value.absent(),
@@ -1008,6 +1047,7 @@ class SleepEventRowsCompanion extends UpdateCompanion<SleepEventRow> {
     this.intensity = const Value.absent(),
     this.filePath = const Value.absent(),
     this.userExcluded = const Value.absent(),
+    this.isSaved = const Value.absent(),
     this.createdAt = const Value.absent(),
   });
   SleepEventRowsCompanion.insert({
@@ -1019,6 +1059,7 @@ class SleepEventRowsCompanion extends UpdateCompanion<SleepEventRow> {
     required int intensity,
     this.filePath = const Value.absent(),
     this.userExcluded = const Value.absent(),
+    this.isSaved = const Value.absent(),
     this.createdAt = const Value.absent(),
   }) : nightId = Value(nightId),
        kind = Value(kind),
@@ -1034,6 +1075,7 @@ class SleepEventRowsCompanion extends UpdateCompanion<SleepEventRow> {
     Expression<int>? intensity,
     Expression<String>? filePath,
     Expression<bool>? userExcluded,
+    Expression<bool>? isSaved,
     Expression<DateTime>? createdAt,
   }) {
     return RawValuesInsertable({
@@ -1045,6 +1087,7 @@ class SleepEventRowsCompanion extends UpdateCompanion<SleepEventRow> {
       if (intensity != null) 'intensity': intensity,
       if (filePath != null) 'file_path': filePath,
       if (userExcluded != null) 'user_excluded': userExcluded,
+      if (isSaved != null) 'is_saved': isSaved,
       if (createdAt != null) 'created_at': createdAt,
     });
   }
@@ -1058,6 +1101,7 @@ class SleepEventRowsCompanion extends UpdateCompanion<SleepEventRow> {
     Value<int>? intensity,
     Value<String?>? filePath,
     Value<bool>? userExcluded,
+    Value<bool>? isSaved,
     Value<DateTime>? createdAt,
   }) {
     return SleepEventRowsCompanion(
@@ -1069,6 +1113,7 @@ class SleepEventRowsCompanion extends UpdateCompanion<SleepEventRow> {
       intensity: intensity ?? this.intensity,
       filePath: filePath ?? this.filePath,
       userExcluded: userExcluded ?? this.userExcluded,
+      isSaved: isSaved ?? this.isSaved,
       createdAt: createdAt ?? this.createdAt,
     );
   }
@@ -1102,6 +1147,9 @@ class SleepEventRowsCompanion extends UpdateCompanion<SleepEventRow> {
     if (userExcluded.present) {
       map['user_excluded'] = Variable<bool>(userExcluded.value);
     }
+    if (isSaved.present) {
+      map['is_saved'] = Variable<bool>(isSaved.value);
+    }
     if (createdAt.present) {
       map['created_at'] = Variable<DateTime>(createdAt.value);
     }
@@ -1119,6 +1167,7 @@ class SleepEventRowsCompanion extends UpdateCompanion<SleepEventRow> {
           ..write('intensity: $intensity, ')
           ..write('filePath: $filePath, ')
           ..write('userExcluded: $userExcluded, ')
+          ..write('isSaved: $isSaved, ')
           ..write('createdAt: $createdAt')
           ..write(')'))
         .toString();
@@ -1546,6 +1595,7 @@ typedef $$SleepEventRowsTableCreateCompanionBuilder =
       required int intensity,
       Value<String?> filePath,
       Value<bool> userExcluded,
+      Value<bool> isSaved,
       Value<DateTime> createdAt,
     });
 typedef $$SleepEventRowsTableUpdateCompanionBuilder =
@@ -1558,6 +1608,7 @@ typedef $$SleepEventRowsTableUpdateCompanionBuilder =
       Value<int> intensity,
       Value<String?> filePath,
       Value<bool> userExcluded,
+      Value<bool> isSaved,
       Value<DateTime> createdAt,
     });
 
@@ -1634,6 +1685,11 @@ class $$SleepEventRowsTableFilterComposer
     builder: (column) => ColumnFilters(column),
   );
 
+  ColumnFilters<bool> get isSaved => $composableBuilder(
+    column: $table.isSaved,
+    builder: (column) => ColumnFilters(column),
+  );
+
   ColumnFilters<DateTime> get createdAt => $composableBuilder(
     column: $table.createdAt,
     builder: (column) => ColumnFilters(column),
@@ -1707,6 +1763,11 @@ class $$SleepEventRowsTableOrderingComposer
     builder: (column) => ColumnOrderings(column),
   );
 
+  ColumnOrderings<bool> get isSaved => $composableBuilder(
+    column: $table.isSaved,
+    builder: (column) => ColumnOrderings(column),
+  );
+
   ColumnOrderings<DateTime> get createdAt => $composableBuilder(
     column: $table.createdAt,
     builder: (column) => ColumnOrderings(column),
@@ -1769,6 +1830,9 @@ class $$SleepEventRowsTableAnnotationComposer
     column: $table.userExcluded,
     builder: (column) => column,
   );
+
+  GeneratedColumn<bool> get isSaved =>
+      $composableBuilder(column: $table.isSaved, builder: (column) => column);
 
   GeneratedColumn<DateTime> get createdAt =>
       $composableBuilder(column: $table.createdAt, builder: (column) => column);
@@ -1835,6 +1899,7 @@ class $$SleepEventRowsTableTableManager
                 Value<int> intensity = const Value.absent(),
                 Value<String?> filePath = const Value.absent(),
                 Value<bool> userExcluded = const Value.absent(),
+                Value<bool> isSaved = const Value.absent(),
                 Value<DateTime> createdAt = const Value.absent(),
               }) => SleepEventRowsCompanion(
                 id: id,
@@ -1845,6 +1910,7 @@ class $$SleepEventRowsTableTableManager
                 intensity: intensity,
                 filePath: filePath,
                 userExcluded: userExcluded,
+                isSaved: isSaved,
                 createdAt: createdAt,
               ),
           createCompanionCallback:
@@ -1857,6 +1923,7 @@ class $$SleepEventRowsTableTableManager
                 required int intensity,
                 Value<String?> filePath = const Value.absent(),
                 Value<bool> userExcluded = const Value.absent(),
+                Value<bool> isSaved = const Value.absent(),
                 Value<DateTime> createdAt = const Value.absent(),
               }) => SleepEventRowsCompanion.insert(
                 id: id,
@@ -1867,6 +1934,7 @@ class $$SleepEventRowsTableTableManager
                 intensity: intensity,
                 filePath: filePath,
                 userExcluded: userExcluded,
+                isSaved: isSaved,
                 createdAt: createdAt,
               ),
           withReferenceMapper: (p0) => p0

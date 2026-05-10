@@ -137,6 +137,7 @@ class SnorvyController extends ChangeNotifier {
     } on Exception {
       _statusMessage = 'Could not clean old temporary audio chunks.';
     }
+    await _purgeUnsavedFromPriorDays();
     try {
       _bedtimeReminder = await _bedtimeReminderRepository.load();
     } on Exception {
@@ -366,6 +367,31 @@ class SnorvyController extends ChangeNotifier {
       _statusMessage = 'Could not save the manual log.';
     } finally {
       _setBusy(false);
+    }
+  }
+
+  Future<void> toggleEventSave({
+    required int eventId,
+    required bool saved,
+  }) async {
+    try {
+      await _database.setEventSaved(eventId: eventId, saved: saved);
+      await _loadNights(notify: true);
+    } on Exception {
+      _statusMessage = 'Could not update saved state.';
+      notifyListeners();
+    }
+  }
+
+  Future<void> _purgeUnsavedFromPriorDays() async {
+    final now = DateTime.now();
+    final today = DateTime(now.year, now.month, now.day);
+    try {
+      final paths = await _database.purgeUnsavedEventsBefore(today);
+      if (paths.isEmpty) return;
+      await _deleteLocalFiles(paths);
+    } on Exception {
+      // Best-effort cleanup; failures are not surfaced to the user.
     }
   }
 

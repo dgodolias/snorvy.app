@@ -47,6 +47,11 @@ class _SnorvyShellState extends State<SnorvyShell> {
             onUpdateBedtimeReminder: widget.controller.updateBedtimeReminder,
             onTestBedtimeReminder:
                 widget.controller.fireBedtimeReminderTest,
+            onToggleEventSave: (event, saved) =>
+                widget.controller.toggleEventSave(
+              eventId: event.id,
+              saved: saved,
+            ),
           ),
           HistoryScreen(
             nights: widget.controller.nights,
@@ -61,7 +66,6 @@ class _SnorvyShellState extends State<SnorvyShell> {
             isBusy: widget.controller.isBusy,
             unlockState: widget.controller.unlockState,
             recordingsThisMonth: widget.controller.recordingsThisMonth,
-            onAddManualLog: widget.controller.addDefaultManualLog,
             onDeleteAllSleepData: widget.controller.deleteAllSleepData,
             onUnlockTap: () => showSnorvyUnlockSheet(
               context,

@@ -28,6 +28,7 @@ class SleepEventRows extends Table {
   IntColumn get intensity => integer()();
   TextColumn get filePath => text().nullable()();
   BoolColumn get userExcluded => boolean().withDefault(const Constant(false))();
+  BoolColumn get isSaved => boolean().withDefault(const Constant(false))();
   DateTimeColumn get createdAt => dateTime().withDefault(currentDateAndTime)();
 }
 
@@ -47,7 +48,17 @@ class AppDatabase extends _$AppDatabase {
       );
 
   @override
-  int get schemaVersion => 1;
+  int get schemaVersion => 2;
+
+  @override
+  MigrationStrategy get migration => MigrationStrategy(
+        onCreate: (m) => m.createAll(),
+        onUpgrade: (m, from, to) async {
+          if (from < 2) {
+            await m.addColumn(sleepEventRows, sleepEventRows.isSaved);
+          }
+        },
+      );
 
   Stream<List<SleepNightRow>> watchRecentNights({int limit = 30}) {
     final query = select(sleepNightRows)
@@ -169,6 +180,46 @@ class AppDatabase extends _$AppDatabase {
     );
   }
 
+  Future<int> setEventSaved({
+    required int eventId,
+    required bool saved,
+  }) {
+    return (update(sleepEventRows)
+          ..where((table) => table.id.equals(eventId)))
+        .write(SleepEventRowsCompanion(isSaved: Value(saved)));
+  }
+
+  /// Returns the file paths whose underlying audio file should be deleted.
+  /// Each row is updated to clear `filePath` so the audio is gone but the
+  /// event remains for aggregate counts (heatmap).
+  Future<List<String>> purgeUnsavedEventsBefore(DateTime cutoff) async {
+    return transaction(() async {
+      final rows = await (select(sleepEventRows)
+            ..where(
+              (table) =>
+                  table.isSaved.equals(false) &
+                  table.filePath.isNotNull() &
+                  table.startsAt.isSmallerThanValue(cutoff),
+            ))
+          .get();
+      final paths = <String>[
+        for (final row in rows)
+          if (row.filePath != null) row.filePath!,
+      ];
+      if (paths.isEmpty) return paths;
+
+      await (update(sleepEventRows)
+            ..where(
+              (table) =>
+                  table.isSaved.equals(false) &
+                  table.filePath.isNotNull() &
+                  table.startsAt.isSmallerThanValue(cutoff),
+            ))
+          .write(const SleepEventRowsCompanion(filePath: Value(null)));
+      return paths;
+    });
+  }
+
   Future<int> updateNightSnoreScore({
     required int nightId,
     required int snoreScore,
@@ -277,6 +328,7 @@ class AppDatabase extends _$AppDatabase {
             duration: Duration(seconds: eventRow.durationSeconds),
             intensity: eventRow.intensity,
             filePath: eventRow.filePath,
+            isSaved: eventRow.isSaved,
           ),
       ],
     );

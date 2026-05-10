@@ -52,7 +52,10 @@ class DecisionEngine {
     // neighbour, killing suppression entirely. Compute it directly from the
     // raw Silero output and check, for each grid tick, whether ANY voice
     // frame within ±2 s exceeds the threshold.
-    const speechSuppressionThreshold = 0.5;
+    // Threshold = 0.7: real speech sustains >0.9 in many frames; snore can
+    // briefly fool Silero with vocal-tract resonance up to ~0.65, so
+    // anything below 0.7 is unsafe to treat as speech context.
+    const speechSuppressionThreshold = 0.7;
     const suppressionHalfWindowSeconds = 2.0;
     final voiceContext = _voiceContextFromRaw(
       voiceTimestamps,

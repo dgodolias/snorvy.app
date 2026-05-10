@@ -34,7 +34,7 @@
   "decision": {
     "snore_enter_threshold": 0.85,
     "snore_exit_threshold": 0.60,
-    "snore_smoothing_window_ticks": 5,
+    "snore_smoothing_window_ticks": 1,
     "talk_enter_threshold": 0.7,
     "talk_exit_threshold": 0.5,
     "min_snore_duration_seconds": 1.5,

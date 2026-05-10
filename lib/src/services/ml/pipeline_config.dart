@@ -137,6 +137,7 @@ class DecisionConfig {
   const DecisionConfig({
     required this.snoreEnter,
     required this.snoreExit,
+    required this.snoreSmoothingWindowTicks,
     required this.talkEnter,
     required this.talkExit,
     required this.minSnoreSeconds,
@@ -150,6 +151,7 @@ class DecisionConfig {
 
   final double snoreEnter;
   final double snoreExit;
+  final int snoreSmoothingWindowTicks;
   final double talkEnter;
   final double talkExit;
   final double minSnoreSeconds;
@@ -165,6 +167,8 @@ class DecisionConfig {
     return DecisionConfig(
       snoreEnter: n('snore_enter_threshold'),
       snoreExit: n('snore_exit_threshold'),
+      snoreSmoothingWindowTicks:
+          (json['snore_smoothing_window_ticks'] as num?)?.toInt() ?? 1,
       talkEnter: n('talk_enter_threshold'),
       talkExit: n('talk_exit_threshold'),
       minSnoreSeconds: n('min_snore_duration_seconds'),

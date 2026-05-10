@@ -32,13 +32,14 @@
     "window_samples": 15840
   },
   "decision": {
-    "snore_enter_threshold": 0.6,
-    "snore_exit_threshold": 0.4,
+    "snore_enter_threshold": 0.85,
+    "snore_exit_threshold": 0.60,
+    "snore_smoothing_window_ticks": 5,
     "talk_enter_threshold": 0.7,
     "talk_exit_threshold": 0.5,
-    "min_snore_duration_seconds": 0.4,
+    "min_snore_duration_seconds": 1.5,
     "min_talk_duration_seconds": 0.6,
-    "merge_gap_snore_seconds": 1.5,
+    "merge_gap_snore_seconds": 30.0,
     "merge_gap_talk_seconds": 1.5,
     "suppression_seconds": 1.5,
     "decision_grid_seconds": 0.2,

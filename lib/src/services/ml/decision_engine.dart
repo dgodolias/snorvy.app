@@ -31,7 +31,14 @@ class DecisionEngine {
     required double durationSeconds,
   }) {
     final grid = _grid(durationSeconds);
-    final snoreOnGrid = _resampleToGrid(snoreTimestamps, snoreProbs, grid);
+    final snoreRaw = _resampleToGrid(snoreTimestamps, snoreProbs, grid);
+    // Smooth snore over a rolling N-tick window so single-window flukes don't
+    // promote into events. With N=5 and 200 ms grid that's a 1 s rolling
+    // mean; the snore_enter threshold then has to be sustained, not a spike.
+    final snoreOnGrid = _rollingMeanCentered(
+      snoreRaw,
+      windowTicks: math.max(1, config.snoreSmoothingWindowTicks),
+    );
     // Voice runs at the raw Silero hop (~32 ms) so a real-world voice spike
     // can be 3-6 frames wide. Linear interp onto the 200 ms decision grid
     // smooths a 0.99 frame next to a 0.05 neighbour down to ~0.4, which
@@ -79,6 +86,29 @@ class DecisionEngine {
     final all = [...mergedSnore, ...mergedTalk]
       ..sort((a, b) => a.startSeconds.compareTo(b.startSeconds));
     return all;
+  }
+
+  /// Centered rolling mean over [windowTicks] ticks (clamped at edges).
+  /// Use to smooth a per-tick probability signal so that a single high-
+  /// confidence window can't promote into an event by itself.
+  List<double> _rollingMeanCentered(
+    List<double> values, {
+    required int windowTicks,
+  }) {
+    if (windowTicks <= 1 || values.isEmpty) return List.of(values);
+    final half = windowTicks ~/ 2;
+    final n = values.length;
+    final out = List<double>.filled(n, 0.0);
+    for (var i = 0; i < n; i++) {
+      final lo = math.max(0, i - half);
+      final hi = math.min(n - 1, i + half);
+      var sum = 0.0;
+      for (var k = lo; k <= hi; k++) {
+        sum += values[k];
+      }
+      out[i] = sum / (hi - lo + 1);
+    }
+    return out;
   }
 
   /// Max-pool [values] sampled at [timestamps] onto [grid]. Each grid tick

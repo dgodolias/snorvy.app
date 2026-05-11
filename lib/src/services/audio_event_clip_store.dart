@@ -222,10 +222,21 @@ class AudioClipWindowPlanner {
       _clampDuration(coreStart - preRoll, Duration.zero, chunkDuration),
       previousCoreEnd,
     );
-    final clipEnd = _minDuration(
+    var clipEnd = _minDuration(
       _clampDuration(coreEnd + postRoll, Duration.zero, chunkDuration),
       nextCoreStart,
     );
+
+    // Cap clip duration. For continuous snoring, the merged event can span
+    // the entire chunk (15 min) which produces ~28 MB clips no one will
+    // listen to. Bound the saved audio to the first window after the core
+    // start; the database row still carries the full event duration so
+    // total-snore-time stats are unaffected.
+    const maxClipDuration = Duration(seconds: 6);
+    final clipSpan = clipEnd - clipStart;
+    if (clipSpan > maxClipDuration) {
+      clipEnd = clipStart + maxClipDuration;
+    }
 
     return AudioClipWindow(
       event: event,

@@ -101,9 +101,21 @@ class _TonightScreenState extends State<TonightScreen> {
     final allTodayEvents = todayNights.expand((n) => n.events).toList()
       ..sort((a, b) => b.startsAt.compareTo(a.startsAt));
     final selectedKind = _selectedTab.eventKind;
-    final events = allTodayEvents
+    final allEventsOfKind = allTodayEvents
         .where((event) => event.kind == selectedKind)
         .toList();
+    // For snore, the model fires once per breath cycle, so we keep every
+    // event in the database (so the total-snore-time stat stays accurate)
+    // but only surface the loudest 5 in the UI - the user wants to hear
+    // themselves snoring like an animal a handful of times, not 200.
+    final isSnore = selectedKind == SleepEventKind.snore;
+    const snoreHighlightCount = 5;
+    final events = isSnore && allEventsOfKind.length > snoreHighlightCount
+        ? (allEventsOfKind.toList()
+            ..sort((a, b) => b.intensity.compareTo(a.intensity)))
+            .take(snoreHighlightCount)
+            .toList()
+        : allEventsOfKind;
 
     return Stack(
       children: [
@@ -137,7 +149,9 @@ class _TonightScreenState extends State<TonightScreen> {
             ],
             const SizedBox(height: 22),
             _SectionHeader(
-              title: 'Audio clips',
+              title: isSnore && allEventsOfKind.length > snoreHighlightCount
+                  ? 'Top $snoreHighlightCount loudest snores'
+                  : 'Audio clips',
               actionLabel: allTodayEvents.isEmpty
                   ? null
                   : '${allTodayEvents.length} saved today',
@@ -711,6 +725,7 @@ class _TonightStats extends StatelessWidget {
   Widget build(BuildContext context) {
     final formatter = DateFormat('EEE, MMM d');
     final referenceDate = nights.isEmpty ? DateTime.now() : nights.first.date;
+    final snoreMinutes = nights.fold<int>(0, (t, n) => t + n.snoreMinutes);
     final snoreCount = nights.fold<int>(0, (t, n) => t + n.snoreCount);
     final talkMinutes = nights.fold<int>(0, (t, n) => t + n.talkMinutes);
     final totalDuration = nights.fold<Duration>(
@@ -722,9 +737,9 @@ class _TonightStats extends StatelessWidget {
       children: [
         Expanded(
           child: _MetricTile(
-            label: 'Snore count',
-            value: '$snoreCount',
-            sub: 'events',
+            label: 'Snoring',
+            value: '${snoreMinutes}m',
+            sub: '$snoreCount events',
             accent: SnorvyTheme.neuralMint,
           ),
         ),

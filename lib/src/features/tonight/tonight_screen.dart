@@ -716,6 +716,13 @@ class _WaveformPainter extends CustomPainter {
   }
 }
 
+String _formatMinutes(int totalMinutes) {
+  if (totalMinutes < 60) return '${totalMinutes}m';
+  final hours = totalMinutes ~/ 60;
+  final mins = totalMinutes % 60;
+  return mins == 0 ? '${hours}h' : '${hours}h ${mins}m';
+}
+
 class _TonightStats extends StatelessWidget {
   const _TonightStats({required this.nights});
 
@@ -738,7 +745,7 @@ class _TonightStats extends StatelessWidget {
         Expanded(
           child: _MetricTile(
             label: 'Snoring',
-            value: '${snoreMinutes}m',
+            value: _formatMinutes(snoreMinutes),
             sub: '$snoreCount events',
             accent: SnorvyTheme.neuralMint,
           ),
@@ -747,7 +754,7 @@ class _TonightStats extends StatelessWidget {
         Expanded(
           child: _MetricTile(
             label: 'Talk',
-            value: '${talkMinutes}m',
+            value: _formatMinutes(talkMinutes),
             sub: 'audio',
             accent: SnorvyTheme.talkAmber,
           ),

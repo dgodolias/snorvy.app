@@ -26,6 +26,10 @@ class SleepEventRows extends Table {
   DateTimeColumn get startsAt => dateTime()();
   IntColumn get durationSeconds => integer()();
   IntColumn get intensity => integer()();
+  // Peak audio amplitude during the saved clip, mapped to 0-100. Distinct
+  // from `intensity` (model confidence): this is the actual loudness, used
+  // for ranking the night's "loudest" snore episodes.
+  IntColumn get peakLevel => integer().withDefault(const Constant(0))();
   TextColumn get filePath => text().nullable()();
   BoolColumn get userExcluded => boolean().withDefault(const Constant(false))();
   BoolColumn get isSaved => boolean().withDefault(const Constant(false))();
@@ -48,7 +52,7 @@ class AppDatabase extends _$AppDatabase {
       );
 
   @override
-  int get schemaVersion => 2;
+  int get schemaVersion => 3;
 
   @override
   MigrationStrategy get migration => MigrationStrategy(
@@ -56,6 +60,9 @@ class AppDatabase extends _$AppDatabase {
         onUpgrade: (m, from, to) async {
           if (from < 2) {
             await m.addColumn(sleepEventRows, sleepEventRows.isSaved);
+          }
+          if (from < 3) {
+            await m.addColumn(sleepEventRows, sleepEventRows.peakLevel);
           }
         },
       );
@@ -163,6 +170,7 @@ class AppDatabase extends _$AppDatabase {
     required DateTime startsAt,
     required Duration duration,
     required int intensity,
+    required int peakLevel,
     required String filePath,
   }) {
     return into(sleepEventRows).insert(
@@ -175,6 +183,7 @@ class AppDatabase extends _$AppDatabase {
           24 * 60 * 60,
         ),
         intensity: intensity.clamp(0, 100),
+        peakLevel: Value(peakLevel.clamp(0, 100)),
         filePath: Value(filePath),
       ),
     );
@@ -327,6 +336,7 @@ class AppDatabase extends _$AppDatabase {
             startsAt: eventRow.startsAt,
             duration: Duration(seconds: eventRow.durationSeconds),
             intensity: eventRow.intensity,
+            peakLevel: eventRow.peakLevel,
             filePath: eventRow.filePath,
             isSaved: eventRow.isSaved,
           ),

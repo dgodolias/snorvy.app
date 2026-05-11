@@ -791,6 +791,7 @@ class SnorvyController extends ChangeNotifier {
           startsAt: event.startsAt,
           duration: event.duration,
           intensity: event.intensity,
+          peakLevel: event.peakLevel,
           filePath: event.filePath,
         );
       }

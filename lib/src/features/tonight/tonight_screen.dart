@@ -104,15 +104,20 @@ class _TonightScreenState extends State<TonightScreen> {
     final allEventsOfKind = allTodayEvents
         .where((event) => event.kind == selectedKind)
         .toList();
-    // For snore, the model fires once per breath cycle, so we keep every
-    // event in the database (so the total-snore-time stat stays accurate)
-    // but only surface the loudest 5 in the UI - the user wants to hear
-    // themselves snoring like an animal a handful of times, not 200.
+    // For snore, the model fires once per breath cycle. Keep every event in
+    // the database (so the total-snore-time stat stays accurate) but only
+    // surface the loudest few that the model is also very confident about.
+    // Filter to model intensity (= confidence%) >= 93, then sort by audio
+    // peakLevel desc, and take the top 5. The user wants to hear themselves
+    // snoring like an animal a handful of times, not 200 calm breaths.
     final isSnore = selectedKind == SleepEventKind.snore;
     const snoreHighlightCount = 5;
-    final events = isSnore && allEventsOfKind.length > snoreHighlightCount
-        ? (allEventsOfKind.toList()
-            ..sort((a, b) => b.intensity.compareTo(a.intensity)))
+    const snoreMinConfidence = 93;
+    final events = isSnore
+        ? (allEventsOfKind
+                .where((event) => event.intensity >= snoreMinConfidence)
+                .toList()
+              ..sort((a, b) => b.peakLevel.compareTo(a.peakLevel)))
             .take(snoreHighlightCount)
             .toList()
         : allEventsOfKind;
@@ -149,8 +154,8 @@ class _TonightScreenState extends State<TonightScreen> {
             ],
             const SizedBox(height: 22),
             _SectionHeader(
-              title: isSnore && allEventsOfKind.length > snoreHighlightCount
-                  ? 'Top $snoreHighlightCount loudest snores'
+              title: isSnore
+                  ? 'Top ${events.length} loudest snores'
                   : 'Audio clips',
               actionLabel: allTodayEvents.isEmpty
                   ? null

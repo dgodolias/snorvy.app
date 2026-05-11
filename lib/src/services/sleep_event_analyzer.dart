@@ -16,6 +16,7 @@ class AnalyzedSleepEvent {
     required this.duration,
     required this.intensity,
     required this.filePath,
+    this.peakLevel = 0,
     this.source = AnalyzerSource.ruleBased,
   });
 
@@ -23,8 +24,31 @@ class AnalyzedSleepEvent {
   final DateTime startsAt;
   final Duration duration;
   final int intensity;
+  /// Peak audio loudness (0-100) computed from the saved WAV bytes. 0 until
+  /// the clip is actually written by [AudioEventClipStore].
+  final int peakLevel;
   final String filePath;
   final AnalyzerSource source;
+
+  AnalyzedSleepEvent copyWith({
+    SleepEventKind? kind,
+    DateTime? startsAt,
+    Duration? duration,
+    int? intensity,
+    int? peakLevel,
+    String? filePath,
+    AnalyzerSource? source,
+  }) {
+    return AnalyzedSleepEvent(
+      kind: kind ?? this.kind,
+      startsAt: startsAt ?? this.startsAt,
+      duration: duration ?? this.duration,
+      intensity: intensity ?? this.intensity,
+      peakLevel: peakLevel ?? this.peakLevel,
+      filePath: filePath ?? this.filePath,
+      source: source ?? this.source,
+    );
+  }
 }
 
 class SleepAnalysisResult {

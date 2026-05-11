@@ -632,6 +632,18 @@ class $SleepEventRowsTable extends SleepEventRows
     type: DriftSqlType.int,
     requiredDuringInsert: true,
   );
+  static const VerificationMeta _peakLevelMeta = const VerificationMeta(
+    'peakLevel',
+  );
+  @override
+  late final GeneratedColumn<int> peakLevel = GeneratedColumn<int>(
+    'peak_level',
+    aliasedName,
+    false,
+    type: DriftSqlType.int,
+    requiredDuringInsert: false,
+    defaultValue: const Constant(0),
+  );
   static const VerificationMeta _filePathMeta = const VerificationMeta(
     'filePath',
   );
@@ -693,6 +705,7 @@ class $SleepEventRowsTable extends SleepEventRows
     startsAt,
     durationSeconds,
     intensity,
+    peakLevel,
     filePath,
     userExcluded,
     isSaved,
@@ -747,6 +760,12 @@ class $SleepEventRowsTable extends SleepEventRows
       );
     } else if (isInserting) {
       context.missing(_intensityMeta);
+    }
+    if (data.containsKey('peak_level')) {
+      context.handle(
+        _peakLevelMeta,
+        peakLevel.isAcceptableOrUnknown(data['peak_level']!, _peakLevelMeta),
+      );
     }
     if (data.containsKey('file_path')) {
       context.handle(
@@ -810,6 +829,10 @@ class $SleepEventRowsTable extends SleepEventRows
         DriftSqlType.int,
         data['${effectivePrefix}intensity'],
       )!,
+      peakLevel: attachedDatabase.typeMapping.read(
+        DriftSqlType.int,
+        data['${effectivePrefix}peak_level'],
+      )!,
       filePath: attachedDatabase.typeMapping.read(
         DriftSqlType.string,
         data['${effectivePrefix}file_path'],
@@ -845,6 +868,7 @@ class SleepEventRow extends DataClass implements Insertable<SleepEventRow> {
   final DateTime startsAt;
   final int durationSeconds;
   final int intensity;
+  final int peakLevel;
   final String? filePath;
   final bool userExcluded;
   final bool isSaved;
@@ -856,6 +880,7 @@ class SleepEventRow extends DataClass implements Insertable<SleepEventRow> {
     required this.startsAt,
     required this.durationSeconds,
     required this.intensity,
+    required this.peakLevel,
     this.filePath,
     required this.userExcluded,
     required this.isSaved,
@@ -874,6 +899,7 @@ class SleepEventRow extends DataClass implements Insertable<SleepEventRow> {
     map['starts_at'] = Variable<DateTime>(startsAt);
     map['duration_seconds'] = Variable<int>(durationSeconds);
     map['intensity'] = Variable<int>(intensity);
+    map['peak_level'] = Variable<int>(peakLevel);
     if (!nullToAbsent || filePath != null) {
       map['file_path'] = Variable<String>(filePath);
     }
@@ -891,6 +917,7 @@ class SleepEventRow extends DataClass implements Insertable<SleepEventRow> {
       startsAt: Value(startsAt),
       durationSeconds: Value(durationSeconds),
       intensity: Value(intensity),
+      peakLevel: Value(peakLevel),
       filePath: filePath == null && nullToAbsent
           ? const Value.absent()
           : Value(filePath),
@@ -914,6 +941,7 @@ class SleepEventRow extends DataClass implements Insertable<SleepEventRow> {
       startsAt: serializer.fromJson<DateTime>(json['startsAt']),
       durationSeconds: serializer.fromJson<int>(json['durationSeconds']),
       intensity: serializer.fromJson<int>(json['intensity']),
+      peakLevel: serializer.fromJson<int>(json['peakLevel']),
       filePath: serializer.fromJson<String?>(json['filePath']),
       userExcluded: serializer.fromJson<bool>(json['userExcluded']),
       isSaved: serializer.fromJson<bool>(json['isSaved']),
@@ -932,6 +960,7 @@ class SleepEventRow extends DataClass implements Insertable<SleepEventRow> {
       'startsAt': serializer.toJson<DateTime>(startsAt),
       'durationSeconds': serializer.toJson<int>(durationSeconds),
       'intensity': serializer.toJson<int>(intensity),
+      'peakLevel': serializer.toJson<int>(peakLevel),
       'filePath': serializer.toJson<String?>(filePath),
       'userExcluded': serializer.toJson<bool>(userExcluded),
       'isSaved': serializer.toJson<bool>(isSaved),
@@ -946,6 +975,7 @@ class SleepEventRow extends DataClass implements Insertable<SleepEventRow> {
     DateTime? startsAt,
     int? durationSeconds,
     int? intensity,
+    int? peakLevel,
     Value<String?> filePath = const Value.absent(),
     bool? userExcluded,
     bool? isSaved,
@@ -957,6 +987,7 @@ class SleepEventRow extends DataClass implements Insertable<SleepEventRow> {
     startsAt: startsAt ?? this.startsAt,
     durationSeconds: durationSeconds ?? this.durationSeconds,
     intensity: intensity ?? this.intensity,
+    peakLevel: peakLevel ?? this.peakLevel,
     filePath: filePath.present ? filePath.value : this.filePath,
     userExcluded: userExcluded ?? this.userExcluded,
     isSaved: isSaved ?? this.isSaved,
@@ -972,6 +1003,7 @@ class SleepEventRow extends DataClass implements Insertable<SleepEventRow> {
           ? data.durationSeconds.value
           : this.durationSeconds,
       intensity: data.intensity.present ? data.intensity.value : this.intensity,
+      peakLevel: data.peakLevel.present ? data.peakLevel.value : this.peakLevel,
       filePath: data.filePath.present ? data.filePath.value : this.filePath,
       userExcluded: data.userExcluded.present
           ? data.userExcluded.value
@@ -990,6 +1022,7 @@ class SleepEventRow extends DataClass implements Insertable<SleepEventRow> {
           ..write('startsAt: $startsAt, ')
           ..write('durationSeconds: $durationSeconds, ')
           ..write('intensity: $intensity, ')
+          ..write('peakLevel: $peakLevel, ')
           ..write('filePath: $filePath, ')
           ..write('userExcluded: $userExcluded, ')
           ..write('isSaved: $isSaved, ')
@@ -1006,6 +1039,7 @@ class SleepEventRow extends DataClass implements Insertable<SleepEventRow> {
     startsAt,
     durationSeconds,
     intensity,
+    peakLevel,
     filePath,
     userExcluded,
     isSaved,
@@ -1021,6 +1055,7 @@ class SleepEventRow extends DataClass implements Insertable<SleepEventRow> {
           other.startsAt == this.startsAt &&
           other.durationSeconds == this.durationSeconds &&
           other.intensity == this.intensity &&
+          other.peakLevel == this.peakLevel &&
           other.filePath == this.filePath &&
           other.userExcluded == this.userExcluded &&
           other.isSaved == this.isSaved &&
@@ -1034,6 +1069,7 @@ class SleepEventRowsCompanion extends UpdateCompanion<SleepEventRow> {
   final Value<DateTime> startsAt;
   final Value<int> durationSeconds;
   final Value<int> intensity;
+  final Value<int> peakLevel;
   final Value<String?> filePath;
   final Value<bool> userExcluded;
   final Value<bool> isSaved;
@@ -1045,6 +1081,7 @@ class SleepEventRowsCompanion extends UpdateCompanion<SleepEventRow> {
     this.startsAt = const Value.absent(),
     this.durationSeconds = const Value.absent(),
     this.intensity = const Value.absent(),
+    this.peakLevel = const Value.absent(),
     this.filePath = const Value.absent(),
     this.userExcluded = const Value.absent(),
     this.isSaved = const Value.absent(),
@@ -1057,6 +1094,7 @@ class SleepEventRowsCompanion extends UpdateCompanion<SleepEventRow> {
     required DateTime startsAt,
     required int durationSeconds,
     required int intensity,
+    this.peakLevel = const Value.absent(),
     this.filePath = const Value.absent(),
     this.userExcluded = const Value.absent(),
     this.isSaved = const Value.absent(),
@@ -1073,6 +1111,7 @@ class SleepEventRowsCompanion extends UpdateCompanion<SleepEventRow> {
     Expression<DateTime>? startsAt,
     Expression<int>? durationSeconds,
     Expression<int>? intensity,
+    Expression<int>? peakLevel,
     Expression<String>? filePath,
     Expression<bool>? userExcluded,
     Expression<bool>? isSaved,
@@ -1085,6 +1124,7 @@ class SleepEventRowsCompanion extends UpdateCompanion<SleepEventRow> {
       if (startsAt != null) 'starts_at': startsAt,
       if (durationSeconds != null) 'duration_seconds': durationSeconds,
       if (intensity != null) 'intensity': intensity,
+      if (peakLevel != null) 'peak_level': peakLevel,
       if (filePath != null) 'file_path': filePath,
       if (userExcluded != null) 'user_excluded': userExcluded,
       if (isSaved != null) 'is_saved': isSaved,
@@ -1099,6 +1139,7 @@ class SleepEventRowsCompanion extends UpdateCompanion<SleepEventRow> {
     Value<DateTime>? startsAt,
     Value<int>? durationSeconds,
     Value<int>? intensity,
+    Value<int>? peakLevel,
     Value<String?>? filePath,
     Value<bool>? userExcluded,
     Value<bool>? isSaved,
@@ -1111,6 +1152,7 @@ class SleepEventRowsCompanion extends UpdateCompanion<SleepEventRow> {
       startsAt: startsAt ?? this.startsAt,
       durationSeconds: durationSeconds ?? this.durationSeconds,
       intensity: intensity ?? this.intensity,
+      peakLevel: peakLevel ?? this.peakLevel,
       filePath: filePath ?? this.filePath,
       userExcluded: userExcluded ?? this.userExcluded,
       isSaved: isSaved ?? this.isSaved,
@@ -1141,6 +1183,9 @@ class SleepEventRowsCompanion extends UpdateCompanion<SleepEventRow> {
     if (intensity.present) {
       map['intensity'] = Variable<int>(intensity.value);
     }
+    if (peakLevel.present) {
+      map['peak_level'] = Variable<int>(peakLevel.value);
+    }
     if (filePath.present) {
       map['file_path'] = Variable<String>(filePath.value);
     }
@@ -1165,6 +1210,7 @@ class SleepEventRowsCompanion extends UpdateCompanion<SleepEventRow> {
           ..write('startsAt: $startsAt, ')
           ..write('durationSeconds: $durationSeconds, ')
           ..write('intensity: $intensity, ')
+          ..write('peakLevel: $peakLevel, ')
           ..write('filePath: $filePath, ')
           ..write('userExcluded: $userExcluded, ')
           ..write('isSaved: $isSaved, ')
@@ -1593,6 +1639,7 @@ typedef $$SleepEventRowsTableCreateCompanionBuilder =
       required DateTime startsAt,
       required int durationSeconds,
       required int intensity,
+      Value<int> peakLevel,
       Value<String?> filePath,
       Value<bool> userExcluded,
       Value<bool> isSaved,
@@ -1606,6 +1653,7 @@ typedef $$SleepEventRowsTableUpdateCompanionBuilder =
       Value<DateTime> startsAt,
       Value<int> durationSeconds,
       Value<int> intensity,
+      Value<int> peakLevel,
       Value<String?> filePath,
       Value<bool> userExcluded,
       Value<bool> isSaved,
@@ -1672,6 +1720,11 @@ class $$SleepEventRowsTableFilterComposer
 
   ColumnFilters<int> get intensity => $composableBuilder(
     column: $table.intensity,
+    builder: (column) => ColumnFilters(column),
+  );
+
+  ColumnFilters<int> get peakLevel => $composableBuilder(
+    column: $table.peakLevel,
     builder: (column) => ColumnFilters(column),
   );
 
@@ -1753,6 +1806,11 @@ class $$SleepEventRowsTableOrderingComposer
     builder: (column) => ColumnOrderings(column),
   );
 
+  ColumnOrderings<int> get peakLevel => $composableBuilder(
+    column: $table.peakLevel,
+    builder: (column) => ColumnOrderings(column),
+  );
+
   ColumnOrderings<String> get filePath => $composableBuilder(
     column: $table.filePath,
     builder: (column) => ColumnOrderings(column),
@@ -1822,6 +1880,9 @@ class $$SleepEventRowsTableAnnotationComposer
 
   GeneratedColumn<int> get intensity =>
       $composableBuilder(column: $table.intensity, builder: (column) => column);
+
+  GeneratedColumn<int> get peakLevel =>
+      $composableBuilder(column: $table.peakLevel, builder: (column) => column);
 
   GeneratedColumn<String> get filePath =>
       $composableBuilder(column: $table.filePath, builder: (column) => column);
@@ -1897,6 +1958,7 @@ class $$SleepEventRowsTableTableManager
                 Value<DateTime> startsAt = const Value.absent(),
                 Value<int> durationSeconds = const Value.absent(),
                 Value<int> intensity = const Value.absent(),
+                Value<int> peakLevel = const Value.absent(),
                 Value<String?> filePath = const Value.absent(),
                 Value<bool> userExcluded = const Value.absent(),
                 Value<bool> isSaved = const Value.absent(),
@@ -1908,6 +1970,7 @@ class $$SleepEventRowsTableTableManager
                 startsAt: startsAt,
                 durationSeconds: durationSeconds,
                 intensity: intensity,
+                peakLevel: peakLevel,
                 filePath: filePath,
                 userExcluded: userExcluded,
                 isSaved: isSaved,
@@ -1921,6 +1984,7 @@ class $$SleepEventRowsTableTableManager
                 required DateTime startsAt,
                 required int durationSeconds,
                 required int intensity,
+                Value<int> peakLevel = const Value.absent(),
                 Value<String?> filePath = const Value.absent(),
                 Value<bool> userExcluded = const Value.absent(),
                 Value<bool> isSaved = const Value.absent(),
@@ -1932,6 +1996,7 @@ class $$SleepEventRowsTableTableManager
                 startsAt: startsAt,
                 durationSeconds: durationSeconds,
                 intensity: intensity,
+                peakLevel: peakLevel,
                 filePath: filePath,
                 userExcluded: userExcluded,
                 isSaved: isSaved,

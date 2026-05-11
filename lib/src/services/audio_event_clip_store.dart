@@ -115,12 +115,14 @@ class WavAudioEventClipStore implements AudioEventClipStore {
         'event_${sourceStem}_${index}_${kind.name}.wav',
       );
       await File(clipPath).writeAsBytes(clipBytes, flush: true);
+      final peakLevel = _peakLevelFromWavBytes(clipBytes);
       clippedEvents.add(
         AnalyzedSleepEvent(
           kind: kind,
           startsAt: event.startsAt,
           duration: clipDuration,
           intensity: event.intensity,
+          peakLevel: peakLevel,
           filePath: clipPath,
           source: event.source,
         ),
@@ -134,6 +136,52 @@ class WavAudioEventClipStore implements AudioEventClipStore {
       );
     }
     return clippedEvents;
+  }
+
+  /// Compute a 0-100 peak-loudness score from a saved 16-bit PCM mono WAV.
+  /// The WAV header is skipped by walking the RIFF chunks until the 'data'
+  /// chunk; the maximum absolute int16 sample is then mapped to a dBFS
+  /// score in [-60, 0] dBFS = [0, 100].
+  int _peakLevelFromWavBytes(Uint8List bytes) {
+    if (bytes.length < 44) return 0;
+    if (_ascii(bytes, 0, 4) != 'RIFF' || _ascii(bytes, 8, 4) != 'WAVE') {
+      return 0;
+    }
+    final view = ByteData.sublistView(bytes);
+    var offset = 12;
+    var dataStart = -1;
+    var dataLength = 0;
+    var bitsPerSample = 16;
+    while (offset + 8 <= bytes.length) {
+      final chunkId = _ascii(bytes, offset, 4);
+      final chunkSize = view.getUint32(offset + 4, Endian.little);
+      final body = offset + 8;
+      if (chunkId == 'fmt ' && body + 16 <= bytes.length) {
+        bitsPerSample = view.getUint16(body + 14, Endian.little);
+      } else if (chunkId == 'data') {
+        dataStart = body;
+        dataLength = chunkSize;
+        break;
+      }
+      offset = body + chunkSize + (chunkSize.isOdd ? 1 : 0);
+    }
+    if (dataStart < 0 || bitsPerSample != 16) return 0;
+    final end = math.min(bytes.length, dataStart + dataLength);
+    var peak = 0;
+    for (var i = dataStart; i + 1 < end; i += 2) {
+      final s = view.getInt16(i, Endian.little);
+      final a = s < 0 ? -s : s;
+      if (a > peak) peak = a;
+    }
+    if (peak == 0) return 0;
+    final dbfs = 20 * (math.log(peak / 32767.0) / math.ln10);
+    if (!dbfs.isFinite || dbfs <= -60) return 0;
+    if (dbfs >= 0) return 100;
+    return (((dbfs + 60) * 100) / 60).round().clamp(0, 100);
+  }
+
+  static String _ascii(Uint8List bytes, int offset, int length) {
+    return String.fromCharCodes(bytes.sublist(offset, offset + length));
   }
 
   Duration _minDuration(Duration a, Duration b) {

@@ -36,6 +36,7 @@ class SleepEvent {
     required this.startsAt,
     required this.duration,
     required this.intensity,
+    this.peakLevel = 0,
     this.filePath,
     this.isSaved = false,
   });
@@ -45,6 +46,9 @@ class SleepEvent {
   final DateTime startsAt;
   final Duration duration;
   final int intensity;
+  /// Peak audio loudness during the clip (0-100). Independent of [intensity]
+  /// which is the model's confidence in the classification.
+  final int peakLevel;
   final String? filePath;
   final bool isSaved;
 
